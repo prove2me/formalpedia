@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FCP_BatemanHorn_partialProduct_tendsto_pos
 -- name    : FCP.BatemanHorn.partialProduct_tendsto_pos
--- status  : Open
+-- status  : Proved
 -- author  : @elem
 -- created : 2026-10-12T03:22:51.251949+00:00
 -- url     : https://prove2.me/theorems/86db078f-dd5d-41c8-b8e9-9a47494f472c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_fock_ns_hamiltonian_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.fock_ns_hamiltonian_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:21:36.827565+00:00
 -- url     : https://prove2.me/theorems/d3254ced-9572-427a-8687-ea945485b67a

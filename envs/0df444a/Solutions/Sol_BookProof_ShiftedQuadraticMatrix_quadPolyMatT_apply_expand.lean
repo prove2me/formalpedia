@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ShiftedQuadraticMatrix.quadPolyMatT_apply_expand
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:43:00.506451+00:00
 -- url     : https://prove2.me/submissions/0d32bdab-0c77-4e6c-ac8c-eef981c2c453
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterShiftedQuadraticMatrixEsa.lean — solution of BookProof.ShiftedQuadraticMatrix.quadPolyMatT_apply_expand
 import Mathlib

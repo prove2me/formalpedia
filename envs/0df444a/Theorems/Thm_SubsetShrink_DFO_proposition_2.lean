@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_DFO_proposition_2
 -- name    : SubsetShrink.DFO.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:25.689381+00:00
 -- url     : https://prove2.me/theorems/a81bafaf-f9bb-48ea-a07d-91b2d98735e7

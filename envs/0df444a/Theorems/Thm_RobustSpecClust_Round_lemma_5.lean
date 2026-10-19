@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Round_lemma_5
 -- name    : RobustSpecClust.Round.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:24.737987+00:00
 -- url     : https://prove2.me/theorems/52a59ee9-60d5-4fd9-918f-b68e4b55e64a

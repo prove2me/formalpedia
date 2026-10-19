@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_Nonparametric_case1_revenue_ratio_A11
 -- name    : BesbesZeevi.Nonparametric.case1_revenue_ratio_A11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:50:59.754434+00:00
 -- url     : https://prove2.me/theorems/31a5c480-afd2-433d-8542-ef9bb9745471

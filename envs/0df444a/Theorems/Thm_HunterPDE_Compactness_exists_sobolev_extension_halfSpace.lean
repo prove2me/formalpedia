@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_exists_sobolev_extension_halfSpace
 -- name    : HunterPDE.Compactness.exists_sobolev_extension_halfSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-16T08:41:53.043216+00:00
 -- url     : https://prove2.me/theorems/4242a73e-f84b-4809-8896-e64983dbe8ab

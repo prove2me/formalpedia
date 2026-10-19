@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_Restart_theorem_10
 -- name    : NesterovODE.Restart.theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:41:28.567312+00:00
 -- url     : https://prove2.me/theorems/25b99a64-25ad-4eb6-88e2-962b783e3004

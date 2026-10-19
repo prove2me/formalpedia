@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_IsBandR_smul
 -- name    : BookProof.HermiteBandHigher.IsBandR.smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:04:04.388103+00:00
 -- url     : https://prove2.me/theorems/2c2c6cbb-d59b-477d-b92d-fe726e8fb145

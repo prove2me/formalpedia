@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_LocalityConstraint_not_isProbabilityMeasure_restrict_graphSet
 -- name    : BookProof.LocalityConstraint.not_isProbabilityMeasure_restrict_graphSet
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:33:12.083814+00:00
 -- url     : https://prove2.me/theorems/01329791-b2bd-4138-a044-6d579dec409c

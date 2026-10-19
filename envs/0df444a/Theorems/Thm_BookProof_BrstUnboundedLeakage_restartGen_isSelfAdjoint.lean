@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_restartGen_isSelfAdjoint
 -- name    : BookProof.BrstUnboundedLeakage.restartGen_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:20:33.707296+00:00
 -- url     : https://prove2.me/theorems/107e7c0b-5920-4434-a2b0-a33ff5f3013c

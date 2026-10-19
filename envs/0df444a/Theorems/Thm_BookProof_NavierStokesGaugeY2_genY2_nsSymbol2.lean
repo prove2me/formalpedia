@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesGaugeY2_genY2_nsSymbol2
 -- name    : BookProof.NavierStokesGaugeY2.genY2_nsSymbol2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:19:56.912437+00:00
 -- url     : https://prove2.me/theorems/de2297db-718c-4516-ba81-393372766825

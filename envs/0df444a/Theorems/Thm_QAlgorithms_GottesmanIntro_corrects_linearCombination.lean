@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanIntro_corrects_linearCombination
 -- name    : QAlgorithms.GottesmanIntro.corrects_linearCombination
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T18:04:09.918973+00:00
 -- url     : https://prove2.me/theorems/4bcef73c-d26d-4b4e-a8b8-975d40655eca

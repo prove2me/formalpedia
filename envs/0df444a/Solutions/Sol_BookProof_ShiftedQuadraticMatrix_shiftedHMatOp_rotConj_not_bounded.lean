@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ShiftedQuadraticMatrix.shiftedHMatOp_rotConj_not_bounded
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:44:49.26443+00:00
 -- url     : https://prove2.me/submissions/3ca534b4-ded8-40e6-8eee-0c837c18f4e6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterShiftedQuadraticMatrixEsa.lean — solution of BookProof.ShiftedQuadraticMatrix.shiftedHMatOp_rotConj_not_bounded
 import Mathlib

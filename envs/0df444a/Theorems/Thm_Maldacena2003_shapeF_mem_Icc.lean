@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_shapeF_mem_Icc
 -- name    : Maldacena2003.shapeF_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:53:29.111767+00:00
 -- url     : https://prove2.me/theorems/82dcc24d-1571-47b2-875e-94cb2a3b8acb

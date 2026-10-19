@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArtinCAT0_main
 -- name    : OAI.ArtinCAT0.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:21.320176+00:00
 -- url     : https://prove2.me/theorems/9409c476-0f91-4dae-ba05-d05fc0607e7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_Discrete_gradient_method_slqr_linear_rate
 -- name    : FatkhullinPolyak.Discrete.gradient_method_slqr_linear_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:42:36.103416+00:00
 -- url     : https://prove2.me/theorems/81ee943d-a1dc-4f7a-8813-8a2cfd12f9c6

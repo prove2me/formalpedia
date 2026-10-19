@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qg3DElliptic_hashimoto_selects
 -- name    : BookProof.QuantumGravity3DGauge.qg3DElliptic_hashimoto_selects
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:57:38.101361+00:00
 -- url     : https://prove2.me/theorems/57713d19-73c0-4975-8e0e-7653d267058b

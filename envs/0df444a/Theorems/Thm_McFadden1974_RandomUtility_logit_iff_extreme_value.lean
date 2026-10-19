@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McFadden1974_RandomUtility_logit_iff_extreme_value
 -- name    : McFadden1974.RandomUtility.logit_iff_extreme_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:44:35.949374+00:00
 -- url     : https://prove2.me/theorems/ac6e2d7e-7d91-4059-b8c3-72a5b1254ef7

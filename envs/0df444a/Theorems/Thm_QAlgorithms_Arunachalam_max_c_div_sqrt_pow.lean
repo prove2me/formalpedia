@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_max_c_div_sqrt_pow
 -- name    : QAlgorithms.Arunachalam.max_c_div_sqrt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:24.480331+00:00
 -- url     : https://prove2.me/theorems/aec45c5c-1b42-4d34-beb7-b77cf00bd54c

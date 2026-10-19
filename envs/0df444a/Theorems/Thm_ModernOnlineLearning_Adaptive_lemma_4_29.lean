@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Adaptive_lemma_4_29
 -- name    : ModernOnlineLearning.Adaptive.lemma_4_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:35:26.058216+00:00
 -- url     : https://prove2.me/theorems/8e7a6c6a-3b32-439a-97bb-83f94c70bd93

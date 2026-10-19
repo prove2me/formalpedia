@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxDivergence_klDiv_eq_crossEntropy_sub_shannonEntropy
 -- name    : BookProof.ChapterSoftmaxDivergence.klDiv_eq_crossEntropy_sub_shannonEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:09:32.913015+00:00
 -- url     : https://prove2.me/theorems/b805594f-d3cb-410a-8159-6b51e61ffbf4

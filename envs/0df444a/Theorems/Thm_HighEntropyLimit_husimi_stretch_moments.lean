@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_husimi_stretch_moments
 -- name    : HighEntropyLimit.husimi_stretch_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:59:54.544661+00:00
 -- url     : https://prove2.me/theorems/9202d617-b9ab-49bc-ac6d-cf84319e2910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_exponential_growth_benford
 -- name    : BenfordLaw.exponential_growth_benford
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:58.147342+00:00
 -- url     : https://prove2.me/theorems/7e8f31d0-0ab6-4c9b-ad4a-0e4868445b02

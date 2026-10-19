@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_Throughput_maximum_pressure_pathwise_stable
 -- name    : MaxPressure.Throughput.maximum_pressure_pathwise_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:03:16.156334+00:00
 -- url     : https://prove2.me/theorems/c565b65b-803c-4d83-84e3-9aedfdbed926

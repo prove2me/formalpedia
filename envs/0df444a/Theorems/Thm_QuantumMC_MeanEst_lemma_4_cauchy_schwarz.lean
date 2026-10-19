@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_lemma_4_cauchy_schwarz
 -- name    : QuantumMC.MeanEst.lemma_4_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:57.352474+00:00
 -- url     : https://prove2.me/theorems/bb294927-9156-44b8-9df1-27b47b3dcc56

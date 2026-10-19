@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterFiniteBayesHierarchy_nestedMarginal_eq_terminalMarginal
 -- name    : BookProof.ChapterFiniteBayesHierarchy.nestedMarginal_eq_terminalMarginal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:20:53.877983+00:00
 -- url     : https://prove2.me/theorems/2c948202-4965-43e1-ac6c-33d721ccfec0

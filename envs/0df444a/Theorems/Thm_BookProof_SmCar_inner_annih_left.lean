@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_inner_annih_left
 -- name    : BookProof.SmCar.inner_annih_left
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:27:28.012058+00:00
 -- url     : https://prove2.me/theorems/624eb26b-d64c-43ec-a007-7a6d66a4b188

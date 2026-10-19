@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_quadTermT_apply
 -- name    : BookProof.ShiftedQuadraticMatrix.quadTermT_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:59:57.534111+00:00
 -- url     : https://prove2.me/theorems/56be4d59-ef52-42c2-a13d-de1f0b003e79

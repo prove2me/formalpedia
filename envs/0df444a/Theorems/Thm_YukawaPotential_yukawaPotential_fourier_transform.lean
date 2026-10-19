@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawaPotential_fourier_transform
 -- name    : YukawaPotential.yukawaPotential_fourier_transform
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-03T13:59:15.129755+00:00
 -- url     : https://prove2.me/theorems/0d3b2986-d38e-419a-8b8c-4fba5ed1c3e8

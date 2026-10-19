@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop5_superposition_coefficients_not_unique
 -- name    : UnphysicalHilbert.prop5_superposition_coefficients_not_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:03:35.852911+00:00
 -- url     : https://prove2.me/theorems/a263f752-e039-486a-a5a9-91fc4ab9237f

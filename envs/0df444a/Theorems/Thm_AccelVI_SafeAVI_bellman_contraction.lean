@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_SafeAVI_bellman_contraction
 -- name    : AccelVI.SafeAVI.bellman_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:10.201559+00:00
 -- url     : https://prove2.me/theorems/97b034dd-0867-4dc4-a515-5fab02a0a14a

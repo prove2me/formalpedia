@@ -1,0 +1,55 @@
+-- Prove2me | Definitions.Def_OAI_InformationTheory_BooleanNoise_MediumCurvature__SoftChannel204
+-- name    : OAI_InformationTheory_BooleanNoise_MediumCurvature__SoftChannel204
+-- status  : Definition
+-- author  : @Shuze Chen
+-- created : 2026-10-18T13:59:12.335375+00:00
+-- url     : https://prove2.me/theorems/3c66f356-98ee-43be-a91a-55af206f3b9b
+-- title:
+--   Coefficients of the curvature numerator series
+-- statement:
+--   These notions belong to a formal proof of sharp information inequalities for soft channels on the Boolean cube. For $g:\{0,1\}^n\to[-1,1]$ let $h(v)=\log2-\psi(v)$, where $\psi(v)=\frac{1+v}2\log(1+v)+\frac{1-v}2\log(1-v)$, so $h(v)$ is the entropy in nats of a random sign with mean $v$. The information of $g$ is $I(g)=h(\mathbb Eg)-\mathbb Eh(g)$, and $T_\rho$ is the noise operator with correlation $\rho$. The main results are the soft contraction $I(T_\rho g)\le\psi(|\rho|\,\psi^{-1}(I(g)))$ and its attainment by scaled dictators. Further results identify $I(T_\rho g)$ with a mutual information and give the Courtade–Kumar bound of $1-H(\varepsilon)$ bits for Boolean functions. The last is the sharp production inequality $r(I(g))\le\mathcal D(g)$, where $\mathcal D(g)=\sum_i\mathbb E[\operatorname{artanh}(g)\,\partial_ig]$ and $r(s)=\psi^{-1}(s)\operatorname{artanh}\psi^{-1}(s)$.
+--
+--   For $k\in\mathbb{N}$ define
+--   $$
+--   a_k=\frac1{2k+1}+\frac1{2k+3}.
+--   $$
+--
+--   These are the coefficients of the series expansion of the numerator of the second derivative of $r$ in the medium range of correlations. They are used to compare the curvature with explicit polynomials.
+-- source:
+--   https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/lean/OAI/InformationTheory/BooleanNoise/MediumCurvature.lean
+
+-- Generated from openai/math@1581d4c lean/OAI/InformationTheory/BooleanNoise/MediumCurvature.lean by skeleton subtraction
+-- (upload_full_project.md Phase 3): Definitions bundle for the SoftChannel204 mission closure.
+-- Kept: reachable definitions/instances and the theorems their bodies or the node statements cite.
+-- Project imports rewritten to platform modules; otherwise byte-identical to the source.
+import Mathlib
+import Definitions.Def_SoftChannel204
+import Definitions.Def_OAI_Combinatorics_GotsmanLinial_Model
+import Definitions.Def_OAI_Combinatorics_GotsmanLinial_Statement
+import Definitions.Def_OAI_InformationTheory_BooleanNoise_Model
+import Definitions.Def_OAI_InformationTheory_BooleanNoise_Basic__SoftChannel204
+import Definitions.Def_OAI_InformationTheory_BooleanNoise_EntropyScalars__SoftChannel204
+import Definitions.Def_OAI_InformationTheory_BooleanNoise_CurvatureCertificates__SoftChannel204
+import Definitions.Def_OAI_InformationTheory_BooleanNoise_InverseScalars__SoftChannel204
+import Definitions.Def_OAI_InformationTheory_BooleanNoise_EntropySeries__SoftChannel204
+import Definitions.Def_OAI_InformationTheory_BooleanNoise_EntropyBounds__SoftChannel204
+
+namespace OAI
+
+noncomputable section
+
+open Finset Set
+open scoped BigOperators
+
+namespace LeanBlast.CourtadeKumar
+
+def curvatureNumeratorCoeff (k : ℕ) : ℝ :=
+  1 / (2 * (k : ℝ) + 1) + 1 / (2 * (k : ℝ) + 3)
+
+end LeanBlast.CourtadeKumar
+
+end
+
+end OAI
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_LowerBound_jensen_step
 -- name    : FastCLO.LowerBound.jensen_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:20:38.045648+00:00
 -- url     : https://prove2.me/theorems/2daae76f-277e-4a42-bbe1-2d1354463381

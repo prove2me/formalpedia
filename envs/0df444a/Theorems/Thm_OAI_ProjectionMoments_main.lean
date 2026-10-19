@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ProjectionMoments_main
 -- name    : OAI.ProjectionMoments.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:12.048132+00:00
 -- url     : https://prove2.me/theorems/34bbeca3-9b37-46ef-a525-7e31a1320e03

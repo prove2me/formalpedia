@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CPTSeparation_main
 -- name    : OAI.CPTSeparation.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:25.832071+00:00
 -- url     : https://prove2.me/theorems/9c2089af-9d48-4714-a7ef-06fc23d1c1c5

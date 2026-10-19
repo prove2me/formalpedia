@@ -21,7 +21,7 @@
 --
 --   Both constants are uniform over the family. This is a reusable analytic interface for fifth-root extraction and absorption of the fixed deficiency offset.
 -- source:
---   Elementary analytic endgame for the one-fifth bound, Sections 2 and 16.3 of https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/results/esgk-n15-authoritative-consolidated-proof-audit-corrected-v2-2026-08-25.md
+--   Consolidated argument for a fifth-root additive bound (dated 2026-08-25; revision 2026-09-13; Git revision 8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5; file SHA-256 af6ee6023fe1ff3730b492ea3756d240818df46a877abe3b7ac1153fc7c0245c); Sections 2 and 16.3.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_isNoetherianScheme_iff_isLocallyNoetherianScheme_and_compactSpace
 -- name    : NoetherianScheme.isNoetherianScheme_iff_isLocallyNoetherianScheme_and_compactSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:32:36.709995+00:00
 -- url     : https://prove2.me/theorems/5b0746a3-7631-46d3-9b4c-8292567f70e7

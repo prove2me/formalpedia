@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.AffineFiber.affH_not_bounded
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:05:43.2859+00:00
 -- url     : https://prove2.me/submissions/bae863e3-72c5-4ac9-80aa-07733ff93518
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesAffineFiberEsa.lean — solution of BookProof.NavierStokesFlow.AffineFiber.affH_not_bounded
 import Mathlib

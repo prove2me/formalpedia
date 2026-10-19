@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BoundedTreewidthL1_main_theorem
 -- name    : OAI.BoundedTreewidthL1.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:24.311457+00:00
 -- url     : https://prove2.me/theorems/7b79ac86-89b5-42d0-ae09-4b65c621e77b

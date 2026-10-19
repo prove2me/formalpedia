@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_dGamma_inner_eq_integral
 -- name    : BookProof.NavierStokesFlow.FockOfFock.dGamma_inner_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:10:59.660425+00:00
 -- url     : https://prove2.me/theorems/23b2c217-42d3-4e16-8dbc-fd15e0fc64dc

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSolidHarmonic.solidHarmonicIm_harmonic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:47:13.414987+00:00
 -- url     : https://prove2.me/submissions/0166f93e-78c9-4b3a-a0dc-9c4d5dd11194
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSolidHarmonic.lean — solution of BookProof.ChapterSolidHarmonic.solidHarmonicIm_harmonic
 import Mathlib

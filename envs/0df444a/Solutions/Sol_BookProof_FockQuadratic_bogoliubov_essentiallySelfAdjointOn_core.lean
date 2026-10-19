@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FockQuadratic.bogoliubov_essentiallySelfAdjointOn_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-13T05:05:14.620974+00:00
 -- url     : https://prove2.me/submissions/2583606d-d05b-4e67-a630-9b5542605a7b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFockQuadraticEsa.lean — solution of BookProof.FockQuadratic.bogoliubov_essentiallySelfAdjointOn_core
 import Mathlib

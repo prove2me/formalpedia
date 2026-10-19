@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_blockEncoding_linearCombination
 -- name    : QAlgorithms.Nannicini.blockEncoding_linearCombination
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:13.44286+00:00
 -- url     : https://prove2.me/theorems/87c06d52-6e2b-4614-a13b-4b13bfe67290

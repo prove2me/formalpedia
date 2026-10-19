@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_amplitudeEstimation_complexity
 -- name    : QAlgorithms.Nannicini.amplitudeEstimation_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:21.033832+00:00
 -- url     : https://prove2.me/theorems/2b59680e-1f43-4f6f-91dd-61381cdce892

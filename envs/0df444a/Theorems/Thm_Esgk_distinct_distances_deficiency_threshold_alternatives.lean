@@ -23,7 +23,7 @@
 --
 --   The same $T,C,N$ work for every qualifying configuration. These are the exact circle, nonabsolute, small-deficiency, threshold-failure, and threshold-success branches of the distance--Newton bootstrap.
 -- source:
---   n^(1/5) distance--Newton argument, Sections 2 and 15--16, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/results/esgk-n15-authoritative-consolidated-proof-audit-corrected-v2-2026-08-25.md
+--   Consolidated argument for a fifth-root additive bound (dated 2026-08-25; revision 2026-09-13; Git revision 8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5; file SHA-256 af6ee6023fe1ff3730b492ea3756d240818df46a877abe3b7ac1153fc7c0245c); Sections 2 and 15--16.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

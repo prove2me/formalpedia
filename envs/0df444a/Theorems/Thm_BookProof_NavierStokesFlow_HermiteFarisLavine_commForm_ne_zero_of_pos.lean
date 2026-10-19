@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_HermiteFarisLavine_commForm_ne_zero_of_pos
 -- name    : BookProof.NavierStokesFlow.HermiteFarisLavine.commForm_ne_zero_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:28:47.659533+00:00
 -- url     : https://prove2.me/theorems/68adb696-bfff-4f4b-8f29-4e058b4e51d9

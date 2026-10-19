@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurTransfer_order13_actual_abel_jacobi_line_bundle_fibres
 -- name    : MazurTransfer.order13_actual_abel_jacobi_line_bundle_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-09T22:41:43.845841+00:00
 -- url     : https://prove2.me/theorems/b4c19835-94ad-4a61-871c-969266012508

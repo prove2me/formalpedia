@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangKangXue_SpectralTuran_theorem_1_2
 -- name    : WangKangXue.SpectralTuran.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:30:10.155257+00:00
 -- url     : https://prove2.me/theorems/8aa4448d-1f28-4469-88fa-c9ff8427a3b8

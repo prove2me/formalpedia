@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_isMomentSequence_of_hankelPosDef
 -- name    : HamburgerMoment.isMomentSequence_of_hankelPosDef
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:01:32.722304+00:00
 -- url     : https://prove2.me/theorems/d2fda246-a9b6-4943-9d6b-629258264994

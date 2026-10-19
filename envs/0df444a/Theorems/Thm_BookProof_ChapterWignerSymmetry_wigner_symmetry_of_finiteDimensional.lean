@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_wigner_symmetry_of_finiteDimensional
 -- name    : BookProof.ChapterWignerSymmetry.wigner_symmetry_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:19:19.867182+00:00
 -- url     : https://prove2.me/theorems/89503ee9-7381-4c42-9a2c-03c590d2ac70

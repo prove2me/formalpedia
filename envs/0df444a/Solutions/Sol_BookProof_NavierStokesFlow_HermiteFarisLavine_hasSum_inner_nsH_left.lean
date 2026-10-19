@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.HermiteFarisLavine.hasSum_inner_nsH_left
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:03:37.816654+00:00
 -- url     : https://prove2.me/submissions/436ac4f1-9a12-4560-874f-f05fc627b94b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesHermiteFarisLavine.lean — solution of BookProof.NavierStokesFlow.HermiteFarisLavine.hasSum_inner_nsH_left
 import Mathlib

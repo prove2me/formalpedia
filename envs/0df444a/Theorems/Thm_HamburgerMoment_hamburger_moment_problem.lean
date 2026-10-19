@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_hamburger_moment_problem
 -- name    : HamburgerMoment.hamburger_moment_problem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:56:20.642178+00:00
 -- url     : https://prove2.me/theorems/f0b210eb-b01c-4a47-a288-e0c4211f3fbf

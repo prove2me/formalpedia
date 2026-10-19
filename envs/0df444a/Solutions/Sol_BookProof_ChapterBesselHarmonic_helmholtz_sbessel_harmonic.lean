@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterBesselHarmonic.helmholtz_sbessel_harmonic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T15:27:36.855472+00:00
 -- url     : https://prove2.me/submissions/2bd540e6-5c57-48de-89cf-017500822b91
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBesselHarmonic.lean — solution of BookProof.ChapterBesselHarmonic.helmholtz_sbessel_harmonic
 import Mathlib

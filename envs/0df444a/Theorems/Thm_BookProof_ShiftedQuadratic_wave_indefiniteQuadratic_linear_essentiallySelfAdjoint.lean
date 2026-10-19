@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_wave_indefiniteQuadratic_linear_essentiallySelfAdjoint
 -- name    : BookProof.ShiftedQuadratic.wave_indefiniteQuadratic_linear_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:44:48.351979+00:00
 -- url     : https://prove2.me/theorems/c36c9b42-fc78-428d-9796-196afb5d13cc

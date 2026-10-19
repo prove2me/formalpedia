@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_leadingDigit_eq_iff_fract_logb
 -- name    : BenfordLaw.leadingDigit_eq_iff_fract_logb
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:02.820926+00:00
 -- url     : https://prove2.me/theorems/06c769f3-3f0f-40c5-85df-8ceb45fd3612

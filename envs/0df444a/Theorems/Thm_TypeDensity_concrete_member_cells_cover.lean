@@ -1,0 +1,98 @@
+-- Prove2me | Theorems.Thm_TypeDensity_concrete_member_cells_cover
+-- name    : TypeDensity.concrete_member_cells_cover
+-- status  : Proved
+-- author  : @asving
+-- created : 2026-10-16T14:32:47.830985+00:00
+-- url     : https://prove2.me/theorems/c6dcca3f-3d4b-4906-8c19-c98b37160654
+-- title:
+--   The cells of a concrete member cover its state set.
+-- statement:
+--   The cells of a concrete member cover its state set.
+-- source:
+--   TypeDensity/Recursion/RootCellLaw.lean#L1071-L1123
+
+import Definitions.Def_TypeDensity_Basic
+import Definitions.Def_TypeDensity_Blowup_Directions
+import Definitions.Def_TypeDensity_Measure_AdicCylinders
+import Definitions.Def_TypeDensity_Formula_LawAlgebra
+import Definitions.Def_TypeDensity_Measure_HenselProducts
+import Definitions.Def_TypeDensity_Surfaces_Lengths
+import Definitions.Def_TypeDensity_Surfaces_PowerSeries
+import Definitions.Def_TypeDensity_Formula_FiniteFieldCounts
+import Definitions.Def_TypeDensity_Formula_StateCombinatorics
+import Definitions.Def_TypeDensity_Formula_PatternCounts
+import Definitions.Def_TypeDensity_Unramified_Extension
+import Definitions.Def_TypeDensity_Blowup_Charts
+import Definitions.Def_TypeDensity_Algebra_AlgebraType
+import Definitions.Def_TypeDensity_Measure_PrimitiveLocus
+import Definitions.Def_TypeDensity_Algebra_FactorInvariant
+import Definitions.Def_TypeDensity_Surfaces_TruncatedSeries
+import Definitions.Def_TypeDensity_Blowup_TwoChartCurveData
+import Definitions.Def_TypeDensity_Surfaces_ConcreteAtlas
+import Definitions.Def_TypeDensity_Recursion_Members
+import Definitions.Def_TypeDensity_Measure_MemberCharts
+import Definitions.Def_TypeDensity_Recursion_Termination
+import Definitions.Def_TypeDensity_Recursion_OrderDefect
+import Definitions.Def_TypeDensity_Assembly_NullBridges
+import Definitions.Def_TypeDensity_Assembly_TypeEvents
+import Definitions.Def_TypeDensity_Assembly_MonicCells
+import Definitions.Def_TypeDensity_Blowup_DivisorPoints
+import Definitions.Def_TypeDensity_Measure_MemberBoxes
+import Definitions.Def_TypeDensity_Recursion_ChildMembers
+import Definitions.Def_TypeDensity_Recursion_RootCellLaw
+import Theorems.Thm_TypeDensity_boundary_contact_of_twisted_generator
+import Theorems.Thm_TypeDensity_surface_state_generator_mem_maximal
+import Theorems.Thm_TypeDensity_quotient_ring_length_intrinsic
+import Theorems.Thm_TypeDensity_boundary_contact_length_ne_zero_iff
+import Theorems.Thm_TypeDensity_allowed_pattern_of_divisor
+import Theorems.Thm_TypeDensity_has_multiplicity_initial_form
+import Theorems.Thm_TypeDensity_homogeneous_divisor_of_polynomial
+import Theorems.Thm_TypeDensity_homogeneous_divisor_boundary_multiplicities
+import Theorems.Thm_TypeDensity_initial_form_has_tangent_divisor
+import Theorems.Thm_TypeDensity_concrete_surface_quotient_T_equiv
+import Theorems.Thm_TypeDensity_iInf_sup_pow_eq_of_isLocalRing
+import Theorems.Thm_TypeDensity_powerSeries_quotient_length_eq_order
+import Theorems.Thm_TypeDensity_concrete_surface_regular_pair_tx
+import Theorems.Thm_TypeDensity_concrete_surface_regular_pair_xt
+import Mathlib.FieldTheory.RatFunc.Basic
+import Mathlib.MeasureTheory.Measure.Haar.Unique
+import Mathlib.NumberTheory.ArithmeticFunction.Moebius
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.IntegralClosure.IntegralRestrict
+import Mathlib.RingTheory.MvPowerSeries.Basic
+import Mathlib.RingTheory.RamificationInertia.Basic
+import Mathlib.Topology.Algebra.Nonarchimedean.AdicTopology
+import Mathlib.Topology.Algebra.MvPolynomial
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.RingTheory.AdicCompletion.Algebra
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Algebra.Group.Pi.Units
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Polynomial.Resultant.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.FieldTheory.Finite.Extension
+import Mathlib.RingTheory.AdicCompletion.Noetherian
+import Mathlib.RingTheory.MvPowerSeries.Equiv
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.FieldTheory.RatFunc.AsPolynomial
+import Mathlib.RingTheory.AdicCompletion.Completeness
+import Mathlib.Algebra.GroupWithZero.Submonoid.CancelMulZero
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.Algebra.Azumaya.Basic
+import Mathlib.RingTheory.AdicCompletion.RingHom
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.AdicCompletion.LocalRing
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
+import Mathlib.Algebra.Group.NatPowAssoc
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.LinearAlgebra.Dimension.Torsion.Finite
+set_option autoImplicit false
+
+open TypeDensity
+open scoped BigOperators ENNReal
+
+theorem TypeDensity.concrete_member_cells_cover (m : ConcreteMember) :
+    m.toMeasured.stateSet = ⋃ c : m.toMeasured.cellIndex, m.toMeasured.cell c := by sorry

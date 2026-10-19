@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_register_size_bound
 -- name    : ShorWiki.register_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T03:07:59.88175+00:00
 -- url     : https://prove2.me/theorems/2348d404-e6c2-4daa-ad33-a29a93176e36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_lagrangianFock_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FockOfFock.lagrangianFock_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:56.833657+00:00
 -- url     : https://prove2.me/theorems/63bcb6ab-90b9-4853-97bd-e5702b58e238

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSpectralEnergyBound_norm_deriv_evolve_le
 -- name    : BookProof.ChapterSpectralEnergyBound.norm_deriv_evolve_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:57:16.835446+00:00
 -- url     : https://prove2.me/theorems/30b9a5c3-a334-4ac1-a80c-ea3fb8e68a1c

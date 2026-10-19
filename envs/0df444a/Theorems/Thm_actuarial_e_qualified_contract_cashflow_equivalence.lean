@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_actuarial_e_qualified_contract_cashflow_equivalence
+-- name    : actuarial_e_qualified_contract_cashflow_equivalence
+-- status  : Proved
+-- author  : @WillR
+-- created : 2026-10-18T20:02:51.166376+00:00
+-- url     : https://prove2.me/theorems/462cc186-2ede-4250-9e1d-358d92f53442
+-- title:
+--   Event and dated valuation with genuine qualifying-spouse probability
+-- statement:
+--   Event and dated valuation with genuine qualifying-spouse probability. Proves the single dependent-qualification event is carried through finite mortality and cashflow sum interchange. All event-year endpoints follow the contract's strict and weak inequalities. Rates and cash amounts are parameterised; this remains an open formal theorem.
+--
+--   The contractual and mortality relation is:
+--
+--   $$
+--   V_{\text{event}}(q,\eta)=V_{\text{dated}}(q,\eta)
+--   $$
+--
+--   This is an open theorem statement; no formal proof is claimed. Amounts are per instalment or in pounds as appropriate; probabilities are dimensionless and discounts are to valuation.
+-- source:
+--   Originally derived finite-grid pension contract statement, based on the actuarial context in Chapter 11, p. 423, of Dickson, Hardy and Waters (2020), Actuarial Mathematics for Life Contingent Risks, 3rd ed, Chapters 8–11. https://doi.org/10.1017/9781108784184 Specific benefit switches and endpoint rules are explicit new scheme assumptions, not verbatim textbook results.
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Definitions.Def_actuarial_d_onlyY
+import Definitions.Def_actuarial_d_mass
+import Definitions.Def_actuarial_d_valid
+import Definitions.Def_actuarial_d_expect
+import Definitions.Def_actuarial_d_alive
+import Definitions.Def_actuarial_e_qualifiedContractEPV
+import Definitions.Def_actuarial_e_qualifiedCashflowEPV
+
+open ActuarialDeathE
+
+theorem actuarial_e_qualified_contract_cashflow_equivalence (h n e r g : ℕ) (p : ℕ → ℕ → ℝ) (q disc service defer retire base a b c increase : ℕ → ℝ) (replace : Bool) : qualifiedContractEPV h n e r g p q disc service defer retire base a b c increase replace = qualifiedCashflowEPV h n e r g p q disc service defer retire base a b c increase replace := by sorry

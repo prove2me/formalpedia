@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TamedEuler_Convergence_lemma_3_2
 -- name    : TamedEuler.Convergence.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:24:13.234154+00:00
 -- url     : https://prove2.me/theorems/2331ac1a-66e8-473a-bd1b-d2af6d02ee64

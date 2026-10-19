@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AMPUniversality_Universal_eq_4_15
 -- name    : AMPUniversality.Universal.eq_4_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:30:41.646888+00:00
 -- url     : https://prove2.me/theorems/35963df6-612e-4b51-b8ed-dad3dbe29c03

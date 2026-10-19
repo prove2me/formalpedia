@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_bose_integral_vacuum_density
 -- name    : CarneiroDeSitter.bose_integral_vacuum_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T02:09:07.946097+00:00
 -- url     : https://prove2.me/theorems/511ece3c-2b99-43ca-834e-761914c88cc8

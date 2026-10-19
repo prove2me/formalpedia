@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_laplacian_angular_mul_sum
 -- name    : BookProof.ChapterSolidHarmonic.laplacian_angular_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:57:31.455443+00:00
 -- url     : https://prove2.me/theorems/dba88e1c-7c31-4fc4-9f66-5fbd7f23c053

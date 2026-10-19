@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_inflaton_hubble_solution_eq23
 -- name    : CarneiroParticleCreation.inflaton_hubble_solution_eq23
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:32:21.615082+00:00
 -- url     : https://prove2.me/theorems/4e0136ef-7307-4c2d-aa5e-33e5772b055e

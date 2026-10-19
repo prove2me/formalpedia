@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ReflexiveFixedPoints_exists_fixedPoint_of_canonicallyReflexive
 -- name    : OAI.ReflexiveFixedPoints.exists_fixedPoint_of_canonicallyReflexive
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:15.175984+00:00
 -- url     : https://prove2.me/theorems/378c1973-ae37-44ee-bb2e-b5c60a0a74e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_heatKernel_integral_eq_one
 -- name    : FickDiffusion.heatKernel_integral_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:30.168166+00:00
 -- url     : https://prove2.me/theorems/6831cdd1-2331-4518-970d-9a7d8d9883c5

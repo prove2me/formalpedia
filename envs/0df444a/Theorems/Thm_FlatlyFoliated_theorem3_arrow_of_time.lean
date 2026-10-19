@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_theorem3_arrow_of_time
 -- name    : FlatlyFoliated.theorem3_arrow_of_time
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:40:24.667327+00:00
 -- url     : https://prove2.me/theorems/30d9c842-8ec9-4575-a1ef-d0507b4852b5

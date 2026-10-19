@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_hubble_ode_quartic_vacuum
 -- name    : CarneiroParticleCreation.hubble_ode_quartic_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:29:22.899061+00:00
 -- url     : https://prove2.me/theorems/a4c12465-b523-492d-aa3f-6c48a34432bc

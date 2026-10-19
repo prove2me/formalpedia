@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Salad_eq_5
 -- name    : EngagementOpt.Salad.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:46.861693+00:00
 -- url     : https://prove2.me/theorems/0a50bf98-051f-476b-bdc3-06e902dbd00c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.HermiteFarisLavine.commForm_testState
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:39:23.204305+00:00
 -- url     : https://prove2.me/submissions/91acbb50-341c-4475-88cc-e35e415a1a1e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesHermiteFarisLavine.lean — solution of BookProof.NavierStokesFlow.HermiteFarisLavine.commForm_testState
 import Mathlib

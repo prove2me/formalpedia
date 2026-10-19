@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmGaugeConnection.diracGaugeField_symmetric
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:11:10.402616+00:00
 -- url     : https://prove2.me/submissions/0617d9fe-ea9f-412b-847d-2f514e6f19bc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmGaugeConnection.lean — solution of BookProof.SmGaugeConnection.diracGaugeField_symmetric
 import Mathlib

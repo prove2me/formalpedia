@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_diagOp_normSq
 -- name    : BookProof.SmDiracYukawa.diagOp_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:15:13.731402+00:00
 -- url     : https://prove2.me/theorems/220daee6-bda5-4268-9cf1-6e24b270334c

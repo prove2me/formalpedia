@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmDiracYukawa.sm_fermi_N_norm_ge
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:07:05.166201+00:00
 -- url     : https://prove2.me/submissions/49a19ebc-5ab6-42c0-afe0-47c02a8323f7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmDiracYukawa.lean — solution of BookProof.SmDiracYukawa.sm_fermi_N_norm_ge
 import Mathlib

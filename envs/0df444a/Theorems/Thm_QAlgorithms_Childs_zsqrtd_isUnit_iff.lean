@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_zsqrtd_isUnit_iff
 -- name    : QAlgorithms.Childs.zsqrtd_isUnit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:31:50.529414+00:00
 -- url     : https://prove2.me/theorems/c4572864-1091-473a-b976-96a2950169cb

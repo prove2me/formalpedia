@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_zero_mortality
 -- name    : actuarial_c_zero_mortality
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:23:22.088439+00:00
 -- url     : https://prove2.me/theorems/f448bf34-ef10-4262-a20b-bbc80bb4e6c6

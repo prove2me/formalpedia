@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for OAI.CirculantHadamard.BinaryLocalRing.toFraction_injective
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-19T10:07:03.453095+00:00
+-- url     : https://prove2.me/submissions/391492f5-a1eb-4ab5-b74c-65d23730c7f7
+
+import Mathlib
+import Definitions.Def_CirculantHadamard
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_Basic
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_Witnesses
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_MatrixBridge
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicRing
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicNorm
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicProjection
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_LocalDVR
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_OrderHalving
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_PrimeComponents
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing
+
+open OAI OAI.CirculantHadamard OAI.CirculantHadamard.BinaryLocalRing
+open CyclotomicRings
+theorem solution (u : ℕ) : Function.Injective (toFraction u) := by
+  intro a b h
+  refine (IsLocalization.lift_injective_iff _).2 (fun a b => ?_) h
+  exact ⟨fun h => congr_arg _ (IsLocalization.injective _ (twoIdeal u).primeCompl_le_nonZeroDivisors h),
+    fun h => congr_arg _ (IsFractionRing.injective (B u) (FractionRing (B u)) h)⟩

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.MomentumEsa.nsFockComparison_ikebeKato
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:53:47.299114+00:00
 -- url     : https://prove2.me/submissions/f9417eb2-ad36-4b3f-bfd7-d8b5f01b6045
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesMomentumEsa.lean — solution of BookProof.NavierStokesFlow.MomentumEsa.nsFockComparison_ikebeKato
 import Mathlib

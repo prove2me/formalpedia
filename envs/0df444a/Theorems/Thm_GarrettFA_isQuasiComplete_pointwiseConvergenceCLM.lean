@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isQuasiComplete_pointwiseConvergenceCLM
 -- name    : GarrettFA.isQuasiComplete_pointwiseConvergenceCLM
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:43:35.950334+00:00
 -- url     : https://prove2.me/theorems/25f84e7a-08d5-4b22-af1f-a92a02a56a26

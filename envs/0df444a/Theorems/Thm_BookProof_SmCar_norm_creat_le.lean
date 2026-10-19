@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_norm_creat_le
 -- name    : BookProof.SmCar.norm_creat_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:00:47.901034+00:00
 -- url     : https://prove2.me/theorems/d2fb2be2-b49c-4f74-9ae2-087dda24ae2e

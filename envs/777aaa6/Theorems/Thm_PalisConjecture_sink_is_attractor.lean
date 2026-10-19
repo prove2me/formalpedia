@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_sink_is_attractor
 -- name    : PalisConjecture.sink_is_attractor
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T03:16:04.149512+00:00
 -- url     : https://prove2.me/theorems/6b006391-2bed-4413-9df4-9aacf3578593

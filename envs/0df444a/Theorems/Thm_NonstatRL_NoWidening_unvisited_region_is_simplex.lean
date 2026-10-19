@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_NoWidening_unvisited_region_is_simplex
 -- name    : NonstatRL.NoWidening.unvisited_region_is_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:50.808027+00:00
 -- url     : https://prove2.me/theorems/dbdbcd86-9a6e-4fe0-833e-341bf19b1bf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_codewordState_identification_lower_bound
 -- name    : QAlgorithms.Arunachalam.codewordState_identification_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:56:47.955921+00:00
 -- url     : https://prove2.me/theorems/ab2e3733-e65b-40c5-a446-ffff55e1e111

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_rotPoly_mulXPoly
 -- name    : BookProof.QuadraticRotation.rotPoly_mulXPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:02:09.423416+00:00
 -- url     : https://prove2.me/theorems/5bcb5499-29b4-4ce2-b0ec-19efae6eb224

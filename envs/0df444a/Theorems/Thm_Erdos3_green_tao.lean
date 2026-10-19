@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos3_green_tao
 -- name    : Erdos3.green_tao
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:19:23.392002+00:00
 -- url     : https://prove2.me/theorems/c606fccb-83b1-480a-ac0b-a68f3a284582

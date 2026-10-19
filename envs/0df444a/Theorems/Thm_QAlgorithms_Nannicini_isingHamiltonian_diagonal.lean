@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_isingHamiltonian_diagonal
 -- name    : QAlgorithms.Nannicini.isingHamiltonian_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:35.298599+00:00
 -- url     : https://prove2.me/theorems/785b3680-b59b-4f12-8acc-205f17a64788

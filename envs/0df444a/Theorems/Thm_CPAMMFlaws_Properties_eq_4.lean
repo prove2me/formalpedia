@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPAMMFlaws_Properties_eq_4
 -- name    : CPAMMFlaws.Properties.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:27:38.934473+00:00
 -- url     : https://prove2.me/theorems/e4373946-a378-47ec-8162-de0ea6911975

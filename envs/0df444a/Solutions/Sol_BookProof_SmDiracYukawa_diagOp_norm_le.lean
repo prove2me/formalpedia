@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmDiracYukawa.diagOp_norm_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:06:51.521436+00:00
 -- url     : https://prove2.me/submissions/c2594bf0-e7ea-4851-9834-5b5c9af7488d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmDiracYukawa.lean — solution of BookProof.SmDiracYukawa.diagOp_norm_le
 import Mathlib

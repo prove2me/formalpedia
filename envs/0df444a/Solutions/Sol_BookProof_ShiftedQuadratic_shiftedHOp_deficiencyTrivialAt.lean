@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ShiftedQuadratic.shiftedHOp_deficiencyTrivialAt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:41:13.879063+00:00
 -- url     : https://prove2.me/submissions/1cc00f92-33ad-4007-bf42-c9416ac13be6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterShiftedQuadraticEsa.lean — solution of BookProof.ShiftedQuadratic.shiftedHOp_deficiencyTrivialAt
 import Mathlib

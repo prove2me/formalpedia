@@ -1,0 +1,92 @@
+-- Prove2me | Theorems.Thm_TypeDensity_irreducible_cell_type_event
+-- name    : TypeDensity.irreducible_cell_type_event
+-- status  : Proved
+-- author  : @asving
+-- created : 2026-10-16T16:49:06.609586+00:00
+-- url     : https://prove2.me/theorems/68e98184-c1a9-40db-ba77-1884a2c877bf
+-- title:
+--   The point cell law for a monic irreducible residue polynomial `φ`, obtained by lifting `φ` to an unramified `Φ`.
+-- statement:
+--   For a monic irreducible residue polynomial `φ` and `r > 0`, the residue cell of `φ^r` intersected with a type event is measurable and its measure is the density of the `σ`-coefficient of the descended law of `S(1;r)` (the point cell law, obtained by lifting `φ` to an unramified `Φ`).
+-- source:
+--   TypeDensity/Assembly/MonicCells.lean#L804-L821
+
+import Definitions.Def_TypeDensity_Basic
+import Definitions.Def_TypeDensity_Blowup_Directions
+import Definitions.Def_TypeDensity_Measure_AdicCylinders
+import Definitions.Def_TypeDensity_Formula_LawAlgebra
+import Definitions.Def_TypeDensity_Measure_HenselProducts
+import Definitions.Def_TypeDensity_Surfaces_Lengths
+import Definitions.Def_TypeDensity_Surfaces_PowerSeries
+import Definitions.Def_TypeDensity_Formula_FiniteFieldCounts
+import Definitions.Def_TypeDensity_Formula_StateCombinatorics
+import Definitions.Def_TypeDensity_Formula_PatternCounts
+import Definitions.Def_TypeDensity_Unramified_Extension
+import Definitions.Def_TypeDensity_Blowup_Charts
+import Definitions.Def_TypeDensity_Algebra_AlgebraType
+import Definitions.Def_TypeDensity_Measure_PrimitiveLocus
+import Definitions.Def_TypeDensity_Algebra_FactorInvariant
+import Definitions.Def_TypeDensity_Surfaces_TruncatedSeries
+import Definitions.Def_TypeDensity_Blowup_TwoChartCurveData
+import Definitions.Def_TypeDensity_Surfaces_ConcreteAtlas
+import Definitions.Def_TypeDensity_Recursion_Members
+import Definitions.Def_TypeDensity_Measure_MemberCharts
+import Definitions.Def_TypeDensity_Recursion_Termination
+import Definitions.Def_TypeDensity_Recursion_OrderDefect
+import Definitions.Def_TypeDensity_Assembly_NullBridges
+import Definitions.Def_TypeDensity_Assembly_TypeEvents
+import Definitions.Def_TypeDensity_Assembly_MonicCells
+import Theorems.Thm_TypeDensity_point_cell_type_event
+import Theorems.Thm_TypeDensity_exists_unramified_lift
+import Mathlib.FieldTheory.RatFunc.Basic
+import Mathlib.MeasureTheory.Measure.Haar.Unique
+import Mathlib.NumberTheory.ArithmeticFunction.Moebius
+import Mathlib.NumberTheory.Padics.PadicIntegers
+import Mathlib.RingTheory.IntegralClosure.IntegralRestrict
+import Mathlib.RingTheory.MvPowerSeries.Basic
+import Mathlib.RingTheory.RamificationInertia.Basic
+import Mathlib.Topology.Algebra.Nonarchimedean.AdicTopology
+import Mathlib.Topology.Algebra.MvPolynomial
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.RingTheory.AdicCompletion.Algebra
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.Algebra.Group.Pi.Units
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.Polynomial.Resultant.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.FieldTheory.Finite.Extension
+import Mathlib.RingTheory.AdicCompletion.Noetherian
+import Mathlib.RingTheory.MvPowerSeries.Equiv
+import Mathlib.RingTheory.PicardGroup
+import Mathlib.FieldTheory.RatFunc.AsPolynomial
+import Mathlib.RingTheory.AdicCompletion.Completeness
+import Mathlib.Algebra.GroupWithZero.Submonoid.CancelMulZero
+import Mathlib.Algebra.Module.StablyFree.Basic
+import Mathlib.NumberTheory.Padics.RingHoms
+import Mathlib.Algebra.Azumaya.Basic
+import Mathlib.RingTheory.AdicCompletion.RingHom
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.AdicCompletion.LocalRing
+import Mathlib.RingTheory.KrullDimension.NonZeroDivisors
+import Mathlib.Algebra.Group.NatPowAssoc
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Data.Int.Star
+import Mathlib.LinearAlgebra.Dimension.Torsion.Finite
+set_option autoImplicit false
+
+open TypeDensity
+open scoped BigOperators ENNReal
+
+theorem TypeDensity.irreducible_cell_type_event (hroot : RootCellLaw) (O : Type) [CommRing O]
+    [IsDomain O]
+    [IsDiscreteValuationRing O] [IsAdicComplete (IsLocalRing.maximalIdeal O) O]
+    [Finite (IsLocalRing.ResidueField O)] [TopologicalSpace O] [IsTopologicalRing O]
+    [CompactSpace O] [T2Space O] [SecondCountableTopology O] [MeasurableSpace O] [BorelSpace O]
+    (htop : IsAdic (IsLocalRing.maximalIdeal O)) (φ : Polynomial (IsLocalRing.ResidueField O))
+    (hφ : φ.Monic) (hirr : Irreducible φ) (r : ℕ) (hr : 0 < r) (n : ℕ) (hn : φ.natDegree * r = n)
+    (σ : FactorType) :
+    MeasurableSet (residueCell O n (φ ^ r) ∩ typeEvent O n σ) ∧ cellMeasure O n
+      (residueCell O n (φ ^ r)) (typeEvent O n σ) = densityValue
+      (lawCoeff (lawDescend φ.natDegree (stateLaw (State.single 1 r))) σ)
+      (Nat.card (IsLocalRing.ResidueField O)) := by sorry

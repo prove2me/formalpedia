@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_perfectBitCommitment_impossible
 -- name    : QAlgorithms.DeWolf.perfectBitCommitment_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:43:18.930981+00:00
 -- url     : https://prove2.me/theorems/5f4b155d-7f24-4a2f-b2dc-100fc0f4675c

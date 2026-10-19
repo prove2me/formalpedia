@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HarmonicOscillator_harmonicOsc_essentiallySelfAdjoint
 -- name    : BookProof.HarmonicOscillator.harmonicOsc_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:59:24.595835+00:00
 -- url     : https://prove2.me/theorems/fd51de6a-c9f4-4146-bd77-110fda488d29

@@ -7,9 +7,9 @@
 -- title:
 --   Right-translation escape with one element outside the left orbit gives a fixer
 -- statement:
---   For an element $x$, let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume $x\diamond x\ne x$, and assume exactly one element $A$ lies outside $O_x$. If right translation by $x$ sends some element of $O_x$ outside $O_x$, prove that $x$ has a right fixer: there is a $y$ such that $y\diamond x=x$. No associativity, commutativity, or identity is assumed.
+--   For an element $x$, let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume $x\diamond x\ne x$, and assume exactly one element $A$ lies outside $O_x$. If right translation by $x$ sends some element of $O_x$ outside $O_x$, prove that $x$ has a fixer: there is a $y$ such that $y\diamond x=x$. No associativity, commutativity, or identity is assumed.
 -- source:
---   Semantic branch target from the finite E677 to E255 formalization, lean/E677/Spine/Gap1Closeout.lean, theorem e677_fixer_gap1_of_orbit_right_dip; Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
+--   Semantic branch target from the finite E677 to E255 formalization: Adam McKenna, The Missing Pair (private repository), revision 4100763b, lean/E677/Spine/Gap1OutsiderCollision.lean, e677_fixer_gap1_of_unique_outsider_right_dip (the repository theorem has no hypothesis x ◇ x ≠ x; this statement adds it). Until 2026-09-29 the branch theorem was e677_fixer_gap1_of_orbit_right_dip in lean/E677/Spine/Gap1Closeout.lean, which is now off the repository's proof spine. Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
 
 import Definitions.Def_FiniteMagmaE677
 

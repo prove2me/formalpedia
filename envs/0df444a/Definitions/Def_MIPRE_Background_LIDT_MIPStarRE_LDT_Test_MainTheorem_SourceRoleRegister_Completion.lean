@@ -1,0 +1,1481 @@
+-- Prove2me | Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceRoleRegister_Completion
+-- name    : MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceRoleRegister_Completion
+-- status  : Definition
+-- author  : @thomasvidick
+-- created : 2026-10-17T08:37:01.605848+00:00
+-- url     : https://prove2.me/theorems/383c4315-29fe-4b6d-993f-07a4270423ad
+-- title:
+--   Definitions of Completion: Source-Boundary Role-Register Handoff: Completion Lemmas This module contains the completion and line-169 transport…
+-- statement:
+--   The definitions of the module `MIPRE.Background.LIDT.MIPStarRE.LDT.Test.MainTheorem.SourceRoleRegister.Completion` of the MIP\* = RE formalization (commit `70cbf1c` of vidick/MIPRE-formalization). Source-Boundary Role-Register Handoff: Completion Lemmas. This module contains the completion and line-169 transport lemmas for the two-space source role-register route.
+--
+--   The module is vendored read-only, with the authors' permission, from [LionSR/MIPStarRE](https://github.com/LionSR/MIPStarRE) (Sirui Lu and the MIPStarRE contributors, Apache 2.0; commit and upstream path in the file header) by `scripts/vendor-lidt.py`.
+--
+--   **Embedded lemmas** (14): the small results the bodies of these definitions need (proof fields, `simp` rules, decidability and finiteness instances), proved inside the bundle so that it imports no unproved statement: `completeAtOutcomeProj_left_matchMass_ge_heterogeneous`, `completeAtOutcomeProj_right_matchMass_ge_heterogeneous`, `completedCloseness_left_of_consistency_and_sdd`, `completedCloseness_right_of_consistency_and_sdd`, `completedLeftConsistency_of_consistency_and_sdd`, `completedRightConsistency_of_consistency_and_sdd`, `qBipartiteMatchMass_ge_sub_sqrt_of_left_sdd_heterogeneous`, `qBipartiteMatchMass_ge_sub_sqrt_of_right_sdd_heterogeneous`, `qBipartiteMatchMass_le_left_total_of_measurement_heterogeneous`, `qBipartiteMatchMass_le_right_total_of_measurement_heterogeneous`, ….
+--
+--   The bundle holds no definition of its own: it carries the lemmas listed above, which later bundles and proofs import.
+--
+--   **Formalization Note** The bundle is the module `MIPRE.Background.LIDT.MIPStarRE.LDT.Test.MainTheorem.SourceRoleRegister.Completion` (`MIPRE/Background/LIDT/MIPStarRE/LDT/Test/MainTheorem/SourceRoleRegister/Completion.lean`) with every declaration not listed removed, imports rewritten to the bundles of the module's import closure; the declarations keep their names, statements and bodies; the source module is split over 201 imported bundle(s).
+-- source:
+--   https://github.com/vidick/MIPRE-formalization/blob/70cbf1c52e3d5e1dff1162fdf952c9a9f4bd99ed/MIPRE/Background/LIDT/MIPStarRE/LDT/Test/MainTheorem/SourceRoleRegister/Completion.lean
+
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/Test/MainTheorem/SourceRoleRegister/Completion.lean
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Background/LIDT/MIPStarRE/LDT/Test/MainTheorem/SourceRoleRegister/Completion.lean (definition bundle: declarations the uploaded statements rest on);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+import Lean.Elab.Tactic
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.Algebra.Defs
+import Mathlib.Algebra.Algebra.Equiv
+import Mathlib.Algebra.Algebra.Hom
+import Mathlib.Algebra.Algebra.NonUnitalHom
+import Mathlib.Algebra.Algebra.Rat
+import Mathlib.Algebra.Algebra.Spectrum.Basic
+import Mathlib.Algebra.Algebra.Spectrum.Quasispectrum
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Finsupp.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Group.Multiset.Defs
+import Mathlib.Algebra.BigOperators.GroupWithZero.Action
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Intervals
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Defs
+import Mathlib.Algebra.CharP.Invertible
+import Mathlib.Algebra.CharZero.Defs
+import Mathlib.Algebra.Field.Basic
+import Mathlib.Algebra.Field.Defs
+import Mathlib.Algebra.Field.IsField
+import Mathlib.Algebra.Field.Rat
+import Mathlib.Algebra.Group.Action.Defs
+import Mathlib.Algebra.Group.Action.Opposite
+import Mathlib.Algebra.Group.Action.Pi
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Commute.Defs
+import Mathlib.Algebra.Group.Defs
+import Mathlib.Algebra.Group.Fin.Basic
+import Mathlib.Algebra.Group.Finsupp
+import Mathlib.Algebra.Group.Hom.Defs
+import Mathlib.Algebra.Group.Idempotent
+import Mathlib.Algebra.Group.Invertible.Basic
+import Mathlib.Algebra.Group.Invertible.Defs
+import Mathlib.Algebra.Group.Nat.Defs
+import Mathlib.Algebra.Group.Opposite
+import Mathlib.Algebra.Group.Pi.Basic
+import Mathlib.Algebra.Group.Prod
+import Mathlib.Algebra.Group.Subgroup.Defs
+import Mathlib.Algebra.Group.Submonoid.Defs
+import Mathlib.Algebra.Group.Subsemigroup.Defs
+import Mathlib.Algebra.Group.Units.Basic
+import Mathlib.Algebra.Group.Units.Defs
+import Mathlib.Algebra.GroupWithZero.Action.Defs
+import Mathlib.Algebra.GroupWithZero.Basic
+import Mathlib.Algebra.GroupWithZero.Commute
+import Mathlib.Algebra.GroupWithZero.Defs
+import Mathlib.Algebra.GroupWithZero.Hom
+import Mathlib.Algebra.GroupWithZero.Invertible
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.GroupWithZero.NeZero
+import Mathlib.Algebra.GroupWithZero.Units.Basic
+import Mathlib.Algebra.GroupWithZero.Units.Lemmas
+import Mathlib.Algebra.Module.BigOperators
+import Mathlib.Algebra.Module.Defs
+import Mathlib.Algebra.Module.Equiv.Defs
+import Mathlib.Algebra.Module.FinitePresentation
+import Mathlib.Algebra.Module.LinearMap.Defs
+import Mathlib.Algebra.Module.NatInt
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Prod
+import Mathlib.Algebra.Module.Submodule.Defs
+import Mathlib.Algebra.Module.Submodule.Lattice
+import Mathlib.Algebra.Module.Submodule.LinearMap
+import Mathlib.Algebra.Module.Submodule.Range
+import Mathlib.Algebra.Module.Torsion.Pi
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MonoidAlgebra.Defs
+import Mathlib.Algebra.MonoidAlgebra.Module
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.Monad
+import Mathlib.Algebra.MvPolynomial.Polynomial
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.NeZero
+import Mathlib.Algebra.Notation.Defs
+import Mathlib.Algebra.Notation.Indicator
+import Mathlib.Algebra.Notation.Pi.Basic
+import Mathlib.Algebra.Notation.Pi.Defs
+import Mathlib.Algebra.Notation.Prod
+import Mathlib.Algebra.Opposites
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Defs
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Group.Unbundled.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Canonical
+import Mathlib.Algebra.Order.GroupWithZero.Defs
+import Mathlib.Algebra.Order.IsBotOne
+import Mathlib.Algebra.Order.Module.Defs
+import Mathlib.Algebra.Order.Monoid.Canonical.Defs
+import Mathlib.Algebra.Order.Monoid.Defs
+import Mathlib.Algebra.Order.Monoid.NatCast
+import Mathlib.Algebra.Order.Monoid.Unbundled.Basic
+import Mathlib.Algebra.Order.Monoid.Unbundled.Defs
+import Mathlib.Algebra.Order.Monoid.Unbundled.ExistsOfLE
+import Mathlib.Algebra.Order.Nonneg.Basic
+import Mathlib.Algebra.Order.Nonneg.Module
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Basic
+import Mathlib.Algebra.Order.Ring.Defs
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Ring.Unbundled.Basic
+import Mathlib.Algebra.Order.Star.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Order.Sub.Basic
+import Mathlib.Algebra.Order.Sub.Defs
+import Mathlib.Algebra.Order.SuccPred
+import Mathlib.Algebra.Order.ZeroLEOne
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Defs
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.Operations
+import Mathlib.Algebra.Polynomial.Eval.Coeff
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Algebra.QuadraticDiscriminant
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Commute
+import Mathlib.Algebra.Ring.CompTypeclasses
+import Mathlib.Algebra.Ring.Defs
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Algebra.Ring.Hom.Defs
+import Mathlib.Algebra.Ring.Int.Defs
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Algebra.Ring.Parity
+import Mathlib.Algebra.Ring.Pi
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.Module
+import Mathlib.Algebra.Star.SelfAdjoint
+import Mathlib.Algebra.Star.StarAlgHom
+import Mathlib.Algebra.Star.StarProjection
+import Mathlib.Algebra.Star.Unitary
+import Mathlib.Algebra.Star.UnitaryStarAlgAut
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Instances
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.NonUnital
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unique
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unital
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.CStarAlgebra.Module.Defs
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Exponential
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Analysis.Complex.Trigonometric
+import Mathlib.Analysis.Convex.Cone.Basic
+import Mathlib.Analysis.Convex.Cone.Closure
+import Mathlib.Analysis.Convex.Cone.Dual
+import Mathlib.Analysis.Convex.SpecificFunctions.Pow
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.Analysis.Fourier.ZMod
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Defs
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.Orthonormal
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.LocallyConvex.AbsConvexOpen
+import Mathlib.Analysis.LocallyConvex.WithSeminorms
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Analysis.Normed.Field.Basic
+import Mathlib.Analysis.Normed.Field.Lemmas
+import Mathlib.Analysis.Normed.Group.Basic
+import Mathlib.Analysis.Normed.Group.Bounded
+import Mathlib.Analysis.Normed.Group.Continuity
+import Mathlib.Analysis.Normed.Group.Defs
+import Mathlib.Analysis.Normed.Group.Real
+import Mathlib.Analysis.Normed.Group.Uniform
+import Mathlib.Analysis.Normed.Lp.PiLp
+import Mathlib.Analysis.Normed.Lp.WithLp
+import Mathlib.Analysis.Normed.Module.Basic
+import Mathlib.Analysis.Normed.Module.FiniteDimension
+import Mathlib.Analysis.Normed.Operator.LinearIsometry
+import Mathlib.Analysis.Normed.Ring.Basic
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.Real.Spectrum
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Basic
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+import Mathlib.Combinatorics.SimpleGraph.AdjMatrix
+import Mathlib.Combinatorics.SimpleGraph.LapMatrix
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Complex.BigOperators
+import Mathlib.Data.Countable.Defs
+import Mathlib.Data.ENNReal.Basic
+import Mathlib.Data.ENNReal.BigOperators
+import Mathlib.Data.ENNReal.Inv
+import Mathlib.Data.ENNReal.Operations
+import Mathlib.Data.ENNReal.Real
+import Mathlib.Data.Fin.SuccPred
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finite.Defs
+import Mathlib.Data.Finite.Prod
+import Mathlib.Data.Finite.Sum
+import Mathlib.Data.Finset.Attach
+import Mathlib.Data.Finset.Basic
+import Mathlib.Data.Finset.BooleanAlgebra
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Defs
+import Mathlib.Data.Finset.Empty
+import Mathlib.Data.Finset.Erase
+import Mathlib.Data.Finset.Filter
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Insert
+import Mathlib.Data.Finset.Lattice.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Lattice.Lemmas
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Range
+import Mathlib.Data.Finset.Sigma
+import Mathlib.Data.Finsupp.Defs
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.CardEmbedding
+import Mathlib.Data.Fintype.Defs
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Fin
+import Mathlib.Data.Fintype.OfMap
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sets
+import Mathlib.Data.Fintype.Sigma
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.FunLike.Basic
+import Mathlib.Data.FunLike.Embedding
+import Mathlib.Data.FunLike.Equiv
+import Mathlib.Data.FunLike.IsApply
+import Mathlib.Data.Int.Cast.Basic
+import Mathlib.Data.Int.Cast.Defs
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.NodupEquivFin
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Basis
+import Mathlib.Data.Matrix.Block
+import Mathlib.Data.Matrix.Diagonal
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Multiset.Bind
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Multiset.Defs
+import Mathlib.Data.Multiset.Filter
+import Mathlib.Data.Multiset.MapFold
+import Mathlib.Data.Multiset.ZeroCons
+import Mathlib.Data.NNRat.Defs
+import Mathlib.Data.NNReal.Defs
+import Mathlib.Data.NNReal.Star
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Cast.Basic
+import Mathlib.Data.Nat.Cast.Commute
+import Mathlib.Data.Nat.Cast.Defs
+import Mathlib.Data.Nat.Cast.Order.Basic
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Data.Nat.Factorial.Basic
+import Mathlib.Data.Nat.Factorial.BigOperators
+import Mathlib.Data.Nat.Init
+import Mathlib.Data.Nat.Prime.Defs
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Prod.Basic
+import Mathlib.Data.Quot
+import Mathlib.Data.Rat.Cast.CharZero
+import Mathlib.Data.Rat.Cast.Defs
+import Mathlib.Data.Rat.Cast.Lemmas
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Rat.Init
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Real.Star
+import Mathlib.Data.SProd
+import Mathlib.Data.Set.Basic
+import Mathlib.Data.Set.CoeSort
+import Mathlib.Data.Set.Defs
+import Mathlib.Data.Set.Finite.Range
+import Mathlib.Data.Set.Operations
+import Mathlib.Data.Set.Restrict
+import Mathlib.Data.SetLike.Basic
+import Mathlib.Data.Sigma.Basic
+import Mathlib.Data.Subtype
+import Mathlib.Data.ULift
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.ZMod.Defs
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.FieldTheory.IsSepClosed
+import Mathlib.FieldTheory.Perfect
+import Mathlib.FieldTheory.Separable
+import Mathlib.Geometry.Convex.Cone.Pointed
+import Mathlib.GroupTheory.GroupAction.Hom
+import Mathlib.GroupTheory.GroupAction.Ring
+import Mathlib.LinearAlgebra.Basis.VectorSpace
+import Mathlib.LinearAlgebra.Complex.FiniteDimensional
+import Mathlib.LinearAlgebra.Complex.Module
+import Mathlib.LinearAlgebra.DFinsupp
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Dimension.Finrank
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Defs
+import Mathlib.LinearAlgebra.FreeModule.Finite.Basic
+import Mathlib.LinearAlgebra.FreeModule.PID
+import Mathlib.LinearAlgebra.FreeModule.StrongRankCondition
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.LinearAlgebra.Matrix.CharP
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Basic
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.Matrix.Reindex
+import Mathlib.LinearAlgebra.Matrix.StdBasis
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.UnitaryGroup
+import Mathlib.Logic.Basic
+import Mathlib.Logic.Embedding.Basic
+import Mathlib.Logic.Equiv.Basic
+import Mathlib.Logic.Equiv.Defs
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Equiv.Set
+import Mathlib.Logic.Function.Basic
+import Mathlib.Logic.Function.Defs
+import Mathlib.Logic.IsEmpty.Basic
+import Mathlib.Logic.IsEmpty.Defs
+import Mathlib.Logic.Nonempty
+import Mathlib.Logic.Nontrivial.Defs
+import Mathlib.Logic.Unique
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Basic
+import Mathlib.MeasureTheory.Function.L1Space.Integrable
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Mathlib.MeasureTheory.MeasurableSpace.Instances
+import Mathlib.MeasureTheory.Measure.Dirac
+import Mathlib.MeasureTheory.Measure.MeasureSpace
+import Mathlib.MeasureTheory.Measure.MeasureSpaceDef
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.MeasureTheory.OuterMeasure.AE
+import Mathlib.MeasureTheory.OuterMeasure.Defs
+import Mathlib.NumberTheory.LegendreSymbol.AddCharacter
+import Mathlib.Order.Basic
+import Mathlib.Order.BooleanAlgebra.Defs
+import Mathlib.Order.BoundedOrder.Basic
+import Mathlib.Order.CompleteLattice.Defs
+import Mathlib.Order.Defs.LinearOrder
+import Mathlib.Order.Defs.PartialOrder
+import Mathlib.Order.Filter.AtTopBot.Basic
+import Mathlib.Order.Filter.AtTopBot.Defs
+import Mathlib.Order.Filter.AtTopBot.Tendsto
+import Mathlib.Order.Filter.Basic
+import Mathlib.Order.Filter.Defs
+import Mathlib.Order.Filter.Extr
+import Mathlib.Order.Filter.Tendsto
+import Mathlib.Order.Fin.Basic
+import Mathlib.Order.Hom.Basic
+import Mathlib.Order.Interval.Finset.Defs
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Order.Interval.Set.Defs
+import Mathlib.Order.Lattice
+import Mathlib.Order.Lattice.Nat
+import Mathlib.Order.MinMax
+import Mathlib.Order.Monotone.Defs
+import Mathlib.Order.Nat
+import Mathlib.Order.Notation
+import Mathlib.Order.RelClasses
+import Mathlib.Order.SetNotation
+import Mathlib.Probability.Distributions.Bernoulli
+import Mathlib.Probability.Distributions.Binomial
+import Mathlib.Probability.Distributions.Uniform
+import Mathlib.Probability.Moments.Basic
+import Mathlib.Probability.Moments.SubGaussian
+import Mathlib.Probability.ProbabilityMassFunction.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.Algebraic.Integral
+import Mathlib.RingTheory.Bialgebra.Basic
+import Mathlib.RingTheory.DedekindDomain.Basic
+import Mathlib.RingTheory.EssentialFiniteness
+import Mathlib.RingTheory.Etale.Basic
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.FinitePresentation
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Algebra
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Basic
+import Mathlib.RingTheory.Flat.TorsionFree
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.HopfAlgebra.Basic
+import Mathlib.RingTheory.IntegralClosure.Algebra.Basic
+import Mathlib.RingTheory.LocalRing.Defs
+import Mathlib.RingTheory.MvPolynomial.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Attr.Register
+import Mathlib.Tactic.CancelDenoms.Core
+import Mathlib.Tactic.FieldSimp.Lemmas
+import Mathlib.Tactic.Linarith.Lemmas
+import Mathlib.Tactic.Linarith.Preprocessing
+import Mathlib.Tactic.NoncommRing
+import Mathlib.Tactic.NormNum.Basic
+import Mathlib.Tactic.NormNum.Eq
+import Mathlib.Tactic.NormNum.Ineq
+import Mathlib.Tactic.NormNum.Inv
+import Mathlib.Tactic.NormNum.Pow
+import Mathlib.Tactic.NormNum.RealSqrt
+import Mathlib.Tactic.NormNum.Result
+import Mathlib.Tactic.Positivity.Basic
+import Mathlib.Tactic.Positivity.Core
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring.Basic
+import Mathlib.Tactic.Ring.Common
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.ConstMulAction
+import Mathlib.Topology.Algebra.Field
+import Mathlib.Topology.Algebra.Group.Basic
+import Mathlib.Topology.Algebra.Group.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.Basic
+import Mathlib.Topology.Algebra.InfiniteSum.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.ENNReal
+import Mathlib.Topology.Algebra.InfiniteSum.SummationFilter
+import Mathlib.Topology.Algebra.Module.ClosedSubmodule
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.Basic
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.PiProd
+import Mathlib.Topology.Algebra.Module.LocallyConvex
+import Mathlib.Topology.Algebra.Module.ModuleTopology
+import Mathlib.Topology.Algebra.Monoid
+import Mathlib.Topology.Algebra.Monoid.Defs
+import Mathlib.Topology.Algebra.MulAction
+import Mathlib.Topology.Algebra.Ring.Basic
+import Mathlib.Topology.Algebra.Ring.Real
+import Mathlib.Topology.Algebra.Star
+import Mathlib.Topology.Algebra.Star.Real
+import Mathlib.Topology.Algebra.UniformMulAction
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Basic
+import Mathlib.Topology.Bornology.Basic
+import Mathlib.Topology.Closure
+import Mathlib.Topology.Constructions
+import Mathlib.Topology.Constructions.SumProd
+import Mathlib.Topology.Continuous
+import Mathlib.Topology.ContinuousMap.ContinuousSqrt
+import Mathlib.Topology.ContinuousOn
+import Mathlib.Topology.Defs.Basic
+import Mathlib.Topology.Defs.Filter
+import Mathlib.Topology.EMetricSpace.Defs
+import Mathlib.Topology.GDelta.MetrizableSpace
+import Mathlib.Topology.Instances.Matrix
+import Mathlib.Topology.MetricSpace.Algebra
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Bounded
+import Mathlib.Topology.MetricSpace.Defs
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+import Mathlib.Topology.MetricSpace.Sequences
+import Mathlib.Topology.Metrizable.Basic
+import Mathlib.Topology.Metrizable.Uniformity
+import Mathlib.Topology.Neighborhoods
+import Mathlib.Topology.Order.Compact
+import Mathlib.Topology.Order.OrderClosed
+import Mathlib.Topology.Order.Real
+import Mathlib.Topology.Separation.Basic
+import Mathlib.Topology.Separation.GDelta
+import Mathlib.Topology.Separation.Hausdorff
+import Mathlib.Topology.Separation.Regular
+import Mathlib.Topology.Sequences
+import Mathlib.Topology.UniformSpace.Defs
+import Mathlib.Topology.UniformSpace.Real
+import Mathlib.Topology.UnitInterval
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_DirectSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_Measurements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ConsistencyBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Projectivization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_ProjectorONB
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_Sigma
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_LowRank
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_QCompleteness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Rows
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_LayerAlgebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_ProjectorApprox
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Triangles_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_ProjectivizationChain_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceCommutation_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_EvaluationSpecialization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_Pullback
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Y
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_Closeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_QSDD
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_ZeroBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_HEvalTransport
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_ScalarMarginalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_BridgeTheorems_DropBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_RawSecond
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_PaperChainPhaseFive
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_MainChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_PastedFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Centers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooCompletion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_CommutingWithG_Complete
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_GHatFacts
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_StepLemmas_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Lifting
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Chain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_FlatChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_BackChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_TruncatedSums
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Weights
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_BernoulliTail
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_FactBundles
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_StageA0M1
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_HalfSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_FinalMove
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_PaperBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_MatrixChernoff
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_EndpointEquivs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Core_LdGbcon
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_Endpoint
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_PrefixMoved
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_CSSetup
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HBConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HAConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_DegreeZero
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_ErrorAndMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_NonglobalDecomposition
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Operators
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_ProjectiveNonMeasurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_Conversion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_LocalityPreservingRepair
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_RestrictSome
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_DataProcessing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Thresholds_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_InputSdp
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_FiberBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Linearized
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Fourier
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_TraceForms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_CanonicalPrimal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Witness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Saturated
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteConicDuality
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Separation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SdpMatrixBridge
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Foundations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Matrix
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Results
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Averaging
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_AlgebraicIdentity
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_CollisionExpansion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_PointLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_TransportChain_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransportSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_PolynomialSumBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Bracketed
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Selection
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Residual
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_ScalarChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Raw
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Factored
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Variance
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_PostDeleteA
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUPointConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_AddInUFullStatement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_MainError
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_AnswerSlice
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Axis
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Diagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_AnswerValued
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_StageDataConstructors
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_AvgSliceErrors_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_AnswerTheorems
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_SelfImprovement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_PastingAssembly_Successor
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_SchwartzZippelStep
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonProjective
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjRoleAverage_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjUnsymmetrization
+import Theorems.Thm_MIPStarRE_LDT_Measurement_outcome_le_one
+import Theorems.Thm_MIPStarRE_LDT_Preliminaries_completion_self_distance
+import Theorems.Thm_MIPStarRE_LDT_Preliminaries_constFamily_sdd_unit
+import Theorems.Thm_MIPStarRE_LDT_Preliminaries_easyApproxFromApproxDelta
+import Theorems.Thm_MIPStarRE_LDT_Preliminaries_questionSDD_triangle
+import Theorems.Thm_MIPStarRE_LDT_SubMeas_total_nonneg
+import Theorems.Thm_MIPStarRE_LDT_ev_add
+import Theorems.Thm_MIPStarRE_LDT_ev_mono
+import Theorems.Thm_MIPStarRE_LDT_ev_sub
+import Theorems.Thm_MIPStarRE_LDT_ev_sum
+import Theorems.Thm_MIPStarRE_LDT_leftTensor_finset_sum
+import Theorems.Thm_MIPStarRE_LDT_leftTensor_mul_rightTensor_eq_opTensor
+import Theorems.Thm_MIPStarRE_LDT_opTensor_add_left_local
+import Theorems.Thm_MIPStarRE_LDT_opTensor_add_right_local
+import Theorems.Thm_MIPStarRE_LDT_opTensor_le_leftTensor
+import Theorems.Thm_MIPStarRE_LDT_opTensor_mono_left
+import Theorems.Thm_MIPStarRE_LDT_qBipartiteConsDefect_nonneg
+import Theorems.Thm_MIPStarRE_LDT_qBipartiteConsDefect_of_measurements
+import Theorems.Thm_MIPStarRE_LDT_rightTensor_finset_sum
+import Theorems.Thm_MIPStarRE_LDT_rightTensor_mul_leftTensor_eq_opTensor
+import Theorems.Thm_MIPStarRE_Quantum_sq_le_self
+
+set_option backward.isDefEq.respectTransparency false
+
+/-!
+# Source-Boundary Role-Register Handoff: Completion Lemmas
+
+This module contains the completion and line-169 transport lemmas for the
+two-space source role-register route.
+-/
+
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+
+namespace MIPStarRE.LDT
+
+open MIPStarRE.LDT.MakingMeasurementsProjective
+
+namespace ProjStrat
+
+/-- Completing after left tensor placement agrees with left tensor placement
+after completing the local submeasurement.
+
+This is the bookkeeping needed to apply the standard completion-distance
+identity on the product Hilbert space while returning the local completed
+projective measurement appearing in the paper. -/
+lemma qSDD_leftPlaced_completeAtOutcome_eq
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    [Fintype Outcome]
+    (ψ : QuantumState (ιA × ιB)) (A B : SubMeas Outcome ιA) (a0 : Outcome) :
+    qSDD ψ (leftPlacedSubMeas (ιB := ιB) A)
+        (Preliminaries.completeAtOutcome (leftPlacedSubMeas (ιB := ιB) B) a0).toSubMeas =
+      qSDD ψ (leftPlacedSubMeas (ιB := ιB) A)
+        (leftPlacedSubMeas (ιB := ιB)
+          (Preliminaries.completeAtOutcome B a0).toSubMeas) := by
+  have hcomplete_outcome :
+      ∀ a : Outcome,
+        (Preliminaries.completeAtOutcome
+            (leftPlacedSubMeas (ιB := ιB) B) a0).toSubMeas.outcome a =
+          (leftPlacedSubMeas (ιB := ιB)
+            (Preliminaries.completeAtOutcome B a0).toSubMeas).outcome a := by
+    intro a
+    by_cases h : a = a0
+    · subst h
+      ext i j
+      rcases i with ⟨i₁, i₂⟩
+      rcases j with ⟨j₁, j₂⟩
+      by_cases h₁ : i₁ = j₁ <;> by_cases h₂ : i₂ = j₂ <;>
+        simp [Preliminaries.completeAtOutcome, leftPlacedSubMeas, leftTensor,
+          sub_eq_add_neg, h₁, h₂, add_comm, add_assoc]
+    · ext i j
+      rcases i with ⟨i₁, i₂⟩
+      rcases j with ⟨j₁, j₂⟩
+      by_cases h₁ : i₁ = j₁ <;> by_cases h₂ : i₂ = j₂ <;>
+        simp [Preliminaries.completeAtOutcome, leftPlacedSubMeas, leftTensor, h, h₁, h₂]
+  unfold qSDD qSDDCore
+  refine Finset.sum_congr rfl ?_
+  intro a _
+  rw [hcomplete_outcome a]
+
+/-- Completing after right tensor placement agrees with right tensor placement
+after completing the local submeasurement. -/
+lemma qSDD_rightPlaced_completeAtOutcome_eq
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    [Fintype Outcome]
+    (ψ : QuantumState (ιA × ιB)) (A B : SubMeas Outcome ιB) (a0 : Outcome) :
+    qSDD ψ (rightPlacedSubMeas (ιA := ιA) A)
+        (Preliminaries.completeAtOutcome (rightPlacedSubMeas (ιA := ιA) B) a0).toSubMeas =
+      qSDD ψ (rightPlacedSubMeas (ιA := ιA) A)
+        (rightPlacedSubMeas (ιA := ιA)
+          (Preliminaries.completeAtOutcome B a0).toSubMeas) := by
+  have hcomplete_outcome :
+      ∀ a : Outcome,
+        (Preliminaries.completeAtOutcome
+            (rightPlacedSubMeas (ιA := ιA) B) a0).toSubMeas.outcome a =
+          (rightPlacedSubMeas (ιA := ιA)
+            (Preliminaries.completeAtOutcome B a0).toSubMeas).outcome a := by
+    intro a
+    by_cases h : a = a0
+    · subst h
+      ext i j
+      rcases i with ⟨i₁, i₂⟩
+      rcases j with ⟨j₁, j₂⟩
+      by_cases h₁ : i₁ = j₁ <;> by_cases h₂ : i₂ = j₂ <;>
+        simp [Preliminaries.completeAtOutcome, rightPlacedSubMeas, rightTensor,
+          sub_eq_add_neg, h₁, h₂, add_comm, add_assoc]
+    · ext i j
+      rcases i with ⟨i₁, i₂⟩
+      rcases j with ⟨j₁, j₂⟩
+      by_cases h₁ : i₁ = j₁ <;> by_cases h₂ : i₂ = j₂ <;>
+        simp [Preliminaries.completeAtOutcome, rightPlacedSubMeas, rightTensor, h, h₁, h₂]
+  unfold qSDD qSDDCore
+  refine Finset.sum_congr rfl ?_
+  intro a _
+  rw [hcomplete_outcome a]
+
+/-- If the missing left total of a projective submeasurement is small on the
+state, then the canonical completion is close to the submeasurement after left
+tensor placement. -/
+lemma qSDD_completeAtOutcomeProj_leftPlaced_le_of_total_gap
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    [Fintype Outcome]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (P : ProjSubMeas Outcome ιA) (a0 : Outcome) {ζ : Error}
+    (hgap : 1 - ev ψ (leftTensor (ι₂ := ιB) P.toSubMeas.total) ≤ ζ) :
+    qSDD ψ (leftPlacedSubMeas (ιB := ιB) P.toSubMeas)
+      (leftPlacedSubMeas (ιB := ιB)
+        (Preliminaries.completeAtOutcomeProj P a0).toSubMeas) ≤ ζ := by
+  let R : MIPStarRE.Quantum.Op (ιA × ιB) :=
+    (1 : MIPStarRE.Quantum.Op (ιA × ιB)) -
+      (leftPlacedSubMeas (ιB := ιB) P.toSubMeas).total
+  have hraw :
+      qSDD ψ (leftPlacedSubMeas (ιB := ιB) P.toSubMeas)
+          (Preliminaries.completeAtOutcome
+            (leftPlacedSubMeas (ιB := ιB) P.toSubMeas) a0).toSubMeas ≤
+        ζ := by
+    have hcomp :
+        qSDD ψ (leftPlacedSubMeas (ιB := ιB) P.toSubMeas)
+            (Preliminaries.completeAtOutcome
+              (leftPlacedSubMeas (ιB := ιB) P.toSubMeas) a0).toSubMeas =
+          ev ψ (R * R) := by
+      simpa [R] using
+        (Preliminaries.completion_self_distance ψ
+          (leftPlacedSubMeas (ιB := ιB) P.toSubMeas) a0)
+    have hR_nonneg : 0 ≤ R := by
+      dsimp [R]
+      exact sub_nonneg.mpr (leftPlacedSubMeas (ιB := ιB) P.toSubMeas).total_le_one
+    have hR_le_one : R ≤ 1 := by
+      dsimp [R]
+      exact sub_le_self (1 : MIPStarRE.Quantum.Op (ιA × ιB))
+        (leftPlacedSubMeas (ιB := ιB) P.toSubMeas).total_nonneg
+    have hR_sq_le : R * R ≤ R :=
+      MIPStarRE.Quantum.sq_le_self hR_nonneg hR_le_one
+    have hR_sq_ev : ev ψ (R * R) ≤ ev ψ R :=
+      ev_mono ψ _ _ hR_sq_le
+    have hR_ev : ev ψ R ≤ ζ := by
+      have hR_eq :
+          ev ψ R =
+            1 - ev ψ (leftTensor (ι₂ := ιB) P.toSubMeas.total) := by
+        dsimp [R]
+        rw [ev_sub]
+        simp [ev_one_of_isNormalized ψ hψ]
+      rw [hR_eq]
+      exact hgap
+    rw [hcomp]
+    exact le_trans hR_sq_ev hR_ev
+  have hq_eq :=
+    qSDD_leftPlaced_completeAtOutcome_eq ψ P.toSubMeas P.toSubMeas a0
+  rw [hq_eq] at hraw
+  simpa [Preliminaries.completeAtOutcomeProj_toSubMeas] using hraw
+
+/-- Right tensor-factor counterpart of
+`qSDD_completeAtOutcomeProj_leftPlaced_le_of_total_gap`. -/
+lemma qSDD_completeAtOutcomeProj_rightPlaced_le_of_total_gap
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    [Fintype Outcome]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (P : ProjSubMeas Outcome ιB) (a0 : Outcome) {ζ : Error}
+    (hgap : 1 - ev ψ (rightTensor (ι₁ := ιA) P.toSubMeas.total) ≤ ζ) :
+    qSDD ψ (rightPlacedSubMeas (ιA := ιA) P.toSubMeas)
+      (rightPlacedSubMeas (ιA := ιA)
+        (Preliminaries.completeAtOutcomeProj P a0).toSubMeas) ≤ ζ := by
+  let R : MIPStarRE.Quantum.Op (ιA × ιB) :=
+    (1 : MIPStarRE.Quantum.Op (ιA × ιB)) -
+      (rightPlacedSubMeas (ιA := ιA) P.toSubMeas).total
+  have hraw :
+      qSDD ψ (rightPlacedSubMeas (ιA := ιA) P.toSubMeas)
+          (Preliminaries.completeAtOutcome
+            (rightPlacedSubMeas (ιA := ιA) P.toSubMeas) a0).toSubMeas ≤
+        ζ := by
+    have hcomp :
+        qSDD ψ (rightPlacedSubMeas (ιA := ιA) P.toSubMeas)
+            (Preliminaries.completeAtOutcome
+              (rightPlacedSubMeas (ιA := ιA) P.toSubMeas) a0).toSubMeas =
+          ev ψ (R * R) := by
+      simpa [R] using
+        (Preliminaries.completion_self_distance ψ
+          (rightPlacedSubMeas (ιA := ιA) P.toSubMeas) a0)
+    have hR_nonneg : 0 ≤ R := by
+      dsimp [R]
+      exact sub_nonneg.mpr (rightPlacedSubMeas (ιA := ιA) P.toSubMeas).total_le_one
+    have hR_le_one : R ≤ 1 := by
+      dsimp [R]
+      exact sub_le_self (1 : MIPStarRE.Quantum.Op (ιA × ιB))
+        (rightPlacedSubMeas (ιA := ιA) P.toSubMeas).total_nonneg
+    have hR_sq_le : R * R ≤ R :=
+      MIPStarRE.Quantum.sq_le_self hR_nonneg hR_le_one
+    have hR_sq_ev : ev ψ (R * R) ≤ ev ψ R :=
+      ev_mono ψ _ _ hR_sq_le
+    have hR_ev : ev ψ R ≤ ζ := by
+      have hR_eq :
+          ev ψ R =
+            1 - ev ψ (rightTensor (ι₁ := ιA) P.toSubMeas.total) := by
+        dsimp [R]
+        rw [ev_sub]
+        simp [ev_one_of_isNormalized ψ hψ]
+      rw [hR_eq]
+      exact hgap
+    rw [hcomp]
+    exact le_trans hR_sq_ev hR_ev
+  have hq_eq :=
+    qSDD_rightPlaced_completeAtOutcome_eq ψ P.toSubMeas P.toSubMeas a0
+  rw [hq_eq] at hraw
+  simpa [Preliminaries.completeAtOutcomeProj_toSubMeas] using hraw
+
+/-- A left-factor SDD estimate controls the loss in bipartite matching mass
+against a complete measurement on the right factor. -/
+lemma qBipartiteMatchMass_ge_sub_sqrt_of_left_sdd_heterogeneous
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (G : Measurement Outcome ιA) (P : SubMeas Outcome ιA)
+    (B : Measurement Outcome ιB) {ε : Error}
+    (hclose : SDDRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) G.toSubMeas))
+      (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) P))
+      ε) :
+    qBipartiteMatchMass ψ P B.toSubMeas ≥
+      qBipartiteMatchMass ψ G.toSubMeas B.toSubMeas - Real.sqrt ε := by
+  have hgap :=
+    MIPStarRE.LDT.Preliminaries.easyApproxFromApproxDelta ψ hψ
+      (uniformDistribution Unit) (uniformDistribution_weight_sum_le_one Unit)
+      (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) G.toSubMeas))
+      (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) P))
+      (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) B.toSubMeas))
+      ε hclose
+  have hgap' :
+      |qBipartiteMatchMass ψ G.toSubMeas B.toSubMeas -
+          qBipartiteMatchMass ψ P B.toSubMeas| ≤
+        Real.sqrt ε := by
+    simpa [avgOver, uniformDistribution, constSubMeasFamily,
+      qBipartiteMatchMass, leftPlacedSubMeas, rightPlacedSubMeas,
+      leftTensor_mul_rightTensor_eq_opTensor] using hgap
+  have hdiff :
+      qBipartiteMatchMass ψ G.toSubMeas B.toSubMeas -
+          qBipartiteMatchMass ψ P B.toSubMeas ≤
+        Real.sqrt ε :=
+    (abs_le.mp hgap').2
+  linarith
+
+/-- A right-factor SDD estimate controls the loss in bipartite matching mass
+against a complete measurement on the left factor. -/
+lemma qBipartiteMatchMass_ge_sub_sqrt_of_right_sdd_heterogeneous
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (A : Measurement Outcome ιA) (G : Measurement Outcome ιB)
+    (P : SubMeas Outcome ιB) {ε : Error}
+    (hclose : SDDRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) G.toSubMeas))
+      (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) P))
+      ε) :
+    qBipartiteMatchMass ψ A.toSubMeas P ≥
+      qBipartiteMatchMass ψ A.toSubMeas G.toSubMeas - Real.sqrt ε := by
+  have hgap :=
+    MIPStarRE.LDT.Preliminaries.easyApproxFromApproxDelta ψ hψ
+      (uniformDistribution Unit) (uniformDistribution_weight_sum_le_one Unit)
+      (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) G.toSubMeas))
+      (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) P))
+      (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) A.toSubMeas))
+      ε hclose
+  have hgap' :
+      |qBipartiteMatchMass ψ A.toSubMeas G.toSubMeas -
+          qBipartiteMatchMass ψ A.toSubMeas P| ≤
+        Real.sqrt ε := by
+    simpa [avgOver, uniformDistribution, constSubMeasFamily,
+      qBipartiteMatchMass, leftPlacedSubMeas, rightPlacedSubMeas,
+      rightTensor_mul_leftTensor_eq_opTensor] using hgap
+  have hdiff :
+      qBipartiteMatchMass ψ A.toSubMeas G.toSubMeas -
+          qBipartiteMatchMass ψ A.toSubMeas P ≤
+        Real.sqrt ε :=
+    (abs_le.mp hgap').2
+  linarith
+
+/-- The bipartite matching mass against a complete right measurement is bounded
+by the left total of the other submeasurement. -/
+lemma qBipartiteMatchMass_le_left_total_of_measurement_heterogeneous
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (A : SubMeas Outcome ιA)
+    (B : Measurement Outcome ιB) :
+    qBipartiteMatchMass ψ A B.toSubMeas ≤
+      ev ψ (leftTensor (ι₂ := ιB) A.total) := by
+  unfold qBipartiteMatchMass
+  calc
+    ∑ a : Outcome, ev ψ (opTensor (A.outcome a) (B.outcome a))
+      ≤ ∑ a : Outcome, ev ψ (leftTensor (ι₂ := ιB) (A.outcome a)) := by
+          refine Finset.sum_le_sum ?_
+          intro a _
+          exact ev_mono ψ _ _ <|
+            opTensor_le_leftTensor (ι₂ := ιB)
+              (A.outcome_pos a) (Measurement.outcome_le_one B a)
+    _ = ev ψ (leftTensor (ι₂ := ιB) A.total) := by
+          rw [← ev_sum ψ (fun a : Outcome => leftTensor (ι₂ := ιB) (A.outcome a))]
+          rw [leftTensor_finset_sum (ι₂ := ιB) Finset.univ A.outcome]
+          rw [A.sum_eq_total]
+
+/-- The bipartite matching mass against a complete left measurement is bounded
+by the right total of the other submeasurement. -/
+lemma qBipartiteMatchMass_le_right_total_of_measurement_heterogeneous
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (A : Measurement Outcome ιA)
+    (B : SubMeas Outcome ιB) :
+    qBipartiteMatchMass ψ A.toSubMeas B ≤
+      ev ψ (rightTensor (ι₁ := ιA) B.total) := by
+  unfold qBipartiteMatchMass
+  calc
+    ∑ a : Outcome, ev ψ (opTensor (A.outcome a) (B.outcome a))
+      ≤ ∑ a : Outcome, ev ψ (rightTensor (ι₁ := ιA) (B.outcome a)) := by
+          refine Finset.sum_le_sum ?_
+          intro a _
+          exact ev_mono ψ _ _ <|
+            calc
+              opTensor (A.outcome a) (B.outcome a)
+                  ≤ opTensor (1 : MIPStarRE.Quantum.Op ιA) (B.outcome a) :=
+                    opTensor_mono_left (Measurement.outcome_le_one A a) (B.outcome_pos a)
+              _ = rightTensor (ι₁ := ιA) (B.outcome a) := by
+                    simp [rightTensor, opTensor]
+    _ = ev ψ (rightTensor (ι₁ := ιA) B.total) := by
+          rw [← ev_sum ψ (fun a : Outcome => rightTensor (ι₁ := ιA) (B.outcome a))]
+          rw [rightTensor_finset_sum (ι₁ := ιA) Finset.univ B.outcome]
+          rw [B.sum_eq_total]
+
+/-- Completing a projective submeasurement on Alice's side can only increase
+its bipartite matching mass against a fixed Bob-side submeasurement. -/
+lemma completeAtOutcomeProj_left_matchMass_ge_heterogeneous
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (P : ProjSubMeas Outcome ιA)
+    (B : SubMeas Outcome ιB) (a0 : Outcome) :
+    qBipartiteMatchMass ψ (Preliminaries.completeAtOutcomeProj P a0).toSubMeas B ≥
+      qBipartiteMatchMass ψ P.toSubMeas B := by
+  classical
+  unfold qBipartiteMatchMass
+  refine Finset.sum_le_sum ?_
+  intro a _
+  by_cases ha : a = a0
+  · subst a
+    have hres_nonneg : 0 ≤ (1 : MIPStarRE.Quantum.Op ιA) - P.toSubMeas.total :=
+      sub_nonneg.mpr P.toSubMeas.total_le_one
+    have hextra_nonneg :
+        0 ≤ ev ψ (opTensor ((1 : MIPStarRE.Quantum.Op ιA) - P.toSubMeas.total)
+          (B.outcome a0)) :=
+      ev_nonneg_of_psd ψ _ <| opTensor_nonneg hres_nonneg (B.outcome_pos a0)
+    simp [Preliminaries.completeAtOutcome, opTensor_add_left_local, ev_add]
+    linarith
+  · simp [Preliminaries.completeAtOutcome, ha]
+
+/-- Completing a projective submeasurement on Bob's side can only increase its
+bipartite matching mass against a fixed Alice-side submeasurement. -/
+lemma completeAtOutcomeProj_right_matchMass_ge_heterogeneous
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (A : SubMeas Outcome ιA)
+    (P : ProjSubMeas Outcome ιB) (a0 : Outcome) :
+    qBipartiteMatchMass ψ A (Preliminaries.completeAtOutcomeProj P a0).toSubMeas ≥
+      qBipartiteMatchMass ψ A P.toSubMeas := by
+  classical
+  unfold qBipartiteMatchMass
+  refine Finset.sum_le_sum ?_
+  intro a _
+  by_cases ha : a = a0
+  · subst a
+    have hres_nonneg : 0 ≤ (1 : MIPStarRE.Quantum.Op ιB) - P.toSubMeas.total :=
+      sub_nonneg.mpr P.toSubMeas.total_le_one
+    have hextra_nonneg :
+        0 ≤ ev ψ (opTensor (A.outcome a0)
+          ((1 : MIPStarRE.Quantum.Op ιB) - P.toSubMeas.total)) :=
+      ev_nonneg_of_psd ψ _ <| opTensor_nonneg (A.outcome_pos a0) hres_nonneg
+    simp [Preliminaries.completeAtOutcome, opTensor_add_right_local, ev_add]
+    linarith
+  · simp [Preliminaries.completeAtOutcome, ha]
+
+/-- Combine cross consistency and Alice-side orthonormalization closeness into
+the completion estimate for the left tensor factor. -/
+lemma completedCloseness_left_of_consistency_and_sdd
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized) (ζ : Error)
+    (G_A : Measurement Outcome ιA) (G_B : Measurement Outcome ιB)
+    (P_A : ProjSubMeas Outcome ιA) (a0 : Outcome)
+    (hpre : ConsRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily G_A.toSubMeas)
+      (constSubMeasFamily G_B.toSubMeas) ζ)
+    (horth :
+      SDDRel ψ (uniformDistribution Unit)
+        (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) G_A.toSubMeas))
+        (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) P_A.toSubMeas))
+        (MakingMeasurementsProjective.orthonormalizationError ζ)) :
+    SDDRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) G_A.toSubMeas))
+      (constSubMeasFamily
+        (leftPlacedSubMeas (ιB := ιB)
+          (Preliminaries.completeAtOutcomeProj P_A a0).toSubMeas))
+      (MakingMeasurementsProjective.orthonormalizeAndCompleteError ζ) := by
+  let Q_A := Preliminaries.completeAtOutcomeProj P_A a0
+  have hpre_q : qBipartiteConsDefect ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    simpa [bipartiteConsError, avgOver, uniformDistribution, constSubMeasFamily] using
+      hpre.offDiagonalBound
+  have hζ0 : 0 ≤ ζ :=
+    le_trans (qBipartiteConsDefect_nonneg ψ G_A.toSubMeas G_B.toSubMeas) hpre_q
+  have hmatch_G :
+      1 - qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    rw [qBipartiteConsDefect_of_measurements ψ G_A G_B] at hpre_q
+    have hone : ev ψ (1 : MIPStarRE.Quantum.Op (ιA × ιB)) = 1 :=
+      ev_one_of_isNormalized ψ hψ
+    linarith
+  have hmatch_P :
+      qBipartiteMatchMass ψ P_A.toSubMeas G_B.toSubMeas ≥
+        qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) :=
+    qBipartiteMatchMass_ge_sub_sqrt_of_left_sdd_heterogeneous
+      ψ hψ G_A P_A.toSubMeas G_B horth
+  have hmass_P :
+      1 - ev ψ (leftTensor (ι₂ := ιB) P_A.toSubMeas.total) ≤
+        ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    have hmatch_le :=
+      qBipartiteMatchMass_le_left_total_of_measurement_heterogeneous
+        ψ P_A.toSubMeas G_B
+    linarith
+  have hPP_q : qSDD ψ (leftPlacedSubMeas (ιB := ιB) P_A.toSubMeas)
+      (leftPlacedSubMeas (ιB := ιB) Q_A.toSubMeas) ≤
+      ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    simpa [Q_A] using
+      qSDD_completeAtOutcomeProj_leftPlaced_le_of_total_gap ψ hψ P_A a0 hmass_P
+  have hGP_q :
+      qSDD ψ (leftPlacedSubMeas (ιB := ιB) G_A.toSubMeas)
+          (leftPlacedSubMeas (ιB := ιB) P_A.toSubMeas) ≤
+        MakingMeasurementsProjective.orthonormalizationError ζ := by
+    simpa [Preliminaries.constFamily_sdd_unit] using horth.squaredDistanceBound
+  constructor
+  rw [Preliminaries.constFamily_sdd_unit]
+  calc
+    qSDD ψ (leftPlacedSubMeas (ιB := ιB) G_A.toSubMeas)
+        (leftPlacedSubMeas (ιB := ιB) Q_A.toSubMeas)
+      ≤ 2 * (qSDD ψ (leftPlacedSubMeas (ιB := ιB) G_A.toSubMeas)
+            (leftPlacedSubMeas (ιB := ιB) P_A.toSubMeas) +
+          qSDD ψ (leftPlacedSubMeas (ιB := ιB) P_A.toSubMeas)
+            (leftPlacedSubMeas (ιB := ιB) Q_A.toSubMeas)) := by
+            exact Preliminaries.questionSDD_triangle ψ
+              (leftPlacedSubMeas (ιB := ιB) G_A.toSubMeas)
+              (leftPlacedSubMeas (ιB := ιB) P_A.toSubMeas)
+              (leftPlacedSubMeas (ιB := ιB) Q_A.toSubMeas)
+    _ ≤ 2 * (MakingMeasurementsProjective.orthonormalizationError ζ +
+          (ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ))) := by
+          gcongr
+    _ = 2 * MakingMeasurementsProjective.orthonormalizationError ζ +
+          2 * ζ + 2 * Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+          ring
+    _ ≤ MakingMeasurementsProjective.orthonormalizeAndCompleteError ζ := by
+          have hsqrt_nonneg :
+              0 ≤ Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) :=
+            Real.sqrt_nonneg _
+          unfold MakingMeasurementsProjective.orthonormalizeAndCompleteError
+          linarith [hζ0, hsqrt_nonneg]
+
+/-- Bob/right-factor counterpart of
+`completedCloseness_left_of_consistency_and_sdd`. -/
+lemma completedCloseness_right_of_consistency_and_sdd
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized) (ζ : Error)
+    (G_A : Measurement Outcome ιA) (G_B : Measurement Outcome ιB)
+    (P_B : ProjSubMeas Outcome ιB) (a0 : Outcome)
+    (hpre : ConsRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily G_A.toSubMeas)
+      (constSubMeasFamily G_B.toSubMeas) ζ)
+    (horth :
+      SDDRel ψ (uniformDistribution Unit)
+        (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) G_B.toSubMeas))
+        (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) P_B.toSubMeas))
+        (MakingMeasurementsProjective.orthonormalizationError ζ)) :
+    SDDRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) G_B.toSubMeas))
+      (constSubMeasFamily
+        (rightPlacedSubMeas (ιA := ιA)
+          (Preliminaries.completeAtOutcomeProj P_B a0).toSubMeas))
+      (MakingMeasurementsProjective.orthonormalizeAndCompleteError ζ) := by
+  let Q_B := Preliminaries.completeAtOutcomeProj P_B a0
+  have hpre_q : qBipartiteConsDefect ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    simpa [bipartiteConsError, avgOver, uniformDistribution, constSubMeasFamily] using
+      hpre.offDiagonalBound
+  have hζ0 : 0 ≤ ζ :=
+    le_trans (qBipartiteConsDefect_nonneg ψ G_A.toSubMeas G_B.toSubMeas) hpre_q
+  have hmatch_G :
+      1 - qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    rw [qBipartiteConsDefect_of_measurements ψ G_A G_B] at hpre_q
+    have hone : ev ψ (1 : MIPStarRE.Quantum.Op (ιA × ιB)) = 1 :=
+      ev_one_of_isNormalized ψ hψ
+    linarith
+  have hmatch_P :
+      qBipartiteMatchMass ψ G_A.toSubMeas P_B.toSubMeas ≥
+        qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) :=
+    qBipartiteMatchMass_ge_sub_sqrt_of_right_sdd_heterogeneous
+      ψ hψ G_A G_B P_B.toSubMeas horth
+  have hmass_P :
+      1 - ev ψ (rightTensor (ι₁ := ιA) P_B.toSubMeas.total) ≤
+        ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    have hmatch_le :=
+      qBipartiteMatchMass_le_right_total_of_measurement_heterogeneous
+        ψ G_A P_B.toSubMeas
+    linarith
+  have hPP_q : qSDD ψ (rightPlacedSubMeas (ιA := ιA) P_B.toSubMeas)
+      (rightPlacedSubMeas (ιA := ιA) Q_B.toSubMeas) ≤
+      ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    simpa [Q_B] using
+      qSDD_completeAtOutcomeProj_rightPlaced_le_of_total_gap ψ hψ P_B a0 hmass_P
+  have hGP_q :
+      qSDD ψ (rightPlacedSubMeas (ιA := ιA) G_B.toSubMeas)
+          (rightPlacedSubMeas (ιA := ιA) P_B.toSubMeas) ≤
+        MakingMeasurementsProjective.orthonormalizationError ζ := by
+    simpa [Preliminaries.constFamily_sdd_unit] using horth.squaredDistanceBound
+  constructor
+  rw [Preliminaries.constFamily_sdd_unit]
+  calc
+    qSDD ψ (rightPlacedSubMeas (ιA := ιA) G_B.toSubMeas)
+        (rightPlacedSubMeas (ιA := ιA) Q_B.toSubMeas)
+      ≤ 2 * (qSDD ψ (rightPlacedSubMeas (ιA := ιA) G_B.toSubMeas)
+            (rightPlacedSubMeas (ιA := ιA) P_B.toSubMeas) +
+          qSDD ψ (rightPlacedSubMeas (ιA := ιA) P_B.toSubMeas)
+            (rightPlacedSubMeas (ιA := ιA) Q_B.toSubMeas)) := by
+            exact Preliminaries.questionSDD_triangle ψ
+              (rightPlacedSubMeas (ιA := ιA) G_B.toSubMeas)
+              (rightPlacedSubMeas (ιA := ιA) P_B.toSubMeas)
+              (rightPlacedSubMeas (ιA := ιA) Q_B.toSubMeas)
+    _ ≤ 2 * (MakingMeasurementsProjective.orthonormalizationError ζ +
+          (ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ))) := by
+          gcongr
+    _ = 2 * MakingMeasurementsProjective.orthonormalizationError ζ +
+          2 * ζ + 2 * Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+          ring
+    _ ≤ MakingMeasurementsProjective.orthonormalizeAndCompleteError ζ := by
+          have hsqrt_nonneg :
+              0 ≤ Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) :=
+            Real.sqrt_nonneg _
+          unfold MakingMeasurementsProjective.orthonormalizeAndCompleteError
+          linarith [hζ0, hsqrt_nonneg]
+
+/-- Alice-side repaired line-169 consistency after completing the projective
+submeasurement.
+
+This proves the heterogeneous analogue of the paper's
+`Q^A_g \otimes I \simeq I \otimes G^B_g` step, with the checked repaired loss
+`ζ + sqrt (orthonormalizationError ζ)`. -/
+lemma completedLeftConsistency_of_consistency_and_sdd
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized) (ζ : Error)
+    (G_A : Measurement Outcome ιA) (G_B : Measurement Outcome ιB)
+    (P_A : ProjSubMeas Outcome ιA) (a0 : Outcome)
+    (hpre : ConsRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily G_A.toSubMeas)
+      (constSubMeasFamily G_B.toSubMeas) ζ)
+    (horth :
+      SDDRel ψ (uniformDistribution Unit)
+        (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) G_A.toSubMeas))
+        (constSubMeasFamily (leftPlacedSubMeas (ιB := ιB) P_A.toSubMeas))
+        (MakingMeasurementsProjective.orthonormalizationError ζ)) :
+    ConsRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily (Preliminaries.completeAtOutcomeProj P_A a0).toSubMeas)
+      (constSubMeasFamily G_B.toSubMeas)
+      (ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ)) := by
+  let Q_A := Preliminaries.completeAtOutcomeProj P_A a0
+  have hpre_q : qBipartiteConsDefect ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    simpa [bipartiteConsError, avgOver, uniformDistribution, constSubMeasFamily]
+      using hpre.offDiagonalBound
+  have hζ0 : 0 ≤ ζ :=
+    le_trans (qBipartiteConsDefect_nonneg ψ G_A.toSubMeas G_B.toSubMeas) hpre_q
+  have hone : ev ψ (1 : MIPStarRE.Quantum.Op (ιA × ιB)) = 1 :=
+    ev_one_of_isNormalized ψ hψ
+  have hmatch_G :
+      1 - qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    rw [qBipartiteConsDefect_of_measurements ψ G_A G_B] at hpre_q
+    linarith
+  have hmatch_P :
+      qBipartiteMatchMass ψ P_A.toSubMeas G_B.toSubMeas ≥
+        qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) :=
+    qBipartiteMatchMass_ge_sub_sqrt_of_left_sdd_heterogeneous
+      ψ hψ G_A P_A.toSubMeas G_B horth
+  have hmatch_Q :
+      qBipartiteMatchMass ψ Q_A.toSubMeas G_B.toSubMeas ≥
+        qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    calc
+      qBipartiteMatchMass ψ Q_A.toSubMeas G_B.toSubMeas
+          ≥ qBipartiteMatchMass ψ P_A.toSubMeas G_B.toSubMeas :=
+            completeAtOutcomeProj_left_matchMass_ge_heterogeneous
+              ψ P_A G_B.toSubMeas a0
+      _ ≥ qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := hmatch_P
+  have hmatch_Q' :
+      1 - qBipartiteMatchMass ψ Q_A.toSubMeas G_B.toSubMeas ≤
+        ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    linarith
+  have hdefect_Q :
+      qBipartiteConsDefect ψ Q_A.toSubMeas G_B.toSubMeas ≤
+        ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    have hmax :
+        max 0 (ev ψ (1 : MIPStarRE.Quantum.Op (ιA × ιB)) -
+            qBipartiteMatchMass ψ Q_A.toSubMeas G_B.toSubMeas) ≤
+          ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+      exact max_le_iff.mpr
+        ⟨add_nonneg hζ0 (Real.sqrt_nonneg _), by simpa [hone] using hmatch_Q'⟩
+    simpa [qBipartiteConsDefect, qBipartiteMatchMass, Q_A.total_eq_one,
+      G_B.total_eq_one, opTensor] using hmax
+  constructor
+  simpa [Q_A, bipartiteConsError, avgOver, uniformDistribution, constSubMeasFamily]
+    using hdefect_Q
+
+/-- Bob-side repaired line-169 consistency after completing the projective
+submeasurement.
+
+This is the heterogeneous analogue of the role-reversed line-169 relation
+`G^A_g \otimes I \simeq I \otimes Q^B_g`. -/
+lemma completedRightConsistency_of_consistency_and_sdd
+    {Outcome : Type*} {ιA ιB : Type*}
+    [Fintype Outcome]
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized) (ζ : Error)
+    (G_A : Measurement Outcome ιA) (G_B : Measurement Outcome ιB)
+    (P_B : ProjSubMeas Outcome ιB) (a0 : Outcome)
+    (hpre : ConsRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily G_A.toSubMeas)
+      (constSubMeasFamily G_B.toSubMeas) ζ)
+    (horth :
+      SDDRel ψ (uniformDistribution Unit)
+        (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) G_B.toSubMeas))
+        (constSubMeasFamily (rightPlacedSubMeas (ιA := ιA) P_B.toSubMeas))
+        (MakingMeasurementsProjective.orthonormalizationError ζ)) :
+    ConsRel ψ (uniformDistribution Unit)
+      (constSubMeasFamily G_A.toSubMeas)
+      (constSubMeasFamily (Preliminaries.completeAtOutcomeProj P_B a0).toSubMeas)
+      (ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ)) := by
+  let Q_B := Preliminaries.completeAtOutcomeProj P_B a0
+  have hpre_q : qBipartiteConsDefect ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    simpa [bipartiteConsError, avgOver, uniformDistribution, constSubMeasFamily]
+      using hpre.offDiagonalBound
+  have hζ0 : 0 ≤ ζ :=
+    le_trans (qBipartiteConsDefect_nonneg ψ G_A.toSubMeas G_B.toSubMeas) hpre_q
+  have hone : ev ψ (1 : MIPStarRE.Quantum.Op (ιA × ιB)) = 1 :=
+    ev_one_of_isNormalized ψ hψ
+  have hmatch_G :
+      1 - qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas ≤ ζ := by
+    rw [qBipartiteConsDefect_of_measurements ψ G_A G_B] at hpre_q
+    linarith
+  have hmatch_P :
+      qBipartiteMatchMass ψ G_A.toSubMeas P_B.toSubMeas ≥
+        qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) :=
+    qBipartiteMatchMass_ge_sub_sqrt_of_right_sdd_heterogeneous
+      ψ hψ G_A G_B P_B.toSubMeas horth
+  have hmatch_Q :
+      qBipartiteMatchMass ψ G_A.toSubMeas Q_B.toSubMeas ≥
+        qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    calc
+      qBipartiteMatchMass ψ G_A.toSubMeas Q_B.toSubMeas
+          ≥ qBipartiteMatchMass ψ G_A.toSubMeas P_B.toSubMeas :=
+            completeAtOutcomeProj_right_matchMass_ge_heterogeneous
+              ψ G_A.toSubMeas P_B a0
+      _ ≥ qBipartiteMatchMass ψ G_A.toSubMeas G_B.toSubMeas -
+          Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := hmatch_P
+  have hmatch_Q' :
+      1 - qBipartiteMatchMass ψ G_A.toSubMeas Q_B.toSubMeas ≤
+        ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    linarith
+  have hdefect_Q :
+      qBipartiteConsDefect ψ G_A.toSubMeas Q_B.toSubMeas ≤
+        ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+    have hmax :
+        max 0 (ev ψ (1 : MIPStarRE.Quantum.Op (ιA × ιB)) -
+            qBipartiteMatchMass ψ G_A.toSubMeas Q_B.toSubMeas) ≤
+          ζ + Real.sqrt (MakingMeasurementsProjective.orthonormalizationError ζ) := by
+      exact max_le_iff.mpr
+        ⟨add_nonneg hζ0 (Real.sqrt_nonneg _), by simpa [hone] using hmatch_Q'⟩
+    simpa [qBipartiteConsDefect, qBipartiteMatchMass, G_A.total_eq_one,
+      Q_B.total_eq_one, opTensor] using hmax
+  constructor
+  simpa [Q_B, bipartiteConsError, avgOver, uniformDistribution, constSubMeasFamily]
+    using hdefect_Q
+
+end ProjStrat
+
+end MIPStarRE.LDT
+
+

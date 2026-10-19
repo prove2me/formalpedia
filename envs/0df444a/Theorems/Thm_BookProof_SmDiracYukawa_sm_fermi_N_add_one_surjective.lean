@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_sm_fermi_N_add_one_surjective
 -- name    : BookProof.SmDiracYukawa.sm_fermi_N_add_one_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:47:49.476758+00:00
 -- url     : https://prove2.me/theorems/16e59420-573a-46c7-8590-a1cabf59f3db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_SafeAVI_error_le_residual
 -- name    : AccelVI.SafeAVI.error_le_residual
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:20.704462+00:00
 -- url     : https://prove2.me/theorems/fa7f2f45-c373-4327-addc-9b29f5edf175

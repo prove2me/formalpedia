@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_momentumOp_eq_zero_of_compactSupport_test
 -- name    : BookProof.MixedLinearEsa.momentumOp_eq_zero_of_compactSupport_test
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:05:20.573127+00:00
 -- url     : https://prove2.me/theorems/3587b066-39c5-41d3-b9e5-f703a3b86c7e

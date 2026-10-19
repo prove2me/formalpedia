@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isEquicontinuousSet_iff_of_isStrictColimit
 -- name    : GarrettFA.isEquicontinuousSet_iff_of_isStrictColimit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:29:14.414701+00:00
 -- url     : https://prove2.me/theorems/51723958-9375-4b54-9ce3-9497cd68c344

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_shiftedHMatOp_rotConj_symmetric
 -- name    : BookProof.ShiftedQuadraticMatrix.shiftedHMatOp_rotConj_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:46:35.429137+00:00
 -- url     : https://prove2.me/theorems/de4feabd-eb89-42a9-b934-0af26fc49a52

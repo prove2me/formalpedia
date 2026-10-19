@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MIPRE.Halting.mipstarComputable_eq_re
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @thomasvidick
 -- created : 2026-10-15T22:39:09.700955+00:00
 -- url     : https://prove2.me/submissions/9d6dcfc8-35e0-4961-b505-899854a8ee1b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Thomas Vidick. All rights reserved.

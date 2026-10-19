@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_zsqrtd_span_singleton_eq_iff
 -- name    : QAlgorithms.Childs.zsqrtd_span_singleton_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:31:20.790809+00:00
 -- url     : https://prove2.me/theorems/f3ccfc17-143e-4565-823f-de5efbd8211c

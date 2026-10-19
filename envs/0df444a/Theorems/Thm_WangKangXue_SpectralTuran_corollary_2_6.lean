@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangKangXue_SpectralTuran_corollary_2_6
 -- name    : WangKangXue.SpectralTuran.corollary_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:24:55.369925+00:00
 -- url     : https://prove2.me/theorems/0112be83-4d19-401c-94f7-35aeda524402

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_fermiBilin_symmetric
 -- name    : BookProof.SmCar.fermiBilin_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:31:50.168456+00:00
 -- url     : https://prove2.me/theorems/f4117f1c-1256-49bd-afe1-1ee81861b828

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.FockManyMode.fockH_essentiallySelfAdjointOn_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T22:52:13.057042+00:00
 -- url     : https://prove2.me/submissions/09d7e7d8-14fd-4a71-b747-484687f5ef70
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesFockManyMode.lean — solution of BookProof.NavierStokesFlow.FockManyMode.fockH_essentiallySelfAdjointOn_core
 import Mathlib

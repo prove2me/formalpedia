@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_corollary1_order1_SM_eigenpairs
 -- name    : STVFriedmann.corollary1_order1_SM_eigenpairs
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T01:56:17.109981+00:00
 -- url     : https://prove2.me/theorems/be7601ad-b7d7-4ab9-89e7-8614c8eacec6

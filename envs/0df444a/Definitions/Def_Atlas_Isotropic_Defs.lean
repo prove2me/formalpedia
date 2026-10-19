@@ -4,6 +4,10 @@
 -- author  : @He Wang
 -- created : 2026-10-15T18:47:23.131987+00:00
 -- url     : https://prove2.me/theorems/92837011-a2be-4ddb-802e-538aaf469dc3
+-- statement:
+--   Coordinates (t, ρ, θ, φ); Bf M ρ = 1 + M/(2ρ), Af M ρ = (1 − M/(2ρ))/(1 + M/(2ρ)). gIso M = diag(−A², B⁴, B⁴ρ², B⁴ρ² sin²θ), giIso M the reciprocal diagonal (written independently; checked in the certificate). Domains: domIso M = {ρ > 0, ρ ≠ M/2, 0 < θ < π}; domIsoOut M = {M/2 < ρ, 0 < ρ, 0 < θ < π}; domIsoIn M = {0 < ρ < M/2, 0 < θ < π}; domStdExt M = {2M < r, 0 < r, 0 < θ < π}. Radial map rad M ρ = ρ(1 + M/(2ρ))² with the two inverse branches radInvOut M r = (r − M + √(r(r − 2M)))/2 and radInvIn M r = (r − M − √(r(r − 2M)))/2; toStd M x = (t, rad M ρ, θ, φ), fromStdOut/fromStdIn the corresponding inverse maps; jacIso M x = diag(1, 1 − M²/(4ρ²), 1, 1), jacIsoInv its reciprocal (valid for ρ ≠ 0, ±M/2). Cartesian form: rho x = √(x² + y² + z²), gIsoCart M = diag(−A(ρ)², B(ρ)⁴, B(ρ)⁴, B(ρ)⁴), giIsoCart the reciprocal, domIsoCart M = {ρ > 0, ρ ≠ M/2}. Lean conventions: division by zero is 0, so Af M 0 = 1 and the radial Jacobian entry at ρ = 0 is 1 — these points are excluded from every domain; Real.sqrt of a negative number is 0 — never used, since r(r − 2M) ≥ 0 on domStdExt. For M > 0, ρ = M/2 (A = 0) is a chart degeneracy and is excluded; for M = 0 it coincides with the excluded origin.
+--
+--   **中文导读。** isotropic 数据：B = 1 + M/2ρ、A = (1 − M/2ρ)/B、球坐标与 Cartesian 度规及候选逆、域（完整域、内外支、r > 2M）、径向映射 r = ρ(1 + M/2ρ)² 与两支逆 ρ±、Jacobian diag(1, 1 − M²/4ρ², 1, 1)。
 -- source:
 --   He Wang, Exact Vacuum Atlas II, local source snapshot (public Git repository not yet available), commit 11fb317259353b71a41d6daed466c495cffd7db4; Atlas/Isotropic/Defs.lean; SHA-256 3f92e15a444a4c96a42e80b16bf07e7a93b5e27f53720e1eb06cfd8535c2315a. Mathematical background: See mission/PHYSICS_BOUNDARY.md §A-F for registered definitions and literature references (Wald, Müller-Grave arXiv:0904.4184, Visser arXiv:0706.0622, Martel-Poisson gr-qc/0001069).
 

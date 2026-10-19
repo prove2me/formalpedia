@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_liftLogSeries_support_bound
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.liftLogSeries_support_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:52:45.051907+00:00
 -- url     : https://prove2.me/theorems/fc8dc4cd-dbda-4ea8-b255-ea50d62b8a78

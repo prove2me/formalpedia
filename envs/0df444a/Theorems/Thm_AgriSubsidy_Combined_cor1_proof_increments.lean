@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgriSubsidy_Combined_cor1_proof_increments
 -- name    : AgriSubsidy.Combined.cor1_proof_increments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:29.130243+00:00
 -- url     : https://prove2.me/theorems/79bce7d1-9c9b-45a9-b83a-b803c1103b10

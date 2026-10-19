@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgMultiHalfDensity_multi_hasZeroDeficiencyOn_transfer
 -- name    : BookProof.QgMultiHalfDensity.multi_hasZeroDeficiencyOn_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:37:20.462153+00:00
 -- url     : https://prove2.me/theorems/20002a03-7b25-4825-b25e-180282d554ab

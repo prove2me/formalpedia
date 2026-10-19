@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_deferred_temp_split
 -- name    : ActuarialAnnuities.deferred_temp_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:04:51.498335+00:00
 -- url     : https://prove2.me/theorems/595458ff-9674-4448-b9ce-01e28183cbf0

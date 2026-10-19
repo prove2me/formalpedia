@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_lemma4_opt_bound
 -- name    : XinGoldbergTBS.Asymptotic.lemma4_opt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:27:16.436261+00:00
 -- url     : https://prove2.me/theorems/0d150f13-7dc5-4109-8cb2-d390d9431f51

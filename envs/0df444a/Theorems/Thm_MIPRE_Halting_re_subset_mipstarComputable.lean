@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_re_subset_mipstarComputable
 -- name    : MIPRE.Halting.re_subset_mipstarComputable
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:41:02.663915+00:00
 -- url     : https://prove2.me/theorems/5a1ae0f3-1b32-44ba-8e5a-9baef980a480

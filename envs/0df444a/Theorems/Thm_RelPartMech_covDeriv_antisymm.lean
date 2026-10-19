@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_covDeriv_antisymm
 -- name    : RelPartMech.covDeriv_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:12:05.896696+00:00
 -- url     : https://prove2.me/theorems/44ecd607-a78e-4c28-84a7-eea9f1d45dea

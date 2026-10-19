@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExecCompLP_LAD_lift_feasible
 -- name    : ExecCompLP.LAD.lift_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:23:19.846181+00:00
 -- url     : https://prove2.me/theorems/4ca5ed27-2bbe-40ec-aaec-f51f6305d0d5

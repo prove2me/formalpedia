@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_lemma2_many_vacua_zero_lambda
 -- name    : FlatlyFoliated.lemma2_many_vacua_zero_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:43:46.777257+00:00
 -- url     : https://prove2.me/theorems/a6f912ac-546d-4a4e-9248-660f120035ac

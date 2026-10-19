@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_NetworkGap_affine_cover_bound
 -- name    : BudgetedAffine.NetworkGap.affine_cover_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:29.540981+00:00
 -- url     : https://prove2.me/theorems/cc7d08b4-1a40-4fc4-be7e-08edf0f431e8

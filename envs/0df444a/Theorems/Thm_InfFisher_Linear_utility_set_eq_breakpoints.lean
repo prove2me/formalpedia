@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfFisher_Linear_utility_set_eq_breakpoints
 -- name    : InfFisher.Linear.utility_set_eq_breakpoints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:48.015895+00:00
 -- url     : https://prove2.me/theorems/014ad671-447e-41b3-a5b8-8d6f7d94cf04

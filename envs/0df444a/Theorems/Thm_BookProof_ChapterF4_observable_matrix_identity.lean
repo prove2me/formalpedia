@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_observable_matrix_identity
 -- name    : BookProof.ChapterF4.observable_matrix_identity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:50.197079+00:00
 -- url     : https://prove2.me/theorems/8df65805-1a99-4f37-99db-75a18dac70eb

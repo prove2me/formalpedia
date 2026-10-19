@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_udd_micro_continuous_equals_arrears
 -- name    : ActuarialAnnuitiesBridge.udd_micro_continuous_equals_arrears
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:39:58.560676+00:00
 -- url     : https://prove2.me/theorems/7a05f36f-83c2-4c7b-b7d4-4832ef9fd816

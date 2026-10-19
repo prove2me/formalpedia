@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_Statics_eq_42
 -- name    : TokenFinance.Statics.eq_42
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:32.754388+00:00
 -- url     : https://prove2.me/theorems/f220b2a3-7504-411f-af15-f3dfddbc9e29

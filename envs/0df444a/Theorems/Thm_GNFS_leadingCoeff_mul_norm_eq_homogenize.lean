@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GNFS_leadingCoeff_mul_norm_eq_homogenize
 -- name    : GNFS.leadingCoeff_mul_norm_eq_homogenize
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:25:19.37999+00:00
 -- url     : https://prove2.me/theorems/936d1308-effc-48c9-b898-2e9c8d4b5e8b

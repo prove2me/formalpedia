@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_constrainedSpectrum_eq_univ_of_isUnconstrained
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.constrainedSpectrum_eq_univ_of_isUnconstrained
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:15:44.290719+00:00
 -- url     : https://prove2.me/theorems/f69ddd33-2387-4bfc-823a-c88321a32980

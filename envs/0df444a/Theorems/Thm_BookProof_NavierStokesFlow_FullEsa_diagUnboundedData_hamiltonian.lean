@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_diagUnboundedData_hamiltonian
 -- name    : BookProof.NavierStokesFlow.FullEsa.diagUnboundedData_hamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:14:47.747523+00:00
 -- url     : https://prove2.me/theorems/7d4ff170-86a1-4650-b7e2-257f589f3bd2

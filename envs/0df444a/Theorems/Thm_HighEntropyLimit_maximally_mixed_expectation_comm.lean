@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_maximally_mixed_expectation_comm
 -- name    : HighEntropyLimit.maximally_mixed_expectation_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:55:23.105699+00:00
 -- url     : https://prove2.me/theorems/d0c54412-c304-4caf-b1fa-3adc6fbf2c8d

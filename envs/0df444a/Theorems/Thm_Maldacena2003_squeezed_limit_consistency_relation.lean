@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_squeezed_limit_consistency_relation
 -- name    : Maldacena2003.squeezed_limit_consistency_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:58:03.431472+00:00
 -- url     : https://prove2.me/theorems/5dd57ec1-5ab9-4f88-ab9e-ff2320894836

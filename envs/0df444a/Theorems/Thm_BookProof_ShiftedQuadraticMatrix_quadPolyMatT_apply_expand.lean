@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_quadPolyMatT_apply_expand
 -- name    : BookProof.ShiftedQuadraticMatrix.quadPolyMatT_apply_expand
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:45:17.211842+00:00
 -- url     : https://prove2.me/theorems/3d5e4edb-7e58-4b64-befa-ea912c3603a5

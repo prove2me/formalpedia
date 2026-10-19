@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_shell_theorem_exterior
 -- name    : NewtonGravitation.shell_theorem_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:02:35.354806+00:00
 -- url     : https://prove2.me/theorems/ee1e88e4-9015-487e-b3ee-0ac8a7bb75c1

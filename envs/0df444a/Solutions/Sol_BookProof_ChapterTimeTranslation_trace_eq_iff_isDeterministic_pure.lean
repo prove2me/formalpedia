@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterTimeTranslation.trace_eq_iff_isDeterministic_pure
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:12:16.184311+00:00
 -- url     : https://prove2.me/submissions/724cc3ac-f931-4b0d-88fc-f428a4b2ef24
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterTimeTranslation.lean — solution of BookProof.ChapterTimeTranslation.trace_eq_iff_isDeterministic_pure
 import Mathlib

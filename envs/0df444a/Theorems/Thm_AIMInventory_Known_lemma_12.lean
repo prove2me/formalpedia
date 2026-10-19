@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AIMInventory_Known_lemma_12
 -- name    : AIMInventory.Known.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:27:28.258766+00:00
 -- url     : https://prove2.me/theorems/cc2efb49-f783-47b5-bd6a-1dba8a425a43

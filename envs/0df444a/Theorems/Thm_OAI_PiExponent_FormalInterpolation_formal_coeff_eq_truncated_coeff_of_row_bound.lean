@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_formal_coeff_eq_truncated_coeff_of_row_bound
 -- name    : OAI.PiExponent.FormalInterpolation.formal_coeff_eq_truncated_coeff_of_row_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-13T07:15:11.281826+00:00
 -- url     : https://prove2.me/theorems/e1998472-29aa-41ca-a013-e43582dfb92f

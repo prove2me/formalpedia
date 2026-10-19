@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_inc_dec_level
 -- name    : actuarial_c_inc_dec_level
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:22:05.088361+00:00
 -- url     : https://prove2.me/theorems/f9e71ba4-5cce-4808-8e41-998d32717ad8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_term_add_year
 -- name    : actuarial_c_term_add_year
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:18:23.695147+00:00
 -- url     : https://prove2.me/theorems/db3954ee-53a4-4c50-8606-5d621453c41f

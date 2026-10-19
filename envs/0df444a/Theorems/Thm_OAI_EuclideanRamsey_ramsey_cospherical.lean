@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_ramsey_cospherical
 -- name    : OAI.EuclideanRamsey.ramsey_cospherical
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:38.823381+00:00
 -- url     : https://prove2.me/theorems/d89ae41c-3502-44d6-b403-0926d2ebfc84

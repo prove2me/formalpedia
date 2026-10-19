@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockContinuum_multOp_isSymmetricDom
 -- name    : BookProof.NavierStokesFlow.FockContinuum.multOp_isSymmetricDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:57:09.474989+00:00
 -- url     : https://prove2.me/theorems/30346fa0-83d7-45fb-b5e6-fd15b6b038c3

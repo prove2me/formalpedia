@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_theorem2_equivalence
 -- name    : FlatlyFoliated.theorem2_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:39:53.480348+00:00
 -- url     : https://prove2.me/theorems/30907190-4d1d-4f16-8649-df58ca44cb71

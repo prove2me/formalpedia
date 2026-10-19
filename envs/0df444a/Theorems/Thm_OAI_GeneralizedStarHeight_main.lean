@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GeneralizedStarHeight_main
 -- name    : OAI.GeneralizedStarHeight.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:42.496947+00:00
 -- url     : https://prove2.me/theorems/ece5a21e-ed22-4ce7-96ac-962ce0317646

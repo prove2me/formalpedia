@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyPhotonNumber_entropy_photon_number_inequality
 -- name    : OAI.EntropyPhotonNumber.entropy_photon_number_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:37.05952+00:00
 -- url     : https://prove2.me/theorems/e96b6eda-42d9-4886-afaa-616a4ea529c2

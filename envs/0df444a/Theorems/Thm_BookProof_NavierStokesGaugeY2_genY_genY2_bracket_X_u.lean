@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesGaugeY2_genY_genY2_bracket_X_u
 -- name    : BookProof.NavierStokesGaugeY2.genY_genY2_bracket_X_u
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:04:27.539878+00:00
 -- url     : https://prove2.me/theorems/9a25f571-0141-47dc-a94a-aff6700ca375

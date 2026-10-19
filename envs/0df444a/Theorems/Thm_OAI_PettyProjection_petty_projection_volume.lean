@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PettyProjection_petty_projection_volume
 -- name    : OAI.PettyProjection.petty_projection_volume
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:03.224422+00:00
 -- url     : https://prove2.me/theorems/9f028a1b-b20a-4967-83a5-61322a33ca81

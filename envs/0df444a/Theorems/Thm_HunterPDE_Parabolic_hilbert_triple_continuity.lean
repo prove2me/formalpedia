@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Parabolic_hilbert_triple_continuity
 -- name    : HunterPDE.Parabolic.hilbert_triple_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:19:14.374997+00:00
 -- url     : https://prove2.me/theorems/f92582a8-e271-4ae5-b3af-83f2c4e3b7d7

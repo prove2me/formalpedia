@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ScalaronDensitized.densConf_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:07:03.215738+00:00
 -- url     : https://prove2.me/submissions/6cb3bcf9-6ee7-4348-b741-77ea322d28eb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterScalaronDensitizedTransfer.lean — solution of BookProof.ScalaronDensitized.densConf_esa
 import Mathlib

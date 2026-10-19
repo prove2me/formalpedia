@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_Cooling_chiSq_eq_sum_sq_div_sub_one
 -- name    : QuantumMC.Cooling.chiSq_eq_sum_sq_div_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:35.704608+00:00
 -- url     : https://prove2.me/theorems/17dddf58-748d-454d-91ea-c218677203b7

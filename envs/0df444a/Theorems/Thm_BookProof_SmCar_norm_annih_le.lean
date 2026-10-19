@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_norm_annih_le
 -- name    : BookProof.SmCar.norm_annih_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:00:17.068164+00:00
 -- url     : https://prove2.me/theorems/71f6476b-ce00-4d57-b1d4-522cdfa6cbd2

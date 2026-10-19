@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem356_coulomb_counterexample_and_equal_infima
 -- name    : OAI.Problem356.coulomb_counterexample_and_equal_infima
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:11.125852+00:00
 -- url     : https://prove2.me/theorems/c61bdc3f-56f0-4c54-8c49-1a47ace934c0

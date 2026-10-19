@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_sqrtA_diag
 -- name    : QAlgorithms.Arunachalam.sqrtA_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:56:13.815793+00:00
 -- url     : https://prove2.me/theorems/f3713153-7752-4922-a7f7-d993f5c6c005

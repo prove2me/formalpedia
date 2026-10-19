@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmGaugeRep_sm_brst_nilpotent_of_su3_relations
 -- name    : BookProof.SmGaugeRep.sm_brst_nilpotent_of_su3_relations
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:57:04.835084+00:00
 -- url     : https://prove2.me/theorems/fd6f819a-daa2-46d6-a52a-8cfd683f0869

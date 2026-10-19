@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_commutator_net
 -- name    : QAlgorithms.Childs.commutator_net
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:31:45.65083+00:00
 -- url     : https://prove2.me/theorems/74529e0a-b999-4d91-b3c7-7f3f0b0ff3b0

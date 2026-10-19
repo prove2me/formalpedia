@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgrawalGoyalTS_NArmed_thompson_sampling_n_armed_regret
 -- name    : AgrawalGoyalTS.NArmed.thompson_sampling_n_armed_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:48:24.130131+00:00
 -- url     : https://prove2.me/theorems/e20c3d4e-227a-4e47-92ef-5289128677b2

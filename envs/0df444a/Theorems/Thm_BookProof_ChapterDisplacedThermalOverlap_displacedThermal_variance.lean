@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_displacedThermal_variance
 -- name    : BookProof.ChapterDisplacedThermalOverlap.displacedThermal_variance
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:44.941266+00:00
 -- url     : https://prove2.me/theorems/bc6a796b-89f6-40e5-afc4-742e3f53ffe4

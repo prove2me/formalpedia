@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallQueues_GIMs_theorem4_conditional_laws
 -- name    : KendallQueues.GIMs.theorem4_conditional_laws
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:46:00.576978+00:00
 -- url     : https://prove2.me/theorems/db6d1b89-0692-40d4-90a9-415b0e1ecf96

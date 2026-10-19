@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_hc_of_le_three
 -- name    : HadwigerConj.hc_of_le_three
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T23:12:08.760995+00:00
 -- url     : https://prove2.me/theorems/8589461b-5d7b-4a94-8a89-2e797ca6cc38

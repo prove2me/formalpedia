@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsallisINF_AdvAlpha_lemma_14
 -- name    : TsallisINF.AdvAlpha.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:45.337441+00:00
 -- url     : https://prove2.me/theorems/88262809-bb73-470f-8567-744660a5c9cd

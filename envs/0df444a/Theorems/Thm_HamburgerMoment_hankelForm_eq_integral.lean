@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_hankelForm_eq_integral
 -- name    : HamburgerMoment.hankelForm_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:57:44.680848+00:00
 -- url     : https://prove2.me/theorems/4986b98c-4435-41db-8c56-466dfc23610b

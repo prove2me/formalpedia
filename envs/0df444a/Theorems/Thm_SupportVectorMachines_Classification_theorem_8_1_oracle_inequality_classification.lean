@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Classification_theorem_8_1_oracle_inequality_classification
 -- name    : SupportVectorMachines.Classification.theorem_8_1_oracle_inequality_classification
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:12:56.250258+00:00
 -- url     : https://prove2.me/theorems/afe0a314-8c56-4600-9020-6772bc0ea78f

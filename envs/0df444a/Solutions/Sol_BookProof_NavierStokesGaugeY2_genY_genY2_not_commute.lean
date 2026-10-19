@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesGaugeY2.genY_genY2_not_commute
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:39:16.541621+00:00
 -- url     : https://prove2.me/submissions/89bdc627-8974-4347-b76a-54468ee90add
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesGaugeY2.lean — solution of BookProof.NavierStokesGaugeY2.genY_genY2_not_commute
 import Mathlib

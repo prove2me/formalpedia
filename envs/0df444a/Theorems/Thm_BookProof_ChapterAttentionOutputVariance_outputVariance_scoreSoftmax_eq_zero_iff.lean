@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_outputVariance_scoreSoftmax_eq_zero_iff
 -- name    : BookProof.ChapterAttentionOutputVariance.outputVariance_scoreSoftmax_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:38:36.052304+00:00
 -- url     : https://prove2.me/theorems/a0274bd7-1f27-4458-b8a3-f492924fe179

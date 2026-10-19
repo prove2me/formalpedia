@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_liftLogSeries_firstJet_coefficients
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.liftLogSeries_firstJet_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:24:46.279832+00:00
 -- url     : https://prove2.me/theorems/ff05e3d4-6af9-4c99-b657-8236ed796a81

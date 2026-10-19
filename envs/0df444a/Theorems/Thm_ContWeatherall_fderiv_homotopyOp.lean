@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContWeatherall_fderiv_homotopyOp
 -- name    : ContWeatherall.fderiv_homotopyOp
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T22:14:18.487904+00:00
 -- url     : https://prove2.me/theorems/d7c33bc0-c65c-4b6f-9586-25ce2221e7c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_intervalTwoLevel_inner_eq_integral
 -- name    : BookProof.NavierStokesFlow.FockOfFock.intervalTwoLevel_inner_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:23:26.648981+00:00
 -- url     : https://prove2.me/theorems/7edc158e-1f31-4ce1-91ea-863801f7766b

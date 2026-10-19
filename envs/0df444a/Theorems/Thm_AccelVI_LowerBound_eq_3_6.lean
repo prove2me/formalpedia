@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_LowerBound_eq_3_6
 -- name    : AccelVI.LowerBound.eq_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:19.421866+00:00
 -- url     : https://prove2.me/theorems/d9aeb969-1ddc-42c1-852a-41d2e7365be0

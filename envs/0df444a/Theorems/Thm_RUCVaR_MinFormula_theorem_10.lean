@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RUCVaR_MinFormula_theorem_10
 -- name    : RUCVaR.MinFormula.theorem_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:05:24.972272+00:00
 -- url     : https://prove2.me/theorems/b769eeb9-75d6-4d3c-a27f-3baf0310effe

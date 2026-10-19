@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_SamplesDual_theorem_17
 -- name    : SecretaryAdvice.SamplesDual.theorem_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:16.165985+00:00
 -- url     : https://prove2.me/theorems/1c4f4aa4-4965-4129-8996-99b224e504ec

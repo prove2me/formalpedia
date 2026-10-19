@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramersWannier_kw_intertwines_ZZ
 -- name    : KramersWannier.kw_intertwines_ZZ
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:48:34.879817+00:00
 -- url     : https://prove2.me/theorems/00c7de31-0c09-48d5-b97c-463ca3c8e92c

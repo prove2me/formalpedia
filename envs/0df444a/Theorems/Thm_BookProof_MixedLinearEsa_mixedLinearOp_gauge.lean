@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_mixedLinearOp_gauge
 -- name    : BookProof.MixedLinearEsa.mixedLinearOp_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:07:09.956983+00:00
 -- url     : https://prove2.me/theorems/396cf087-c8be-4b90-87a3-4235d8303a5a

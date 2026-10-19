@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_norm_restartIter
 -- name    : BookProof.BrstUnboundedLeakage.norm_restartIter
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:31:36.207985+00:00
 -- url     : https://prove2.me/theorems/13c1f13f-7aa2-4b0d-a77f-64adb5d1cc5e

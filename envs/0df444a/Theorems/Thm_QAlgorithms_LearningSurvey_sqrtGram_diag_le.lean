@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_LearningSurvey_sqrtGram_diag_le
 -- name    : QAlgorithms.LearningSurvey.sqrtGram_diag_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:35.457875+00:00
 -- url     : https://prove2.me/theorems/00383329-bafe-4da2-b701-531f305f7822

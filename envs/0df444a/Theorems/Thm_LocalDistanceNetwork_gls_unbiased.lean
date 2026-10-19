@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_gls_unbiased
 -- name    : LocalDistanceNetwork.gls_unbiased
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:24:34.454302+00:00
 -- url     : https://prove2.me/theorems/d64f4349-d3dc-46e1-8907-04ca6f602cc7

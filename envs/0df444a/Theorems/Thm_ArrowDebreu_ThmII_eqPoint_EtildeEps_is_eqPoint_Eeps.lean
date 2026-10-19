@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_eqPoint_EtildeEps_is_eqPoint_Eeps
 -- name    : ArrowDebreu.ThmII.eqPoint_EtildeEps_is_eqPoint_Eeps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:24:16.006181+00:00
 -- url     : https://prove2.me/theorems/05661638-d144-4660-b3be-c26ac2555cae

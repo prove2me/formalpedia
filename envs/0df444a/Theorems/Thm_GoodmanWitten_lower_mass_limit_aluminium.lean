@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_lower_mass_limit_aluminium
 -- name    : GoodmanWitten.lower_mass_limit_aluminium
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:51:39.813396+00:00
 -- url     : https://prove2.me/theorems/bd2db91d-6900-46ae-a568-1a08ce4a5a6b

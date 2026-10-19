@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperconductingQC_coupling_evolution_eq_iSWAP_conjTranspose
 -- name    : SuperconductingQC.coupling_evolution_eq_iSWAP_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:24:02.153+00:00
 -- url     : https://prove2.me/theorems/c0c0b803-ff49-4c1c-bbe9-8598c13712a1

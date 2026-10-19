@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianEsa_LagrangianFullData_kinetic_inner
 -- name    : BookProof.NavierStokesFlow.LagrangianEsa.LagrangianFullData.kinetic_inner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:32:20.480992+00:00
 -- url     : https://prove2.me/theorems/1654b3c8-cd6b-4633-a96d-9ad632b04eed

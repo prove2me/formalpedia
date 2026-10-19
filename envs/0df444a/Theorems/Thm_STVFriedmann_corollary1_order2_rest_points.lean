@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_corollary1_order2_rest_points
 -- name    : STVFriedmann.corollary1_order2_rest_points
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T01:57:09.624095+00:00
 -- url     : https://prove2.me/theorems/7b8b2767-820b-4d66-84ac-48df8b6fa879

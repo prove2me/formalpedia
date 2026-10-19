@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_finiteCircle_fullMain
 -- name    : OAI.finiteCircle_fullMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:41.066686+00:00
 -- url     : https://prove2.me/theorems/88a71807-ae20-4e7c-b7ba-02e74140c11f

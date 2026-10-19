@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GNFS_congruence_of_squares
 -- name    : GNFS.congruence_of_squares
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:30:18.976225+00:00
 -- url     : https://prove2.me/theorems/b59393eb-40db-4da9-9ed8-411f8b8a2fcd

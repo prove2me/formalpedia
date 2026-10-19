@@ -25,7 +25,7 @@
 --
 --   The constant and threshold are uniform over all such point sets.
 -- source:
---   Adam McKenna, Proof of the fourth-root additive bound for planar distinct distances, revision 2026-09-14, Theorem 1.1 and equations (16.7)--(16.9): https://github.com/flound1129/esgk-on3/blob/9e63c1648017becfc717d7e0e4f2877925ace28d/docs/results/esgk-n14-atomic-proof-2026-09-13.md
+--   Proof of a fourth-root additive bound for planar distinct distances (dated 2026-09-13; revision 2026-09-14 UTC; Git revision 9e63c1648017becfc717d7e0e4f2877925ace28d; file SHA-256 8ceaca7bad8c07ce3d56f8bf726a0d273ddc41fd300b777fae1eb6525e087d29); Theorem 1.1 and equations (16.7)--(16.9).
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

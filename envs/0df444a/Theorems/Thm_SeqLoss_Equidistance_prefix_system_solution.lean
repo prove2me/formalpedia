@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_Equidistance_prefix_system_solution
 -- name    : SeqLoss.Equidistance.prefix_system_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:13.310158+00:00
 -- url     : https://prove2.me/theorems/e60e75da-6755-40b7-8c37-b3a64198d2b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_Regret_cvp_regret_bound
 -- name    : CVPricing.Regret.cvp_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:38:43.082593+00:00
 -- url     : https://prove2.me/theorems/0f2d3266-ab15-4ccf-9946-1f4193fbea4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_KatoRellich_deficiencyTrivialAt_of_dense
 -- name    : BookProof.KatoRellich.deficiencyTrivialAt_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T14:12:52.740083+00:00
 -- url     : https://prove2.me/theorems/b8b68b38-2b57-452a-9ce6-6789482f0e7c

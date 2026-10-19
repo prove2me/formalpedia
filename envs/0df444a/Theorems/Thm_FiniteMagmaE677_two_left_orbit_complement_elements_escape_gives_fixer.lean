@@ -7,9 +7,9 @@
 -- title:
 --   Right-translation escape with two elements outside the left orbit gives a fixer
 -- statement:
---   For an element $x$, let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume $x\diamond x\ne x$, and assume that at least two distinct elements lie outside $O_x$. If right translation by $x$ sends some element of $O_x$ outside $O_x$, prove that $x$ has a right fixer: there is a $y$ such that $y\diamond x=x$. No associativity, commutativity, or identity is assumed.
+--   For an element $x$, let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume $x\diamond x\ne x$, and assume that at least two distinct elements lie outside $O_x$. If right translation by $x$ sends some element of $O_x$ outside $O_x$, prove that $x$ has a fixer: there is a $y$ such that $y\diamond x=x$. No associativity, commutativity, or identity is assumed.
 -- source:
---   Semantic branch target from the finite E677 to E255 formalization, lean/E677/Spine/D7NonFullCore.lean, theorem e677_fixer_two_outsiders_of_orbit_right_dip; Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
+--   Semantic branch target from the finite E677 to E255 formalization (Adam McKenna, The Missing Pair, private repository: lean/E677/Spine/D7NonFullCore.lean, theorem e677_fixer_two_outsiders_of_orbit_right_dip); Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
 
 import Definitions.Def_FiniteMagmaE677
 

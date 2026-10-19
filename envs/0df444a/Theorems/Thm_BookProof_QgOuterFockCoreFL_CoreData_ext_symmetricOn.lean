@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockCoreFL_CoreData_ext_symmetricOn
 -- name    : BookProof.QgOuterFockCoreFL.CoreData.ext_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:13:13.225978+00:00
 -- url     : https://prove2.me/theorems/47f5fc06-c431-4277-a497-9fcb1e879594

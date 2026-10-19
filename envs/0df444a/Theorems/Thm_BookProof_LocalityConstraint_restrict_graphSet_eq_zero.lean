@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_LocalityConstraint_restrict_graphSet_eq_zero
 -- name    : BookProof.LocalityConstraint.restrict_graphSet_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:32:13.017555+00:00
 -- url     : https://prove2.me/theorems/9821c86a-f5bd-4ca4-a6a1-36e5951616bc

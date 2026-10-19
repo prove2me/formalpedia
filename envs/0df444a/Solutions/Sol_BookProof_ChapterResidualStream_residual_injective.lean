@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterResidualStream.residual_injective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:52:11.24486+00:00
 -- url     : https://prove2.me/submissions/fdbb3209-28ef-437d-8ea3-712fc8a32e58
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterResidualStream.lean — solution of BookProof.ChapterResidualStream.residual_injective
 import Mathlib

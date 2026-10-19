@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_rescaled_quantum_entropy_tendsto_classical
 -- name    : HighEntropyLimit.rescaled_quantum_entropy_tendsto_classical
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:09:28.813979+00:00
 -- url     : https://prove2.me/theorems/ae8cfed1-5ea1-4ba2-8724-fcead9167ec9

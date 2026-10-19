@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_VielbeinFock_vielbeinFock_stone_flow
 -- name    : BookProof.VielbeinFock.vielbeinFock_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:39:24.887925+00:00
 -- url     : https://prove2.me/theorems/18c8f09b-7a7f-47c5-a29c-e652f65037a7

@@ -14,7 +14,7 @@
 --
 --   The q-square seed supplies $v\ne p,u$, so this contact removes exactly one previously unmarked point. The statement is local to these fixed cycles and does not provide a recursive descent argument.
 -- source:
---   https://github.com/flound1129/the-missing-pair/blob/f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c/lean/E677/Spine/Piece1D4SSwapPNewQSquareRenewal.lean#L224
+--   Adam McKenna, The Missing Pair (private repository), revision f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c, lean/E677/Spine/Piece1D4SSwapPNewQSquareRenewal.lean, line 224. The accepted proof on this platform is the public record.
 
 import Definitions.Def_FiniteMagmaE677_sswap_renewal
 import Mathlib

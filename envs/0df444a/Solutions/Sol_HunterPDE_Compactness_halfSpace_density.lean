@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Compactness.halfSpace_density
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-16T08:44:56.535661+00:00
 -- url     : https://prove2.me/submissions/f91d6a86-77ee-4720-b07d-23d2ab552b6e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HunterPDE_Compactness_exists_sobolev_extension_halfSpace
 import Theorems.Thm_HunterPDE_Compactness_sobolevNorm_restrict_le

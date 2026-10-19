@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_zero_truncated_packet_implies_ideal_power
 -- name    : OAI.PiExponent.FormalInterpolation.zero_truncated_packet_implies_ideal_power
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-13T05:51:15.18313+00:00
 -- url     : https://prove2.me/theorems/c54d04e2-d5de-4836-b6e6-d71fa2c48f15

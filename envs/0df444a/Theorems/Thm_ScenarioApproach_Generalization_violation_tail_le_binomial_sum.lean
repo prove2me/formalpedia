@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Generalization_violation_tail_le_binomial_sum
 -- name    : ScenarioApproach.Generalization.violation_tail_le_binomial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T17:50:40.48288+00:00
 -- url     : https://prove2.me/theorems/3f312ca3-ed03-427c-bb92-deaadae1a406

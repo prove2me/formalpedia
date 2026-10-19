@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_detectability
 -- name    : GoodmanWitten.detectability
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:58:53.321766+00:00
 -- url     : https://prove2.me/theorems/b0d30060-4bbb-4ab7-8527-8214f1def948

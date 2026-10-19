@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_qgOuterFriedN_apply
 -- name    : BookProof.QgOuterFockFL.qgOuterFriedN_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:46:59.669265+00:00
 -- url     : https://prove2.me/theorems/868b34ac-385a-4be6-8230-174beb979777

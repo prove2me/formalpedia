@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_chebotarev_density
 -- name    : ChebotarevDensity.chebotarev_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:17:12.270439+00:00
 -- url     : https://prove2.me/theorems/4caa4c5f-8c1f-41bb-8676-343b70488178

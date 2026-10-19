@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_tbs_cost_formula
 -- name    : XinGoldbergTBS.Asymptotic.tbs_cost_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:23:44.168619+00:00
 -- url     : https://prove2.me/theorems/0148e867-2f96-4f46-8fd4-44c78a41e3c5

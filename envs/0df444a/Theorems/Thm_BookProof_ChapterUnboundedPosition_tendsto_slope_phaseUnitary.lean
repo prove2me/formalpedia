@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnboundedPosition_tendsto_slope_phaseUnitary
 -- name    : BookProof.ChapterUnboundedPosition.tendsto_slope_phaseUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:58:15.900992+00:00
 -- url     : https://prove2.me/theorems/cd3bcd69-8bbb-4135-a8e3-2c4c99a29188

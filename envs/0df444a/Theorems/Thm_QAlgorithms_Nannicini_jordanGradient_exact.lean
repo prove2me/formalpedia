@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_jordanGradient_exact
 -- name    : QAlgorithms.Nannicini.jordanGradient_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:30.254594+00:00
 -- url     : https://prove2.me/theorems/7ac6c401-2eab-46a0-853a-ef6d4bd775b8

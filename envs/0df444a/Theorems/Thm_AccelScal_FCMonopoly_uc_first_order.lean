@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_FCMonopoly_uc_first_order
 -- name    : AccelScal.FCMonopoly.uc_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:21.203963+00:00
 -- url     : https://prove2.me/theorems/67e59326-a07d-4b83-8910-0401dbb252ac

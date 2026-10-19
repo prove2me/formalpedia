@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClarkeGradients_MaxFunctions_max_function_generalized_gradient
 -- name    : ClarkeGradients.MaxFunctions.max_function_generalized_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:45:33.834536+00:00
 -- url     : https://prove2.me/theorems/fca7d72b-1963-4fd4-8bce-11b16a564a92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjLikeRetr_Retractor_retractor_gives_retraction
 -- name    : ProjLikeRetr.Retractor.retractor_gives_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:29:16.627475+00:00
 -- url     : https://prove2.me/theorems/d94c21cd-b052-4ad2-88c5-06d8350f0e9d

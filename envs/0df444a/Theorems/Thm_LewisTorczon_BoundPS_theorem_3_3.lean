@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LewisTorczon_BoundPS_theorem_3_3
 -- name    : LewisTorczon.BoundPS.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:49:05.648529+00:00
 -- url     : https://prove2.me/theorems/d79b2679-d345-4fde-9589-7fe87d456864

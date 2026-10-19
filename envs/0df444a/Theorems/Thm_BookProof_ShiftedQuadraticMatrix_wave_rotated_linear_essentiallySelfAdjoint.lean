@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_wave_rotated_linear_essentiallySelfAdjoint
 -- name    : BookProof.ShiftedQuadraticMatrix.wave_rotated_linear_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:48:19.828681+00:00
 -- url     : https://prove2.me/theorems/cce13fbd-1733-448e-b5a7-1dc1765fdf7f

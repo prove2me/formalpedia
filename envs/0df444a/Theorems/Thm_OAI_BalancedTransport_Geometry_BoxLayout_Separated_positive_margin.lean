@@ -1,0 +1,63 @@
+-- Prove2me | Theorems.Thm_OAI_BalancedTransport_Geometry_BoxLayout_Separated_positive_margin
+-- name    : OAI.BalancedTransport.Geometry.BoxLayout.Separated.positive_margin
+-- status  : Proved
+-- author  : @Shuze Chen
+-- created : 2026-10-19T04:40:42.459642+00:00
+-- url     : https://prove2.me/theorems/343c1a54-bd04-4d3c-ab7c-e0036d895235
+-- title:
+--   Separated box layouts have a positive margin
+-- statement:
+--   A box layout assigns to each index $i$ of a finite set a centre $c_i\in\mathbb R^3$ and half-widths $w_i$. It is $\eta$-separated when any two distinct boxes satisfy $w_{ik}+w_{jk}+4\eta<|c_{ik}-c_{jk}|$ in some coordinate $k$. If a layout is $0$-separated, then
+--   $$
+--   \exists\,\eta>0:\ \text{the layout is }\eta\text{-separated}.
+--   $$
+--
+--   Disjoint closed boxes can therefore be moved by velocity fields that are localized to small neighbourhoods of the boxes.
+-- source:
+--   https://github.com/openai/math/blob/1581d4cbdd69a0faf34b2089614fe2a814316a6a/lean/OAI/MathematicalPhysics/NavierStokes/BalancedTransport/Routing.lean#L38-L56
+
+import Mathlib
+import Definitions.Def_BalancedThreeStack
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_FlatBounds
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveArithmetic
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_RationalAlgorithms
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveExp
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_RecorderRules
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_PrefixCoding
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_BoxCoding
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Work
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_TimeRegularity
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_FieldBounds
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_CompactFamilies
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ResidualRegularity
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_RhoAlgorithms
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveLog
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericPrograms
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ComputabilityRules
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_MachineRecursion
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_FiniteSimulator
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_UniversalInput
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericBounds
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericEvaluation
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericDifferentiation
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericScopes
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericJets
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericAlgebra
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Elementary
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EnergyCurve
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Sobolev
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EnergySlice
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Loading
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Periodic
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Motion
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Parking
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Deformation
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ElementaryMotion
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ElementaryCalculus
+
+open OAI OAI.BalancedTransport OAI.BalancedTransport.Geometry
+open Set
+variable {ι : Type*} [Fintype ι]
+
+theorem OAI.BalancedTransport.Geometry.BoxLayout.Separated.positive_margin {A : BoxLayout ι}
+    (h : A.Separated 0) : ∃ η : ℝ, 0 < η ∧ A.Separated η := by sorry

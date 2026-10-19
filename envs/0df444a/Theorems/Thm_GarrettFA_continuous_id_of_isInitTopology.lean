@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_continuous_id_of_isInitTopology
 -- name    : GarrettFA.continuous_id_of_isInitTopology
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:39:26.648933+00:00
 -- url     : https://prove2.me/theorems/1775ebcc-6e94-4053-a21e-2f12f789499d

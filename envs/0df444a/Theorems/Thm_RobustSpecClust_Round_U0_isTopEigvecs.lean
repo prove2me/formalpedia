@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Round_U0_isTopEigvecs
 -- name    : RobustSpecClust.Round.U0_isTopEigvecs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:29.943089+00:00
 -- url     : https://prove2.me/theorems/629ec764-3e0a-4ff6-abf2-46c45c9052b1

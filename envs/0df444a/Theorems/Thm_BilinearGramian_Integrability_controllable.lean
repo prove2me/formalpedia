@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Integrability_controllable
 -- name    : BilinearGramian.Integrability.controllable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:38:59.307331+00:00
 -- url     : https://prove2.me/theorems/1050e174-e7b7-4e9c-8770-2e6002eded32

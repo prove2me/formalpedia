@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_diagOp_norm_ge
 -- name    : BookProof.SmDiracYukawa.diagOp_norm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:29:24.559614+00:00
 -- url     : https://prove2.me/theorems/cfbee869-ae0c-43bd-bc21-8bdabc420310

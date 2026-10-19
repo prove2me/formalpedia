@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.OdeUnitaryFlow.odeKoop_generator
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:59:01.603987+00:00
 -- url     : https://prove2.me/submissions/77e08f16-3dcb-48c7-8cb9-4a7c4f604a68
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterOdeUnitaryFlow.lean — solution of BookProof.OdeUnitaryFlow.odeKoop_generator
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_gch_aleph_pow_of_le_succ
 -- name    : ContinuumHypothesis.gch_aleph_pow_of_le_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:34:26.155276+00:00
 -- url     : https://prove2.me/theorems/e0e319da-e32c-497d-867c-441cf3504c5c

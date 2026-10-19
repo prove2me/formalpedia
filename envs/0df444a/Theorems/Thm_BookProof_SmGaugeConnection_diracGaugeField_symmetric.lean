@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmGaugeConnection_diracGaugeField_symmetric
 -- name    : BookProof.SmGaugeConnection.diracGaugeField_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:55:43.270907+00:00
 -- url     : https://prove2.me/theorems/aa6593f2-d658-44db-ba21-8c6f1a744af4

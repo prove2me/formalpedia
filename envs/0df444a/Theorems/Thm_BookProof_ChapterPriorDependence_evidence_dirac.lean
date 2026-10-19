@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPriorDependence_evidence_dirac
 -- name    : BookProof.ChapterPriorDependence.evidence_dirac
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:45:23.498528+00:00
 -- url     : https://prove2.me/theorems/5d88e4ab-1ccb-48eb-92cd-ed1ebb3c16c1

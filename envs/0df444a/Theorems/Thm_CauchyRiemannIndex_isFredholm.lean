@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_isFredholm
 -- name    : CauchyRiemannIndex.isFredholm
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:03:09.986959+00:00
 -- url     : https://prove2.me/theorems/1bdb9c49-e5e1-4bab-a6dd-f417cfad2fa2

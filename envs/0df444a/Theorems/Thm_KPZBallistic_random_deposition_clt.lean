@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KPZBallistic_random_deposition_clt
 -- name    : KPZBallistic.random_deposition_clt
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T09:28:12.105107+00:00
 -- url     : https://prove2.me/theorems/057a09d5-8c25-44ed-8473-e12ac328b684

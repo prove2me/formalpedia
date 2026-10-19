@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_LinFrac_sdp_upper_bound_theorem52
 -- name    : RobustLS.LinFrac.sdp_upper_bound_theorem52
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:41:01.394309+00:00
 -- url     : https://prove2.me/theorems/a10ccf87-d453-4ec8-a482-bf27b3fb9d93

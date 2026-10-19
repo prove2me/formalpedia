@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterNote68AllModes_helmholtz_sbessel_solidHarmonic_euclidean
 -- name    : BookProof.ChapterNote68AllModes.helmholtz_sbessel_solidHarmonic_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-06T11:43:36.948975+00:00
 -- url     : https://prove2.me/theorems/6e80b1eb-9396-4937-8897-8bd0c4d0d836

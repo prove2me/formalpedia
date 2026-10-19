@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for Green_Tao_Theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Lucas
 -- created : 2026-09-10T20:51:13.152692+00:00
 -- url     : https://prove2.me/submissions/f3e7819c-4be1-4c1f-9b22-b3d26fd650e1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_green_tao_theorem

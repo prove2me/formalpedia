@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Weak_lemma_A_2
 -- name    : TikhonovHDD.Weak.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:14.202474+00:00
 -- url     : https://prove2.me/theorems/2c47648a-b3b2-4b94-abfd-c695bcd0f798

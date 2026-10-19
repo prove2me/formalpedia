@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_fractional_grid_maturity
 -- name    : actuarial_c_cont_fractional_grid_maturity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:35:57.143982+00:00
 -- url     : https://prove2.me/theorems/dbe9d663-9af7-4d42-933d-24b732723be5

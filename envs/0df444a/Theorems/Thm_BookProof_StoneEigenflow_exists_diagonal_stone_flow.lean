@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StoneEigenflow_exists_diagonal_stone_flow
 -- name    : BookProof.StoneEigenflow.exists_diagonal_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T15:47:30.131135+00:00
 -- url     : https://prove2.me/theorems/9317e7af-4b98-40e3-8096-0d48009a18d7

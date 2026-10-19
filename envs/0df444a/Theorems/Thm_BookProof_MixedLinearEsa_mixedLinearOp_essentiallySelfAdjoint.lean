@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_mixedLinearOp_essentiallySelfAdjoint
 -- name    : BookProof.MixedLinearEsa.mixedLinearOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:06:34.036501+00:00
 -- url     : https://prove2.me/theorems/d2202605-7fc7-48e3-9fbe-6d238ea3a470

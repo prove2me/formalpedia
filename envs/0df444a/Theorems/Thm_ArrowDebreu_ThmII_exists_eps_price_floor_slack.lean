@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_exists_eps_price_floor_slack
 -- name    : ArrowDebreu.ThmII.exists_eps_price_floor_slack
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:33:35.28651+00:00
 -- url     : https://prove2.me/theorems/e423ac1e-7b26-4c39-89bc-52e9d5f9e0ea

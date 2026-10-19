@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_left_limit
 -- name    : ActuarialAnnuitiesContinuous.bc_left_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:35:22.589062+00:00
 -- url     : https://prove2.me/theorems/5c25d72e-6790-4d69-ba8b-5c58ae58a9b9

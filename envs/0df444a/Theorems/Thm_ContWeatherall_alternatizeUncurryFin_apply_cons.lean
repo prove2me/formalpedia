@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContWeatherall_alternatizeUncurryFin_apply_cons
 -- name    : ContWeatherall.alternatizeUncurryFin_apply_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T22:04:18.979677+00:00
 -- url     : https://prove2.me/theorems/1c36a9ad-81b3-4779-830e-676623af7e20

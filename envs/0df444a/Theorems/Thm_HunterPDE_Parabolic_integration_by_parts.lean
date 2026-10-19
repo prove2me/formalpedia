@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Parabolic_integration_by_parts
 -- name    : HunterPDE.Parabolic.integration_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:19:53.795472+00:00
 -- url     : https://prove2.me/theorems/c0ca6c9f-2a4b-4878-9bd5-780304f040ca

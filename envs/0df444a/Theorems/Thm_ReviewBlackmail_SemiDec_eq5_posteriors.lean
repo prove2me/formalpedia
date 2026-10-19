@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_SemiDec_eq5_posteriors
 -- name    : ReviewBlackmail.SemiDec.eq5_posteriors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:50.103164+00:00
 -- url     : https://prove2.me/theorems/4678dd89-aa87-4362-8ba6-08bc07d7bc85

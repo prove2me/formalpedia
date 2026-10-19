@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_JacobiDeficiency_defState_ne_zero
 -- name    : BookProof.NavierStokesFlow.JacobiDeficiency.defState_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:34.533219+00:00
 -- url     : https://prove2.me/theorems/0d0f7bdc-061e-4ac4-bfe1-6ec46c4c41eb

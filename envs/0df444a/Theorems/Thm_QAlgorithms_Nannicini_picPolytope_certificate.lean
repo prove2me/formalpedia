@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_picPolytope_certificate
 -- name    : QAlgorithms.Nannicini.picPolytope_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:53:04.77761+00:00
 -- url     : https://prove2.me/theorems/5d5ff795-6d81-4fca-b680-08aa0b40f15f

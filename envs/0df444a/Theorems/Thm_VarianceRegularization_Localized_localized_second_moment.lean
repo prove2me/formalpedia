@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Localized_localized_second_moment
 -- name    : VarianceRegularization.Localized.localized_second_moment
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:43:03.973993+00:00
 -- url     : https://prove2.me/theorems/a5b44f69-bdce-4c9f-82de-121f4e58f3ee

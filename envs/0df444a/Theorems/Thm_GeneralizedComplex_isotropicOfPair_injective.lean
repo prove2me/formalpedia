@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_isotropicOfPair_injective
 -- name    : GeneralizedComplex.isotropicOfPair_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:51:40.39975+00:00
 -- url     : https://prove2.me/theorems/b52bf71a-922f-4eba-9bb9-c14c6e81f254

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandDelivery_RouteElim_lemma_2
 -- name    : OnDemandDelivery.RouteElim.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:14.08647+00:00
 -- url     : https://prove2.me/theorems/298a869e-3d55-443a-83fe-54038eacf9e0

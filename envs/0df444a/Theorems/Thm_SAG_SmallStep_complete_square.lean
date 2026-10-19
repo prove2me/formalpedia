@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAG_SmallStep_complete_square
 -- name    : SAG.SmallStep.complete_square
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:08.25273+00:00
 -- url     : https://prove2.me/theorems/66ff4215-239c-46e5-8a23-9df3a9a7fe00

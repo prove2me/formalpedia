@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_bridge_halfyear_payment_grid
 -- name    : actuarial_c_bridge_halfyear_payment_grid
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:21:57.594984+00:00
 -- url     : https://prove2.me/theorems/6ec0c9af-62f3-4e99-b25f-f7c1fc19cf2d

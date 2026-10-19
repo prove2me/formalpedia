@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_fockComparison_core
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.fockComparison_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:06.585976+00:00
 -- url     : https://prove2.me/theorems/22114d55-d654-4686-9fe4-f72346e095fa

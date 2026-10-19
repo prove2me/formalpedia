@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_FirstOrder_root_bound
 -- name    : RegLearnGames.FirstOrder.root_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:43:54.434983+00:00
 -- url     : https://prove2.me/theorems/169f1534-c614-441a-8650-5959b45d934b

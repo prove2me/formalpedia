@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplicialIso_Mixing_geometric_mean
 -- name    : SimplicialIso.Mixing.geometric_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:20:24.72406+00:00
 -- url     : https://prove2.me/theorems/f48c99d2-4a83-4359-9e52-ee48b9bfcaa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_GradCorr_lemma_B_2
 -- name    : NAGFlow.GradCorr.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:29:54.568985+00:00
 -- url     : https://prove2.me/theorems/966b67d3-25a0-42eb-afc5-5e78e4cd2cb5

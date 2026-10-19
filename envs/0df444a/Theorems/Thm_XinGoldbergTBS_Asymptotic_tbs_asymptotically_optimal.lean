@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_tbs_asymptotically_optimal
 -- name    : XinGoldbergTBS.Asymptotic.tbs_asymptotically_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:30:41.430731+00:00
 -- url     : https://prove2.me/theorems/657f1a18-7745-4168-9b66-936562b88aed

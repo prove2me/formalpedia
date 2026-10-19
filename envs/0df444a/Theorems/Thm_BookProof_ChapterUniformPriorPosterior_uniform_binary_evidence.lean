@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUniformPriorPosterior_uniform_binary_evidence
 -- name    : BookProof.ChapterUniformPriorPosterior.uniform_binary_evidence
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:38:42.124338+00:00
 -- url     : https://prove2.me/theorems/6d59853a-88be-4179-ad11-dda0e1bf71a3

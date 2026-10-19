@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubbleTension_ngc4258_distance
 -- name    : HubbleTension.ngc4258_distance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:27:35.513387+00:00
 -- url     : https://prove2.me/theorems/c89d0d45-26c6-4229-9cc8-0f79724dcbef

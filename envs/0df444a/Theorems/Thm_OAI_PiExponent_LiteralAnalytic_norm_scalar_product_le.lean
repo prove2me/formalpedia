@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_norm_scalar_product_le
 -- name    : OAI.PiExponent.LiteralAnalytic.norm_scalar_product_le
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-11T21:55:41.466988+00:00
 -- url     : https://prove2.me/theorems/bb24bb55-f393-4cc2-8cbb-d16e2f0939b3

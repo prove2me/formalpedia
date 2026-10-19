@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_maxCutSubgrad_mem_epsSubdiff
 -- name    : QAlgorithms.Nannicini.maxCutSubgrad_mem_epsSubdiff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:58.532339+00:00
 -- url     : https://prove2.me/theorems/3447d3ba-b673-4f89-936e-bc86c8b5d802

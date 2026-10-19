@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_dGammaOp_diagCol_essentiallySelfAdjoint
 -- name    : BookProof.QgCouplingDGammaSum.dGammaOp_diagCol_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:57:29.237978+00:00
 -- url     : https://prove2.me/theorems/aa0ab06b-61aa-4ad2-944c-f2ab62aa4813

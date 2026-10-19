@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Integrability_jacobian_not_symm
 -- name    : BilinearGramian.Integrability.jacobian_not_symm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:27.425081+00:00
 -- url     : https://prove2.me/theorems/db506b71-356d-41ee-aba1-8b88205ef182

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BnBPEP_WeakCvx_eq_44_closed_form
 -- name    : BnBPEP.WeakCvx.eq_44_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:57.584413+00:00
 -- url     : https://prove2.me/theorems/06184984-0718-45b2-b6e4-58dcc4d01fa4

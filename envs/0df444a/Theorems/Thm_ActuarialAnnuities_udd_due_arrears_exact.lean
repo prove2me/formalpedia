@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_udd_due_arrears_exact
 -- name    : ActuarialAnnuities.udd_due_arrears_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:38:43.035017+00:00
 -- url     : https://prove2.me/theorems/e68d3ae2-9c1e-4a8b-b17a-dba0d1ac8b6f

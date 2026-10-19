@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_freqSeries_mul_twistedL_eq
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_freqSeries_mul_twistedL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T20:45:16.559338+00:00
 -- url     : https://prove2.me/theorems/2f05c984-2ca3-48af-a243-56d34516ee5e

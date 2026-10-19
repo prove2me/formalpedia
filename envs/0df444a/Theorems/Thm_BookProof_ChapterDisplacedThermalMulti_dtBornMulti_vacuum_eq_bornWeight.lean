@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalMulti_dtBornMulti_vacuum_eq_bornWeight
 -- name    : BookProof.ChapterDisplacedThermalMulti.dtBornMulti_vacuum_eq_bornWeight
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:22.329859+00:00
 -- url     : https://prove2.me/theorems/85dfebbe-d83a-4e91-aa7c-c334f809a18c

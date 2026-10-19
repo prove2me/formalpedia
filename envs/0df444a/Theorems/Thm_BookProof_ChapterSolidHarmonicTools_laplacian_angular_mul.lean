@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonicTools_laplacian_angular_mul
 -- name    : BookProof.ChapterSolidHarmonicTools.laplacian_angular_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:17:51.416463+00:00
 -- url     : https://prove2.me/theorems/b7794e54-8caa-48f7-b19d-98be3530f3b2

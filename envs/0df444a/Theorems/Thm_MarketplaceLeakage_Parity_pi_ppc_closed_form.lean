@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Parity_pi_ppc_closed_form
 -- name    : MarketplaceLeakage.Parity.pi_ppc_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:21.171553+00:00
 -- url     : https://prove2.me/theorems/81a06636-d9b8-4473-bfe9-0a1c04770d1e

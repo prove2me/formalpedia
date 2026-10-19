@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.BrstLeakage.truncation_leakage_le_abs
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T19:46:29.035987+00:00
 -- url     : https://prove2.me/submissions/b75ba66f-ec02-4a9d-80b9-ed91b7bbf14a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBrstTruncationLeakage.lean — solution of BookProof.BrstLeakage.truncation_leakage_le_abs
 import Mathlib

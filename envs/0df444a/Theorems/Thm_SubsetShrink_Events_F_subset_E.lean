@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_Events_F_subset_E
 -- name    : SubsetShrink.Events.F_subset_E
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:40.902271+00:00
 -- url     : https://prove2.me/theorems/4218f4d4-bd18-4289-80cf-8991e8d22843

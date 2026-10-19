@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_essentiallySelfAdjointOn_finiteModes_of_farisLavine_bounds
 -- name    : BookProof.NavierStokesFlow.IkebeKato.essentiallySelfAdjointOn_finiteModes_of_farisLavine_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T06:52:08.007261+00:00
 -- url     : https://prove2.me/theorems/4e5f4f59-fd4d-40f4-aa51-50b405221c8a

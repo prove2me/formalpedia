@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanIntro_exists_pauli_of_syndrome
 -- name    : QAlgorithms.GottesmanIntro.exists_pauli_of_syndrome
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:57:59.703495+00:00
 -- url     : https://prove2.me/theorems/ec4ce82d-5ad0-409c-8327-3861c3305465

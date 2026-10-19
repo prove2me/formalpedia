@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_phaseEstimation_inexactEigenstate
 -- name    : QAlgorithms.Nannicini.phaseEstimation_inexactEigenstate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:21.353151+00:00
 -- url     : https://prove2.me/theorems/639dd6e2-d5dd-40c9-a1a6-ab35ecafd794

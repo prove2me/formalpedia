@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_isotropicOfPair_isMaximalIsotropic
 -- name    : GeneralizedComplex.isotropicOfPair_isMaximalIsotropic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:50:05.772985+00:00
 -- url     : https://prove2.me/theorems/6652fa7b-d052-49df-9841-b433536158fc

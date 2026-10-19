@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SoftChannel204_fullMain
 -- name    : OAI.SoftChannel204.fullMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:24.052132+00:00
 -- url     : https://prove2.me/theorems/c3b08d38-7618-4c29-9302-ddf6ceb17fd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Salad_p18_gap_identity
 -- name    : EngagementOpt.Salad.p18_gap_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:51.640712+00:00
 -- url     : https://prove2.me/theorems/136eac40-1d6c-41a1-a82b-ce0f9db8fe5e

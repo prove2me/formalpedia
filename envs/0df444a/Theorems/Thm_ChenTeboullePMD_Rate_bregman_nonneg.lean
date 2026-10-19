@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenTeboullePMD_Rate_bregman_nonneg
 -- name    : ChenTeboullePMD.Rate.bregman_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:39:10.180482+00:00
 -- url     : https://prove2.me/theorems/f1907f0c-5ac7-4229-b8b7-1b41920aec88

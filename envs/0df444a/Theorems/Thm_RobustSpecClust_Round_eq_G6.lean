@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Round_eq_G6
 -- name    : RobustSpecClust.Round.eq_G6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:28.103637+00:00
 -- url     : https://prove2.me/theorems/6e3a7fb2-5888-4ffb-9173-745898e9f4fd

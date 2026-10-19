@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dyadic_ceiling_rounding_tendsto
 -- name    : AvramDividend.Classical.dyadic_ceiling_rounding_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:44:14.733255+00:00
 -- url     : https://prove2.me/theorems/eb5240c4-480a-4f01-a31c-d944c87b2b7b

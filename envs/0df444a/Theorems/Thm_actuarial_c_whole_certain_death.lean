@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_whole_certain_death
 -- name    : actuarial_c_whole_certain_death
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:27:03.57199+00:00
 -- url     : https://prove2.me/theorems/1b931de9-8929-405d-974c-2d6ca19c6b29

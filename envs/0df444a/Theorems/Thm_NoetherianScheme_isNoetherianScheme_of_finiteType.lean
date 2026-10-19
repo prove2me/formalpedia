@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_isNoetherianScheme_of_finiteType
 -- name    : NoetherianScheme.isNoetherianScheme_of_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:41:13.437841+00:00
 -- url     : https://prove2.me/theorems/85f6cd59-6d71-4ca2-88c0-57fd447ae022

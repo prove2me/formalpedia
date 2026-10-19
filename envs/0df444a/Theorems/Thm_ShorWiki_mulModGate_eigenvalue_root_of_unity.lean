@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_mulModGate_eigenvalue_root_of_unity
 -- name    : ShorWiki.mulModGate_eigenvalue_root_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T03:01:34.529017+00:00
 -- url     : https://prove2.me/theorems/f51523d8-1ecc-4f09-b65a-4ef1300a6f9e

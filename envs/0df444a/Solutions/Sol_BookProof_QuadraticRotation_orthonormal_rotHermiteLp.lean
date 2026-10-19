@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QuadraticRotation.orthonormal_rotHermiteLp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:26:21.613777+00:00
 -- url     : https://prove2.me/submissions/94b6a8ec-e4e1-40bd-91ef-5b4a1ccb2a2d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQuadraticRotationEsa.lean — solution of BookProof.QuadraticRotation.orthonormal_rotHermiteLp
 import Mathlib

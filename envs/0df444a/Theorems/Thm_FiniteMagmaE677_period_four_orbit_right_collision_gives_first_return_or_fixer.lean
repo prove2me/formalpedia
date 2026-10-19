@@ -29,7 +29,7 @@
 --
 --   are pairwise distinct and outside the four-element base cycle, and $L_x^d(v)=v$. All branch equations and the initialized trace remain available. This gives an exact finite-cycle reduction; it does not claim that those cycles collapse or yield a fixer for x.
 -- source:
---   Adam McKenna, The Missing Pair, revision 9b76827c2246f0e6288466768f15b5c6f9350d71; Piece1D4FirstReturn.lean, e677_minimalPeriodFour_orbitRightCollision_hasFixer_or_firstReturnPacket; trace ingress in Piece1D4TaggedTraceStart.lean and Piece1D4TraceInitialization.lean. https://github.com/flound1129/the-missing-pair/blob/9b76827c2246f0e6288466768f15b5c6f9350d71/lean/E677/Spine/Piece1D4FirstReturn.lean
+--   Adam McKenna, The Missing Pair (private repository), revision 9b76827c2246f0e6288466768f15b5c6f9350d71, lean/E677/Spine/Piece1D4FirstReturn.lean, theorem e677_minimalPeriodFour_orbitRightCollision_hasFixer_or_firstReturnPacket; trace ingress in Piece1D4TaggedTraceStart.lean and Piece1D4TraceInitialization.lean. The accepted proof on this platform is the public record.
 
 import Definitions.Def_FiniteMagmaE677_d4_first_return
 

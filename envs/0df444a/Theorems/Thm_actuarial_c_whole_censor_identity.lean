@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_whole_censor_identity
 -- name    : actuarial_c_whole_censor_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:26:11.577822+00:00
 -- url     : https://prove2.me/theorems/077c99a4-3b39-4e87-a126-8638c38dc20c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_PredCorr_lemma_B_2
 -- name    : NAGFlow.PredCorr.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:29:56.920526+00:00
 -- url     : https://prove2.me/theorems/53cdc5a3-5a4b-42d5-aab6-f97af358a8c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_eq2_coherent_reduced_cross_section
 -- name    : GoodmanWitten.eq2_coherent_reduced_cross_section
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:53:02.812994+00:00
 -- url     : https://prove2.me/theorems/d5071cab-849d-4e97-a3d7-50c318f68d5c

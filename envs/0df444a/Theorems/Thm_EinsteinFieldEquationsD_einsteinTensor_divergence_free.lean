@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_einsteinTensor_divergence_free
 -- name    : EinsteinFieldEquationsD.einsteinTensor_divergence_free
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:13:45.619+00:00
 -- url     : https://prove2.me/theorems/46aff207-2a19-4149-982f-f9a6f059d7fe

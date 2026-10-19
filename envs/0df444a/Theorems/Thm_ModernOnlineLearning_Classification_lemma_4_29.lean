@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Classification_lemma_4_29
 -- name    : ModernOnlineLearning.Classification.lemma_4_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:30:27.567504+00:00
 -- url     : https://prove2.me/theorems/b93250c2-f056-4ece-90c5-a3ad8c81026d

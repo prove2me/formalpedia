@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NewtonGravitation.gravField_uniformShell_outside
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-13T12:23:31.477628+00:00
 -- url     : https://prove2.me/submissions/4ba50a63-8680-4dcd-8166-88cac0fe03f5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NewtonGravitation_Defs
 import Theorems.Thm_NewtonGravitation_uniformShell_geometry

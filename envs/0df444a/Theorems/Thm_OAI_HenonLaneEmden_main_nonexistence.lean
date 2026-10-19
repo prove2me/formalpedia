@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HenonLaneEmden_main_nonexistence
 -- name    : OAI.HenonLaneEmden.main_nonexistence
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:44.492233+00:00
 -- url     : https://prove2.me/theorems/1245c750-33e5-4bcf-8cc0-e4c7e2775642

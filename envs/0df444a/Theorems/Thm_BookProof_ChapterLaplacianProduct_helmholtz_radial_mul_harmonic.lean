@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLaplacianProduct_helmholtz_radial_mul_harmonic
 -- name    : BookProof.ChapterLaplacianProduct.helmholtz_radial_mul_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:23:05.175037+00:00
 -- url     : https://prove2.me/theorems/e78d2912-1c71-46ab-9495-b2c3363f702a

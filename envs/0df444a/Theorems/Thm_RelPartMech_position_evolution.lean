@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_position_evolution
 -- name    : RelPartMech.position_evolution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:07:36.277002+00:00
 -- url     : https://prove2.me/theorems/089ef95c-2032-4cf0-9115-17854dac332d

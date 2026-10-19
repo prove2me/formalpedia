@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_dense_in_Lp
 -- name    : SchwartzSpaceWiki.dense_in_Lp
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:17:45.150998+00:00
 -- url     : https://prove2.me/theorems/c9a2d698-315e-4b1d-8d91-57280912c402

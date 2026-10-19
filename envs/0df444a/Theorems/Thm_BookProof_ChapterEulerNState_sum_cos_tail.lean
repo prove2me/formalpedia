@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_sum_cos_tail
 -- name    : BookProof.ChapterEulerNState.sum_cos_tail
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:32:14.431985+00:00
 -- url     : https://prove2.me/theorems/3ca74a59-153f-4870-a7d0-57bbafb9d3d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiSecretary_BR_binomial_overshoot
 -- name    : MultiSecretary.BR.binomial_overshoot
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:37:32.392456+00:00
 -- url     : https://prove2.me/theorems/d86515fa-f6e0-448c-aaf1-86d74692c0f2

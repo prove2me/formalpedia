@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_EtildeEps_has_equilibrium
 -- name    : ArrowDebreu.ThmII.EtildeEps_has_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:22:14.114971+00:00
 -- url     : https://prove2.me/theorems/8555e1c9-92b3-4972-a983-429df99b2c76

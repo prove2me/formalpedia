@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_solidHarmonic_spherical
 -- name    : BookProof.ChapterSolidHarmonic.solidHarmonic_spherical
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:10:42.080866+00:00
 -- url     : https://prove2.me/theorems/89d5ba0d-319c-4c14-836b-1866c41c9951

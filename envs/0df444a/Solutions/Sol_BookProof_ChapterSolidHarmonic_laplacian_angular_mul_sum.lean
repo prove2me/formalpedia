@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSolidHarmonic.laplacian_angular_mul_sum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T15:02:52.209711+00:00
 -- url     : https://prove2.me/submissions/d0c8d568-ff80-48af-8c7f-f24f097c22f2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSolidHarmonic.lean — solution of BookProof.ChapterSolidHarmonic.laplacian_angular_mul_sum
 import Mathlib

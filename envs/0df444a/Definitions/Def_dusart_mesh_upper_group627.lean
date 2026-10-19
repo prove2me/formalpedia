@@ -1,0 +1,32 @@
+-- Prove2me | Definitions.Def_dusart_mesh_upper_group627
+-- name    : dusart_mesh_upper_group627
+-- status  : Definition
+-- author  : @abcdefg
+-- created : 2026-10-17T00:06:35.720976+00:00
+-- url     : https://prove2.me/theorems/1b4f202d-5aef-46ef-8224-1d6a5efcd599
+-- title:
+--   Dusart finite mesh: generic_aggregate
+-- statement:
+--   The generic_aggregate component of the finite certificate for the fourth-power logarithmic Chebyshev theta bound. This module supplies the data structures and necessary proved helper interfaces used by the finite verification. All supporting claims in this file include complete Lean proofs; imported platform theorems are already proved.
+-- source:
+--   Pierre Dusart, Explicit estimates of some functions over primes, Ramanujan J. 45 (2018), 227–251, Theorem 4.2 (k=4, eta=151.3, x0=2), pp. 234–237; DOI 10.1007/s11139-016-9839-4. Supporting finite mesh and proper-divisor certificate formalization for TaoFivePrimes.dusart_theta_log_four_finite_mesh_certificate.
+
+import Definitions.Def_dusart_mesh_upper_group627_part00
+import Definitions.Def_dusart_mesh_upper_group627_part01
+import Definitions.Def_dusart_mesh_upper_group627_part02
+import Definitions.Def_dusart_mesh_upper_group627_part03
+import Definitions.Def_dusart_mesh_upper_group627_part04
+import Definitions.Def_dusart_mesh_upper_group627_part05
+import Definitions.Def_dusart_mesh_upper_group627_part06
+import Definitions.Def_dusart_mesh_upper_group627_part07
+import Definitions.Def_dusart_mesh_upper_group627_part08
+import Definitions.Def_dusart_mesh_upper_group627_part09
+set_option maxHeartbeats 0
+set_option maxRecDepth 200000
+namespace DusartFinitePlain
+theorem g627 : DusartNumeric.GenericSpec 8908038400 8924815616 8907943290773587 8924714659064325 := by
+ intro S step compose
+ exact (compose (g627_part0 S step @compose) (compose (g627_part1 S step @compose) (compose (g627_part2 S step @compose) (compose (g627_part3 S step @compose) (compose (g627_part4 S step @compose) (compose (g627_part5 S step @compose) (compose (g627_part6 S step @compose) (compose (g627_part7 S step @compose) (compose (g627_part8 S step @compose) (g627_part9 S step @compose))))))))))
+end DusartFinitePlain
+
+

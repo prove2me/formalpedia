@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_fermiBilin_comm_creat
 -- name    : BookProof.SmBrstGhost.fermiBilin_comm_creat
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:00:38.183653+00:00
 -- url     : https://prove2.me/theorems/5335aba0-c8a6-4909-8f51-c4c30a1afd52

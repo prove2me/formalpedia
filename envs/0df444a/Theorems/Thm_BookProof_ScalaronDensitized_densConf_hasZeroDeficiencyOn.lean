@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_densConf_hasZeroDeficiencyOn
 -- name    : BookProof.ScalaronDensitized.densConf_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:21:19.261846+00:00
 -- url     : https://prove2.me/theorems/cdf74b8d-6808-4103-aed1-c94fce377e44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_halfLineFullData_hamiltonian
 -- name    : BookProof.NavierStokesFlow.Carleman.halfLineFullData_hamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:07.8621+00:00
 -- url     : https://prove2.me/theorems/eda38796-3fea-436d-ab14-ee2915331928

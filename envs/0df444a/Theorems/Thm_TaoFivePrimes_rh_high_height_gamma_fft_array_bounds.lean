@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_high_height_gamma_fft_array_bounds
 -- name    : TaoFivePrimes.rh_high_height_gamma_fft_array_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-15T06:22:07.496442+00:00
 -- url     : https://prove2.me/theorems/9769019e-80dc-45b8-98d1-1dde01e1c169

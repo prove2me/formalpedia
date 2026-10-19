@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ColorfulHelly_colorful_helly
 -- name    : ColorfulHelly.colorful_helly
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-08T18:16:58.895973+00:00
 -- url     : https://prove2.me/theorems/fa1381b7-4039-440e-99c7-09d1ef17dad1

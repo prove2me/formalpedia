@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.FockContinuum.boundedEnergyCore_dense
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:18:11.065478+00:00
 -- url     : https://prove2.me/submissions/34b246a2-9e0e-43bc-b16d-3bffb5c47291
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesFockContinuum.lean — solution of BookProof.NavierStokesFlow.FockContinuum.boundedEnergyCore_dense
 import Mathlib

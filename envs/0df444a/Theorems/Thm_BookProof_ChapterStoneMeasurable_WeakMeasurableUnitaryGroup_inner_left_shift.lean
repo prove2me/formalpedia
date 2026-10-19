@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneMeasurable_WeakMeasurableUnitaryGroup_inner_left_shift
 -- name    : BookProof.ChapterStoneMeasurable.WeakMeasurableUnitaryGroup.inner_left_shift
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:11:58.362326+00:00
 -- url     : https://prove2.me/theorems/6444a305-8f4c-419b-b67f-8347a62561f9

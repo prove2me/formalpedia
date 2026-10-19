@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContWeatherall_integral_radial
 -- name    : ContWeatherall.integral_radial
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T22:07:06.505487+00:00
 -- url     : https://prove2.me/theorems/f6b7b9f1-6b6a-4afe-9ac9-58777d7785bc

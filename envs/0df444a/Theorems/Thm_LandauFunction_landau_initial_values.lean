@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_initial_values
 -- name    : LandauFunction.landau_initial_values
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:00.919978+00:00
 -- url     : https://prove2.me/theorems/0992cba2-5271-4b3d-98e2-d7310072a705

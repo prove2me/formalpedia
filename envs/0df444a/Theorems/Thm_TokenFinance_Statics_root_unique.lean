@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_Statics_root_unique
 -- name    : TokenFinance.Statics.root_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:25.689685+00:00
 -- url     : https://prove2.me/theorems/70541b98-18ba-4171-9ddc-d1878909c744

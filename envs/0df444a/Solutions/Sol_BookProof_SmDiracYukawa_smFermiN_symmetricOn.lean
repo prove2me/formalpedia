@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmDiracYukawa.smFermiN_symmetricOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:07:00.656177+00:00
 -- url     : https://prove2.me/submissions/c4b2c157-cb9b-4f12-ab30-8b678ee587b7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmDiracYukawa.lean — solution of BookProof.SmDiracYukawa.smFermiN_symmetricOn
 import Mathlib

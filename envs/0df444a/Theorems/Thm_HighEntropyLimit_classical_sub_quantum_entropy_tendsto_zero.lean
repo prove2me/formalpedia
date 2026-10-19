@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_classical_sub_quantum_entropy_tendsto_zero
 -- name    : HighEntropyLimit.classical_sub_quantum_entropy_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:55:07.376984+00:00
 -- url     : https://prove2.me/theorems/7586ea03-c498-47b7-ad9d-214c9f598313

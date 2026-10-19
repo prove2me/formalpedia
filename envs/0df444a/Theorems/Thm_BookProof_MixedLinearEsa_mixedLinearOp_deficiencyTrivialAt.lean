@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_mixedLinearOp_deficiencyTrivialAt
 -- name    : BookProof.MixedLinearEsa.mixedLinearOp_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:06:13.917919+00:00
 -- url     : https://prove2.me/theorems/697266c2-60e5-4924-8bb2-891d1ca01534

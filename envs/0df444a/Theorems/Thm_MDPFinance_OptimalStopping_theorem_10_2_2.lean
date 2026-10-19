@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_OptimalStopping_theorem_10_2_2
 -- name    : MDPFinance.OptimalStopping.theorem_10_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:45:00.061698+00:00
 -- url     : https://prove2.me/theorems/3e96f6f6-7fc9-4c11-ac5e-7f442ba54b55

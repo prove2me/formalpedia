@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_lemma_4_decomposition
 -- name    : QuantumMC.MeanEst.lemma_4_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:44.006889+00:00
 -- url     : https://prove2.me/theorems/28bb690f-5ce7-4396-b616-80956962545e

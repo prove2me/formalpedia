@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskEU_RobustShrink_proposition_IA_1_limit
 -- name    : RiskEU.RobustShrink.proposition_IA_1_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:06:05.39097+00:00
 -- url     : https://prove2.me/theorems/45c314c1-dfc5-42da-933c-1b557c455f65

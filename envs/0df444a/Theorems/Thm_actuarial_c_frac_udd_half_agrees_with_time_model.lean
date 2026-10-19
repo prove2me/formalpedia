@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_frac_udd_half_agrees_with_time_model
 -- name    : actuarial_c_frac_udd_half_agrees_with_time_model
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:41:52.355329+00:00
 -- url     : https://prove2.me/theorems/eaf4a738-ba07-412c-b489-1b857062ef2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_ikebeKato_momentum
 -- name    : BookProof.NavierStokesFlow.IkebeKato.ikebeKato_momentum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:57:38.697031+00:00
 -- url     : https://prove2.me/theorems/821f2586-c78c-47b0-94d7-c477d3a71949

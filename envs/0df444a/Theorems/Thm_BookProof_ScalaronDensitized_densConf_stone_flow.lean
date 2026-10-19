@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_densConf_stone_flow
 -- name    : BookProof.ScalaronDensitized.densConf_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:22:10.100817+00:00
 -- url     : https://prove2.me/theorems/2ce33d8d-1c01-4c2e-bb85-ca4f3ffe1756

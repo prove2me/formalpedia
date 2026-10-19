@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPriorDependence_posterior_dirac
 -- name    : BookProof.ChapterPriorDependence.posterior_dirac
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:06:06.116163+00:00
 -- url     : https://prove2.me/theorems/748b2b49-d5b8-4445-a054-172034efff6e

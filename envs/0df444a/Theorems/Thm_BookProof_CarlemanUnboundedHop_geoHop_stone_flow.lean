@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_geoHop_stone_flow
 -- name    : BookProof.CarlemanUnboundedHop.geoHop_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:42:23.1693+00:00
 -- url     : https://prove2.me/theorems/d168c0ec-1e5c-484b-a63c-33b0b7aacbe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_FCMonopoly_corollary_1
 -- name    : AccelScal.FCMonopoly.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:29.718629+00:00
 -- url     : https://prove2.me/theorems/7697b906-a89d-4aa9-8e6d-e5d1727c6f6d

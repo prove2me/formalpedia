@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_regulator_golden_field
 -- name    : DirichletUnitTheorem.regulator_golden_field
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:58.956988+00:00
 -- url     : https://prove2.me/theorems/008894fb-fc50-45d9-bf15-7849d6284dd1

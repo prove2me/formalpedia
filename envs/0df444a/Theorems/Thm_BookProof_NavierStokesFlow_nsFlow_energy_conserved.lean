@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_nsFlow_energy_conserved
 -- name    : BookProof.NavierStokesFlow.nsFlow_energy_conserved
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:42.995327+00:00
 -- url     : https://prove2.me/theorems/1846ac55-543c-4dc3-be2e-99b89c71c6f7

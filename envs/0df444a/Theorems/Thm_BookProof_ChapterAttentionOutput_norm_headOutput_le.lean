@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutput_norm_headOutput_le
 -- name    : BookProof.ChapterAttentionOutput.norm_headOutput_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:33:15.935556+00:00
 -- url     : https://prove2.me/theorems/de09649c-f085-4771-9026-d5081344cbb5

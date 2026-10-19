@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_OLearn_lambdaH1_le_lambdaH2_iff
 -- name    : CustomerVoice.OLearn.lambdaH1_le_lambdaH2_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:08:05.428974+00:00
 -- url     : https://prove2.me/theorems/48a6ced2-dc70-40ae-856f-c2efb439a3ef

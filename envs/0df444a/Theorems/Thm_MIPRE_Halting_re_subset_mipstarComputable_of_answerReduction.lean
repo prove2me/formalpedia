@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_re_subset_mipstarComputable_of_answerReduction
 -- name    : MIPRE.Halting.re_subset_mipstarComputable_of_answerReduction
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:41:48.764622+00:00
 -- url     : https://prove2.me/theorems/33ac2d00-9531-4b6d-ae33-3ae510e5ce24

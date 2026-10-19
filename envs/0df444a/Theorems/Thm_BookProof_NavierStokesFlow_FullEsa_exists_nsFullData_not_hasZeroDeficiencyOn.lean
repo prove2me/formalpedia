@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_exists_nsFullData_not_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FullEsa.exists_nsFullData_not_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:14:36.145525+00:00
 -- url     : https://prove2.me/theorems/1e285a64-c3df-4ab7-a831-10f517840ba0

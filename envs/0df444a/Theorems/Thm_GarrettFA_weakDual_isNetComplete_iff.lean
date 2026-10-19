@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_weakDual_isNetComplete_iff
 -- name    : GarrettFA.weakDual_isNetComplete_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:35:16.65414+00:00
 -- url     : https://prove2.me/theorems/0dd84af9-9faa-4765-b525-94c6efa33c23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_mean_squared_displacement
 -- name    : FickDiffusion.mean_squared_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:21.060734+00:00
 -- url     : https://prove2.me/theorems/0fe3e080-a8df-481c-a2b6-56944fbefbe4

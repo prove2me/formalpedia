@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_motion_eq_2_4_from_friedmann
 -- name    : PereiraGuimaraesElko.motion_eq_2_4_from_friedmann
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-12T12:49:36.994349+00:00
 -- url     : https://prove2.me/theorems/0ac341ed-01e3-4307-a16d-ab07cf1f141a

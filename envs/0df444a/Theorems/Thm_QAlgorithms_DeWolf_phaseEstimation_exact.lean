@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_phaseEstimation_exact
 -- name    : QAlgorithms.DeWolf.phaseEstimation_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:33:46.368073+00:00
 -- url     : https://prove2.me/theorems/0bb1ea64-42fe-4800-a818-756a56d6f426

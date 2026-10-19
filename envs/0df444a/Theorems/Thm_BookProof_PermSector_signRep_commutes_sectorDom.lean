@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_PermSector_signRep_commutes_sectorDom
 -- name    : BookProof.PermSector.signRep_commutes_sectorDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:45:11.4854+00:00
 -- url     : https://prove2.me/theorems/7a735037-b0cd-4320-bac4-f59e56d0ec9f

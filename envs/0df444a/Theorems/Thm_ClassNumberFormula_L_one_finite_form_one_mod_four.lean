@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_L_one_finite_form_one_mod_four
 -- name    : ClassNumberFormula.L_one_finite_form_one_mod_four
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T13:01:12.185675+00:00
 -- url     : https://prove2.me/theorems/8481cbdb-a27c-4a7d-80e2-91f049bf37ea

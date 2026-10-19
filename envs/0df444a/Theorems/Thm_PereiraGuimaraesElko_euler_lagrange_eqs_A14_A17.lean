@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_euler_lagrange_eqs_A14_A17
 -- name    : PereiraGuimaraesElko.euler_lagrange_eqs_A14_A17
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:48:57.534326+00:00
 -- url     : https://prove2.me/theorems/3689aa03-b7dd-431c-9299-4a611d145f0c

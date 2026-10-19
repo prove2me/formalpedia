@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeathcoteUnbounded_psi_not_mem_positionDomain
 -- name    : HeathcoteUnbounded.psi_not_mem_positionDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:35:25.517734+00:00
 -- url     : https://prove2.me/theorems/ef1f87e4-9407-40d9-946d-245e4c01d7ad

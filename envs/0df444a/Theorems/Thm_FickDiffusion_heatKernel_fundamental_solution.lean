@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_heatKernel_fundamental_solution
 -- name    : FickDiffusion.heatKernel_fundamental_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:49.425731+00:00
 -- url     : https://prove2.me/theorems/4d8c5125-6d88-4cea-ad17-2a9047e70f30

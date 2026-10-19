@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop7_equal_mixtures_same_span
 -- name    : UnphysicalHilbert.prop7_equal_mixtures_same_span
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:04:02.473973+00:00
 -- url     : https://prove2.me/theorems/2aed40f8-c3cf-4785-a71b-47ccbaf8fb79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramersWannier_kw_fusion
 -- name    : KramersWannier.kw_fusion
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:51:15.793972+00:00
 -- url     : https://prove2.me/theorems/64c4ec9f-9965-4081-bb59-e5d8aadafcce

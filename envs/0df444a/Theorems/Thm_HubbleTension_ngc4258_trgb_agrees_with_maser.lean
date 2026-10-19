@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubbleTension_ngc4258_trgb_agrees_with_maser
 -- name    : HubbleTension.ngc4258_trgb_agrees_with_maser
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:28:39.704346+00:00
 -- url     : https://prove2.me/theorems/d93744ee-cc96-4b72-912d-1dbf170d1411

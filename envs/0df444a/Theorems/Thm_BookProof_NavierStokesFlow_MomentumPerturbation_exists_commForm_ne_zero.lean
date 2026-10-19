@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_exists_commForm_ne_zero
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.exists_commForm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:53:32.924001+00:00
 -- url     : https://prove2.me/theorems/556d1aea-c561-4a1a-9a2a-aec8baab39ae

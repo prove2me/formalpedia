@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_lemma_4_band_bound
 -- name    : QuantumMC.MeanEst.lemma_4_band_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:47.817096+00:00
 -- url     : https://prove2.me/theorems/e8b0eade-ec6e-43c0-9d37-4726f0356d7e

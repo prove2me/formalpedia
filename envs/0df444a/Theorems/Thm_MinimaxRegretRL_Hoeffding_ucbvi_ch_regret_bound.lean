@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxRegretRL_Hoeffding_ucbvi_ch_regret_bound
 -- name    : MinimaxRegretRL.Hoeffding.ucbvi_ch_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:23:15.215763+00:00
 -- url     : https://prove2.me/theorems/77097656-815a-4dfa-971d-f12efbfb0a12

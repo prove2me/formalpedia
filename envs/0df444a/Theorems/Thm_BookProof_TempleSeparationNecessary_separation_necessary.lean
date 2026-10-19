@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TempleSeparationNecessary_separation_necessary
 -- name    : BookProof.TempleSeparationNecessary.separation_necessary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:04:30.128593+00:00
 -- url     : https://prove2.me/theorems/2e4cc120-224c-4751-8171-acf95ab40b9b

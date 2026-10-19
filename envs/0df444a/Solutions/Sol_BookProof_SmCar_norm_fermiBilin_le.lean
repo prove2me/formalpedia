@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmCar.norm_fermiBilin_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:56:26.762951+00:00
 -- url     : https://prove2.me/submissions/331f43fc-e269-4b9e-9b53-2204e2faaf60
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmCarAlgebra.lean — solution of BookProof.SmCar.norm_fermiBilin_le
 import Mathlib

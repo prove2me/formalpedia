@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_Additive_theorem_3_1
 -- name    : ChenSimchiLevi.Additive.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:42:40.782242+00:00
 -- url     : https://prove2.me/theorems/afeca39b-10e7-4949-8554-a99c392c2bf2

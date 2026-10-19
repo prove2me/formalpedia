@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_plane_holomorphic_solutions
 -- name    : CauchyRiemannIndex.plane_holomorphic_solutions
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:04:44.487976+00:00
 -- url     : https://prove2.me/theorems/16a43f35-e38e-4369-8b7d-2d6a053d9bee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_OptToken_eq_13_14
 -- name    : TokenFinance.OptToken.eq_13_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:28.430214+00:00
 -- url     : https://prove2.me/theorems/baca39bc-e5a8-4897-a645-e7da557495a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_ideal_power_raw_packet_of_coefficient_profile
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.ideal_power_raw_packet_of_coefficient_profile
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T18:11:42.47688+00:00
 -- url     : https://prove2.me/theorems/4dbf9569-e759-4fef-9396-73f18d1b4e22

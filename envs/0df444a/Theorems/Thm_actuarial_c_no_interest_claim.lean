@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_no_interest_claim
 -- name    : actuarial_c_no_interest_claim
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:25:15.482881+00:00
 -- url     : https://prove2.me/theorems/3d0c76be-8fd3-484c-8e28-8fbf77975aa1

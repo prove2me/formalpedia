@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_fractional_guarantee_partition
 -- name    : ActuarialAnnuities.fractional_guarantee_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:12:32.375998+00:00
 -- url     : https://prove2.me/theorems/04ddfe1c-bee9-43c6-88fa-e5ace324bcd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_functional_equation
 -- name    : LindelofHypothesis.mu_functional_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T16:37:02.559965+00:00
 -- url     : https://prove2.me/theorems/e15e5880-7975-448f-9a15-4b6156f058c3

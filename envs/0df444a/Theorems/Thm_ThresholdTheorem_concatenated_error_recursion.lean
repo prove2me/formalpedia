@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThresholdTheorem_concatenated_error_recursion
 -- name    : ThresholdTheorem.concatenated_error_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:00:23.552628+00:00
 -- url     : https://prove2.me/theorems/44a94398-d0f9-4448-8ff3-cc4c29d34eca

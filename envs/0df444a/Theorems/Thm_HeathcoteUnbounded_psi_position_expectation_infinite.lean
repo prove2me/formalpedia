@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeathcoteUnbounded_psi_position_expectation_infinite
 -- name    : HeathcoteUnbounded.psi_position_expectation_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:36:33.160975+00:00
 -- url     : https://prove2.me/theorems/d12ca859-62ba-4f7c-b86d-ed8c62f6c612

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUniformPrior_uniform_prior_isMAP_iff_isMLE
 -- name    : BookProof.ChapterUniformPrior.uniform_prior_isMAP_iff_isMLE
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:30:11.922787+00:00
 -- url     : https://prove2.me/theorems/01b82a86-b0c6-44ff-9c2c-0f5bf30a0406

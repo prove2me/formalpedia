@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FiniteEntropySeparation_main
 -- name    : OAI.FiniteEntropySeparation.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:40.573999+00:00
 -- url     : https://prove2.me/theorems/40fe749b-7006-4395-b8be-7163294a68ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_first_year_death
 -- name    : actuarial_c_first_year_death
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:23:35.912548+00:00
 -- url     : https://prove2.me/theorems/9d8d6a94-edc6-4a67-93ee-415e3ff1dd4d

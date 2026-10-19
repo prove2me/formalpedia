@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_OptimalStopping_corollary_10_2_8
 -- name    : MDPFinance.OptimalStopping.corollary_10_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:45:14.964931+00:00
 -- url     : https://prove2.me/theorems/be91e527-28e2-45c5-a0c2-cbb46b9b748f

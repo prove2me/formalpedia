@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_factoring_reduces_to_periodFinding
 -- name    : QAlgorithms.DeWolf.factoring_reduces_to_periodFinding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:06.134952+00:00
 -- url     : https://prove2.me/theorems/878b04c9-9196-4300-83ec-cf44cf8f124e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalancedPrices_WeakExtension_case_2_constant
 -- name    : BalancedPrices.WeakExtension.case_2_constant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:03:10.5262+00:00
 -- url     : https://prove2.me/theorems/a2beca6e-18c7-42f7-803e-1c77420d0df7

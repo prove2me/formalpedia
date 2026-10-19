@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_theorem4_ellipticity
 -- name    : FlatlyFoliated.theorem4_ellipticity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:40:50.578247+00:00
 -- url     : https://prove2.me/theorems/e13ca27a-496b-4c0e-8a8f-633ff52be713

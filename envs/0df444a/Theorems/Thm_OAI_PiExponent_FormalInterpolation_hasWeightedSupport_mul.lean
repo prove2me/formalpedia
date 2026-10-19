@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_hasWeightedSupport_mul
 -- name    : OAI.PiExponent.FormalInterpolation.hasWeightedSupport_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:55:24.951536+00:00
 -- url     : https://prove2.me/theorems/4ddcf1bb-c84a-48cc-b239-fffec75a9558

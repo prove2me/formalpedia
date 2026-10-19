@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Monotone_corollary_2
 -- name    : InfoRelaxTS.Monotone.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:31:20.518195+00:00
 -- url     : https://prove2.me/theorems/84d7bc54-a5a8-46df-96d9-0b55124eb777

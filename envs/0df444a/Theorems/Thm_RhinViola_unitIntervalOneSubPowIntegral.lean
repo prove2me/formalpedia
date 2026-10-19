@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RhinViola_unitIntervalOneSubPowIntegral
 -- name    : RhinViola.unitIntervalOneSubPowIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T00:18:38.566072+00:00
 -- url     : https://prove2.me/theorems/5928070f-3b41-4e9a-89f7-3226a02b2c5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Round_davis_kahan
 -- name    : RobustSpecClust.Round.davis_kahan
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:29.019551+00:00
 -- url     : https://prove2.me/theorems/5c0e41c6-453d-406b-8853-828c3bfa0c34

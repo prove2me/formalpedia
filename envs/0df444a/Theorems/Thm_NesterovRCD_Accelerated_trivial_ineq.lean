@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Accelerated_trivial_ineq
 -- name    : NesterovRCD.Accelerated.trivial_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:12:53.37035+00:00
 -- url     : https://prove2.me/theorems/ee5972c2-f018-4c6b-8563-aa8e13810e5b

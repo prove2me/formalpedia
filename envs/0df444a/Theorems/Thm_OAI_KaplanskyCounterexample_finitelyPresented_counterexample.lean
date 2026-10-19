@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_KaplanskyCounterexample_finitelyPresented_counterexample
 -- name    : OAI.KaplanskyCounterexample.finitelyPresented_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:50.866841+00:00
 -- url     : https://prove2.me/theorems/34db9af8-ae05-4d0d-b481-af77f482f3d2

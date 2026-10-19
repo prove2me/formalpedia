@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_fNL_eq_tilts
 -- name    : Maldacena2003.fNL_eq_tilts
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:52:59.607848+00:00
 -- url     : https://prove2.me/theorems/28fe3887-03bd-479a-a9a0-c23a6ae72ef3

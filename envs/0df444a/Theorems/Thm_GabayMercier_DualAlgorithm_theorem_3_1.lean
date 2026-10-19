@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GabayMercier_DualAlgorithm_theorem_3_1
 -- name    : GabayMercier.DualAlgorithm.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:13:47.922475+00:00
 -- url     : https://prove2.me/theorems/d85aa94e-9dbb-4077-9c27-436e524f0735

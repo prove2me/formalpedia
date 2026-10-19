@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockContinuum_memLp_conj
 -- name    : BookProof.NavierStokesFlow.FockContinuum.memLp_conj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:18:14.061979+00:00
 -- url     : https://prove2.me/theorems/50187688-b783-4818-9f3d-0bb70d53eb00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanThesis_standardForm_exists
 -- name    : QAlgorithms.GottesmanThesis.standardForm_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:59:29.383015+00:00
 -- url     : https://prove2.me/theorems/55d5712e-4688-4e40-aff3-ac3f89d5b76e

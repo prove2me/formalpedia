@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_epsSubgrad_of_subgrad_active_piece
 -- name    : QAlgorithms.Nannicini.epsSubgrad_of_subgrad_active_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:53:28.453716+00:00
 -- url     : https://prove2.me/theorems/885ca32a-29df-4d22-88cb-33004893ddaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Accuracy_corollary_2_accuracy
 -- name    : HumanMachine.Accuracy.corollary_2_accuracy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:01.690084+00:00
 -- url     : https://prove2.me/theorems/200a9d4c-1c2c-4623-bfd0-4279e27f1f95

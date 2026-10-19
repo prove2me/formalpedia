@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_gls_covariance
 -- name    : LocalDistanceNetwork.gls_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:25:10.011641+00:00
 -- url     : https://prove2.me/theorems/144fcb5d-4010-44c2-8153-4b8b033c3f3a

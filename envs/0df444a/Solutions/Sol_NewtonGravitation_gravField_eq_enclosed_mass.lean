@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NewtonGravitation.gravField_eq_enclosed_mass
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-13T18:13:21.95708+00:00
 -- url     : https://prove2.me/submissions/22e76d16-fa17-47c4-a5da-21839a37fce1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NewtonGravitation_Defs
 import Theorems.Thm_NewtonGravitation_radial_shell_averaging_kernel

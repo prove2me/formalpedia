@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Parabolic_weak_solution_exists_unique
 -- name    : HunterPDE.Parabolic.weak_solution_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:26:23.587851+00:00
 -- url     : https://prove2.me/theorems/4517f936-c14f-4236-829d-a75395f4e951

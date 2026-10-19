@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestartPD_Adaptive_theorem_2
 -- name    : RestartPD.Adaptive.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:07.236393+00:00
 -- url     : https://prove2.me/theorems/a4bab954-a759-4f83-bc4f-9fd856fe4ba3

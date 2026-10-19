@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_isNoetherianRing_of_mem_affineOpens
 -- name    : NoetherianScheme.isNoetherianRing_of_mem_affineOpens
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:33:05.162311+00:00
 -- url     : https://prove2.me/theorems/f0d7cf0d-cca9-4111-b456-41b2d7e49a8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Brennan_main_theorem
 -- name    : OAI.Brennan.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:24.755571+00:00
 -- url     : https://prove2.me/theorems/5c159347-3ca2-400e-92dc-ac96b4fddb49

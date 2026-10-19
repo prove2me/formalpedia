@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_lemma_4_tail_bound
 -- name    : QuantumMC.MeanEst.lemma_4_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:36.778633+00:00
 -- url     : https://prove2.me/theorems/2432f101-f2b0-436c-9291-69a016866a11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Sol_UV_equations
 -- name    : KendallBD.Sol.UV_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:25:06.289274+00:00
 -- url     : https://prove2.me/theorems/58544bfe-1249-46a4-b476-096795ff72e4

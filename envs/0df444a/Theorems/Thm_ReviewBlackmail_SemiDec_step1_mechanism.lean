@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_SemiDec_step1_mechanism
 -- name    : ReviewBlackmail.SemiDec.step1_mechanism
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:54.347548+00:00
 -- url     : https://prove2.me/theorems/d3afa79d-d1d2-4057-8bfc-d09b84084e3c

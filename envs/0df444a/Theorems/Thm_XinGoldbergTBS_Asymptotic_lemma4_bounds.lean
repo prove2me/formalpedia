@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_lemma4_bounds
 -- name    : XinGoldbergTBS.Asymptotic.lemma4_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:26:38.292452+00:00
 -- url     : https://prove2.me/theorems/00f9d62b-8314-40af-8fc2-cbec6136c4a1

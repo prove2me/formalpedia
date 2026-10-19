@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_qgOuterFriedN_isPositiveSelfAdjointExtension
 -- name    : BookProof.QgOuterFockFL.qgOuterFriedN_isPositiveSelfAdjointExtension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:47:10.399603+00:00
 -- url     : https://prove2.me/theorems/dd3d36d6-7e7e-4232-b340-0009c4ddbacd

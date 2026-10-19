@@ -4,6 +4,10 @@
 -- author  : @He Wang
 -- created : 2026-10-15T18:47:30.17648+00:00
 -- url     : https://prove2.me/theorems/a44ced54-1b6c-4235-a40c-d0060a0fd482
+-- statement:
+--   Coordinates (T, r, θ, φ), G = c = 1, signature (−,+,+,+). qf M r = √(2M/r) (Mathlib Real.sqrt; used only with M ≥ 0, r > 0, where q² = 2M/r; the junk value on negative arguments is never used to extend a statement). gPG M ε: g_TT = −(1 − 2M/r), g_Tr = g_rT = ε q, g_rr = 1, g_θθ = r², g_φφ = r² sin²θ, else 0 — the line element −dT² + (dr + ε q dT)² + r² dΩ² (Martel–Poisson gr-qc/0001069 eqs. 2.6–2.7; Müller–Grave arXiv:0904.4184v3 PG subsection; the matrix entry g_Tr is half the literature cross term 2√(2M/r) dT dr). giPG M ε: ĝ^TT = −1, ĝ^Tr = ĝ^rT = ε q, ĝ^rr = 1 − 2M/r, ĝ^θθ = 1/r², ĝ^φφ = 1/(r² sin²θ), else 0 (checked in the certificate, valid for ε² = 1, M ≥ 0, r > 0). HPG M r = r − 2√(2M)√r + 4M log(√r + √(2M)), one primitive of 1/(1 + q) (H_0 = id); pgToEF M ε x = (T + ε H_M(r), r, θ, φ) and pgFromEF M ε y = (w − ε H_M(r), r, θ, φ). ε = +1 ingoing (Painlevé), −1 outgoing. Domain of use: domEF = {r > 0, 0 < θ < π}, which for M > 0 contains r = 2M (q = 1, g_TT = 0).
+--
+--   **中文导读。** PG 目录数据：q = √(2M/r)（仅用于 M ≥ 0、r > 0）、度规 gPG（g_TT = −(1−2M/r)、g_Tr = εq、g_rr = 1、角块 r²、r² sin²θ）、候选逆 giPG、原函数 H_M（H_M′ = 1/(1+q)）、PG↔EF 映射 w = T ± H_M。
 -- source:
 --   He Wang, Exact Vacuum Atlas II, local source snapshot (public Git repository not yet available), commit 11fb317259353b71a41d6daed466c495cffd7db4; Atlas/Schwarzschild/PGDefs.lean; SHA-256 05c8a6086403c172d76a7bfe74491c4fa8c5d9a5816d71f3ea86090511532812. Mathematical background: See mission/PHYSICS_BOUNDARY.md §A-F for registered definitions and literature references (Wald, Müller-Grave arXiv:0904.4184, Visser arXiv:0706.0622, Martel-Poisson gr-qc/0001069).
 

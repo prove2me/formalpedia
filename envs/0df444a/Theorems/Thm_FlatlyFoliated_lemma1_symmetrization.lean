@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_lemma1_symmetrization
 -- name    : FlatlyFoliated.lemma1_symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:42:05.597893+00:00
 -- url     : https://prove2.me/theorems/2dd698f4-eddf-4e47-9ec2-4cd57c9cbd83

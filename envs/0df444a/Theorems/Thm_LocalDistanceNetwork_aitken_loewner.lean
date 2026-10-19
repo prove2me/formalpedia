@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_aitken_loewner
 -- name    : LocalDistanceNetwork.aitken_loewner
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:26:19.403899+00:00
 -- url     : https://prove2.me/theorems/2b59a94f-44b8-4d25-8ae4-495ebefdd5eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_hadamardTest_probabilityOracle
 -- name    : QAlgorithms.Nannicini.hadamardTest_probabilityOracle
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:13.545817+00:00
 -- url     : https://prove2.me/theorems/4bf109f9-6ca0-4713-bfff-031ef6c72a31

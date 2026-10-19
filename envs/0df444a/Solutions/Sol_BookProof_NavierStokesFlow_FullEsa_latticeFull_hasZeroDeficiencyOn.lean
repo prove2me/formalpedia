@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.FullEsa.latticeFull_hasZeroDeficiencyOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:19:47.130481+00:00
 -- url     : https://prove2.me/submissions/487bbad4-4739-419b-b79d-7043e9d8089f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesFullEsa.lean — solution of BookProof.NavierStokesFlow.FullEsa.latticeFull_hasZeroDeficiencyOn
 import Mathlib

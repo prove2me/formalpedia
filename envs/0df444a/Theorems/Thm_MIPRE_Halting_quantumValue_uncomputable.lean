@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_quantumValue_uncomputable
 -- name    : MIPRE.Halting.quantumValue_uncomputable
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:40:54.844214+00:00
 -- url     : https://prove2.me/theorems/b0b5e137-45c7-4ead-974c-abb2aaa932b5

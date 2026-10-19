@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_HermiteFarisLavine_nsH_relative_bound
 -- name    : BookProof.NavierStokesFlow.HermiteFarisLavine.nsH_relative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:19:59.158104+00:00
 -- url     : https://prove2.me/theorems/b2c0055d-3685-48f7-8910-dbcd0b4c6036

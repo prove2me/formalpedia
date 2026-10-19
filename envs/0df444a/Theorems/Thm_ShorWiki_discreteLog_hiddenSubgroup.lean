@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_discreteLog_hiddenSubgroup
 -- name    : ShorWiki.discreteLog_hiddenSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T03:08:37.332995+00:00
 -- url     : https://prove2.me/theorems/0b94566a-0f29-4401-a5ae-7bab57838b2b

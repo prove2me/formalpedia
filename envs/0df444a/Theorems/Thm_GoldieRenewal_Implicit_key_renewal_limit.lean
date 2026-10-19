@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldieRenewal_Implicit_key_renewal_limit
 -- name    : GoldieRenewal.Implicit.key_renewal_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:37.856966+00:00
 -- url     : https://prove2.me/theorems/b630d11e-4cab-4710-be63-2b029df22e41

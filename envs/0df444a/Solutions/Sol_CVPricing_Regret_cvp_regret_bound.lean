@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CVPricing.Regret.cvp_regret_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T16:20:11.144172+00:00
 -- url     : https://prove2.me/submissions/6d9c8856-2703-4fb3-b5a4-2b44e70e3f34
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KeskinZeevi_SufficientConditions_LeastSquares

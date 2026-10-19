@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Approx_district_leading
 -- name    : CarlssonPartition.Approx.district_leading
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:25.954597+00:00
 -- url     : https://prove2.me/theorems/a1675c8a-26d4-44d4-adea-211e0e43e464

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_quasi_l_proximity_theorem
 -- name    : DiscreteConvex.LConvexFunctionsD.quasi_l_proximity_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:03:07.094934+00:00
 -- url     : https://prove2.me/theorems/94f5d970-fb17-45f0-9caf-e491e0bbd86b

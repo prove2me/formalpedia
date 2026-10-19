@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GroupRingDeterminant_main
 -- name    : OAI.GroupRingDeterminant.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:43.208641+00:00
 -- url     : https://prove2.me/theorems/9494f4ad-4ce3-43db-9a41-8bef143755e5

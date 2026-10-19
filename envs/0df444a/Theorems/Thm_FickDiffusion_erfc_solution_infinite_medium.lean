@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_erfc_solution_infinite_medium
 -- name    : FickDiffusion.erfc_solution_infinite_medium
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:54.980069+00:00
 -- url     : https://prove2.me/theorems/1500947a-e3c6-4dac-b674-6dcf8c617397

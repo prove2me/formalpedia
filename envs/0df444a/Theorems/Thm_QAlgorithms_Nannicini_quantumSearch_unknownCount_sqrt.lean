@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_quantumSearch_unknownCount_sqrt
 -- name    : QAlgorithms.Nannicini.quantumSearch_unknownCount_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:28.709458+00:00
 -- url     : https://prove2.me/theorems/625e4f28-05f9-4df9-993d-cee25e87516f

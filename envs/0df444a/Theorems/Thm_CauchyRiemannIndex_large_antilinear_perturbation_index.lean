@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_large_antilinear_perturbation_index
 -- name    : CauchyRiemannIndex.large_antilinear_perturbation_index
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:04:56.170649+00:00
 -- url     : https://prove2.me/theorems/8a3b5383-52cc-4656-b24e-388cf7db5332

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isQuasiComplete_of_isFrechetSpace
 -- name    : GarrettFA.isQuasiComplete_of_isFrechetSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:32:42.76917+00:00
 -- url     : https://prove2.me/theorems/3983194b-53a4-4d69-b344-90faae6de3e4

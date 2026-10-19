@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_measureFirst_orderFindingOutput
 -- name    : ShorWiki.measureFirst_orderFindingOutput
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T03:04:57.60913+00:00
 -- url     : https://prove2.me/theorems/c119e11c-fa9c-4df0-920e-b2fcc84c6a23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MTT_Eigenform_exists_frickeRootNumber_quadratic_twist
 -- name    : MTT.Eigenform.exists_frickeRootNumber_quadratic_twist
--- status  : Open
+-- status  : Proved
 -- author  : @riccardo.brasca
 -- created : 2026-09-26T20:02:10.897982+00:00
 -- url     : https://prove2.me/theorems/fe2311a6-337a-4be0-9472-706660d9b803

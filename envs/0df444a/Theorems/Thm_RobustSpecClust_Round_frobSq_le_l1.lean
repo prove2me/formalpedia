@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Round_frobSq_le_l1
 -- name    : RobustSpecClust.Round.frobSq_le_l1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:23.550512+00:00
 -- url     : https://prove2.me/theorems/8aa20e0a-ff51-41e0-aad6-e958f3ec01de

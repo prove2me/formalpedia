@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_isMixing_mul
 -- name    : BookProof.SmDiracYukawa.isMixing_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:15:33.314136+00:00
 -- url     : https://prove2.me/theorems/04698a98-e7aa-431a-bead-9808ba0d1d7f

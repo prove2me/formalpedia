@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Lift_rows_eq_or_orthogonal
 -- name    : RobustSpecClust.Lift.rows_eq_or_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:25.017526+00:00
 -- url     : https://prove2.me/theorems/d95b1692-2489-4bb3-93a8-172a67258bae

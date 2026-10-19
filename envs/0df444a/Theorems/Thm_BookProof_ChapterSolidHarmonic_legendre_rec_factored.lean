@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_legendre_rec_factored
 -- name    : BookProof.ChapterSolidHarmonic.legendre_rec_factored
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:54:19.881012+00:00
 -- url     : https://prove2.me/theorems/722e56c8-04fe-4fbc-b83e-b0103fcd64a5

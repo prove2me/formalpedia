@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfFisher_Linear_theorem_4
 -- name    : InfFisher.Linear.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:53.954989+00:00
 -- url     : https://prove2.me/theorems/341c38df-f31a-4277-81e9-210e66b0ace0

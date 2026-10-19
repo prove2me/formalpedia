@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_alg4_prepares_ampEncoding
 -- name    : QAlgorithms.Nannicini.alg4_prepares_ampEncoding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:46.553673+00:00
 -- url     : https://prove2.me/theorems/c34e52d6-2d45-4775-a440-edb5f945ffdc

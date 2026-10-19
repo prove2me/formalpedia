@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_slice_range_sum
 -- name    : actuarial_c_slice_range_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:23:20.450012+00:00
 -- url     : https://prove2.me/theorems/4e98474f-e43b-4b82-b4ba-b14936d3e8cb

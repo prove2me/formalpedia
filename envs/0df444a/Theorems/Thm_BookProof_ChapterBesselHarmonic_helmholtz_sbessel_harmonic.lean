@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBesselHarmonic_helmholtz_sbessel_harmonic
 -- name    : BookProof.ChapterBesselHarmonic.helmholtz_sbessel_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:55:25.902712+00:00
 -- url     : https://prove2.me/theorems/c5225565-1105-4442-9c84-e6d73f306ca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_ns_hamiltonian_essentiallySelfAdjointOn_core
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.ns_hamiltonian_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:21:11.895527+00:00
 -- url     : https://prove2.me/theorems/14fc4de7-65f8-45c7-b215-1ed30584b232

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_card_le_and_exists_mul_twistedL_eq_one
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_card_le_and_exists_mul_twistedL_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T20:46:16.661627+00:00
 -- url     : https://prove2.me/theorems/dbe1ee75-4c8d-4838-8f74-871ecdb9a3ab

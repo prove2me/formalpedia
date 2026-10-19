@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GhadimiLan_TwoPhase_theorem_2_4_b
 -- name    : GhadimiLan.TwoPhase.theorem_2_4_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:41.956986+00:00
 -- url     : https://prove2.me/theorems/e16eb0db-44fe-4d0b-8d01-1e139506304b

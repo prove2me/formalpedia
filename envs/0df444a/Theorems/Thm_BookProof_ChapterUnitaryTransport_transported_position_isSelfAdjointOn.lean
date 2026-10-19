@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnitaryTransport_transported_position_isSelfAdjointOn
 -- name    : BookProof.ChapterUnitaryTransport.transported_position_isSelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:16:40.909006+00:00
 -- url     : https://prove2.me/theorems/014e0282-f960-4b8a-9c8d-0c56fd43469d

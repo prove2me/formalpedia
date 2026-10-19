@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_coupling_quadForm_le_comparison
 -- name    : BookProof.QgCouplingDGammaSum.coupling_quadForm_le_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:20:02.196814+00:00
 -- url     : https://prove2.me/theorems/52b44b4c-ff40-405c-a2bc-543c9dacd7ca

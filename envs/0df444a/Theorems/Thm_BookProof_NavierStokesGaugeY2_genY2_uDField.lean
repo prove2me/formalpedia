@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesGaugeY2_genY2_uDField
 -- name    : BookProof.NavierStokesGaugeY2.genY2_uDField
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:19:14.623978+00:00
 -- url     : https://prove2.me/theorems/2cf885af-d219-41c0-b357-c3bb2a099566

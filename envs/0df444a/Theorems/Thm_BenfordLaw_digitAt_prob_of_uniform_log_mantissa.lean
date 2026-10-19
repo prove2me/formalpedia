@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_digitAt_prob_of_uniform_log_mantissa
 -- name    : BenfordLaw.digitAt_prob_of_uniform_log_mantissa
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:54.801878+00:00
 -- url     : https://prove2.me/theorems/d9418e20-e429-4892-a336-cd23b84d37ab

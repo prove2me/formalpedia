@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_Nonparametric_step4_regret_bound
 -- name    : BesbesZeevi.Nonparametric.step4_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:51:34.471497+00:00
 -- url     : https://prove2.me/theorems/dcab77e3-c33b-4dde-92b9-69c3f1929736

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_heatKernel_tendsto_initial
 -- name    : FickDiffusion.heatKernel_tendsto_initial
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:57.71665+00:00
 -- url     : https://prove2.me/theorems/728aeb7a-f5fd-4f29-8084-66076554df09

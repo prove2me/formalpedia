@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_exists_nonunique_solution
 -- name    : HamburgerMoment.exists_nonunique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:04:57.341151+00:00
 -- url     : https://prove2.me/theorems/7b344331-e964-448c-9b9a-59e31d4f8cf6

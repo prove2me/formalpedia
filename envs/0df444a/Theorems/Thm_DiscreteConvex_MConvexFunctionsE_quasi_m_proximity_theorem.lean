@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_quasi_m_proximity_theorem
 -- name    : DiscreteConvex.MConvexFunctionsE.quasi_m_proximity_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:11:26.766063+00:00
 -- url     : https://prove2.me/theorems/68ee12e4-9fd5-4632-95a2-18d9ca5c974f

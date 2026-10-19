@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_corollary2_unique_vacuum
 -- name    : FlatlyFoliated.corollary2_unique_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:44:46.464616+00:00
 -- url     : https://prove2.me/theorems/b09c40d1-632e-4462-a198-82155db45379

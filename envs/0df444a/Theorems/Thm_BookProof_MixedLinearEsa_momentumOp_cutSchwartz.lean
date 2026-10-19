@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_momentumOp_cutSchwartz
 -- name    : BookProof.MixedLinearEsa.momentumOp_cutSchwartz
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:04:47.155594+00:00
 -- url     : https://prove2.me/theorems/33a78f71-fe04-4db2-ab6d-68a335d783df

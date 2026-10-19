@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_unique_finite_support_of_det_eq_zero
 -- name    : HamburgerMoment.unique_finite_support_of_det_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:03:52.579919+00:00
 -- url     : https://prove2.me/theorems/8495483b-8bbd-4c6c-9015-e714681c80a8

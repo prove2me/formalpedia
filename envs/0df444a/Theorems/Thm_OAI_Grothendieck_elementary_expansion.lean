@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Grothendieck_elementary_expansion
 -- name    : OAI.Grothendieck.elementary_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:42.930085+00:00
 -- url     : https://prove2.me/theorems/dad0ce18-0cb2-434e-b084-500692a99e2c

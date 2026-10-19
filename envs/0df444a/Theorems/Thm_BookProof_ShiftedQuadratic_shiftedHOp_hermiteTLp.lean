@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_shiftedHOp_hermiteTLp
 -- name    : BookProof.ShiftedQuadratic.shiftedHOp_hermiteTLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:26:40.27898+00:00
 -- url     : https://prove2.me/theorems/cf5618b3-b48e-41b1-a6ab-20e4777d5a55

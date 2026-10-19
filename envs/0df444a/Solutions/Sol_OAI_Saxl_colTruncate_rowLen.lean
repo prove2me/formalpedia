@@ -1,0 +1,58 @@
+-- Prove2me | solution 1 for OAI.Saxl.colTruncate_rowLen
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-19T02:01:36.40624+00:00
+-- url     : https://prove2.me/submissions/ee564119-385d-419f-b332-c409be41d7cd
+
+import Mathlib
+import Definitions.Def_Saxl
+import Definitions.Def_OAI_RepresentationTheory_Saxl_Basic
+import Definitions.Def_OAI_RepresentationTheory_Saxl_Polytabloid
+import Definitions.Def_OAI_RepresentationTheory_Saxl_SpechtSubmodule
+import Definitions.Def_OAI_RepresentationTheory_Saxl_SpechtDuality
+import Definitions.Def_OAI_RepresentationTheory_Saxl_TableauTransport
+import Definitions.Def_OAI_RepresentationTheory_Saxl_StaircaseTensor
+import Definitions.Def_OAI_RepresentationTheory_Saxl_HighProjection
+import Definitions.Def_OAI_RepresentationTheory_Saxl_CoordinateSector
+import Definitions.Def_OAI_RepresentationTheory_Saxl_PositionSplit
+import Definitions.Def_OAI_RepresentationTheory_Saxl_BandFactorization
+import Definitions.Def_OAI_RepresentationTheory_Saxl_PathAlternation
+import Definitions.Def_OAI_RepresentationTheory_Saxl_BandMatrices
+import Definitions.Def_OAI_RepresentationTheory_Saxl_PathContraction
+import Definitions.Def_OAI_RepresentationTheory_Saxl_ColumnContraction
+import Definitions.Def_OAI_RepresentationTheory_Saxl_BandPairing
+import Definitions.Def_OAI_RepresentationTheory_Saxl_CyclicSector
+import Definitions.Def_OAI_RepresentationTheory_Saxl_BandSupport
+import Definitions.Def_OAI_RepresentationTheory_Saxl_ShapeRigidity
+import Definitions.Def_OAI_RepresentationTheory_Saxl_SpechtClassification
+import Definitions.Def_OAI_RepresentationTheory_Saxl_SupportSeparation
+import Definitions.Def_OAI_RepresentationTheory_Saxl_PositionTensor
+import Definitions.Def_OAI_RepresentationTheory_Saxl_BandOrbit
+import Definitions.Def_OAI_RepresentationTheory_Saxl_BandGlue
+import Definitions.Def_OAI_RepresentationTheory_Saxl_SignEquivalence
+import Definitions.Def_OAI_RepresentationTheory_Saxl_PieriRestriction
+import Definitions.Def_OAI_RepresentationTheory_Saxl_StripExtension
+import Definitions.Def_OAI_RepresentationTheory_Saxl_SizedStrips
+import Definitions.Def_OAI_RepresentationTheory_Saxl_HorizontalRemoval
+import Definitions.Def_OAI_RepresentationTheory_Saxl_YoungRule
+import Definitions.Def_OAI_RepresentationTheory_Saxl_CyclicTensor
+import Definitions.Def_OAI_RepresentationTheory_Saxl_RepeatedProjection
+import Definitions.Def_OAI_RepresentationTheory_Saxl_StaircaseSign
+import Definitions.Def_OAI_RepresentationTheory_Saxl_DominatedQuotient
+import Definitions.Def_OAI_RepresentationTheory_Saxl_DominatedSupport
+
+open OAI OAI.Saxl
+open scoped TensorProduct
+universe uX uY
+
+
+theorem solution (μ : YoungDiagram) (k i : ℕ) :
+    (colTruncate μ k).rowLen i = min k (μ.rowLen i) := by
+  apply eq_of_forall_lt_iff
+  intro j
+  rw [← YoungDiagram.mem_iff_lt_rowLen, lt_min_iff, ← YoungDiagram.mem_iff_lt_rowLen]
+  unfold colTruncate
+  rw [YoungDiagram.mem_transpose]
+  simp only [Prod.swap_prod_mk, mem_rowTruncate, YoungDiagram.mem_transpose]
+  tauto
+

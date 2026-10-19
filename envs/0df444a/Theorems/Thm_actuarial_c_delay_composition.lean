@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_delay_composition
 -- name    : actuarial_c_delay_composition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:27:56.347238+00:00
 -- url     : https://prove2.me/theorems/2cd9320a-f145-45e6-a115-defa088df80a

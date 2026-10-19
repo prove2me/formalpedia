@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_shiftedHOp_deficiencyTrivialAt
 -- name    : BookProof.ShiftedQuadratic.shiftedHOp_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:26:36.35993+00:00
 -- url     : https://prove2.me/theorems/71f6d81e-06ce-456c-a6a5-2c9533fa5a85

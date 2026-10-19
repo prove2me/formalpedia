@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_kinetic_momentum_geodesic_equation
 -- name    : RelPartMech.kinetic_momentum_geodesic_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:14:04.109262+00:00
 -- url     : https://prove2.me/theorems/b8c10506-4013-409d-a1c5-511a71efe215

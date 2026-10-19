@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Tight_proposition_5_2
 -- name    : RobustPoA.Tight.proposition_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:50:09.707693+00:00
 -- url     : https://prove2.me/theorems/63980490-07bb-475a-9ef8-f0ad73f0be9c

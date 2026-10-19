@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_yukawa_entry_bound
 -- name    : BookProof.SmDiracYukawa.yukawa_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:52:28.497979+00:00
 -- url     : https://prove2.me/theorems/c6ca587f-3720-4048-b873-40da78c48f36

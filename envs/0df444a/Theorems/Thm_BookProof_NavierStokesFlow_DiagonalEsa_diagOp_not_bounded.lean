@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_DiagonalEsa_diagOp_not_bounded
 -- name    : BookProof.NavierStokesFlow.DiagonalEsa.diagOp_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:39.616252+00:00
 -- url     : https://prove2.me/theorems/2e724cc3-7220-464e-8d7f-aa74897ef34e

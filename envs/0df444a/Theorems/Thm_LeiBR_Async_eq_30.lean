@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_eq_30
 -- name    : LeiBR.Async.eq_30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:05:26.706828+00:00
 -- url     : https://prove2.me/theorems/63f31d37-948b-4fa6-a0f3-7452d42ef681

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_densConfCore_dense
 -- name    : BookProof.ScalaronDensitized.densConfCore_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:20:53.326317+00:00
 -- url     : https://prove2.me/theorems/de040c54-baff-421a-843f-6aa96a4f1988

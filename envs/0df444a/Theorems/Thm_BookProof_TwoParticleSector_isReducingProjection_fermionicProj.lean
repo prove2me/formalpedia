@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_isReducingProjection_fermionicProj
 -- name    : BookProof.TwoParticleSector.isReducingProjection_fermionicProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:15:46.27477+00:00
 -- url     : https://prove2.me/theorems/40866d21-858f-4e8c-bbe4-b90caae9254c

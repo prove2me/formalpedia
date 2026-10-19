@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_genType_le
 -- name    : GeneralizedComplex.genType_le
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:52:34.416659+00:00
 -- url     : https://prove2.me/theorems/76de4f8b-7e15-4828-8f46-e71a0404d65f

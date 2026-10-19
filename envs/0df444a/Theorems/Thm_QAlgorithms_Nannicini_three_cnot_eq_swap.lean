@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_three_cnot_eq_swap
 -- name    : QAlgorithms.Nannicini.three_cnot_eq_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:19.744614+00:00
 -- url     : https://prove2.me/theorems/358ba560-dd72-4f3b-811d-2eeab2cc23d4

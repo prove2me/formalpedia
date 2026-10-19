@@ -7,11 +7,11 @@
 -- title:
 --   Fixer existence: an equivalent form of the main target
 -- statement:
---   Equivalent reformulation of the main target. Let $A$ be a finite type with arbitrary total operation $\diamond$ satisfying E677. The assertion is
+--   Fixer-existence form of the main target. Let $\alpha$ be a finite type with an arbitrary total operation $\diamond$ satisfying E677. The assertion is
 --
---   $$\forall x\in A,\quad \exists y\in A,\quad y\diamond x=x.$$
+--   $$\forall x\in\alpha,\quad \exists y\in\alpha,\quad y\diamond x=x.$$
 --
---   Together with the fixer-determination theorem, this is equivalent to E255; it is retained as an explicit reduction dependency, not a smaller milestone.
+--   For finite E677 magmas this is the same obligation as E255 (blueprint Lemma 13.2): E255 at $x$ supplies the fixer $(x\diamond x)\diamond x$, and from any fixer $y$ of $x$ the fixer-determination theorem gives $y=(x\diamond x)\diamond x$, hence E255 at $x$. It is retained as an explicit reduction dependency, not as a smaller milestone.
 -- source:
 --   Matthew Bolan et al., The Equational Theories Project: Advancing Collaborative Mathematical Research at Scale, arXiv:2512.07087v2 (December 16, 2025), Section 8, Problem 8.1, https://arxiv.org/html/2512.07087v2
 

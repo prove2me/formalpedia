@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyclotomicEulerSystem_exists_compatibleRootSystem
 -- name    : CyclotomicEulerSystem.exists_compatibleRootSystem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T15:27:04.253989+00:00
 -- url     : https://prove2.me/theorems/8b4ae9b2-802b-45c0-bbef-bd4eaa9287d2

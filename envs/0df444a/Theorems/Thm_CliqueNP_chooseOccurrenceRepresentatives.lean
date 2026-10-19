@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CliqueNP_chooseOccurrenceRepresentatives
 -- name    : CliqueNP.chooseOccurrenceRepresentatives
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T08:06:14.015413+00:00
 -- url     : https://prove2.me/theorems/c2bbae6e-7150-4fcb-b9a8-09a9e44ed9d7

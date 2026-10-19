@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_fdGradient_near_subgradient
 -- name    : QAlgorithms.Nannicini.fdGradient_near_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:26.925073+00:00
 -- url     : https://prove2.me/theorems/62923fa8-ee4f-4df3-bd36-a4efc24b6683

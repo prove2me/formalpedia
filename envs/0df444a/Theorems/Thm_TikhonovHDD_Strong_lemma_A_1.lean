@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Strong_lemma_A_1
 -- name    : TikhonovHDD.Strong.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:18.201381+00:00
 -- url     : https://prove2.me/theorems/7c6d6cab-e8b5-4a24-aba9-881321d8b37f

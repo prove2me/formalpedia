@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem313_sharp_threshold_width
 -- name    : OAI.Problem313.sharp_threshold_width
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:07.081791+00:00
 -- url     : https://prove2.me/theorems/0a3ca649-f12e-4ff9-a506-fd9ade4ce1fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_two_prime_index_three_exponent_one_gives_thirteen_dvd_d1
 -- name    : OddPerfectNumber.Kernel.five_two_prime_index_three_exponent_one_gives_thirteen_dvd_d1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T12:38:57.957583+00:00
 -- url     : https://prove2.me/theorems/bcd032e7-5cbd-4a31-8a4f-8b3ebac0f2e0

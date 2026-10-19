@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_amplitudeAmplification_overlap
 -- name    : QAlgorithms.Nannicini.amplitudeAmplification_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:51.568682+00:00
 -- url     : https://prove2.me/theorems/58b459f9-8ba1-4348-a498-294b653cac62

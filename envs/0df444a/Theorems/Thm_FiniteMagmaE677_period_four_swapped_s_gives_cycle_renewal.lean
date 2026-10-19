@@ -11,7 +11,7 @@
 --
 --   Then these inputs extend to a cycle-renewal packet. In particular, $(t\diamond c_3)\diamond t=c_1$, $q\diamond c_2=s\diamond c_2$, and $p=q\diamond(q\diamond x)$ is fresh outside the same six points and satisfies $p\diamond q=q$. The packet retains the full three-way classification of $t\diamond c_3$: the dual-collision case, contact at a strictly positive phase of $C_t$, or a fresh cycle disjoint from $C_t$, with the associated equations and exact first-return data.
 -- source:
---   https://github.com/flound1129/the-missing-pair/blob/f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c/lean/E677/Spine/Piece1D4SSwapCommonRenewal.lean#L144
+--   Adam McKenna, The Missing Pair (private repository), revision f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c, lean/E677/Spine/Piece1D4SSwapCommonRenewal.lean, line 144. The accepted proof on this platform is the public record.
 
 import Definitions.Def_FiniteMagmaE677_sswap_renewal
 import Mathlib

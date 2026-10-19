@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgCouplingDGammaSum.coupling_quadForm_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:22:42.81661+00:00
 -- url     : https://prove2.me/submissions/bf584509-4f41-4aa4-af46-51ee007619a5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgCouplingDGammaSum.lean — solution of BookProof.QgCouplingDGammaSum.coupling_quadForm_le
 import Mathlib

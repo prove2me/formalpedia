@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_AffineFiber_PairShift_pairH_essentiallySelfAdjointOn_core
 -- name    : BookProof.NavierStokesFlow.AffineFiber.PairShift.pairH_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T16:47:54.229099+00:00
 -- url     : https://prove2.me/theorems/32b9e3bd-af5e-4211-95b0-ebe49b4b0704

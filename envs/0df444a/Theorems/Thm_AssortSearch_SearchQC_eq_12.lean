@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_SearchQC_eq_12
 -- name    : AssortSearch.SearchQC.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:24.551525+00:00
 -- url     : https://prove2.me/theorems/20385dc0-3af9-4694-a5a6-56dd6185afff

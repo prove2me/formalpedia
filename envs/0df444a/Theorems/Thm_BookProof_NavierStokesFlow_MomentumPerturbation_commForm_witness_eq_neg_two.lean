@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_commForm_witness_eq_neg_two
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.commForm_witness_eq_neg_two
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:22:36.6749+00:00
 -- url     : https://prove2.me/theorems/0ef7ac4a-cd1e-4f51-a6f6-53ed12e0f6b2

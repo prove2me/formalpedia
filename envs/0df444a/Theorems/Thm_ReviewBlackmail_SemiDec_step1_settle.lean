@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_SemiDec_step1_settle
 -- name    : ReviewBlackmail.SemiDec.step1_settle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:54.458049+00:00
 -- url     : https://prove2.me/theorems/ece469fb-534a-48c3-9eb7-7ee6d7ae19c9

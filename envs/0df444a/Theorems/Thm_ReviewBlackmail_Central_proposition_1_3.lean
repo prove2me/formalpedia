@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_Central_proposition_1_3
 -- name    : ReviewBlackmail.Central.proposition_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:51.869472+00:00
 -- url     : https://prove2.me/theorems/fb54dc0f-a935-471c-bedf-1096408636bb

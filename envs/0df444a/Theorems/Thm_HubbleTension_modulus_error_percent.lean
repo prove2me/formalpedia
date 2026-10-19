@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubbleTension_modulus_error_percent
 -- name    : HubbleTension.modulus_error_percent
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:28:13.385239+00:00
 -- url     : https://prove2.me/theorems/75a8dde9-5fd7-4bdc-b750-5ff8ceb1d309

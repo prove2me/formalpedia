@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_death_plus_next_survivor
 -- name    : actuarial_c_death_plus_next_survivor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:22:47.104755+00:00
 -- url     : https://prove2.me/theorems/71b016e3-e829-4b72-93a2-bfac7b64758c

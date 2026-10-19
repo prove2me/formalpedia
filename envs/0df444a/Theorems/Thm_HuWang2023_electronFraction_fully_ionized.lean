@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuWang2023_electronFraction_fully_ionized
 -- name    : HuWang2023.electronFraction_fully_ionized
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:43:26.773973+00:00
 -- url     : https://prove2.me/theorems/2c2add17-1350-435d-b9bb-aa5a55834ffa

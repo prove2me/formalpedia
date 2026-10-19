@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_smGhostCharge_nilpotent
 -- name    : BookProof.SmBrstGhost.smGhostCharge_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:08:55.291987+00:00
 -- url     : https://prove2.me/theorems/ae5718d3-3ece-4621-b5fa-60e13311da93

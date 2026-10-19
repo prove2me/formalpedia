@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Round_bstar_sep
 -- name    : RobustSpecClust.Round.bstar_sep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:28.307721+00:00
 -- url     : https://prove2.me/theorems/cfdfad9f-6702-4cac-9045-d8e7b9cfed28

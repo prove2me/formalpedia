@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmGaugeRep.sm_brst_nilpotent_of_su3_relations
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:19:11.39233+00:00
 -- url     : https://prove2.me/submissions/224ab801-d00e-4b13-b7b3-5cc56cbfd9d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmGaugeRepresentation.lean — solution of BookProof.SmGaugeRep.sm_brst_nilpotent_of_su3_relations
 import Mathlib

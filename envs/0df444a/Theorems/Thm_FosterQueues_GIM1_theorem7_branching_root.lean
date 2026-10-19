@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_GIM1_theorem7_branching_root
 -- name    : FosterQueues.GIM1.theorem7_branching_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T04:39:23.111304+00:00
 -- url     : https://prove2.me/theorems/3a48918a-cfa7-4ee8-ad1e-a7339b00cc24

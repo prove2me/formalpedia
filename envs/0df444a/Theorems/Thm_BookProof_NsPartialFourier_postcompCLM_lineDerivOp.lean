@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsPartialFourier_postcompCLM_lineDerivOp
 -- name    : BookProof.NsPartialFourier.postcompCLM_lineDerivOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:12.67884+00:00
 -- url     : https://prove2.me/theorems/50e4757a-5df5-43ef-a0b1-d12637b5a940

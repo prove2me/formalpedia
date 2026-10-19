@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_benford_of_scale_invariant
 -- name    : BenfordLaw.benford_of_scale_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:39.995627+00:00
 -- url     : https://prove2.me/theorems/664d936b-30ad-449b-b85b-3ecd6c564568

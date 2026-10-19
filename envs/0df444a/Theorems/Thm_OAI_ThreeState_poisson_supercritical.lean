@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThreeState_poisson_supercritical
 -- name    : OAI.ThreeState.poisson_supercritical
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:31.722914+00:00
 -- url     : https://prove2.me/theorems/cd9226f6-5a3c-418a-88ea-1efa46b8828f

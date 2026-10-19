@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Gap_lemma_4
 -- name    : InfoRelaxTS.Gap.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:30:37.125129+00:00
 -- url     : https://prove2.me/theorems/74ffe1b8-1c42-4eb0-bbf1-6b45a5799a54

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.FockCanonical.fock_canonical_essentiallySelfAdjointOn_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T09:49:50.071615+00:00
 -- url     : https://prove2.me/submissions/fee02a9c-24c5-42a1-8356-32f3d985db28
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesFockCanonical.lean — solution of BookProof.NavierStokesFlow.FockCanonical.fock_canonical_essentiallySelfAdjointOn_core
 import Mathlib

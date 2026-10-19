@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurTransfer_order13_actual_finite_field_picard_cardinality
 -- name    : MazurTransfer.order13_actual_finite_field_picard_cardinality
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-09T14:33:33.846287+00:00
 -- url     : https://prove2.me/theorems/7a665ae8-8d06-4ab5-b637-564aca6f44c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RightRepair_Equilibrium_G41_profit_gaps
 -- name    : RightRepair.Equilibrium.G41_profit_gaps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:48.900979+00:00
 -- url     : https://prove2.me/theorems/d5469baa-e943-4047-a971-721759cc1922

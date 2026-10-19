@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_weights_hasSum_poisson_rowElt
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_weights_hasSum_poisson_rowElt
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T21:08:51.159641+00:00
 -- url     : https://prove2.me/theorems/ea0a8d0e-b8cf-4c20-80da-966e2433ff71

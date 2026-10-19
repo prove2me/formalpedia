@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_product_law_integral_nested
 -- name    : NestedSeatAlloc.IntPolicy.product_law_integral_nested
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T13:42:27.206505+00:00
 -- url     : https://prove2.me/theorems/42ecae3d-b274-48e0-9e20-3f7a3775b374

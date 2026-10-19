@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_linearFull_not_bounded
 -- name    : BookProof.NavierStokesFlow.Carleman.linearFull_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:56.14896+00:00
 -- url     : https://prove2.me/theorems/85d30241-9e6b-4237-aecc-1a1ae4feb2ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_headOutput_minimizes
 -- name    : BookProof.ChapterAttentionOutputVariance.headOutput_minimizes
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:38:29.835986+00:00
 -- url     : https://prove2.me/theorems/62ff76bc-e206-4504-9105-0a965039ac4e

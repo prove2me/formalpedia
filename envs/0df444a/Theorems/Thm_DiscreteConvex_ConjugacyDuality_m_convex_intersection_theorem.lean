@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDuality_m_convex_intersection_theorem
 -- name    : DiscreteConvex.ConjugacyDuality.m_convex_intersection_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:10:22.404992+00:00
 -- url     : https://prove2.me/theorems/946218ae-33e2-4e24-ba4d-95b9f5ee7408

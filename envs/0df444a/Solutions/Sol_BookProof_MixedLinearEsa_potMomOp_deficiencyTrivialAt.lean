@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.MixedLinearEsa.potMomOp_deficiencyTrivialAt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-12T13:12:39.612402+00:00
 -- url     : https://prove2.me/submissions/8df9ad5e-44c3-4a0c-9152-8fe44d6e7161
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMixedLinearEsa.lean — solution of BookProof.MixedLinearEsa.potMomOp_deficiencyTrivialAt
 import Mathlib

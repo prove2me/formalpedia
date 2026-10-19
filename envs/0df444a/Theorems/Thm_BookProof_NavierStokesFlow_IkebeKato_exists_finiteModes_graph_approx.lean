@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_exists_finiteModes_graph_approx
 -- name    : BookProof.NavierStokesFlow.IkebeKato.exists_finiteModes_graph_approx
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:21:50.515529+00:00
 -- url     : https://prove2.me/theorems/46034855-c49d-4def-9a0a-2e169e6cd21b

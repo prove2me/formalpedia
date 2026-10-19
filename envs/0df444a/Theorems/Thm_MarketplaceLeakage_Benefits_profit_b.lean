@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Benefits_profit_b
 -- name    : MarketplaceLeakage.Benefits.profit_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:08.03656+00:00
 -- url     : https://prove2.me/theorems/49bf1f96-677e-41be-9b5a-bb35a0ad788c

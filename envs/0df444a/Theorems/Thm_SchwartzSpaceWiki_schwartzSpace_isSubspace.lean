@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_schwartzSpace_isSubspace
 -- name    : SchwartzSpaceWiki.schwartzSpace_isSubspace
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:12:57.677986+00:00
 -- url     : https://prove2.me/theorems/29d6f91d-8107-4025-a9df-69b173c1caf8

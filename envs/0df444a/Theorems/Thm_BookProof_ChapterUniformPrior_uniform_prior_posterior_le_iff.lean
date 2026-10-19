@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUniformPrior_uniform_prior_posterior_le_iff
 -- name    : BookProof.ChapterUniformPrior.uniform_prior_posterior_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:18:37.941249+00:00
 -- url     : https://prove2.me/theorems/0c42662e-8565-42c9-bc09-61abcdba3706

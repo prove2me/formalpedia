@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_TransitiveConsequence_subset_of_finite_transitive_ramsey
 -- name    : OAI.EuclideanRamsey.TransitiveConsequence.subset_of_finite_transitive_ramsey
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:38.516977+00:00
 -- url     : https://prove2.me/theorems/5b562835-0147-496b-bc23-905e990e07c3

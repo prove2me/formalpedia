@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.StoneEigenflow.stoneFlow_apply_core_eigenvector
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:01:19.744852+00:00
 -- url     : https://prove2.me/submissions/2183036c-48c9-45c4-89c8-38f859240094
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterStoneEigenflow.lean — solution of BookProof.StoneEigenflow.stoneFlow_apply_core_eigenvector
 import Mathlib

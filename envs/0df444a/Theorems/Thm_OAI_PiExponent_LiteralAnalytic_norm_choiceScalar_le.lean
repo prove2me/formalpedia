@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_norm_choiceScalar_le
 -- name    : OAI.PiExponent.LiteralAnalytic.norm_choiceScalar_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-16T08:52:42.419989+00:00
 -- url     : https://prove2.me/theorems/fda405ac-e01f-43ff-a8aa-3d861874509f

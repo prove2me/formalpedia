@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_NSHashimoto_velCore_symmetricOn
 -- name    : BookProof.NavierStokesFlow.NSHashimoto.velCore_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:58:41.453997+00:00
 -- url     : https://prove2.me/theorems/76db59a4-d066-4a3f-9164-a3d29d0f3306

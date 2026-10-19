@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_fdLaplacian_average_le
 -- name    : QAlgorithms.Nannicini.fdLaplacian_average_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:41.154518+00:00
 -- url     : https://prove2.me/theorems/bb92b758-7b5b-4c1e-af30-c0947799e901

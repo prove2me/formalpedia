@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_Endogenous_corollary_1
 -- name    : RareDisease.Endogenous.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:07:18.985028+00:00
 -- url     : https://prove2.me/theorems/0cab7410-5d04-44c1-a9f5-8a9eebdc4614

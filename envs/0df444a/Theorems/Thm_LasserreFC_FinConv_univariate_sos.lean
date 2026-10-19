@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LasserreFC_FinConv_univariate_sos
 -- name    : LasserreFC.FinConv.univariate_sos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:30:26.175568+00:00
 -- url     : https://prove2.me/theorems/935a9bf5-b989-46fa-9aa7-25be62e7b9a6

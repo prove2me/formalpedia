@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DirectCrouzeix_complete_crouzeix
 -- name    : OAI.DirectCrouzeix.complete_crouzeix
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:34.662313+00:00
 -- url     : https://prove2.me/theorems/bed33a2b-dd21-4a3b-9f7d-472ccb587aad

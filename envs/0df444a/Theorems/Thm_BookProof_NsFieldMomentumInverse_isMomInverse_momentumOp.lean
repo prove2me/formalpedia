@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_isMomInverse_momentumOp
 -- name    : BookProof.NsFieldMomentumInverse.isMomInverse_momentumOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:31.100572+00:00
 -- url     : https://prove2.me/theorems/d7fd7314-2a33-4732-b1d5-f5181b112f71

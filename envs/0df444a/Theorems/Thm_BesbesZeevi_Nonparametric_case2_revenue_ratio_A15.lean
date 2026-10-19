@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_Nonparametric_case2_revenue_ratio_A15
 -- name    : BesbesZeevi.Nonparametric.case2_revenue_ratio_A15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:51:23.302487+00:00
 -- url     : https://prove2.me/theorems/15d0a2b1-558e-415e-ad71-e3d425ef6fa7

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSolidHarmonic.legendre_rec_factored
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T15:02:53.542706+00:00
 -- url     : https://prove2.me/submissions/61a7332c-2b74-46d3-9812-aa37c0193b6e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSolidHarmonic.lean — solution of BookProof.ChapterSolidHarmonic.legendre_rec_factored
 import Mathlib

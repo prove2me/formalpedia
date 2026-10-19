@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineNRM_TSFixed_tsFixed_bayesRegret_le
 -- name    : OnlineNRM.TSFixed.tsFixed_bayesRegret_le
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:09:22.708266+00:00
 -- url     : https://prove2.me/theorems/a1fa757c-68eb-4d4e-b6a1-589c65ab9c89

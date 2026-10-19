@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_quantumValue_uncomputable_of_answerReduction
 -- name    : MIPRE.Halting.quantumValue_uncomputable_of_answerReduction
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:40:14.456205+00:00
 -- url     : https://prove2.me/theorems/d9227116-1b6b-4bc8-bd71-026f080100b1

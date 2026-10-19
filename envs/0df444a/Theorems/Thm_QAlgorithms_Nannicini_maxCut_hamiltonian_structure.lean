@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_maxCut_hamiltonian_structure
 -- name    : QAlgorithms.Nannicini.maxCut_hamiltonian_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:53:57.46637+00:00
 -- url     : https://prove2.me/theorems/e95e0b77-fcbf-4a9a-8a96-c0a87c5bc9bd

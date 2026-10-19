@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterTrajectory_dslit_interference
 -- name    : BookProof.ChapterTrajectory.dslit_interference
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:14:13.011771+00:00
 -- url     : https://prove2.me/theorems/517ca899-cb80-4e06-8917-7c211fd844da

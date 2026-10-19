@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_gSymbol_eq_christoffel_diff
 -- name    : RelPartMech.gSymbol_eq_christoffel_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:08:17.605575+00:00
 -- url     : https://prove2.me/theorems/61035cbe-0c8e-4fe0-9d5f-fd472240dc75

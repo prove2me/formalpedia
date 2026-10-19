@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgCouplingDGammaSum.numberOp_essentiallySelfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:36:08.664121+00:00
 -- url     : https://prove2.me/submissions/f3dd5843-a5ea-40eb-82dc-fdf6c831578e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgCouplingDGammaSum.lean — solution of BookProof.QgCouplingDGammaSum.numberOp_essentiallySelfAdjoint
 import Mathlib

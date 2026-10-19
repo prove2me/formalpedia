@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_norm_spherePt
 -- name    : BookProof.ChapterSolidHarmonic.norm_spherePt
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:10:38.39329+00:00
 -- url     : https://prove2.me/theorems/f5828578-997f-4c03-aada-ef4bb3883acd

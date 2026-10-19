@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxTemperatureMonotone_scoreSoftmax_monotone_of_max
 -- name    : BookProof.ChapterSoftmaxTemperatureMonotone.scoreSoftmax_monotone_of_max
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:17:27.111126+00:00
 -- url     : https://prove2.me/theorems/fc62406e-5fca-409f-bc5c-83700651a0b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_entropy_rate_dimension
 -- name    : OAI.EntropyRateDimension.entropy_rate_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:37.383722+00:00
 -- url     : https://prove2.me/theorems/2c8a3fbc-f038-40c8-8db5-58f16380edc9

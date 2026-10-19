@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_dust_phase_solution
 -- name    : CarneiroDeSitter.dust_phase_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T02:18:23.581636+00:00
 -- url     : https://prove2.me/theorems/2921f328-aa39-4d8b-bd54-8b1271489351

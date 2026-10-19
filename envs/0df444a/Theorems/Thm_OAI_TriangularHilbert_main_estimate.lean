@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TriangularHilbert_main_estimate
 -- name    : OAI.TriangularHilbert.main_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:35.161438+00:00
 -- url     : https://prove2.me/theorems/323ff354-e555-4106-9b91-a673a4546c72

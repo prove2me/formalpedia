@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_AFB_alpha0_bound
 -- name    : NAGFlow.AFB.alpha0_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:05.313988+00:00
 -- url     : https://prove2.me/theorems/74e82d31-bc13-4764-b928-8c5d04764630

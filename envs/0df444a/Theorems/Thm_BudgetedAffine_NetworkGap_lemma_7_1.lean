@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_NetworkGap_lemma_7_1
 -- name    : BudgetedAffine.NetworkGap.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:54.971497+00:00
 -- url     : https://prove2.me/theorems/a6972fc4-403c-4253-9ab1-a5240a0ec0d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_finite_irreducibleComponents
 -- name    : NoetherianScheme.finite_irreducibleComponents
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:37:12.881565+00:00
 -- url     : https://prove2.me/theorems/b0020bc7-ed20-43ed-a6a3-166fb2161b47

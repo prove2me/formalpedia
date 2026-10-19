@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_qgOuterFock_esa_farisLavine
 -- name    : BookProof.QgOuterFockFL.qgOuterFock_esa_farisLavine
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:46:46.294397+00:00
 -- url     : https://prove2.me/theorems/e96770a1-ab5e-4538-80ca-d00998057fb3

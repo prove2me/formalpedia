@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PELiquidity_Secondary_eq_C6
 -- name    : PELiquidity.Secondary.eq_C6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:19.165806+00:00
 -- url     : https://prove2.me/theorems/56a40026-52be-4e80-9248-ccdc0c9defcd

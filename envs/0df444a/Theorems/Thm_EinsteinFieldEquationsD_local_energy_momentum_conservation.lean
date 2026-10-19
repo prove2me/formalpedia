@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_local_energy_momentum_conservation
 -- name    : EinsteinFieldEquationsD.local_energy_momentum_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:20:49.208348+00:00
 -- url     : https://prove2.me/theorems/0281a370-2720-4ab5-886f-424c8a36a012

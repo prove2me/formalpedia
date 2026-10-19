@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AsymptoticallyMinimalLittlewoodFiniteFlatness_main
 -- name    : OAI.AsymptoticallyMinimalLittlewoodFiniteFlatness.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:21.452466+00:00
 -- url     : https://prove2.me/theorems/4bd27b03-34c6-4b36-befe-6586f89f0a94

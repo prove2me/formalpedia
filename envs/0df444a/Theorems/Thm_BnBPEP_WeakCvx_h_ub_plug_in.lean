@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BnBPEP_WeakCvx_h_ub_plug_in
 -- name    : BnBPEP.WeakCvx.h_ub_plug_in
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:00.885644+00:00
 -- url     : https://prove2.me/theorems/f08f9cd5-575b-4849-9dd9-43af1944aa8d

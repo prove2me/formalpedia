@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityB_m2_optimality_criterion
 -- name    : DiscreteConvex.ConjugacyDualityB.m2_optimality_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:35:29.843201+00:00
 -- url     : https://prove2.me/theorems/8ed91e13-da4a-4696-bb52-7f5a4299c674

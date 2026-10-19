@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Kernel_kerP_At_invariant
 -- name    : BilinearGramian.Kernel.kerP_At_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:25.01501+00:00
 -- url     : https://prove2.me/theorems/b8c202c8-db7a-41bf-86db-e40f2c738674

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BalancedTransport_balanced_three_stack_realization
 -- name    : OAI.BalancedTransport.balanced_three_stack_realization
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:22.599627+00:00
 -- url     : https://prove2.me/theorems/210f4d44-3bd9-4344-86cd-b30992002e24

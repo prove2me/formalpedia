@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem326_global_bounded_persistent_solution
 -- name    : OAI.Problem326.global_bounded_persistent_solution
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:07.709037+00:00
 -- url     : https://prove2.me/theorems/8c2f866d-42e5-41e1-8403-b3673b9a6c98

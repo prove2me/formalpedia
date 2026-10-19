@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_LocalSim_hoeffding_display
 -- name    : PrivLearn.LocalSim.hoeffding_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:49:10.936225+00:00
 -- url     : https://prove2.me/theorems/92f3c758-fae2-4a4f-b4fb-033c03064dd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_shift_isUnconstrainedGaugeFixing
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.shift_isUnconstrainedGaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:16:12.121976+00:00
 -- url     : https://prove2.me/theorems/1782dd87-a0cf-414a-b09d-dde5c5f1f78b

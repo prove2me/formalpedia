@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_shell_angular_integral_value
 -- name    : NewtonGravitation.shell_angular_integral_value
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-14T07:18:10.170909+00:00
 -- url     : https://prove2.me/theorems/96d45708-c9a9-4c7e-8504-41e4703831d0

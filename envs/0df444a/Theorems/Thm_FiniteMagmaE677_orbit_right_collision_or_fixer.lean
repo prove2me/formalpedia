@@ -7,7 +7,7 @@
 -- title:
 --   An orbit right-collision forces a fixer
 -- statement:
---   Open structural subproblem (Piece 1). Let $A$ be finite with arbitrary operation $\diamond$ satisfying E677, and fix $x\in A$. If two elements $a,b$ in the forward orbit $x,L_x(x),L_x^2(x),\ldots$ satisfy $a\diamond x=b\diamond x$, then either $a=b$ or there is a fixer $y\diamond x=x$. This is an orbit-local collision principle; it does not assert fixer existence for every $x$.
+--   Open structural subproblem (Sub-goal 1; called Piece 1 in the authors' repository). Let $\alpha$ be a finite type with an arbitrary total operation $\diamond$ satisfying E677, and fix $x\in\alpha$. If two elements $a,b$ in the forward orbit $x,L_x(x),L_x^2(x),\ldots$ satisfy $a\diamond x=b\diamond x$, then either $a=b$ or there is a fixer $y\diamond x=x$. This is an orbit-local collision principle; it does not assert fixer existence for every $x$.
 -- source:
 --   Mission-defined structural subproblem; public E677/E255 definitions and background: https://teorth.github.io/equational_theories/blueprint/677-chapter.html
 

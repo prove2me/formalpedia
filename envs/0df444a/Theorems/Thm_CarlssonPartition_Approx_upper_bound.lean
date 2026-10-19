@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Approx_upper_bound
 -- name    : CarlssonPartition.Approx.upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:34.098535+00:00
 -- url     : https://prove2.me/theorems/660b755a-ceb9-4c4d-bbbb-55bff8366aeb

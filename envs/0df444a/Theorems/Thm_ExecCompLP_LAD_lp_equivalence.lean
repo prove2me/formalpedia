@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExecCompLP_LAD_lp_equivalence
 -- name    : ExecCompLP.LAD.lp_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:23:26.672495+00:00
 -- url     : https://prove2.me/theorems/26ca4899-6ac1-413d-9a31-b2821639f29d

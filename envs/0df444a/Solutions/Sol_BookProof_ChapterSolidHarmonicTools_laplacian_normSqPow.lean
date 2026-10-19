@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSolidHarmonicTools.laplacian_normSqPow
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:57:44.710191+00:00
 -- url     : https://prove2.me/submissions/1461154b-a5a5-47a6-b0a2-606bf1ca836f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSolidHarmonicTools.lean — solution of BookProof.ChapterSolidHarmonicTools.laplacian_normSqPow
 import Mathlib

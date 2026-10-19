@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_bridge_force_survival_identity
 -- name    : actuarial_c_bridge_force_survival_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:42:28.62235+00:00
 -- url     : https://prove2.me/theorems/d71f5b9d-079c-4719-9925-014a23670e25

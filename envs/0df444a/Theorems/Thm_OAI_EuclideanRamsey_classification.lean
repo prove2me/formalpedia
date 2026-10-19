@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_classification
 -- name    : OAI.EuclideanRamsey.classification
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:38.668977+00:00
 -- url     : https://prove2.me/theorems/980a2e1e-ef52-4c6e-9c96-9087ddeea5f4

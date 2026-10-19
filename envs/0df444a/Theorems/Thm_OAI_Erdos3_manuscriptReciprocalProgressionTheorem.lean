@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_manuscriptReciprocalProgressionTheorem
 -- name    : OAI.Erdos3.manuscriptReciprocalProgressionTheorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:37.51837+00:00
 -- url     : https://prove2.me/theorems/315acf7e-1d10-460a-a41e-8d297bc592a9

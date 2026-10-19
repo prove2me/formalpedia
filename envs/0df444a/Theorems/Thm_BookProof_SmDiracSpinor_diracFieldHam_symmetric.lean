@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracSpinor_diracFieldHam_symmetric
 -- name    : BookProof.SmDiracSpinor.diracFieldHam_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:29:18.067411+00:00
 -- url     : https://prove2.me/theorems/d73f60ef-f41c-4fb9-838d-c563e9968943

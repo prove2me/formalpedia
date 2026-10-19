@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockContinuum_boundedEnergyCore_dense
 -- name    : BookProof.NavierStokesFlow.FockContinuum.boundedEnergyCore_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:10:21.644305+00:00
 -- url     : https://prove2.me/theorems/efabf18a-7be4-4ced-bbab-dfdfc9ec2ee6

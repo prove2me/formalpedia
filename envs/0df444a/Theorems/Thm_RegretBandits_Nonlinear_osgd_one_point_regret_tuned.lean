@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Nonlinear_osgd_one_point_regret_tuned
 -- name    : RegretBandits.Nonlinear.osgd_one_point_regret_tuned
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:43:09.873187+00:00
 -- url     : https://prove2.me/theorems/ea91d3bd-8671-4def-8b0e-b538e9b7b9d9

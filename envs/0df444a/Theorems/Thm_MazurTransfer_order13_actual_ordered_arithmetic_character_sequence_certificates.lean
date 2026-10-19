@@ -1,0 +1,62 @@
+-- Prove2me | Theorems.Thm_MazurTransfer_order13_actual_ordered_arithmetic_character_sequence_certificates
+-- name    : MazurTransfer.order13_actual_ordered_arithmetic_character_sequence_certificates
+-- status  : Proved
+-- author  : @Vas
+-- created : 2026-10-19T00:54:53.819935+00:00
+-- url     : https://prove2.me/theorems/ad73d060-4110-46bf-8a66-a7cc89e886f4
+-- statement:
+--   The original rational infinity-class norm-kernel identification orders the actual arithmetic and complementary character exact sequences: the pi norm factor has the arithmetic sequence, the conjugate factor contains the rational fixed line, and the same explicit inverse arithmetic13 character has image cardinality six. Both complete original propositions retain the original cover and field hypotheses.
+
+import Mathlib
+import Definitions.Def_MazurTransfer_Order13ActualNormKernelReflectionOriginalRestrictedCompleteEquivalencesAndEmbeddingCertificatesExplicitFiniteExponentContextV220261018
+import Definitions.Def_MazurTransfer_Order13CyclotomicReflectionParameterOriginalPolynomialDataAndConstructorCertificates20261018
+import Definitions.Def_MazurTransfer_Order13ActualCoefficientFunctionFieldActionAndReflectionParameterOriginalDataMinimalPublicNamespacesV220261018
+import Definitions.Def_MazurTransfer_Order13ActualNormKernelRanksTwoOriginalModuleContextData20261018
+import Definitions.Def_MazurTransfer_Order13ActualNormKernelCyclotomicQuotientOriginalPredicateData20261018
+import Definitions.Def_MazurTransfer_Order13ActualThirteenthCyclotomicReflectedCharacterOriginalData20261018
+import Definitions.Def_MazurTransfer_Order13ActualArithmeticCharacterExactSequenceOriginalPredicateDataExplicitFiniteModuleNamespaceV220261018
+import Definitions.Def_MazurTransfer_Order13ActualNormKernelCyclotomicCharacterIntertwiningOriginalData20261018
+import Definitions.Def_MazurTransfer_Order13ActualComplementaryCharacterExactSequenceOriginalFixedVectorAndPredicateData20261018
+import Definitions.Def_MazurTransfer_Order13ActualNormKernelEigenCharacterIntertwiningOriginalDataAndEquivarianceCertificate20261018
+import Theorems.Thm_MazurTransfer_order13_actual_complementary_character_exact_sequence_certificates
+import Theorems.Thm_MazurTransfer_thirteenth_character_kernels_ranges_and_actual_image_cardinalities
+import Theorems.Thm_MazurTransfer_Order13ActualNormKernelInvariantDimensions_actual_kernel_invariant_finranks
+noncomputable section
+open CategoryTheory AlgebraicGeometry AlgebraicGeometry.RelPicard AlgebraicCurve MazurTransfer
+open NeronModelInfra GoodReductionJacobian
+open Order13ActualPicardDiamondSchemeEndomorphism Order13ActualPicardNormKernelGaloisAction
+open Order13ActualNormKernelCyclotomicCharacter Order13ActualNormKernelCyclotomicQuotient
+open Order13ActualNormKernelF19Representation NineteenRootsGaloisRepresentation
+open Order13ActualNineteenTorsionNormPairingAdjoint Order13ActualNormKernelProductCardinality
+open Order13ActualNormKernelNineteenEmbedding
+open scoped CategoryTheory.MonObj
+attribute [local instance] kernelCharacterOriginalGroupProvider20261018 kernelCharacterOriginalCommProvider20261018 kernelCharacterOriginalPiHomProvider20261018 kernelCharacterOriginalConjugateHomProvider20261018 kernelCharacterOriginalPrimeProvider20261018 kernelCharacterOriginalLeftModuleProvider20261018 kernelCharacterOriginalRightModuleProvider20261018 kernelCharacterOriginalRootsModuleProvider20261018 kernelNineteenEmbeddingOriginalFiniteProvider20261018
+
+open MazurTorsion.XOneThirteenProjectiveCurve
+open Order13ActualNormKernelRanksTwo
+open Order13ActualPicardSchemeNineteenNorm
+attribute [local instance] originalNormKernelRanksTwoPiFiniteProvider20261018 originalNormKernelRanksTwoConjugateFiniteProvider20261018 originalNormKernelRanksTwoPiExponentProvider20261018 originalNormKernelRanksTwoConjugateExponentProvider20261018 originalNormKernelRanksTwoPiModuleProvider20261018 originalNormKernelRanksTwoConjugateModuleProvider20261018
+
+local instance publicOrderedCharacterSequencesRationalFactProvider20261019 : Fact ((104 : ℚ) ≠ 0) := ⟨by norm_num⟩
+
+open Order13ReflectionParameter Order13ActualNormKernelReflection
+open Order13ActualReflectionPairingOrthogonality Order13ActualGeometricNineteenDivisorialPairing
+open Order13ReflectionSexticSymmetry Order13ActualReflectionCoefficientCovariance Order13CyclotomicReflectionCoefficients
+open Order13ActualNineteenTorsionReflection Order13ActualGeometricNineteenTorsionDiamondComparison
+open MazurTransfer.ThirteenToNineteenCharacters MazurTransfer.Order13ActualCyclotomicThirteenKernelCharacter
+attribute [local instance] characterOriginalPrime13Provider20261018 characterOriginalPrime19Provider20261018
+open MazurTransfer.Order13ActualArithmeticCharacterExactSequence MazurTransfer.ScalarCharacterLine
+open Order13ActualComplementaryCharacterExactSequence Order13ActualNormKernelEigenCharacterQuotient RepresentationCharacterTwist
+open Order13ActualNormKernelCrossPairing
+open Order13ActualNormKernelInvariantDimensions
+
+theorem MazurTransfer.order13_actual_ordered_arithmetic_character_sequence_certificates :
+    (∀ (K : Type) [Field K] [CharZero K] [IsGalois ℚ K] [IsAlgClosed K]
+    (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover) ,
+    HasArithmeticCharacterExactSequence K schemePi (piConjugateReflectedCharacter K z hz) ∧
+      HasComplementaryCharacterExactSequence K schemePiConjugate (piConjugateReflectedCharacter K z hz)) ∧
+    (∀ (K : Type) [Field K] [CharZero K] [IsGalois ℚ K] [IsAlgClosed K]
+    (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover) ,
+    HasArithmeticCharacterExactSequence K schemePi (piConjugateReflectedCharacter K z hz) ∧
+      HasComplementaryCharacterExactSequence K schemePiConjugate (piConjugateReflectedCharacter K z hz) ∧
+      Nat.card (piConjugateReflectedCharacter K z hz).range = 6) := by sorry

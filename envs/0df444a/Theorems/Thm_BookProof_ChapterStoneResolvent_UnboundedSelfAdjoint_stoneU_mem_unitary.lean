@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneResolvent_UnboundedSelfAdjoint_stoneU_mem_unitary
 -- name    : BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.stoneU_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:13:00.563236+00:00
 -- url     : https://prove2.me/theorems/acf7de47-984d-4e5e-a7ed-12661f8c231d

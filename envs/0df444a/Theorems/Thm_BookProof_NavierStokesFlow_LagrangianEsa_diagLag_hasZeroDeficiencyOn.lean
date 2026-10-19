@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianEsa_diagLag_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.LagrangianEsa.diagLag_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:20:45.728977+00:00
 -- url     : https://prove2.me/theorems/8445e745-05a8-43b1-a8d5-562828f2a54d

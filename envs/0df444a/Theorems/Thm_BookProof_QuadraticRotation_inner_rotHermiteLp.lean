@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_inner_rotHermiteLp
 -- name    : BookProof.QuadraticRotation.inner_rotHermiteLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:22:05.248778+00:00
 -- url     : https://prove2.me/theorems/450e59eb-0b64-4f24-92f0-03134d5551d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_gaussian_entropy_zero_points
 -- name    : HighEntropyLimit.gaussian_entropy_zero_points
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:54:15.086001+00:00
 -- url     : https://prove2.me/theorems/49c748ab-8286-4a00-aebb-ea1c986e148b

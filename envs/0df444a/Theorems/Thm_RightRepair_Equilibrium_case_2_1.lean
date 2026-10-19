@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RightRepair_Equilibrium_case_2_1
 -- name    : RightRepair.Equilibrium.case_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:27.238086+00:00
 -- url     : https://prove2.me/theorems/2c63be29-6759-4ce1-bad5-148025c1ca1a

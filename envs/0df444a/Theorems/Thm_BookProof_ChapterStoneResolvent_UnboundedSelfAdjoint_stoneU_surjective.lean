@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneResolvent_UnboundedSelfAdjoint_stoneU_surjective
 -- name    : BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.stoneU_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:12:19.962843+00:00
 -- url     : https://prove2.me/theorems/bac7db3f-9172-412c-b837-76b6671a30d8

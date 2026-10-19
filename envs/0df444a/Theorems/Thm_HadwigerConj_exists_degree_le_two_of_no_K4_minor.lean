@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_exists_degree_le_two_of_no_K4_minor
 -- name    : HadwigerConj.exists_degree_le_two_of_no_K4_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T23:13:33.771143+00:00
 -- url     : https://prove2.me/theorems/e466add6-0967-4f4b-b60b-7c48d5dbac28

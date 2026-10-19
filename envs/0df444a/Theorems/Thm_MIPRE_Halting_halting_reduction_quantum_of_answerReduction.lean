@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_halting_reduction_quantum_of_answerReduction
 -- name    : MIPRE.Halting.halting_reduction_quantum_of_answerReduction
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:40:03.648433+00:00
 -- url     : https://prove2.me/theorems/eb5c5757-8361-41a3-9eca-0dc8e09b733e

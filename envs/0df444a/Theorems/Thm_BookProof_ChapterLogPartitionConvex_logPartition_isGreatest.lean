@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLogPartitionConvex_logPartition_isGreatest
 -- name    : BookProof.ChapterLogPartitionConvex.logPartition_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:33:31.376505+00:00
 -- url     : https://prove2.me/theorems/ba936635-2bb4-480f-9764-daabb4302b7c

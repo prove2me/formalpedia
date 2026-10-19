@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_C0Absorption_main_result
 -- name    : OAI.C0Absorption.main_result
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:25.046705+00:00
 -- url     : https://prove2.me/theorems/464b9a58-35b8-4983-86cf-6b0971a902b6

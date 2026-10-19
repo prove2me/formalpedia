@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_orthonormal_hermiteTRLp
 -- name    : BookProof.ShiftedQuadraticMatrix.orthonormal_hermiteTRLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:52:02.749889+00:00
 -- url     : https://prove2.me/theorems/0a680ed9-17be-4acf-89a2-c283e2c3aafe

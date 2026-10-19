@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticDegenerate_diagonal_degenerate_essentiallySelfAdjoint
 -- name    : BookProof.ShiftedQuadraticDegenerate.diagonal_degenerate_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:25:59.765978+00:00
 -- url     : https://prove2.me/theorems/399e05ba-d0d3-41ba-bf14-9bce8cd10460

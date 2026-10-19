@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Localized_robust_risk_upper_bound
 -- name    : VarianceRegularization.Localized.robust_risk_upper_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:43:11.46783+00:00
 -- url     : https://prove2.me/theorems/cfe8134a-362d-4294-95ee-1061ee6d2a5f

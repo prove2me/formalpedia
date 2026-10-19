@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsPartialFourier_toLp_postcompCLM
 -- name    : BookProof.NsPartialFourier.toLp_postcompCLM
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:23.336282+00:00
 -- url     : https://prove2.me/theorems/7f63a9fc-38fc-4022-b4f3-85d099b5d86f

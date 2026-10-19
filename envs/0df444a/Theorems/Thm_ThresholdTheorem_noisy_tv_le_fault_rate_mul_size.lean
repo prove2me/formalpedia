@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThresholdTheorem_noisy_tv_le_fault_rate_mul_size
 -- name    : ThresholdTheorem.noisy_tv_le_fault_rate_mul_size
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:58:40.297056+00:00
 -- url     : https://prove2.me/theorems/5ae33ce4-3f6e-4f9f-b697-69d8ac239bf0

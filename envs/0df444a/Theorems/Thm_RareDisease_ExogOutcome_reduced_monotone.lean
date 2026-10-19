@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_ExogOutcome_reduced_monotone
 -- name    : RareDisease.ExogOutcome.reduced_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:17.619526+00:00
 -- url     : https://prove2.me/theorems/6dfcfdd9-f017-4eab-97fe-fe7b566b3e31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_index_independent_of_p
 -- name    : CauchyRiemannIndex.index_independent_of_p
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:03:26.827635+00:00
 -- url     : https://prove2.me/theorems/a7ac8b03-e732-4e0d-ba2a-1c83bc7d08fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxMaxEntropy_shannonEntropy_le_of_meanScore_eq
 -- name    : BookProof.ChapterSoftmaxMaxEntropy.shannonEntropy_le_of_meanScore_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:09:51.055009+00:00
 -- url     : https://prove2.me/theorems/d4d8c901-9aca-4197-a20d-ff6d8398dec5

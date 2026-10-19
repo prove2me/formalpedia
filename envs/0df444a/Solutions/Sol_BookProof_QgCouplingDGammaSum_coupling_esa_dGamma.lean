@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgCouplingDGammaSum.coupling_esa_dGamma
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:36:14.855052+00:00
 -- url     : https://prove2.me/submissions/7a16781a-5799-4c5e-af15-e22b9dbdb751
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgCouplingDGammaSum.lean — solution of BookProof.QgCouplingDGammaSum.coupling_esa_dGamma
 import Mathlib

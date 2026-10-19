@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_range_weakDual_coeFn_of_isInitTopology
 -- name    : GarrettFA.range_weakDual_coeFn_of_isInitTopology
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:42:53.850026+00:00
 -- url     : https://prove2.me/theorems/a73437e2-8919-4c3f-9afb-09fe8a51438b

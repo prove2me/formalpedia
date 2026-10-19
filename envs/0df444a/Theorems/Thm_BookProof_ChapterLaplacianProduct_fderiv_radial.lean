@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLaplacianProduct_fderiv_radial
 -- name    : BookProof.ChapterLaplacianProduct.fderiv_radial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:23:09.67198+00:00
 -- url     : https://prove2.me/theorems/9b933858-de56-4dcf-a18b-889044a0cd50

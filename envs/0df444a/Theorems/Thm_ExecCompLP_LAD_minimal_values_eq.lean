@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExecCompLP_LAD_minimal_values_eq
 -- name    : ExecCompLP.LAD.minimal_values_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:23:37.282404+00:00
 -- url     : https://prove2.me/theorems/c512164f-54ca-43e9-a30c-2e5f096a6f07

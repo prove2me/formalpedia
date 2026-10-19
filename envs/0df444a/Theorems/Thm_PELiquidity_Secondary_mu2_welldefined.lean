@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PELiquidity_Secondary_mu2_welldefined
 -- name    : PELiquidity.Secondary.mu2_welldefined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:25.137076+00:00
 -- url     : https://prove2.me/theorems/0e37aaaa-511d-47f3-b65c-99e74d9e620a

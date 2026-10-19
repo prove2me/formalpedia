@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_identity_not_finitely_many_attractors
 -- name    : PalisConjecture.identity_not_finitely_many_attractors
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T03:17:28.792872+00:00
 -- url     : https://prove2.me/theorems/90f1eda0-309c-467f-8c16-b6f087495f4e

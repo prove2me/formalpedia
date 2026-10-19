@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_endowment_annuity
 -- name    : actuarial_c_endowment_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:26:28.544302+00:00
 -- url     : https://prove2.me/theorems/03172fc7-fc02-4541-b7bc-76faeef3211f

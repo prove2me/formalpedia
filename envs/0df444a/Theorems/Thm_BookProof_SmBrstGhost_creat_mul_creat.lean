@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_creat_mul_creat
 -- name    : BookProof.SmBrstGhost.creat_mul_creat
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T12:59:23.00786+00:00
 -- url     : https://prove2.me/theorems/81197533-28f3-4bad-ac7c-6764f73d84ff

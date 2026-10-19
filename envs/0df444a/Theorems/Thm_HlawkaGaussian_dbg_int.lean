@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaGaussian_dbg_int
 -- name    : HlawkaGaussian.dbg_int
--- status  : Open
+-- status  : Proved
 -- author  : @sorry_not_sorry
 -- created : 2026-10-08T06:29:38.372356+00:00
 -- url     : https://prove2.me/theorems/feed3bd0-fa7b-47ce-b046-778eb4a75daa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_pertHam_essentiallySelfAdjointOn_core
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.pertHam_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:22:19.268013+00:00
 -- url     : https://prove2.me/theorems/9fefb5bc-f10c-4b7f-91a7-aca40a80b9a2

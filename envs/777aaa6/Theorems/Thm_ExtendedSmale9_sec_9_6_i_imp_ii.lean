@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtendedSmale9_sec_9_6_i_imp_ii
 -- name    : ExtendedSmale9.sec_9_6_i_imp_ii
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T16:00:08.065065+00:00
 -- url     : https://prove2.me/theorems/41df3480-d5ff-4748-9644-2053216340d2

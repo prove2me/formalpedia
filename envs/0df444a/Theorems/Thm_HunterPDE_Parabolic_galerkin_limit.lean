@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Parabolic_galerkin_limit
 -- name    : HunterPDE.Parabolic.galerkin_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:23:55.785976+00:00
 -- url     : https://prove2.me/theorems/0ffd4bb2-12b0-42bc-bac4-78a6545a5c78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_bornWeight_ge_of_dist_margin
 -- name    : BookProof.ChapterAttentionRetrieval.bornWeight_ge_of_dist_margin
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:44:04.511984+00:00
 -- url     : https://prove2.me/theorems/e0786a6b-c90b-43ce-98d9-ddcf62a27b3a

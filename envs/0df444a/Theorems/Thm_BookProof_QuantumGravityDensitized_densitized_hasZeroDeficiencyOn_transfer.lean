@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_densitized_hasZeroDeficiencyOn_transfer
 -- name    : BookProof.QuantumGravityDensitized.densitized_hasZeroDeficiencyOn_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T09:33:23.951512+00:00
 -- url     : https://prove2.me/theorems/5897a008-bf4f-486b-97ea-be504378bcf3

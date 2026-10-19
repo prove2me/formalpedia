@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakPinned_main
 -- name    : OAI.WeakPinned.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:38.957741+00:00
 -- url     : https://prove2.me/theorems/5e31914c-df12-44ef-9e16-73db85730d08

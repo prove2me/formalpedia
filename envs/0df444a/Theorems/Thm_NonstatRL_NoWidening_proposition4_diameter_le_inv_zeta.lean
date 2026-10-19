@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_NoWidening_proposition4_diameter_le_inv_zeta
 -- name    : NonstatRL.NoWidening.proposition4_diameter_le_inv_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:08.836216+00:00
 -- url     : https://prove2.me/theorems/9860b5a6-4da2-4ccf-969d-208b4848b0f9

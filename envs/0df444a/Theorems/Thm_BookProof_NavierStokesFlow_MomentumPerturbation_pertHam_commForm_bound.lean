@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_pertHam_commForm_bound
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.pertHam_commForm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:22:19.492133+00:00
 -- url     : https://prove2.me/theorems/5e61e26f-b319-4e1c-832c-1ec32a48901f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuWang2023_angDistBetween_eq_flat
 -- name    : HuWang2023.angDistBetween_eq_flat
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:40:46.043121+00:00
 -- url     : https://prove2.me/theorems/b0ae45ad-9450-4ae6-b96b-4b929865bde2

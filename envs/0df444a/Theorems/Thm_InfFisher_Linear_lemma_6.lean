@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfFisher_Linear_lemma_6
 -- name    : InfFisher.Linear.lemma_6
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:46.350947+00:00
 -- url     : https://prove2.me/theorems/921c15e0-6f54-4518-b38b-97508be30fec

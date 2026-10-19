@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_periodFindingReals_convergent
 -- name    : QAlgorithms.Childs.periodFindingReals_convergent
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:31:19.068066+00:00
 -- url     : https://prove2.me/theorems/49fe56f2-c1a9-4552-97d1-392b1da2e079

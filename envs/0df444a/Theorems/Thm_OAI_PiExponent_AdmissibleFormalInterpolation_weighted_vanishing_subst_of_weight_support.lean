@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weighted_vanishing_subst_of_weight_support
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weighted_vanishing_subst_of_weight_support
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:46:41.56849+00:00
 -- url     : https://prove2.me/theorems/81524d1e-e397-40de-bd06-8d8f7eaae0a9

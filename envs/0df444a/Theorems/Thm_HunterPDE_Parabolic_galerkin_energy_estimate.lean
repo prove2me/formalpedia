@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Parabolic_galerkin_energy_estimate
 -- name    : HunterPDE.Parabolic.galerkin_energy_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:21:45.930032+00:00
 -- url     : https://prove2.me/theorems/6f4169cc-9369-4543-987e-5e69c73d046d

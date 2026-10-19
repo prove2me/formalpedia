@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_ExogOutcome_marginal_rate
 -- name    : RareDisease.ExogOutcome.marginal_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:19.267691+00:00
 -- url     : https://prove2.me/theorems/12ede1f4-cf37-41cf-9743-67796950802a

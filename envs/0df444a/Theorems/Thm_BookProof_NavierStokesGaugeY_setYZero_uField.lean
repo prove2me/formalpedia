@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesGaugeY_setYZero_uField
 -- name    : BookProof.NavierStokesGaugeY.setYZero_uField
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:21:38.237219+00:00
 -- url     : https://prove2.me/theorems/91070dcf-5828-4b1d-8d33-ac6c25b545b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_AffineFiber_affH_not_bounded
 -- name    : BookProof.NavierStokesFlow.AffineFiber.affH_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T16:49:56.679298+00:00
 -- url     : https://prove2.me/theorems/a6c822a8-1575-4fab-a4a6-3787a1a1d711

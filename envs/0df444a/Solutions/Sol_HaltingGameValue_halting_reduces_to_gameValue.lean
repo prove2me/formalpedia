@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HaltingGameValue.halting_reduces_to_gameValue
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @thomasvidick
 -- created : 2026-10-15T22:26:37.817629+00:00
 -- url     : https://prove2.me/submissions/c16047ef-3bf7-4beb-8c30-8ee0c6399b38
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Thomas Vidick. All rights reserved.

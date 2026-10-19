@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Collective_lemma_2
 -- name    : ExploreFirst.Collective.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:02:49.601346+00:00
 -- url     : https://prove2.me/theorems/1b29144d-c458-41d4-9225-8224b86273bb

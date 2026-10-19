@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmDiracSpinor.dirac_field_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:35:20.808348+00:00
 -- url     : https://prove2.me/submissions/b7c21601-d84c-4977-92cd-6f655860d91c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmDiracSpinor.lean — solution of BookProof.SmDiracSpinor.dirac_field_esa
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Parity_pi_star_q_lt_half
 -- name    : MarketplaceLeakage.Parity.pi_star_q_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:22.459666+00:00
 -- url     : https://prove2.me/theorems/abe66de8-cfd2-4aa2-9bee-b546dcefd54d

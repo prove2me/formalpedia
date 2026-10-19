@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Flow_lemma_3_1
 -- name    : NAGFlow.Flow.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:34:30.926444+00:00
 -- url     : https://prove2.me/theorems/d0900e24-0730-4295-bb90-70c8ba575710

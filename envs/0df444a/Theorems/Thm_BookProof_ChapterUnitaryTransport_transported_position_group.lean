@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnitaryTransport_transported_position_group
 -- name    : BookProof.ChapterUnitaryTransport.transported_position_group
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:39:11.749705+00:00
 -- url     : https://prove2.me/theorems/7f2b6872-743b-4166-a9f6-453e55e7a3ae

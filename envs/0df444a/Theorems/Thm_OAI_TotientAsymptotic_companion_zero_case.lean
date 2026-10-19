@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TotientAsymptotic_companion_zero_case
 -- name    : OAI.TotientAsymptotic.companion_zero_case
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:33.196479+00:00
 -- url     : https://prove2.me/theorems/ebdedcb6-37b8-43a0-90fd-a2e24205d1eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_bShift_pairing
 -- name    : GeneralizedComplex.bShift_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:53:23.006188+00:00
 -- url     : https://prove2.me/theorems/a05ce8f3-93ce-4df1-988b-1aec0f3f2054

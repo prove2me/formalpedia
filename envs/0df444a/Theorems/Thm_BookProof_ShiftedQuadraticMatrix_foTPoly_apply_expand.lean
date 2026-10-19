@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_foTPoly_apply_expand
 -- name    : BookProof.ShiftedQuadraticMatrix.foTPoly_apply_expand
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:00:00.271976+00:00
 -- url     : https://prove2.me/theorems/615db814-5bfa-46c3-9762-64ae3cda353d

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmBrstGhost.annih_sq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:34:38.141787+00:00
 -- url     : https://prove2.me/submissions/2a674b39-fe10-489f-9f18-12d117b1c59e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmBrstGhost.lean — solution of BookProof.SmBrstGhost.annih_sq
 import Mathlib

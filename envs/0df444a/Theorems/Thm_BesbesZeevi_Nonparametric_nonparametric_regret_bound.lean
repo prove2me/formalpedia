@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_Nonparametric_nonparametric_regret_bound
 -- name    : BesbesZeevi.Nonparametric.nonparametric_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:51:46.500043+00:00
 -- url     : https://prove2.me/theorems/061f00d6-f553-432a-b0e1-2faceb5d529b

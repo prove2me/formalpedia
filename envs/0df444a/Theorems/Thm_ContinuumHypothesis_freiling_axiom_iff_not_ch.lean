@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_freiling_axiom_iff_not_ch
 -- name    : ContinuumHypothesis.freiling_axiom_iff_not_ch
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:37:13.550993+00:00
 -- url     : https://prove2.me/theorems/233c89e7-f5bc-4012-bf4d-1d152fd43936

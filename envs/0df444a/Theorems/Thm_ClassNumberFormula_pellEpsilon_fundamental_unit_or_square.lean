@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_pellEpsilon_fundamental_unit_or_square
 -- name    : ClassNumberFormula.pellEpsilon_fundamental_unit_or_square
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:55:18.018677+00:00
 -- url     : https://prove2.me/theorems/b0b3d264-d43e-4645-a675-6ad8b8df1dfe

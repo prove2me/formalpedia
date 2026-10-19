@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_matrixFlow_commute_of_commute
 -- name    : BookProof.NavierStokesFlow.matrixFlow_commute_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:38:20.472972+00:00
 -- url     : https://prove2.me/theorems/326f579e-7af4-40f8-846d-95c52ad597fe

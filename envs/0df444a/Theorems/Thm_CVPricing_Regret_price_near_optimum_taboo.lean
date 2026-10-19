@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_Regret_price_near_optimum_taboo
 -- name    : CVPricing.Regret.price_near_optimum_taboo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:14:54.847486+00:00
 -- url     : https://prove2.me/theorems/f1322ca8-e995-4a3f-83e6-fb71e4bfb4fa

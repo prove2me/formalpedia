@@ -1,0 +1,1885 @@
+-- Prove2me | solution 1 for MIPRE.LIDT.Bridge.soundness
+-- status  : ACCEPTED   (prove)
+-- author  : @thomasvidick
+-- created : 2026-10-17T09:18:23.644135+00:00
+-- url     : https://prove2.me/submissions/351cb796-a24f-4ac7-8ed3-cf091ad4e810
+
+/-
+Copyright (c) 2026 Thomas Vidick. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Thomas Vidick
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/Basic/QuantumState.lean
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/Basic/DistributionAvg.lean
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/Test/Defs.lean
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/Test/MainTheorem/MainFormal.lean
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Background/LIDT/Bridge/Main.lean (solution of MIPRE.LIDT.Bridge.soundness);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+
+import Lean.Elab.Tactic
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.Algebra.Defs
+import Mathlib.Algebra.Algebra.Equiv
+import Mathlib.Algebra.Algebra.Hom
+import Mathlib.Algebra.Algebra.NonUnitalHom
+import Mathlib.Algebra.Algebra.Rat
+import Mathlib.Algebra.Algebra.Spectrum.Basic
+import Mathlib.Algebra.Algebra.Spectrum.Quasispectrum
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Finsupp.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Group.Multiset.Defs
+import Mathlib.Algebra.BigOperators.GroupWithZero.Action
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Intervals
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Defs
+import Mathlib.Algebra.CharP.Invertible
+import Mathlib.Algebra.CharZero.Defs
+import Mathlib.Algebra.Field.Basic
+import Mathlib.Algebra.Field.Defs
+import Mathlib.Algebra.Field.IsField
+import Mathlib.Algebra.Field.Rat
+import Mathlib.Algebra.Group.Action.Defs
+import Mathlib.Algebra.Group.Action.Opposite
+import Mathlib.Algebra.Group.Action.Pi
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Commute.Defs
+import Mathlib.Algebra.Group.Defs
+import Mathlib.Algebra.Group.Fin.Basic
+import Mathlib.Algebra.Group.Finsupp
+import Mathlib.Algebra.Group.Hom.Defs
+import Mathlib.Algebra.Group.Idempotent
+import Mathlib.Algebra.Group.Invertible.Basic
+import Mathlib.Algebra.Group.Invertible.Defs
+import Mathlib.Algebra.Group.Nat.Defs
+import Mathlib.Algebra.Group.Opposite
+import Mathlib.Algebra.Group.Pi.Basic
+import Mathlib.Algebra.Group.Prod
+import Mathlib.Algebra.Group.Subgroup.Defs
+import Mathlib.Algebra.Group.Submonoid.Defs
+import Mathlib.Algebra.Group.Subsemigroup.Defs
+import Mathlib.Algebra.Group.Units.Basic
+import Mathlib.Algebra.Group.Units.Defs
+import Mathlib.Algebra.GroupWithZero.Action.Defs
+import Mathlib.Algebra.GroupWithZero.Basic
+import Mathlib.Algebra.GroupWithZero.Commute
+import Mathlib.Algebra.GroupWithZero.Defs
+import Mathlib.Algebra.GroupWithZero.Hom
+import Mathlib.Algebra.GroupWithZero.Invertible
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.GroupWithZero.NeZero
+import Mathlib.Algebra.GroupWithZero.Units.Basic
+import Mathlib.Algebra.GroupWithZero.Units.Lemmas
+import Mathlib.Algebra.Module.BigOperators
+import Mathlib.Algebra.Module.Defs
+import Mathlib.Algebra.Module.Equiv.Defs
+import Mathlib.Algebra.Module.FinitePresentation
+import Mathlib.Algebra.Module.LinearMap.Defs
+import Mathlib.Algebra.Module.NatInt
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Prod
+import Mathlib.Algebra.Module.Submodule.Defs
+import Mathlib.Algebra.Module.Submodule.Lattice
+import Mathlib.Algebra.Module.Submodule.LinearMap
+import Mathlib.Algebra.Module.Submodule.Range
+import Mathlib.Algebra.Module.Torsion.Pi
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MonoidAlgebra.Defs
+import Mathlib.Algebra.MonoidAlgebra.Module
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.Monad
+import Mathlib.Algebra.MvPolynomial.Polynomial
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.NeZero
+import Mathlib.Algebra.Notation.Defs
+import Mathlib.Algebra.Notation.Indicator
+import Mathlib.Algebra.Notation.Pi.Basic
+import Mathlib.Algebra.Notation.Pi.Defs
+import Mathlib.Algebra.Notation.Prod
+import Mathlib.Algebra.Opposites
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Defs
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Group.Unbundled.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Canonical
+import Mathlib.Algebra.Order.GroupWithZero.Defs
+import Mathlib.Algebra.Order.IsBotOne
+import Mathlib.Algebra.Order.Module.Defs
+import Mathlib.Algebra.Order.Monoid.Canonical.Defs
+import Mathlib.Algebra.Order.Monoid.Defs
+import Mathlib.Algebra.Order.Monoid.NatCast
+import Mathlib.Algebra.Order.Monoid.Unbundled.Basic
+import Mathlib.Algebra.Order.Monoid.Unbundled.Defs
+import Mathlib.Algebra.Order.Monoid.Unbundled.ExistsOfLE
+import Mathlib.Algebra.Order.Nonneg.Basic
+import Mathlib.Algebra.Order.Nonneg.Module
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Basic
+import Mathlib.Algebra.Order.Ring.Defs
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Ring.Unbundled.Basic
+import Mathlib.Algebra.Order.Ring.Unbundled.Rat
+import Mathlib.Algebra.Order.Star.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Order.Sub.Basic
+import Mathlib.Algebra.Order.Sub.Defs
+import Mathlib.Algebra.Order.SuccPred
+import Mathlib.Algebra.Order.ZeroLEOne
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Defs
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.Operations
+import Mathlib.Algebra.Polynomial.Eval.Coeff
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Algebra.QuadraticDiscriminant
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Commute
+import Mathlib.Algebra.Ring.CompTypeclasses
+import Mathlib.Algebra.Ring.Defs
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Algebra.Ring.Hom.Defs
+import Mathlib.Algebra.Ring.Int.Defs
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Algebra.Ring.Parity
+import Mathlib.Algebra.Ring.Pi
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.Module
+import Mathlib.Algebra.Star.SelfAdjoint
+import Mathlib.Algebra.Star.StarAlgHom
+import Mathlib.Algebra.Star.StarProjection
+import Mathlib.Algebra.Star.Unitary
+import Mathlib.Algebra.Star.UnitaryStarAlgAut
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Instances
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.NonUnital
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unique
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unital
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.CStarAlgebra.Module.Defs
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Exponential
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Analysis.Complex.Trigonometric
+import Mathlib.Analysis.Convex.Cone.Basic
+import Mathlib.Analysis.Convex.Cone.Closure
+import Mathlib.Analysis.Convex.Cone.Dual
+import Mathlib.Analysis.Convex.SpecificFunctions.Pow
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.Analysis.Fourier.ZMod
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Defs
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.Orthonormal
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.LocallyConvex.AbsConvexOpen
+import Mathlib.Analysis.LocallyConvex.WithSeminorms
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Analysis.Normed.Field.Basic
+import Mathlib.Analysis.Normed.Field.Lemmas
+import Mathlib.Analysis.Normed.Group.Basic
+import Mathlib.Analysis.Normed.Group.Bounded
+import Mathlib.Analysis.Normed.Group.Continuity
+import Mathlib.Analysis.Normed.Group.Defs
+import Mathlib.Analysis.Normed.Group.Real
+import Mathlib.Analysis.Normed.Group.Uniform
+import Mathlib.Analysis.Normed.Lp.PiLp
+import Mathlib.Analysis.Normed.Lp.WithLp
+import Mathlib.Analysis.Normed.Module.Basic
+import Mathlib.Analysis.Normed.Module.FiniteDimension
+import Mathlib.Analysis.Normed.Operator.LinearIsometry
+import Mathlib.Analysis.Normed.Ring.Basic
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.Real.Spectrum
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Basic
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+import Mathlib.Combinatorics.SimpleGraph.AdjMatrix
+import Mathlib.Combinatorics.SimpleGraph.LapMatrix
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Complex.BigOperators
+import Mathlib.Data.Countable.Defs
+import Mathlib.Data.ENNReal.Basic
+import Mathlib.Data.ENNReal.BigOperators
+import Mathlib.Data.ENNReal.Inv
+import Mathlib.Data.ENNReal.Operations
+import Mathlib.Data.ENNReal.Real
+import Mathlib.Data.ENat.Lattice
+import Mathlib.Data.Fin.SuccPred
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finite.Defs
+import Mathlib.Data.Finite.Prod
+import Mathlib.Data.Finite.Sum
+import Mathlib.Data.Finset.Attach
+import Mathlib.Data.Finset.Basic
+import Mathlib.Data.Finset.BooleanAlgebra
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Defs
+import Mathlib.Data.Finset.Empty
+import Mathlib.Data.Finset.Erase
+import Mathlib.Data.Finset.Filter
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Insert
+import Mathlib.Data.Finset.Lattice.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Lattice.Lemmas
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Range
+import Mathlib.Data.Finset.Sigma
+import Mathlib.Data.Finsupp.Defs
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.CardEmbedding
+import Mathlib.Data.Fintype.Defs
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Fin
+import Mathlib.Data.Fintype.OfMap
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sets
+import Mathlib.Data.Fintype.Sigma
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.FunLike.Basic
+import Mathlib.Data.FunLike.Embedding
+import Mathlib.Data.FunLike.Equiv
+import Mathlib.Data.FunLike.IsApply
+import Mathlib.Data.Int.Cast.Basic
+import Mathlib.Data.Int.Cast.Defs
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.NodupEquivFin
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Basis
+import Mathlib.Data.Matrix.Block
+import Mathlib.Data.Matrix.Diagonal
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Multiset.Bind
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Multiset.Defs
+import Mathlib.Data.Multiset.Filter
+import Mathlib.Data.Multiset.MapFold
+import Mathlib.Data.Multiset.ZeroCons
+import Mathlib.Data.NNRat.Defs
+import Mathlib.Data.NNReal.Defs
+import Mathlib.Data.NNReal.Star
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Cast.Basic
+import Mathlib.Data.Nat.Cast.Commute
+import Mathlib.Data.Nat.Cast.Defs
+import Mathlib.Data.Nat.Cast.Order.Basic
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Data.Nat.Factorial.Basic
+import Mathlib.Data.Nat.Factorial.BigOperators
+import Mathlib.Data.Nat.Init
+import Mathlib.Data.Nat.Prime.Defs
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Prod.Basic
+import Mathlib.Data.Quot
+import Mathlib.Data.Rat.Cast.CharZero
+import Mathlib.Data.Rat.Cast.Defs
+import Mathlib.Data.Rat.Cast.Lemmas
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Rat.Init
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Real.Star
+import Mathlib.Data.SProd
+import Mathlib.Data.Set.Basic
+import Mathlib.Data.Set.CoeSort
+import Mathlib.Data.Set.Defs
+import Mathlib.Data.Set.Finite.Range
+import Mathlib.Data.Set.Operations
+import Mathlib.Data.Set.Restrict
+import Mathlib.Data.SetLike.Basic
+import Mathlib.Data.Sigma.Basic
+import Mathlib.Data.Subtype
+import Mathlib.Data.ULift
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.ZMod.Defs
+import Mathlib.FieldTheory.Finite.Basic
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.FieldTheory.IsSepClosed
+import Mathlib.FieldTheory.Perfect
+import Mathlib.FieldTheory.Separable
+import Mathlib.Geometry.Convex.Cone.Pointed
+import Mathlib.GroupTheory.GroupAction.Hom
+import Mathlib.GroupTheory.GroupAction.Ring
+import Mathlib.LinearAlgebra.Basis.VectorSpace
+import Mathlib.LinearAlgebra.Complex.FiniteDimensional
+import Mathlib.LinearAlgebra.Complex.Module
+import Mathlib.LinearAlgebra.DFinsupp
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Dimension.Finrank
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Defs
+import Mathlib.LinearAlgebra.FreeModule.Finite.Basic
+import Mathlib.LinearAlgebra.FreeModule.PID
+import Mathlib.LinearAlgebra.FreeModule.StrongRankCondition
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.LinearAlgebra.Matrix.CharP
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Basic
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.Matrix.Reindex
+import Mathlib.LinearAlgebra.Matrix.StdBasis
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.UnitaryGroup
+import Mathlib.Logic.Basic
+import Mathlib.Logic.Embedding.Basic
+import Mathlib.Logic.Equiv.Basic
+import Mathlib.Logic.Equiv.Defs
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Equiv.Set
+import Mathlib.Logic.Function.Basic
+import Mathlib.Logic.Function.Defs
+import Mathlib.Logic.IsEmpty.Basic
+import Mathlib.Logic.IsEmpty.Defs
+import Mathlib.Logic.Nonempty
+import Mathlib.Logic.Nontrivial.Defs
+import Mathlib.Logic.Unique
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Basic
+import Mathlib.MeasureTheory.Function.L1Space.Integrable
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Mathlib.MeasureTheory.MeasurableSpace.Instances
+import Mathlib.MeasureTheory.Measure.Dirac
+import Mathlib.MeasureTheory.Measure.MeasureSpace
+import Mathlib.MeasureTheory.Measure.MeasureSpaceDef
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.MeasureTheory.OuterMeasure.AE
+import Mathlib.MeasureTheory.OuterMeasure.Defs
+import Mathlib.NumberTheory.LegendreSymbol.AddCharacter
+import Mathlib.Order.Basic
+import Mathlib.Order.BooleanAlgebra.Defs
+import Mathlib.Order.BoundedOrder.Basic
+import Mathlib.Order.CompleteLattice.Defs
+import Mathlib.Order.Defs.LinearOrder
+import Mathlib.Order.Defs.PartialOrder
+import Mathlib.Order.Filter.AtTopBot.Basic
+import Mathlib.Order.Filter.AtTopBot.Defs
+import Mathlib.Order.Filter.AtTopBot.Tendsto
+import Mathlib.Order.Filter.Basic
+import Mathlib.Order.Filter.Defs
+import Mathlib.Order.Filter.Extr
+import Mathlib.Order.Filter.Tendsto
+import Mathlib.Order.Fin.Basic
+import Mathlib.Order.Hom.Basic
+import Mathlib.Order.Interval.Finset.Defs
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Order.Interval.Set.Defs
+import Mathlib.Order.Lattice
+import Mathlib.Order.Lattice.Nat
+import Mathlib.Order.MinMax
+import Mathlib.Order.Monotone.Defs
+import Mathlib.Order.Nat
+import Mathlib.Order.Notation
+import Mathlib.Order.RelClasses
+import Mathlib.Order.SetNotation
+import Mathlib.Probability.Distributions.Bernoulli
+import Mathlib.Probability.Distributions.Binomial
+import Mathlib.Probability.Distributions.Uniform
+import Mathlib.Probability.Moments.Basic
+import Mathlib.Probability.Moments.SubGaussian
+import Mathlib.Probability.ProbabilityMassFunction.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.Algebraic.Integral
+import Mathlib.RingTheory.Bialgebra.Basic
+import Mathlib.RingTheory.DedekindDomain.Basic
+import Mathlib.RingTheory.EssentialFiniteness
+import Mathlib.RingTheory.Etale.Basic
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.FinitePresentation
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Algebra
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Basic
+import Mathlib.RingTheory.Flat.TorsionFree
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.HopfAlgebra.Basic
+import Mathlib.RingTheory.IntegralClosure.Algebra.Basic
+import Mathlib.RingTheory.LocalRing.Defs
+import Mathlib.RingTheory.MvPolynomial.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Attr.Register
+import Mathlib.Tactic.CancelDenoms.Core
+import Mathlib.Tactic.DeriveFintype
+import Mathlib.Tactic.FieldSimp.Lemmas
+import Mathlib.Tactic.Linarith.Lemmas
+import Mathlib.Tactic.Linarith.Preprocessing
+import Mathlib.Tactic.NoncommRing
+import Mathlib.Tactic.NormNum.Basic
+import Mathlib.Tactic.NormNum.Eq
+import Mathlib.Tactic.NormNum.Ineq
+import Mathlib.Tactic.NormNum.Inv
+import Mathlib.Tactic.NormNum.OfScientific
+import Mathlib.Tactic.NormNum.Pow
+import Mathlib.Tactic.NormNum.RealSqrt
+import Mathlib.Tactic.NormNum.Result
+import Mathlib.Tactic.Positivity.Basic
+import Mathlib.Tactic.Positivity.Core
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring.Basic
+import Mathlib.Tactic.Ring.Common
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.ConstMulAction
+import Mathlib.Topology.Algebra.Field
+import Mathlib.Topology.Algebra.Group.Basic
+import Mathlib.Topology.Algebra.Group.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.Basic
+import Mathlib.Topology.Algebra.InfiniteSum.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.ENNReal
+import Mathlib.Topology.Algebra.InfiniteSum.SummationFilter
+import Mathlib.Topology.Algebra.Module.ClosedSubmodule
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.Basic
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.PiProd
+import Mathlib.Topology.Algebra.Module.LocallyConvex
+import Mathlib.Topology.Algebra.Module.ModuleTopology
+import Mathlib.Topology.Algebra.Monoid
+import Mathlib.Topology.Algebra.Monoid.Defs
+import Mathlib.Topology.Algebra.MulAction
+import Mathlib.Topology.Algebra.Ring.Basic
+import Mathlib.Topology.Algebra.Ring.Real
+import Mathlib.Topology.Algebra.Star
+import Mathlib.Topology.Algebra.Star.Real
+import Mathlib.Topology.Algebra.UniformMulAction
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Basic
+import Mathlib.Topology.Bornology.Basic
+import Mathlib.Topology.Closure
+import Mathlib.Topology.Constructions
+import Mathlib.Topology.Constructions.SumProd
+import Mathlib.Topology.Continuous
+import Mathlib.Topology.ContinuousMap.ContinuousSqrt
+import Mathlib.Topology.ContinuousOn
+import Mathlib.Topology.Defs.Basic
+import Mathlib.Topology.Defs.Filter
+import Mathlib.Topology.EMetricSpace.Defs
+import Mathlib.Topology.GDelta.MetrizableSpace
+import Mathlib.Topology.Instances.Matrix
+import Mathlib.Topology.MetricSpace.Algebra
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Bounded
+import Mathlib.Topology.MetricSpace.Defs
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+import Mathlib.Topology.MetricSpace.Sequences
+import Mathlib.Topology.Metrizable.Basic
+import Mathlib.Topology.Metrizable.Uniformity
+import Mathlib.Topology.Neighborhoods
+import Mathlib.Topology.Order.Compact
+import Mathlib.Topology.Order.OrderClosed
+import Mathlib.Topology.Order.Real
+import Mathlib.Topology.Separation.Basic
+import Mathlib.Topology.Separation.GDelta
+import Mathlib.Topology.Separation.Hausdorff
+import Mathlib.Topology.Separation.Regular
+import Mathlib.Topology.Sequences
+import Mathlib.Topology.UniformSpace.Defs
+import Mathlib.Topology.UniformSpace.Real
+import Mathlib.Topology.UnitInterval
+import Definitions.Def_MIPRE_Foundations_Games
+import Definitions.Def_MIPRE_Foundations_Distances
+import Definitions.Def_MIPRE_Background_LIDT_Game
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Field
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Polynomial
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Strategy
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_DirectSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_Measurements
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Value
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_Definitions
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_EnvelopeBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ConsistencyBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Projectivization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_ProjectorONB
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_Sigma
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_LowRank
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_QCompleteness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Rows
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_LayerAlgebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_ProjectorApprox
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Triangles_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_ProjectivizationChain_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceScalars
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceCommutation_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_EvaluationSpecialization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_Pullback
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Y
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_Closeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_QSDD
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_ZeroBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_HEvalTransport
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_ScalarMarginalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_BridgeTheorems_DropBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_RawSecond
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_PaperChainPhaseFive
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_MainChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_PastedFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Centers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooCompletion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_CommutingWithG_Complete
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_GHatFacts
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_StepLemmas_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Lifting
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Chain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_FlatChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_BackChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_TruncatedSums
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Weights
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_BernoulliTail
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_FactBundles
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_StageA0M1
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_HalfSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_FinalMove
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_PaperBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_MatrixChernoff
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_EndpointEquivs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Core_LdGbcon
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_Endpoint
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_PrefixMoved
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_CSSetup
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HBConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HAConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_DegreeZero
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_ErrorAndMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_NonglobalDecomposition
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Operators
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_ProjectiveNonMeasurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_Conversion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_LocalityPreservingRepair
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_RestrictSome
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_DataProcessing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Thresholds_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_InputSdp
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_FiberBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Linearized
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Fourier
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_TraceForms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_CanonicalPrimal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Witness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Saturated
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteConicDuality
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Separation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SdpMatrixBridge
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Foundations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Matrix
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Results
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Averaging
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_AlgebraicIdentity
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_CollisionExpansion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_PointLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_TransportChain_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransportSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_PolynomialSumBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Bracketed
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Selection
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Residual
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_ScalarChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Raw
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Factored
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Variance
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_PostDeleteA
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUPointConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_AddInUFullStatement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_MainError
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_AnswerSlice
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Axis
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Diagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_AnswerValued
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_StageDataConstructors
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_AvgSliceErrors_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_AnswerTheorems
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_SelfImprovement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_PastingAssembly_Successor
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_SchwartzZippelStep
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonProjective
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjRoleAverage_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjUnsymmetrization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceRoleRegister_Completion
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Main
+import Theorems.Thm_MIPRE_LIDT_Bridge_failure_eq_sum
+import Theorems.Thm_MIPRE_LIDT_Bridge_inconsistency_eq_bipartiteConsError
+import Theorems.Thm_MIPRE_LIDT_Line_param_through
+import Theorems.Thm_MIPStarRE_LDT_SubMeas_postprocess_comp
+import Theorems.Thm_MIPStarRE_LDT_Test_mainFormalConclusion_ofRoleRegisterScalarBoundary
+import Theorems.Thm_MIPStarRE_LDT_avgOver_mono
+import Theorems.Thm_MIPStarRE_LDT_ev_finset_sum
+import Theorems.Thm_MIPStarRE_LDT_ev_sum
+import Theorems.Thm_MIPStarRE_LDT_opTensor_sum_left_finset
+import Theorems.Thm_MIPStarRE_LDT_opTensor_sum_left_univ
+import Theorems.Thm_MIPStarRE_LDT_opTensor_sum_right_finset
+import Theorems.Thm_MIPStarRE_LDT_opTensor_sum_right_univ
+import Theorems.Thm_MIPStarRE_LDT_qBipartiteConsDefect_le_one_of_isNormalized
+import Theorems.Thm_MIPStarRE_Quantum_normalizedTrace_mul_comm
+import Theorems.Thm_MIPStarRE_Quantum_normalizedTrace_smul
+
+attribute [simp] MIPStarRE.LDT.SubMeas.postprocess_comp
+
+/-! Helper declarations, pasted verbatim from the source modules with their
+namespace and `open` context, each used only by proofs, interleaved with the
+attribute commands of those modules at their source positions. -/
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT
+variable (F : Type*) [Field F] [Fintype F] [DecidableEq F] (m d : ℕ) [NeZero m]
+variable {F m d}
+theorem enc_injective : Function.Injective (enc (F := F) (m := m) (d := d)) :=
+  fun x y h => by simpa using congrArg dec h
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (encodeScalar decodeScalar evalLinePolynomialModel evalPolynomialModel)
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [Fintype F] [DecidableEq F] in
+theorem eval_ofCoeffs {n : ℕ} (c : LinePoly F n) (t : F) :
+    (ofCoeffs c).eval t = c.eval t := by
+  simp [ofCoeffs, LinePoly.eval, _root_.Polynomial.eval_finsetSum]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (encodeScalar decodeScalar evalLinePolynomialModel evalPolynomialModel)
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [Fintype F] [DecidableEq F] [NeZero m] in
+theorem eval_toMv (c : LowIndDegPoly (F := F) (m := m) (d := d)) (u : Point F m) :
+    MvPolynomial.eval u (toMv c) = c.eval u := by
+  simp only [toMv, map_sum, MvPolynomial.eval_monomial, LowIndDegPoly.eval]
+  refine Finset.sum_congr rfl fun e _ => ?_
+  rw [Finsupp.prod_fintype _ _ fun i => pow_zero (u i)]
+  simp
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (encodeScalar decodeScalar evalLinePolynomialModel evalPolynomialModel)
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Evaluating a global answer at a coded point. -/
+theorem lowIndDegEquiv_apply_encP (c : LowIndDegPoly (F := F) (m := m) (d := d))
+    (u : Point F m) :
+    (lowIndDegEquiv c) (encP u) = enc (c.eval u) := by
+  change evalPolynomialModel _ _ _ = _
+  simp [evalPolynomialModel, eval_toMv]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPStarRE.LDT.PureState
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+theorem normalizedTrace_density_mul {ι : Type*} [Fintype ι] [DecidableEq ι] [Nonempty ι]
+    (ψ : PureState ι) (X : MIPStarRE.Quantum.Op ι) :
+    MIPStarRE.Quantum.normalizedTrace ((ψ : QuantumState ι).density * X) =
+      star ψ.vector ⬝ᵥ (X *ᵥ ψ.vector) := by
+  have hcard : (Fintype.card ι : ℂ) ≠ 0 := Nat.cast_ne_zero.mpr Fintype.card_ne_zero
+  calc
+    MIPStarRE.Quantum.normalizedTrace ((ψ : QuantumState ι).density * X)
+      = MIPStarRE.Quantum.normalizedTrace (X * (ψ : QuantumState ι).density) := by
+          rw [MIPStarRE.Quantum.normalizedTrace_mul_comm]
+    _ = MIPStarRE.Quantum.normalizedTrace (X * ψ.density) := by rfl
+    _ = MIPStarRE.Quantum.normalizedTrace
+          ((Fintype.card ι : ℂ) • (X * Matrix.vecMulVec ψ.vector (star ψ.vector))) := by
+          simp [density, pureDensity]
+    _ = (Fintype.card ι : ℂ) *
+          MIPStarRE.Quantum.normalizedTrace (X * Matrix.vecMulVec ψ.vector (star ψ.vector)) := by
+          rw [MIPStarRE.Quantum.normalizedTrace_smul]
+    _ = (Fintype.card ι : ℂ) *
+          (((X * Matrix.vecMulVec ψ.vector (star ψ.vector)).trace) /
+            (Fintype.card ι : ℂ)) := by
+          simp [MIPStarRE.Quantum.normalizedTrace]
+    _ = (Fintype.card ι : ℂ) *
+          (((Matrix.vecMulVec (X *ᵥ ψ.vector) (star ψ.vector)).trace) /
+            (Fintype.card ι : ℂ)) := by
+          rw [Matrix.mul_vecMulVec]
+    _ = (Fintype.card ι : ℂ) *
+          (((X *ᵥ ψ.vector) ⬝ᵥ star ψ.vector) / (Fintype.card ι : ℂ)) := by
+          rw [Matrix.trace_vecMulVec]
+    _ = (X *ᵥ ψ.vector) ⬝ᵥ star ψ.vector := by
+          field_simp [hcard]
+    _ = star ψ.vector ⬝ᵥ (X *ᵥ ψ.vector) := by
+          rw [dotProduct_comm]
+end
+end MIPStarRE.LDT.PureState
+
+namespace MIPStarRE.LDT
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+theorem PureState.ev_eq_re_inner {ι : Type*} [Fintype ι] [DecidableEq ι] [Nonempty ι]
+    (ψ : PureState ι) (X : MIPStarRE.Quantum.Op ι) :
+    ev (ψ : QuantumState ι) X =
+      Complex.re (star ψ.vector ⬝ᵥ (X *ᵥ ψ.vector)) := by
+  unfold ev
+  rw [ψ.normalizedTrace_density_mul]
+end
+end MIPStarRE.LDT
+
+namespace MIPStarRE.LDT
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/-- The average of a constant scalar is the total mass times that scalar. -/
+theorem avgOver_const {α : Type*} (𝒟 : Distribution α) (c : Error) :
+    avgOver 𝒟 (fun _ : α => c) =
+      (∑ a ∈ 𝒟.support, 𝒟.weight a) * c := by
+  unfold avgOver
+  rw [Finset.sum_mul]
+end
+end MIPStarRE.LDT
+
+namespace MIPStarRE.LDT
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/-- Averaging a constant against a probability distribution returns that constant. -/
+theorem avgOver_const_of_isProbability {α : Type*} (𝒟 : Distribution α)
+    (h𝒟 : 𝒟.IsProbability) (c : Error) :
+    avgOver 𝒟 (fun _ : α => c) = c := by
+  rw [avgOver_const, h𝒟.weight_sum_eq_one, one_mul]
+end
+end MIPStarRE.LDT
+
+namespace MIPStarRE.LDT
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/-- Under a probability question distribution, the averaged bipartite consistency
+error is bounded by `1`. -/
+theorem bipartiteConsError_le_one_of_isProbability {Question Outcome : Type*}
+    {ιA ιB : Type*} [Fintype Outcome] [Fintype ιA] [DecidableEq ιA] [Fintype ιB]
+    [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (𝒟 : Distribution Question) (h𝒟 : 𝒟.IsProbability)
+    (A : IdxSubMeas Question Outcome ιA) (B : IdxSubMeas Question Outcome ιB) :
+    bipartiteConsError ψ 𝒟 A B ≤ 1 := by
+  unfold bipartiteConsError
+  calc
+    avgOver 𝒟 (fun q => qBipartiteConsDefect ψ (A q) (B q))
+      ≤ avgOver 𝒟 (fun _ : Question => 1) := by
+          refine avgOver_mono _ _ _ ?_
+          intro q
+          exact qBipartiteConsDefect_le_one_of_isNormalized ψ hψ (A q) (B q)
+    _ = 1 := avgOver_const_of_isProbability 𝒟 h𝒟 1
+end
+end MIPStarRE.LDT
+
+namespace MIPStarRE.LDT
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/-- Under the uniform question distribution, the averaged bipartite consistency
+error is bounded by `1`. -/
+theorem bipartiteConsError_uniform_le_one {Question Outcome : Type*}
+    {ιA ιB : Type*} [Fintype Question] [DecidableEq Question] [Nonempty Question]
+    [Fintype Outcome] [Fintype ιA] [DecidableEq ιA] [Fintype ιB] [DecidableEq ιB]
+    (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (A : IdxSubMeas Question Outcome ιA) (B : IdxSubMeas Question Outcome ιB) :
+    bipartiteConsError ψ (uniformDistribution Question) A B ≤ 1 := by
+  exact bipartiteConsError_le_one_of_isProbability ψ hψ
+    (uniformDistribution Question) (uniformDistribution_isProbability Question) A B
+end
+end MIPStarRE.LDT
+
+namespace MIPRE.LIDT.Line
+noncomputable section
+open MIPStarRE.LDT (Fq ProjMeas SubMeas Measurement IdxProjMeas AxisParallelLine DiagonalLine AxisLinePolynomial DiagonalLinePolynomial AxisParallelMeasurementReparamInvariant DiagonalMeasurementReparamInvariant decodeScalar encodeScalar zeroCoord)
+open scoped MatrixOrder ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m : ℕ}
+omit [Fintype F] in
+/-- The parameter of a point on its canonical axis-parallel line is its coordinate in the
+direction of the line. -/
+theorem param_through_single (u : Point F m) (i : Fin m) :
+    (through u (Pi.single i 1)).param u = u i := by
+  have h : ∃ j, Pi.single (M := fun _ => F) i 1 j ≠ 0 := ⟨i, by simp⟩
+  rw [param_through, dif_pos h]
+  congr 1
+  have hs := Fin.find_spec h
+  by_contra hne
+  exact hs (Pi.single_eq_of_ne hne 1)
+end
+end MIPRE.LIDT.Line
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (Fq ProjMeas SubMeas Measurement IdxProjMeas AxisParallelLine DiagonalLine AxisLinePolynomial DiagonalLinePolynomial AxisParallelMeasurementReparamInvariant DiagonalMeasurementReparamInvariant decodeScalar encodeScalar zeroCoord)
+open scoped MatrixOrder ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The value at the coded parameter `0` of an axis-line answer. -/
+theorem axisAnswer_zeroCoord (b : F) (a : Answer F m d) :
+    (axisAnswer b a) (zeroCoord (params := lidtParams F m d)) = enc ((axisPolyOf a).eval b) := by
+  change MIPStarRE.LDT.evalLinePolynomialModel _ _ _ = _
+  simp [MIPStarRE.LDT.evalLinePolynomialModel, axisAnswer]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (Fq ProjMeas SubMeas Measurement IdxProjMeas AxisParallelLine DiagonalLine AxisLinePolynomial DiagonalLinePolynomial AxisParallelMeasurementReparamInvariant DiagonalMeasurementReparamInvariant decodeScalar encodeScalar zeroCoord)
+open scoped MatrixOrder ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The value at the coded parameter `0` of a diagonal-line answer. -/
+theorem diagAnswer_zeroCoord (b c : F) (a : Answer F m d) :
+    (diagAnswer b c a) (zeroCoord (params := lidtParams F m d)) = enc ((diagPolyOf a).eval b) := by
+  change MIPStarRE.LDT.evalLinePolynomialModel _ _ _ = _
+  simp [MIPStarRE.LDT.evalLinePolynomialModel, diagAnswer]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState PureState ev)
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Expectation values in the induced strategy are the Born-rule expectations of `S.ψ`. -/
+theorem ev_toProjStrat (S : TensorProductStrategy (lidtGame F m d))
+    (X : Matrix (Fin S.dA × Fin S.dB) (Fin S.dA × Fin S.dB) ℂ) :
+    ev (toProjStrat S).state X = (star S.ψ ⬝ᵥ (X *ᵥ S.ψ)).re :=
+  (pureState S).ev_eq_re_inner X
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+section
+open MIPStarRE.LDT
+open scoped MatrixOrder
+variable {ιA ιB : Type*} [Fintype ιA] [DecidableEq ιA] [Fintype ιB] [DecidableEq ιB]
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+/-- Expectation values of tensor products of measurement operators are nonnegative. -/
+theorem ev_opTensor_outcome_nonneg (ψ : QuantumState (ιA × ιB)) (A : SubMeas α ιA)
+    (B : SubMeas β ιB) (a : α) (b : β) :
+    0 ≤ ev ψ (opTensor (A.outcome a) (B.outcome b)) :=
+  ev_nonneg_of_psd ψ _ (opTensor_nonneg (A.outcome_pos a) (B.outcome_pos b))
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+section
+open MIPStarRE.LDT
+open scoped MatrixOrder
+variable {ιA ιB : Type*} [Fintype ιA] [DecidableEq ιA] [Fintype ιB] [DecidableEq ιB]
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+/-- The total mass of two complete measurements on a normalized state is one. -/
+theorem sum_ev_opTensor_outcome (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (A : SubMeas α ιA) (B : SubMeas β ιB) (hA : A.total = 1) (hB : B.total = 1) :
+    ∑ a, ∑ b, ev ψ (opTensor (A.outcome a) (B.outcome b)) = 1 := by
+  have h : ∑ a, ∑ b, opTensor (A.outcome a) (B.outcome b) =
+      (1 : MIPStarRE.Quantum.Op (ιA × ιB)) := by
+    simp_rw [← opTensor_sum_right_univ, ← opTensor_sum_left_univ, A.sum_eq_total, B.sum_eq_total,
+      hA, hB]
+    exact Matrix.one_kronecker_one
+  rw [← ev_one_of_isNormalized ψ hψ, ← h, ev_sum]
+  exact Finset.sum_congr rfl fun a _ => (ev_sum ψ _).symm
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+section
+open MIPStarRE.LDT
+open scoped MatrixOrder
+variable {ιA ιB : Type*} [Fintype ιA] [DecidableEq ιA] [Fintype ιB] [DecidableEq ιB]
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+/-- The matching mass of two coarse-grained measurements. -/
+theorem qBipartiteMatchMass_postprocess [DecidableEq γ] (ψ : QuantumState (ιA × ιB))
+    (A : SubMeas α ιA) (B : SubMeas β ιB) (f : α → γ) (g : β → γ) :
+    qBipartiteMatchMass ψ (postprocess A f) (postprocess B g) =
+      ∑ a, ∑ b, if f a = g b then ev ψ (opTensor (A.outcome a) (B.outcome b)) else 0 := by
+  simp only [qBipartiteMatchMass, SubMeas.postprocess_outcome, opTensor_sum_left_finset,
+    opTensor_sum_right_finset, ev_finset_sum]
+  simp only [Finset.sum_filter]
+  rw [Finset.sum_comm]
+  simp only [Finset.sum_ite_eq, Finset.mem_univ, if_true]
+  exact Finset.sum_comm
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+section
+open MIPStarRE.LDT
+open scoped MatrixOrder
+variable {ιA ιB : Type*} [Fintype ιA] [DecidableEq ιA] [Fintype ιB] [DecidableEq ιB]
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+/-- The matching mass of two complete measurements is at most one. -/
+theorem qBipartiteMatchMass_le_one (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (A : SubMeas α ιA) (B : SubMeas α ιB) (hA : A.total = 1) (hB : B.total = 1) :
+    qBipartiteMatchMass ψ A B ≤ 1 := by
+  rw [← sum_ev_opTensor_outcome ψ hψ A B hA hB]
+  unfold qBipartiteMatchMass
+  refine Finset.sum_le_sum fun a _ => ?_
+  exact Finset.single_le_sum (fun b _ => ev_opTensor_outcome_nonneg ψ A B a b) (Finset.mem_univ a)
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+section
+open MIPStarRE.LDT
+open scoped MatrixOrder
+variable {ιA ιB : Type*} [Fintype ιA] [DecidableEq ιA] [Fintype ιB] [DecidableEq ιB]
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+/-- For complete measurements on a normalized state the defect is `1 − matching mass`. -/
+theorem qBipartiteConsDefect_of_complete (ψ : QuantumState (ιA × ιB)) (hψ : ψ.IsNormalized)
+    (A : SubMeas α ιA) (B : SubMeas α ιB) (hA : A.total = 1) (hB : B.total = 1) :
+    qBipartiteConsDefect ψ A B = 1 - qBipartiteMatchMass ψ A B := by
+  have h1 : ev ψ (opTensor A.total B.total) = 1 := by
+    rw [hA, hB, show opTensor (1 : MIPStarRE.Quantum.Op ιA) (1 : MIPStarRE.Quantum.Op ιB) = 1 from
+      Matrix.one_kronecker_one]
+    exact ev_one_of_isNormalized ψ hψ
+  simp only [qBipartiteConsDefect, h1]
+  exact max_eq_right (sub_nonneg.mpr (qBipartiteMatchMass_le_one ψ hψ A B hA hB))
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+section
+open MIPStarRE.LDT
+open scoped MatrixOrder
+variable {ιA ιB : Type*} [Fintype ιA] [DecidableEq ιA] [Fintype ιB] [DecidableEq ιB]
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+/-- The defect of two coarse-grainings of complete measurements is at most `1 − acc` for
+any acceptance mass `acc` made of terms that force equal coarse-grained outcomes. -/
+theorem qBipartiteConsDefect_postprocess_le [DecidableEq γ] (ψ : QuantumState (ιA × ιB))
+    (hψ : ψ.IsNormalized)
+    (A : SubMeas α ιA) (B : SubMeas β ιB) (hA : A.total = 1) (hB : B.total = 1)
+    (f : α → γ) (g : β → γ) (D : α → β → Prop) [DecidableRel D] (hD : ∀ a b, D a b → f a = g b) :
+    qBipartiteConsDefect ψ (postprocess A f) (postprocess B g) ≤
+      1 - ∑ a, ∑ b, if D a b then ev ψ (opTensor (A.outcome a) (B.outcome b)) else 0 := by
+  rw [qBipartiteConsDefect_of_complete ψ hψ _ _ (by simpa [postprocess] using hA)
+    (by simpa [postprocess] using hB), qBipartiteMatchMass_postprocess]
+  refine sub_le_sub_left (Finset.sum_le_sum fun a _ => Finset.sum_le_sum fun b _ => ?_) 1
+  by_cases h : D a b
+  · rw [if_pos h, if_pos (hD a b h)]
+  · rw [if_neg h]
+    by_cases h' : f a = g b
+    · rw [if_pos h']
+      exact ev_opTensor_outcome_nonneg ψ A B a b
+    · rw [if_neg h']
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+theorem born_eq_ev (S : TensorProductStrategy (lidtGame F m d)) (x y : Question F m)
+    (a b : Answer F m d) :
+    born S x y a b = ev (toProjStrat S).state (opTensor (S.PA.M x a) (S.PB.M y b)) :=
+  (ev_toProjStrat S _).symm
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+theorem lidtGame_μ (x y : Question F m) :
+    (lidtGame F m d).μ x y = ∑ s : Sample F m, s.weight * if s.questions = (x, y) then 1 else 0 :=
+  rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+theorem value_eq_sum (S : TensorProductStrategy (lidtGame F m d)) :
+    S.value = ∑ s : Sample F m, s.weight * acc S s.questions.1 s.questions.2 := by
+  change ∑ x, ∑ y, ∑ a, ∑ b, (lidtGame F m d).μ x y *
+    (if accepts F m d x y a b then (1 : ℝ) else 0) * born S x y a b = _
+  have h1 : ∀ x y, ∑ a, ∑ b, (lidtGame F m d).μ x y *
+      (if accepts F m d x y a b then (1 : ℝ) else 0) * born S x y a b =
+      (lidtGame F m d).μ x y * acc S x y := by
+    intro x y
+    simp only [acc, Finset.mul_sum, mul_assoc]
+    refine Finset.sum_congr rfl fun a _ => Finset.sum_congr rfl fun b _ => ?_
+    split_ifs <;> simp
+  simp only [h1]
+  simp only [lidtGame_μ, Finset.sum_mul]
+  rw [← Fintype.sum_prod_type', Finset.sum_comm]
+  refine Fintype.sum_congr _ _ fun s => ?_
+  simp only [mul_assoc, ← Finset.mul_sum]
+  congr 1
+  simp only [ite_mul, one_mul, zero_mul, Prod.mk.eta, Fintype.sum_ite_eq]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+theorem one_sub_value (S : TensorProductStrategy (lidtGame F m d)) :
+    1 - S.value = ∑ s : Sample F m, s.weight * (1 - acc S s.questions.1 s.questions.2) := by
+  rw [value_eq_sum]
+  conv_lhs => rw [← Sample.sum_weight (F := F) (m := m)]
+  simp only [mul_sub, mul_one, Finset.sum_sub_distrib]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The defect of two coarse-grained measurements of a strategy is at most the rejection
+probability whenever acceptance forces the coarse-grained outcomes to agree. -/
+theorem defect_le_rej (S : TensorProductStrategy (lidtGame F m d)) (x y : Question F m)
+    (f g : Answer F m d → Fq (lidtParams F m d))
+    (hD : ∀ a b, accepts F m d x y a b = true → f a = g b) :
+    qBipartiteConsDefect (toProjStrat S).state (postprocess (toProjMeas S.PA x).toSubMeas f)
+      (postprocess (toProjMeas S.PB y).toSubMeas g) ≤ 1 - acc S x y := by
+  refine (qBipartiteConsDefect_postprocess_le (toProjStrat S).state (toProjStrat S).isNormalized
+    (toProjMeas S.PA x).toSubMeas (toProjMeas S.PB y).toSubMeas rfl rfl f g
+    (fun a b => accepts F m d x y a b = true) hD).trans (le_of_eq ?_)
+  congr 1
+  unfold acc
+  refine Finset.sum_congr rfl fun a _ => Finset.sum_congr rfl fun b _ => ?_
+  split_ifs <;> simp [born_eq_ev, toProjMeas_outcome]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The point measurement of player B at a coded point, in coarse-grained form. -/
+theorem pointMeasB_eq (S : TensorProductStrategy (lidtGame F m d))
+    (u : MIPStarRE.LDT.Point (lidtParams F m d)) :
+    ((toProjStrat S).pointMeasurementB u).toSubMeas =
+      postprocess (toProjMeas S.PB (.point (decP u))).toSubMeas codedValue := rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The point measurement of player A at a coded point, in coarse-grained form. -/
+theorem pointMeasA_eq (S : TensorProductStrategy (lidtGame F m d))
+    (u : MIPStarRE.LDT.Point (lidtParams F m d)) :
+    ((toProjStrat S).pointMeasurementA u).toSubMeas =
+      postprocess (toProjMeas S.PA (.point (decP u))).toSubMeas codedValue := rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The axis-parallel line measurement of player A evaluated at the coded parameter `0`,
+in coarse-grained form. -/
+theorem axisMeasA_zero_eq (S : TensorProductStrategy (lidtGame F m d))
+    (u : MIPStarRE.LDT.Point (lidtParams F m d)) (i : Fin m) :
+    postprocess ((toProjStrat S).axisParallelMeasurementA ⟨u, i⟩).toSubMeas (· zeroCoord) =
+      postprocess (toProjMeas S.PA (.axisLine (Line.through (decP u) (Pi.single i 1)))).toSubMeas
+        fun a => enc ((axisPolyOf a).eval (decP u i)) := by
+  show postprocess (postprocess _ _) _ = _
+  rw [MIPStarRE.LDT.SubMeas.postprocess_comp]
+  simp only [axisAnswer_zeroCoord]
+  rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+theorem axisMeasB_zero_eq (S : TensorProductStrategy (lidtGame F m d))
+    (u : MIPStarRE.LDT.Point (lidtParams F m d)) (i : Fin m) :
+    postprocess ((toProjStrat S).axisParallelMeasurementB ⟨u, i⟩).toSubMeas (· zeroCoord) =
+      postprocess (toProjMeas S.PB (.axisLine (Line.through (decP u) (Pi.single i 1)))).toSubMeas
+        fun a => enc ((axisPolyOf a).eval (decP u i)) := by
+  show postprocess (postprocess _ _) _ = _
+  rw [MIPStarRE.LDT.SubMeas.postprocess_comp]
+  simp only [axisAnswer_zeroCoord]
+  rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The diagonal line measurement of a player evaluated at the coded parameter `0`, in
+coarse-grained form: the line answer is read at the parameter of the base point. -/
+theorem diagMeas_zero_eq {n : Type*} [Fintype n] [DecidableEq n]
+    (P : ProjectiveMeasurement (Question F m) (Answer F m d) (Matrix n n ℂ))
+    (ℓ : DiagonalLine (lidtParams F m d)) :
+    postprocess (diagMeas P ℓ).toSubMeas (· zeroCoord) =
+      postprocess (toProjMeas P (.diagLine (Line.through (decP ℓ.base) (decP ℓ.direction)))).toSubMeas
+        fun a => enc ((diagPolyOf a).eval ((Line.through (decP ℓ.base) (decP ℓ.direction)).param
+          (decP ℓ.base))) := by
+  show postprocess (postprocess _ _) _ = _
+  rw [MIPStarRE.LDT.SubMeas.postprocess_comp]
+  simp only [diagAnswer_zeroCoord]
+  have : (diagData ℓ).1 = (Line.through (decP ℓ.base) (decP ℓ.direction)).param (decP ℓ.base) := by
+    rw [Line.param_through]
+    unfold diagData
+    split_ifs <;> rfl
+  rw [this]
+  rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [NeZero m] in
+/-- Acceptance for an axis-parallel line question to A and a point question to B. -/
+theorem accepts_axisLine_point (ℓ : Line F m) (x : Point F m) (a b : Answer F m d) :
+    accepts F m d (.axisLine ℓ) (.point x) a b = true ↔
+      ∃ c v, a = .axisPoly c ∧ b = .value v ∧ ℓ.Mem x ∧ c.eval (ℓ.param x) = v := by
+  cases a <;> cases b <;> simp [accepts]
+  constructor <;> rintro ⟨h1, h2⟩ <;> first | exact ⟨h2.symm, h1⟩ | exact ⟨h2, h1.symm⟩
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [NeZero m] in
+theorem accepts_point_axisLine (ℓ : Line F m) (x : Point F m) (a b : Answer F m d) :
+    accepts F m d (.point x) (.axisLine ℓ) a b = true ↔
+      ∃ v c, a = .value v ∧ b = .axisPoly c ∧ ℓ.Mem x ∧ c.eval (ℓ.param x) = v := by
+  cases a <;> cases b <;> simp [accepts]
+  constructor <;> rintro ⟨h1, h2⟩ <;> first | exact ⟨h2.symm, h1⟩ | exact ⟨h2, h1.symm⟩
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [NeZero m] in
+theorem accepts_point_point (x y : Point F m) (a b : Answer F m d) :
+    accepts F m d (.point x) (.point y) a b = true ↔
+      ∃ v w, a = .value v ∧ b = .value w ∧ x = y ∧ v = w := by
+  cases a <;> cases b <;> simp [accepts]
+  constructor <;> rintro ⟨h1, h2⟩ <;> first | exact ⟨h2.symm, h1⟩ | exact ⟨h2, h1.symm⟩
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [NeZero m] in
+theorem accepts_diagLine_point (ℓ : Line F m) (x : Point F m) (a b : Answer F m d) :
+    accepts F m d (.diagLine ℓ) (.point x) a b = true ↔
+      ∃ c v, a = .diagPoly c ∧ b = .value v ∧ ℓ.Mem x ∧ c.eval (ℓ.param x) = v := by
+  cases a <;> cases b <;> simp [accepts]
+  constructor <;> rintro ⟨h1, h2⟩ <;> first | exact ⟨h2.symm, h1⟩ | exact ⟨h2, h1.symm⟩
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [NeZero m] in
+theorem accepts_point_diagLine (ℓ : Line F m) (x : Point F m) (a b : Answer F m d) :
+    accepts F m d (.point x) (.diagLine ℓ) a b = true ↔
+      ∃ v c, a = .value v ∧ b = .diagPoly c ∧ ℓ.Mem x ∧ c.eval (ℓ.param x) = v := by
+  cases a <;> cases b <;> simp [accepts]
+  constructor <;> rintro ⟨h1, h2⟩ <;> first | exact ⟨h2.symm, h1⟩ | exact ⟨h2, h1.symm⟩
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Axis-parallel lines test, line to A. -/
+theorem axisA_defect_le (S : TensorProductStrategy (lidtGame F m d))
+    (u : MIPStarRE.LDT.Point (lidtParams F m d)) (i : Fin m) :
+    qBipartiteConsDefect (toProjStrat S).state
+      (postprocess ((toProjStrat S).axisParallelMeasurementA ⟨u, i⟩).toSubMeas (· zeroCoord))
+      ((toProjStrat S).pointMeasurementB u).toSubMeas ≤
+    1 - acc S (.axisLine (Line.through (decP u) (Pi.single i 1))) (.point (decP u)) := by
+  rw [axisMeasA_zero_eq, pointMeasB_eq]
+  apply defect_le_rej
+  intro a b hab
+  obtain ⟨c, v, rfl, rfl, -, hcv⟩ := (accepts_axisLine_point _ _ _ _).mp hab
+  rw [Line.param_through_single] at hcv
+  simp [axisPolyOf, codedValue, Answer.toValue, eval_ofCoeffs, hcv]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Axis-parallel lines test, line to B. -/
+theorem axisB_defect_le (S : TensorProductStrategy (lidtGame F m d))
+    (u : MIPStarRE.LDT.Point (lidtParams F m d)) (i : Fin m) :
+    qBipartiteConsDefect (toProjStrat S).state ((toProjStrat S).pointMeasurementA u).toSubMeas
+      (postprocess ((toProjStrat S).axisParallelMeasurementB ⟨u, i⟩).toSubMeas (· zeroCoord)) ≤
+    1 - acc S (.point (decP u)) (.axisLine (Line.through (decP u) (Pi.single i 1))) := by
+  rw [axisMeasB_zero_eq, pointMeasA_eq]
+  apply defect_le_rej
+  intro a b hab
+  obtain ⟨v, c, rfl, rfl, -, hcv⟩ := (accepts_point_axisLine _ _ _ _).mp hab
+  rw [Line.param_through_single] at hcv
+  simp [axisPolyOf, codedValue, Answer.toValue, eval_ofCoeffs, hcv]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Self-consistency test. -/
+theorem point_defect_le (S : TensorProductStrategy (lidtGame F m d))
+    (u : MIPStarRE.LDT.Point (lidtParams F m d)) :
+    qBipartiteConsDefect (toProjStrat S).state ((toProjStrat S).pointMeasurementA u).toSubMeas
+      ((toProjStrat S).pointMeasurementB u).toSubMeas ≤
+    1 - acc S (.point (decP u)) (.point (decP u)) := by
+  rw [pointMeasA_eq, pointMeasB_eq]
+  apply defect_le_rej
+  intro a b hab
+  obtain ⟨v, w, rfl, rfl, -, rfl⟩ := (accepts_point_point _ _ _ _).mp hab
+  rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Diagonal lines test, line to A. -/
+theorem diagA_defect_le (S : TensorProductStrategy (lidtGame F m d))
+    (ℓ : DiagonalLine (lidtParams F m d)) :
+    qBipartiteConsDefect (toProjStrat S).state
+      (postprocess ((toProjStrat S).diagonalMeasurementA ℓ).toSubMeas (· zeroCoord))
+      ((toProjStrat S).pointMeasurementB ℓ.base).toSubMeas ≤
+    1 - acc S (.diagLine (Line.through (decP ℓ.base) (decP ℓ.direction))) (.point (decP ℓ.base)) := by
+  rw [show (toProjStrat S).diagonalMeasurementA ℓ = diagMeas S.PA ℓ from rfl, diagMeas_zero_eq,
+    pointMeasB_eq]
+  apply defect_le_rej
+  intro a b hab
+  obtain ⟨c, v, rfl, rfl, -, hcv⟩ := (accepts_diagLine_point _ _ _ _).mp hab
+  simp [diagPolyOf, codedValue, Answer.toValue, eval_ofCoeffs, hcv]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Diagonal lines test, line to B. -/
+theorem diagB_defect_le (S : TensorProductStrategy (lidtGame F m d))
+    (ℓ : DiagonalLine (lidtParams F m d)) :
+    qBipartiteConsDefect (toProjStrat S).state ((toProjStrat S).pointMeasurementA ℓ.base).toSubMeas
+      (postprocess ((toProjStrat S).diagonalMeasurementB ℓ).toSubMeas (· zeroCoord)) ≤
+    1 - acc S (.point (decP ℓ.base)) (.diagLine (Line.through (decP ℓ.base) (decP ℓ.direction))) := by
+  rw [show (toProjStrat S).diagonalMeasurementB ℓ = diagMeas S.PB ℓ from rfl, diagMeas_zero_eq,
+    pointMeasA_eq]
+  apply defect_le_rej
+  intro a b hab
+  obtain ⟨v, c, rfl, rfl, -, hcv⟩ := (accepts_point_diagLine _ _ _ _).mp hab
+  simp [diagPolyOf, codedValue, Answer.toValue, eval_ofCoeffs, hcv]
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The decoded extension of a restricted direction, as sampled in
+`lowIndividualDegreeFailureProbability`. -/
+theorem decP_extendLam (j : Fin m) (v : Fin (j.val + 1) → F) :
+    decP (fun k : Fin m => if h : k.val ≤ j.val then enc (v ⟨k.val, Nat.lt_succ_of_le h⟩)
+      else zeroCoord (params := lidtParams F m d)) = Sample.extend v := by
+  funext k
+  show dec (if h : k.val ≤ j.val then enc (v ⟨k.val, Nat.lt_succ_of_le h⟩) else zeroCoord) = _
+  unfold Sample.extend
+  split_ifs <;> simp
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Each branch defect is at most the rejection probability of the sample. -/
+theorem mdef_le (S : TensorProductStrategy (lidtGame F m d)) (s : Sample F m) :
+    mdef S s ≤ 1 - acc S s.questions.1 s.questions.2 := by
+  rcases s with ⟨_ | _, u, i⟩ | u | ⟨_ | _, u, j, v⟩
+  · simpa [mdef, Sample.questions] using axisA_defect_le S (encP u) i
+  · simpa [mdef, Sample.questions] using axisB_defect_le S (encP u) i
+  · simpa [mdef, Sample.questions] using point_defect_le S (encP u)
+  · have h := diagA_defect_le S ⟨encP u, fun k => if h : k.val ≤ j.val then enc (v ⟨k.val, Nat.lt_succ_of_le h⟩) else zeroCoord⟩
+    rw [decP_extendLam] at h
+    simpa [mdef, Sample.questions] using h
+  · have h := diagB_defect_le S ⟨encP u, fun k => if h : k.val ≤ j.val then enc (v ⟨k.val, Nat.lt_succ_of_le h⟩) else zeroCoord⟩
+    rw [decP_extendLam] at h
+    simpa [mdef, Sample.questions] using h
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjStrat QuantumState ev opTensor qBipartiteConsDefect bipartiteConsError uniformDistribution avgOver Distribution SubMeas postprocess IdxSubMeas ProjMeas Fq zeroCoord AxisParallelLine DiagonalLine)
+open scoped Kronecker
+open Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The MIPStarRE failure probability of the induced strategy is at most the rejection
+probability of the strategy in the game. -/
+theorem failure_le (S : TensorProductStrategy (lidtGame F m d)) :
+    (toProjStrat S).lowIndividualDegreeFailureProbability ≤ 1 - S.value := by
+  rw [failure_eq_sum, one_sub_value]
+  exact Finset.sum_le_sum fun s _ => mul_le_mul_of_nonneg_left (mdef_le S s) s.weight_nonneg
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPStarRE.LDT.Test
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/--
+Trivial saturated-error branch for the printed two-space theorem
+`thm:main-formal`.
+
+Paper origin: `references/ldt-paper/test_definition.tex:180-202`.
+
+**Source:** This is a source-faithful saturated-error branch: when the printed
+target error is at least `1`, the consistency conclusion follows from the
+normalization bound for bipartite consistency defects, without adding any
+construction hypothesis to the source theorem.
+
+Whenever `mainFormalError params k eps ≥ 1`, the three consistency conclusions
+hold for arbitrary projective polynomial measurements, since each underlying
+consistency defect is bounded by `1` for a normalized bipartite state and a
+uniform question distribution.  The argument does not use the low individual
+degree test hypothesis. -/
+theorem mainFormal_trivial_witness
+    (params : Parameters)
+    [FieldModel params.q]
+    {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (strategy : ProjStrat params ιA ιB)
+    (eps : Error)
+    (k : ℕ)
+    (herr : 1 ≤ mainFormalError params k eps) :
+    ∃ G_A : ProjMeas (Polynomial params) ιA,
+      ∃ G_B : ProjMeas (Polynomial params) ιB,
+        ConsRel strategy.state (uniformDistribution (Point params))
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementA)
+            (polynomialEvaluationFamily params G_B.toSubMeas)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution (Point params))
+            (polynomialEvaluationFamily params G_A.toSubMeas)
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementB)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution Unit)
+            (constSubMeasFamily G_A.toSubMeas)
+            (constSubMeasFamily G_B.toSubMeas)
+            (mainFormalError params k eps) := by
+  classical
+  haveI : Inhabited (Polynomial params) :=
+    ⟨⟨0, by intro i; simp [MvPolynomial.degreeOf_zero]⟩⟩
+  let trivialA : ProjMeas (Polynomial params) ιA :=
+    ProjMeas.trivialDistinguishedOutcome (default : Polynomial params)
+  let trivialB : ProjMeas (Polynomial params) ιB :=
+    ProjMeas.trivialDistinguishedOutcome (default : Polynomial params)
+  refine ⟨trivialA, trivialB, ?_, ?_, ?_⟩
+  all_goals exact ⟨le_trans
+    (bipartiteConsError_uniform_le_one strategy.state strategy.isNormalized _ _) herr⟩
+end
+end MIPStarRE.LDT.Test
+
+namespace MIPStarRE.LDT.Test
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/--
+Small-error branch for the corrected two-space theorem
+`thm:main-formal`.
+
+Paper origin: `references/ldt-paper/test_definition.tex:180-202`.
+
+This theorem records the small-error branch of the corrected source theorem.
+It is not an additional hypothesis of `thm:main-formal`; the source-boundary
+reduction below calls it only after the saturated-error branch has been
+discharged by `mainFormal_trivial_witness`.
+
+The heterogeneous role-register symmetrization, factor-two
+unsymmetrization, point-agreement branch, heterogeneous triangle step,
+Schwartz--Zippel Step 5 calculation, the step making measurements projective,
+completion, line-169 transport, final point-evaluation triangle, and scalar absorption into
+`mainFormalError` are checked in the two-space route once the nonzero
+scalar-cascade boundary `0 < k` is supplied.  This nonzero boundary is the
+correction recorded in
+`docs/paper-gaps/issue-422-main-formal-zero-k-boundary.tex`. -/
+theorem mainFormal_smallErrorConclusion
+    (params : Parameters)
+    [FieldModel params.q]
+    {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (strategy : ProjStrat params ιA ιB)
+    (eps : Error)
+    (hpass : strategy.PassesLowIndividualDegreeTest eps)
+    (k : ℕ)
+    (hk : 400 * params.m * params.d ≤ k)
+    (hk0 : 0 < k)
+    (hsmall : ¬ 1 ≤ mainFormalError params k eps) :
+    ∃ G_A : ProjMeas (Polynomial params) ιA,
+      ∃ G_B : ProjMeas (Polynomial params) ιB,
+        ConsRel strategy.state (uniformDistribution (Point params))
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementA)
+            (polynomialEvaluationFamily params G_B.toSubMeas)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution (Point params))
+            (polynomialEvaluationFamily params G_A.toSubMeas)
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementB)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution Unit)
+            (constSubMeasFamily G_A.toSubMeas)
+            (constSubMeasFamily G_B.toSubMeas)
+            (mainFormalError params k eps) := by
+  exact
+    mainFormalConclusion_ofRoleRegisterScalarBoundary
+      params strategy eps hpass k hk hk0 hsmall
+end
+end MIPStarRE.LDT.Test
+
+namespace MIPStarRE.LDT.Test
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/--
+Source-boundary reduction for the corrected two-space theorem
+`thm:main-formal`.
+
+Paper origin: `references/ldt-paper/test_definition.tex:180-202`.
+
+This theorem closes the saturated-error branch of the source-boundary
+argument.  If `mainFormalError params k eps ≥ 1`, the conclusion follows from
+`mainFormal_trivial_witness`; otherwise the proof is exactly the named
+small-error branch `mainFormal_smallErrorConclusion`.  This reduction
+is not an additional hypothesis of `thm:main-formal`.
+-/
+theorem mainFormalConclusion
+    (params : Parameters)
+    [FieldModel params.q]
+    {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (strategy : ProjStrat params ιA ιB)
+    (eps : Error)
+    (hpass : strategy.PassesLowIndividualDegreeTest eps)
+    (k : ℕ)
+    (hk : 400 * params.m * params.d ≤ k)
+    (hk0 : 0 < k) :
+    ∃ G_A : ProjMeas (Polynomial params) ιA,
+      ∃ G_B : ProjMeas (Polynomial params) ιB,
+        ConsRel strategy.state (uniformDistribution (Point params))
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementA)
+            (polynomialEvaluationFamily params G_B.toSubMeas)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution (Point params))
+            (polynomialEvaluationFamily params G_A.toSubMeas)
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementB)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution Unit)
+            (constSubMeasFamily G_A.toSubMeas)
+            (constSubMeasFamily G_B.toSubMeas)
+            (mainFormalError params k eps) := by
+  by_cases hlarge : 1 ≤ mainFormalError params k eps
+  · exact mainFormal_trivial_witness params strategy eps k hlarge
+  · exact mainFormal_smallErrorConclusion params strategy eps hpass k hk hk0 hlarge
+end
+end MIPStarRE.LDT.Test
+
+namespace MIPStarRE.LDT.Test
+section
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+/--
+Corrected source statement of `thm:main-formal`.
+
+Paper origin: `references/ldt-paper/test_definition.tex:180-202`.
+
+This theorem records the two-space source theorem with the confirmed large-`k`
+correction `k ≥ 400 m d`.  The paper prints the weaker hypothesis `k ≥ m d`;
+the missing factor `400` is documented in
+`docs/paper-gaps/issue-906-main-formal-k-bound.tex`.  The additional condition
+`0 < k` corrects the zero-sampling boundary where the printed error collapses
+to zero; this boundary is documented in
+`docs/paper-gaps/issue-422-main-formal-zero-k-boundary.tex`. -/
+theorem mainFormal
+    (params : Parameters)
+    [FieldModel params.q]
+    {ιA ιB : Type*}
+    [Fintype ιA] [DecidableEq ιA]
+    [Fintype ιB] [DecidableEq ιB]
+    (strategy : ProjStrat params ιA ιB)
+    (eps : Error)
+    (hpass : strategy.lowIndividualDegreeFailureProbability ≤ eps)
+    (k : ℕ)
+    (hk : 400 * params.m * params.d ≤ k)
+    (hk0 : 0 < k) :
+    ∃ G_A : ProjMeas (Polynomial params) ιA,
+      ∃ G_B : ProjMeas (Polynomial params) ιB,
+        ConsRel strategy.state (uniformDistribution (Point params))
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementA)
+            (polynomialEvaluationFamily params G_B.toSubMeas)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution (Point params))
+            (polynomialEvaluationFamily params G_A.toSubMeas)
+            (IdxProjMeas.toIdxSubMeas strategy.pointMeasurementB)
+            (mainFormalError params k eps) ∧
+          ConsRel strategy.state (uniformDistribution Unit)
+            (constSubMeasFamily G_A.toSubMeas)
+            (constSubMeasFamily G_B.toSubMeas)
+            (mainFormalError params k eps) := by
+  let hpasses : strategy.PassesLowIndividualDegreeTest eps := ⟨hpass⟩
+  exact mainFormalConclusion params strategy eps hpasses k hk hk0
+end
+end MIPStarRE.LDT.Test
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjMeas SubMeas IdxSubMeas ev opTensor)
+open scoped MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+omit [DecidableEq F] in
+/-- The error bounds of the two developments agree. -/
+theorem mainFormalError_eq (k : ℕ) (ε : ℝ) :
+    MIPStarRE.LDT.Test.mainFormalError (lidtParams F m d) k ε =
+      lidtError m d (Fintype.card F) k ε := by
+  unfold MIPStarRE.LDT.Test.mainFormalError lidtError
+  rw [neg_div]
+  try rfl
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjMeas SubMeas IdxSubMeas ev opTensor)
+open scoped MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The point POVMs of player A, as outcomes of the induced strategy's point measurements. -/
+theorem pointPOVMA_val (S : TensorProductStrategy (lidtGame F m d)) (u : Point F m) (a : F) :
+    ((pointPOVMA S u).mats a).val =
+      ((toProjStrat S).pointMeasurementA (encP u)).toSubMeas.outcome (enc a) := by
+  classical
+  rw [pointMeasA_eq, MIPStarRE.LDT.SubMeas.postprocess_outcome]
+  simp only [pointPOVMA, POVM.map, ProjectiveMeasurement.toPOVM, AddSubmonoidClass.coe_finsetSum,
+    decP_encP, toProjMeas_outcome]
+  refine Finset.sum_congr (Finset.filter_congr fun ans _ => ?_) fun _ _ => rfl
+  exact enc_injective.eq_iff.symm
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjMeas SubMeas IdxSubMeas ev opTensor)
+open scoped MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- The point POVMs of player B, as outcomes of the induced strategy's point measurements. -/
+theorem pointPOVMB_val (S : TensorProductStrategy (lidtGame F m d)) (u : Point F m) (a : F) :
+    ((pointPOVMB S u).mats a).val =
+      ((toProjStrat S).pointMeasurementB (encP u)).toSubMeas.outcome (enc a) := by
+  classical
+  rw [pointMeasB_eq, MIPStarRE.LDT.SubMeas.postprocess_outcome]
+  simp only [pointPOVMB, POVM.map, ProjectiveMeasurement.toPOVM, AddSubmonoidClass.coe_finsetSum,
+    decP_encP, toProjMeas_outcome]
+  refine Finset.sum_congr (Finset.filter_congr fun ans _ => ?_) fun _ _ => rfl
+  exact enc_injective.eq_iff.symm
+end
+end MIPRE.LIDT.Bridge
+
+namespace MIPRE.LIDT.Bridge
+noncomputable section
+open MIPStarRE.LDT (ProjMeas SubMeas IdxSubMeas ev opTensor)
+open scoped MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+/-- Evaluation of a converted global measurement, as MIPStarRE's evaluation family. -/
+theorem evalPOVM_val {n : Type*} [Fintype n] [DecidableEq n]
+    (G : ProjMeas (MIPStarRE.LDT.Polynomial (lidtParams F m d)) n) (u : Point F m) (a : F) :
+    ((evalPOVM (ofProjMeas G) u).mats a).val =
+      (MIPStarRE.LDT.polynomialEvaluationFamily (lidtParams F m d) G.toSubMeas (encP u)).outcome
+        (enc a) := by
+  classical
+  show _ = (MIPStarRE.LDT.postprocess G.toSubMeas fun g => g (encP u)).outcome (enc a)
+  rw [MIPStarRE.LDT.SubMeas.postprocess_outcome]
+  simp only [evalPOVM, POVM.map, ProjectiveMeasurement.toPOVM, AddSubmonoidClass.coe_finsetSum,
+    ofProjMeas_M]
+  refine Finset.sum_equiv lowIndDegEquiv (fun c => ?_) fun c _ => rfl
+  simp only [Finset.mem_filter, Finset.mem_univ, true_and, lowIndDegEquiv_apply_encP]
+  exact enc_injective.eq_iff.symm
+end
+end MIPRE.LIDT.Bridge
+
+/-! The uploaded declaration as `solution` (a root name declared inside the source's
+namespace, so that names resolve as they do in the source). -/
+namespace MIPRE.LIDT.Bridge
+open MIPStarRE.LDT (ProjMeas SubMeas IdxSubMeas ev opTensor)
+open scoped MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {m d : ℕ} [NeZero m]
+theorem _root_.solution (S : TensorProductStrategy (lidtGame F m d)) (ε : ℝ) (hS : 1 - ε ≤ S.value)
+    (k : ℕ) (hk : 400 * m * d ≤ k) (hk0 : 0 < k) :
+    ∃ GA : ProjectiveMeasurement Unit (LowIndDegPoly (F := F) (m := m) (d := d))
+        (Matrix (Fin S.dA) (Fin S.dA) ℂ),
+    ∃ GB : ProjectiveMeasurement Unit (LowIndDegPoly (F := F) (m := m) (d := d))
+        (Matrix (Fin S.dB) (Fin S.dB) ℂ),
+      inconsistency (uniform (Point F m)) S.ψ (pointPOVMA S) (evalPOVM GB) ≤
+          lidtError m d (Fintype.card F) k ε ∧
+        inconsistency (uniform (Point F m)) S.ψ (evalPOVM GA) (pointPOVMB S) ≤
+          lidtError m d (Fintype.card F) k ε ∧
+        inconsistency (uniform Unit) S.ψ (fun _ => GA.toPOVM ()) (fun _ => GB.toPOVM ()) ≤
+          lidtError m d (Fintype.card F) k ε := by
+  have hpass : (toProjStrat S).lowIndividualDegreeFailureProbability ≤ ε :=
+    (failure_le S).trans (by linarith)
+  obtain ⟨GA, GB, h1, h2, h3⟩ := MIPStarRE.LDT.Test.mainFormal (lidtParams F m d)
+    (toProjStrat S) ε hpass k hk hk0
+  rw [mainFormalError_eq] at h1 h2 h3
+  refine ⟨ofProjMeas GA, ofProjMeas GB, ?_, ?_, ?_⟩
+  · rw [inconsistency_eq_bipartiteConsError S pointEquiv scalarEquiv (pointPOVMA S)
+      (evalPOVM (ofProjMeas GB))
+      (MIPStarRE.LDT.IdxProjMeas.toIdxSubMeas (toProjStrat S).pointMeasurementA)
+      (MIPStarRE.LDT.polynomialEvaluationFamily (lidtParams F m d) GB.toSubMeas)
+      (fun _ => rfl) (fun _ => GB.total_eq_one) (pointPOVMA_val S) (evalPOVM_val GB)]
+    exact h1.offDiagonalBound
+  · rw [inconsistency_eq_bipartiteConsError S pointEquiv scalarEquiv (evalPOVM (ofProjMeas GA))
+      (pointPOVMB S)
+      (MIPStarRE.LDT.polynomialEvaluationFamily (lidtParams F m d) GA.toSubMeas)
+      (MIPStarRE.LDT.IdxProjMeas.toIdxSubMeas (toProjStrat S).pointMeasurementB)
+      (fun _ => GA.total_eq_one) (fun _ => rfl) (evalPOVM_val GA) (pointPOVMB_val S)]
+    exact h2.offDiagonalBound
+  · rw [inconsistency_eq_bipartiteConsError S (Equiv.refl Unit) lowIndDegEquiv
+      (fun _ => (ofProjMeas GA).toPOVM ()) (fun _ => (ofProjMeas GB).toPOVM ())
+      (MIPStarRE.LDT.constSubMeasFamily GA.toSubMeas)
+      (MIPStarRE.LDT.constSubMeasFamily GB.toSubMeas)
+      (fun _ => GA.total_eq_one) (fun _ => GB.total_eq_one) (fun _ _ => rfl) (fun _ _ => rfl)]
+    exact h3.offDiagonalBound
+end MIPRE.LIDT.Bridge

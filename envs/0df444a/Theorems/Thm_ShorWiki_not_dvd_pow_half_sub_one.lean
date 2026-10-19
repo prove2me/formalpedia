@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_not_dvd_pow_half_sub_one
 -- name    : ShorWiki.not_dvd_pow_half_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:59:38.110284+00:00
 -- url     : https://prove2.me/theorems/e23ac1f1-0879-420f-b5bf-d58517bc19bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyclotomicEulerSystem_norm_relation
 -- name    : CyclotomicEulerSystem.norm_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T15:28:00.942865+00:00
 -- url     : https://prove2.me/theorems/1a4e266c-1d27-4be8-9a51-fadb6f9f4234

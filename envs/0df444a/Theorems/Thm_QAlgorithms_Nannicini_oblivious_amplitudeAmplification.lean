@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_oblivious_amplitudeAmplification
 -- name    : QAlgorithms.Nannicini.oblivious_amplitudeAmplification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:23.770369+00:00
 -- url     : https://prove2.me/theorems/1dbb3292-06e0-4e1f-845c-f2a4ac44dafc

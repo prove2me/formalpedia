@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_laplacian_radial
 -- name    : BookProof.ChapterRadialLaplacian.laplacian_radial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:59:00.920315+00:00
 -- url     : https://prove2.me/theorems/c6829abe-d573-4600-bd95-4f9870b9b228

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_fourier_weightPow_bound
 -- name    : QAlgorithms.Arunachalam.fourier_weightPow_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:56:13.560843+00:00
 -- url     : https://prove2.me/theorems/b77f3fdd-6a46-4c0c-8045-4db52e0dedce

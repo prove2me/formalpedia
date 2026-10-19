@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumEcon_Duopoly_proposition_2
 -- name    : QuantumEcon.Duopoly.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:17.255863+00:00
 -- url     : https://prove2.me/theorems/a57e03ca-c15d-4156-9d60-8bdc381e707d

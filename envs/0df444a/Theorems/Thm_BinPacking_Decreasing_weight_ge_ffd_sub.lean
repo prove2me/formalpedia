@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_Decreasing_weight_ge_ffd_sub
 -- name    : BinPacking.Decreasing.weight_ge_ffd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:17:01.383677+00:00
 -- url     : https://prove2.me/theorems/c01631d6-b835-4a30-8c3a-4ced0b75ccb9

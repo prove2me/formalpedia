@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_count_basis_sums
 -- name    : QAlgorithms.Arunachalam.count_basis_sums
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:56:54.779749+00:00
 -- url     : https://prove2.me/theorems/cf41a363-13b2-4140-9663-7e55360e14ae

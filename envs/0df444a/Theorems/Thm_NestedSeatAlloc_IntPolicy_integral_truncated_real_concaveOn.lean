@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_integral_truncated_real_concaveOn
 -- name    : NestedSeatAlloc.IntPolicy.integral_truncated_real_concaveOn
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T16:13:40.492969+00:00
 -- url     : https://prove2.me/theorems/5319f63e-bfd6-4b26-a2fc-273a8d1f23ba

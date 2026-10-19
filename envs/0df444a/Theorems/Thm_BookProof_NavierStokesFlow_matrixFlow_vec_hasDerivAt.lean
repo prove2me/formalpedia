@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_matrixFlow_vec_hasDerivAt
 -- name    : BookProof.NavierStokesFlow.matrixFlow_vec_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:39.572204+00:00
 -- url     : https://prove2.me/theorems/d7c09f9a-7959-4402-b184-e1b5b32d5449

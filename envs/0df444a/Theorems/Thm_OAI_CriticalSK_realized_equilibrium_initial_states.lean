@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CriticalSK_realized_equilibrium_initial_states
 -- name    : OAI.CriticalSK.realized_equilibrium_initial_states
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:30.742638+00:00
 -- url     : https://prove2.me/theorems/fe9a0d10-6168-4051-8789-2d89b91a8476

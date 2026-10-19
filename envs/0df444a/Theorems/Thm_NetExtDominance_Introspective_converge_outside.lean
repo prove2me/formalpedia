@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetExtDominance_Introspective_converge_outside
 -- name    : NetExtDominance.Introspective.converge_outside
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:16.5211+00:00
 -- url     : https://prove2.me/theorems/72218206-ea76-40d3-80e6-33f06e316bc4

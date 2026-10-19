@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_HermiteFarisLavine_nsH_symmetricOn
 -- name    : BookProof.NavierStokesFlow.HermiteFarisLavine.nsH_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:27:41.161539+00:00
 -- url     : https://prove2.me/theorems/df332166-dbf5-4dd6-994d-b7404880e164

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_Equidistance_sq_dist_ideal
 -- name    : SeqLoss.Equidistance.sq_dist_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:11.891913+00:00
 -- url     : https://prove2.me/theorems/5425d35a-74a2-4c2d-962c-45da1e1a295a

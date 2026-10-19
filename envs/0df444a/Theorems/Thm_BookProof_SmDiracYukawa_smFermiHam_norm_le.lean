@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_smFermiHam_norm_le
 -- name    : BookProof.SmDiracYukawa.smFermiHam_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:52:02.99182+00:00
 -- url     : https://prove2.me/theorems/39cce107-3470-46e5-9a73-4568b4413c34

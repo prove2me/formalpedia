@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isVonNBounded_iff_of_isStrictColimit
 -- name    : GarrettFA.isVonNBounded_iff_of_isStrictColimit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:28:41.330265+00:00
 -- url     : https://prove2.me/theorems/38c6b470-8d12-4818-b729-4407b564289e

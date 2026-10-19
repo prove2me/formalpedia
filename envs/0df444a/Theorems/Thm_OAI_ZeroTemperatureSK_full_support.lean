@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ZeroTemperatureSK_full_support
 -- name    : OAI.ZeroTemperatureSK.full_support
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:40.516447+00:00
 -- url     : https://prove2.me/theorems/e9f7d6cb-af95-435c-b432-ce5018f08276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_symmetrization_isPolynomial
 -- name    : QAlgorithms.Childs.symmetrization_isPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:33:07.664927+00:00
 -- url     : https://prove2.me/theorems/08a07f71-934c-4316-8386-0153b49906f6

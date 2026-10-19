@@ -1,0 +1,2667 @@
+-- Prove2me | solution 1 for MIPRE.QLD.MirrorSimul.exists_phys_descent
+-- status  : ACCEPTED   (prove)
+-- author  : @thomasvidick
+-- created : 2026-10-17T09:09:40.73372+00:00
+-- url     : https://prove2.me/submissions/d4ca9909-d04c-4f51-af77-8a306fa2d734
+
+/-
+Copyright (c) 2026 Thomas Vidick. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Thomas Vidick
+-/
+/-
+Copyright (c) 2026 MIPRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Background/QLD/Soundness.lean (solution of MIPRE.QLD.MirrorSimul.exists_phys_descent);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+
+import Lean.Elab.Tactic
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.Algebra.Defs
+import Mathlib.Algebra.Algebra.Equiv
+import Mathlib.Algebra.Algebra.Hom
+import Mathlib.Algebra.Algebra.NonUnitalHom
+import Mathlib.Algebra.Algebra.Rat
+import Mathlib.Algebra.Algebra.Spectrum.Basic
+import Mathlib.Algebra.Algebra.Spectrum.Quasispectrum
+import Mathlib.Algebra.Algebra.Subalgebra.Basic
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Finsupp.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Group.Multiset.Defs
+import Mathlib.Algebra.BigOperators.GroupWithZero.Action
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Intervals
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Defs
+import Mathlib.Algebra.CharP.Invertible
+import Mathlib.Algebra.CharZero.Defs
+import Mathlib.Algebra.DirectSum.Basic
+import Mathlib.Algebra.Field.Basic
+import Mathlib.Algebra.Field.Defs
+import Mathlib.Algebra.Field.IsField
+import Mathlib.Algebra.Field.Rat
+import Mathlib.Algebra.Group.Action.Defs
+import Mathlib.Algebra.Group.Action.Opposite
+import Mathlib.Algebra.Group.Action.Pi
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Center
+import Mathlib.Algebra.Group.Commute.Defs
+import Mathlib.Algebra.Group.Defs
+import Mathlib.Algebra.Group.Fin.Basic
+import Mathlib.Algebra.Group.Finsupp
+import Mathlib.Algebra.Group.Hom.Defs
+import Mathlib.Algebra.Group.Idempotent
+import Mathlib.Algebra.Group.Invertible.Basic
+import Mathlib.Algebra.Group.Invertible.Defs
+import Mathlib.Algebra.Group.Nat.Defs
+import Mathlib.Algebra.Group.Opposite
+import Mathlib.Algebra.Group.Pi.Basic
+import Mathlib.Algebra.Group.Prod
+import Mathlib.Algebra.Group.Subgroup.Defs
+import Mathlib.Algebra.Group.Submonoid.Defs
+import Mathlib.Algebra.Group.Subsemigroup.Defs
+import Mathlib.Algebra.Group.Units.Basic
+import Mathlib.Algebra.Group.Units.Defs
+import Mathlib.Algebra.GroupWithZero.Action.Defs
+import Mathlib.Algebra.GroupWithZero.Basic
+import Mathlib.Algebra.GroupWithZero.Commute
+import Mathlib.Algebra.GroupWithZero.Defs
+import Mathlib.Algebra.GroupWithZero.Hom
+import Mathlib.Algebra.GroupWithZero.Invertible
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.GroupWithZero.NeZero
+import Mathlib.Algebra.GroupWithZero.Units.Basic
+import Mathlib.Algebra.GroupWithZero.Units.Lemmas
+import Mathlib.Algebra.Module.Basic
+import Mathlib.Algebra.Module.BigOperators
+import Mathlib.Algebra.Module.Defs
+import Mathlib.Algebra.Module.Equiv.Defs
+import Mathlib.Algebra.Module.FinitePresentation
+import Mathlib.Algebra.Module.LinearMap.Defs
+import Mathlib.Algebra.Module.LinearMap.End
+import Mathlib.Algebra.Module.NatInt
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Prod
+import Mathlib.Algebra.Module.Submodule.Defs
+import Mathlib.Algebra.Module.Submodule.Ker
+import Mathlib.Algebra.Module.Submodule.Lattice
+import Mathlib.Algebra.Module.Submodule.LinearMap
+import Mathlib.Algebra.Module.Submodule.Range
+import Mathlib.Algebra.Module.Torsion.Free
+import Mathlib.Algebra.Module.Torsion.Pi
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MonoidAlgebra.Defs
+import Mathlib.Algebra.MonoidAlgebra.Module
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.Monad
+import Mathlib.Algebra.MvPolynomial.Polynomial
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.NeZero
+import Mathlib.Algebra.NoZeroSMulDivisors.Basic
+import Mathlib.Algebra.NoZeroSMulDivisors.Defs
+import Mathlib.Algebra.Notation.Defs
+import Mathlib.Algebra.Notation.Indicator
+import Mathlib.Algebra.Notation.Pi.Basic
+import Mathlib.Algebra.Notation.Pi.Defs
+import Mathlib.Algebra.Notation.Prod
+import Mathlib.Algebra.Opposites
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Defs
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Group.Unbundled.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Canonical
+import Mathlib.Algebra.Order.GroupWithZero.Defs
+import Mathlib.Algebra.Order.IsBotOne
+import Mathlib.Algebra.Order.Module.Defs
+import Mathlib.Algebra.Order.Module.PositiveLinearMap
+import Mathlib.Algebra.Order.Monoid.Canonical.Defs
+import Mathlib.Algebra.Order.Monoid.Defs
+import Mathlib.Algebra.Order.Monoid.NatCast
+import Mathlib.Algebra.Order.Monoid.Unbundled.Basic
+import Mathlib.Algebra.Order.Monoid.Unbundled.Defs
+import Mathlib.Algebra.Order.Monoid.Unbundled.ExistsOfLE
+import Mathlib.Algebra.Order.Nonneg.Basic
+import Mathlib.Algebra.Order.Nonneg.Module
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Basic
+import Mathlib.Algebra.Order.Ring.Defs
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Ring.Unbundled.Basic
+import Mathlib.Algebra.Order.Ring.Unbundled.Rat
+import Mathlib.Algebra.Order.Star.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Order.Sub.Basic
+import Mathlib.Algebra.Order.Sub.Defs
+import Mathlib.Algebra.Order.SuccPred
+import Mathlib.Algebra.Order.ZeroLEOne
+import Mathlib.Algebra.Polynomial.AlgebraMap
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Defs
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.Operations
+import Mathlib.Algebra.Polynomial.Eval.Coeff
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Eval.Degree
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Algebra.QuadraticDiscriminant
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Commute
+import Mathlib.Algebra.Ring.CompTypeclasses
+import Mathlib.Algebra.Ring.Defs
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Algebra.Ring.Hom.Defs
+import Mathlib.Algebra.Ring.Int.Defs
+import Mathlib.Algebra.Ring.IsFormallyReal
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Algebra.Ring.Parity
+import Mathlib.Algebra.Ring.Pi
+import Mathlib.Algebra.Ring.Subring.Defs
+import Mathlib.Algebra.Ring.Subsemiring.Defs
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.BigOperators
+import Mathlib.Algebra.Star.Module
+import Mathlib.Algebra.Star.SelfAdjoint
+import Mathlib.Algebra.Star.StarAlgHom
+import Mathlib.Algebra.Star.StarProjection
+import Mathlib.Algebra.Star.Subalgebra
+import Mathlib.Algebra.Star.Unitary
+import Mathlib.Algebra.Star.UnitaryStarAlgAut
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Basic
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Commute
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Instances
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Isometric
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.NonUnital
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unique
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unital
+import Mathlib.Analysis.CStarAlgebra.ContinuousLinearMap
+import Mathlib.Analysis.CStarAlgebra.GelfandNaimarkSegal
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.CStarAlgebra.Module.Defs
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Exponential
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Analysis.Complex.Trigonometric
+import Mathlib.Analysis.Convex.Cone.Basic
+import Mathlib.Analysis.Convex.Cone.Closure
+import Mathlib.Analysis.Convex.Cone.Dual
+import Mathlib.Analysis.Convex.SpecificFunctions.Pow
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.Analysis.Fourier.ZMod
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Continuous
+import Mathlib.Analysis.InnerProductSpace.Defs
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.JointEigenspace
+import Mathlib.Analysis.InnerProductSpace.Orthogonal
+import Mathlib.Analysis.InnerProductSpace.Orthonormal
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.InnerProductSpace.Positive
+import Mathlib.Analysis.InnerProductSpace.Projection.Basic
+import Mathlib.Analysis.InnerProductSpace.Projection.FiniteDimensional
+import Mathlib.Analysis.InnerProductSpace.Spectrum
+import Mathlib.Analysis.InnerProductSpace.StarOrder
+import Mathlib.Analysis.InnerProductSpace.Subspace
+import Mathlib.Analysis.InnerProductSpace.Symmetric
+import Mathlib.Analysis.InnerProductSpace.Trace
+import Mathlib.Analysis.LocallyConvex.AbsConvexOpen
+import Mathlib.Analysis.LocallyConvex.WithSeminorms
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Analysis.Normed.Field.Basic
+import Mathlib.Analysis.Normed.Field.Lemmas
+import Mathlib.Analysis.Normed.Group.Basic
+import Mathlib.Analysis.Normed.Group.Bounded
+import Mathlib.Analysis.Normed.Group.Continuity
+import Mathlib.Analysis.Normed.Group.Defs
+import Mathlib.Analysis.Normed.Group.InfiniteSum
+import Mathlib.Analysis.Normed.Group.Real
+import Mathlib.Analysis.Normed.Group.Submodule
+import Mathlib.Analysis.Normed.Group.Tannery
+import Mathlib.Analysis.Normed.Group.Uniform
+import Mathlib.Analysis.Normed.Lp.PiLp
+import Mathlib.Analysis.Normed.Lp.WithLp
+import Mathlib.Analysis.Normed.Module.Basic
+import Mathlib.Analysis.Normed.Module.FiniteDimension
+import Mathlib.Analysis.Normed.MulAction
+import Mathlib.Analysis.Normed.Operator.Basic
+import Mathlib.Analysis.Normed.Operator.LinearIsometry
+import Mathlib.Analysis.Normed.Operator.NormedSpace
+import Mathlib.Analysis.Normed.Ring.Basic
+import Mathlib.Analysis.Normed.Ring.Lemmas
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.RCLike.Lemmas
+import Mathlib.Analysis.Real.Spectrum
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.PosPart.Basic
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Basic
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Order
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Analysis.VonNeumannAlgebra.Basic
+import Mathlib.Combinatorics.SimpleGraph.AdjMatrix
+import Mathlib.Combinatorics.SimpleGraph.LapMatrix
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Complex.BigOperators
+import Mathlib.Data.Countable.Defs
+import Mathlib.Data.ENNReal.Basic
+import Mathlib.Data.ENNReal.BigOperators
+import Mathlib.Data.ENNReal.Inv
+import Mathlib.Data.ENNReal.Operations
+import Mathlib.Data.ENNReal.Real
+import Mathlib.Data.ENat.Basic
+import Mathlib.Data.ENat.Defs
+import Mathlib.Data.ENat.Lattice
+import Mathlib.Data.Fin.SuccPred
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finite.Defs
+import Mathlib.Data.Finite.Prod
+import Mathlib.Data.Finite.Sum
+import Mathlib.Data.Finset.Attach
+import Mathlib.Data.Finset.Basic
+import Mathlib.Data.Finset.BooleanAlgebra
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Defs
+import Mathlib.Data.Finset.Empty
+import Mathlib.Data.Finset.Erase
+import Mathlib.Data.Finset.Filter
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Insert
+import Mathlib.Data.Finset.Lattice.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Lattice.Lemmas
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Range
+import Mathlib.Data.Finset.Sigma
+import Mathlib.Data.Finset.Sum
+import Mathlib.Data.Finsupp.Defs
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.CardEmbedding
+import Mathlib.Data.Fintype.Defs
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Fin
+import Mathlib.Data.Fintype.OfMap
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sets
+import Mathlib.Data.Fintype.Sigma
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.FunLike.Basic
+import Mathlib.Data.FunLike.Embedding
+import Mathlib.Data.FunLike.Equiv
+import Mathlib.Data.FunLike.IsApply
+import Mathlib.Data.Int.Cast.Basic
+import Mathlib.Data.Int.Cast.Defs
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.NodupEquivFin
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Basis
+import Mathlib.Data.Matrix.Block
+import Mathlib.Data.Matrix.Diagonal
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Multiset.Bind
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Multiset.Defs
+import Mathlib.Data.Multiset.Filter
+import Mathlib.Data.Multiset.MapFold
+import Mathlib.Data.Multiset.ZeroCons
+import Mathlib.Data.NNRat.Defs
+import Mathlib.Data.NNReal.Defs
+import Mathlib.Data.NNReal.Star
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Bits
+import Mathlib.Data.Nat.Cast.Basic
+import Mathlib.Data.Nat.Cast.Commute
+import Mathlib.Data.Nat.Cast.Defs
+import Mathlib.Data.Nat.Cast.Order.Basic
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Data.Nat.Factorial.Basic
+import Mathlib.Data.Nat.Factorial.BigOperators
+import Mathlib.Data.Nat.Init
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Prime.Defs
+import Mathlib.Data.Nat.Size
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Prod.Basic
+import Mathlib.Data.Quot
+import Mathlib.Data.Rat.Cast.CharZero
+import Mathlib.Data.Rat.Cast.Defs
+import Mathlib.Data.Rat.Cast.Lemmas
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Rat.Init
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Real.Star
+import Mathlib.Data.SProd
+import Mathlib.Data.Set.Basic
+import Mathlib.Data.Set.CoeSort
+import Mathlib.Data.Set.Defs
+import Mathlib.Data.Set.Finite.Range
+import Mathlib.Data.Set.Operations
+import Mathlib.Data.Set.Restrict
+import Mathlib.Data.SetLike.Basic
+import Mathlib.Data.Sigma.Basic
+import Mathlib.Data.Subtype
+import Mathlib.Data.ULift
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.ZMod.Defs
+import Mathlib.FieldTheory.Finite.Basic
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.FieldTheory.IsSepClosed
+import Mathlib.FieldTheory.Perfect
+import Mathlib.FieldTheory.Separable
+import Mathlib.Geometry.Convex.Cone.Pointed
+import Mathlib.GroupTheory.GroupAction.Hom
+import Mathlib.GroupTheory.GroupAction.Ring
+import Mathlib.LinearAlgebra.Basis.Defs
+import Mathlib.LinearAlgebra.Basis.VectorSpace
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
+import Mathlib.LinearAlgebra.Complex.FiniteDimensional
+import Mathlib.LinearAlgebra.Complex.Module
+import Mathlib.LinearAlgebra.DFinsupp
+import Mathlib.LinearAlgebra.Dimension.Constructions
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Dimension.Finrank
+import Mathlib.LinearAlgebra.Eigenspace.Basic
+import Mathlib.LinearAlgebra.Eigenspace.Minpoly
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Defs
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.FreeModule.Finite.Basic
+import Mathlib.LinearAlgebra.FreeModule.PID
+import Mathlib.LinearAlgebra.FreeModule.StrongRankCondition
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.LinearAlgebra.Matrix.CharP
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Basic
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.Notation
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.Matrix.Reindex
+import Mathlib.LinearAlgebra.Matrix.StdBasis
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.Pi
+import Mathlib.LinearAlgebra.Projection
+import Mathlib.LinearAlgebra.Span.Defs
+import Mathlib.LinearAlgebra.Trace
+import Mathlib.LinearAlgebra.UnitaryGroup
+import Mathlib.Logic.Basic
+import Mathlib.Logic.Embedding.Basic
+import Mathlib.Logic.Equiv.Basic
+import Mathlib.Logic.Equiv.Defs
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Equiv.Set
+import Mathlib.Logic.Function.Basic
+import Mathlib.Logic.Function.Defs
+import Mathlib.Logic.IsEmpty.Basic
+import Mathlib.Logic.IsEmpty.Defs
+import Mathlib.Logic.Nonempty
+import Mathlib.Logic.Nontrivial.Defs
+import Mathlib.Logic.Pairwise
+import Mathlib.Logic.Unique
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Basic
+import Mathlib.MeasureTheory.Function.L1Space.Integrable
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Mathlib.MeasureTheory.MeasurableSpace.Instances
+import Mathlib.MeasureTheory.Measure.Dirac
+import Mathlib.MeasureTheory.Measure.MeasureSpace
+import Mathlib.MeasureTheory.Measure.MeasureSpaceDef
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.MeasureTheory.OuterMeasure.AE
+import Mathlib.MeasureTheory.OuterMeasure.Defs
+import Mathlib.NumberTheory.LegendreSymbol.AddCharacter
+import Mathlib.Order.Basic
+import Mathlib.Order.BooleanAlgebra.Defs
+import Mathlib.Order.BoundedOrder.Basic
+import Mathlib.Order.CompleteLattice.Basic
+import Mathlib.Order.CompleteLattice.Defs
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Order.ConditionallyCompleteLattice.Basic
+import Mathlib.Order.ConditionallyCompleteLattice.Defs
+import Mathlib.Order.ConditionallyCompletePartialOrder.Defs
+import Mathlib.Order.Defs.LinearOrder
+import Mathlib.Order.Defs.PartialOrder
+import Mathlib.Order.Filter.AtTopBot.Basic
+import Mathlib.Order.Filter.AtTopBot.Defs
+import Mathlib.Order.Filter.AtTopBot.Tendsto
+import Mathlib.Order.Filter.Basic
+import Mathlib.Order.Filter.Defs
+import Mathlib.Order.Filter.Extr
+import Mathlib.Order.Filter.Tendsto
+import Mathlib.Order.Fin.Basic
+import Mathlib.Order.Hom.Basic
+import Mathlib.Order.Interval.Finset.Defs
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Order.Interval.Set.Defs
+import Mathlib.Order.Lattice
+import Mathlib.Order.Lattice.Nat
+import Mathlib.Order.MinMax
+import Mathlib.Order.Monotone.Defs
+import Mathlib.Order.Nat
+import Mathlib.Order.Notation
+import Mathlib.Order.RelClasses
+import Mathlib.Order.SetNotation
+import Mathlib.Probability.Distributions.Bernoulli
+import Mathlib.Probability.Distributions.Binomial
+import Mathlib.Probability.Distributions.Uniform
+import Mathlib.Probability.Moments.Basic
+import Mathlib.Probability.Moments.SubGaussian
+import Mathlib.Probability.ProbabilityMassFunction.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.Algebraic.Integral
+import Mathlib.RingTheory.Bialgebra.Basic
+import Mathlib.RingTheory.DedekindDomain.Basic
+import Mathlib.RingTheory.EssentialFiniteness
+import Mathlib.RingTheory.Etale.Basic
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.FinitePresentation
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.Flat.Basic
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Algebra
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Basic
+import Mathlib.RingTheory.Flat.TorsionFree
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.HopfAlgebra.Basic
+import Mathlib.RingTheory.Ideal.Operations
+import Mathlib.RingTheory.IntegralClosure.Algebra.Basic
+import Mathlib.RingTheory.LocalRing.Defs
+import Mathlib.RingTheory.MvPolynomial.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.Trace.Basic
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Attr.Register
+import Mathlib.Tactic.CancelDenoms.Core
+import Mathlib.Tactic.DeriveFintype
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FieldSimp.Lemmas
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith.Lemmas
+import Mathlib.Tactic.Linarith.Preprocessing
+import Mathlib.Tactic.LinearCombination.Lemmas
+import Mathlib.Tactic.Module
+import Mathlib.Tactic.NoncommRing
+import Mathlib.Tactic.NormNum.Basic
+import Mathlib.Tactic.NormNum.Eq
+import Mathlib.Tactic.NormNum.Ineq
+import Mathlib.Tactic.NormNum.Inv
+import Mathlib.Tactic.NormNum.OfScientific
+import Mathlib.Tactic.NormNum.Pow
+import Mathlib.Tactic.NormNum.RealSqrt
+import Mathlib.Tactic.NormNum.Result
+import Mathlib.Tactic.Positivity.Basic
+import Mathlib.Tactic.Positivity.Core
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Ring.Basic
+import Mathlib.Tactic.Ring.Common
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.ConstMulAction
+import Mathlib.Topology.Algebra.Field
+import Mathlib.Topology.Algebra.Group.Basic
+import Mathlib.Topology.Algebra.Group.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.Basic
+import Mathlib.Topology.Algebra.InfiniteSum.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.ENNReal
+import Mathlib.Topology.Algebra.InfiniteSum.Order
+import Mathlib.Topology.Algebra.InfiniteSum.Ring
+import Mathlib.Topology.Algebra.InfiniteSum.SummationFilter
+import Mathlib.Topology.Algebra.Module.ClosedSubmodule
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.Basic
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.PiProd
+import Mathlib.Topology.Algebra.Module.Equiv
+import Mathlib.Topology.Algebra.Module.LocallyConvex
+import Mathlib.Topology.Algebra.Module.ModuleTopology
+import Mathlib.Topology.Algebra.Module.Spaces.ContinuousLinearMap
+import Mathlib.Topology.Algebra.Monoid
+import Mathlib.Topology.Algebra.Monoid.Defs
+import Mathlib.Topology.Algebra.MulAction
+import Mathlib.Topology.Algebra.Ring.Basic
+import Mathlib.Topology.Algebra.Ring.Real
+import Mathlib.Topology.Algebra.Star
+import Mathlib.Topology.Algebra.Star.Real
+import Mathlib.Topology.Algebra.UniformMulAction
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Basic
+import Mathlib.Topology.Bornology.Basic
+import Mathlib.Topology.Closure
+import Mathlib.Topology.Constructions
+import Mathlib.Topology.Constructions.SumProd
+import Mathlib.Topology.Continuous
+import Mathlib.Topology.ContinuousMap.ContinuousSqrt
+import Mathlib.Topology.ContinuousOn
+import Mathlib.Topology.Defs.Basic
+import Mathlib.Topology.Defs.Filter
+import Mathlib.Topology.DenseEmbedding
+import Mathlib.Topology.EMetricSpace.Defs
+import Mathlib.Topology.GDelta.MetrizableSpace
+import Mathlib.Topology.Instances.Matrix
+import Mathlib.Topology.Instances.RealVectorSpace
+import Mathlib.Topology.MetricSpace.Algebra
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Bounded
+import Mathlib.Topology.MetricSpace.Defs
+import Mathlib.Topology.MetricSpace.ProperSpace
+import Mathlib.Topology.MetricSpace.Pseudo.Constructions
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+import Mathlib.Topology.MetricSpace.Pseudo.Lemmas
+import Mathlib.Topology.MetricSpace.Sequences
+import Mathlib.Topology.Metrizable.Basic
+import Mathlib.Topology.Metrizable.Uniformity
+import Mathlib.Topology.Neighborhoods
+import Mathlib.Topology.Order.Compact
+import Mathlib.Topology.Order.OrderClosed
+import Mathlib.Topology.Order.Real
+import Mathlib.Topology.Separation.Basic
+import Mathlib.Topology.Separation.GDelta
+import Mathlib.Topology.Separation.Hausdorff
+import Mathlib.Topology.Separation.Regular
+import Mathlib.Topology.Sequences
+import Mathlib.Topology.UniformSpace.Cauchy
+import Mathlib.Topology.UniformSpace.Defs
+import Mathlib.Topology.UniformSpace.Real
+import Mathlib.Topology.UnitInterval
+import Definitions.Def_MIPRE_Foundations_Games
+import Definitions.Def_MIPRE_Foundations_Distances
+import Definitions.Def_MIPRE_Background_LIDT_Game
+import Definitions.Def_MIPRE_Foundations_CL_Register
+import Definitions.Def_MIPRE_Foundations_CL_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_CLGame
+import Definitions.Def_MIPRE_Foundations_CL_Basic
+import Definitions.Def_MIPRE_Foundations_Cost_Basic_B
+import Definitions.Def_MIPRE_Foundations_Cost_Encoding_B
+import Definitions.Def_MIPRE_Foundations_Cost_PolyTime
+import Definitions.Def_MIPRE_Foundations_CL_Closure_B
+import Definitions.Def_MIPRE_Foundations_CL_Sampler
+import Definitions.Def_MIPRE_Foundations_Verifier
+import Definitions.Def_MIPRE_Foundations_LowDegree_Encoding
+import Definitions.Def_MIPRE_Foundations_Closeness
+import Definitions.Def_MIPRE_Foundations_PerfectStrategy
+import Definitions.Def_MIPRE_Foundations_GameTransport
+import Definitions.Def_MIPRE_Foundations_GameDouble
+import Definitions.Def_MIPRE_Foundations_OpBound
+import Definitions.Def_MIPRE_Foundations_OpBound_B
+import Definitions.Def_MIPRE_Foundations_StateDistance
+import Definitions.Def_MIPRE_Foundations_StateDistance_B
+import Definitions.Def_MIPRE_Foundations_POVMValue
+import Definitions.Def_MIPRE_Foundations_Sign
+import Definitions.Def_MIPRE_Foundations_CrossConsistency
+import Definitions.Def_MIPRE_Foundations_CrossConsistency_B
+import Definitions.Def_MIPRE_Foundations_PVM
+import Definitions.Def_MIPRE_Foundations_PVM_B
+import Definitions.Def_MIPRE_Foundations_Commutation
+import Definitions.Def_MIPRE_Foundations_Dilation
+import Definitions.Def_MIPRE_Foundations_Expanded
+import Definitions.Def_MIPRE_Foundations_LowDegree_SchwartzZippel
+import Definitions.Def_MIPRE_Foundations_LowDegree_Anticomm
+import Definitions.Def_MIPRE_Foundations_Weyl
+import Definitions.Def_MIPRE_Foundations_Parseval
+import Definitions.Def_MIPRE_Foundations_Linearity
+import Definitions.Def_MIPRE_Foundations_Sandwich
+import Definitions.Def_MIPRE_Foundations_Pasting
+import Definitions.Def_MIPRE_Foundations_POVMMix
+import Definitions.Def_MIPRE_Foundations_POVMMix_B
+import Definitions.Def_MIPRE_Foundations_GameAdapt
+import Definitions.Def_MIPRE_Foundations_RegisterReindex
+import Definitions.Def_MIPRE_Foundations_RegisterReindex_B
+import Definitions.Def_MIPRE_Foundations_CL_Embedding
+import Definitions.Def_MIPRE_Foundations_CL_Graph
+import Definitions.Def_MIPRE_Foundations_CL_Detyping
+import Definitions.Def_MIPRE_Foundations_CL_DetypingLaw
+import Definitions.Def_MIPRE_Foundations_SampledGame
+import Definitions.Def_MIPRE_Foundations_CL_DetypingGame
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Geometry
+import Definitions.Def_MIPRE_Foundations_LowDegree_LineRestrict
+import Definitions.Def_MIPRE_Background_LIDT_Coefficients
+import Definitions.Def_MIPRE_Background_LIDT_Coefficients_B
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Seeds
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Reparam
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Parameters
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Strategy
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Weights
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Field
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Polynomial
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Strategy
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_DirectSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_Measurements
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Value
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_Definitions
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_EnvelopeBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ConsistencyBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Projectivization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_ProjectorONB
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_Sigma
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_LowRank
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_QCompleteness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Rows
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_LayerAlgebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_ProjectorApprox
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Triangles_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_ProjectivizationChain_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceScalars
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceCommutation_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_EvaluationSpecialization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_Pullback
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Y
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_Closeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_QSDD
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_ZeroBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_HEvalTransport
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_ScalarMarginalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_BridgeTheorems_DropBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_RawSecond
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_PaperChainPhaseFive
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_MainChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_PastedFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Centers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooCompletion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_CommutingWithG_Complete
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_GHatFacts
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_StepLemmas_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Lifting
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Chain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_FlatChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_BackChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_TruncatedSums
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Weights
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_BernoulliTail
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_FactBundles
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_StageA0M1
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_HalfSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_FinalMove
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_PaperBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_MatrixChernoff
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_EndpointEquivs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Core_LdGbcon
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_Endpoint
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_PrefixMoved
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_CSSetup
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HBConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HAConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_DegreeZero
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_ErrorAndMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_NonglobalDecomposition
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Operators
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_ProjectiveNonMeasurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_Conversion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_LocalityPreservingRepair
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_RestrictSome
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_DataProcessing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Thresholds_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_InputSdp
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_FiberBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Linearized
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Fourier
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_TraceForms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_CanonicalPrimal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Witness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Saturated
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteConicDuality
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Separation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SdpMatrixBridge
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Foundations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Matrix
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Results
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Averaging
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_AlgebraicIdentity
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_CollisionExpansion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_PointLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_TransportChain_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransportSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_PolynomialSumBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Bracketed
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Selection
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Residual
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_ScalarChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Raw
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Factored
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Variance
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_PostDeleteA
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUPointConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_AddInUFullStatement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_MainError
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_AnswerSlice
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Axis
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Diagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_AnswerValued
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_StageDataConstructors
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_AvgSliceErrors_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_AnswerTheorems
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_SelfImprovement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_PastingAssembly_Successor
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_SchwartzZippelStep
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonProjective
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjRoleAverage_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjUnsymmetrization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceRoleRegister_Completion
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Main
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Reduction
+import Definitions.Def_MIPRE_Background_LIDT_BlockPoly
+import Definitions.Def_MIPRE_Foundations_StrategyDilation
+import Definitions.Def_MIPRE_LCS_Basic
+import Definitions.Def_MIPRE_LCS_Common
+import Definitions.Def_MIPRE_LCS_Measurement
+import Definitions.Def_MIPRE_LCS_Observable
+import Definitions.Def_MIPRE_LCS_Strategy_ObservableToProjector
+import Definitions.Def_MIPRE_LCS_NonlocalGame
+import Definitions.Def_MIPRE_LCS_Pauli
+import Definitions.Def_MIPRE_LCS_MagicSquare_Strategy
+import Definitions.Def_MIPRE_LCS_MagicSquare_Game
+import Definitions.Def_MIPRE_Background_QLD_Game
+import Definitions.Def_MIPRE_Foundations_WeylEPR
+import Definitions.Def_MIPRE_Foundations_Introspection_Types
+import Definitions.Def_MIPRE_Foundations_Introspection_SamplingPrefix
+import Definitions.Def_MIPRE_Foundations_Introspection_TwirlDistance
+import Definitions.Def_MIPRE_Foundations_Introspection_LinearMeasurement
+import Definitions.Def_MIPRE_Foundations_Introspection_CommutatorParseval
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockTwirl
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockPOVM
+import Definitions.Def_MIPRE_Foundations_Introspection_EPR
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockRetention
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliMixing
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterTransport
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterEPR
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterMixing
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterCoordinates
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPredicate
+import Definitions.Def_MIPRE_Foundations_Introspection_Readout
+import Definitions.Def_MIPRE_Foundations_Introspection_FinalExtraction
+import Definitions.Def_MIPRE_Foundations_Introspection_TypeGraph
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestCore
+import Definitions.Def_MIPRE_Foundations_Introspection_ConditionalNormalizer
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestFirstHide
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestAdaptive
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestRead
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestXCoordinates
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingStep
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHiding
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestLabelSupport
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPresentation
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedEstimates
+import Definitions.Def_MIPRE_Foundations_Introspection_HidingRigidity
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingAcceptance
+import Definitions.Def_MIPRE_Foundations_Introspection_HidingMaps
+import Definitions.Def_MIPRE_Foundations_Introspection_ConditionalNormalizerIdeal
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestPauliRegister
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Value
+import Definitions.Def_MIPRE_Foundations_Swap
+import Definitions.Def_MIPRE_Foundations_Introspection_ValueStability
+import Definitions.Def_MIPRE_Foundations_Introspection_IsometricStrategy
+import Definitions.Def_MIPRE_Foundations_Introspection_HidingBaseOperators
+import Definitions.Def_MIPRE_Background_QLD_Win
+import Definitions.Def_MIPRE_Background_QLD_Anticomm
+import Definitions.Def_MIPRE_Background_QLD_WinMS
+import Definitions.Def_MIPRE_Background_Orthonormalization_Orthogonalization_Positivity
+import Definitions.Def_MIPRE_Background_Orthonormalization_Orthogonalization_PhiNorm
+import Definitions.Def_MIPRE_Background_Orthonormalization_Orthogonalization_IsometryData
+import Definitions.Def_MIPRE_Background_Orthonormalization_Orthogonalization_Assembly
+import Definitions.Def_MIPRE_Background_Orthonormalization_Orthogonalization_FinDim_JointDiag
+import Definitions.Def_MIPRE_Background_Orthonormalization_Orthogonalization_FinDim_Blocks
+import Definitions.Def_MIPRE_Background_Orthonormalization_Orthogonalization_FinDim_Main
+import Definitions.Def_MIPRE_Background_QLD_Ortho
+import Definitions.Def_MIPRE_Background_QLD_Consistency
+import Definitions.Def_MIPRE_Background_QLD_Commutation
+import Definitions.Def_MIPRE_Background_QLD_Expanded
+import Definitions.Def_MIPRE_Background_QLD_Swap
+import Definitions.Def_MIPRE_Background_QLD_Combined
+import Definitions.Def_MIPRE_Background_QLD_Lines
+import Definitions.Def_MIPRE_Foundations_Blocks
+import Definitions.Def_MIPRE_Background_QLD_Padded
+import Definitions.Def_MIPRE_Background_QLD_Product
+import Definitions.Def_MIPRE_Background_QLD_Combine
+import Definitions.Def_MIPRE_Background_QLD_Legalize
+import Definitions.Def_MIPRE_Background_QLD_PaddedLines
+import Definitions.Def_MIPRE_Background_QLD_PaddedStrategy
+import Definitions.Def_MIPRE_Background_QLD_Dummy
+import Definitions.Def_MIPRE_Background_QLD_Products
+import Definitions.Def_MIPRE_Background_QLD_Linear
+import Definitions.Def_MIPRE_Background_QLD_Separate
+import Definitions.Def_MIPRE_Background_QLD_Simul
+import Definitions.Def_MIPRE_Background_QLD_Complete
+import Definitions.Def_MIPRE_Background_QLD_PauliBasis
+import Definitions.Def_MIPRE_Background_QLD_Multilinear
+import Definitions.Def_MIPRE_Background_QLD_ExactPauli
+import Definitions.Def_MIPRE_Background_QLD_SwapUnitary
+import Definitions.Def_MIPRE_Background_QLD_MTilde
+import Definitions.Def_MIPRE_Background_QLD_Pulling
+import Definitions.Def_MIPRE_Background_QLD_SwapMeasure
+import Definitions.Def_MIPRE_Background_QLD_PaddedValue
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Registers
+import Definitions.Def_MIPRE_Background_QLD_PaddedLIDT
+import Definitions.Def_MIPRE_Background_QLD_ChainProbe
+import Definitions.Def_MIPRE_Background_QLD_TwoPairs
+import Definitions.Def_MIPRE_Background_QLD_Mirror
+import Definitions.Def_MIPRE_Background_QLD_MirrorExists
+import Definitions.Def_MIPRE_Background_QLD_SwapState
+import Definitions.Def_MIPRE_Background_QLD_Chain
+import Definitions.Def_MIPRE_Background_QLD_ChainAssembly
+import Definitions.Def_MIPRE_Background_QLD_SelfCons
+import Definitions.Def_MIPRE_Background_QLD_SwapItemOne
+import Definitions.Def_MIPRE_Background_QLD_PhysEmbed
+import Definitions.Def_MIPRE_Background_QLD_ErrorShape
+import Definitions.Def_MIPRE_Background_QLD_SwapItemTwo
+import Definitions.Def_MIPRE_Background_QLD_QLDError
+import Definitions.Def_MIPRE_Background_QLD_RegisterForm
+import Theorems.Thm_MIPRE_Introspection_norm_evec_comp_equiv
+import Theorems.Thm_MIPRE_IsPVM_aOp
+import Theorems.Thm_MIPRE_IsPVM_coarse
+import Theorems.Thm_MIPRE_IsPVM_nonneg
+import Theorems.Thm_MIPRE_QLD_MirrorSimul_qform_endState_twirl_ge
+import Theorems.Thm_MIPRE_QLD_MirrorSimul_sum_snorm_sq_aliceConjPauli_le
+import Theorems.Thm_MIPRE_QLD_MirrorSimul_sum_snorm_sq_bob_le
+import Theorems.Thm_MIPRE_QLD_abs_qform_sub_qform_le
+import Theorems.Thm_MIPRE_QLD_bnd_sum_kronecker
+import Theorems.Thm_MIPRE_QLD_exists_auxVec_close
+import Theorems.Thm_MIPRE_QLD_mulVec_outerUnVec_auxVec
+import Theorems.Thm_MIPRE_QLD_sTensor_conjTranspose
+import Theorems.Thm_MIPRE_QLD_sTensor_mul
+import Theorems.Thm_MIPRE_QLD_sTensor_one
+import Theorems.Thm_MIPRE_QLD_sum_snorm_sq_aOp_sub_bOp_le
+import Theorems.Thm_MIPRE_QLD_sum_snorm_sq_sub_eq_two_sub
+import Theorems.Thm_MIPRE_Weyl_epr_unit
+import Theorems.Thm_MIPRE_Weyl_proj_mul_proj
+import Theorems.Thm_MIPRE_Weyl_stateVec_epr
+import Theorems.Thm_MIPRE_Weyl_sum_proj
+import Theorems.Thm_MIPRE_aOp_sub
+import Theorems.Thm_MIPRE_bornProb_swapVec
+import Theorems.Thm_MIPRE_norm_evec_expVec
+import Theorems.Thm_MIPRE_star_sgn
+
+/-! Helper declarations, pasted verbatim from the source modules with their
+namespace and `open` context, each used only by proofs, interleaved with the
+attribute commands of those modules at their source positions. -/
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+omit [Fintype N] in
+theorem evec_sub (v w : N → ℂ) : evec (v - w) = evec v - evec w := rfl
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+/-- The sesquilinear form of two matrices applied to the same vector, moved onto one side:
+`⟨A v, B v⟩ = ⟨v, A† B v⟩`. -/
+theorem star_mulVec_dotProduct {M : Type*} [Fintype M] (A B : Matrix M N ℂ) (v : N → ℂ) :
+    star (A *ᵥ v) ⬝ᵥ (B *ᵥ v) = star v ⬝ᵥ ((Aᴴ * B) *ᵥ v) := by
+  rw [Matrix.star_mulVec, ← Matrix.mulVec_mulVec, ← Matrix.dotProduct_mulVec]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+theorem norm_evec_sq (v : N → ℂ) : ‖evec v‖ ^ 2 = (star v ⬝ᵥ v).re := by
+  classical
+  rw [evec, EuclideanSpace.norm_eq, Real.sq_sqrt (Finset.sum_nonneg fun _ _ => sq_nonneg _),
+    dotProduct, Complex.re_sum]
+  refine Finset.sum_congr rfl fun i _ => ?_
+  have h : star v i * v i = ((‖v i‖ ^ 2 : ℝ) : ℂ) := by
+    rw [Pi.star_apply, RCLike.star_def, RCLike.conj_mul]
+    norm_cast
+  rw [h, Complex.ofReal_re]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+theorem norm_evec_mulVec_sq {M : Type*} [Fintype M] (A : Matrix M N ℂ) (v : N → ℂ) :
+    ‖evec (A *ᵥ v)‖ ^ 2 = (star v ⬝ᵥ ((Aᴴ * A) *ᵥ v)).re := by
+  rw [norm_evec_sq, star_mulVec_dotProduct]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+/-- **A rectangular isometry preserves the norm.** -/
+theorem norm_evec_mulVec_eq {M : Type*} [Fintype M] {A : Matrix M N ℂ} [DecidableEq N]
+    (h : Aᴴ * A = 1) (v : N → ℂ) : ‖evec (A *ᵥ v)‖ = ‖evec v‖ := by
+  have hsq : ‖evec (A *ᵥ v)‖ ^ 2 = ‖evec v‖ ^ 2 := by
+    rw [norm_evec_mulVec_sq, h, Matrix.one_mulVec, norm_evec_sq]
+  nlinarith [norm_nonneg (evec (A *ᵥ v)), norm_nonneg (evec v), hsq]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+variable (v : N → ℂ)
+theorem qform_add (M M' : Matrix N N ℂ) : qform v (M + M') = qform v M + qform v M' := by
+  rw [qform, qform, qform, Matrix.add_mulVec, dotProduct_add, Complex.add_re]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+variable (v : N → ℂ)
+theorem qform_sum {ι : Type*} (s : Finset ι) (f : ι → Matrix N N ℂ) :
+    qform v (∑ i ∈ s, f i) = ∑ i ∈ s, qform v (f i) := by
+  classical
+  induction s using Finset.induction with
+  | empty => simp [qform]
+  | insert i s hi ih => rw [Finset.sum_insert hi, qform_add, ih, Finset.sum_insert hi]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_mul (X Y : Matrix HB HB ℂ) :
+    bOp (X * Y) = (bOp X : Matrix (HA × HB) _ ℂ) * bOp Y := by
+  rw [bOp, bOp, bOp, ← Matrix.mul_kronecker_mul, Matrix.one_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_add (X Y : Matrix HB HB ℂ) :
+    bOp (X + Y) = (bOp X : Matrix (HA × HB) _ ℂ) + bOp Y := Matrix.kronecker_add _ _ _
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_smul (c : ℂ) (X : Matrix HB HB ℂ) :
+    bOp (c • X) = c • (bOp X : Matrix (HA × HB) _ ℂ) := Matrix.kronecker_smul _ _ _
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_sub (X Y : Matrix HB HB ℂ) :
+    bOp (X - Y) = (bOp X : Matrix (HA × HB) _ ℂ) - bOp Y := by
+  have h : X - Y = X + (-1 : ℂ) • Y := by module
+  rw [h, bOp_add, bOp_smul]
+  module
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_conjTranspose (X : Matrix HB HB ℂ) :
+    (bOp X : Matrix (HA × HB) _ ℂ)ᴴ = bOp (Xᴴ) := by
+  rw [bOp, bOp, Matrix.conjTranspose_kronecker, Matrix.conjTranspose_one]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X Y A B C dA dB : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+  [Fintype C] [DecidableEq C] [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {G : Game X Y A B} {ψ : dA × dB → ℂ} {MA : X → POVM A dA} {MB : Y → POVM B dB}
+variable {ε : ℝ}
+variable {ψ : dA × dB → ℂ}
+omit [DecidableEq dA] [DecidableEq dB] in
+theorem mulVec_kronecker_swapVec (X : Matrix dB dB ℂ) (Y : Matrix dA dA ℂ)
+    (ψ : dA × dB → ℂ) :
+    (X ⊗ₖ Y) *ᵥ swapVec ψ = swapVec ((Y ⊗ₖ X) *ᵥ ψ) := by
+  classical
+  funext p
+  obtain ⟨j, i⟩ := p
+  show ∑ q : dB × dA, (X ⊗ₖ Y) (j, i) q * swapVec ψ q
+      = ∑ q : dA × dB, (Y ⊗ₖ X) (i, j) q * ψ q
+  rw [Fintype.sum_prod_type, Fintype.sum_prod_type, Finset.sum_comm]
+  refine Finset.sum_congr rfl fun i' _ => Finset.sum_congr rfl fun j' _ => ?_
+  show X j j' * Y i i' * ψ (i', j') = Y i i' * X j j' * ψ (i', j')
+  ring
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X Y A B C dA dB : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+  [Fintype C] [DecidableEq C] [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {G : Game X Y A B} {ψ : dA × dB → ℂ} {MA : X → POVM A dA} {MB : Y → POVM B dB}
+variable {ε : ℝ}
+variable {ψ : dA × dB → ℂ}
+omit [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB] in
+theorem swapVec_sub (u v : dA × dB → ℂ) :
+    swapVec (u - v) = swapVec u - swapVec v := rfl
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X Y A B C dA dB : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+  [Fintype C] [DecidableEq C] [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {G : Game X Y A B} {ψ : dA × dB → ℂ} {MA : X → POVM A dA} {MB : Y → POVM B dB}
+variable {ε : ℝ}
+variable {ψ : dA × dB → ℂ}
+omit [DecidableEq dA] [DecidableEq dB] in
+theorem norm_swapVec (v : dA × dB → ℂ) : ‖evec (swapVec v)‖ = ‖evec v‖ := by
+  classical
+  rw [evec, evec, EuclideanSpace.norm_eq, EuclideanSpace.norm_eq]
+  congr 1
+  exact Fintype.sum_equiv (Equiv.prodComm dB dA) _ _ fun _ => rfl
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem bOp_sum {ι : Type*} (s : Finset ι) (f : ι → Matrix dB dB ℂ) :
+    bOp (∑ i ∈ s, f i) = ∑ i ∈ s, (bOp (f i) : Matrix (dA × dB) _ ℂ) := by
+  classical
+  induction s using Finset.induction with
+  | empty => rw [Finset.sum_empty, Finset.sum_empty, bOp, Matrix.kronecker_zero]
+  | insert i s hi ih => rw [Finset.sum_insert hi, bOp_add, ih, Finset.sum_insert hi]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix
+open scoped ComplexOrder Kronecker MatrixOrder
+/-- Pulling a Born-rule expectation back along a linear map `W` conjugates the observable:
+`⟨Wv| M |Wv⟩ = ⟨v| Wᴴ M W |v⟩`. With `W` an isometry and `M` a projection this is how a
+dilated projective measurement compresses back to the POVM it came from. -/
+theorem dotProduct_mulVec_conj {ι κ : Type*} [Fintype ι] [Fintype κ]
+    (W : Matrix κ ι ℂ) (M : Matrix κ κ ℂ) (v : ι → ℂ) :
+    star (W *ᵥ v) ⬝ᵥ (M *ᵥ (W *ᵥ v)) = star v ⬝ᵥ ((Wᴴ * (M * W)) *ᵥ v) := by
+  rw [Matrix.mulVec_mulVec, Matrix.star_mulVec, ← Matrix.dotProduct_mulVec,
+    Matrix.mulVec_mulVec]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {dA dB anc anc' : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  [Fintype anc] [DecidableEq anc] [Fintype anc'] [DecidableEq anc']
+/-- A product of sums as a sum over the product. -/
+theorem sum_prod_mul {X Y M : Type*} [Fintype X] [Fintype Y] [CommRing M] (f : X → M)
+    (g : Y → M) : ∑ q : X × Y, f q.1 * g q.2 = (∑ x, f x) * ∑ y, g y := by
+  rw [Finset.sum_mul_sum, Fintype.sum_prod_type]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {dA dB anc anc' : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  [Fintype anc] [DecidableEq anc] [Fintype anc'] [DecidableEq anc']
+/-- The expanded state's norm splits, so it is a unit vector when both factors are. -/
+theorem expVec_dotProduct (ψ : dA × dB → ℂ) (e : anc × anc' → ℂ) :
+    star (expVec ψ e) ⬝ᵥ expVec ψ e = (star ψ ⬝ᵥ ψ) * (star e ⬝ᵥ e) := by
+  classical
+  rw [dotProduct, dotProduct, dotProduct, ← sum_prod_mul]
+  refine Fintype.sum_equiv (expEquiv dA dB anc anc') _ _ fun p => ?_
+  obtain ⟨⟨a, x⟩, ⟨b, y⟩⟩ := p
+  simp only [expEquiv, Equiv.coe_fn_mk, Pi.star_apply, expVec, star_mul']
+  ring
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {dA dB anc anc' : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  [Fintype anc] [DecidableEq anc] [Fintype anc'] [DecidableEq anc']
+theorem expVec_unit {ψ : dA × dB → ℂ} {e : anc × anc' → ℂ} (hψ : star ψ ⬝ᵥ ψ = 1)
+    (he : star e ⬝ᵥ e = 1) : star (expVec ψ e) ⬝ᵥ expVec ψ e = 1 := by
+  rw [expVec_dotProduct, hψ, he, mul_one]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {dA dB anc anc' : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  [Fintype anc] [DecidableEq anc] [Fintype anc'] [DecidableEq anc']
+/-- **A coarse-graining of a projective POVM is projective**, in the `POVM.map` form the games
+use. -/
+theorem isPVM_povm_map {A B : Type*} [Fintype A] [DecidableEq A] [Fintype B] [DecidableEq B]
+    (M : POVM A dA) (h : IsPVM fun a => ((M.mats a).val)) (f : A → B) :
+    IsPVM fun b => (((M.map f).mats b).val) := by
+  have hval : ∀ b : B, (((M.map f).mats b).val)
+      = ∑ a ∈ Finset.univ.filter fun a => f a = b, ((M.mats a).val) := fun b =>
+    AddSubmonoidClass.coe_finsetSum _ _
+  simpa only [hval] using h.coarse f
+end
+end MIPRE
+
+namespace MIPRE.Weyl
+noncomputable section
+open Finset Matrix
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+/-- The defining Fourier average, as a rewrite. -/
+theorem proj_def (w : (n → F) → Matrix (n → F) (n → F) ℂ) (e : n → F) :
+    proj w e = (Fintype.card (n → F) : ℂ)⁻¹ • ∑ a : n → F, sgn (trDot a e) • w a := rfl
+end
+end MIPRE.Weyl
+
+namespace MIPRE.Weyl
+noncomputable section
+open Finset Matrix
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {w : (n → F) → Matrix (n → F) (n → F) ℂ}
+/-- The projectors are self-adjoint. -/
+theorem proj_conjTranspose (hw : IsWeylFamily w) (e : n → F) : (proj w e)ᴴ = proj w e := by
+  classical
+  rw [proj_def w e, Matrix.conjTranspose_smul, Matrix.conjTranspose_sum,
+    Finset.sum_congr rfl fun a (_ : a ∈ univ) => by
+      rw [Matrix.conjTranspose_smul, hw.selfAdjoint a, star_sgn]]
+  congr 1
+  simp
+end
+end MIPRE.Weyl
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+/-- **A projection is bounded by the identity.** -/
+theorem proj_le_one {P : Matrix N N ℂ} (hsa : Pᴴ = P) (hidem : P * P = P) :
+    P ≤ (1 : Matrix N N ℂ) := by
+  refine sub_nonneg.mp (Matrix.nonneg_iff_posSemidef.mpr ?_)
+  have h : (1 : Matrix N N ℂ) - P = ((1 : Matrix N N ℂ) - P)ᴴ * ((1 : Matrix N N ℂ) - P) := by
+    rw [Matrix.conjTranspose_sub, Matrix.conjTranspose_one, hsa, Matrix.sub_mul, Matrix.mul_sub,
+      Matrix.mul_sub, Matrix.one_mul, Matrix.mul_one, Matrix.one_mul, hidem]
+    abel
+  rw [h]
+  exact Matrix.posSemidef_conjTranspose_mul_self _
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem aOp_mul_bOp_eq (U : Matrix dA dA ℂ) (V : Matrix dB dB ℂ) :
+    (aOp U : Matrix (dA × dB) _ ℂ) * bOp V = U ⊗ₖ V := by
+  rw [aOp, bOp, ← Matrix.mul_kronecker_mul, Matrix.mul_one, Matrix.one_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem bornProb_eq_qform (ψ : dA × dB → ℂ) (U : Matrix dA dA ℂ) (V : Matrix dB dB ℂ) :
+    bornProb ψ U V = qform ψ ((aOp U : Matrix (dA × dB) _ ℂ) * bOp V) := by
+  rw [aOp_mul_bOp_eq, bornProb, qform]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem aOp_bOp_mul_aOp_bOp (U U' : Matrix dA dA ℂ) (V V' : Matrix dB dB ℂ) :
+    ((aOp U : Matrix (dA × dB) _ ℂ) * bOp V) * ((aOp U' : Matrix (dA × dB) _ ℂ) * bOp V')
+      = (aOp (U * U') : Matrix (dA × dB) _ ℂ) * bOp (V * V') := by
+  rw [aOp_mul_bOp_eq, aOp_mul_bOp_eq, aOp_mul_bOp_eq, ← Matrix.mul_kronecker_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem aOp_bOp_conjTranspose (U : Matrix dA dA ℂ) (V : Matrix dB dB ℂ) :
+    ((aOp U : Matrix (dA × dB) _ ℂ) * bOp V)ᴴ
+      = (aOp (Uᴴ) : Matrix (dA × dB) _ ℂ) * bOp (Vᴴ) := by
+  rw [aOp_mul_bOp_eq, aOp_mul_bOp_eq, Matrix.conjTranspose_kronecker]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {R1 R2 : Type*} [Fintype R1] [DecidableEq R1] [Fintype R2] [DecidableEq R2]
+theorem IsPVM.bOp {ι : Type*} [Fintype ι] {Q : ι → Matrix dB dB ℂ} (h : IsPVM Q) :
+    IsPVM fun i => (bOp (Q i) : Matrix (dA × dB) (dA × dB) ℂ) where
+  isSelfAdjoint i := by rw [bOp_conjTranspose, h.isSelfAdjoint]
+  idem i := by rw [← bOp_mul, h.idem]
+  sum_eq_one := by rw [← bOp_sum, h.sum_eq_one, bOp_one]
+end
+end MIPRE
+
+namespace MIPRE.Weyl
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+/-- The same for the spectral projectors of either family, which are built from the operators by
+a real Fourier average and are therefore symmetric too. -/
+theorem stateVec_epr_proj {w : (n → F) → Matrix (n → F) (n → F) ℂ}
+    (hw : ∀ a, (w a)ᵀ = w a) (e : n → F) :
+    stateVec (epr (F := F) (n := n)) (proj w e) = stateVecB epr (proj w e) := by
+  rw [stateVec_epr]
+  congr 1
+  rw [proj_def, Matrix.transpose_smul, Matrix.transpose_sum]
+  congr 1
+  exact Finset.sum_congr rfl fun a _ => by rw [Matrix.transpose_smul, hw a]
+end
+end MIPRE.Weyl
+
+namespace MIPRE.Introspection
+noncomputable section
+open Finset Matrix Classical
+open scoped Kronecker
+set_option linter.unusedSectionVars false
+variable {I J R H K : Type*}
+  [Fintype I] [DecidableEq I] [Fintype J] [DecidableEq J]
+  [Fintype R] [DecidableEq R] [Fintype H] [DecidableEq H]
+  [Fintype K] [DecidableEq K]
+/-- The finite-basis EPR definition agrees literally with the Weyl-register definition. -/
+theorem registerEPR_eq_weyl {F : Type*} [Field F] [Fintype F] [DecidableEq F]
+    [Algebra (ZMod 2) F] {ι : Type*} [Fintype ι] [DecidableEq ι] :
+    registerEPR (ι → F) = Weyl.epr (F := F) (n := ι) := rfl
+end
+end MIPRE.Introspection
+
+namespace MIPRE.Introspection
+noncomputable section
+open Finset Matrix Classical
+open scoped Kronecker
+set_option linter.unusedSectionVars false
+variable {I J R H K : Type*}
+  [Fintype I] [DecidableEq I] [Fintype J] [DecidableEq J]
+  [Fintype R] [DecidableEq R] [Fintype H] [DecidableEq H]
+  [Fintype K] [DecidableEq K]
+/-- Unit normalization for a nonempty finite EPR basis. -/
+theorem registerEPR_norm [Nonempty I] : ‖evec (registerEPR I)‖ = 1 := by
+  have hc : (0 : ℝ) < Fintype.card I := by exact_mod_cast Fintype.card_pos
+  have hs : Real.sqrt (Fintype.card I) ≠ 0 := ne_of_gt (Real.sqrt_pos.mpr hc)
+  rw [evec, EuclideanSpace.norm_eq]
+  simp only [registerEPR, Fintype.sum_prod_type]
+  simp only [apply_ite norm, norm_zero, zero_pow (by decide : 2 ≠ 0),
+    ite_pow, Finset.sum_ite_eq, Finset.mem_univ, if_true, Finset.sum_const,
+    Finset.card_univ, nsmul_eq_mul, Complex.norm_real, Real.norm_eq_abs,
+    abs_inv, abs_of_nonneg (Real.sqrt_nonneg _), inv_pow, Real.sq_sqrt hc.le]
+  rw [mul_inv_cancel₀ hc.ne', Real.sqrt_one]
+end
+end MIPRE.Introspection
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl MIPRE.LowDegree MIPRE.LIDT
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem weylOf_transpose (W : Bas) (a : Anc F m) : (weylOf W a)ᵀ = weylOf W a := by
+  cases W
+  · exact wX_transpose a
+  · exact wZ_transpose a
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {G : Type*} [Fintype G] [DecidableEq G]
+variable {dA : Type*} [Fintype dA] [DecidableEq dA]
+theorem uOf_conjTranspose (cd : G → (n → F)) (p : G × G) :
+    (uOf cd p)ᴴ = wZ (cd p.1) * wX (cd p.2) := by
+  rw [uOf, Matrix.conjTranspose_mul, wX_conjTranspose, wZ_conjTranspose]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {G : Type*} [Fintype G] [DecidableEq G]
+variable {dA : Type*} [Fintype dA] [DecidableEq dA]
+theorem uOf_mul_conjTranspose (cd : G → (n → F)) (p : G × G) :
+    uOf cd p * (uOf cd p)ᴴ = 1 := by
+  rw [uOf_conjTranspose, uOf]
+  calc wX (cd p.2) * wZ (cd p.1) * (wZ (cd p.1) * wX (cd p.2))
+      = wX (cd p.2) * (wZ (cd p.1) * wZ (cd p.1)) * wX (cd p.2) := by noncomm_ring
+    _ = 1 := by
+        rw [wZ_mul_wZ, add_self_vec, wZ_zero, Matrix.mul_one, wX_mul_wX, add_self_vec, wX_zero]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {G : Type*} [Fintype G] [DecidableEq G]
+variable {dA : Type*} [Fintype dA] [DecidableEq dA]
+theorem uOf_conjTranspose_mul (cd : G → (n → F)) (p : G × G) :
+    (uOf cd p)ᴴ * uOf cd p = 1 := by
+  rw [uOf_conjTranspose, uOf]
+  calc wZ (cd p.1) * wX (cd p.2) * (wX (cd p.2) * wZ (cd p.1))
+      = wZ (cd p.1) * (wX (cd p.2) * wX (cd p.2)) * wZ (cd p.1) := by noncomm_ring
+    _ = 1 := by
+        rw [wX_mul_wX, add_self_vec, wX_zero, Matrix.mul_one, wZ_mul_wZ, add_self_vec, wZ_zero]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {G : Type*} [Fintype G] [DecidableEq G]
+variable {dA : Type*} [Fintype dA] [DecidableEq dA]
+variable {S : G × G → Matrix dA dA ℂ} {cd : G → (n → F)}
+/-- **The swap map is unitary.** -/
+theorem swapU_mul_conjTranspose (hS : IsPVM S) : swapU S cd * (swapU S cd)ᴴ = 1 := by
+  rw [swapU, sTensor_conjTranspose hS, sTensor_mul hS,
+    show (fun p => uOf cd p * (uOf cd p)ᴴ) = fun _ => (1 : Matrix (n → F) (n → F) ℂ) from
+      funext fun p => uOf_mul_conjTranspose cd p,
+    sTensor_one hS]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {G : Type*} [Fintype G] [DecidableEq G]
+variable {dA : Type*} [Fintype dA] [DecidableEq dA]
+variable {S : G × G → Matrix dA dA ℂ} {cd : G → (n → F)}
+theorem swapU_conjTranspose_mul (hS : IsPVM S) : (swapU S cd)ᴴ * swapU S cd = 1 := by
+  rw [swapU, sTensor_conjTranspose hS, sTensor_mul hS,
+    show (fun p => (uOf cd p)ᴴ * uOf cd p) = fun _ => (1 : Matrix (n → F) (n → F) ℂ) from
+      funext fun p => uOf_conjTranspose_mul cd p,
+    sTensor_one hS]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD.SimulPair
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+open MIPRE.LIDT MIPRE.LowDegree
+set_option linter.unusedSectionVars false
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {G : Type*} [Fintype G] [DecidableEq G]
+variable {dA : Type*} [Fintype dA] [DecidableEq dA]
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (P : SimulPair ψ MA MB δ)
+theorem swapA_mul_conjTranspose : P.swapA * P.swapAᴴ = 1 :=
+  swapU_mul_conjTranspose P.SA_proj
+end
+end MIPRE.QLD.SimulPair
+
+namespace MIPRE.QLD.SimulPair
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+open MIPRE.LIDT MIPRE.LowDegree
+set_option linter.unusedSectionVars false
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+variable {n : Type*} [Fintype n] [DecidableEq n]
+variable {G : Type*} [Fintype G] [DecidableEq G]
+variable {dA : Type*} [Fintype dA] [DecidableEq dA]
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (P : SimulPair ψ MA MB δ)
+theorem swapA_conjTranspose_mul : P.swapAᴴ * P.swapA = 1 :=
+  swapU_conjTranspose_mul P.SA_proj
+end
+end MIPRE.QLD.SimulPair
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {H K R S : Type*} [Fintype H] [Fintype K] [Fintype R] [Fintype S]
+/-- **A Born probability of a state pushed through local maps is the Born probability of the
+compressed operators.** `<(U ⊗ W) ψ| X ⊗ Y |(U ⊗ W) ψ> = <ψ| U^† X U ⊗ W^† Y W |ψ>`, for
+rectangular `U` and `W`. With `U` an isometry and `X` a dilated POVM element this is the Naimark
+identity the descent runs on: a pairing against *any* operator on the other side is carried
+verbatim from the dilation to the POVM. -/
+theorem bornProb_kronecker_mulVec (U : Matrix R H ℂ) (W : Matrix S K ℂ) (ψ : H × K → ℂ)
+    (X : Matrix R R ℂ) (Y : Matrix S S ℂ) :
+    bornProb ((U ⊗ₖ W) *ᵥ ψ) X Y = bornProb ψ (Uᴴ * X * U) (Wᴴ * Y * W) := by
+  rw [bornProb, bornProb, dotProduct_mulVec_conj, Matrix.conjTranspose_kronecker,
+    ← Matrix.mul_kronecker_mul, ← Matrix.mul_kronecker_mul, Matrix.mul_assoc, Matrix.mul_assoc]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {H K R S : Type*} [Fintype H] [Fintype K] [Fintype R] [Fintype S]
+variable [DecidableEq H] [DecidableEq K]
+omit [Fintype K] [Fintype S] [DecidableEq K] in
+/-- An isometry compresses its own conjugate back: `U^† (U A U^†) U = A`. -/
+theorem conjTranspose_mul_conj_mul {U : Matrix R H ℂ} (hU : Uᴴ * U = 1) (A : Matrix H H ℂ) :
+    Uᴴ * (U * A * Uᴴ) * U = A := by
+  rw [← Matrix.mul_assoc, ← Matrix.mul_assoc, hU, Matrix.one_mul, Matrix.mul_assoc, hU,
+    Matrix.mul_one]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {H K R S : Type*} [Fintype H] [Fintype K] [Fintype R] [Fintype S]
+variable [DecidableEq H] [DecidableEq K]
+omit [DecidableEq K] in
+/-- **Alice's family conjugated by her isometry pairs on the pushed-forward state as the family
+itself on the original state.** -/
+theorem bornProb_kronecker_mulVec_conj_left {U : Matrix R H ℂ} (hU : Uᴴ * U = 1)
+    (W : Matrix S K ℂ) (ψ : H × K → ℂ) (A : Matrix H H ℂ) (Y : Matrix S S ℂ) :
+    bornProb ((U ⊗ₖ W) *ᵥ ψ) (U * A * Uᴴ) Y = bornProb ψ A (Wᴴ * Y * W) := by
+  rw [bornProb_kronecker_mulVec, conjTranspose_mul_conj_mul hU]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {H K R S : Type*} [Fintype H] [Fintype K] [Fintype R] [Fintype S]
+variable [DecidableEq H] [DecidableEq K]
+omit [DecidableEq H] in
+/-- **...and Bob's likewise.** -/
+theorem bornProb_kronecker_mulVec_conj_right (U : Matrix R H ℂ) {W : Matrix S K ℂ}
+    (hW : Wᴴ * W = 1) (ψ : H × K → ℂ) (Y : Matrix R R ℂ) (B : Matrix K K ℂ) :
+    bornProb ((U ⊗ₖ W) *ᵥ ψ) Y (W * B * Wᴴ) = bornProb ψ (Uᴴ * Y * U) B := by
+  rw [bornProb_kronecker_mulVec, conjTranspose_mul_conj_mul hW]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {H K R S : Type*} [Fintype H] [Fintype K] [Fintype R] [Fintype S]
+variable [DecidableEq H] [DecidableEq K]
+omit [Fintype K] [Fintype S] [DecidableEq K] in
+/-- **Conjugating a POVM by an isometry gives a sub-POVM**: each element stays positive, and the
+elements sum to `U U^†`, a projection, hence at most the identity. -/
+theorem conj_isometry_subPOVM {Λ : Type*} [Fintype Λ] [DecidableEq R] {U : Matrix R H ℂ}
+    (hU : Uᴴ * U = 1) {A : Λ → Matrix H H ℂ} (hA0 : ∀ h, 0 ≤ A h) (hA1 : ∑ h, A h = 1) :
+    (∀ h, 0 ≤ U * A h * Uᴴ) ∧ ∑ h, U * A h * Uᴴ ≤ 1 := by
+  refine ⟨fun h => Matrix.nonneg_iff_posSemidef.mpr
+    ((Matrix.nonneg_iff_posSemidef.mp (hA0 h)).mul_mul_conjTranspose_same U), ?_⟩
+  rw [← Matrix.sum_mul, ← Matrix.mul_sum, hA1, Matrix.mul_one]
+  refine proj_le_one (by rw [Matrix.conjTranspose_mul, Matrix.conjTranspose_conjTranspose]) ?_
+  rw [Matrix.mul_assoc, ← Matrix.mul_assoc Uᴴ, hU, Matrix.one_mul]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+/-- **Closeness and agreement determine each other, for two projective measurements.** The
+equality case of `sum_snorm_sq_aOp_sub_bOp_le`: both diagonal sums are exactly one. -/
+theorem sum_snorm_sq_aOp_sub_bOp_eq [DecidableEq Λ] {v : N × K → ℂ} (hv : ‖evec v‖ = 1)
+    {X : Λ → Matrix N N ℂ} (hX : IsPVM X) {T : Λ → Matrix K K ℂ} (hT : IsPVM T) :
+    ∑ h, snorm v ((aOp (X h) : Matrix (N × K) (N × K) ℂ) - bOp (T h)) ^ 2
+      = 2 - 2 * ∑ h, bornProb v (X h) (T h) := by
+  rw [sum_snorm_sq_sub_eq_two_sub hv hX.aOp hT.bOp]
+  simp only [bornProb_eq_qform]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+/-- **Moving an agreement to a nearby state costs twice the distance.** The agreement is the
+quadratic form of the pairing operator, which is a contraction (`bnd_sum_kronecker`). -/
+theorem abs_sum_bornProb_sub_le {v w : N × K → ℂ} (hv : ‖evec v‖ ≤ 1) (hw : ‖evec w‖ ≤ 1)
+    {X : Λ → Matrix N N ℂ} (hX0 : ∀ h, 0 ≤ X h) (hX1 : ∑ h, X h ≤ 1)
+    {T : Λ → Matrix K K ℂ} (hT : IsPVM T) :
+    |∑ h, bornProb v (X h) (T h) - ∑ h, bornProb w (X h) (T h)| ≤ 2 * ‖evec (v - w)‖ := by
+  have hq : ∀ u : N × K → ℂ, ∑ h, bornProb u (X h) (T h) = qform u (∑ h, X h ⊗ₖ T h) :=
+    fun u => by rw [qform_sum]; rfl
+  rw [hq v, hq w]
+  have := abs_qform_sub_qform_le v w zero_le_one (bnd_sum_kronecker hX0 hX1 hT) hv hw
+  rwa [mul_one] at this
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+/-- **On a state where `tau_h` on Alice's side acts as `T_h` on Bob's, a one-party deviation from
+`tau_h` is the cross-party deviation from `T_h`.** -/
+theorem snorm_aOp_sub_aOp_eq_of_move {Δ : N × K → ℂ} {τ : Matrix N N ℂ} {T : Matrix K K ℂ}
+    (hmove : (aOp τ : Matrix (N × K) (N × K) ℂ) *ᵥ Δ = bOp T *ᵥ Δ) (A : Matrix N N ℂ) :
+    snorm Δ ((aOp A : Matrix (N × K) (N × K) ℂ) - aOp τ)
+      = snorm Δ ((aOp A : Matrix (N × K) (N × K) ℂ) - bOp T) := by
+  rw [snorm, snorm, Matrix.sub_mulVec, Matrix.sub_mulVec, hmove]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+/-- **The descent, Alice's half.** Let `Δ` be a unit state on which `tau_h` on Alice's side acts
+as the projective `T_h` on Bob's (`hmove`), and on which the projective family `C` is within `c`
+of `tau`. Let `Γ` be a state within `r` of `Δ` on which a sub-POVM `X` agrees with `T` at least
+as well as `C` does (`hagree`). Then `X` is within `c + 8 r` of `tau` on `Δ`.
+
+Closeness of `C` is agreement with `T` on `Δ` (exactly, both being projective); it moves to `Γ`
+at cost `2 r`; `hagree` passes it to `X`; it moves back at cost `2 r`; and agreement of the
+sub-POVM `X` with the projective `T` is closeness, at twice the deficit. -/
+theorem sum_snorm_sq_descent_aOp [DecidableEq Λ] {Δ Γ : N × K → ℂ} (hΔ : ‖evec Δ‖ = 1)
+    (hΓ : ‖evec Γ‖ ≤ 1) {r : ℝ} (hr : ‖evec (Γ - Δ)‖ ≤ r) {C X τ : Λ → Matrix N N ℂ} (hC : IsPVM C)
+    (hX0 : ∀ h, 0 ≤ X h) (hX1 : ∑ h, X h ≤ 1) {T : Λ → Matrix K K ℂ} (hT : IsPVM T)
+    (hmove : ∀ h, (aOp (τ h) : Matrix (N × K) (N × K) ℂ) *ᵥ Δ = bOp (T h) *ᵥ Δ)
+    (hagree : ∑ h, bornProb Γ (C h) (T h) ≤ ∑ h, bornProb Γ (X h) (T h))
+    {c : ℝ} (hc : ∑ h, snorm Δ ((aOp (C h) : Matrix (N × K) (N × K) ℂ) - aOp (τ h)) ^ 2 ≤ c) :
+    ∑ h, snorm Δ ((aOp (X h) : Matrix (N × K) (N × K) ℂ) - aOp (τ h)) ^ 2 ≤ c + 8 * r := by
+  simp only [snorm_aOp_sub_aOp_eq_of_move (hmove _)] at hc ⊢
+  rw [sum_snorm_sq_aOp_sub_bOp_eq hΔ hC hT] at hc
+  have hd : ‖evec (Δ - Γ)‖ ≤ r := by rwa [evec_sub, norm_sub_rev, ← evec_sub]
+  have hCΓ := abs_le.mp (abs_sum_bornProb_sub_le hΔ.le hΓ hC.nonneg hC.sum_eq_one.le hT)
+  have hXΓ := abs_le.mp (abs_sum_bornProb_sub_le hΔ.le hΓ hX0 hX1 hT)
+  have hX := sum_snorm_sq_aOp_sub_bOp_le hΔ hX0 hX1 hT
+  linarith [hCΓ.1, hCΓ.2, hXΓ.1, hXΓ.2]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+omit [DecidableEq N] in
+/-- Bob's one-party deviation is Alice's on the swapped state. -/
+theorem snorm_swapVec_aOp_sub_aOp (Δ : K × N → ℂ) (A B : Matrix N N ℂ) :
+    snorm (swapVec Δ) ((aOp A : Matrix (N × K) (N × K) ℂ) - aOp B)
+      = snorm Δ ((bOp A : Matrix (K × N) (K × N) ℂ) - bOp B) := by
+  rw [snorm, snorm, Matrix.sub_mulVec, Matrix.sub_mulVec, aOp, aOp, mulVec_kronecker_swapVec,
+    mulVec_kronecker_swapVec, ← swapVec_sub, norm_swapVec, bOp, bOp]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+/-- **The descent, Bob's half.** `sum_snorm_sq_descent_aOp` on the swapped state: the swap
+exchanges the two factors of every Kronecker product (`mulVec_kronecker_swapVec`) and of every
+Born probability (`bornProb_swapVec`), and preserves norms. -/
+theorem sum_snorm_sq_descent_bOp [DecidableEq Λ] {Δ Γ : K × N → ℂ} (hΔ : ‖evec Δ‖ = 1)
+    (hΓ : ‖evec Γ‖ ≤ 1) {r : ℝ} (hr : ‖evec (Γ - Δ)‖ ≤ r) {C X τ : Λ → Matrix N N ℂ} (hC : IsPVM C)
+    (hX0 : ∀ h, 0 ≤ X h) (hX1 : ∑ h, X h ≤ 1) {T : Λ → Matrix K K ℂ} (hT : IsPVM T)
+    (hmove : ∀ h, (bOp (τ h) : Matrix (K × N) (K × N) ℂ) *ᵥ Δ = aOp (T h) *ᵥ Δ)
+    (hagree : ∑ h, bornProb Γ (T h) (C h) ≤ ∑ h, bornProb Γ (T h) (X h))
+    {c : ℝ} (hc : ∑ h, snorm Δ ((bOp (C h) : Matrix (K × N) (K × N) ℂ) - bOp (τ h)) ^ 2 ≤ c) :
+    ∑ h, snorm Δ ((bOp (X h) : Matrix (K × N) (K × N) ℂ) - bOp (τ h)) ^ 2 ≤ c + 8 * r := by
+  simp only [← snorm_swapVec_aOp_sub_aOp] at hc ⊢
+  refine sum_snorm_sq_descent_aOp ((norm_swapVec Δ).trans hΔ) ((norm_swapVec Γ).trans_le hΓ)
+    (by rw [← swapVec_sub, norm_swapVec]; exact hr) hC hX0 hX1 hT (fun h => ?_) ?_ hc
+  · rw [aOp, bOp, mulVec_kronecker_swapVec, mulVec_kronecker_swapVec]
+    exact congrArg swapVec (hmove h)
+  · simpa only [bornProb_swapVec] using hagree
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+omit [DecidableEq N] [DecidableEq K] in
+/-- A pair of local isometries preserves the norm of the state. -/
+theorem norm_evec_kronecker_mulVec {H H' : Type*} [Fintype H] [DecidableEq H] [Fintype H']
+    [DecidableEq H'] {UA : Matrix N H ℂ} {UB : Matrix K H' ℂ} (hUA : UAᴴ * UA = 1)
+    (hUB : UBᴴ * UB = 1) (ψ : H × H' → ℂ) : ‖evec ((UA ⊗ₖ UB) *ᵥ ψ)‖ = ‖evec ψ‖ :=
+  norm_evec_mulVec_eq (by rw [Matrix.conjTranspose_kronecker, ← Matrix.mul_kronecker_mul, hUA,
+    hUB, Matrix.one_kronecker_one]) ψ
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+/-- **The descent through a pair of isometries, Alice's half.** If the projective `C` is within
+`c` of `tau` on `Δ`, and compresses under Alice's isometry `U_A` to the POVM `A`, then
+`U_A A U_A^†` is within `c + 8 r` of `tau` on `Δ`, where `r` bounds the distance from `Δ` to the
+pushed-forward state `(U_A ⊗ U_B) ψ`. -/
+theorem sum_snorm_sq_descent_isometry_aOp [DecidableEq Λ] {H H' : Type*} [Fintype H]
+    [DecidableEq H] [Fintype H'] [DecidableEq H'] {UA : Matrix N H ℂ} {UB : Matrix K H' ℂ}
+    (hUA : UAᴴ * UA = 1) (hUB : UBᴴ * UB = 1) {ψ : H × H' → ℂ} (hψ : ‖evec ψ‖ = 1)
+    {Δ : N × K → ℂ} (hΔ : ‖evec Δ‖ = 1) {r : ℝ} (hr : ‖evec ((UA ⊗ₖ UB) *ᵥ ψ - Δ)‖ ≤ r)
+    {C τ : Λ → Matrix N N ℂ} (hC : IsPVM C) {A : Λ → Matrix H H ℂ} (hA0 : ∀ h, 0 ≤ A h)
+    (hA1 : ∑ h, A h = 1) (hCA : ∀ h, UAᴴ * C h * UA = A h) {T : Λ → Matrix K K ℂ}
+    (hT : IsPVM T) (hmove : ∀ h, (aOp (τ h) : Matrix (N × K) (N × K) ℂ) *ᵥ Δ = bOp (T h) *ᵥ Δ)
+    {c : ℝ} (hc : ∑ h, snorm Δ ((aOp (C h) : Matrix (N × K) (N × K) ℂ) - aOp (τ h)) ^ 2 ≤ c) :
+    ∑ h, snorm Δ ((aOp (UA * A h * UAᴴ) : Matrix (N × K) (N × K) ℂ) - aOp (τ h)) ^ 2
+      ≤ c + 8 * r := by
+  obtain ⟨hX0, hX1⟩ := conj_isometry_subPOVM hUA hA0 hA1
+  refine sum_snorm_sq_descent_aOp hΔ ((norm_evec_kronecker_mulVec hUA hUB ψ).trans hψ).le hr hC
+    hX0 hX1 hT hmove (le_of_eq (Finset.sum_congr rfl fun h _ => ?_)) hc
+  rw [bornProb_kronecker_mulVec_conj_left hUA, bornProb_kronecker_mulVec, hCA]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {N K Λ : Type*} [Fintype N] [DecidableEq N] [Fintype K] [DecidableEq K] [Fintype Λ]
+/-- **The descent through a pair of isometries, Bob's half.** -/
+theorem sum_snorm_sq_descent_isometry_bOp [DecidableEq Λ] {H H' : Type*} [Fintype H]
+    [DecidableEq H] [Fintype H'] [DecidableEq H'] {UA : Matrix K H ℂ} {UB : Matrix N H' ℂ}
+    (hUA : UAᴴ * UA = 1) (hUB : UBᴴ * UB = 1) {ψ : H × H' → ℂ} (hψ : ‖evec ψ‖ = 1)
+    {Δ : K × N → ℂ} (hΔ : ‖evec Δ‖ = 1) {r : ℝ} (hr : ‖evec ((UA ⊗ₖ UB) *ᵥ ψ - Δ)‖ ≤ r)
+    {C τ : Λ → Matrix N N ℂ} (hC : IsPVM C) {B : Λ → Matrix H' H' ℂ} (hB0 : ∀ h, 0 ≤ B h)
+    (hB1 : ∑ h, B h = 1) (hCB : ∀ h, UBᴴ * C h * UB = B h) {T : Λ → Matrix K K ℂ}
+    (hT : IsPVM T) (hmove : ∀ h, (bOp (τ h) : Matrix (K × N) (K × N) ℂ) *ᵥ Δ = aOp (T h) *ᵥ Δ)
+    {c : ℝ} (hc : ∑ h, snorm Δ ((bOp (C h) : Matrix (K × N) (K × N) ℂ) - bOp (τ h)) ^ 2 ≤ c) :
+    ∑ h, snorm Δ ((bOp (UB * B h * UBᴴ) : Matrix (K × N) (K × N) ℂ) - bOp (τ h)) ^ 2
+      ≤ c + 8 * r := by
+  obtain ⟨hX0, hX1⟩ := conj_isometry_subPOVM hUB hB0 hB1
+  refine sum_snorm_sq_descent_bOp hΔ ((norm_evec_kronecker_mulVec hUA hUB ψ).trans hψ).le hr hC
+    hX0 hX1 hT hmove (le_of_eq (Finset.sum_congr rfl fun h _ => ?_)) hc
+  rw [bornProb_kronecker_mulVec_conj_right _ hUB, bornProb_kronecker_mulVec, hCB]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {A B T1 T2 S1 S2 E E' : Type*} [Fintype A] [DecidableEq A] [Fintype B] [DecidableEq B]
+  [Fintype T1] [DecidableEq T1] [Fintype T2] [DecidableEq T2] [Fintype S1] [DecidableEq S1]
+  [Fintype S2] [DecidableEq S2] [Fintype E] [DecidableEq E] [Fintype E'] [DecidableEq E']
+omit [DecidableEq A] [DecidableEq B] [DecidableEq T1] [DecidableEq T2] [DecidableEq S1]
+  [DecidableEq S2] [DecidableEq E] [DecidableEq E'] in
+/-- A regrouped unit vector is a unit vector. -/
+theorem pairSwapVec_unit
+    {ψ : (((A × T1) × E) × T2) × (((B × S1) × E') × S2) → ℂ} (hψ : star ψ ⬝ᵥ ψ = 1) :
+    star (pairSwapVec ψ) ⬝ᵥ pairSwapVec ψ = 1 := by
+  rw [← hψ]
+  exact Equiv.sum_comp (pairSwapEquiv (A := A) (B := B) (T1 := T1) (T2 := T2) (S1 := S1)
+    (S2 := S2) (E := E) (E' := E')).symm fun p => star ψ p * ψ p
+end
+end MIPRE.QLD
+
+attribute [instance] MIPRE.QLD.MirrorSimul.instFintypeEa MIPRE.QLD.MirrorSimul.instDecEqEa MIPRE.QLD.MirrorSimul.instFintypeEb MIPRE.QLD.MirrorSimul.instDecEqEb
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+universe u
+set_option synthInstance.maxSize 1000
+variable {F : Type u} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+attribute [instance] MIPRE.QLD.MirrorSimul.instFintypeEa MIPRE.QLD.MirrorSimul.instDecEqEa MIPRE.QLD.MirrorSimul.instFintypeEb MIPRE.QLD.MirrorSimul.instDecEqEb
+theorem physVec_unit : star M.physVec ⬝ᵥ M.physVec = 1 :=
+  pairSwapVec_unit (expVec_unit M.Φ_unit (epr_unit (F := F) (n := Fin m → Bool)))
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+universe u
+set_option synthInstance.maxSize 1000
+variable {F : Type u} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+attribute [instance] MIPRE.QLD.MirrorSimul.instFintypeEa MIPRE.QLD.MirrorSimul.instDecEqEa MIPRE.QLD.MirrorSimul.instFintypeEb MIPRE.QLD.MirrorSimul.instDecEqEb
+theorem bobSwap_mul_conjTranspose : M.bobSwap * M.bobSwapᴴ = 1 :=
+  M.toSecond.swapA_mul_conjTranspose
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+universe u
+set_option synthInstance.maxSize 1000
+variable {F : Type u} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+attribute [instance] MIPRE.QLD.MirrorSimul.instFintypeEa MIPRE.QLD.MirrorSimul.instDecEqEa MIPRE.QLD.MirrorSimul.instFintypeEb MIPRE.QLD.MirrorSimul.instDecEqEb
+theorem bobSwap_conjTranspose_mul : M.bobSwapᴴ * M.bobSwap = 1 :=
+  M.toSecond.swapA_conjTranspose_mul
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+/-- **A Weyl family's spectral projectors are a projective measurement.** The three facts are in
+Foundations one by one; this is them bundled, which is the form `isPVM_kron` consumes. -/
+theorem isPVM_proj {n : Type*} [Fintype n] [DecidableEq n]
+    {w : (n → F) → Matrix (n → F) (n → F) ℂ} (hw : IsWeylFamily w) : IsPVM (proj w) where
+  isSelfAdjoint e := proj_conjTranspose hw e
+  idem e := by simpa using proj_mul_proj hw e e
+  sum_eq_one := sum_proj hw
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {A B T T' : Type*} [Fintype A] [DecidableEq A] [Fintype B] [DecidableEq B]
+  [Fintype T] [DecidableEq T] [Fintype T'] [DecidableEq T']
+omit [DecidableEq A] [DecidableEq B] [DecidableEq T] [DecidableEq T'] in
+/-- A regrouped unit vector is a unit vector. -/
+theorem outerVec_unit {χ : (A × T) × (B × T') → ℂ} (hχ : star χ ⬝ᵥ χ = 1) :
+    star (outerVec χ) ⬝ᵥ outerVec χ = 1 := by
+  rw [← hχ]
+  exact Equiv.sum_comp (outerPairEquiv (A := A) (B := B) (T := T) (T' := T')).symm
+    fun p => star χ p * χ p
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+theorem deltaSelfCons_nonneg {δ ε : ℝ} (hδ : 0 ≤ δ) (hε : 0 ≤ ε) (m d q : ℕ) :
+    0 ≤ deltaSelfCons δ ε m d q := by
+  have h1 : (0 : ℝ) ≤ Real.sqrt (172 * ε) := Real.sqrt_nonneg _
+  have h2 : (0 : ℝ) ≤ (m : ℝ) * d / q := by positivity
+  rw [deltaSelfCons]
+  linarith
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem aliceSwap_conjTranspose_mul : M.aliceSwapᴴ * M.aliceSwap = 1 :=
+  M.toFirst.swapA_conjTranspose_mul
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem bobSwap_conjTranspose_mul' : M.bobSwapᴴ * M.bobSwap = 1 :=
+  M.toSecond.swapA_conjTranspose_mul
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem physSwap_conjTranspose_mul : M.physSwapᴴ * M.physSwap = 1 := by
+  rw [physSwap, aOp_bOp_conjTranspose, aOp_bOp_mul_aOp_bOp, M.aliceSwap_conjTranspose_mul,
+    M.bobSwap_conjTranspose_mul', aOp_one, bOp_one, Matrix.one_mul]
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem endState_unit : star M.endState ⬝ᵥ M.endState = 1 := by
+  refine outerVec_unit ?_
+  have h := dotProduct_mulVec_conj M.physSwap 1 M.physVec
+  rw [Matrix.one_mulVec, Matrix.one_mul, M.physSwap_conjTranspose_mul, Matrix.one_mulVec] at h
+  exact h.trans M.physVec_unit
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+set_option maxHeartbeats 1000000 in
+/-- **Item 1 of `lem:qld-swap`, unconditional.** After the two swap unitaries the physical state
+is close to a product of an auxiliary state on the two parties' non-ancilla registers and a
+maximally entangled pair on the two halves of the ancilla. -/
+theorem exists_aux_close {hm : m ∣ Fintype.card F} {ε : ℝ}
+    (hψ : star ψ ⬝ᵥ ψ = 1) (hfail : 1 - povmValue (qldGame hm) ψ MA MB ≤ ε)
+    (hprojA : ∀ q, IsPVM fun a => (((MA q).mats a).val))
+    (hprojB : ∀ q, IsPVM fun a => (((MB q).mats a).val)) (hd : 1 ≤ d)
+    (hδ : 0 ≤ δ) (hε : 0 ≤ ε)
+    (hlt : 2 * Real.sqrt (deltaSelfCons δ ε m d (Fintype.card F))
+      + 2 * deltaSelfCons δ ε m d (Fintype.card F) < 1) :
+    ∃ aux : (((dA × Anc F m) × M.Ea) × ((dB × Anc F m) × M.Eb)) → ℂ,
+      ‖evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ = 1 ∧
+        ‖evec M.endState - evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ ^ 2
+          ≤ 2 - 2 * Real.sqrt (1 - (2 * Real.sqrt (deltaSelfCons δ ε m d (Fintype.card F))
+            + 2 * deltaSelfCons δ ε m d (Fintype.card F))) :=
+  exists_auxVec_close M.endState M.endState_unit
+    (deltaSelfCons_nonneg hδ hε m d (Fintype.card F)) hlt
+    (M.qform_endState_twirl_ge (hm := hm) hψ hfail hprojA hprojB hd .X)
+    (M.qform_endState_twirl_ge (hm := hm) hψ hfail hprojA hprojB hd .Z)
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {DA DB RA RB : Type*} [Fintype DA] [Fintype DB] [Fintype RA] [DecidableEq RA]
+  [Fintype RB] [DecidableEq RB]
+/-- **Two local operators after two local embeddings are two local embeddings.** -/
+theorem aOp_mul_bOp_mulVec_kronecker (U : Matrix RA RA ℂ) (V : Matrix RB RB ℂ)
+    (EA : Matrix RA DA ℂ) (EB : Matrix RB DB ℂ) (ψ : DA × DB → ℂ) :
+    ((aOp U : Matrix (RA × RB) (RA × RB) ℂ) * bOp V) *ᵥ ((EA ⊗ₖ EB) *ᵥ ψ)
+      = ((U * EA) ⊗ₖ (V * EB)) *ᵥ ψ := by
+  rw [Matrix.mulVec_mulVec, aOp_mul_bOp_eq, ← Matrix.mul_kronecker_mul]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+omit [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] [NeZero m] in
+/-- **Conjugating a projective measurement by a unitary gives a projective measurement.** -/
+theorem isPVM_conj_unitary {N Λ : Type*} [Fintype N] [DecidableEq N] [Fintype Λ]
+    {P : Λ → Matrix N N ℂ} (hP : IsPVM P) {V : Matrix N N ℂ} (h1 : Vᴴ * V = 1)
+    (h2 : V * Vᴴ = 1) : IsPVM fun a => V * P a * Vᴴ where
+  isSelfAdjoint a := by
+    rw [Matrix.conjTranspose_mul, Matrix.conjTranspose_mul, Matrix.conjTranspose_conjTranspose,
+      hP.isSelfAdjoint, Matrix.mul_assoc]
+  idem a := by
+    rw [show V * P a * Vᴴ * (V * P a * Vᴴ) = V * P a * (Vᴴ * V) * P a * Vᴴ from by
+      simp only [Matrix.mul_assoc], h1, Matrix.mul_one, Matrix.mul_assoc V (P a) (P a),
+      hP.idem]
+  sum_eq_one := by
+    rw [← Finset.sum_mul, ← Finset.mul_sum, hP.sum_eq_one, Matrix.mul_one, h2]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {A B T T' : Type*} [Fintype A] [DecidableEq A] [Fintype B] [DecidableEq B]
+  [Fintype T] [DecidableEq T] [Fintype T'] [DecidableEq T']
+omit [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] [NeZero m]
+  [DecidableEq A] [DecidableEq B] [DecidableEq T] [DecidableEq T'] in
+/-- It is a unit vector exactly when the state is. -/
+theorem norm_evec_outerUnVec (χ : (A × B) × (T × T') → ℂ) :
+    ‖evec (outerUnVec χ)‖ = ‖evec χ‖ := by
+  simp only [outerUnVec, evec, EuclideanSpace.norm_eq]
+  congr 1
+  exact Equiv.sum_comp (outerPairEquiv (A := A) (B := B) (T := T) (T' := T'))
+    fun j => ‖χ j‖ ^ 2
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {A B T T' : Type*} [Fintype A] [DecidableEq A] [Fintype B] [DecidableEq B]
+  [Fintype T] [DecidableEq T] [Fintype T'] [DecidableEq T']
+omit [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] [NeZero m]
+  [DecidableEq A] [DecidableEq B] [DecidableEq T] [DecidableEq T'] in
+/-- **Distances are the same on both cuts.** -/
+theorem norm_evec_sub_outerUnVec (w : (A × T) × (B × T') → ℂ) (χ : (A × B) × (T × T') → ℂ) :
+    ‖evec (w - outerUnVec χ)‖ = ‖evec (outerVec w) - evec χ‖ := by
+  rw [← evec_sub, ← norm_evec_outerUnVec (outerVec w - χ)]
+  congr 2
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem aliceSwap_mul_conjTranspose : M.aliceSwap * M.aliceSwapᴴ = 1 :=
+  M.toFirst.swapA_mul_conjTranspose
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem isPVM_alicePauli (hprojA : ∀ q, IsPVM fun a => (((MA q).mats a).val)) (W : Bas) :
+    IsPVM (M.alicePauli W) :=
+  (((isPVM_povm_map _ (hprojA _) rdPauliVec).aOp).aOp).aOp
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem isPVM_aliceConjPauli (hprojA : ∀ q, IsPVM fun a => (((MA q).mats a).val)) (W : Bas) :
+    IsPVM (M.aliceConjPauli W) :=
+  isPVM_conj_unitary (M.isPVM_alicePauli hprojA W) M.aliceSwap_conjTranspose_mul
+    M.aliceSwap_mul_conjTranspose
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem isPVM_aliceTau (W : Bas) : IsPVM (M.aliceTau W) :=
+  (isPVM_proj (isWeylFamily_weylOf W)).bOp
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem isPVM_bobTau (W : Bas) : IsPVM (M.bobTau W) :=
+  (isPVM_proj (isWeylFamily_weylOf W)).bOp
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem norm_evec_physAux (aux : ((dA × Anc F m) × M.Ea) × ((dB × Anc F m) × M.Eb) → ℂ) :
+    ‖evec (M.physAux aux)‖ = ‖evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ :=
+  norm_evec_outerUnVec _
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+/-- **Item 1's distance, read on the physical cut.** -/
+theorem norm_evec_physSwap_sub_physAux
+    (aux : ((dA × Anc F m) × M.Ea) × ((dB × Anc F m) × M.Eb) → ℂ) :
+    ‖evec (M.physSwap *ᵥ M.physVec - M.physAux aux)‖
+      = ‖evec M.endState - evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ :=
+  norm_evec_sub_outerUnVec _ _
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+/-- **On the product state, `tau^W_h` on `A''` is `tau^W_h` on `B''`**: the last line of
+`eq:qld-unitary-7`. The Weyl families are symmetric matrices, so their spectral projectors move
+across the entangled pair. -/
+theorem aliceTau_mulVec_physAux
+    (aux : ((dA × Anc F m) × M.Ea) × ((dB × Anc F m) × M.Eb) → ℂ) (W : Bas) (h : Anc F m) :
+    (aOp (M.aliceTau W h) : Matrix ((((dA × Anc F m) × M.Ea) × Anc F m)
+        × (((dB × Anc F m) × M.Eb) × Anc F m))
+      ((((dA × Anc F m) × M.Ea) × Anc F m) × (((dB × Anc F m) × M.Eb) × Anc F m)) ℂ)
+        *ᵥ M.physAux aux
+      = bOp (M.bobTau W h) *ᵥ M.physAux aux :=
+  mulVec_outerUnVec_auxVec aux
+    (congrArg WithLp.ofLp (stateVec_epr_proj (weylOf_transpose W) h))
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+/-- **Item 2 of `lem:qld-swap`, Alice's half**, relative to any auxiliary state for which item 1
+holds with bound `η`: conjugation by `V_A` carries the strategy's total Pauli measurement
+`M^{(Pauli,W)}_h` to `Id ⊗ tau^W_h` on `A''`, within `deltaItemTwo` in the state-dependent
+distance relative to `|aux> ⊗ |EPR_q>^M`. -/
+theorem sum_snorm_sq_alice_le {hm : m ∣ Fintype.card F} {ε : ℝ}
+    (hψ : star ψ ⬝ᵥ ψ = 1) (hfail : 1 - povmValue (qldGame hm) ψ MA MB ≤ ε)
+    (hprojA : ∀ q, IsPVM fun a => (((MA q).mats a).val))
+    (hprojB : ∀ q, IsPVM fun a => (((MB q).mats a).val)) (hd : 1 ≤ d)
+    (hδ : 0 ≤ δ) (hε : 0 ≤ ε)
+    (aux : ((dA × Anc F m) × M.Ea) × ((dB × Anc F m) × M.Eb) → ℂ)
+    (haux : ‖evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ = 1) {η : ℝ}
+    (hη : ‖evec M.endState - evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ ^ 2 ≤ η)
+    (W : Bas) :
+    ∑ h : Anc F m, snorm (M.physAux aux)
+        ((aOp (M.aliceConjPauli W h) : Matrix ((((dA × Anc F m) × M.Ea) × Anc F m)
+            × (((dB × Anc F m) × M.Eb) × Anc F m))
+          ((((dA × Anc F m) × M.Ea) × Anc F m) × (((dB × Anc F m) × M.Eb) × Anc F m)) ℂ)
+          - aOp (M.aliceTau W h)) ^ 2
+      ≤ deltaItemTwo δ ε m d (Fintype.card F) η := by
+  have hr : ‖evec (M.physSwap *ᵥ M.physVec - M.physAux aux)‖ ≤ Real.sqrt η := by
+    rw [M.norm_evec_physSwap_sub_physAux]
+    exact Real.le_sqrt_of_sq_le hη
+  exact M.sum_snorm_sq_aliceConjPauli_le (hm := hm) hψ hfail hprojA hprojB hd hδ hε
+    (M.physAux aux) (by rw [M.norm_evec_physAux, haux]) (M.aliceTau_mulVec_physAux aux) hr W
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.LowDegree MIPRE.Weyl
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m]
+variable {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+/-- **`lem:qld-swap`: the swap isometry.** There is an auxiliary state `|aux>` on the two parties'
+non-ancilla registers such that
+
+1. after the two swap unitaries the physical state is within `etaItemOne` of
+   `|aux> ⊗ |EPR_q>^M`, in squared norm; and
+2. for each basis `W`, conjugation by `V_A`, resp. `V_B`, carries the strategy's total Pauli
+   measurement `M^{(Pauli,W)}_h` to `Id ⊗ tau^W_h` on `A''`, resp. `B''`, within
+   `deltaItemTwo … etaItemOne` in the state-dependent distance relative to that **same** product
+   state.
+
+Item 1 is `exists_aux_close`; item 2 is `sum_snorm_sq_alice_le` and `sum_snorm_sq_bob_le` at the
+auxiliary state it produces. -/
+theorem swap_isometry {hm : m ∣ Fintype.card F} {ε : ℝ}
+    (hψ : star ψ ⬝ᵥ ψ = 1) (hfail : 1 - povmValue (qldGame hm) ψ MA MB ≤ ε)
+    (hprojA : ∀ q, IsPVM fun a => (((MA q).mats a).val))
+    (hprojB : ∀ q, IsPVM fun a => (((MB q).mats a).val)) (hd : 1 ≤ d)
+    (hδ : 0 ≤ δ) (hε : 0 ≤ ε)
+    (hlt : 2 * Real.sqrt (deltaSelfCons δ ε m d (Fintype.card F))
+      + 2 * deltaSelfCons δ ε m d (Fintype.card F) < 1) :
+    ∃ aux : (((dA × Anc F m) × M.Ea) × ((dB × Anc F m) × M.Eb)) → ℂ,
+      ‖evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ = 1 ∧
+      ‖evec M.endState - evec (auxVec (F := F) (n := Fin m → Bool) aux)‖ ^ 2
+        ≤ etaItemOne δ ε m d (Fintype.card F) ∧
+      ∀ W : Bas,
+        ∑ h : Anc F m, snorm (M.physAux aux)
+            ((aOp (M.aliceConjPauli W h) : Matrix ((((dA × Anc F m) × M.Ea) × Anc F m)
+                × (((dB × Anc F m) × M.Eb) × Anc F m))
+              ((((dA × Anc F m) × M.Ea) × Anc F m) × (((dB × Anc F m) × M.Eb) × Anc F m)) ℂ)
+              - aOp (M.aliceTau W h)) ^ 2
+          ≤ deltaItemTwo δ ε m d (Fintype.card F) (etaItemOne δ ε m d (Fintype.card F)) ∧
+        ∑ h : Anc F m, snorm (M.physAux aux)
+            ((bOp (M.bobConjPauli W h) : Matrix ((((dA × Anc F m) × M.Ea) × Anc F m)
+                × (((dB × Anc F m) × M.Eb) × Anc F m))
+              ((((dA × Anc F m) × M.Ea) × Anc F m) × (((dB × Anc F m) × M.Eb) × Anc F m)) ℂ)
+              - bOp (M.bobTau W h)) ^ 2
+          ≤ deltaItemTwo δ ε m d (Fintype.card F) (etaItemOne δ ε m d (Fintype.card F)) := by
+  obtain ⟨aux, haux, hclose⟩ := M.exists_aux_close (hm := hm) hψ hfail hprojA hprojB hd hδ hε hlt
+  exact ⟨aux, haux, hclose, fun W =>
+    ⟨M.sum_snorm_sq_alice_le (hm := hm) hψ hfail hprojA hprojB hd hδ hε aux haux hclose W,
+      M.sum_snorm_sq_bob_le (hm := hm) hψ hfail hprojA hprojB hd hδ hε aux haux hclose W⟩⟩
+end
+end MIPRE.QLD.MirrorSimul
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+  {n : Type*} [Fintype n] [DecidableEq n]
+  {HA HB dA dB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+  [Fintype dA] [Fintype dB]
+omit [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB] in
+/-- **The consumer's product state is the swap lemma's, relabelled.** Both are `aux ⊗ EPR`; they
+differ only in which end of each party's register the half of the pair sits at. -/
+theorem registerState_eq_outerUnVec (aux : HA × HB → ℂ) :
+    registerState (n → F) aux
+      = outerUnVec (auxVec (F := F) (n := n) aux) ∘ Prod.map Prod.swap Prod.swap := by
+  funext p
+  obtain ⟨⟨a, x⟩, ⟨b, y⟩⟩ := p
+  show registerEPR (n → F) (a, b) * aux (x, y) = aux (x, y) * epr (F := F) (n := n) (a, b)
+  rw [registerEPR_eq_weyl, mul_comm]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+  {n : Type*} [Fintype n] [DecidableEq n]
+  {HA HB dA dB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+  [Fintype dA] [Fintype dB]
+omit [Algebra (ZMod 2) F] in
+/-- **The product state has the norm of its auxiliary factor**, the pair being a unit vector. -/
+theorem norm_evec_registerState (aux : HA × HB → ℂ) :
+    ‖evec (registerState (n → F) aux)‖ = ‖evec aux‖ := by
+  rw [registerState, norm_evec_expVec, registerEPR_norm, one_mul]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+  {n : Type*} [Fintype n] [DecidableEq n]
+  {HA HB dA dB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+  [Fintype dA] [Fintype dB]
+/-- **So does the physical one.** -/
+theorem norm_evec_outerUnVec_auxVec (aux : HA × HB → ℂ) :
+    ‖evec (outerUnVec (auxVec (F := F) (n := n) aux))‖ = ‖evec aux‖ := by
+  rw [← norm_evec_registerState (F := F) (n := n) aux, registerState_eq_outerUnVec]
+  exact (norm_evec_comp_equiv (regSwap HA HB (n → F) (n → F)) _).symm
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F]
+  {n : Type*} [Fintype n] [DecidableEq n]
+  {HA HB dA dB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+  [Fintype dA] [Fintype dB]
+/-- **And so does item 1's**, which is how item 1's `‖evec (auxVec aux)‖ = 1` becomes the
+consumer's unit hypothesis on `aux`. -/
+theorem norm_evec_auxVec (aux : HA × HB → ℂ) :
+    ‖evec (auxVec (F := F) (n := n) aux)‖ = ‖evec aux‖ := by
+  rw [← norm_evec_outerUnVec, norm_evec_outerUnVec_auxVec]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+/-- **A rectangular isometry after a rectangular isometry is an isometry.** -/
+theorem isometry_mul_isometry {R S D : Type*} [Fintype R] [Fintype S] [DecidableEq S]
+    [DecidableEq D] {U : Matrix R S ℂ} {E : Matrix S D ℂ} (hU : Uᴴ * U = 1) (hE : Eᴴ * E = 1) :
+    (U * E)ᴴ * (U * E) = 1 := by
+  rw [Matrix.conjTranspose_mul, Matrix.mul_assoc, ← Matrix.mul_assoc Uᴴ, hU, Matrix.one_mul, hE]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+/-- **Compressing a unitary conjugate by the unitary followed by an embedding** is compressing by
+the embedding alone: `(U E)^† (U X U^†) (U E) = E^† X E`. -/
+theorem conj_mul_conj_unitary {R D : Type*} [Fintype R] [DecidableEq R] [Fintype D]
+    {U : Matrix R R ℂ} (hU : Uᴴ * U = 1) (E : Matrix R D ℂ) (X : Matrix R R ℂ) :
+    (U * E)ᴴ * (U * X * Uᴴ) * (U * E) = Eᴴ * X * E := by
+  simp only [Matrix.conjTranspose_mul, Matrix.mul_assoc]
+  rw [← Matrix.mul_assoc Uᴴ U, hU, Matrix.one_mul, ← Matrix.mul_assoc Uᴴ U, hU, Matrix.one_mul]
+end
+end MIPRE.QLD
+
+namespace MIPRE.QLD.MirrorSimul
+noncomputable section
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+/-- **Bob's conjugated Pauli measurement is projective**: a projective coarse-graining,
+conjugated by the unitary `V_B`. Alice's is `isPVM_aliceConjPauli`. -/
+theorem isPVM_bobConjPauli (hprojB : ∀ q, IsPVM fun a => (((MB q).mats a).val)) (W : Bas) :
+    IsPVM (M.bobConjPauli W) :=
+  isPVM_conj_unitary ((((isPVM_povm_map _ (hprojB _) rdPauliVec).aOp).aOp).aOp)
+    M.bobSwap_conjTranspose_mul M.bobSwap_mul_conjTranspose
+end
+end MIPRE.QLD.MirrorSimul
+
+/-! The uploaded declaration as `solution` (a root name declared inside the source's
+namespace, so that names resolve as they do in the source). -/
+namespace MIPRE.QLD.MirrorSimul
+open Finset Matrix MIPRE MIPRE.LIDT MIPRE.Weyl MIPRE.Introspection
+open scoped Kronecker ComplexOrder MatrixOrder
+set_option synthInstance.maxSize 1000
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] [Algebra (ZMod 2) F] {m d : ℕ}
+  [NeZero m] {dA dB : Type} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  {ψ : dA × dB → ℂ} {MA : Question F m → POVM (Answer F m d) dA}
+  {MB : Question F m → POVM (Answer F m d) dB} {δ : ℝ}
+variable (M : MirrorSimul ψ MA MB δ)
+theorem _root_.solution {hm : m ∣ Fintype.card F} {ε : ℝ}
+    (hψ : star ψ ⬝ᵥ ψ = 1) (hfail : 1 - povmValue (qldGame hm) ψ MA MB ≤ ε)
+    (hprojA : ∀ q, IsPVM fun a => (((MA q).mats a).val))
+    (hprojB : ∀ q, IsPVM fun a => (((MB q).mats a).val)) (hd : 1 ≤ d)
+    (hδ : 0 ≤ δ) (hε : 0 ≤ ε)
+    (hlt : 2 * Real.sqrt (deltaSelfCons δ ε m d (Fintype.card F))
+      + 2 * deltaSelfCons δ ε m d (Fintype.card F) < 1)
+    {KA KB : Type*} [Fintype KA] [DecidableEq KA] [Fintype KB] [DecidableEq KB]
+    {θ : KA × KB → ℂ} (hθ : ‖evec θ‖ = 1)
+    {EA : Matrix (((dA × Anc F m) × M.Ea) × Anc F m) KA ℂ}
+    {EB : Matrix (((dB × Anc F m) × M.Eb) × Anc F m) KB ℂ}
+    (hEA : EAᴴ * EA = 1) (hEB : EBᴴ * EB = 1) (hphys : M.physVec = (EA ⊗ₖ EB) *ᵥ θ)
+    {PA : Bas → Anc F m → Matrix KA KA ℂ} {PB : Bas → Anc F m → Matrix KB KB ℂ}
+    (hPA0 : ∀ W h, 0 ≤ PA W h) (hPA1 : ∀ W, ∑ h, PA W h = 1)
+    (hPB0 : ∀ W h, 0 ≤ PB W h) (hPB1 : ∀ W, ∑ h, PB W h = 1)
+    (hcompA : ∀ W h, EAᴴ * M.alicePauli W h * EA = PA W h)
+    (hcompB : ∀ W h, EBᴴ * M.bobPauli W h * EB = PB W h) :
+    ∃ aux : ((dA × Anc F m) × M.Ea) × ((dB × Anc F m) × M.Eb) → ℂ,
+      (M.aliceSwap * EA)ᴴ * (M.aliceSwap * EA) = 1 ∧
+      (M.bobSwap * EB)ᴴ * (M.bobSwap * EB) = 1 ∧ ‖evec aux‖ = 1 ∧
+      ‖evec (((M.aliceSwap * EA) ⊗ₖ (M.bobSwap * EB)) *ᵥ θ
+          - outerUnVec (auxVec (F := F) (n := Fin m → Bool) aux))‖
+        ≤ Real.sqrt (etaItemOne δ ε m d (Fintype.card F)) ∧
+      ∀ W : Bas,
+        ∑ h : Anc F m, snorm (outerUnVec (auxVec (F := F) (n := Fin m → Bool) aux))
+            (aOp (M.aliceSwap * EA * PA W h * (M.aliceSwap * EA)ᴴ - bOp (proj (weylOf W) h))) ^ 2
+          ≤ deltaItemTwo δ ε m d (Fintype.card F) (etaItemOne δ ε m d (Fintype.card F))
+            + 8 * Real.sqrt (etaItemOne δ ε m d (Fintype.card F)) ∧
+        ∑ h : Anc F m, snorm (outerUnVec (auxVec (F := F) (n := Fin m → Bool) aux))
+            (bOp (M.bobSwap * EB * PB W h * (M.bobSwap * EB)ᴴ - bOp (proj (weylOf W) h))) ^ 2
+          ≤ deltaItemTwo δ ε m d (Fintype.card F) (etaItemOne δ ε m d (Fintype.card F))
+            + 8 * Real.sqrt (etaItemOne δ ε m d (Fintype.card F)) := by
+  obtain ⟨aux, haux, hη, hW⟩ := M.swap_isometry (hm := hm) hψ hfail hprojA hprojB hd hδ hε hlt
+  have hΔ : ‖evec (M.physAux aux)‖ = 1 := by rw [M.norm_evec_physAux, haux]
+  have hΓ : ((M.aliceSwap * EA) ⊗ₖ (M.bobSwap * EB)) *ᵥ θ = M.physSwap *ᵥ M.physVec := by
+    rw [hphys, MirrorSimul.physSwap, aOp_mul_bOp_mulVec_kronecker]
+  have hr : ‖evec (((M.aliceSwap * EA) ⊗ₖ (M.bobSwap * EB)) *ᵥ θ - M.physAux aux)‖
+      ≤ Real.sqrt (etaItemOne δ ε m d (Fintype.card F)) := by
+    rw [hΓ, M.norm_evec_physSwap_sub_physAux]
+    exact Real.le_sqrt_of_sq_le hη
+  have hUA := isometry_mul_isometry M.aliceSwap_conjTranspose_mul hEA
+  have hUB := isometry_mul_isometry M.bobSwap_conjTranspose_mul hEB
+  refine ⟨aux, hUA, hUB, (norm_evec_auxVec aux).symm.trans haux, hr, fun W => ⟨?_, ?_⟩⟩
+  · have h := sum_snorm_sq_descent_isometry_aOp hUA hUB hθ hΔ hr
+      (M.isPVM_aliceConjPauli hprojA W) (hPA0 W) (hPA1 W)
+      (fun h => by rw [aliceConjPauli, conj_mul_conj_unitary M.aliceSwap_conjTranspose_mul,
+        hcompA]) (M.isPVM_bobTau W) (M.aliceTau_mulVec_physAux aux W) (hW W).1
+    simp only [aOp_sub]
+    exact h
+  · have h := sum_snorm_sq_descent_isometry_bOp hUA hUB hθ hΔ hr
+      (M.isPVM_bobConjPauli hprojB W) (hPB0 W) (hPB1 W)
+      (fun h => by rw [bobConjPauli, conj_mul_conj_unitary M.bobSwap_conjTranspose_mul,
+        hcompB]) (M.isPVM_aliceTau W) (fun h => (M.aliceTau_mulVec_physAux aux W h).symm) (hW W).2
+    simp only [bOp_sub]
+    exact h
+end MIPRE.QLD.MirrorSimul

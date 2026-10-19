@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_Central_lemma_2
 -- name    : ReviewBlackmail.Central.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:45.946491+00:00
 -- url     : https://prove2.me/theorems/a3954dd8-7389-42ba-a85e-d5dddb04ff49

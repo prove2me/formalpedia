@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_annual_grid_is_fractional_one
 -- name    : actuarial_c_cont_annual_grid_is_fractional_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:37:35.368269+00:00
 -- url     : https://prove2.me/theorems/a225a9cb-e823-40e6-937d-842d00273e4f

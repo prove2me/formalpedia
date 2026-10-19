@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmDiracYukawa.yukawa_entry_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:06:57.377758+00:00
 -- url     : https://prove2.me/submissions/c097013a-9a84-4885-a37e-c25526c0f3a2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmDiracYukawa.lean — solution of BookProof.SmDiracYukawa.yukawa_entry_bound
 import Mathlib

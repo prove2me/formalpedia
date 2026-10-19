@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneResolvent_UnboundedSelfAdjoint_ext_prime
 -- name    : BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.ext_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:57:39.035179+00:00
 -- url     : https://prove2.me/theorems/d8d576f5-8bb0-49d0-86a8-4ccd712f2d48

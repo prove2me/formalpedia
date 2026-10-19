@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_mem_factorGraph_sqOp
 -- name    : BookProof.ClosureUniqueness.mem_factorGraph_sqOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:43:09.362204+00:00
 -- url     : https://prove2.me/theorems/c15a8306-7d7b-4c81-ac6f-cbe5e4fb9adc

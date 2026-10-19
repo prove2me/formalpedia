@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandDelivery_RouteElim_rf1r_dual_bound
 -- name    : OnDemandDelivery.RouteElim.rf1r_dual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:11.77136+00:00
 -- url     : https://prove2.me/theorems/1531ec96-8af3-488e-827a-a570e5263d63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_Statics_proposition_4
 -- name    : TokenFinance.Statics.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:30.482833+00:00
 -- url     : https://prove2.me/theorems/3756cc06-6acf-4b72-b82e-625102fd9b22

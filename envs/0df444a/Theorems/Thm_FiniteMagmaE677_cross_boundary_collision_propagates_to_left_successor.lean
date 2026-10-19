@@ -7,7 +7,7 @@
 -- title:
 --   A cross-boundary right-translation collision propagates to the next point of the left orbit
 -- statement:
---   Fix an element $x$ and let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume that $x$ has no right fixer, and assume that $A$ is the unique element outside $O_x$. For an orbit element $c$, prove
+--   Fix an element $x$ and let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume that $x$ has no fixer, and assume that $A$ is the unique element outside $O_x$. For an orbit element $c$, prove
 --
 --   $$
 --   c\diamond x=A\diamond x
@@ -17,7 +17,7 @@
 --
 --   Thus, in the no-fixer branch, a collision between $c$ and $A$ under right translation by $x$ propagates from $c$ to the next point $x\diamond c$ of the left orbit. No associativity, commutativity, or identity is assumed.
 -- source:
---   Local propagation sub-goal isolated from the cross-boundary collision residual in docs/current/e677-closure-plan-2026-08-04.md, section 3, and docs/current/spine-refactoring-audit-2026-09-07.md, section 2; Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
+--   Local propagation sub-goal isolated from the cross-boundary collision residual in the authors' closure plan (Adam McKenna, The Missing Pair, private repository: docs/current/e677-closure-plan-2026-08-04.md, section 3, and docs/current/spine-refactoring-audit-2026-09-07.md, section 2); Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
 
 import Definitions.Def_FiniteMagmaE677
 

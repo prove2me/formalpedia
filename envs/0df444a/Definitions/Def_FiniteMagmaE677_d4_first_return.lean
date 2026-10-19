@@ -15,7 +15,7 @@
 --
 --   These are definitions of the data used by the first-return theorem and its open branch closeouts. They assert neither the existence of a fixer nor the impossibility of any branch.
 -- source:
---   Adam McKenna, The Missing Pair, revision 9b76827c2246f0e6288466768f15b5c6f9350d71; Piece1D4FirstReturn.lean, e677_minimalPeriodFour_orbitRightCollision_hasFixer_or_firstReturnPacket; trace ingress in Piece1D4TaggedTraceStart.lean and Piece1D4TraceInitialization.lean. https://github.com/flound1129/the-missing-pair/blob/9b76827c2246f0e6288466768f15b5c6f9350d71/lean/E677/Spine/Piece1D4FirstReturn.lean
+--   Adam McKenna, The Missing Pair (private repository), revision 9b76827c2246f0e6288466768f15b5c6f9350d71, lean/E677/Spine/Piece1D4FirstReturn.lean, theorem e677_minimalPeriodFour_orbitRightCollision_hasFixer_or_firstReturnPacket; trace ingress in Piece1D4TaggedTraceStart.lean and Piece1D4TraceInitialization.lean. The published definition on this platform is the public record.
 
 import Mathlib.Dynamics.PeriodicPts.Lemmas
 import Definitions.Def_FiniteMagmaE677

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinGrossmann1913_total_conservation_cov
 -- name    : EinsteinGrossmann1913.total_conservation_cov
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T22:01:30.740416+00:00
 -- url     : https://prove2.me/theorems/95a0e7da-fe18-4b68-8cf4-ea2395fc978d

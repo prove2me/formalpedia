@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_baire_banach_steinhaus
 -- name    : GarrettFA.baire_banach_steinhaus
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:30:31.939977+00:00
 -- url     : https://prove2.me/theorems/68a0024a-1ac1-487b-b3a1-245823b1e590

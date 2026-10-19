@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_late_time_vacuum_law_eq10
 -- name    : CarneiroParticleCreation.late_time_vacuum_law_eq10
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:30:46.083973+00:00
 -- url     : https://prove2.me/theorems/897f9936-67f9-4494-98b0-9d0dd4efcc49

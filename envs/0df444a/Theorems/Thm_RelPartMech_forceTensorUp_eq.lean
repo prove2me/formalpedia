@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_forceTensorUp_eq
 -- name    : RelPartMech.forceTensorUp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:09:25.818986+00:00
 -- url     : https://prove2.me/theorems/299cbef8-eae7-4d09-aced-6b497cf85429

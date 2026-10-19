@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_benford_mean_variance
 -- name    : BenfordLaw.benford_mean_variance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:56.121781+00:00
 -- url     : https://prove2.me/theorems/28a190a4-f89b-4d7b-96f3-cfd7cec3e32e

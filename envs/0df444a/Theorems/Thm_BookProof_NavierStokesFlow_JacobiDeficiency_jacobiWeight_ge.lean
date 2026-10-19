@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_JacobiDeficiency_jacobiWeight_ge
 -- name    : BookProof.NavierStokesFlow.JacobiDeficiency.jacobiWeight_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:52.596476+00:00
 -- url     : https://prove2.me/theorems/501d1800-e4a8-4952-87f1-a746b065092a

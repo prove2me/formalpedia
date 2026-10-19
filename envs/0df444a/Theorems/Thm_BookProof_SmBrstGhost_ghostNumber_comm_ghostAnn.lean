@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_ghostNumber_comm_ghostAnn
 -- name    : BookProof.SmBrstGhost.ghostNumber_comm_ghostAnn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:08:52.70123+00:00
 -- url     : https://prove2.me/theorems/53635d9f-da50-4301-a126-0118a67d3cde

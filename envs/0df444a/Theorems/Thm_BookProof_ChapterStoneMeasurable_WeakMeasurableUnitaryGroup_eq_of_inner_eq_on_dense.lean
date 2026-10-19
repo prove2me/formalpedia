@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneMeasurable_WeakMeasurableUnitaryGroup_eq_of_inner_eq_on_dense
 -- name    : BookProof.ChapterStoneMeasurable.WeakMeasurableUnitaryGroup.eq_of_inner_eq_on_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:11:12.792226+00:00
 -- url     : https://prove2.me/theorems/0eda91e4-65bf-4993-ae1b-dd0b7ab008dd

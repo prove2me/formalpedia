@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_quadratic_unit_rank
 -- name    : DirichletUnitTheorem.quadratic_unit_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:48.334984+00:00
 -- url     : https://prove2.me/theorems/39fde9cf-d34f-48f2-8838-7652e9d09a8f

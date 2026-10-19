@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_left_zero_horizon
 -- name    : ActuarialAnnuitiesContinuous.bc_left_zero_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:16:59.546996+00:00
 -- url     : https://prove2.me/theorems/356edc17-0650-4266-8b31-09525153ad2b

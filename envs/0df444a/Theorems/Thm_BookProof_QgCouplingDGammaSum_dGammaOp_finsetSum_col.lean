@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_dGammaOp_finsetSum_col
 -- name    : BookProof.QgCouplingDGammaSum.dGammaOp_finsetSum_col
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:17:17.671976+00:00
 -- url     : https://prove2.me/theorems/04f876ca-0077-48b3-9c54-7ea0b64ef7da

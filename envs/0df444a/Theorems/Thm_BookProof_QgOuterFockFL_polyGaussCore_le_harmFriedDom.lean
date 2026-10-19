@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_polyGaussCore_le_harmFriedDom
 -- name    : BookProof.QgOuterFockFL.polyGaussCore_le_harmFriedDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:33:31.256348+00:00
 -- url     : https://prove2.me/theorems/c6d4f89c-eec9-4310-b807-46a6afa2f6a6

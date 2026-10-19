@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_fderiv_comp_normSq
 -- name    : BookProof.ChapterRadialLaplacian.fderiv_comp_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:58:21.69899+00:00
 -- url     : https://prove2.me/theorems/57d6b8b5-5bf0-46f8-906c-a55dae0c0224

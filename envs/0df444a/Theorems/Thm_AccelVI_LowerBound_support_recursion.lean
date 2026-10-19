@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_LowerBound_support_recursion
 -- name    : AccelVI.LowerBound.support_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:08.85388+00:00
 -- url     : https://prove2.me/theorems/3d8680f8-7feb-494b-b0d9-2ff7d6ba7811

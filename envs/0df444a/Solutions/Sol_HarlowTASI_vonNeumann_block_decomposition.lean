@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HarlowTASI.vonNeumann_block_decomposition
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Alien60
 -- created : 2026-10-10T15:21:00.912328+00:00
 -- url     : https://prove2.me/submissions/97c36a0f-0774-4823-9a6b-915387a78e1f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HarlowTASI_OperatorAlgebras

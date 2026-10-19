@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetExtDominance_Introspective_proposition_1
 -- name    : NetExtDominance.Introspective.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:14.42289+00:00
 -- url     : https://prove2.me/theorems/2cc51565-ace6-41fe-97be-a485b9a5ee69

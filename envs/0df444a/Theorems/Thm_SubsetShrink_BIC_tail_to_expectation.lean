@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_BIC_tail_to_expectation
 -- name    : SubsetShrink.BIC.tail_to_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:27:22.335522+00:00
 -- url     : https://prove2.me/theorems/d356ad5d-f00e-4814-bd83-0fe28f575197

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_defect_orbit_le
 -- name    : BookProof.BrstUnboundedLeakage.defect_orbit_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:41:34.539036+00:00
 -- url     : https://prove2.me/theorems/98bb92c2-5f96-4326-9996-a5818cad0961

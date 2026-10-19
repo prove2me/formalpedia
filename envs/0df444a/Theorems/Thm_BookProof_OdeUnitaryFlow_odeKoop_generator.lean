@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_odeKoop_generator
 -- name    : BookProof.OdeUnitaryFlow.odeKoop_generator
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:42:27.779216+00:00
 -- url     : https://prove2.me/theorems/a5bc65b8-c3cd-4ec2-94ac-84c052ca808e

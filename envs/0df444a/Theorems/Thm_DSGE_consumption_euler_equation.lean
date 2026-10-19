@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSGE_consumption_euler_equation
 -- name    : DSGE.consumption_euler_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:13.000263+00:00
 -- url     : https://prove2.me/theorems/8e59132f-f0a8-4863-9c2c-2b3ef825c5f7

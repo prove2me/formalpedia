@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Superstring_main
 -- name    : OAI.Superstring.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:27.773515+00:00
 -- url     : https://prove2.me/theorems/cdd07c08-48de-4395-95f4-74a24f33d3bd

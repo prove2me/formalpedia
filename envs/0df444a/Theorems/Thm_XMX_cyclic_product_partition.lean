@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XMX_cyclic_product_partition
 -- name    : XMX.cyclic_product_partition
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T17:03:28.016549+00:00
 -- url     : https://prove2.me/theorems/6afe8d3d-c63a-43f8-824c-b356e5960091

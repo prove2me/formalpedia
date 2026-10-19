@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianEsa_latticeLagCLM_isSymmetric
 -- name    : BookProof.NavierStokesFlow.LagrangianEsa.latticeLagCLM_isSymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:15:39.107967+00:00
 -- url     : https://prove2.me/theorems/0677afed-8310-4c08-afd5-519630309e78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_frac_udd_halfyear_ge_cf
 -- name    : actuarial_c_frac_udd_halfyear_ge_cf
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:39:52.882676+00:00
 -- url     : https://prove2.me/theorems/03db7fe3-f88b-40a5-a3fe-9d72a052d431

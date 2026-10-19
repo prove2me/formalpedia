@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitExpanders_Attach_cauchy_schwarz_R
 -- name    : ExplicitExpanders.Attach.cauchy_schwarz_R
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:13:58.988727+00:00
 -- url     : https://prove2.me/theorems/de81c2ac-772b-4a74-9495-b2fe82c81323

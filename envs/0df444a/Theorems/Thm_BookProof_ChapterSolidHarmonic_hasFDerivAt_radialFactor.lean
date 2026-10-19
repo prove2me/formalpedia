@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_hasFDerivAt_radialFactor
 -- name    : BookProof.ChapterSolidHarmonic.hasFDerivAt_radialFactor
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:54:14.586285+00:00
 -- url     : https://prove2.me/theorems/c427a14b-c4f8-4764-8e5b-0c534a81bc43

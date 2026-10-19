@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_udd_due_trapezoid_error_bound
 -- name    : ActuarialAnnuities.udd_due_trapezoid_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:39:04.294407+00:00
 -- url     : https://prove2.me/theorems/886f3695-a447-4d35-8fde-73fccbf30b61

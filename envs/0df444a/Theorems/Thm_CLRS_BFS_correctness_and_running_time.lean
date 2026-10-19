@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLRS_BFS_correctness_and_running_time
 -- name    : CLRS.BFS.correctness_and_running_time
--- status  : Open
+-- status  : Proved
 -- author  : @Chutong
 -- created : 2026-10-14T21:21:38.164664+00:00
 -- url     : https://prove2.me/theorems/af3b6ccc-1872-445a-a77b-d12936a58fe3

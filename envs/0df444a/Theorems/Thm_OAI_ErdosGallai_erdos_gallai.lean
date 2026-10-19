@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ErdosGallai_erdos_gallai
 -- name    : OAI.ErdosGallai.erdos_gallai
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:37.910901+00:00
 -- url     : https://prove2.me/theorems/087d1562-05a2-478e-b5af-190ea4527b31

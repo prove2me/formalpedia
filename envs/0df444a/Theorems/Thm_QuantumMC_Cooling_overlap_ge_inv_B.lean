@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_Cooling_overlap_ge_inv_B
 -- name    : QuantumMC.Cooling.overlap_ge_inv_B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:27:03.469852+00:00
 -- url     : https://prove2.me/theorems/eacdd634-96fd-49a9-ae9c-b4aec0557c35

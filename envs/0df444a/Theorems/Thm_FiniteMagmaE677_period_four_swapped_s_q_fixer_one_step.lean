@@ -19,7 +19,7 @@
 --
 --   Contact phases carry their exact equations and bounds; escaping seeds carry exact first-return data. This asserts one step, without an iteration or termination conclusion.
 -- source:
---   https://github.com/flound1129/the-missing-pair/blob/f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c/lean/E677/Spine/Piece1D4SSwapQFixerPump.lean#L87
+--   Adam McKenna, The Missing Pair (private repository), revision f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c, lean/E677/Spine/Piece1D4SSwapQFixerPump.lean, line 87. The accepted proof on this platform is the public record.
 
 import Definitions.Def_FiniteMagmaE677_sswap_renewal
 import Mathlib

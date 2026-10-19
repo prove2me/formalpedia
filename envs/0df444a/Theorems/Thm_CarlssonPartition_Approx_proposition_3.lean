@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Approx_proposition_3
 -- name    : CarlssonPartition.Approx.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:38.944816+00:00
 -- url     : https://prove2.me/theorems/c110c5e6-a64f-4759-8b4b-edf90e6bdca0

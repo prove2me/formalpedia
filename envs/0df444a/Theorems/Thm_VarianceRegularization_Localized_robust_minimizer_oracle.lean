@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Localized_robust_minimizer_oracle
 -- name    : VarianceRegularization.Localized.robust_minimizer_oracle
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:43:26.571099+00:00
 -- url     : https://prove2.me/theorems/efff5f77-f8ee-47b9-831b-08ce32a03208

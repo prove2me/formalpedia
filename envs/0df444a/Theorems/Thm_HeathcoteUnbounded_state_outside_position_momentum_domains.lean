@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeathcoteUnbounded_state_outside_position_momentum_domains
 -- name    : HeathcoteUnbounded.state_outside_position_momentum_domains
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:36:59.980539+00:00
 -- url     : https://prove2.me/theorems/f7087546-b989-4962-b25a-bbcf2bec7098

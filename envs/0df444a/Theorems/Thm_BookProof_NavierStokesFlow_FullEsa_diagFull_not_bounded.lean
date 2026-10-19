@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_diagFull_not_bounded
 -- name    : BookProof.NavierStokesFlow.FullEsa.diagFull_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:21:39.454971+00:00
 -- url     : https://prove2.me/theorems/ba653d72-f923-4a4c-823d-20bbe1dc41cb

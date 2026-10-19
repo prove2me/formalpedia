@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_discounted_survival_annuity_conservation
 -- name    : actuarial_c_discounted_survival_annuity_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:22:55.174987+00:00
 -- url     : https://prove2.me/theorems/97e17f53-f3f8-41ad-bbb3-7d3e40054909

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Existence_limit_permutation_exists_and_realized
 -- name    : PermLimits.Existence.limit_permutation_exists_and_realized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:04:06.403802+00:00
 -- url     : https://prove2.me/theorems/f9682b1d-8db5-4e84-be4d-15cc06ed1a85

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ShiftedQuadraticDegenerate.shiftedHMatOp_symmetric_of_equilibrium
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:33:38.982922+00:00
 -- url     : https://prove2.me/submissions/7d7738ce-203c-4c36-8dba-98719f9c9821
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterShiftedQuadraticDegenerate.lean — solution of BookProof.ShiftedQuadraticDegenerate.shiftedHMatOp_symmetric_of_equilibrium
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAmpEst_Est_theorem_11_eight_over_pi_sq
 -- name    : QAmpEst.Est.theorem_11_eight_over_pi_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:56:26.586518+00:00
 -- url     : https://prove2.me/theorems/99513d56-968a-40a2-a548-1b4fb2bbdc54

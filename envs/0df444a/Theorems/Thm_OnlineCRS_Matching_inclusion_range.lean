@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Matching_inclusion_range
 -- name    : OnlineCRS.Matching.inclusion_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:19:20.036135+00:00
 -- url     : https://prove2.me/theorems/f97b91d9-4bea-4d77-9728-c9b6d563b6eb

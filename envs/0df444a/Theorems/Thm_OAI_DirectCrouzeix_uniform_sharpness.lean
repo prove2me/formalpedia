@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DirectCrouzeix_uniform_sharpness
 -- name    : OAI.DirectCrouzeix.uniform_sharpness
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:34.792656+00:00
 -- url     : https://prove2.me/theorems/0c1828de-65ff-47b7-b09e-e30fdec206f9

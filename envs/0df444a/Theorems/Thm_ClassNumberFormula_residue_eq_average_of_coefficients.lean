@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_residue_eq_average_of_coefficients
 -- name    : ClassNumberFormula.residue_eq_average_of_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:52:26.649614+00:00
 -- url     : https://prove2.me/theorems/ef0a550d-4790-4bfb-9a66-4c0896250213

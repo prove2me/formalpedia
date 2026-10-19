@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_uniformShell_geometry
 -- name    : NewtonGravitation.uniformShell_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T11:58:16.489114+00:00
 -- url     : https://prove2.me/theorems/2a057491-db57-4035-b07e-706aa0b94b2b

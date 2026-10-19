@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_Events_eq_27
 -- name    : SubsetShrink.Events.eq_27
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:22.459837+00:00
 -- url     : https://prove2.me/theorems/8f4331a0-06ce-4d47-a5f1-4da2695c7723

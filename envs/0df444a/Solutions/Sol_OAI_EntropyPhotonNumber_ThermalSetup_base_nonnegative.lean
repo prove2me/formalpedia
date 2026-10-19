@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.EntropyPhotonNumber.ThermalSetup.base_nonnegative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-10-16T07:59:06.604008+00:00
 -- url     : https://prove2.me/submissions/a4e2ad81-71ed-4a9a-b6b5-d893e4c560c3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from openai/math@1581d4c lean/OAI/InformationTheory/PhotonNumber/ThermalLimit.lean:L682-L726
 -- (upload_full_project.md Phase 4): solution for node OAI.EntropyPhotonNumber.ThermalSetup.base_nonnegative. The node keeps its source

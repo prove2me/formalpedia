@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterNote68AllModes.helmholtz_sbessel_solidHarmonicIm
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T15:01:38.843175+00:00
 -- url     : https://prove2.me/submissions/24994fd6-bda3-4f49-b9c3-75cacdc1cb6b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNote68AllModes.lean — solution of BookProof.ChapterNote68AllModes.helmholtz_sbessel_solidHarmonicIm
 import Mathlib

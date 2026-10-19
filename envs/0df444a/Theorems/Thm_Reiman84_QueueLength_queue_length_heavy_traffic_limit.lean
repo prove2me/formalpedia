@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reiman84_QueueLength_queue_length_heavy_traffic_limit
 -- name    : Reiman84.QueueLength.queue_length_heavy_traffic_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:06:56.488977+00:00
 -- url     : https://prove2.me/theorems/a76e29e9-025d-4e08-84fd-42387e2911f6

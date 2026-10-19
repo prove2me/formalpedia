@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_logEmbedding_image_isLattice
 -- name    : DirichletUnitTheorem.logEmbedding_image_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:02.932994+00:00
 -- url     : https://prove2.me/theorems/86702f87-d49b-4e60-9e17-bbd3d11ad52f

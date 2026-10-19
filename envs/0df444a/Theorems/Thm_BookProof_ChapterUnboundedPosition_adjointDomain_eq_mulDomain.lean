@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnboundedPosition_adjointDomain_eq_mulDomain
 -- name    : BookProof.ChapterUnboundedPosition.adjointDomain_eq_mulDomain
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:07:39.311081+00:00
 -- url     : https://prove2.me/theorems/5772edb8-926d-45cf-91ff-62dc5cbdf97b

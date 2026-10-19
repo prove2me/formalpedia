@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_eq_sup_partition_lcm
 -- name    : LandauFunction.landau_eq_sup_partition_lcm
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:33.22898+00:00
 -- url     : https://prove2.me/theorems/deaaf5dd-2ee9-4b8d-b92b-a65c6ace2120

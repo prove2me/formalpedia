@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeiBR_Async_lemma_2
 -- name    : LeiBR.Async.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:05:23.992658+00:00
 -- url     : https://prove2.me/theorems/2cf622ba-14ef-47f5-8d03-5dd1cbee4a83

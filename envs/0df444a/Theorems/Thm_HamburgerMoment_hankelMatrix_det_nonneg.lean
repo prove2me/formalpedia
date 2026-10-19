@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_hankelMatrix_det_nonneg
 -- name    : HamburgerMoment.hankelMatrix_det_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:03:06.416351+00:00
 -- url     : https://prove2.me/theorems/0844ad0d-ebaa-43e5-9a20-3ae1f3c881df

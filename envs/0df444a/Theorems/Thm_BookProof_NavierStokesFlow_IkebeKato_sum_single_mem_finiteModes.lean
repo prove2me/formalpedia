@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_sum_single_mem_finiteModes
 -- name    : BookProof.NavierStokesFlow.IkebeKato.sum_single_mem_finiteModes
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:00:08.960509+00:00
 -- url     : https://prove2.me/theorems/7fb3899e-0865-43d3-a268-8851da31a63b

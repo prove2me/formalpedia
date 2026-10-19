@@ -1,0 +1,533 @@
+-- Prove2me | Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+-- name    : MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+-- status  : Definition
+-- author  : @thomasvidick
+-- created : 2026-10-17T02:02:42.511398+00:00
+-- url     : https://prove2.me/theorems/2e10690b-20bc-44cf-9604-b1714bd3caa2
+-- title:
+--   Definitions of Interpolation: Section 12 — Definitions: interpolation Interpolation helpers extracted from `Pasting.Defs`
+-- statement:
+--   The definitions of the module `MIPRE.Background.LIDT.MIPStarRE.LDT.Pasting.Defs.Interpolation` of the MIP\* = RE formalization (commit `70cbf1c` of vidick/MIPRE-formalization). Section 12 — Definitions: interpolation. Interpolation helpers extracted from `Pasting.Defs`.
+--
+--   The module is vendored read-only, with the authors' permission, from [LionSR/MIPStarRE](https://github.com/LionSR/MIPStarRE) (Sirui Lu and the MIPStarRE contributors, Apache 2.0; commit and upstream path in the file header) by `scripts/vendor-lidt.py`.
+--
+--   **Definitions** (8): `MIPStarRE.LDT.Pasting.InterpolationSupportWitness` (Paper origin: `references/ldt-paper/ld-pasting.tex:473-482` (interpolation step of the second construction, requiring `|w| \geq d+1`…); `MIPStarRE.LDT.Pasting.extractSlicePoly` (Extract the polynomial from a genuine slice outcome.); `MIPStarRE.LDT.Pasting.fallbackInterpolatedPolynomial` (The distinguished global polynomial `h₀` used for the pasted completion outcome.); `MIPStarRE.LDT.Pasting.gHatTupleOutcomeTail` (Remove the first coordinate from a tuple of completed slice outcomes.); `MIPStarRE.LDT.Pasting.interpolateCompletedSlicesFromSupport` (Interpolate from a specified `d+1`-element index set to recover a polynomial in `m+1` variables via Lagrange interpolation.); `MIPStarRE.LDT.Pasting.interpolationEligible_decidablePred` (`InterpolationEligible params` is decidable without invoking classical logic: it is the finite inequality `d + 1 ≤ |support(gs)|`, where…); `MIPStarRE.LDT.Pasting.interpolationSupportWitness` (Paper origin: `references/ldt-paper/ld-pasting.tex:473-482` (interpolation step of the second construction, requiring `|w| \geq d+1`…); `MIPStarRE.LDT.Pasting.pointTupleTail` (Remove the first coordinate from a tuple of slice questions.).
+--
+--   **Embedded lemmas** (2): the small results the bodies of these definitions need (proof fields, `simp` rules, decidability and finiteness instances), proved inside the bundle so that it imports no unproved statement: `interpolateCompletedSlicesFromSupport_degree`, `natDegree_lagrangeBasis_le_card_sub_one`.
+--
+--   **Formalization Note** The bundle is the module `MIPRE.Background.LIDT.MIPStarRE.LDT.Pasting.Defs.Interpolation` (`MIPRE/Background/LIDT/MIPStarRE/LDT/Pasting/Defs/Interpolation.lean`) with every declaration not listed removed, imports rewritten to the bundles of the module's import closure; the declarations keep their names, statements and bodies; the source module is split over 19 imported bundle(s).
+-- source:
+--   https://github.com/vidick/MIPRE-formalization/blob/70cbf1c52e3d5e1dff1162fdf952c9a9f4bd99ed/MIPRE/Background/LIDT/MIPStarRE/LDT/Pasting/Defs/Interpolation.lean
+
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/Pasting/Defs/Interpolation.lean
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Background/LIDT/MIPStarRE/LDT/Pasting/Defs/Interpolation.lean (definition bundle: declarations the uploaded statements rest on);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.Algebra.Defs
+import Mathlib.Algebra.Algebra.Hom
+import Mathlib.Algebra.Algebra.Spectrum.Quasispectrum
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Finsupp.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.GroupWithZero.Action
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Defs
+import Mathlib.Algebra.CharP.Invertible
+import Mathlib.Algebra.CharZero.Defs
+import Mathlib.Algebra.Field.Basic
+import Mathlib.Algebra.Field.Defs
+import Mathlib.Algebra.Group.Action.Defs
+import Mathlib.Algebra.Group.Action.Pi
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Commute.Defs
+import Mathlib.Algebra.Group.Defs
+import Mathlib.Algebra.Group.Finsupp
+import Mathlib.Algebra.Group.Hom.Defs
+import Mathlib.Algebra.Group.Invertible.Defs
+import Mathlib.Algebra.Group.Nat.Defs
+import Mathlib.Algebra.Group.Pi.Basic
+import Mathlib.Algebra.Group.Subgroup.Defs
+import Mathlib.Algebra.Group.Submonoid.Defs
+import Mathlib.Algebra.Group.Subsemigroup.Defs
+import Mathlib.Algebra.GroupWithZero.Action.Defs
+import Mathlib.Algebra.GroupWithZero.Basic
+import Mathlib.Algebra.GroupWithZero.Defs
+import Mathlib.Algebra.GroupWithZero.Hom
+import Mathlib.Algebra.GroupWithZero.Invertible
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.GroupWithZero.NeZero
+import Mathlib.Algebra.GroupWithZero.Units.Basic
+import Mathlib.Algebra.Module.BigOperators
+import Mathlib.Algebra.Module.Defs
+import Mathlib.Algebra.Module.LinearMap.Defs
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Submodule.Defs
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MonoidAlgebra.Defs
+import Mathlib.Algebra.MonoidAlgebra.Module
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.Polynomial
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.NeZero
+import Mathlib.Algebra.Notation.Defs
+import Mathlib.Algebra.Notation.Pi.Defs
+import Mathlib.Algebra.Opposites
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Defs
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Group.Unbundled.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Canonical
+import Mathlib.Algebra.Order.IsBotOne
+import Mathlib.Algebra.Order.Module.Defs
+import Mathlib.Algebra.Order.Monoid.Defs
+import Mathlib.Algebra.Order.Monoid.Unbundled.Basic
+import Mathlib.Algebra.Order.Monoid.Unbundled.Defs
+import Mathlib.Algebra.Order.Nonneg.Basic
+import Mathlib.Algebra.Order.Nonneg.Module
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Defs
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Unbundled.Basic
+import Mathlib.Algebra.Order.Star.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Order.Sub.Defs
+import Mathlib.Algebra.Order.SuccPred
+import Mathlib.Algebra.Order.ZeroLEOne
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Defs
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.Operations
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.QuadraticDiscriminant
+import Mathlib.Algebra.Ring.Commute
+import Mathlib.Algebra.Ring.Defs
+import Mathlib.Algebra.Ring.Hom.Defs
+import Mathlib.Algebra.Ring.Int.Defs
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.Module
+import Mathlib.Algebra.Star.SelfAdjoint
+import Mathlib.Algebra.Star.StarProjection
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Instances
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.NonUnital
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.CStarAlgebra.Module.Defs
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.Convex.Cone.Basic
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Defs
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Normed.Field.Basic
+import Mathlib.Analysis.Normed.Field.Lemmas
+import Mathlib.Analysis.Normed.Group.Basic
+import Mathlib.Analysis.Normed.Group.Defs
+import Mathlib.Analysis.Normed.Lp.PiLp
+import Mathlib.Analysis.Normed.Lp.WithLp
+import Mathlib.Analysis.Normed.Module.Basic
+import Mathlib.Analysis.Normed.Ring.Basic
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Basic
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Complex.BigOperators
+import Mathlib.Data.ENNReal.Basic
+import Mathlib.Data.ENNReal.BigOperators
+import Mathlib.Data.ENNReal.Inv
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finite.Defs
+import Mathlib.Data.Finset.Attach
+import Mathlib.Data.Finset.BooleanAlgebra
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Defs
+import Mathlib.Data.Finset.Empty
+import Mathlib.Data.Finset.Erase
+import Mathlib.Data.Finset.Filter
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Insert
+import Mathlib.Data.Finset.Lattice.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finsupp.Defs
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.CardEmbedding
+import Mathlib.Data.Fintype.Defs
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sets
+import Mathlib.Data.FunLike.Basic
+import Mathlib.Data.FunLike.Equiv
+import Mathlib.Data.Int.Cast.Defs
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Basis
+import Mathlib.Data.Matrix.Block
+import Mathlib.Data.Matrix.Diagonal
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Multiset.Defs
+import Mathlib.Data.Multiset.MapFold
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Cast.Basic
+import Mathlib.Data.Nat.Cast.Defs
+import Mathlib.Data.Nat.Cast.Order.Basic
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Factorial.Basic
+import Mathlib.Data.Nat.Init
+import Mathlib.Data.Nat.Prime.Defs
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Real.Star
+import Mathlib.Data.Set.Defs
+import Mathlib.Data.SetLike.Basic
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.Geometry.Convex.Cone.Pointed
+import Mathlib.GroupTheory.GroupAction.Hom
+import Mathlib.GroupTheory.GroupAction.Ring
+import Mathlib.LinearAlgebra.Complex.Module
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.Logic.Basic
+import Mathlib.Logic.Embedding.Basic
+import Mathlib.Logic.Equiv.Defs
+import Mathlib.Logic.IsEmpty.Basic
+import Mathlib.Logic.IsEmpty.Defs
+import Mathlib.Logic.Nonempty
+import Mathlib.Logic.Nontrivial.Defs
+import Mathlib.Logic.Unique
+import Mathlib.Order.Basic
+import Mathlib.Order.Defs.LinearOrder
+import Mathlib.Order.Defs.PartialOrder
+import Mathlib.Order.Interval.Finset.Defs
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Order.Lattice
+import Mathlib.Order.Lattice.Nat
+import Mathlib.Order.Nat
+import Mathlib.Order.RelClasses
+import Mathlib.Order.SetNotation
+import Mathlib.Probability.Distributions.Uniform
+import Mathlib.Probability.ProbabilityMassFunction.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.CancelDenoms.Core
+import Mathlib.Tactic.FieldSimp.Lemmas
+import Mathlib.Tactic.Linarith.Lemmas
+import Mathlib.Tactic.NormNum.Basic
+import Mathlib.Tactic.NormNum.Ineq
+import Mathlib.Tactic.NormNum.Inv
+import Mathlib.Tactic.NormNum.Pow
+import Mathlib.Tactic.NormNum.Result
+import Mathlib.Tactic.Positivity.Core
+import Mathlib.Tactic.Ring.Basic
+import Mathlib.Tactic.Ring.Common
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.Field
+import Mathlib.Topology.Algebra.InfiniteSum.Basic
+import Mathlib.Topology.Algebra.InfiniteSum.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.SummationFilter
+import Mathlib.Topology.Algebra.Module.ClosedSubmodule
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.Basic
+import Mathlib.Topology.Algebra.Monoid
+import Mathlib.Topology.Algebra.Monoid.Defs
+import Mathlib.Topology.Algebra.Ring.Basic
+import Mathlib.Topology.Algebra.Ring.Real
+import Mathlib.Topology.Algebra.Star.Real
+import Mathlib.Topology.Basic
+import Mathlib.Topology.Constructions
+import Mathlib.Topology.Continuous
+import Mathlib.Topology.Defs.Basic
+import Mathlib.Topology.Instances.Matrix
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Defs
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+import Mathlib.Topology.Order.OrderClosed
+import Mathlib.Topology.Order.Real
+import Mathlib.Topology.Separation.Hausdorff
+import Mathlib.Topology.UniformSpace.Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Theorems.Thm_MIPStarRE_LDT_embedCoord_injective
+import Theorems.Thm_MIPStarRE_LDT_embedCoord_ne_lastCoord
+
+set_option backward.isDefEq.respectTransparency false
+
+/-!
+# Section 12 — Definitions: interpolation
+
+Interpolation helpers extracted from `Pasting.Defs`.
+-/
+
+namespace MIPStarRE.LDT.Pasting
+
+open MIPStarRE.LDT
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+/-- Remove the first coordinate from a tuple of slice questions. -/
+def pointTupleTail {params : Parameters} {k : ℕ}
+    (xs : PointTuple params (k + 1)) : PointTuple params k :=
+  fun i => xs i.succ
+
+/-- Remove the first coordinate from a tuple of completed slice outcomes. -/
+def gHatTupleOutcomeTail {params : Parameters} {k : ℕ}
+    [FieldModel params.q]
+    (gs : GHatTupleOutcome params (k + 1)) : GHatTupleOutcome params k :=
+  fun i => gs i.succ
+
+/-- The distinguished global polynomial `h₀` used for the pasted completion outcome.
+
+It is also the default value on tuples that have already been filtered out of the
+actual interpolation path (for example nonglobal tuples after the
+`IsGloballyConsistent` restriction).  We take `h₀` to be the zero polynomial, which
+trivially satisfies the low-individual-degree bound. -/
+noncomputable def fallbackInterpolatedPolynomial (params : Parameters) [FieldModel params.q] :
+    Polynomial params.next where
+  poly := 0
+  lowIndividualDegree := fun i =>
+    (MvPolynomial.degreeOf_zero i).trans_le (Nat.zero_le params.d)
+
+/-- Extract the polynomial from a genuine slice outcome. -/
+def extractSlicePoly {params : Parameters} {k : ℕ}
+    [FieldModel params.q]
+    (gs : GHatTupleOutcome params k) (i : Fin k)
+    (hi : i ∈ gHatTupleSupport gs) : Polynomial params := by
+  have hisSome : (gs i).isSome = true := by
+    simpa [gHatTupleSupport] using hi
+  exact (gs i).get hisSome
+
+/-- Each Lagrange basis polynomial has degree at most one less than the size of the
+interpolation support, without requiring distinct interpolation nodes. -/
+theorem natDegree_lagrangeBasis_le_card_sub_one {K ρ : Type*} [Field K] [DecidableEq ρ]
+    {s : Finset ρ} {v : ρ → K} {i : ρ} (hi : i ∈ s) :
+    (Lagrange.basis s v i).natDegree ≤ s.card - 1 := by
+  rw [Lagrange.basis]
+  calc
+    (∏ j ∈ s.erase i, Lagrange.basisDivisor (v i) (v j)).natDegree
+        ≤ ∑ j ∈ s.erase i, (Lagrange.basisDivisor (v i) (v j)).natDegree := by
+          exact _root_.Polynomial.natDegree_prod_le _ _
+    _ ≤ ∑ j ∈ s.erase i, 1 := by
+          exact Finset.sum_le_sum fun j _ => by
+            rw [Lagrange.basisDivisor]
+            exact (_root_.Polynomial.natDegree_C_mul_le _ _).trans
+              (_root_.Polynomial.natDegree_X_sub_C_le _)
+    _ = s.card - 1 := by
+          simp [Finset.card_erase_of_mem hi]
+
+/-- `InterpolationEligible params` is decidable without invoking classical logic:
+it is the finite inequality `d + 1 ≤ |support(gs)|`, where the support is computed
+by filtering the finite index set. -/
+instance interpolationEligible_decidablePred (params : Parameters) [FieldModel params.q]
+    {k : ℕ} : DecidablePred (InterpolationEligible params (k := k)) := by
+  intro gs
+  unfold InterpolationEligible gHatTupleHammingWeight gHatTupleSupport
+  infer_instance
+
+/-- Paper origin: `references/ldt-paper/ld-pasting.tex:473-482`
+(interpolation step of the second construction, requiring `|w| \geq d+1`
+genuine outcomes).
+
+A `d+1`-element interpolation support together with the proof fields that show it
+lies inside the genuine completed-slice support. The support is chosen from the
+finite-set existence theorem `Finset.exists_subset_card_eq`. -/
+structure InterpolationSupportWitness (params : Parameters) [FieldModel params.q]
+    {k : ℕ} (gs : GHatTupleOutcome params k) where
+  support : Finset (Fin k)
+  subset_support : support ⊆ gHatTupleSupport gs
+  card_eq : support.card = params.d + 1
+
+/-- Paper origin: `references/ldt-paper/ld-pasting.tex:473-482`
+(interpolation step of the second construction, requiring `|w| \geq d+1`
+genuine outcomes).
+
+Construct a `d+1`-point interpolation support inside the genuine support of an
+interpolation-eligible tuple.
+
+**Source:** This is the source-faithful finite-support selection required by the
+interpolation step cited above; the paper assumes such a support after the
+cardinality lower bound is known. -/
+noncomputable def interpolationSupportWitness {params : Parameters} {k : ℕ}
+    [FieldModel params.q] (gs : GHatTupleOutcome params k)
+    (hEligible : InterpolationEligible params gs) :
+    InterpolationSupportWitness params gs :=
+  let hs := Finset.exists_subset_card_eq (s := gHatTupleSupport gs)
+    (n := params.d + 1) (by
+      simpa [InterpolationEligible, gHatTupleHammingWeight] using hEligible)
+  { support := Classical.choose hs
+    subset_support := (Classical.choose_spec hs).1
+    card_eq := (Classical.choose_spec hs).2 }
+
+/-- The Lagrange interpolation expression has individual degree at most `d`. -/
+theorem interpolateCompletedSlicesFromSupport_degree
+    (params : Parameters) [FieldModel params.q] {k : ℕ} (xs : PointTuple params k)
+    (gs : GHatTupleOutcome params k) (σ : Finset (Fin k))
+    (hσsupport : σ ⊆ gHatTupleSupport gs) (hσcard : σ.card = params.d + 1)
+    (coord : Fin params.next.m) :
+    MvPolynomial.degreeOf coord
+      (∑ idx ∈ σ.attach,
+        let slicePoly :=
+          MvPolynomial.rename (embedCoord params)
+            (extractSlicePoly gs idx.1 (hσsupport idx.2)).poly
+        let Li : _root_.Polynomial (Scalar params) :=
+          Lagrange.basis σ (fun i => decodeScalar (xs i)) idx.1
+        let LiMv := Li.eval₂ MvPolynomial.C (MvPolynomial.X (lastCoord params))
+        LiMv * slicePoly) ≤ params.d := by
+  refine (MvPolynomial.degreeOf_sum_le coord σ.attach _).trans ?_
+  refine Finset.sup_le fun idx _hidx => ?_
+  let slice : Polynomial params := extractSlicePoly gs idx.1 (hσsupport idx.2)
+  let slicePoly : PolynomialModel params.next :=
+    MvPolynomial.rename (embedCoord params) slice.poly
+  let Li : _root_.Polynomial (Scalar params) :=
+    Lagrange.basis σ (fun i => decodeScalar (xs i)) idx.1
+  let LiMv : PolynomialModel params.next :=
+    Li.eval₂ MvPolynomial.C (MvPolynomial.X (lastCoord params))
+  have hLi_natDegree : Li.natDegree ≤ params.d := by
+    have hbasis : Li.natDegree ≤ σ.card - 1 := by
+      exact natDegree_lagrangeBasis_le_card_sub_one idx.2
+    simpa [Li, hσcard] using hbasis
+  by_cases hcoord : coord.val < params.m
+  · let oldCoord : Fin params.m := ⟨coord.val, hcoord⟩
+    have hcoord_eq : embedCoord params oldCoord = coord := by
+      ext
+      simp [embedCoord, oldCoord]
+    have hcoord_ne_last : coord ≠ lastCoord params := by
+      rw [← hcoord_eq]
+      exact embedCoord_ne_lastCoord params oldCoord
+    have hLiMv_zero : MvPolynomial.degreeOf coord LiMv ≤ 0 := by
+      have hdeg :=
+        (degreeOf_eval₂_C_X_le_natDegree
+          (p := Li) (i := coord) (j := lastCoord params))
+      rw [if_neg hcoord_ne_last] at hdeg
+      exact hdeg
+    have hslice : MvPolynomial.degreeOf coord slicePoly ≤ params.d := by
+      change MvPolynomial.degreeOf coord
+          (MvPolynomial.rename (embedCoord params) slice.poly :
+            PolynomialModel params.next) ≤ params.d
+      rw [← hcoord_eq, MvPolynomial.degreeOf_rename_of_injective
+        (embedCoord_injective params)]
+      exact slice.lowIndividualDegree oldCoord
+    calc
+      MvPolynomial.degreeOf coord (LiMv * slicePoly)
+          ≤ MvPolynomial.degreeOf coord LiMv + MvPolynomial.degreeOf coord slicePoly := by
+            exact MvPolynomial.degreeOf_mul_le _ _ _
+      _ ≤ 0 + params.d := Nat.add_le_add hLiMv_zero hslice
+      _ = params.d := by simp
+  · have hcoord_eq_last : coord = lastCoord params := by
+      have hlt_succ : coord.val < params.m + 1 := by
+        simpa [Parameters.next] using coord.isLt
+      have hle : params.m ≤ coord.val := Nat.le_of_not_gt hcoord
+      have hval : coord.val = params.m := le_antisymm (Nat.le_of_lt_succ hlt_succ) hle
+      ext
+      simp [lastCoord, hval]
+    subst coord
+    have hLiMv : MvPolynomial.degreeOf (lastCoord params) LiMv ≤ params.d := by
+      have hLiMv_nat :
+          MvPolynomial.degreeOf (lastCoord params) LiMv ≤ Li.natDegree := by
+        have hdeg :=
+          (degreeOf_eval₂_C_X_le_natDegree
+            (p := Li) (i := lastCoord params) (j := lastCoord params))
+        rw [if_pos rfl] at hdeg
+        exact hdeg
+      exact hLiMv_nat.trans hLi_natDegree
+    have hslice_zero : MvPolynomial.degreeOf (lastCoord params) slicePoly ≤ 0 := by
+      change MvPolynomial.degreeOf (lastCoord params)
+          (MvPolynomial.rename (embedCoord params) slice.poly :
+            PolynomialModel params.next) ≤ 0
+      rw [degreeOf_rename_embedCoord_lastCoord]
+    calc
+      MvPolynomial.degreeOf (lastCoord params) (LiMv * slicePoly)
+          ≤ MvPolynomial.degreeOf (lastCoord params) LiMv +
+              MvPolynomial.degreeOf (lastCoord params) slicePoly := by
+            exact MvPolynomial.degreeOf_mul_le _ _ _
+      _ ≤ params.d + 0 := Nat.add_le_add hLiMv hslice_zero
+      _ = params.d := by simp
+
+/-- Interpolate from a specified `d+1`-element index set to recover
+a polynomial in `m+1` variables via Lagrange interpolation.
+The caller must provide `hσsupport : σ ⊆ gHatTupleSupport gs`, i.e. every
+interpolation node is a genuine completed-slice outcome. This keeps the support
+precondition explicit instead of silently falling back to the zero polynomial.
+
+The degree bound (`lowIndividualDegree ≤ d`) holds for any `σ` with
+`σ.card = d+1`; the interpolation correctness property (that `restrictAtHeight`
+of the result agrees with each slice) additionally requires distinct evaluation
+points, which are ensured by the caller together with `hσsupport`.
+
+The coefficient is Mathlib's `Lagrange.basis σ v i`, the polynomial
+`∏ j ∈ σ.erase i, (X - v j) / (v i - v j)`, evaluated at the appended
+coordinate. -/
+noncomputable def interpolateCompletedSlicesFromSupport (params : Parameters)
+    [FieldModel params.q] {k : ℕ} (xs : PointTuple params k)
+    (gs : GHatTupleOutcome params k) (σ : Finset (Fin k))
+    (hσsupport : σ ⊆ gHatTupleSupport gs)
+    (hσcard : σ.card = params.d + 1) : Polynomial params.next where
+  poly := ∑ idx ∈ σ.attach,
+    let slicePoly :=
+      MvPolynomial.rename (embedCoord params)
+        (extractSlicePoly gs idx.1 (hσsupport idx.2)).poly
+    let Li : _root_.Polynomial (Scalar params) :=
+      Lagrange.basis σ (fun i => decodeScalar (xs i)) idx.1
+    let LiMv :=
+      Li.eval₂ MvPolynomial.C
+        (MvPolynomial.X (lastCoord params))
+    LiMv * slicePoly
+  lowIndividualDegree :=
+    interpolateCompletedSlicesFromSupport_degree params xs gs σ hσsupport hσcard
+
+end MIPStarRE.LDT.Pasting
+
+

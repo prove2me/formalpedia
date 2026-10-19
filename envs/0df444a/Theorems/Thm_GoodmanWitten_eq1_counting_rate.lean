@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_eq1_counting_rate
 -- name    : GoodmanWitten.eq1_counting_rate
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:52:36.578618+00:00
 -- url     : https://prove2.me/theorems/87621ad9-8a7f-45a1-af2f-59e8dc3d33b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_physConfOp_symmetricOn
 -- name    : BookProof.ScalaronDensitized.physConfOp_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:21:05.871032+00:00
 -- url     : https://prove2.me/theorems/243cc935-3614-4ed5-bf31-66430dce946e

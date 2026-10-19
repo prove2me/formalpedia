@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NewtonGravitation.gravField_uniformBall_outside
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-13T12:17:23.992296+00:00
 -- url     : https://prove2.me/submissions/99db809f-5e76-4997-b694-9e3375abf98d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NewtonGravitation_Defs
 import Theorems.Thm_NewtonGravitation_gravField_eq_enclosed_mass

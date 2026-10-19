@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_dusart_theta_log_four_finite_mesh_certificate
 -- name    : TaoFivePrimes.dusart_theta_log_four_finite_mesh_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-10-14T12:59:31.605976+00:00
 -- url     : https://prove2.me/theorems/ac40c234-e6c8-4c90-86d2-abb6b1f5f51a

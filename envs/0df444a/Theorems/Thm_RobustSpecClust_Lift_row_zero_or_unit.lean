@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Lift_row_zero_or_unit
 -- name    : RobustSpecClust.Lift.row_zero_or_unit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:21.371343+00:00
 -- url     : https://prove2.me/theorems/50584811-6af3-437a-a748-7e2be33a9211

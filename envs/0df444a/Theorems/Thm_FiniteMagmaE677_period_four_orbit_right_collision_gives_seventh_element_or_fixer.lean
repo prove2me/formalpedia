@@ -32,7 +32,7 @@
 --
 --   The growth alternative provides seven distinct elements with explicit source terms. It is one finite growth step under an exact period-four collision; it neither iterates the construction nor proves the general finite E677 implication.
 -- source:
---   Adam McKenna, The Missing Pair, revision 9b76827c2246f0e6288466768f15b5c6f9350d71; Piece1D4SeventhElementGrowth.lean, e677_minimalPeriodFour_orbitRightCollision_hasFixer_or_seventhElementGrowth; R/S branch algebra in Piece1D4RBranchGrowth.lean and Piece1D4SBranchGrowth.lean. https://github.com/flound1129/the-missing-pair/blob/9b76827c2246f0e6288466768f15b5c6f9350d71/lean/E677/Spine/Piece1D4SeventhElementGrowth.lean
+--   Adam McKenna, The Missing Pair (private repository), revision 9b76827c2246f0e6288466768f15b5c6f9350d71, lean/E677/Spine/Piece1D4SeventhElementGrowth.lean, theorem e677_minimalPeriodFour_orbitRightCollision_hasFixer_or_seventhElementGrowth; R/S branch algebra in Piece1D4RBranchGrowth.lean and Piece1D4SBranchGrowth.lean. The accepted proof on this platform is the public record.
 
 import Definitions.Def_FiniteMagmaE677_seventh_element_growth
 

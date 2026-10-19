@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatchingEntropyBounds_Refined_pointwise_entropy
 -- name    : OAI.MatchingEntropyBounds.Refined.pointwise_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:54.92598+00:00
 -- url     : https://prove2.me/theorems/78d05e3b-20b8-4561-a54a-a4a3e6f81377

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_creat_annih_commutator
 -- name    : BookProof.SmBrstGhost.creat_annih_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T12:59:46.387993+00:00
 -- url     : https://prove2.me/theorems/6211046c-1c21-44f9-a1bf-d4bc21b0aad7

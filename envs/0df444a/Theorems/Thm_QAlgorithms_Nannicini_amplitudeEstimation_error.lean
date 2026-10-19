@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_amplitudeEstimation_error
 -- name    : QAlgorithms.Nannicini.amplitudeEstimation_error
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:44:37.302209+00:00
 -- url     : https://prove2.me/theorems/74ab749b-b1f2-4c9e-8850-a213b6c3d301

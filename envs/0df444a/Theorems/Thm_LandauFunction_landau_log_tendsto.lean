@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_log_tendsto
 -- name    : LandauFunction.landau_log_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:07.295573+00:00
 -- url     : https://prove2.me/theorems/c124029a-4d8d-4340-8034-e6c08ab78f61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_decrement
 -- name    : actuarial_c_decrement
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:14:42.866981+00:00
 -- url     : https://prove2.me/theorems/c960905c-3f8a-4e73-ab31-741d4aad8b53

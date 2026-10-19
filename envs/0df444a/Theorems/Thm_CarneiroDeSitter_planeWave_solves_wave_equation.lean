@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_planeWave_solves_wave_equation
 -- name    : CarneiroDeSitter.planeWave_solves_wave_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T02:09:48.480967+00:00
 -- url     : https://prove2.me/theorems/9a9bce4f-fd68-4589-ba43-ec251edd888d

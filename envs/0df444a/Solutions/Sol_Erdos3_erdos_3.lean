@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos3.erdos_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:24:41.963407+00:00
 -- url     : https://prove2.me/submissions/6173b4b4-6384-4f07-950d-6700fca456b5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Erdos142Basic

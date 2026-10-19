@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RightRepair_Equilibrium_G39_problem4_opt
 -- name    : RightRepair.Equilibrium.G39_problem4_opt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:35.262132+00:00
 -- url     : https://prove2.me/theorems/67aea4e9-1c2e-438d-a913-e84c577b8c17

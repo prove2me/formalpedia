@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonicTools_fderiv_normSqPow
 -- name    : BookProof.ChapterSolidHarmonicTools.fderiv_normSqPow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:55:47.740224+00:00
 -- url     : https://prove2.me/theorems/fc294fcc-28dc-4a9c-aa63-cf2690b4f577

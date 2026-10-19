@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_fockComparison_ikebeKato
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.fockComparison_ikebeKato
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:21:27.084808+00:00
 -- url     : https://prove2.me/theorems/54e7da5e-ba6c-40f4-87a0-75fd32bdef47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_latticeFullHamiltonianCLM_ne_zero
 -- name    : BookProof.NavierStokesFlow.FullEsa.latticeFullHamiltonianCLM_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:18:55.040853+00:00
 -- url     : https://prove2.me/theorems/baaa71a3-e709-44e4-96e9-2cfb9f59cf6e

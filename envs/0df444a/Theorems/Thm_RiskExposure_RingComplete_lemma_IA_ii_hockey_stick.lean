@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskExposure_RingComplete_lemma_IA_ii_hockey_stick
 -- name    : RiskExposure.RingComplete.lemma_IA_ii_hockey_stick
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:17.640766+00:00
 -- url     : https://prove2.me/theorems/9e60ae1e-e837-4d9f-b1e6-26199548e6b6

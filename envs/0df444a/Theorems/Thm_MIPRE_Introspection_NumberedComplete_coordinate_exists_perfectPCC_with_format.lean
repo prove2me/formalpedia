@@ -1,0 +1,459 @@
+-- Prove2me | Theorems.Thm_MIPRE_Introspection_NumberedComplete_coordinate_exists_perfectPCC_with_format
+-- name    : MIPRE.Introspection.NumberedComplete.coordinate_exists_perfectPCC_with_format
+-- status  : Proved
+-- author  : @thomasvidick
+-- created : 2026-10-17T06:57:51.669509+00:00
+-- url     : https://prove2.me/theorems/a197ed41-bd6f-4875-9715-6dc6fcd29216
+-- title:
+--   The temporary coordinate game has a perfect honest PCC strategy, including the exact support facts needed after transporting back to the finite register
+-- statement:
+--   A statement of the module `MIPRE.Background.Introspection.NumberedComplete` of the MIP\* = RE formalization (commit `70cbf1c` of vidick/MIPRE-formalization). Honest guarded quotient completeness with the actual register numbering. The source CL family remains on its given coordinate type. Only its honest construction is expressed temporarily in the binary Weyl coordinates. Quotient transport then returns the strategy to the original coordinates, with exact dimension and with support certificates for both kinds of executable guards.
+--
+--   The temporary coordinate game has a perfect honest PCC strategy, including
+--   the exact support facts needed after transporting back to the finite register.
+--
+--   **Formal statement.** In Lean, with the scope shown:
+--
+--   ```lean
+--   open MIPRE
+--   open MIPRE.Introspection
+--   open MIPRE.Introspection.NumberedComplete
+--   open Finset MIPRE.CL Classical MIPRE.Introspection.BinaryComplete
+--   variable {F A I : Type*} [Field F] [Fintype F] [DecidableEq F]
+--
+--   theorem MIPRE.Introspection.NumberedComplete.coordinate_exists_perfectPCC_with_format
+--       (R : SyncStrategy (Honest.sourceGame L D).doubled)
+--       (hb : LowDegree.IsSelfDualBasis b) (hχ : ∀ s, LIDT.CL.chi hm (π s) = χ s)
+--       (hd : 1 ≤ d) (hL : ∀ w, (L w).SupportedOn univ) (hR : R.IsPCC) (hv : R.value = 1) :
+--       ∃ Q : SyncStrategy (AuxiliaryQuotient.reindexedGame e QLD.adj (.pauli .X) (.pauli .Z)
+--           (QLD.PauliCL.ExplicitSeed.binaryPresentation χ b) L (project (d := d) e b) D
+--           (ExplicitGame.pauliCheck hm π b)).doubled,
+--         Q.IsPCC ∧ Q.value = 1 ∧ Q.d = 2 * Fintype.card (Seed m t) * R.d ∧
+--         (∀ q a, Q.P.M q a ≠ 0 →
+--           PrefixGuard.holds (SourceReindex.family e L) q.2.1 a) ∧
+--         (∀ side w payload y a,
+--           Q.P.M (side, .inr (.introspect,w), payload) (.pair y a) ≠ 0 →
+--           ∃ x, (SourceReindex.family e L w).eval x = y) ∧
+--         (∀ side p payload a, Q.P.M (side,.inl p,payload) (.pauli a) ≠ 0 →
+--           (QLD.PauliCL.ExplicitSeed.binaryDecode π b p payload).fmtOk a = true)
+--   ```
+--
+--   **Formalization Note** `MIPRE.Introspection.NumberedComplete.coordinate_exists_perfectPCC_with_format` is declared in `MIPRE/Background/Introspection/NumberedComplete.lean`, lines 39–86. The binders, hypotheses and conclusion are exactly those of the Lean statement above; the uploaded statement elaborates to the same type as the declaration in the repository. The definitions it mentions are those of the published definition bundles of the module's import closure.
+-- source:
+--   https://github.com/vidick/MIPRE-formalization/blob/70cbf1c52e3d5e1dff1162fdf952c9a9f4bd99ed/MIPRE/Background/Introspection/NumberedComplete.lean#L39-L86
+
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Algebra
+import Mathlib.Algebra.CharP.Two
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Module.Basic
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Polynomial.AlgebraMap
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.SmallDegree
+import Mathlib.Algebra.Polynomial.Div
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Eval.Degree
+import Mathlib.Algebra.Polynomial.FieldDivision
+import Mathlib.Algebra.Polynomial.Monic
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Algebra.Polynomial.SpecificDegree
+import Mathlib.Algebra.Squarefree.Basic
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.Module
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.Computability.Primrec.List
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.ENat.Lattice
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Sum
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Rotate
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Nat.Bits
+import Mathlib.Data.Nat.Factorization.Basic
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Size
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Set.Basic
+import Mathlib.Data.ZMod.Basic
+import Mathlib.FieldTheory.Finite.Basic
+import Mathlib.FieldTheory.Finite.Extension
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.FieldTheory.Finite.Trace
+import Mathlib.FieldTheory.Galois.NormalBasis
+import Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure
+import Mathlib.FieldTheory.KummerExtension
+import Mathlib.FieldTheory.Minpoly.Finite
+import Mathlib.LinearAlgebra.Basis.Defs
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.LinearIndependent.Lemmas
+import Mathlib.LinearAlgebra.Matrix.Circulant
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.Notation
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.LinearAlgebra.Pi
+import Mathlib.Logic.Denumerable
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Order.Fin.Basic
+import Mathlib.RingTheory.AdjoinRoot
+import Mathlib.RingTheory.Coprime.Lemmas
+import Mathlib.RingTheory.Polynomial.Content
+import Mathlib.RingTheory.Polynomial.Cyclotomic.Factorization
+import Mathlib.RingTheory.RootsOfUnity.PrimitiveRoots
+import Mathlib.RingTheory.Trace.Basic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.DeriveFintype
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Module
+import Mathlib.Tactic.Ring
+import Definitions.Def_MIPRE_Foundations_Games
+import Definitions.Def_MIPRE_Foundations_Distances
+import Definitions.Def_MIPRE_Background_LIDT_Game
+import Definitions.Def_MIPRE_Foundations_CL_Register
+import Definitions.Def_MIPRE_Foundations_CL_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_CLGame
+import Definitions.Def_MIPRE_Foundations_CL_Basic
+import Definitions.Def_MIPRE_Foundations_Cost_Basic_B
+import Definitions.Def_MIPRE_Foundations_Cost_Encoding_B
+import Definitions.Def_MIPRE_Foundations_SAT_Circuit
+import Definitions.Def_MIPRE_Foundations_SAT_Cnf
+import Definitions.Def_MIPRE_Foundations_Cost_PolyTime
+import Definitions.Def_MIPRE_Foundations_CL_Closure_B
+import Definitions.Def_MIPRE_Foundations_CL_Sampler
+import Definitions.Def_MIPRE_Foundations_Verifier
+import Definitions.Def_MIPRE_Foundations_SAT_Succinct
+import Definitions.Def_MIPRE_Foundations_SAT_Decoupled
+import Definitions.Def_MIPRE_Foundations_Cost_Closure
+import Definitions.Def_MIPRE_Foundations_Cost_Loops_B
+import Definitions.Def_MIPRE_Foundations_Cost_Fold
+import Definitions.Def_MIPRE_Foundations_Cost_Unary
+import Definitions.Def_MIPRE_Foundations_Cost_Numeric_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_Encoding
+import Definitions.Def_MIPRE_Foundations_SAT_Pcp
+import Definitions.Def_MIPRE_Foundations_Closeness
+import Definitions.Def_MIPRE_Foundations_PerfectStrategy
+import Definitions.Def_MIPRE_Foundations_GameTransport
+import Definitions.Def_MIPRE_Foundations_GameDouble
+import Definitions.Def_MIPRE_Foundations_OpBound
+import Definitions.Def_MIPRE_Foundations_OpBound_B
+import Definitions.Def_MIPRE_Foundations_StateDistance
+import Definitions.Def_MIPRE_Foundations_StateDistance_B
+import Definitions.Def_MIPRE_Foundations_POVMValue
+import Definitions.Def_MIPRE_Foundations_Sign
+import Definitions.Def_MIPRE_Foundations_CrossConsistency
+import Definitions.Def_MIPRE_Foundations_CrossConsistency_B
+import Definitions.Def_MIPRE_Foundations_PVM
+import Definitions.Def_MIPRE_Foundations_PVM_B
+import Definitions.Def_MIPRE_Foundations_Commutation
+import Definitions.Def_MIPRE_Foundations_Dilation
+import Definitions.Def_MIPRE_Foundations_Expanded
+import Definitions.Def_MIPRE_Foundations_LowDegree_SchwartzZippel
+import Definitions.Def_MIPRE_Foundations_LowDegree_Anticomm
+import Definitions.Def_MIPRE_Foundations_Weyl
+import Definitions.Def_MIPRE_Foundations_Parseval
+import Definitions.Def_MIPRE_Foundations_Linearity
+import Definitions.Def_MIPRE_Foundations_Sandwich
+import Definitions.Def_MIPRE_Foundations_Pasting
+import Definitions.Def_MIPRE_Foundations_GameAdapt
+import Definitions.Def_MIPRE_Foundations_RegisterReindex
+import Definitions.Def_MIPRE_Foundations_RegisterReindex_B
+import Definitions.Def_MIPRE_Foundations_CL_Embedding
+import Definitions.Def_MIPRE_Foundations_CL_Graph
+import Definitions.Def_MIPRE_Foundations_CL_Detyping
+import Definitions.Def_MIPRE_Foundations_CL_DetypingLaw
+import Definitions.Def_MIPRE_Foundations_SampledGame
+import Definitions.Def_MIPRE_Foundations_CL_DetypingGame
+import Definitions.Def_MIPRE_Foundations_Cost_Codable_B
+import Definitions.Def_MIPRE_Foundations_Halting_Descriptions
+import Definitions.Def_MIPRE_Foundations_CL_Downsize
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryRepresentation
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryConstants
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryTrace
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotient
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNormalize
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDivision
+import Definitions.Def_MIPRE_Foundations_Cost_Binary
+import Definitions.Def_MIPRE_Foundations_SAT_Formula
+import Definitions.Def_MIPRE_Foundations_SAT_FmlLib
+import Definitions.Def_MIPRE_Foundations_SAT_Flatten
+import Definitions.Def_MIPRE_Foundations_Cost_Reader
+import Definitions.Def_MIPRE_Foundations_SAT_FmlProg
+import Definitions.Def_MIPRE_Foundations_SAT_ArrayProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryLinear
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryElimination
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryBasisProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryEchelon
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryEchelon_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryBasis
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySolve
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySolve_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryMatrixSolve
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryMatrixSolve_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryMatrixInverse
+import Definitions.Def_MIPRE_Foundations_LowDegree_SelfDualize
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySquareRoot
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCirculant
+import Definitions.Def_MIPRE_Foundations_Cost_Iterates
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCirculantProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCirculantProg_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryKernel
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGroupAlgebra
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGroupAlgebra_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_FiniteReducedComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_IdempotentSplit
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponents_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponentsProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponentsProg_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientFrobenius
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientFactors
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGCD
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryFactorization
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCyclotomicSeed
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySubstitution
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNonresidueLoop
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNonresidueCorrectness
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientOrbit
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryTraceBits
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOrbitPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOrbitDescent
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientTranslation
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCoprimeDegree
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComposedSumPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComposedSumProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOddPrimeProgram
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPrimePowerTrace
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreier
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierTower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierLoop
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryDegreeArithmetic
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryPrimality
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryPrimePower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDegreeFactors
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDegreeDecomposition
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPrimePowerDispatch
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryIrreducibleAssembly
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryIrreducibleConstructor
+import Definitions.Def_MIPRE_Foundations_LowDegree_Shoup
+import Definitions.Def_MIPRE_Foundations_LowDegree_ShoupCoefficients
+import Definitions.Def_MIPRE_Foundations_SAT_QuotientField
+import Definitions.Def_MIPRE_Foundations_SAT_FieldTrace
+import Definitions.Def_MIPRE_Foundations_SAT_FieldTrace_B
+import Definitions.Def_MIPRE_Foundations_SAT_FieldCoordinates
+import Definitions.Def_MIPRE_Foundations_Cost_BinaryArithmetic
+import Definitions.Def_MIPRE_Foundations_Introspection_SeedSelectorProg
+import Definitions.Def_MIPRE_Foundations_SAT_TraceGram
+import Definitions.Def_MIPRE_Foundations_LowDegree_SelfDual
+import Definitions.Def_MIPRE_Foundations_LowDegree_NormalBasis
+import Definitions.Def_MIPRE_Foundations_SAT_NormalGram
+import Definitions.Def_MIPRE_Foundations_SAT_FrobeniusAction
+import Definitions.Def_MIPRE_Foundations_SAT_NormalElement
+import Definitions.Def_MIPRE_Foundations_SAT_FrobeniusMatrix
+import Definitions.Def_MIPRE_Foundations_SAT_FrobeniusActionProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryFold
+import Definitions.Def_MIPRE_Foundations_SAT_NormalElementProg
+import Definitions.Def_MIPRE_Foundations_SAT_NormalElementProg_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryInverse
+import Definitions.Def_MIPRE_Foundations_Introspection_LineRepresentativeProg
+import Definitions.Def_MIPRE_Foundations_Cost_BinaryCompare
+import Definitions.Def_MIPRE_Foundations_Introspection_SeededLineProg
+import Definitions.Def_MIPRE_Foundations_Cost_TreeBits
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgFinite
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgParse
+import Definitions.Def_MIPRE_Foundations_SAT_BasisTransport
+import Definitions.Def_MIPRE_Foundations_SAT_EffectiveSelfDual
+import Definitions.Def_MIPRE_Foundations_SAT_EffectiveNormalBasis
+import Definitions.Def_MIPRE_Foundations_Introspection_BasisProg
+import Definitions.Def_MIPRE_Foundations_Introspection_BinaryBlockProg
+import Definitions.Def_MIPRE_Foundations_Introspection_BinaryBlockProg_B
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Geometry
+import Definitions.Def_MIPRE_Foundations_CL_DetypingQueries
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgBits
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgCall
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgRoute
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliStageProg
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliStageProg_B
+import Definitions.Def_MIPRE_Foundations_Cost_SizeProgram
+import Definitions.Def_MIPRE_Foundations_SAT_PcpFormat
+import Definitions.Def_MIPRE_Foundations_Halting_Lists_B
+import Definitions.Def_MIPRE_Foundations_Cost_Growth
+import Definitions.Def_MIPRE_Foundations_Halting_Arith
+import Definitions.Def_MIPRE_Foundations_Halting_Arith_B
+import Definitions.Def_MIPRE_Foundations_Repeat_Prims
+import Definitions.Def_MIPRE_Foundations_CL_Repeat
+import Definitions.Def_MIPRE_Foundations_Repeat_Bits
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDeciderRoute
+import Definitions.Def_MIPRE_Foundations_LowDegree_LineRestrict
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Seeds
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Reparam
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Strategy
+import Definitions.Def_MIPRE_Foundations_Introspection_ParserBits
+import Definitions.Def_MIPRE_Foundations_Introspection_ParserAnswers
+import Definitions.Def_MIPRE_Foundations_Introspection_DynamicParserSlice
+import Definitions.Def_MIPRE_LCS_Basic
+import Definitions.Def_MIPRE_LCS_Common
+import Definitions.Def_MIPRE_LCS_Measurement
+import Definitions.Def_MIPRE_LCS_Observable
+import Definitions.Def_MIPRE_LCS_Strategy_ObservableToProjector
+import Definitions.Def_MIPRE_LCS_NonlocalGame
+import Definitions.Def_MIPRE_LCS_Pauli
+import Definitions.Def_MIPRE_LCS_MagicSquare_Strategy
+import Definitions.Def_MIPRE_LCS_MagicSquare_Game
+import Definitions.Def_MIPRE_Background_QLD_Game
+import Definitions.Def_MIPRE_Background_QLD_CLPresentation
+import Definitions.Def_MIPRE_Background_QLD_CLBinary
+import Definitions.Def_MIPRE_Background_QLD_CLExplicitSeed
+import Definitions.Def_MIPRE_Background_QLD_PauliStagePrograms
+import Definitions.Def_MIPRE_Background_QLD_TypeEncoding
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldAnswerParserProg
+import Definitions.Def_MIPRE_Background_QLD_PauliAnswerPrograms
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldIndicatorProg
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldTableProg
+import Definitions.Def_MIPRE_Background_QLD_PauliAnswerCoding
+import Definitions.Def_MIPRE_Background_QLD_BinaryBlocks
+import Definitions.Def_MIPRE_Foundations_WeylEPR
+import Definitions.Def_MIPRE_Foundations_WeylBinary
+import Definitions.Def_MIPRE_Background_QLD_PauliFullAnswerPrograms
+import Definitions.Def_MIPRE_Foundations_Introspection_Types
+import Definitions.Def_MIPRE_Foundations_Introspection_SamplingPrefix
+import Definitions.Def_MIPRE_Foundations_Introspection_TwirlDistance
+import Definitions.Def_MIPRE_Foundations_Introspection_LinearMeasurement
+import Definitions.Def_MIPRE_Foundations_Introspection_CommutatorParseval
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockTwirl
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockPOVM
+import Definitions.Def_MIPRE_Foundations_Introspection_EPR
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockRetention
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliMixing
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterTransport
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterEPR
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterMixing
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterCoordinates
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPredicate
+import Definitions.Def_MIPRE_Foundations_Introspection_Readout
+import Definitions.Def_MIPRE_Foundations_Introspection_FinalExtraction
+import Definitions.Def_MIPRE_Foundations_Introspection_TypeGraph
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestCore
+import Definitions.Def_MIPRE_Foundations_Introspection_ConditionalNormalizer
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestFirstHide
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestAdaptive
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestRead
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestXCoordinates
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingStep
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHiding
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestLabelSupport
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPresentation
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedEstimates
+import Definitions.Def_MIPRE_Foundations_Introspection_HidingRigidity
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingAcceptance
+import Definitions.Def_MIPRE_Foundations_Introspection_HidingMaps
+import Definitions.Def_MIPRE_Foundations_Introspection_ConditionalNormalizerIdeal
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPrefixChain
+import Definitions.Def_MIPRE_Foundations_Introspection_ReadChainMaps
+import Definitions.Def_MIPRE_Foundations_Introspection_AdaptiveResidual
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryCanonicalProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryDualProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryDualKernel
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryDualDecode
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryQuotientChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_PrefixGuard
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestMagicSquare
+import Definitions.Def_MIPRE_Background_Introspection_HonestPauliObservables
+import Definitions.Def_MIPRE_Background_Introspection_HonestPauliMeasurements
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestCoreGame
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestReading
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestParsed
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestParsedHiding
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestCompleteAux
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestPauliRegister
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestSampling
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestPauliEdges
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Value
+import Definitions.Def_MIPRE_Background_Introspection_HonestPauliEdges
+import Definitions.Def_MIPRE_Background_Introspection_HonestPauliGame
+import Definitions.Def_MIPRE_Background_Introspection_BinaryMeasurements
+import Definitions.Def_MIPRE_Background_Introspection_BinaryAnchors
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliRestriction
+import Definitions.Def_MIPRE_Background_QLD_CLTransport
+import Definitions.Def_MIPRE_Background_Introspection_PauliRestriction
+import Definitions.Def_MIPRE_Background_QLD_CLExplicitTransport
+import Definitions.Def_MIPRE_Foundations_GameTransportProjection
+import Definitions.Def_MIPRE_Background_Introspection_ExplicitGame
+import Definitions.Def_MIPRE_Background_Introspection_BinarySampled
+import Definitions.Def_MIPRE_Background_Introspection_BinaryGame
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedQuotientPredicate
+import Definitions.Def_MIPRE_Foundations_GameTransportByQuestion
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedQuotientGame
+import Definitions.Def_MIPRE_Background_Introspection_BinaryQuotientComplete
+import Definitions.Def_MIPRE_Foundations_Introspection_SourceReindex
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryQuotientReindex
+import Definitions.Def_MIPRE_Foundations_Introspection_PrefixGuardGame
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedQuotientReindex
+import Definitions.Def_MIPRE_Background_Introspection_NumberedComplete
+
+open MIPRE
+open MIPRE.Introspection
+open MIPRE.Introspection.NumberedComplete
+open Finset MIPRE.CL Classical MIPRE.Introspection.BinaryComplete
+set_option linter.unusedSectionVars false
+variable {F A I : Type*} [Field F] [Fintype F] [DecidableEq F]
+  [Algebra (ZMod 2) F] [Fintype A] [DecidableEq A] [Fintype I] [DecidableEq I]
+  {m t d ℓ : ℕ} [NeZero m]
+  (e : I ≃ Coord m t) (L : Bool → CLFun (ZMod 2) I ℓ)
+  (D : (I → ZMod 2) → (I → ZMod 2) → A → A → Bool)
+  (hm : m ∣ Fintype.card F) (b : Module.Basis (Fin t) (ZMod 2) F)
+  (χ : F → Fin m) (π : F ≃ F)
+
+theorem MIPRE.Introspection.NumberedComplete.coordinate_exists_perfectPCC_with_format
+    (R : SyncStrategy (Honest.sourceGame L D).doubled)
+    (hb : LowDegree.IsSelfDualBasis b) (hχ : ∀ s, LIDT.CL.chi hm (π s) = χ s)
+    (hd : 1 ≤ d) (hL : ∀ w, (L w).SupportedOn univ) (hR : R.IsPCC) (hv : R.value = 1) :
+    ∃ Q : SyncStrategy (AuxiliaryQuotient.reindexedGame e QLD.adj (.pauli .X) (.pauli .Z)
+        (QLD.PauliCL.ExplicitSeed.binaryPresentation χ b) L (project (d := d) e b) D
+        (ExplicitGame.pauliCheck hm π b)).doubled,
+      Q.IsPCC ∧ Q.value = 1 ∧ Q.d = 2 * Fintype.card (Seed m t) * R.d ∧
+      (∀ q a, Q.P.M q a ≠ 0 →
+        PrefixGuard.holds (SourceReindex.family e L) q.2.1 a) ∧
+      (∀ side w payload y a,
+        Q.P.M (side, .inr (.introspect,w), payload) (.pair y a) ≠ 0 →
+        ∃ x, (SourceReindex.family e L w).eval x = y) ∧
+      (∀ side p payload a, Q.P.M (side,.inl p,payload) (.pauli a) ≠ 0 →
+        (QLD.PauliCL.ExplicitSeed.binaryDecode π b p payload).fmtOk a = true) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MTT_Eigenform_exists_oldform_dilation_expansion
 -- name    : MTT.Eigenform.exists_oldform_dilation_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @riccardo.brasca
 -- created : 2026-09-29T14:26:09.997703+00:00
 -- url     : https://prove2.me/theorems/6eb58448-89aa-4c20-8531-2406e0373864

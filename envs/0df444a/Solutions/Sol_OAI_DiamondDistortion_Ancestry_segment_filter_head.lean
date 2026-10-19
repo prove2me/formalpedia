@@ -1,0 +1,77 @@
+-- Prove2me | solution 1 for OAI.DiamondDistortion.Ancestry.segment_filter_head
+-- status  : ACCEPTED   (prove)
+-- author  : @Shuze Chen
+-- created : 2026-10-19T01:31:01.703995+00:00
+-- url     : https://prove2.me/submissions/ca198f4d-a297-4dcf-8a09-d7e56700ba79
+
+-- Generated from openai/math@1581d4c lean/OAI/Analysis/DiamondDistortion/Ancestry.lean:L58-L79
+-- (upload_full_project.md Phase 4): solution for node OAI.DiamondDistortion.Ancestry.segment_filter_head. The node keeps its source
+-- declaration (inside its namespace, so name resolution is unchanged) next to the proof-only
+-- helpers it needs; the top-level `theorem solution` has its type (`type_of%`) and is proved by it.
+import Mathlib
+import Definitions.Def_DiamondDistortion
+import Definitions.Def_OAI_Analysis_DiamondDistortion_SegmentNorm
+import Definitions.Def_OAI_Analysis_DiamondDistortion_Ancestry
+
+-- ---- from OAI.Analysis.DiamondDistortion.Ancestry ----
+-- Lean 4.33.1 equivalents of the upstream Lean 4.34 theorem names.
+namespace OAI
+
+universe u v
+
+noncomputable section
+open scoped BigOperators Classical Topology
+open Set
+
+namespace DiamondDistortion
+
+namespace Ancestry
+open scoped Classical
+variable {ι : Type*} [A : Ancestry ι]
+attribute [local instance] OAI.DiamondDistortion.Ancestry.instPartialOrder
+lemma interval_chain {S : Finset ι} (hS : A.segments.IsSegment S) :
+    ∀ a ∈ S, ∀ b ∈ S, a ≤ b ∨ b ≤ a := by
+  obtain ⟨l, r, _, hmem⟩ := hS
+  intro a ha b hb
+  exact A.predecessors_total ((hmem a).mp ha).2 ((hmem b).mp hb).2
+
+lemma segment_filter_head {S : Finset ι} (hS : A.segments.IsSegment S)
+    {H : Set ι} (hH : A.Ancestral H) :
+    (S.filter (· ∈ H)).Nonempty → A.segments.IsSegment (S.filter (· ∈ H)) := by
+  classical
+  intro hne
+  obtain ⟨c, hc, hmax⟩ := Finset.exists_maximal hne
+  have hcS : c ∈ S := (Finset.mem_filter.mp hc).1
+  have hcH : c ∈ H := (Finset.mem_filter.mp hc).2
+  have hgreat : ∀ v ∈ S.filter (· ∈ H), v ≤ c := by
+    intro v hv
+    rcases A.interval_chain hS c hcS v (Finset.mem_filter.mp hv).1 with h | h
+    · exact hmax hv h
+    · exact h
+  obtain ⟨a, b, hab, hmem⟩ := hS
+  refine ⟨a, c, ((hmem c).mp hcS).1, ?_⟩
+  intro v
+  simp only [Finset.mem_filter]
+  constructor
+  · intro hv
+    exact ⟨((hmem v).mp hv.1).1, hgreat v (Finset.mem_filter.mpr hv)⟩
+  · intro hv
+    exact ⟨(hmem v).mpr ⟨hv.1, hv.2.trans ((hmem c).mp hcS).2⟩, hH hv.2 hcH⟩
+
+end Ancestry
+
+end DiamondDistortion
+
+end
+
+end OAI
+
+-- ---- platform node ----
+open OAI OAI.DiamondDistortion OAI.DiamondDistortion.Ancestry
+open scoped BigOperators Classical Topology
+open Set
+open scoped Classical
+attribute [local instance] OAI.DiamondDistortion.Ancestry.instPartialOrder
+
+
+theorem solution : type_of% @_root_.OAI.DiamondDistortion.Ancestry.segment_filter_head := @_root_.OAI.DiamondDistortion.Ancestry.segment_filter_head

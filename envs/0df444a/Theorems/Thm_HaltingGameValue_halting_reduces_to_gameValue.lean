@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HaltingGameValue_halting_reduces_to_gameValue
 -- name    : HaltingGameValue.halting_reduces_to_gameValue
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T08:29:53.289704+00:00
 -- url     : https://prove2.me/theorems/7f0a0737-afba-4747-84f7-09fe6d0e0c6a

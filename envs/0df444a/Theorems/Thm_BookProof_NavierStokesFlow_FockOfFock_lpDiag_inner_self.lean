@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_lpDiag_inner_self
 -- name    : BookProof.NavierStokesFlow.FockOfFock.lpDiag_inner_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:57:10.379261+00:00
 -- url     : https://prove2.me/theorems/b0c06d07-6276-47c9-ae80-f73e17ab328a

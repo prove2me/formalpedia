@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_root_annual_fractional_continuous_reconciliation_corrected
 -- name    : ActuarialAnnuitiesBridge.root_annual_fractional_continuous_reconciliation_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-15T18:56:12.595992+00:00
 -- url     : https://prove2.me/theorems/12253014-d474-4521-8061-0c93fe249d4b

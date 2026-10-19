@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxMaxEntropy_shannonEntropy_scoreSoftmax
 -- name    : BookProof.ChapterSoftmaxMaxEntropy.shannonEntropy_scoreSoftmax
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:34:58.301549+00:00
 -- url     : https://prove2.me/theorems/adf7986e-77c8-4689-a3af-1327cac1c33e

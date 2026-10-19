@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContWeatherall_homotopy_formula
 -- name    : ContWeatherall.homotopy_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T22:14:40.812711+00:00
 -- url     : https://prove2.me/theorems/c0d5bcea-6ccb-4f9d-9102-4b9bdf7e9911

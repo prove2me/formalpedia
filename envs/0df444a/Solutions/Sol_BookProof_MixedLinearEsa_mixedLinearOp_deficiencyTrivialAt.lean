@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.MixedLinearEsa.mixedLinearOp_deficiencyTrivialAt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-12T07:03:09.607163+00:00
 -- url     : https://prove2.me/submissions/a32b25de-ae26-434e-b2ed-6564f8e6307a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMixedLinearEsa.lean — solution of BookProof.MixedLinearEsa.mixedLinearOp_deficiencyTrivialAt
 import Mathlib

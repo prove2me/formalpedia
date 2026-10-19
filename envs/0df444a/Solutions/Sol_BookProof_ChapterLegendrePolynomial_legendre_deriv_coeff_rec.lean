@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterLegendrePolynomial.legendre_deriv_coeff_rec
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T15:30:38.065167+00:00
 -- url     : https://prove2.me/submissions/e81b7fe3-43bd-473c-ab28-7ce1569d7ba1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterLegendrePolynomial.lean — solution of BookProof.ChapterLegendrePolynomial.legendre_deriv_coeff_rec
 import Mathlib

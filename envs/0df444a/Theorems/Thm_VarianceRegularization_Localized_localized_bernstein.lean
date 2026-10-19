@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Localized_localized_bernstein
 -- name    : VarianceRegularization.Localized.localized_bernstein
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:42:55.464216+00:00
 -- url     : https://prove2.me/theorems/853b29b8-3742-481e-9e88-61740a94e74b

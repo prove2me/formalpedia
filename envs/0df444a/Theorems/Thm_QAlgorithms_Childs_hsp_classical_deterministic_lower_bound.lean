@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_hsp_classical_deterministic_lower_bound
 -- name    : QAlgorithms.Childs.hsp_classical_deterministic_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:32:34.963116+00:00
 -- url     : https://prove2.me/theorems/e0362b0f-d424-4ff8-a16b-44e9a61305bd

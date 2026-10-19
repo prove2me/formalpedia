@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_matterGen_lie
 -- name    : BookProof.SmBrstGhost.matterGen_lie
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:25:59.827983+00:00
 -- url     : https://prove2.me/theorems/047dd932-4081-4e40-ab41-9abcbbbe70a2

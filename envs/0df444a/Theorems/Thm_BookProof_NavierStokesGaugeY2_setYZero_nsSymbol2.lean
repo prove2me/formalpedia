@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesGaugeY2_setYZero_nsSymbol2
 -- name    : BookProof.NavierStokesGaugeY2.setYZero_nsSymbol2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:20:01.276624+00:00
 -- url     : https://prove2.me/theorems/7c0ceacd-39d1-4f11-b29f-97a4bfe7cf41

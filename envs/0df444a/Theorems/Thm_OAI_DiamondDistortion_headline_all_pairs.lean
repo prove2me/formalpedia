@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiamondDistortion_headline_all_pairs
 -- name    : OAI.DiamondDistortion.headline_all_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:34.139234+00:00
 -- url     : https://prove2.me/theorems/a251689a-160a-4923-8b1f-05ffdc94ef44

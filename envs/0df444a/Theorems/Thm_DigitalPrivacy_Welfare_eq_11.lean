@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DigitalPrivacy_Welfare_eq_11
 -- name    : DigitalPrivacy.Welfare.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:32:44.711891+00:00
 -- url     : https://prove2.me/theorems/74cd6ab3-8804-4b69-840b-920c55b34190

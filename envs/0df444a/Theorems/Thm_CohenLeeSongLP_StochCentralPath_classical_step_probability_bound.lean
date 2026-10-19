@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohenLeeSongLP_StochCentralPath_classical_step_probability_bound
 -- name    : CohenLeeSongLP.StochCentralPath.classical_step_probability_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:42:44.658987+00:00
 -- url     : https://prove2.me/theorems/8eb846b5-d0bb-44f8-8b7d-ac4c0c973ff8

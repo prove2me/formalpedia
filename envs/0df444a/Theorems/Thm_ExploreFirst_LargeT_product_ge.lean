@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_LargeT_product_ge
 -- name    : ExploreFirst.LargeT.product_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:11:19.638799+00:00
 -- url     : https://prove2.me/theorems/4790fadc-c012-497e-8897-f569f1450ed9

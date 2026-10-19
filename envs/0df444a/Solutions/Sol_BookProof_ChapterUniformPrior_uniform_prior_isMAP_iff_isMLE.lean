@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterUniformPrior.uniform_prior_isMAP_iff_isMLE
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:13:54.456559+00:00
 -- url     : https://prove2.me/submissions/d775be82-069c-4e9d-b4c5-fd451998fe24
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterUniformPrior.lean — solution of BookProof.ChapterUniformPrior.uniform_prior_isMAP_iff_isMLE
 import Mathlib

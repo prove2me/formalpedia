@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_AFB_lemma_B_2
 -- name    : NAGFlow.AFB.lemma_B_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:40:30.747737+00:00
 -- url     : https://prove2.me/theorems/77e5c9a5-2a44-482c-8c87-f6b6b26b7beb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_solidHarmonicIm_euler
 -- name    : BookProof.ChapterSolidHarmonic.solidHarmonicIm_euler
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:56:51.860167+00:00
 -- url     : https://prove2.me/theorems/cd32321b-012c-40bf-b6fb-bdf13bf00b67

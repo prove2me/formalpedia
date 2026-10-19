@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxTemperatureMonotone_scoreSoftmax_min_le_inv_card
 -- name    : BookProof.ChapterSoftmaxTemperatureMonotone.scoreSoftmax_min_le_inv_card
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:38:12.513788+00:00
 -- url     : https://prove2.me/theorems/16849eb1-b4ca-4622-b5db-dc404e7b475a

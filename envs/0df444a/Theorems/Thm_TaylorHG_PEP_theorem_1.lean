@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaylorHG_PEP_theorem_1
 -- name    : TaylorHG.PEP.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:00.713974+00:00
 -- url     : https://prove2.me/theorems/1e4efde7-6f0d-40c5-a21e-3e6e685eb33d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_gch_aleph_pow_of_lt_cof
 -- name    : ContinuumHypothesis.gch_aleph_pow_of_lt_cof
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:34:45.904802+00:00
 -- url     : https://prove2.me/theorems/b17113f6-7844-4b28-bef8-4625662f7f43

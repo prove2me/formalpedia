@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohenLeeSongLP_StochCentralPath_potential_expected_decrease
 -- name    : CohenLeeSongLP.StochCentralPath.potential_expected_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:42:33.173862+00:00
 -- url     : https://prove2.me/theorems/43bbde64-b60a-4569-aece-f8e5303613a9

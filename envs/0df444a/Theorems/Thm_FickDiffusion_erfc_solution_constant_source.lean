@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_erfc_solution_constant_source
 -- name    : FickDiffusion.erfc_solution_constant_source
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:23.391781+00:00
 -- url     : https://prove2.me/theorems/2a5483fa-aa08-4cde-aeb2-149b2543e2cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_helmholtz_sbessel_zero
 -- name    : BookProof.ChapterRadialLaplacian.helmholtz_sbessel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:47:04.303857+00:00
 -- url     : https://prove2.me/theorems/15ccdcb2-284b-4cf1-b0b0-00bc8f502e58

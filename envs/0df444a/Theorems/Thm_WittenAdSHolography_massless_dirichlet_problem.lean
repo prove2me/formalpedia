@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WittenAdSHolography_massless_dirichlet_problem
 -- name    : WittenAdSHolography.massless_dirichlet_problem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:33:21.159718+00:00
 -- url     : https://prove2.me/theorems/8a80a0f9-eb15-4b98-8471-63f03deecf48

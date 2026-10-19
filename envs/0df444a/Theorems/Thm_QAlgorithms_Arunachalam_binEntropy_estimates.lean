@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_binEntropy_estimates
 -- name    : QAlgorithms.Arunachalam.binEntropy_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:08.100091+00:00
 -- url     : https://prove2.me/theorems/f6860ffa-f428-4161-9c9f-4e7b6a95db32

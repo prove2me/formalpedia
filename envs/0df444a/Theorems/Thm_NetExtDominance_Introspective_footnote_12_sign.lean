@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetExtDominance_Introspective_footnote_12_sign
 -- name    : NetExtDominance.Introspective.footnote_12_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:14.597726+00:00
 -- url     : https://prove2.me/theorems/9e01f7b0-66b2-44ec-bd4f-efc3e3d8c3be

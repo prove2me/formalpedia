@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Tao_eq8_BTB_le
 -- name    : PlunneckeType.Tao.eq8_BTB_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:31.571306+00:00
 -- url     : https://prove2.me/theorems/9afd5e91-eec1-459a-b7d0-83180e85b7c1

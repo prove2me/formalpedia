@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_genType_bShift
 -- name    : GeneralizedComplex.genType_bShift
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:54:01.414777+00:00
 -- url     : https://prove2.me/theorems/8fa00702-5d09-45e0-acb3-234487cf6302

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyPhotonNumber_SpectralLogData_centeredEnergy_lowerEnergy
 -- name    : OAI.EntropyPhotonNumber.SpectralLogData.centeredEnergy_lowerEnergy
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-16T02:53:37.252151+00:00
 -- url     : https://prove2.me/theorems/62063188-723b-433f-8ade-1ea339ea5e79

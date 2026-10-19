@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_shapeF_equilateral_and_squeezed
 -- name    : Maldacena2003.shapeF_equilateral_and_squeezed
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:53:58.077644+00:00
 -- url     : https://prove2.me/theorems/04c9dc58-45c4-4080-acec-e13691b83366

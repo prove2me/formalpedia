@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_shiftedHMatOp_rotConj_deficiencyTrivialAt
 -- name    : BookProof.ShiftedQuadraticMatrix.shiftedHMatOp_rotConj_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:47:14.929376+00:00
 -- url     : https://prove2.me/theorems/f0a2b585-9ed8-4c9c-b69c-3e0e0abc1a1f

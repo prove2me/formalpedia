@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_recipient_constant_entitlement
 -- name    : actuarial_c_cont_recipient_constant_entitlement
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:36:39.442979+00:00
 -- url     : https://prove2.me/theorems/53eb9635-8fca-457c-8e68-ccc1bf911f8d

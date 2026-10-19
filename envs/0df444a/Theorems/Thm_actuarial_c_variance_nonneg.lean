@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_variance_nonneg
 -- name    : actuarial_c_variance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:24:43.50908+00:00
 -- url     : https://prove2.me/theorems/2510ed2e-2f51-4104-b186-af2e80c7e30f

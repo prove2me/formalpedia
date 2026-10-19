@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_pow_isBenfordSeq_of_irrational_logb
 -- name    : BenfordLaw.pow_isBenfordSeq_of_irrational_logb
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:35:21.901821+00:00
 -- url     : https://prove2.me/theorems/f488996b-44bd-4d71-b4fa-07603053c706

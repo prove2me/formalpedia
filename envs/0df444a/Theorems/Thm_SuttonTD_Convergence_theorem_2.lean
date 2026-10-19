@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonTD_Convergence_theorem_2
 -- name    : SuttonTD.Convergence.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:50:42.920979+00:00
 -- url     : https://prove2.me/theorems/123020ea-df4b-4186-ac3b-3d54ae57964d

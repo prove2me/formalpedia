@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_exp_unitary_conj
 -- name    : QAlgorithms.Nannicini.exp_unitary_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:01.722986+00:00
 -- url     : https://prove2.me/theorems/026bcb5c-18c8-43e4-9774-a1ec0df82ef8

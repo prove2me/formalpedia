@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos3_erdos_3
 -- name    : Erdos3.erdos_3
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:08:28.485766+00:00
 -- url     : https://prove2.me/theorems/a1db8c60-1097-413f-911f-0f9d4b2ec14f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_isNoetherianScheme_Spec_iff
 -- name    : NoetherianScheme.isNoetherianScheme_Spec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:34:34.285293+00:00
 -- url     : https://prove2.me/theorems/bd94a6d4-aba9-469b-806e-83530527b944

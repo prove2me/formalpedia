@@ -13,7 +13,7 @@
 --
 --   The conclusion supplies both the q-square seed facts and this complete refined outcome. It does not establish recursive renewal or a fixer at $x$.
 -- source:
---   https://github.com/flound1129/the-missing-pair/blob/f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c/lean/E677/Spine/Piece1D4SSwapQSquareRenewal.lean#L35 and https://github.com/flound1129/the-missing-pair/blob/f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c/lean/E677/Spine/Piece1D4SSwapPNewQSquareRenewal.lean#L377
+--   Adam McKenna, The Missing Pair (private repository), revision f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c, lean/E677/Spine/Piece1D4SSwapQSquareRenewal.lean, line 35, and lean/E677/Spine/Piece1D4SSwapPNewQSquareRenewal.lean, line 377. The accepted proof on this platform is the public record.
 
 import Definitions.Def_FiniteMagmaE677_sswap_renewal
 import Mathlib

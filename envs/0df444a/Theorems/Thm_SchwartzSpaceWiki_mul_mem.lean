@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_mul_mem
 -- name    : SchwartzSpaceWiki.mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:15:54.746607+00:00
 -- url     : https://prove2.me/theorems/ebaa8d93-921c-4adc-8f23-137ed769cf81

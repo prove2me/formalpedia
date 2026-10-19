@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reiman84_QueueLength_proposition_5
 -- name    : Reiman84.QueueLength.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:06:54.634019+00:00
 -- url     : https://prove2.me/theorems/755ffe80-c71b-4fda-8ecb-b8966f982fd3

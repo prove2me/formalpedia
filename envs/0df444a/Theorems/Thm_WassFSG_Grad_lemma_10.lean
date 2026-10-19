@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassFSG_Grad_lemma_10
 -- name    : WassFSG.Grad.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:27:26.870349+00:00
 -- url     : https://prove2.me/theorems/8eb0aa60-9b40-488f-98a3-d9d08f09591e

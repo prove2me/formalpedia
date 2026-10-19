@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CohenLeeSongLP.StochCentralPath.classical_step_probability_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-09T09:57:19.051656+00:00
 -- url     : https://prove2.me/submissions/b1dcc513-1ec2-4ea0-b057-9f5c08cee3f3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_CohenLeeSongLP_StochCentralPath_Main

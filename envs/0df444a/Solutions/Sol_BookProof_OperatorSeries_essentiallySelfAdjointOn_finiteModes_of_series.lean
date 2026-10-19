@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.OperatorSeries.essentiallySelfAdjointOn_finiteModes_of_series
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:26:29.286989+00:00
 -- url     : https://prove2.me/submissions/b98ea4a4-2b02-4099-9bbd-d1f3997dfd15
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterOperatorSeriesEsa.lean — solution of BookProof.OperatorSeries.essentiallySelfAdjointOn_finiteModes_of_series
 import Mathlib

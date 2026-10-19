@@ -1,0 +1,735 @@
+-- Prove2me | solution 1 for MIPRE.Introspection.DecisionCompiler.positive_time_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @thomasvidick
+-- created : 2026-10-17T07:26:29.253537+00:00
+-- url     : https://prove2.me/submissions/5c9889f8-5236-47c1-b47f-be0c07bd377d
+
+/-
+Copyright (c) 2026 MIPRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+-/
+/-
+Copyright (c) 2026 Thomas Vidick. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Thomas Vidick
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Background/Introspection/DecisionCompilerTime.lean (solution of MIPRE.Introspection.DecisionCompiler.positive_time_bound);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Algebra
+import Mathlib.Algebra.CharP.Two
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Module.Basic
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.SmallDegree
+import Mathlib.Algebra.Polynomial.Div
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Eval.Degree
+import Mathlib.Algebra.Polynomial.FieldDivision
+import Mathlib.Algebra.Polynomial.Monic
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Algebra.Polynomial.SpecificDegree
+import Mathlib.Algebra.Squarefree.Basic
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.Module
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.Computability.Primrec.List
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.ENat.Lattice
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Sum
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.GetD
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Rotate
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Nat.Bits
+import Mathlib.Data.Nat.Factorization.Basic
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Size
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Set.Basic
+import Mathlib.Data.ZMod.Basic
+import Mathlib.FieldTheory.Finite.Basic
+import Mathlib.FieldTheory.Finite.Extension
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.FieldTheory.Finite.Trace
+import Mathlib.FieldTheory.Galois.NormalBasis
+import Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure
+import Mathlib.FieldTheory.KummerExtension
+import Mathlib.FieldTheory.Minpoly.Finite
+import Mathlib.LinearAlgebra.Basis.Defs
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.LinearIndependent.Lemmas
+import Mathlib.LinearAlgebra.Matrix.Circulant
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.Notation
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.LinearAlgebra.Pi
+import Mathlib.Logic.Denumerable
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Logic.Function.Iterate
+import Mathlib.Order.Fin.Basic
+import Mathlib.RingTheory.AdjoinRoot
+import Mathlib.RingTheory.Coprime.Lemmas
+import Mathlib.RingTheory.Polynomial.Content
+import Mathlib.RingTheory.Polynomial.Cyclotomic.Factorization
+import Mathlib.RingTheory.RootsOfUnity.PrimitiveRoots
+import Mathlib.RingTheory.Trace.Basic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.DeriveFintype
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Module
+import Mathlib.Tactic.Ring
+import Definitions.Def_MIPRE_Foundations_Games
+import Definitions.Def_MIPRE_Foundations_Distances
+import Definitions.Def_MIPRE_Background_LIDT_Game
+import Definitions.Def_MIPRE_Foundations_CL_Register
+import Definitions.Def_MIPRE_Foundations_CL_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_CLGame
+import Definitions.Def_MIPRE_Foundations_CL_Basic
+import Definitions.Def_MIPRE_Foundations_Cost_Basic_B
+import Definitions.Def_MIPRE_Foundations_Cost_Encoding_B
+import Definitions.Def_MIPRE_Foundations_SAT_Circuit
+import Definitions.Def_MIPRE_Foundations_SAT_Cnf
+import Definitions.Def_MIPRE_Foundations_Cost_PolyTime
+import Definitions.Def_MIPRE_Foundations_CL_Closure_B
+import Definitions.Def_MIPRE_Foundations_CL_Sampler
+import Definitions.Def_MIPRE_Foundations_Verifier
+import Definitions.Def_MIPRE_Foundations_SAT_Succinct
+import Definitions.Def_MIPRE_Foundations_SAT_Decoupled
+import Definitions.Def_MIPRE_Foundations_Cost_Closure
+import Definitions.Def_MIPRE_Foundations_Cost_Loops_B
+import Definitions.Def_MIPRE_Foundations_Cost_Fold
+import Definitions.Def_MIPRE_Foundations_Cost_Unary
+import Definitions.Def_MIPRE_Foundations_Cost_Numeric_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_Encoding
+import Definitions.Def_MIPRE_Foundations_SAT_Pcp
+import Definitions.Def_MIPRE_Foundations_Closeness
+import Definitions.Def_MIPRE_Foundations_PerfectStrategy
+import Definitions.Def_MIPRE_Foundations_GameTransport
+import Definitions.Def_MIPRE_Foundations_GameDouble
+import Definitions.Def_MIPRE_Foundations_OpBound
+import Definitions.Def_MIPRE_Foundations_OpBound_B
+import Definitions.Def_MIPRE_Foundations_StateDistance
+import Definitions.Def_MIPRE_Foundations_StateDistance_B
+import Definitions.Def_MIPRE_Foundations_POVMValue
+import Definitions.Def_MIPRE_Foundations_Sign
+import Definitions.Def_MIPRE_Foundations_CrossConsistency
+import Definitions.Def_MIPRE_Foundations_CrossConsistency_B
+import Definitions.Def_MIPRE_Foundations_PVM
+import Definitions.Def_MIPRE_Foundations_PVM_B
+import Definitions.Def_MIPRE_Foundations_Commutation
+import Definitions.Def_MIPRE_Foundations_Dilation
+import Definitions.Def_MIPRE_Foundations_Expanded
+import Definitions.Def_MIPRE_Foundations_LowDegree_SchwartzZippel
+import Definitions.Def_MIPRE_Foundations_LowDegree_Anticomm
+import Definitions.Def_MIPRE_Foundations_Weyl
+import Definitions.Def_MIPRE_Foundations_Parseval
+import Definitions.Def_MIPRE_Foundations_Linearity
+import Definitions.Def_MIPRE_Foundations_Sandwich
+import Definitions.Def_MIPRE_Foundations_Pasting
+import Definitions.Def_MIPRE_Foundations_GameAdapt
+import Definitions.Def_MIPRE_Foundations_RegisterReindex
+import Definitions.Def_MIPRE_Foundations_RegisterReindex_B
+import Definitions.Def_MIPRE_Foundations_CL_Embedding
+import Definitions.Def_MIPRE_Foundations_CL_Graph
+import Definitions.Def_MIPRE_Foundations_CL_Detyping
+import Definitions.Def_MIPRE_Foundations_CL_DetypingLaw
+import Definitions.Def_MIPRE_Foundations_SampledGame
+import Definitions.Def_MIPRE_Foundations_CL_DetypingGame
+import Definitions.Def_MIPRE_Foundations_GapCompression
+import Definitions.Def_MIPRE_Foundations_Cost_Codable_B
+import Definitions.Def_MIPRE_Foundations_Halting_Descriptions
+import Definitions.Def_MIPRE_Foundations_CL_Downsize
+import Definitions.Def_MIPRE_Foundations_CL_TypedSampler
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryRepresentation
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryConstants
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryTrace
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotient
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNormalize
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDivision
+import Definitions.Def_MIPRE_Foundations_Cost_Binary
+import Definitions.Def_MIPRE_Foundations_SAT_Formula
+import Definitions.Def_MIPRE_Foundations_SAT_FmlLib
+import Definitions.Def_MIPRE_Foundations_SAT_Flatten
+import Definitions.Def_MIPRE_Foundations_Cost_Reader
+import Definitions.Def_MIPRE_Foundations_SAT_FmlProg
+import Definitions.Def_MIPRE_Foundations_SAT_ArrayProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryLinear
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryElimination
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryBasisProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryEchelon
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryEchelon_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryBasis
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySolve
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySolve_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryMatrixSolve
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryMatrixSolve_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryMatrixInverse
+import Definitions.Def_MIPRE_Foundations_LowDegree_SelfDualize
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySquareRoot
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCirculant
+import Definitions.Def_MIPRE_Foundations_Cost_Iterates
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCirculantProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCirculantProg_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryKernel
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGroupAlgebra
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGroupAlgebra_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_FiniteReducedComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_IdempotentSplit
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponents_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponentsProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponentsProg_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientFrobenius
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientFactors
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGCD
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryFactorization
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCyclotomicSeed
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySubstitution
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNonresidueLoop
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNonresidueCorrectness
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientOrbit
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryTraceBits
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOrbitPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOrbitDescent
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientTranslation
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCoprimeDegree
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComposedSumPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComposedSumProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOddPrimeProgram
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPrimePowerTrace
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreier
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierTower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierLoop
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryDegreeArithmetic
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryPrimality
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryPrimePower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDegreeFactors
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDegreeDecomposition
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPrimePowerDispatch
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryIrreducibleAssembly
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryIrreducibleConstructor
+import Definitions.Def_MIPRE_Foundations_LowDegree_Shoup
+import Definitions.Def_MIPRE_Foundations_LowDegree_ShoupCoefficients
+import Definitions.Def_MIPRE_Foundations_SAT_QuotientField
+import Definitions.Def_MIPRE_Foundations_SAT_FieldTrace
+import Definitions.Def_MIPRE_Foundations_SAT_FieldTrace_B
+import Definitions.Def_MIPRE_Foundations_SAT_FieldCoordinates
+import Definitions.Def_MIPRE_Foundations_Cost_BinaryArithmetic
+import Definitions.Def_MIPRE_Foundations_Introspection_SeedSelectorProg
+import Definitions.Def_MIPRE_Foundations_SAT_TraceGram
+import Definitions.Def_MIPRE_Foundations_LowDegree_SelfDual
+import Definitions.Def_MIPRE_Foundations_LowDegree_NormalBasis
+import Definitions.Def_MIPRE_Foundations_SAT_NormalGram
+import Definitions.Def_MIPRE_Foundations_SAT_FrobeniusAction
+import Definitions.Def_MIPRE_Foundations_SAT_NormalElement
+import Definitions.Def_MIPRE_Foundations_SAT_FrobeniusMatrix
+import Definitions.Def_MIPRE_Foundations_SAT_FrobeniusActionProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryFold
+import Definitions.Def_MIPRE_Foundations_SAT_NormalElementProg
+import Definitions.Def_MIPRE_Foundations_SAT_NormalElementProg_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryInverse
+import Definitions.Def_MIPRE_Foundations_Introspection_LineRepresentativeProg
+import Definitions.Def_MIPRE_Foundations_Cost_BinaryCompare
+import Definitions.Def_MIPRE_Foundations_Introspection_SeededLineProg
+import Definitions.Def_MIPRE_Foundations_Cost_TreeBits
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgFinite
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgParse
+import Definitions.Def_MIPRE_Foundations_SAT_BasisTransport
+import Definitions.Def_MIPRE_Foundations_SAT_EffectiveSelfDual
+import Definitions.Def_MIPRE_Foundations_SAT_EffectiveNormalBasis
+import Definitions.Def_MIPRE_Foundations_Introspection_BasisProg
+import Definitions.Def_MIPRE_Foundations_Introspection_BinaryBlockProg
+import Definitions.Def_MIPRE_Foundations_Introspection_BinaryBlockProg_B
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Geometry
+import Definitions.Def_MIPRE_Foundations_CL_DetypingQueries
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgBits
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgCall
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgRoute
+import Definitions.Def_MIPRE_Foundations_Cost_Machine_B
+import Definitions.Def_MIPRE_Foundations_Cost_MachineData_B
+import Definitions.Def_MIPRE_Foundations_Cost_Interpreter_B
+import Definitions.Def_MIPRE_Foundations_Cost_MachineBound_B
+import Definitions.Def_MIPRE_Foundations_Cost_Toolkit_B
+import Definitions.Def_MIPRE_Foundations_Cost_Universal_B
+import Definitions.Def_MIPRE_Foundations_Cost_FiniteEncoding
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldPolynomialProg
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldLineCheckProg
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliStageProg
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliStageProg_B
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldQuestionProg
+import Definitions.Def_MIPRE_Foundations_Cost_SizeProgram
+import Definitions.Def_MIPRE_Foundations_SAT_PcpFormat
+import Definitions.Def_MIPRE_Foundations_Cost_FiniteChoice
+import Definitions.Def_MIPRE_Foundations_Halting_Lists_B
+import Definitions.Def_MIPRE_Foundations_Cost_Growth
+import Definitions.Def_MIPRE_Foundations_Halting_Arith
+import Definitions.Def_MIPRE_Foundations_Halting_Arith_B
+import Definitions.Def_MIPRE_Foundations_Repeat_Prims
+import Definitions.Def_MIPRE_Foundations_CL_Repeat
+import Definitions.Def_MIPRE_Foundations_Repeat_Bits
+import Definitions.Def_MIPRE_Foundations_VerifierValue
+import Definitions.Def_MIPRE_Foundations_Pipeline_Budget
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgQueries
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgSampler
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgCost
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDeciderRoute
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDeciderProg
+import Definitions.Def_MIPRE_Foundations_CL_DetypingClock
+import Definitions.Def_MIPRE_Foundations_Pipeline_Introspection
+import Definitions.Def_MIPRE_Foundations_Halting_PolyBounded
+import Definitions.Def_MIPRE_Foundations_Introspection_ClockArithmetic
+import Definitions.Def_MIPRE_Foundations_Introspection_ParserBits
+import Definitions.Def_MIPRE_Foundations_Introspection_ParserAnswers
+import Definitions.Def_MIPRE_Foundations_Introspection_DynamicParserSlice
+import Definitions.Def_MIPRE_Foundations_Introspection_DynamicParser
+import Definitions.Def_MIPRE_Foundations_Introspection_SourceCompilerParams
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliSamplerParams
+import Definitions.Def_MIPRE_Foundations_Introspection_Clock
+import Definitions.Def_MIPRE_Foundations_Introspection_ClockCost
+import Definitions.Def_MIPRE_Foundations_Introspection_ClockSimulation
+import Definitions.Def_MIPRE_Foundations_Introspection_ClockCompiler
+import Definitions.Def_MIPRE_Foundations_Introspection_ClockSimulationCost
+import Definitions.Def_MIPRE_Foundations_Introspection_SourceCompilerParamsCost
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliSamplerParamsCost
+import Definitions.Def_MIPRE_Foundations_Introspection_SourceCompilerGuard
+import Definitions.Def_MIPRE_Foundations_Introspection_ParserGuard
+import Definitions.Def_MIPRE_Foundations_Introspection_SourceCompiler
+import Definitions.Def_MIPRE_Foundations_Introspection_SourceCompilerCost
+import Definitions.Def_MIPRE_Foundations_Introspection_DecisionPreparation
+import Definitions.Def_MIPRE_Foundations_Introspection_DecisionPreparationCost
+import Definitions.Def_MIPRE_Background_Introspection_DecisionCompilerCutoff
+import Definitions.Def_MIPRE_LCS_Basic
+import Definitions.Def_MIPRE_LCS_Common
+import Definitions.Def_MIPRE_LCS_Measurement
+import Definitions.Def_MIPRE_LCS_Observable
+import Definitions.Def_MIPRE_LCS_Strategy_ObservableToProjector
+import Definitions.Def_MIPRE_LCS_NonlocalGame
+import Definitions.Def_MIPRE_LCS_Pauli
+import Definitions.Def_MIPRE_LCS_MagicSquare_Strategy
+import Definitions.Def_MIPRE_LCS_MagicSquare_Game
+import Definitions.Def_MIPRE_Background_QLD_Game
+import Definitions.Def_MIPRE_Background_QLD_CLPresentation
+import Definitions.Def_MIPRE_Background_QLD_CLBinary
+import Definitions.Def_MIPRE_Background_QLD_CLExplicitSeed
+import Definitions.Def_MIPRE_Background_QLD_PauliStagePrograms
+import Definitions.Def_MIPRE_Background_QLD_TypeEncoding
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldAnswerParserProg
+import Definitions.Def_MIPRE_Background_QLD_PauliAnswerPrograms
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldIndicatorProg
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldTableProg
+import Definitions.Def_MIPRE_Background_QLD_PauliAnswerCoding
+import Definitions.Def_MIPRE_Background_QLD_PauliBranchPrograms
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldGammaProg
+import Definitions.Def_MIPRE_Background_QLD_PauliArithmeticPrograms
+import Definitions.Def_MIPRE_Background_QLD_PauliBooleanPrograms
+import Definitions.Def_MIPRE_Background_QLD_BinaryBlocks
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliRowsProg
+import Definitions.Def_MIPRE_Background_QLD_PauliBinaryPrograms
+import Definitions.Def_MIPRE_Background_QLD_PauliBooleanCorrect
+import Definitions.Def_MIPRE_Background_QLD_PauliBooleanSymmetry
+import Definitions.Def_MIPRE_Background_QLD_PauliBooleanDispatch
+import Definitions.Def_MIPRE_Background_QLD_PauliAnswerRoundtrip
+import Definitions.Def_MIPRE_Foundations_WeylEPR
+import Definitions.Def_MIPRE_Foundations_WeylBinary
+import Definitions.Def_MIPRE_Background_QLD_PauliFullAnswerPrograms
+import Definitions.Def_MIPRE_Background_QLD_PauliFullAnswerCorrect
+import Definitions.Def_MIPRE_Background_QLD_PauliBinaryInterface
+import Definitions.Def_MIPRE_Foundations_Introspection_Types
+import Definitions.Def_MIPRE_Foundations_Introspection_SamplingPrefix
+import Definitions.Def_MIPRE_Foundations_Introspection_TwirlDistance
+import Definitions.Def_MIPRE_Foundations_Introspection_LinearMeasurement
+import Definitions.Def_MIPRE_Foundations_Introspection_CommutatorParseval
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockTwirl
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockPOVM
+import Definitions.Def_MIPRE_Foundations_Introspection_EPR
+import Definitions.Def_MIPRE_Foundations_Introspection_BlockRetention
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliMixing
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterTransport
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterEPR
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterMixing
+import Definitions.Def_MIPRE_Foundations_Introspection_RegisterCoordinates
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPredicate
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryReadProgram
+import Definitions.Def_MIPRE_Background_Introspection_DecisionKernelInput
+import Definitions.Def_MIPRE_Foundations_Introspection_ClockedQueryProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliarySamplingProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_Readout
+import Definitions.Def_MIPRE_Foundations_Introspection_FinalExtraction
+import Definitions.Def_MIPRE_Foundations_Introspection_TypeGraph
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestCore
+import Definitions.Def_MIPRE_Foundations_Introspection_SourcePadding
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryRegisterBits
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliarySamplingCorrect
+import Definitions.Def_MIPRE_Foundations_Introspection_ClockedSourceChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_ConditionalNormalizer
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestFirstHide
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestAdaptive
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestRead
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestXCoordinates
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingStep
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHiding
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestLabelSupport
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPresentation
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedEstimates
+import Definitions.Def_MIPRE_Foundations_Introspection_HidingRigidity
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_HonestHidingAcceptance
+import Definitions.Def_MIPRE_Foundations_Introspection_HidingMaps
+import Definitions.Def_MIPRE_Foundations_Introspection_ConditionalNormalizerIdeal
+import Definitions.Def_MIPRE_Foundations_Introspection_AdaptivePrefixFactor
+import Definitions.Def_MIPRE_Foundations_Introspection_TypedPrefixChain
+import Definitions.Def_MIPRE_Foundations_Introspection_ReadChainMaps
+import Definitions.Def_MIPRE_Foundations_Introspection_AdaptiveResidual
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryPrefixSolve
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryMaskProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryCanonicalProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryDualProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryDualKernel
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryQuotientProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryDualDecode
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryQuotientChecks
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryHidingCoreProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliarySourceQueries
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryScanStage
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryScanProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryScanCorrect
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryRegisterProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryHidingNextProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryHidingBoundaryProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_SourcePaddingQueries
+import Definitions.Def_MIPRE_Foundations_Introspection_SourcePaddingQueryProg
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryDecisionProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_SourcePaddingQueryCorrect
+import Definitions.Def_MIPRE_Foundations_Introspection_PrefixGuard
+import Definitions.Def_MIPRE_Foundations_Introspection_AuxiliaryPrefixGuardProgram
+import Definitions.Def_MIPRE_Foundations_Introspection_GuardedAuxiliaryProgram
+import Definitions.Def_MIPRE_Background_Introspection_DecisionKernel
+import Definitions.Def_MIPRE_Background_Introspection_DecisionCompilerRoute
+import Definitions.Def_MIPRE_Background_Introspection_DecisionCompilerZero
+import Definitions.Def_MIPRE_Foundations_Introspection_SourceDescriptionCompiler
+import Definitions.Def_MIPRE_Background_Introspection_DecisionCompiler
+import Theorems.Thm_MIPRE_CL_Detyping_Program_readNat_encode
+import Theorems.Thm_MIPRE_Cost_Prog_routeOneCall_closed
+import Theorems.Thm_MIPRE_Cost_hardcode_time
+import Theorems.Thm_MIPRE_Introspection_ClockArithmetic_uniformProg_closed
+import Theorems.Thm_MIPRE_Introspection_DecisionCompiler_zeroWrap_runs_pos
+import Theorems.Thm_MIPRE_Introspection_DecisionPreparation_compiler_closed
+import Theorems.Thm_MIPRE_Introspection_DecisionPreparation_prog_runs_poly
+import Theorems.Thm_MIPRE_Introspection_PauliSamplerParameters_prog_closed
+import Theorems.Thm_MIPRE_Introspection_polynomial_ansBound
+
+/-! Helper declarations, pasted verbatim from the source modules with their
+namespace and `open` context, each used only by proofs, interleaved with the
+attribute commands of those modules at their source positions. -/
+namespace MIPRE.Cost.Prog
+section
+open PolyTimeFun
+theorem callWithContext_closed {p : Prog} (hp : p.WellScoped 1)
+    (post : PolyTimeFun (Data × Data) Data) : (callWithContext p post).WellScoped 1 := by
+  refine ⟨fstProg_wellScoped, hp.mono (by omega) _, ?_⟩
+  exact ⟨⟨callVar_wellScoped (by decide) sndProg_wellScoped, by simp [WellScoped]⟩,
+    post.closed.mono (by omega) _⟩
+end
+end MIPRE.Cost.Prog
+
+namespace MIPRE.Cost.Prog
+section
+open Polynomial
+open Data
+theorem mulProg_wellScoped : mulProg.WellScoped 1 := by
+  simp [mulProg, WellScoped, mulBody, addProg, lenBody]
+end
+end MIPRE.Cost.Prog
+
+namespace MIPRE.Introspection.ClockArithmetic
+noncomputable section
+open Cost Cost.Prog Polynomial
+theorem bothUnary_closed : bothUnary.WellScoped 1 := by
+  refine ⟨by omega, trivial, ?_⟩
+  exact ⟨callVar_wellScoped (by omega) toUnaryProg_wellScoped,
+    callVar_wellScoped (by omega) toUnaryProg_wellScoped, by simp [WellScoped]⟩
+end
+end MIPRE.Introspection.ClockArithmetic
+
+namespace MIPRE.Introspection.SourceCompiler
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program Polynomial
+theorem powerUnaryProg_closed : powerUnaryProg.WellScoped 1 :=
+  ⟨expBitsProg_wellScoped, toUnaryProg_wellScoped.mono (by omega) _⟩
+end
+end MIPRE.Introspection.SourceCompiler
+
+namespace MIPRE.Introspection.SourceCompiler
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program Polynomial
+theorem boundsProg_closed (c : ℕ) : (boundsProg c).WellScoped 1 :=
+  ⟨ClockArithmetic.bothUnary_closed, mulProg_wellScoped.mono (by omega) _,
+    (parameterSeed c).closed.mono (by omega) _,
+    (callWithContext_closed powerUnaryProg_closed parameterPost).mono (by omega) _,
+    (callWithContext_closed expBitsProg_wellScoped boundsPost).mono (by omega) _⟩
+end
+end MIPRE.Introspection.SourceCompiler
+
+namespace MIPRE.Introspection.ClockArithmetic
+noncomputable section
+open Cost Polynomial
+theorem esize_le_value {n M : ℕ} (h : n ≤ M) : esize n ≤ 4 * M + 1 := by
+  have hs : Nat.size n ≤ n := Nat.size_le.2 Nat.lt_two_pow_self
+  exact (esize_nat_le n).trans (by omega)
+end
+end MIPRE.Introspection.ClockArithmetic
+
+namespace MIPRE.Introspection.ClockArithmetic
+noncomputable section
+open Cost Polynomial
+theorem clock_arguments_le {k lam n : ℕ} (hk : 1 ≤ k) (hl : 1 ≤ lam) (hn : 1 ≤ n) :
+    lam ≤ ansBound k lam n ∧ n ≤ ansBound k lam n ∧
+      lam * n + 1 ≤ ansBound k lam n ∧ (lam * n + 1) ^ k ≤ ansBound k lam n := by
+  have hm : lam * n + 1 ≤ (lam * n + 1) ^ k := by
+    simpa only [pow_one] using Nat.pow_le_pow_right (by omega : 1 ≤ lam * n + 1) hk
+  have hq : (lam * n + 1) ^ k ≤ ansBound k lam n := Nat.lt_two_pow_self.le
+  have hlam : lam ≤ lam * n := by simpa only [Nat.mul_one] using Nat.mul_le_mul_left lam hn
+  have hnn : n ≤ lam * n := by simpa only [Nat.one_mul] using Nat.mul_le_mul_right n hl
+  exact ⟨(by omega : lam ≤ lam * n + 1).trans (hm.trans hq),
+    (by omega : n ≤ lam * n + 1).trans (hm.trans hq), hm.trans hq, hq⟩
+end
+end MIPRE.Introspection.ClockArithmetic
+
+namespace MIPRE.Introspection.ClockSimulation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping CL.Detyping.Program
+theorem reindexProg_closed : reindexProg.WellScoped 1 :=
+  ⟨indexReader.closed, toUnaryProg_wellScoped.mono (by omega) _,
+    expBitsProg_wellScoped.mono (by omega) _, by simp [WellScoped],
+    callVar_wellScoped (by omega) treeTail.closed⟩
+end
+end MIPRE.Introspection.ClockSimulation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler
+theorem encode_kernelInput (c : ℕ) (M : Metadata) (x : Data) :
+    encode (kernelInput c M x) = encode (resources c (.cons (encode M) x)) := by
+  rcases M with ⟨⟨S,D⟩,lam⟩
+  simp [kernelInput, resources, inputRaw, inputMetadata, inputLambda, encode_prod, readNat_encode]
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler
+theorem appendStage_closed (arg : PolyTimeFun Data Data) {p : Prog} (hp : p.WellScoped 1) :
+    (appendStage arg p).WellScoped 1 := routeOneCall_closed _ hp _
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler
+theorem sequence_closed {p q : Prog} (hp : p.WellScoped 1) (hq : q.WellScoped 1) :
+    (sequence p q).WellScoped 1 := ⟨hp, hq.mono (by omega) _⟩
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler
+theorem sequence_runs {p q : Prog} (hq : q.WellScoped 1) {x y z : Data} {s t : ℕ}
+    (hp : p.Runs x y s) (hr : q.Runs y z t) : (sequence p q).Runs x z (s+t+1) :=
+  Eval.let_ hp (Eval.append_of_wellScoped hr hq _)
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler
+theorem prog_closed (c : ℕ) : (prog c).WellScoped 1 :=
+  sequence_closed (appendStage_closed _ (ClockArithmetic.uniformProg_closed 5))
+    (sequence_closed (appendStage_closed _ ClockSimulation.reindexProg_closed)
+      (sequence_closed (appendStage_closed _ (PauliSamplerParameters.prog_closed c))
+        (sequence_closed (appendStage_closed _ (boundsProg_closed c)) finish.closed)))
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler
+theorem kernelProg_closed (c : ℕ) (kernel : PolyTimeFun KernelInput Bool) :
+    (kernelProg c kernel).WellScoped 1 := sequence_closed (prog_closed c) kernel.closed
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler Polynomial
+theorem kernelProg_runs_poly {c v : ℕ} (hc : 1 ≤ c)
+    (kernel : PolyTimeFun KernelInput Bool) (M : Metadata) (x : Data)
+    (hl : 1 ≤ M.2) (hn : 1 ≤ ClockSimulation.indexReader x)
+    (hz : esize M + x.size + 1 ≤ v)
+    (hB : ansBound 5 M.2 (ClockSimulation.indexReader x) ≤ v) :
+    ∃ time ≤ (kernelPoly c kernel).eval v,
+      (kernelProg c kernel).Runs (.cons (encode M) x)
+        (encode (kernel (kernelInput c M x))) time := by
+  have hmeta : inputLambda (.cons (encode M) x) = M.2 := by
+    rcases M with ⟨⟨S,D⟩,lam⟩
+    exact inputLambda_canonical S D lam x
+  obtain ⟨s, hs, hr⟩ := prog_runs_poly hc (.cons (encode M) x)
+    (by simpa only [hmeta] using hl) hn hz
+      (by simpa only [hmeta, inputIndex_canonical] using hB)
+  rw [← encode_kernelInput] at hr
+  obtain ⟨t, ht, htRun⟩ := kernel.computes (kernelInput c M x)
+  have hsize : esize (kernelInput c M x) ≤ (preparationPoly c).eval v := hr.size_le.trans hs
+  have he := polynomial_eval_mono kernel.timeBound hsize
+  refine ⟨_, ?_, sequence_runs kernel.closed hr htRun⟩
+  simp only [kernelPoly, eval_add, eval_comp, eval_one]
+  omega
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.DecisionPreparation
+noncomputable section
+open Cost Cost.Prog Cost.PolyTimeFun CL.Detyping.Program SourceCompiler Polynomial
+/-- The actual binary compiler has only additive metadata-specialization
+overhead beyond the prepared, fixed polynomial-time kernel. -/
+theorem compiler_runs_poly {c v : ℕ} (hc : 1 ≤ c)
+    (kernel : PolyTimeFun KernelInput Bool) (M : Metadata) (x : Data)
+    (hl : 1 ≤ M.2) (hn : 1 ≤ ClockSimulation.indexReader x)
+    (hz : esize M + x.size + 1 ≤ v)
+    (hB : ansBound 5 M.2 (ClockSimulation.indexReader x) ≤ v) :
+    ∃ time ≤ (compiledPoly c kernel).eval v,
+      (compiler c kernel M).Runs x (encode (kernel (kernelInput c M x))) time := by
+  obtain ⟨t, ht, hr⟩ := kernelProg_runs_poly hc kernel M x hl hn hz hB
+  refine ⟨_, ?_, hardcode_time (kernelProg_closed c kernel) hr⟩
+  change t + (encode M).size + x.size + 3 ≤ _
+  simp only [compiledPoly, eval_add, eval_X, eval_ofNat]
+  change (encode M).size + x.size + 1 ≤ v at hz
+  omega
+end
+end MIPRE.Introspection.DecisionPreparation
+
+namespace MIPRE.Introspection.SourceDescriptionCompiler
+noncomputable section
+open Cost Cost.PolyTimeFun Polynomial
+theorem clampProgram_size (p : Prog) (lam : ℕ) : esize (clampProgram (p, lam)) ≤ lam + 5 := by
+  rw [clampProgram_apply]
+  split_ifs with h
+  · omega
+  · change 5 ≤ lam + 5
+    omega
+end
+end MIPRE.Introspection.SourceDescriptionCompiler
+
+namespace MIPRE.Introspection.SourceDescriptionCompiler
+noncomputable section
+open Cost Cost.PolyTimeFun Polynomial
+/-- The entire clamped compiler input has size linear in `λ+1`, even at zero. -/
+theorem clamp_size (S D : Prog) (lam : ℕ) : esize (clamp ((S, D), lam)) ≤ 13 * (lam + 1) := by
+  have hS := clampProgram_size S lam
+  have hD := clampProgram_size D lam
+  have hn : Nat.size lam ≤ lam := Nat.size_le.mpr Nat.lt_two_pow_self
+  have hl := esize_nat_le lam
+  rw [clamp_apply, esize_prod, esize_prod]
+  omega
+end
+end MIPRE.Introspection.SourceDescriptionCompiler
+
+/-! The uploaded declaration as `solution` (a root name declared inside the source's
+namespace, so that names resolve as they do in the source). -/
+namespace MIPRE.Introspection.DecisionCompiler
+open Cost Polynomial
+theorem _root_.solution {c : ℕ} (hc : 1 ≤ c) (U : ClockedUniversalMachine) :
+    ∃ C, ∀ S D lam n, 1 ≤ lam → 1 ≤ n →
+      (decider c U S D lam).TimeBoundAt n (ansBound C lam n) C := by
+  obtain ⟨d,hd⟩ := (PolyBounded.eval
+    (DecisionPreparation.compiledPoly c (untypedKernel U)) PolyBounded.id).exists_le_pow
+  obtain ⟨C,hC⟩ := polynomial_ansBound (6*(32*X)^(d+1)) 5
+  refine ⟨max C (d+1),fun S D lam n hl hn payload => ?_⟩
+  let M := SourceDescriptionCompiler.clamp ((S,D),lam)
+  let B := ansBound 5 lam n
+  let v := (32*B)*(payload.size+1)
+  have hi : ClockSimulation.indexReader (.cons (encode n) payload) = n :=
+    CL.Detyping.Program.readNat_encode n
+  have hB : 2 ≤ B := by
+    change 2^1 ≤ 2^((lam*n+1)^5)
+    exact Nat.pow_le_pow_right (by decide) (Nat.one_le_pow _ _ (by omega))
+  have hlB : lam ≤ B := (ClockArithmetic.clock_arguments_le (by decide : 1 ≤ 5) hl hn).1
+  have hnB : n ≤ B := (ClockArithmetic.clock_arguments_le (by decide : 1 ≤ 5) hl hn).2.1
+  have hM := SourceDescriptionCompiler.clamp_size S D lam
+  have hmB : esize M ≤ 26*B := by dsimp only [M]; omega
+  have hnSize := ClockArithmetic.esize_le_value hnB
+  have hv : 2 ≤ v := by dsimp [v]; nlinarith
+  have hz : esize M + (Data.cons (encode n) payload).size + 1 ≤ v := by
+    change esize M + (esize n + payload.size + 1) + 1 ≤ v
+    dsimp [v]
+    nlinarith
+  have hb : ansBound 5 M.2 (ClockSimulation.indexReader (.cons (encode n) payload)) ≤ v := by
+    rw [hi]
+    change B ≤ v
+    dsimp [v]
+    nlinarith
+  obtain ⟨t,ht,hr⟩ := DecisionPreparation.compiler_runs_poly hc (untypedKernel U) M
+    (.cons (encode n) payload) hl (by simpa only [hi] using hn) hz hb
+  have hrun := zeroWrap_runs_pos
+    (DecisionPreparation.compiler_closed c (untypedKernel U) M) hn payload _ t hr
+  have hs : (Data.cons (encode n) payload).size + 4 ≤ 5*v := by omega
+  have htd : t ≤ v^d := ht.trans (hd v hv)
+  have hd1 : v^d ≤ v^(d+1) := Nat.pow_le_pow_right (by omega) (by omega)
+  have hv1 : v ≤ v^(d+1) := by
+    simpa only [pow_one] using Nat.pow_le_pow_right (by omega : 1 ≤ v) (by omega : 1 ≤ d+1)
+  have htime : t + (Data.cons (encode n) payload).size + 4 ≤
+      6*(32*B)^(d+1)*(payload.size+1)^(d+1) := by
+    have ht' : t + (Data.cons (encode n) payload).size + 4 ≤ 6*v^(d+1) := by omega
+    simpa only [v,mul_pow,mul_assoc] using ht'
+  have hcoef : 6*(32*B)^(d+1) ≤ ansBound C lam n := by
+    simpa only [eval_mul, eval_ofNat, eval_pow, eval_X] using hC lam n hl hn
+  have hmono : ansBound C lam n ≤ ansBound (max C (d+1)) lam n := by
+    unfold ansBound
+    exact Nat.pow_le_pow_right (by decide)
+      (Nat.pow_le_pow_right (by omega) (le_max_left C (d+1)))
+  have hbnd := htime.trans (Nat.mul_le_mul (hcoef.trans hmono)
+    (Nat.pow_le_pow_right (by omega) (le_max_right C (d+1))))
+  refine ⟨encode (untypedKernel U (DecisionPreparation.kernelInput c M
+    (.cons (encode n) payload))),t + (Data.cons (encode n) payload).size + 4,hbnd,?_⟩
+  change (compute c U ((S,D),lam)).Runs _ _ _
+  rw [compute_apply, if_neg (by omega : lam ≠ 0)]
+  exact hrun
+end MIPRE.Introspection.DecisionCompiler

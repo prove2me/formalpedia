@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_mipstar_eq_re_of_answerReduction
 -- name    : MIPRE.Halting.mipstar_eq_re_of_answerReduction
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:42:11.600423+00:00
 -- url     : https://prove2.me/theorems/673c4023-90ce-4339-a983-8088f28c739f

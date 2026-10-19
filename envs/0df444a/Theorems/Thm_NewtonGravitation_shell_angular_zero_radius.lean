@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_shell_angular_zero_radius
 -- name    : NewtonGravitation.shell_angular_zero_radius
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-14T07:19:47.383816+00:00
 -- url     : https://prove2.me/theorems/4c5fd553-3561-4e67-8394-87c6629eeb2c

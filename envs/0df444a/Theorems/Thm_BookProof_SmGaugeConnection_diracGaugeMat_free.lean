@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmGaugeConnection_diracGaugeMat_free
 -- name    : BookProof.SmGaugeConnection.diracGaugeMat_free
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:09:20.766681+00:00
 -- url     : https://prove2.me/theorems/3d080a5f-9d83-427f-b9f8-284daf4d1c47

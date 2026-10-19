@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_uniformBall_interior_data
 -- name    : NewtonGravitation.uniformBall_interior_data
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T12:18:34.808808+00:00
 -- url     : https://prove2.me/theorems/d346794a-3d91-4751-8304-38b5fb5c7ee5

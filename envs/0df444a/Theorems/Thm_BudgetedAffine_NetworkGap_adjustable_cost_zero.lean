@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_NetworkGap_adjustable_cost_zero
 -- name    : BudgetedAffine.NetworkGap.adjustable_cost_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:20.357033+00:00
 -- url     : https://prove2.me/theorems/bce6946f-bd95-4f7f-a5b0-7923a2f209c7

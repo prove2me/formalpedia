@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.MomentumEsa.fock_ns_hamiltonian_hasZeroDeficiencyOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:53:46.273037+00:00
 -- url     : https://prove2.me/submissions/c716ecbb-6fa1-435e-85c0-c98b691566d4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesMomentumEsa.lean — solution of BookProof.NavierStokesFlow.MomentumEsa.fock_ns_hamiltonian_hasZeroDeficiencyOn
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_gravField_uniformShell_outside
 -- name    : NewtonGravitation.gravField_uniformShell_outside
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T19:12:06.735928+00:00
 -- url     : https://prove2.me/theorems/c2fed641-225e-4d50-883b-56a0ba6c964f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_rubinstein_bounds
 -- name    : SensitivityCampaign.rubinstein_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-16T01:36:12.434452+00:00
 -- url     : https://prove2.me/theorems/ee2f9686-b078-4d78-b3ba-1869ba96f48c

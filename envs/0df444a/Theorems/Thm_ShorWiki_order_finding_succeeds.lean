@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_order_finding_succeeds
 -- name    : ShorWiki.order_finding_succeeds
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T03:09:01.202691+00:00
 -- url     : https://prove2.me/theorems/1368ff99-a0f1-4a39-9b0b-9deadb88df92

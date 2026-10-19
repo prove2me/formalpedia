@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Parity_proposition_4
 -- name    : MarketplaceLeakage.Parity.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:22.172981+00:00
 -- url     : https://prove2.me/theorems/d1ec18b6-7a9b-412e-8cc4-35a0fe9d4b6a

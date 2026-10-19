@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgriSubsidy_Combined_prop2_proof_affine
 -- name    : AgriSubsidy.Combined.prop2_proof_affine
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:32.803376+00:00
 -- url     : https://prove2.me/theorems/6ed9adb0-3593-476e-a818-d3472f2dc0c8

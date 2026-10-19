@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_endowment_variance_nonnegative
 -- name    : actuarial_c_endowment_variance_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:29:10.054148+00:00
 -- url     : https://prove2.me/theorems/5dd554f4-d8a6-495b-b4fe-2a8324690a5a

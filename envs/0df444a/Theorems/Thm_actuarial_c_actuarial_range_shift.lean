@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_actuarial_range_shift
 -- name    : actuarial_c_actuarial_range_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:22:38.480255+00:00
 -- url     : https://prove2.me/theorems/c5c99a5b-475f-4ef8-8338-96f7aa76213e

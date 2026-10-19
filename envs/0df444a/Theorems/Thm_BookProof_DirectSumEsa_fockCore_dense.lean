@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_fockCore_dense
 -- name    : BookProof.DirectSumEsa.fockCore_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:01:06.381981+00:00
 -- url     : https://prove2.me/theorems/89d8e7e5-a6be-4482-82ca-fac0ba20f949

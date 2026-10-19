@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RadialTransition_densityInterval
 -- name    : OAI.RadialTransition.densityInterval
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:14.088464+00:00
 -- url     : https://prove2.me/theorems/76e2666a-7508-4bdd-a2a3-2209b1af57a9

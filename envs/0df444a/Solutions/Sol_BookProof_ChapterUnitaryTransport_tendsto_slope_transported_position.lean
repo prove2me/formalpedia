@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterUnitaryTransport.tendsto_slope_transported_position
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:17:03.77016+00:00
 -- url     : https://prove2.me/submissions/057d8610-ad68-47fd-a6d2-00c7c080aaf5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterUnitaryTransport.lean — solution of BookProof.ChapterUnitaryTransport.tendsto_slope_transported_position
 import Mathlib

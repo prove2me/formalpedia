@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DirectionalZeroOne_directional_zero_one
 -- name    : OAI.DirectionalZeroOne.directional_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:35.412682+00:00
 -- url     : https://prove2.me/theorems/025048e5-a5fd-4c87-b902-25af24b3e0f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_WeakSecondDeriv_absolutelyContinuous_test
 -- name    : BookProof.WeakSecondDeriv.absolutelyContinuous_test
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:39:35.554008+00:00
 -- url     : https://prove2.me/theorems/a0180127-eeda-427e-b4c0-5385d504ffd6

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterRadialLaplacian.laplacian_radial
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:49:22.088346+00:00
 -- url     : https://prove2.me/submissions/4294520f-d071-470b-b4e2-2d672968b3e5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterRadialLaplacian.lean — solution of BookProof.ChapterRadialLaplacian.laplacian_radial
 import Mathlib

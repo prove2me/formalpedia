@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_HermiteFarisLavine_hasSum_inner_nsH_right
 -- name    : BookProof.NavierStokesFlow.HermiteFarisLavine.hasSum_inner_nsH_right
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:04:56.759051+00:00
 -- url     : https://prove2.me/theorems/a76b4453-f3d5-43cd-ac60-fd71ee5f5ef0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContWeatherall_alternating_sum_cons_removeNth
 -- name    : ContWeatherall.alternating_sum_cons_removeNth
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T22:00:46.904988+00:00
 -- url     : https://prove2.me/theorems/0f3fcd2d-f0bb-4657-bd3f-bde5e9f0d271

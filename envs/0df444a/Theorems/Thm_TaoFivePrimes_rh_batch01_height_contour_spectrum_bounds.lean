@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_TaoFivePrimes_rh_batch01_height_contour_spectrum_bounds
+-- name    : TaoFivePrimes.rh_batch01_height_contour_spectrum_bounds
+-- status  : Proved
+-- author  : @raresbuhai
+-- created : 2026-10-16T11:08:31.691066+00:00
+-- url     : https://prove2.me/theorems/504d46b0-3c30-4d78-9121-0ff669227db4
+-- title:
+--   TaoFivePrimes.rh_batch01_height_contour_spectrum_bounds
+-- statement:
+--   Ordinary kernel bounds for all24 proposed contour spectra: every packed80-bit complex coefficient has total absolute real/imaginary component mass at most1 after scaling. Twenty-four linear data traversals avoid indexed reductions. This bound supports the analytic FFT magnitude hypotheses but asserts no approximation, sign, winding, count, or RH.
+-- source:
+--   Existing Platt Fourier construction, DOI10.1090/mcom/3198. Original surrounding attribution sometik179 c9908072-d99a-4431-aad8-a72c6352619a and Gabewhigham.
+
+import Mathlib
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourCoefficient
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K00
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K01
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K02
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K03
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K04
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K05
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K06
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperNeg64K07
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK00
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK01
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK02
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK03
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK04
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK05
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK06
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperZeroK07
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K00
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K01
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K02
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K03
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K04
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K05
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K06
+import Definitions.Def_TaoFivePrimes_RHBatch01ContourSpectrumUpperPos64K07
+
+theorem TaoFivePrimes.rh_batch01_height_contour_spectrum_bounds :
+  ∀ v ∈ [RHBatch01ContourSpectrumUpperNeg64K00.rows.flatten,RHBatch01ContourSpectrumUpperNeg64K01.rows.flatten,RHBatch01ContourSpectrumUpperNeg64K02.rows.flatten,RHBatch01ContourSpectrumUpperNeg64K03.rows.flatten,RHBatch01ContourSpectrumUpperNeg64K04.rows.flatten,RHBatch01ContourSpectrumUpperNeg64K05.rows.flatten,RHBatch01ContourSpectrumUpperNeg64K06.rows.flatten,RHBatch01ContourSpectrumUpperNeg64K07.rows.flatten,RHBatch01ContourSpectrumUpperZeroK00.rows.flatten,RHBatch01ContourSpectrumUpperZeroK01.rows.flatten,RHBatch01ContourSpectrumUpperZeroK02.rows.flatten,RHBatch01ContourSpectrumUpperZeroK03.rows.flatten,RHBatch01ContourSpectrumUpperZeroK04.rows.flatten,RHBatch01ContourSpectrumUpperZeroK05.rows.flatten,RHBatch01ContourSpectrumUpperZeroK06.rows.flatten,RHBatch01ContourSpectrumUpperZeroK07.rows.flatten,RHBatch01ContourSpectrumUpperPos64K00.rows.flatten,RHBatch01ContourSpectrumUpperPos64K01.rows.flatten,RHBatch01ContourSpectrumUpperPos64K02.rows.flatten,RHBatch01ContourSpectrumUpperPos64K03.rows.flatten,RHBatch01ContourSpectrumUpperPos64K04.rows.flatten,RHBatch01ContourSpectrumUpperPos64K05.rows.flatten,RHBatch01ContourSpectrumUpperPos64K06.rows.flatten,RHBatch01ContourSpectrumUpperPos64K07.rows.flatten],v.all (fun p=>let z:=RHBatch01ContourCoefficientData.decode p;decide (|z.1|+|z.2|≤(2:Int)^80))=true := by sorry

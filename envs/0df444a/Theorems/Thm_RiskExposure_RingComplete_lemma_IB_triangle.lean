@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskExposure_RingComplete_lemma_IB_triangle
 -- name    : RiskExposure.RingComplete.lemma_IB_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:18.773705+00:00
 -- url     : https://prove2.me/theorems/2e6e6cee-b61c-4e24-b282-c5fe5a8b65e0

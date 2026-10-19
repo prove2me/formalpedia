@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_sum_nullCLM_sq
 -- name    : BookProof.ChapterSolidHarmonic.sum_nullCLM_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:16:39.86359+00:00
 -- url     : https://prove2.me/theorems/bb008fd4-5b95-462e-86e3-c31f000804a8

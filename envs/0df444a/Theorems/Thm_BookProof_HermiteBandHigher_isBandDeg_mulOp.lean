@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_isBandDeg_mulOp
 -- name    : BookProof.HermiteBandHigher.isBandDeg_mulOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:08:00.33331+00:00
 -- url     : https://prove2.me/theorems/b4a463b0-9a66-4013-8d98-4b330c0f4644

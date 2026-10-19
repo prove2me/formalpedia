@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_OptToken_eq_38_exists
 -- name    : TokenFinance.OptToken.eq_38_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:21.999313+00:00
 -- url     : https://prove2.me/theorems/932ad3b7-6d88-4aa3-be14-1377982f64f8

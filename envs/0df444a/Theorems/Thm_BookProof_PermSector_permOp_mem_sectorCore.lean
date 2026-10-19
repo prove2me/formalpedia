@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_PermSector_permOp_mem_sectorCore
 -- name    : BookProof.PermSector.permOp_mem_sectorCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T17:08:27.540072+00:00
 -- url     : https://prove2.me/theorems/db832b87-c1f4-4c48-9f21-c553eda0dce9

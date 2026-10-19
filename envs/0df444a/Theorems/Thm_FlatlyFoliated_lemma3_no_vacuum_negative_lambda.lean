@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_lemma3_no_vacuum_negative_lambda
 -- name    : FlatlyFoliated.lemma3_no_vacuum_negative_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:44:25.876139+00:00
 -- url     : https://prove2.me/theorems/0b7ad3b1-7433-45c0-8404-aff11b1e65e5

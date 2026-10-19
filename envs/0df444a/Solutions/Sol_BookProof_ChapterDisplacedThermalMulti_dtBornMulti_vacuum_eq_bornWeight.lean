@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterDisplacedThermalMulti.dtBornMulti_vacuum_eq_bornWeight
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T16:57:20.092033+00:00
 -- url     : https://prove2.me/submissions/734ca480-a55a-406b-af22-50445b83e518
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterDisplacedThermalMulti.lean — solution of BookProof.ChapterDisplacedThermalMulti.dtBornMulti_vacuum_eq_bornWeight
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StoneEigenflow_stoneFlow_apply_eigenvector
 -- name    : BookProof.StoneEigenflow.stoneFlow_apply_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:18:02.794993+00:00
 -- url     : https://prove2.me/theorems/0dcd3406-e8c4-4b2f-bd9f-223563a42fb3

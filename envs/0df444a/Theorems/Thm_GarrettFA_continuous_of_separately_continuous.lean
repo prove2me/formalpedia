@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_continuous_of_separately_continuous
 -- name    : GarrettFA.continuous_of_separately_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:31:41.616415+00:00
 -- url     : https://prove2.me/theorems/69075e47-1d5f-4fe2-b5d8-b9b2c304d689

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_abelianHSP_standardAlgorithm_samples_annihilator
 -- name    : QAlgorithms.DeWolf.abelianHSP_standardAlgorithm_samples_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:07.397817+00:00
 -- url     : https://prove2.me/theorems/0b8a47c7-6061-46fd-a041-841b7554a36d

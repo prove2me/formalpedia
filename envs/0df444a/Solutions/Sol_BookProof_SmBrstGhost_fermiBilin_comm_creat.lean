@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmBrstGhost.fermiBilin_comm_creat
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T08:49:01.728264+00:00
 -- url     : https://prove2.me/submissions/d5b7ed3d-4578-470a-a1c0-8a6686d878e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmBrstGhost.lean — solution of BookProof.SmBrstGhost.fermiBilin_comm_creat
 import Mathlib

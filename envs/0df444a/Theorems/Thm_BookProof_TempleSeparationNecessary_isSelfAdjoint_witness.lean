@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TempleSeparationNecessary_isSelfAdjoint_witness
 -- name    : BookProof.TempleSeparationNecessary.isSelfAdjoint_witness
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:18:51.738004+00:00
 -- url     : https://prove2.me/theorems/67c5217e-70db-41f8-b94d-f9d7923892b3

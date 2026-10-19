@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_weighted_survival_summation_by_parts
 -- name    : actuarial_c_weighted_survival_summation_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:23:27.222994+00:00
 -- url     : https://prove2.me/theorems/5359bb90-4377-49fb-8de2-69332ee79725

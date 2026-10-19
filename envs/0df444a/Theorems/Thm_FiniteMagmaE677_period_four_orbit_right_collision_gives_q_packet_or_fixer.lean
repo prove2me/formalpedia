@@ -15,7 +15,7 @@
 --   $$a\diamond x=b\diamond x.$$
 --   Write $q=c_2\diamond x$, $r=c_1\diamond c_2$, and $s=c_3\diamond q$. Then at least one of the following holds.
 --
---   1. $x$ has a right fixer: some $y$ satisfies $y\diamond x=x$.
+--   1. $x$ has a fixer: some $y$ satisfies $y\diamond x=x$.
 --   2. The collision normalizes to the distinguished $q$-packet
 --   $$c_2\diamond x=c_3\diamond x,\qquad c_1\diamond q=x,\qquad c_2\diamond q=c_1,$$
 --   the element $q$ lies outside $\{x,c_1,c_2,c_3\}$, and a second fresh element is identified by one of two tagged branches:

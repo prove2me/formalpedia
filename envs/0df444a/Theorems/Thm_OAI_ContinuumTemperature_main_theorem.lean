@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ContinuumTemperature_main_theorem
 -- name    : OAI.ContinuumTemperature.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:29.03309+00:00
 -- url     : https://prove2.me/theorems/75b332f1-7e9a-4f74-a514-7b896dd1476b

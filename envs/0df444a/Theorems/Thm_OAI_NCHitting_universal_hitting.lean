@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NCHitting_universal_hitting
 -- name    : OAI.NCHitting.universal_hitting
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:57.581367+00:00
 -- url     : https://prove2.me/theorems/84222277-607d-454b-afea-5765d5771654

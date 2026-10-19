@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_GradCorr_alpha0_bound
 -- name    : NAGFlow.GradCorr.alpha0_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:29:52.828082+00:00
 -- url     : https://prove2.me/theorems/8aa0e1f1-20de-44cd-a0a9-05b75578b113

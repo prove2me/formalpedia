@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_exists_cutoff_seq
 -- name    : BookProof.MixedLinearEsa.exists_cutoff_seq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:04:51.008771+00:00
 -- url     : https://prove2.me/theorems/b45a138e-92c0-426e-9891-07e872788fca

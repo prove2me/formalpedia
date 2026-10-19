@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_exists_of_maximalIsotropic
 -- name    : GeneralizedComplex.exists_of_maximalIsotropic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:49:22.143987+00:00
 -- url     : https://prove2.me/theorems/2cc2d44a-30f8-44e9-a28b-8fc7935d8349

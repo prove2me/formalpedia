@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PELiquidity_Primary_proposition_1
 -- name    : PELiquidity.Primary.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:06:57.040065+00:00
 -- url     : https://prove2.me/theorems/88020821-827d-4518-a569-c2d458c5d1b1

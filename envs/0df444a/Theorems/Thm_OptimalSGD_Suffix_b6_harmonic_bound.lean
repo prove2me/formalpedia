@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalSGD_Suffix_b6_harmonic_bound
 -- name    : OptimalSGD.Suffix.b6_harmonic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:22:15.035068+00:00
 -- url     : https://prove2.me/theorems/a115725c-78d2-49d0-955d-08aefe3fcb51

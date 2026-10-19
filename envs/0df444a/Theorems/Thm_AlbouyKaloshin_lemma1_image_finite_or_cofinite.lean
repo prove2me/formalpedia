@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlbouyKaloshin_lemma1_image_finite_or_cofinite
 -- name    : AlbouyKaloshin.lemma1_image_finite_or_cofinite
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T20:54:00.628725+00:00
 -- url     : https://prove2.me/theorems/47ee5575-96c5-4bb6-8302-754d71e2e216

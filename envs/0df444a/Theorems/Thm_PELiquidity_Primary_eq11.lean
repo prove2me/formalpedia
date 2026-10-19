@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PELiquidity_Primary_eq11
 -- name    : PELiquidity.Primary.eq11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:06:56.468682+00:00
 -- url     : https://prove2.me/theorems/d967fb15-27d4-4b19-84c1-7c71feddf4de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_SemiDec_posterior_order
 -- name    : ReviewBlackmail.SemiDec.posterior_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:50.925761+00:00
 -- url     : https://prove2.me/theorems/de0ef807-db47-4283-b2a4-f163648c4d11

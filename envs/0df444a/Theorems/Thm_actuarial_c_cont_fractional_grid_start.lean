@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_fractional_grid_start
 -- name    : actuarial_c_cont_fractional_grid_start
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:35:37.774096+00:00
 -- url     : https://prove2.me/theorems/b7ce5e46-39a6-48f8-a708-487f7f194c0c

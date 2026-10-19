@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.LocalityConstraint.graphSet_gaussian_null
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T15:40:19.82468+00:00
 -- url     : https://prove2.me/submissions/07ed396f-1ca7-4ce5-94e9-f6726b28bcc8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterLocalityConstraintNull.lean — solution of BookProof.LocalityConstraint.graphSet_gaussian_null
 import Mathlib

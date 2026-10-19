@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_shell_angular_primitive_deriv
 -- name    : NewtonGravitation.shell_angular_primitive_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-14T07:04:40.291469+00:00
 -- url     : https://prove2.me/theorems/a28bcd9d-4391-40e6-bb68-54e5c9151749

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubbleTension_hubble_tension_section10
 -- name    : HubbleTension.hubble_tension_section10
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:35:25.656512+00:00
 -- url     : https://prove2.me/theorems/1b08683f-9caf-4929-9ad0-ca4fd1de6030

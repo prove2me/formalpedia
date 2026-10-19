@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RovelliLQG_tetrahedron_volume_sq
 -- name    : RovelliLQG.tetrahedron_volume_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T19:28:05.779983+00:00
 -- url     : https://prove2.me/theorems/c5b833ba-4fc7-463b-9bb8-76dac94209c6

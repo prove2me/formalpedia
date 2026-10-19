@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContWeatherall_poincare
 -- name    : ContWeatherall.poincare
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T22:17:48.946856+00:00
 -- url     : https://prove2.me/theorems/5943a1b1-8d68-4cb3-91a0-b4615245acae

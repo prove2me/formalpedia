@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Kernel_kerQ_subset
 -- name    : BilinearGramian.Kernel.kerQ_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:30.011977+00:00
 -- url     : https://prove2.me/theorems/e7993d7a-d3a2-4985-9555-115d7c5730e7

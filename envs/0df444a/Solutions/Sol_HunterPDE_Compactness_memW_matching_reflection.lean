@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Compactness.memW_matching_reflection
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-16T09:40:35.755293+00:00
 -- url     : https://prove2.me/submissions/985bdd48-6dd1-4ec8-a475-5c20c0e29f42
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_MeasureTheory_MemLp_finite_halfSpace_reflection
 import Theorems.Thm_HunterPDE_Shared_integral_matchingReflection_mul_testFunction

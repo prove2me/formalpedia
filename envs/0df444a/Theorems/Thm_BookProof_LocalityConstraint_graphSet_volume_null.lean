@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_LocalityConstraint_graphSet_volume_null
 -- name    : BookProof.LocalityConstraint.graphSet_volume_null
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:32:00.615993+00:00
 -- url     : https://prove2.me/theorems/f49e9881-f7be-4595-b407-fe648434c98b

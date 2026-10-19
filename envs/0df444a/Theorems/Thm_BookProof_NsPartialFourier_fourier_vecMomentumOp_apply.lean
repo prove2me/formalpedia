@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsPartialFourier_fourier_vecMomentumOp_apply
 -- name    : BookProof.NsPartialFourier.fourier_vecMomentumOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:19.565748+00:00
 -- url     : https://prove2.me/theorems/087ebd82-6202-4f60-82c7-374de1e48e06

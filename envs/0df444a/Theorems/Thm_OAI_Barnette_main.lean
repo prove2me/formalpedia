@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Barnette_main
 -- name    : OAI.Barnette.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:22.876608+00:00
 -- url     : https://prove2.me/theorems/4cf17d58-e80c-4e2f-bf61-d5ee4aad8fdb

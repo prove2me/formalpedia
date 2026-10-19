@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLRS_DFS_correctness_and_explicit_running_time
 -- name    : CLRS.DFS.correctness_and_explicit_running_time
--- status  : Open
+-- status  : Proved
 -- author  : @Chutong
 -- created : 2026-10-14T21:36:25.882859+00:00
 -- url     : https://prove2.me/theorems/e84f428d-d501-4e8b-8d7f-26da85c86ee7

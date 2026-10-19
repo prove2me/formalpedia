@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_LocalityConstraint_graphSet_null
 -- name    : BookProof.LocalityConstraint.graphSet_null
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:31:56.047429+00:00
 -- url     : https://prove2.me/theorems/93bd199e-ced8-4f5b-9d34-2c84b6ad1b7c

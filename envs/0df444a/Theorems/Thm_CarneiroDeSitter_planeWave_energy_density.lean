@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_planeWave_energy_density
 -- name    : CarneiroDeSitter.planeWave_energy_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T02:11:51.462742+00:00
 -- url     : https://prove2.me/theorems/1ba6806f-2c27-450b-b4b9-188c4a3809f7

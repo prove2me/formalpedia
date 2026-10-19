@@ -1,0 +1,105 @@
+-- Prove2me | solution 1 for OAI.CirculantHadamard.LocalComparison.comparison_base
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-19T10:10:52.435971+00:00
+-- url     : https://prove2.me/submissions/4572f924-5bfb-48a6-82ce-4bb61ee35673
+
+import Mathlib
+import Definitions.Def_CirculantHadamard
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_Basic
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_Witnesses
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_MatrixBridge
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicRing
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicNorm
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicProjection
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_LocalDVR
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_OrderHalving
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_PrimeComponents
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryResidue
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal
+
+open OAI OAI.CirculantHadamard OAI.CirculantHadamard.LocalComparison
+universe uA uS
+open CyclicRing
+variable {A : Type uA} {S : Type uS} [CommRing A] [IsDomain A]
+  [CommRing S] [domainS : IsDomain S] [IsLocalRing S]
+theorem cb_aux {A S : Type*} [CommRing A] [CommRing S] [IsLocalRing S] (n : ℕ) (φ : A →+* S)
+    (v : Elem A n →+* S)
+    (vres : ∀ F : Elem A n,
+      IsLocalRing.residue S (v F) =
+        IsLocalRing.residue S (φ (augmentation n F)))
+    (F K : Elem A n) (hprod : v F * v K = φ (augmentation n F) * φ (augmentation n K))
+    (hunit : IsUnit (augmentation n F)) :
+    ResidueOneAssociated (IsLocalRing.residue S) (v F) (φ (augmentation n F)) ∧
+      ResidueOneAssociated (IsLocalRing.residue S) (v K) (φ (augmentation n K)) := by
+  obtain ⟨w, hw⟩ := hunit.map φ
+  have hres_w : IsLocalRing.residue S (w : S) ≠ 0 := by
+    rw [hw]; exact (IsLocalRing.residue_ne_zero_iff_isUnit _).2 (hunit.map φ)
+  have hvF : IsUnit (v F) := by
+    rw [← IsLocalRing.residue_ne_zero_iff_isUnit, vres, ← hw]; exact hres_w
+  obtain ⟨z, hz⟩ := hvF
+  have hres : IsLocalRing.residue S (z : S) = IsLocalRing.residue S (w : S) := by
+    rw [hz, hw, vres]
+  have hwne : IsLocalRing.residue S (w : S) * IsLocalRing.residue S ((w⁻¹ : Sˣ) : S) = 1 := by
+    rw [← map_mul, Units.mul_inv, map_one]
+  have hzne : IsLocalRing.residue S (z : S) * IsLocalRing.residue S ((z⁻¹ : Sˣ) : S) = 1 := by
+    rw [← map_mul, Units.mul_inv, map_one]
+  refine ⟨⟨z * w⁻¹, ?_, ?_⟩, ⟨w * z⁻¹, ?_, ?_⟩⟩
+  · rw [← hz, ← hw, Units.val_mul, mul_assoc, Units.inv_mul, mul_one]
+  · rw [Units.val_mul, map_mul, hres, hwne]
+  · have : (v K) = ((z⁻¹ : Sˣ) : S) * (v F * v K) := by
+      rw [← hz, ← mul_assoc, Units.inv_mul, one_mul]
+    rw [this, hprod, ← hw, Units.val_mul]; ring
+  · rw [Units.val_mul, map_mul, ← hres, hzne]
+
+theorem solution (n p : ℕ) (φ : A →+* S) (hp : Prime (p : A))
+    (hpS : φ (p : A) ≠ 0)
+    (v : Elem A n →+* S)
+    (vscalar : ∀ a : A, v (scalar n a) = φ a)
+    (vres : ∀ F : Elem A n,
+      IsLocalRing.residue S (v F) =
+        IsLocalRing.residue S (φ (augmentation n F)))
+    (b : Aˣ) (F K : Elem A n)
+    (hFK : F * K = scalar n ((p : A) * (b : A))) :
+    ResidueOneAssociated (IsLocalRing.residue S) (v F) (φ (augmentation n F)) ∧
+      ResidueOneAssociated (IsLocalRing.residue S) (v K) (φ (augmentation n K)) := by
+  have hprod : v F * v K = φ (augmentation n F) * φ (augmentation n K) := by
+    rw [← map_mul, ← map_mul, ← map_mul, hFK, vscalar, augmentation_scalar]
+  have hprodA : augmentation n F * augmentation n K = (p : A) * (b : A) := by
+    rw [← map_mul, hFK, augmentation_scalar]
+  rcases (show IsUnit (augmentation n F) ∨ IsUnit (augmentation n K) from by
+      have hd : (p : A) ∣ augmentation n F * augmentation n K := ⟨b, hprodA⟩
+      rcases hp.dvd_or_dvd hd with ⟨x', hx'⟩ | ⟨y', hy'⟩
+      · right
+        have : (p : A) * (x' * augmentation n K) = (p : A) * b := by rw [← hprodA, hx']; ring
+        have h2 := mul_left_cancel₀ hp.ne_zero this
+        exact IsUnit.of_mul_eq_one (x' * ↑b⁻¹) (by rw [← mul_assoc, mul_comm _ x', h2, Units.mul_inv])
+      · left
+        have : (p : A) * (augmentation n F * y') = (p : A) * b := by rw [← hprodA, hy']; ring
+        have h2 := mul_left_cancel₀ hp.ne_zero this
+        exact IsUnit.of_mul_eq_one (y' * ↑b⁻¹) (by rw [← mul_assoc, h2, Units.mul_inv])) with h | h
+  · exact cb_aux n φ v vres F K hprod h
+  · have := cb_aux n φ v vres K F (by rw [mul_comm, hprod, mul_comm]) h
+    exact ⟨this.2, this.1⟩

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_zero_eq_half
 -- name    : LindelofHypothesis.mu_zero_eq_half
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T16:41:11.74948+00:00
 -- url     : https://prove2.me/theorems/ab4c3cce-6761-45ac-b2dc-d3add5222617

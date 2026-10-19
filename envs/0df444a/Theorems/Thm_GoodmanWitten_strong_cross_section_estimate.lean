@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_strong_cross_section_estimate
 -- name    : GoodmanWitten.strong_cross_section_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:57:46.686593+00:00
 -- url     : https://prove2.me/theorems/afa45652-ccc9-4570-bf93-194f43b30b63

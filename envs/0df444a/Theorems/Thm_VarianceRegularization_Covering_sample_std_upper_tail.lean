@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Covering_sample_std_upper_tail
 -- name    : VarianceRegularization.Covering.sample_std_upper_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:41:09.769624+00:00
 -- url     : https://prove2.me/theorems/3aa00fea-3fd0-4dcc-9d25-51d2b3c1222b

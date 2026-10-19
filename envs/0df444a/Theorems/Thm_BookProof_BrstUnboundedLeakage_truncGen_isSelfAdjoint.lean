@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_truncGen_isSelfAdjoint
 -- name    : BookProof.BrstUnboundedLeakage.truncGen_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:19:47.405589+00:00
 -- url     : https://prove2.me/theorems/4490ab9d-7196-4182-a394-a28dce696244

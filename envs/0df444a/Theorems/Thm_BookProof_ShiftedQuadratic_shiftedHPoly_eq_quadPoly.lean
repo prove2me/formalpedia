@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_shiftedHPoly_eq_quadPoly
 -- name    : BookProof.ShiftedQuadratic.shiftedHPoly_eq_quadPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:26:12.476026+00:00
 -- url     : https://prove2.me/theorems/2edac4cf-f1be-47c2-b860-1a54f1c03445

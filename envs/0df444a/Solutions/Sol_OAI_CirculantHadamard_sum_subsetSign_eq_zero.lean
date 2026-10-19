@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for OAI.CirculantHadamard.sum_subsetSign_eq_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-19T10:05:30.717522+00:00
+-- url     : https://prove2.me/submissions/ca016500-154d-43fe-b204-d3f2b29e4b8f
+
+import Mathlib
+import Definitions.Def_CirculantHadamard
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_Basic
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_Witnesses
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_MatrixBridge
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicRing
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicNorm
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicProjection
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_LocalDVR
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_OrderHalving
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_PrimeComponents
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing
+import Definitions.Def_OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts
+
+open OAI OAI.CirculantHadamard
+universe uI uG uH
+open scoped BigOperators
+variable {I : Type uI}
+theorem solution (t : Finset I) (ht : t.Nonempty) :
+    ∑ S ∈ t.powerset, subsetSign S = 0 := by
+  simpa [subsetSign] using Finset.sum_powerset_neg_one_pow_card_of_nonempty ht

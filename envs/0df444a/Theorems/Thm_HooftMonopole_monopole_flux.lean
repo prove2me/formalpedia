@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_monopole_flux
 -- name    : HooftMonopole.monopole_flux
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-23T20:14:15.819783+00:00
 -- url     : https://prove2.me/theorems/b446c13f-0cc9-4b9b-9258-76e55ee15151

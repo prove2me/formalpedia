@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_LowerBound_bellman_contraction
 -- name    : AccelVI.LowerBound.bellman_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:58.029128+00:00
 -- url     : https://prove2.me/theorems/b48acf01-0cfb-4648-accc-d36f57118635

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_genPicPolytope_sandwich
 -- name    : QAlgorithms.Nannicini.genPicPolytope_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:48.069538+00:00
 -- url     : https://prove2.me/theorems/e303801e-bd99-488d-ae2e-0743628484e4

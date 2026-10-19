@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_normal_exists_invariant
 -- name    : InvariantSubspaceProblem.normal_exists_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T17:22:33.297284+00:00
 -- url     : https://prove2.me/theorems/0b135efa-094b-4039-b09f-5334046842e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_HermiteFarisLavine_nsH_commForm_bound
 -- name    : BookProof.NavierStokesFlow.HermiteFarisLavine.nsH_commForm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:28:34.72197+00:00
 -- url     : https://prove2.me/theorems/e6488d7f-4d02-4a42-9777-ab03e7ee40a6

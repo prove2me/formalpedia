@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockCanonical_fock_canonical_essentiallySelfAdjointOn_core
 -- name    : BookProof.NavierStokesFlow.FockCanonical.fock_canonical_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-29T18:18:30.961358+00:00
 -- url     : https://prove2.me/theorems/d3a074b4-92e0-41d8-98d4-f1cef7230482

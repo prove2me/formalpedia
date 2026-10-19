@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_qgScalaronFock_stone_flow
 -- name    : BookProof.ScalaronFock.qgScalaronFock_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:47:57.336982+00:00
 -- url     : https://prove2.me/theorems/6d3a8551-2362-4a43-84aa-b2436005257c

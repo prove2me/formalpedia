@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Accuracy_vstar_convex
 -- name    : HumanMachine.Accuracy.vstar_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:23:53.893753+00:00
 -- url     : https://prove2.me/theorems/b1ea542c-b476-44b5-a0e9-ee280c6570b8

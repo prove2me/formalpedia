@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSinusoidalPosition_scoreSoftmax_sinusoidal_ge
 -- name    : BookProof.ChapterSinusoidalPosition.scoreSoftmax_sinusoidal_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:08:57.468686+00:00
 -- url     : https://prove2.me/theorems/b97833d3-48d7-427b-8a57-6014a012cbdf

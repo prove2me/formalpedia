@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_clockPathMatrix_gap
 -- name    : QAlgorithms.Childs.clockPathMatrix_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:23.631576+00:00
 -- url     : https://prove2.me/theorems/68c06452-9f1c-4869-8fab-a4dafba8bac0

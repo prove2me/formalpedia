@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_halting_reduction_quantum
 -- name    : MIPRE.Halting.halting_reduction_quantum
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:41:01.270909+00:00
 -- url     : https://prove2.me/theorems/04943909-2f72-407d-a1fe-1d81bb05ac8d

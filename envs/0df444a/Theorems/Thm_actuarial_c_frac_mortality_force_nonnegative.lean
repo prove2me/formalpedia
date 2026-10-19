@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_frac_mortality_force_nonnegative
 -- name    : actuarial_c_frac_mortality_force_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:41:15.304425+00:00
 -- url     : https://prove2.me/theorems/cbc654a1-b89d-4fa5-a8b2-315c475f91c0

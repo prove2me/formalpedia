@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_StrictInverseFirstPower_main
 -- name    : OAI.StrictInverseFirstPower.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:26.735578+00:00
 -- url     : https://prove2.me/theorems/9ae259b0-326c-43b3-90d9-840a003a3ea6

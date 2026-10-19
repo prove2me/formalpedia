@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.HermiteBandHigher.IsBandDeg.sum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T14:50:11.044555+00:00
 -- url     : https://prove2.me/submissions/70593557-882f-45df-aa79-4661ffe8d08f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterHermiteBandCalculusHigher.lean — solution of BookProof.HermiteBandHigher.IsBandDeg.sum
 import Mathlib

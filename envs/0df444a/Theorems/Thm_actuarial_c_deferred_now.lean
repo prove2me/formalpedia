@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_deferred_now
 -- name    : actuarial_c_deferred_now
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:19:19.948315+00:00
 -- url     : https://prove2.me/theorems/e7e442ce-09f3-4aea-9dd3-6e8bdb8ff01f

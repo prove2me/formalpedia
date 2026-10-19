@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanFieldLQ_Feedback_psd_identity
 -- name    : MeanFieldLQ.Feedback.psd_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:34:41.935028+00:00
 -- url     : https://prove2.me/theorems/80bd51e2-8103-46f7-ac83-b80af12bdcf3

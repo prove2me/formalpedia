@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_MVC_theorem_5_5
 -- name    : AccelVI.MVC.theorem_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:00:35.228273+00:00
 -- url     : https://prove2.me/theorems/41ca7ea5-8227-46fa-b1cd-380aa1ce1e91

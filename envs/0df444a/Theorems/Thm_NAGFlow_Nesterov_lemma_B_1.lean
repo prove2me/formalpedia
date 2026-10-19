@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Nesterov_lemma_B_1
 -- name    : NAGFlow.Nesterov.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:29:53.409714+00:00
 -- url     : https://prove2.me/theorems/ac903dca-8d44-4803-99ac-679f4b71fd00

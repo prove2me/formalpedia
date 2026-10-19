@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_blockEncoding_innerProductDiag
 -- name    : QAlgorithms.Nannicini.blockEncoding_innerProductDiag
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:16.887282+00:00
 -- url     : https://prove2.me/theorems/55f6aacc-cc4f-47b1-9dff-c6b531d408ed

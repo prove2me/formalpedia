@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Alone_pbar_thresholds
 -- name    : HumanMachine.Alone.pbar_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:29:09.643594+00:00
 -- url     : https://prove2.me/theorems/1fb0ac9d-7136-4137-ae85-c113f3bd11b7

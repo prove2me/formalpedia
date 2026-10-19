@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolymerEndpoint_Atomic_lemma_6_4
 -- name    : PolymerEndpoint.Atomic.lemma_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:34:33.359137+00:00
 -- url     : https://prove2.me/theorems/c6ee87d1-f13c-4204-8a1c-483cf1a1ccaa

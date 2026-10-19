@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialAVD_Traj_lemma_A_4
 -- name    : InertialAVD.Traj.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:06:56.978418+00:00
 -- url     : https://prove2.me/theorems/0ede40a6-5f33-4e6c-bb96-be2aa98e3e97

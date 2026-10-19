@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamanujanPetersson_tau_q_expansion
 -- name    : RamanujanPetersson.tau_q_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T16:12:44.673379+00:00
 -- url     : https://prove2.me/theorems/3e02cdc9-a574-4e27-91b4-657972735f82

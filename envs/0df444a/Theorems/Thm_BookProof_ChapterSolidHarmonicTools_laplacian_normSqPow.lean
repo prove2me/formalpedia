@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonicTools_laplacian_normSqPow
 -- name    : BookProof.ChapterSolidHarmonicTools.laplacian_normSqPow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:56:08.039992+00:00
 -- url     : https://prove2.me/theorems/5fdea519-342e-4910-a977-c16f87db3e58

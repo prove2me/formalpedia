@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_unmarked_specNorm_le
 -- name    : QAlgorithms.Childs.unmarked_specNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:36:22.998846+00:00
 -- url     : https://prove2.me/theorems/16d31cc2-e883-4561-b06b-21b0ab2b0a2d

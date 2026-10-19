@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_matrixFlow_unique
 -- name    : BookProof.NavierStokesFlow.matrixFlow_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:01.270133+00:00
 -- url     : https://prove2.me/theorems/4bf381fb-e96f-4388-8e09-f565e613d6b3

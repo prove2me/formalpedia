@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_integral_poly_sq_eq_and_nonneg
 -- name    : HamburgerMoment.integral_poly_sq_eq_and_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:05:49.525607+00:00
 -- url     : https://prove2.me/theorems/f86604b0-54ea-4927-92ac-4c7e44af07ea

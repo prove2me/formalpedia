@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_virasoro_shapiro_integral
 -- name    : TongString.virasoro_shapiro_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T20:56:45.978014+00:00
 -- url     : https://prove2.me/theorems/56b68a4c-4ec3-4c39-9858-11797b34a247

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubbleTension_distanceModulus_inverse
 -- name    : HubbleTension.distanceModulus_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:22:42.620979+00:00
 -- url     : https://prove2.me/theorems/d4af1648-b504-4f83-9dd4-212faa599795

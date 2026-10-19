@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isQuasiComplete_submodule_of_isClosed
 -- name    : GarrettFA.isQuasiComplete_submodule_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:33:10.305977+00:00
 -- url     : https://prove2.me/theorems/3ae34399-e81e-48c1-8536-90fa0c288426

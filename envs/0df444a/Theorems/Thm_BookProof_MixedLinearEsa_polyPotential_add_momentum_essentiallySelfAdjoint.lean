@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_polyPotential_add_momentum_essentiallySelfAdjoint
 -- name    : BookProof.MixedLinearEsa.polyPotential_add_momentum_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:08:25.33737+00:00
 -- url     : https://prove2.me/theorems/770384ce-0d14-42f9-9f9f-9e7854f98cf4

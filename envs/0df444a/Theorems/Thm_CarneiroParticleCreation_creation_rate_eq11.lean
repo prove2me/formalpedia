@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_creation_rate_eq11
 -- name    : CarneiroParticleCreation.creation_rate_eq11
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:31:17.982359+00:00
 -- url     : https://prove2.me/theorems/6b42553c-e6d7-4f38-a6bb-702f1f42add0

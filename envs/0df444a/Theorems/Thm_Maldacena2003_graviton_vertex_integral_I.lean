@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_graviton_vertex_integral_I
 -- name    : Maldacena2003.graviton_vertex_integral_I
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:54:29.909583+00:00
 -- url     : https://prove2.me/theorems/f9bbfdf3-00ce-40f2-aa7b-4effca4f493f

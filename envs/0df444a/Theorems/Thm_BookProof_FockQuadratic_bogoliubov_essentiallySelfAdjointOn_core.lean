@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockQuadratic_bogoliubov_essentiallySelfAdjointOn_core
 -- name    : BookProof.FockQuadratic.bogoliubov_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-13T05:02:00.788327+00:00
 -- url     : https://prove2.me/theorems/d1f25276-1478-4bfc-8d01-0e0e53268862

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterH7.compression_eigenvalue_mem_numericalRange
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T16:59:46.764476+00:00
 -- url     : https://prove2.me/submissions/6d9610bd-b3b0-4a78-9d91-0944c11c8cab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterH7.lean — solution of BookProof.ChapterH7.compression_eigenvalue_mem_numericalRange
 import Mathlib

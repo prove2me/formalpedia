@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_vacuumTerm_asymptotics
 -- name    : CarneiroDeSitter.vacuumTerm_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T02:12:19.679977+00:00
 -- url     : https://prove2.me/theorems/712a4b39-b352-43c3-a64a-0e6b3be6180f

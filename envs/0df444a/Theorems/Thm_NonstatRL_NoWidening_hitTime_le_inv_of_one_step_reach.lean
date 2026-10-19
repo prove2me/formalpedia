@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_NoWidening_hitTime_le_inv_of_one_step_reach
 -- name    : NonstatRL.NoWidening.hitTime_le_inv_of_one_step_reach
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:53.105988+00:00
 -- url     : https://prove2.me/theorems/e7fb6ff4-5c3c-4868-99a7-9d726e80c802

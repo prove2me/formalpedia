@@ -13,7 +13,7 @@
 --   $$p=q\diamond\bigl(p\diamond((q\diamond p)\diamond q)\bigr).$$
 --   Fix $x\in\alpha$ and let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume:
 --
---   1. $x$ has no right fixer, that is, no $y$ satisfies $y\diamond x=x$;
+--   1. $x$ has no fixer, that is, no $y$ satisfies $y\diamond x=x$;
 --   2. exactly one element $A$ lies outside $O_x$;
 --   3. some $c\in O_x$ collides with $A$ under right translation by $x$: $c\diamond x=A\diamond x$.
 --
@@ -28,7 +28,7 @@
 --   - $v\in O_x$, $v\ne A$, $v\ne b$.
 --   - If $v=d$, then $u=x$, and the two predecessor identities
 --   $$x\diamond(d\diamond c)=d,\qquad d\diamond(x\diamond c)=x$$
---   hold, so $L_c$ exchanges $x$ and $d$.
+--   hold; together with $c\diamond x=d$ (the collision) and $c\diamond d=u=x$, this says $L_c$ exchanges $x$ and $d$.
 --
 --   The lemma isolates the points and separations that any argument about the cross-boundary collision must handle, and it splits the situation into the branch $v=d$ and the branch $v\ne d$. It does not conclude the open successor-propagation statement $(x\diamond c)\diamond x=A\diamond x$, and it does not produce a fixer. Its conclusions are sound constraints for finite-model or SAT searches inside this branch.
 --

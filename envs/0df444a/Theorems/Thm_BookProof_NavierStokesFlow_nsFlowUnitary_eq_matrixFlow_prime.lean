@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_nsFlowUnitary_eq_matrixFlow_prime
 -- name    : BookProof.NavierStokesFlow.nsFlowUnitary_eq_matrixFlow_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:10.293022+00:00
 -- url     : https://prove2.me/theorems/4d620acd-530d-401b-8c82-fb4cfa478f6e

@@ -1,0 +1,74 @@
+-- Prove2me | solution 1 for OAI.BalancedTransport.Effectivity.loadingSupport_ball
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-19T05:50:26.051786+00:00
+-- url     : https://prove2.me/submissions/b725fbd2-f3bd-40ed-b2b4-38878dab0c80
+
+import Mathlib
+import Definitions.Def_BalancedThreeStack
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_FlatBounds
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveArithmetic
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_RationalAlgorithms
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveExp
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_RecorderRules
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_PrefixCoding
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_BoxCoding
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Work
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_TimeRegularity
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_FieldBounds
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_CompactFamilies
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ResidualRegularity
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_RhoAlgorithms
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveLog
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericPrograms
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ComputabilityRules
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_MachineRecursion
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_FiniteSimulator
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_UniversalInput
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericBounds
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericEvaluation
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericDifferentiation
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericScopes
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericJets
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_NumericAlgebra
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Elementary
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EnergyCurve
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Sobolev
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EnergySlice
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Loading
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Periodic
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Motion
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Parking
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Deformation
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ElementaryMotion
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ElementaryCalculus
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_RecorderSimulation
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_MachineHalting
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_Bridge
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_MotionField
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_CompiledGeometry
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_ElementaryJets
+import Definitions.Def_OAI_MathematicalPhysics_NavierStokes_BalancedTransport_EffectiveGluing
+
+open OAI OAI.BalancedTransport OAI.BalancedTransport.Effectivity
+open Recorder Coding BalancedTransport.Geometry
+open scoped Classical
+
+
+theorem solution {z : Space} {C : ℕ} (hz : ∀i, |z i| ≤ C) :
+    loadingSupport z 1 ⊆ Metric.closedBall (0 : Space) (C+6 : ℕ) := by
+  intro x hx
+  rw [loadingSupport, mem_closedEnlargement] at hx
+  rw [Metric.mem_closedBall, dist_zero_right, pi_norm_le_iff_of_nonneg (by positivity)]
+  intro i
+  have h := hx i
+  have hzi := abs_le.mp (hz i)
+  have hf : |fixedLabel i| ≤ 4 := by fin_cases i <;> norm_num [fixedLabel]
+  have hfi := abs_le.mp hf
+  have hC : (0:ℝ) ≤ C := Nat.cast_nonneg _
+  have h1 : -(4:ℝ) - C ≤ min (fixedLabel i) (z i) := le_min (by linarith) (by linarith)
+  have h2 : max (fixedLabel i) (z i) ≤ 4 + C := max_le (by linarith) (by linarith)
+  rw [Real.norm_eq_abs, abs_le]
+  push_cast
+  constructor <;> linarith
+

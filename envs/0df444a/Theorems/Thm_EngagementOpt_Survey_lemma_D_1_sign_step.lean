@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Survey_lemma_D_1_sign_step
 -- name    : EngagementOpt.Survey.lemma_D_1_sign_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:52.430433+00:00
 -- url     : https://prove2.me/theorems/e6735956-0dfb-482c-8b3c-937d8b757ccd

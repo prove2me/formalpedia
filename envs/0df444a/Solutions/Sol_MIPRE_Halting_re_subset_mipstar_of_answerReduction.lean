@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MIPRE.Halting.re_subset_mipstar_of_answerReduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @thomasvidick
 -- created : 2026-10-15T22:23:14.391421+00:00
 -- url     : https://prove2.me/submissions/651fa492-8528-4f06-840b-8e9057aeb4a6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Thomas Vidick. All rights reserved.

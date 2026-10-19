@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_DFO_eq_23
 -- name    : SubsetShrink.DFO.eq_23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:20.730199+00:00
 -- url     : https://prove2.me/theorems/07d90437-ffff-41f2-8763-bf4c4700269e

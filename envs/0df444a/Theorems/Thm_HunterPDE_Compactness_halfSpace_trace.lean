@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_halfSpace_trace
 -- name    : HunterPDE.Compactness.halfSpace_trace
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:18:26.881692+00:00
 -- url     : https://prove2.me/theorems/d2b61a62-fbd9-4c2f-b509-6556d8ad317b

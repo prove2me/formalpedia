@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BesbesZeevi.Nonparametric.nonparametric_regret_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T12:58:35.611405+00:00
 -- url     : https://prove2.me/submissions/7ed13ec2-e002-4076-82e0-84e69ffdceb4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ProcessingNetworks_Stability_BaselineAssumptions

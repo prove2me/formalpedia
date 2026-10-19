@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_nth_digit_prob_tendsto_uniform
 -- name    : BenfordLaw.nth_digit_prob_tendsto_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:37.196833+00:00
 -- url     : https://prove2.me/theorems/2e6bf9a0-5bcd-437e-b0bb-d314c465b7c5

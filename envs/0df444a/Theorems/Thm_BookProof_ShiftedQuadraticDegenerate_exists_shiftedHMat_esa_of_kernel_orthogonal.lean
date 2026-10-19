@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticDegenerate_exists_shiftedHMat_esa_of_kernel_orthogonal
 -- name    : BookProof.ShiftedQuadraticDegenerate.exists_shiftedHMat_esa_of_kernel_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:26:16.66252+00:00
 -- url     : https://prove2.me/theorems/43b95bc5-6870-4e5d-9463-7565934ae7a7

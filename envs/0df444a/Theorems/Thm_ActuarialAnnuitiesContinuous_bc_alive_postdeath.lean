@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_alive_postdeath
 -- name    : ActuarialAnnuitiesContinuous.bc_alive_postdeath
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:14:21.643263+00:00
 -- url     : https://prove2.me/theorems/23ee6775-47c5-4946-8183-7f50601af359

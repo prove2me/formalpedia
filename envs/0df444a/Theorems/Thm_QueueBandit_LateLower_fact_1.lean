@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueBandit_LateLower_fact_1
 -- name    : QueueBandit.LateLower.fact_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:37:50.029566+00:00
 -- url     : https://prove2.me/theorems/b10bc481-11d5-4796-8c0b-04c160bd3d10

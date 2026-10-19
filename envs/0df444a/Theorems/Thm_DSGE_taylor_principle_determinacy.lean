@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSGE_taylor_principle_determinacy
 -- name    : DSGE.taylor_principle_determinacy
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:18.326837+00:00
 -- url     : https://prove2.me/theorems/45eee70c-defe-4456-891c-22cd7642e389

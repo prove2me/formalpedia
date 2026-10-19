@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_sum_omega_pow_mul_eq_zero
 -- name    : ShorWiki.sum_omega_pow_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T03:03:25.546139+00:00
 -- url     : https://prove2.me/theorems/94849d8f-ed6b-4de3-98b7-2f44a998e0a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_DLINCommit_product_identity
 -- name    : GOSNIZK.DLINCommit.product_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:23:31.224642+00:00
 -- url     : https://prove2.me/theorems/d4adcdab-8fbe-40ba-93c2-97f54305bffa

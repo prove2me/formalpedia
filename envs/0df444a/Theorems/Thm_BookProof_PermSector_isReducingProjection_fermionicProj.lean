@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_PermSector_isReducingProjection_fermionicProj
 -- name    : BookProof.PermSector.isReducingProjection_fermionicProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:44:48.732977+00:00
 -- url     : https://prove2.me/theorems/34f779b6-ffac-43c8-a3bf-f332c8534750

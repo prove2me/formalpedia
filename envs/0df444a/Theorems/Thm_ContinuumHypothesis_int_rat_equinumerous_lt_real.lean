@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_int_rat_equinumerous_lt_real
 -- name    : ContinuumHypothesis.int_rat_equinumerous_lt_real
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:24:46.25298+00:00
 -- url     : https://prove2.me/theorems/1f40f159-fff6-4d3a-8c83-079f42ed6151

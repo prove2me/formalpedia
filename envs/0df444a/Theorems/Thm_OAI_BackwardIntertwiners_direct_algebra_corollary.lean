@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BackwardIntertwiners_direct_algebra_corollary
 -- name    : OAI.BackwardIntertwiners.direct_algebra_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:22.40876+00:00
 -- url     : https://prove2.me/theorems/7d0ea78d-2f5b-40da-9b13-770941e12119

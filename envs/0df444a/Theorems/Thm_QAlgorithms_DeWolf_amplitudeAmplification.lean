@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_amplitudeAmplification
 -- name    : QAlgorithms.DeWolf.amplitudeAmplification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:06.438984+00:00
 -- url     : https://prove2.me/theorems/c350f2a0-be59-400a-90c4-f168c0e5ffc3

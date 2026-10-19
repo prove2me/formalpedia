@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH7_compression_eigenvalue_mem_numericalRange
 -- name    : BookProof.ChapterH7.compression_eigenvalue_mem_numericalRange
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:44.775828+00:00
 -- url     : https://prove2.me/theorems/2a7cbc73-f0cb-4c12-a743-481eda6da584

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterObservableExpectation_bayes_posterior_expectation_mem_convexHull
 -- name    : BookProof.ChapterObservableExpectation.bayes_posterior_expectation_mem_convexHull
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:43:38.776873+00:00
 -- url     : https://prove2.me/theorems/521fd24c-3aca-4486-a3a4-a301353c0399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_densityMatrix_blockEncoding
 -- name    : QAlgorithms.Nannicini.densityMatrix_blockEncoding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:19.287105+00:00
 -- url     : https://prove2.me/theorems/4addcb18-b223-46a6-8837-38a9df8f8190

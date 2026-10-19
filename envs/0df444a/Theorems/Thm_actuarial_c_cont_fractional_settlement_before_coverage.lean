@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_fractional_settlement_before_coverage
 -- name    : actuarial_c_cont_fractional_settlement_before_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:37:53.566998+00:00
 -- url     : https://prove2.me/theorems/bfcba4cd-3b98-4208-9b7c-9afb12aef9f7

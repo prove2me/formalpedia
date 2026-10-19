@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RhinViola_psi_invariant_under_tau
 -- name    : RhinViola.psi_invariant_under_tau
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T21:23:08.664844+00:00
 -- url     : https://prove2.me/theorems/4454c0f9-6dfc-4d72-8a95-9c66a3205afb

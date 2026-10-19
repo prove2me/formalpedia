@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NsPartialFourier.nsPartialFourier_fibreOp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:56:54.656292+00:00
 -- url     : https://prove2.me/submissions/f5cc70d5-9e5e-4897-a119-ebde3ea1d54a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNsPartialFourier.lean — solution of BookProof.NsPartialFourier.nsPartialFourier_fibreOp
 import Mathlib

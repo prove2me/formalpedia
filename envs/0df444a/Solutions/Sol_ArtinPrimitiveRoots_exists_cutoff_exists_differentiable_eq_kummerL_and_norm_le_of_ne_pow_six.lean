@@ -1,0 +1,4744 @@
+-- Prove2me | solution 1 for ArtinPrimitiveRoots.exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le_of_ne_pow_six
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-18T06:27:01.527984+00:00
+-- url     : https://prove2.me/submissions/bd287f5c-3c35-42a8-b194-5822f47d060b
+
+import Definitions.Def_ArtinHecke
+import Definitions.Def_ArtinHeckeProbe
+import Definitions.Def_ArtinHeckeTheta
+import Definitions.Def_ArtinL_Abelian
+import Theorems.Thm_ArtinL_Abelian_exists_narrowRayClassChar_conductor_eq_localValue_u0
+import Theorems.Thm_ArtinL_Abelian_dvd_conductor_iff_not_isUnramifiedAt
+import Theorems.Thm_ArtinL_Abelian_exists_completedLSeries_functionalEquation_u0
+import Theorems.Thm_PhragmenLindelof_exists_norm_le_mul_one_add_abs_im_rpow_of_vertical_strip
+import Theorems.Thm_LT_HeckeChar_exists_heckeCharOfRayClassChar
+import Theorems.Thm_NumberField_TateGlobal_exists_eq_normPowChar_of_forall_mem_normOneIdeles
+import Theorems.Thm_NumberField_TateGlobal_exists_forall_norm_le_mul_of_differentiable_of_eq_partialEulerProduct_of_re_mem_Icc
+import Theorems.Thm_NumberField_TateGlobal_exists_ideleNorm_eq_and_snd_eq_one
+import Definitions.Def_LanglandsTunnell_ArtinFrobenius
+import Definitions.Def_ArtinHeckeRowL
+import Theorems.Thm_ArtinPrimitiveRoots_heckeLSeries_euler_package_of_le
+import Mathlib
+
+universe u
+
+section
+section
+/-! # L3K_Gamma: the Gamma-factor ratio on the left edge of the convexity strip
+
+* `norm_Gamma_mono`: `σ ↦ ‖Γ(σ + it)‖ / Γ(σ)` is nondecreasing on `σ > 0` (Gauss's product).
+* `norm_Gamma_one_add_sq`: `‖Γ(1 + it)‖² = π |t| / |sinh(π t)|`.
+* `exists_norm_Gammaℂ_ratio_le`: for `0 < δ < 1`,
+  `‖Γ_ℂ(1 + δ − it) / Γ_ℂ(−δ + it)‖ ≤ C (1 + |t|)^3`. -/
+
+open Complex Filter Topology
+
+set_option autoImplicit false
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+lemma norm_GammaSeq (s : ℂ) {n : ℕ} (hn : n ≠ 0) :
+    ‖GammaSeq s n‖ =
+      (n : ℝ) ^ s.re * (Nat.factorial n : ℝ) / ∏ j ∈ Finset.range (n + 1), ‖s + j‖ := by
+  rw [GammaSeq, norm_div, norm_mul, norm_prod,
+    Complex.norm_natCast_cpow_of_pos (Nat.pos_of_ne_zero hn)]
+  simp
+
+lemma prod_pos_norm {s : ℂ} (hs : 0 < s.re) (n : ℕ) :
+    0 < ∏ j ∈ Finset.range (n + 1), ‖s + j‖ := by
+  refine Finset.prod_pos fun j _ => norm_pos_iff.2 fun h => ?_
+  have := congrArg Complex.re h
+  simp at this
+  have : (0 : ℝ) ≤ j := Nat.cast_nonneg j
+  linarith
+
+lemma term_ineq {x y t : ℝ} (hx : 0 < x) (hxy : x ≤ y) :
+    ‖(y : ℂ) + t * I‖ * ‖(x : ℂ)‖ ≤ ‖(x : ℂ) + t * I‖ * ‖(y : ℂ)‖ := by
+  have hy : 0 < y := hx.trans_le hxy
+  rw [Complex.norm_add_mul_I, Complex.norm_add_mul_I, Complex.norm_real, Complex.norm_real,
+    Real.norm_eq_abs, Real.norm_eq_abs, abs_of_pos hx, abs_of_pos hy]
+  have e1 : √(y ^ 2 + t ^ 2) * x = √((y ^ 2 + t ^ 2) * x ^ 2) := by
+    rw [Real.sqrt_mul (by positivity), Real.sqrt_sq hx.le]
+  have e2 : √(x ^ 2 + t ^ 2) * y = √((x ^ 2 + t ^ 2) * y ^ 2) := by
+    rw [Real.sqrt_mul (by positivity), Real.sqrt_sq hy.le]
+  rw [e1, e2]
+  apply Real.sqrt_le_sqrt
+  have h1 : x ^ 2 ≤ y ^ 2 := pow_le_pow_left₀ hx.le hxy 2
+  nlinarith [sq_nonneg t]
+
+/-- `‖Γ(a + it)‖ Γ(b) ≤ ‖Γ(b + it)‖ Γ(a)` for `0 < a ≤ b`. -/
+theorem norm_Gamma_mono {a b : ℝ} (ha : 0 < a) (hab : a ≤ b) (t : ℝ) :
+    ‖Gamma ((a : ℂ) + t * I)‖ * ‖Gamma (b : ℂ)‖ ≤ ‖Gamma ((b : ℂ) + t * I)‖ * ‖Gamma (a : ℂ)‖ := by
+  have hb : 0 < b := ha.trans_le hab
+  have key : ∀ n : ℕ, n ≠ 0 →
+      ‖GammaSeq ((a : ℂ) + t * I) n‖ * ‖GammaSeq (b : ℂ) n‖ ≤
+        ‖GammaSeq ((b : ℂ) + t * I) n‖ * ‖GammaSeq (a : ℂ) n‖ := by
+    intro n hn
+    have hre : ∀ x : ℝ, ((x : ℂ) + t * I).re = x := fun x => by simp
+    rw [norm_GammaSeq _ hn, norm_GammaSeq _ hn, norm_GammaSeq _ hn, norm_GammaSeq _ hn,
+      hre, hre, Complex.ofReal_re, Complex.ofReal_re]
+    have hPa := prod_pos_norm (s := (a : ℂ) + t * I) (by rw [hre]; exact ha) n
+    have hPb := prod_pos_norm (s := (b : ℂ) + t * I) (by rw [hre]; exact hb) n
+    have hQa := prod_pos_norm (s := (a : ℂ)) (by simpa using ha) n
+    have hQb := prod_pos_norm (s := (b : ℂ)) (by simpa using hb) n
+    rw [div_mul_div_comm, div_mul_div_comm]
+    have hnum : (n : ℝ) ^ a * (Nat.factorial n : ℝ) * ((n : ℝ) ^ b * (Nat.factorial n : ℝ)) =
+        (n : ℝ) ^ b * (Nat.factorial n : ℝ) * ((n : ℝ) ^ a * (Nat.factorial n : ℝ)) := by ring
+    rw [hnum]
+    apply div_le_div_of_nonneg_left (by positivity) (mul_pos hPb hQa)
+    rw [← Finset.prod_mul_distrib, ← Finset.prod_mul_distrib]
+    apply Finset.prod_le_prod (fun j _ => by positivity)
+    intro j _
+    have e1 : ∀ x : ℝ, (x : ℂ) + t * I + j = ((x + j : ℝ) : ℂ) + t * I := fun x => by
+      push_cast; ring
+    have e2 : ∀ x : ℝ, (x : ℂ) + j = ((x + j : ℝ) : ℂ) := fun x => by push_cast; ring
+    rw [e1, e1, e2, e2]
+    exact term_ineq (by positivity) (by linarith)
+  have hlim : ∀ s : ℂ, Tendsto (fun n => ‖GammaSeq s n‖) atTop (𝓝 ‖Gamma s‖) :=
+    fun s => (GammaSeq_tendsto_Gamma s).norm
+  exact le_of_tendsto_of_tendsto ((hlim _).mul (hlim _)) ((hlim _).mul (hlim _))
+    (by filter_upwards [eventually_ne_atTop 0] with n hn using key n hn)
+
+lemma norm_sin_le (z : ℂ) : ‖Complex.sin z‖ ≤ Real.exp |z.im| := by
+  rw [Complex.sin]
+  have h1 : ‖Complex.exp (-z * I)‖ = Real.exp z.im := by
+    rw [Complex.norm_exp]; congr 1; simp
+  have h2 : ‖Complex.exp (z * I)‖ = Real.exp (-z.im) := by
+    rw [Complex.norm_exp]; congr 1; simp
+  rw [norm_div, norm_mul, Complex.norm_I, mul_one, Complex.norm_two]
+  have h3 : ‖Complex.exp (-z * I) - Complex.exp (z * I)‖ ≤ Real.exp z.im + Real.exp (-z.im) := by
+    rw [← h1, ← h2]; exact norm_sub_le _ _
+  have h4 : Real.exp z.im ≤ Real.exp |z.im| := Real.exp_le_exp.2 (le_abs_self _)
+  have h5 : Real.exp (-z.im) ≤ Real.exp |z.im| := Real.exp_le_exp.2 (neg_le_abs _)
+  linarith
+
+/-- `‖Γ(1 + it)‖² ‖sin(π(1 + it))‖ = π |t|`. -/
+lemma norm_Gamma_one_add_sq_mul (t : ℝ) :
+    ‖Gamma (1 + t * I)‖ ^ 2 * ‖Complex.sin ((Real.pi : ℂ) * (1 + t * I))‖ = Real.pi * |t| := by
+  rcases eq_or_ne t 0 with rfl | ht
+  · simp
+  have hz : (-(t : ℂ) * I) ≠ 0 := by
+    simp [ht]
+  have hrefl := Gamma_mul_Gamma_one_sub (1 + t * I)
+  have hsub : (1 : ℂ) - (1 + t * I) = -(t : ℂ) * I := by ring
+  rw [hsub] at hrefl
+  have hconj : Gamma (1 - t * I) = (starRingEnd ℂ) (Gamma (1 + t * I)) := by
+    rw [← Gamma_conj]; congr 1; simp [Complex.conj_ofReal]; ring
+  have hadd : Gamma (1 - t * I) = (-(t : ℂ) * I) * Gamma (-(t : ℂ) * I) := by
+    have := Gamma_add_one (-(t : ℂ) * I) hz
+    rw [show -(t : ℂ) * I + 1 = 1 - t * I by ring] at this
+    exact this
+  have hsq : (‖Gamma (1 + t * I)‖ ^ 2 : ℂ) = Gamma (1 + t * I) * Gamma (1 - t * I) := by
+    rw [hconj, Complex.mul_conj, Complex.normSq_eq_norm_sq]; push_cast; ring
+  have hsin : Complex.sin ((Real.pi : ℂ) * (1 + t * I)) ≠ 0 := by
+    intro h0
+    rw [h0, div_zero] at hrefl
+    rcases mul_eq_zero.1 hrefl with h | h
+    · exact Gamma_ne_zero_of_re_pos (by simp) h
+    · exact Gamma_ne_zero (fun m hm => by
+        have := congrArg Complex.re hm; simp at this
+        have := congrArg Complex.im hm; simp at this; exact ht this) h
+  have key : (‖Gamma (1 + t * I)‖ ^ 2 : ℂ) * Complex.sin ((Real.pi : ℂ) * (1 + t * I)) =
+      (-(t : ℂ) * I) * Real.pi := by
+    rw [hsq, hadd, show Gamma (1 + t * I) * (-(t : ℂ) * I * Gamma (-(t : ℂ) * I)) =
+      (-(t : ℂ) * I) * (Gamma (1 + t * I) * Gamma (-(t : ℂ) * I)) by ring, hrefl]
+    field_simp
+  have := congrArg (‖·‖) key
+  simp only [norm_mul, norm_pow, Complex.norm_real, Real.norm_eq_abs, norm_neg,
+    Complex.norm_I, mul_one, abs_norm] at this
+  rw [this, abs_of_pos Real.pi_pos]; ring
+
+lemma norm_sin_pi_one_add (t : ℝ) :
+    ‖Complex.sin ((Real.pi : ℂ) * (1 + t * I))‖ = |Real.sinh (Real.pi * t)| := by
+  rw [show (Real.pi : ℂ) * (1 + t * I) = ((Real.pi * t : ℝ) : ℂ) * I + Real.pi by push_cast; ring,
+    Complex.sin_add_pi, norm_neg, Complex.sin_mul_I, norm_mul, Complex.norm_I, mul_one,
+    ← Complex.ofReal_sinh, Complex.norm_real, Real.norm_eq_abs]
+
+/-- `‖Γ(1 + it)‖² ≤ 4π e^π (1 + |t|) e^{−π|t|}`. -/
+lemma norm_Gamma_one_add_sq_le (t : ℝ) :
+    ‖Gamma (1 + t * I)‖ ^ 2 ≤ 4 * Real.pi * Real.exp Real.pi * (1 + |t|) * Real.exp (-(Real.pi * |t|)) := by
+  have hk := norm_Gamma_one_add_sq_mul t
+  rw [norm_sin_pi_one_add] at hk
+  have hsh : |Real.sinh (Real.pi * t)| = Real.sinh (Real.pi * |t|) := by
+    rw [Real.abs_sinh, abs_mul, abs_of_pos Real.pi_pos]
+  rw [hsh] at hk
+  set G := ‖Gamma (1 + t * I)‖ ^ 2 with hG
+  set x := Real.pi * |t| with hx
+  have hpi := Real.pi_pos
+  have hpi3 : (3 : ℝ) < Real.pi := Real.pi_gt_three
+  have hx0 : 0 ≤ x := by positivity
+  have hG0 : 0 ≤ G := by positivity
+  have hE : 1 ≤ Real.exp Real.pi := Real.one_le_exp hpi.le
+  have hRHS : 4 * Real.pi * (1 + |t|) * Real.exp (-x) ≤
+      4 * Real.pi * Real.exp Real.pi * (1 + |t|) * Real.exp (-x) := by
+    have : 0 ≤ 4 * Real.pi * (1 + |t|) * Real.exp (-x) := by positivity
+    nlinarith
+  rcases eq_or_lt_of_le hx0 with h0 | hpos
+  · have ht : t = 0 := by
+      have : |t| = 0 := by
+        rcases mul_eq_zero.1 h0.symm with h | h
+        · exact absurd h hpi.ne'
+        · exact h
+      exact abs_eq_zero.1 this
+    subst ht
+    have : G = 1 := by rw [hG]; simp
+    rw [this, ← h0, abs_zero, add_zero, neg_zero, Real.exp_zero, mul_one, mul_one]
+    nlinarith
+  have hsx : 0 < Real.sinh x := Real.sinh_pos_iff.2 hpos
+  have hGeq : G = x / Real.sinh x := by field_simp; linarith
+  rcases le_or_gt Real.pi x with hbig | hsmall
+  · -- `sinh x ≥ e^x / 4`
+    have hex : x + 1 ≤ Real.exp x := Real.add_one_le_exp x
+    have hemx : Real.exp (-x) ≤ 1 := Real.exp_le_one_iff.2 (by linarith)
+    have hsh4 : Real.exp x / 4 ≤ Real.sinh x := by
+      rw [Real.sinh_eq]; linarith
+    have hprod : Real.exp x * Real.exp (-x) = 1 := by rw [← Real.exp_add]; simp
+    have hG4 : G ≤ 4 * x * Real.exp (-x) := by
+      rw [hGeq, div_le_iff₀ hsx]
+      have h1 : 4 * x * Real.exp (-x) * (Real.exp x / 4) = x := by
+        field_simp
+        rw [mul_comm]; exact hprod
+      have : 0 ≤ 4 * x * Real.exp (-x) := by positivity
+      nlinarith
+    refine hG4.trans (le_trans ?_ hRHS)
+    have : x ≤ Real.pi * (1 + |t|) := by rw [hx]; nlinarith [abs_nonneg t]
+    have he := Real.exp_pos (-x)
+    nlinarith
+  · have hG1 : G ≤ 1 := by
+      rw [hGeq, div_le_one hsx]; exact Real.self_le_sinh_iff.2 hx0
+    refine hG1.trans ?_
+    have hex : Real.exp (-Real.pi) ≤ Real.exp (-x) := Real.exp_le_exp.2 (by linarith)
+    have hep : Real.exp Real.pi * Real.exp (-Real.pi) = 1 := by rw [← Real.exp_add]; simp
+    have : 1 ≤ 4 * Real.pi * (1 + |t|) * Real.exp (-x) * Real.exp Real.pi := by
+      have h1 : 1 ≤ 4 * Real.pi * (1 + |t|) := by nlinarith [abs_nonneg t]
+      have h2 : 1 ≤ Real.exp (-x) * Real.exp Real.pi := by nlinarith [Real.exp_pos (-Real.pi)]
+      nlinarith [Real.exp_pos (-x)]
+    have e : 4 * Real.pi * Real.exp Real.pi * (1 + |t|) * Real.exp (-x) =
+        4 * Real.pi * (1 + |t|) * Real.exp (-x) * Real.exp Real.pi := by ring
+    linarith
+
+/-- The left-edge Gamma ratio: `‖Γ(1 + δ − it) / Γ(−δ + it)‖ ≤ 4 e^π Γ(1+δ)² (1 + |t|)³`. -/
+theorem norm_Gamma_ratio_le {δ : ℝ} (hδ0 : 0 < δ) (hδ1 : δ < 1) (t : ℝ) :
+    ‖Gamma (1 + δ - t * I) / Gamma (-δ + t * I)‖ ≤
+      4 * Real.exp Real.pi * Real.Gamma (1 + δ) ^ 2 * (1 + |t|) ^ 3 := by
+  set s : ℂ := -δ + t * I with hs
+  have h1s : (1 : ℂ) + δ - t * I = 1 - s := by rw [hs]; ring
+  rw [h1s]
+  have hrefl := Gamma_mul_Gamma_one_sub s
+  have hΓs : Gamma s ≠ 0 := Gamma_ne_zero fun m hm => by
+    have := congrArg Complex.re hm
+    simp [hs] at this
+    rcases Nat.eq_zero_or_pos m with h | h
+    · subst h; simp at this; linarith
+    · have : (1 : ℝ) ≤ m := by exact_mod_cast h
+      linarith
+  have hΓ1s : Gamma (1 - s) ≠ 0 := Gamma_ne_zero_of_re_pos (by simp [hs]; linarith)
+  have hsin : Complex.sin (Real.pi * s) ≠ 0 := by
+    intro h0; rw [h0, div_zero] at hrefl; exact mul_ne_zero hΓs hΓ1s hrefl
+  have hratio : Gamma (1 - s) / Gamma s = Gamma (1 - s) ^ 2 * Complex.sin (Real.pi * s) / Real.pi := by
+    have hpi : (Real.pi : ℂ) ≠ 0 := Complex.ofReal_ne_zero.2 Real.pi_ne_zero
+    rw [eq_div_iff hsin] at hrefl
+    rw [div_eq_iff hΓs, div_mul_eq_mul_div, eq_div_iff hpi]
+    linear_combination (-(Gamma (1 - s))) * hrefl
+  rw [hratio, norm_div, norm_mul, norm_pow, Complex.norm_real, Real.norm_eq_abs,
+    abs_of_pos Real.pi_pos]
+  -- `‖Γ(1 − s)‖ = ‖Γ(1 + δ + it)‖`
+  have hconj : ‖Gamma (1 - s)‖ = ‖Gamma (((1 + δ : ℝ) : ℂ) + t * I)‖ := by
+    rw [show 1 - s = (starRingEnd ℂ) (((1 + δ : ℝ) : ℂ) + t * I) by
+      rw [hs]; simp [Complex.conj_ofReal]; ring, Gamma_conj, Complex.norm_conj]
+  have hmono := norm_Gamma_mono (a := 1 + δ) (b := 2) (by linarith) (by linarith) t
+  have h2 : ‖Gamma ((2 : ℝ) : ℂ)‖ = 1 := by
+    rw [show ((2 : ℝ) : ℂ) = 1 + 1 by norm_num, Gamma_add_one _ one_ne_zero, Gamma_one]; simp
+  have h2t : Gamma (((2 : ℝ) : ℂ) + t * I) = (1 + t * I) * Gamma (1 + t * I) := by
+    rw [show ((2 : ℝ) : ℂ) + t * I = (1 + t * I) + 1 by push_cast; ring]
+    exact Gamma_add_one _ (fun h => by have := congrArg Complex.re h; simp at this)
+  have hGr : ‖Gamma (((1 + δ : ℝ) : ℂ))‖ = Real.Gamma (1 + δ) := by
+    rw [Complex.Gamma_ofReal, Complex.norm_real, Real.norm_eq_abs,
+      abs_of_pos (Real.Gamma_pos_of_pos (by linarith))]
+  rw [h2, mul_one, h2t, norm_mul, hGr] at hmono
+  have hnorm1 : ‖(1 : ℂ) + t * I‖ ^ 2 = 1 + t ^ 2 := by
+    rw [show (1 : ℂ) = ((1 : ℝ) : ℂ) by simp, Complex.norm_add_mul_I,
+      Real.sq_sqrt (by positivity)]; ring
+  have hG1 := norm_Gamma_one_add_sq_le t
+  have hsinb : ‖Complex.sin (Real.pi * s)‖ ≤ Real.exp (Real.pi * |t|) := by
+    refine (norm_sin_le _).trans (le_of_eq ?_)
+    congr 1
+    rw [hs]; simp [abs_mul, abs_of_pos Real.pi_pos]
+  set g := ‖Gamma (((1 + δ : ℝ) : ℂ) + t * I)‖
+  set A := ‖Gamma (1 + t * I)‖
+  set R := Real.Gamma (1 + δ)
+  have hR : 0 < R := Real.Gamma_pos_of_pos (by linarith)
+  have hg0 : 0 ≤ g := norm_nonneg _
+  have hgsq : g ^ 2 ≤ R ^ 2 * ((1 + t ^ 2) * A ^ 2) := by
+    have : g ≤ ‖(1 : ℂ) + t * I‖ * A * R := hmono
+    have h' : g ^ 2 ≤ (‖(1 : ℂ) + t * I‖ * A * R) ^ 2 := pow_le_pow_left₀ hg0 this 2
+    calc g ^ 2 ≤ (‖(1 : ℂ) + t * I‖ * A * R) ^ 2 := h'
+      _ = R ^ 2 * (‖(1 : ℂ) + t * I‖ ^ 2 * A ^ 2) := by ring
+      _ = R ^ 2 * ((1 + t ^ 2) * A ^ 2) := by rw [hnorm1]
+  rw [hconj, div_le_iff₀ Real.pi_pos]
+  have hexp : Real.exp (-(Real.pi * |t|)) * Real.exp (Real.pi * |t|) = 1 := by
+    rw [← Real.exp_add]; simp
+  have hA2 : A ^ 2 * Real.exp (Real.pi * |t|) ≤ 4 * Real.pi * Real.exp Real.pi * (1 + |t|) := by
+    have := mul_le_mul_of_nonneg_right hG1 (Real.exp_pos (Real.pi * |t|)).le
+    calc A ^ 2 * Real.exp (Real.pi * |t|)
+        ≤ 4 * Real.pi * Real.exp Real.pi * (1 + |t|) * Real.exp (-(Real.pi * |t|)) *
+            Real.exp (Real.pi * |t|) := this
+      _ = 4 * Real.pi * Real.exp Real.pi * (1 + |t|) := by rw [mul_assoc _ (Real.exp _), hexp, mul_one]
+  have ht2 : 1 + t ^ 2 ≤ (1 + |t|) ^ 2 := by nlinarith [abs_nonneg t, sq_abs t]
+  have hsin0 := norm_nonneg (Complex.sin (Real.pi * s))
+  calc g ^ 2 * ‖Complex.sin (Real.pi * s)‖
+      ≤ R ^ 2 * ((1 + t ^ 2) * A ^ 2) * Real.exp (Real.pi * |t|) :=
+        mul_le_mul hgsq hsinb hsin0 (by positivity)
+    _ = R ^ 2 * (1 + t ^ 2) * (A ^ 2 * Real.exp (Real.pi * |t|)) := by ring
+    _ ≤ R ^ 2 * (1 + |t|) ^ 2 * (4 * Real.pi * Real.exp Real.pi * (1 + |t|)) := by
+        apply mul_le_mul (mul_le_mul_of_nonneg_left ht2 (by positivity)) hA2 (by positivity)
+          (by positivity)
+    _ = 4 * Real.exp Real.pi * R ^ 2 * (1 + |t|) ^ 3 * Real.pi := by ring
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+section
+/-! # T12A_Sum: Dirichlet series over ideals as sums over ideals
+
+For `f : Ideal (𝓞 K) → ℂ` bounded by `1` and `Re s > 1`, the `LSeries` whose `n`-th coefficient is
+`∑ᶠ I ∈ {absNorm I = n}, f I` is the (absolutely convergent) sum `∑' I, f I * N(I)^{-s}`. -/
+
+set_option maxHeartbeats 4000000
+set_option autoImplicit false
+
+open NumberField Complex Filter Topology Ideal
+
+namespace ArtinPrimitiveRoots.T12A
+
+variable {K : Type*} [Field K] [NumberField K]
+
+instance finite_fiber (n : ℕ) : Finite {I : Ideal (𝓞 K) // absNorm I = n} := by
+  rcases Nat.eq_zero_or_pos n with rfl | hn
+  · have : Subsingleton {I : Ideal (𝓞 K) // absNorm I = 0} :=
+      ⟨fun a b => Subtype.ext (by
+        rw [Ideal.absNorm_eq_zero_iff.mp a.2, Ideal.absNorm_eq_zero_iff.mp b.2])⟩
+    exact Finite.of_subsingleton
+  · exact (finite_setOfPred_absNorm_eq n).to_subtype
+
+end ArtinPrimitiveRoots.T12A
+
+end
+end
+
+section
+section
+/-! # T12A_Ray: a `HeckeChar` as a narrow ray class character
+
+A `HeckeChar K 𝔪` (𝔪 ≠ ⊥) is `I ↦ ψ([I])` on ideals coprime to `𝔪` for a character `ψ` of the narrow
+ray class group mod `𝔪` with parity set `∅`, and `χ.LSeries = rayClassLSeries ψ` on `Re s > 1`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+
+open NumberField IsDedekindDomain Deep.NTSupply nonZeroDivisors Complex
+
+namespace ArtinPrimitiveRoots.T12A
+
+section Coprime
+
+variable {F : Type*} [Field F] [NumberField F]
+
+theorem sup_eq_top_iff_forall {I 𝔣 : Ideal (𝓞 F)} (hI : I ≠ ⊥) :
+    I ⊔ 𝔣 = ⊤ ↔ ∀ v : HeightOneSpectrum (𝓞 F), v.asIdeal ∣ 𝔣 → ¬ v.asIdeal ∣ I := by
+  constructor
+  · intro h v hf hI'
+    apply v.isPrime.ne_top
+    rw [eq_top_iff, ← h]
+    exact sup_le (Ideal.le_of_dvd hI') (Ideal.le_of_dvd hf)
+  · intro h
+    by_contra hne
+    obtain ⟨m, hm, hle⟩ := Ideal.exists_le_maximal _ hne
+    have hmb : m ≠ ⊥ := by
+      intro hb
+      apply hI
+      rw [eq_bot_iff, ← hb]
+      exact le_trans le_sup_left hle
+    let v : HeightOneSpectrum (𝓞 F) := ⟨m, hm.isPrime, hmb⟩
+    exact h v (Ideal.dvd_iff_le.mpr (le_trans le_sup_right hle))
+      (Ideal.dvd_iff_le.mpr (le_trans le_sup_left hle))
+
+theorem mk0_mem_coprimeToModulus_iff {I 𝔣 : Ideal (𝓞 F)} (hI : I ∈ (Ideal (𝓞 F))⁰) :
+    FractionalIdeal.mk0 F ⟨I, hI⟩ ∈ coprimeToModulus F 𝔣 ↔ I ⊔ 𝔣 = ⊤ := by
+  have hI0 : I ≠ 0 := nonZeroDivisors.ne_zero hI
+  rw [mem_coprimeToModulus_iff, sup_eq_top_iff_forall hI0]
+  refine forall_congr' fun v => imp_congr_right fun _ => ?_
+  rw [FractionalIdeal.coe_mk0, FractionalIdeal.count_coe F v hI0, Nat.cast_eq_zero]
+  constructor
+  · intro h hd
+    exact (Associates.count_ne_zero_iff_dvd hI0 v.irreducible).mpr hd h
+  · intro h
+    by_contra hc
+    exact h ((Associates.count_ne_zero_iff_dvd hI0 v.irreducible).mp hc)
+
+theorem span_ne_bot {α : 𝓞 F} (hα : α ≠ 0) : Ideal.span {α} ≠ ⊥ := by
+  rw [Ne, Ideal.span_singleton_eq_bot]
+  exact hα
+
+theorem span_sup_eq_top {𝔣 : Ideal (𝓞 F)} {α : 𝓞 F} (h1 : α - 1 ∈ 𝔣) :
+    Ideal.span {α} ⊔ 𝔣 = ⊤ := by
+  rw [Ideal.eq_top_iff_one]
+  have h : (1 : 𝓞 F) = α - (α - 1) := by ring
+  rw [h]
+  exact Ideal.sub_mem _ (Ideal.mem_sup_left (Ideal.mem_span_singleton_self α))
+    (Ideal.mem_sup_right h1)
+
+end Coprime
+
+section Factor
+
+variable {F : Type*} [Field F] [NumberField F] {𝔣 : Ideal (𝓞 F)}
+
+theorem hasFiniteMulSupport_pow_count (f : HeightOneSpectrum (𝓞 F) → ℂ) {I : Ideal (𝓞 F)}
+    (hI : I ≠ ⊥) :
+    Function.HasFiniteMulSupport fun v : HeightOneSpectrum (𝓞 F) =>
+      f v ^ (Associates.mk v.asIdeal).count (Associates.mk I).factors := by
+  refine (Ideal.finite_factors hI).subset ?_
+  intro v hv
+  by_contra hd
+  apply hv
+  have : (Associates.mk v.asIdeal).count (Associates.mk I).factors = 0 := by
+    by_contra hc
+    exact hd ((Associates.count_ne_zero_iff_dvd hI v.irreducible).mp hc)
+  simp only [this, pow_zero]
+
+open Classical in
+theorem count_prime_eq (v w : HeightOneSpectrum (𝓞 F)) :
+    (Associates.mk v.asIdeal).count (Associates.mk w.asIdeal).factors = if v = w then 1 else 0 := by
+  split_ifs with h
+  · subst h
+    exact Associates.count_self v.associates_irreducible
+  · by_contra hc
+    have hd := (Associates.count_ne_zero_iff_dvd w.ne_bot v.irreducible).mp hc
+    apply h
+    exact HeightOneSpectrum.ext
+      ((w.isMaximal.eq_of_le v.isPrime.ne_top (Ideal.le_of_dvd hd)).symm)
+
+/-- A `HeckeChar` is determined on nonzero ideals by its values at primes. -/
+theorem heckeChar_eq_finprod (η : ArtinPrimitiveRoots.HeckeChar F 𝔣)
+    (f : HeightOneSpectrum (𝓞 F) → ℂ) (hf : ∀ v : HeightOneSpectrum (𝓞 F), η.toFun v.asIdeal = f v)
+    (I : Ideal (𝓞 F)) (hI : I ≠ ⊥) :
+    η.toFun I = ∏ᶠ v : HeightOneSpectrum (𝓞 F),
+      f v ^ (Associates.mk v.asIdeal).count (Associates.mk I).factors := by
+  revert hI
+  refine UniqueFactorizationMonoid.induction_on_prime I ?_ ?_ ?_
+  · intro h
+    exact absurd rfl h
+  · intro x hx _
+    rw [Ideal.isUnit_iff] at hx
+    subst hx
+    have h1 : η.toFun ⊤ = 1 := by
+      have := η.map_principal' 1 one_ne_zero (by rw [sub_self]; exact Ideal.zero_mem _)
+      rwa [Ideal.span_singleton_one] at this
+    rw [h1, ← Ideal.one_eq_top, Associates.mk_one, Associates.factors_one]
+    exact (finprod_eq_one_of_forall_eq_one fun v => by
+      rw [Associates.count_zero v.associates_irreducible, pow_zero]).symm
+  · intro a p ha hp ih hpa
+    have ha' : a ≠ ⊥ := ha
+    let v₀ : HeightOneSpectrum (𝓞 F) := HeightOneSpectrum.ofPrime hp
+    have hp0 : p ≠ 0 := hp.ne_zero
+    rw [η.map_mul', ih ha']
+    have hcount : ∀ v : HeightOneSpectrum (𝓞 F),
+        (Associates.mk v.asIdeal).count (Associates.mk (p * a)).factors =
+          (Associates.mk v.asIdeal).count (Associates.mk p).factors +
+            (Associates.mk v.asIdeal).count (Associates.mk a).factors := by
+      intro v
+      rw [← Associates.mk_mul_mk]
+      exact Associates.count_mul (Associates.mk_ne_zero.mpr hp0) (Associates.mk_ne_zero.mpr ha)
+        v.associates_irreducible
+    simp_rw [hcount, pow_add]
+    rw [finprod_mul_distrib (hasFiniteMulSupport_pow_count f (I := p) hp0)
+      (hasFiniteMulSupport_pow_count f ha')]
+    congr 1
+    have hp' : p = v₀.asIdeal := rfl
+    rw [hp', hf v₀, finprod_eq_single _ v₀]
+    · rw [count_prime_eq, if_pos rfl, pow_one]
+    · intro v hv
+      rw [count_prime_eq, if_neg hv, pow_zero]
+
+end Factor
+
+section Ray
+
+variable {K : Type} [Field K] [NumberField K] {𝔪 : Ideal (𝓞 K)}
+
+theorem heckeChar_ne_zero (χ : HeckeChar K 𝔪) {I : Ideal (𝓞 K)} (hI : I ≠ ⊥)
+    (hc : I ⊔ 𝔪 = ⊤) : χ.toFun I ≠ 0 := by
+  rw [Ne, χ.eq_zero_iff']
+  tauto
+
+theorem heckeChar_eq_zero (χ : HeckeChar K 𝔪) {I : Ideal (𝓞 K)}
+    (h : ¬ (I ≠ ⊥ ∧ I ⊔ 𝔪 = ⊤)) : χ.toFun I = 0 := by
+  rw [χ.eq_zero_iff']
+  tauto
+
+open Classical in
+/-- The values of `χ` at primes, as units (`1` at primes dividing `𝔪`). -/
+noncomputable def primeVal (χ : HeckeChar K 𝔪) (v : HeightOneSpectrum (𝓞 K)) : ℂˣ :=
+  if h : v.asIdeal ⊔ 𝔪 = ⊤ then Units.mk0 (χ.toFun v.asIdeal) (heckeChar_ne_zero χ v.ne_bot h)
+  else 1
+
+theorem raySymbol_coe (χ : HeckeChar K 𝔪) {I : Ideal (𝓞 K)} (hI : I ≠ ⊥) (hc : I ⊔ 𝔪 = ⊤) :
+    ((raySymbol K (primeVal χ) (I : FractionalIdeal (𝓞 K)⁰ K) : ℂˣ) : ℂ) = χ.toFun I := by
+  rw [heckeChar_eq_finprod χ (fun v => χ.toFun v.asIdeal) (fun v => rfl) I hI, raySymbol,
+    ← Units.coeHom_apply, MonoidHom.map_finprod _ (hasFiniteMulSupport_raySymbol_factors K _ _)]
+  refine finprod_congr fun v => ?_
+  rw [FractionalIdeal.count_coe K v hI, zpow_natCast, Units.coeHom_apply, Units.val_pow_eq_pow_val]
+  by_cases hd : v.asIdeal ∣ I
+  · have hv : v.asIdeal ⊔ 𝔪 = ⊤ :=
+      eq_top_iff.mpr (hc ▸ sup_le_sup_right (Ideal.le_of_dvd hd) _)
+    rw [primeVal, dif_pos hv, Units.val_mk0]
+  · have : (Associates.mk v.asIdeal).count (Associates.mk I).factors = 0 := by
+      by_contra h0
+      exact hd ((Associates.count_ne_zero_iff_dvd hI v.irreducible).mp h0)
+    rw [this, pow_zero, pow_zero]
+
+theorem hkill (χ : HeckeChar K 𝔪) : ∀ α : 𝓞 K, α ≠ 0 → α - 1 ∈ 𝔪 →
+    (∀ τ : K →+* ℝ, 0 < τ (algebraMap (𝓞 K) K α)) →
+    raySymbol K (primeVal χ) ((Ideal.span {α} : Ideal (𝓞 K)) : FractionalIdeal ((𝓞 K)⁰) K) = 1 := by
+  intro α hα h1 _
+  apply Units.ext
+  rw [raySymbol_coe χ (span_ne_bot hα) (span_sup_eq_top h1), Units.val_one]
+  exact χ.map_principal' α hα h1
+
+/-- The narrow ray class character attached to `χ`. -/
+noncomputable def rayChar (χ : HeckeChar K 𝔪) : NarrowRayClassGroup K 𝔪 →* ℂ :=
+  (Units.coeHom ℂ).comp (raySymbolDescend K (primeVal χ) (hkill χ))
+
+theorem rayChar_mk (χ : HeckeChar K 𝔪) (y : ↥(coprimeToModulus K 𝔪)) :
+    rayChar χ (NarrowRayClassGroup.mk K 𝔪 y) =
+      ((raySymbol K (primeVal χ)
+        ((y : (FractionalIdeal ((𝓞 K)⁰) K)ˣ) : FractionalIdeal ((𝓞 K)⁰) K) : ℂˣ) : ℂ) := by
+  rw [rayChar, MonoidHom.comp_apply, raySymbolDescend_mk, raySymbolHom_apply, Units.coeHom_apply]
+
+theorem rayChar_mk_ideal (χ : HeckeChar K 𝔪) {I : Ideal (𝓞 K)} (hI : I ∈ (Ideal (𝓞 K))⁰)
+    (hc : FractionalIdeal.mk0 K ⟨I, hI⟩ ∈ coprimeToModulus K 𝔪) :
+    rayChar χ (NarrowRayClassGroup.mk K 𝔪 ⟨FractionalIdeal.mk0 K ⟨I, hI⟩, hc⟩) = χ.toFun I := by
+  rw [rayChar_mk]
+  show ((raySymbol K (primeVal χ) ((FractionalIdeal.mk0 K ⟨I, hI⟩ :
+    (FractionalIdeal ((𝓞 K)⁰) K)ˣ) : FractionalIdeal ((𝓞 K)⁰) K) : ℂˣ) : ℂ) = _
+  rw [FractionalIdeal.coe_mk0]
+  exact raySymbol_coe χ (nonZeroDivisors.ne_zero hI) ((mk0_mem_coprimeToModulus_iff hI).1 hc)
+
+theorem norm_rayChar (h𝔪 : 𝔪 ≠ ⊥) (χ : HeckeChar K 𝔪) (C : NarrowRayClassGroup K 𝔪) :
+    ‖rayChar χ C‖ = 1 := by
+  haveI := Deep.NTSupply.finite K h𝔪
+  have h : rayChar χ C ^ Nat.card (NarrowRayClassGroup K 𝔪) = 1 := by
+    rw [← map_pow, pow_card_eq_one', map_one]
+  exact norm_eq_one_of_pow_eq_one h Nat.card_pos.ne'
+
+open Classical in
+/-- The class of an ideal (`1` when it is zero or not coprime to `𝔪`). -/
+noncomputable def cls (𝔪 : Ideal (𝓞 K)) (I : Ideal (𝓞 K)) : NarrowRayClassGroup K 𝔪 :=
+  if h : I ≠ ⊥ ∧ I ⊔ 𝔪 = ⊤ then
+    NarrowRayClassGroup.mk K 𝔪 ⟨FractionalIdeal.mk0 K ⟨I, mem_nonZeroDivisors_of_ne_zero h.1⟩,
+      (mk0_mem_coprimeToModulus_iff _).2 h.2⟩
+  else 1
+
+open Classical in
+theorem heckeChar_eq_ite (χ : HeckeChar K 𝔪) (I : Ideal (𝓞 K)) :
+    χ.toFun I = if I ≠ ⊥ ∧ I ⊔ 𝔪 = ⊤ then rayChar χ (cls 𝔪 I) else 0 := by
+  split_ifs with h
+  · rw [cls, dif_pos h, rayChar_mk_ideal]
+  · exact heckeChar_eq_zero χ h
+
+theorem norm_heckeChar_le (h𝔪 : 𝔪 ≠ ⊥) (χ : HeckeChar K 𝔪) (I : Ideal (𝓞 K)) :
+    ‖χ.toFun I‖ ≤ 1 := by
+  rw [heckeChar_eq_ite]
+  split_ifs
+  · rw [norm_rayChar h𝔪]
+  · simp
+
+end Ray
+
+end ArtinPrimitiveRoots.T12A
+
+end
+end
+
+section
+section
+/-! # C3A_Sieve: Euler products of multiplicative functions of four ideals
+
+A function `f` on 4-tuples of ideals of `𝓞 F`, supported on exterior tuples, with
+`f (P^e · y) = A P e · f y` for exterior primes `P` and exterior `y` prime to `P`, and absolutely
+summable, has the Euler product `∑' f = ∏'_P ∑'_e A P e` over the exterior primes (`euler4`).
+Proof: the finite sieve `∑' f = (∏_{P ∈ T} L_P) · ∑'_{x prime to T} f x` (induction on `T`) and a
+tail estimate. Also a bound `‖f‖ ≤ B` for multiplicative majorants (`norm_le_of_mul`). -/
+
+open NumberField Filter Topology
+
+namespace ArtinPrimitiveRoots
+
+namespace C3A
+
+variable {F : Type*} [Field F] [NumberField F]
+
+/-- 4-tuples of ideals. -/
+abbrev Tup (F : Type*) [Field F] [NumberField F] : Type _ :=
+  Ideal (𝓞 F) × Ideal (𝓞 F) × Ideal (𝓞 F) × Ideal (𝓞 F)
+
+/-- Exponent vectors. -/
+abbrev Exps : Type := ℕ × ℕ × ℕ × ℕ
+
+/-- `P^e · x`, coordinatewise. -/
+def pw (P : Ideal (𝓞 F)) (e : Exps) (x : Tup F) : Tup F :=
+  (P ^ e.1 * x.1, P ^ e.2.1 * x.2.1, P ^ e.2.2.1 * x.2.2.1, P ^ e.2.2.2 * x.2.2.2)
+
+/-- The unit tuple. -/
+def one4 : Tup F := (⊤, ⊤, ⊤, ⊤)
+
+/-- Exterior tuples. -/
+def Om (𝔪 : Ideal (𝓞 F)) : Set (Tup F) :=
+  {x | IsExterior 𝔪 x.1 ∧ IsExterior 𝔪 x.2.1 ∧ IsExterior 𝔪 x.2.2.1 ∧ IsExterior 𝔪 x.2.2.2}
+
+/-- Tuples prime to `P`. -/
+def CopP (P : Ideal (𝓞 F)) : Set (Tup F) :=
+  {x | ¬ x.1 ≤ P ∧ ¬ x.2.1 ≤ P ∧ ¬ x.2.2.1 ≤ P ∧ ¬ x.2.2.2 ≤ P}
+
+/-- Tuples prime to every member of `T`. -/
+def Cop (T : Finset (Ideal (𝓞 F))) : Set (Tup F) := {x | ∀ P ∈ T, x ∈ CopP P}
+
+/-- Exterior primes. -/
+def IsEP (𝔪 P : Ideal (𝓞 F)) : Prop := P.IsPrime ∧ P ≠ ⊥ ∧ P ⊔ 𝔪 = ⊤
+
+/-- The type of exterior primes. -/
+abbrev EP (𝔪 : Ideal (𝓞 F)) : Type _ := {P : Ideal (𝓞 F) // P.IsPrime ∧ P ≠ ⊥ ∧ P ⊔ 𝔪 = ⊤}
+
+lemma two_le_absNorm {P : Ideal (𝓞 F)} (hP : P.IsPrime) (hP0 : P ≠ ⊥) :
+    2 ≤ Ideal.absNorm P := by
+  have h0 : Ideal.absNorm P ≠ 0 := by rwa [Ne, Ideal.absNorm_eq_zero_iff]
+  have h1 : Ideal.absNorm P ≠ 1 := by rw [Ne, Ideal.absNorm_eq_one_iff]; exact hP.ne_top
+  omega
+
+lemma decomp1 {P : Ideal (𝓞 F)} (hP : P.IsPrime) (hP0 : P ≠ ⊥) :
+    ∀ I : Ideal (𝓞 F), I ≠ ⊥ → ∃ k J, I = P ^ k * J ∧ ¬ J ≤ P := by
+  intro I
+  induction hN : Ideal.absNorm I using Nat.strong_induction_on generalizing I with
+  | _ N ih =>
+  intro hI
+  by_cases hle : I ≤ P
+  · obtain ⟨J, rfl⟩ := Ideal.dvd_iff_le.2 hle
+    have hJ : J ≠ ⊥ := by rintro rfl; exact hI (by simp)
+    have hlt : Ideal.absNorm J < N := by
+      rw [← hN, map_mul]
+      have := two_le_absNorm hP hP0
+      have hJ0 : Ideal.absNorm J ≠ 0 := by rwa [Ne, Ideal.absNorm_eq_zero_iff]
+      have := Nat.pos_of_ne_zero hJ0
+      nlinarith
+    obtain ⟨k, K, hK, hKP⟩ := ih _ hlt J rfl hJ
+    exact ⟨k + 1, K, by rw [hK, pow_succ', mul_assoc], hKP⟩
+  · exact ⟨0, I, by simp, hle⟩
+
+lemma cancel1 {P : Ideal (𝓞 F)} (hP0 : P ≠ ⊥) {a b : ℕ} {J J' : Ideal (𝓞 F)}
+    (hJ : ¬ J ≤ P) (hJ' : ¬ J' ≤ P) (h : P ^ a * J = P ^ b * J') : a = b ∧ J = J' := by
+  have hP : (P : Ideal (𝓞 F)) ≠ 0 := hP0
+  have key : ∀ {a b : ℕ} {J J' : Ideal (𝓞 F)}, ¬ J ≤ P → a ≤ b → P ^ a * J = P ^ b * J' →
+      a = b ∧ J = J' := by
+    intro a b J J' hJ hab h
+    obtain ⟨c, rfl⟩ := Nat.exists_eq_add_of_le hab
+    rw [pow_add, mul_assoc] at h
+    have h2 := mul_left_cancel₀ (pow_ne_zero a hP) h
+    rcases c with _ | c
+    · simp only [pow_zero, one_mul] at h2
+      exact ⟨rfl, h2⟩
+    · exfalso; apply hJ; rw [h2, pow_succ', mul_assoc]; exact Ideal.mul_le_left
+  rcases le_total a b with hab | hab
+  · exact key hJ hab h
+  · obtain ⟨h1, h2⟩ := key hJ' hab h.symm
+    exact ⟨h1.symm, h2.symm⟩
+
+lemma pw_injective {P : Ideal (𝓞 F)} (hP0 : P ≠ ⊥) {e e' : Exps} {y y' : Tup F}
+    (hy : y ∈ CopP P) (hy' : y' ∈ CopP P) (h : pw P e y = pw P e' y') : e = e' ∧ y = y' := by
+  obtain ⟨e1, e2, e3, e4⟩ := e
+  obtain ⟨e1', e2', e3', e4'⟩ := e'
+  obtain ⟨y1, y2, y3, y4⟩ := y
+  obtain ⟨y1', y2', y3', y4'⟩ := y'
+  simp only [pw, Prod.mk.injEq] at h
+  obtain ⟨h1, h2, h3, h4⟩ := h
+  obtain ⟨a1, a2, a3, a4⟩ := hy
+  obtain ⟨b1, b2, b3, b4⟩ := hy'
+  obtain ⟨c1, d1⟩ := cancel1 hP0 a1 b1 h1
+  obtain ⟨c2, d2⟩ := cancel1 hP0 a2 b2 h2
+  obtain ⟨c3, d3⟩ := cancel1 hP0 a3 b3 h3
+  obtain ⟨c4, d4⟩ := cancel1 hP0 a4 b4 h4
+  subst c1 c2 c3 c4 d1 d2 d3 d4
+  exact ⟨rfl, rfl⟩
+
+lemma exterior_of_dvd {𝔪 I J : Ideal (𝓞 F)} (hI : IsExterior 𝔪 (J * I)) : IsExterior 𝔪 I := by
+  refine ⟨fun h => hI.1 (by rw [h, Ideal.mul_bot]), ?_⟩
+  rw [eq_top_iff, ← hI.2]
+  exact sup_le_sup_right Ideal.mul_le_right _
+
+lemma mem_Om_of_pw {𝔪 P : Ideal (𝓞 F)} {e : Exps} {y : Tup F} (h : pw P e y ∈ Om 𝔪) :
+    y ∈ Om 𝔪 :=
+  ⟨exterior_of_dvd h.1, exterior_of_dvd h.2.1, exterior_of_dvd h.2.2.1, exterior_of_dvd h.2.2.2⟩
+
+lemma not_le_pw {P Q I : Ideal (𝓞 F)} (hP : P.IsMaximal) (hQ : Q.IsPrime) (hPQ : P ≠ Q)
+    (hI : ¬ I ≤ Q) (k : ℕ) : ¬ P ^ k * I ≤ Q := by
+  intro h
+  rcases hQ.mul_le.1 h with h1 | h1
+  · exact hPQ (hP.eq_of_le hQ.ne_top (hQ.le_of_pow_le h1))
+  · exact hI h1
+
+lemma pw_mem_Cop {T : Finset (Ideal (𝓞 F))} (hT : ∀ Q ∈ T, Q.IsPrime) {P : Ideal (𝓞 F)}
+    (hP : P.IsMaximal) (hPT : P ∉ T) (e : Exps) {y : Tup F} (hy : y ∈ Cop T) :
+    pw P e y ∈ Cop T := by
+  intro Q hQ
+  have hPQ : P ≠ Q := fun h => hPT (h ▸ hQ)
+  obtain ⟨a1, a2, a3, a4⟩ := hy Q hQ
+  exact ⟨not_le_pw hP (hT Q hQ) hPQ a1 _, not_le_pw hP (hT Q hQ) hPQ a2 _,
+    not_le_pw hP (hT Q hQ) hPQ a3 _, not_le_pw hP (hT Q hQ) hPQ a4 _⟩
+
+lemma isEP_of_le {𝔪 P I : Ideal (𝓞 F)} (hP : P.IsMaximal) (hI : IsExterior 𝔪 I) (hle : I ≤ P) :
+    IsEP 𝔪 P := by
+  refine ⟨hP.isPrime, fun h => hI.1 (le_bot_iff.1 (h ▸ hle)), ?_⟩
+  rw [eq_top_iff, ← hI.2]
+  exact sup_le_sup_right hle _
+
+/-- Decomposition of an exterior tuple at a prime. -/
+lemma decomp4 {P : Ideal (𝓞 F)} (hP : P.IsPrime) (hP0 : P ≠ ⊥) {𝔪 : Ideal (𝓞 F)} {x : Tup F}
+    (hx : x ∈ Om 𝔪) : ∃ e y, x = pw P e y ∧ y ∈ CopP P := by
+  obtain ⟨k1, J1, h1, n1⟩ := decomp1 hP hP0 x.1 hx.1.1
+  obtain ⟨k2, J2, h2, n2⟩ := decomp1 hP hP0 x.2.1 hx.2.1.1
+  obtain ⟨k3, J3, h3, n3⟩ := decomp1 hP hP0 x.2.2.1 hx.2.2.1.1
+  obtain ⟨k4, J4, h4, n4⟩ := decomp1 hP hP0 x.2.2.2 hx.2.2.2.1
+  refine ⟨(k1, k2, k3, k4), (J1, J2, J3, J4), ?_, n1, n2, n3, n4⟩
+  obtain ⟨x1, x2, x3, x4⟩ := x
+  simp only [pw] at *
+  rw [← h1, ← h2, ← h3, ← h4]
+
+lemma le_of_pw (P : Ideal (𝓞 F)) (e : Exps) (y : Tup F) :
+    (pw P e y).1 ≤ y.1 ∧ (pw P e y).2.1 ≤ y.2.1 ∧ (pw P e y).2.2.1 ≤ y.2.2.1 ∧
+      (pw P e y).2.2.2 ≤ y.2.2.2 :=
+  ⟨Ideal.mul_le_right, Ideal.mul_le_right, Ideal.mul_le_right, Ideal.mul_le_right⟩
+
+lemma one4_mem_Cop (T : Finset (Ideal (𝓞 F))) (hT : ∀ Q ∈ T, Q.IsPrime) :
+    (one4 : Tup F) ∈ Cop T := by
+  intro Q hQ
+  have : ¬ (⊤ : Ideal (𝓞 F)) ≤ Q := fun h => (hT Q hQ).ne_top (top_le_iff.1 h)
+  exact ⟨this, this, this, this⟩
+
+section sieve
+
+variable (𝔪 : Ideal (𝓞 F)) (f : Tup F → ℂ) (A : Ideal (𝓞 F) → Exps → ℂ)
+
+/-- The hypotheses of the Euler product. -/
+structure EulerHyp : Prop where
+  zero : ∀ x, x ∉ Om 𝔪 → f x = 0
+  one : f one4 = 1
+  mul : ∀ P, IsEP 𝔪 P → ∀ e y, y ∈ Om 𝔪 → y ∈ CopP P → f (pw P e y) = A P e * f y
+  summ : Summable (fun x => ‖f x‖)
+  summA : ∀ P, IsEP 𝔪 P → Summable (fun e => ‖A P e‖)
+
+variable {𝔪 f A}
+
+lemma summable_norm_indicator (h : EulerHyp 𝔪 f A) (s : Set (Tup F)) :
+    Summable (fun x => ‖s.indicator f x‖) :=
+  Summable.of_nonneg_of_le (fun _ => norm_nonneg _) (fun x => norm_indicator_le_norm_self _ _)
+    h.summ
+
+/-- One sieve step. -/
+theorem sieve_step (h : EulerHyp 𝔪 f A) (T : Finset (Ideal (𝓞 F))) (hT : ∀ Q ∈ T, Q.IsPrime)
+    {P : Ideal (𝓞 F)} (hP : IsEP 𝔪 P) (hPT : P ∉ T) :
+    ∑' x, (Cop T).indicator f x =
+      (∑' e, A P e) * ∑' x, (Cop (insert P T)).indicator f x := by
+  classical
+  have hPmax : P.IsMaximal := hP.1.isMaximal hP.2.1
+  set h1 := (Cop T).indicator f with hh1
+  set h2 := (Cop (insert P T)).indicator f with hh2
+  rw [tsum_mul_tsum_of_summable_norm (h.summA P hP) (summable_norm_indicator h _)]
+  set G : Exps × Tup F → ℂ := fun z => A P z.1 * h2 z.2 with hG
+  -- the key pointwise fact
+  have hkey : ∀ z : Exps × Tup F, G z ≠ 0 →
+      z.2 ∈ Cop (insert P T) ∧ z.2 ∈ Om 𝔪 ∧ h1 (pw P z.1 z.2) = G z := by
+    intro z hz
+    have hz2 : h2 z.2 ≠ 0 := fun h0 => hz (by simp [hG, h0])
+    have hc : z.2 ∈ Cop (insert P T) := by
+      by_contra hc; exact hz2 (Set.indicator_of_notMem hc _)
+    have hO : z.2 ∈ Om 𝔪 := by
+      by_contra hO; exact hz2 (by rw [hh2, Set.indicator_of_mem hc]; exact h.zero _ hO)
+    refine ⟨hc, hO, ?_⟩
+    have hcT : z.2 ∈ Cop T := fun Q hQ => hc Q (Finset.mem_insert_of_mem hQ)
+    have hcP : z.2 ∈ CopP P := hc P (Finset.mem_insert_self _ _)
+    rw [hh1, Set.indicator_of_mem (pw_mem_Cop hT hPmax hPT z.1 hcT), h.mul P hP z.1 z.2 hO hcP,
+      hG]
+    simp only
+    rw [hh2, Set.indicator_of_mem hc]
+  refine tsum_eq_tsum_of_ne_zero_bij (fun z => pw P z.1.1 z.1.2) ?_ ?_ ?_
+  · rintro ⟨z, hz⟩ ⟨z', hz'⟩ hzz
+    have a := (hkey z hz).1 P (Finset.mem_insert_self _ _)
+    have b := (hkey z' hz').1 P (Finset.mem_insert_self _ _)
+    obtain ⟨he, hy⟩ := pw_injective hP.2.1 a b hzz
+    exact Subtype.ext (Prod.ext he hy)
+  · intro x hx
+    have hx' : h1 x ≠ 0 := hx
+    have hxc : x ∈ Cop T := by
+      by_contra hc; exact hx' (Set.indicator_of_notMem hc _)
+    have hxO : x ∈ Om 𝔪 := by
+      by_contra hO; exact hx' (by rw [hh1, Set.indicator_of_mem hxc]; exact h.zero _ hO)
+    obtain ⟨e, y, rfl, hyP⟩ := decomp4 hP.1 hP.2.1 hxO
+    have hyO : y ∈ Om 𝔪 := mem_Om_of_pw hxO
+    have hyc : y ∈ Cop (insert P T) := by
+      intro Q hQ
+      rcases Finset.mem_insert.1 hQ with rfl | hQ
+      · exact hyP
+      · obtain ⟨a1, a2, a3, a4⟩ := hxc Q hQ
+        obtain ⟨l1, l2, l3, l4⟩ := le_of_pw P e y
+        exact ⟨fun h' => a1 (l1.trans h'), fun h' => a2 (l2.trans h'),
+          fun h' => a3 (l3.trans h'), fun h' => a4 (l4.trans h')⟩
+    have hGe : G (e, y) = h1 (pw P e y) := by
+      rw [hh1, Set.indicator_of_mem hxc, h.mul P hP e y hyO hyP, hG]
+      simp only
+      rw [hh2, Set.indicator_of_mem hyc]
+    refine ⟨⟨(e, y), ?_⟩, rfl⟩
+    show G (e, y) ≠ 0
+    rw [hGe]; exact hx'
+  · rintro ⟨z, hz⟩
+    exact (hkey z hz).2.2
+
+/-- The finite sieve. -/
+theorem sieve_eq (h : EulerHyp 𝔪 f A) (T : Finset (Ideal (𝓞 F))) (hT : ∀ Q ∈ T, IsEP 𝔪 Q) :
+    ∑' x, f x = (∏ Q ∈ T, ∑' e, A Q e) * ∑' x, (Cop T).indicator f x := by
+  classical
+  induction T using Finset.induction_on with
+  | empty =>
+    have : (Cop (∅ : Finset (Ideal (𝓞 F)))) = Set.univ := by
+      ext x; simp [Cop]
+    rw [this, Set.indicator_univ, Finset.prod_empty, one_mul]
+  | insert P T hPT ih =>
+    have ih' := ih (fun Q hQ => hT Q (Finset.mem_insert_of_mem hQ))
+    rw [ih', sieve_step h T (fun Q hQ => (hT Q (Finset.mem_insert_of_mem hQ)).1)
+      (hT P (Finset.mem_insert_self _ _)) hPT, Finset.prod_insert hPT]
+    ring
+
+/-- The tail estimate. -/
+theorem sieve_tail (h : EulerHyp 𝔪 f A) {ε : ℝ} (hε : 0 < ε) :
+    ∃ T₀ : Finset (EP 𝔪), ∀ T : Finset (EP 𝔪), T₀ ⊆ T →
+      ‖∑' x, (Cop (T.map (Function.Embedding.subtype _))).indicator f x - 1‖ < ε := by
+  classical
+  obtain ⟨S, hS⟩ : ∃ S : Finset (Tup F), ∑' x : {x // x ∉ S}, ‖f x‖ < ε :=
+    ((tendsto_tsum_compl_atTop_zero (fun x => ‖f x‖)).eventually (gt_mem_nhds hε)).exists
+  -- the coordinates of `S`
+  set Sid : Finset (Ideal (𝓞 F)) := S.image (·.1) ∪ S.image (·.2.1) ∪ S.image (·.2.2.1) ∪
+    S.image (·.2.2.2) with hSid
+  have hfin : {P : EP 𝔪 | ∃ I ∈ Sid, I ≠ ⊥ ∧ I ≤ P.1}.Finite := by
+    have h1 : {P : Ideal (𝓞 F) | ∃ I ∈ Sid, I ≠ ⊥ ∧ I ≤ P}.Finite := by
+      have : {P : Ideal (𝓞 F) | ∃ I ∈ Sid, I ≠ ⊥ ∧ I ≤ P} ⊆
+          ⋃ I ∈ Sid, {P : Ideal (𝓞 F) | Ideal.absNorm P ≤ Ideal.absNorm I} := by
+        rintro P ⟨I, hI, hI0, hle⟩
+        refine Set.mem_biUnion hI ?_
+        exact Nat.le_of_dvd (Nat.pos_of_ne_zero (by rwa [Ne, Ideal.absNorm_eq_zero_iff]))
+          (Ideal.absNorm_dvd_absNorm_of_le hle)
+      exact (Set.Finite.biUnion Sid.finite_toSet fun I _ =>
+        Ideal.finite_setOfPred_absNorm_le _).subset this
+    exact h1.preimage (f := fun P : EP 𝔪 => P.1) Subtype.val_injective.injOn
+  refine ⟨hfin.toFinset, fun T hT => ?_⟩
+  set T' := T.map (Function.Embedding.subtype _) with hT'
+  have hT'p : ∀ Q ∈ T', Q.IsPrime := by
+    intro Q hQ
+    obtain ⟨P, -, rfl⟩ := Finset.mem_map.1 hQ
+    exact P.2.1
+  -- inside `S`, only `one4` survives
+  have hsurv : ∀ x ∈ S, x ∈ Cop T' → x ∈ Om 𝔪 → x = one4 := by
+    intro x hxS hxc hxO
+    have hcoord : ∀ I ∈ Sid, IsExterior 𝔪 I → (∀ Q ∈ T', ¬ I ≤ Q) → I = ⊤ := by
+      intro I hI hIe hIc
+      by_contra hIt
+      obtain ⟨M, hM, hle⟩ := Ideal.exists_le_maximal I hIt
+      have hEP := isEP_of_le hM hIe hle
+      have hmem : (⟨M, hEP⟩ : EP 𝔪) ∈ T := hT (by
+        rw [Set.Finite.mem_toFinset]; exact ⟨I, hI, hIe.1, hle⟩)
+      exact hIc M (Finset.mem_map.2 ⟨_, hmem, rfl⟩) hle
+    have m1 : x.1 ∈ Sid := by
+      simp only [hSid, Finset.mem_union]
+      exact Or.inl (Or.inl (Or.inl (Finset.mem_image_of_mem _ hxS)))
+    have m2 : x.2.1 ∈ Sid := by
+      simp only [hSid, Finset.mem_union]
+      exact Or.inl (Or.inl (Or.inr (Finset.mem_image_of_mem _ hxS)))
+    have m3 : x.2.2.1 ∈ Sid := by
+      simp only [hSid, Finset.mem_union]
+      exact Or.inl (Or.inr (Finset.mem_image_of_mem _ hxS))
+    have m4 : x.2.2.2 ∈ Sid := by
+      simp only [hSid, Finset.mem_union]
+      exact Or.inr (Finset.mem_image_of_mem _ hxS)
+    have e1 := hcoord _ m1 hxO.1 fun Q hQ => (hxc Q hQ).1
+    have e2 := hcoord _ m2 hxO.2.1 fun Q hQ => (hxc Q hQ).2.1
+    have e3 := hcoord _ m3 hxO.2.2.1 fun Q hQ => (hxc Q hQ).2.2.1
+    have e4 := hcoord _ m4 hxO.2.2.2 fun Q hQ => (hxc Q hQ).2.2.2
+    obtain ⟨x1, x2, x3, x4⟩ := x
+    simp only at e1 e2 e3 e4
+    rw [e1, e2, e3, e4]; rfl
+  have hite : Summable (fun x : Tup F => if x = one4 then (1 : ℂ) else 0) :=
+    (hasSum_ite_eq one4 (1 : ℂ)).summable
+  have hpt : ∀ x, ‖(Cop T').indicator f x - (if x = one4 then (1 : ℂ) else 0)‖ ≤
+      ({x | x ∉ S} : Set (Tup F)).indicator (fun x => ‖f x‖) x := by
+    intro x
+    by_cases hx1 : x = one4
+    · subst hx1
+      rw [Set.indicator_of_mem (one4_mem_Cop T' hT'p), h.one, if_pos rfl, sub_self, norm_zero]
+      exact Set.indicator_nonneg (fun _ _ => norm_nonneg _) _
+    rw [if_neg hx1, sub_zero]
+    by_cases hxS : x ∈ S
+    · rw [Set.indicator_of_notMem (show x ∉ {x | x ∉ S} from fun h' => h' hxS)]
+      by_cases hxc : x ∈ Cop T'
+      · rw [Set.indicator_of_mem hxc]
+        by_cases hxO : x ∈ Om 𝔪
+        · exact absurd (hsurv x hxS hxc hxO) hx1
+        · rw [h.zero x hxO, norm_zero]
+      · rw [Set.indicator_of_notMem hxc, norm_zero]
+    · rw [Set.indicator_of_mem (show x ∈ {x | x ∉ S} from hxS)]
+      exact norm_indicator_le_norm_self _ _
+  rw [← tsum_ite_eq (one4 : Tup F) (fun _ => (1 : ℂ)),
+    ← ((summable_norm_indicator h _).of_norm).tsum_sub hite]
+  have hsn : Summable (fun x => ‖(Cop T').indicator f x - (if x = one4 then (1 : ℂ) else 0)‖) :=
+    Summable.of_nonneg_of_le (fun _ => norm_nonneg _) hpt (h.summ.indicator _)
+  refine lt_of_le_of_lt (norm_tsum_le_tsum_norm hsn) ?_
+  refine lt_of_le_of_lt (hsn.tsum_le_tsum hpt (h.summ.indicator _)) ?_
+  rw [← tsum_subtype {x | x ∉ S} (fun x => ‖f x‖)]
+  exact hS
+
+/-- **The Euler product.** -/
+theorem euler4 (h : EulerHyp 𝔪 f A) :
+    HasProd (fun P : EP 𝔪 => ∑' e, A P.1 e) (∑' x, f x) ∧
+      ((∀ P : EP 𝔪, ∑' e, A P.1 e ≠ 0) → ∑' x, f x ≠ 0) := by
+  classical
+  set X := ∑' x, f x
+  set S : Finset (EP 𝔪) → ℂ :=
+    fun T => ∑' x, (Cop (T.map (Function.Embedding.subtype _))).indicator f x with hSdef
+  have hEq : ∀ T : Finset (EP 𝔪), X = (∏ P ∈ T, ∑' e, A P.1 e) * S T := by
+    intro T
+    have := sieve_eq h (T.map (Function.Embedding.subtype _)) (by
+      intro Q hQ
+      obtain ⟨P, -, rfl⟩ := Finset.mem_map.1 hQ
+      exact P.2)
+    rw [Finset.prod_map] at this
+    exact this
+  have hS1 : Tendsto S atTop (𝓝 1) := by
+    rw [Metric.tendsto_atTop]
+    intro ε hε
+    obtain ⟨T₀, hT₀⟩ := sieve_tail h hε
+    exact ⟨T₀, fun T hT => by rw [dist_eq_norm]; exact hT₀ T hT⟩
+  constructor
+  · have hev : ∀ᶠ T in atTop, ∏ P ∈ T, ∑' e, A P.1 e = X / S T := by
+      filter_upwards [hS1.eventually_ne one_ne_zero] with T hT
+      rw [hEq T, mul_div_assoc, div_self hT, mul_one]
+    show Tendsto _ (SummationFilter.unconditional _).filter _
+    simp only [SummationFilter.unconditional_filter]
+    have : Tendsto (fun T => X / S T) atTop (𝓝 (X / 1)) := tendsto_const_nhds.div hS1 one_ne_zero
+    rw [div_one] at this
+    exact this.congr' (hev.mono fun T hT => hT.symm)
+  · intro hne hX
+    obtain ⟨T, hT⟩ := (hS1.eventually_ne one_ne_zero).exists
+    have := hEq T
+    rw [hX] at this
+    exact mul_ne_zero (Finset.prod_ne_zero_iff.2 fun P _ => hne P) hT this.symm
+
+end sieve
+
+end C3A
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+section
+/-!
+# T12B: elementary Euler-product glue for `HeckeChar.LSeries`
+
+* `T12B.norm_le_one`: `‖χ I‖ ≤ 1` (values on coprime ideals are roots of unity: class group and
+  `(𝓞/𝔪)ˣ` are finite).
+* `T12B.lseries_eq_tsum`: `L(s, χ) = ∑'_I χ(I) N(I)^{-s}` for `Re s > 1`.
+* `T12B.sieve`: `(∑' g) · ∏_{P ∈ T} (1 − g P) = ∑'_{I coprime to T} g I` for completely
+  multiplicative `g` (finite Euler sieve; no infinite product needed).
+* `T12B.sieve_bound`: the sieved sum is close to `1` once `T` kills a large finite set.
+-/
+
+namespace ArtinPrimitiveRoots
+
+open NumberField Filter Topology
+open scoped nonZeroDivisors
+
+namespace T12B
+
+variable {F : Type*} [Field F] [NumberField F]
+
+/-! ### Summability of `∑_I N(I)^{-σ}` -/
+
+theorem lseriesSummable_card {y : ℝ} (hy : 1 < y) :
+    LSeriesSummable (fun n ↦ (Nat.card {I : Ideal (𝓞 F) // Ideal.absNorm I = n} : ℂ)) y := by
+  have hlim : Tendsto (fun n : ℕ ↦ (∑ k ∈ Finset.Icc 1 n,
+      (Nat.card {I : Ideal (𝓞 F) // Ideal.absNorm I = k} : ℝ)) / (n : ℝ)) atTop
+      (𝓝 (dedekindZeta_residue F)) := by
+    refine ((Ideal.tendsto_norm_le_div_atTop₀ F).comp tendsto_natCast_atTop_atTop).congr
+      fun n ↦ ?_
+    simp only [Function.comp_apply, Nat.cast_le, ← Nat.cast_sum]
+    congr
+    rw [← add_left_inj 1, ← Ideal.card_norm_le_eq_card_norm_le_add_one,
+      show Finset.Icc 1 n = Finset.Ioc 0 n from Finset.Icc_succ_left_eq_Ioc _ _,
+      show 1 = Nat.card {I : Ideal (𝓞 F) // Ideal.absNorm I = 0} by
+        simp [Ideal.absNorm_eq_zero_iff],
+      Finset.sum_Ioc_add_eq_sum_Icc (n.zero_le),
+      ← Finset.card_preimage_eq_sum_card_image_eq
+        (fun k _ ↦ Ideal.finite_setOfPred_absNorm_eq k)]
+    simp [Set.coe_eq_subtype]
+  have h := LSeriesSummable_of_sum_norm_bigO_and_nonneg
+    (f := fun n ↦ (Nat.card {I : Ideal (𝓞 F) // Ideal.absNorm I = n} : ℝ))
+    (Asymptotics.isBigO_atTop_natCast_rpow_of_tendsto_div_rpow (by simpa using hlim))
+    (fun _ ↦ Nat.cast_nonneg _) zero_le_one (s := (y : ℂ)) (by simpa using hy)
+  simpa using h
+
+instance fiber_finite (n : ℕ) : Finite {I : Ideal (𝓞 F) // Ideal.absNorm I = n} :=
+  (Ideal.finite_setOfPred_absNorm_eq n).to_subtype
+
+/-- `∑_I N(I)^{-σ}` converges for `σ > 1`. -/
+theorem summable_absNorm_rpow {σ : ℝ} (hσ : 1 < σ) :
+    Summable (fun I : Ideal (𝓞 F) => ((Ideal.absNorm I : ℕ) : ℝ) ^ (-σ)) := by
+  let e := Equiv.sigmaFiberEquiv (fun I : Ideal (𝓞 F) => Ideal.absNorm I)
+  rw [← e.summable_iff]
+  refine (summable_sigma_of_nonneg (fun _ => Real.rpow_nonneg (Nat.cast_nonneg _) _)).2
+    ⟨fun n => Summable.of_finite, ?_⟩
+  refine (lseriesSummable_card (F := F) hσ).norm.congr fun n => ?_
+  have hfib : ∀ y : {I : Ideal (𝓞 F) // Ideal.absNorm I = n},
+      ((Ideal.absNorm (e ⟨n, y⟩) : ℕ) : ℝ) ^ (-σ) = (n : ℝ) ^ (-σ) := fun y => by
+    simp [e, Equiv.sigmaFiberEquiv, y.2]
+  simp only [Function.comp_apply, hfib, tsum_const, nsmul_eq_mul, LSeries.norm_term_eq,
+    Complex.ofReal_re, Complex.norm_natCast]
+  split_ifs with hn
+  · subst hn
+    rw [Nat.cast_zero, Real.zero_rpow (by linarith), mul_zero]
+  · rw [Real.rpow_neg (Nat.cast_nonneg _), div_eq_mul_inv]
+
+/-! ### Basic facts on Hecke characters -/
+
+theorem toFun_top {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) : χ.toFun ⊤ = 1 := by
+  have := χ.map_principal' 1 one_ne_zero (by simp)
+  rwa [Ideal.span_singleton_one] at this
+
+theorem toFun_bot {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) : χ.toFun ⊥ = 0 :=
+  (χ.eq_zero_iff' ⊥).2 (Or.inl rfl)
+
+theorem toFun_pow {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (I : Ideal (𝓞 F)) (n : ℕ) :
+    χ.toFun (I ^ n) = χ.toFun I ^ n := by
+  induction n with
+  | zero => simp [Ideal.one_eq_top, toFun_top]
+  | succ n ih => rw [pow_succ, χ.map_mul', ih, pow_succ]
+
+/-- **(a)** A Hecke character of nonzero modulus takes values of norm `≤ 1`. -/
+theorem norm_le_one {𝔪 : Ideal (𝓞 F)} (h𝔪 : 𝔪 ≠ ⊥) (χ : HeckeChar F 𝔪) (I : Ideal (𝓞 F)) :
+    ‖χ.toFun I‖ ≤ 1 := by
+  by_cases h0 : χ.toFun I = 0
+  · simp [h0]
+  have hI : I ≠ ⊥ ∧ I ⊔ 𝔪 = ⊤ := by
+    have := (χ.eq_zero_iff' I).not.1 h0
+    push Not at this
+    exact this
+  set h := Fintype.card (ClassGroup (𝓞 F)) with hh
+  have hpos : 0 < h := Fintype.card_pos
+  have hI0 : I ∈ (Ideal (𝓞 F))⁰ := mem_nonZeroDivisors_of_ne_zero hI.1
+  have hIh0 : I ^ h ∈ (Ideal (𝓞 F))⁰ := pow_mem hI0 h
+  have hprin : (I ^ h).IsPrincipal := by
+    rw [← ClassGroup.mk0_eq_one_iff hIh0]
+    have : (⟨I ^ h, hIh0⟩ : (Ideal (𝓞 F))⁰) = ⟨I, hI0⟩ ^ h := rfl
+    rw [this, map_pow, hh, pow_card_eq_one]
+  set β := Submodule.IsPrincipal.generator (I ^ h)
+  have hβ : Ideal.span {β} = I ^ h := Ideal.span_singleton_generator (I ^ h)
+  have hβ0 : β ≠ 0 := by
+    intro hb
+    rw [hb, Ideal.span_singleton_eq_bot.2 rfl] at hβ
+    exact hI.1 (pow_eq_zero_iff hpos.ne' |>.1 hβ.symm)
+  have hcop : Ideal.span {β} ⊔ 𝔪 = ⊤ := by
+    rw [hβ, sup_comm]
+    exact Ideal.sup_pow_eq_top' (by rw [sup_comm]; exact hI.2)
+  have hunit : IsUnit (Ideal.Quotient.mk 𝔪 β) := by
+    have h1 : (1 : 𝓞 F) ∈ Ideal.span {β} ⊔ 𝔪 := by rw [hcop]; trivial
+    obtain ⟨y, hy, z, hz, hyz⟩ := Submodule.mem_sup.1 h1
+    obtain ⟨a, rfl⟩ := Ideal.mem_span_singleton'.1 hy
+    refine IsUnit.of_mul_eq_one (Ideal.Quotient.mk 𝔪 a) ?_
+    rw [← map_mul, mul_comm, ← sub_eq_iff_eq_add.2 hyz.symm, map_sub, map_one,
+      Ideal.Quotient.eq_zero_iff_mem.2 hz, sub_zero]
+  have : Finite (𝓞 F ⧸ 𝔪) := Ideal.finiteQuotientOfFreeOfNeBot 𝔪 h𝔪
+  have : Finite (𝓞 F ⧸ 𝔪)ˣ := Finite.of_injective _ Units.val_injective
+  set k := Nat.card (𝓞 F ⧸ 𝔪)ˣ
+  have hk : 0 < k := Nat.card_pos
+  have hβk : Ideal.Quotient.mk 𝔪 (β ^ k) = Ideal.Quotient.mk 𝔪 1 := by
+    rw [map_pow, map_one, ← hunit.unit_spec, ← Units.val_pow_eq_pow_val, pow_card_eq_one',
+      Units.val_one]
+  have hval := χ.map_principal' (β ^ k) (pow_ne_zero _ hβ0) (Ideal.Quotient.eq.1 hβk)
+  rw [← Ideal.span_singleton_pow, hβ, ← pow_mul, toFun_pow] at hval
+  exact (Complex.norm_eq_one_of_pow_eq_one hval (Nat.mul_ne_zero hpos.ne' hk.ne')).le
+
+/-! ### The Dirichlet series as a sum over ideals -/
+
+/-- `g_s(I) = χ(I) N(I)^{-s}`. -/
+noncomputable def gs {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (s : ℂ) (I : Ideal (𝓞 F)) : ℂ :=
+  χ.toFun I * ((Ideal.absNorm I : ℕ) : ℂ) ^ (-s)
+
+theorem gs_mul {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (s : ℂ) (I J : Ideal (𝓞 F)) :
+    gs χ s (I * J) = gs χ s I * gs χ s J := by
+  simp only [gs, map_mul, Nat.cast_mul, Complex.natCast_mul_natCast_cpow, χ.map_mul']
+  ring
+
+theorem gs_bot {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (s : ℂ) : gs χ s ⊥ = 0 := by
+  simp [gs, toFun_bot]
+
+theorem gs_top {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (s : ℂ) : gs χ s ⊤ = 1 := by
+  simp [gs, toFun_top]
+
+theorem norm_gs_le {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (hχ : ∀ I, ‖χ.toFun I‖ ≤ 1)
+    {s : ℂ} {σ : ℝ} (hσ : σ ≤ s.re) (I : Ideal (𝓞 F)) :
+    ‖gs χ s I‖ ≤ ((Ideal.absNorm I : ℕ) : ℝ) ^ (-σ) := by
+  by_cases hI : Ideal.absNorm I = 0
+  · rw [Ideal.absNorm_eq_zero_iff.1 hI, gs_bot, norm_zero]
+    exact Real.rpow_nonneg (Nat.cast_nonneg _) _
+  have h1 : (1 : ℝ) ≤ (Ideal.absNorm I : ℝ) := by exact_mod_cast Nat.one_le_iff_ne_zero.2 hI
+  rw [gs, norm_mul, Complex.norm_natCast_cpow_of_pos (Nat.pos_of_ne_zero hI), Complex.neg_re]
+  calc ‖χ.toFun I‖ * (Ideal.absNorm I : ℝ) ^ (-s.re)
+      ≤ 1 * (Ideal.absNorm I : ℝ) ^ (-σ) :=
+        mul_le_mul (hχ I) (Real.rpow_le_rpow_of_exponent_le h1 (by linarith))
+          (Real.rpow_nonneg (by positivity) _) zero_le_one
+    _ = _ := one_mul _
+
+theorem summable_gs {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (hχ : ∀ I, ‖χ.toFun I‖ ≤ 1)
+    {s : ℂ} (hs : 1 < s.re) : Summable (gs χ s) :=
+  Summable.of_norm_bounded (summable_absNorm_rpow hs) (norm_gs_le χ hχ le_rfl)
+
+/-- `L(s, χ) = ∑'_I χ(I) N(I)^{-s}` on `Re s > 1`. -/
+theorem lseries_eq_tsum {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (hχ : ∀ I, ‖χ.toFun I‖ ≤ 1)
+    {s : ℂ} (hs : 1 < s.re) : χ.LSeries s = ∑' I, gs χ s I := by
+  let e := Equiv.sigmaFiberEquiv (fun I : Ideal (𝓞 F) => Ideal.absNorm I)
+  have hsum := summable_gs χ hχ hs
+  have hs2 : Summable (fun p => gs χ s (e p)) := (e.summable_iff).2 hsum
+  rw [← e.tsum_eq, hs2.tsum_sigma, HeckeChar.LSeries, LSeries]
+  congr 1
+  funext n
+  have hfib : ∀ y : {I : Ideal (𝓞 F) // Ideal.absNorm I = n},
+      gs χ s (e ⟨n, y⟩) = χ.toFun y.1 * (n : ℂ) ^ (-s) := fun y => by
+    simp [e, Equiv.sigmaFiberEquiv, gs, y.2]
+  simp only [hfib]
+  rw [tsum_mul_right]
+  have hcoeff : (∑' y : {I : Ideal (𝓞 F) // Ideal.absNorm I = n}, χ.toFun y.1) = χ.coeff n := by
+    rw [HeckeChar.coeff, finsum_mem_def,
+      ← tsum_eq_finsum (L := SummationFilter.unconditional (Ideal (𝓞 F)))
+        ((Ideal.finite_setOfPred_absNorm_eq n).subset
+        Set.support_indicator_subset),
+      ← tsum_subtype]
+    rfl
+  rw [hcoeff]
+  rcases eq_or_ne n 0 with rfl | hn
+  · rw [LSeries.term_zero, Nat.cast_zero, Complex.zero_cpow, mul_zero]
+    intro h
+    have : s = 0 := neg_eq_zero.1 h
+    rw [this, Complex.zero_re] at hs
+    linarith
+  · rw [LSeries.term_of_ne_zero hn, Complex.cpow_neg, div_eq_mul_inv]
+
+/-! ### The finite sieve -/
+
+end T12B
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+section
+/-! # C3A_Euler1: Euler products of `L(s, χ)` and `ζ^S(s)` over the exterior primes
+
+From `euler4` (one active coordinate) and T12B's sieve:
+* `hasProd_inv_LSeries`: `∏_{P ∉ S} (1 − χ(P) N P^{-s}) = L(s, χ)⁻¹` for `Re s > 1`;
+* `hasProd_zetaS`: `∏_{P ∉ S} (1 − N P^{-s})⁻¹ = ∏_{P ⊇ 𝔪} (1 − N P^{-s}) · ζ_F(s)`. -/
+
+open NumberField Filter Topology
+
+namespace ArtinPrimitiveRoots
+
+namespace C3A
+
+variable {F : Type*} [Field F] [NumberField F]
+
+lemma sup_mul_eq_top_iff {𝔪 I J : Ideal (𝓞 F)} :
+    I * J ⊔ 𝔪 = ⊤ ↔ I ⊔ 𝔪 = ⊤ ∧ J ⊔ 𝔪 = ⊤ := by
+  constructor
+  · intro h
+    refine ⟨?_, ?_⟩
+    · rw [eq_top_iff, ← h]; exact sup_le_sup_right Ideal.mul_le_left _
+    · rw [eq_top_iff, ← h]; exact sup_le_sup_right Ideal.mul_le_right _
+  · rintro ⟨h1, h2⟩
+    rw [Ideal.mul_sup_eq_of_coprime_left h1, h2]
+
+/-! ### The one-variable Euler product from `euler4` -/
+
+section one
+
+variable {𝔪 : Ideal (𝓞 F)} (χ : HeckeChar F 𝔪) (s : ℂ)
+
+/-- The function `χ(I) N I^{-s}` placed on the first coordinate. -/
+noncomputable def f1 (x : Tup F) : ℂ := by
+  classical exact if x.2 = (⊤, ⊤, ⊤) then T12B.gs χ s x.1 else 0
+
+/-- Its local factors. -/
+noncomputable def A1 (P : Ideal (𝓞 F)) (e : Exps) : ℂ := by
+  classical exact if e.2 = (0, 0, 0) then T12B.gs χ s P ^ e.1 else 0
+
+lemma pow_mul_eq_top {P I : Ideal (𝓞 F)} (hP : P.IsPrime) {k : ℕ} :
+    P ^ k * I = ⊤ ↔ k = 0 ∧ I = ⊤ := by
+  constructor
+  · intro h
+    rcases k with _ | k
+    · simp only [pow_zero, one_mul] at h; exact ⟨rfl, h⟩
+    · exfalso; apply hP.ne_top
+      rw [eq_top_iff, ← h, pow_succ', mul_assoc]; exact Ideal.mul_le_left
+  · rintro ⟨rfl, rfl⟩; simp
+
+theorem euler1 (hχ : ∀ I, ‖χ.toFun I‖ ≤ 1) (hs : 1 < s.re) :
+    HasProd (fun P : EP 𝔪 => (1 - χ.toFun P.1 * ((Ideal.absNorm P.1 : ℕ) : ℂ) ^ (-s))⁻¹)
+      (χ.LSeries s) ∧ χ.LSeries s ≠ 0 := by
+  classical
+  have hg : ∀ P : Ideal (𝓞 F), IsEP 𝔪 P → ‖T12B.gs χ s P‖ < 1 := by
+    intro P hP
+    have h2 := two_le_absNorm hP.1 hP.2.1
+    refine lt_of_le_of_lt (T12B.norm_gs_le χ hχ (le_refl s.re) P) ?_
+    have hq : (1 : ℝ) < ((Ideal.absNorm P : ℕ) : ℝ) := by exact_mod_cast h2
+    exact Real.rpow_lt_one_of_one_lt_of_neg hq (by linarith)
+  have hinj : Function.Injective (fun c : Ideal (𝓞 F) => ((c, ⊤, ⊤, ⊤) : Tup F)) := by
+    intro a b h; simpa using h
+  have hsupp : Function.support (f1 χ s) ⊆ Set.range (fun c : Ideal (𝓞 F) => ((c, ⊤, ⊤, ⊤) : Tup F)) := by
+    intro x hx
+    simp only [Function.mem_support, f1] at hx
+    split_ifs at hx with h
+    swap
+    · exact absurd rfl hx
+    obtain ⟨x1, x2⟩ := x
+    simp only at h
+    exact ⟨x1, by rw [h]⟩
+  have hcomp : (f1 χ s) ∘ (fun c : Ideal (𝓞 F) => ((c, ⊤, ⊤, ⊤) : Tup F)) = T12B.gs χ s := by
+    funext c; simp [f1]
+  have hsumm : Summable (T12B.gs χ s) := T12B.summable_gs χ hχ hs
+  have hH : EulerHyp 𝔪 (f1 χ s) (A1 χ s) := by
+    refine ⟨?_, ?_, ?_, ?_, ?_⟩
+    · intro x hx
+      simp only [f1]
+      split_ifs with h
+      · obtain ⟨x1, x2⟩ := x
+        simp only at h
+        subst h
+        have : ¬ IsExterior 𝔪 x1 := fun h' => hx ⟨h', ⟨top_ne_bot, top_sup_eq _⟩,
+          ⟨top_ne_bot, top_sup_eq _⟩, ⟨top_ne_bot, top_sup_eq _⟩⟩
+        simp only [T12B.gs]
+        rw [(χ.eq_zero_iff' x1).2 (by
+          by_contra hc; push Not at hc; exact this hc), zero_mul]
+      · rfl
+    · simp [f1, one4, T12B.gs_top]
+    · intro P hP e y hyO hyP
+      obtain ⟨e1, e2, e3, e4⟩ := e
+      obtain ⟨y1, y2, y3, y4⟩ := y
+      simp only [f1, A1, pw, Prod.mk.injEq]
+      by_cases he : e2 = 0 ∧ e3 = 0 ∧ e4 = 0
+      · obtain ⟨rfl, rfl, rfl⟩ := he
+        simp only [pow_zero, one_mul, and_self, if_true]
+        split_ifs
+        · have hpow : T12B.gs χ s (P ^ e1) = T12B.gs χ s P ^ e1 := by
+            induction e1 with
+            | zero => simp [T12B.gs_top]
+            | succ k ih => rw [pow_succ, T12B.gs_mul, ih, pow_succ]
+          rw [T12B.gs_mul, hpow]
+        · rw [mul_zero]
+      · rw [if_neg, if_neg he, zero_mul]
+        rintro ⟨h2, h3, h4⟩
+        rw [pow_mul_eq_top hP.1] at h2 h3 h4
+        exact he ⟨h2.1, h3.1, h4.1⟩
+    · rw [← hinj.summable_iff (fun x hx => by
+        by_contra h; exact hx (hsupp (norm_ne_zero_iff.1 h)))]
+      rw [show (fun x => ‖f1 χ s x‖) ∘ (fun c : Ideal (𝓞 F) => ((c, ⊤, ⊤, ⊤) : Tup F)) =
+        fun c => ‖T12B.gs χ s c‖ by rw [← hcomp]; rfl]
+      exact Summable.of_norm_bounded (T12B.summable_absNorm_rpow hs)
+        (fun c => by rw [norm_norm]; exact T12B.norm_gs_le χ hχ le_rfl c)
+    · intro P hP
+      have hgeo := summable_geometric_of_lt_one (norm_nonneg _) (hg P hP)
+      have hinj' : Function.Injective (fun k : ℕ => ((k, 0, 0, 0) : Exps)) := by
+        intro a b h; simpa using h
+      rw [← hinj'.summable_iff (fun e he => by
+        obtain ⟨e1, e2⟩ := e
+        simp only [A1]
+        rw [if_neg, norm_zero]
+        intro h; exact he ⟨e1, by rw [h]⟩)]
+      refine hgeo.congr fun k => ?_
+      simp [A1]
+  obtain ⟨hprod, hne⟩ := euler4 hH
+  have htsum : ∑' x, f1 χ s x = χ.LSeries s := by
+    rw [← hinj.tsum_eq hsupp]
+    show ∑' c, ((f1 χ s) ∘ (fun c : Ideal (𝓞 F) => ((c, ⊤, ⊤, ⊤) : Tup F))) c = _
+    rw [hcomp, T12B.lseries_eq_tsum χ hχ hs]
+  have hloc : ∀ P : EP 𝔪, ∑' e, A1 χ s P.1 e =
+      (1 - χ.toFun P.1 * ((Ideal.absNorm P.1 : ℕ) : ℂ) ^ (-s))⁻¹ := by
+    intro P
+    have hinj' : Function.Injective (fun k : ℕ => ((k, 0, 0, 0) : Exps)) := by
+      intro a b h; simpa using h
+    rw [← hinj'.tsum_eq (fun e he => by
+      obtain ⟨e1, e2⟩ := e
+      simp only [Function.mem_support, A1] at he
+      split_ifs at he with h'
+      · exact ⟨e1, by rw [h']⟩
+      · exact absurd rfl he)]
+    simp only [A1, if_true]
+    exact tsum_geometric_of_norm_lt_one (hg P.1 P.2)
+  rw [htsum] at hprod hne
+  refine ⟨?_, ?_⟩
+  · exact hprod.congr_fun fun P => (hloc P).symm
+  · refine hne fun P => ?_
+    rw [hloc P]
+    refine inv_ne_zero fun h => ?_
+    have := hg P.1 P.2
+    rw [sub_eq_zero] at h
+    have h' : T12B.gs χ s P.1 = 1 := h.symm
+    rw [h', norm_one] at this
+    exact lt_irrefl _ this
+
+end one
+
+/-! ### `ζ^S` -/
+
+lemma finite_primes_ge {𝔪 : Ideal (𝓞 F)} (h𝔪 : 𝔪 ≠ ⊥) :
+    {P : Ideal (𝓞 F) | P.IsPrime ∧ P ≠ ⊥ ∧ 𝔪 ≤ P}.Finite := by
+  refine (Ideal.finite_setOfPred_absNorm_le (Ideal.absNorm 𝔪)).subset ?_
+  intro P ⟨_, _, hle'⟩
+  exact Nat.le_of_dvd (Nat.pos_of_ne_zero (by rwa [Ne, Ideal.absNorm_eq_zero_iff]))
+    (Ideal.absNorm_dvd_absNorm_of_le hle')
+
+end C3A
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+section
+/-! # L3K_Hecke: an abelian Artin character as a `HeckeChar` of modulus its conductor
+
+For `K` totally complex, `M/K` Galois and `ψ : Gal(M/K) →* ℂˣ`, library 41aa80ff gives a narrow ray
+class character `χ_R` mod `𝔣 = conductor ψ` with `χ_R(v) = localValue ψ v`. Then
+`psiH I = χ_R([I])` (on `I` coprime to `𝔣`) is a `HeckeChar K 𝔣` with `psiH = idealValue ψ` on nonzero
+ideals, so `ArtinL.Abelian.LSeries ψ = psiH.LSeries`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField NumberField.InfinitePlace IsDedekindDomain Deep.NTSupply nonZeroDivisors
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+variable {K M : Type} [Field K] [NumberField K] [Field M] [NumberField M] [Algebra K M]
+  [IsGalois K M] (ψ : (M ≃ₐ[K] M) →* ℂˣ)
+
+/-- The ray class character of 41aa80ff. -/
+def chiR : NarrowRayClassGroup K (ArtinL.Abelian.conductor ψ) →* ℂ :=
+  (ArtinL.Abelian.exists_narrowRayClassChar_conductor_eq_localValue_u0 K M ψ).choose
+
+open scoped Classical in
+lemma chiR_spec :
+    (∀ (v : HeightOneSpectrum (𝓞 K)) (hv : ¬ v.asIdeal ∣ ArtinL.Abelian.conductor ψ),
+        chiR ψ (primeClass K (ArtinL.Abelian.conductor ψ) v hv) = ArtinL.Abelian.localValue ψ v) ∧
+      (chiR ψ = 1 ↔ ψ = 1) ∧
+      (∀ (α : 𝓞 K) (hα : α ≠ 0)
+        (hc : principalUnit K α hα ∈ coprimeToModulus K (ArtinL.Abelian.conductor ψ)),
+        α - 1 ∈ ArtinL.Abelian.conductor ψ →
+          chiR ψ (NarrowRayClassGroup.mk K (ArtinL.Abelian.conductor ψ) ⟨principalUnit K α hα, hc⟩) =
+            ∏ w ∈ (Finset.univ.filter fun w : {w : InfinitePlace K // w.IsReal} =>
+                ¬ ArtinL.Abelian.IsPlusAt ψ w.1),
+              ((SignType.sign (embedding_of_isReal w.2 (α : K)) : ℤ) : ℂ)) := by
+  have h := (ArtinL.Abelian.exists_narrowRayClassChar_conductor_eq_localValue_u0 K M ψ).choose_spec
+  exact ⟨h.1, h.2.1, h.2.2.1⟩
+
+lemma chiR_ne_zero (C : NarrowRayClassGroup K (ArtinL.Abelian.conductor ψ)) : chiR ψ C ≠ 0 := by
+  intro h
+  have : chiR ψ C * chiR ψ C⁻¹ = 1 := by rw [← map_mul, mul_inv_cancel, map_one]
+  rw [h, zero_mul] at this; exact zero_ne_one this
+
+lemma sup_eq_top_iff_not_dvd (v : HeightOneSpectrum (𝓞 K)) (𝔣 : Ideal (𝓞 K)) :
+    v.asIdeal ⊔ 𝔣 = ⊤ ↔ ¬ v.asIdeal ∣ 𝔣 := by
+  rw [Ideal.dvd_iff_le]
+  constructor
+  · intro h hle
+    apply v.isPrime.ne_top; rw [← h]; exact le_antisymm le_sup_left (sup_le le_rfl hle)
+  · intro h
+    by_contra hne
+    have e := v.isMaximal.eq_of_le hne le_sup_left
+    exact h (e ▸ le_sup_right)
+
+open Classical in
+lemma cls_mul {𝔣 : Ideal (𝓞 K)} {I J : Ideal (𝓞 K)} (hI : I ≠ ⊥ ∧ I ⊔ 𝔣 = ⊤)
+    (hJ : J ≠ ⊥ ∧ J ⊔ 𝔣 = ⊤) (hIJ : I * J ≠ ⊥ ∧ I * J ⊔ 𝔣 = ⊤) :
+    T12A.cls 𝔣 (I * J) = T12A.cls 𝔣 I * T12A.cls 𝔣 J := by
+  rw [T12A.cls, T12A.cls, T12A.cls, dif_pos hI, dif_pos hJ, dif_pos hIJ, ← map_mul]
+  congr 1
+  apply Subtype.ext
+  show FractionalIdeal.mk0 K ⟨I * J, _⟩ = FractionalIdeal.mk0 K ⟨I, _⟩ * FractionalIdeal.mk0 K ⟨J, _⟩
+  rw [← map_mul]; rfl
+
+open Classical in
+/-- The Hecke character `psiH` of modulus `conductor ψ`. -/
+def psiH (hK : ∀ w : InfinitePlace K, w.IsComplex) :
+    HeckeChar K (ArtinL.Abelian.conductor ψ) where
+  toFun I := if I ≠ ⊥ ∧ I ⊔ ArtinL.Abelian.conductor ψ = ⊤ then
+    chiR ψ (T12A.cls (ArtinL.Abelian.conductor ψ) I) else 0
+  map_mul' I J := by
+    have hb : I * J ≠ ⊥ ↔ I ≠ ⊥ ∧ J ≠ ⊥ := by
+      simp only [ne_eq, ← Ideal.zero_eq_bot, mul_eq_zero, not_or]
+    by_cases hI : I ≠ ⊥ ∧ I ⊔ ArtinL.Abelian.conductor ψ = ⊤ <;>
+      by_cases hJ : J ≠ ⊥ ∧ J ⊔ ArtinL.Abelian.conductor ψ = ⊤
+    · have hIJ : I * J ≠ ⊥ ∧ I * J ⊔ ArtinL.Abelian.conductor ψ = ⊤ :=
+        ⟨hb.2 ⟨hI.1, hJ.1⟩, C3A.sup_mul_eq_top_iff.2 ⟨hI.2, hJ.2⟩⟩
+      rw [if_pos hIJ, if_pos hI, if_pos hJ, cls_mul hI hJ hIJ, map_mul]
+    · rw [if_neg hJ, mul_zero, if_neg]
+      rintro ⟨h1, h2⟩; exact hJ ⟨(hb.1 h1).2, (C3A.sup_mul_eq_top_iff.1 h2).2⟩
+    · rw [if_neg hI, zero_mul, if_neg]
+      rintro ⟨h1, h2⟩; exact hI ⟨(hb.1 h1).1, (C3A.sup_mul_eq_top_iff.1 h2).1⟩
+    · rw [if_neg hI, zero_mul, if_neg]
+      rintro ⟨h1, h2⟩; exact hI ⟨(hb.1 h1).1, (C3A.sup_mul_eq_top_iff.1 h2).1⟩
+  eq_zero_iff' I := by
+    split_ifs with h
+    · simp only [chiR_ne_zero, false_iff, not_or, not_not]; exact h
+    · simp only [true_iff]; by_contra h'; push Not at h'; exact h h'
+  map_principal' α hα h1 := by
+    have hc : Ideal.span {α} ≠ ⊥ ∧ Ideal.span {α} ⊔ ArtinL.Abelian.conductor ψ = ⊤ :=
+      ⟨T12A.span_ne_bot hα, T12A.span_sup_eq_top h1⟩
+    rw [if_pos hc, T12A.cls, dif_pos hc]
+    have hpc : principalUnit K α hα ∈ coprimeToModulus K (ArtinL.Abelian.conductor ψ) :=
+      (T12A.mk0_mem_coprimeToModulus_iff _).2 hc.2
+    have := (chiR_spec ψ).2.2 α hα hpc h1
+    refine (congrArg (chiR ψ) (congrArg (NarrowRayClassGroup.mk K (ArtinL.Abelian.conductor ψ))
+      (Subtype.ext rfl))).trans (this.trans ?_)
+    apply Finset.prod_eq_one
+    intro w _
+    exact absurd w.2 (not_isReal_iff_isComplex.2 (hK w.1))
+
+variable (hK : ∀ w : InfinitePlace K, w.IsComplex)
+
+lemma psiH_prime (v : HeightOneSpectrum (𝓞 K)) :
+    (psiH ψ hK).toFun v.asIdeal = ArtinL.Abelian.localValue ψ v := by
+  classical
+  by_cases hv : v.asIdeal ∣ ArtinL.Abelian.conductor ψ
+  · have h1 : ¬ (v.asIdeal ≠ ⊥ ∧ v.asIdeal ⊔ ArtinL.Abelian.conductor ψ = ⊤) := fun h =>
+      (sup_eq_top_iff_not_dvd v _).1 h.2 hv
+    have h2 := (ArtinL.Abelian.dvd_conductor_iff_not_isUnramifiedAt K M ψ v).1 hv
+    show (if _ then _ else _) = _
+    rw [if_neg h1, ArtinL.Abelian.localValue, if_neg h2]
+  · have h1 : v.asIdeal ≠ ⊥ ∧ v.asIdeal ⊔ ArtinL.Abelian.conductor ψ = ⊤ :=
+      ⟨v.ne_bot, (sup_eq_top_iff_not_dvd v _).2 hv⟩
+    show (if _ then _ else _) = _
+    rw [if_pos h1, T12A.cls, dif_pos h1, ← (chiR_spec ψ).1 v hv]
+    rfl
+
+lemma psiH_eq_idealValue {I : Ideal (𝓞 K)} (hI : I ≠ ⊥) :
+    (psiH ψ hK).toFun I = ArtinL.Abelian.idealValue ψ I := by
+  rw [T12A.heckeChar_eq_finprod (psiH ψ hK) (ArtinL.Abelian.localValue ψ) (psiH_prime ψ hK) I hI,
+    ArtinL.Abelian.idealValue]
+
+theorem LSeries_eq_psiH (s : ℂ) : ArtinL.Abelian.LSeries ψ s = (psiH ψ hK).LSeries s := by
+  classical
+  rw [ArtinL.Abelian.LSeries, HeckeChar.LSeries]
+  refine LSeries_congr (fun {n} hn => ?_) s
+  rw [ArtinL.Abelian.coeff, if_neg hn, HeckeChar.coeff,
+    finsum_mem_eq_finite_toFinset_sum _ (Ideal.finite_setOfPred_absNorm_eq (S := 𝓞 K) n)]
+  refine Finset.sum_congr rfl fun I hI => ?_
+  have hI0 : I ≠ ⊥ := by
+    intro h; rw [Set.Finite.mem_toFinset] at hI
+    rw [h] at hI; simp at hI; exact hn hI.symm
+  exact (psiH_eq_idealValue ψ hK hI0).symm
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Conv: the convexity bound for an abelian Artin `L`-function with explicit conductor
+
+For `K` totally complex, `ψ ≠ 1`: the entire continuation `L` of `L(s, ψ)` satisfies
+`‖L(s)‖ ≤ C (N 𝔣_ψ)^{1/2+δ} (1 + |t|)^{3 r₂}` on `−δ ≤ Re s ≤ 4`, with `C` depending only on `K`
+and `δ`, provided `L` has some polynomial growth on the strip (`GrowthHyp`, from L3K_Growth).
+
+Inputs: the FE 3508ac81 (`Λ(1−s) = W Λ'(s)`), `|W| = 1` from `Λ' = conj ∘ Λ ∘ conj`, the Gamma
+ratio of L3K_Gamma, and Phragmén–Lindelöf 40726dc6. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField NumberField.InfinitePlace IsDedekindDomain Complex
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+/-- Identity theorem for entire functions agreeing on `Re s > 1`. -/
+lemma entire_ext {f g : ℂ → ℂ} (hf : Differentiable ℂ f) (hg : Differentiable ℂ g)
+    (h : ∀ s : ℂ, 1 < s.re → f s = g s) : f = g := by
+  have hfa : AnalyticOnNhd ℂ f Set.univ := hf.differentiableOn.analyticOnNhd isOpen_univ
+  have hga : AnalyticOnNhd ℂ g Set.univ := hg.differentiableOn.analyticOnNhd isOpen_univ
+  refine AnalyticOnNhd.eq_of_eventuallyEq hfa hga (z₀ := 2) ?_
+  have ho : IsOpen {s : ℂ | 1 < s.re} := isOpen_lt continuous_const Complex.continuous_re
+  filter_upwards [ho.mem_nhds (by norm_num : (1 : ℝ) < (2 : ℂ).re)] with s hs using h s hs
+
+variable {K M : Type} [Field K] [NumberField K] [Field M] [NumberField M] [Algebra K M]
+  [IsGalois K M] (ψ : (M ≃ₐ[K] M) →* ℂˣ)
+
+lemma nrRealPlaces_eq_zero (hK : ∀ w : InfinitePlace K, w.IsComplex) : nrRealPlaces K = 0 := by
+  haveI : IsTotallyComplex K := ⟨hK⟩
+  exact IsTotallyComplex.nrRealPlaces_eq_zero K
+
+/-- `D = |d_K| N 𝔣_ψ`. -/
+def Dψ : ℝ := |(discr K : ℝ)| * (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ)
+
+lemma one_le_Dψ : 1 ≤ Dψ ψ := by
+  have h1 : (1 : ℝ) ≤ |(discr K : ℝ)| := by
+    have h0 := NumberField.discr_ne_zero K
+    have : (1 : ℤ) ≤ |discr K| := Int.one_le_abs h0
+    exact_mod_cast this
+  have h2 : (1 : ℝ) ≤ (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ) := by
+    exact_mod_cast ArtinL.Abelian.absNorm_conductor_pos ψ
+  rw [Dψ]; nlinarith
+
+lemma completedLSeries_eq (hK : ∀ w : InfinitePlace K, w.IsComplex) (s : ℂ) :
+    ArtinL.Abelian.completedLSeries ψ s =
+      ((Dψ ψ : ℝ) : ℂ) ^ (s / 2) * Gammaℂ s ^ nrComplexPlaces K * ArtinL.Abelian.LSeries ψ s := by
+  have hp : ArtinL.Abelian.nPlus ψ = 0 := by
+    have := ArtinL.Abelian.nPlus_le ψ; rw [nrRealPlaces_eq_zero hK] at this; omega
+  have hm : ArtinL.Abelian.nMinus ψ = 0 := by
+    rw [ArtinL.Abelian.nMinus, nrRealPlaces_eq_zero hK]; simp
+  rw [ArtinL.Abelian.completedLSeries, hp, hm, pow_zero, pow_zero, mul_one, mul_one, Dψ]
+
+lemma natCast_cpow_conj (n : ℕ) (s : ℂ) :
+    (starRingEnd ℂ) ((n : ℂ) ^ (starRingEnd ℂ) s) = (n : ℂ) ^ s := by
+  rw [Complex.cpow_conj _ _ (by rw [Complex.natCast_arg]; exact Real.pi_ne_zero.symm),
+    Complex.conj_natCast, RCLike.conj_conj]
+
+lemma ofReal_cpow_conj {x : ℝ} (hx : 0 ≤ x) (s : ℂ) :
+    (starRingEnd ℂ) ((x : ℂ) ^ (starRingEnd ℂ) s) = (x : ℂ) ^ s := by
+  rw [Complex.cpow_conj _ _ (by rw [Complex.arg_ofReal_of_nonneg hx]; exact Real.pi_ne_zero.symm),
+    Complex.conj_ofReal, RCLike.conj_conj]
+
+lemma LSeries_inv_eq (s : ℂ) :
+    ArtinL.Abelian.LSeries ψ⁻¹ s = (starRingEnd ℂ) (ArtinL.Abelian.LSeries ψ ((starRingEnd ℂ) s)) := by
+  rw [ArtinL.Abelian.LSeries, ArtinL.Abelian.LSeries, LSeries, LSeries, Complex.conj_tsum]
+  congr 1; funext n
+  rcases eq_or_ne n 0 with rfl | hn
+  · simp
+  rw [LSeries.term_of_ne_zero hn, LSeries.term_of_ne_zero hn, map_div₀, ArtinL.Abelian.coeff_inv,
+    natCast_cpow_conj]
+
+lemma Gammaℂ_conj (s : ℂ) : Gammaℂ ((starRingEnd ℂ) s) = (starRingEnd ℂ) (Gammaℂ s) := by
+  have h := ofReal_cpow_conj (x := 2 * Real.pi) (by positivity) ((starRingEnd ℂ) (-s))
+  rw [RCLike.conj_conj] at h
+  push_cast at h
+  rw [map_neg] at h
+  rw [Gammaℂ_def, Gammaℂ_def, map_mul, map_mul, Gamma_conj, h, map_ofNat]
+
+lemma completedLSeries_inv_eq (hK : ∀ w : InfinitePlace K, w.IsComplex) (s : ℂ) :
+    ArtinL.Abelian.completedLSeries ψ⁻¹ s =
+      (starRingEnd ℂ) (ArtinL.Abelian.completedLSeries ψ ((starRingEnd ℂ) s)) := by
+  have hD : Dψ ψ⁻¹ = Dψ ψ := by rw [Dψ, Dψ, ArtinL.Abelian.conductor_inv]
+  rw [completedLSeries_eq ψ⁻¹ hK, completedLSeries_eq ψ hK, hD, map_mul, map_mul, map_pow,
+    ← Gammaℂ_conj, RCLike.conj_conj, ← LSeries_inv_eq, show (starRingEnd ℂ) s / 2 =
+      (starRingEnd ℂ) (s / 2) by rw [map_div₀, map_ofNat]]
+  congr 2
+  rw [ofReal_cpow_conj (zero_le_one.trans (one_le_Dψ ψ))]
+
+lemma LSeries_two_ne_zero (hK : ∀ w : InfinitePlace K, w.IsComplex) :
+    ArtinL.Abelian.LSeries ψ 2 ≠ 0 := by
+  rw [LSeries_eq_psiH ψ hK]
+  exact (C3A.euler1 (psiH ψ hK) 2
+    (T12A.norm_heckeChar_le (ArtinL.Abelian.conductor_ne_bot ψ) _) (by norm_num)).2
+
+/-- **FE package**: `Λ(1 − s) = W conj Λ(conj s)` with `‖W‖ = 1`. -/
+theorem fe_package (hK : ∀ w : InfinitePlace K, w.IsComplex) (hψ : ψ ≠ 1) :
+    ∃ (W : ℂ) (Λ : ℂ → ℂ), ‖W‖ = 1 ∧ Differentiable ℂ Λ ∧
+      (∀ s : ℂ, 1 < s.re → Λ s = ArtinL.Abelian.completedLSeries ψ s) ∧
+      ∀ s : ℂ, Λ (1 - s) = W * (starRingEnd ℂ) (Λ ((starRingEnd ℂ) s)) := by
+  obtain ⟨W, Λ, Λ', -, hΛ, hΛ', hre, hfe⟩ :=
+    ArtinL.Abelian.exists_completedLSeries_functionalEquation_u0 K M ψ
+  have hre' : ∀ s : ℂ, 1 < s.re → Λ s = ArtinL.Abelian.completedLSeries ψ s ∧
+      Λ' s = ArtinL.Abelian.completedLSeries ψ⁻¹ s := fun s hs => by
+    have := hre s hs; rwa [if_neg hψ, one_mul, one_mul] at this
+  -- `Λ' = conj ∘ Λ ∘ conj`
+  have hcc : Differentiable ℂ (fun s => (starRingEnd ℂ) (Λ ((starRingEnd ℂ) s))) := fun s => by
+    have := (hΛ ((starRingEnd ℂ) s)).conj_conj
+    rw [RCLike.conj_conj] at this
+    exact this
+  have hΛ'eq : Λ' = fun s => (starRingEnd ℂ) (Λ ((starRingEnd ℂ) s)) := by
+    refine entire_ext hΛ' hcc fun s hs => ?_
+    have hs' : 1 < ((starRingEnd ℂ) s).re := by simpa using hs
+    rw [(hre' s hs).2, completedLSeries_inv_eq ψ hK, (hre' _ hs').1]
+  have hfe' : ∀ s, Λ (1 - s) = W * (starRingEnd ℂ) (Λ ((starRingEnd ℂ) s)) := fun s => by
+    rw [hfe s, hΛ'eq]
+  -- `Λ(2) ≠ 0`
+  have h2 : Λ 2 ≠ 0 := by
+    rw [(hre' 2 (by norm_num)).1, completedLSeries_eq ψ hK]
+    refine mul_ne_zero (mul_ne_zero ?_ (pow_ne_zero _ ?_)) (LSeries_two_ne_zero ψ hK)
+    · rw [Ne, Complex.cpow_eq_zero_iff]; push Not; intro h
+      exact absurd (Complex.ofReal_eq_zero.1 h) (by linarith [one_le_Dψ ψ])
+    · rw [Gammaℂ_def]
+      refine mul_ne_zero (mul_ne_zero two_ne_zero ?_) (Gamma_ne_zero_of_re_pos (by norm_num))
+      rw [Ne, Complex.cpow_eq_zero_iff]; push Not; intro h
+      exact absurd h (by simp [Real.pi_ne_zero])
+  refine ⟨W, Λ, ?_, hΛ, fun s hs => (hre' s hs).1, hfe'⟩
+  -- `‖W‖ = 1`
+  have e1 := hfe' (-1)
+  have e2 := hfe' 2
+  norm_num at e1 e2
+  have hc2 : (starRingEnd ℂ) (2 : ℂ) = 2 := map_ofNat _ 2
+  rw [hc2] at e2
+  have : Λ 2 = W * (starRingEnd ℂ) W * Λ 2 := by
+    calc Λ 2 = W * (starRingEnd ℂ) (Λ (-1)) := e1
+      _ = W * (starRingEnd ℂ) (W * (starRingEnd ℂ) (Λ 2)) := by rw [e2]
+      _ = W * (starRingEnd ℂ) W * Λ 2 := by rw [map_mul, RCLike.conj_conj]; ring
+  have hW : W * (starRingEnd ℂ) W = 1 := by
+    have := mul_right_cancel₀ h2 (this.symm.trans (one_mul (Λ 2)).symm)
+    exact this
+  rw [Complex.mul_conj, Complex.normSq_eq_norm_sq] at hW
+  have : ‖W‖ ^ 2 = 1 := by exact_mod_cast hW
+  nlinarith [norm_nonneg W, sq_nonneg (‖W‖ - 1)]
+
+/-- `Z(σ) = ∑_I N(I)^{-σ}`. -/
+def Zsum (K : Type) [Field K] [NumberField K] (σ : ℝ) : ℝ :=
+  ∑' I : Ideal (𝓞 K), ((Ideal.absNorm I : ℕ) : ℝ) ^ (-σ)
+
+lemma norm_LSeries_le (hK : ∀ w : InfinitePlace K, w.IsComplex) {σ : ℝ} (hσ : 1 < σ) {s : ℂ}
+    (hs : σ ≤ s.re) : ‖ArtinL.Abelian.LSeries ψ s‖ ≤ Zsum K σ := by
+  have hχ := T12A.norm_heckeChar_le (ArtinL.Abelian.conductor_ne_bot ψ) (psiH ψ hK)
+  rw [LSeries_eq_psiH ψ hK, T12B.lseries_eq_tsum _ hχ (by linarith)]
+  refine (norm_tsum_le_tsum_norm ?_).trans ?_
+  · exact (T12B.summable_absNorm_rpow hσ).of_nonneg_of_le (fun _ => norm_nonneg _)
+      (T12B.norm_gs_le _ hχ hs)
+  · exact Summable.tsum_le_tsum (T12B.norm_gs_le _ hχ hs)
+      ((T12B.summable_absNorm_rpow hσ).of_nonneg_of_le (fun _ => norm_nonneg _)
+        (T12B.norm_gs_le _ hχ hs)) (T12B.summable_absNorm_rpow hσ)
+
+lemma Zsum_nonneg (σ : ℝ) : 0 ≤ Zsum K σ :=
+  tsum_nonneg fun _ => Real.rpow_nonneg (Nat.cast_nonneg _) _
+
+/-- The growth hypothesis needed for Phragmén–Lindelöf (supplied by c46e3955 in L3K_Growth). -/
+def GrowthHyp (δ : ℝ) : Prop :=
+  ∀ L : ℂ → ℂ, Differentiable ℂ L → (∀ s : ℂ, 1 < s.re → L s = ArtinL.Abelian.LSeries ψ s) →
+    ∃ (A : ℝ) (N : ℕ), ∀ w : ℂ, -δ ≤ w.re → w.re ≤ 1 + δ → ‖L w‖ ≤ A * (1 + |w.im|) ^ N
+
+lemma poly_le_exp_exp {A : ℝ} (hA : 0 ≤ A) (N : ℕ) (x : ℝ) (hx : 0 ≤ x) :
+    A * (1 + x) ^ N ≤ Real.exp ((A + N) * Real.exp x) := by
+  have h1 : (1 + x) ^ N ≤ Real.exp (N * x) := by
+    rw [Real.exp_nat_mul]; exact pow_le_pow_left₀ (by linarith) (by linarith [Real.add_one_le_exp x]) N
+  have h2 : A ≤ Real.exp A := by linarith [Real.add_one_le_exp A]
+  have hex : x ≤ Real.exp x := by linarith [Real.add_one_le_exp x]
+  have hex1 : 1 ≤ Real.exp x := Real.one_le_exp hx
+  calc A * (1 + x) ^ N ≤ Real.exp A * Real.exp (N * x) :=
+        mul_le_mul h2 h1 (by positivity) (by positivity)
+    _ = Real.exp (A + N * x) := by rw [Real.exp_add]
+    _ ≤ Real.exp ((A + N) * Real.exp x) := by
+        apply Real.exp_le_exp.2
+        have : (N : ℝ) * x ≤ N * Real.exp x := mul_le_mul_of_nonneg_left hex (Nat.cast_nonneg _)
+        nlinarith
+
+/-- `‖Γ_ℂ(1 − z)/Γ_ℂ(z)‖ ≤ 4 e^π Γ(1+δ)² (1 + |t|)³` on `Re z = −δ`. -/
+lemma norm_Gammaℂ_ratio_le {δ : ℝ} (hδ0 : 0 < δ) (hδ1 : δ < 1) {z : ℂ} (hz : z.re = -δ) :
+    ‖Gammaℂ (1 - z) / Gammaℂ z‖ ≤
+      4 * Real.exp Real.pi * Real.Gamma (1 + δ) ^ 2 * (1 + |z.im|) ^ 3 := by
+  have hz' : z = (-δ : ℂ) + z.im * I := by
+    apply Complex.ext <;> simp [hz]
+  have h1z : 1 - z = 1 + δ - z.im * I := by apply Complex.ext <;> simp [hz]
+  have hΓ := L3K.norm_Gamma_ratio_le hδ0 hδ1 z.im
+  rw [← h1z, ← hz'] at hΓ
+  have h2π : (2 * (Real.pi : ℂ)) = ((2 * Real.pi : ℝ) : ℂ) := by push_cast; ring
+  have hpos : (0 : ℝ) < 2 * Real.pi := by positivity
+  have hne : Gamma z ≠ 0 := by
+    intro h0
+    rw [h0, div_zero, norm_zero] at hΓ
+    exact absurd h0 (Gamma_ne_zero fun m hm => by
+      have := congrArg Complex.re hm; simp at this; rw [hz] at this
+      rcases Nat.eq_zero_or_pos m with h | h
+      · subst h; simp at this; linarith
+      · have : (1 : ℝ) ≤ m := by exact_mod_cast h
+        linarith)
+  rw [Gammaℂ_def, Gammaℂ_def, h2π]
+  have e : 2 * ((2 * Real.pi : ℝ) : ℂ) ^ (-(1 - z)) * Gamma (1 - z) /
+      (2 * ((2 * Real.pi : ℝ) : ℂ) ^ (-z) * Gamma z) =
+      (((2 * Real.pi : ℝ) : ℂ) ^ (-(1 - z)) / ((2 * Real.pi : ℝ) : ℂ) ^ (-z)) *
+        (Gamma (1 - z) / Gamma z) := by
+    have : ((2 * Real.pi : ℝ) : ℂ) ^ (-z) ≠ 0 := by
+      rw [Ne, Complex.cpow_eq_zero_iff]; push Not; intro h; exact absurd h (by exact_mod_cast hpos.ne')
+    field_simp
+  rw [e, norm_mul, norm_div, Complex.norm_cpow_eq_rpow_re_of_pos hpos,
+    Complex.norm_cpow_eq_rpow_re_of_pos hpos]
+  have hre1 : (-(1 - z)).re = -(1 + δ) := by simp [hz]; ring
+  have hre2 : (-z).re = δ := by simp [hz]
+  rw [hre1, hre2]
+  have hq : (2 * Real.pi) ^ (-(1 + δ)) / (2 * Real.pi) ^ δ ≤ 1 := by
+    rw [div_le_one (Real.rpow_pos_of_pos hpos _)]
+    exact Real.rpow_le_rpow_of_exponent_le (by linarith [Real.pi_gt_three]) (by linarith)
+  calc (2 * Real.pi) ^ (-(1 + δ)) / (2 * Real.pi) ^ δ * ‖Gamma (1 - z) / Gamma z‖
+      ≤ 1 * ‖Gamma (1 - z) / Gamma z‖ := mul_le_mul_of_nonneg_right hq (norm_nonneg _)
+    _ ≤ _ := by rw [one_mul]; exact hΓ
+
+/-- The continuation `L = Λ · D^{-s/2} · Γ_ℂ(s)^{-r₂}`. -/
+def Lfun (Λ : ℂ → ℂ) (s : ℂ) : ℂ :=
+  Λ s * ((Dψ ψ : ℝ) : ℂ) ^ (-s / 2) * ((Gammaℂ s)⁻¹) ^ nrComplexPlaces K
+
+lemma Lfun_differentiable {Λ : ℂ → ℂ} (hΛ : Differentiable ℂ Λ) :
+    Differentiable ℂ (Lfun ψ Λ) := by
+  have hD : ((Dψ ψ : ℝ) : ℂ) ≠ 0 := by
+    exact_mod_cast (zero_lt_one.trans_le (one_le_Dψ ψ)).ne'
+  refine (hΛ.mul ?_).mul (differentiable_Gammaℂ_inv.pow _)
+  intro s
+  exact ((differentiableAt_id.neg).div_const 2).const_cpow (Or.inl hD)
+
+lemma Lfun_eq (hK : ∀ w : InfinitePlace K, w.IsComplex) {Λ : ℂ → ℂ}
+    (hΛre : ∀ s : ℂ, 1 < s.re → Λ s = ArtinL.Abelian.completedLSeries ψ s) {s : ℂ}
+    (hs : 1 < s.re) : Lfun ψ Λ s = ArtinL.Abelian.LSeries ψ s := by
+  have hD : ((Dψ ψ : ℝ) : ℂ) ≠ 0 := by
+    exact_mod_cast (zero_lt_one.trans_le (one_le_Dψ ψ)).ne'
+  have hG : Gammaℂ s ≠ 0 := by
+    rw [Gammaℂ_def]
+    refine mul_ne_zero (mul_ne_zero two_ne_zero ?_) (Gamma_ne_zero_of_re_pos (by linarith))
+    rw [Ne, Complex.cpow_eq_zero_iff]; push Not; intro h
+    exact absurd h (by simp [Real.pi_ne_zero])
+  rw [Lfun, hΛre s hs, completedLSeries_eq ψ hK]
+  have hc : ((Dψ ψ : ℝ) : ℂ) ^ (s / 2) * ((Dψ ψ : ℝ) : ℂ) ^ (-s / 2) = 1 := by
+    rw [← Complex.cpow_add _ _ hD, show s / 2 + -s / 2 = 0 by ring, Complex.cpow_zero]
+  have hg : Gammaℂ s ^ nrComplexPlaces K * (Gammaℂ s)⁻¹ ^ nrComplexPlaces K = 1 := by
+    rw [← mul_pow, mul_inv_cancel₀ hG, one_pow]
+  calc _ = (((Dψ ψ : ℝ) : ℂ) ^ (s / 2) * ((Dψ ψ : ℝ) : ℂ) ^ (-s / 2)) *
+        (Gammaℂ s ^ nrComplexPlaces K * (Gammaℂ s)⁻¹ ^ nrComplexPlaces K) *
+        ArtinL.Abelian.LSeries ψ s := by ring
+    _ = _ := by rw [hc, hg, one_mul, one_mul]
+
+/-- **Left edge.** -/
+lemma norm_Lfun_left (hK : ∀ w : InfinitePlace K, w.IsComplex) {δ : ℝ} (hδ0 : 0 < δ)
+    (hδ1 : δ < 1) {W : ℂ} {Λ : ℂ → ℂ} (hW : ‖W‖ = 1)
+    (hΛre : ∀ s : ℂ, 1 < s.re → Λ s = ArtinL.Abelian.completedLSeries ψ s)
+    (hfe : ∀ s : ℂ, Λ (1 - s) = W * (starRingEnd ℂ) (Λ ((starRingEnd ℂ) s)))
+    {z : ℂ} (hz : z.re = -δ) :
+    ‖Lfun ψ Λ z‖ ≤ Dψ ψ ^ (1 / 2 + δ) *
+      (4 * Real.exp Real.pi * Real.Gamma (1 + δ) ^ 2 * (1 + |z.im|) ^ 3) ^ nrComplexPlaces K *
+      Zsum K (1 + δ) := by
+  set u := (starRingEnd ℂ) (1 - z) with hu
+  have hure : u.re = 1 + δ := by simp [hu, hz]
+  have hΛz : Λ z = W * (starRingEnd ℂ) (Λ u) := by
+    have := hfe (1 - z); rwa [sub_sub_cancel] at this
+  have hDpos : 0 < Dψ ψ := zero_lt_one.trans_le (one_le_Dψ ψ)
+  rw [Lfun, hΛz, hΛre u (by rw [hure]; linarith), completedLSeries_eq ψ hK]
+  simp only [norm_mul, norm_pow, Complex.norm_conj, hW, one_mul, norm_inv]
+  rw [Complex.norm_cpow_eq_rpow_re_of_pos hDpos, Complex.norm_cpow_eq_rpow_re_of_pos hDpos]
+  have hr1 : (u / 2).re = (1 + δ) / 2 := by simp [hure]
+  have hr2 : (-z / 2).re = δ / 2 := by simp [hz]
+  rw [hr1, hr2]
+  have hGu : ‖Gammaℂ u‖ = ‖Gammaℂ (1 - z)‖ := by rw [hu, Gammaℂ_conj, Complex.norm_conj]
+  rw [hGu]
+  have hratio := norm_Gammaℂ_ratio_le hδ0 hδ1 hz
+  rw [norm_div] at hratio
+  have hLS := norm_LSeries_le ψ hK (σ := 1 + δ) (by linarith) (le_of_eq hure.symm)
+  have hDD : Dψ ψ ^ ((1 + δ) / 2) * Dψ ψ ^ (δ / 2) = Dψ ψ ^ (1 / 2 + δ) := by
+    rw [← Real.rpow_add hDpos]; congr 1; ring
+  calc Dψ ψ ^ ((1 + δ) / 2) * ‖Gammaℂ (1 - z)‖ ^ nrComplexPlaces K *
+        ‖ArtinL.Abelian.LSeries ψ u‖ * Dψ ψ ^ (δ / 2) * ‖Gammaℂ z‖⁻¹ ^ nrComplexPlaces K
+      = (Dψ ψ ^ ((1 + δ) / 2) * Dψ ψ ^ (δ / 2)) *
+          (‖Gammaℂ (1 - z)‖ / ‖Gammaℂ z‖) ^ nrComplexPlaces K *
+          ‖ArtinL.Abelian.LSeries ψ u‖ := by rw [div_pow, div_eq_mul_inv, inv_pow]; ring
+    _ ≤ Dψ ψ ^ (1 / 2 + δ) *
+          (4 * Real.exp Real.pi * Real.Gamma (1 + δ) ^ 2 * (1 + |z.im|) ^ 3) ^
+            nrComplexPlaces K * Zsum K (1 + δ) := by
+        rw [hDD]
+        apply mul_le_mul (mul_le_mul_of_nonneg_left
+          (pow_le_pow_left₀ (by positivity) hratio _) (by positivity)) hLS (norm_nonneg _)
+          (by positivity)
+
+/-- **Convexity bound with explicit conductor.** -/
+theorem convexity (K : Type) [Field K] [NumberField K] (hK : ∀ w : InfinitePlace K, w.IsComplex)
+    {δ : ℝ} (hδ0 : 0 < δ) (hδ1 : δ < 1 / 2) :
+    ∃ C : ℝ, 0 ≤ C ∧ ∀ (M : Type) [Field M] [NumberField M] [Algebra K M] [IsGalois K M]
+      (ψ : (M ≃ₐ[K] M) →* ℂˣ), ψ ≠ 1 → GrowthHyp ψ δ →
+      ∃ L : ℂ → ℂ, Differentiable ℂ L ∧
+        (∀ s : ℂ, 1 < s.re → L s = ArtinL.Abelian.LSeries ψ s) ∧
+        ∀ s : ℂ, -δ ≤ s.re → s.re ≤ 4 →
+          ‖L s‖ ≤ C * (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ) ^ (1 / 2 + δ) *
+            (1 + |s.im|) ^ (3 * (nrComplexPlaces K : ℝ)) := by
+  set r := nrComplexPlaces K
+  obtain ⟨Cpl, hCpl, hPL⟩ := PhragmenLindelof.exists_norm_le_mul_one_add_abs_im_rpow_of_vertical_strip
+    (-δ) (1 + δ) (3 * r : ℝ) (by linarith) (by positivity)
+  set G := 4 * Real.exp Real.pi * Real.Gamma (1 + δ) ^ 2
+  set G1 := max G 1
+  set Z := Zsum K (1 + δ)
+  set dK := |(discr K : ℝ)|
+  have hZ : 0 ≤ Z := Zsum_nonneg _
+  have hG1 : 1 ≤ G1 := le_max_right _ _
+  have hdK : 0 ≤ dK := abs_nonneg _
+  refine ⟨Cpl * dK ^ (1 / 2 + δ) * G1 ^ r * Z + Z, by positivity, ?_⟩
+  intro M _ _ _ _ ψ hψ hgr
+  obtain ⟨W, Λ, hW, hΛ, hΛre, hfe⟩ := fe_package ψ hK hψ
+  set L := Lfun ψ Λ
+  have hL : Differentiable ℂ L := Lfun_differentiable ψ hΛ
+  have hLre : ∀ s : ℂ, 1 < s.re → L s = ArtinL.Abelian.LSeries ψ s :=
+    fun s hs => Lfun_eq ψ hK hΛre hs
+  set N : ℝ := (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ)
+  have hN : 1 ≤ N := by
+    have := ArtinL.Abelian.absNorm_conductor_pos ψ
+    simp only [N]; exact_mod_cast this
+  set D := Dψ ψ
+  have hD1 : 1 ≤ D := one_le_Dψ ψ
+  have hDp : D ^ (1 / 2 + δ) = dK ^ (1 / 2 + δ) * N ^ (1 / 2 + δ) := Real.mul_rpow hdK (by linarith)
+  have hDp1 : 1 ≤ D ^ (1 / 2 + δ) := Real.one_le_rpow hD1 (by linarith)
+  have hNp1 : 1 ≤ N ^ (1 / 2 + δ) := Real.one_le_rpow hN (by linarith)
+  set M0 := D ^ (1 / 2 + δ) * G1 ^ r * Z
+  have hpow : ∀ t : ℝ, (1 + |t|) ^ (3 * r : ℝ) = ((1 + |t|) ^ 3) ^ r := fun t => by
+    rw [← pow_mul, ← Real.rpow_natCast]; push_cast; ring_nf
+  have hone : ∀ t : ℝ, 1 ≤ (1 + |t|) ^ (3 * r : ℝ) := fun t =>
+    Real.one_le_rpow (by linarith [abs_nonneg t]) (by positivity)
+  -- right region
+  have hright : ∀ z : ℂ, 1 + δ ≤ z.re → ‖L z‖ ≤ Z := fun z hz => by
+    rw [hLre z (by linarith)]; exact norm_LSeries_le ψ hK (by linarith) hz
+  -- PL on the strip
+  have hstrip : ∀ z : ℂ, -δ ≤ z.re → z.re ≤ 1 + δ → ‖L z‖ ≤ Cpl * M0 * (1 + |z.im|) ^ (3 * r : ℝ) := by
+    refine hPL L M0 (by positivity) hL.diffContOnCl ?_ ?_ ?_
+    · obtain ⟨A0, N0, hA0⟩ := hgr L hL hLre
+      refine ⟨1, by
+        rw [lt_div_iff₀ (by linarith)]; linarith [Real.pi_gt_three], max A0 0 + N0, fun z h1 h2 => ?_⟩
+      calc ‖L z‖ ≤ A0 * (1 + |z.im|) ^ N0 := hA0 z h1.le h2.le
+        _ ≤ max A0 0 * (1 + |z.im|) ^ N0 :=
+            mul_le_mul_of_nonneg_right (le_max_left _ _) (by positivity)
+        _ ≤ Real.exp ((max A0 0 + N0) * Real.exp |z.im|) :=
+            poly_le_exp_exp (le_max_right _ _) N0 _ (abs_nonneg _)
+        _ = Real.exp ((max A0 0 + N0) * Real.exp (1 * |z.im|)) := by rw [one_mul]
+    · intro z hz
+      refine (norm_Lfun_left ψ hK hδ0 (by linarith) hW hΛre hfe hz).trans ?_
+      rw [hpow]
+      have : (G * (1 + |z.im|) ^ 3) ^ r ≤ G1 ^ r * ((1 + |z.im|) ^ 3) ^ r := by
+        rw [← mul_pow]
+        exact pow_le_pow_left₀ (by positivity)
+          (mul_le_mul_of_nonneg_right (le_max_left _ _) (by positivity)) _
+      calc D ^ (1 / 2 + δ) * (G * (1 + |z.im|) ^ 3) ^ r * Z
+          ≤ D ^ (1 / 2 + δ) * (G1 ^ r * ((1 + |z.im|) ^ 3) ^ r) * Z := by gcongr
+        _ = M0 * ((1 + |z.im|) ^ 3) ^ r := by ring
+    · intro z hz
+      refine (hright z hz.ge).trans ?_
+      have h1 : 1 ≤ G1 ^ r := one_le_pow₀ hG1
+      have := hone z.im
+      calc Z = 1 * 1 * Z * 1 := by ring
+        _ ≤ D ^ (1 / 2 + δ) * G1 ^ r * Z * (1 + |z.im|) ^ (3 * r : ℝ) := by gcongr
+  refine ⟨L, hL, hLre, fun z h1 h2 => ?_⟩
+  have hone' := hone z.im
+  rcases le_or_gt z.re (1 + δ) with h | h
+  · refine (hstrip z h1 h).trans ?_
+    calc Cpl * M0 * (1 + |z.im|) ^ (3 * r : ℝ)
+        = Cpl * dK ^ (1 / 2 + δ) * G1 ^ r * Z * N ^ (1 / 2 + δ) * (1 + |z.im|) ^ (3 * r : ℝ) := by
+          rw [show M0 = D ^ (1 / 2 + δ) * G1 ^ r * Z from rfl, hDp]; ring
+      _ ≤ (Cpl * dK ^ (1 / 2 + δ) * G1 ^ r * Z + Z) * N ^ (1 / 2 + δ) *
+            (1 + |z.im|) ^ (3 * r : ℝ) := by gcongr; linarith
+  · refine (hright z h.le).trans ?_
+    calc Z = (0 + Z) * 1 * 1 := by ring
+      _ ≤ (Cpl * dK ^ (1 / 2 + δ) * G1 ^ r * Z + Z) * N ^ (1 / 2 + δ) *
+            (1 + |z.im|) ^ (3 * r : ℝ) := by gcongr; positivity
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Growth: the a-priori growth hypothesis for Phragmén–Lindelöf
+
+For `ψ ≠ 1`, the entire continuation of `L(s, ψ)` has polynomial growth on every vertical strip:
+library c46e3955 applied to the idelic character `η` of f982cbad attached to `χ_R` (41aa80ff), with
+`T` the primes dividing the conductor, and the Euler product of `psiH` (C3A `euler1`).
+`η` is nontrivial on the norm-one ideles: otherwise `η = |·|^{it}` (a55d6ac4), finite order forces
+`t = 0` (86a18a2c), and then `χ_R = 1` because the prime classes generate the ray class group. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField NumberField.InfinitePlace IsDedekindDomain Deep.NTSupply nonZeroDivisors
+  AutomorphicForm NumberField.TateGlobal NumberField.AdelicLevel
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+section Gen
+
+variable {K : Type} [Field K] [NumberField K]
+
+/-- The prime classes generate the narrow ray class group. -/
+theorem eq_one_of_primeClass {𝔣 : Ideal (𝓞 K)} (χ : NarrowRayClassGroup K 𝔣 →* ℂ)
+    (h : ∀ (v : HeightOneSpectrum (𝓞 K)) (hv : ¬ v.asIdeal ∣ 𝔣), χ (primeClass K 𝔣 v hv) = 1) :
+    χ = 1 := by
+  classical
+  set χu : NarrowRayClassGroup K 𝔣 →* ℂˣ := χ.toHomUnits
+  set Kr : Subgroup (FractionalIdeal (𝓞 K)⁰ K)ˣ :=
+    ((χu.comp (NarrowRayClassGroup.mk K 𝔣)).ker).map (coprimeToModulus K 𝔣).subtype
+  have hP : ∀ v : HeightOneSpectrum (𝓞 K), ¬ v.asIdeal ∣ 𝔣 → primeUnit K v ∈ Kr := by
+    intro v hv
+    refine ⟨⟨primeUnit K v, primeUnit_mem_coprimeToModulus K hv⟩, ?_, rfl⟩
+    rw [SetLike.mem_coe, MonoidHom.mem_ker, MonoidHom.comp_apply]
+    apply Units.ext
+    rw [MonoidHom.coe_toHomUnits, Units.val_one]
+    exact h v hv
+  have hall : ∀ y : ↥(coprimeToModulus K 𝔣), (y : (FractionalIdeal (𝓞 K)⁰ K)ˣ) ∈ Kr := by
+    intro y
+    set I : FractionalIdeal (𝓞 K)⁰ K := ((y : (FractionalIdeal (𝓞 K)⁰ K)ˣ) : FractionalIdeal (𝓞 K)⁰ K)
+    have hI : I ≠ 0 := Units.ne_zero _
+    have hfin := FractionalIdeal.finite_factors (K := K) I
+    rw [Filter.eventually_cofinite] at hfin
+    set S := hfin.toFinset
+    have hy : (y : (FractionalIdeal (𝓞 K)⁰ K)ˣ) = ∏ v ∈ S, primeUnit K v ^ FractionalIdeal.count K v I := by
+      apply Units.ext
+      rw [Units.coe_prod]
+      conv_lhs => rw [show ((y : (FractionalIdeal (𝓞 K)⁰ K)ˣ) : FractionalIdeal (𝓞 K)⁰ K) = I from rfl,
+        ← FractionalIdeal.finprod_heightOneSpectrum_factorization' K hI]
+      rw [finprod_eq_prod_of_mulSupport_subset]
+      · refine Finset.prod_congr rfl fun v _ => ?_
+        rw [Units.val_zpow_eq_zpow_val, primeUnit_val]
+      · intro v hv
+        rw [Set.Finite.coe_toFinset]
+        intro h0
+        apply hv
+        simp only at h0 ⊢
+        rw [h0, zpow_zero]
+    rw [hy]
+    refine Subgroup.prod_mem _ fun v hv => ?_
+    by_cases hd : v.asIdeal ∣ 𝔣
+    · have : FractionalIdeal.count K v I = 0 := ((mem_coprimeToModulus_iff K).1 y.2) v hd
+      rw [this, zpow_zero]; exact Subgroup.one_mem _
+    · exact Subgroup.zpow_mem _ (hP v hd) _
+  refine MonoidHom.ext fun C => ?_
+  obtain ⟨y, rfl⟩ := QuotientGroup.mk_surjective C
+  obtain ⟨z, hz, hzy⟩ := hall y
+  have hzy' : z = y := Subtype.ext hzy
+  rw [hzy'] at hz
+  rw [SetLike.mem_coe, MonoidHom.mem_ker, MonoidHom.comp_apply] at hz
+  have := congrArg (fun x : ℂˣ => (x : ℂ)) hz
+  simp only [MonoidHom.coe_toHomUnits, Units.val_one] at this
+  rw [MonoidHom.one_apply]
+  exact this
+
+/-- An idelic character admitting `𝔣` as a modulus is unramified at `v ∤ 𝔣`. -/
+theorem isUnramifiedCharAt_of_admitsModulus {𝔣 : Ideal (𝓞 K)} (h𝔣 : 𝔣 ≠ ⊥)
+    {η : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ} (hη : HeckeCharacter.AdmitsModulus K η 𝔣)
+    {v : HeightOneSpectrum (𝓞 K)} (hv : ¬ v.asIdeal ∣ 𝔣) : IsUnramifiedCharAt η v := by
+  classical
+  intro t ht hti
+  unfold localChar
+  apply hη
+  · rfl
+  · intro w
+    by_cases hw : w = v
+    · subst hw
+      have hval : Valued.v ((t : w.adicCompletion K)) = 1 := by
+        rw [HeightOneSpectrum.mem_adicCompletionIntegers] at ht hti
+        apply le_antisymm ht
+        have h1 : Valued.v ((t : w.adicCompletion K)) * Valued.v (((t⁻¹ : (w.adicCompletion K)ˣ) :
+            w.adicCompletion K)) = 1 := by
+          rw [← map_mul, Units.mul_inv, map_one]
+        by_contra hlt
+        push Not at hlt
+        have : Valued.v ((t : w.adicCompletion K)) * Valued.v (((t⁻¹ : (w.adicCompletion K)ˣ) :
+            w.adicCompletion K)) < 1 :=
+          mul_lt_one_of_lt_of_le hlt hti
+        rw [h1] at this; exact lt_irrefl _ this
+      have hm : HeckeCharacter.idealMultiplicity K w 𝔣 = 0 := by
+        unfold HeckeCharacter.idealMultiplicity
+        by_contra h0
+        exact hv ((Associates.count_ne_zero_iff_dvd h𝔣 w.irreducible).1 h0)
+      show Valued.v (((localUnit (𝓞 K) K w t : (FiniteAdeleRing (𝓞 K) K)ˣ) :
+          FiniteAdeleRing (𝓞 K) K) w) = 1 ∧ Valued.v (((localUnit (𝓞 K) K w t :
+          (FiniteAdeleRing (𝓞 K) K)ˣ) : FiniteAdeleRing (𝓞 K) K) w - 1) ≤ _
+      rw [localUnit_apply_self, hm, Nat.cast_zero, neg_zero, WithZero.exp_zero]
+      refine ⟨hval, ?_⟩
+      refine (Valuation.map_sub _ _ _).trans (max_le hval.le (by rw [map_one]))
+    · show Valued.v (((localUnit (𝓞 K) K v t : (FiniteAdeleRing (𝓞 K) K)ˣ) :
+          FiniteAdeleRing (𝓞 K) K) w) = 1 ∧ Valued.v (((localUnit (𝓞 K) K v t :
+          (FiniteAdeleRing (𝓞 K) K)ˣ) : FiniteAdeleRing (𝓞 K) K) w - 1) ≤ _
+      rw [localUnit_apply_of_ne _ _ _ _ hw, map_one, sub_self, map_zero]
+      exact ⟨rfl, zero_le⟩
+
+end Gen
+
+section Main
+
+variable {K M : Type} [Field K] [NumberField K] [Field M] [NumberField M] [Algebra K M]
+  [IsGalois K M] (ψ : (M ≃ₐ[K] M) →* ℂˣ)
+
+/-- The primes dividing the conductor. -/
+def condPrimes : Finset (HeightOneSpectrum (𝓞 K)) :=
+  (Ideal.finite_factors (R := 𝓞 K) (ArtinL.Abelian.conductor_ne_bot ψ)).toFinset
+
+lemma mem_condPrimes (v : HeightOneSpectrum (𝓞 K)) :
+    v ∈ condPrimes ψ ↔ v.asIdeal ∣ ArtinL.Abelian.conductor ψ := by
+  rw [condPrimes, Set.Finite.mem_toFinset]; rfl
+
+/-- `EP 𝔣 ≃ {v // v ∉ T}`. -/
+def epEquiv : C3A.EP (ArtinL.Abelian.conductor ψ) ≃ {v : HeightOneSpectrum (𝓞 K) // v ∉ condPrimes ψ} where
+  toFun P := ⟨⟨P.1, P.2.1, P.2.2.1⟩, by
+    rw [mem_condPrimes, ← sup_eq_top_iff_not_dvd]; exact P.2.2.2⟩
+  invFun v := ⟨v.1.asIdeal, v.1.isPrime, v.1.ne_bot, by
+    rw [sup_eq_top_iff_not_dvd, ← mem_condPrimes]; exact v.2⟩
+  left_inv P := rfl
+  right_inv v := rfl
+
+/-- **The growth hypothesis holds.** -/
+theorem growthHyp (hK : ∀ w : InfinitePlace K, w.IsComplex) (hψ : ψ ≠ 1) (δ : ℝ) : GrowthHyp ψ δ := by
+  classical
+  intro L hL hLre
+  set 𝔣 := ArtinL.Abelian.conductor ψ
+  have h𝔣 : 𝔣 ≠ ⊥ := ArtinL.Abelian.conductor_ne_bot ψ
+  set χu := (chiR ψ).toHomUnits
+  obtain ⟨η, hfin, hadm, hunit, hval⟩ := LT.HeckeChar.exists_heckeCharOfRayClassChar K 𝔣 χu
+  have hvalC : ∀ (v : HeightOneSpectrum (𝓞 K)) (hv : ¬ v.asIdeal ∣ 𝔣),
+      ((η (uniformizerIdele K v) : ℂˣ) : ℂ) = ArtinL.Abelian.localValue ψ v := by
+    intro v hv
+    rw [hval v hv, MonoidHom.coe_toHomUnits]; exact (chiR_spec ψ).1 v hv
+  -- nontrivial on norm-one ideles
+  have hnt : ∃ x ∈ normOneIdeles K, η x ≠ 1 := by
+    by_contra hcon
+    push Not at hcon
+    obtain ⟨t, ht⟩ := exists_eq_normPowChar_of_forall_mem_normOneIdeles K η hfin.continuous hunit hcon
+    obtain ⟨n, hn, hpow⟩ := hfin.isOfFinOrder.exists_pow_eq_one
+    have hval_t : ∀ z : (AdeleRing (𝓞 K) K)ˣ,
+        ((η z : ℂˣ) : ℂ) = ((ideleNorm K z : ℝ) : ℂ) ^ (Complex.I * t) := by
+      intro z; rw [ht]; rfl
+    have ht0 : t = 0 := by
+      by_contra ht0
+      have hn0 : (n : ℝ) ≠ 0 := by exact_mod_cast hn.ne'
+      obtain ⟨z, -, hz⟩ := exists_ideleNorm_eq_and_snd_eq_one K
+        (Real.exp (Real.pi / (t * n))) (Real.exp_pos _)
+      have h1 : ((η z : ℂˣ) : ℂ) ^ n = 1 := by
+        rw [← Units.val_pow_eq_pow_val, ← MonoidHom.pow_apply, hpow, MonoidHom.one_apply,
+          Units.val_one]
+      set c := Real.pi / (t * n)
+      have hc : ((Real.exp c : ℝ) : ℂ) ^ (Complex.I * t) = Complex.exp (c * (Complex.I * t)) := by
+        rw [Complex.cpow_def_of_ne_zero (by exact_mod_cast (Real.exp_pos c).ne'),
+          ← Complex.ofReal_log (Real.exp_pos c).le, Real.log_exp]
+      rw [hval_t, hz, hc, ← Complex.exp_nat_mul] at h1
+      have e : (n : ℂ) * (c * (Complex.I * t)) = Real.pi * Complex.I := by
+        have ht' : (t : ℂ) ≠ 0 := by exact_mod_cast ht0
+        have hn' : (n : ℂ) ≠ 0 := by exact_mod_cast hn0
+        simp only [c]; push_cast; field_simp
+      rw [e, Complex.exp_pi_mul_I] at h1
+      norm_num at h1
+    have hη1 : ∀ z, η z = 1 := by
+      intro z; apply Units.ext; rw [hval_t, ht0]; simp
+    apply hψ
+    rw [← (chiR_spec ψ).2.1]
+    refine eq_one_of_primeClass (chiR ψ) fun v hv => ?_
+    rw [(chiR_spec ψ).1 v hv, ← hvalC v hv, hη1, Units.val_one]
+  -- the Euler product
+  have hLE : ∀ s : ℂ, 1 < s.re →
+      L s = ∏' v : {v : HeightOneSpectrum (𝓞 K) // v ∉ condPrimes ψ},
+        (1 - (if IsUnramifiedCharAt η v.1 then ((η (uniformizerIdele K v.1) : ℂˣ) : ℂ) else 0) *
+          (((Ideal.absNorm v.1.asIdeal : ℕ) : ℂ) ^ (-s)))⁻¹ := by
+    intro s hs
+    have hχ := T12A.norm_heckeChar_le h𝔣 (psiH ψ hK)
+    rw [hLre s hs, LSeries_eq_psiH ψ hK, ← (C3A.euler1 (psiH ψ hK) s hχ hs).1.tprod_eq,
+      ← (epEquiv ψ).tprod_eq]
+    refine tprod_congr fun P => ?_
+    have hv : ¬ ((epEquiv ψ P).1).asIdeal ∣ 𝔣 := by
+      rw [← mem_condPrimes]; exact (epEquiv ψ P).2
+    rw [if_pos (isUnramifiedCharAt_of_admitsModulus h𝔣 hadm hv), hvalC _ hv,
+      ← psiH_prime ψ hK]
+    rfl
+  exact exists_forall_norm_le_mul_of_differentiable_of_eq_partialEulerProduct_of_re_mem_Icc K η
+    hfin.isIdeleClassChar hfin.continuous hunit hnt (condPrimes ψ) (-δ) (1 + δ) L hL hLE
+
+/-- **Convexity, unconditional.** -/
+theorem convexity_final (K : Type) [Field K] [NumberField K] (hK : ∀ w : InfinitePlace K, w.IsComplex)
+    {δ : ℝ} (hδ0 : 0 < δ) (hδ1 : δ < 1 / 2) :
+    ∃ C : ℝ, 0 ≤ C ∧ ∀ (M : Type) [Field M] [NumberField M] [Algebra K M] [IsGalois K M]
+      (ψ : (M ≃ₐ[K] M) →* ℂˣ), ψ ≠ 1 →
+      ∃ L : ℂ → ℂ, Differentiable ℂ L ∧
+        (∀ s : ℂ, 1 < s.re → L s = ArtinL.Abelian.LSeries ψ s) ∧
+        ∀ s : ℂ, -δ ≤ s.re → s.re ≤ 4 →
+          ‖L s‖ ≤ C * (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ) ^ (1 / 2 + δ) *
+            (1 + |s.im|) ^ (3 * (nrComplexPlaces K : ℝ)) := by
+  obtain ⟨C, hC, h⟩ := convexity K hK hδ0 hδ1
+  exact ⟨C, hC, fun M _ _ _ _ ψ hψ => h M ψ hψ (growthHyp ψ hK hψ δ)⟩
+
+end Main
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_KB: the Kummer-field basics of C0Z (C0ZK, C0ZF, parts of C0ZS/ZN/ZU/ZV), copied without
+the idelic Artin map, so that the KummerConvexity solution does not pull in the C0-H development. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+
+open NumberField IsDedekindDomain LanglandsTunnell.P2.Artin Polynomial
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots.L3K.KB
+
+section Kch
+
+
+variable {F : Type} [Field F] {ℓ : ℕ} [NeZero ℓ]
+
+/-- Every `ℓ`-th root of unity of an `F`-field comes from `F`. -/
+theorem exists_of_pow_eq_one {ζ : F} (hζ : IsPrimitiveRoot ζ ℓ) (M : Type*) [Field M] [Algebra F M]
+    (x : M) (hx : x ^ ℓ = 1) : ∃ y : F, y ^ ℓ = 1 ∧ algebraMap F M y = x := by
+  have hζM := hζ.map_of_injective (FaithfulSMul.algebraMap_injective F M)
+  obtain ⟨i, -, hi⟩ := hζM.eq_pow_of_pow_eq_one hx
+  exact ⟨ζ ^ i, by rw [← pow_mul, mul_comm, pow_mul, hζ.pow_eq_one, one_pow], by rw [map_pow, hi]⟩
+
+variable {ζ : F} (hζ : IsPrimitiveRoot ζ ℓ) (M : Type*) [Field M] [Algebra F M]
+include hζ
+
+/-- A Kummer generator: a nonzero `β` with `β^ℓ ∈ F`. -/
+structure KGen (M : Type*) [Field M] [Algebra F M] (ℓ : ℕ) where
+  β : M
+  ne_zero : β ≠ 0
+  pow_mem : ∃ a : F, β ^ ℓ = algebraMap F M a
+
+variable {M}
+
+theorem ratio_pow (g : KGen (F := F) M ℓ) (σ : M ≃ₐ[F] M) : (σ g.β / g.β) ^ ℓ = 1 := by
+  obtain ⟨a, ha⟩ := g.pow_mem
+  rw [div_pow, ← map_pow, ha, AlgEquiv.commutes, ← ha, div_self (pow_ne_zero _ g.ne_zero)]
+
+theorem ratio_mem (g : KGen (F := F) M ℓ) (σ : M ≃ₐ[F] M) :
+    ∃ y : F, y ^ ℓ = 1 ∧ algebraMap F M y = σ g.β / g.β :=
+  exists_of_pow_eq_one hζ M _ (ratio_pow hζ g σ)
+
+/-- The value of the Kummer character in `F`. -/
+def kval (g : KGen (F := F) M ℓ) (σ : M ≃ₐ[F] M) : F := (ratio_mem hζ g σ).choose
+
+theorem kval_pow (g : KGen (F := F) M ℓ) (σ : M ≃ₐ[F] M) : kval hζ g σ ^ ℓ = 1 :=
+  (ratio_mem hζ g σ).choose_spec.1
+
+theorem algebraMap_kval (g : KGen (F := F) M ℓ) (σ : M ≃ₐ[F] M) :
+    algebraMap F M (kval hζ g σ) = σ g.β / g.β :=
+  (ratio_mem hζ g σ).choose_spec.2
+
+theorem fix_ratio (g : KGen (F := F) M ℓ) (σ τ : M ≃ₐ[F] M) :
+    σ (τ g.β / g.β) = τ g.β / g.β := by
+  rw [← algebraMap_kval hζ g τ, AlgEquiv.commutes]
+
+/-- The Kummer character `σ ↦ σβ/β`, valued in `μ_ℓ(F)`. -/
+def kch (g : KGen (F := F) M ℓ) : (M ≃ₐ[F] M) →* rootsOfUnity ℓ F where
+  toFun σ := rootsOfUnity.mkOfPowEq (kval hζ g σ) (kval_pow hζ g σ)
+  map_one' := by
+    apply Subtype.ext; apply Units.ext
+    simp only [rootsOfUnity.coe_mkOfPowEq, OneMemClass.coe_one, Units.val_one]
+    apply FaithfulSMul.algebraMap_injective F M
+    rw [algebraMap_kval hζ, map_one, AlgEquiv.one_apply, div_self g.ne_zero]
+  map_mul' σ τ := by
+    apply Subtype.ext; apply Units.ext
+    simp only [rootsOfUnity.coe_mkOfPowEq, Subgroup.coe_mul, Units.val_mul]
+    apply FaithfulSMul.algebraMap_injective F M
+    rw [map_mul, algebraMap_kval hζ, algebraMap_kval hζ, algebraMap_kval hζ, AlgEquiv.mul_apply]
+    have h1 : τ g.β = (τ g.β / g.β) * g.β := by field_simp [g.ne_zero]
+    conv_lhs => rw [h1, map_mul, fix_ratio hζ g σ τ]
+    field_simp [g.ne_zero]
+
+theorem algebraMap_kch (g : KGen (F := F) M ℓ) (σ : M ≃ₐ[F] M) :
+    algebraMap F M ((kch hζ g σ : Fˣ) : F) = σ g.β / g.β := by
+  simp only [kch, MonoidHom.coe_mk, OneHom.coe_mk, rootsOfUnity.coe_mkOfPowEq]
+  exact algebraMap_kval hζ g σ
+
+
+end Kch
+
+section KFsec
+
+
+variable (F : Type) [Field F] (ℓ : ℕ)
+
+/-- `F(a^{1/ℓ})`. -/
+def KF (a : Fˣ) : Type := (X ^ ℓ - C (a : F)).SplittingField
+
+/-- `F(a^{1/ℓ}, a'^{1/ℓ})`. -/
+def KF2 (a a' : Fˣ) : Type := ((X ^ ℓ - C (a : F)) * (X ^ ℓ - C (a' : F))).SplittingField
+
+variable (a a' : Fˣ)
+
+instance : Field (KF F ℓ a) := inferInstanceAs (Field (SplittingField _))
+instance : Algebra F (KF F ℓ a) := inferInstanceAs (Algebra F (SplittingField _))
+instance : Field (KF2 F ℓ a a') := inferInstanceAs (Field (SplittingField _))
+instance : Algebra F (KF2 F ℓ a a') := inferInstanceAs (Algebra F (SplittingField _))
+instance : IsSplittingField F (KF F ℓ a) (X ^ ℓ - C (a : F)) :=
+  inferInstanceAs (IsSplittingField F (SplittingField _) _)
+instance : IsSplittingField F (KF2 F ℓ a a') ((X ^ ℓ - C (a : F)) * (X ^ ℓ - C (a' : F))) :=
+  inferInstanceAs (IsSplittingField F (SplittingField _) _)
+instance : FiniteDimensional F (KF F ℓ a) := IsSplittingField.finiteDimensional _ (X ^ ℓ - C (a : F))
+instance : FiniteDimensional F (KF2 F ℓ a a') :=
+  IsSplittingField.finiteDimensional _ ((X ^ ℓ - C (a : F)) * (X ^ ℓ - C (a' : F)))
+instance : Normal F (KF F ℓ a) := Normal.of_isSplittingField (X ^ ℓ - C (a : F))
+instance : Normal F (KF2 F ℓ a a') :=
+  Normal.of_isSplittingField ((X ^ ℓ - C (a : F)) * (X ^ ℓ - C (a' : F)))
+
+section CharZero
+
+variable [CharZero F]
+
+instance : IsGalois F (KF F ℓ a) := { }
+instance : IsGalois F (KF2 F ℓ a a') := { }
+
+end CharZero
+
+instance [NumberField F] : NumberField (KF F ℓ a) := NumberField.of_module_finite F _
+instance [NumberField F] : NumberField (KF2 F ℓ a a') := NumberField.of_module_finite F _
+
+variable {F ℓ}
+
+theorem exists_root_of_splits {M : Type*} [Field M] [Algebra F M] (hℓ : ℓ ≠ 0)
+    (hs : Splits ((X ^ ℓ - C (a : F)).map (algebraMap F M))) : ∃ β : M, β ^ ℓ = algebraMap F M a := by
+  have hdeg : ((X ^ ℓ - C (a : F)).map (algebraMap F M)).degree ≠ 0 := by
+    rw [degree_map]
+    exact degree_ne_of_natDegree_ne (by rw [natDegree_X_pow_sub_C]; exact hℓ)
+  obtain ⟨β, hβ⟩ := hs.exists_eval_eq_zero hdeg
+  refine ⟨β, ?_⟩
+  simp only [Polynomial.map_sub, Polynomial.map_pow, map_X, map_C, eval_sub, eval_pow, eval_X,
+    eval_C] at hβ
+  exact sub_eq_zero.mp hβ
+
+/-- A Kummer generator from a root of `X^ℓ - a`. -/
+def kgenOf {M : Type*} [Field M] [Algebra F M] {β : M} (hβ : β ^ ℓ = algebraMap F M a)
+    (hℓ : ℓ ≠ 0) : KGen (F := F) M ℓ where
+  β := β
+  ne_zero := by
+    rintro rfl
+    rw [zero_pow hℓ, eq_comm, map_eq_zero] at hβ
+    exact a.ne_zero hβ
+  pow_mem := ⟨a, hβ⟩
+
+theorem splits_KF (hℓ : ℓ ≠ 0) :
+    Splits ((X ^ ℓ - C (a : F)).map (algebraMap F (KF F ℓ a))) :=
+  IsSplittingField.splits (KF F ℓ a) (X ^ ℓ - C (a : F))
+
+theorem root_pow_of_mem_rootSet {M : Type*} [Field M] [Algebra F M] {b : F} {r : M}
+    (hr : aeval r (X ^ ℓ - C b) = 0) : r ^ ℓ = algebraMap F M b := by
+  simpa [sub_eq_zero] using hr
+
+section Comm
+
+variable [NeZero ℓ] {ζ : F} (hζ : IsPrimitiveRoot ζ ℓ)
+include hζ
+
+/-- A root of `X^ℓ - a` is a multiple of a fixed generator by an element of `F`. -/
+theorem eq_smul_of_pow_eq {M : Type*} [Field M] [Algebra F M] (g : KGen (F := F) M ℓ) {r : M}
+    (hr : r ^ ℓ = g.β ^ ℓ) : ∃ c : F, r = algebraMap F M c * g.β := by
+  have h1 : (r / g.β) ^ ℓ = 1 := by rw [div_pow, hr, div_self (pow_ne_zero _ g.ne_zero)]
+  obtain ⟨c, -, hc⟩ := exists_of_pow_eq_one hζ M _ h1
+  exact ⟨c, by rw [hc]; field_simp [g.ne_zero]⟩
+
+theorem fixes_of_kch_eq_one {M : Type*} [Field M] [Algebra F M] (g : KGen (F := F) M ℓ)
+    (σ : M ≃ₐ[F] M) (h : kch hζ g σ = 1) : σ g.β = g.β := by
+  have := algebraMap_kch hζ g σ
+  rw [h, OneMemClass.coe_one, Units.val_one, map_one, eq_comm, div_eq_one_iff_eq g.ne_zero] at this
+  exact this
+
+theorem fixes_root {M : Type*} [Field M] [Algebra F M] (g : KGen (F := F) M ℓ)
+    (σ : M ≃ₐ[F] M) (h : σ g.β = g.β) {r : M} (hr : r ^ ℓ = g.β ^ ℓ) : σ r = r := by
+  obtain ⟨c, rfl⟩ := eq_smul_of_pow_eq hζ g hr
+  rw [map_mul, AlgEquiv.commutes, h]
+
+theorem eq_one_of_kch_KF (g : KGen (F := F) (KF F ℓ a) ℓ)
+    (hg : g.β ^ ℓ = algebraMap F (KF F ℓ a) a) (σ : KF F ℓ a ≃ₐ[F] KF F ℓ a)
+    (h : kch hζ g σ = 1) : σ = 1 := by
+  have f1 := fixes_of_kch_eq_one hζ g σ h
+  apply AlgEquiv.coe_toAlgHom_injective
+  refine AlgHom.ext_of_adjoin_eq_top
+    (IsSplittingField.adjoin_rootSet (KF F ℓ a) (X ^ ℓ - C (a : F))) fun r hr => ?_
+  rw [mem_rootSet] at hr
+  show σ r = r
+  exact fixes_root hζ g σ f1 (by rw [root_pow_of_mem_rootSet hr.2]; exact hg.symm)
+
+theorem kch_KF_injective (g : KGen (F := F) (KF F ℓ a) ℓ)
+    (hg : g.β ^ ℓ = algebraMap F (KF F ℓ a) a) : Function.Injective (kch hζ g) :=
+  (injective_iff_map_eq_one _).mpr fun σ h => eq_one_of_kch_KF a hζ g hg σ h
+
+end Comm
+
+
+end KFsec
+
+section RootKF
+variable (F : Type) [Field F] [NumberField F] {ℓ : ℕ} [NeZero ℓ]
+
+/-- The chosen root of `X^ℓ - a` in `F(a^{1/ℓ})`. -/
+def rootKF (a : Fˣ) : KGen (F := F) (KF F ℓ a) ℓ :=
+  kgenOf a (exists_root_of_splits a (NeZero.ne ℓ) (splits_KF a (NeZero.ne ℓ))).choose_spec
+    (NeZero.ne ℓ)
+
+theorem rootKF_pow (a : Fˣ) : (rootKF F a).β ^ ℓ = algebraMap F (KF F ℓ a) a :=
+  (exists_root_of_splits a (NeZero.ne ℓ) (splits_KF a (NeZero.ne ℓ))).choose_spec
+end RootKF
+
+section UV
+/-- `n`-th roots of unity congruent modulo `Q` with `n ∉ Q` are equal. -/
+theorem eq_of_pow_eq_one_of_sub_mem {R : Type*} [CommRing R] [IsDomain R] (Q : Ideal R) {n : ℕ}
+    (hn : (n : R) ∉ Q) {a b : R} (ha : a ^ n = 1) (hb : b ^ n = 1) (hab : a - b ∈ Q) : a = b := by
+  have hn0 : n ≠ 0 := by rintro rfl; exact hn (by simp)
+  set η := b * a ^ (n - 1) with hη
+  have han : a ^ (n - 1) * a = 1 := by rw [← pow_succ, Nat.sub_add_cancel (Nat.pos_of_ne_zero hn0), ha]
+  have h1 : 1 - η ∈ Q := by
+    have : 1 - η = a ^ (n - 1) * (a - b) := by
+      rw [hη, mul_sub, han]; ring
+    rw [this]; exact Q.mul_mem_left _ hab
+  by_cases hη1 : η = 1
+  · calc a = a * 1 := (mul_one a).symm
+      _ = a * η := by rw [hη1]
+      _ = b * (a ^ (n - 1) * a) := by rw [hη]; ring
+      _ = b := by rw [han, mul_one]
+  · exfalso
+    have hηn : η ^ n = 1 := by
+      rw [hη, mul_pow, ← pow_mul, hb, one_mul, mul_comm, pow_mul, ha, one_pow]
+    have hsum : ∑ i ∈ Finset.range n, η ^ i = 0 := by
+      have h := geom_sum_mul η n
+      rw [hηn, sub_self] at h
+      exact (mul_eq_zero.mp h).resolve_right (sub_ne_zero.mpr hη1)
+    apply hn
+    have : (n : R) = ∑ i ∈ Finset.range n, (1 - η ^ i) := by
+      rw [Finset.sum_sub_distrib, hsum, sub_zero, Finset.sum_const, Finset.card_range, nsmul_one]
+    rw [this]
+    refine Q.sum_mem fun i _ => ?_
+    rw [← geom_sum_mul_neg]
+    exact Q.mul_mem_left _ h1
+
+variable (F : Type) [Field F] [NumberField F] {ℓ : ℕ} [NeZero ℓ] {ζ : F}
+  (hζ : IsPrimitiveRoot ζ ℓ)
+
+/-- An integral Kummer generator `β = d α` at a place where `a` is a unit. -/
+theorem exists_intGen (v : HeightOneSpectrum (𝓞 F)) (a : Fˣ) (ha : v.valuation F (a : F) = 1) :
+    ∃ (d n : 𝓞 F) (β : 𝓞 (KF F ℓ a)), d ∉ v.asIdeal ∧ n ∉ v.asIdeal ∧
+      (a : F) * algebraMap (𝓞 F) F d = algebraMap (𝓞 F) F n ∧
+      (β : KF F ℓ a) = algebraMap F (KF F ℓ a) (algebraMap (𝓞 F) F d) * (rootKF F a).β ∧
+      β ^ ℓ = algebraMap (𝓞 F) (𝓞 (KF F ℓ a)) (d ^ (ℓ - 1) * n) := by
+  obtain ⟨n, d, hnd⟩ := HeightOneSpectrum.exists_primeCompl_mul_eq_of_integer v (a : F) ha.le
+  have hd : (d : 𝓞 F) ∉ v.asIdeal := d.2
+  have hn : n ∉ v.asIdeal := by
+    rw [← v.valuation_eq_one_iff_notMem (K := F), ← hnd, map_mul, ha,
+      (v.valuation_eq_one_iff_notMem (K := F)).mpr hd, one_mul]
+  set K := KF F ℓ a
+  set β : K := algebraMap F K (algebraMap (𝓞 F) F d) * (rootKF F a).β
+  have hβpow : β ^ ℓ = algebraMap F K (algebraMap (𝓞 F) F ((d : 𝓞 F) ^ (ℓ - 1) * n)) := by
+    have hℓ1 : ℓ = (ℓ - 1) + 1 := (Nat.sub_add_cancel (Nat.pos_of_ne_zero (NeZero.ne ℓ))).symm
+    rw [mul_pow, rootKF_pow, ← map_pow, ← map_mul]
+    congr 1
+    rw [map_mul, map_pow, ← hnd]
+    conv_lhs => rw [hℓ1, pow_succ]
+    ring
+  have hint : IsIntegral ℤ β := by
+    apply IsIntegral.of_pow (Nat.pos_of_ne_zero (NeZero.ne ℓ))
+    rw [hβpow, ← IsScalarTower.algebraMap_apply]
+    exact ((((d : 𝓞 F) ^ (ℓ - 1) * n).isIntegral_coe).map (IsScalarTower.toAlgHom ℤ F K))
+  refine ⟨d, n, ⟨β, hint⟩, hd, hn, hnd, rfl, ?_⟩
+  apply RingOfIntegers.ext
+  simp only [map_pow]
+  show β ^ ℓ = _
+  rw [hβpow, ← IsScalarTower.algebraMap_apply]
+  rfl
+
+/-- A root of unity of `F` as an algebraic integer. -/
+def rootO (μ : rootsOfUnity ℓ F) : 𝓞 F :=
+  ⟨((μ : Fˣ) : F), IsIntegral.of_pow (Nat.pos_of_ne_zero (NeZero.ne ℓ)) (by
+    have := μ.2; rw [mem_rootsOfUnity] at this
+    rw [← Units.val_pow_eq_pow_val, this, Units.val_one]; exact isIntegral_one)⟩
+
+omit [NumberField F] in
+theorem rootO_pow (μ : rootsOfUnity ℓ F) : rootO F μ ^ ℓ = 1 := by
+  apply RingOfIntegers.ext
+  show ((μ : Fˣ) : F) ^ ℓ = 1
+  have := μ.2; rw [mem_rootsOfUnity] at this
+  rw [← Units.val_pow_eq_pow_val, this, Units.val_one]
+
+include hζ in
+/-- `σ β = μ_σ β` in `𝓞 K`. -/
+theorem smul_intGen (a : Fˣ) (d : 𝓞 F) (β : 𝓞 (KF F ℓ a))
+    (hβ : (β : KF F ℓ a) = algebraMap F (KF F ℓ a) (algebraMap (𝓞 F) F d) * (rootKF F a).β)
+    (σ : KF F ℓ a ≃ₐ[F] KF F ℓ a) :
+    σ • β = algebraMap (𝓞 F) (𝓞 (KF F ℓ a)) (rootO F (kch hζ (rootKF F a) σ)) * β := by
+  apply RingOfIntegers.ext
+  have e : ∀ x : 𝓞 F, ((algebraMap (𝓞 F) (𝓞 (KF F ℓ a)) x : 𝓞 (KF F ℓ a)) : KF F ℓ a) =
+      algebraMap F (KF F ℓ a) (x : F) := fun x => rfl
+  show σ (β : KF F ℓ a) = ((algebraMap (𝓞 F) (𝓞 (KF F ℓ a)) _ : 𝓞 (KF F ℓ a)) : KF F ℓ a) *
+    (β : KF F ℓ a)
+  rw [e, hβ]
+  show σ _ = algebraMap F (KF F ℓ a) ((kch hζ (rootKF F a) σ : Fˣ) : F) * _
+  rw [algebraMap_kch, map_mul, AlgEquiv.commutes]
+  field_simp [(rootKF (ℓ := ℓ) F a).ne_zero]
+
+include hζ in
+/-- **Kummer extensions are unramified** at `v ∤ ℓ` where `a` is a unit. -/
+theorem inertia_eq_bot (v : HeightOneSpectrum (𝓞 F)) (hv : (ℓ : 𝓞 F) ∉ v.asIdeal) (a : Fˣ)
+    (ha : v.valuation F (a : F) = 1) (w : HeightOneSpectrum (𝓞 (KF F ℓ a)))
+    (hw : w.under (𝓞 F) = v) :
+    w.asIdeal.inertia (KF F ℓ a ≃ₐ[F] KF F ℓ a) = ⊥ := by
+  obtain ⟨d, n, β, hd, hn, -, hβ, hβpow⟩ := exists_intGen (ℓ := ℓ) F v a ha
+  have hmem : ∀ x : 𝓞 F, algebraMap (𝓞 F) (𝓞 (KF F ℓ a)) x ∈ w.asIdeal → x ∈ v.asIdeal := by
+    intro x hx; rw [← hw]; exact hx
+  have hβw : β ∉ w.asIdeal := by
+    intro h
+    have : β ^ ℓ ∈ w.asIdeal := w.asIdeal.pow_mem_of_mem h ℓ (Nat.pos_of_ne_zero (NeZero.ne ℓ))
+    rw [hβpow] at this
+    have h2 := hmem _ this
+    rcases v.isPrime.mem_or_mem h2 with h3 | h3
+    · exact hd (v.isPrime.mem_of_pow_mem _ h3)
+    · exact hn h3
+  rw [eq_bot_iff]
+  intro σ hσ
+  rw [Subgroup.mem_bot]
+  have h1 := hσ β
+  rw [smul_intGen F hζ a d β hβ σ] at h1
+  have h2 : (algebraMap (𝓞 F) (𝓞 (KF F ℓ a)) (rootO F (kch hζ (rootKF F a) σ) - 1)) * β ∈
+      w.asIdeal := by rw [map_sub, map_one, sub_mul, one_mul]; exact h1
+  rcases w.isPrime.mem_or_mem h2 with h3 | h3
+  · have h4 := hmem _ h3
+    have h5 := eq_of_pow_eq_one_of_sub_mem v.asIdeal hv (rootO_pow F _) (one_pow ℓ) h4
+    apply kch_KF_injective a hζ (rootKF F a) (rootKF_pow F a)
+    rw [map_one]
+    apply Subtype.ext; apply Units.ext
+    have := congrArg (fun z : 𝓞 F => (z : F)) h5
+    exact this
+  · exact absurd h3 hβw
+
+include hζ in
+
+/-- An algebraic integer from an element of `F` that is a root of unity. -/
+def toO (x : F) (hx : x ^ ℓ = 1) : 𝓞 F :=
+  ⟨x, IsIntegral.of_pow (Nat.pos_of_ne_zero (NeZero.ne ℓ)) (by rw [hx]; exact isIntegral_one)⟩
+
+omit [NumberField F] in
+theorem toO_pow (x : F) (hx : x ^ ℓ = 1) : toO F x hx ^ ℓ = 1 := by
+  apply RingOfIntegers.ext; show x ^ ℓ = 1; exact hx
+
+include hζ in
+/-- `ℓ ∣ N v - 1` when `v ∤ ℓ`. -/
+theorem dvd_card_sub_one (v : HeightOneSpectrum (𝓞 F)) (hv : (ℓ : 𝓞 F) ∉ v.asIdeal) :
+    ℓ ∣ Nat.card (𝓞 F ⧸ v.asIdeal) - 1 := by
+  classical
+  letI : Field (𝓞 F ⧸ v.asIdeal) := Ideal.Quotient.field v.asIdeal
+  haveI : Finite (𝓞 F ⧸ v.asIdeal) := Ideal.finiteQuotientOfFreeOfNeBot v.asIdeal v.ne_bot
+  letI : Fintype (𝓞 F ⧸ v.asIdeal) := Fintype.ofFinite _
+  set z := toO F ζ hζ.pow_eq_one
+  have hz : z ^ ℓ = 1 := toO_pow F ζ _
+  have hη : IsPrimitiveRoot (Ideal.Quotient.mk v.asIdeal z) ℓ := by
+    refine ⟨by rw [← map_pow, hz, map_one], fun l hl => ?_⟩
+    have h1 : z ^ l - 1 ∈ v.asIdeal := by
+      rw [← Ideal.Quotient.eq_zero_iff_mem, map_sub, map_pow, hl, map_one, sub_self]
+    have h2 := eq_of_pow_eq_one_of_sub_mem v.asIdeal hv
+      (by rw [← pow_mul, mul_comm, pow_mul, hz, one_pow]) (one_pow ℓ) h1
+    apply hζ.dvd_of_pow_eq_one
+    have := congrArg (fun x : 𝓞 F => (x : F)) h2
+    simpa [z, toO] using this
+  have := FiniteField.pow_card_sub_one_eq_one (Ideal.Quotient.mk v.asIdeal z)
+    (hη.ne_zero (NeZero.ne ℓ))
+  rw [Fintype.card_eq_nat_card] at this
+  exact hη.dvd_of_pow_eq_one _ this
+
+
+end UV
+
+end ArtinPrimitiveRoots.L3K.KB
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Kum: the sextic Kummer character `ψ_a` of `F(a^{1/6})/F`
+
+For `a ∈ Fˣ`, `M = KF F 6 a` and `ψ_a = ι ∘ kch : Gal(M/F) →* ℂˣ` (C0Z):
+* `psi_injective`; `psi_ne_one` when `a` is not a sixth power in `F`;
+* `isUnramifiedAt_psi`: unramified at `v ∤ 6` with `v(a) = 0` (C0ZU);
+* `psi_artinFrob`: there `ψ_a(Frob_v) = ι ω` for the sixth root of unity `ω ≡ a^{(Nv−1)/6}`;
+* `not_isUnramifiedAt_psi`: ramified at `v` with `6 ∤ v(a)`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField IsDedekindDomain LanglandsTunnell.P2.Artin Polynomial ArtinPrimitiveRoots.L3K.KB
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+variable (F : Type) [Field F] [NumberField F] {ζ : F} (hζ : IsPrimitiveRoot ζ 6) (ι : F →+* ℂ)
+  (a : Fˣ)
+
+/-- The Kummer field `F(a^{1/6})`. -/
+abbrev KM := KF F 6 a
+
+/-- `ψ_a(σ) = ι(σβ/β)`. -/
+def psi : (KM F a ≃ₐ[F] KM F a) →* ℂˣ :=
+  (Units.map ι.toMonoidHom).comp ((rootsOfUnity 6 F).subtype.comp (kch hζ (rootKF (ℓ := 6) F a)))
+
+variable {F}
+
+theorem psi_apply (σ : KM F a ≃ₐ[F] KM F a) :
+    ((psi F hζ ι a σ : ℂˣ) : ℂ) = ι ((kch hζ (rootKF (ℓ := 6) F a) σ : Fˣ) : F) := rfl
+
+theorem psi_injective : Function.Injective (psi F hζ ι a) := by
+  intro σ τ h
+  apply kch_KF_injective a hζ (rootKF F a) (rootKF_pow F a)
+  apply Subtype.ext; apply Units.ext
+  apply ι.injective
+  have := congrArg (fun x : ℂˣ => (x : ℂ)) h
+  simpa [psi_apply] using this
+
+theorem psi_eq_one_iff_forall (σ : KM F a ≃ₐ[F] KM F a) : psi F hζ ι a σ = 1 ↔ σ = 1 :=
+  ⟨fun h => psi_injective hζ ι a (h.trans (map_one _).symm), fun h => by rw [h, map_one]⟩
+
+/-- If `a` is not a sixth power in `F` then `ψ_a ≠ 1`. -/
+theorem psi_ne_one (ha : ∀ b : F, b ^ 6 ≠ (a : F)) : psi F hζ ι a ≠ 1 := by
+  intro h
+  have hall : ∀ σ : KM F a ≃ₐ[F] KM F a, σ = 1 := fun σ =>
+    (psi_eq_one_iff_forall hζ ι a σ).1 (by rw [h, MonoidHom.one_apply])
+  have hmem : (rootKF (ℓ := 6) F a).β ∈ (⊥ : IntermediateField F (KM F a)) := by
+    rw [IsGalois.mem_bot_iff_fixed]
+    intro σ; rw [hall σ]; rfl
+  obtain ⟨b, hb⟩ := IntermediateField.mem_bot.1 hmem
+  apply ha b
+  apply (algebraMap F (KM F a)).injective
+  rw [map_pow, hb, rootKF_pow]
+
+/-- The prime of `𝓞 M` over `v`, as a height-one prime. -/
+def wAbove (v : HeightOneSpectrum (𝓞 F)) : HeightOneSpectrum (𝓞 (KM F a)) :=
+  ⟨primeAbove F (KM F a) v, (primeAbove_isMaximal F (KM F a) v).isPrime,
+    primeAbove_ne_bot F (KM F a) v⟩
+
+theorem wAbove_under (v : HeightOneSpectrum (𝓞 F)) : (wAbove a v).under (𝓞 F) = v := by
+  ext1; exact under_primeAbove F (KM F a) v
+
+include hζ in
+theorem inertiaGroup_eq_bot (v : HeightOneSpectrum (𝓞 F)) (hv : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal)
+    (ha : v.valuation F (a : F) = 1) : ArtinL.Abelian.inertiaGroup F (KM F a) v = ⊥ :=
+  inertia_eq_bot F hζ v hv a ha (wAbove a v) (wAbove_under a v)
+
+theorem isUnramifiedAt_psi (v : HeightOneSpectrum (𝓞 F)) (hv : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal)
+    (ha : v.valuation F (a : F) = 1) : ArtinL.Abelian.IsUnramifiedAt (psi F hζ ι a) v := by
+  intro σ hσ
+  rw [inertiaGroup_eq_bot hζ a v hv ha, Subgroup.mem_bot] at hσ
+  rw [hσ, map_one]
+
+include hζ in
+/-- **Frobenius.** `kch(Frob_v) = ω` with `ω ≡ a^{(Nv−1)/6} (mod v)` (the argument of C0ZV). -/
+theorem kch_artinFrob (v : HeightOneSpectrum (𝓞 F)) (hv : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal)
+    (ha : v.valuation F (a : F) = 1) (ω : F) (hω : ω ^ 6 = 1)
+    (hcong : v.valuation F ((a : F) ^ ((Ideal.absNorm v.asIdeal - 1) / 6) - ω) < 1) :
+    ((kch hζ (rootKF (ℓ := 6) F a) (artinFrob F (KM F a) v) : Fˣ) : F) = ω := by
+  classical
+  set K := KM F a
+  set Q := primeAbove F K v
+  let w : HeightOneSpectrum (𝓞 K) := wAbove a v
+  have hw : w.under (𝓞 F) = v := wAbove_under a v
+  have hQv : Q.under (𝓞 F) = v.asIdeal := under_primeAbove F K v
+  set φ := artinFrob F K v
+  have hφ : IsArithFrobAt (𝓞 F) φ w.asIdeal := isArithFrobAt_artinFrob F K v
+  have hv' : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal := hv
+  -- the Kummer value of the Frobenius
+  set μ := kch hζ (rootKF F a) φ
+  obtain ⟨d, n, β, hd, hn, hnd, hβ, hβpow⟩ := exists_intGen (ℓ := 6) F v a ha
+  have hmem : ∀ x : 𝓞 F, algebraMap (𝓞 F) (𝓞 K) x ∈ w.asIdeal → x ∈ v.asIdeal := by
+    intro x hx; rw [← hw]; exact hx
+  have hβw : β ∉ w.asIdeal := by
+    intro h
+    have : β ^ 6 ∈ w.asIdeal := w.asIdeal.pow_mem_of_mem h 6 (Nat.pos_of_ne_zero (NeZero.ne 6))
+    rw [hβpow] at this
+    rcases v.isPrime.mem_or_mem (hmem _ this) with h3 | h3
+    · exact hd (v.isPrime.mem_of_pow_mem _ h3)
+    · exact hn h3
+  set q := Nat.card (𝓞 F ⧸ v.asIdeal)
+  have hq : q = Ideal.absNorm v.asIdeal := by
+    rw [Ideal.absNorm_apply, Submodule.cardQuot_apply]
+  have hFrob : ∀ x : 𝓞 K, φ • x - x ^ q ∈ w.asIdeal := by
+    intro x
+    have := hφ x
+    rw [show w.asIdeal.under (𝓞 F) = v.asIdeal from hQv] at this
+    exact this
+  -- `6 ∣ q - 1`
+  have h6q : 6 ∣ q - 1 := dvd_card_sub_one F hζ v hv
+  obtain ⟨K', hK'⟩ := h6q
+  have hq1 : q = 6 * K' + 1 := by
+    have : 0 < q := by
+      rw [hq]; exact Nat.pos_of_ne_zero (by rw [Ne, Ideal.absNorm_eq_zero_iff]; exact v.ne_bot)
+    omega
+  have hK'eq : (Ideal.absNorm v.asIdeal - 1) / 6 = K' := by
+    rw [← hq, hK', Nat.mul_div_cancel_left _ (Nat.pos_of_ne_zero (NeZero.ne 6))]
+  rw [hK'eq] at hcong
+  set μO := rootO F μ
+  have hsm := smul_intGen F hζ a d β hβ φ
+  have hfb := hFrob β
+  rw [hsm, hq1, pow_succ, pow_mul, hβpow] at hfb
+  have hfb' : algebraMap (𝓞 F) (𝓞 K) (μO - ((d ^ (6 - 1) * n) ^ K')) * β ∈ w.asIdeal := by
+    rw [map_sub, map_pow, sub_mul]; convert hfb using 1
+  have hμA : μO - (d ^ (6 - 1) * n) ^ K' ∈ v.asIdeal := by
+    rcases w.isPrime.mem_or_mem hfb' with h | h
+    · exact hmem _ h
+    · exact absurd h hβw
+  -- valuations in `F`
+  set D : F := algebraMap (𝓞 F) F d
+  set A : F := algebraMap (𝓞 F) F ((d ^ (6 - 1) * n) ^ K')
+  have hDv : v.valuation F D = 1 := (v.valuation_eq_one_iff_notMem (K := F)).mpr hd
+  have hA : A = D ^ (q - 1) * (a : F) ^ K' := by
+    have h61 : 6 = (6 - 1) + 1 := (Nat.sub_add_cancel (Nat.pos_of_ne_zero (NeZero.ne 6))).symm
+    simp only [A, map_pow, map_mul]
+    rw [← hnd, hK']
+    have e : D ^ (6 - 1) * ((a : F) * D) = (a : F) * D ^ 6 := by
+      conv_rhs => rw [h61, pow_succ]
+      ring
+    rw [e, mul_pow, ← pow_mul, mul_comm]
+  -- Fermat: `D^{q-1} ≡ 1`
+  have hferm : v.valuation F (D ^ (q - 1) - 1) < 1 := by
+    letI : Field (𝓞 F ⧸ v.asIdeal) := Ideal.Quotient.field v.asIdeal
+    haveI : Finite (𝓞 F ⧸ v.asIdeal) := Ideal.finiteQuotientOfFreeOfNeBot v.asIdeal v.ne_bot
+    letI : Fintype (𝓞 F ⧸ v.asIdeal) := Fintype.ofFinite _
+    have hmd : Ideal.Quotient.mk v.asIdeal d ≠ 0 := by rwa [Ne, Ideal.Quotient.eq_zero_iff_mem]
+    have := FiniteField.pow_card_sub_one_eq_one _ hmd
+    rw [Fintype.card_eq_nat_card, ← map_pow, ← map_one (Ideal.Quotient.mk v.asIdeal),
+      Ideal.Quotient.eq] at this
+    have e : D ^ (q - 1) - 1 = algebraMap (𝓞 F) F (d ^ (q - 1) - 1) := by
+      simp [D]
+    rw [e]
+    exact (v.valuation_lt_one_iff_mem (K := F) _).mpr this
+  set ωO := toO F ω hω
+  have hωF : algebraMap (𝓞 F) F ωO = ω := rfl
+  have hωv : v.valuation F ω ≤ 1 := by rw [← hωF]; exact v.valuation_le_one (K := F) ωO
+  have hAω : v.valuation F (A - ω) < 1 := by
+    rw [hA]
+    have e : D ^ (q - 1) * (a : F) ^ K' - ω =
+        D ^ (q - 1) * ((a : F) ^ K' - ω) + (D ^ (q - 1) - 1) * ω := by ring
+    rw [e]
+    refine lt_of_le_of_lt (Valuation.map_add _ _ _) (max_lt ?_ ?_)
+    · rw [map_mul, map_pow, hDv, one_pow, one_mul]; exact hcong
+    · rw [map_mul]
+      calc _ ≤ v.valuation F (D ^ (q - 1) - 1) * 1 := mul_le_mul_right hωv _
+        _ < 1 := by rw [mul_one]; exact hferm
+  have hμv : v.valuation F (algebraMap (𝓞 F) F μO - A) < 1 := by
+    have := (v.valuation_lt_one_iff_mem (K := F) _).mpr hμA
+    change v.valuation F (algebraMap (𝓞 F) F (μO - _)) < 1 at this
+    rwa [map_sub] at this
+  have hμω : μO - ωO ∈ v.asIdeal := by
+    rw [← v.valuation_lt_one_iff_mem (K := F)]
+    change v.valuation F (algebraMap (𝓞 F) F (μO - ωO)) < 1
+    rw [map_sub, hωF]
+    have e : algebraMap (𝓞 F) F μO - ω = (algebraMap (𝓞 F) F μO - A) + (A - ω) := by ring
+    rw [e]
+    exact lt_of_le_of_lt (Valuation.map_add _ _ _) (max_lt hμv hAω)
+  have heq := eq_of_pow_eq_one_of_sub_mem v.asIdeal hv (rootO_pow F μ) (toO_pow F ω hω) hμω
+  have := congrArg (fun x : 𝓞 F => (x : F)) heq
+  simpa [μO, rootO, ωO, toO] using this
+
+theorem psi_artinFrob (v : HeightOneSpectrum (𝓞 F)) (hv : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal)
+    (ha : v.valuation F (a : F) = 1) (ω : F) (hω : ω ^ 6 = 1)
+    (hcong : v.valuation F ((a : F) ^ ((Ideal.absNorm v.asIdeal - 1) / 6) - ω) < 1) :
+    ((psi F hζ ι a (artinFrob F (KM F a) v) : ℂˣ) : ℂ) = ι ω := by
+  rw [psi_apply, kch_artinFrob hζ a v hv ha ω hω hcong]
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Wild: the conductor exponents of `ψ_a`
+
+* `intValuation_smul_sub_le`: for `σ` in the `i`-th ramification group (`i ≥ 1`), i.e.
+  `σ x ≡ x (mod 𝔓^{i+1})` for all `x`, one has `w(σx − x) ≤ w(x) e^{−i}` (uniformizer induction).
+* `le_of_mem_ramificationGroup`: if moreover `ψ_a σ ≠ 1` then `i ≤ 6 n_v`, where `v(6) = e^{−n_v}`.
+* `conductorExponent_psi_le`: `e_v(ψ_a) ≤ 1 + 6 n_v`; it is `0` where `ψ_a` is unramified and `≤ 1`
+  at `v ∤ 6`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField IsDedekindDomain LanglandsTunnell.P2.Artin ArtinPrimitiveRoots.L3K.KB WithZero
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+section Generic
+
+variable {R : Type*} [CommRing R] [IsDedekindDomain R] {G : Type*} [Group G]
+  [MulSemiringAction G R] (w : HeightOneSpectrum R)
+
+/-- A factorization `t x = ϖ x'` with `t ∉ 𝔓`, for `x ∈ 𝔓` and `w(ϖ) = e^{−1}`. -/
+lemma exists_mul_eq_mul (ϖ x : R) (hϖ : w.intValuation ϖ = exp (-1 : ℤ)) (hx : x ∈ w.asIdeal) :
+    ∃ t x' : R, t ∉ w.asIdeal ∧ t * x = ϖ * x' := by
+  have hϖmem : ϖ ∈ w.asIdeal := by
+    rw [← w.intValuation_lt_one_iff_mem, hϖ]; rw [← exp_zero]; exact exp_lt_exp.2 (by norm_num)
+  obtain ⟨B, hB⟩ : w.asIdeal ∣ Ideal.span {ϖ} := by
+    rw [Ideal.dvd_iff_le, Ideal.span_singleton_le_iff_mem]; exact hϖmem
+  have hBnot : ¬ B ≤ w.asIdeal := by
+    intro hle
+    have : Ideal.span {ϖ} ≤ w.asIdeal ^ 2 := by
+      rw [hB, sq]; exact Ideal.mul_mono_right hle
+    rw [Ideal.span_singleton_le_iff_mem, ← w.intValuation_le_pow_iff_mem, hϖ] at this
+    have := exp_le_exp.1 this
+    norm_num at this
+  obtain ⟨t, htB, htw⟩ := SetLike.not_le_iff_exists.1 hBnot
+  have hmem : t * x ∈ Ideal.span {ϖ} := by
+    rw [hB, mul_comm w.asIdeal B]; exact Ideal.mul_mem_mul htB hx
+  obtain ⟨x', hx'⟩ := Ideal.mem_span_singleton'.1 hmem
+  exact ⟨t, x', htw, by rw [← hx', mul_comm]⟩
+
+/-- **Relative congruence.** -/
+theorem intValuation_smul_sub_le (σ : G) (i : ℕ) (hi : 1 ≤ i)
+    (hσ : ∀ x : R, σ • x - x ∈ w.asIdeal ^ (i + 1)) :
+    ∀ m : ℕ, ∀ x : R, w.intValuation x = exp (-(m : ℤ)) →
+      w.intValuation (σ • x - x) ≤ exp (-((m + i : ℕ) : ℤ)) := by
+  have hbase : ∀ x : R, w.intValuation (σ • x - x) ≤ exp (-((i + 1 : ℕ) : ℤ)) := fun x =>
+    (w.intValuation_le_pow_iff_mem _ _).2 (hσ x)
+  obtain ⟨ϖ, hϖ⟩ := w.intValuation_exists_uniformizer
+  intro m
+  induction m with
+  | zero =>
+    intro x _
+    refine (hbase x).trans (exp_le_exp.2 ?_)
+    push_cast; linarith
+  | succ m ih =>
+    intro x hx
+    have hxmem : x ∈ w.asIdeal := by
+      rw [← w.intValuation_lt_one_iff_mem, hx]; rw [← exp_zero]; exact exp_lt_exp.2 (by push_cast; linarith)
+    obtain ⟨t, x', ht, htx⟩ := exists_mul_eq_mul w ϖ x hϖ hxmem
+    have hvt : w.intValuation t = 1 := HeightOneSpectrum.intValuation_eq_one_iff.2 ht
+    have hvx' : w.intValuation x' = exp (-(m : ℤ)) := by
+      have h1 := congrArg w.intValuation htx
+      rw [map_mul, map_mul, hvt, one_mul, hx, hϖ] at h1
+      have h2 : exp (-((m + 1 : ℕ) : ℤ)) = exp (-1 : ℤ) * exp (-(m : ℤ)) := by
+        rw [← exp_add]; congr 1; push_cast; ring
+      rw [h2] at h1
+      exact (mul_left_cancel₀ (by simp) h1).symm
+    have ih' := ih x' hvx'
+    -- `w(σ x') ≤ e^{−m}`
+    have hσx' : w.intValuation (σ • x') ≤ exp (-(m : ℤ)) := by
+      have : σ • x' = x' + (σ • x' - x') := by ring
+      rw [this]
+      refine (Valuation.map_add _ _ _).trans (max_le hvx'.le (ih'.trans (exp_le_exp.2 ?_)))
+      push_cast; linarith
+    -- `w(σ(t x) − t x) ≤ e^{−(m+1+i)}`
+    have hϖσ := hbase ϖ
+    have h1 : σ • (t * x) - t * x = (σ • ϖ - ϖ) * σ • x' + ϖ * (σ • x' - x') := by
+      rw [htx, smul_mul']; ring
+    have hA : w.intValuation (σ • (t * x) - t * x) ≤ exp (-((m + 1 + i : ℕ) : ℤ)) := by
+      rw [h1]
+      refine (Valuation.map_add _ _ _).trans (max_le ?_ ?_)
+      · rw [map_mul]
+        calc w.intValuation (σ • ϖ - ϖ) * w.intValuation (σ • x')
+            ≤ exp (-((i + 1 : ℕ) : ℤ)) * exp (-(m : ℤ)) := mul_le_mul' hϖσ hσx'
+          _ = exp (-((m + 1 + i : ℕ) : ℤ)) := by rw [← exp_add]; congr 1; push_cast; ring
+      · rw [map_mul, hϖ]
+        calc exp (-1 : ℤ) * w.intValuation (σ • x' - x')
+            ≤ exp (-1 : ℤ) * exp (-((m + i : ℕ) : ℤ)) := mul_le_mul_right ih' _
+          _ = exp (-((m + 1 + i : ℕ) : ℤ)) := by rw [← exp_add]; congr 1; push_cast; ring
+    -- `w(σ t) = 1`
+    have hσt : w.intValuation (σ • t) = 1 := by
+      have hlt : w.intValuation (σ • t - t) < 1 :=
+        (hbase t).trans_lt (by rw [← exp_zero]; exact exp_lt_exp.2 (by push_cast; linarith))
+      have : σ • t = t + (σ • t - t) := by ring
+      rw [this, Valuation.map_add_eq_of_lt_left _ (by rw [hvt]; exact hlt), hvt]
+    have h2 : σ • (t * x) - t * x = σ • t * (σ • x - x) + x * (σ • t - t) := by
+      rw [smul_mul']; ring
+    have hB : w.intValuation (x * (σ • t - t)) ≤ exp (-((m + 1 + i : ℕ) : ℤ)) := by
+      rw [map_mul, hx]
+      calc exp (-((m + 1 : ℕ) : ℤ)) * w.intValuation (σ • t - t)
+          ≤ exp (-((m + 1 : ℕ) : ℤ)) * exp (-((i + 1 : ℕ) : ℤ)) := mul_le_mul_right (hbase t) _
+        _ ≤ exp (-((m + 1 + i : ℕ) : ℤ)) := by
+          rw [← exp_add]; exact exp_le_exp.2 (by push_cast; linarith)
+    have hC : w.intValuation (σ • t * (σ • x - x)) ≤ exp (-((m + 1 + i : ℕ) : ℤ)) := by
+      have : σ • t * (σ • x - x) = (σ • (t * x) - t * x) - x * (σ • t - t) := by rw [h2]; ring
+      rw [this]
+      refine (Valuation.map_sub _ _ _).trans (max_le hA hB)
+    rw [map_mul, hσt, one_mul] at hC
+    convert hC using 3
+
+end Generic
+
+section Kummer
+
+variable {F : Type} [Field F] [NumberField F] {ζ : F} (hζ : IsPrimitiveRoot ζ 6) (ι : F →+* ℂ)
+  (a : Fˣ)
+
+/-- `6 = (1 − μ) c` in `𝓞 F` for a sixth root of unity `μ ≠ 1`. -/
+lemma six_eq_mul {R : Type*} [CommRing R] [IsDomain R] {μ : R} (h6 : μ ^ 6 = 1) (h1 : μ ≠ 1) :
+    ∃ c : R, (6 : R) = (1 - μ) * c := by
+  have hsum : ∑ k ∈ Finset.range 6, μ ^ k = 0 := by
+    have h := geom_sum_mul μ 6
+    rw [h6, sub_self] at h
+    exact (mul_eq_zero.1 h).resolve_right (sub_ne_zero.2 h1)
+  refine ⟨∑ k ∈ Finset.range 6, ∑ j ∈ Finset.range k, μ ^ j, ?_⟩
+  have : ∑ k ∈ Finset.range 6, (∑ j ∈ Finset.range k, μ ^ j) * (μ - 1) =
+      ∑ k ∈ Finset.range 6, (μ ^ k - 1) := Finset.sum_congr rfl fun k _ => geom_sum_mul μ k
+  rw [← Finset.sum_mul, Finset.sum_sub_distrib, hsum] at this
+  simp at this
+  linear_combination this
+
+/-- An integral Kummer generator `y = d β`. -/
+lemma exists_intGen' : ∃ (d : 𝓞 F) (y : 𝓞 (KM F a)), d ≠ 0 ∧
+    (y : KM F a) = algebraMap F (KM F a) (algebraMap (𝓞 F) F d) * (rootKF (ℓ := 6) F a).β := by
+  obtain ⟨n, d, hd, hnd⟩ := IsFractionRing.div_surjective (A := 𝓞 F) (a : F)
+  have hd0 : (d : 𝓞 F) ≠ 0 := nonZeroDivisors.ne_zero hd
+  set K := KM F a
+  set β : K := algebraMap F K (algebraMap (𝓞 F) F d) * (rootKF (ℓ := 6) F a).β
+  have hdF : algebraMap (𝓞 F) F d ≠ 0 := by simpa using hd0
+  have hβpow : β ^ 6 = algebraMap F K (algebraMap (𝓞 F) F (d ^ 5 * n)) := by
+    rw [mul_pow, rootKF_pow, ← map_pow, ← map_mul]
+    congr 1
+    rw [← hnd, map_mul, map_pow]
+    field_simp
+  have hint : IsIntegral ℤ β := by
+    apply IsIntegral.of_pow (by norm_num : 0 < 6)
+    rw [hβpow, ← IsScalarTower.algebraMap_apply]
+    exact (((d : 𝓞 F) ^ 5 * n).isIntegral_coe).map (IsScalarTower.toAlgHom ℤ F K)
+  exact ⟨d, ⟨β, hint⟩, hd0, rfl⟩
+
+/-- `v(6) = e^{−n_v}`. -/
+def n6 (v : HeightOneSpectrum (𝓞 F)) : ℕ := (-(log (v.intValuation (6 : 𝓞 F)))).toNat
+
+lemma intValuation_six (v : HeightOneSpectrum (𝓞 F)) :
+    v.intValuation (6 : 𝓞 F) = exp (-((n6 v : ℕ) : ℤ)) := by
+  have h6 : (6 : 𝓞 F) ≠ 0 := by
+    intro h; have := congrArg (fun x : 𝓞 F => (x : F)) h; simp at this
+  have hne := v.intValuation_ne_zero _ h6
+  have hle := v.intValuation_le_one (6 : 𝓞 F)
+  have hlog : log (v.intValuation (6 : 𝓞 F)) ≤ 0 := by
+    rw [← exp_log hne, ← exp_zero, exp_le_exp] at hle; exact hle
+  rw [n6, Int.toNat_of_nonneg (by linarith), neg_neg, exp_log hne]
+
+lemma n6_eq_zero (v : HeightOneSpectrum (𝓞 F)) (hv : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal) : n6 v = 0 := by
+  have h1 : v.intValuation (6 : 𝓞 F) = 1 := HeightOneSpectrum.intValuation_eq_one_iff.2 (by
+    simpa using hv)
+  have := intValuation_six v
+  rw [h1] at this
+  have h2 := congrArg log this
+  rw [log_one, log_exp] at h2
+  omega
+
+include hζ in
+lemma card_gal_le : Nat.card (KM F a ≃ₐ[F] KM F a) ≤ 6 :=
+  (Nat.card_le_card_of_injective _ (kch_KF_injective a hζ (rootKF F a) (rootKF_pow F a))).trans
+    (card_rootsOfUnity _ _)
+
+include hζ in
+/-- **Wild bound.** If `σ` lies in the `i`-th ramification group (`i ≥ 1`) and `ψ_a σ ≠ 1`,
+then `i ≤ 6 n_v`. -/
+theorem le_of_mem_ramificationGroup (v : HeightOneSpectrum (𝓞 F)) (i : ℕ) (hi : 1 ≤ i)
+    (σ : KM F a ≃ₐ[F] KM F a) (hσ : σ ∈ ArtinL.Abelian.ramificationGroup F (KM F a) v i)
+    (hψ : psi F hζ ι a σ ≠ 1) : i ≤ 6 * n6 v := by
+  set K := KM F a
+  set w := wAbove a v
+  haveI : w.asIdeal.LiesOver v.asIdeal := primeAbove_liesOver F K v
+  obtain ⟨d, y, hd, hy⟩ := exists_intGen' a
+  set μ := rootO F (kch hζ (rootKF (ℓ := 6) F a) σ)
+  have hsm : σ • y = algebraMap (𝓞 F) (𝓞 K) μ * y := smul_intGen F hζ a d y hy σ
+  have hμ1 : μ ≠ 1 := by
+    intro h
+    apply hψ
+    have : kch hζ (rootKF (ℓ := 6) F a) σ = 1 := by
+      apply Subtype.ext; apply Units.ext
+      have := congrArg (fun x : 𝓞 F => (x : F)) h
+      simpa [μ, rootO] using this
+    rw [psi, MonoidHom.comp_apply, MonoidHom.comp_apply, this]; simp
+  have hy0 : y ≠ 0 := by
+    intro h
+    have : (y : K) = 0 := by rw [h]; rfl
+    rw [hy] at this
+    simp at this
+    rcases this with h1 | h1
+    · exact hd h1
+    · exact (rootKF (ℓ := 6) F a).ne_zero h1
+  set m : ℕ := (-(log (w.intValuation y))).toNat
+  have hwy : w.intValuation y = exp (-(m : ℤ)) := by
+    have hne := w.intValuation_ne_zero _ hy0
+    have hlog : log (w.intValuation y) ≤ 0 := by
+      have hle := w.intValuation_le_one y
+      rw [← exp_log hne, ← exp_zero, exp_le_exp] at hle; exact hle
+    rw [Int.toNat_of_nonneg (by linarith), neg_neg, exp_log hne]
+  have hin : ∀ x : 𝓞 K, σ • x - x ∈ w.asIdeal ^ (i + 1) := fun x => hσ x
+  have hrel := intValuation_smul_sub_le w σ i hi hin m y hwy
+  rw [hsm, show algebraMap (𝓞 F) (𝓞 K) μ * y - y = algebraMap (𝓞 F) (𝓞 K) (μ - 1) * y by
+    rw [map_sub, map_one]; ring, map_mul, hwy] at hrel
+  have hμv : w.intValuation (algebraMap (𝓞 F) (𝓞 K) (μ - 1)) ≤ exp (-(i : ℤ)) := by
+    have h2 : exp (-((m + i : ℕ) : ℤ)) = exp (-(i : ℤ)) * exp (-(m : ℤ)) := by
+      rw [← exp_add]; congr 1; push_cast; ring
+    rw [h2] at hrel
+    exact le_of_mul_le_mul_right hrel (by simp)
+  obtain ⟨c, hc⟩ := six_eq_mul (rootO_pow F _) hμ1
+  have h6 : w.intValuation (algebraMap (𝓞 F) (𝓞 K) 6) ≤ exp (-(i : ℤ)) := by
+    rw [hc, map_mul, map_mul]
+    have hneg : w.intValuation (algebraMap (𝓞 F) (𝓞 K) (1 - μ)) =
+        w.intValuation (algebraMap (𝓞 F) (𝓞 K) (μ - 1)) := by
+      rw [show (1 : 𝓞 F) - μ = -(μ - 1) by ring, map_neg, Valuation.map_neg]
+    rw [hneg]
+    calc _ ≤ w.intValuation (algebraMap (𝓞 F) (𝓞 K) (μ - 1)) * 1 :=
+          mul_le_mul_right (w.intValuation_le_one _) _
+      _ ≤ exp (-(i : ℤ)) := by rw [mul_one]; exact hμv
+  rw [← HeightOneSpectrum.intValuation_liesOver v w, intValuation_six, ← exp_nsmul] at h6
+  rw [exp_le_exp] at h6
+  -- `e ≤ 6`
+  have he : v.asIdeal.ramificationIdx' w.asIdeal ≤ 6 := by
+    rw [Ideal.ramificationIdx'_eq_ramificationIdx _ _ v.ne_bot]
+    have h1 := Ideal.card_inertia_eq_ramificationIdxIn (G := K ≃ₐ[F] K) v.asIdeal
+      (primeAbove F K v)
+    rw [Ideal.ramificationIdxIn_eq_ramificationIdx v.asIdeal (primeAbove F K v) (K ≃ₐ[F] K)] at h1
+    change (primeAbove F K v).ramificationIdx (𝓞 F) ≤ 6
+    rw [← h1]
+    exact (Subgroup.card_le_card_group _).trans (card_gal_le hζ a)
+  have : (i : ℤ) ≤ (v.asIdeal.ramificationIdx' w.asIdeal) * (n6 v) := by
+    simp only [nsmul_eq_mul] at h6; push_cast at h6; linarith
+  have h3 : ((v.asIdeal.ramificationIdx' w.asIdeal : ℕ) : ℤ) * (n6 v) ≤ 6 * (n6 v) :=
+    mul_le_mul_of_nonneg_right (by exact_mod_cast he) (by positivity)
+  omega
+
+lemma ramificationGroup_le_inertiaGroup (v : HeightOneSpectrum (𝓞 F)) (i : ℕ) :
+    ArtinL.Abelian.ramificationGroup F (KM F a) v i ≤ ArtinL.Abelian.inertiaGroup F (KM F a) v := by
+  intro σ hσ x
+  exact Ideal.pow_le_self (Nat.succ_ne_zero i) (hσ x)
+
+/-- The swan conductor is at most `6 n_v`, and `0` if `ψ_a` is trivial on the higher groups. -/
+theorem swanConductor_psi_le (v : HeightOneSpectrum (𝓞 F)) (B : ℕ)
+    (hB : ∀ i : ℕ, 1 ≤ i → ∀ σ ∈ ArtinL.Abelian.ramificationGroup F (KM F a) v i,
+      psi F hζ ι a σ ≠ 1 → i ≤ B) :
+    ArtinL.Abelian.swanConductor (psi F hζ ι a) v ≤ B := by
+  classical
+  unfold ArtinL.Abelian.swanConductor
+  set f : ℕ → ℚ := fun i =>
+    (Nat.card (ArtinL.Abelian.ramificationGroup F (KM F a) v (i + 1)) : ℚ) /
+      (Nat.card (ArtinL.Abelian.inertiaGroup F (KM F a) v) : ℚ) *
+      (if ∀ σ ∈ ArtinL.Abelian.ramificationGroup F (KM F a) v (i + 1), psi F hζ ι a σ = 1
+        then 0 else 1)
+  have hsupp : Function.support f ⊆ (Finset.range B : Set ℕ) := by
+    intro i hi
+    rw [Function.mem_support] at hi
+    by_contra hiB
+    apply hi
+    simp only [f]
+    rw [if_pos, mul_zero]
+    intro σ hσ
+    by_contra hne
+    have := hB (i + 1) (by omega) σ hσ hne
+    simp at hiB; omega
+  rw [finsum_eq_sum_of_support_subset f hsupp]
+  have hle : ∀ i ∈ Finset.range B, f i ≤ 1 := by
+    intro i _
+    simp only [f]
+    have hpos : (0 : ℚ) < Nat.card (ArtinL.Abelian.inertiaGroup F (KM F a) v) := by
+      exact_mod_cast Nat.card_pos
+    have hcard : (Nat.card (ArtinL.Abelian.ramificationGroup F (KM F a) v (i + 1)) : ℚ) ≤
+        Nat.card (ArtinL.Abelian.inertiaGroup F (KM F a) v) := by
+      exact_mod_cast Subgroup.card_le_of_le (ramificationGroup_le_inertiaGroup a v (i + 1))
+    have h1 : (Nat.card (ArtinL.Abelian.ramificationGroup F (KM F a) v (i + 1)) : ℚ) /
+        (Nat.card (ArtinL.Abelian.inertiaGroup F (KM F a) v) : ℚ) ≤ 1 :=
+      (div_le_one hpos).2 hcard
+    have h0 : (0 : ℚ) ≤ (Nat.card (ArtinL.Abelian.ramificationGroup F (KM F a) v (i + 1)) : ℚ) /
+        (Nat.card (ArtinL.Abelian.inertiaGroup F (KM F a) v) : ℚ) := by positivity
+    split_ifs <;> nlinarith
+  calc ∑ i ∈ Finset.range B, f i ≤ ∑ _i ∈ Finset.range B, (1 : ℚ) := Finset.sum_le_sum hle
+    _ = B := by simp
+
+theorem swanConductor_psi_le_six (v : HeightOneSpectrum (𝓞 F)) :
+    ArtinL.Abelian.swanConductor (psi F hζ ι a) v ≤ (6 * n6 v : ℕ) :=
+  swanConductor_psi_le hζ ι a v _ fun i hi σ hσ hψ => le_of_mem_ramificationGroup hζ ι a v i hi σ hσ hψ
+
+/-- `e_v(ψ_a) ≤ 1 + 6 n_v`. -/
+theorem conductorExponent_psi_le (v : HeightOneSpectrum (𝓞 F)) :
+    ArtinL.Abelian.conductorExponent (psi F hζ ι a) v ≤ 1 + 6 * n6 v := by
+  unfold ArtinL.Abelian.conductorExponent
+  have h1 : ⌈ArtinL.Abelian.swanConductor (psi F hζ ι a) v⌉₊ ≤ 6 * n6 v := by
+    rw [Nat.ceil_le]; exact_mod_cast swanConductor_psi_le_six hζ ι a v
+  split_ifs <;> omega
+
+/-- `e_v(ψ_a) ≤ 1` at `v ∤ 6`. -/
+theorem conductorExponent_psi_le_one (v : HeightOneSpectrum (𝓞 F))
+    (hv : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal) :
+    ArtinL.Abelian.conductorExponent (psi F hζ ι a) v ≤ 1 := by
+  have := conductorExponent_psi_le hζ ι a v
+  rw [n6_eq_zero v hv] at this; simpa using this
+
+/-- `e_v(ψ_a) = 0` where `ψ_a` is unramified. -/
+theorem conductorExponent_psi_eq_zero (v : HeightOneSpectrum (𝓞 F))
+    (hun : ArtinL.Abelian.IsUnramifiedAt (psi F hζ ι a) v) :
+    ArtinL.Abelian.conductorExponent (psi F hζ ι a) v = 0 := by
+  have hs : ArtinL.Abelian.swanConductor (psi F hζ ι a) v ≤ (0 : ℕ) :=
+    swanConductor_psi_le hζ ι a v 0 fun i _ σ hσ hψ =>
+      absurd (hun σ (ramificationGroup_le_inertiaGroup a v i hσ)) hψ
+  unfold ArtinL.Abelian.conductorExponent
+  rw [if_pos hun, zero_add, Nat.ceil_eq_zero]
+  exact_mod_cast hs
+
+end Kummer
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Cond: `N 𝔣(ψ_a) ≤ N(D₆) · N(𝔟)`
+
+`D₆ = ∏_{v ∣ 6} v^{1 + 6 n_v}` depends on `F` only; `𝔟` is any nonzero ideal contained in every
+`v ∤ 6` at which `a` is not a unit. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField IsDedekindDomain LanglandsTunnell.P2.Artin ArtinPrimitiveRoots.L3K.KB WithZero
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+section Gen
+
+variable {R : Type*} [CommRing R] [IsDedekindDomain R]
+
+lemma mulSupport_pow_subset (f : HeightOneSpectrum R → ℕ) :
+    Function.mulSupport (fun v : HeightOneSpectrum R => v.asIdeal ^ f v) ⊆ {v | f v ≠ 0} := by
+  intro v hv
+  simp only [Function.mem_mulSupport] at hv
+  intro h0; apply hv; rw [h0, pow_zero]
+
+lemma finprod_pow_dvd {e f : HeightOneSpectrum R → ℕ} (hf : {v | f v ≠ 0}.Finite)
+    (h : ∀ v, e v ≤ f v) :
+    ∏ᶠ v, v.asIdeal ^ e v ∣ ∏ᶠ v, v.asIdeal ^ f v := by
+  have he : {v | e v ≠ 0} ⊆ {v | f v ≠ 0} := fun v hv => by
+    simp only [Set.mem_ofPred_eq] at hv ⊢; have := h v; omega
+  rw [finprod_eq_prod_of_mulSupport_subset _ ((mulSupport_pow_subset e).trans
+      (he.trans hf.coe_toFinset.symm.subset)),
+    finprod_eq_prod_of_mulSupport_subset _ ((mulSupport_pow_subset f).trans
+      hf.coe_toFinset.symm.subset)]
+  exact Finset.prod_dvd_prod_of_dvd _ _ fun v _ => pow_dvd_pow _ (h v)
+
+lemma finprod_pow_add {f g : HeightOneSpectrum R → ℕ} (hf : {v | f v ≠ 0}.Finite)
+    (hg : {v | g v ≠ 0}.Finite) :
+    ∏ᶠ v, v.asIdeal ^ (f v + g v) = (∏ᶠ v, v.asIdeal ^ f v) * ∏ᶠ v, v.asIdeal ^ g v := by
+  simp_rw [pow_add]
+  exact finprod_mul_distrib ((hf.subset (mulSupport_pow_subset f)))
+    ((hg.subset (mulSupport_pow_subset g)))
+
+lemma finprod_count_eq {I : Ideal R} (hI : I ≠ ⊥) :
+    ∏ᶠ v : HeightOneSpectrum R,
+      v.asIdeal ^ (Associates.mk v.asIdeal).count (Associates.mk I).factors = I :=
+  Ideal.finprod_heightOneSpectrum_factorization hI
+
+lemma finite_count {I : Ideal R} (hI : I ≠ ⊥) :
+    {v : HeightOneSpectrum R | (Associates.mk v.asIdeal).count (Associates.mk I).factors ≠ 0}.Finite := by
+  have := Ideal.hasFiniteMulSupport (R := R) hI
+  refine this.subset fun v hv => ?_
+  simp only [Set.mem_ofPred_eq] at hv
+  simp only [Function.mem_mulSupport, HeightOneSpectrum.maxPowDividing]
+  intro h1
+  have : v.asIdeal ^ (Associates.mk v.asIdeal).count (Associates.mk I).factors ≤ v.asIdeal ^ 1 := by
+    exact Ideal.pow_le_pow_right (Nat.one_le_iff_ne_zero.2 hv)
+  rw [h1, pow_one, Ideal.one_eq_top, top_le_iff] at this
+  exact v.isPrime.ne_top this
+
+lemma one_le_count {I : Ideal R} (hI : I ≠ ⊥) (v : HeightOneSpectrum R) (hv : I ≤ v.asIdeal) :
+    1 ≤ (Associates.mk v.asIdeal).count (Associates.mk I).factors := by
+  rw [Nat.one_le_iff_ne_zero]
+  exact (Associates.count_ne_zero_iff_dvd hI v.irreducible).2 (Ideal.dvd_iff_le.2 hv)
+
+end Gen
+
+variable {F : Type} [Field F] [NumberField F] {ζ : F} (hζ : IsPrimitiveRoot ζ 6) (ι : F →+* ℂ)
+  (a : Fˣ)
+
+open scoped Classical in
+/-- The wild exponents. -/
+def a6 (v : HeightOneSpectrum (𝓞 F)) : ℕ :=
+  if ((6 : ℕ) : 𝓞 F) ∈ v.asIdeal then 1 + 6 * n6 v else 0
+
+/-- `D₆ = ∏_{v ∣ 6} v^{1 + 6 n_v}`. -/
+def D6 (F : Type) [Field F] [NumberField F] : Ideal (𝓞 F) := ∏ᶠ v, v.asIdeal ^ a6 v
+
+lemma finite_a6 : {v : HeightOneSpectrum (𝓞 F) | a6 v ≠ 0}.Finite := by
+  classical
+  have h6 : (Ideal.span {((6 : ℕ) : 𝓞 F)}) ≠ ⊥ := by
+    rw [Ne, Ideal.span_singleton_eq_bot]
+    intro h; have := congrArg (fun x : 𝓞 F => (x : F)) h; simp at this
+  refine (finite_count h6).subset fun v hv => ?_
+  simp only [Set.mem_ofPred_eq, a6] at hv ⊢
+  split_ifs at hv with h
+  · have := one_le_count h6 v (by rw [Ideal.span_singleton_le_iff_mem]; exact h); omega
+  · exact absurd rfl hv
+
+theorem absNorm_conductor_psi_le (𝔟 : Ideal (𝓞 F)) (h𝔟 : 𝔟 ≠ ⊥)
+    (h : ∀ v : HeightOneSpectrum (𝓞 F), ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal →
+      v.valuation F (a : F) ≠ 1 → 𝔟 ≤ v.asIdeal) :
+    Ideal.absNorm (ArtinL.Abelian.conductor (psi F hζ ι a)) ≤
+      Ideal.absNorm (D6 F) * Ideal.absNorm 𝔟 := by
+  classical
+  have hdvd : ArtinL.Abelian.conductor (psi F hζ ι a) ∣ D6 F * 𝔟 := by
+    rw [D6, ← finprod_count_eq h𝔟, ← finprod_pow_add finite_a6 (finite_count h𝔟),
+      ArtinL.Abelian.conductor]
+    refine finprod_pow_dvd (finite_a6.union (finite_count h𝔟) |>.subset fun v hv => by
+      simp only [Set.mem_ofPred_eq, Set.mem_union] at hv ⊢; omega) fun v => ?_
+    by_cases h6 : ((6 : ℕ) : 𝓞 F) ∈ v.asIdeal
+    · have := conductorExponent_psi_le hζ ι a v
+      simp only [a6, if_pos h6]; omega
+    · by_cases hv : v.valuation F (a : F) = 1
+      · rw [conductorExponent_psi_eq_zero hζ ι a v (isUnramifiedAt_psi hζ ι a v h6 hv)]
+        omega
+      · have h1 := conductorExponent_psi_le_one hζ ι a v h6
+        have h2 := one_le_count h𝔟 v (h v h6 hv)
+        omega
+  have hne : D6 F * 𝔟 ≠ ⊥ := by
+    refine mul_ne_zero ?_ h𝔟
+    rw [D6, finprod_eq_prod_of_mulSupport_subset _ ((mulSupport_pow_subset _).trans
+      finite_a6.coe_toFinset.symm.subset)]
+    exact Finset.prod_ne_zero_iff.2 fun v _ => pow_ne_zero _ v.ne_bot
+  have := Ideal.absNorm_dvd_absNorm_of_le (Ideal.le_of_dvd hdvd)
+  rw [map_mul] at this
+  exact Nat.le_of_dvd (Nat.pos_of_ne_zero (by
+    rw [← map_mul, Ne, Ideal.absNorm_eq_zero_iff]; exact hne)) this
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Val: valuations of a generator `u` of `𝔲 R` at exterior primes
+
+For `u ∈ R = SInt 𝔪` with `u R = 𝔲 R` and an exterior prime `v`: `v(u) = e^{−e}` where
+`𝔲 ≤ v^e`, `𝔲 ≰ v^{e+1}`. Hence `v(u) = 1` if `v ∤ 𝔲`, and `v(u)` is not an even sixth power of
+`e^{±1}` when `v ∣ 𝔲` and `𝔲` is sixth-power-free. -/
+
+set_option autoImplicit false
+
+open NumberField IsDedekindDomain ArtinPrimitiveRoots WithZero
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+variable {F : Type*} [Field F] [NumberField F] {𝔪 : Ideal (𝓞 F)}
+
+lemma sInt_val_le_one' (s : SInt 𝔪) (w : HeightOneSpectrum (𝓞 F)) (hw : ¬ 𝔪 ≤ w.asIdeal) :
+    w.valuation F (s : F) ≤ 1 :=
+  s.2 w hw
+
+lemma coe_algebraMap_sInt' (a : 𝓞 F) :
+    ((algebraMap (𝓞 F) (SInt 𝔪) a : SInt 𝔪) : F) = algebraMap (𝓞 F) F a := rfl
+
+lemma val_algebraMap_le (v : HeightOneSpectrum (𝓞 F)) {x : 𝓞 F} {e : ℕ} (hx : x ∈ v.asIdeal ^ e) :
+    v.valuation F (algebraMap (𝓞 F) F x) ≤ exp (-(e : ℤ)) := by
+  rw [HeightOneSpectrum.valuation_of_algebraMap]
+  exact (v.intValuation_le_pow_iff_mem x e).2 hx
+
+lemma val_le_of_le (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal) {𝔲 : Ideal (𝓞 F)}
+    {u : SInt 𝔪} (hu : Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪))) {e : ℕ}
+    (he : 𝔲 ≤ v.asIdeal ^ e) : v.valuation F (u : F) ≤ exp (-(e : ℤ)) := by
+  have hmem : u ∈ 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪)) := by
+    rw [← hu]; exact Ideal.mem_span_singleton_self u
+  clear hu
+  induction hmem using Submodule.span_induction with
+  | mem x hx =>
+    obtain ⟨y, hy, rfl⟩ := hx
+    rw [coe_algebraMap_sInt']
+    exact val_algebraMap_le v (he hy)
+  | zero => simp
+  | add x y _ _ hx hy =>
+    have : ((x + y : SInt 𝔪) : F) = (x : F) + (y : F) := rfl
+    rw [this]; exact (Valuation.map_add _ _ _).trans (max_le hx hy)
+  | smul r x _ hx =>
+    have : ((r • x : SInt 𝔪) : F) = (r : F) * (x : F) := rfl
+    rw [this, map_mul]
+    calc v.valuation F (r : F) * v.valuation F (x : F) ≤ 1 * exp (-(e : ℤ)) :=
+          mul_le_mul' (sInt_val_le_one' r v hv) hx
+      _ = _ := one_mul _
+
+lemma lt_val_of_not_le (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal) {𝔲 : Ideal (𝓞 F)}
+    {u : SInt 𝔪} (hu : Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪))) {n : ℕ}
+    (hn : ¬ 𝔲 ≤ v.asIdeal ^ n) : exp (-(n : ℤ)) < v.valuation F (u : F) := by
+  obtain ⟨x, hx𝔲, hxn⟩ := SetLike.not_le_iff_exists.1 hn
+  have hx : algebraMap (𝓞 F) (SInt 𝔪) x ∈ Ideal.span {u} := by
+    rw [hu]; exact Ideal.mem_map_of_mem _ hx𝔲
+  obtain ⟨r, hr⟩ := Ideal.mem_span_singleton'.1 hx
+  have h1 : exp (-(n : ℤ)) < v.valuation F (algebraMap (𝓞 F) F x) := by
+    rw [HeightOneSpectrum.valuation_of_algebraMap]
+    by_contra h; push Not at h
+    exact hxn ((v.intValuation_le_pow_iff_mem x n).1 h)
+  have h2 : algebraMap (𝓞 F) F x = (r : F) * (u : F) := by
+    rw [← coe_algebraMap_sInt', ← hr]; rfl
+  rw [h2, map_mul] at h1
+  calc exp (-(n : ℤ)) < v.valuation F (r : F) * v.valuation F (u : F) := h1
+    _ ≤ 1 * v.valuation F (u : F) := mul_le_mul' (sInt_val_le_one' r v hv) le_rfl
+    _ = _ := one_mul _
+
+/-- `v(u) = e^{−e}` when `𝔲 ≤ v^e` and `𝔲 ≰ v^{e+1}`. -/
+lemma val_eq_exp (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal) {𝔲 : Ideal (𝓞 F)}
+    {u : SInt 𝔪} (hu : Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪))) {e : ℕ}
+    (he : 𝔲 ≤ v.asIdeal ^ e) (he1 : ¬ 𝔲 ≤ v.asIdeal ^ (e + 1)) :
+    v.valuation F (u : F) = exp (-(e : ℤ)) := by
+  have hle := val_le_of_le v hv hu he
+  have hlt := lt_val_of_not_le v hv hu he1
+  have hne : v.valuation F (u : F) ≠ 0 := ne_of_gt ((zero_lt_iff.2 (exp_ne_zero)).trans hlt)
+  rw [← exp_log hne] at hle hlt ⊢
+  rw [exp_le_exp] at hle
+  rw [exp_lt_exp] at hlt
+  congr 1
+  push_cast at hlt
+  omega
+
+lemma val_eq_one (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal) {𝔲 : Ideal (𝓞 F)}
+    {u : SInt 𝔪} (hu : Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪)))
+    (h : ¬ 𝔲 ≤ v.asIdeal) : v.valuation F (u : F) = 1 := by
+  have := val_eq_exp v hv hu (e := 0) (by simp) (by simpa using h)
+  simpa using this
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-!
+# Transport of `AllowedGen` along a field isomorphism
+
+Used to move from `F : Type u` to the universe-0 copy `CyclotomicField n ℚ`.
+-/
+
+namespace ArtinPrimitiveRoots
+
+open NumberField IsDedekindDomain
+
+namespace C0R
+
+/-! ### Generic facts on ideals along a ring equivalence -/
+
+section Ideals
+
+variable {R S : Type*} [CommRing R] [CommRing S]
+
+theorem mem_map_equiv (f : R ≃+* S) (I : Ideal R) (y : S) : y ∈ I.map f ↔ f.symm y ∈ I := by
+  rw [Ideal.mem_map_of_equiv]
+  exact ⟨fun ⟨x, hx, hxy⟩ => by rw [← hxy, f.symm_apply_apply]; exact hx,
+    fun h => ⟨_, h, f.apply_symm_apply y⟩⟩
+
+theorem map_equiv_le_iff (f : R ≃+* S) {I J : Ideal R} : I.map f ≤ J.map f ↔ I ≤ J := by
+  constructor
+  · intro h x hx
+    have : f x ∈ J.map f := h ((mem_map_equiv f I _).2 (by simpa using hx))
+    simpa using (mem_map_equiv f J _).1 this
+  · intro h y hy
+    exact (mem_map_equiv f J y).2 (h ((mem_map_equiv f I y).1 hy))
+
+theorem map_equiv_symm_map (f : R ≃+* S) (I : Ideal R) : (I.map f).map f.symm = I := by
+  ext x
+  rw [mem_map_equiv, RingEquiv.symm_symm, mem_map_equiv, RingEquiv.symm_apply_apply]
+
+theorem map_equiv_coe (f : R ≃+* S) (I : Ideal R) : I.map (f : R →+* S) = I.map f := rfl
+
+end Ideals
+
+/-! ### The equivalences -/
+
+variable {F F' : Type*} [Field F] [NumberField F] [Field F'] [NumberField F']
+
+omit [NumberField F] [NumberField F'] in
+theorem mapRingEquiv_symm (e : F ≃+* F') :
+    RingOfIntegers.mapRingEquiv e.symm = (RingOfIntegers.mapRingEquiv e).symm := by
+  ext x; rfl
+
+/-- `S`-integrality transports along `e`. -/
+theorem mem_integer_map (e : F ≃+* F') (𝔪 : Ideal (𝓞 F)) (x : F)
+    (hx : x ∈ (placesOf 𝔪).integer F) :
+    e x ∈ (placesOf (𝔪.map (RingOfIntegers.mapRingEquiv e))).integer F' := by
+  set eO := RingOfIntegers.mapRingEquiv e
+  intro v' hv'
+  let v : HeightOneSpectrum (𝓞 F) :=
+    { asIdeal := v'.asIdeal.comap (eO : 𝓞 F →+* 𝓞 F')
+      isPrime := Ideal.comap_isPrime _ _
+      ne_bot := by
+        intro h
+        apply v'.ne_bot
+        rw [← Ideal.map_comap_of_surjective (eO : 𝓞 F →+* 𝓞 F') eO.surjective v'.asIdeal, h,
+          Ideal.map_bot] }
+  have hv : v ∉ placesOf 𝔪 := by
+    intro h
+    apply hv'
+    change 𝔪.map eO ≤ v'.asIdeal
+    rw [← map_equiv_coe]
+    exact Ideal.map_le_iff_le_comap.2 h
+  obtain ⟨n, d, hnd⟩ := HeightOneSpectrum.exists_primeCompl_mul_eq_of_integer v x (hx v hv)
+  have hd : eO d ∉ v'.asIdeal := d.2
+  have hnd' : e x * algebraMap (𝓞 F') F' (eO d) = algebraMap (𝓞 F') F' (eO n) := by
+    have := congrArg e hnd
+    rw [map_mul] at this
+    exact this
+  have h1 : v'.valuation F' (algebraMap (𝓞 F') F' (eO d)) = 1 := by
+    rw [HeightOneSpectrum.valuation_of_algebraMap, HeightOneSpectrum.intValuation_eq_one_iff]
+    exact hd
+  have h2 : v'.valuation F' (algebraMap (𝓞 F') F' (eO n)) ≤ 1 := v'.valuation_le_one _
+  rw [← hnd', map_mul, h1, mul_one] at h2
+  exact h2
+
+/-- The ring `R = 𝓞_S` transports along `e`. -/
+def sIntEquiv (e : F ≃+* F') (𝔪 : Ideal (𝓞 F)) :
+    SInt 𝔪 ≃+* SInt (𝔪.map (RingOfIntegers.mapRingEquiv e)) where
+  toFun x := ⟨e x, mem_integer_map e 𝔪 x x.2⟩
+  invFun y := ⟨e.symm y, by
+    have := mem_integer_map e.symm (𝔪.map (RingOfIntegers.mapRingEquiv e)) y y.2
+    rwa [mapRingEquiv_symm, map_equiv_symm_map] at this⟩
+  left_inv x := Subtype.ext (e.symm_apply_apply _)
+  right_inv y := Subtype.ext (e.apply_symm_apply _)
+  map_mul' x y := Subtype.ext (map_mul e _ _)
+  map_add' x y := Subtype.ext (map_add e _ _)
+
+@[simp] theorem sIntEquiv_coe (e : F ≃+* F') (𝔪 : Ideal (𝓞 F)) (x : SInt 𝔪) :
+    ((sIntEquiv e 𝔪 x : SInt (𝔪.map (RingOfIntegers.mapRingEquiv e))) : F') = e x := rfl
+
+@[simp] theorem sIntEquiv_symm_coe (e : F ≃+* F') (𝔪 : Ideal (𝓞 F))
+    (y : SInt (𝔪.map (RingOfIntegers.mapRingEquiv e))) :
+    (((sIntEquiv e 𝔪).symm y : SInt 𝔪) : F) = e.symm y := rfl
+
+theorem map_map_sIntEquiv (e : F ≃+* F') (𝔪 : Ideal (𝓞 F)) (I : Ideal (𝓞 F)) :
+    (I.map (algebraMap (𝓞 F) (SInt 𝔪))).map (sIntEquiv e 𝔪) =
+      (I.map (RingOfIntegers.mapRingEquiv e)).map
+        (algebraMap (𝓞 F') (SInt (𝔪.map (RingOfIntegers.mapRingEquiv e)))) := by
+  show Ideal.map ((sIntEquiv e 𝔪 : SInt 𝔪 →+* SInt (𝔪.map (RingOfIntegers.mapRingEquiv e))))
+      (I.map (algebraMap (𝓞 F) (SInt 𝔪))) =
+    Ideal.map (algebraMap (𝓞 F') (SInt (𝔪.map (RingOfIntegers.mapRingEquiv e))))
+      (I.map ((RingOfIntegers.mapRingEquiv e : 𝓞 F →+* 𝓞 F')))
+  rw [Ideal.map_map, Ideal.map_map]
+  congr 1
+
+theorem absNorm_map_equiv (e : F ≃+* F') (I : Ideal (𝓞 F)) :
+    Ideal.absNorm (I.map (RingOfIntegers.mapRingEquiv e)) = Ideal.absNorm I := by
+  rw [Ideal.absNorm_apply, Ideal.absNorm_apply, Submodule.cardQuot_apply,
+    Submodule.cardQuot_apply]
+  exact (Nat.card_congr (Ideal.quotientEquiv I _ (RingOfIntegers.mapRingEquiv e) rfl).toEquiv).symm
+
+theorem isExterior_map (e : F ≃+* F') {𝔪 I : Ideal (𝓞 F)} (h : IsExterior 𝔪 I) :
+    IsExterior (𝔪.map (RingOfIntegers.mapRingEquiv e)) (I.map (RingOfIntegers.mapRingEquiv e)) := by
+  refine ⟨fun h0 => h.1 ?_, ?_⟩
+  · exact (Ideal.map_eq_bot_iff_of_injective (RingOfIntegers.mapRingEquiv e).injective).1 h0
+  · rw [← Ideal.map_sup, h.2, Ideal.map_top]
+
+/-! ### Uniqueness of the sixth root of unity modulo `P` -/
+
+theorem eq_of_pow_six {R : Type*} [CommRing R] [IsDomain R] (Q : Ideal R) (h6 : (6 : R) ∉ Q)
+    {a b : R} (ha : a ^ 6 = 1) (hb : b ^ 6 = 1) (hab : a - b ∈ Q) : a = b := by
+  set η := b * a ^ 5 with hη
+  have h1 : 1 - η ∈ Q := by
+    have : 1 - η = a ^ 5 * (a - b) := by rw [hη]; linear_combination (-1 : R) * ha
+    rw [this]; exact Q.mul_mem_left _ hab
+  by_cases hη1 : η = 1
+  · have : b = a := calc
+        b = b * a ^ 6 := by rw [ha, mul_one]
+        _ = (b * a ^ 5) * a := by ring
+        _ = a := by rw [← hη, hη1, one_mul]
+    exact this.symm
+  · exfalso
+    have hη6 : η ^ 6 = 1 := by
+      rw [hη]
+      calc (b * a ^ 5) ^ 6 = b ^ 6 * (a ^ 6) ^ 5 := by ring
+        _ = 1 := by rw [ha, hb]; ring
+    have hsum : 1 + η + η ^ 2 + η ^ 3 + η ^ 4 + η ^ 5 = 0 := by
+      have : (η - 1) * (1 + η + η ^ 2 + η ^ 3 + η ^ 4 + η ^ 5) = 0 := by
+        linear_combination hη6
+      rcases mul_eq_zero.1 this with h | h
+      · exact absurd (sub_eq_zero.1 h) hη1
+      · exact h
+    apply h6
+    have : (6 : R) = (1 - η) * (5 + 4 * η + 3 * η ^ 2 + 2 * η ^ 3 + η ^ 4) +
+        (1 + η + η ^ 2 + η ^ 3 + η ^ 4 + η ^ 5) := by ring
+    rw [this, hsum, add_zero]
+    exact Q.mul_mem_right _ h1
+
+/-! ### The residue symbol transports -/
+
+theorem sexticResidueSymbol_transport (e : F ≃+* F') (ι : F →+* ℂ) (𝔪 P : Ideal (𝓞 F))
+    (h6 : P ⊔ Ideal.span {6} = ⊤) (x : SInt 𝔪) :
+    sexticResidueSymbol (ι.comp (e.symm : F' →+* F)) (𝔪.map (RingOfIntegers.mapRingEquiv e))
+        (P.map (RingOfIntegers.mapRingEquiv e)) (sIntEquiv e 𝔪 x) =
+      sexticResidueSymbol ι 𝔪 P x := by
+  classical
+  set eO := RingOfIntegers.mapRingEquiv e
+  set eS := sIntEquiv e 𝔪
+  set f := algebraMap (𝓞 F) (SInt 𝔪)
+  set f' := algebraMap (𝓞 F') (SInt (𝔪.map eO))
+  set Q := P.map f
+  have hQ' : (P.map eO).map f' = Q.map eS := (map_map_sIntEquiv e 𝔪 P).symm
+  have hmem : ∀ y : SInt 𝔪, eS y ∈ (P.map eO).map f' ↔ y ∈ Q := fun y => by
+    rw [hQ', mem_map_equiv, RingEquiv.symm_apply_apply]
+  have hN : Ideal.absNorm (P.map eO) = Ideal.absNorm P := absNorm_map_equiv e P
+  unfold sexticResidueSymbol
+  simp only [Ideal.Quotient.eq_zero_iff_mem]
+  by_cases hx : x ∈ Q
+  · rw [if_pos hx, if_pos ((hmem x).2 hx)]
+  rw [if_neg hx, if_neg (fun h => hx ((hmem x).1 h)), hN]
+  set k := (Ideal.absNorm P - 1) / 6
+  -- `6 ∉ Q`
+  have h6Q : (6 : SInt 𝔪) ∉ Q := by
+    intro h6m
+    apply hx
+    have : Q = ⊤ := by
+      rw [eq_top_iff, ← Ideal.map_top f, ← h6, Ideal.map_sup]
+      refine sup_le le_rfl ?_
+      rw [Ideal.map_span, Set.image_singleton, map_ofNat, Ideal.span_le,
+        Set.singleton_subset_iff]
+      exact h6m
+    rw [this]; trivial
+  have hC : ∀ ζ : 𝓞 F, (ζ ^ 6 = 1 ∧ Ideal.Quotient.mk Q (f ζ) = Ideal.Quotient.mk Q x ^ k) ↔
+      ((eO ζ) ^ 6 = 1 ∧ Ideal.Quotient.mk ((P.map eO).map f') (f' (eO ζ)) =
+        Ideal.Quotient.mk ((P.map eO).map f') (eS x) ^ k) := by
+    intro ζ
+    apply and_congr
+    · rw [← map_pow, ← map_one eO]
+      exact eO.injective.eq_iff.symm
+    · rw [← map_pow, ← map_pow, Ideal.Quotient.eq, Ideal.Quotient.eq, ← map_pow eS,
+        show f' (eO ζ) = eS (f ζ) from rfl, ← map_sub, hmem]
+  have huniq : ∀ ζ₁ ζ₂ : 𝓞 F, (ζ₁ ^ 6 = 1 ∧ Ideal.Quotient.mk Q (f ζ₁) = Ideal.Quotient.mk Q x ^ k) →
+      (ζ₂ ^ 6 = 1 ∧ Ideal.Quotient.mk Q (f ζ₂) = Ideal.Quotient.mk Q x ^ k) → ζ₁ = ζ₂ := by
+    intro ζ₁ ζ₂ h1 h2
+    have hsub : f ζ₁ - f ζ₂ ∈ Q := by
+      rw [← Ideal.Quotient.eq, h1.2, h2.2]
+    have := eq_of_pow_six Q h6Q (by rw [← map_pow, h1.1, map_one])
+      (by rw [← map_pow, h2.1, map_one]) hsub
+    have h' : ((f ζ₁ : SInt 𝔪) : F) = ((f ζ₂ : SInt 𝔪) : F) := by rw [this]
+    exact RingOfIntegers.ext h'
+  by_cases h : ∃ ζ : 𝓞 F, ζ ^ 6 = 1 ∧ Ideal.Quotient.mk Q (f ζ) = Ideal.Quotient.mk Q x ^ k
+  · have h' : ∃ ζ' : 𝓞 F', ζ' ^ 6 = 1 ∧ Ideal.Quotient.mk ((P.map eO).map f') (f' ζ') =
+        Ideal.Quotient.mk ((P.map eO).map f') (eS x) ^ k :=
+      ⟨eO h.choose, (hC _).1 h.choose_spec⟩
+    rw [dif_pos h, dif_pos h']
+    have hspec : eO (eO.symm h'.choose) = h'.choose := eO.apply_symm_apply _
+    have hC' := (hC (eO.symm h'.choose)).2 (by rw [hspec]; exact h'.choose_spec)
+    have := huniq _ _ hC' h.choose_spec
+    rw [← this]
+    simp [eO]
+  · have h' : ¬ ∃ ζ' : 𝓞 F', ζ' ^ 6 = 1 ∧ Ideal.Quotient.mk ((P.map eO).map f') (f' ζ') =
+        Ideal.Quotient.mk ((P.map eO).map f') (eS x) ^ k := by
+      rintro ⟨ζ', hζ'⟩
+      apply h
+      refine ⟨eO.symm ζ', (hC _).2 ?_⟩
+      rw [eO.apply_symm_apply]; exact hζ'
+    rw [dif_neg h, dif_neg h']
+
+/-! ### `AllowedGen` transports -/
+
+/-- `SmallPrimesDvd` transports. -/
+theorem smallPrimesDvd_map (e : F ≃+* F') {N₀ : ℕ} {𝔪 : Ideal (𝓞 F)} (h : SmallPrimesDvd N₀ 𝔪) :
+    SmallPrimesDvd N₀ (𝔪.map (RingOfIntegers.mapRingEquiv e)) := by
+  set eO := RingOfIntegers.mapRingEquiv e
+  intro P' hP' hP'0 hN
+  set P := P'.map eO.symm
+  have hPP : P.map eO = P' := by
+    have := map_equiv_symm_map eO.symm P'
+    rwa [RingEquiv.symm_symm] at this
+  have hP : P.IsPrime := Ideal.map_isPrime_of_equiv eO.symm
+  have hP0 : P ≠ ⊥ := fun h0 => hP'0 (by rw [← hPP, h0, Ideal.map_bot])
+  have hNP : Ideal.absNorm P ≤ N₀ := by rw [← absNorm_map_equiv e P, hPP]; exact hN
+  rw [← hPP]
+  exact (map_equiv_le_iff eO).2 (h P hP hP0 hNP)
+
+end C0R
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+section
+/-! C0Y: valuations of prime generators in `SInt 𝔪` and the sextic residue symbol. -/
+
+set_option autoImplicit false
+
+open NumberField IsDedekindDomain ArtinPrimitiveRoots
+
+noncomputable section
+
+namespace C0Y
+
+variable {F : Type} [Field F] [NumberField F] {𝔪 : Ideal (𝓞 F)}
+
+theorem sInt_val_le_one (s : SInt 𝔪) (w : HeightOneSpectrum (𝓞 F)) (hw : ¬ 𝔪 ≤ w.asIdeal) :
+    w.valuation F (s : F) ≤ 1 :=
+  s.2 w hw
+
+theorem coe_algebraMap_sInt (a : 𝓞 F) :
+    ((algebraMap (𝓞 F) (SInt 𝔪) a : SInt 𝔪) : F) = algebraMap (𝓞 F) F a := rfl
+
+/-- Elements of `P · SInt` have `v_P < 1`. -/
+theorem val_lt_one_of_mem_map (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal)
+    {z : SInt 𝔪} (hz : z ∈ v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪))) :
+    v.valuation F (z : F) < 1 := by
+  induction hz using Submodule.span_induction with
+  | mem x hx =>
+    obtain ⟨a, ha, rfl⟩ := hx
+    rw [coe_algebraMap_sInt]
+    exact (v.valuation_lt_one_iff_mem (K := F) a).mpr ha
+  | zero => simp
+  | add x y _ _ hx hy =>
+    simp only [Subalgebra.coe_add]
+    exact lt_of_le_of_lt (Valuation.map_add _ _ _) (max_lt hx hy)
+  | smul a x _ hx =>
+    simp only [smul_eq_mul, Subalgebra.coe_mul, map_mul]
+    calc v.valuation F (a : F) * v.valuation F (x : F) ≤ 1 * v.valuation F (x : F) :=
+          mul_le_mul_left (sInt_val_le_one a v hv) _
+      _ < 1 := by rw [one_mul]; exact hx
+
+/-- Valuations of a generator of `P · SInt`. -/
+theorem val_generator (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal) (p : SInt 𝔪)
+    (hp : Ideal.span {p} = v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪))) :
+    v.valuation F (p : F) = WithZero.exp (-1 : ℤ) ∧
+      ∀ w : HeightOneSpectrum (𝓞 F), ¬ 𝔪 ≤ w.asIdeal → w ≠ v → w.valuation F (p : F) = 1 := by
+  have hpmem : p ∈ v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪)) := by
+    rw [← hp]; exact Ideal.subset_span rfl
+  have hlt := val_lt_one_of_mem_map v hv hpmem
+  -- every `a ∈ P` is a multiple of `p` in `SInt`
+  have hdiv : ∀ a ∈ v.asIdeal, ∃ s : SInt 𝔪, algebraMap (𝓞 F) F a = (p : F) * (s : F) := by
+    intro a ha
+    have : algebraMap (𝓞 F) (SInt 𝔪) a ∈ Ideal.span {p} := by
+      rw [hp]; exact Ideal.mem_map_of_mem _ ha
+    obtain ⟨s, hs⟩ := Ideal.mem_span_singleton'.mp this
+    refine ⟨s, ?_⟩
+    rw [← coe_algebraMap_sInt (𝔪 := 𝔪), ← hs, Subalgebra.coe_mul, mul_comm]
+  refine ⟨?_, fun w hw hwv => ?_⟩
+  · obtain ⟨π, hπ⟩ := v.valuation_exists_uniformizer' F
+    have hπmem : π ∈ v.asIdeal := by
+      rw [← v.valuation_lt_one_iff_mem (K := F), hπ]; exact by rw [← WithZero.exp_zero, WithZero.exp_lt_exp]; norm_num
+    obtain ⟨s, hs⟩ := hdiv π hπmem
+    have h1 : v.valuation F (p : F) * v.valuation F (s : F) = WithZero.exp (-1 : ℤ) := by
+      rw [← map_mul, ← hs, hπ]
+    have hs1 := sInt_val_le_one s v hv
+    have hp0 : v.valuation F (p : F) ≠ 0 := by
+      intro h0; rw [h0, zero_mul] at h1; exact WithZero.exp_ne_zero h1.symm
+    have hge : WithZero.exp (-1 : ℤ) ≤ v.valuation F (p : F) := by
+      rw [← h1]; exact mul_le_of_le_one_right' hs1
+    have hle : v.valuation F (p : F) ≤ WithZero.exp (-1 : ℤ) := by
+      obtain ⟨k, hk⟩ := WithZero.ne_zero_iff_exists.mp hp0
+      rw [← hk] at hlt ⊢
+      rw [show (1 : WithZero (Multiplicative ℤ)) = WithZero.exp 0 from rfl] at hlt
+      have : (k : WithZero (Multiplicative ℤ)) = WithZero.exp (Multiplicative.toAdd k) := rfl
+      rw [this, WithZero.exp_lt_exp] at hlt
+      rw [this, WithZero.exp_le_exp]
+      omega
+    exact le_antisymm hle hge
+  · -- `P ⊄ w`
+    have hnle : ¬ v.asIdeal ≤ w.asIdeal := by
+      intro hle
+      have := v.isMaximal.eq_of_le w.isPrime.ne_top hle
+      exact hwv (HeightOneSpectrum.ext this.symm)
+    obtain ⟨a, ha, haw⟩ := Set.not_subset.mp hnle
+    obtain ⟨s, hs⟩ := hdiv a ha
+    have h1 : w.valuation F (p : F) * w.valuation F (s : F) = 1 := by
+      rw [← map_mul, ← hs]; exact (w.valuation_eq_one_iff_notMem (K := F)).mpr haw
+    have hp1 := sInt_val_le_one p w hw
+    have hs1 := sInt_val_le_one s w hw
+    by_contra hne
+    have hlt : w.valuation F (p : F) < 1 := lt_of_le_of_ne hp1 hne
+    have : w.valuation F (p : F) * w.valuation F (s : F) < 1 :=
+      lt_of_lt_of_le (mul_lt_one_of_lt_of_le hlt hs1) le_rfl
+    rw [h1] at this
+    exact lt_irrefl _ this
+
+/-- Elements of `SInt` with `v_P < 1` lie in `P · SInt` (given a generator). -/
+theorem mem_map_of_val_lt_one (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal) (p : SInt 𝔪)
+    (hp : Ideal.span {p} = v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪))) (z : SInt 𝔪)
+    (hz : v.valuation F (z : F) < 1) : z ∈ v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪)) := by
+  obtain ⟨hpv, hpw⟩ := val_generator v hv p hp
+  have hp0 : (p : F) ≠ 0 := by
+    intro h0; rw [h0, map_zero] at hpv; exact WithZero.exp_ne_zero hpv.symm
+  have hq : (z : F) / (p : F) ∈ (placesOf 𝔪).integer F := by
+    intro w hw
+    by_cases hwv : w = v
+    · subst hwv
+      rw [map_div₀, hpv]
+      by_cases hz0 : w.valuation F (z : F) = 0
+      · rw [hz0, zero_div]; exact zero_le
+      obtain ⟨k, hk⟩ := WithZero.ne_zero_iff_exists.mp hz0
+      rw [← hk] at hz ⊢
+      have e : (k : WithZero (Multiplicative ℤ)) = WithZero.exp (Multiplicative.toAdd k) := rfl
+      rw [e, ← WithZero.exp_zero, WithZero.exp_lt_exp] at hz
+      rw [e, ← WithZero.exp_sub, ← WithZero.exp_zero, WithZero.exp_le_exp]
+      omega
+    · rw [map_div₀, hpw w hw hwv, div_one]
+      exact sInt_val_le_one z w hw
+  have : z = p * ⟨(z : F) / (p : F), hq⟩ := by
+    apply Subtype.ext
+    simp only [Subalgebra.coe_mul]
+    field_simp
+  rw [← hp, this]
+  exact Ideal.mul_mem_right _ _ (Ideal.subset_span rfl)
+
+/-- The sextic residue symbol at an exterior prime with generator: `6 ∣ N P − 1`, and
+`χ_P(y) = ι ξ` for the sixth root of unity `ξ ≡ y^{(N P − 1)/6} (mod P)`. -/
+theorem sextic_spec (ι : F →+* ℂ) (v : HeightOneSpectrum (𝓞 F)) (hv : ¬ 𝔪 ≤ v.asIdeal)
+    (p : SInt 𝔪) (hp : Ideal.span {p} = v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪)))
+    {z6 : 𝓞 F} (hz6 : IsPrimitiveRoot z6 6) (h6 : (6 : 𝓞 F) ∉ v.asIdeal) (y : SInt 𝔪)
+    (hy : v.valuation F (y : F) = 1) :
+    6 ∣ Ideal.absNorm v.asIdeal - 1 ∧ ∃ ξ : 𝓞 F, ξ ^ 6 = 1 ∧
+      v.valuation F ((y : F) ^ ((Ideal.absNorm v.asIdeal - 1) / 6) - algebraMap (𝓞 F) F ξ) < 1 ∧
+      sexticResidueSymbol ι 𝔪 v.asIdeal y = ι (algebraMap (𝓞 F) F ξ) := by
+  classical
+  set P := v.asIdeal with hPdef
+  letI : Field (𝓞 F ⧸ P) := Ideal.Quotient.field P
+  haveI : Finite (𝓞 F ⧸ P) := Ideal.finiteQuotientOfFreeOfNeBot P v.ne_bot
+  letI : Fintype (𝓞 F ⧸ P) := Fintype.ofFinite _
+  have hcard : Fintype.card (𝓞 F ⧸ P) = Ideal.absNorm P := by
+    rw [Ideal.absNorm_apply, Submodule.cardQuot_apply, Nat.card_eq_fintype_card]
+  have hinj : ∀ a b : 𝓞 F, a ^ 6 = 1 → b ^ 6 = 1 →
+      Ideal.Quotient.mk P a = Ideal.Quotient.mk P b → a = b := fun a b ha hb h =>
+    C0R.eq_of_pow_six P h6 ha hb (Ideal.Quotient.eq.mp h)
+  have hη : IsPrimitiveRoot (Ideal.Quotient.mk P z6) 6 := by
+    refine ⟨by rw [← map_pow, hz6.pow_eq_one, map_one], fun l hl => ?_⟩
+    have : z6 ^ l = 1 := hinj _ _ (by rw [← pow_mul, mul_comm, pow_mul, hz6.pow_eq_one, one_pow])
+      (one_pow 6) (by rw [map_pow, hl, map_one])
+    exact hz6.dvd_of_pow_eq_one l this
+  have h6N : 6 ∣ Ideal.absNorm P - 1 := by
+    have := FiniteField.pow_card_sub_one_eq_one (Ideal.Quotient.mk P z6) (hη.ne_zero (by norm_num))
+    rw [hcard] at this
+    exact hη.dvd_of_pow_eq_one _ this
+  obtain ⟨n, d, hnd⟩ := HeightOneSpectrum.exists_primeCompl_mul_eq_of_integer v (y : F) hy.le
+  have hd : (d : 𝓞 F) ∉ P := d.2
+  have hdv : v.valuation F (algebraMap (𝓞 F) F d) = 1 :=
+    (v.valuation_eq_one_iff_notMem (K := F)).mpr hd
+  have hdF : algebraMap (𝓞 F) F d ≠ 0 := by
+    intro h0; rw [h0, map_zero] at hdv; exact zero_ne_one hdv
+  have hn : (n : 𝓞 F) ∉ P := by
+    rw [← v.valuation_eq_one_iff_notMem (K := F), ← hnd, map_mul, hy, hdv, one_mul]
+  set k := (Ideal.absNorm P - 1) / 6 with hk
+  set u : 𝓞 F ⧸ P := Ideal.Quotient.mk P n * (Ideal.Quotient.mk P d)⁻¹ with hu
+  have hmd : Ideal.Quotient.mk P (d : 𝓞 F) ≠ 0 := by
+    rwa [Ne, Ideal.Quotient.eq_zero_iff_mem]
+  have hmn : Ideal.Quotient.mk P n ≠ 0 := by
+    rwa [Ne, Ideal.Quotient.eq_zero_iff_mem]
+  have hu0 : u ≠ 0 := mul_ne_zero hmn (inv_ne_zero hmd)
+  have hu6 : (u ^ k) ^ 6 = 1 := by
+    rw [← pow_mul, hk, Nat.div_mul_cancel h6N, ← hcard]
+    exact FiniteField.pow_card_sub_one_eq_one u hu0
+  obtain ⟨i, -, hi⟩ := hη.eq_pow_of_pow_eq_one hu6
+  set ξ := z6 ^ i with hξ
+  have hξ6 : ξ ^ 6 = 1 := by rw [hξ, ← pow_mul, mul_comm, pow_mul, hz6.pow_eq_one, one_pow]
+  have hcong : n ^ k - ξ * (d : 𝓞 F) ^ k ∈ P := by
+    rw [← Ideal.Quotient.eq_zero_iff_mem, map_sub, map_mul, map_pow, map_pow, map_pow, hi,
+      hu, mul_pow, inv_pow, mul_assoc, inv_mul_cancel₀ (pow_ne_zero _ hmd), mul_one, sub_self]
+  have hval : v.valuation F ((y : F) ^ k - algebraMap (𝓞 F) F ξ) < 1 := by
+    have hyd : (y : F) = algebraMap (𝓞 F) F n / algebraMap (𝓞 F) F d := by
+      rw [← hnd, mul_div_cancel_right₀ _ hdF]
+    have : (y : F) ^ k - algebraMap (𝓞 F) F ξ =
+        algebraMap (𝓞 F) F (n ^ k - ξ * (d : 𝓞 F) ^ k) / (algebraMap (𝓞 F) F d) ^ k := by
+      rw [hyd, eq_div_iff (pow_ne_zero _ hdF)]
+      simp only [map_sub, map_mul, map_pow]
+      rw [sub_mul, div_pow, div_mul_cancel₀ _ (pow_ne_zero _ hdF)]
+    rw [this, map_div₀, map_pow, hdv, one_pow, div_one]
+    exact (v.valuation_lt_one_iff_mem (K := F) _).mpr hcong
+  refine ⟨h6N, ξ, hξ6, hval, ?_⟩
+  set f := algebraMap (𝓞 F) (SInt 𝔪)
+  set Q := P.map f
+  have hyQ : y ∉ Q := fun h => by
+    have := val_lt_one_of_mem_map v hv h; rw [hy] at this; exact lt_irrefl _ this
+  have h6Q : (6 : SInt 𝔪) ∉ Q := by
+    intro h
+    have := val_lt_one_of_mem_map v hv h
+    have e : ((6 : SInt 𝔪) : F) = algebraMap (𝓞 F) F 6 := by rw [map_ofNat]; rfl
+    rw [e, (v.valuation_eq_one_iff_notMem (K := F)).mpr h6] at this
+    exact lt_irrefl _ this
+  have hex : f ξ - y ^ k ∈ Q := by
+    apply mem_map_of_val_lt_one v hv p hp
+    have e : ((f ξ - y ^ k : SInt 𝔪) : F) = -((y : F) ^ k - algebraMap (𝓞 F) F ξ) := by
+      simp [f, coe_algebraMap_sInt]
+    rw [e, Valuation.map_neg]; exact hval
+  unfold sexticResidueSymbol
+  rw [if_neg (by rwa [Ideal.Quotient.eq_zero_iff_mem])]
+  have hE : ∃ ζ : 𝓞 F, ζ ^ 6 = 1 ∧ Ideal.Quotient.mk Q (f ζ) = Ideal.Quotient.mk Q y ^ k :=
+    ⟨ξ, hξ6, by rw [← map_pow, Ideal.Quotient.eq]; exact hex⟩
+  rw [dif_pos hE]
+  have hch := hE.choose_spec
+  have hsub : f hE.choose - f ξ ∈ Q := by
+    rw [← Ideal.Quotient.eq, hch.2, ← map_pow, Ideal.Quotient.eq]
+    have : y ^ k - f ξ = -(f ξ - y ^ k) := by ring
+    rw [this]; exact Q.neg_mem hex
+  have heq := C0R.eq_of_pow_six Q h6Q (by rw [← map_pow, hch.1, map_one])
+    (by rw [← map_pow, hξ6, map_one]) hsub
+  have : hE.choose = ξ := by
+    have h' := congrArg (fun z : SInt 𝔪 => (z : F)) heq
+    simp only [f, coe_algebraMap_sInt] at h'
+    exact FaithfulSMul.algebraMap_injective (𝓞 F) F h'
+  rw [this]
+
+end C0Y
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Bridge: `kummerL` is `L(s, ψ_u)` up to finitely many Euler factors at `S`
+
+Setting (universe 0): `ζ` a primitive sixth root of unity in `F`, every prime containing `6`
+contains `𝔪`, every exterior prime is principal in `R`, `u R = 𝔲 R` with `𝔲` exterior and
+sixth-power-free, `u` not a sixth power. With `ψ = ψ_u`:
+* exterior `v`: `localValue ψ v = χ_v(u)` (`v ∤ 𝔲`, unramified) and `ψ` is ramified at `v ∣ 𝔲`;
+* `kummerL u = L(ψ) · ∏_{P ⊇ 𝔣𝔪, P + 𝔣 = 1} (1 − ψ(P) N P^{-s})` on `Re s > 1`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField IsDedekindDomain LanglandsTunnell.P2.Artin ArtinPrimitiveRoots.L3K.KB UniqueFactorizationMonoid
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+variable {F : Type} [Field F] [NumberField F] {ζ : F} (hζ : IsPrimitiveRoot ζ 6) (ι : F →+* ℂ)
+  {𝔪 : Ideal (𝓞 F)}
+
+variable {u : SInt 𝔪} {𝔲 : Ideal (𝓞 F)}
+
+/-- `ζ` as an algebraic integer. -/
+def z6 : 𝓞 F := ⟨ζ, IsIntegral.of_pow (by norm_num : 0 < 6) (by rw [hζ.pow_eq_one]; exact isIntegral_one)⟩
+
+lemma z6_prim : IsPrimitiveRoot (z6 hζ) 6 :=
+  (IsPrimitiveRoot.of_map_of_injective (f := algebraMap (𝓞 F) F) (by
+    show IsPrimitiveRoot ζ 6; exact hζ) (FaithfulSMul.algebraMap_injective _ _))
+
+lemma residueSymbol_mul' (I J : Ideal (𝓞 F)) (hI : I ≠ ⊥) (hJ : J ≠ ⊥) (x : SInt 𝔪) :
+    residueSymbol ι 𝔪 (I * J) x = residueSymbol ι 𝔪 I x * residueSymbol ι 𝔪 J x := by
+  unfold residueSymbol
+  rw [normalizedFactors_mul hI hJ, Multiset.map_add, Multiset.prod_add]
+
+lemma residueSymbol_prime' {P : Ideal (𝓞 F)} (hP : Irreducible P) (x : SInt 𝔪) :
+    residueSymbol ι 𝔪 P x = sexticResidueSymbol ι 𝔪 P x := by
+  unfold residueSymbol
+  rw [normalizedFactors_irreducible hP, normalize_eq]; simp
+
+lemma residueSymbol_top' (x : SInt 𝔪) : residueSymbol ι 𝔪 ⊤ x = 1 := by
+  unfold residueSymbol
+  rw [← Ideal.one_eq_top, normalizedFactors_one]; simp
+
+open Classical in
+/-- `g(I) = χ_I(u)` on exterior `I`, `0` elsewhere. -/
+def gK (𝔪 : Ideal (𝓞 F)) (u : SInt 𝔪) (I : Ideal (𝓞 F)) : ℂ :=
+  if IsExterior 𝔪 I then residueSymbol ι 𝔪 I u else 0
+
+lemma isExterior_mul_iff {I J : Ideal (𝓞 F)} :
+    IsExterior 𝔪 (I * J) ↔ IsExterior 𝔪 I ∧ IsExterior 𝔪 J := by
+  unfold IsExterior
+  have hb : I * J ≠ ⊥ ↔ I ≠ ⊥ ∧ J ≠ ⊥ := by
+    simp only [ne_eq, ← Ideal.zero_eq_bot, mul_eq_zero, not_or]
+  rw [hb, C3A.sup_mul_eq_top_iff]; tauto
+
+lemma gK_mul (I J : Ideal (𝓞 F)) : gK ι 𝔪 u (I * J) = gK ι 𝔪 u I * gK ι 𝔪 u J := by
+  classical
+  unfold gK
+  by_cases hI : IsExterior 𝔪 I <;> by_cases hJ : IsExterior 𝔪 J
+  · rw [if_pos (isExterior_mul_iff.2 ⟨hI, hJ⟩), if_pos hI, if_pos hJ,
+      residueSymbol_mul' ι I J hI.1 hJ.1]
+  · rw [if_neg (fun h => hJ (isExterior_mul_iff.1 h).2), if_neg hJ, mul_zero]
+  · rw [if_neg (fun h => hI (isExterior_mul_iff.1 h).1), if_neg hI, zero_mul]
+  · rw [if_neg (fun h => hI (isExterior_mul_iff.1 h).1), if_neg hI, zero_mul]
+
+lemma sup_mul_top {P I J : Ideal (𝓞 F)} : P ⊔ I * J = ⊤ ↔ P ⊔ I = ⊤ ∧ P ⊔ J = ⊤ := by
+  rw [sup_comm, C3A.sup_mul_eq_top_iff, sup_comm I, sup_comm J]
+
+variable (hK : ∀ w : InfinitePlace F, w.IsComplex)
+
+lemma kummerL_eq_tsum (s : ℂ) :
+    kummerL ι 𝔪 u s = ∑' I : Ideal (𝓞 F), gK ι 𝔪 u I * (Ideal.absNorm I : ℂ) ^ (-s) := by
+  classical
+  unfold kummerL
+  rw [← tsum_subtype_eq_of_support_subset (s := {I | IsExterior 𝔪 I})
+    (f := fun I : Ideal (𝓞 F) => gK ι 𝔪 u I * (Ideal.absNorm I : ℂ) ^ (-s))]
+  · refine tsum_congr fun I => ?_
+    simp only [gK, if_pos I.2]
+  · intro I hI
+    by_contra hne
+    apply hI
+    simp only [gK]
+    rw [if_neg (show ¬ IsExterior 𝔪 I from hne), zero_mul]
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Core: (8.14) for a number field in `Type`
+
+For `F : Type` totally complex with a primitive sixth root of unity: for every `u ∈ R` with
+`u R = 𝔲 R`, `𝔲` sixth-power-free and `u ∉ F^{×6}`, `kummerL u` continues to an entire `Λ` with
+`‖Λ(w)‖ ≤ C (N𝔲)^{1/2+ε} (2 + |Im w|)^{3 r₂}` on `.003 ≤ Re w ≤ 4`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField NumberField.InfinitePlace IsDedekindDomain ArtinPrimitiveRoots.L3K.KB
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3Z_Mob: Möbius sums over the ideals of `𝓞 F`
+
+* `idealsUpTo R`: the nonzero ideals of norm `≤ R` (a `Finset`); `Countable (Ideal (𝓞 F))`;
+* `sum_moebius_divisors`: `∑_{J ∣ I} μ(J) = [I = 1]` (after `IdealMobiusDivisorSum` of the 7/8
+  port, generalized from `ℤ[ω]`);
+* `alpha X n = ∑_{d ∣ n, q_d ≤ X} μ(d)`: the coefficients (8.5): `α(1) = 1`, `α(n) = 0` for
+  `1 < q_n ≤ X`, and `|α(n)| ≤ 2^{ω(n)} ≪_δ q_n^δ`;
+* `card_idealsUpTo_le`: Rankin's bound `#{q ≤ R} ≤ R^σ ∑ q^{-σ}`. -/
+
+open NumberField UniqueFactorizationMonoid
+
+namespace ArtinPrimitiveRoots
+
+namespace L3Z
+
+variable {F : Type*} [Field F] [NumberField F]
+
+attribute [local instance] Classical.propDecidable
+
+open Classical in
+/-- The nonzero ideals of norm at most `R`. -/
+noncomputable def idealsUpTo (F : Type*) [Field F] [NumberField F] (R : ℝ) :
+    Finset (Ideal (𝓞 F)) :=
+  ((Ideal.finite_setOfPred_absNorm_le (S := 𝓞 F) ⌊R⌋₊).subset
+    (show {I : Ideal (𝓞 F) | I ≠ ⊥ ∧ (Ideal.absNorm I : ℝ) ≤ R} ⊆
+        {I | Ideal.absNorm I ≤ ⌊R⌋₊} from fun I hI => Nat.le_floor hI.2)).toFinset
+
+lemma mem_idealsUpTo {R : ℝ} {I : Ideal (𝓞 F)} :
+    I ∈ idealsUpTo F R ↔ I ≠ ⊥ ∧ (Ideal.absNorm I : ℝ) ≤ R := by
+  simp [idealsUpTo]
+
+instance countable_ideal : Countable (Ideal (𝓞 F)) := by
+  have h : (Set.univ : Set (Ideal (𝓞 F))) = ⋃ n : ℕ, {I | Ideal.absNorm I ≤ n} := by
+    ext I; simp only [Set.mem_univ, Set.mem_iUnion, Set.mem_ofPred_eq, true_iff]
+    exact ⟨_, le_rfl⟩
+  have : (Set.univ : Set (Ideal (𝓞 F))).Countable := by
+    rw [h]
+    exact Set.countable_iUnion fun n => (Ideal.finite_setOfPred_absNorm_le n).countable
+  exact Set.countable_univ_iff.1 this
+
+lemma absNorm_pos {I : Ideal (𝓞 F)} (hI : I ≠ ⊥) : 0 < Ideal.absNorm I :=
+  Nat.pos_of_ne_zero (fun h => hI (Ideal.absNorm_eq_zero_iff.1 h))
+
+lemma absNorm_le_of_dvd {I J : Ideal (𝓞 F)} (hI : I ≠ ⊥) (h : J ∣ I) :
+    Ideal.absNorm J ≤ Ideal.absNorm I :=
+  Nat.le_of_dvd (absNorm_pos hI) (map_dvd Ideal.absNorm h)
+
+/-- The prime support of `I`. -/
+noncomputable def primeSupport (I : Ideal (𝓞 F)) : Finset (Ideal (𝓞 F)) :=
+  by classical exact (normalizedFactors I).toFinset
+
+theorem support_prime {I P : Ideal (𝓞 F)} (hP : P ∈ primeSupport I) : Prime P := by
+  classical
+  exact prime_of_normalized_factor P (Multiset.mem_toFinset.mp hP)
+
+theorem support_product_ne_zero {I : Ideal (𝓞 F)} {S : Finset (Ideal (𝓞 F))}
+    (hS : S ⊆ primeSupport I) : (∏ P ∈ S, P) ≠ 0 :=
+  Finset.prod_ne_zero_iff.mpr (fun _P hP => (support_prime (hS hP)).ne_zero)
+
+theorem factors_support_product {I : Ideal (𝓞 F)} {S : Finset (Ideal (𝓞 F))}
+    (hS : S ⊆ primeSupport I) : normalizedFactors (∏ P ∈ S, P) = S.val := by
+  have hp : ∀ P ∈ S.val, Prime P := fun P hP => support_prime (hS hP)
+  simpa using normalizedFactors_prod_of_prime hp
+
+theorem support_product_dvd {I : Ideal (𝓞 F)} (hI : I ≠ ⊥) {S : Finset (Ideal (𝓞 F))}
+    (hS : S ⊆ primeSupport I) : (∏ P ∈ S, P) ∣ I := by
+  classical
+  apply (dvd_iff_normalizedFactors_le_normalizedFactors (support_product_ne_zero hS) hI).mpr
+  rw [factors_support_product hS]
+  apply (Multiset.le_iff_subset S.nodup).mpr
+  intro P hP
+  exact Multiset.mem_toFinset.mp (hS hP)
+
+/-- `∏_{P ∈ supp I} q_P ≤ q_I`. -/
+lemma prod_support_norm_le (I : Ideal (𝓞 F)) (hI : I ≠ ⊥) :
+    ∏ P ∈ primeSupport I, Ideal.absNorm P ≤ Ideal.absNorm I := by
+  rw [← map_prod]
+  exact absNorm_le_of_dvd hI (support_product_dvd hI subset_rfl)
+
+/-- `2^{ω(I)} ≪_δ q_I^δ`. -/
+theorem two_pow_card_support_le {δ : ℝ} (hδ : 0 < δ) :
+    ∃ C : ℝ, 0 < C ∧ ∀ I : Ideal (𝓞 F), I ≠ ⊥ →
+      (2 : ℝ) ^ (primeSupport I).card ≤ C * (Ideal.absNorm I : ℝ) ^ δ := by
+  classical
+  set R : ℝ := 2 ^ (1 / δ)
+  set small := idealsUpTo F R
+  refine ⟨2 ^ small.card, by positivity, fun I hI => ?_⟩
+  have hsplit : (2 : ℝ) ^ (primeSupport I).card = ∏ P ∈ primeSupport I, (2 : ℝ) := by simp
+  have hP : ∀ P ∈ primeSupport I, (2 : ℝ) ≤ (if P ∈ small then 2 else 1) *
+      (Ideal.absNorm P : ℝ) ^ δ := by
+    intro P hP
+    have hP0 : P ≠ ⊥ := (support_prime hP).ne_zero
+    have hq : (1 : ℝ) ≤ Ideal.absNorm P := by exact_mod_cast absNorm_pos hP0
+    split_ifs with hs
+    · have : 1 ≤ (Ideal.absNorm P : ℝ) ^ δ := Real.one_le_rpow hq hδ.le
+      linarith
+    · rw [mem_idealsUpTo] at hs
+      push Not at hs
+      have hR := hs hP0
+      have : (2 : ℝ) = R ^ δ := by
+        rw [← Real.rpow_mul (by norm_num), one_div, inv_mul_cancel₀ hδ.ne', Real.rpow_one]
+      rw [one_mul, this]
+      exact Real.rpow_le_rpow (by positivity) hR.le hδ.le
+  calc (2 : ℝ) ^ (primeSupport I).card = ∏ P ∈ primeSupport I, (2 : ℝ) := hsplit
+    _ ≤ ∏ P ∈ primeSupport I, ((if P ∈ small then 2 else 1) * (Ideal.absNorm P : ℝ) ^ δ) :=
+        Finset.prod_le_prod (fun _ _ => by norm_num) hP
+    _ = (∏ P ∈ primeSupport I, (if P ∈ small then (2 : ℝ) else 1)) *
+        ∏ P ∈ primeSupport I, (Ideal.absNorm P : ℝ) ^ δ := Finset.prod_mul_distrib
+    _ ≤ 2 ^ small.card * (Ideal.absNorm I : ℝ) ^ δ := by
+        apply mul_le_mul _ _ (by positivity) (by positivity)
+        · rw [Finset.prod_ite, Finset.prod_const_one, mul_one, Finset.prod_const]
+          apply pow_le_pow_right₀ (by norm_num)
+          apply Finset.card_le_card
+          intro P hP; exact (Finset.mem_filter.1 hP).2
+        · rw [Real.finsetProd_rpow _ _ (fun _ _ => Nat.cast_nonneg _)]
+          apply Real.rpow_le_rpow (by positivity) _ hδ.le
+          exact_mod_cast prod_support_norm_le I hI
+
+end L3Z
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+section
+/-! # L3S_Core: L3K's (8.14) for every non-sixth-power `u`, `F : Type`
+
+`L3K_Core` needs `u R = 𝔲 R` with `𝔲` sixth-power-free. For the pair characters `u_r⁵ u_r'` of the
+large sieve, `𝔲 = 𝔲_r⁵ 𝔲_r'` is not sixth-power-free: at an exterior `P ∣ 𝔲` with `6 ∣ v_P(u)` the
+Kummer character is unramified while `χ_P(u) = 0`. So the Euler package is taken at the modulus
+`𝔣 𝔪 𝔲` instead of `𝔣 𝔪` (`exists_chi''`); the finitely many removed factors (`Efac'`) are bounded by
+`2^{#P ⊇ 𝔪} 2^{#P ⊇ 𝔲}`. The bound is in terms of any `𝔟 ≠ 0` lying in every prime containing `𝔲`
+(conductor `≤ N(D₆) N(𝔪 𝔟)`; `2^{#P ⊇ 𝔟} ≪ N𝔟^δ`), on `0 ≤ Re w ≤ 4`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField NumberField.InfinitePlace IsDedekindDomain LanglandsTunnell.P2.Artin
+  ArtinPrimitiveRoots.L3K.KB UniqueFactorizationMonoid
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3S
+
+open L3K
+
+variable {F : Type} [Field F] [NumberField F] {ζ : F} (hζ : IsPrimitiveRoot ζ 6) (ι : F →+* ℂ)
+  {𝔪 : Ideal (𝓞 F)}
+
+/-- The data of the generalized bridge: no sixth-power-freeness. -/
+structure BHyp (𝔪 : Ideal (𝓞 F)) (u : SInt 𝔪) (𝔲 : Ideal (𝓞 F)) : Prop where
+  ne_bot : 𝔪 ≠ ⊥
+  six : ∀ v : HeightOneSpectrum (𝓞 F), (6 : 𝓞 F) ∈ v.asIdeal → 𝔪 ≤ v.asIdeal
+  prin : ∀ v : HeightOneSpectrum (𝓞 F), ¬ 𝔪 ≤ v.asIdeal →
+    ∃ p : SInt 𝔪, Ideal.span {p} = v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪))
+  gen : Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪))
+  u_ne : 𝔲 ≠ ⊥
+  nonsix : ∀ b : F, b ^ 6 ≠ (u : F)
+
+variable {u : SInt 𝔪} {𝔲 : Ideal (𝓞 F)}
+
+lemma BHyp.ne_zero (h : BHyp 𝔪 u 𝔲) : (u : F) ≠ 0 := fun h0 =>
+  h.nonsix 0 (by rw [h0]; ring)
+
+/-- `u` as a unit of `F`. -/
+def uU (h : BHyp 𝔪 u 𝔲) : Fˣ := Units.mk0 (u : F) h.ne_zero
+
+lemma six_not_mem' (h : BHyp 𝔪 u 𝔲) {v : HeightOneSpectrum (𝓞 F)} (hv : ¬ 𝔪 ≤ v.asIdeal) :
+    (6 : 𝓞 F) ∉ v.asIdeal := fun h6 => hv (h.six v h6)
+
+theorem localValue_eq_sextic' (h : BHyp 𝔪 u 𝔲) {v : HeightOneSpectrum (𝓞 F)}
+    (hv : ¬ 𝔪 ≤ v.asIdeal) (hv𝔲 : ¬ 𝔲 ≤ v.asIdeal) :
+    ArtinL.Abelian.IsUnramifiedAt (psi F hζ ι (uU h)) v ∧
+      ArtinL.Abelian.localValue (psi F hζ ι (uU h)) v = sexticResidueSymbol ι 𝔪 v.asIdeal u := by
+  have hval : v.valuation F ((uU h : Fˣ) : F) = 1 := val_eq_one v hv h.gen hv𝔲
+  have h6 := six_not_mem' h hv
+  have h6' : ((6 : ℕ) : 𝓞 F) ∉ v.asIdeal := by exact_mod_cast h6
+  have hun := isUnramifiedAt_psi hζ ι (uU h) v h6' hval
+  obtain ⟨p, hp⟩ := h.prin v hv
+  obtain ⟨-, ξ, hξ6, hcong, hsx⟩ := C0Y.sextic_spec ι v hv p hp (z6_prim hζ) h6 u hval
+  refine ⟨hun, ?_⟩
+  rw [ArtinL.Abelian.localValue, if_pos hun, hsx,
+    psi_artinFrob hζ ι (uU h) v h6' hval (algebraMap (𝓞 F) F ξ) (by rw [← map_pow, hξ6, map_one])
+      hcong]
+
+theorem sext_eq_zero_of_le (h : BHyp 𝔪 u 𝔲) {v : HeightOneSpectrum (𝓞 F)}
+    (hv : ¬ 𝔪 ≤ v.asIdeal) (hv𝔲 : 𝔲 ≤ v.asIdeal) : sexticResidueSymbol ι 𝔪 v.asIdeal u = 0 := by
+  obtain ⟨p, hp⟩ := h.prin v hv
+  have hlt : v.valuation F (u : F) < 1 := by
+    have := val_le_of_le v hv h.gen (e := 1) (by simpa using hv𝔲)
+    refine this.trans_lt ?_
+    rw [← WithZero.exp_zero]; exact WithZero.exp_lt_exp.2 (by norm_num)
+  have hmem := C0Y.mem_map_of_val_lt_one v hv p hp u hlt
+  unfold sexticResidueSymbol
+  rw [if_pos (Ideal.Quotient.eq_zero_iff_mem.2 hmem)]
+
+variable (hK : ∀ w : InfinitePlace F, w.IsComplex)
+
+lemma sup_mul3 {P A B C : Ideal (𝓞 F)} : P ⊔ A * (B * C) = ⊤ ↔
+    P ⊔ A = ⊤ ∧ P ⊔ B = ⊤ ∧ P ⊔ C = ⊤ := by
+  rw [sup_mul_top, sup_mul_top]
+
+/-- The Hecke character `χ'` of modulus `𝔣 (𝔪 𝔲)` given by 019ae22c from `psiH`. -/
+lemma exists_chi'' (h : BHyp 𝔪 u 𝔲) :
+    ∃ χ' : HeckeChar F (ArtinL.Abelian.conductor (psi F hζ ι (uU h)) * (𝔪 * 𝔲)),
+      (∀ I, χ'.toFun I = gK ι 𝔪 u I) ∧
+      ∀ s : ℂ, 1 < s.re → (psiH (psi F hζ ι (uU h)) hK).LSeries s = χ'.LSeries s *
+        ∏ᶠ (P : Ideal (𝓞 F)) (_ : P.IsPrime ∧ P ≠ ⊥ ∧
+            ArtinL.Abelian.conductor (psi F hζ ι (uU h)) * (𝔪 * 𝔲) ≤ P ∧
+            P ⊔ ArtinL.Abelian.conductor (psi F hζ ι (uU h)) = ⊤),
+          (1 - (psiH (psi F hζ ι (uU h)) hK).toFun P * (Ideal.absNorm P : ℂ) ^ (-s))⁻¹ := by
+  classical
+  set ψ := psi F hζ ι (uU h)
+  set 𝔣 := ArtinL.Abelian.conductor ψ
+  obtain ⟨-, -, -, χ', hagree, hL⟩ := heckeLSeries_euler_package_of_le F 𝔣 (𝔣 * (𝔪 * 𝔲))
+    (mul_ne_zero (ArtinL.Abelian.conductor_ne_bot ψ) (mul_ne_zero h.ne_bot h.u_ne))
+    Ideal.mul_le_left (psiH ψ hK)
+  refine ⟨χ', ?_, hL⟩
+  have hext : ∀ v : HeightOneSpectrum (𝓞 F), IsExterior 𝔪 v.asIdeal ↔ ¬ 𝔪 ≤ v.asIdeal := by
+    intro v
+    rw [IsExterior, sup_eq_top_iff_not_dvd, Ideal.dvd_iff_le]
+    exact ⟨fun h => h.2, fun h => ⟨v.ne_bot, h⟩⟩
+  have hnle : ∀ v : HeightOneSpectrum (𝓞 F), ∀ I : Ideal (𝓞 F), v.asIdeal ⊔ I = ⊤ ↔
+      ¬ I ≤ v.asIdeal := by
+    intro v I
+    rw [sup_eq_top_iff_not_dvd, Ideal.dvd_iff_le]
+  have hprime : ∀ v : HeightOneSpectrum (𝓞 F), χ'.toFun v.asIdeal = gK ι 𝔪 u v.asIdeal := by
+    intro v
+    have hirr : Irreducible v.asIdeal := v.irreducible
+    by_cases hA : v.asIdeal ⊔ 𝔣 * (𝔪 * 𝔲) = ⊤
+    · rw [hagree _ hA, psiH_prime]
+      obtain ⟨h𝔣, hm, h𝔲⟩ := sup_mul3.1 hA
+      have hvm : ¬ 𝔪 ≤ v.asIdeal := (hnle v 𝔪).1 hm
+      have hv𝔲 : ¬ 𝔲 ≤ v.asIdeal := (hnle v 𝔲).1 h𝔲
+      rw [(localValue_eq_sextic' hζ ι h hvm hv𝔲).2, gK, if_pos ((hext v).2 hvm),
+        residueSymbol_prime' ι hirr]
+    · rw [(χ'.eq_zero_iff' _).2 (Or.inr hA), gK]
+      split_ifs with he
+      · have hvm : ¬ 𝔪 ≤ v.asIdeal := (hext v).1 he
+        rw [residueSymbol_prime' ι hirr]
+        by_cases hv𝔲 : 𝔲 ≤ v.asIdeal
+        · rw [sext_eq_zero_of_le ι h hvm hv𝔲]
+        · exfalso
+          have hun := (localValue_eq_sextic' hζ ι h hvm hv𝔲).1
+          have h𝔣 : v.asIdeal ⊔ 𝔣 = ⊤ := by
+            rw [sup_eq_top_iff_not_dvd]
+            intro hd
+            exact ((ArtinL.Abelian.dvd_conductor_iff_not_isUnramifiedAt F _ ψ v).1 hd) hun
+          exact hA (sup_mul3.2 ⟨h𝔣, he.2, (hnle v 𝔲).2 hv𝔲⟩)
+      · rfl
+  intro I
+  induction I using UniqueFactorizationMonoid.induction_on_prime with
+  | h₁ =>
+    rw [Ideal.zero_eq_bot, T12B.toFun_bot, gK, if_neg (fun h => h.1 rfl)]
+  | h₂ x hx =>
+    rw [Ideal.isUnit_iff.1 hx, T12B.toFun_top, gK, if_pos ⟨top_ne_bot, top_sup_eq _⟩,
+      residueSymbol_top']
+  | h₃ a p ha hp ih =>
+    rw [χ'.map_mul', gK_mul, ih]
+    congr 1
+    exact hprime (HeightOneSpectrum.ofPrime hp)
+
+/-- The Euler factors at `P ⊇ 𝔣 𝔪 𝔲` with `P + 𝔣 = 1`. -/
+def Efac' (h : BHyp 𝔪 u 𝔲) (s : ℂ) : ℂ :=
+  ∏ᶠ (P : Ideal (𝓞 F)) (_ : P.IsPrime ∧ P ≠ ⊥ ∧
+      ArtinL.Abelian.conductor (psi F hζ ι (uU h)) * (𝔪 * 𝔲) ≤ P ∧
+      P ⊔ ArtinL.Abelian.conductor (psi F hζ ι (uU h)) = ⊤),
+    (1 - (psiH (psi F hζ ι (uU h)) hK).toFun P * (Ideal.absNorm P : ℂ) ^ (-s))
+
+/-- **`kummerL = L(ψ) · E`** on `Re s > 1`. -/
+theorem kummerL_eq' (h : BHyp 𝔪 u 𝔲) {s : ℂ} (hs : 1 < s.re) :
+    kummerL ι 𝔪 u s =
+      ArtinL.Abelian.LSeries (psi F hζ ι (uU h)) s * Efac' hζ ι hK h s := by
+  classical
+  set ψ := psi F hζ ι (uU h)
+  obtain ⟨χ', hχ', hL⟩ := exists_chi'' hζ ι hK h
+  have h𝔣𝔪 : ArtinL.Abelian.conductor ψ * (𝔪 * 𝔲) ≠ ⊥ :=
+    mul_ne_zero (ArtinL.Abelian.conductor_ne_bot ψ) (mul_ne_zero h.ne_bot h.u_ne)
+  have hnorm := T12B.norm_le_one h𝔣𝔪 χ'
+  have hk : kummerL ι 𝔪 u s = χ'.LSeries s := by
+    rw [kummerL_eq_tsum, T12B.lseries_eq_tsum χ' hnorm hs]
+    refine tsum_congr fun I => ?_
+    rw [T12B.gs, hχ']
+  have h1 := hL s hs
+  have hne := (C3A.euler1 (psiH ψ hK) s
+    (T12A.norm_heckeChar_le (ArtinL.Abelian.conductor_ne_bot ψ) _) hs).2
+  simp_rw [finprod_inv_distrib] at h1
+  change (psiH ψ hK).LSeries s = χ'.LSeries s * (Efac' hζ ι hK h s)⁻¹ at h1
+  have hE : Efac' hζ ι hK h s ≠ 0 := by
+    intro h0; rw [h0, inv_zero, mul_zero] at h1; exact hne h1
+  rw [hk, LSeries_eq_psiH ψ hK, h1, mul_assoc, inv_mul_cancel₀ hE, mul_one]
+
+lemma Bset_subset' (h : BHyp 𝔪 u 𝔲) :
+    {P : Ideal (𝓞 F) | P.IsPrime ∧ P ≠ ⊥ ∧
+      ArtinL.Abelian.conductor (psi F hζ ι (uU h)) * (𝔪 * 𝔲) ≤ P ∧
+      P ⊔ ArtinL.Abelian.conductor (psi F hζ ι (uU h)) = ⊤} ⊆
+    {P : Ideal (𝓞 F) | P.IsPrime ∧ P ≠ ⊥ ∧ 𝔪 ≤ P} ∪ {P : Ideal (𝓞 F) | P.IsPrime ∧ P ≠ ⊥ ∧ 𝔲 ≤ P} := by
+  rintro P ⟨hP, h0, hle, htop⟩
+  rcases hP.mul_le.1 hle with h1 | h1
+  · exact absurd (by rw [eq_top_iff, ← htop]; exact sup_le le_rfl h1) hP.ne_top
+  · rcases hP.mul_le.1 h1 with h2 | h2
+    · exact Or.inl ⟨hP, h0, h2⟩
+    · exact Or.inr ⟨hP, h0, h2⟩
+
+/-- `Efac'` is a finite product: differentiable, and bounded by `2^{n_𝔪 + n_𝔲}` on `Re s ≥ 0`. -/
+theorem Efac'_props (h : BHyp 𝔪 u 𝔲) :
+    Differentiable ℂ (Efac' hζ ι hK h) ∧ ∀ s : ℂ, 0 ≤ s.re →
+      ‖Efac' hζ ι hK h s‖ ≤ 2 ^ (C3A.finite_primes_ge h.ne_bot).toFinset.card *
+        2 ^ (C3A.finite_primes_ge h.u_ne).toFinset.card := by
+  classical
+  set ψ := psi F hζ ι (uU h)
+  set Bs := {P : Ideal (𝓞 F) | P.IsPrime ∧ P ≠ ⊥ ∧ ArtinL.Abelian.conductor ψ * (𝔪 * 𝔲) ≤ P ∧
+      P ⊔ ArtinL.Abelian.conductor ψ = ⊤}
+  have hBf : Bs.Finite :=
+    ((C3A.finite_primes_ge h.ne_bot).union (C3A.finite_primes_ge h.u_ne)).subset
+      (Bset_subset' hζ ι h)
+  have heq : ∀ s, Efac' hζ ι hK h s = ∏ P ∈ hBf.toFinset,
+      (1 - (psiH ψ hK).toFun P * (Ideal.absNorm P : ℂ) ^ (-s)) := fun s =>
+    finprod_mem_eq_finite_toFinset_prod _ hBf
+  have hnorm := T12A.norm_heckeChar_le (ArtinL.Abelian.conductor_ne_bot ψ) (psiH ψ hK)
+  refine ⟨?_, fun s hs => ?_⟩
+  · have : Efac' hζ ι hK h = fun s => ∏ P ∈ hBf.toFinset,
+        (1 - (psiH ψ hK).toFun P * (Ideal.absNorm P : ℂ) ^ (-s)) := funext heq
+    rw [this]
+    refine Differentiable.fun_finsetProd (𝕜 := ℂ) fun P hP => ?_
+    have hP0 : (Ideal.absNorm P : ℂ) ≠ 0 := by
+      have := ((Set.Finite.mem_toFinset _).1 hP).2.1
+      exact_mod_cast (Nat.pos_of_ne_zero (by rwa [Ne, Ideal.absNorm_eq_zero_iff])).ne'
+    exact (differentiable_const _).sub ((differentiable_const _).mul
+      (fun s => (differentiableAt_id.neg).const_cpow (Or.inl hP0)))
+  · rw [heq, norm_prod]
+    have hcard : hBf.toFinset.card ≤ (C3A.finite_primes_ge h.ne_bot).toFinset.card +
+        (C3A.finite_primes_ge h.u_ne).toFinset.card := by
+      refine (Finset.card_le_card ?_).trans (Finset.card_union_le _ _)
+      intro P hP
+      rw [Set.Finite.mem_toFinset] at hP
+      rw [Finset.mem_union, Set.Finite.mem_toFinset, Set.Finite.mem_toFinset]
+      exact Bset_subset' hζ ι h hP
+    calc ∏ P ∈ hBf.toFinset, ‖1 - (psiH ψ hK).toFun P * (Ideal.absNorm P : ℂ) ^ (-s)‖
+        ≤ ∏ _P ∈ hBf.toFinset, (2 : ℝ) := by
+          refine Finset.prod_le_prod (fun _ _ => norm_nonneg _) fun P hP => ?_
+          have hPn : 0 < Ideal.absNorm P := Nat.pos_of_ne_zero (by
+            rw [Ne, Ideal.absNorm_eq_zero_iff]; exact ((Set.Finite.mem_toFinset _).1 hP).2.1)
+          have h1 : ‖(Ideal.absNorm P : ℂ) ^ (-s)‖ ≤ 1 := by
+            rw [Complex.norm_natCast_cpow_of_pos hPn, Complex.neg_re]
+            exact Real.rpow_le_one_of_one_le_of_nonpos (by exact_mod_cast hPn) (by linarith)
+          calc _ ≤ ‖(1 : ℂ)‖ + ‖(psiH ψ hK).toFun P * (Ideal.absNorm P : ℂ) ^ (-s)‖ :=
+                norm_sub_le _ _
+            _ ≤ 1 + 1 * 1 := by
+                rw [norm_one, norm_mul]
+                gcongr
+                exact hnorm P
+            _ = 2 := by norm_num
+      _ = 2 ^ hBf.toFinset.card := by simp
+      _ ≤ 2 ^ ((C3A.finite_primes_ge h.ne_bot).toFinset.card +
+            (C3A.finite_primes_ge h.u_ne).toFinset.card) := pow_le_pow_right₀ (by norm_num) hcard
+      _ = _ := pow_add _ _ _
+
+omit hK in
+/-- The primes containing `𝔲` number at most `#primeSupport 𝔟` when `𝔟` lies in all of them. -/
+lemma card_primes_le {𝔲 𝔟 : Ideal (𝓞 F)} (h𝔲 : 𝔲 ≠ ⊥) (h𝔟 : 𝔟 ≠ ⊥)
+    (hb : ∀ v : HeightOneSpectrum (𝓞 F), 𝔲 ≤ v.asIdeal → 𝔟 ≤ v.asIdeal) :
+    (C3A.finite_primes_ge h𝔲).toFinset.card ≤ (L3Z.primeSupport 𝔟).card := by
+  classical
+  refine Finset.card_le_card fun P hP => ?_
+  rw [Set.Finite.mem_toFinset] at hP
+  obtain ⟨hPp, hP0, hle⟩ := hP
+  have := hb ⟨P, hPp, hP0⟩ hle
+  unfold L3Z.primeSupport
+  rw [Multiset.mem_toFinset, Ideal.mem_normalizedFactors_iff h𝔟]
+  exact ⟨hPp, this⟩
+
+/-- **(8.14) for every non-sixth-power `u`**, universe 0, on `0 ≤ Re w ≤ 4`. -/
+theorem core' (F : Type) [Field F] [NumberField F] {ζ : F} (hζ : IsPrimitiveRoot ζ 6)
+    (hK : ∀ w : InfinitePlace F, w.IsComplex) (ι : F →+* ℂ) :
+    ∀ 𝔪 : Ideal (𝓞 F), 𝔪 ≠ ⊥ → SmallPrimesDvd (Ideal.absNorm (Ideal.span {(6 : 𝓞 F)})) 𝔪 →
+      (∀ v : HeightOneSpectrum (𝓞 F), ¬ 𝔪 ≤ v.asIdeal →
+        ∃ p : SInt 𝔪, Ideal.span {p} = v.asIdeal.map (algebraMap (𝓞 F) (SInt 𝔪))) →
+      ∃ A : ℝ, ∀ ε : ℝ, 0 < ε → ∃ C : ℝ,
+        ∀ (u : SInt 𝔪) (𝔲 𝔟 : Ideal (𝓞 F)), 𝔲 ≠ ⊥ →
+          Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪)) → (∀ b : F, b ^ 6 ≠ (u : F)) →
+          𝔟 ≠ ⊥ → (∀ v : HeightOneSpectrum (𝓞 F), 𝔲 ≤ v.asIdeal → 𝔟 ≤ v.asIdeal) →
+          ∃ Λ : ℂ → ℂ, Differentiable ℂ Λ ∧
+            (∀ w : ℂ, 1 < w.re → Λ w = kummerL ι 𝔪 u w) ∧
+            ∀ w : ℂ, 0 ≤ w.re → w.re ≤ 4 →
+              ‖Λ w‖ ≤ C * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + ε) * (1 + |w.im|) ^ A := by
+  classical
+  intro 𝔪 h𝔪 hsmall hprin
+  have hsix : ∀ v : HeightOneSpectrum (𝓞 F), (6 : 𝓞 F) ∈ v.asIdeal → 𝔪 ≤ v.asIdeal := by
+    intro v hv
+    refine hsmall v.asIdeal v.isPrime v.ne_bot (Nat.le_of_dvd ?_ ?_)
+    · refine Nat.pos_of_ne_zero ?_
+      rw [Ne, Ideal.absNorm_eq_zero_iff, Ideal.span_singleton_eq_bot]
+      intro h; have := congrArg (fun x : 𝓞 F => (x : F)) h; simp at this
+    · exact Ideal.absNorm_dvd_absNorm_of_le (by rwa [Ideal.span_singleton_le_iff_mem])
+  refine ⟨3 * (nrComplexPlaces F : ℝ), fun ε hε => ?_⟩
+  set δ := min (ε / 2) (1 / 4)
+  have hδ0 : 0 < δ := lt_min (by linarith) (by norm_num)
+  have hδ1 : δ < 1 / 2 := (min_le_right _ _).trans_lt (by norm_num)
+  have hδε : 2 * δ ≤ ε := by have := min_le_left (ε / 2) (1 / 4); linarith
+  obtain ⟨C0, hC0, hconv⟩ := convexity_final F hK hδ0 hδ1
+  obtain ⟨Cω, hCω, hω⟩ := L3Z.two_pow_card_support_le (F := F) hδ0
+  set K0 : ℝ := (Ideal.absNorm (D6 F) : ℝ) * (Ideal.absNorm 𝔪 : ℝ)
+  set E : ℝ := 2 ^ (C3A.finite_primes_ge h𝔪).toFinset.card
+  refine ⟨C0 * K0 ^ (1 / 2 + δ) * E * Cω, fun u 𝔲 𝔟 h𝔲 hgen hnon h𝔟 hb => ?_⟩
+  have h : BHyp 𝔪 u 𝔲 := ⟨h𝔪, hsix, hprin, hgen, h𝔲, hnon⟩
+  set ψ := psi F hζ ι (uU h)
+  have hψ : ψ ≠ 1 := psi_ne_one hζ ι (uU h) hnon
+  obtain ⟨L, hL, hLre, hbound⟩ := hconv (KM F (uU h)) ψ hψ
+  obtain ⟨hEd, hEb⟩ := Efac'_props hζ ι hK h
+  refine ⟨fun w => L w * Efac' hζ ι hK h w, hL.mul hEd, fun w hw => ?_, fun w hw1 hw2 => ?_⟩
+  · show L w * _ = _
+    rw [kummerL_eq' hζ ι hK h hw, hLre w hw]
+  -- the conductor
+  have hcond := absNorm_conductor_psi_le hζ ι (uU h) (𝔪 * 𝔟) (mul_ne_zero h𝔪 h𝔟) (by
+    intro v _ hval
+    by_cases hvm : 𝔪 ≤ v.asIdeal
+    · exact le_trans (Ideal.mul_le_left (I := 𝔪) (J := 𝔟)) hvm
+    · by_cases hv𝔲 : 𝔲 ≤ v.asIdeal
+      · exact le_trans (Ideal.mul_le_right (I := 𝔪) (J := 𝔟)) (hb v hv𝔲)
+      · exact absurd (val_eq_one v hvm hgen hv𝔲) hval)
+  rw [map_mul] at hcond
+  have hq : (1 : ℝ) ≤ Ideal.absNorm 𝔟 := by
+    exact_mod_cast Nat.one_le_iff_ne_zero.2 (by rwa [Ne, Ideal.absNorm_eq_zero_iff])
+  have hN : (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ) ≤ K0 * Ideal.absNorm 𝔟 := by
+    simp only [K0]; exact_mod_cast (by nlinarith [hcond] : _)
+  have hK0 : 0 ≤ K0 := by positivity
+  have hNp : (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ) ^ (1 / 2 + δ) ≤
+      K0 ^ (1 / 2 + δ) * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + δ) := by
+    calc _ ≤ (K0 * Ideal.absNorm 𝔟) ^ (1 / 2 + δ) :=
+          Real.rpow_le_rpow (by positivity) hN (by linarith)
+      _ = K0 ^ (1 / 2 + δ) * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + δ) :=
+          Real.mul_rpow hK0 (by positivity)
+  -- the removed Euler factors
+  have hE𝔲 : (2 : ℝ) ^ (C3A.finite_primes_ge h𝔲).toFinset.card ≤
+      Cω * (Ideal.absNorm 𝔟 : ℝ) ^ δ :=
+    (pow_le_pow_right₀ (by norm_num) (card_primes_le h𝔲 h𝔟 hb)).trans (hω 𝔟 h𝔟)
+  have hb' := hbound w (by linarith) hw2
+  have he := hEb w hw1
+  have hpow : (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + δ) * (Ideal.absNorm 𝔟 : ℝ) ^ δ ≤
+      (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + ε) := by
+    rw [← Real.rpow_add (by linarith)]
+    exact Real.rpow_le_rpow_of_exponent_le hq (by linarith)
+  rw [norm_mul]
+  calc ‖L w‖ * ‖Efac' hζ ι hK h w‖
+      ≤ (C0 * (Ideal.absNorm (ArtinL.Abelian.conductor ψ) : ℝ) ^ (1 / 2 + δ) *
+          (1 + |w.im|) ^ (3 * (nrComplexPlaces F : ℝ))) *
+          (E * (Cω * (Ideal.absNorm 𝔟 : ℝ) ^ δ)) :=
+        mul_le_mul hb' (he.trans (mul_le_mul_of_nonneg_left hE𝔲 (by positivity)))
+          (norm_nonneg _) (by positivity)
+    _ ≤ (C0 * (K0 ^ (1 / 2 + δ) * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + δ)) *
+          (1 + |w.im|) ^ (3 * (nrComplexPlaces F : ℝ))) *
+          (E * (Cω * (Ideal.absNorm 𝔟 : ℝ) ^ δ)) := by gcongr
+    _ = C0 * K0 ^ (1 / 2 + δ) * E * Cω *
+          ((Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + δ) * (Ideal.absNorm 𝔟 : ℝ) ^ δ) *
+          (1 + |w.im|) ^ (3 * (nrComplexPlaces F : ℝ)) := by ring
+    _ ≤ C0 * K0 ^ (1 / 2 + δ) * E * Cω * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + ε) *
+          (1 + |w.im|) ^ (3 * (nrComplexPlaces F : ℝ)) := by gcongr
+
+end L3S
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3K_Freq: a nonprincipal frequency element is not a sixth power
+
+* `span_freqElt`: `u R = 𝔲 R` for `u = freqElt g r`, `𝔲 = r.1.1`;
+* `freqElt_ne_pow_six`: for `r ≠ principalFreq`, `u ∉ F^{×6}` (`𝔲 ≠ ⊤`: an exterior valuation of `u`
+  lies in `1..5`; `𝔲 = ⊤`: `u = rep(ε) gen ⊤` with `gen ⊤ ∈ U_S^6` and `ε ≠ 1`). -/
+
+set_option autoImplicit false
+
+open NumberField IsDedekindDomain WithZero
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+variable {F : Type*} [Field F] [NumberField F] {ι : F →+* ℂ} {𝔪 : Ideal (𝓞 F)}
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # T12A_Prin: removing Euler factors from `ζ_K`
+
+For a finite set `T` of primes and `Re s > 1`,
+`∑_{I coprime to T} N(I)^{-s} = ∏_{v ∈ T} (1 - N(v)^{-s}) · ζ_K(s)`. -/
+
+set_option maxHeartbeats 4000000
+set_option autoImplicit false
+
+open NumberField Complex Ideal IsDedekindDomain
+
+namespace ArtinPrimitiveRoots.T12A
+
+variable {K : Type*} [Field K] [NumberField K]
+
+end ArtinPrimitiveRoots.T12A
+
+end
+end
+
+section
+section
+/-! # T12A_Main: continuation of `HeckeChar.LSeries` (cut T1)
+
+* nontrivial ray class character: entire, by 17728196 (`IsParity` with `S = ∅`);
+* trivial: `L(s, χ) = ∏_{v ∣ 𝔪} (1 - N v^{-s}) · ζ_K(s)`, continued by 8087d96f;
+* a field in an arbitrary universe is moved to `Type` along a ring isomorphism. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+
+open NumberField IsDedekindDomain Deep.NTSupply Complex
+
+namespace ArtinPrimitiveRoots
+
+namespace T12A
+
+section Principal
+
+variable {K : Type} [Field K] [NumberField K] {𝔪 : Ideal (𝓞 K)}
+
+end Principal
+
+section Transport
+
+
+theorem exists_small_model (F : Type u) [Field F] [NumberField F] :
+    ∃ (F₀ : Type) (_ : Field F₀) (_ : NumberField F₀), Nonempty (F₀ ≃+* F) := by
+  obtain ⟨α, hα⟩ := Field.exists_primitive_element ℚ F
+  have hint : IsIntegral ℚ α := Algebra.IsIntegral.isIntegral α
+  haveI : Fact (Irreducible (minpoly ℚ α)) := ⟨minpoly.irreducible hint⟩
+  let e : AdjoinRoot (minpoly ℚ α) ≃ₐ[ℚ] F :=
+    (IntermediateField.adjoinRootEquivAdjoin ℚ hint).trans
+      ((IntermediateField.equivOfEq hα).trans IntermediateField.topEquiv)
+  haveI : FiniteDimensional ℚ (AdjoinRoot (minpoly ℚ α)) :=
+    LinearEquiv.finiteDimensional e.toLinearEquiv.symm
+  haveI : NumberField (AdjoinRoot (minpoly ℚ α)) := { }
+  exact ⟨_, inferInstance, inferInstance, ⟨e.toRingEquiv⟩⟩
+
+end Transport
+
+end T12A
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+section
+/-! # L3K_Main: KummerConvexity (8.14), statement verbatim, for `F : Type*`
+
+Transport of `L3K.core` from a universe-0 model `F₀ ≃+* F` (T12A `exists_small_model`, C0R
+transport lemmas). This module does not import the target's stub. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField NumberField.InfinitePlace IsDedekindDomain UniqueFactorizationMonoid
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+namespace L3K
+
+/-- A number field with a primitive sixth root of unity is totally complex. -/
+lemma isComplex_of_prim6 (K : Type*) [Field K] [NumberField K] {ζ : K}
+    (hζ : IsPrimitiveRoot ζ 6) (w : InfinitePlace K) : w.IsComplex := by
+  rw [← not_isReal_iff_isComplex]
+  intro hw
+  have h := hζ.map_of_injective (embedding_of_isReal hw).injective
+  have h6 : ((embedding_of_isReal hw) ζ) ^ 6 = 1 := h.pow_eq_one
+  have h2 : ((embedding_of_isReal hw) ζ) ^ 2 = 1 := by
+    have : (((embedding_of_isReal hw) ζ) ^ 2) ^ 3 = 1 := by rw [← pow_mul]; exact h6
+    exact (pow_eq_one_iff_of_nonneg (sq_nonneg _) (by norm_num)).1 this
+  have := h.dvd_of_pow_eq_one 2 h2
+  omega
+
+variable {F F' : Type*} [Field F] [NumberField F] [Field F'] [NumberField F']
+
+lemma rsMul (ι : F →+* ℂ) {𝔪 : Ideal (𝓞 F)} (I J : Ideal (𝓞 F)) (hI : I ≠ ⊥) (hJ : J ≠ ⊥)
+    (x : SInt 𝔪) :
+    residueSymbol ι 𝔪 (I * J) x = residueSymbol ι 𝔪 I x * residueSymbol ι 𝔪 J x := by
+  unfold residueSymbol
+  rw [normalizedFactors_mul hI hJ, Multiset.map_add, Multiset.prod_add]
+
+lemma rsPrime (ι : F →+* ℂ) {𝔪 : Ideal (𝓞 F)} {P : Ideal (𝓞 F)} (hP : Irreducible P)
+    (x : SInt 𝔪) : residueSymbol ι 𝔪 P x = sexticResidueSymbol ι 𝔪 P x := by
+  unfold residueSymbol
+  rw [normalizedFactors_irreducible hP, normalize_eq]; simp
+
+lemma rsTop (ι : F →+* ℂ) {𝔪 : Ideal (𝓞 F)} (x : SInt 𝔪) : residueSymbol ι 𝔪 ⊤ x = 1 := by
+  unfold residueSymbol
+  rw [← Ideal.one_eq_top, normalizedFactors_one]; simp
+
+lemma extMul {𝔪 I J : Ideal (𝓞 F)} :
+    IsExterior 𝔪 (I * J) ↔ IsExterior 𝔪 I ∧ IsExterior 𝔪 J := by
+  unfold IsExterior
+  have hb : I * J ≠ ⊥ ↔ I ≠ ⊥ ∧ J ≠ ⊥ := by
+    simp only [ne_eq, ← Ideal.zero_eq_bot, mul_eq_zero, not_or]
+  rw [hb, C3A.sup_mul_eq_top_iff]; tauto
+
+/-- Residue symbols of exterior ideals transport. -/
+lemma residueSymbol_transport (e : F ≃+* F') (ι : F →+* ℂ) (𝔪 : Ideal (𝓞 F))
+    (h6 : ∀ P : Ideal (𝓞 F), P.IsPrime → IsExterior 𝔪 P → P ⊔ Ideal.span {6} = ⊤)
+    (x : SInt 𝔪) (I : Ideal (𝓞 F)) (hI : IsExterior 𝔪 I) :
+    residueSymbol (ι.comp (e.symm : F' →+* F)) (𝔪.map (RingOfIntegers.mapRingEquiv e))
+        (I.map (RingOfIntegers.mapRingEquiv e)) (C0R.sIntEquiv e 𝔪 x) =
+      residueSymbol ι 𝔪 I x := by
+  set eO := RingOfIntegers.mapRingEquiv e
+  revert hI
+  induction I using UniqueFactorizationMonoid.induction_on_prime with
+  | h₁ => intro hI; exact absurd rfl hI.1
+  | h₂ y hy =>
+    intro _
+    rw [Ideal.isUnit_iff.1 hy, Ideal.map_top, rsTop, rsTop]
+  | h₃ a p ha hp ih =>
+    intro hI
+    obtain ⟨hpE, haE⟩ := extMul.1 hI
+    have hpm : (p.map eO) ≠ ⊥ := fun h0 =>
+      hpE.1 ((Ideal.map_eq_bot_iff_of_injective eO.injective).1 h0)
+    have ham : (a.map eO) ≠ ⊥ := fun h0 =>
+      haE.1 ((Ideal.map_eq_bot_iff_of_injective eO.injective).1 h0)
+    have hpP : p.IsPrime := (Ideal.prime_iff_isPrime hpE.1).1 hp
+    have hpmP : (p.map eO).IsPrime := Ideal.map_isPrime_of_equiv eO
+    rw [Ideal.map_mul, rsMul _ _ _ hpm ham, rsMul _ _ _ hpE.1 haE.1,
+      ih haE, rsPrime _ ((Ideal.prime_iff_isPrime hpm).2 hpmP).irreducible,
+      rsPrime _ hp.irreducible,
+      C0R.sexticResidueSymbol_transport e ι 𝔪 p (h6 p hpP hpE)]
+
+/-- `kummerL` transports. -/
+lemma kummerL_transport (e : F ≃+* F') (ι : F →+* ℂ) (𝔪 : Ideal (𝓞 F))
+    (h6 : ∀ P : Ideal (𝓞 F), P.IsPrime → IsExterior 𝔪 P → P ⊔ Ideal.span {6} = ⊤)
+    (u : SInt 𝔪) (w : ℂ) :
+    kummerL (ι.comp (e.symm : F' →+* F)) (𝔪.map (RingOfIntegers.mapRingEquiv e))
+        (C0R.sIntEquiv e 𝔪 u) w = kummerL ι 𝔪 u w := by
+  set eO := RingOfIntegers.mapRingEquiv e
+  have hback : (𝔪.map eO).map (RingOfIntegers.mapRingEquiv e.symm) = 𝔪 := by
+    rw [C0R.mapRingEquiv_symm, C0R.map_equiv_symm_map]
+  let σ : {I : Ideal (𝓞 F) // IsExterior 𝔪 I} ≃ {I : Ideal (𝓞 F') // IsExterior (𝔪.map eO) I} :=
+    { toFun := fun I => ⟨I.1.map eO, C0R.isExterior_map e I.2⟩
+      invFun := fun J => ⟨J.1.map (RingOfIntegers.mapRingEquiv e.symm), by
+        have := C0R.isExterior_map e.symm J.2
+        rwa [hback] at this⟩
+      left_inv := fun I => Subtype.ext (by
+        show (I.1.map eO).map (RingOfIntegers.mapRingEquiv e.symm) = I.1
+        rw [C0R.mapRingEquiv_symm, C0R.map_equiv_symm_map])
+      right_inv := fun J => Subtype.ext (by
+        show (J.1.map (RingOfIntegers.mapRingEquiv e.symm)).map eO = J.1
+        have := C0R.map_equiv_symm_map (RingOfIntegers.mapRingEquiv e.symm) J.1
+        rwa [C0R.mapRingEquiv_symm, RingEquiv.symm_symm] at this) }
+  unfold kummerL
+  rw [← σ.tsum_eq]
+  refine tsum_congr fun I => ?_
+  show residueSymbol _ _ (I.1.map eO) _ * (Ideal.absNorm (I.1.map eO) : ℂ) ^ (-w) = _
+  rw [residueSymbol_transport e ι 𝔪 h6 u I.1 I.2, C0R.absNorm_map_equiv]
+
+end L3K
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3S_Conv: `L3S.core'` for `F : Type*`
+
+Transport of `L3S.core'` from a universe-0 model `F₀ ≃+* F` exactly as in `L3K_Main`. This is the candidate cut
+`exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le_of_ne_pow_six`. -/
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option linter.unusedSectionVars false
+
+open NumberField NumberField.InfinitePlace IsDedekindDomain UniqueFactorizationMonoid
+
+noncomputable section
+
+namespace ArtinPrimitiveRoots
+
+theorem chk_exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le_of_ne_pow_six (n : ℕ) (hn0 : 0 < n) (hn : 12 ∣ n) (F : Type*) [Field F] [NumberField F]
+    [IsCyclotomicExtension {n} ℚ F] (ι : F →+* ℂ) :
+    ∃ N₀ : ℕ, ∀ 𝔪 : Ideal (𝓞 F), 𝔪 ≠ ⊥ → SmallPrimesDvd N₀ 𝔪 → ∀ g : AllowedGen ι 𝔪,
+      ∃ A : ℝ, ∀ ε : ℝ, 0 < ε → ∃ C : ℝ,
+        ∀ (u : SInt 𝔪) (𝔲 𝔟 : Ideal (𝓞 F)), 𝔲 ≠ ⊥ →
+          Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪)) → (∀ b : F, b ^ 6 ≠ (u : F)) →
+          𝔟 ≠ ⊥ → (∀ P : Ideal (𝓞 F), P.IsPrime → 𝔲 ≤ P → 𝔟 ≤ P) →
+          ∃ Λ : ℂ → ℂ, Differentiable ℂ Λ ∧
+            (∀ w : ℂ, 1 < w.re → Λ w = kummerL ι 𝔪 u w) ∧
+            ∀ w : ℂ, 0 ≤ w.re → w.re ≤ 4 →
+              ‖Λ w‖ ≤ C * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + ε) * (1 + |w.im|) ^ A := by
+  classical
+  haveI : NeZero n := ⟨hn0.ne'⟩
+  have hζn := IsCyclotomicExtension.zeta_spec n ℚ F
+  obtain ⟨k, hk⟩ := (show 6 ∣ n from dvd_trans (by norm_num) hn)
+  have hζ6 : IsPrimitiveRoot (IsCyclotomicExtension.zeta n ℚ F ^ k) 6 :=
+    hζn.pow hn0 (by rw [hk]; ring)
+  obtain ⟨F₀, _, _, ⟨e₀⟩⟩ := T12A.exists_small_model F
+  set e : F ≃+* F₀ := e₀.symm
+  set eO := RingOfIntegers.mapRingEquiv e
+  have hζ' := hζ6.map_of_injective e.injective
+  have hK' := L3K.isComplex_of_prim6 F₀ hζ'
+  have hcore := L3S.core' F₀ hζ' hK' (ι.comp (e.symm : F₀ →+* F))
+  refine ⟨Ideal.absNorm (Ideal.span {(6 : 𝓞 F₀)}), fun 𝔪 h𝔪 hsmall g => ?_⟩
+  set 𝔪' := 𝔪.map eO
+  have h𝔪' : 𝔪' ≠ ⊥ := fun h0 => h𝔪 ((Ideal.map_eq_bot_iff_of_injective eO.injective).1 h0)
+  have hsmall' : SmallPrimesDvd (Ideal.absNorm (Ideal.span {(6 : 𝓞 F₀)})) 𝔪' :=
+    C0R.smallPrimesDvd_map e hsmall
+  -- exterior primes of `F` avoid `6`
+  have h6 : ∀ P : Ideal (𝓞 F), P.IsPrime → IsExterior 𝔪 P → P ⊔ Ideal.span {6} = ⊤ := by
+    intro P hP hE
+    have hPm : (P.map eO).IsPrime := Ideal.map_isPrime_of_equiv eO
+    have hEm := C0R.isExterior_map e hE
+    have hmax : (P.map eO).IsMaximal := hPm.isMaximal hEm.1
+    have h1 : P.map eO ⊔ Ideal.span {(6 : 𝓞 F₀)} = ⊤ := by
+      by_contra hne
+      have hle : Ideal.span {(6 : 𝓞 F₀)} ≤ P.map eO :=
+        le_of_eq (hmax.eq_of_le hne le_sup_left).symm |>.trans' le_sup_right
+      have hN : Ideal.absNorm (P.map eO) ≤ Ideal.absNorm (Ideal.span {(6 : 𝓞 F₀)}) := by
+        refine Nat.le_of_dvd (Nat.pos_of_ne_zero ?_) (Ideal.absNorm_dvd_absNorm_of_le hle)
+        rw [Ne, Ideal.absNorm_eq_zero_iff, Ideal.span_singleton_eq_bot]
+        intro h; have := congrArg (fun x : 𝓞 F₀ => (x : F₀)) h; simp at this
+      have := hsmall' _ hPm hEm.1 hN
+      apply hPm.ne_top
+      rw [eq_top_iff, ← hEm.2]; exact sup_le le_rfl this
+    have h2 : (P ⊔ Ideal.span {6}).map eO = ⊤ := by
+      rw [Ideal.map_sup, Ideal.map_span, Set.image_singleton, map_ofNat]; exact h1
+    rw [← C0R.map_equiv_symm_map eO (P ⊔ Ideal.span {6}), h2, Ideal.map_top]
+  -- exterior primes of `F₀` are principal in `R₀`
+  have hprin' : ∀ v : HeightOneSpectrum (𝓞 F₀), ¬ 𝔪' ≤ v.asIdeal →
+      ∃ p : SInt 𝔪', Ideal.span {p} = v.asIdeal.map (algebraMap (𝓞 F₀) (SInt 𝔪')) := by
+    intro v hv
+    set P := v.asIdeal.map eO.symm
+    have hPP : P.map eO = v.asIdeal := by
+      have := C0R.map_equiv_symm_map eO.symm v.asIdeal
+      rwa [RingEquiv.symm_symm] at this
+    have hP : P.IsPrime := Ideal.map_isPrime_of_equiv eO.symm
+    have hP0 : P ≠ ⊥ := fun h0 => v.ne_bot (by rw [← hPP, h0, Ideal.map_bot])
+    have hPm : ¬ 𝔪 ≤ P := fun hle => hv (by rw [← hPP]; exact (C0R.map_equiv_le_iff eO).2 hle)
+    have hE : IsExterior 𝔪 P := ⟨hP0, by
+      by_contra hne
+      exact hPm (le_trans le_sup_right (le_of_eq ((hP.isMaximal hP0).eq_of_le hne le_sup_left).symm))⟩
+    refine ⟨C0R.sIntEquiv e 𝔪 (g.gen P), ?_⟩
+    have := congrArg (Ideal.map (C0R.sIntEquiv e 𝔪)) (g.span_gen P hE)
+    rw [Ideal.map_span, Set.image_singleton, C0R.map_map_sIntEquiv, hPP] at this
+    exact this
+  obtain ⟨A, hA⟩ := hcore 𝔪' h𝔪' hsmall' hprin'
+  refine ⟨A, fun ε hε => ?_⟩
+  obtain ⟨C, hC⟩ := hA ε hε
+  refine ⟨C, fun u 𝔲 𝔟 h𝔲 hgen hnon h𝔟 hb => ?_⟩
+  have h𝔲' : 𝔲.map eO ≠ ⊥ := fun h0 => h𝔲 ((Ideal.map_eq_bot_iff_of_injective eO.injective).1 h0)
+  have h𝔟' : 𝔟.map eO ≠ ⊥ := fun h0 => h𝔟 ((Ideal.map_eq_bot_iff_of_injective eO.injective).1 h0)
+  have hgen' : Ideal.span {C0R.sIntEquiv e 𝔪 u} =
+      (𝔲.map eO).map (algebraMap (𝓞 F₀) (SInt 𝔪')) := by
+    have := congrArg (Ideal.map (C0R.sIntEquiv e 𝔪)) hgen
+    rw [Ideal.map_span, Set.image_singleton, C0R.map_map_sIntEquiv] at this
+    exact this
+  have hnon' : ∀ b : F₀, b ^ 6 ≠ ((C0R.sIntEquiv e 𝔪 u : SInt 𝔪') : F₀) := by
+    intro b hb'
+    apply hnon (e.symm b)
+    rw [← map_pow, hb', C0R.sIntEquiv_coe, RingEquiv.symm_apply_apply]
+  have hb' : ∀ v : HeightOneSpectrum (𝓞 F₀), 𝔲.map eO ≤ v.asIdeal → 𝔟.map eO ≤ v.asIdeal := by
+    intro v hv
+    set P := v.asIdeal.map eO.symm
+    have hPP : P.map eO = v.asIdeal := by
+      have := C0R.map_equiv_symm_map eO.symm v.asIdeal
+      rwa [RingEquiv.symm_symm] at this
+    have hP : P.IsPrime := Ideal.map_isPrime_of_equiv eO.symm
+    rw [← hPP] at hv ⊢
+    exact (C0R.map_equiv_le_iff eO).2 (hb P hP ((C0R.map_equiv_le_iff eO).1 hv))
+  obtain ⟨Λ, hΛd, hΛeq, hΛb⟩ := hC _ _ _ h𝔲' hgen' hnon' h𝔟' hb'
+  refine ⟨Λ, hΛd, fun w hw => (hΛeq w hw).trans (L3K.kummerL_transport e ι 𝔪 h6 u w),
+    fun w h1 h2 => ?_⟩
+  have := hΛb w h1 h2
+  rwa [C0R.absNorm_map_equiv] at this
+
+end ArtinPrimitiveRoots
+
+end
+end
+end
+
+section
+section
+/-! # L3S_ConvDev: the cut `exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le_of_ne_pow_six` under its own name. Does not import the stub. -/
+
+open NumberField
+
+namespace ArtinPrimitiveRoots
+
+theorem exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le_of_ne_pow_six (n : ℕ) (hn0 : 0 < n) (hn : 12 ∣ n) (F : Type*) [Field F] [NumberField F]
+    [IsCyclotomicExtension {n} ℚ F] (ι : F →+* ℂ) :
+    ∃ N₀ : ℕ, ∀ 𝔪 : Ideal (𝓞 F), 𝔪 ≠ ⊥ → SmallPrimesDvd N₀ 𝔪 → ∀ g : AllowedGen ι 𝔪,
+      ∃ A : ℝ, ∀ ε : ℝ, 0 < ε → ∃ C : ℝ,
+        ∀ (u : SInt 𝔪) (𝔲 𝔟 : Ideal (𝓞 F)), 𝔲 ≠ ⊥ →
+          Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪)) → (∀ b : F, b ^ 6 ≠ (u : F)) →
+          𝔟 ≠ ⊥ → (∀ P : Ideal (𝓞 F), P.IsPrime → 𝔲 ≤ P → 𝔟 ≤ P) →
+          ∃ Λ : ℂ → ℂ, Differentiable ℂ Λ ∧
+            (∀ w : ℂ, 1 < w.re → Λ w = kummerL ι 𝔪 u w) ∧
+            ∀ w : ℂ, 0 ≤ w.re → w.re ≤ 4 →
+              ‖Λ w‖ ≤ C * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + ε) * (1 + |w.im|) ^ A :=
+  chk_exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le_of_ne_pow_six n hn0 hn F ι
+
+end ArtinPrimitiveRoots
+
+end
+end
+
+section
+open ArtinPrimitiveRoots
+
+open NumberField
+
+theorem solution (n : ℕ) (hn0 : 0 < n) (hn : 12 ∣ n) (F : Type*) [Field F] [NumberField F]
+    [IsCyclotomicExtension {n} ℚ F] (ι : F →+* ℂ) :
+    ∃ N₀ : ℕ, ∀ 𝔪 : Ideal (𝓞 F), 𝔪 ≠ ⊥ → SmallPrimesDvd N₀ 𝔪 → ∀ g : AllowedGen ι 𝔪,
+      ∃ A : ℝ, ∀ ε : ℝ, 0 < ε → ∃ C : ℝ,
+        ∀ (u : SInt 𝔪) (𝔲 𝔟 : Ideal (𝓞 F)), 𝔲 ≠ ⊥ →
+          Ideal.span {u} = 𝔲.map (algebraMap (𝓞 F) (SInt 𝔪)) → (∀ b : F, b ^ 6 ≠ (u : F)) →
+          𝔟 ≠ ⊥ → (∀ P : Ideal (𝓞 F), P.IsPrime → 𝔲 ≤ P → 𝔟 ≤ P) →
+          ∃ Λ : ℂ → ℂ, Differentiable ℂ Λ ∧
+            (∀ w : ℂ, 1 < w.re → Λ w = kummerL ι 𝔪 u w) ∧
+            ∀ w : ℂ, 0 ≤ w.re → w.re ≤ 4 →
+              ‖Λ w‖ ≤ C * (Ideal.absNorm 𝔟 : ℝ) ^ (1 / 2 + ε) * (1 + |w.im|) ^ A := by
+  exact ArtinPrimitiveRoots.exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le_of_ne_pow_six n hn0 hn F ι
+
+end

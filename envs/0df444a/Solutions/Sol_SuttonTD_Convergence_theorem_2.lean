@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SuttonTD.Convergence.theorem_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T13:18:51.124161+00:00
 -- url     : https://prove2.me/submissions/37e0185c-1e87-4b1e-ae8b-2a8807627622
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SuttonTD_Convergence_ExpectedVisits

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_shiftedHPoly_term
 -- name    : BookProof.ShiftedQuadratic.shiftedHPoly_term
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:25:49.037729+00:00
 -- url     : https://prove2.me/theorems/5f754a35-fd70-440c-ba70-6318a3667906

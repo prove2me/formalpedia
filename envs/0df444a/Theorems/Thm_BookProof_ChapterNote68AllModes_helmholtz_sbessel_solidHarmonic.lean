@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterNote68AllModes_helmholtz_sbessel_solidHarmonic
 -- name    : BookProof.ChapterNote68AllModes.helmholtz_sbessel_solidHarmonic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-06T10:12:49.164357+00:00
 -- url     : https://prove2.me/theorems/fc76e5e6-a281-47fa-b65d-bdb6d50d9ab7

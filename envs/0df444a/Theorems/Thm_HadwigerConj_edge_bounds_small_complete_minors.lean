@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_edge_bounds_small_complete_minors
 -- name    : HadwigerConj.edge_bounds_small_complete_minors
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T23:48:25.198415+00:00
 -- url     : https://prove2.me/theorems/18785bfe-b6c9-42a1-9313-0070c6d785f8

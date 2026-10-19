@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_planck_div_rayleigh_jeans_tendsto_one
 -- name    : HighEntropyLimit.planck_div_rayleigh_jeans_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:57:16.615144+00:00
 -- url     : https://prove2.me/theorems/37e76cfe-2a85-4960-af0b-4b983c666218

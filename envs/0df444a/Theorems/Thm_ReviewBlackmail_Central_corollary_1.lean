@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_Central_corollary_1
 -- name    : ReviewBlackmail.Central.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:53.433399+00:00
 -- url     : https://prove2.me/theorems/2c7963b1-9cd4-4777-85b6-d91e2fbbef4c

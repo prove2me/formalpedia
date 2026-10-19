@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_key_index
 -- name    : BookProof.ChapterWignerSymmetry.key_index
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:34:12.63944+00:00
 -- url     : https://prove2.me/theorems/906c9700-92e3-4d90-8b14-b442c613b4af

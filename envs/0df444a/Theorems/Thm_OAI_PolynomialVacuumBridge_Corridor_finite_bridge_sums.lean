@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PolynomialVacuumBridge_Corridor_finite_bridge_sums
 -- name    : OAI.PolynomialVacuumBridge.Corridor.finite_bridge_sums
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:05.539463+00:00
 -- url     : https://prove2.me/theorems/20b7be08-4668-4f01-99ac-169bee254408

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PerfectMatchingPSD_affine_lift_lower_bound
 -- name    : OAI.PerfectMatchingPSD.affine_lift_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:02.221268+00:00
 -- url     : https://prove2.me/theorems/c60016c3-87f9-4168-a0e4-7149a740fcb8

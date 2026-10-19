@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgrawalGoyalTS_TwoArmed_thompson_sampling_two_armed_regret
 -- name    : AgrawalGoyalTS.TwoArmed.thompson_sampling_two_armed_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:28:26.015989+00:00
 -- url     : https://prove2.me/theorems/98412e77-867b-4664-95e4-c931600b0e74

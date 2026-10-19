@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Sublinear_lemma1
 -- name    : NesterovRCD.Sublinear.lemma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:22:13.034724+00:00
 -- url     : https://prove2.me/theorems/406a6d70-44fa-4c29-b775-c001b3e39f79

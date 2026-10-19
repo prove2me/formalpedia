@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_harmFried_isPositiveSelfAdjointExtension
 -- name    : BookProof.QgOuterFockFL.harmFried_isPositiveSelfAdjointExtension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:46:19.311253+00:00
 -- url     : https://prove2.me/theorems/b3f38a45-2d71-42e7-b1e6-4b5dfa5f1e7c

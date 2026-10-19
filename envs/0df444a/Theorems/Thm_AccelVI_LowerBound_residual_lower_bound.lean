@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_LowerBound_residual_lower_bound
 -- name    : AccelVI.LowerBound.residual_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:57.905979+00:00
 -- url     : https://prove2.me/theorems/84bdab54-2446-433d-ab34-3645a0123557

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LuKumar_lemma2_2_ii
 -- name    : DaiWeissFluid.LuKumar.lemma2_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:05:09.060908+00:00
 -- url     : https://prove2.me/theorems/94f4fff6-af45-463c-8791-27fac5159123

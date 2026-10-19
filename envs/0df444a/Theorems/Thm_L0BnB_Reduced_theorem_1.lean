@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Reduced_theorem_1
 -- name    : L0BnB.Reduced.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:33.055188+00:00
 -- url     : https://prove2.me/theorems/89cfeed9-8bbe-4622-8e58-13ec4f99f901

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Giddings1999_multiparticle_boundary_suppression
 -- name    : Giddings1999.multiparticle_boundary_suppression
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:51:37.686396+00:00
 -- url     : https://prove2.me/theorems/552dc1e1-d498-4a30-b0a6-18920ca61c70

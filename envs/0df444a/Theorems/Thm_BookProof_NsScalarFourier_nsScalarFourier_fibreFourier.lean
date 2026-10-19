@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsScalarFourier_nsScalarFourier_fibreFourier
 -- name    : BookProof.NsScalarFourier.nsScalarFourier_fibreFourier
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:12:45.53898+00:00
 -- url     : https://prove2.me/theorems/1a67da25-e773-4255-be36-a7f0ade52bec

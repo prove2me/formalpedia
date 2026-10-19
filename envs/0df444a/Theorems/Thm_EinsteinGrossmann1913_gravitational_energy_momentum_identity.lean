@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinGrossmann1913_gravitational_energy_momentum_identity
 -- name    : EinsteinGrossmann1913.gravitational_energy_momentum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:24:54.648502+00:00
 -- url     : https://prove2.me/theorems/43a66d3a-0d78-4c23-a44f-620088c1848b

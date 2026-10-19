@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_pow_two_isBenfordSeq
 -- name    : BenfordLaw.pow_two_isBenfordSeq
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:13.821981+00:00
 -- url     : https://prove2.me/theorems/3e088a8e-23ae-435f-837b-c6d3e2f11b1f

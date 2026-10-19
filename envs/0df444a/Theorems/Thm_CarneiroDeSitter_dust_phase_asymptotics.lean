@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_dust_phase_asymptotics
 -- name    : CarneiroDeSitter.dust_phase_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T02:19:37.951981+00:00
 -- url     : https://prove2.me/theorems/7aa7463f-8ac7-42ad-92ab-aea5c2bcc704

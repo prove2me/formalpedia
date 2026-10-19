@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsPartialFourier_postcompCLM_vecMomentumOp
 -- name    : BookProof.NsPartialFourier.postcompCLM_vecMomentumOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:26.682652+00:00
 -- url     : https://prove2.me/theorems/0c613f8b-9272-4f72-abb9-0b0e9057c65d

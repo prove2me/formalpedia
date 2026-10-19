@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_isNoetherianScheme_iff_compactSpace_and_affineOpens
 -- name    : NoetherianScheme.isNoetherianScheme_iff_compactSpace_and_affineOpens
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:31:57.658122+00:00
 -- url     : https://prove2.me/theorems/6aab351c-ab02-4396-a353-002786e57d06

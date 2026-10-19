@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_lemma5
 -- name    : XinGoldbergTBS.Asymptotic.lemma5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:28:21.93996+00:00
 -- url     : https://prove2.me/theorems/ddd806d6-71a1-4689-a8d1-eb87b77351fb

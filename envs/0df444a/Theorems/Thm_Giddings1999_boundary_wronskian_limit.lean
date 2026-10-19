@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Giddings1999_boundary_wronskian_limit
 -- name    : Giddings1999.boundary_wronskian_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:51:17.412262+00:00
 -- url     : https://prove2.me/theorems/6d5f3a6b-fa38-4b88-a78f-734ed228d46b

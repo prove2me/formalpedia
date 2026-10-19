@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.HermiteBandHigher.isBandDeg_mulOp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T14:59:18.821727+00:00
 -- url     : https://prove2.me/submissions/a749940e-0ae8-4b41-9cf6-ecd443e9668d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterHermiteBandCalculusHigher.lean — solution of BookProof.HermiteBandHigher.isBandDeg_mulOp
 import Mathlib

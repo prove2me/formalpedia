@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_hasDerivAt_odeKoop_zero
 -- name    : BookProof.OdeUnitaryFlow.hasDerivAt_odeKoop_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:05:18.148863+00:00
 -- url     : https://prove2.me/theorems/60bf6de6-14ff-4259-8fdb-9c338317e485

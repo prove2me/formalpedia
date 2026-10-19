@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ScalaronDensitized.physConfOp_symmetricOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:05:50.450864+00:00
 -- url     : https://prove2.me/submissions/4b1970cc-656a-446a-a2f2-69742461a16f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterScalaronDensitizedTransfer.lean — solution of BookProof.ScalaronDensitized.physConfOp_symmetricOn
 import Mathlib

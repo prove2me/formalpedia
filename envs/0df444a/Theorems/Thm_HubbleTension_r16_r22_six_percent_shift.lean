@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubbleTension_r16_r22_six_percent_shift
 -- name    : HubbleTension.r16_r22_six_percent_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:27:03.230611+00:00
 -- url     : https://prove2.me/theorems/0e32a42b-1d05-4f6a-80ca-9dc72b352eab

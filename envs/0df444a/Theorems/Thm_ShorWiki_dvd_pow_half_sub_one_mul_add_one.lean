@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_dvd_pow_half_sub_one_mul_add_one
 -- name    : ShorWiki.dvd_pow_half_sub_one_mul_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:59:04.794771+00:00
 -- url     : https://prove2.me/theorems/d4c89de7-04d3-43e6-af8d-95a64b594c08

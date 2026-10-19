@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeakValue_hadamard_psi0
 -- name    : BookProof.ChapterWeakValue.hadamard_psi0
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:39:29.902984+00:00
 -- url     : https://prove2.me/theorems/7974f978-352c-41d2-bfa3-9b746d5e5d7a

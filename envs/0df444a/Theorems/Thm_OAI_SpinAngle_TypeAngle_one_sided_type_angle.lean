@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SpinAngle_TypeAngle_one_sided_type_angle
 -- name    : OAI.SpinAngle.TypeAngle.one_sided_type_angle
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:25.204808+00:00
 -- url     : https://prove2.me/theorems/77f915ff-80da-462a-85e9-2f236c09776f

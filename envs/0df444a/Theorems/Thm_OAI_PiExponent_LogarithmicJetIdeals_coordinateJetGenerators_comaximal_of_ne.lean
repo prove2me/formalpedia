@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_coordinateJetGenerators_comaximal_of_ne
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.coordinateJetGenerators_comaximal_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T21:13:00.925985+00:00
 -- url     : https://prove2.me/theorems/e9913d0c-8504-450f-ab43-0a00fe61ac42

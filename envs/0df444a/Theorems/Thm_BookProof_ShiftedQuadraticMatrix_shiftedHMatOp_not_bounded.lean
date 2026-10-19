@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_shiftedHMatOp_not_bounded
 -- name    : BookProof.ShiftedQuadraticMatrix.shiftedHMatOp_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:47:26.944989+00:00
 -- url     : https://prove2.me/theorems/623447e4-b96e-45a3-93e8-900e0c95c3e5

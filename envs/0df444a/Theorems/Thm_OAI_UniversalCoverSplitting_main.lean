@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalCoverSplitting_main
 -- name    : OAI.UniversalCoverSplitting.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:36.778994+00:00
 -- url     : https://prove2.me/theorems/4a6f0193-b873-4098-ba90-11818e0225d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_unique_or_infinite_solutions
 -- name    : HamburgerMoment.unique_or_infinite_solutions
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:02:45.357226+00:00
 -- url     : https://prove2.me/theorems/194322c8-5297-4829-9d32-37b9a9831ccf

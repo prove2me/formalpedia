@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSpectralEnergyBound_evolve_support
 -- name    : BookProof.ChapterSpectralEnergyBound.evolve_support
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:17:20.493589+00:00
 -- url     : https://prove2.me/theorems/db5d06be-735e-4390-a145-399c8aaf1eea

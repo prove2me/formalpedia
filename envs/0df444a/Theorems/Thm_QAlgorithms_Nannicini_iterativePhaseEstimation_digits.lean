@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_iterativePhaseEstimation_digits
 -- name    : QAlgorithms.Nannicini.iterativePhaseEstimation_digits
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:44:12.086159+00:00
 -- url     : https://prove2.me/theorems/b0e5f377-a9db-468f-a139-1be9ea64c7ae

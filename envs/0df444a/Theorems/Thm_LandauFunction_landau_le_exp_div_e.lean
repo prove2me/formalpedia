@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_le_exp_div_e
 -- name    : LandauFunction.landau_le_exp_div_e
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:51.555985+00:00
 -- url     : https://prove2.me/theorems/23c84a13-24c0-48eb-a379-95c6481e1671

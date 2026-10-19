@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramersWannier_kw_absorbs_eta
 -- name    : KramersWannier.kw_absorbs_eta
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:49:37.860028+00:00
 -- url     : https://prove2.me/theorems/31420ce6-f13c-43e1-a1dd-9364b0eb5de9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_intervalTwoLevel_not_bounded
 -- name    : BookProof.NavierStokesFlow.FockOfFock.intervalTwoLevel_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:19:04.472915+00:00
 -- url     : https://prove2.me/theorems/1ba2d466-8851-45f7-9e66-61bd5df74418

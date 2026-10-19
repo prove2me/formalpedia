@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_NonlinEq_orthogonal_increment_bound
 -- name    : ShorNonsmooth.NonlinEq.orthogonal_increment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:08:24.695105+00:00
 -- url     : https://prove2.me/theorems/b4ccaed6-714a-4bb0-b056-550719269020

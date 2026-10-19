@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanIntro_good_exRec_correct
 -- name    : QAlgorithms.GottesmanIntro.good_exRec_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T18:06:42.419293+00:00
 -- url     : https://prove2.me/theorems/80a6c833-021f-443a-9ea5-8844fa14865b

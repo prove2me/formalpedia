@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_MVC_eq_B_1
 -- name    : AccelVI.MVC.eq_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:01:05.607523+00:00
 -- url     : https://prove2.me/theorems/1c8a7bc9-9b8f-462f-8887-07badc85f2f1

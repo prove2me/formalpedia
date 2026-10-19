@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianMoat_fullMain
 -- name    : OAI.GaussianMoat.fullMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:42.111274+00:00
 -- url     : https://prove2.me/theorems/5d9f68f2-ff37-4c86-989b-6ead79213308

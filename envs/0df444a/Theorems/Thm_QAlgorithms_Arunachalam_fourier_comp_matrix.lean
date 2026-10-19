@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_fourier_comp_matrix
 -- name    : QAlgorithms.Arunachalam.fourier_comp_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:17.289759+00:00
 -- url     : https://prove2.me/theorems/071efd13-5d38-4cbe-9867-69911964e33a

@@ -1,0 +1,1819 @@
+-- Prove2me | solution 1 for MIPRE.AnswerReduction.arVerifier_soundness
+-- status  : ACCEPTED   (prove)
+-- author  : @thomasvidick
+-- created : 2026-10-17T11:23:04.095686+00:00
+-- url     : https://prove2.me/submissions/12d98b95-f918-4038-ae65-8b71a0b05c3f
+
+/-
+Copyright (c) 2026 Thomas Vidick. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Thomas Vidick
+-/
+/-
+Copyright (c) 2026 MIPRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Background/AnswerReduction/SoundFinal.lean (solution of MIPRE.AnswerReduction.arVerifier_soundness);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+
+import Lean.Elab.Tactic
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.Algebra.Defs
+import Mathlib.Algebra.Algebra.Equiv
+import Mathlib.Algebra.Algebra.Hom
+import Mathlib.Algebra.Algebra.NonUnitalHom
+import Mathlib.Algebra.Algebra.Rat
+import Mathlib.Algebra.Algebra.Spectrum.Basic
+import Mathlib.Algebra.Algebra.Spectrum.Quasispectrum
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Finsupp.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Group.Multiset.Defs
+import Mathlib.Algebra.BigOperators.GroupWithZero.Action
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Intervals
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Algebra
+import Mathlib.Algebra.CharP.Defs
+import Mathlib.Algebra.CharP.Invertible
+import Mathlib.Algebra.CharP.Two
+import Mathlib.Algebra.CharZero.Defs
+import Mathlib.Algebra.Field.Basic
+import Mathlib.Algebra.Field.Defs
+import Mathlib.Algebra.Field.IsField
+import Mathlib.Algebra.Field.Rat
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Group.Action.Defs
+import Mathlib.Algebra.Group.Action.Opposite
+import Mathlib.Algebra.Group.Action.Pi
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Commute.Defs
+import Mathlib.Algebra.Group.Defs
+import Mathlib.Algebra.Group.Fin.Basic
+import Mathlib.Algebra.Group.Finsupp
+import Mathlib.Algebra.Group.Hom.Defs
+import Mathlib.Algebra.Group.Idempotent
+import Mathlib.Algebra.Group.Invertible.Basic
+import Mathlib.Algebra.Group.Invertible.Defs
+import Mathlib.Algebra.Group.Nat.Defs
+import Mathlib.Algebra.Group.Opposite
+import Mathlib.Algebra.Group.Pi.Basic
+import Mathlib.Algebra.Group.Prod
+import Mathlib.Algebra.Group.Subgroup.Defs
+import Mathlib.Algebra.Group.Submonoid.Defs
+import Mathlib.Algebra.Group.Subsemigroup.Defs
+import Mathlib.Algebra.Group.Units.Basic
+import Mathlib.Algebra.Group.Units.Defs
+import Mathlib.Algebra.GroupWithZero.Action.Defs
+import Mathlib.Algebra.GroupWithZero.Basic
+import Mathlib.Algebra.GroupWithZero.Commute
+import Mathlib.Algebra.GroupWithZero.Defs
+import Mathlib.Algebra.GroupWithZero.Hom
+import Mathlib.Algebra.GroupWithZero.Invertible
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.GroupWithZero.NeZero
+import Mathlib.Algebra.GroupWithZero.Units.Basic
+import Mathlib.Algebra.GroupWithZero.Units.Lemmas
+import Mathlib.Algebra.Module.BigOperators
+import Mathlib.Algebra.Module.Defs
+import Mathlib.Algebra.Module.Equiv.Defs
+import Mathlib.Algebra.Module.FinitePresentation
+import Mathlib.Algebra.Module.LinearMap.Defs
+import Mathlib.Algebra.Module.NatInt
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Prod
+import Mathlib.Algebra.Module.Submodule.Defs
+import Mathlib.Algebra.Module.Submodule.Lattice
+import Mathlib.Algebra.Module.Submodule.LinearMap
+import Mathlib.Algebra.Module.Submodule.Range
+import Mathlib.Algebra.Module.Torsion.Pi
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MonoidAlgebra.Defs
+import Mathlib.Algebra.MonoidAlgebra.Module
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.Monad
+import Mathlib.Algebra.MvPolynomial.Polynomial
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.NeZero
+import Mathlib.Algebra.Notation.Defs
+import Mathlib.Algebra.Notation.Indicator
+import Mathlib.Algebra.Notation.Pi.Basic
+import Mathlib.Algebra.Notation.Pi.Defs
+import Mathlib.Algebra.Notation.Prod
+import Mathlib.Algebra.Opposites
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Defs
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Group.Unbundled.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Canonical
+import Mathlib.Algebra.Order.GroupWithZero.Defs
+import Mathlib.Algebra.Order.IsBotOne
+import Mathlib.Algebra.Order.Module.Defs
+import Mathlib.Algebra.Order.Monoid.Canonical.Defs
+import Mathlib.Algebra.Order.Monoid.Defs
+import Mathlib.Algebra.Order.Monoid.NatCast
+import Mathlib.Algebra.Order.Monoid.Unbundled.Basic
+import Mathlib.Algebra.Order.Monoid.Unbundled.Defs
+import Mathlib.Algebra.Order.Monoid.Unbundled.ExistsOfLE
+import Mathlib.Algebra.Order.Nonneg.Basic
+import Mathlib.Algebra.Order.Nonneg.Module
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Basic
+import Mathlib.Algebra.Order.Ring.Defs
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Ring.Unbundled.Basic
+import Mathlib.Algebra.Order.Ring.Unbundled.Rat
+import Mathlib.Algebra.Order.Star.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Order.Sub.Basic
+import Mathlib.Algebra.Order.Sub.Defs
+import Mathlib.Algebra.Order.SuccPred
+import Mathlib.Algebra.Order.ZeroLEOne
+import Mathlib.Algebra.Polynomial.AlgebraMap
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Defs
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.Operations
+import Mathlib.Algebra.Polynomial.Degree.SmallDegree
+import Mathlib.Algebra.Polynomial.Div
+import Mathlib.Algebra.Polynomial.Eval.Coeff
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Eval.Degree
+import Mathlib.Algebra.Polynomial.FieldDivision
+import Mathlib.Algebra.Polynomial.Monic
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Algebra.Polynomial.SpecificDegree
+import Mathlib.Algebra.QuadraticDiscriminant
+import Mathlib.Algebra.Ring.Basic
+import Mathlib.Algebra.Ring.Commute
+import Mathlib.Algebra.Ring.CompTypeclasses
+import Mathlib.Algebra.Ring.Defs
+import Mathlib.Algebra.Ring.Equiv
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Algebra.Ring.Hom.Defs
+import Mathlib.Algebra.Ring.Int.Defs
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Algebra.Ring.Parity
+import Mathlib.Algebra.Ring.Pi
+import Mathlib.Algebra.Squarefree.Basic
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.Module
+import Mathlib.Algebra.Star.SelfAdjoint
+import Mathlib.Algebra.Star.StarAlgHom
+import Mathlib.Algebra.Star.StarProjection
+import Mathlib.Algebra.Star.Unitary
+import Mathlib.Algebra.Star.UnitaryStarAlgAut
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Instances
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.NonUnital
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unique
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unital
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.CStarAlgebra.Module.Defs
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Exponential
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.Complex.Polynomial.Basic
+import Mathlib.Analysis.Complex.Trigonometric
+import Mathlib.Analysis.Convex.Cone.Basic
+import Mathlib.Analysis.Convex.Cone.Closure
+import Mathlib.Analysis.Convex.Cone.Dual
+import Mathlib.Analysis.Convex.SpecificFunctions.Pow
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.Analysis.Fourier.ZMod
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Defs
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.Orthonormal
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.LocallyConvex.AbsConvexOpen
+import Mathlib.Analysis.LocallyConvex.WithSeminorms
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.Matrix.Spectrum
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Analysis.Normed.Field.Basic
+import Mathlib.Analysis.Normed.Field.Lemmas
+import Mathlib.Analysis.Normed.Group.Basic
+import Mathlib.Analysis.Normed.Group.Bounded
+import Mathlib.Analysis.Normed.Group.Continuity
+import Mathlib.Analysis.Normed.Group.Defs
+import Mathlib.Analysis.Normed.Group.Real
+import Mathlib.Analysis.Normed.Group.Uniform
+import Mathlib.Analysis.Normed.Lp.PiLp
+import Mathlib.Analysis.Normed.Lp.WithLp
+import Mathlib.Analysis.Normed.Module.Basic
+import Mathlib.Analysis.Normed.Module.FiniteDimension
+import Mathlib.Analysis.Normed.Operator.LinearIsometry
+import Mathlib.Analysis.Normed.Ring.Basic
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.Real.Spectrum
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Basic
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+import Mathlib.Combinatorics.SimpleGraph.AdjMatrix
+import Mathlib.Combinatorics.SimpleGraph.LapMatrix
+import Mathlib.Computability.Primrec.List
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Complex.BigOperators
+import Mathlib.Data.Countable.Defs
+import Mathlib.Data.ENNReal.Basic
+import Mathlib.Data.ENNReal.BigOperators
+import Mathlib.Data.ENNReal.Inv
+import Mathlib.Data.ENNReal.Operations
+import Mathlib.Data.ENNReal.Real
+import Mathlib.Data.ENat.Lattice
+import Mathlib.Data.Fin.SuccPred
+import Mathlib.Data.Fin.Tuple.Basic
+import Mathlib.Data.Finite.Defs
+import Mathlib.Data.Finite.Prod
+import Mathlib.Data.Finite.Sum
+import Mathlib.Data.Finset.Attach
+import Mathlib.Data.Finset.Basic
+import Mathlib.Data.Finset.BooleanAlgebra
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Defs
+import Mathlib.Data.Finset.Empty
+import Mathlib.Data.Finset.Erase
+import Mathlib.Data.Finset.Filter
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Insert
+import Mathlib.Data.Finset.Lattice.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Lattice.Lemmas
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Range
+import Mathlib.Data.Finset.Sigma
+import Mathlib.Data.Finsupp.Defs
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.CardEmbedding
+import Mathlib.Data.Fintype.Defs
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Fin
+import Mathlib.Data.Fintype.OfMap
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Powerset
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sets
+import Mathlib.Data.Fintype.Sigma
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.FunLike.Basic
+import Mathlib.Data.FunLike.Embedding
+import Mathlib.Data.FunLike.Equiv
+import Mathlib.Data.FunLike.IsApply
+import Mathlib.Data.Int.Cast.Basic
+import Mathlib.Data.Int.Cast.Defs
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.NodupEquivFin
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Rotate
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Basis
+import Mathlib.Data.Matrix.Block
+import Mathlib.Data.Matrix.Diagonal
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Multiset.Bind
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Multiset.Defs
+import Mathlib.Data.Multiset.Filter
+import Mathlib.Data.Multiset.MapFold
+import Mathlib.Data.Multiset.ZeroCons
+import Mathlib.Data.NNRat.Defs
+import Mathlib.Data.NNReal.Defs
+import Mathlib.Data.NNReal.Star
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Bits
+import Mathlib.Data.Nat.Cast.Basic
+import Mathlib.Data.Nat.Cast.Commute
+import Mathlib.Data.Nat.Cast.Defs
+import Mathlib.Data.Nat.Cast.Order.Basic
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Data.Nat.Factorial.Basic
+import Mathlib.Data.Nat.Factorial.BigOperators
+import Mathlib.Data.Nat.Factorization.Basic
+import Mathlib.Data.Nat.Init
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Prime.Defs
+import Mathlib.Data.Nat.Size
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Prod.Basic
+import Mathlib.Data.Quot
+import Mathlib.Data.Rat.Cast.CharZero
+import Mathlib.Data.Rat.Cast.Defs
+import Mathlib.Data.Rat.Cast.Lemmas
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Rat.Init
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Real.Star
+import Mathlib.Data.SProd
+import Mathlib.Data.Set.Basic
+import Mathlib.Data.Set.CoeSort
+import Mathlib.Data.Set.Defs
+import Mathlib.Data.Set.Finite.Range
+import Mathlib.Data.Set.Operations
+import Mathlib.Data.Set.Restrict
+import Mathlib.Data.SetLike.Basic
+import Mathlib.Data.Sigma.Basic
+import Mathlib.Data.Subtype
+import Mathlib.Data.ULift
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.ZMod.Defs
+import Mathlib.FieldTheory.Finite.Basic
+import Mathlib.FieldTheory.Finite.Extension
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.FieldTheory.Finite.Trace
+import Mathlib.FieldTheory.Galois.NormalBasis
+import Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure
+import Mathlib.FieldTheory.IsSepClosed
+import Mathlib.FieldTheory.KummerExtension
+import Mathlib.FieldTheory.Minpoly.Finite
+import Mathlib.FieldTheory.Perfect
+import Mathlib.FieldTheory.Separable
+import Mathlib.Geometry.Convex.Cone.Pointed
+import Mathlib.GroupTheory.GroupAction.Hom
+import Mathlib.GroupTheory.GroupAction.Ring
+import Mathlib.LinearAlgebra.Basis.Defs
+import Mathlib.LinearAlgebra.Basis.VectorSpace
+import Mathlib.LinearAlgebra.BilinearForm.Orthogonal
+import Mathlib.LinearAlgebra.Complex.FiniteDimensional
+import Mathlib.LinearAlgebra.Complex.Module
+import Mathlib.LinearAlgebra.DFinsupp
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Dimension.Finrank
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Defs
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.FreeModule.Finite.Basic
+import Mathlib.LinearAlgebra.FreeModule.PID
+import Mathlib.LinearAlgebra.FreeModule.StrongRankCondition
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.LinearAlgebra.LinearIndependent.Lemmas
+import Mathlib.LinearAlgebra.Matrix.CharP
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Basic
+import Mathlib.LinearAlgebra.Matrix.Circulant
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.Matrix.Reindex
+import Mathlib.LinearAlgebra.Matrix.StdBasis
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.Pi
+import Mathlib.LinearAlgebra.UnitaryGroup
+import Mathlib.Logic.Basic
+import Mathlib.Logic.Denumerable
+import Mathlib.Logic.Embedding.Basic
+import Mathlib.Logic.Equiv.Basic
+import Mathlib.Logic.Equiv.Defs
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Equiv.Set
+import Mathlib.Logic.Function.Basic
+import Mathlib.Logic.Function.Defs
+import Mathlib.Logic.Function.Iterate
+import Mathlib.Logic.IsEmpty.Basic
+import Mathlib.Logic.IsEmpty.Defs
+import Mathlib.Logic.Nonempty
+import Mathlib.Logic.Nontrivial.Defs
+import Mathlib.Logic.Unique
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Basic
+import Mathlib.MeasureTheory.Function.L1Space.Integrable
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Mathlib.MeasureTheory.MeasurableSpace.Instances
+import Mathlib.MeasureTheory.Measure.Dirac
+import Mathlib.MeasureTheory.Measure.MeasureSpace
+import Mathlib.MeasureTheory.Measure.MeasureSpaceDef
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.MeasureTheory.OuterMeasure.AE
+import Mathlib.MeasureTheory.OuterMeasure.Defs
+import Mathlib.NumberTheory.LegendreSymbol.AddCharacter
+import Mathlib.Order.Basic
+import Mathlib.Order.BooleanAlgebra.Defs
+import Mathlib.Order.BoundedOrder.Basic
+import Mathlib.Order.CompleteLattice.Defs
+import Mathlib.Order.Defs.LinearOrder
+import Mathlib.Order.Defs.PartialOrder
+import Mathlib.Order.Filter.AtTopBot.Basic
+import Mathlib.Order.Filter.AtTopBot.Defs
+import Mathlib.Order.Filter.AtTopBot.Tendsto
+import Mathlib.Order.Filter.Basic
+import Mathlib.Order.Filter.Defs
+import Mathlib.Order.Filter.Extr
+import Mathlib.Order.Filter.Tendsto
+import Mathlib.Order.Fin.Basic
+import Mathlib.Order.Hom.Basic
+import Mathlib.Order.Interval.Finset.Defs
+import Mathlib.Order.Interval.Finset.Nat
+import Mathlib.Order.Interval.Set.Defs
+import Mathlib.Order.Lattice
+import Mathlib.Order.Lattice.Nat
+import Mathlib.Order.MinMax
+import Mathlib.Order.Monotone.Defs
+import Mathlib.Order.Nat
+import Mathlib.Order.Notation
+import Mathlib.Order.RelClasses
+import Mathlib.Order.SetNotation
+import Mathlib.Probability.Distributions.Bernoulli
+import Mathlib.Probability.Distributions.Binomial
+import Mathlib.Probability.Distributions.Uniform
+import Mathlib.Probability.Moments.Basic
+import Mathlib.Probability.Moments.SubGaussian
+import Mathlib.Probability.ProbabilityMassFunction.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.AdjoinRoot
+import Mathlib.RingTheory.Algebraic.Integral
+import Mathlib.RingTheory.Bialgebra.Basic
+import Mathlib.RingTheory.Coprime.Lemmas
+import Mathlib.RingTheory.DedekindDomain.Basic
+import Mathlib.RingTheory.EssentialFiniteness
+import Mathlib.RingTheory.Etale.Basic
+import Mathlib.RingTheory.Etale.Weakly
+import Mathlib.RingTheory.FinitePresentation
+import Mathlib.RingTheory.Finiteness.ModuleFinitePresentation
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Algebra
+import Mathlib.RingTheory.Flat.FaithfullyFlat.Basic
+import Mathlib.RingTheory.Flat.TorsionFree
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.HopfAlgebra.Basic
+import Mathlib.RingTheory.IntegralClosure.Algebra.Basic
+import Mathlib.RingTheory.LocalRing.Defs
+import Mathlib.RingTheory.MvPolynomial.Basic
+import Mathlib.RingTheory.Polynomial.Content
+import Mathlib.RingTheory.Polynomial.Cyclotomic.Factorization
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.RootsOfUnity.PrimitiveRoots
+import Mathlib.RingTheory.SimpleRing.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.RingTheory.TotallySplit
+import Mathlib.RingTheory.Trace.Basic
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.Attr.Register
+import Mathlib.Tactic.CancelDenoms.Core
+import Mathlib.Tactic.DeriveFintype
+import Mathlib.Tactic.FieldSimp.Lemmas
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.Linarith.Lemmas
+import Mathlib.Tactic.Linarith.Preprocessing
+import Mathlib.Tactic.NoncommRing
+import Mathlib.Tactic.NormNum.Basic
+import Mathlib.Tactic.NormNum.Eq
+import Mathlib.Tactic.NormNum.Ineq
+import Mathlib.Tactic.NormNum.Inv
+import Mathlib.Tactic.NormNum.OfScientific
+import Mathlib.Tactic.NormNum.Pow
+import Mathlib.Tactic.NormNum.RealSqrt
+import Mathlib.Tactic.NormNum.Result
+import Mathlib.Tactic.Positivity.Basic
+import Mathlib.Tactic.Positivity.Core
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Ring.Basic
+import Mathlib.Tactic.Ring.Common
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.ConstMulAction
+import Mathlib.Topology.Algebra.Field
+import Mathlib.Topology.Algebra.Group.Basic
+import Mathlib.Topology.Algebra.Group.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.Basic
+import Mathlib.Topology.Algebra.InfiniteSum.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.ENNReal
+import Mathlib.Topology.Algebra.InfiniteSum.SummationFilter
+import Mathlib.Topology.Algebra.Module.ClosedSubmodule
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.Basic
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.PiProd
+import Mathlib.Topology.Algebra.Module.LocallyConvex
+import Mathlib.Topology.Algebra.Module.ModuleTopology
+import Mathlib.Topology.Algebra.Monoid
+import Mathlib.Topology.Algebra.Monoid.Defs
+import Mathlib.Topology.Algebra.MulAction
+import Mathlib.Topology.Algebra.Ring.Basic
+import Mathlib.Topology.Algebra.Ring.Real
+import Mathlib.Topology.Algebra.Star
+import Mathlib.Topology.Algebra.Star.Real
+import Mathlib.Topology.Algebra.UniformMulAction
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Basic
+import Mathlib.Topology.Bornology.Basic
+import Mathlib.Topology.Closure
+import Mathlib.Topology.Constructions
+import Mathlib.Topology.Constructions.SumProd
+import Mathlib.Topology.Continuous
+import Mathlib.Topology.ContinuousMap.ContinuousSqrt
+import Mathlib.Topology.ContinuousOn
+import Mathlib.Topology.Defs.Basic
+import Mathlib.Topology.Defs.Filter
+import Mathlib.Topology.EMetricSpace.Defs
+import Mathlib.Topology.GDelta.MetrizableSpace
+import Mathlib.Topology.Instances.Matrix
+import Mathlib.Topology.MetricSpace.Algebra
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Bounded
+import Mathlib.Topology.MetricSpace.Defs
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+import Mathlib.Topology.MetricSpace.Sequences
+import Mathlib.Topology.Metrizable.Basic
+import Mathlib.Topology.Metrizable.Uniformity
+import Mathlib.Topology.Neighborhoods
+import Mathlib.Topology.Order.Compact
+import Mathlib.Topology.Order.OrderClosed
+import Mathlib.Topology.Order.Real
+import Mathlib.Topology.Separation.Basic
+import Mathlib.Topology.Separation.GDelta
+import Mathlib.Topology.Separation.Hausdorff
+import Mathlib.Topology.Separation.Regular
+import Mathlib.Topology.Sequences
+import Mathlib.Topology.UniformSpace.Defs
+import Mathlib.Topology.UniformSpace.Real
+import Mathlib.Topology.UnitInterval
+import Definitions.Def_MIPRE_Foundations_Games
+import Definitions.Def_MIPRE_Foundations_Distances
+import Definitions.Def_MIPRE_Background_LIDT_Game
+import Definitions.Def_MIPRE_Foundations_CL_Register
+import Definitions.Def_MIPRE_Foundations_CL_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_CLGame
+import Definitions.Def_MIPRE_Foundations_CL_Basic
+import Definitions.Def_MIPRE_Background_LIDT_Presentation
+import Definitions.Def_MIPRE_Foundations_Cost_Basic_B
+import Definitions.Def_MIPRE_Foundations_Cost_Encoding_B
+import Definitions.Def_MIPRE_Foundations_SAT_Circuit
+import Definitions.Def_MIPRE_Foundations_SAT_Cnf
+import Definitions.Def_MIPRE_Foundations_Cost_PolyTime
+import Definitions.Def_MIPRE_Foundations_CL_Closure
+import Definitions.Def_MIPRE_Foundations_CL_Closure_B
+import Definitions.Def_MIPRE_Foundations_CL_Sampler
+import Definitions.Def_MIPRE_Foundations_Verifier
+import Definitions.Def_MIPRE_Foundations_SAT_Succinct
+import Definitions.Def_MIPRE_Foundations_SAT_Decoupled
+import Definitions.Def_MIPRE_Foundations_Cost_Closure
+import Definitions.Def_MIPRE_Foundations_Cost_Loops_B
+import Definitions.Def_MIPRE_Foundations_Cost_Fold
+import Definitions.Def_MIPRE_Foundations_Cost_Unary
+import Definitions.Def_MIPRE_Foundations_Cost_Numeric_B
+import Definitions.Def_MIPRE_Foundations_LowDegree_Encoding
+import Definitions.Def_MIPRE_Foundations_SAT_Pcp
+import Definitions.Def_MIPRE_Background_AnswerReduction_PcpPresentation
+import Definitions.Def_MIPRE_Foundations_OracularGame
+import Definitions.Def_MIPRE_Background_AnswerReduction_Predicate
+import Definitions.Def_MIPRE_Foundations_Closeness
+import Definitions.Def_MIPRE_Foundations_PerfectStrategy
+import Definitions.Def_MIPRE_Foundations_GameTransport
+import Definitions.Def_MIPRE_Foundations_GameDouble
+import Definitions.Def_MIPRE_Foundations_OracularSound
+import Definitions.Def_MIPRE_Foundations_OpBound
+import Definitions.Def_MIPRE_Foundations_StateDistance
+import Definitions.Def_MIPRE_Foundations_POVMValue
+import Definitions.Def_MIPRE_Foundations_CrossConsistency
+import Definitions.Def_MIPRE_Foundations_PVM
+import Definitions.Def_MIPRE_Foundations_Commutation
+import Definitions.Def_MIPRE_Foundations_Dilation
+import Definitions.Def_MIPRE_Foundations_LowDegree_SchwartzZippel
+import Definitions.Def_MIPRE_Foundations_Sandwich
+import Definitions.Def_MIPRE_Foundations_POVMMix
+import Definitions.Def_MIPRE_Foundations_GameAdapt
+import Definitions.Def_MIPRE_Foundations_RegisterReindex
+import Definitions.Def_MIPRE_Foundations_OracularTensor
+import Definitions.Def_MIPRE_Foundations_OracularComplete
+import Definitions.Def_MIPRE_Foundations_CL_Embedding
+import Definitions.Def_MIPRE_Foundations_CL_Graph
+import Definitions.Def_MIPRE_Foundations_CL_Detyping
+import Definitions.Def_MIPRE_Foundations_CL_DetypingLaw
+import Definitions.Def_MIPRE_Foundations_SampledGame
+import Definitions.Def_MIPRE_Foundations_CL_DetypingGame
+import Definitions.Def_MIPRE_Foundations_GapCompression
+import Definitions.Def_MIPRE_Foundations_Cost_Codable_B
+import Definitions.Def_MIPRE_Foundations_Halting_Descriptions
+import Definitions.Def_MIPRE_Foundations_OracularTyped
+import Definitions.Def_MIPRE_Background_AnswerReduction_AnswerFormat
+import Definitions.Def_MIPRE_Foundations_CL_Product
+import Definitions.Def_MIPRE_Foundations_CL_Downsize
+import Definitions.Def_MIPRE_Foundations_CL_TypedSampler
+import Definitions.Def_MIPRE_Foundations_CL_ProductSampler
+import Definitions.Def_MIPRE_Background_LIDT_PresentationQueries
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryRepresentation
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryConstants
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotient
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNormalize
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDivision
+import Definitions.Def_MIPRE_Foundations_Cost_Binary
+import Definitions.Def_MIPRE_Foundations_SAT_Formula
+import Definitions.Def_MIPRE_Foundations_SAT_FmlLib
+import Definitions.Def_MIPRE_Foundations_SAT_Flatten
+import Definitions.Def_MIPRE_Foundations_Cost_Reader
+import Definitions.Def_MIPRE_Foundations_SAT_FmlProg
+import Definitions.Def_MIPRE_Foundations_SAT_ArrayProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryLinear
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryElimination
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryBasisProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryEchelon
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryBasis
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySolve
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryMatrixSolve
+import Definitions.Def_MIPRE_Foundations_Cost_Iterates
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCirculantProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryKernel
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGroupAlgebra
+import Definitions.Def_MIPRE_Foundations_LowDegree_FiniteReducedComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_IdempotentSplit
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComponentsProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientFrobenius
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientComponents
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientFactors
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryGCD
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryFactorization
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCyclotomicSeed
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinarySubstitution
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNonresidueLoop
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryNonresidueCorrectness
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientOrbit
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryTraceBits
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOrbitPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOrbitDescent
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryQuotientTranslation
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryCoprimeDegree
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComposedSumPolynomial
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryComposedSumProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryOddPrimeProgram
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPrimePowerTrace
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreier
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierTower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryArtinSchreierLoop
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryDegreeArithmetic
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryPrimality
+import Definitions.Def_MIPRE_Foundations_LowDegree_UnaryPrimePower
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDegreeFactors
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryDegreeDecomposition
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryPrimePowerDispatch
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryIrreducibleAssembly
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryIrreducibleConstructor
+import Definitions.Def_MIPRE_Foundations_LowDegree_Shoup
+import Definitions.Def_MIPRE_Foundations_LowDegree_ShoupCoefficients
+import Definitions.Def_MIPRE_Foundations_SAT_QuotientField
+import Definitions.Def_MIPRE_Foundations_SAT_FieldTrace
+import Definitions.Def_MIPRE_Foundations_SAT_FieldCoordinates
+import Definitions.Def_MIPRE_Background_AnswerReduction_Layout
+import Definitions.Def_MIPRE_Background_AnswerReduction_Family
+import Definitions.Def_MIPRE_Background_AnswerReduction_TypedGame
+import Definitions.Def_MIPRE_Background_AnswerReduction_Stages
+import Definitions.Def_MIPRE_Background_AnswerReduction_StageLists
+import Definitions.Def_MIPRE_Foundations_Cost_BinaryArithmetic
+import Definitions.Def_MIPRE_Foundations_Introspection_SeedSelectorProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryFold
+import Definitions.Def_MIPRE_Foundations_SAT_NormalElementProg
+import Definitions.Def_MIPRE_Foundations_LowDegree_BinaryInverse
+import Definitions.Def_MIPRE_Foundations_Introspection_LineRepresentativeProg
+import Definitions.Def_MIPRE_Foundations_Cost_BinaryCompare
+import Definitions.Def_MIPRE_Foundations_Introspection_SeededLineProg
+import Definitions.Def_MIPRE_Foundations_Cost_TreeBits
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgFinite
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgParse
+import Definitions.Def_MIPRE_Foundations_Introspection_BinaryBlockProg
+import Definitions.Def_MIPRE_Background_AnswerReduction_StageProg
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Geometry
+import Definitions.Def_MIPRE_Background_AnswerReduction_StageCorrect
+import Definitions.Def_MIPRE_Foundations_CL_DetypingQueries
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgBits
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgCall
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgRoute
+import Definitions.Def_MIPRE_Foundations_Cost_Machine_B
+import Definitions.Def_MIPRE_Foundations_Cost_MachineData_B
+import Definitions.Def_MIPRE_Foundations_Cost_Interpreter_B
+import Definitions.Def_MIPRE_Foundations_Cost_MachineBound_B
+import Definitions.Def_MIPRE_Foundations_Cost_Toolkit_B
+import Definitions.Def_MIPRE_Foundations_Cost_Universal_B
+import Definitions.Def_MIPRE_Foundations_CL_ProductSamplerProg
+import Definitions.Def_MIPRE_Foundations_Cost_FiniteEncoding
+import Definitions.Def_MIPRE_Background_AnswerReduction_PcpSampler
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldPolynomialProg
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldLineCheckProg
+import Definitions.Def_MIPRE_Foundations_Introspection_PauliStageProg
+import Definitions.Def_MIPRE_Foundations_Introspection_FieldQuestionProg
+import Definitions.Def_MIPRE_Background_AnswerReduction_DecideSpec
+import Definitions.Def_MIPRE_Foundations_Cost_SizeProgram
+import Definitions.Def_MIPRE_Foundations_SAT_PcpFormat
+import Definitions.Def_MIPRE_Foundations_Halting_Lists_B
+import Definitions.Def_MIPRE_Foundations_Cost_Growth
+import Definitions.Def_MIPRE_Foundations_Halting_Arith
+import Definitions.Def_MIPRE_Foundations_Repeat_Prims
+import Definitions.Def_MIPRE_Foundations_Repeat_MapLoop
+import Definitions.Def_MIPRE_Foundations_Repeat_Sampler
+import Definitions.Def_MIPRE_Foundations_CL_Repeat
+import Definitions.Def_MIPRE_Foundations_Repeat_Bits
+import Definitions.Def_MIPRE_Foundations_VerifierValue
+import Definitions.Def_MIPRE_Foundations_Pipeline_Budget
+import Definitions.Def_MIPRE_Foundations_Pipeline_Repetition
+import Definitions.Def_MIPRE_Foundations_Repeat_RepSampler
+import Definitions.Def_MIPRE_Foundations_Repeat_Dom
+import Definitions.Def_MIPRE_Foundations_Repeat_SamplerCost
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgQueries
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgSampler
+import Definitions.Def_MIPRE_Foundations_CL_DetypingProgCost
+import Definitions.Def_MIPRE_Foundations_OracularSampler
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDeciderRoute
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDeciderProg
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDecider
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDeciderGame
+import Definitions.Def_MIPRE_Foundations_Halting_Serial
+import Definitions.Def_MIPRE_Foundations_Cost_Kleene_B
+import Definitions.Def_MIPRE_Foundations_OracularDecider
+import Definitions.Def_MIPRE_Background_AnswerReduction_DecideProg
+import Definitions.Def_MIPRE_Foundations_Cost_While
+import Definitions.Def_MIPRE_Foundations_Pipeline_UnaryArith
+import Definitions.Def_MIPRE_Foundations_Pipeline_AnswerReduction
+import Definitions.Def_MIPRE_Background_AnswerReduction_Params
+import Definitions.Def_MIPRE_Background_AnswerReduction_ArSampler
+import Definitions.Def_MIPRE_Background_AnswerReduction_ArDecider
+import Definitions.Def_MIPRE_Foundations_Pipeline_PowDom
+import Definitions.Def_MIPRE_Foundations_Pipeline_PowDomRun
+import Definitions.Def_MIPRE_Background_AnswerReduction_ParamsCost
+import Definitions.Def_MIPRE_Foundations_CL_ProductSamplerCost
+import Definitions.Def_MIPRE_Foundations_CL_ProgBuild
+import Definitions.Def_MIPRE_Background_AnswerReduction_Construction
+import Definitions.Def_MIPRE_Foundations_LowDegree_LineRestrict
+import Definitions.Def_MIPRE_Background_LIDT_CLHonest
+import Definitions.Def_MIPRE_Background_AnswerReduction_Honest
+import Definitions.Def_MIPRE_Foundations_SyncPushQ
+import Definitions.Def_MIPRE_Background_AnswerReduction_TypedComplete
+import Definitions.Def_MIPRE_Foundations_CL_DetypingCompleteSupport
+import Definitions.Def_MIPRE_Foundations_CL_DetypingComplete
+import Definitions.Def_MIPRE_Foundations_CL_DetypingDeciderTransport
+import Definitions.Def_MIPRE_Background_AnswerReduction_Complete
+import Definitions.Def_MIPRE_Background_LIDT_PresentationEmbed
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundCopy
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundIsolate
+import Definitions.Def_MIPRE_Background_LIDT_Coefficients
+import Definitions.Def_MIPRE_Background_LIDT_Extraction
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Seeds
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Reparam
+import Definitions.Def_MIPRE_Background_LIDT_Padding
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Parameters
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Strategy
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Weights
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Field
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Polynomial
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Strategy
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_DirectSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProj_Measurements
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Value
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_Definitions
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_ScalarBounds_EnvelopeBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ConsistencyBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Projectivization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_ProjectorONB
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_Sigma
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_RankReduction_LowRank
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayer_QCompleteness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Rows
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_PositiveGram_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_LayerAlgebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_QXPLayerIdentities_ProjectorApprox
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Completion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Triangles_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_ProjectivizationChain_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceScalars
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomialEmbedding
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyPolynomialFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Stability
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Defs_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Products
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_Approximation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceBounds_PhaseOneThree
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_EvaluatedSliceCommutation_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_EvaluationSpecialization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_Pullback
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Averages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Marginalization_Y
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Machinery_Normalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_Closeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_Bridges_QSDD
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Transport_FullSlice_ZeroBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_HEvalTransport
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_Main_Auxiliary_ScalarMarginalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_SharedHelpers_SharedLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_BridgeTheorems_DropBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_RawSecond
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_PaperChainPhaseFive
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_GCommStability_Scalar_First
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_PhaseTwo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Commutativity_ScalarApproximation_ProcessedG_MainChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Tuples
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Interpolation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_PastedFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Centers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooSetup_Terms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooContraction_ScalarTerms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_SwitcherooCompletion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_CommutingWithG_Complete
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_GHatFacts
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_Definitions
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_Setup_StepLemmas_Split
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Lifting
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_Chain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_FlatChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_CommuteGHalfSandwich_MoveChain_BackChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_TruncatedSums
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Weights
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Scalar
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_BernoulliTail
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_Core_FactBundles
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_MoveLemmas_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_StageA0M1
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_HalfSandwich
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_AdjacentStages_Chain_FinalMove
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_FromHToG_PaperBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_MatrixChernoff
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_EndpointEquivs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Core_LdGbcon
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_Endpoint
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_PrefixMoved
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LdSandwichLineOnePoint_CSSetup
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_LineInterpolation_BadMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HBConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_HAConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_DegreeZero
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_ErrorAndMass
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_NonglobalDecomposition
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_ComparisonLemmas_OverAllOutcomes_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Bernoulli_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Operators
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_ProjectiveNonMeasurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_SpectralTruncation_Conversion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_LocalityPreservingRepair
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization_RestrictSome
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Orthonormalization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SelfConsistency_DataProcessing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Thresholds_Final
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_InputSdp
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_FiberBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Linearized
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Fourier
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_TraceForms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_CanonicalPrimal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Witness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_Saturated
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteConicDuality
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_MatrixRealization_Canonical_StrongDuality_Separation
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SdpMatrixBridge
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Foundations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Matrix
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Results
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Averaging
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_AlgebraicIdentity
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_CollisionExpansion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_PointLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_TransportChain_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransportSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_PolynomialSumBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperCompleteness_Bracketed
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Selection
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_Residual
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUDiagonalAndDefs_ScalarChain
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Raw
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep12_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Factored
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Selected
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUStep34AndTransfer_Variance
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_HelperSSC_PostDeleteA
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_AddInUPointConsistency
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_Results_SelfImprovementTop_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_SelfImprovement_Theorems_AddInUFullStatement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_MainError
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_SelfImprovementAssembly_AnswerSlice
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Base
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Axis
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_Diagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_RestrictedProbabilities_AnswerValued
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_StageDataConstructors
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_AvgSliceErrors_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_CommutativityPoints_AnswerTheorems
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_InductionParameterBounds_SelfImprovement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MainInductionStep_Theorems_PastingAssembly_Successor
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_SchwartzZippelStep
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonProjective
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjRoleAverage_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyBiProjUnsymmetrization
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_MainTheorem_SourceRoleRegister_Completion
+import Definitions.Def_MIPRE_Background_LIDT_Bridge_Main
+import Definitions.Def_MIPRE_Background_LIDT_Adapter_Reduction
+import Definitions.Def_MIPRE_Background_LIDT_Simultaneous
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundExtract
+import Definitions.Def_MIPRE_Foundations_Disagreement
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundRelations
+import Definitions.Def_MIPRE_Background_LIDT_BlockPoly
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundPoly
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundGameCheck
+import Definitions.Def_MIPRE_Foundations_StrategyDilation
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundDecoded
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundPcp
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundSetup
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundError
+import Definitions.Def_MIPRE_Background_AnswerReduction_SoundFinal
+import Theorems.Thm_MIPRE_AnswerReduction_errE_le
+import Theorems.Thm_MIPRE_AnswerReduction_exists_threshold_clB
+import Theorems.Thm_MIPRE_AnswerReduction_one_sub_povmValue_decoded_le
+import Theorems.Thm_MIPRE_AnswerReduction_pcpSound
+import Theorems.Thm_MIPRE_AnswerReduction_sqrt_le_delta
+import Theorems.Thm_MIPRE_AnswerReduction_total
+import Theorems.Thm_MIPRE_AnswerReduction_typedStrategy_value_ge
+import Theorems.Thm_MIPRE_AnswerReduction_z_le
+import Theorems.Thm_MIPRE_POVM_ext_prime
+import Theorems.Thm_MIPRE_POVM_posSemidef
+import Theorems.Thm_MIPRE_POVM_sum_val
+import Theorems.Thm_MIPRE_SeededGame_quantumValue_ge_of_oracular
+import Theorems.Thm_MIPRE_TensorProductStrategy_succAt_adapt_eq
+import Theorems.Thm_MIPRE_ancillaEmbed_isometry
+import Theorems.Thm_MIPRE_exists_projective_dilation
+
+/-! Helper declarations, pasted verbatim from the source modules with their
+namespace and `open` context, each used only by proofs, interleaved with the
+attribute commands of those modules at their source positions. -/
+attribute [instance] MIPRE.SAT.BinField.instField MIPRE.SAT.BinField.instFintype MIPRE.SAT.BinField.instDecidableEq
+
+namespace MIPRE.SAT.PcpParams
+noncomputable section
+open Cost LowDegree MvPolynomial
+variable (P : PcpParams)
+attribute [instance] MIPRE.SAT.BinField.instField MIPRE.SAT.BinField.instFintype MIPRE.SAT.BinField.instDecidableEq
+theorem five_mul_m_le : 5 * P.m ≤ P.m' := by simp [m']; omega
+end
+end MIPRE.SAT.PcpParams
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+/-- The sesquilinear form of two matrices applied to the same vector, moved onto one side:
+`⟨A v, B v⟩ = ⟨v, A† B v⟩`. -/
+theorem star_mulVec_dotProduct {M : Type*} [Fintype M] (A B : Matrix M N ℂ) (v : N → ℂ) :
+    star (A *ᵥ v) ⬝ᵥ (B *ᵥ v) = star v ⬝ᵥ ((Aᴴ * B) *ᵥ v) := by
+  rw [Matrix.star_mulVec, ← Matrix.mulVec_mulVec, ← Matrix.dotProduct_mulVec]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix
+open scoped ComplexOrder Kronecker MatrixOrder
+/-- Pulling a Born-rule expectation back along a linear map `W` conjugates the observable:
+`⟨Wv| M |Wv⟩ = ⟨v| Wᴴ M W |v⟩`. With `W` an isometry and `M` a projection this is how a
+dilated projective measurement compresses back to the POVM it came from. -/
+theorem dotProduct_mulVec_conj {ι κ : Type*} [Fintype ι] [Fintype κ]
+    (W : Matrix κ ι ℂ) (M : Matrix κ κ ℂ) (v : ι → ℂ) :
+    star (W *ᵥ v) ⬝ᵥ (M *ᵥ (W *ᵥ v)) = star v ⬝ᵥ ((Wᴴ * (M * W)) *ᵥ v) := by
+  rw [Matrix.mulVec_mulVec, Matrix.star_mulVec, ← Matrix.dotProduct_mulVec,
+    Matrix.mulVec_mulVec]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {Anc Bnc : Type*} [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+theorem ancillaEmbed_kron_isometry2 (a₀ : Anc) (b₀ : Bnc) :
+    (((ancillaEmbed dA a₀) ⊗ₖ (ancillaEmbed dB b₀))ᴴ
+        * ((ancillaEmbed dA a₀) ⊗ₖ (ancillaEmbed dB b₀)))
+      = (1 : Matrix (dA × dB) (dA × dB) ℂ) := by
+  rw [Matrix.conjTranspose_kronecker, ← Matrix.mul_kronecker_mul, ancillaEmbed_isometry,
+    ancillaEmbed_isometry, Matrix.one_kronecker_one]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {Anc Bnc : Type*} [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+theorem extVec2_unit {ψ : dA × dB → ℂ} (hψ : star ψ ⬝ᵥ ψ = 1) (a₀ : Anc) (b₀ : Bnc) :
+    star (extVec2 ψ a₀ b₀) ⬝ᵥ extVec2 ψ a₀ b₀ = 1 := by
+  rw [extVec2, star_mulVec_dotProduct, ancillaEmbed_kron_isometry2, Matrix.one_mulVec, hψ]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {Anc Bnc : Type*} [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+/-- **The Born rule on the twice-extended state is the Born rule of the two compressions.** -/
+theorem bornProb_extVec2 (ψ : dA × dB → ℂ) (a₀ : Anc) (b₀ : Bnc)
+    (EA : Matrix (dA × Anc) (dA × Anc) ℂ) (EB : Matrix (dB × Bnc) (dB × Bnc) ℂ) :
+    bornProb (extVec2 ψ a₀ b₀) EA EB
+      = bornProb ψ ((ancillaEmbed dA a₀)ᴴ * (EA * ancillaEmbed dA a₀))
+          ((ancillaEmbed dB b₀)ᴴ * (EB * ancillaEmbed dB b₀)) := by
+  rw [bornProb, bornProb, extVec2, dotProduct_mulVec_conj]
+  congr 2
+  rw [Matrix.conjTranspose_kronecker, ← Matrix.mul_kronecker_mul, ← Matrix.mul_kronecker_mul]
+end
+end MIPRE
+
+namespace MIPRE.TensorProductStrategy
+section
+open Matrix Kronecker Finset
+variable {X Y A B : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+variable {X' Y' A' B' : Type*} [Fintype X'] [Fintype Y'] [Fintype A'] [Fintype B']
+variable {G : Game X Y A B}
+theorem born_nonneg (S : TensorProductStrategy G) (x : X) (y : Y) (a : A) (b : B) :
+    0 ≤ S.born x y a b :=
+  S.re_dotProduct_nonneg x y a b
+end
+end MIPRE.TensorProductStrategy
+
+namespace MIPRE.TensorProductStrategy
+section
+open Matrix Kronecker Finset
+variable {X Y A B : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+variable {X' Y' A' B' : Type*} [Fintype X'] [Fintype Y'] [Fintype A'] [Fintype B']
+variable {G : Game X Y A B}
+/-- The value is the `μ`-average of the conditional success probability. -/
+theorem value_eq_sum_succAt (S : TensorProductStrategy G) :
+    S.value = ∑ x, ∑ y, G.μ x y * S.succAt x y := by
+  unfold value succAt
+  refine Finset.sum_congr rfl fun x _ => Finset.sum_congr rfl fun y _ => ?_
+  rw [Finset.mul_sum]
+  refine Finset.sum_congr rfl fun a _ => ?_
+  rw [Finset.mul_sum]
+  exact Finset.sum_congr rfl fun b _ => by rw [born]; ring
+end
+end MIPRE.TensorProductStrategy
+
+namespace MIPRE.TensorProductStrategy
+section
+open Matrix Kronecker Finset
+variable {X Y A B : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+variable {X' Y' A' B' : Type*} [Fintype X'] [Fintype Y'] [Fintype A'] [Fintype B']
+variable {G : Game X Y A B}
+variable [DecidableEq A'] [DecidableEq B']
+/-- **The adapter does not lose acceptance.** If every tuple `G` accepts at `(qA x', qB y')` is
+still accepted by `G'` at `(x', y')` after coarse-graining, the adapted strategy succeeds at
+least as often there. -/
+theorem succAt_le_succAt_adapt (S : TensorProductStrategy G) (G' : Game X' Y' A' B')
+    (qA : X' → X) (qB : Y' → Y) (rA : X' → A → A') (rB : Y' → B → B') (x' : X') (y' : Y')
+    (hD : ∀ a b, G.D (qA x') (qB y') a b = true → G'.D x' y' (rA x' a) (rB y' b) = true) :
+    S.succAt (qA x') (qB y') ≤ (S.adapt G' qA qB rA rB).succAt x' y' := by
+  rw [succAt_adapt_eq]
+  unfold succAt
+  refine Finset.sum_le_sum fun a _ => Finset.sum_le_sum fun b _ => ?_
+  refine mul_le_mul_of_nonneg_right ?_ (S.born_nonneg _ _ a b)
+  by_cases h : G.D (qA x') (qB y') a b = true
+  · rw [if_pos h, if_pos (hD a b h)]
+  · rw [if_neg h]
+    split_ifs <;> norm_num
+end
+end MIPRE.TensorProductStrategy
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {dA dB dA' dB' : Type*}
+/-- The Kronecker product of two reindexed matrices is the reindexing of the Kronecker product
+along the product equivalence. -/
+theorem reindex_kronecker_reindex (eA : dA ≃ dA') (eB : dB ≃ dB') (M : Matrix dA dA ℂ)
+    (N : Matrix dB dB ℂ) :
+    Matrix.reindex eA eA M ⊗ₖ Matrix.reindex eB eB N
+      = Matrix.reindex (Equiv.prodCongr eA eB) (Equiv.prodCongr eA eB) (M ⊗ₖ N) := by
+  ext ⟨i, j⟩ ⟨k, l⟩
+  simp [Matrix.reindex_apply, Matrix.submatrix_apply, kroneckerMap_apply]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {dA dB dA' dB' : Type*}
+variable [Fintype dA] [Fintype dB] [Fintype dA'] [Fintype dB']
+/-- **The Born rule is invariant under reindexing.** -/
+theorem quadForm_reindex (eA : dA ≃ dA') (eB : dB ≃ dB') (ψ : dA × dB → ℂ)
+    (M : Matrix dA dA ℂ) (N : Matrix dB dB ℂ) :
+    star (reindexVec eA eB ψ) ⬝ᵥ
+        ((Matrix.reindex eA eA M ⊗ₖ Matrix.reindex eB eB N) *ᵥ reindexVec eA eB ψ)
+      = star ψ ⬝ᵥ ((M ⊗ₖ N) *ᵥ ψ) := by
+  set E := Equiv.prodCongr eA eB with hE
+  rw [reindex_kronecker_reindex, reindexVec, Matrix.reindex_apply, Matrix.submatrix_mulVec_equiv]
+  have hcomp : (ψ ∘ E.symm) ∘ E.symm.symm = ψ := by
+    rw [Equiv.symm_symm, Function.comp_assoc, Equiv.symm_comp_self, Function.comp_id]
+  rw [hcomp]
+  show ∑ p, star ψ (E.symm p) * ((M ⊗ₖ N) *ᵥ ψ) (E.symm p)
+    = ∑ p, star ψ p * ((M ⊗ₖ N) *ᵥ ψ) p
+  exact Equiv.sum_comp E.symm fun p => star ψ p * ((M ⊗ₖ N) *ᵥ ψ) p
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {dA dB dA' dB' : Type*}
+variable [Fintype dA] [Fintype dB] [Fintype dA'] [Fintype dB']
+theorem bornProb_reindex (eA : dA ≃ dA') (eB : dB ≃ dB') (ψ : dA × dB → ℂ)
+    (EA : Matrix dA dA ℂ) (EB : Matrix dB dB ℂ) :
+    bornProb (reindexVec eA eB ψ) (Matrix.reindex eA eA EA) (Matrix.reindex eB eB EB)
+      = bornProb ψ EA EB := by
+  rw [bornProb, bornProb, quadForm_reindex]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {dA dB dA' dB' : Type*}
+variable [Fintype dA] [Fintype dB] [Fintype dA'] [Fintype dB']
+variable [DecidableEq dA] [DecidableEq dB] [DecidableEq dA'] [DecidableEq dB']
+variable {X Y A B : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+/-- **The value of a strategy is invariant under reindexing its registers.** -/
+theorem povmValue_reindex (eA : dA ≃ dA') (eB : dB ≃ dB') (G : Game X Y A B)
+    (ψ : dA × dB → ℂ) (MA : X → POVM A dA) (MB : Y → POVM B dB) :
+    povmValue G (reindexVec eA eB ψ) (fun x => (MA x).reindex eA) (fun y => (MB y).reindex eB)
+      = povmValue G ψ MA MB := by
+  unfold povmValue condWin
+  simp only [POVM.reindex_mats, bornProb_reindex]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X Y A B : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+/-- **`TensorProductStrategy.value` is the `povmValue` of the strategy's own measurements**, read
+as POVMs. -/
+theorem TensorProductStrategy.value_eq_povmValue {G : Game X Y A B}
+    (S : TensorProductStrategy G) :
+    S.value = povmValue G S.ψ (fun x => S.PA.toPOVM x) (fun y => S.PB.toPOVM y) := by
+  unfold TensorProductStrategy.value povmValue condWin bornProb
+  simp only [Finset.mul_sum, mul_assoc]
+  rfl
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X Y A B : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+/-- **The packaged strategy has the value of the original.** The two sides agree definitionally
+once `TensorProductStrategy.value` is read as a `povmValue`: the packaged state is the reindexed
+state and the packaged measurements are the reindexed POVMs. -/
+theorem TensorProductStrategy.value_ofProjective (G : Game X Y A B) (ψ : dA × dB → ℂ)
+    (hψ : star ψ ⬝ᵥ ψ = 1) (PA : ProjectiveMeasurement X A (Matrix dA dA ℂ))
+    (PB : ProjectiveMeasurement Y B (Matrix dB dB ℂ)) :
+    (TensorProductStrategy.ofProjective G ψ hψ PA PB).value
+      = povmValue G ψ (fun x => PA.toPOVM x) (fun y => PB.toPOVM y) := by
+  rw [TensorProductStrategy.value_eq_povmValue]
+  exact povmValue_reindex (Fintype.equivFin dA) (Fintype.equivFin dB) G ψ
+    (fun x => PA.toPOVM x) (fun y => PB.toPOVM y)
+end
+end MIPRE
+
+namespace MIPRE.SeededGame
+section
+open Finset
+variable {ι : Type*} [Fintype ι] [DecidableEq ι] {ℓ : ℕ} {A : Type*}
+/-- The role family's question is the oracularized game's. -/
+theorem roleFamily_question (L : Player → CL.CLFun CL.𝔽₂ ι (ℓ + 1))
+    (D : (ι → CL.𝔽₂) → (ι → CL.𝔽₂) → A → A → Bool) (r : Role) (z : ι → CL.𝔽₂) :
+    (r, (roleFamily L r).eval z) = (ofCL L D).oquestion r z := by
+  cases r
+  · simp [roleFamily]
+  · rfl
+  · rfl
+end
+end MIPRE.SeededGame
+
+namespace MIPRE.SeededGame
+section
+open Finset
+variable {ι : Type*} [Fintype ι] [DecidableEq ι] {ℓ : ℕ} {A : Type*}
+/-- **The typed game has the oracularization's distribution**: a uniform ordered pair of roles
+and one common uniform seed, the oracle receiving the seed and an isolated player its original
+question. -/
+theorem typedGame_mu (L : Player → CL.CLFun CL.𝔽₂ ι (ℓ + 1))
+    (D : (ι → CL.𝔽₂) → (ι → CL.𝔽₂) → A → A → Bool) {A' : Type*} [Fintype A']
+    (D' : CL.Detyping.Question Role ι → CL.Detyping.Question Role ι → A' → A' → Bool)
+    (p q : Role × (ι → CL.𝔽₂)) :
+    (CL.Detyping.typedGame roleGraph roleGraph_nonempty (fun _ => roleFamily L) D').μ p q
+      = (ofCL L D).oDist p q := by
+  change SampledGame.dist
+    (CL.Detyping.typedQuestion (E := roleGraph) (fun _ => roleFamily L) false)
+    (CL.Detyping.typedQuestion (E := roleGraph) (fun _ => roleFamily L) true) p q = _
+  rw [SampledGame.dist, oDist, Finset.mul_sum, Fintype.card_congr typedSeedEquiv]
+  refine Fintype.sum_equiv typedSeedEquiv _ _ fun s => ?_
+  obtain ⟨⟨⟨u, v⟩, huv⟩, z⟩ := s
+  simp only [typedSeedEquiv_apply, CL.Detyping.typedQuestion, Bool.false_eq_true, if_false, if_true]
+  rw [roleFamily_question L D u z, roleFamily_question L D v z]
+  congr 1
+end
+end MIPRE.SeededGame
+
+namespace MIPRE.SeededGame
+section
+open Finset
+variable {ι : Type*} [Fintype ι] [DecidableEq ι] {ℓ : ℕ} {A : Type*}
+variable [Fintype A] [DecidableEq A]
+/-- **Soundness through a reading of the answers.** A typed predicate whose acceptance implies the
+oracularized predicate, after the answers are read by a map that may depend on the question, has
+no larger quantum value than the oracularization: a strategy is played through the reading, on
+the same state, and the two games have the same distribution. -/
+theorem quantumValue_typedGame_le (L : Player → CL.CLFun CL.𝔽₂ ι (ℓ + 1))
+    (D : (ι → CL.𝔽₂) → (ι → CL.𝔽₂) → A → A → Bool) {A' : Type*} [Fintype A']
+    (D' : CL.Detyping.Question Role ι → CL.Detyping.Question Role ι → A' → A' → Bool)
+    (rA : CL.Detyping.Question Role ι → A' → OAns A)
+    (hD : ∀ p q a b, D' p q a b = true → (ofCL L D).oaccepts p q (rA p a) (rA q b) = true) :
+    quantumValue (CL.Detyping.typedGame roleGraph roleGraph_nonempty (fun _ => roleFamily L) D')
+      ≤ quantumValue (ofCL L D).oracular.toGame := by
+  refine Real.iSup_le (fun R => ?_) (quantumValue_nonneg _)
+  refine le_trans ?_ (le_ciSup (TensorProductStrategy.bddAbove_range_value _)
+    (R.adapt (ofCL L D).oracular.toGame id id rA rA))
+  rw [TensorProductStrategy.value_eq_sum_succAt, TensorProductStrategy.value_eq_sum_succAt]
+  refine Finset.sum_le_sum fun p _ => Finset.sum_le_sum fun q _ => ?_
+  rw [typedGame_mu L D D' p q]
+  exact mul_le_mul_of_nonneg_left
+    (R.succAt_le_succAt_adapt _ id id rA rA p q (hD p q)) ((ofCL L D).oDist_nonneg p q)
+end
+end MIPRE.SeededGame
+
+namespace MIPRE.Verifier
+section
+open Finset
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1))
+theorem seeded_toGame (n B : ℕ) : (V.seeded n B).toGame = V.game n B := rfl
+end
+end MIPRE.Verifier
+
+namespace MIPRE.Verifier
+section
+open Finset
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1))
+/-- **Soundness of the typed oracularized game.** For a typed predicate whose acceptance implies
+the oracularized predicate after a reading of the answers, `val*` of the typed game above
+`1 - ε` puts `val* (𝒱_n)` at least `1 - 24√ε`. -/
+theorem valStar_ge_of_typed (n B : ℕ) {A' : Type*} [Fintype A']
+    (D' : CL.Detyping.Question Role (Fin (V.sampler.dim n)) →
+      CL.Detyping.Question Role (Fin (V.sampler.dim n)) → A' → A' → Bool)
+    (rA : CL.Detyping.Question Role (Fin (V.sampler.dim n)) → A' → OAns (Answers B))
+    (hD : ∀ p q a b, D' p q a b = true → (V.seeded n B).oaccepts p q (rA p a) (rA q b) = true)
+    {ε : ℝ} (hε : 0 < ε)
+    (h : 1 - ε < quantumValue (CL.Detyping.typedGame roleGraph roleGraph_nonempty
+      (fun _ => roleFamily (V.sampler.cl n)) D')) :
+    1 - 24 * √ε ≤ V.valStar n B := by
+  have h1 := (V.seeded n B).quantumValue_ge_of_oracular hε
+    (lt_of_lt_of_le h (SeededGame.quantumValue_typedGame_le _ _ D' rA hD))
+  rwa [seeded_toGame] at h1
+end
+end MIPRE.Verifier
+
+namespace MIPRE.CL.Detyping.DeciderProgram
+noncomputable section
+open Cost Cost.PolyTimeFun Program
+variable {T : Type*} [Fintype T] [DecidableEq T] [SizedEncoding T]
+variable {ℓ : ℕ} (E : T → T → Prop) [DecidableRel E]
+variable (S : TypedSampler ℓ T) (D : TypedDecider T) (C : CutoffProgram)
+/-- The outer answer cut is enforced globally, including malformed graph views. -/
+theorem verifier_rejectsLong (hℓ : 0 < ℓ) (hD : D.Total) (n : ℕ) :
+    (verifier E S D C hℓ hD).RejectsLong n (C.outer n) := by
+  intro x y a b hlong haccept
+  have h := (accepts_iff E S D C hD n x y a b).mp haccept
+  rcases hlong with hlong | hlong
+  · exact (Nat.not_lt_of_ge h.2.2.1) hlong
+  · exact (Nat.not_lt_of_ge h.2.2.2.1) hlong
+end
+end MIPRE.CL.Detyping.DeciderProgram
+
+namespace MIPRE.LIDT
+section
+theorem clB_pos : 0 < clB := by rw [clB]; norm_num
+end
+end MIPRE.LIDT
+
+namespace MIPRE.LIDT
+section
+theorem clB_lt_one : clB < 1 := by rw [clB]; norm_num
+end
+end MIPRE.LIDT
+
+namespace MIPRE.LIDT
+section
+theorem one_le_clA : (1 : ℝ) ≤ clA := by rw [clA]; norm_num
+end
+end MIPRE.LIDT
+
+namespace MIPRE.LIDT.Simul
+noncomputable section
+open Finset MIPRE MIPRE.LIDT MIPRE.LIDT.CL MIPRE.LIDT.Adapter Matrix
+variable {F : Type*} [Field F] [Fintype F] [DecidableEq F] {K m d r : ℕ} [NeZero m]
+theorem forty_le_simA : (40 : ℝ) ≤ simA := by
+  have h1 := one_le_clA
+  have h4 : (1 : ℝ) ≤ (4 : ℝ) ^ clA := Real.one_le_rpow (by norm_num) (by linarith)
+  rw [simA]
+  nlinarith
+end
+end MIPRE.LIDT.Simul
+
+namespace MIPRE.LIDT.Simul
+noncomputable section
+open Finset
+theorem deltaSim_nonneg (q m d r : ℕ) {ε : ℝ} (hε : 0 ≤ ε) : 0 ≤ deltaSim q m d r ε := by
+  have := forty_le_simA
+  have h1 : 0 ≤ ε ^ clB := Real.rpow_nonneg hε _
+  have h2 : 0 ≤ (q : ℝ) ^ (-clB) := Real.rpow_nonneg (Nat.cast_nonneg _) _
+  have h3 : 0 ≤ (2 : ℝ) ^ (-(clB * m * d)) := Real.rpow_nonneg (by norm_num) _
+  have h4 : 0 ≤ ((d * m * r : ℕ) : ℝ) ^ simA := Real.rpow_nonneg (Nat.cast_nonneg _) _
+  unfold deltaSim
+  positivity
+end
+end MIPRE.LIDT.Simul
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {dA dB Anc Bnc : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+/-- `bornProb_extVec2`, with the compressions named. -/
+theorem bornProb_extVec2_ancCompress (ψ : dA × dB → ℂ) (a₀ : Anc) (b₀ : Bnc)
+    (EA : Matrix (dA × Anc) (dA × Anc) ℂ) (EB : Matrix (dB × Bnc) (dB × Bnc) ℂ) :
+    bornProb (extVec2 ψ a₀ b₀) EA EB
+      = bornProb ψ (ancCompress a₀ EA) (ancCompress b₀ EB) :=
+  bornProb_extVec2 ψ a₀ b₀ EA EB
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {dA dB Anc Bnc : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+  [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+variable {X Y A B : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+/-- **A strategy on the twice-extended state has the value of its compression.** -/
+theorem povmValue_extVec2 (G : Game X Y A B) (ψ : dA × dB → ℂ) (a₀ : Anc) (b₀ : Bnc)
+    (MA : X → POVM A (dA × Anc)) (MB : Y → POVM B (dB × Bnc)) :
+    povmValue G (extVec2 ψ a₀ b₀) MA MB
+      = povmValue G ψ (fun x => (MA x).compress a₀) (fun y => (MB y).compress b₀) := by
+  unfold povmValue condWin
+  simp only [POVM.compress_mats, bornProb_extVec2_ancCompress]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X A d : Type*} [Fintype A] [DecidableEq A] [Fintype d] [DecidableEq d]
+/-- **Naimark dilation of a question-indexed family of POVMs**: a projective family on `d × A`
+whose compression by `|a₀⟩` is the given family, question by question. -/
+theorem exists_projective_dilation_povm (M : X → POVM A d) (a₀ : A) :
+    ∃ P : ProjectiveMeasurement X A (Matrix (d × A) (d × A) ℂ),
+      ∀ x, (P.toPOVM x).compress a₀ = M x := by
+  obtain ⟨P, hsa, hidem, hsum, hcomp⟩ := exists_projective_dilation a₀
+    (E := fun x a => ((M x).mats a).val) (fun x a => (M x).posSemidef a)
+    (fun x => POVM.sum_val (M x))
+  exact ⟨⟨P, hsa, hidem, hsum⟩, fun x => POVM.ext_prime fun a => hcomp x a⟩
+end
+end MIPRE
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp
+open scoped ComplexOrder
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ) (P : PcpParams) (hk : 1 ≤ P.k)
+  [NeZero P.m] {hm : P.m ∣ Fintype.card (Fq P hk)} {hm' : P.m' ∣ Fintype.card (Fq P hk)}
+  (S : LIDT.CL.Sel (Fq P hk) P.m hm) (S' : LIDT.CL.Sel (Fq P hk) P.m' hm')
+  (check : (Fin (V.sampler.dim n) → 𝔽₂) → (Fin P.m' → Fq P hk) → (Fin (P.m' + 6) → Fq P hk) →
+    Bool) (B : ℕ) (T : TensorProductStrategy (typedGame V n P hk S S' check B)) (B' : ℕ)
+  (dec : MvPolynomial (Fin P.m) (Fq P hk) → Verifier.Answers B')
+theorem one_sub_value_nonneg : 0 ≤ 1 - T.value := sub_nonneg.mpr (T.value_le_one)
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp
+open scoped ComplexOrder
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ) (P : PcpParams) (hk : 1 ≤ P.k)
+  [NeZero P.m] {hm : P.m ∣ Fintype.card (Fq P hk)} {hm' : P.m' ∣ Fintype.card (Fq P hk)}
+  (S : LIDT.CL.Sel (Fq P hk) P.m hm) (S' : LIDT.CL.Sel (Fq P hk) P.m' hm')
+  (check : (Fin (V.sampler.dim n) → 𝔽₂) → (Fin P.m' → Fq P hk) → (Fin (P.m' + 6) → Fq P hk) →
+    Bool) (B : ℕ) (T : TensorProductStrategy (typedGame V n P hk S S' check B)) (B' : ℕ)
+  (dec : MvPolynomial (Fin P.m) (Fq P hk) → Verifier.Answers B')
+theorem err1_nonneg : 0 ≤ err1 V n P hk S S' check B T :=
+  Simul.deltaSim_nonneg _ _ _ _ <| by
+    have := one_sub_value_nonneg V n P hk S S' check B T; positivity
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp
+open scoped ComplexOrder
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ) (P : PcpParams) (hk : 1 ≤ P.k)
+  [NeZero P.m] {hm : P.m ∣ Fintype.card (Fq P hk)} {hm' : P.m' ∣ Fintype.card (Fq P hk)}
+  (S : LIDT.CL.Sel (Fq P hk) P.m hm) (S' : LIDT.CL.Sel (Fq P hk) P.m' hm')
+  (check : (Fin (V.sampler.dim n) → 𝔽₂) → (Fin P.m' → Fq P hk) → (Fin (P.m' + 6) → Fq P hk) →
+    Bool) (B : ℕ) (T : TensorProductStrategy (typedGame V n P hk S S' check B)) (B' : ℕ)
+  (dec : MvPolynomial (Fin P.m) (Fq P hk) → Verifier.Answers B')
+theorem err6_nonneg : 0 ≤ err6 V n P hk S S' check B T :=
+  Simul.deltaSim_nonneg _ _ _ _ <| by
+    have := one_sub_value_nonneg V n P hk S S' check B T; positivity
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp
+open scoped ComplexOrder
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ) (P : PcpParams) (hk : 1 ≤ P.k)
+  [NeZero P.m] {hm : P.m ∣ Fintype.card (Fq P hk)} {hm' : P.m' ∣ Fintype.card (Fq P hk)}
+  (S : LIDT.CL.Sel (Fq P hk) P.m hm) (S' : LIDT.CL.Sel (Fq P hk) P.m' hm')
+  (check : (Fin (V.sampler.dim n) → 𝔽₂) → (Fin P.m' → Fq P hk) → (Fin (P.m' + 6) → Fq P hk) →
+    Bool) (B : ℕ) (T : TensorProductStrategy (typedGame V n P hk S S' check B)) (B' : ℕ)
+  (dec : MvPolynomial (Fin P.m) (Fq P hk) → Verifier.Answers B')
+omit [NeZero P.m] in
+theorem errSZ_pos : 0 < errSZ P hk := by
+  have h1 := one_le_dPcp
+  have h5 : 5 ≤ P.m' := by simp only [PcpParams.m']; omega
+  have hq : 0 < Fintype.card (Fq P hk) := Fintype.card_pos
+  unfold errSZ
+  have : (5 : ℝ) ≤ P.m' := by exact_mod_cast h5
+  have : (1 : ℝ) ≤ dPcp := by exact_mod_cast h1
+  positivity
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp
+open scoped ComplexOrder
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ) (P : PcpParams) (hk : 1 ≤ P.k)
+  [NeZero P.m] {hm : P.m ∣ Fintype.card (Fq P hk)} {hm' : P.m' ∣ Fintype.card (Fq P hk)}
+  (S : LIDT.CL.Sel (Fq P hk) P.m hm) (S' : LIDT.CL.Sel (Fq P hk) P.m' hm')
+  (check : (Fin (V.sampler.dim n) → 𝔽₂) → (Fin P.m' → Fq P hk) → (Fin (P.m' + 6) → Fq P hk) →
+    Bool) (B : ℕ) (T : TensorProductStrategy (typedGame V n P hk S S' check B)) (B' : ℕ)
+  (dec : MvPolynomial (Fin P.m) (Fq P hk) → Verifier.Answers B')
+theorem errD_pos : 0 < errD V n P hk S S' check B T := by
+  have := err1_nonneg V n P hk S S' check B T
+  have := err6_nonneg V n P hk S S' check B T
+  have := one_sub_value_nonneg V n P hk S S' check B T
+  have := errSZ_pos P hk
+  unfold errD
+  positivity
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp
+open scoped ComplexOrder
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ) (P : PcpParams) (hk : 1 ≤ P.k)
+  [NeZero P.m] {hm : P.m ∣ Fintype.card (Fq P hk)} {hm' : P.m' ∣ Fintype.card (Fq P hk)}
+  (S : LIDT.CL.Sel (Fq P hk) P.m hm) (S' : LIDT.CL.Sel (Fq P hk) P.m' hm')
+  (check : (Fin (V.sampler.dim n) → 𝔽₂) → (Fin P.m' → Fq P hk) → (Fin (P.m' + 6) → Fq P hk) →
+    Bool) (B : ℕ) (T : TensorProductStrategy (typedGame V n P hk S S' check B)) (B' : ℕ)
+  (dec : MvPolynomial (Fin P.m) (Fq P hk) → Verifier.Answers B')
+/-- **A POVM strategy's value is at most the quantum value**: Naimark dilation makes both
+families projective on the twice-extended state, with the same value. -/
+theorem povmValue_le_quantumValue {X Y A₁ B₁ : Type*} [Fintype X] [Fintype Y] [Fintype A₁]
+    [DecidableEq A₁] [Fintype B₁] [DecidableEq B₁] (G : Game X Y A₁ B₁) {dA dB : Type*}
+    [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB] {ψ : dA × dB → ℂ}
+    (hψ : star ψ ⬝ᵥ ψ = 1) (MA : X → POVM A₁ dA) (MB : Y → POVM B₁ dB) (a₀ : A₁) (b₀ : B₁) :
+    povmValue G ψ MA MB ≤ quantumValue G := by
+  obtain ⟨PA, hPA⟩ := exists_projective_dilation_povm MA a₀
+  obtain ⟨PB, hPB⟩ := exists_projective_dilation_povm MB b₀
+  have h := TensorProductStrategy.value_ofProjective G (extVec2 ψ a₀ b₀) (extVec2_unit hψ a₀ b₀)
+    PA PB
+  rw [povmValue_extVec2] at h
+  simp only [hPA, hPB] at h
+  rw [← h]
+  exact le_ciSup (TensorProductStrategy.bddAbove_range_value G) _
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp
+open scoped ComplexOrder
+variable {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ) (P : PcpParams) (hk : 1 ≤ P.k)
+  [NeZero P.m] {hm : P.m ∣ Fintype.card (Fq P hk)} {hm' : P.m' ∣ Fintype.card (Fq P hk)}
+  (S : LIDT.CL.Sel (Fq P hk) P.m hm) (S' : LIDT.CL.Sel (Fq P hk) P.m' hm')
+  (check : (Fin (V.sampler.dim n) → 𝔽₂) → (Fin P.m' → Fq P hk) → (Fin (P.m' + 6) → Fq P hk) →
+    Bool) (B : ℕ) (T : TensorProductStrategy (typedGame V n P hk S S' check B)) (B' : ℕ)
+  (dec : MvPolynomial (Fin P.m) (Fq P hk) → Verifier.Answers B')
+/-- **The input verifier's value** is close to `1`: the decoded strategy plays the typed
+oracularized game with failure at most `6` times the combined error. -/
+theorem valStar_ge_decoded (hgc : PcpSound V n P hk check B' dec) :
+    1 - 24 * √(7 * errD V n P hk S S' check B T) ≤ V.valStar n B' := by
+  have hpos := errD_pos V n P hk S S' check B T
+  refine V.valStar_ge_of_typed n B' ((V.seeded n B').oaccepts) (fun _ a => a)
+    (fun _ _ _ _ h => h) (by positivity) ?_
+  have h1 := one_sub_povmValue_decoded_le V n P hk S S' check B T B' dec hgc
+  have h2 := povmValue_le_quantumValue (oGame V n B') T.ψ_unit
+    (MAo V n P hk S S' check B T B' dec) (MBo V n P hk S S' check B T B' dec) default default
+  linarith
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT MIPRE.LowDegree SAT Pcp Cost
+variable (PD : PcpDecider) (lam mu sigma : ℕ) {ℓ : ℕ} (V : Verifier (ℓ + 1)) (n : ℕ)
+/-- **The input verifier's value from a strategy for the answer-reduced typed game**: at least
+`1 - 24 √(7 errD)`, `errD` the combined error of the strategy's analysis. -/
+theorem valStar_ge_of_typedGame (hF : ShoupField PD) (hlam : 1 ≤ lam) (hmu : 1 ≤ mu)
+    (hV : V.Within n (inBudget lam mu n)) (hsz : V.decider.size ≤ sigma) (B : ℕ)
+    (T : TensorProductStrategy (typedGame V n (((family PD lam mu sigma)).par n) (((family PD lam mu sigma)).hk n) (((family PD lam mu sigma)).sel n) (((family PD lam mu sigma)).sel' n)
+      (chk PD V lam mu sigma n) B)) :
+    1 - 24 * √(7 * errD V n (((family PD lam mu sigma)).par n) (((family PD lam mu sigma)).hk n) (((family PD lam mu sigma)).sel n) (((family PD lam mu sigma)).sel' n)
+        (chk PD V lam mu sigma n) B T) ≤ V.valStar n (inAns lam mu n) :=
+  valStar_ge_decoded V n (((family PD lam mu sigma)).par n) (((family PD lam mu sigma)).hk n) (((family PD lam mu sigma)).sel n) (((family PD lam mu sigma)).sel' n)
+    (chk PD V lam mu sigma n) B T (inAns lam mu n)
+    (decAns (((family PD lam mu sigma)).par n) (((family PD lam mu sigma)).hk n) (inAns lam mu n))
+    (pcpSound PD lam mu sigma V n hF hlam hmu hV hsz)
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Real MIPRE.LIDT
+theorem one_le_aOf (c p K : ℕ) : 1 ≤ aOf c p K := by unfold aOf; omega
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp Cost
+variable (PD : PcpDecider) {ℓ : ℕ}
+/-- **The loss is trivial at least `1`**: then there is nothing to prove. -/
+theorem sub_delta_le_of_one_le {V : Verifier (ℓ + 1)} {n B : ℕ} {δ : ℝ} (h : 1 ≤ δ) :
+    1 - δ ≤ V.valStar n B :=
+  (sub_nonpos.mpr h).trans (quantumValue_nonneg _)
+end
+end MIPRE.AnswerReduction
+
+namespace MIPRE.AnswerReduction
+noncomputable section
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp Cost
+variable (PD : PcpDecider) {ℓ : ℕ}
+/-- **A strategy above `1 - ε`**, from the value of a game above it. -/
+theorem exists_value_gt {X Y A₁ B₁ : Type*} [Fintype X] [Fintype Y] [Fintype A₁] [Fintype B₁]
+    {G : Game X Y A₁ B₁} {ε : ℝ} (hε : ε < 1) (h : 1 - ε < quantumValue G) :
+    ∃ R : TensorProductStrategy G, 1 - ε ≤ R.value := by
+  by_contra hno
+  push Not at hno
+  exact absurd h (not_lt.mpr (Real.iSup_le (fun R => (hno R).le) (by linarith)))
+end
+end MIPRE.AnswerReduction
+
+/-! The uploaded declaration as `solution` (a root name declared inside the source's
+namespace, so that names resolve as they do in the source). -/
+namespace MIPRE.AnswerReduction
+open Finset MIPRE.CL MIPRE.LIDT SAT Pcp Cost
+variable (PD : PcpDecider) {ℓ : ℕ}
+set_option maxHeartbeats 1000000 in
+theorem _root_.solution (R : Polynomial ℕ) (hF : ShoupField PD) (hR : ParamsBound PD R)
+    (hL : FieldLarge PD) :
+    ∃ (a b : ℝ) (C : ℕ), 1 ≤ a ∧ 0 < b ∧ b ≤ 1 ∧
+      ∀ (V : Verifier (ℓ + 1)) (lam mu sigma n : ℕ) (ε : ℝ) (B : ℕ), C ≤ n → 2 ≤ n → 1 ≤ lam →
+        V.Within n (inBudget lam mu n) → V.decider.size ≤ sigma → 0 < ε →
+        cutVal (arPar PD lam mu sigma n) ≤ B →
+        1 - ε < (arVerifier PD lam mu sigma V).valStar n B →
+        1 - delta a b lam mu sigma n ε ≤ V.valStar n (inAns lam mu n) := by
+  set c : ℕ := zC R ^ (3 * simAN) with hc
+  set p : ℕ := 3 * simAN * zE R with hp
+  obtain ⟨Q0, hQ0⟩ := exists_threshold_clB c p
+  obtain ⟨Q1, hQ1⟩ := hL fieldExp
+  refine ⟨aOf c p kDet, clB / 2, max Q0 Q1, by exact_mod_cast one_le_aOf c p kDet,
+    by have := clB_pos; linarith, by have := clB_lt_one; linarith, ?_⟩
+  intro V lam mu sigma n ε B hC hn2 hlam hV hsz hε hcut hval
+  set a : ℕ := aOf c p kDet with ha
+  have ha1 : 1 ≤ a := one_le_aOf c p kDet
+  have hs1 : 1 ≤ sigma := Nat.succ_le_of_lt ((esize_pos V.decider.prog).trans_le hsz)
+  have hσ1 : (1 : ℝ) ≤ sigma := by exact_mod_cast hs1
+  have hN2 : 2 ≤ lam * n := le_trans hn2 (Nat.le_mul_of_pos_left _ hlam)
+  have hNr : (lam : ℝ) * n = ((lam * n : ℕ) : ℝ) := by push_cast; ring
+  have hN1 : (1 : ℝ) ≤ (lam : ℝ) * n := by rw [hNr]; exact_mod_cast (by omega : 1 ≤ lam * n)
+  have hSa : (1 : ℝ) ≤ (sigma : ℝ) ^ (a : ℝ) := Real.one_le_rpow hσ1 (by positivity)
+  -- the trivial cases
+  rcases Nat.eq_zero_or_pos mu with hmu0 | hmu
+  · refine sub_delta_le_of_one_le ?_
+    simp only [delta, hmu0, Nat.cast_zero, zero_mul, neg_zero, Real.rpow_zero, one_mul]
+    have := Real.rpow_nonneg hε.le (clB / 2)
+    nlinarith
+  by_cases hε1 : 1 ≤ ε
+  · refine sub_delta_le_of_one_le ?_
+    have h1 : 1 ≤ ((lam : ℝ) * n) ^ ((mu : ℝ) * a) := Real.one_le_rpow hN1 (by positivity)
+    have h2 : 1 ≤ ε ^ (clB / 2) := Real.one_le_rpow hε1 (by have := clB_pos; linarith)
+    have h3 : 0 ≤ ((lam : ℝ) * n) ^ (-((mu : ℝ) * (clB / 2))) := by positivity
+    unfold delta
+    have : 1 ≤ ((lam : ℝ) * n) ^ ((mu : ℝ) * a) * ε ^ (clB / 2) :=
+      one_le_mul_of_one_le_of_one_le h1 h2
+    nlinarith
+  push Not at hε1
+  -- a strategy at the answer cut
+  have hrej := CL.Detyping.DeciderProgram.verifier_rejectsLong graph
+    (typedSampler V.sampler PD lam mu sigma) (typedDecider PD V lam mu sigma)
+    (arCut PD lam mu sigma) (by unfold level; omega) (total PD V lam mu sigma) n
+  rw [(arVerifier PD lam mu sigma V).valStar_eq_of_rejects hcut hrej] at hval
+  obtain ⟨Rs, hRs⟩ := exists_value_gt hε1 hval
+  set T := typedStrategy PD lam mu sigma V n Rs with hT
+  have hTv := typedStrategy_value_ge PD lam mu sigma V n Rs hRs
+  have hK : (kDet : ℝ) = (16 : ℝ) ^ Fintype.card ArTy := by push_cast; rfl
+  rw [← hK] at hTv
+  have hmain := valStar_ge_of_typedGame PD lam mu sigma V n hF hlam hmu hV hsz _ T
+  -- the parameters
+  set P := arPar PD lam mu sigma n with hP
+  set Q := arQ lam mu n with hQ
+  have hmQ : (Q + 5) * (mu + 1) + 1 ≤ P.m := by
+    have h := PD.two_mul_le n (tPcp lam mu n) Q sigma
+    rw [tPcp, ← pow_succ'] at h
+    exact (Nat.pow_le_pow_iff_right (by norm_num)).mp h
+  have hQm : Q ≤ P.m := by nlinarith
+  have hm1 : 1 ≤ P.m := by nlinarith
+  have : NeZero P.m := ⟨by omega⟩
+  have hmm : P.m ≤ P.m' :=
+    (Nat.le_mul_of_pos_left _ (by norm_num)).trans (PcpParams.five_mul_m_le P)
+  have hq : (8 * ((Q + 1) * P.m')) ^ fieldExp
+      ≤ Fintype.card (Fq P (arPar_hk PD lam mu sigma n)) := by
+    rw [card_fq]
+    refine hQ1 n (tPcp lam mu n) Q sigma ?_
+    have : n + 1 ≤ Q := by
+      have h1 : lam * n + 1 ≤ (lam * n + 1) ^ mu := Nat.le_self_pow (by omega) _
+      have h2 : n ≤ lam * n := Nat.le_mul_of_pos_left _ hlam
+      rw [hQ, arQ]; omega
+    omega
+  have hθ0 : 0 ≤ 1 - T.value := one_sub_value_nonneg V n P _ _ _ _ _ T
+  have herr := errE_le hm1 hmm hQm hq hθ0 (show 1 - T.value ≤ (kDet : ℝ) * ε by linarith)
+    (by exact_mod_cast Nat.one_le_pow _ _ (by norm_num)) hε.le hε1.le
+  -- the size of `Z`
+  have hZ := z_le PD R hR hlam hmu hs1 (by omega : 1 ≤ n)
+  have hG : ((8 * ((Q + 1) * P.m') : ℕ) : ℝ) ^ (3 * simAN)
+      ≤ c * (Q : ℝ) ^ p * (sigma : ℝ) ^ p := by
+    have h1 : (8 * ((Q + 1) * P.m')) ^ (3 * simAN) ≤ (zC R * (Q * sigma) ^ zE R) ^ (3 * simAN) :=
+      Nat.pow_le_pow_left hZ _
+    have h2 : (zC R * (Q * sigma) ^ zE R) ^ (3 * simAN) = c * Q ^ p * sigma ^ p := by
+      rw [hc, hp, mul_pow, ← pow_mul, mul_pow, mul_comm (zE R)]; ring
+    rw [h2] at h1
+    exact_mod_cast h1
+  -- `Q` against `N = λn`
+  have hQN : Q ≤ (lam * n) ^ (2 * mu) := by
+    rw [hQ, arQ, pow_mul]
+    exact Nat.pow_le_pow_left (by nlinarith) _
+  have hNQ : (lam * n) ^ mu ≤ Q := Nat.pow_le_pow_left (by omega) _
+  have hQQ0 : Q0 ≤ Q := by
+    have : n + 1 ≤ Q := by
+      have h1 : lam * n + 1 ≤ (lam * n + 1) ^ mu := Nat.le_self_pow (by omega) _
+      have h2 : n ≤ lam * n := Nat.le_mul_of_pos_left _ hlam
+      rw [hQ, arQ]; omega
+    omega
+  obtain ⟨hQ8, hthr⟩ := hQ0 Q hQQ0
+  have hfin := sqrt_le_delta hN2 hmu hs1 hQN hNQ hQ8 hthr hG hε.le herr
+  -- conclusion
+  have hdel : delta (a : ℝ) (clB / 2) lam mu sigma n ε = (sigma : ℝ) ^ (a : ℝ) *
+      (((lam * n : ℕ) : ℝ) ^ ((mu : ℝ) * a) * ε ^ (clB / 2)
+        + ((lam * n : ℕ) : ℝ) ^ (-((mu : ℝ) * (clB / 2)))) := by
+    rw [delta, hNr]
+  rw [hdel]
+  have hmain' : 1 - 24 * √(7 * errE (Fintype.card (Fq P (arPar_hk PD lam mu sigma n))) P.m P.m'
+      (1 - T.value)) ≤ V.valStar n (inAns lam mu n) := hmain
+  have hfin' : 24 * √(7 * errE (Fintype.card (Fq P (arPar_hk PD lam mu sigma n))) P.m P.m'
+      (1 - T.value)) ≤ (sigma : ℝ) ^ (a : ℝ) * (((lam * n : ℕ) : ℝ) ^ ((mu : ℝ) * a)
+        * ε ^ (clB / 2) + ((lam * n : ℕ) : ℝ) ^ (-((mu : ℝ) * (clB / 2)))) := hfin
+  linarith
+end MIPRE.AnswerReduction

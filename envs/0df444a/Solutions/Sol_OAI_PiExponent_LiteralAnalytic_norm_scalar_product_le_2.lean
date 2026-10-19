@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.LiteralAnalytic.norm_scalar_product_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-16T08:59:39.728386+00:00
 -- url     : https://prove2.me/submissions/becb27a4-0470-4edf-97b9-af8ca0a6a92a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LiteralAnalytic_norm_choiceScalar_le
 import Theorems.Thm_OAI_PiExponent_LiteralAnalytic_sum_rowWeight_eq

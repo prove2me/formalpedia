@@ -1,0 +1,113 @@
+-- Prove2me | Definitions.Def_MazurTransfer_Order13ActualSelectedCharacterOriginalH1InclusionData20261019
+-- name    : MazurTransfer_Order13ActualSelectedCharacterOriginalH1InclusionData20261019
+-- status  : Definition
+-- author  : @Vas
+-- created : 2026-10-19T03:26:16.955394+00:00
+-- url     : https://prove2.me/theorems/d27c8161-0055-4a4c-94bd-5a7fff2d6e59
+-- title:
+--   Original cohomology inclusions for the coherent selected character kernels
+-- statement:
+--   The original arithmetic character-line and trivial-line representations and the two induced continuous first-cohomology inclusion maps for the previously selected norm-character kernels. Four original types and four whole values, eight specialized provider types and six provider values, and the original chosen quotient and inclusion context are checked. The named downstream consumer is the exact selected-character Kummer kernel criterion.
+-- source:
+--   MazurTheorem Order13ActualSelectedCharacterKummerKernel; Apache-2.0.
+
+/-
+Copyright (c) 2026 Vas and contributors. Released under Apache-2.0.
+Design boundary: the kernels of BOTH original selected continuous-H1
+character maps are the ranges of the character inclusions now proved
+compatible with their SAME selected quotients. Give the corresponding
+exact criterion for zero under the ORIGINAL norm-character Kummer maps.
+Named downstream consumer: arithmetic control of the kernel of coefficient
+pushforward before using the checked pi character image dimension bound.
+-/
+import Definitions.Def_MazurTransfer_Order13ActualOrderedCharacterContinuousH1OriginalChosenQuotientsAndKummerDataFixedKernelActionsAndContinuousNamespacesV320261019
+import Theorems.Thm_MazurTransfer_OneDimensionalSelectedQuotientKernel_exists_injective_with_selected_kernel
+import Theorems.Thm_MazurTransfer_order13_actual_ordered_arithmetic_character_sequence_certificates
+import Definitions.Def_MazurTransfer_Order13ActualSelectedCharacterOriginalCoherentInclusionData20261019
+import Definitions.Def_MazurTransfer_Order13ActualNormCharacterH1GlobalExactnessBridgeData
+noncomputable section
+open CategoryTheory AlgebraicGeometry AlgebraicGeometry.RelPicard AlgebraicCurve MazurTransfer
+open NeronModelInfra GoodReductionJacobian
+open Order13ActualPicardDiamondSchemeEndomorphism Order13ActualPicardNormKernelGaloisAction
+open Order13ActualNormKernelCyclotomicCharacter Order13ActualNormKernelCyclotomicQuotient
+open Order13ActualNormKernelF19Representation NineteenRootsGaloisRepresentation
+open Order13ActualNineteenTorsionNormPairingAdjoint Order13ActualNormKernelProductCardinality
+open Order13ActualNormKernelNineteenEmbedding
+open scoped CategoryTheory.MonObj
+attribute [local instance] kernelCharacterOriginalGroupProvider20261018 kernelCharacterOriginalCommProvider20261018 kernelCharacterOriginalPiHomProvider20261018 kernelCharacterOriginalConjugateHomProvider20261018 kernelCharacterOriginalPrimeProvider20261018 kernelCharacterOriginalLeftModuleProvider20261018 kernelCharacterOriginalRightModuleProvider20261018 kernelCharacterOriginalRootsModuleProvider20261018 kernelNineteenEmbeddingOriginalFiniteProvider20261018
+
+open MazurTorsion.XOneThirteenProjectiveCurve
+open Order13ActualNormKernelRanksTwo
+open Order13ActualPicardSchemeNineteenNorm
+attribute [local instance] originalNormKernelRanksTwoPiFiniteProvider20261018 originalNormKernelRanksTwoConjugateFiniteProvider20261018 originalNormKernelRanksTwoPiExponentProvider20261018 originalNormKernelRanksTwoConjugateExponentProvider20261018 originalNormKernelRanksTwoPiModuleProvider20261018 originalNormKernelRanksTwoConjugateModuleProvider20261018
+
+
+open Order13ReflectionParameter Order13ActualNormKernelReflection
+open Order13ActualReflectionPairingOrthogonality Order13ActualGeometricNineteenDivisorialPairing
+open Order13ReflectionSexticSymmetry Order13ActualReflectionCoefficientCovariance Order13CyclotomicReflectionCoefficients
+open Order13ActualNineteenTorsionReflection Order13ActualGeometricNineteenTorsionDiamondComparison
+open MazurTransfer.ThirteenToNineteenCharacters MazurTransfer.Order13ActualCyclotomicThirteenKernelCharacter
+attribute [local instance] characterOriginalPrime13Provider20261018 characterOriginalPrime19Provider20261018
+open MazurTransfer.Order13ActualArithmeticCharacterExactSequence MazurTransfer.ScalarCharacterLine
+open Order13ActualComplementaryCharacterExactSequence Order13ActualNormKernelEigenCharacterQuotient RepresentationCharacterTwist
+open Order13ActualNormKernelCrossPairing
+open Order13ActualNormKernelInvariantDimensions
+open Order13ActualNormCharacterH1Exactness Order13ActualNormCharacterKummerKernelControl
+open RepresentationCharacterTwist ScalarCharacterLine Order13ActualPicardGeometricNormPreimages
+attribute [local instance] sourceArithmeticExactSequenceRationalFactProvider20261018 originalNormKernelRanksTwoPiKernelFiniteProvider20261018 originalNormKernelRanksTwoConjugateKernelFiniteProvider20261018
+attribute [local instance] MazurTransfer.Order13ActualNormCharacterH1Exactness.actualNormCharacterH1ExactnessDataProvider520261018 MazurTransfer.Order13ActualNormCharacterH1Exactness.actualNormCharacterH1ExactnessDataProvider620261018 MazurTransfer.Order13ActualNormCharacterH1Exactness.actualNormCharacterH1ExactnessDataProvider720261018 MazurTransfer.Order13ActualNormCharacterH1Exactness.actualNormCharacterH1ExactnessDataProvider820261018
+open Order13ActualNormCharacterContinuousH1 Order13ActualNormCharacterKummerUnramified
+open RepresentationDiscreteCoefficients ContinuousCoefficientExponentAndContinuity
+open Order13ActualPicardNormContinuousCohomology Order13ActualPicardNormAlgebraicKummerInjection
+open Order13ActualOrderedCharacterContinuousH1
+attribute [local instance] Order13ActualOrderedCharacterContinuousH1.orderedContinuousOriginalPiKernelActionProvider20261019 Order13ActualOrderedCharacterContinuousH1.orderedContinuousOriginalConjugateKernelActionProvider20261019
+open OneDimensionalSelectedQuotientKernel
+open Order13ActualSelectedCharacterExactSequences
+attribute [local instance] Order13ActualSelectedCharacterExactSequences.selectedCharacterOriginalRootsFiniteDimProvider20261019
+namespace MazurTransfer.Order13ActualSelectedCharacterKummerKernel
+variable (K : Type) [Field K] [CharZero K] [IsGalois ℚ K] [IsAlgClosed K]
+variable (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover)
+open Order13ActualPicardNormContinuousKummerInjection
+open Order13ActualPicardNormSubgroupRestrictionF19
+local instance selectedCharacterH1OriginalProvider120261019 : Module (ZMod 19) (ContinuousH1 K schemePi) := globalH1ZModModule K schemePi
+local instance selectedCharacterH1OriginalProvider220261019 : Module (ZMod 19) (ContinuousH1 K schemePiConjugate) := globalH1ZModModule K schemePiConjugate
+local instance selectedCharacterH1OriginalProvider320261019 : ContinuousSMul (K ≃ₐ[ℚ] K) (Kernel K schemePi) :=
+  Order13ActualPicardNormContinuousCocycles.kernel_continuousSMul K schemePi
+local instance selectedCharacterH1OriginalProvider420261019 : ContinuousSMul (K ≃ₐ[ℚ] K) (Kernel K schemePiConjugate) :=
+  Order13ActualPicardNormContinuousCocycles.kernel_continuousSMul K schemePiConjugate
+
+abbrev piLineRepresentation := ScalarCharacterLine.scalarRepresentation (piConjugateReflectedCharacter K z hz)
+abbrev trivialLineRepresentation := Representation.trivial (ZMod 19) (K ≃ₐ[ℚ] K) (ZMod 19)
+local notation "Γ" => K ≃ₐ[ℚ] K
+local notation "Hχ" => ContinuousFirstCohomologyPresentation.H1 Γ (Coefficient (piLineRepresentation K z hz))
+local notation "H₀" => ContinuousFirstCohomologyPresentation.H1 Γ (Coefficient (trivialLineRepresentation K))
+local instance selectedCharacterH1OriginalProvider520261019 : Module (ZMod 19) Hχ := coefficientH1ZModModule (piLineRepresentation K z hz)
+local instance selectedCharacterH1OriginalProvider620261019 : Module (ZMod 19) H₀ := coefficientH1ZModModule (trivialLineRepresentation K)
+local instance selectedCharacterH1OriginalProvider720261019 : Module (ZMod 19)
+    (ContinuousFirstCohomologyPresentation.H1 Γ (Coefficient (rootsRepresentation K))) :=
+  coefficientH1ZModModule (rootsRepresentation K)
+local instance selectedCharacterH1OriginalProvider820261019 : Module (ZMod 19)
+    (ContinuousFirstCohomologyPresentation.H1 Γ (Coefficient (twistedRootsRepresentation K z hz))) :=
+  coefficientH1ZModModule (twistedRootsRepresentation K z hz)
+
+def piInclusionClass : Hχ →ₗ[ZMod 19] ContinuousH1 K schemePi :=
+  inclusionClass K schemePi (piLineRepresentation K z hz) (selectedPiInclusion K z hz 𝒱)
+
+def piConjugateInclusionClass : H₀ →ₗ[ZMod 19] ContinuousH1 K schemePiConjugate :=
+  inclusionClass K schemePiConjugate (trivialLineRepresentation K) (selectedPiConjugateInclusion K z hz 𝒱)
+
+end MazurTransfer.Order13ActualSelectedCharacterKummerKernel
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider120261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider220261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider320261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider420261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider520261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider620261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider720261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.selectedCharacterH1OriginalProvider820261019
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.piLineRepresentation
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.trivialLineRepresentation
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.piInclusionClass
+#print axioms MazurTransfer.Order13ActualSelectedCharacterKummerKernel.piConjugateInclusionClass
+
+

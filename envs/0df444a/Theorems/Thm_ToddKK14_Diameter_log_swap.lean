@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToddKK14_Diameter_log_swap
 -- name    : ToddKK14.Diameter.log_swap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:44:20.265062+00:00
 -- url     : https://prove2.me/theorems/a32816fc-1970-436a-b5ef-68576cd2afe0

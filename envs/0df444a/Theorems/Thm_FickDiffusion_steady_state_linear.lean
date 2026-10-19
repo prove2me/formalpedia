@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_steady_state_linear
 -- name    : FickDiffusion.steady_state_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:31.905236+00:00
 -- url     : https://prove2.me/theorems/249df9b2-c954-4414-814c-f9bef25ff7d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RepeatedLocalization_repeated_localization
 -- name    : OAI.RepeatedLocalization.repeated_localization
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:16.129478+00:00
 -- url     : https://prove2.me/theorems/dc501330-c60c-40d9-96db-2f251ed20fda

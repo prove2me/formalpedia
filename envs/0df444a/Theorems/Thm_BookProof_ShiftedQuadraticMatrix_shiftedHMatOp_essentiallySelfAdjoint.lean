@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_shiftedHMatOp_essentiallySelfAdjoint
 -- name    : BookProof.ShiftedQuadraticMatrix.shiftedHMatOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:48:53.293976+00:00
 -- url     : https://prove2.me/theorems/2d74eaab-f230-453a-898a-cd49ccce57cd

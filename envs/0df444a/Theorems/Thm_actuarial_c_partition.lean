@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_partition
 -- name    : actuarial_c_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:15:10.03627+00:00
 -- url     : https://prove2.me/theorems/f8790d37-a325-4ac3-99d9-a00bb2dfe6f0

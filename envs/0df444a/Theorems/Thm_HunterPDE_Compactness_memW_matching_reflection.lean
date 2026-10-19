@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_memW_matching_reflection
 -- name    : HunterPDE.Compactness.memW_matching_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-16T09:08:04.71116+00:00
 -- url     : https://prove2.me/theorems/64249917-a734-42e1-94ec-39ab5027aba9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPAMMFlaws_Properties_proposition_3
 -- name    : CPAMMFlaws.Properties.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:27:22.394032+00:00
 -- url     : https://prove2.me/theorems/566c1c2c-55d4-4739-b6e6-bdee32223c4b

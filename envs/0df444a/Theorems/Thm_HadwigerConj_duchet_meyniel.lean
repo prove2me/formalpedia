@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_duchet_meyniel
 -- name    : HadwigerConj.duchet_meyniel
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T00:08:35.03008+00:00
 -- url     : https://prove2.me/theorems/c08dc1c2-4c99-477b-b5e8-98fe131a1e28

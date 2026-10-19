@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_barnumKnill
 -- name    : QAlgorithms.Arunachalam.barnumKnill
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:16.980091+00:00
 -- url     : https://prove2.me/theorems/2a1d1bf4-9e1f-49d0-9115-4026c1749193

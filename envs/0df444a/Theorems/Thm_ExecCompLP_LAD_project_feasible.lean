@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExecCompLP_LAD_project_feasible
 -- name    : ExecCompLP.LAD.project_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:23:20.248453+00:00
 -- url     : https://prove2.me/theorems/75671ec3-5eda-4e62-9ea3-1d119d1e1ca3

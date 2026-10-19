@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_right_derivative_preserves_secant_lower_bound
 -- name    : NestedSeatAlloc.IntPolicy.right_derivative_preserves_secant_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:41:18.260004+00:00
 -- url     : https://prove2.me/theorems/1f435294-350f-4348-bfad-72b5d3578082

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_shift_full_spectrum_vs_observable_spectrum
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.shift_full_spectrum_vs_observable_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:17:57.018756+00:00
 -- url     : https://prove2.me/theorems/a1a61adb-1be8-4ff5-aaf8-2fb605adce50

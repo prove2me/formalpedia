@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BERicci_Tensor_nu_inequality
 -- name    : BERicci.Tensor.nu_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:33:07.216045+00:00
 -- url     : https://prove2.me/theorems/3899a39d-0430-4711-a3b4-c60fcf9b118c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanSteinitzBergstrom_main
 -- name    : OAI.EuclideanSteinitzBergstrom.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:39.232541+00:00
 -- url     : https://prove2.me/theorems/bef9845b-90f7-48c7-a638-31fcce7f9635

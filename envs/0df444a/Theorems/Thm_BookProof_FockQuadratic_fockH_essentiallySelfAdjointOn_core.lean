@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockQuadratic_fockH_essentiallySelfAdjointOn_core
 -- name    : BookProof.FockQuadratic.fockH_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T21:14:57.386409+00:00
 -- url     : https://prove2.me/theorems/fcaec263-52c8-4209-bc30-e128b34418fd

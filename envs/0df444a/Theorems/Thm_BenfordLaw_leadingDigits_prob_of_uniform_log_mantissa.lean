@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_leadingDigits_prob_of_uniform_log_mantissa
 -- name    : BenfordLaw.leadingDigits_prob_of_uniform_log_mantissa
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:02.117266+00:00
 -- url     : https://prove2.me/theorems/59b0da4f-e075-4ee4-99fd-cf0bd6b20771

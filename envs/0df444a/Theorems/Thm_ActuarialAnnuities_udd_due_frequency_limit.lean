@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_udd_due_frequency_limit
 -- name    : ActuarialAnnuities.udd_due_frequency_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:39:36.189809+00:00
 -- url     : https://prove2.me/theorems/f27c0583-e1e9-4c29-bdbf-22ac47090fa6

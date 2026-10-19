@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfFisher_Linear_S_eq_cone_inter_T
 -- name    : InfFisher.Linear.S_eq_cone_inter_T
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:42.006175+00:00
 -- url     : https://prove2.me/theorems/fa2e9629-eace-4a4a-b7ff-6645111d5091

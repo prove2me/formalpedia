@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonicTools_laplacian_cylTerm
 -- name    : BookProof.ChapterSolidHarmonicTools.laplacian_cylTerm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:17:11.141388+00:00
 -- url     : https://prove2.me/theorems/1d71679d-9476-4bde-859d-84175f06f099

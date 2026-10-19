@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramersWannier_z2_translation_algebra
 -- name    : KramersWannier.z2_translation_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:47:08.919408+00:00
 -- url     : https://prove2.me/theorems/d2f5c306-d430-4bd1-8377-d2a53b951ea8

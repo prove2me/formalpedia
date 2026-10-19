@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_WeylHamiltonian_weylHamiltonian_isPositive
 -- name    : BookProof.WeylHamiltonian.weylHamiltonian_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:41:07.261582+00:00
 -- url     : https://prove2.me/theorems/a2a6da78-25ea-4686-b877-0bcfd391cc3a

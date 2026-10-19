@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_sinSq_angle_error
 -- name    : QAlgorithms.Nannicini.sinSq_angle_error
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:47:23.084782+00:00
 -- url     : https://prove2.me/theorems/619ad1ef-a1ab-49d8-8d57-7f6a1baf2d4a

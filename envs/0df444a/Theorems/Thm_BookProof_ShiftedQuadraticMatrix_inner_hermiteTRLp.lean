@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_inner_hermiteTRLp
 -- name    : BookProof.ShiftedQuadraticMatrix.inner_hermiteTRLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:45:34.825978+00:00
 -- url     : https://prove2.me/theorems/a1ec4a5c-e2bd-4c5d-af14-e221f7a840e2

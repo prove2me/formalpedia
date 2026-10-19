@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GNFS_finrank_adjoin_root_eq_natDegree
 -- name    : GNFS.finrank_adjoin_root_eq_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:22:46.556381+00:00
 -- url     : https://prove2.me/theorems/8603980f-4f0d-4acd-852f-153b57ca399f

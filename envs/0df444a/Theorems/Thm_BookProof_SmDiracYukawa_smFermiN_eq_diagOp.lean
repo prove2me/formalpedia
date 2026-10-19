@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_smFermiN_eq_diagOp
 -- name    : BookProof.SmDiracYukawa.smFermiN_eq_diagOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:30:04.215037+00:00
 -- url     : https://prove2.me/theorems/2eb1f363-e063-4757-b742-a21d90edfee3

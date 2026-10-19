@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_adiabatic_eigvec_deriv_bounds
 -- name    : QAlgorithms.Nannicini.adiabatic_eigvec_deriv_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:34.585678+00:00
 -- url     : https://prove2.me/theorems/e7cb0f01-9fd1-4187-93d6-1722d4cd50f5

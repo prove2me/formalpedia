@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_rellich_kondrachov
 -- name    : HunterPDE.Compactness.rellich_kondrachov
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:26:18.88488+00:00
 -- url     : https://prove2.me/theorems/417b0f64-925f-4f9b-8e08-588f33ec9722

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_NetworkGap_affine_solution
 -- name    : BudgetedAffine.NetworkGap.affine_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:37.244286+00:00
 -- url     : https://prove2.me/theorems/efec5cb2-53e8-4a27-9191-855b6dc041ff

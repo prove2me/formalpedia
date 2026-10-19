@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_exists_eq_isotropicOfPair
 -- name    : GeneralizedComplex.exists_eq_isotropicOfPair
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:51:10.929217+00:00
 -- url     : https://prove2.me/theorems/dceb314e-991e-41d6-b221-cef68cbedd27

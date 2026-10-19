@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_one_eq_zero
 -- name    : LindelofHypothesis.mu_one_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T16:40:39.28374+00:00
 -- url     : https://prove2.me/theorems/df6e9959-d9c7-4883-9274-d7df8cf486e7

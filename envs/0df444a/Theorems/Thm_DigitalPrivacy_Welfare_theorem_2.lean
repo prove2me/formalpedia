@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DigitalPrivacy_Welfare_theorem_2
 -- name    : DigitalPrivacy.Welfare.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:32:45.162986+00:00
 -- url     : https://prove2.me/theorems/444a7e5f-2575-4dcd-a931-dcb141fcb2be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Budget_ec2_4_geometric_sum
 -- name    : GreedyRS.Budget.ec2_4_geometric_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:28:57.236315+00:00
 -- url     : https://prove2.me/theorems/88b717a9-54fe-45e6-a04b-5d834dfbc410

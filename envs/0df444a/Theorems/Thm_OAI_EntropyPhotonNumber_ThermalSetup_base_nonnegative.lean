@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyPhotonNumber_ThermalSetup_base_nonnegative
 -- name    : OAI.EntropyPhotonNumber.ThermalSetup.base_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-16T03:03:37.996372+00:00
 -- url     : https://prove2.me/theorems/4222186d-c8f2-4a1c-a417-cdadc2985ffe

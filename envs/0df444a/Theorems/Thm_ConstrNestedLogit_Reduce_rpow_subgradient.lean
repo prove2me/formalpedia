@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Reduce_rpow_subgradient
 -- name    : ConstrNestedLogit.Reduce.rpow_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:03:09.658985+00:00
 -- url     : https://prove2.me/theorems/03f66d2d-d333-4a99-8212-453d1cbb19f6

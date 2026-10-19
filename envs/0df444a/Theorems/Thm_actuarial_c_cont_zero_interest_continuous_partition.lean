@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_zero_interest_continuous_partition
 -- name    : actuarial_c_cont_zero_interest_continuous_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:34:38.133232+00:00
 -- url     : https://prove2.me/theorems/beeefdb2-c040-4f7a-a28f-fe130d093c41

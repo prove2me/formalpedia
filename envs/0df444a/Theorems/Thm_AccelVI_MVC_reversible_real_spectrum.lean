@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_MVC_reversible_real_spectrum
 -- name    : AccelVI.MVC.reversible_real_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:00:44.964171+00:00
 -- url     : https://prove2.me/theorems/c56c68e1-7f4b-41fb-b4ae-518f15fc667d

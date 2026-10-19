@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Gomory69_SpecialGroups_theorem_2
 -- name    : Gomory69.SpecialGroups.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:12:48.291102+00:00
 -- url     : https://prove2.me/theorems/1df5b7ab-8d02-4891-92bf-0de5842036ae

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmBrstGhost.smBrstCharge_nilpotent
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:56:10.811882+00:00
 -- url     : https://prove2.me/submissions/c512d4f5-f167-42da-acf8-43628f5b0de7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmBrstGhost.lean — solution of BookProof.SmBrstGhost.smBrstCharge_nilpotent
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_ImprovedJS_theorem_6_1
 -- name    : FuzzyExtractors.ImprovedJS.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:16:11.346844+00:00
 -- url     : https://prove2.me/theorems/ad3c94bd-3c2d-4f5d-bcd3-d84fa876fe18

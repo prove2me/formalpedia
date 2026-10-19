@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldieRenewal_Implicit_theorem_2_3
 -- name    : GoldieRenewal.Implicit.theorem_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:55.703592+00:00
 -- url     : https://prove2.me/theorems/a0fedab1-604a-44a4-adc1-4de35a0472d6

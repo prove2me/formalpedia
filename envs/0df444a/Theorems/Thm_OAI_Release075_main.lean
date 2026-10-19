@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_main
 -- name    : OAI.Release075.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:15.851987+00:00
 -- url     : https://prove2.me/theorems/73105700-7241-40af-9e5d-b811d850e0b5

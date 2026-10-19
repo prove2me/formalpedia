@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_velocity_geodesic_equation
 -- name    : RelPartMech.velocity_geodesic_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:11:38.166305+00:00
 -- url     : https://prove2.me/theorems/ac952a4d-3c4e-4a4c-8178-67be63d367cf

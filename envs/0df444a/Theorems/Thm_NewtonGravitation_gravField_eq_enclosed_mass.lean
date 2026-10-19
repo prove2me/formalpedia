@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_gravField_eq_enclosed_mass
 -- name    : NewtonGravitation.gravField_eq_enclosed_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T18:57:17.314985+00:00
 -- url     : https://prove2.me/theorems/ff22e954-f66e-4c93-adf2-25095bc0bc58

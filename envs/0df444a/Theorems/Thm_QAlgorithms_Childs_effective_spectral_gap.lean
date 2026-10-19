@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_effective_spectral_gap
 -- name    : QAlgorithms.Childs.effective_spectral_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:32:44.889766+00:00
 -- url     : https://prove2.me/theorems/615cd062-8912-4fed-bd3a-6b26d4c3337a

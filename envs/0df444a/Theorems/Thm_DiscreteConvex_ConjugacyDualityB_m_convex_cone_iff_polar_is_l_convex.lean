@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityB_m_convex_cone_iff_polar_is_l_convex
 -- name    : DiscreteConvex.ConjugacyDualityB.m_convex_cone_iff_polar_is_l_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:36:18.125995+00:00
 -- url     : https://prove2.me/theorems/9d743c91-e7a5-4a80-bcd9-f8130171e7fa

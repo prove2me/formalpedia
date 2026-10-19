@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_death_amount_scale
 -- name    : actuarial_c_cont_death_amount_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:35:04.104998+00:00
 -- url     : https://prove2.me/theorems/eba180df-4e81-47fe-bc4c-7a6f2f802c8c

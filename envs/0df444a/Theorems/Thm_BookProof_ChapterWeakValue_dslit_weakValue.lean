@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeakValue_dslit_weakValue
 -- name    : BookProof.ChapterWeakValue.dslit_weakValue
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:39:46.625016+00:00
 -- url     : https://prove2.me/theorems/362e1eff-4147-45d2-b788-d630d76e6c98

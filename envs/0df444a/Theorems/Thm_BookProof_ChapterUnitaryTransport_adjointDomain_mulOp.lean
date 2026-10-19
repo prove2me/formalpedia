@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnitaryTransport_adjointDomain_mulOp
 -- name    : BookProof.ChapterUnitaryTransport.adjointDomain_mulOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:39:05.837983+00:00
 -- url     : https://prove2.me/theorems/67d42f7f-efd5-42d4-a73a-97f7ac9938eb

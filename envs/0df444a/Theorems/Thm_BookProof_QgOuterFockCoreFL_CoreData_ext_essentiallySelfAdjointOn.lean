@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockCoreFL_CoreData_ext_essentiallySelfAdjointOn
 -- name    : BookProof.QgOuterFockCoreFL.CoreData.ext_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:20:08.914375+00:00
 -- url     : https://prove2.me/theorems/9f5ef649-ec3d-4b2f-8bf5-cdecd7b203de

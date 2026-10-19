@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_classical
 -- name    : SensitivityCampaign.classical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-16T01:36:35.10314+00:00
 -- url     : https://prove2.me/theorems/22c7a0a5-0017-428b-bdff-f599fd24a5ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_leadingDigit_two_eq_one
 -- name    : BenfordLaw.leadingDigit_two_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:05.917047+00:00
 -- url     : https://prove2.me/theorems/73619db8-f39e-46db-a790-5d4b14efbdb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetExtDominance_Introspective_three_equilibria
 -- name    : NetExtDominance.Introspective.three_equilibria
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:19.058189+00:00
 -- url     : https://prove2.me/theorems/93de4312-10e0-4571-b926-3dce4e6c69b8

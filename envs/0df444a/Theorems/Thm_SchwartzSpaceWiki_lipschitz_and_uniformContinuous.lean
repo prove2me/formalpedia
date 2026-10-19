@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_lipschitz_and_uniformContinuous
 -- name    : SchwartzSpaceWiki.lipschitz_and_uniformContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:17:13.749625+00:00
 -- url     : https://prove2.me/theorems/71ca4bdb-1aff-44c1-888b-7c0f407a0163

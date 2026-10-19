@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_continued_fraction_recovers
 -- name    : ShorWiki.continued_fraction_recovers
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T03:06:48.996011+00:00
 -- url     : https://prove2.me/theorems/99d4a73d-eca5-4fee-b98a-8081db4fbd1e

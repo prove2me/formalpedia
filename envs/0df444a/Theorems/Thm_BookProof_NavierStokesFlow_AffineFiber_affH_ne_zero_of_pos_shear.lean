@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_AffineFiber_affH_ne_zero_of_pos_shear
 -- name    : BookProof.NavierStokesFlow.AffineFiber.affH_ne_zero_of_pos_shear
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T16:50:20.168984+00:00
 -- url     : https://prove2.me/theorems/e94abba2-2f1f-4c2f-bc80-a63cfa4c82aa

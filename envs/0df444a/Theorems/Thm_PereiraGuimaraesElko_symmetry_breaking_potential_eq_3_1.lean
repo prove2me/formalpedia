@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_symmetry_breaking_potential_eq_3_1
 -- name    : PereiraGuimaraesElko.symmetry_breaking_potential_eq_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:52:06.731816+00:00
 -- url     : https://prove2.me/theorems/c9997126-1d90-415c-8d39-0ac66bbbfcfc

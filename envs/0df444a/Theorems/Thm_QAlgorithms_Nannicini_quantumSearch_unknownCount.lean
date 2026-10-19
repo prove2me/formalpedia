@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_quantumSearch_unknownCount
 -- name    : QAlgorithms.Nannicini.quantumSearch_unknownCount
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:18.966237+00:00
 -- url     : https://prove2.me/theorems/5ca4733c-b7a2-42db-aab4-b7cac794f53a

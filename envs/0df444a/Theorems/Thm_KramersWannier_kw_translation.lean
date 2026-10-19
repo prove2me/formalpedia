@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramersWannier_kw_translation
 -- name    : KramersWannier.kw_translation
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:50:10.591487+00:00
 -- url     : https://prove2.me/theorems/e7c41e2a-46dd-4b43-8110-f646f764b959

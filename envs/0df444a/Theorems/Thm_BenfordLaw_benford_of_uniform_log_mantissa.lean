@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_benford_of_uniform_log_mantissa
 -- name    : BenfordLaw.benford_of_uniform_log_mantissa
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:31.819989+00:00
 -- url     : https://prove2.me/theorems/cbd23db5-aa57-4156-851e-d2f069da59d3

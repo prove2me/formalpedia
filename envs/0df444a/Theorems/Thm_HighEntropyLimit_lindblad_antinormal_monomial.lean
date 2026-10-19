@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_lindblad_antinormal_monomial
 -- name    : HighEntropyLimit.lindblad_antinormal_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:08:06.128975+00:00
 -- url     : https://prove2.me/theorems/1d5f3de5-4806-414f-a8ee-0d4d47f80db0

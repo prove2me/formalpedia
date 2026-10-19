@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_loss_expected_reconciliation
 -- name    : actuarial_c_loss_expected_reconciliation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:30:38.801981+00:00
 -- url     : https://prove2.me/theorems/8d06b905-4aa6-401a-a125-af8e5731e1a1

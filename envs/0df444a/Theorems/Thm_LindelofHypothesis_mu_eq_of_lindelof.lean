@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindelofHypothesis_mu_eq_of_lindelof
 -- name    : LindelofHypothesis.mu_eq_of_lindelof
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T16:44:58.42563+00:00
 -- url     : https://prove2.me/theorems/620f5fd9-ab66-488c-af78-96585b2371eb

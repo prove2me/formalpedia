@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_rational_scale_error_control_nat_n
 -- name    : OAI.PiExponent.rational_scale_error_control_nat_n
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T04:59:17.037476+00:00
 -- url     : https://prove2.me/theorems/f26c3b79-f4c7-4c69-9ed4-79113f04db94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_MVC_rate_identity
 -- name    : AccelVI.MVC.rate_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:00:32.03798+00:00
 -- url     : https://prove2.me/theorems/988aecf2-9af7-417b-8c51-3b2d2fb40268

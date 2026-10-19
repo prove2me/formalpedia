@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YukawaPotential_yukawaShellPotential_interior
 -- name    : YukawaPotential.yukawaShellPotential_interior
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-03T15:25:04.050084+00:00
 -- url     : https://prove2.me/theorems/bbc5d1a9-a517-4ed0-a158-c8e6d597bb1b

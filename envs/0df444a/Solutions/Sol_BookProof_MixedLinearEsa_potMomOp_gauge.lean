@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.MixedLinearEsa.potMomOp_gauge
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T18:05:35.845873+00:00
 -- url     : https://prove2.me/submissions/342e7f78-99bc-416f-9fb6-240f712e7300
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMixedLinearEsa.lean — solution of BookProof.MixedLinearEsa.potMomOp_gauge
 import Mathlib

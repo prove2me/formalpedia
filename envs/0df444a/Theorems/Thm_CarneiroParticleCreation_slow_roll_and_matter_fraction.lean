@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_slow_roll_and_matter_fraction
 -- name    : CarneiroParticleCreation.slow_roll_and_matter_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:32:06.389872+00:00
 -- url     : https://prove2.me/theorems/f9ca811b-6d23-4b69-8e66-044fd9bf6ca6

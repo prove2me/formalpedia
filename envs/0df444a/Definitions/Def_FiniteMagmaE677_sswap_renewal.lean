@@ -11,7 +11,7 @@
 --
 --   The one-step packet classifies $p,u$ relative to the exact finite cycles, retaining all five contact or escape alternatives. The q-square refinement puts $v=q\diamond q$ and records freshness, $p=u\diamond v$, and the oriented phase relations or new cycles. Finite cycle sets and marked-phase slack are also defined. These are data types and predicates, not an assertion that any branch closes or can be iterated.
 -- source:
---   https://github.com/flound1129/the-missing-pair/tree/f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c/lean/E677/Spine ; Piece1D4SSwapCycleReduction, CommonRenewal, CycleAccounting, QFixerPump, QSquareRenewal, PNewQSquareRenewal. Explicit-operation adapters use the previously published D4 definitions.
+--   Adam McKenna, The Missing Pair (private repository), revision f9945b937be61f4ca48eb6cafdcfa07ba7a7f78c, lean/E677/Spine: Piece1D4SSwapCycleReduction, CommonRenewal, CycleAccounting, QFixerPump, QSquareRenewal, PNewQSquareRenewal. Explicit-operation adapters use the previously published D4 definitions. The published definition on this platform is the public record.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

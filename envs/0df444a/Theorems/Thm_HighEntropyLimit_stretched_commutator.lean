@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_stretched_commutator
 -- name    : HighEntropyLimit.stretched_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:08:32.505711+00:00
 -- url     : https://prove2.me/theorems/4446c82e-0888-454e-a797-56f48b0a2c21

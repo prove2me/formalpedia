@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetExtDominance_Introspective_unique_equilibrium_outside
 -- name    : NetExtDominance.Introspective.unique_equilibrium_outside
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:22.047483+00:00
 -- url     : https://prove2.me/theorems/17cb64f1-a59c-4009-ae6d-ed5a306885ae

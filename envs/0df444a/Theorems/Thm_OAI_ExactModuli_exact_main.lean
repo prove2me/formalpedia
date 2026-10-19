@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ExactModuli_exact_main
 -- name    : OAI.ExactModuli.exact_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:39.643144+00:00
 -- url     : https://prove2.me/theorems/4446f8eb-f6e5-46e3-aacb-af7395c65eee

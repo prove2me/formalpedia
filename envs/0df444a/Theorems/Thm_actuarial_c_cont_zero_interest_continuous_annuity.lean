@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_zero_interest_continuous_annuity
 -- name    : actuarial_c_cont_zero_interest_continuous_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:34:09.821674+00:00
 -- url     : https://prove2.me/theorems/6b86740b-2f97-4402-9a19-cc1ff055fc2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgeInv_Order_lemma2_i
 -- name    : HedgeInv.Order.lemma2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:22:02.170979+00:00
 -- url     : https://prove2.me/theorems/6117a4f9-99aa-414a-8274-9713138d3459

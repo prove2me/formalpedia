@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_matrixFlow_neg_hasDerivAt
 -- name    : BookProof.NavierStokesFlow.matrixFlow_neg_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:49.88919+00:00
 -- url     : https://prove2.me/theorems/9267f91e-4fa2-452b-bf80-77617289831e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_permOp_isFunctionOfSpectrum_iff
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.permOp_isFunctionOfSpectrum_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:15:40.934676+00:00
 -- url     : https://prove2.me/theorems/02c07ea3-ca75-480c-b26b-84a80f4f05a1

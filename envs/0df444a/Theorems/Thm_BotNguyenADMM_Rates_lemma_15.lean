@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BotNguyenADMM_Rates_lemma_15
 -- name    : BotNguyenADMM.Rates.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:07:26.03477+00:00
 -- url     : https://prove2.me/theorems/05169f61-2af5-4f24-8e72-d2c6cf0bf3e6

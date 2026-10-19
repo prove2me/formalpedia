@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_inner_e_spherePt
 -- name    : BookProof.ChapterSolidHarmonic.inner_e_spherePt
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:10:35.73698+00:00
 -- url     : https://prove2.me/theorems/46852864-b8e6-4ca4-88d3-c6866542e833

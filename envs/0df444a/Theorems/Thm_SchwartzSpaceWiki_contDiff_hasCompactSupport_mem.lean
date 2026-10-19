@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_contDiff_hasCompactSupport_mem
 -- name    : SchwartzSpaceWiki.contDiff_hasCompactSupport_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:13:49.593277+00:00
 -- url     : https://prove2.me/theorems/a675ab3e-f6c9-40c6-a8c1-666410ab2841

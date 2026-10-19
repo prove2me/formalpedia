@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BenfordLaw_not_isBenfordSeq_inv_sqrt
 -- name    : BenfordLaw.not_isBenfordSeq_inv_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:27.564849+00:00
 -- url     : https://prove2.me/theorems/63ae574d-2b27-4bd7-9597-13b32a2d5c36

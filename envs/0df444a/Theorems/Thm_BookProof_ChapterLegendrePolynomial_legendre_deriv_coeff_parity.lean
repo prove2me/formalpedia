@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLegendrePolynomial_legendre_deriv_coeff_parity
 -- name    : BookProof.ChapterLegendrePolynomial.legendre_deriv_coeff_parity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:29:17.634962+00:00
 -- url     : https://prove2.me/theorems/f71add54-4c55-4056-ba05-f4e75b896ad5

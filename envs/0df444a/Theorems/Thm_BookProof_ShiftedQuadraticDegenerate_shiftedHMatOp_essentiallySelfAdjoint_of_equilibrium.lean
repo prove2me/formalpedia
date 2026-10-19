@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticDegenerate_shiftedHMatOp_essentiallySelfAdjoint_of_equilibrium
 -- name    : BookProof.ShiftedQuadraticDegenerate.shiftedHMatOp_essentiallySelfAdjoint_of_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:59:41.096945+00:00
 -- url     : https://prove2.me/theorems/25379d69-20e5-456e-9d29-41efc5cc6332

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_OptToken_eq_16_lhs
 -- name    : TokenFinance.OptToken.eq_16_lhs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:37.53805+00:00
 -- url     : https://prove2.me/theorems/c004fe9a-2b9e-41ae-b74c-406ad3bd42d7

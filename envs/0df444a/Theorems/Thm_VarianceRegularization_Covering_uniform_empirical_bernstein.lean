@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Covering_uniform_empirical_bernstein
 -- name    : VarianceRegularization.Covering.uniform_empirical_bernstein
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:41:21.186882+00:00
 -- url     : https://prove2.me/theorems/1c08adb2-1eb0-4680-bfb0-33154fc35be8

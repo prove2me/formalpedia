@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NewtonGravitation.gravField_eq_zero_of_symmetric_outside
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-13T12:29:58.112439+00:00
 -- url     : https://prove2.me/submissions/671e20a2-a721-4da6-b2cb-8ec65f2e8e16
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NewtonGravitation_Defs
 import Theorems.Thm_NewtonGravitation_integrable_newtonKernel_inside_hollow

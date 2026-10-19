@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_subadditivity_of_errors
 -- name    : QAlgorithms.Childs.subadditivity_of_errors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:31:36.472888+00:00
 -- url     : https://prove2.me/theorems/bf85f8e8-a496-46a6-ab20-9ebdded7831c

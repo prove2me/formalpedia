@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_local_jet_generator_logTail_coeff_support_succ
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.local_jet_generator_logTail_coeff_support_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:40:50.209434+00:00
 -- url     : https://prove2.me/theorems/5f7096a1-2a28-41ea-86a4-a131896675a8

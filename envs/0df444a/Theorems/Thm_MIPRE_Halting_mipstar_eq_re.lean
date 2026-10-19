@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_mipstar_eq_re
 -- name    : MIPRE.Halting.mipstar_eq_re
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:42:41.950147+00:00
 -- url     : https://prove2.me/theorems/91337971-2705-496b-8c51-616ba7c648bb

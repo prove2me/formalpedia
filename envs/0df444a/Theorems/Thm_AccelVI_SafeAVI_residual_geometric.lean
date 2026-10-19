@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_SafeAVI_residual_geometric
 -- name    : AccelVI.SafeAVI.residual_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:21.913289+00:00
 -- url     : https://prove2.me/theorems/c88ab3a5-4155-42ca-ab1e-669ae0047268

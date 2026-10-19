@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_death_maturity_exclusive
 -- name    : actuarial_c_cont_death_maturity_exclusive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:33:34.346982+00:00
 -- url     : https://prove2.me/theorems/a3e67630-d5be-4257-874c-02b9a2070f2c

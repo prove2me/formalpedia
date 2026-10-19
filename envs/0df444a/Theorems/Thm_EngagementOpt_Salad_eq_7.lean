@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Salad_eq_7
 -- name    : EngagementOpt.Salad.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:48.238208+00:00
 -- url     : https://prove2.me/theorems/fc7ac911-7d14-43a8-9469-f3d785ac1eae

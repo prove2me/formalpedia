@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_dependent_choice_sequence
 -- name    : NestedSeatAlloc.IntPolicy.dependent_choice_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T14:21:50.773993+00:00
 -- url     : https://prove2.me/theorems/19a33417-3fa5-4bd1-b8b9-6492b84bdbe1

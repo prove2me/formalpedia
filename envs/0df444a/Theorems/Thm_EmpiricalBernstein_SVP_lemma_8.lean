@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalBernstein_SVP_lemma_8
 -- name    : EmpiricalBernstein.SVP.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:41:28.139364+00:00
 -- url     : https://prove2.me/theorems/44dc560c-dbc4-4d90-8dc8-62d0395c3e84

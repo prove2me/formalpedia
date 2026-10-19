@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_latticeFull_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FullEsa.latticeFull_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:14:26.892675+00:00
 -- url     : https://prove2.me/theorems/9b49cad2-a469-40bf-8ff7-e31168ed41a5

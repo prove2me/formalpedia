@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Alone_interior_solution
 -- name    : HumanMachine.Alone.interior_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:29:14.836583+00:00
 -- url     : https://prove2.me/theorems/45f11a84-605c-4f26-ad0d-567f65f2e1d5

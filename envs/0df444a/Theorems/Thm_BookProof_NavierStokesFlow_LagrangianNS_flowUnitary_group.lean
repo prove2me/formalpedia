@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianNS_flowUnitary_group
 -- name    : BookProof.NavierStokesFlow.LagrangianNS.flowUnitary_group
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:34.961985+00:00
 -- url     : https://prove2.me/theorems/696aa8c9-1563-4154-80ac-464c7cdc4eef

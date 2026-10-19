@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Kernel_kerQ_homField_invariant
 -- name    : BilinearGramian.Kernel.kerQ_homField_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:47.40087+00:00
 -- url     : https://prove2.me/theorems/13dbf03e-dc21-42f5-a17e-48d04986ab73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_poisson_position_fn_kinetic_momentum
 -- name    : RelPartMech.poisson_position_fn_kinetic_momentum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:06:59.672381+00:00
 -- url     : https://prove2.me/theorems/f02f3df5-1b62-4341-81ec-1e0ea4c9ed4c

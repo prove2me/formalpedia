@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Round_theorem_2
 -- name    : RobustSpecClust.Round.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:37.98862+00:00
 -- url     : https://prove2.me/theorems/ea58cb50-f1f8-46ff-a491-dbf5b0d6de0d

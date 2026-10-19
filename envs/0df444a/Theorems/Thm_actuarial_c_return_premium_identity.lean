@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_return_premium_identity
 -- name    : actuarial_c_return_premium_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:28:25.507983+00:00
 -- url     : https://prove2.me/theorems/72bc23cf-b5e8-449d-8f72-f6f2a0026c60

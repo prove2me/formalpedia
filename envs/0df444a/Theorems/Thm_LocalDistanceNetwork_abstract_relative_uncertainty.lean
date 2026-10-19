@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_abstract_relative_uncertainty
 -- name    : LocalDistanceNetwork.abstract_relative_uncertainty
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:31:56.459028+00:00
 -- url     : https://prove2.me/theorems/eb6da2a4-d734-4edf-8d7f-f9f89af581ad

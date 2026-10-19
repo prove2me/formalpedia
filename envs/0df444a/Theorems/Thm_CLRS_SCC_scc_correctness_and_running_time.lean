@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLRS_SCC_scc_correctness_and_running_time
 -- name    : CLRS.SCC.scc_correctness_and_running_time
--- status  : Open
+-- status  : Proved
 -- author  : @Chutong
 -- created : 2026-10-14T21:39:07.531341+00:00
 -- url     : https://prove2.me/theorems/6c9ab06c-8bf2-4a19-a9d8-be31f584b1fd

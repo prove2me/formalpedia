@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_matrixUnits_unitary_blockForm
 -- name    : HarlowTASI.matrixUnits_unitary_blockForm
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T15:18:44.934992+00:00
 -- url     : https://prove2.me/theorems/1a91ccb4-7cdc-4cfa-b36e-88235f9959e4

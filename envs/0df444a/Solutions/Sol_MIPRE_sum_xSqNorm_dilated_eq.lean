@@ -1,0 +1,454 @@
+-- Prove2me | solution 1 for MIPRE.sum_xSqNorm_dilated_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @thomasvidick
+-- created : 2026-10-17T03:33:58.0198+00:00
+-- url     : https://prove2.me/submissions/6f590a1c-7155-4df6-b08e-510dd50b49e6
+
+/-
+Copyright (c) 2026 Thomas Vidick. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Thomas Vidick
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Foundations/Sandwich.lean (solution of MIPRE.sum_xSqNorm_dilated_eq);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Analysis.CStarAlgebra.CStarMatrix
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.SpecialFunctions.Complex.Circle
+import Mathlib.Data.ENat.Lattice
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.ZMod.Basic
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.RingTheory.Trace.Basic
+import Mathlib.Tactic.IntervalCases
+import Definitions.Def_MIPRE_Foundations_Games
+import Definitions.Def_MIPRE_Foundations_Distances
+import Definitions.Def_MIPRE_Foundations_LowDegree_Encoding
+import Definitions.Def_MIPRE_Foundations_Closeness
+import Definitions.Def_MIPRE_Foundations_OpBound
+import Definitions.Def_MIPRE_Foundations_OpBound_B
+import Definitions.Def_MIPRE_Foundations_StateDistance
+import Definitions.Def_MIPRE_Foundations_StateDistance_B
+import Definitions.Def_MIPRE_Foundations_POVMValue
+import Definitions.Def_MIPRE_Foundations_Sign
+import Definitions.Def_MIPRE_Foundations_CrossConsistency
+import Definitions.Def_MIPRE_Foundations_CrossConsistency_B
+import Definitions.Def_MIPRE_Foundations_PVM
+import Definitions.Def_MIPRE_Foundations_PVM_B
+import Definitions.Def_MIPRE_Foundations_Commutation
+import Definitions.Def_MIPRE_Foundations_Dilation
+import Definitions.Def_MIPRE_Foundations_Expanded
+import Definitions.Def_MIPRE_Foundations_LowDegree_SchwartzZippel
+import Definitions.Def_MIPRE_Foundations_LowDegree_Anticomm
+import Definitions.Def_MIPRE_Foundations_Weyl
+import Definitions.Def_MIPRE_Foundations_Parseval
+import Definitions.Def_MIPRE_Foundations_Linearity
+import Definitions.Def_MIPRE_Foundations_Sandwich
+import Theorems.Thm_MIPRE_aOp_conjTranspose
+import Theorems.Thm_MIPRE_aOp_mul
+import Theorems.Thm_MIPRE_aOp_sum
+import Theorems.Thm_MIPRE_ancillaEmbed_isometry
+
+/-! Helper declarations, pasted verbatim from the source modules with their
+namespace and `open` context, each used only by proofs, interleaved with the
+attribute commands of those modules at their source positions. -/
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+/-- The sesquilinear form of two matrices applied to the same vector, moved onto one side:
+`⟨A v, B v⟩ = ⟨v, A† B v⟩`. -/
+theorem star_mulVec_dotProduct {M : Type*} [Fintype M] (A B : Matrix M N ℂ) (v : N → ℂ) :
+    star (A *ᵥ v) ⬝ᵥ (B *ᵥ v) = star v ⬝ᵥ ((Aᴴ * B) *ᵥ v) := by
+  rw [Matrix.star_mulVec, ← Matrix.mulVec_mulVec, ← Matrix.dotProduct_mulVec]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+theorem norm_evec_sq (v : N → ℂ) : ‖evec v‖ ^ 2 = (star v ⬝ᵥ v).re := by
+  classical
+  rw [evec, EuclideanSpace.norm_eq, Real.sq_sqrt (Finset.sum_nonneg fun _ _ => sq_nonneg _),
+    dotProduct, Complex.re_sum]
+  refine Finset.sum_congr rfl fun i _ => ?_
+  have h : star v i * v i = ((‖v i‖ ^ 2 : ℝ) : ℂ) := by
+    rw [Pi.star_apply, RCLike.star_def, RCLike.conj_mul]
+    norm_cast
+  rw [h, Complex.ofReal_re]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+theorem norm_evec_mulVec_sq {M : Type*} [Fintype M] (A : Matrix M N ℂ) (v : N → ℂ) :
+    ‖evec (A *ᵥ v)‖ ^ 2 = (star v ⬝ᵥ ((Aᴴ * A) *ᵥ v)).re := by
+  rw [norm_evec_sq, star_mulVec_dotProduct]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+variable (v : N → ℂ)
+theorem qform_add (M M' : Matrix N N ℂ) : qform v (M + M') = qform v M + qform v M' := by
+  rw [qform, qform, qform, Matrix.add_mulVec, dotProduct_add, Complex.add_re]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+variable (v : N → ℂ)
+theorem qform_sum {ι : Type*} (s : Finset ι) (f : ι → Matrix N N ℂ) :
+    qform v (∑ i ∈ s, f i) = ∑ i ∈ s, qform v (f i) := by
+  classical
+  induction s using Finset.induction with
+  | empty => simp [qform]
+  | insert i s hi ih => rw [Finset.sum_insert hi, qform_add, ih, Finset.sum_insert hi]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+variable (v : N → ℂ)
+theorem qform_one [DecidableEq N] (hv : ‖evec v‖ = 1) : qform v (1 : Matrix N N ℂ) = 1 := by
+  rw [qform, Matrix.one_mulVec, ← norm_evec_sq, hv, one_pow]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+variable {N : Type*} [Fintype N]
+variable (v : N → ℂ)
+/-- **The squared state norm is the quadratic form of `M† M`.** -/
+theorem snorm_sq_eq_qform (M : Matrix N N ℂ) : snorm v M ^ 2 = qform v (Mᴴ * M) := by
+  rw [snorm, norm_evec_mulVec_sq, qform]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_mul (X Y : Matrix HB HB ℂ) :
+    bOp (X * Y) = (bOp X : Matrix (HA × HB) _ ℂ) * bOp Y := by
+  rw [bOp, bOp, bOp, ← Matrix.mul_kronecker_mul, Matrix.one_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_add (X Y : Matrix HB HB ℂ) :
+    bOp (X + Y) = (bOp X : Matrix (HA × HB) _ ℂ) + bOp Y := Matrix.kronecker_add _ _ _
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+open Kronecker
+set_option linter.unusedSectionVars false
+variable {N : Type*} [Fintype N]
+variable [DecidableEq N]
+variable {HA HB : Type*} [Fintype HA] [DecidableEq HA] [Fintype HB] [DecidableEq HB]
+theorem bOp_conjTranspose (X : Matrix HB HB ℂ) :
+    (bOp X : Matrix (HA × HB) _ ℂ)ᴴ = bOp (Xᴴ) := by
+  rw [bOp, bOp, Matrix.conjTranspose_kronecker, Matrix.conjTranspose_one]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Finset Matrix Kronecker
+variable {X : Type*} [Fintype X]
+variable {dA dB : Type*} [Fintype dA] [Fintype dB] [DecidableEq dB]
+variable [DecidableEq dA]
+/-- The inner product of the two factors' vectors is the blueprint's `⟨ψ| Q ⊗ R |ψ⟩`, for
+self-adjoint `Q`. -/
+theorem inner_stateVec_stateVecB (ψ : dA × dB → ℂ) {Q : Matrix dA dA ℂ} (hQ : Qᴴ = Q)
+    (R : Matrix dB dB ℂ) :
+    inner ℂ (stateVec ψ Q) (stateVecB ψ R) = star ψ ⬝ᵥ ((Q ⊗ₖ R) *ᵥ ψ) := by
+  classical
+  have hadj : (Q ⊗ₖ (1 : Matrix dB dB ℂ))ᴴ * ((1 : Matrix dA dA ℂ) ⊗ₖ R) = Q ⊗ₖ R := by
+    rw [Matrix.conjTranspose_kronecker, Matrix.conjTranspose_one, ← Matrix.mul_kronecker_mul,
+      Matrix.mul_one, Matrix.one_mul, hQ]
+  rw [EuclideanSpace.inner_eq_star_dotProduct]
+  show ((1 : Matrix dA dA ℂ) ⊗ₖ R) *ᵥ ψ ⬝ᵥ star ((Q ⊗ₖ (1 : Matrix dB dB ℂ)) *ᵥ ψ) = _
+  rw [dotProduct_comm, star_mulVec_dotProduct, hadj]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X Y A B C dA dB : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+  [Fintype C] [DecidableEq C] [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {G : Game X Y A B} {ψ : dA × dB → ℂ} {MA : X → POVM A dA} {MB : Y → POVM B dB}
+variable {ε : ℝ}
+variable {ψ : dA × dB → ℂ}
+omit [DecidableEq dA] in
+theorem norm_stateVec_eq_snorm (ψ : dA × dB → ℂ) (A : Matrix dA dA ℂ) :
+    ‖stateVec ψ A‖ = snorm ψ (aOp A : Matrix (dA × dB) _ ℂ) := rfl
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix Kronecker
+open scoped ComplexOrder MatrixOrder
+variable {X Y A B C dA dB : Type*} [Fintype X] [Fintype Y] [Fintype A] [Fintype B]
+  [Fintype C] [DecidableEq C] [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {G : Game X Y A B} {ψ : dA × dB → ℂ} {MA : X → POVM A dA} {MB : Y → POVM B dB}
+variable {ε : ℝ}
+variable {ψ : dA × dB → ℂ}
+omit [DecidableEq dB] in
+theorem norm_stateVecB_eq_snorm (ψ : dA × dB → ℂ) (B : Matrix dB dB ℂ) :
+    ‖stateVecB ψ B‖ = snorm ψ (bOp B : Matrix (dA × dB) _ ℂ) := rfl
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem bOp_sum {ι : Type*} (s : Finset ι) (f : ι → Matrix dB dB ℂ) :
+    bOp (∑ i ∈ s, f i) = ∑ i ∈ s, (bOp (f i) : Matrix (dA × dB) _ ℂ) := by
+  classical
+  induction s using Finset.induction with
+  | empty => rw [Finset.sum_empty, Finset.sum_empty, bOp, Matrix.kronecker_zero]
+  | insert i s hi ih => rw [Finset.sum_insert hi, bOp_add, ih, Finset.sum_insert hi]
+end
+end MIPRE
+
+namespace MIPRE
+section
+open Matrix
+open scoped ComplexOrder Kronecker MatrixOrder
+/-- Pulling a Born-rule expectation back along a linear map `W` conjugates the observable:
+`⟨Wv| M |Wv⟩ = ⟨v| Wᴴ M W |v⟩`. With `W` an isometry and `M` a projection this is how a
+dilated projective measurement compresses back to the POVM it came from. -/
+theorem dotProduct_mulVec_conj {ι κ : Type*} [Fintype ι] [Fintype κ]
+    (W : Matrix κ ι ℂ) (M : Matrix κ κ ℂ) (v : ι → ℂ) :
+    star (W *ᵥ v) ⬝ᵥ (M *ᵥ (W *ᵥ v)) = star v ⬝ᵥ ((Wᴴ * (M * W)) *ᵥ v) := by
+  rw [Matrix.mulVec_mulVec, Matrix.star_mulVec, ← Matrix.dotProduct_mulVec,
+    Matrix.mulVec_mulVec]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem aOp_mul_bOp_eq (U : Matrix dA dA ℂ) (V : Matrix dB dB ℂ) :
+    (aOp U : Matrix (dA × dB) _ ℂ) * bOp V = U ⊗ₖ V := by
+  rw [aOp, bOp, ← Matrix.mul_kronecker_mul, Matrix.mul_one, Matrix.one_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem bornProb_eq_qform (ψ : dA × dB → ℂ) (U : Matrix dA dA ℂ) (V : Matrix dB dB ℂ) :
+    bornProb ψ U V = qform ψ ((aOp U : Matrix (dA × dB) _ ℂ) * bOp V) := by
+  rw [aOp_mul_bOp_eq, bornProb, qform]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem stateSqNorm_eq_qform (ψ : dA × dB → ℂ) (M : Matrix dA dA ℂ) :
+    stateSqNorm ψ M = qform ψ ((aOp (Mᴴ * M) : Matrix (dA × dB) _ ℂ)) := by
+  rw [stateSqNorm, stateNorm, norm_stateVec_eq_snorm, snorm_sq_eq_qform, aOp_conjTranspose,
+    ← aOp_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem normSq_stateVecB_eq_qform (ψ : dA × dB → ℂ) (M : Matrix dB dB ℂ) :
+    ‖stateVecB ψ M‖ ^ 2 = qform ψ ((bOp (Mᴴ * M) : Matrix (dA × dB) _ ℂ)) := by
+  rw [norm_stateVecB_eq_snorm, snorm_sq_eq_qform, bOp_conjTranspose, ← bOp_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+/-- **Expanding a cross-party deviation.** -/
+theorem xSqNorm_eq_expand (ψ : dA × dB → ℂ) {A : Matrix dA dA ℂ} (hA : Aᴴ = A)
+    (B : Matrix dB dB ℂ) :
+    xSqNorm ψ A B = stateSqNorm ψ A + ‖stateVecB ψ B‖ ^ 2 - 2 * bornProb ψ A B := by
+  rw [xSqNorm, norm_sub_sq (𝕜 := ℂ), inner_stateVec_stateVecB ψ hA, stateSqNorm, stateNorm,
+    bornProb]
+  simp only [RCLike.re_to_complex]
+  ring
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {A : Type*} [Fintype A] [DecidableEq A]
+  {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+theorem norm_evec_eq_one_of_unit {ψ : dA × dB → ℂ} (hψ : star ψ ⬝ᵥ ψ = 1) : ‖evec ψ‖ = 1 := by
+  have h : ‖evec ψ‖ ^ 2 = 1 := by rw [norm_evec_sq, hψ, Complex.one_re]
+  nlinarith [norm_nonneg (evec ψ), h]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {Anc Bnc : Type*} [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+/-- **The Born rule on the twice-extended state is the Born rule of the two compressions.** -/
+theorem bornProb_extVec2 (ψ : dA × dB → ℂ) (a₀ : Anc) (b₀ : Bnc)
+    (EA : Matrix (dA × Anc) (dA × Anc) ℂ) (EB : Matrix (dB × Bnc) (dB × Bnc) ℂ) :
+    bornProb (extVec2 ψ a₀ b₀) EA EB
+      = bornProb ψ ((ancillaEmbed dA a₀)ᴴ * (EA * ancillaEmbed dA a₀))
+          ((ancillaEmbed dB b₀)ᴴ * (EB * ancillaEmbed dB b₀)) := by
+  rw [bornProb, bornProb, extVec2, dotProduct_mulVec_conj]
+  congr 2
+  rw [Matrix.conjTranspose_kronecker, ← Matrix.mul_kronecker_mul, ← Matrix.mul_kronecker_mul]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {Anc Bnc : Type*} [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+theorem qform_aOp_extVec2 (ψ : dA × dB → ℂ) (a₀ : Anc) (b₀ : Bnc)
+    (EA : Matrix (dA × Anc) (dA × Anc) ℂ) :
+    qform (extVec2 ψ a₀ b₀) (aOp EA)
+      = qform ψ ((aOp ((ancillaEmbed dA a₀)ᴴ * (EA * ancillaEmbed dA a₀))
+          : Matrix (dA × dB) _ ℂ)) := by
+  rw [show qform (extVec2 ψ a₀ b₀) (aOp EA)
+      = bornProb (extVec2 ψ a₀ b₀) EA (1 : Matrix (dB × Bnc) (dB × Bnc) ℂ) from by
+    rw [bornProb_eq_qform, bOp_one, Matrix.mul_one], bornProb_extVec2, Matrix.one_mul,
+    ancillaEmbed_isometry, bornProb_eq_qform, bOp_one, Matrix.mul_one]
+end
+end MIPRE
+
+namespace MIPRE
+noncomputable section
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {Anc Bnc : Type*} [Fintype Anc] [DecidableEq Anc] [Fintype Bnc] [DecidableEq Bnc]
+theorem qform_bOp_extVec2 (ψ : dA × dB → ℂ) (a₀ : Anc) (b₀ : Bnc)
+    (EB : Matrix (dB × Bnc) (dB × Bnc) ℂ) :
+    qform (extVec2 ψ a₀ b₀) (bOp EB)
+      = qform ψ ((bOp ((ancillaEmbed dB b₀)ᴴ * (EB * ancillaEmbed dB b₀))
+          : Matrix (dA × dB) _ ℂ)) := by
+  rw [show qform (extVec2 ψ a₀ b₀) (bOp EB)
+      = bornProb (extVec2 ψ a₀ b₀) (1 : Matrix (dA × Anc) (dA × Anc) ℂ) EB from by
+    rw [bornProb_eq_qform, aOp_one, Matrix.one_mul], bornProb_extVec2, Matrix.one_mul,
+    ancillaEmbed_isometry, bornProb_eq_qform, aOp_one, Matrix.one_mul]
+end
+end MIPRE
+
+/-! The uploaded declaration as `solution` (a root name declared inside the source's
+namespace, so that names resolve as they do in the source). -/
+namespace MIPRE
+open Finset Matrix
+open scoped ComplexOrder MatrixOrder Kronecker
+set_option linter.unusedSectionVars false
+variable {A : Type*} [Fintype A] [DecidableEq A]
+  {dA dB : Type*} [Fintype dA] [DecidableEq dA] [Fintype dB] [DecidableEq dB]
+variable {ψ : dA × dB → ℂ}
+  {Q : (A × A) → Matrix (dA × (A × A)) (dA × (A × A)) ℂ}
+  {Q' : (A × A) → Matrix (dB × (A × A)) (dB × (A × A)) ℂ}
+  {R : (A × A) → Matrix dA dA ℂ} {R' : (A × A) → Matrix dB dB ℂ}
+theorem _root_.solution (hψ : star ψ ⬝ᵥ ψ = 1) (a₀ : A × A)
+    (hQ : IsPVM Q) (hQ' : IsPVM Q')
+    (hkA : ∀ p, (ancillaEmbed dA a₀)ᴴ * (Q p * ancillaEmbed dA a₀) = R p)
+    (hkB : ∀ p, (ancillaEmbed dB a₀)ᴴ * (Q' p * ancillaEmbed dB a₀) = R' p)
+    (hR : ∑ p : A × A, R p = 1) (hR' : ∑ p : A × A, R' p = 1) :
+    ∑ p : A × A, xSqNorm (extVec2 ψ a₀ a₀) (Q p) (Q' p)
+      = 2 * (1 - ∑ p : A × A, bornProb ψ (R p) (R' p)) := by
+  classical
+  have hψ' : ‖evec ψ‖ = 1 := norm_evec_eq_one_of_unit hψ
+  have hterm : ∀ p : A × A, xSqNorm (extVec2 ψ a₀ a₀) (Q p) (Q' p)
+      = qform ψ ((aOp (R p) : Matrix (dA × dB) _ ℂ)) + qform ψ ((bOp (R' p) : Matrix (dA × dB) _ ℂ))
+        - 2 * bornProb ψ (R p) (R' p) := by
+    intro p
+    have e1 : stateSqNorm (extVec2 ψ a₀ a₀) (Q p)
+        = qform ψ ((aOp (R p) : Matrix (dA × dB) _ ℂ)) := by
+      rw [stateSqNorm_eq_qform, hQ.isSelfAdjoint p, hQ.idem p, qform_aOp_extVec2, hkA]
+    have e2 : ‖stateVecB (extVec2 ψ a₀ a₀) (Q' p)‖ ^ 2
+        = qform ψ ((bOp (R' p) : Matrix (dA × dB) _ ℂ)) := by
+      rw [normSq_stateVecB_eq_qform, hQ'.isSelfAdjoint p, hQ'.idem p, qform_bOp_extVec2, hkB]
+    have e3 : bornProb (extVec2 ψ a₀ a₀) (Q p) (Q' p) = bornProb ψ (R p) (R' p) := by
+      rw [bornProb_extVec2, hkA, hkB]
+    rw [xSqNorm_eq_expand _ (hQ.isSelfAdjoint p), e1, e2, e3]
+  rw [Finset.sum_congr rfl fun p (_ : p ∈ univ) => hterm p, Finset.sum_sub_distrib,
+    Finset.sum_add_distrib, ← qform_sum, ← qform_sum, ← aOp_sum, ← bOp_sum, hR, hR',
+    aOp_one, bOp_one, qform_one _ hψ', ← Finset.mul_sum]
+  ring
+end MIPRE

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MainGap_Manuscript_individual_to_strong_main
 -- name    : OAI.MainGap.Manuscript.individual_to_strong_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:54.667111+00:00
 -- url     : https://prove2.me/theorems/0a279de0-8765-4ef3-a8a6-dd32378d0c58

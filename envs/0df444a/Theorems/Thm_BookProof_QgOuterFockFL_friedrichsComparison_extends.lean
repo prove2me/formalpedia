@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_friedrichsComparison_extends
 -- name    : BookProof.QgOuterFockFL.friedrichsComparison_extends
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:07:14.705189+00:00
 -- url     : https://prove2.me/theorems/f7768a99-f43a-4f78-bdae-8dff1776b985

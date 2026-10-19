@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_diagOp_inner
 -- name    : BookProof.SmDiracYukawa.diagOp_inner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:01:01.707844+00:00
 -- url     : https://prove2.me/theorems/b7d7a185-1241-47e3-9592-9d9df02a6619

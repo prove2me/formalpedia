@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_halfLineFull_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.Carleman.halfLineFull_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:19.672231+00:00
 -- url     : https://prove2.me/theorems/813e50c6-4d29-4932-b54e-51b6d79e4a56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_path_value_by_year
 -- name    : actuarial_c_path_value_by_year
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:23:12.814745+00:00
 -- url     : https://prove2.me/theorems/4d9af383-493f-41e5-aaf0-e582c95aa09e

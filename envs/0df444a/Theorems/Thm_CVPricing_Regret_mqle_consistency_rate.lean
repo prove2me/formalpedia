@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_Regret_mqle_consistency_rate
 -- name    : CVPricing.Regret.mqle_consistency_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:38:12.572418+00:00
 -- url     : https://prove2.me/theorems/b38e082a-50d8-4b5b-b2b9-85dd690b06a4

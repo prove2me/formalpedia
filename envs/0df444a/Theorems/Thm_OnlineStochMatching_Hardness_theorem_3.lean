@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_Hardness_theorem_3
 -- name    : OnlineStochMatching.Hardness.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:01:25.9108+00:00
 -- url     : https://prove2.me/theorems/a0483e8a-0423-4120-847c-fee58083b8fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_permOp_basisVec
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.permOp_basisVec
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:15:32.046704+00:00
 -- url     : https://prove2.me/theorems/e179f2a2-2d7c-4f63-8e7d-a75fbbb081dc

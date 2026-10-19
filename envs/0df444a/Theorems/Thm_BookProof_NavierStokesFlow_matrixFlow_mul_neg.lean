@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_matrixFlow_mul_neg
 -- name    : BookProof.NavierStokesFlow.matrixFlow_mul_neg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:19.307845+00:00
 -- url     : https://prove2.me/theorems/aa14eb1a-a3f4-405e-94a8-b6663d74d71a

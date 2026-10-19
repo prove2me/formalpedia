@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_Events_sum_log_bound
 -- name    : SubsetShrink.Events.sum_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:22.3177+00:00
 -- url     : https://prove2.me/theorems/e4bc9c9a-3131-429d-ba34-413b27ca2aa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_ObjMILP_exact_linearization
 -- name    : KAdaptability.ObjMILP.exact_linearization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:59:13.913974+00:00
 -- url     : https://prove2.me/theorems/efa64099-c438-41ae-93ff-edbc386bd26e

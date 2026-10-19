@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Kernel_imP_field_invariant
 -- name    : BilinearGramian.Kernel.imP_field_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:19.557733+00:00
 -- url     : https://prove2.me/theorems/daecf1b5-4213-449f-a389-0f83dc172062

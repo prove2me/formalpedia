@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniformSparsestCut_mainGap
 -- name    : OAI.UniformSparsestCut.mainGap
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:36.382991+00:00
 -- url     : https://prove2.me/theorems/bd259f1f-5d8d-4619-9b08-e63518f6976b

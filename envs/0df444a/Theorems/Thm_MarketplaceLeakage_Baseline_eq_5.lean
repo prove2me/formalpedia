@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Baseline_eq_5
 -- name    : MarketplaceLeakage.Baseline.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:34.264029+00:00
 -- url     : https://prove2.me/theorems/984d171c-f401-4206-ae8c-5fe1295d9afb

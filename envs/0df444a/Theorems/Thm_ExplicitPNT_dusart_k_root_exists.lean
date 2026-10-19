@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitPNT_dusart_k_root_exists
 -- name    : ExplicitPNT.dusart_k_root_exists
--- status  : Open
+-- status  : Proved
 -- author  : @chaikon
 -- created : 2026-10-14T03:05:06.285708+00:00
 -- url     : https://prove2.me/theorems/137b1ff1-a2e6-4e2c-98c2-04875ae996c1

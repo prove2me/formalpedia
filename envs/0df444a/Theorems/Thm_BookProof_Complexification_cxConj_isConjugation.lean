@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Complexification_cxConj_isConjugation
 -- name    : BookProof.Complexification.cxConj_isConjugation
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:41:45.555978+00:00
 -- url     : https://prove2.me/theorems/d9edf786-488d-4869-80c7-236a34936784

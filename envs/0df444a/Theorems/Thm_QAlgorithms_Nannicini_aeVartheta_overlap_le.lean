@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_aeVartheta_overlap_le
 -- name    : QAlgorithms.Nannicini.aeVartheta_overlap_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:19.08652+00:00
 -- url     : https://prove2.me/theorems/96ee18e6-e3af-47ad-a6cd-400d6046035d

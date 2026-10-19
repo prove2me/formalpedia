@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourToOneGames_sunflower_of_zoom_outs
 -- name    : FourToOneGames.sunflower_of_zoom_outs
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-14T23:36:08.511835+00:00
 -- url     : https://prove2.me/theorems/8fc64a6f-f949-4a93-95df-27d622d3d3ac

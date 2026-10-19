@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_patai_gap_finite
 -- name    : ContinuumHypothesis.patai_gap_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:35:42.025005+00:00
 -- url     : https://prove2.me/theorems/c6b54fda-b55d-4564-a33c-06668a33b1d9

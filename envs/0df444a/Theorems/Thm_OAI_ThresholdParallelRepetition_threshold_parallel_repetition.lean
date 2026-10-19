@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThresholdParallelRepetition_threshold_parallel_repetition
 -- name    : OAI.ThresholdParallelRepetition.threshold_parallel_repetition
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:32.195098+00:00
 -- url     : https://prove2.me/theorems/5efabb38-b423-4ef5-b80f-a89f9f277cfa

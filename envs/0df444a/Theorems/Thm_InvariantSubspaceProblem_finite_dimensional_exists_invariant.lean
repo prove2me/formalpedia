@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_finite_dimensional_exists_invariant
 -- name    : InvariantSubspaceProblem.finite_dimensional_exists_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T17:20:37.875964+00:00
 -- url     : https://prove2.me/theorems/6d62badb-efb0-4282-b822-a23ac72aaa33

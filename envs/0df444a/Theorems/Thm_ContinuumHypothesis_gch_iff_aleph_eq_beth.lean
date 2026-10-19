@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_gch_iff_aleph_eq_beth
 -- name    : ContinuumHypothesis.gch_iff_aleph_eq_beth
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:33:33.657981+00:00
 -- url     : https://prove2.me/theorems/b497bfb9-406d-450e-9764-28bd2e243dc7

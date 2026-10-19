@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesGaugeY2_genX_genY2_commute
 -- name    : BookProof.NavierStokesGaugeY2.genX_genY2_commute
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:19:38.973874+00:00
 -- url     : https://prove2.me/theorems/0c23defa-c212-4f1d-b6be-7e4ab15e7e12

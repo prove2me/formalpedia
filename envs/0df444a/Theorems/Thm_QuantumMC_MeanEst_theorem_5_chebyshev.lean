@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_theorem_5_chebyshev
 -- name    : QuantumMC.MeanEst.theorem_5_chebyshev
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:27:04.439713+00:00
 -- url     : https://prove2.me/theorems/bb61c725-4f2d-4a2b-be6a-39c460645c56

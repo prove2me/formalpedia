@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockContinuum_tendsto_eLpNorm_indicator_compl
 -- name    : BookProof.NavierStokesFlow.FockContinuum.tendsto_eLpNorm_indicator_compl
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:15:46.283168+00:00
 -- url     : https://prove2.me/theorems/19f83cb3-899f-4e11-8262-9bc749be2cb8

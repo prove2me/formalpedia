@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_pure_stretch_entropy_increase
 -- name    : HighEntropyLimit.pure_stretch_entropy_increase
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:58:11.466091+00:00
 -- url     : https://prove2.me/theorems/a5374461-312c-4fb9-b6f8-d3697741ca48

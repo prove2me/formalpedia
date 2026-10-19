@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_Generic_theorem_A_2
 -- name    : PrivLearn.Generic.theorem_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:46:18.097005+00:00
 -- url     : https://prove2.me/theorems/e87fb8fe-a0cd-4f74-a5c9-2ac77c2ec82b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Aperiodic_multiple_upper_bound
 -- name    : JRPHard.Aperiodic.multiple_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:25.349849+00:00
 -- url     : https://prove2.me/theorems/8dcd8bce-311a-4fb4-a3f4-9d027fb0450f

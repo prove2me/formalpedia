@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_batch01_height_contour_reference_upper_pos64_k06
 -- name    : TaoFivePrimes.rh_batch01_height_contour_reference_upper_pos64_k06
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-16T10:15:41.829009+00:00
 -- url     : https://prove2.me/theorems/e0d34ea8-2114-47cc-a117-88f451b0887d

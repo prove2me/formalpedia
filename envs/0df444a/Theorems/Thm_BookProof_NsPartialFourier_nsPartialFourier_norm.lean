@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsPartialFourier_nsPartialFourier_norm
 -- name    : BookProof.NsPartialFourier.nsPartialFourier_norm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:56.609973+00:00
 -- url     : https://prove2.me/theorems/67d7c8c6-ea8e-435a-ae04-d6292510b839

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctions_Quasi_m_exchange_iff_perturbed_quasi
 -- name    : DiscreteConvex.MConvexFunctions.Quasi.m_exchange_iff_perturbed_quasi
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:03:16.326507+00:00
 -- url     : https://prove2.me/theorems/bac56b7a-682d-4229-97a1-860c76367ab9

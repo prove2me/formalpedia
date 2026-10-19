@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_opt_bounds
 -- name    : XinGoldbergTBS.Asymptotic.opt_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:22:17.672079+00:00
 -- url     : https://prove2.me/theorems/82fe7a5f-1d18-4e94-8a27-d24ee17b1235

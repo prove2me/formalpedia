@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isEmbedding_weakDual_coeFn
 -- name    : GarrettFA.isEmbedding_weakDual_coeFn
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:40:27.363222+00:00
 -- url     : https://prove2.me/theorems/c0d7af89-b193-4dea-915d-7a78424d1f82

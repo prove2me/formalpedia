@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_eqPoint_Eeps_le_zetaPrime
 -- name    : ArrowDebreu.ThmII.eqPoint_Eeps_le_zetaPrime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:18:31.390114+00:00
 -- url     : https://prove2.me/theorems/32766e9e-943b-4e34-9d67-1432c949c0c6

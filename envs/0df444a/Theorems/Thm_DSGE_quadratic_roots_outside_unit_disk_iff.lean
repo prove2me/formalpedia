@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSGE_quadratic_roots_outside_unit_disk_iff
 -- name    : DSGE.quadratic_roots_outside_unit_disk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:28.062044+00:00
 -- url     : https://prove2.me/theorems/1042b233-30fd-4141-9e39-a2a34a9517ee

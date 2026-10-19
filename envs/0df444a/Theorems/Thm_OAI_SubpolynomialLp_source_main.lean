@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SubpolynomialLp_source_main
 -- name    : OAI.SubpolynomialLp.source_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:27.344434+00:00
 -- url     : https://prove2.me/theorems/800a3f07-53cd-415c-a465-6050b5bba594

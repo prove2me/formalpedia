@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_hyperelliptic_F41_point_counts
 -- name    : WeilConjectures.hyperelliptic_F41_point_counts
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T14:59:00.363303+00:00
 -- url     : https://prove2.me/theorems/ab0d1621-785a-4749-8b0a-3b43b3055b07

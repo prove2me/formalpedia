@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_root_reconciliation
 -- name    : ActuarialAnnuities.root_reconciliation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:07:27.547462+00:00
 -- url     : https://prove2.me/theorems/3c19b242-c132-471e-a2db-4611e563ad7b

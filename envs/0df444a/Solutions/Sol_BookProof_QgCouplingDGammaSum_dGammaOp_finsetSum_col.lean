@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgCouplingDGammaSum.dGammaOp_finsetSum_col
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:21:57.072799+00:00
 -- url     : https://prove2.me/submissions/6601d242-099e-4cff-a2ff-cf48163a7f7e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgCouplingDGammaSum.lean — solution of BookProof.QgCouplingDGammaSum.dGammaOp_finsetSum_col
 import Mathlib

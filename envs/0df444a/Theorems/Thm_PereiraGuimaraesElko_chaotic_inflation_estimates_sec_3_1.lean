@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_chaotic_inflation_estimates_sec_3_1
 -- name    : PereiraGuimaraesElko.chaotic_inflation_estimates_sec_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:52:20.19859+00:00
 -- url     : https://prove2.me/theorems/aaa9703f-d8c7-4b60-8f3d-1d4c9d5af21a

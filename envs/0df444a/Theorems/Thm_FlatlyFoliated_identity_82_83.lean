@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlatlyFoliated_identity_82_83
 -- name    : FlatlyFoliated.identity_82_83
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:42:33.719816+00:00
 -- url     : https://prove2.me/theorems/293504d5-2900-455c-830a-3e716278afc5

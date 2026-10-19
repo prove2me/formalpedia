@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAG_LargeStep_rate_power_bound
 -- name    : SAG.LargeStep.rate_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:15.285975+00:00
 -- url     : https://prove2.me/theorems/7b118d94-31fb-42da-9e3d-d8105b332b63

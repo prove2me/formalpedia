@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_groverOperator_eigenstates
 -- name    : QAlgorithms.Nannicini.groverOperator_eigenstates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:25.190282+00:00
 -- url     : https://prove2.me/theorems/a62d2fff-d2a8-453d-ad0b-3b8c0fe3769d

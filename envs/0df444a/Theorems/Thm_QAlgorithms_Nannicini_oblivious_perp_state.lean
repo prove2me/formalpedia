@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_oblivious_perp_state
 -- name    : QAlgorithms.Nannicini.oblivious_perp_state
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:44:44.740867+00:00
 -- url     : https://prove2.me/theorems/26d09b70-fc84-4f58-ba3d-dbbad37e4e7e

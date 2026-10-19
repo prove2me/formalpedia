@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_hasDerivAt_gaugeFun_line
 -- name    : BookProof.MixedLinearEsa.hasDerivAt_gaugeFun_line
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:05:31.287292+00:00
 -- url     : https://prove2.me/theorems/395fa1c3-2a21-4e46-9958-296497189b96

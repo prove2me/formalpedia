@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hlKin_neg_not_essentiallySelfAdjointOn
 -- name    : BookProof.HalfLineLimitCircle.hlKin_neg_not_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:57:09.817928+00:00
 -- url     : https://prove2.me/theorems/3da59795-7b11-41c3-a392-497a61ac2f60

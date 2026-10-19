@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_compact_embedding_C0
 -- name    : HunterPDE.Compactness.compact_embedding_C0
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:34:43.501988+00:00
 -- url     : https://prove2.me/theorems/e999c377-a7a5-4bef-8277-4217a100513c

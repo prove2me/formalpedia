@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_norm_fermiBilin_le
 -- name    : BookProof.SmCar.norm_fermiBilin_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:27:43.196504+00:00
 -- url     : https://prove2.me/theorems/a88bf9f5-7847-4671-8e29-53d231e387c2

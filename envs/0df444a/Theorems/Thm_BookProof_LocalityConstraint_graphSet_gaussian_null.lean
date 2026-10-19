@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_LocalityConstraint_graphSet_gaussian_null
 -- name    : BookProof.LocalityConstraint.graphSet_gaussian_null
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:32:45.43153+00:00
 -- url     : https://prove2.me/theorems/0d4990b5-eb62-4eb5-9ecb-51f6fc3b3ce1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_adversary_claim4_tMinus_near_large_phase
 -- name    : QAlgorithms.DeWolf.adversary_claim4_tMinus_near_large_phase
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:45.742822+00:00
 -- url     : https://prove2.me/theorems/c79a0d29-8204-4107-a05e-035ab956bd5c

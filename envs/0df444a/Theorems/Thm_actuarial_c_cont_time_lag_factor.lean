@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_time_lag_factor
 -- name    : actuarial_c_cont_time_lag_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:34:49.36155+00:00
 -- url     : https://prove2.me/theorems/c8295c6e-6f88-45eb-b00e-3a75fbedb2e8

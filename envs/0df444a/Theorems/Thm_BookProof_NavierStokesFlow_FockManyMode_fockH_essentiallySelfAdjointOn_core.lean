@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockManyMode_fockH_essentiallySelfAdjointOn_core
 -- name    : BookProof.NavierStokesFlow.FockManyMode.fockH_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T22:17:45.856185+00:00
 -- url     : https://prove2.me/theorems/e3b3cb4f-0fe0-4541-852c-c6e131ce8447

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_exists_admissible_weight
 -- name    : QAlgorithms.Arunachalam.exists_admissible_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:53:50.29009+00:00
 -- url     : https://prove2.me/theorems/6e329f27-e5e4-494a-912a-b8307941bfd7

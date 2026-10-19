@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_discounted_tail_telescope
 -- name    : actuarial_c_discounted_tail_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:23:02.825141+00:00
 -- url     : https://prove2.me/theorems/f7212a73-6c84-4411-ba3a-d8da5bba2328

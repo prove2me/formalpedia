@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AMPUniversality_Universal_lemma_12
 -- name    : AMPUniversality.Universal.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:29:50.654971+00:00
 -- url     : https://prove2.me/theorems/fff22dcb-1f10-4c1b-b3a7-7d1667f3530d

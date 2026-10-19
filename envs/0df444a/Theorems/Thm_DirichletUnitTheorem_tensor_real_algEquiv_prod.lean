@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_tensor_real_algEquiv_prod
 -- name    : DirichletUnitTheorem.tensor_real_algEquiv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:32.728416+00:00
 -- url     : https://prove2.me/theorems/c80c4211-3fd1-4dbc-8ebf-6d4ea951514b

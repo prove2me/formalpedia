@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLegendrePolynomial_legendreAux_deriv_ode
 -- name    : BookProof.ChapterLegendrePolynomial.legendreAux_deriv_ode
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:27:24.292003+00:00
 -- url     : https://prove2.me/theorems/10feca6a-0508-46e2-8fa5-e02fcd0b6755

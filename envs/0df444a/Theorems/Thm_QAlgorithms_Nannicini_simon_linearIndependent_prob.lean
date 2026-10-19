@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_simon_linearIndependent_prob
 -- name    : QAlgorithms.Nannicini.simon_linearIndependent_prob
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:43:53.677737+00:00
 -- url     : https://prove2.me/theorems/b17d2698-8424-4602-a68d-abbe79f0968c

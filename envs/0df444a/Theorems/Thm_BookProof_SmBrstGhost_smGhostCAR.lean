@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_smGhostCAR
 -- name    : BookProof.SmBrstGhost.smGhostCAR
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:08:07.415749+00:00
 -- url     : https://prove2.me/theorems/3faaf721-713d-4704-9791-86560266f192

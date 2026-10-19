@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterTrajectory_dslit_coherentFinal
 -- name    : BookProof.ChapterTrajectory.dslit_coherentFinal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:14:12.914434+00:00
 -- url     : https://prove2.me/theorems/657193a9-8123-455c-bd4e-5ee7192c3b70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_regulator_cyclic_cubic_approx
 -- name    : DirichletUnitTheorem.regulator_cyclic_cubic_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:36:00.360926+00:00
 -- url     : https://prove2.me/theorems/e10c7db1-cfd4-45d0-9b29-cc39670e5b3d

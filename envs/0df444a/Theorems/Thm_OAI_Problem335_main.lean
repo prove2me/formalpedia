@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem335_main
 -- name    : OAI.Problem335.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:07.85698+00:00
 -- url     : https://prove2.me/theorems/eeacd336-c7df-4b3a-bcf8-afaf5dd47246

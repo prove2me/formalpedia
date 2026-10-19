@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_gravField_uniformBall_inside
 -- name    : NewtonGravitation.gravField_uniformBall_inside
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T19:52:42.963906+00:00
 -- url     : https://prove2.me/theorems/b2d1af35-0c40-404b-8494-ee6cdb40af1c

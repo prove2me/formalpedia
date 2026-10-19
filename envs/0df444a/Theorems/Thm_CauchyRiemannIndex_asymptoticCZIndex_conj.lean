@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_asymptoticCZIndex_conj
 -- name    : CauchyRiemannIndex.asymptoticCZIndex_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:03:53.935972+00:00
 -- url     : https://prove2.me/theorems/afb23524-057d-4fd5-8ce6-7ca13bdc9ed4

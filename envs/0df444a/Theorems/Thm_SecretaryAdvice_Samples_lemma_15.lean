@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Samples_lemma_15
 -- name    : SecretaryAdvice.Samples.lemma_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:14.861493+00:00
 -- url     : https://prove2.me/theorems/8a4339fd-036d-4ded-a491-a97930733516

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_exists_isUnconstrainedGaugeFixing
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.exists_isUnconstrainedGaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:16:28.755457+00:00
 -- url     : https://prove2.me/theorems/92c8a861-5d53-4d12-8adf-4173d610eff4

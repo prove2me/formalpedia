@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Compactness.exists_sobolev_extension_halfSpace
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-16T09:15:09.297767+00:00
 -- url     : https://prove2.me/submissions/5e6bdce7-6e23-4b7d-b24b-19157b23a1cc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Real_exists_finite_moment_weights
 import Theorems.Thm_HunterPDE_Compactness_memW_matching_reflection

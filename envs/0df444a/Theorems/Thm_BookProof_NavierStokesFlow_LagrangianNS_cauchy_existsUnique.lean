@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianNS_cauchy_existsUnique
 -- name    : BookProof.NavierStokesFlow.LagrangianNS.cauchy_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:00.833218+00:00
 -- url     : https://prove2.me/theorems/267b0497-f14c-49bd-a209-399ad22c272d

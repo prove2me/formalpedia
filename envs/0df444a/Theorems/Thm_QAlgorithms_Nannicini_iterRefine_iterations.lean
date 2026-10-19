@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_iterRefine_iterations
 -- name    : QAlgorithms.Nannicini.iterRefine_iterations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:14.784913+00:00
 -- url     : https://prove2.me/theorems/36394936-b644-4c85-9f44-21dfd95be0fb

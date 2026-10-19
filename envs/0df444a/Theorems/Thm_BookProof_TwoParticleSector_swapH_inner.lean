@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_swapH_inner
 -- name    : BookProof.TwoParticleSector.swapH_inner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:57:53.339226+00:00
 -- url     : https://prove2.me/theorems/282d2d2a-3764-4546-a406-06099307d69c

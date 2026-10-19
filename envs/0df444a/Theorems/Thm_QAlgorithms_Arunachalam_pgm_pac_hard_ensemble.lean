@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_pgm_pac_hard_ensemble
 -- name    : QAlgorithms.Arunachalam.pgm_pac_hard_ensemble
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:56:28.148609+00:00
 -- url     : https://prove2.me/theorems/4a017594-c5e9-412f-8f4b-e3ceb48d1ef4

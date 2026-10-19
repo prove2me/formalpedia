@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Baseline_proposition_1
 -- name    : MarketplaceLeakage.Baseline.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:42.255514+00:00
 -- url     : https://prove2.me/theorems/735d8782-4aae-4e97-9a50-8c65ff714c1f

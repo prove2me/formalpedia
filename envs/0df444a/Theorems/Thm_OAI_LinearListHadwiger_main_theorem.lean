@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LinearListHadwiger_main_theorem
 -- name    : OAI.LinearListHadwiger.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:53.240802+00:00
 -- url     : https://prove2.me/theorems/9e2a025f-8bbf-4b97-8a4b-952721165bdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamanujanNotebooks_entry_5_25_i
 -- name    : RamanujanNotebooks.entry_5_25_i
--- status  : Open
+-- status  : Proved
 -- author  : @Xiang Huang
 -- created : 2026-10-06T23:50:17.076137+00:00
 -- url     : https://prove2.me/theorems/bc28d558-6327-4a3c-8385-c9a4b4d3db2c

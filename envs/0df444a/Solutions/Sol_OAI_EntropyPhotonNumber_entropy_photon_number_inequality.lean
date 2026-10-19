@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.EntropyPhotonNumber.entropy_photon_number_inequality
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-10-16T08:04:20.416108+00:00
 -- url     : https://prove2.me/submissions/39703f77-0806-4e46-867d-e7f8666c1a9b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from openai/math@1581d4c lean/OAI/InformationTheory/PhotonNumber/Inequality.lean:L692-L705
 -- (upload_full_project.md Phase 4): solution for the platform mission target OAI.EntropyPhotonNumber.entropy_photon_number_inequality.

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSink_shannonEntropy_sink
 -- name    : BookProof.ChapterAttentionSink.shannonEntropy_sink
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:48:35.398441+00:00
 -- url     : https://prove2.me/theorems/0bbe9908-f1e9-428f-8533-5064eff1c219

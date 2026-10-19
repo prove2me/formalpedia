@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_AnswerReduction_nonempty_five
 -- name    : MIPRE.AnswerReduction.nonempty_five
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:39:42.234413+00:00
 -- url     : https://prove2.me/theorems/782fac86-587a-4954-ae00-f27c4c7c508d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Misalign_thm_4_1_step_v
 -- name    : EngagementOpt.Misalign.thm_4_1_step_v
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:58.402741+00:00
 -- url     : https://prove2.me/theorems/36684d67-3dc9-4323-9f07-9d9447cb21ec

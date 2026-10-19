@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_log_asymptotic_expansion
 -- name    : LandauFunction.landau_log_asymptotic_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:29.465202+00:00
 -- url     : https://prove2.me/theorems/1e4b08b2-2b3a-4123-9c1d-3b2a232717bb

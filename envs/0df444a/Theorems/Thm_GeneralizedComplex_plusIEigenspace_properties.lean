@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_plusIEigenspace_properties
 -- name    : GeneralizedComplex.plusIEigenspace_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:45:38.774515+00:00
 -- url     : https://prove2.me/theorems/4c560cad-59d1-4cb1-9648-d6384fc3d157

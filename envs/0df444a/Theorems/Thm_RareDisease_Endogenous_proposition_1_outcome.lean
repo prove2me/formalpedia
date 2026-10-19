@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_Endogenous_proposition_1_outcome
 -- name    : RareDisease.Endogenous.proposition_1_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:07:11.680965+00:00
 -- url     : https://prove2.me/theorems/f5d0c47d-21d8-4c61-afe1-0a320e1315d5

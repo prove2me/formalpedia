@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SymmetricPolar_symmetric_polar_main
 -- name    : OAI.SymmetricPolar.symmetric_polar_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:28.371695+00:00
 -- url     : https://prove2.me/theorems/9fcf6a33-ecc5-40c2-92c6-485671d59054

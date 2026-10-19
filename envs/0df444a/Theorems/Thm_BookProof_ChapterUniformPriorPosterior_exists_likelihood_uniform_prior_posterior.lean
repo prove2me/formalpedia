@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUniformPriorPosterior_exists_likelihood_uniform_prior_posterior
 -- name    : BookProof.ChapterUniformPriorPosterior.exists_likelihood_uniform_prior_posterior
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:48:30.130303+00:00
 -- url     : https://prove2.me/theorems/0a5cdd5e-5b9b-4446-aef7-dccb092cbffc

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.MixedLinearEsa.polyPotential_add_momentum_essentiallySelfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T22:04:57.748604+00:00
 -- url     : https://prove2.me/submissions/663b7457-7af7-48e4-83f2-d2a1de0cb15b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMixedLinearEsa.lean — solution of BookProof.MixedLinearEsa.polyPotential_add_momentum_essentiallySelfAdjoint
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSGE_bounded_orbits_zero_iff_eigenvalues_outside
 -- name    : DSGE.bounded_orbits_zero_iff_eigenvalues_outside
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:42.566164+00:00
 -- url     : https://prove2.me/theorems/1bc977ff-e235-404d-97d4-59d0097153e2

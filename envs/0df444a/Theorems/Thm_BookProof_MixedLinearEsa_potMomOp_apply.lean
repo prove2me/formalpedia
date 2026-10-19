@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_potMomOp_apply
 -- name    : BookProof.MixedLinearEsa.potMomOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:06:58.708678+00:00
 -- url     : https://prove2.me/theorems/66ba6efa-bb43-4d28-b314-bfff252d5211

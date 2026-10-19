@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Kervaire_coefficient_injective
 -- name    : OAI.Kervaire.coefficient_injective
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:51.507274+00:00
 -- url     : https://prove2.me/theorems/5ce01a8c-d930-48fb-8b8d-97e2f037a12e

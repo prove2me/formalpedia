@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_gch_two_pow_strictMono
 -- name    : ContinuumHypothesis.gch_two_pow_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:33:59.156293+00:00
 -- url     : https://prove2.me/theorems/ca5ac016-41d1-4012-9234-582cf2c48528

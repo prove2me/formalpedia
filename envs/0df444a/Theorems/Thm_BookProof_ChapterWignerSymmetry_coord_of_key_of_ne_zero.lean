@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_coord_of_key_of_ne_zero
 -- name    : BookProof.ChapterWignerSymmetry.coord_of_key_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:36:45.112555+00:00
 -- url     : https://prove2.me/theorems/93bd5875-8b39-456a-8248-d4a055ba46da

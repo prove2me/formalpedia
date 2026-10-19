@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HubbleTension_lmc_deb_distance
 -- name    : HubbleTension.lmc_deb_distance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:29:27.232215+00:00
 -- url     : https://prove2.me/theorems/c8de153f-3996-4910-8412-cb9250112b54

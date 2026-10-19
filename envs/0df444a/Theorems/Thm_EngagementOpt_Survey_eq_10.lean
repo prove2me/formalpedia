@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Survey_eq_10
 -- name    : EngagementOpt.Survey.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:21:15.750435+00:00
 -- url     : https://prove2.me/theorems/a5daf98a-7b13-472c-9685-01a7830afa9f

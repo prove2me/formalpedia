@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterObservableExpectation_bayesPosterior_nonneg
 -- name    : BookProof.ChapterObservableExpectation.bayesPosterior_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:43:25.052337+00:00
 -- url     : https://prove2.me/theorems/c334af95-e873-4ed8-8165-a1a34515b029

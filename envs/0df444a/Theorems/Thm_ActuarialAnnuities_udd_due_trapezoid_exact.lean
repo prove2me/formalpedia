@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_udd_due_trapezoid_exact
 -- name    : ActuarialAnnuities.udd_due_trapezoid_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:37:54.568672+00:00
 -- url     : https://prove2.me/theorems/8bbe10d2-bcaa-4e40-ac8d-5bc20882c6cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_modulus_add
 -- name    : BookProof.ChapterWignerSymmetry.modulus_add
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:42:04.647661+00:00
 -- url     : https://prove2.me/theorems/d6154977-3ffa-4ab1-a82e-769e757e3c21

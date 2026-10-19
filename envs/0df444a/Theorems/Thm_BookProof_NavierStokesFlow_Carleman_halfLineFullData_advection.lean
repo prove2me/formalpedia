@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_halfLineFullData_advection
 -- name    : BookProof.NavierStokesFlow.Carleman.halfLineFullData_advection
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:56:54.339471+00:00
 -- url     : https://prove2.me/theorems/a200f8a2-b95a-4e92-8ff0-05dbefce1954

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_hasFDerivAt_normSq
 -- name    : BookProof.ChapterRadialLaplacian.hasFDerivAt_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:57:45.161166+00:00
 -- url     : https://prove2.me/theorems/46d18a09-53ee-48a1-bda1-6d356741bf46

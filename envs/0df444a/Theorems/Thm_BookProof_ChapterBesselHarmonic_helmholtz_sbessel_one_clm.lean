@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBesselHarmonic_helmholtz_sbessel_one_clm
 -- name    : BookProof.ChapterBesselHarmonic.helmholtz_sbessel_one_clm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:56:15.660871+00:00
 -- url     : https://prove2.me/theorems/3482ef1d-9997-4737-afca-e690a37b4680

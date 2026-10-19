@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Baseline_optimal_fee
 -- name    : MarketplaceLeakage.Baseline.optimal_fee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:36.502484+00:00
 -- url     : https://prove2.me/theorems/b8a74915-4cd6-4100-b51d-dac6a59f27f0

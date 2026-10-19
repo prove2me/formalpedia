@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_elko_frw_reduced_dynamics
 -- name    : PereiraGuimaraesElko.elko_frw_reduced_dynamics
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-12T12:52:56.100969+00:00
 -- url     : https://prove2.me/theorems/fd9def83-e7eb-4063-bbcc-2d1ea8a30a0e

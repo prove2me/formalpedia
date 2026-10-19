@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_degree_eq_nrRealPlaces_add_two_mul_nrComplexPlaces
 -- name    : DirichletUnitTheorem.degree_eq_nrRealPlaces_add_two_mul_nrComplexPlaces
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:50.00214+00:00
 -- url     : https://prove2.me/theorems/45bc73be-4c5a-49df-bd90-e7d723468c50

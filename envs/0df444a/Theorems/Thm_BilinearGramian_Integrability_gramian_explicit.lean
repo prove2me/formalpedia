@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Integrability_gramian_explicit
 -- name    : BilinearGramian.Integrability.gramian_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:38:58.583983+00:00
 -- url     : https://prove2.me/theorems/d4330110-40ed-416f-97da-dcb80ccd5bd9

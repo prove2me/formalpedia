@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Lift_proposition_1
 -- name    : RobustSpecClust.Lift.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:31.480613+00:00
 -- url     : https://prove2.me/theorems/a3e0a226-e94f-4f02-8b8e-69699b3a9d94

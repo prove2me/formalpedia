@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_NSFullData_advection_isSymmetricDom
 -- name    : BookProof.NavierStokesFlow.FullEsa.NSFullData.advection_isSymmetricDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:19:03.198765+00:00
 -- url     : https://prove2.me/theorems/662558a4-8e3d-4c5c-a75f-48b8e997eda8

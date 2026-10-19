@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSPAnalysis_Bellman_proposition2
 -- name    : SSPAnalysis.Bellman.proposition2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T17:11:25.114951+00:00
 -- url     : https://prove2.me/theorems/c0777242-a201-467f-b0e8-1a0e651ae426

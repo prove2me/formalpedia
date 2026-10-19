@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_annual_settlement_discount_order
 -- name    : actuarial_c_cont_annual_settlement_discount_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:36:56.930923+00:00
 -- url     : https://prove2.me/theorems/e51d7a19-0a10-46ba-9c87-10d48ad630ea

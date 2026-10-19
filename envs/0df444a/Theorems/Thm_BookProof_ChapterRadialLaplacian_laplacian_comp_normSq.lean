@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_laplacian_comp_normSq
 -- name    : BookProof.ChapterRadialLaplacian.laplacian_comp_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:59:47.601165+00:00
 -- url     : https://prove2.me/theorems/61c84f44-01ac-41d0-ab31-79dee487d2dd

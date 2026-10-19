@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_isMomentMeasure_convex
 -- name    : HamburgerMoment.isMomentMeasure_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:02:01.941001+00:00
 -- url     : https://prove2.me/theorems/7004a447-1fb3-43da-9c5a-c82e249ae7be

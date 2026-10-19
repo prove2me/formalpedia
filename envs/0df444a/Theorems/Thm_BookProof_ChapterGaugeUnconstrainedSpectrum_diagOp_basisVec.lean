@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_diagOp_basisVec
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.diagOp_basisVec
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:15:24.017277+00:00
 -- url     : https://prove2.me/theorems/3c1b9780-0bd7-4132-9b1e-570089f9fc24

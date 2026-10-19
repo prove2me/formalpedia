@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_qpac_lower_bound_log
 -- name    : QAlgorithms.Arunachalam.qpac_lower_bound_log
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:06.367897+00:00
 -- url     : https://prove2.me/theorems/59491b4a-4e59-439d-9531-3fdbea3b25cc

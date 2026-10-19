@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockContinuum_multOp_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FockContinuum.multOp_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:03:52.227733+00:00
 -- url     : https://prove2.me/theorems/dc85b525-d85f-461e-9ea9-f17f42b501b5

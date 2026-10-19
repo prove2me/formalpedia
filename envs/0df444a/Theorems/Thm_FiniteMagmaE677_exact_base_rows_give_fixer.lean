@@ -22,7 +22,7 @@
 --   Then E255 holds at $x$:
 --   $$((x\diamond x)\diamond x)\diamond x=x.$$
 --
---   The seven entries are the exact-base pattern observed at orbit size six with one element $A$ outside the left orbit of $x$, where $c_n$ denotes the $n$-th point of that orbit. The theorem shows that the pattern alone forces a right fixer of $x$, namely $(x\diamond x)\diamond x$, with no orbit, period, or outsider-uniqueness hypothesis. It closes every finite E677 context in which these seven entries occur.
+--   The seven entries are the exact-base pattern observed at orbit size six with one element $A$ outside the left orbit of $x$, where $c_n$ denotes the $n$-th point of that orbit. The theorem shows that the pattern alone forces a fixer of $x$, namely $(x\diamond x)\diamond x$, with no orbit, period, or outsider-uniqueness hypothesis. It closes every finite E677 context in which these seven entries occur.
 --
 --   **Formalization Note** The five elements are arbitrary; no distinctness among them is assumed. The names $c_1,c_3,c_4$ record their role in the orbit-size-six pattern and are not tied to an orbit in the statement.
 -- source:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_orthonormal_rotHermiteLp
 -- name    : BookProof.QuadraticRotation.orthonormal_rotHermiteLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-04T14:08:48.763311+00:00
 -- url     : https://prove2.me/theorems/14eaa42a-6a8c-4d36-8d8b-8822c8b8c646

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_WeylHamiltonian_weylHamiltonian_expectation_nonneg
 -- name    : BookProof.WeylHamiltonian.weylHamiltonian_expectation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:40:26.072822+00:00
 -- url     : https://prove2.me/theorems/3017d906-790b-4cc5-bfeb-af0f90f7f7be

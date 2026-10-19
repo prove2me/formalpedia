@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroParticleCreation_inflation_solution
 -- name    : CarneiroParticleCreation.inflation_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:33:22.051258+00:00
 -- url     : https://prove2.me/theorems/6edb5dd6-9ffb-4556-8fb0-ea0a32ecaf02

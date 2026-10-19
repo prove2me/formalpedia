@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_OLearn_qStar_cases
 -- name    : CustomerVoice.OLearn.qStar_cases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:50.645065+00:00
 -- url     : https://prove2.me/theorems/a7d2e878-f5d8-43dc-a877-a2c5f3288392

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterWignerSymmetry.wigner_symmetry
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T12:06:00.795818+00:00
 -- url     : https://prove2.me/submissions/514b2616-1642-44df-aec1-89cb63d1165d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWignerSymmetry.lean — solution of BookProof.ChapterWignerSymmetry.wigner_symmetry
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanIntro_knillLaflamme
 -- name    : QAlgorithms.GottesmanIntro.knillLaflamme
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T18:03:31.463684+00:00
 -- url     : https://prove2.me/theorems/9cb9c8c0-2d0b-45c8-bee0-2cea5eb5fbf1

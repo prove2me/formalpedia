@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_eq27_28_moments
 -- name    : UnphysicalHilbert.eq27_28_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:09:44.997323+00:00
 -- url     : https://prove2.me/theorems/8f8c4f3c-31fa-47db-a794-a542874fa209

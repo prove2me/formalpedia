@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_weights_hasSum_rowIntegral
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_weights_hasSum_rowIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T12:59:29.147401+00:00
 -- url     : https://prove2.me/theorems/130cacb9-90de-48d2-bf98-57431261b442

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_Thresholds_DeltaH_lt_LambdaH2
 -- name    : CustomerVoice.Thresholds.DeltaH_lt_LambdaH2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:55.975339+00:00
 -- url     : https://prove2.me/theorems/7b5f1340-ba02-4ce8-8e20-d8a58c377e8f

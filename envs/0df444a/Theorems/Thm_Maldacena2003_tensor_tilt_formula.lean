@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_tensor_tilt_formula
 -- name    : Maldacena2003.tensor_tilt_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:51:14.418864+00:00
 -- url     : https://prove2.me/theorems/01cd8c07-b6af-415f-be3d-da51b1eede2a

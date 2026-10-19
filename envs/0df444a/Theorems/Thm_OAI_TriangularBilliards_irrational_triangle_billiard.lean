@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TriangularBilliards_irrational_triangle_billiard
 -- name    : OAI.TriangularBilliards.irrational_triangle_billiard
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:34.738793+00:00
 -- url     : https://prove2.me/theorems/dfc2bbdb-1c6c-4f6d-b076-f5b7643346ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_MVC_omega_modulus
 -- name    : AccelVI.MVC.omega_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:01:45.894978+00:00
 -- url     : https://prove2.me/theorems/3b49a532-0571-4de6-bcab-9a1a5f53c68d

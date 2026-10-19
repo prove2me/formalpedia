@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Shared_integral_matchingReflection_mul_testFunction
 -- name    : HunterPDE.Shared.integral_matchingReflection_mul_testFunction
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-16T09:39:13.710376+00:00
 -- url     : https://prove2.me/theorems/b6955110-f590-4bca-9664-35c3ca3ca427

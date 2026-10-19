@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_trace_mul_mul_le_frob_spec_frob
 -- name    : QAlgorithms.Childs.trace_mul_mul_le_frob_spec_frob
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:32:02.344875+00:00
 -- url     : https://prove2.me/theorems/f0669d59-4311-4a08-a5ee-112eabf2527b

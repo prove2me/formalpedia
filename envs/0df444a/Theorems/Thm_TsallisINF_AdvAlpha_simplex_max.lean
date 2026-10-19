@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsallisINF_AdvAlpha_simplex_max
 -- name    : TsallisINF.AdvAlpha.simplex_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:45.671653+00:00
 -- url     : https://prove2.me/theorems/f093d34d-7883-424b-9afe-5b3f781feda8

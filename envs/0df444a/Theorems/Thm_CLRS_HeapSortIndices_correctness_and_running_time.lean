@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLRS_HeapSortIndices_correctness_and_running_time
 -- name    : CLRS.HeapSortIndices.correctness_and_running_time
--- status  : Open
+-- status  : Proved
 -- author  : @Chutong
 -- created : 2026-10-14T19:10:14.588769+00:00
 -- url     : https://prove2.me/theorems/6949947e-bf08-4493-aed5-1f66cf83371b

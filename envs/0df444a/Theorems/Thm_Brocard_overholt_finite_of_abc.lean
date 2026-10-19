@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Brocard_overholt_finite_of_abc
 -- name    : Brocard.overholt_finite_of_abc
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T22:50:56.818504+00:00
 -- url     : https://prove2.me/theorems/9ad3bfd6-8c5b-4931-87dd-1b59d8e112e4

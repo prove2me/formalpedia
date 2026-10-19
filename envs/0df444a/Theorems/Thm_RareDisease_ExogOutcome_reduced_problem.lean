@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_ExogOutcome_reduced_problem
 -- name    : RareDisease.ExogOutcome.reduced_problem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:13.328465+00:00
 -- url     : https://prove2.me/theorems/c85a31f6-057f-4dcb-a1a7-f2aac5be3c3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_qsp_characterization
 -- name    : QAlgorithms.Childs.qsp_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:35:26.983925+00:00
 -- url     : https://prove2.me/theorems/e3028154-2006-42ce-82a2-0882d03be1ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_NetworkGap_eq_D_3
 -- name    : BudgetedAffine.NetworkGap.eq_D_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:33.312444+00:00
 -- url     : https://prove2.me/theorems/0526e89f-e8c7-4208-b140-76a4f6579a74

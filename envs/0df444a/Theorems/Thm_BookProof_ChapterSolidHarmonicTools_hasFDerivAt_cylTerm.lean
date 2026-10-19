@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonicTools_hasFDerivAt_cylTerm
 -- name    : BookProof.ChapterSolidHarmonicTools.hasFDerivAt_cylTerm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:16:41.356473+00:00
 -- url     : https://prove2.me/theorems/8c0ec2c2-4866-4a51-a3f4-2afa07bb4472

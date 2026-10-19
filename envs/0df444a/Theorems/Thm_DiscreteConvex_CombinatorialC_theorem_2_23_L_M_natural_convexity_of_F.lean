@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_CombinatorialC_theorem_2_23_L_M_natural_convexity_of_F
 -- name    : DiscreteConvex.CombinatorialC.theorem_2_23_L_M_natural_convexity_of_F
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:44.579928+00:00
 -- url     : https://prove2.me/theorems/d1d71442-4089-4392-9732-0e1ddd45ca43

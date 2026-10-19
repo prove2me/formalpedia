@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsallisINF_StoAlpha_lemma_16
 -- name    : TsallisINF.StoAlpha.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:38:49.628429+00:00
 -- url     : https://prove2.me/theorems/5c8e902f-395f-40fd-b0b3-6a2806a18881

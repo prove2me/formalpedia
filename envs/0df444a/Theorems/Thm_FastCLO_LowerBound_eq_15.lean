@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_LowerBound_eq_15
 -- name    : FastCLO.LowerBound.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:20:23.668888+00:00
 -- url     : https://prove2.me/theorems/61fc18b9-2b22-4bc9-8507-119c20a57223

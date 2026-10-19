@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_KatoRellich_essentiallySelfAdjointOn_add_bounded
 -- name    : BookProof.KatoRellich.essentiallySelfAdjointOn_add_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T22:49:46.77631+00:00
 -- url     : https://prove2.me/theorems/4ada5d33-0a56-4749-8dd7-5b074967b130

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_grover_known_t
 -- name    : QAlgorithms.DeWolf.grover_known_t
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:15.180765+00:00
 -- url     : https://prove2.me/theorems/7f0aefa8-b4af-4c2a-b7b1-fea9982ed066

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ReducedEsa_commutes_symProj
 -- name    : BookProof.ReducedEsa.commutes_symProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:48:43.77141+00:00
 -- url     : https://prove2.me/theorems/0b156182-dcd1-42e1-9eea-01643d33f170

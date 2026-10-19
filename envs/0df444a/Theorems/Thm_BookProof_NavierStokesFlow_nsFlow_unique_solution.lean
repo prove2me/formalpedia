@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_nsFlow_unique_solution
 -- name    : BookProof.NavierStokesFlow.nsFlow_unique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:20.339316+00:00
 -- url     : https://prove2.me/theorems/27613955-075e-4cd8-b745-312f9590a302

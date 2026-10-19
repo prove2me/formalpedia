@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgMultiHalfDensity_multi_physical_hasZeroDeficiencyOn
 -- name    : BookProof.QgMultiHalfDensity.multi_physical_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:37:22.696432+00:00
 -- url     : https://prove2.me/theorems/46796174-2145-4c46-9a43-e7f2d038388f

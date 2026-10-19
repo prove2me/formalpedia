@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_shiftedHOp_symmetric
 -- name    : BookProof.ShiftedQuadratic.shiftedHOp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:26:58.224233+00:00
 -- url     : https://prove2.me/theorems/a6318a09-aa53-4b51-b671-c83d3c3c2957

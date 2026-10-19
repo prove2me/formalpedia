@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_fdLinearization_deviation_le
 -- name    : QAlgorithms.Nannicini.fdLinearization_deviation_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:45:49.108534+00:00
 -- url     : https://prove2.me/theorems/2ecc113c-2b0d-483c-9532-df0cfd422656

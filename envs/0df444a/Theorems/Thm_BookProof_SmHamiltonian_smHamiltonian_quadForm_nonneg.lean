@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmHamiltonian_smHamiltonian_quadForm_nonneg
 -- name    : BookProof.SmHamiltonian.smHamiltonian_quadForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:17:39.540545+00:00
 -- url     : https://prove2.me/theorems/7eac28f7-7d96-4c7d-9ec8-2b415b794087

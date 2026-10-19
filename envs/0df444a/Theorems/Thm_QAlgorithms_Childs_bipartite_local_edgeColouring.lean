@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_bipartite_local_edgeColouring
 -- name    : QAlgorithms.Childs.bipartite_local_edgeColouring
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:36:04.925507+00:00
 -- url     : https://prove2.me/theorems/d94aafa9-3aca-4297-bba9-3e73c0f61209

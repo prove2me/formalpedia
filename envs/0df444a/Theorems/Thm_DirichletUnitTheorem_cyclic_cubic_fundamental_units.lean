@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_cyclic_cubic_fundamental_units
 -- name    : DirichletUnitTheorem.cyclic_cubic_fundamental_units
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:35:38.294068+00:00
 -- url     : https://prove2.me/theorems/cf29541a-115a-4e36-8781-5b3b58a4c167

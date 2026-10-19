@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelPartMech_poisson_position_velocity
 -- name    : RelPartMech.poisson_position_velocity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:10:46.504651+00:00
 -- url     : https://prove2.me/theorems/eabc3359-7f58-40a3-97b7-d75be4fe1b61

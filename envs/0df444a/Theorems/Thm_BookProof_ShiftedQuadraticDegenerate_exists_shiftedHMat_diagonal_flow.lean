@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticDegenerate_exists_shiftedHMat_diagonal_flow
 -- name    : BookProof.ShiftedQuadraticDegenerate.exists_shiftedHMat_diagonal_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:25:38.688447+00:00
 -- url     : https://prove2.me/theorems/e0377106-6061-4686-bf4d-a0477182a29a

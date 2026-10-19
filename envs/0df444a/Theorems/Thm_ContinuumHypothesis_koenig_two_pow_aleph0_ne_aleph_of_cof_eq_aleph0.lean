@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_koenig_two_pow_aleph0_ne_aleph_of_cof_eq_aleph0
 -- name    : ContinuumHypothesis.koenig_two_pow_aleph0_ne_aleph_of_cof_eq_aleph0
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:29:03.133635+00:00
 -- url     : https://prove2.me/theorems/233c5876-ce8d-48f6-8cb6-d5bfd5fe6037

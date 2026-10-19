@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BassokSubstitution_no_order_above_base_stock
 -- name    : BassokSubstitution.no_order_above_base_stock
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-27T08:53:07.548338+00:00
 -- url     : https://prove2.me/theorems/7c93ed0a-ace5-44ba-aab9-c6db956c99eb

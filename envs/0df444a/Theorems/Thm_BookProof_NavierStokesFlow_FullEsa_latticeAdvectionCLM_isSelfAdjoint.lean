@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_latticeAdvectionCLM_isSelfAdjoint
 -- name    : BookProof.NavierStokesFlow.FullEsa.latticeAdvectionCLM_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:31:56.20432+00:00
 -- url     : https://prove2.me/theorems/917e383d-5186-46a7-926b-ac5aed35ab9a

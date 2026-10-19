@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterWignerSymmetry.wigner_symmetry_of_finiteDimensional
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T12:06:01.714975+00:00
 -- url     : https://prove2.me/submissions/f377d175-5bc2-4a42-b97a-8edc129e8af4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWignerSymmetry.lean — solution of BookProof.ChapterWignerSymmetry.wigner_symmetry_of_finiteDimensional
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_heightFunction_properties
 -- name    : QAlgorithms.Nannicini.heightFunction_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:47:51.116953+00:00
 -- url     : https://prove2.me/theorems/8aebb71b-fa98-42e4-ba41-25f296063cb5

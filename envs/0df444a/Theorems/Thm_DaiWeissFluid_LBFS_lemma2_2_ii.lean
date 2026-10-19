@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_LBFS_lemma2_2_ii
 -- name    : DaiWeissFluid.LBFS.lemma2_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:30:12.990292+00:00
 -- url     : https://prove2.me/theorems/ed97e616-71be-496d-9f3b-92ea98adb7a8

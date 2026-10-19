@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PerfectMatchingPSD_main
 -- name    : OAI.PerfectMatchingPSD.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:02.356707+00:00
 -- url     : https://prove2.me/theorems/0143f599-f493-4f04-9ce9-c03e7960a1fa

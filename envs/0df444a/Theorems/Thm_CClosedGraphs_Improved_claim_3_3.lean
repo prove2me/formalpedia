@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Improved_claim_3_3
 -- name    : CClosedGraphs.Improved.claim_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:21:42.507883+00:00
 -- url     : https://prove2.me/theorems/6b968867-645a-4bdc-8aa4-c3f4d1aaac7a

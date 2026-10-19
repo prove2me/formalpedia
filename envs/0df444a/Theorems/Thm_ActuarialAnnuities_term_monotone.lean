@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_term_monotone
 -- name    : ActuarialAnnuities.term_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:10:15.123003+00:00
 -- url     : https://prove2.me/theorems/da5895d0-0fe4-438f-8f2d-551f298766c6

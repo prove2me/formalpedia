@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianEsa_latticeLagData_hFull_apply
 -- name    : BookProof.NavierStokesFlow.LagrangianEsa.latticeLagData_hFull_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:20:17.720993+00:00
 -- url     : https://prove2.me/theorems/9dfcee39-bfe2-4c76-86f7-9e7cbac04586

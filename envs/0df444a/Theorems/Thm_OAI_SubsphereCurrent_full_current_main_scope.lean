@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SubsphereCurrent_full_current_main_scope
 -- name    : OAI.SubsphereCurrent.full_current_main_scope
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:27.565898+00:00
 -- url     : https://prove2.me/theorems/9f2531b4-7c3e-4758-a9d9-e7156556b3f3

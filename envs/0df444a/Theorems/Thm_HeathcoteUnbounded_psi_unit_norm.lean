@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeathcoteUnbounded_psi_unit_norm
 -- name    : HeathcoteUnbounded.psi_unit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:35:02.847077+00:00
 -- url     : https://prove2.me/theorems/214783da-0caa-4bb7-91b8-0d6da75c894a

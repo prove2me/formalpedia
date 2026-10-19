@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_PermSector_isReducingProjection_bosonicProj
 -- name    : BookProof.PermSector.isReducingProjection_bosonicProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:44:35.181759+00:00
 -- url     : https://prove2.me/theorems/5e40f620-2037-4669-aa55-84bb5ebf1fd9

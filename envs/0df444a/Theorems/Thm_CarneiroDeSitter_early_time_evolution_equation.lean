@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarneiroDeSitter_early_time_evolution_equation
 -- name    : CarneiroDeSitter.early_time_evolution_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T02:13:22.387801+00:00
 -- url     : https://prove2.me/theorems/bd462039-eef0-4124-a687-6c45ff5af728

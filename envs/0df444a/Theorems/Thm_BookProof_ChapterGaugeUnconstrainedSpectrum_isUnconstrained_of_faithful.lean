@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_isUnconstrained_of_faithful
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.isUnconstrained_of_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:18:02.48853+00:00
 -- url     : https://prove2.me/theorems/94643df6-e88a-4c76-b3e5-371d1adb1148

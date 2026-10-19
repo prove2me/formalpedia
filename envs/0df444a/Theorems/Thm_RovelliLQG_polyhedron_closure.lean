@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RovelliLQG_polyhedron_closure
 -- name    : RovelliLQG.polyhedron_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T19:27:35.833987+00:00
 -- url     : https://prove2.me/theorems/35c7824e-5487-45f2-8ce0-b3eeff086e3a

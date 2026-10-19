@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_conditional_concavity_nonnegative_sum
 -- name    : NestedSeatAlloc.IntPolicy.conditional_concavity_nonnegative_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T14:01:05.624619+00:00
 -- url     : https://prove2.me/theorems/3271abe1-9182-4946-8b1f-6acbe79c3d87

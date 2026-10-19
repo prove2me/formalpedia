@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_alive_initial
 -- name    : ActuarialAnnuitiesContinuous.bc_alive_initial
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:14:09.152979+00:00
 -- url     : https://prove2.me/theorems/31dbc25e-de21-49f7-ba1e-288888ca4a5e

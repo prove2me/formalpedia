@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_isQuasiComplete_weakDual
 -- name    : GarrettFA.isQuasiComplete_weakDual
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:36:51.749112+00:00
 -- url     : https://prove2.me/theorems/41c0c175-0cfd-4491-8149-4c94cf3728c8

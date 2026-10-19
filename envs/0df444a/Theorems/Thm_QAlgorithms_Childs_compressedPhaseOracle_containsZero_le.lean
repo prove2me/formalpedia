@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_compressedPhaseOracle_containsZero_le
 -- name    : QAlgorithms.Childs.compressedPhaseOracle_containsZero_le
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:35:10.469987+00:00
 -- url     : https://prove2.me/theorems/62fc6344-5759-46bd-9ea5-b04fb991dbe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangKangXue_SpectralTuran_lemma_3_7
 -- name    : WangKangXue.SpectralTuran.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:27:22.745512+00:00
 -- url     : https://prove2.me/theorems/077e9dc3-0bc7-4666-97e3-32e15324c800

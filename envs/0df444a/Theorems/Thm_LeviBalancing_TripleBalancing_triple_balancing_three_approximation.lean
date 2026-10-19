@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviBalancing_TripleBalancing_triple_balancing_three_approximation
 -- name    : LeviBalancing.TripleBalancing.triple_balancing_three_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:22:40.174787+00:00
 -- url     : https://prove2.me/theorems/8f959a7b-46c7-4b67-a848-5d92c90abe12

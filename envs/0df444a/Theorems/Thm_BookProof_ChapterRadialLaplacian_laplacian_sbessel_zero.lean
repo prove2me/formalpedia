@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_laplacian_sbessel_zero
 -- name    : BookProof.ChapterRadialLaplacian.laplacian_sbessel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:46:44.587698+00:00
 -- url     : https://prove2.me/theorems/784330ee-3e0e-4b2f-bde7-21aef7433f23

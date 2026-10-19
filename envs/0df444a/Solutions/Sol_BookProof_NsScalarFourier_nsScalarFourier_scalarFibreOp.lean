@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NsScalarFourier.nsScalarFourier_scalarFibreOp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:56:58.182374+00:00
 -- url     : https://prove2.me/submissions/9f61560d-8e10-441c-b5f4-3de4369d5923
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNsScalarFourier.lean — solution of BookProof.NsScalarFourier.nsScalarFourier_scalarFibreOp
 import Mathlib

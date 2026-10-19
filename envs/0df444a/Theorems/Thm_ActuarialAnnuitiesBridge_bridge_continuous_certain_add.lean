@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_bridge_continuous_certain_add
 -- name    : ActuarialAnnuitiesBridge.bridge_continuous_certain_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:37:22.945908+00:00
 -- url     : https://prove2.me/theorems/df8aa361-64d2-4730-b19a-d7a8781d13f0

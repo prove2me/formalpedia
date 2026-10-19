@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCrossEntropyGradient_convexOn_crossEntropyLoss
 -- name    : BookProof.ChapterCrossEntropyGradient.convexOn_crossEntropyLoss
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:25:26.282664+00:00
 -- url     : https://prove2.me/theorems/57937798-8a3e-4f3a-bd34-38bf39676d95

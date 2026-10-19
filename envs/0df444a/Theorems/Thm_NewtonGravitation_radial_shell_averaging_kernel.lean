@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_radial_shell_averaging_kernel
 -- name    : NewtonGravitation.radial_shell_averaging_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T12:25:21.332612+00:00
 -- url     : https://prove2.me/theorems/cc7656ae-2dd5-4c60-8736-18922736283f

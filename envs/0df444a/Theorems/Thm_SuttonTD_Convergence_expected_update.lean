@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonTD_Convergence_expected_update
 -- name    : SuttonTD.Convergence.expected_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:50:45.435981+00:00
 -- url     : https://prove2.me/theorems/b19c043e-ca88-406b-bbca-2418bffd3afa

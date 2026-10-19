@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KramersWannier_kw_not_invertible
 -- name    : KramersWannier.kw_not_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:50:38.914161+00:00
 -- url     : https://prove2.me/theorems/447ffe83-af48-432e-b023-f274eac7eb4a

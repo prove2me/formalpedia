@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Alone_lemma_1
 -- name    : HumanMachine.Alone.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:29:13.524073+00:00
 -- url     : https://prove2.me/theorems/44714138-d101-4f92-930f-d62372a30410

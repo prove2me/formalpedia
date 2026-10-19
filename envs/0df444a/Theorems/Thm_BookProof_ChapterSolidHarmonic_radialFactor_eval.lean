@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_radialFactor_eval
 -- name    : BookProof.ChapterSolidHarmonic.radialFactor_eval
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:54:37.328017+00:00
 -- url     : https://prove2.me/theorems/a2fcc43a-5a54-4eeb-98f6-16732dc63d37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorWiki_gcd_ne_one_nontrivial_factor
 -- name    : ShorWiki.gcd_ne_one_nontrivial_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:58:22.545064+00:00
 -- url     : https://prove2.me/theorems/88779db7-21d0-44ab-a12c-5f55e13ccdc2

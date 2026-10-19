@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Giddings1999_boundary_S_matrix_eq_CFT_correlator
 -- name    : Giddings1999.boundary_S_matrix_eq_CFT_correlator
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:52:15.766507+00:00
 -- url     : https://prove2.me/theorems/886ede48-8140-4018-91d0-55e14d62c93f

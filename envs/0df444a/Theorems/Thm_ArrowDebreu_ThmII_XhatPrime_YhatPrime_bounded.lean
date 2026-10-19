@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_XhatPrime_YhatPrime_bounded
 -- name    : ArrowDebreu.ThmII.XhatPrime_YhatPrime_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:19:46.262014+00:00
 -- url     : https://prove2.me/theorems/e334e3b5-7dc3-448e-b2d0-adff29586a64

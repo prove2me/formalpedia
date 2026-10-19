@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CyclotomicEulerSystem_cyclotomic_euler_system
 -- name    : CyclotomicEulerSystem.cyclotomic_euler_system
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T15:29:38.258812+00:00
 -- url     : https://prove2.me/theorems/ec818412-96c6-4dce-be12-078b3839c5dc

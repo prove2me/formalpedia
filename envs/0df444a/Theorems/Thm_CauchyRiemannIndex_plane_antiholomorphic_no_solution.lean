@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_plane_antiholomorphic_no_solution
 -- name    : CauchyRiemannIndex.plane_antiholomorphic_no_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:04:28.972465+00:00
 -- url     : https://prove2.me/theorems/e756e6be-abdd-4776-800b-154cec145648

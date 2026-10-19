@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Aperiodic_exists_good_multiple
 -- name    : JRPHard.Aperiodic.exists_good_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:18.93426+00:00
 -- url     : https://prove2.me/theorems/c4ebdc26-3408-47c2-aba0-382c32bc836c

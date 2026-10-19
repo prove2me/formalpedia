@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_positive_geometric_transform_real_reciprocal
 -- name    : AvramDividend.Classical.positive_geometric_transform_real_reciprocal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:22:03.731322+00:00
 -- url     : https://prove2.me/theorems/723e5e3c-b8ad-416d-b2a9-83b8872b63bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_SafeAVI_first_step_residual
 -- name    : AccelVI.SafeAVI.first_step_residual
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:48.259038+00:00
 -- url     : https://prove2.me/theorems/ab2c3a16-3151-4704-9672-c856d610d678

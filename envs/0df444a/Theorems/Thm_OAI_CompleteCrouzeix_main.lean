@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CompleteCrouzeix_main
 -- name    : OAI.CompleteCrouzeix.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:27.931484+00:00
 -- url     : https://prove2.me/theorems/ac54c442-d537-44ab-9a2e-0bafc36130f1

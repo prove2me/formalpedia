@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_variance_linear_estimator
 -- name    : LocalDistanceNetwork.variance_linear_estimator
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:25:51.067901+00:00
 -- url     : https://prove2.me/theorems/c2ac9697-c831-441c-9cd7-19d212cdbadd

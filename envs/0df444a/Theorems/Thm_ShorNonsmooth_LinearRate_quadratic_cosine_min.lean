@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_LinearRate_quadratic_cosine_min
 -- name    : ShorNonsmooth.LinearRate.quadratic_cosine_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T11:44:09.865172+00:00
 -- url     : https://prove2.me/theorems/8f277dd6-2864-4f79-ae14-55d748b6a073

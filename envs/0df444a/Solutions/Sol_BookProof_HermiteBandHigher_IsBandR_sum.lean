@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.HermiteBandHigher.IsBandR.sum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T14:49:58.570984+00:00
 -- url     : https://prove2.me/submissions/54454c45-1756-4fff-8566-8675b768d29e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterHermiteBandCalculusHigher.lean — solution of BookProof.HermiteBandHigher.IsBandR.sum
 import Mathlib

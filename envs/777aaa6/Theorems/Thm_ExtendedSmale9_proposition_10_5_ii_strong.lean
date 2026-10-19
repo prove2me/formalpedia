@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtendedSmale9_proposition_10_5_ii_strong
 -- name    : ExtendedSmale9.proposition_10_5_ii_strong
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T15:46:05.72498+00:00
 -- url     : https://prove2.me/theorems/bc43217a-8e3c-4b6a-a67c-efbfc2c90d0b

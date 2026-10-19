@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_Structure_value_and_policy_monotone
 -- name    : GVRPricing.Structure.value_and_policy_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:46:16.061219+00:00
 -- url     : https://prove2.me/theorems/e262dc8f-5f86-455e-aa68-1ac05800c660

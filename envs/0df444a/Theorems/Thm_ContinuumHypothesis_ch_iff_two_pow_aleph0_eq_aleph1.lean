@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_ch_iff_two_pow_aleph0_eq_aleph1
 -- name    : ContinuumHypothesis.ch_iff_two_pow_aleph0_eq_aleph1
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:25:46.421986+00:00
 -- url     : https://prove2.me/theorems/f1359f9b-c075-453d-b6c7-4a520c372af1

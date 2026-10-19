@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Giddings1999_twoH_indicial_roots
 -- name    : Giddings1999.twoH_indicial_roots
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:48:33.776322+00:00
 -- url     : https://prove2.me/theorems/bae97f66-6a9c-4cac-8662-658868f27295

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_helstrom_bound
 -- name    : QAlgorithms.Arunachalam.helstrom_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:13.556839+00:00
 -- url     : https://prove2.me/theorems/cbd03fca-c022-410c-bf0a-4d4844ef94d9

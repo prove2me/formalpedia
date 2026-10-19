@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.TwoParticleSector.isReducingProjection_bosonicProj
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T08:49:17.377893+00:00
 -- url     : https://prove2.me/submissions/1edd37bb-3a1c-4965-af24-ad578e329b6a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterTwoParticleSectorEsa.lean — solution of BookProof.TwoParticleSector.isReducingProjection_bosonicProj
 import Mathlib

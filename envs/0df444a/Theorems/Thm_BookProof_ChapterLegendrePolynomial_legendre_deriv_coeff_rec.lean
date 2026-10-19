@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLegendrePolynomial_legendre_deriv_coeff_rec
 -- name    : BookProof.ChapterLegendrePolynomial.legendre_deriv_coeff_rec
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:27:34.26064+00:00
 -- url     : https://prove2.me/theorems/aee7a31d-9b24-4633-a53b-bc77914f2d75

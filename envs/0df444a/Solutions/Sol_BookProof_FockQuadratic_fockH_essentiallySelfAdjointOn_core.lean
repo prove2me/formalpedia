@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FockQuadratic.fockH_essentiallySelfAdjointOn_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:26:28.167669+00:00
 -- url     : https://prove2.me/submissions/5eb5458b-2571-4a5d-ab0a-a3e6598a42a8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFockQuadraticEsa.lean — solution of BookProof.FockQuadratic.fockH_essentiallySelfAdjointOn_core
 import Mathlib

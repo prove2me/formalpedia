@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Childs_kutin_average_isPolynomial
 -- name    : QAlgorithms.Childs.kutin_average_isPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:32:55.907988+00:00
 -- url     : https://prove2.me/theorems/c65762c1-64cd-4ce4-991f-d0e08b40e585

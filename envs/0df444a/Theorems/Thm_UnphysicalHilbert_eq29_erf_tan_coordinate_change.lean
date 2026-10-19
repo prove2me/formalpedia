@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_eq29_erf_tan_coordinate_change
 -- name    : UnphysicalHilbert.eq29_erf_tan_coordinate_change
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:08:54.555955+00:00
 -- url     : https://prove2.me/theorems/a9cbd283-b188-47ff-ad9f-e46e02881d67

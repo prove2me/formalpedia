@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_change_of_coordinates_finite_to_infinite_expectation
 -- name    : UnphysicalHilbert.change_of_coordinates_finite_to_infinite_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:10:20.370842+00:00
 -- url     : https://prove2.me/theorems/03f2a0dc-30f3-4543-ab57-ee45ade18015

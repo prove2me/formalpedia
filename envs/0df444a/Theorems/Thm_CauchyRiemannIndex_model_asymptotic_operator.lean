@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_model_asymptotic_operator
 -- name    : CauchyRiemannIndex.model_asymptotic_operator
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:04:09.68564+00:00
 -- url     : https://prove2.me/theorems/84880815-644d-441e-82d6-7b63a5eb5d6d

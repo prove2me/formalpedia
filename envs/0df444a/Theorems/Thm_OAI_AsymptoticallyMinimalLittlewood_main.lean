@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AsymptoticallyMinimalLittlewood_main
 -- name    : OAI.AsymptoticallyMinimalLittlewood.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:21.581534+00:00
 -- url     : https://prove2.me/theorems/97d77242-8f8a-4eac-853e-c04508e74f68

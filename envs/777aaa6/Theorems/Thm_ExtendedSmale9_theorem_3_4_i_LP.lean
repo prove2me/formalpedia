@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtendedSmale9_theorem_3_4_i_LP
 -- name    : ExtendedSmale9.theorem_3_4_i_LP
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T16:22:49.181999+00:00
 -- url     : https://prove2.me/theorems/6b1b6901-4d96-440d-9bd3-5c78d39b5dc5

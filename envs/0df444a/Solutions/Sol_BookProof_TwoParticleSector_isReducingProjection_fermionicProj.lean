@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.TwoParticleSector.isReducingProjection_fermionicProj
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T08:49:41.668187+00:00
 -- url     : https://prove2.me/submissions/3815cbca-d25c-43ce-bc24-7c9ad4bc26e8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterTwoParticleSectorEsa.lean — solution of BookProof.TwoParticleSector.isReducingProjection_fermionicProj
 import Mathlib

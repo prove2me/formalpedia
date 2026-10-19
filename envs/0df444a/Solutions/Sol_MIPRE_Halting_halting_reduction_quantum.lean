@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MIPRE.Halting.halting_reduction_quantum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @thomasvidick
 -- created : 2026-10-15T22:31:51.880957+00:00
 -- url     : https://prove2.me/submissions/73a0cd29-ac00-4913-ad3b-87f6e8d19397
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Thomas Vidick. All rights reserved.

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjLikeRetr_Spectral_projection_spectral_manifold
 -- name    : ProjLikeRetr.Spectral.projection_spectral_manifold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:02:44.479698+00:00
 -- url     : https://prove2.me/theorems/ad29e00f-0265-4d64-8c21-9a82d1979647

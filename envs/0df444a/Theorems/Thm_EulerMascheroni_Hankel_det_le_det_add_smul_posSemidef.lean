@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EulerMascheroni_Hankel_det_le_det_add_smul_posSemidef
 -- name    : EulerMascheroni.Hankel.det_le_det_add_smul_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-10-09T09:32:03.883072+00:00
 -- url     : https://prove2.me/theorems/1cbf5793-07da-469e-bcfe-01e9899d7927

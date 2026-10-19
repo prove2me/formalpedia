@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop24_change_of_variables_unitary
 -- name    : UnphysicalHilbert.prop24_change_of_variables_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:07:32.570237+00:00
 -- url     : https://prove2.me/theorems/07611fa2-fe1c-4c3b-9f06-592e1c4d95e1

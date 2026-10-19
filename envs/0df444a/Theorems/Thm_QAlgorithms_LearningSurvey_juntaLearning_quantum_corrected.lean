@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_LearningSurvey_juntaLearning_quantum_corrected
 -- name    : QAlgorithms.LearningSurvey.juntaLearning_quantum_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:07.321754+00:00
 -- url     : https://prove2.me/theorems/620cc592-26a9-4ef6-8712-6ec933f04e59

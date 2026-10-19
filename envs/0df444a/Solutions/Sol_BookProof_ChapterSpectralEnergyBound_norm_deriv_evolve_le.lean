@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSpectralEnergyBound.norm_deriv_evolve_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:57:46.559764+00:00
 -- url     : https://prove2.me/submissions/cf5137a4-b8e5-4978-8de9-aa4be711ad91
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSpectralEnergyBound.lean — solution of BookProof.ChapterSpectralEnergyBound.norm_deriv_evolve_le
 import Mathlib

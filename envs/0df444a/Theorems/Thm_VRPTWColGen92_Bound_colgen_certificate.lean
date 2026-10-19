@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VRPTWColGen92_Bound_colgen_certificate
 -- name    : VRPTWColGen92.Bound.colgen_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:38:00.291705+00:00
 -- url     : https://prove2.me/theorems/c6393eef-0f4a-4626-b752-f5cd76bb837a

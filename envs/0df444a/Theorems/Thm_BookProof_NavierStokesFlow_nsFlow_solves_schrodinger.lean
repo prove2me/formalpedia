@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_nsFlow_solves_schrodinger
 -- name    : BookProof.NavierStokesFlow.nsFlow_solves_schrodinger
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:09.50737+00:00
 -- url     : https://prove2.me/theorems/4d45d47d-e604-4a27-8e97-f22d7c109faa

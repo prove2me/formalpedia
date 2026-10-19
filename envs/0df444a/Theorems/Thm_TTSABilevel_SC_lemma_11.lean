@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TTSABilevel_SC_lemma_11
 -- name    : TTSABilevel.SC.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:30:16.445237+00:00
 -- url     : https://prove2.me/theorems/8cd9723c-8d3a-4654-a2e5-940206ad7d01

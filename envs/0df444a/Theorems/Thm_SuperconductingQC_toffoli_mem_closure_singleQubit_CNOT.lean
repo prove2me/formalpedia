@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperconductingQC_toffoli_mem_closure_singleQubit_CNOT
 -- name    : SuperconductingQC.toffoli_mem_closure_singleQubit_CNOT
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:27:14.615673+00:00
 -- url     : https://prove2.me/theorems/2bd8f925-64d2-462e-bedf-95e3c047e932

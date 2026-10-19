@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_discount_order
 -- name    : actuarial_c_discount_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:25:28.306737+00:00
 -- url     : https://prove2.me/theorems/c0c87e0e-0ccc-4d35-b756-77d6862b0f3b

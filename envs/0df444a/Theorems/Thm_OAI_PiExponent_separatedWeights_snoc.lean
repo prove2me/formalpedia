@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_separatedWeights_snoc
 -- name    : OAI.PiExponent.separatedWeights_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:06:15.774013+00:00
 -- url     : https://prove2.me/theorems/c58b14eb-d5f9-4898-8b39-d9a898120b61

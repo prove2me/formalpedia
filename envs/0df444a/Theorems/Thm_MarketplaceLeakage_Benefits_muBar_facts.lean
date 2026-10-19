@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Benefits_muBar_facts
 -- name    : MarketplaceLeakage.Benefits.muBar_facts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:07.532143+00:00
 -- url     : https://prove2.me/theorems/01b0c94d-ed9d-4d1a-87f1-a0a2337512ca

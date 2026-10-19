@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Survey_theorem_5_1
 -- name    : EngagementOpt.Survey.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:20:56.417585+00:00
 -- url     : https://prove2.me/theorems/6374d318-92bc-4bc0-8f84-598c25b3c1e9

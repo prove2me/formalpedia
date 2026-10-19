@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArrowDebreu.ThmII.theorem_II
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T15:46:41.78423+00:00
 -- url     : https://prove2.me/submissions/ce81a377-ab26-44a2-8075-9879797cacbd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ArrowDebreu_Shared_Economy

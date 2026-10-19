@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_Central_posterior_order
 -- name    : ReviewBlackmail.Central.posterior_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:49.918646+00:00
 -- url     : https://prove2.me/theorems/c1971bfb-3bd7-4950-8ebb-34a7d5397d6c

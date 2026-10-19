@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnboundedPosition_position_unbounded
 -- name    : BookProof.ChapterUnboundedPosition.position_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:04:52.20737+00:00
 -- url     : https://prove2.me/theorems/c2343fa0-4c82-4357-b3ea-39331812523e

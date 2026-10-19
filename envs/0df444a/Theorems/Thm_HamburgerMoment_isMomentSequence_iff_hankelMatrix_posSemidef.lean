@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_isMomentSequence_iff_hankelMatrix_posSemidef
 -- name    : HamburgerMoment.isMomentSequence_iff_hankelMatrix_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:06:24.778132+00:00
 -- url     : https://prove2.me/theorems/5aba77bc-675d-4255-a7db-f5ae24b4d169

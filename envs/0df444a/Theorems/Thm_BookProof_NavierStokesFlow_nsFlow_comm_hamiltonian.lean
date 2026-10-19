@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_nsFlow_comm_hamiltonian
 -- name    : BookProof.NavierStokesFlow.nsFlow_comm_hamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:01:34.345986+00:00
 -- url     : https://prove2.me/theorems/77e5cb28-9c68-4a00-a734-fa48e2fb0a41

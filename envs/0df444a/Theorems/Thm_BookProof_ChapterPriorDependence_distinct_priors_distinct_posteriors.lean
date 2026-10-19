@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPriorDependence_distinct_priors_distinct_posteriors
 -- name    : BookProof.ChapterPriorDependence.distinct_priors_distinct_posteriors
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:55:33.014846+00:00
 -- url     : https://prove2.me/theorems/ce3aea9b-40b3-4862-98f7-08f4162e5f74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_shiftedHOp_not_bounded
 -- name    : BookProof.ShiftedQuadratic.shiftedHOp_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:43:04.824901+00:00
 -- url     : https://prove2.me/theorems/ecd24704-7a89-4778-8235-94fb97c4403c

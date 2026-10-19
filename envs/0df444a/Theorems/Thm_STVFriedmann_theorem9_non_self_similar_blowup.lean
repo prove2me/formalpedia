@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_theorem9_non_self_similar_blowup
 -- name    : STVFriedmann.theorem9_non_self_similar_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T02:02:11.734909+00:00
 -- url     : https://prove2.me/theorems/6b7d3c73-2951-4b91-9047-bd3b42f308cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnitaryTransport_mulOp_isSelfAdjointOn
 -- name    : BookProof.ChapterUnitaryTransport.mulOp_isSelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:33:26.477988+00:00
 -- url     : https://prove2.me/theorems/b04e52b7-3949-4c85-a58c-bd8fafff5095

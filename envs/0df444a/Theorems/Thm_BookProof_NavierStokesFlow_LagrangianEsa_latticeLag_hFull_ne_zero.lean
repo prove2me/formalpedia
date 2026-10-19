@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianEsa_latticeLag_hFull_ne_zero
 -- name    : BookProof.NavierStokesFlow.LagrangianEsa.latticeLag_hFull_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:20:19.701977+00:00
 -- url     : https://prove2.me/theorems/6f9db9bf-1a92-4c8b-86c6-6b891865f194

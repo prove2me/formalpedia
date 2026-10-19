@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_Cooling_inv_sqrt_chiSq_add_one_le_overlap
 -- name    : QuantumMC.Cooling.inv_sqrt_chiSq_add_one_le_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:52.113576+00:00
 -- url     : https://prove2.me/theorems/e0bf2466-66da-4dd0-8e2b-64e5e9493e1d

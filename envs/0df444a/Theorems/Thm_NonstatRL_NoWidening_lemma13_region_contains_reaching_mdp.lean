@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_NoWidening_lemma13_region_contains_reaching_mdp
 -- name    : NonstatRL.NoWidening.lemma13_region_contains_reaching_mdp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:56.02198+00:00
 -- url     : https://prove2.me/theorems/0c506386-a454-4138-bcea-b231ea6e4708

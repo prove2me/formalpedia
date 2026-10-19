@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_LowerBound_chain_value_function
 -- name    : AccelVI.LowerBound.chain_value_function
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:59.794393+00:00
 -- url     : https://prove2.me/theorems/8a3bfcc3-9f90-4b0e-aa44-02d8a43e80db

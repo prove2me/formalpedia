@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_energyTransform_symm
 -- name    : BookProof.energyTransform_symm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:09:27.761984+00:00
 -- url     : https://prove2.me/theorems/c07c7728-87b4-4530-b9a7-c3b0cb23a466

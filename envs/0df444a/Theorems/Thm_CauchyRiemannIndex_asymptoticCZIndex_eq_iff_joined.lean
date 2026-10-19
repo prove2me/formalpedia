@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_asymptoticCZIndex_eq_iff_joined
 -- name    : CauchyRiemannIndex.asymptoticCZIndex_eq_iff_joined
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:03:40.56431+00:00
 -- url     : https://prove2.me/theorems/3baad947-f741-4703-9aa3-cd85871768bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_eq6_strong_rate
 -- name    : GoodmanWitten.eq6_strong_rate
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:58:18.867108+00:00
 -- url     : https://prove2.me/theorems/58f5e432-eed6-4ca6-8cb4-8be2c2b4f7f5

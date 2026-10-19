@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_LagrangianEsa_latticeLagCLM_isSelfAdjoint
 -- name    : BookProof.NavierStokesFlow.LagrangianEsa.latticeLagCLM_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:32:24.918462+00:00
 -- url     : https://prove2.me/theorems/7846d6a4-d176-4e57-8864-9444a921bf33

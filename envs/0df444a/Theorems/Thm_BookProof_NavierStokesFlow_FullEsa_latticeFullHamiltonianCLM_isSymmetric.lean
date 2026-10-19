@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_latticeFullHamiltonianCLM_isSymmetric
 -- name    : BookProof.NavierStokesFlow.FullEsa.latticeFullHamiltonianCLM_isSymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:13:14.541277+00:00
 -- url     : https://prove2.me/theorems/8456270e-a230-4b51-bd14-25b0f315a3de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClassNumberFormula_gaussian_residue_eq_pi_div_four
 -- name    : ClassNumberFormula.gaussian_residue_eq_pi_div_four
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:53:14.110319+00:00
 -- url     : https://prove2.me/theorems/d71fd21a-3a91-4972-9909-da3dc2d3ee69

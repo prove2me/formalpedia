@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WangKangXue.SpectralTuran.theorem_1_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-10T05:27:35.972069+00:00
 -- url     : https://prove2.me/submissions/91924ec4-79da-4c4f-946d-80a1560697c0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WangKangXue_SpectralTuran_specRad

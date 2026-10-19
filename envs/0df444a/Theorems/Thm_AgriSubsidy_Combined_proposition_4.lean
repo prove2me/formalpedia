@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgriSubsidy_Combined_proposition_4
 -- name    : AgriSubsidy.Combined.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:34.784518+00:00
 -- url     : https://prove2.me/theorems/991e02df-68a9-4244-baa8-2af291dba1ed

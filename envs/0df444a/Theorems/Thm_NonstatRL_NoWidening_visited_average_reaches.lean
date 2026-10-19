@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_NoWidening_visited_average_reaches
 -- name    : NonstatRL.NoWidening.visited_average_reaches
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:50.105132+00:00
 -- url     : https://prove2.me/theorems/49628189-185e-45af-a466-f61f1020b3eb

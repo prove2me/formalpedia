@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperconductingQC_closure_twoLevelUnitaries_eq_top
 -- name    : SuperconductingQC.closure_twoLevelUnitaries_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:26:19.540754+00:00
 -- url     : https://prove2.me/theorems/58a1c062-3e4f-4f31-b5a0-6b94b15249ba

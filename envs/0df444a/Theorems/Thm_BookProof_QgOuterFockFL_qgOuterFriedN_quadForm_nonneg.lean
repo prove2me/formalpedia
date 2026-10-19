@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_qgOuterFriedN_quadForm_nonneg
 -- name    : BookProof.QgOuterFockFL.qgOuterFriedN_quadForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:46:44.319309+00:00
 -- url     : https://prove2.me/theorems/83f37fd2-b769-418a-9f84-4aaa80277169

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyPhotonNumber_ThermalSetup_minimum_decay
 -- name    : OAI.EntropyPhotonNumber.ThermalSetup.minimum_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-16T03:01:40.884759+00:00
 -- url     : https://prove2.me/theorems/780dda3d-f911-4d78-a75c-85708c0c6be3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_level_insurance_annuity_unnormalised
 -- name    : actuarial_c_level_insurance_annuity_unnormalised
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:30:01.017391+00:00
 -- url     : https://prove2.me/theorems/1cba6307-7cb9-4eb8-af13-6bf00885e595

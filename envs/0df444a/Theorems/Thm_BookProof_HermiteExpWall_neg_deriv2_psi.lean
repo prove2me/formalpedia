@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_neg_deriv2_psi
 -- name    : BookProof.HermiteExpWall.neg_deriv2_psi
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:12:29.134101+00:00
 -- url     : https://prove2.me/theorems/108fea7e-204d-4d55-9ce3-f8a9e717a3d9

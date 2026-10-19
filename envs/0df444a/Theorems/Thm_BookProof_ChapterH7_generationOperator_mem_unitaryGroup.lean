@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH7_generationOperator_mem_unitaryGroup
 -- name    : BookProof.ChapterH7.generationOperator_mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:54:07.213203+00:00
 -- url     : https://prove2.me/theorems/574d61f7-187c-4aa7-b8c4-29b9acf24435

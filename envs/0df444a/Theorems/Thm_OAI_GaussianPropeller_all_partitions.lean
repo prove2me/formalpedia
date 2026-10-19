@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_all_partitions
 -- name    : OAI.GaussianPropeller.all_partitions
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:42.23881+00:00
 -- url     : https://prove2.me/theorems/b0cdf83e-63bd-46d0-951b-1086e24ad405

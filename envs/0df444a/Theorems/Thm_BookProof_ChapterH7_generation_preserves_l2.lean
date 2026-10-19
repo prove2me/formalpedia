@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH7_generation_preserves_l2
 -- name    : BookProof.ChapterH7.generation_preserves_l2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:54:28.879985+00:00
 -- url     : https://prove2.me/theorems/eadf6124-5295-45be-a394-ce6a034914b1

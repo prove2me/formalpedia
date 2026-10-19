@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondatPD_PPA_theorem_3_2
 -- name    : CondatPD.PPA.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T04:35:52.863258+00:00
 -- url     : https://prove2.me/theorems/e8013db9-0803-47b9-87db-697a5ecee4cb

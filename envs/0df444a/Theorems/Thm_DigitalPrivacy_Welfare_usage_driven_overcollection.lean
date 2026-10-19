@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DigitalPrivacy_Welfare_usage_driven_overcollection
 -- name    : DigitalPrivacy.Welfare.usage_driven_overcollection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:32:53.455133+00:00
 -- url     : https://prove2.me/theorems/54d32ecc-fcfe-40ba-84f3-0673fb36b233

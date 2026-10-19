@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_dirichlet_unit_theorem
 -- name    : DirichletUnitTheorem.dirichlet_unit_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:28.698587+00:00
 -- url     : https://prove2.me/theorems/00d0667d-6fdc-48c4-83e7-39299f9c8508

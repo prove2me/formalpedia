@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_benefit_order
 -- name    : actuarial_c_benefit_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:22:59.209977+00:00
 -- url     : https://prove2.me/theorems/1149b392-72c4-443f-b9d4-58790bae85b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_nrPlaces_eq_card_roots_minpoly
 -- name    : DirichletUnitTheorem.nrPlaces_eq_card_roots_minpoly
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:14.905395+00:00
 -- url     : https://prove2.me/theorems/5f82746f-bff9-4224-a96d-2e5f2c20cadb

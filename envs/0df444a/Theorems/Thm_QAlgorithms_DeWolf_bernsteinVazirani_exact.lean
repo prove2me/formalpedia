@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_bernsteinVazirani_exact
 -- name    : QAlgorithms.DeWolf.bernsteinVazirani_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:29:24.703554+00:00
 -- url     : https://prove2.me/theorems/0edcd87f-04cf-4e0a-b65f-e0cd56dc721b

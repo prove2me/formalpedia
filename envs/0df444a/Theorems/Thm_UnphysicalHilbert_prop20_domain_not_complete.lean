@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop20_domain_not_complete
 -- name    : UnphysicalHilbert.prop20_domain_not_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:06:49.034748+00:00
 -- url     : https://prove2.me/theorems/e8c80cb1-18c5-40f4-8432-04ec08ff16b7

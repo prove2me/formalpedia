@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_bridge_guaranteed_certain_integral
 -- name    : ActuarialAnnuitiesBridge.bridge_guaranteed_certain_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:37:02.851276+00:00
 -- url     : https://prove2.me/theorems/e6dd2b75-36de-4ebd-91b3-1a520b3e6de4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_NetworkGap_affine_lower_bound
 -- name    : BudgetedAffine.NetworkGap.affine_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:37.346175+00:00
 -- url     : https://prove2.me/theorems/131e0b0f-145f-45dc-8470-5f5a4b73089b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GarrettFA_continuous_linearMap_of_isInitTopology
 -- name    : GarrettFA.continuous_linearMap_of_isInitTopology
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T19:39:54.293576+00:00
 -- url     : https://prove2.me/theorems/397ccc0a-258b-42ec-8bcd-4c1a06a95ff3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_schmidtDecomposition
 -- name    : QAlgorithms.Nannicini.schmidtDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:52:26.138527+00:00
 -- url     : https://prove2.me/theorems/6b553ac0-e665-496f-9b39-5a82528bf259

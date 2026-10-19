@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_pinv_chiSq_eq_independent
 -- name    : LocalDistanceNetwork.pinv_chiSq_eq_independent
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:31:10.571355+00:00
 -- url     : https://prove2.me/theorems/46c1bf5c-bd6a-43f5-8784-d155824f7984

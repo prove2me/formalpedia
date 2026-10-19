@@ -4,6 +4,10 @@
 -- author  : @He Wang
 -- created : 2026-10-15T18:47:30.118684+00:00
 -- url     : https://prove2.me/theorems/82e00402-4628-492e-a0d4-cf2b9dcbfe99
+-- statement:
+--   pdM i A y = Matrix.of (a, b ↦ pd i (z ↦ A z a b) y): the entrywise slice derivative of a matrix-valued field A : ℝⁿ → Matrix (Fin n) (Fin n) ℝ (a notation wrapper over the registered pd; pdM_apply is rfl). SmoothOn A U := ∀ a b, ContDiffOn ℝ ∞ (y ↦ A y a b) U: every entry is C^∞ on U. The rules (product, linearity, inverse ∂K = −K ∂J K, chain rule, symmetry of mixed derivatives, smoothness of a right inverse by Cramer) are theorems of the source module, not part of the bundle.
+--
+--   **中文导读。** 矩阵场的逐项切片导数 pdM（对登记 pd 的记号包装）与逐项 C^∞ 的 SmoothOn；微积分规则是模块定理，不在包内。
 -- source:
 --   He Wang, Exact Vacuum Atlas II, local source snapshot (public Git repository not yet available), commit 11fb317259353b71a41d6daed466c495cffd7db4; Atlas/Transport/MatrixCalc.lean; SHA-256 994bf6c8664b9c7b2def61b44cb0205ed97883699045a73e41d873029c259310. Mathematical background: See mission/PHYSICS_BOUNDARY.md §A-F for registered definitions and literature references (Wald, Müller-Grave arXiv:0904.4184, Visser arXiv:0706.0622, Martel-Poisson gr-qc/0001069).
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_simon_algorithm
 -- name    : QAlgorithms.DeWolf.simon_algorithm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:33:48.903707+00:00
 -- url     : https://prove2.me/theorems/5fda73c2-2be3-43b9-8350-47c2509bedd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_erdos_arithmetic_progressions
 -- name    : erdos_arithmetic_progressions
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-05-31T19:12:35.153187+00:00
 -- url     : https://prove2.me/theorems/9b48e80d-26af-4851-9e8e-6fafaee35f5e

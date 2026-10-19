@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NewtonGravitation.shell_theorem_exterior
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-13T12:16:50.384168+00:00
 -- url     : https://prove2.me/submissions/60f69f86-2cf5-48e8-a0a6-8d6bae15dbbf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NewtonGravitation_Defs
 import Theorems.Thm_NewtonGravitation_gravField_eq_enclosed_mass

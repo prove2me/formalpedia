@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ColorfulHelly_colorful_fractional_helly
 -- name    : ColorfulHelly.colorful_fractional_helly
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-08T18:17:07.42721+00:00
 -- url     : https://prove2.me/theorems/b3f3bd73-4797-464c-85ab-9cd3f2a398c3

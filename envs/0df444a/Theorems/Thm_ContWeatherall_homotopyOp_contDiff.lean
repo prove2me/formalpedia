@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContWeatherall_homotopyOp_contDiff
 -- name    : ContWeatherall.homotopyOp_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T22:10:52.145147+00:00
 -- url     : https://prove2.me/theorems/825b0eb7-df4e-4b1d-aa65-98d61808e029

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le
 -- name    : ArtinPrimitiveRoots.exists_cutoff_exists_differentiable_eq_kummerL_and_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T20:49:16.885533+00:00
 -- url     : https://prove2.me/theorems/8ad1a151-a30e-4f5a-8afc-0dd78f4a1cc8

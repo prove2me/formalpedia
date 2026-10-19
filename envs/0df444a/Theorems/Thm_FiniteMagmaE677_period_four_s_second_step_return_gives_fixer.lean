@@ -29,7 +29,7 @@
 --
 --   This is one retained branch of the period-four orbit-collision problem. The cycle data and local contact facts are established inputs; the displayed fixer conclusion is still open. No bound on the size of the finite carrier is imposed.
 -- source:
---   Adam McKenna, The Missing Pair, revision 9b76827c2246f0e6288466768f15b5c6f9350d71; lean/E677/Spine/Piece1D4CycleContact.lean, E677D4QCycleContactBranch and e677_d4_q_cycleContactPacket_of_firstReturnPacket; docs/current/e677-closure-plan-2026-08-04.md, D4 first-return collapse frontier. https://github.com/flound1129/the-missing-pair/blob/9b76827c2246f0e6288466768f15b5c6f9350d71/lean/E677/Spine/Piece1D4CycleContact.lean
+--   Adam McKenna, The Missing Pair (private repository), revision 9b76827c2246f0e6288466768f15b5c6f9350d71, lean/E677/Spine/Piece1D4CycleContact.lean, E677D4QCycleContactBranch and e677_d4_q_cycleContactPacket_of_firstReturnPacket; docs/current/e677-closure-plan-2026-08-04.md, D4 first-return collapse frontier. Open target; the statement on this platform is the public record.
 
 import Definitions.Def_FiniteMagmaE677_d4_first_return
 

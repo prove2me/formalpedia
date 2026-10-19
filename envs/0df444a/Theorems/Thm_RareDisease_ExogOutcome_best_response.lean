@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_ExogOutcome_best_response
 -- name    : RareDisease.ExogOutcome.best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:06.538877+00:00
 -- url     : https://prove2.me/theorems/b5599708-bf3d-4a71-a0f2-ac7acb2c0166

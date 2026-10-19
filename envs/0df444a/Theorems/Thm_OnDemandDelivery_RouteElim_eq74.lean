@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandDelivery_RouteElim_eq74
 -- name    : OnDemandDelivery.RouteElim.eq74
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:06.6542+00:00
 -- url     : https://prove2.me/theorems/d67e0a84-21be-4bc5-8a0e-adc9fd4ce17b

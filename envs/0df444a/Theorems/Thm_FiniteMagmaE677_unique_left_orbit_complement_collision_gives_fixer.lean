@@ -7,9 +7,9 @@
 -- title:
 --   A right-translation collision across a one-element left-orbit complement gives a fixer
 -- statement:
---   For an element $x$, let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume $x\diamond x\ne x$, and assume exactly one element $A$ lies outside $O_x$. If right translation by $x$ has a collision between $A$ and an element of $O_x$, prove that $x$ has a right fixer: there is a $y$ such that $y\diamond x=x$. No associativity, commutativity, or identity is assumed.
+--   For an element $x$, let $O_x=\{L_x^n(x):n\ge 0\}$ be its orbit under the left translation $L_x(z)=x\diamond z$. Assume E677, assume $x\diamond x\ne x$, and assume exactly one element $A$ lies outside $O_x$. If right translation by $x$ has a collision between $A$ and an element of $O_x$, prove that $x$ has a fixer: there is a $y$ such that $y\diamond x=x$. No associativity, commutativity, or identity is assumed.
 -- source:
---   Cross-boundary collision residual recommended by the finite E677 to E255 closure plan, docs/current/e677-closure-plan-2026-08-04.md, section 3, and docs/current/spine-refactoring-audit-2026-09-07.md, section 2; Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
+--   Cross-boundary collision residual recommended by the authors' closure plan (Adam McKenna, The Missing Pair, private repository: docs/current/e677-closure-plan-2026-08-04.md, section 3, and docs/current/spine-refactoring-audit-2026-09-07.md, section 2); Equational Theories Project blueprint, Chapter 13; Bolan et al., arXiv:2512.07087v2, Section 8, Problem 8.1.
 
 import Definitions.Def_FiniteMagmaE677
 

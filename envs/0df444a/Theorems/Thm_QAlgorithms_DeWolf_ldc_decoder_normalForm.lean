@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_ldc_decoder_normalForm
 -- name    : QAlgorithms.DeWolf.ldc_decoder_normalForm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:55.599161+00:00
 -- url     : https://prove2.me/theorems/e506b0dd-e91e-4922-a98f-3a215fa63171

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_green_tao_theorem
 -- name    : green_tao_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-06-01T02:01:54.454926+00:00
 -- url     : https://prove2.me/theorems/253207cf-5565-4904-bb42-d9e1783fb0c3

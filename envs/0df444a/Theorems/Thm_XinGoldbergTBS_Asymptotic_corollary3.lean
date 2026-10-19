@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_corollary3
 -- name    : XinGoldbergTBS.Asymptotic.corollary3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:27:56.923506+00:00
 -- url     : https://prove2.me/theorems/bd23f253-8e42-4353-a6ba-55164a6d4ea8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_shiftedHMatPoly_eq_quadPolyMat
 -- name    : BookProof.ShiftedQuadraticMatrix.shiftedHMatPoly_eq_quadPolyMat
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:45:34.946982+00:00
 -- url     : https://prove2.me/theorems/05c4025c-2e9d-4bbf-978f-9c67b9bda402

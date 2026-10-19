@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_GK_fixed_step_bound
 -- name    : QZeroSum19.GK.fixed_step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:58:31.928626+00:00
 -- url     : https://prove2.me/theorems/83fd27d1-eae6-4c15-a90b-54482902a996

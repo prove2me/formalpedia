@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_exists_zeta
 -- name    : BookProof.ChapterWignerSymmetry.exists_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:41:19.143482+00:00
 -- url     : https://prove2.me/theorems/5958be46-803e-40db-ab7b-eb91e2846e96

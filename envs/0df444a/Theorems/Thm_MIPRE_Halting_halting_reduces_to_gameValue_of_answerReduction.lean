@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_halting_reduces_to_gameValue_of_answerReduction
 -- name    : MIPRE.Halting.halting_reduces_to_gameValue_of_answerReduction
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:39:57.141248+00:00
 -- url     : https://prove2.me/theorems/702a18f2-ba45-4d15-8aea-7d60e30d0e15

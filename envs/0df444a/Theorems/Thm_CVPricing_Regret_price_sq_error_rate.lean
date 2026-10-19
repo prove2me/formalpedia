@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_Regret_price_sq_error_rate
 -- name    : CVPricing.Regret.price_sq_error_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:38:43.020623+00:00
 -- url     : https://prove2.me/theorems/ef220b1d-0f3b-4a76-b8fe-c80fa8c40672

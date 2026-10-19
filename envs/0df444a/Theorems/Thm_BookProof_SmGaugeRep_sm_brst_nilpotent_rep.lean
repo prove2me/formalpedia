@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmGaugeRep_sm_brst_nilpotent_rep
 -- name    : BookProof.SmGaugeRep.sm_brst_nilpotent_rep
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:57:30.911457+00:00
 -- url     : https://prove2.me/theorems/3ea7e725-0d60-4111-ba1f-0d4bcd272cd1

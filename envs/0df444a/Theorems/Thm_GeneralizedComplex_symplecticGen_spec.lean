@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralizedComplex_symplecticGen_spec
 -- name    : GeneralizedComplex.symplecticGen_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T23:55:19.345364+00:00
 -- url     : https://prove2.me/theorems/578d3950-b5f6-4174-b6e2-ca19f2d0a997

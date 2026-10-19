@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmGaugeConnection.dirac_gauge_field_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:11:11.452371+00:00
 -- url     : https://prove2.me/submissions/00fb99d9-77c6-4e91-9473-c9bfa2012d47
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmGaugeConnection.lean — solution of BookProof.SmGaugeConnection.dirac_gauge_field_esa
 import Mathlib

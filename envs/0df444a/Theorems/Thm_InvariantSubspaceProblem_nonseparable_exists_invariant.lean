@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_nonseparable_exists_invariant
 -- name    : InvariantSubspaceProblem.nonseparable_exists_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T17:22:03.508561+00:00
 -- url     : https://prove2.me/theorems/0ab87ce8-034c-4474-ac33-5a927b274fc8

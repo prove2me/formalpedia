@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneMeasurable_WeakMeasurableUnitaryGroup_genOp_bAvg
 -- name    : BookProof.ChapterStoneMeasurable.WeakMeasurableUnitaryGroup.genOp_bAvg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:11:09.005385+00:00
 -- url     : https://prove2.me/theorems/93e2a6ff-af45-4a2a-a6c3-7925bd709097

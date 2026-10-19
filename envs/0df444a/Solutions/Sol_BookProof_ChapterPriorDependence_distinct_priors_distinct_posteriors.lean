@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterPriorDependence.distinct_priors_distinct_posteriors
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:04:55.528741+00:00
 -- url     : https://prove2.me/submissions/f2252d7a-97c0-4fe3-92d6-9c1e8f5505f2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterPriorDependence.lean — solution of BookProof.ChapterPriorDependence.distinct_priors_distinct_posteriors
 import Mathlib

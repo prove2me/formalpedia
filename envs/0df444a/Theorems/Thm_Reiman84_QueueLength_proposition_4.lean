@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reiman84_QueueLength_proposition_4
 -- name    : Reiman84.QueueLength.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:06:43.26321+00:00
 -- url     : https://prove2.me/theorems/366195cb-a013-4222-9b85-84b861186470

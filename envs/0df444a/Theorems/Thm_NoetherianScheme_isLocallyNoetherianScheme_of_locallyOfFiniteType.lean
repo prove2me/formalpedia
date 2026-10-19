@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoetherianScheme_isLocallyNoetherianScheme_of_locallyOfFiniteType
 -- name    : NoetherianScheme.isLocallyNoetherianScheme_of_locallyOfFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-10T22:40:42.227151+00:00
 -- url     : https://prove2.me/theorems/0ad24ae6-bdcd-40fa-9d8f-279843afbbc4

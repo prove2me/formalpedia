@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_JacobiDeficiency_jacobiWeight_pos
 -- name    : BookProof.NavierStokesFlow.JacobiDeficiency.jacobiWeight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:17:56.185898+00:00
 -- url     : https://prove2.me/theorems/cdf47b57-f56a-4742-9310-c19c788d613b

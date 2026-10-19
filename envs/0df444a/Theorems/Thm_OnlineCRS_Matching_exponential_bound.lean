@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Matching_exponential_bound
 -- name    : OnlineCRS.Matching.exponential_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:19:23.779291+00:00
 -- url     : https://prove2.me/theorems/ebbda813-5887-4de6-b279-28b3ffdf48bf

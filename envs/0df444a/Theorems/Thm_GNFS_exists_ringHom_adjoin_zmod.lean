@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GNFS_exists_ringHom_adjoin_zmod
 -- name    : GNFS.exists_ringHom_adjoin_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:28:58.650392+00:00
 -- url     : https://prove2.me/theorems/a51f1490-7b8d-4054-b685-d6dcfb3065de

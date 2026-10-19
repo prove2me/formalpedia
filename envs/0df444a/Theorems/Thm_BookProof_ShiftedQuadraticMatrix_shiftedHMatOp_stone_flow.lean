@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticMatrix_shiftedHMatOp_stone_flow
 -- name    : BookProof.ShiftedQuadraticMatrix.shiftedHMatOp_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:49:13.900981+00:00
 -- url     : https://prove2.me/theorems/3979262b-91a6-4ca4-baad-fca986d24d48

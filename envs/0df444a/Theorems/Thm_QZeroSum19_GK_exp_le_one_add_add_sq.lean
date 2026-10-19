@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_GK_exp_le_one_add_add_sq
 -- name    : QZeroSum19.GK.exp_le_one_add_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:58:32.615651+00:00
 -- url     : https://prove2.me/theorems/f4cd357e-6366-4031-a6fb-a6a36396270f

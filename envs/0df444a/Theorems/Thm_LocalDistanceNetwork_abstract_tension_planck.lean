@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_abstract_tension_planck
 -- name    : LocalDistanceNetwork.abstract_tension_planck
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:32:26.36101+00:00
 -- url     : https://prove2.me/theorems/afedef3d-3a9c-419c-ad18-25b3a6ba2024

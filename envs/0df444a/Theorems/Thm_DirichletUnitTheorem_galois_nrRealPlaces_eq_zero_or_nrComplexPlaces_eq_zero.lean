@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_galois_nrRealPlaces_eq_zero_or_nrComplexPlaces_eq_zero
 -- name    : DirichletUnitTheorem.galois_nrRealPlaces_eq_zero_or_nrComplexPlaces_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:02.012991+00:00
 -- url     : https://prove2.me/theorems/600a3f03-fc1a-4322-92e6-28b68fc74fad

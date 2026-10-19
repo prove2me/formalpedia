@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighEntropyLimit_pure_stretch_moments
 -- name    : HighEntropyLimit.pure_stretch_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:59:11.052334+00:00
 -- url     : https://prove2.me/theorems/62f6bc37-95ae-4160-9b5a-60edb3de4137

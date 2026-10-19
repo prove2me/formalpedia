@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldieRenewal_Implicit_eq_9_12_9_13
 -- name    : GoldieRenewal.Implicit.eq_9_12_9_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:10:17.506984+00:00
 -- url     : https://prove2.me/theorems/abdb92a4-bcdc-4c19-b42a-f356453f4dc3

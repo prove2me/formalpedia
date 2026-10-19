@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_choose_le_two_pow_binEntropy
 -- name    : QAlgorithms.Arunachalam.choose_le_two_pow_binEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:06.855847+00:00
 -- url     : https://prove2.me/theorems/3631316a-0685-4973-a583-84f936bcf3e0

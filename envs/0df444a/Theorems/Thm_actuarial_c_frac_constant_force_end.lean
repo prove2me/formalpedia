@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_frac_constant_force_end
 -- name    : actuarial_c_frac_constant_force_end
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:40:56.744976+00:00
 -- url     : https://prove2.me/theorems/f617675c-71be-49fd-9cd3-93b6f5ef205e

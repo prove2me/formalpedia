@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_creVec_finsetSum
 -- name    : BookProof.QgCouplingDGammaSum.creVec_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:57:49.865358+00:00
 -- url     : https://prove2.me/theorems/b35c025b-c68f-4543-8b0b-770c2026cea6

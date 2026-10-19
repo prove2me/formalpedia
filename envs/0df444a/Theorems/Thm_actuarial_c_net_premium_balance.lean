@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_net_premium_balance
 -- name    : actuarial_c_net_premium_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:31:03.934985+00:00
 -- url     : https://prove2.me/theorems/a2ca0a9c-0515-4b90-8a4a-577e56ea4b42

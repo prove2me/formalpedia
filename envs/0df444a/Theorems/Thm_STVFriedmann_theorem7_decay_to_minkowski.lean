@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_theorem7_decay_to_minkowski
 -- name    : STVFriedmann.theorem7_decay_to_minkowski
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T02:01:38.335785+00:00
 -- url     : https://prove2.me/theorems/969c9d6c-4a03-434c-b438-bc7a06b5805b

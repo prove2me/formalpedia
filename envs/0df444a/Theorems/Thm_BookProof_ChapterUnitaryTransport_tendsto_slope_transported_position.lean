@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterUnitaryTransport_tendsto_slope_transported_position
 -- name    : BookProof.ChapterUnitaryTransport.tendsto_slope_transported_position
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:17:05.699448+00:00
 -- url     : https://prove2.me/theorems/586d0ce1-7419-43ae-ba8c-ce6a81c93020

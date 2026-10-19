@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_GottesmanIntro_noCloning
 -- name    : QAlgorithms.GottesmanIntro.noCloning
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T18:03:48.592842+00:00
 -- url     : https://prove2.me/theorems/f38f36bf-5767-4b21-91e9-7a65825933d6

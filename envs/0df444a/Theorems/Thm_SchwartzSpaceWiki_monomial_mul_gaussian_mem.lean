@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzSpaceWiki_monomial_mul_gaussian_mem
 -- name    : SchwartzSpaceWiki.monomial_mul_gaussian_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:13:23.656026+00:00
 -- url     : https://prove2.me/theorems/1af72413-1a99-4947-8a40-743f548c5e7d

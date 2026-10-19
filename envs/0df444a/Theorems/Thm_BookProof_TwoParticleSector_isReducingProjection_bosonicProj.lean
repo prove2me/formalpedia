@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_isReducingProjection_bosonicProj
 -- name    : BookProof.TwoParticleSector.isReducingProjection_bosonicProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:15:39.710116+00:00
 -- url     : https://prove2.me/theorems/189f1297-5150-45b8-8836-a04cce4e386b

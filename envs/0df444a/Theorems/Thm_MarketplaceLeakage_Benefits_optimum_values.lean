@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Benefits_optimum_values
 -- name    : MarketplaceLeakage.Benefits.optimum_values
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:05.997923+00:00
 -- url     : https://prove2.me/theorems/8b5870ea-e5e6-417e-accc-1b0124a63585

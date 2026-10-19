@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_Endogenous_reduced_game_A
 -- name    : RareDisease.Endogenous.reduced_game_A
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:07:16.103564+00:00
 -- url     : https://prove2.me/theorems/f2dec805-358d-46f0-a9ea-671f7112cff4

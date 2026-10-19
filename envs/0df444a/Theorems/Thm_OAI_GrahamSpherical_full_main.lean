@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GrahamSpherical_full_main
 -- name    : OAI.GrahamSpherical.full_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:42.794465+00:00
 -- url     : https://prove2.me/theorems/22db9aa3-94b0-45e6-9626-1740bb14a23f

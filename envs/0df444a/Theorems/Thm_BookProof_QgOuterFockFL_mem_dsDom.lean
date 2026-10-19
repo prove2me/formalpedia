@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_mem_dsDom
 -- name    : BookProof.QgOuterFockFL.mem_dsDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:45:37.999678+00:00
 -- url     : https://prove2.me/theorems/7413efdb-b1db-4ff8-be8f-157ac1602014

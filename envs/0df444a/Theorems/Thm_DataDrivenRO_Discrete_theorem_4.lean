@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenRO_Discrete_theorem_4
 -- name    : DataDrivenRO.Discrete.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:43:55.522255+00:00
 -- url     : https://prove2.me/theorems/d97316e3-8907-4713-84cd-d06ea498c582

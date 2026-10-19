@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_theorem_5
 -- name    : QuantumMC.MeanEst.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:27:19.173672+00:00
 -- url     : https://prove2.me/theorems/2136f828-6500-4191-b795-7e7c44fe29c2

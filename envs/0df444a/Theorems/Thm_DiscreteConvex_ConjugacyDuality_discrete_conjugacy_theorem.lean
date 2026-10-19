@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDuality_discrete_conjugacy_theorem
 -- name    : DiscreteConvex.ConjugacyDuality.discrete_conjugacy_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:11:50.540968+00:00
 -- url     : https://prove2.me/theorems/d9427bdf-0f99-4e48-b7b5-e8fc8e257e8e

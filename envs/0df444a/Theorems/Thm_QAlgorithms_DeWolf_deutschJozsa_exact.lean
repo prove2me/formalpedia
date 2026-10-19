@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_deutschJozsa_exact
 -- name    : QAlgorithms.DeWolf.deutschJozsa_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:28:59.894029+00:00
 -- url     : https://prove2.me/theorems/d6b26b2d-85e7-4961-8639-be742ed9bfe9

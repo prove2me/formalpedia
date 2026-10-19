@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_quadPolyMat_apply
 -- name    : BookProof.QuadraticRotation.quadPolyMat_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:23:30.255698+00:00
 -- url     : https://prove2.me/theorems/26edb4b2-7bdc-4a1f-9115-c47917edf216

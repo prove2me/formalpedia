@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HamburgerMoment_unique_of_abs_le_factorial
 -- name    : HamburgerMoment.unique_of_abs_le_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:04:23.219508+00:00
 -- url     : https://prove2.me/theorems/8aa3486d-502d-4cfe-a31d-fe2045be08fa

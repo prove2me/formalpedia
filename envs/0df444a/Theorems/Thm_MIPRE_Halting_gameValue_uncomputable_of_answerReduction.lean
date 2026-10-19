@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Halting_gameValue_uncomputable_of_answerReduction
 -- name    : MIPRE.Halting.gameValue_uncomputable_of_answerReduction
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:40:17.481124+00:00
 -- url     : https://prove2.me/theorems/48eba0f5-5338-4023-b39a-764a906fc7f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeparableQuotient_negative_main
 -- name    : OAI.SeparableQuotient.negative_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:19.458488+00:00
 -- url     : https://prove2.me/theorems/2ef142a2-f7bc-4ebd-a26c-30f920db0159

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Potential_lemmaA4_nondegenerate
 -- name    : StochFictPlay.Potential.lemmaA4_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:13:32.755677+00:00
 -- url     : https://prove2.me/theorems/5e1b5c4e-21b3-4874-a73e-e697551ac8da

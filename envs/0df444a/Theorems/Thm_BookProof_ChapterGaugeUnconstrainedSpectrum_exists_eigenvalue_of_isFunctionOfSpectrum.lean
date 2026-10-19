@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_exists_eigenvalue_of_isFunctionOfSpectrum
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.exists_eigenvalue_of_isFunctionOfSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:15:24.820213+00:00
 -- url     : https://prove2.me/theorems/f2c5b702-b9dc-4597-aca0-1b2cc4e62bd3

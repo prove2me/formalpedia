@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GNFS_card_sqrt_ne_pm_ge_half
 -- name    : GNFS.card_sqrt_ne_pm_ge_half
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T02:29:47.343082+00:00
 -- url     : https://prove2.me/theorems/14908692-9702-46b6-8785-f2a7a3517a8e

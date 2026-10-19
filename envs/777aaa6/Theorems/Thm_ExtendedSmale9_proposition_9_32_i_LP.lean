@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtendedSmale9_proposition_9_32_i_LP
 -- name    : ExtendedSmale9.proposition_9_32_i_LP
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T16:07:55.469344+00:00
 -- url     : https://prove2.me/theorems/968261a3-954e-4512-97e8-ec3560ca42df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GilesMLMC_Complexity_theorem_3_1
 -- name    : GilesMLMC.Complexity.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:22:45.727646+00:00
 -- url     : https://prove2.me/theorems/bcb5bcf7-ac19-4770-ab26-a53faeb0439a

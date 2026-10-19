@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracSpinor_dirac_field_esa
 -- name    : BookProof.SmDiracSpinor.dirac_field_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:29:06.964692+00:00
 -- url     : https://prove2.me/theorems/fa2c7a17-ecf5-44d2-865e-1bbe861109ab

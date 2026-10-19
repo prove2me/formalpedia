@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_bookOmega_nilpotent
 -- name    : BookProof.BookBrstYangMills.bookOmega_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:20:52.821754+00:00
 -- url     : https://prove2.me/theorems/c1ef3068-0de2-4cbc-884c-435d23cabee9

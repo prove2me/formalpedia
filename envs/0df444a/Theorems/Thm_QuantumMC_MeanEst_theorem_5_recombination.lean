@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_theorem_5_recombination
 -- name    : QuantumMC.MeanEst.theorem_5_recombination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:59.757541+00:00
 -- url     : https://prove2.me/theorems/a97ba752-e5a4-46af-8eb6-5f332ad8d1eb

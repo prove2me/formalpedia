@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_eq3_photino_rate
 -- name    : GoodmanWitten.eq3_photino_rate
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:54:57.18999+00:00
 -- url     : https://prove2.me/theorems/08736805-1507-44ba-91a3-601cbfc3e8ca

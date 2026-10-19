@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_continuous_zero_rate
 -- name    : ActuarialAnnuitiesContinuous.bc_continuous_zero_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:15:28.831977+00:00
 -- url     : https://prove2.me/theorems/c3f97888-b6a4-4d56-8912-5b410633c4e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_term_mass
 -- name    : actuarial_c_term_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:18:05.953143+00:00
 -- url     : https://prove2.me/theorems/dbe8ddd0-05d8-4e7e-9706-4b1441b30070

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumMC_MeanEst_theorem_5_l2_bound
 -- name    : QuantumMC.MeanEst.theorem_5_l2_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:27:06.261999+00:00
 -- url     : https://prove2.me/theorems/a372e09d-f9a4-4232-9e68-b55c267b6bc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MIPRE_Repetition_nonempty_seven
 -- name    : MIPRE.Repetition.nonempty_seven
--- status  : Open
+-- status  : Proved
 -- author  : @thomasvidick
 -- created : 2026-10-15T19:39:42.816648+00:00
 -- url     : https://prove2.me/theorems/3a2d03dc-4d4e-4266-a43d-b6e64873e04b

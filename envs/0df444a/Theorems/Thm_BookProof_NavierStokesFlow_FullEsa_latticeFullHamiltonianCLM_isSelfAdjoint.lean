@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_latticeFullHamiltonianCLM_isSelfAdjoint
 -- name    : BookProof.NavierStokesFlow.FullEsa.latticeFullHamiltonianCLM_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:13:04.76202+00:00
 -- url     : https://prove2.me/theorems/a3c58d90-cb01-4ed1-8214-0bf8d1d06bcc

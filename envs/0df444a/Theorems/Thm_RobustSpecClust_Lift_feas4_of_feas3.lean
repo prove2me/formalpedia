@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSpecClust_Lift_feas4_of_feas3
 -- name    : RobustSpecClust.Lift.feas4_of_feas3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:29.389585+00:00
 -- url     : https://prove2.me/theorems/8bd49d7e-5f81-43b3-8852-2f1d1b241aa9

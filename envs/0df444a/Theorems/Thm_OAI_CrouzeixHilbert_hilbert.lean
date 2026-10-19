@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CrouzeixHilbert_hilbert
 -- name    : OAI.CrouzeixHilbert.hilbert
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:31.164641+00:00
 -- url     : https://prove2.me/theorems/37a8ad83-c43a-49ec-8079-0b0bb960fc01

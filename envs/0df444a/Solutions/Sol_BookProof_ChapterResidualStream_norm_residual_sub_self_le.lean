@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterResidualStream.norm_residual_sub_self_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:51:56.503994+00:00
 -- url     : https://prove2.me/submissions/3794f88a-90f7-44bd-bba9-93a7ec24be54
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterResidualStream.lean — solution of BookProof.ChapterResidualStream.norm_residual_sub_self_le
 import Mathlib

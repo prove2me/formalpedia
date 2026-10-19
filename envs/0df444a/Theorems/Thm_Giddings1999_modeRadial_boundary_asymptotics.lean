@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Giddings1999_modeRadial_boundary_asymptotics
 -- name    : Giddings1999.modeRadial_boundary_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:49:50.597981+00:00
 -- url     : https://prove2.me/theorems/50f48e03-6293-4e55-886b-ee99bfb65a77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_optimal_weight_inverse_covariance
 -- name    : LocalDistanceNetwork.optimal_weight_inverse_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:27:50.361092+00:00
 -- url     : https://prove2.me/theorems/2a5a614b-223a-4982-9de5-9abb8dfc30fb

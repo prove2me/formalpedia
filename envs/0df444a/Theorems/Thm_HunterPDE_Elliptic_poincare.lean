@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Elliptic_poincare
 -- name    : HunterPDE.Elliptic.poincare
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:45:50.298709+00:00
 -- url     : https://prove2.me/theorems/7f281e16-f41b-45af-990a-3a603b0ce9f8

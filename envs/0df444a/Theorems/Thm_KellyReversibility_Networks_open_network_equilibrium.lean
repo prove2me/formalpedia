@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyReversibility_Networks_open_network_equilibrium
 -- name    : KellyReversibility.Networks.open_network_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:52:17.540299+00:00
 -- url     : https://prove2.me/theorems/c812840c-7d4a-41c0-93c5-4864d4c3bd80

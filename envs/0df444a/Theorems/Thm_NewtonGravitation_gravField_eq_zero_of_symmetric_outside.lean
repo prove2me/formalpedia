@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_gravField_eq_zero_of_symmetric_outside
 -- name    : NewtonGravitation.gravField_eq_zero_of_symmetric_outside
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:46:48.299661+00:00
 -- url     : https://prove2.me/theorems/d2a07c7b-3b47-4e35-9a32-7b3c099382ff

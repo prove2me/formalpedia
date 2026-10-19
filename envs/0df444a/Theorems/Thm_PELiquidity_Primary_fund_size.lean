@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PELiquidity_Primary_fund_size
 -- name    : PELiquidity.Primary.fund_size
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:07:56.915972+00:00
 -- url     : https://prove2.me/theorems/4740bfe1-051c-4711-ace9-091122a97969

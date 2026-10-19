@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_MVC_lemma_B_1
 -- name    : AccelVI.MVC.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:01:40.04761+00:00
 -- url     : https://prove2.me/theorems/99198fac-3f0d-4b08-8f11-045eaebbbefe

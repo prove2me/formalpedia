@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticDegenerate_shiftedHMatOp_symmetric_of_equilibrium
 -- name    : BookProof.ShiftedQuadraticDegenerate.shiftedHMatOp_symmetric_of_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:59:41.505975+00:00
 -- url     : https://prove2.me/theorems/85c8e639-4315-44fc-824e-5cabb8790662

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_NSFullData_hamiltonian_isSymmetricDom
 -- name    : BookProof.NavierStokesFlow.FullEsa.NSFullData.hamiltonian_isSymmetricDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:19:04.543009+00:00
 -- url     : https://prove2.me/theorems/1478a798-5a9f-4cc1-b50f-5f1fde9ddb3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Salad_theorem_4_2
 -- name    : EngagementOpt.Salad.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:52.984013+00:00
 -- url     : https://prove2.me/theorems/41706567-34d9-43ac-98f9-763365537db4

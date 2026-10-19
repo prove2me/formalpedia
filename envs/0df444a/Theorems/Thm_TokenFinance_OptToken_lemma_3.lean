@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_OptToken_lemma_3
 -- name    : TokenFinance.OptToken.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:31.215214+00:00
 -- url     : https://prove2.me/theorems/17ad5e8a-7935-4fe6-927b-34f38eb95d68

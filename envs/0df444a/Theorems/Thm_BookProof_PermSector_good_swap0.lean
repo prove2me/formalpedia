@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_PermSector_good_swap0
 -- name    : BookProof.PermSector.good_swap0
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:44:18.094723+00:00
 -- url     : https://prove2.me/theorems/d58a9fed-72e0-466f-8016-96ecd64483ab

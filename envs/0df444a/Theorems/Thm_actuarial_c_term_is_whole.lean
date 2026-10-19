@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_term_is_whole
 -- name    : actuarial_c_term_is_whole
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:17:52.890984+00:00
 -- url     : https://prove2.me/theorems/5689ab3d-875e-4944-86b8-d02d06492eb1

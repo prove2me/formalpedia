@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_KatoRellich_dense_range_add_bounded
 -- name    : BookProof.KatoRellich.dense_range_add_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T14:13:15.157843+00:00
 -- url     : https://prove2.me/theorems/66b53970-630c-4754-b70c-3cad748419ca

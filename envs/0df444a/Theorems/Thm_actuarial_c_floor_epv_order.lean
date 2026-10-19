@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_floor_epv_order
 -- name    : actuarial_c_floor_epv_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:23:11.262204+00:00
 -- url     : https://prove2.me/theorems/d39f07c2-5f8c-4285-9d9f-ed70d50e9150

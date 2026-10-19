@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThreeState_regular_supercritical
 -- name    : OAI.ThreeState.regular_supercritical
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:31.852357+00:00
 -- url     : https://prove2.me/theorems/d5ea19bd-1ef2-4c7d-a4c1-c415f6393d50

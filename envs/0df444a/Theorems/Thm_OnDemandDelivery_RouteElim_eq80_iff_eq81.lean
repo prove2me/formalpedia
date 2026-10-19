@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandDelivery_RouteElim_eq80_iff_eq81
 -- name    : OnDemandDelivery.RouteElim.eq80_iff_eq81
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:06.824379+00:00
 -- url     : https://prove2.me/theorems/de520d55-e18f-4f29-bb37-b95a3c380c9f

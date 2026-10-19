@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FullEsa_diagUnbounded_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FullEsa.diagUnbounded_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:23:52.857741+00:00
 -- url     : https://prove2.me/theorems/88ea7d3a-7f79-4a5f-a44b-33a26088fcc7

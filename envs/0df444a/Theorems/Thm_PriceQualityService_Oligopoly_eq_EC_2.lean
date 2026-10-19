@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Oligopoly_eq_EC_2
 -- name    : PriceQualityService.Oligopoly.eq_EC_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:15.969197+00:00
 -- url     : https://prove2.me/theorems/e32848e2-d5cb-4e4e-857d-7de79516d1d3

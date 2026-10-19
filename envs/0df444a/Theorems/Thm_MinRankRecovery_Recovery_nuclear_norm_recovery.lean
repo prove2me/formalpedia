@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinRankRecovery_Recovery_nuclear_norm_recovery
 -- name    : MinRankRecovery.Recovery.nuclear_norm_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:19.270975+00:00
 -- url     : https://prove2.me/theorems/6f5dfce8-5ec0-4440-a6b8-d06bf87b008d

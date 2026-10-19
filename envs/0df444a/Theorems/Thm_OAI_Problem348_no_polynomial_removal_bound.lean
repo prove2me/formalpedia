@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem348_no_polynomial_removal_bound
 -- name    : OAI.Problem348.no_polynomial_removal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:10.669621+00:00
 -- url     : https://prove2.me/theorems/04e3e84a-25a1-4a9a-88f0-05593f7b4b5a

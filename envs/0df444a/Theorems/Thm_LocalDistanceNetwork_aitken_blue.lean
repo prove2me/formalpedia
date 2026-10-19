@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDistanceNetwork_aitken_blue
 -- name    : LocalDistanceNetwork.aitken_blue
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T20:34:24.352408+00:00
 -- url     : https://prove2.me/theorems/0201750e-f344-4206-9f65-fbf705fb4836

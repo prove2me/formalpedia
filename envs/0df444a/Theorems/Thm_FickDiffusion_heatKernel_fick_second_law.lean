@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FickDiffusion_heatKernel_fick_second_law
 -- name    : FickDiffusion.heatKernel_fick_second_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:52.618206+00:00
 -- url     : https://prove2.me/theorems/fa188317-9fe0-4b3f-85a9-85f8a50bc597

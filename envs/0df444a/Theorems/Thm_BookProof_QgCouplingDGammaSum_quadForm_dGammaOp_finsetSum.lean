@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_quadForm_dGammaOp_finsetSum
 -- name    : BookProof.QgCouplingDGammaSum.quadForm_dGammaOp_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:17:49.629719+00:00
 -- url     : https://prove2.me/theorems/f0db5ea0-4385-4dc0-9b95-c35876eceb9a

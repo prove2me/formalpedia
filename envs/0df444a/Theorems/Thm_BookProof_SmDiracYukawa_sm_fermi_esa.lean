@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_sm_fermi_esa
 -- name    : BookProof.SmDiracYukawa.sm_fermi_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:49:29.449469+00:00
 -- url     : https://prove2.me/theorems/09ea69c1-f9f5-4870-a3c2-1cabdd81347a

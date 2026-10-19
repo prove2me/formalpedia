@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_Regret_optPrice_lipschitz
 -- name    : CVPricing.Regret.optPrice_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:14:50.95153+00:00
 -- url     : https://prove2.me/theorems/89455e45-f896-4f6d-a980-3af63e50adea

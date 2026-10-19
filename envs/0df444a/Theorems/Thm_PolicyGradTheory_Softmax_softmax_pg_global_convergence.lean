@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolicyGradTheory_Softmax_softmax_pg_global_convergence
 -- name    : PolicyGradTheory.Softmax.softmax_pg_global_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:51:43.578347+00:00
 -- url     : https://prove2.me/theorems/c51129d7-3b2a-4ea7-8c45-31df76db995a

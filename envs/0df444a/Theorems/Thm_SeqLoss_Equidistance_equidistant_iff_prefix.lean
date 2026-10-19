@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_Equidistance_equidistant_iff_prefix
 -- name    : SeqLoss.Equidistance.equidistant_iff_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:20.827944+00:00
 -- url     : https://prove2.me/theorems/4ba07ce0-4060-4552-a5b1-72132fbd8cff

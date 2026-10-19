@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_fractional_due_zero_term
 -- name    : actuarial_c_cont_fractional_due_zero_term
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:36:17.88445+00:00
 -- url     : https://prove2.me/theorems/e998b491-3315-49f9-af9a-cc0ede621755

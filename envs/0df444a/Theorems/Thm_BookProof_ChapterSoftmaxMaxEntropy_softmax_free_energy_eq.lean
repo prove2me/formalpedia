@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxMaxEntropy_softmax_free_energy_eq
 -- name    : BookProof.ChapterSoftmaxMaxEntropy.softmax_free_energy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:16:11.289992+00:00
 -- url     : https://prove2.me/theorems/074320c2-32bf-4f77-b9e6-b18028d60ff5

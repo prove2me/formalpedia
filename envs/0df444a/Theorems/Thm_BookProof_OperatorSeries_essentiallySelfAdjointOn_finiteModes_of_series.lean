@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OperatorSeries_essentiallySelfAdjointOn_finiteModes_of_series
 -- name    : BookProof.OperatorSeries.essentiallySelfAdjointOn_finiteModes_of_series
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T21:31:46.194987+00:00
 -- url     : https://prove2.me/theorems/df747d8a-5d2a-445b-8c5b-323ad71becf4

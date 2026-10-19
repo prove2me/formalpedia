@@ -10,18 +10,18 @@
 {"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
 {"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
 {"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
-{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
-{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
-{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
-{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
-{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
-{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
-{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
-{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
-{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
-{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
-{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
-{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
 {"parent": "Goldbach.chen_theorem", "child": "Goldbach.chen_theorem_even_below_threshold", "via": ["solution"]}
 {"parent": "Goldbach.chen_theorem", "child": "Goldbach.chen_theorem_sieve", "via": ["solution"]}
 {"parent": "GoldbachActiveRoundedData.all_active_and_aligned_objectives_lt_ceiling", "child": "GoldbachActiveRoundedData", "via": ["solution", "statement"]}
@@ -639,9 +639,9 @@
 {"parent": "PalisConjecture.exists_unique_flow", "child": "palis_cr_topology", "via": ["statement"]}
 {"parent": "PalisConjecture.exists_unique_flow", "child": "palis_lebesgue_null", "via": ["statement"]}
 {"parent": "PalisConjecture.exists_unique_flow", "child": "palis_vector_field", "via": ["statement"]}
-{"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_attractor", "via": ["statement"]}
+{"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_attractor", "via": ["solution", "statement"]}
 {"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_cr_topology", "via": ["statement"]}
-{"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_lebesgue_null", "via": ["statement"]}
+{"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_lebesgue_null", "via": ["solution", "statement"]}
 {"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_vector_field", "via": ["statement"]}
 {"parent": "PalisConjecture.palis_conjecture", "child": "palis_attractor", "via": ["statement"]}
 {"parent": "PalisConjecture.palis_conjecture", "child": "palis_cr_topology", "via": ["statement"]}
@@ -664,10 +664,10 @@
 {"parent": "PalisConjecture.peixoto_orientable_surface_flows", "child": "palis_lebesgue_null", "via": ["statement"]}
 {"parent": "PalisConjecture.peixoto_orientable_surface_flows", "child": "palis_orientable", "via": ["statement"]}
 {"parent": "PalisConjecture.peixoto_orientable_surface_flows", "child": "palis_vector_field", "via": ["statement"]}
-{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_attractor", "via": ["statement"]}
-{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_cr_topology", "via": ["statement"]}
-{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_lebesgue_null", "via": ["statement"]}
-{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_vector_field", "via": ["statement"]}
+{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_attractor", "via": ["solution", "statement"]}
+{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_cr_topology", "via": ["solution", "statement"]}
+{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_lebesgue_null", "via": ["solution", "statement"]}
+{"parent": "PalisConjecture.sink_is_attractor", "child": "palis_vector_field", "via": ["solution", "statement"]}
 {"parent": "WeakGoldbach.even_goldbach_above_4e18", "child": "WeakGoldbach.symmetric_prime_pair_above_2e18", "via": ["solution"]}
 {"parent": "WeakGoldbach.prime_power_part_le_above_2e18", "child": "WeakGoldbach.singular_series_factor_ge_one", "via": ["solution"]}
 {"parent": "WeakGoldbach.symmetric_pair_count_pos_above_2e18", "child": "WeakGoldbach.singular_series_factor_ge_one", "via": ["solution"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Weyl_relativeBound_eq_zero
 -- name    : TeschlQM.Weyl.relativeBound_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T23:41:25.994314+00:00
 -- url     : https://prove2.me/theorems/ec4a7cf4-c20e-43d0-bff5-dd8dd57458d7

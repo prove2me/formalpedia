@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_qgOuterCore_le_friedDom
 -- name    : BookProof.QgOuterFockFL.qgOuterCore_le_friedDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:46:30.510972+00:00
 -- url     : https://prove2.me/theorems/440bc2b2-b366-4cc7-bb0a-2fa04b59ea21

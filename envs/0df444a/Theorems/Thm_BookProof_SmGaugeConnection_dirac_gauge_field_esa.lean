@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmGaugeConnection_dirac_gauge_field_esa
 -- name    : BookProof.SmGaugeConnection.dirac_gauge_field_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:55:28.52798+00:00
 -- url     : https://prove2.me/theorems/b94cd53e-a5e1-4413-b47e-6fb992cafb24

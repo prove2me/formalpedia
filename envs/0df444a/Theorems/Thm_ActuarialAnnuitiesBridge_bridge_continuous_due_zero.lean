@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_bridge_continuous_due_zero
 -- name    : ActuarialAnnuitiesBridge.bridge_continuous_due_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:37:37.501276+00:00
 -- url     : https://prove2.me/theorems/a5f83dc1-d665-4663-aef6-2a40625806de

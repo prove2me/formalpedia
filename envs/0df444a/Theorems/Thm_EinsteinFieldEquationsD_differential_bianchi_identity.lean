@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_differential_bianchi_identity
 -- name    : EinsteinFieldEquationsD.differential_bianchi_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:12:35.40426+00:00
 -- url     : https://prove2.me/theorems/825e611a-f1f5-4031-8e78-513742007a8c

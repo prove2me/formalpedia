@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_nsCauchy_existsUnique
 -- name    : BookProof.NavierStokesFlow.nsCauchy_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:16:37.184953+00:00
 -- url     : https://prove2.me/theorems/4a17c961-b7cc-4765-a06a-b45b0ef9f362

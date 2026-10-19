@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmBrstGhost.matterGen_comm_ghostCre
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:34:50.285671+00:00
 -- url     : https://prove2.me/submissions/d5ec57fe-bcd6-48aa-9862-61c6f0f7835f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmBrstGhost.lean — solution of BookProof.SmBrstGhost.matterGen_comm_ghostCre
 import Mathlib

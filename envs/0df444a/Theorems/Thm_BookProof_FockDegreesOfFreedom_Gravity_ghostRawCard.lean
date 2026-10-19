@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockDegreesOfFreedom_Gravity_ghostRawCard
 -- name    : BookProof.FockDegreesOfFreedom.Gravity.ghostRawCard
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:22:59.28628+00:00
 -- url     : https://prove2.me/theorems/844c2b8e-a16a-442e-8565-172064624a4c

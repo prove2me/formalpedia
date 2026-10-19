@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_fdStarAlgebra_exists_matrixUnits
 -- name    : HarlowTASI.fdStarAlgebra_exists_matrixUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T15:20:20.837978+00:00
 -- url     : https://prove2.me/theorems/83215c6e-3e19-484c-bfc8-33ed1772cb1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodmanWitten_odd_nucleus_rate_ratio
 -- name    : GoodmanWitten.odd_nucleus_rate_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:56:14.441475+00:00
 -- url     : https://prove2.me/theorems/51d6be56-2995-4d7c-b60f-ed2959c8d20b

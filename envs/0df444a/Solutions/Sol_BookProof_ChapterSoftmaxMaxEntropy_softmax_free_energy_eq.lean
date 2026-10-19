@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSoftmaxMaxEntropy.softmax_free_energy_eq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:33:23.862622+00:00
 -- url     : https://prove2.me/submissions/7d116772-3bfb-4c12-b119-b77e307578b4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSoftmaxMaxEntropy.lean — solution of BookProof.ChapterSoftmaxMaxEntropy.softmax_free_energy_eq
 import Mathlib

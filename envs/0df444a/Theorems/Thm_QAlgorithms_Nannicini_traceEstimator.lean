@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_traceEstimator
 -- name    : QAlgorithms.Nannicini.traceEstimator
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-13T17:54:06.638703+00:00
 -- url     : https://prove2.me/theorems/8bb74e38-1021-45c4-8c7b-e945224e11df

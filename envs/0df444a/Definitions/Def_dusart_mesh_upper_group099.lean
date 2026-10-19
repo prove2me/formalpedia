@@ -1,0 +1,28 @@
+-- Prove2me | Definitions.Def_dusart_mesh_upper_group099
+-- name    : dusart_mesh_upper_group099
+-- status  : Definition
+-- author  : @abcdefg
+-- created : 2026-10-16T22:53:05.515615+00:00
+-- url     : https://prove2.me/theorems/44a26aae-810b-45eb-9df8-877798d959b6
+-- title:
+--   Dusart finite mesh: generic_aggregate
+-- statement:
+--   The generic_aggregate component of the finite certificate for the fourth-power logarithmic Chebyshev theta bound. This module supplies the data structures and necessary proved helper interfaces used by the finite verification. All supporting claims in this file include complete Lean proofs; imported platform theorems are already proved.
+-- source:
+--   Pierre Dusart, Explicit estimates of some functions over primes, Ramanujan J. 45 (2018), 227–251, Theorem 4.2 (k=4, eta=151.3, x0=2), pp. 234–237; DOI 10.1007/s11139-016-9839-4. Supporting finite mesh and proper-divisor certificate formalization for TaoFivePrimes.dusart_theta_log_four_finite_mesh_certificate.
+
+import Definitions.Def_dusart_mesh_upper_group099_part00
+import Definitions.Def_dusart_mesh_upper_group099_part01
+import Definitions.Def_dusart_mesh_upper_group099_part02
+import Definitions.Def_dusart_mesh_upper_group099_part03
+import Definitions.Def_dusart_mesh_upper_group099_part04
+set_option maxHeartbeats 0
+set_option maxRecDepth 200000
+namespace DusartFinitePlain
+theorem g99 : DusartNumeric.GenericSpec 427155712 435544320 427138220410921 435523149688470 := by
+ intro S step compose
+ exact (compose (g99_part0 S step @compose) (compose (g99_part1 S step @compose) (compose (g99_part2 S step @compose) (compose (g99_part3 S step @compose) (g99_part4 S step @compose)))))
+end DusartFinitePlain
+#print axioms DusartFinitePlain.g99
+
+

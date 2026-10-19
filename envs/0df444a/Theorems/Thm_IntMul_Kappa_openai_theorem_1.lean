@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_openai_theorem_1
 -- name    : IntMul.Kappa.openai_theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-08T17:47:40.586983+00:00
 -- url     : https://prove2.me/theorems/60e37d6f-88a9-4bc4-b925-6e7ec3460fc3

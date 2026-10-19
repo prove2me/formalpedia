@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSGE_nk_equilibrium_iff_forward
 -- name    : DSGE.nk_equilibrium_iff_forward
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:04.278691+00:00
 -- url     : https://prove2.me/theorems/d7db7704-9fea-4f36-8cee-31d23b026056

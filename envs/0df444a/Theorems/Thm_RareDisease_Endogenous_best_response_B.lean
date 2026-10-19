@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RareDisease_Endogenous_best_response_B
 -- name    : RareDisease.Endogenous.best_response_B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:07:05.668637+00:00
 -- url     : https://prove2.me/theorems/078aed17-3d94-4161-8e9a-50dd666c6fa4

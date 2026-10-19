@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PereiraGuimaraesElko_density_pressure_eq_2_9_2_10
 -- name    : PereiraGuimaraesElko.density_pressure_eq_2_9_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:51:46.104708+00:00
 -- url     : https://prove2.me/theorems/65d26bb2-2190-4f2d-8cce-ee5a17927c00

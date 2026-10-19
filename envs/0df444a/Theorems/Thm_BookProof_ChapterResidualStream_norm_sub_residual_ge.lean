@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterResidualStream_norm_sub_residual_ge
 -- name    : BookProof.ChapterResidualStream.norm_sub_residual_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:59:59.334984+00:00
 -- url     : https://prove2.me/theorems/c260b5b1-11f4-458d-805b-0c43f46c9b92

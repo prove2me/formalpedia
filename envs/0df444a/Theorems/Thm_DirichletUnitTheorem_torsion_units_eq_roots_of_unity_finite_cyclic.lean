@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirichletUnitTheorem_torsion_units_eq_roots_of_unity_finite_cyclic
 -- name    : DirichletUnitTheorem.torsion_units_eq_roots_of_unity_finite_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:18.525031+00:00
 -- url     : https://prove2.me/theorems/cc8afec5-72a1-425d-9105-1b9f4dbcc60a

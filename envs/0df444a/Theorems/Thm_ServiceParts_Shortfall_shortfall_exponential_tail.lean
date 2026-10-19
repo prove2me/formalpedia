@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_shortfall_exponential_tail
 -- name    : ServiceParts.Shortfall.shortfall_exponential_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:32:03.925039+00:00
 -- url     : https://prove2.me/theorems/c5496e78-e245-4961-9274-5a223d242e9b

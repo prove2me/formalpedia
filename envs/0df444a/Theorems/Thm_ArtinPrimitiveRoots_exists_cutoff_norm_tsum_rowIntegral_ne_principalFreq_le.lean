@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_exists_cutoff_norm_tsum_rowIntegral_ne_principalFreq_le
 -- name    : ArtinPrimitiveRoots.exists_cutoff_norm_tsum_rowIntegral_ne_principalFreq_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T12:58:31.137449+00:00
 -- url     : https://prove2.me/theorems/acc3edd1-44a5-4128-ae13-9d93e806d407

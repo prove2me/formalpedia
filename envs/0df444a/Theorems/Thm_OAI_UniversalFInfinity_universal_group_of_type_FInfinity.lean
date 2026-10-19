@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_UniversalFInfinity_universal_group_of_type_FInfinity
 -- name    : OAI.UniversalFInfinity.universal_group_of_type_FInfinity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:36.993159+00:00
 -- url     : https://prove2.me/theorems/ae5d189b-c83c-40bf-82b6-8bc175fea4aa

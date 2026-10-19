@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_AffineFiber_affH_coord_succ
 -- name    : BookProof.NavierStokesFlow.AffineFiber.affH_coord_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T16:49:07.806233+00:00
 -- url     : https://prove2.me/theorems/8f73cd51-e4db-439f-90ca-671de6c84c37

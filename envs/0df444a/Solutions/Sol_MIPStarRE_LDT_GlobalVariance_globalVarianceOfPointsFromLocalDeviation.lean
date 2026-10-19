@@ -1,0 +1,725 @@
+-- Prove2me | solution 1 for MIPStarRE.LDT.GlobalVariance.globalVarianceOfPointsFromLocalDeviation
+-- status  : ACCEPTED   (prove)
+-- author  : @thomasvidick
+-- created : 2026-10-17T04:30:13.574641+00:00
+-- url     : https://prove2.me/submissions/b7e823dc-2852-4b76-bc81-a637d3a581a9
+
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/GlobalVariance/Theorems/MainTheorems.lean
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/ExpansionHypercubeGraph/Theorems/Foundations.lean
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/ExpansionHypercubeGraph/Theorems/Matrix.lean
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/ExpansionHypercubeGraph/Theorems/Results.lean
+-/
+/-
+Copyright (c) 2026 Sirui Lu and the MIPStarRE contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE, with the
+authors' permission. Vendored from https://github.com/LionSR/MIPStarRE
+(commit 507e8122, 2026-08-25) by scripts/vendor-lidt.py; do not edit by hand.
+Upstream path: MIPStarRE/LDT/GlobalVariance/Theorems/AlgebraicIdentity.lean
+-/
+/- Generated for Prove2Me from vidick/MIPRE-formalization@70cbf1c, MIPRE/Background/LIDT/MIPStarRE/LDT/GlobalVariance/Theorems/MainTheorems.lean (solution of MIPStarRE.LDT.GlobalVariance.globalVarianceOfPointsFromLocalDeviation);
+   produced mechanically by prove2me/tools/gen.py, never edited by hand. -/
+
+import Mathlib.Algebra.Algebra.Basic
+import Mathlib.Algebra.Algebra.Defs
+import Mathlib.Algebra.Algebra.Equiv
+import Mathlib.Algebra.Algebra.Hom
+import Mathlib.Algebra.Algebra.NonUnitalHom
+import Mathlib.Algebra.Algebra.Rat
+import Mathlib.Algebra.Algebra.Spectrum.Basic
+import Mathlib.Algebra.Algebra.Spectrum.Quasispectrum
+import Mathlib.Algebra.BigOperators.Expect
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Finsupp.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.GroupWithZero.Action
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Pi
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.CharP.Defs
+import Mathlib.Algebra.CharP.Invertible
+import Mathlib.Algebra.CharZero.Defs
+import Mathlib.Algebra.Field.Basic
+import Mathlib.Algebra.Field.Defs
+import Mathlib.Algebra.Field.IsField
+import Mathlib.Algebra.Field.Rat
+import Mathlib.Algebra.Group.Action.Defs
+import Mathlib.Algebra.Group.Action.Pi
+import Mathlib.Algebra.Group.AddChar
+import Mathlib.Algebra.Group.Basic
+import Mathlib.Algebra.Group.Commute.Defs
+import Mathlib.Algebra.Group.Defs
+import Mathlib.Algebra.Group.Fin.Basic
+import Mathlib.Algebra.Group.Finsupp
+import Mathlib.Algebra.Group.Hom.Defs
+import Mathlib.Algebra.Group.Invertible.Defs
+import Mathlib.Algebra.Group.Nat.Defs
+import Mathlib.Algebra.Group.Pi.Basic
+import Mathlib.Algebra.Group.Subgroup.Defs
+import Mathlib.Algebra.Group.Submonoid.Defs
+import Mathlib.Algebra.Group.Subsemigroup.Defs
+import Mathlib.Algebra.Group.Units.Basic
+import Mathlib.Algebra.Group.Units.Defs
+import Mathlib.Algebra.GroupWithZero.Action.Defs
+import Mathlib.Algebra.GroupWithZero.Basic
+import Mathlib.Algebra.GroupWithZero.Defs
+import Mathlib.Algebra.GroupWithZero.Hom
+import Mathlib.Algebra.GroupWithZero.Invertible
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.GroupWithZero.NeZero
+import Mathlib.Algebra.GroupWithZero.Units.Basic
+import Mathlib.Algebra.Module.BigOperators
+import Mathlib.Algebra.Module.Defs
+import Mathlib.Algebra.Module.LinearMap.Defs
+import Mathlib.Algebra.Module.NatInt
+import Mathlib.Algebra.Module.Pi
+import Mathlib.Algebra.Module.Submodule.Defs
+import Mathlib.Algebra.MonoidAlgebra.Basic
+import Mathlib.Algebra.MonoidAlgebra.Defs
+import Mathlib.Algebra.MonoidAlgebra.Module
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Degrees
+import Mathlib.Algebra.MvPolynomial.Eval
+import Mathlib.Algebra.MvPolynomial.Polynomial
+import Mathlib.Algebra.MvPolynomial.Rename
+import Mathlib.Algebra.MvPolynomial.SchwartzZippel
+import Mathlib.Algebra.NeZero
+import Mathlib.Algebra.Notation.Defs
+import Mathlib.Algebra.Notation.Pi.Basic
+import Mathlib.Algebra.Notation.Pi.Defs
+import Mathlib.Algebra.Opposites
+import Mathlib.Algebra.Order.Archimedean.Real.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Defs
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Defs
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Group.Unbundled.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Basic
+import Mathlib.Algebra.Order.GroupWithZero.Canonical
+import Mathlib.Algebra.Order.GroupWithZero.Defs
+import Mathlib.Algebra.Order.IsBotOne
+import Mathlib.Algebra.Order.Module.Defs
+import Mathlib.Algebra.Order.Monoid.Defs
+import Mathlib.Algebra.Order.Monoid.NatCast
+import Mathlib.Algebra.Order.Monoid.Unbundled.Basic
+import Mathlib.Algebra.Order.Monoid.Unbundled.Defs
+import Mathlib.Algebra.Order.Nonneg.Basic
+import Mathlib.Algebra.Order.Nonneg.Module
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Defs
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Algebra.Order.Ring.Unbundled.Basic
+import Mathlib.Algebra.Order.Star.Basic
+import Mathlib.Algebra.Order.Star.Real
+import Mathlib.Algebra.Order.Sub.Defs
+import Mathlib.Algebra.Order.SuccPred
+import Mathlib.Algebra.Order.ZeroLEOne
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Defs
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Degree.Operations
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Algebra.QuadraticDiscriminant
+import Mathlib.Algebra.Ring.Commute
+import Mathlib.Algebra.Ring.CompTypeclasses
+import Mathlib.Algebra.Ring.Defs
+import Mathlib.Algebra.Ring.Hom.Defs
+import Mathlib.Algebra.Ring.Int.Defs
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Algebra.Star.Basic
+import Mathlib.Algebra.Star.Module
+import Mathlib.Algebra.Star.SelfAdjoint
+import Mathlib.Algebra.Star.StarProjection
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Instances
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.NonUnital
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Unital
+import Mathlib.Analysis.CStarAlgebra.Module.Constructions
+import Mathlib.Analysis.CStarAlgebra.Module.Defs
+import Mathlib.Analysis.Complex.Basic
+import Mathlib.Analysis.Complex.Exponential
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Complex.Order
+import Mathlib.Analysis.Convex.Cone.Basic
+import Mathlib.Analysis.Fourier.FiniteAbelian.Orthogonality
+import Mathlib.Analysis.Fourier.ZMod
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Defs
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.LocallyConvex.WithSeminorms
+import Mathlib.Analysis.Matrix.Hermitian
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Normed
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.MeanInequalitiesPow
+import Mathlib.Analysis.Normed.Field.Basic
+import Mathlib.Analysis.Normed.Field.Lemmas
+import Mathlib.Analysis.Normed.Group.Basic
+import Mathlib.Analysis.Normed.Group.Defs
+import Mathlib.Analysis.Normed.Group.Real
+import Mathlib.Analysis.Normed.Lp.PiLp
+import Mathlib.Analysis.Normed.Lp.WithLp
+import Mathlib.Analysis.Normed.Module.Basic
+import Mathlib.Analysis.Normed.Ring.Basic
+import Mathlib.Analysis.RCLike.Basic
+import Mathlib.Analysis.Real.Spectrum
+import Mathlib.Analysis.Real.Sqrt
+import Mathlib.Analysis.SpecialFunctions.Complex.CircleAddChar
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Basic
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Complex.BigOperators
+import Mathlib.Data.Countable.Defs
+import Mathlib.Data.ENNReal.Basic
+import Mathlib.Data.ENNReal.BigOperators
+import Mathlib.Data.ENNReal.Inv
+import Mathlib.Data.ENNReal.Operations
+import Mathlib.Data.ENNReal.Real
+import Mathlib.Data.Fin.SuccPred
+import Mathlib.Data.Finite.Defs
+import Mathlib.Data.Finite.Prod
+import Mathlib.Data.Finset.Attach
+import Mathlib.Data.Finset.BooleanAlgebra
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Defs
+import Mathlib.Data.Finset.Empty
+import Mathlib.Data.Finset.Erase
+import Mathlib.Data.Finset.Filter
+import Mathlib.Data.Finset.Image
+import Mathlib.Data.Finset.Insert
+import Mathlib.Data.Finset.Lattice.Basic
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finsupp.Defs
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.Defs
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.OfMap
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sets
+import Mathlib.Data.FunLike.Basic
+import Mathlib.Data.FunLike.Embedding
+import Mathlib.Data.FunLike.Equiv
+import Mathlib.Data.Int.Cast.Basic
+import Mathlib.Data.Int.Cast.Defs
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.NodupEquivFin
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Sort
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Matrix.Basis
+import Mathlib.Data.Matrix.Block
+import Mathlib.Data.Matrix.Diagonal
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Multiset.Bind
+import Mathlib.Data.Multiset.Count
+import Mathlib.Data.Multiset.Defs
+import Mathlib.Data.Multiset.Filter
+import Mathlib.Data.Multiset.MapFold
+import Mathlib.Data.Multiset.ZeroCons
+import Mathlib.Data.NNRat.Defs
+import Mathlib.Data.NNReal.Defs
+import Mathlib.Data.NNReal.Star
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Cast.Basic
+import Mathlib.Data.Nat.Cast.Defs
+import Mathlib.Data.Nat.Cast.Order.Basic
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Init
+import Mathlib.Data.Nat.Prime.Defs
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Prod.Basic
+import Mathlib.Data.Rat.Cast.CharZero
+import Mathlib.Data.Rat.Cast.Defs
+import Mathlib.Data.Rat.Cast.Lemmas
+import Mathlib.Data.Rat.Cast.Order
+import Mathlib.Data.Rat.Init
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Real.Star
+import Mathlib.Data.Set.Defs
+import Mathlib.Data.Set.Operations
+import Mathlib.Data.SetLike.Basic
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Data.ZMod.Defs
+import Mathlib.FieldTheory.Finite.GaloisField
+import Mathlib.Geometry.Convex.Cone.Pointed
+import Mathlib.GroupTheory.GroupAction.Hom
+import Mathlib.GroupTheory.GroupAction.Ring
+import Mathlib.LinearAlgebra.Complex.Module
+import Mathlib.LinearAlgebra.Matrix.CharP
+import Mathlib.LinearAlgebra.Matrix.Charpoly.Basic
+import Mathlib.LinearAlgebra.Matrix.ConjTranspose
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.DotProduct
+import Mathlib.LinearAlgebra.Matrix.Hermitian
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Reindex
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.UnitaryGroup
+import Mathlib.Logic.Basic
+import Mathlib.Logic.Embedding.Basic
+import Mathlib.Logic.Equiv.Defs
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Function.Basic
+import Mathlib.Logic.Function.Defs
+import Mathlib.Logic.IsEmpty.Basic
+import Mathlib.Logic.IsEmpty.Defs
+import Mathlib.Logic.Nonempty
+import Mathlib.Logic.Nontrivial.Defs
+import Mathlib.Logic.Unique
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.MeasurableSpace.Defs
+import Mathlib.NumberTheory.LegendreSymbol.AddCharacter
+import Mathlib.Order.Basic
+import Mathlib.Order.Defs.LinearOrder
+import Mathlib.Order.Defs.PartialOrder
+import Mathlib.Order.Fin.Basic
+import Mathlib.Order.Hom.Basic
+import Mathlib.Order.Lattice
+import Mathlib.Order.Lattice.Nat
+import Mathlib.Order.MinMax
+import Mathlib.Order.Monotone.Defs
+import Mathlib.Order.Nat
+import Mathlib.Order.Notation
+import Mathlib.Order.RelClasses
+import Mathlib.Order.SetNotation
+import Mathlib.Probability.Distributions.Uniform
+import Mathlib.Probability.ProbabilityMassFunction.Basic
+import Mathlib.Probability.ProbabilityMassFunction.Constructions
+import Mathlib.Probability.ProbabilityMassFunction.Integrals
+import Mathlib.Probability.ProbabilityMassFunction.Monad
+import Mathlib.RingTheory.Henselian
+import Mathlib.RingTheory.LocalRing.Defs
+import Mathlib.RingTheory.MvPolynomial.Basic
+import Mathlib.RingTheory.RegularLocalRing.Defs
+import Mathlib.RingTheory.SimpleRing.Basic
+import Mathlib.RingTheory.SimpleRing.Principal
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.CancelDenoms.Core
+import Mathlib.Tactic.FieldSimp.Lemmas
+import Mathlib.Tactic.Linarith.Lemmas
+import Mathlib.Tactic.NormNum.Basic
+import Mathlib.Tactic.NormNum.Eq
+import Mathlib.Tactic.NormNum.Ineq
+import Mathlib.Tactic.NormNum.Inv
+import Mathlib.Tactic.NormNum.Pow
+import Mathlib.Tactic.NormNum.Result
+import Mathlib.Tactic.Positivity.Core
+import Mathlib.Tactic.Ring.Basic
+import Mathlib.Tactic.Ring.Common
+import Mathlib.Tactic.Ring.RingNF
+import Mathlib.Topology.Algebra.Field
+import Mathlib.Topology.Algebra.InfiniteSum.Basic
+import Mathlib.Topology.Algebra.InfiniteSum.Defs
+import Mathlib.Topology.Algebra.InfiniteSum.ENNReal
+import Mathlib.Topology.Algebra.InfiniteSum.SummationFilter
+import Mathlib.Topology.Algebra.Module.ClosedSubmodule
+import Mathlib.Topology.Algebra.Module.ContinuousLinearMap.Basic
+import Mathlib.Topology.Algebra.Module.LocallyConvex
+import Mathlib.Topology.Algebra.Monoid
+import Mathlib.Topology.Algebra.Monoid.Defs
+import Mathlib.Topology.Algebra.Ring.Basic
+import Mathlib.Topology.Algebra.Ring.Real
+import Mathlib.Topology.Algebra.Star.Real
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Basic
+import Mathlib.Topology.Constructions
+import Mathlib.Topology.Continuous
+import Mathlib.Topology.ContinuousOn
+import Mathlib.Topology.Defs.Basic
+import Mathlib.Topology.EMetricSpace.Defs
+import Mathlib.Topology.Instances.Matrix
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Defs
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+import Mathlib.Topology.Metrizable.Basic
+import Mathlib.Topology.Metrizable.Uniformity
+import Mathlib.Topology.Order.OrderClosed
+import Mathlib.Topology.Order.Real
+import Mathlib.Topology.Separation.Hausdorff
+import Mathlib.Topology.UniformSpace.Defs
+import Mathlib.Topology.UniformSpace.Real
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersBase
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_AxisParallelLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_DiagonalLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LowDegreePolynomial
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_TracePairing
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_NormalizedTrace
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_QuantumState
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OperatorExpectations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_SubMeasurementFamilies
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_PMFAverages
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_OpFamily
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_Quantum_Measurement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_MakingMeasurementsProjective_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_MeasurementLift
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Defs
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ComparisonCore
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_DistanceBounds
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_ConsistencyBridges
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichPrep_InnerProduct
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_SwitchSandwichMain_Completeness
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_BipartiteSelfConsistency_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CauchySchwarz
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_CompletionTransfer
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyFailures
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_Polynomials
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_Preliminaries_PolynomialAgreement
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Operators
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Defs_Families
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Defs_Fourier
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_MatrixRealization_TraceForms
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Foundations
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Matrix
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_ExpansionHypercubeGraph_Theorems_Results
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Averaging
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_Statements
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_AlgebraicIdentity
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_CollisionExpansion
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransport_PointLine
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_TransportChain_Core
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_SelfConsistencyTransportSum
+import Definitions.Def_MIPRE_Background_LIDT_MIPStarRE_LDT_GlobalVariance_Theorems_PolynomialSumBounds
+import Theorems.Thm_MIPStarRE_LDT_ExpansionHypercubeGraph_matrixGlobalVariance_eq_closedForm
+import Theorems.Thm_MIPStarRE_LDT_ExpansionHypercubeGraph_matrixLocalVarianceTraceForm_eq_closedForm
+import Theorems.Thm_MIPStarRE_LDT_GlobalVariance_avgOver_polynomialDistribution_le_of_pointwise
+import Theorems.Thm_MIPStarRE_LDT_GlobalVariance_globalVarianceDeviationAtPolynomial_le_m_localVarianceDeviationAtPolynomial
+import Theorems.Thm_MIPStarRE_LDT_GlobalVariance_localVarianceOfPointsFromEdgeDeviation
+import Theorems.Thm_MIPStarRE_LDT_GlobalVariance_sddRel_unit_family_of_pointwise
+import Theorems.Thm_MIPStarRE_LDT_avgOver_congr
+import Theorems.Thm_MIPStarRE_LDT_avgOver_zero
+
+/-! Helper declarations, pasted verbatim from the source modules with their
+namespace and `open` context, each used only by proofs, interleaved with the
+attribute commands of those modules at their source positions. -/
+namespace MIPStarRE.LDT.ExpansionHypercubeGraph
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+universe u
+variable {ι : Type u} [Fintype ι] [DecidableEq ι]
+/-- If the ambient outcome type is empty, the abstract local variance is zero. -/
+lemma localVariance_eq_zero_of_isEmpty (hι : ¬ Nonempty ι) (params : Parameters)
+    (A : Point params → MIPStarRE.Quantum.Op ι) (ψ : QuantumState ι) :
+    localVariance params A ψ = 0 := by
+  haveI : IsEmpty ι := not_nonempty_iff.mp hι
+  have hzero : ∀ uv : Point params × Point params,
+      ev ψ (pointDifferenceSquaredOperator A uv.1 uv.2) = 0 := by
+    intro uv
+    simp [pointDifferenceSquaredOperator, ev, MIPStarRE.Quantum.normalizedTrace]
+  unfold localVariance
+  rw [avgOver_congr _ _ (fun _ => 0) hzero, avgOver_zero]
+  ring
+end
+end MIPStarRE.LDT.ExpansionHypercubeGraph
+
+namespace MIPStarRE.LDT.ExpansionHypercubeGraph
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+universe u
+variable {ι : Type u} [Fintype ι] [DecidableEq ι]
+/-- If the ambient outcome type is empty, the abstract global variance is zero. -/
+lemma globalVariance_eq_zero_of_isEmpty (hι : ¬ Nonempty ι) (params : Parameters)
+    (A : Point params → MIPStarRE.Quantum.Op ι) (ψ : QuantumState ι) :
+    globalVariance params A ψ = 0 := by
+  haveI : IsEmpty ι := not_nonempty_iff.mp hι
+  have hzero : ∀ uv : Point params × Point params,
+      ev ψ (pointDifferenceSquaredOperator A uv.1 uv.2) = 0 := by
+    intro uv
+    simp [pointDifferenceSquaredOperator, ev, MIPStarRE.Quantum.normalizedTrace]
+  unfold globalVariance
+  rw [avgOver_congr _ _ (fun _ => 0) hzero, avgOver_zero]
+  ring
+end
+end MIPStarRE.LDT.ExpansionHypercubeGraph
+
+namespace MIPStarRE.LDT.ExpansionHypercubeGraph
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+universe u
+variable {ι : Type u} [Fintype ι] [DecidableEq ι]
+/-- Expand the normalized trace of the combined tensor witness into its explicit
+double-sum form. -/
+lemma normalizedTrace_combined_tensor_eq (params : Parameters)
+    (model : MatrixOperatorFamilyRealization params)
+    (P : MatrixOperator (pointHilbertSpace params)) :
+    MIPStarRE.Quantum.normalizedTrace
+      ((matrixCombinedOperator params model)ᴴ *
+        (matrixTensorOperator P model.state.matrix * matrixCombinedOperator params model)) =
+      ∑ u, ∑ v,
+        P u v * matrixExpectation model.state ((model.family v)ᴴ * model.family u) := by
+  unfold MIPStarRE.Quantum.normalizedTrace matrixExpectation
+  rw [trace_combined_tensor_eq]
+  simp_rw [div_eq_mul_inv]
+  simp [MIPStarRE.Quantum.normalizedTrace, Finset.sum_mul, div_eq_mul_inv, mul_assoc]
+end
+end MIPStarRE.LDT.ExpansionHypercubeGraph
+
+namespace MIPStarRE.LDT.ExpansionHypercubeGraph
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+/-- Closed form for the matrix global-variance trace expression. -/
+lemma matrixGlobalVarianceTraceForm_eq_closedForm (params : Parameters)
+    (model : MatrixOperatorFamilyRealization params) :
+    matrixGlobalVarianceTraceForm params model =
+      (hypercubeVertexCount params : Error)⁻¹ *
+          ∑ u, ev (matrixModelState model) ((model.family u)ᴴ * model.family u) -
+        (hypercubeVertexCount params : Error)⁻¹ *
+          (hypercubeVertexCount params : Error)⁻¹ *
+            ∑ u, ∑ v, ev (matrixModelState model) ((model.family v)ᴴ * model.family u) := by
+  unfold matrixGlobalVarianceTraceForm matrixGlobalVarianceTraceWitness
+    matrixCombinedColumnOperator
+  rw [normalizedTrace_combined_tensor_eq]
+  rw [orthogonalModeProjector_re_sum]
+  simp [matrixExpectation, ev, matrixModelState]
+  ring
+end
+end MIPStarRE.LDT.ExpansionHypercubeGraph
+
+namespace MIPStarRE.LDT.ExpansionHypercubeGraph
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+/-- The concrete matrix-level counterpart of `lem:local-to-global`. -/
+lemma matrixLocalToGlobal (params : Parameters)
+    (model : MatrixOperatorFamilyRealization params) :
+    matrixGlobalVariance params model ≤
+      (params.m : Error) * matrixLocalVariance params model := by
+  calc
+    matrixGlobalVariance params model = matrixGlobalVarianceTraceForm params model := by
+      rw [matrixGlobalVariance_eq_closedForm, matrixGlobalVarianceTraceForm_eq_closedForm]
+    _ ≤ (params.m : Error) * matrixLocalVarianceTraceForm params model :=
+      matrixTraceForm_localToGlobal params model
+    _ = (params.m : Error) * matrixLocalVariance params model := by
+      rw [matrixLocalVariance_eq_closedForm, matrixLocalVarianceTraceForm_eq_closedForm]
+end
+end MIPStarRE.LDT.ExpansionHypercubeGraph
+
+namespace MIPStarRE.LDT.ExpansionHypercubeGraph
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+/-- General local-to-global inequality for an arbitrary operator family on a
+finite-dimensional state space.
+
+This is the abstract form behind `lem:local-to-global`: the global variance over
+two independent vertices is bounded by `m` times the local variance over the
+rerandomized-coordinate edge distribution. -/
+lemma localToGlobal (params : Parameters)
+    (A : Point params → MIPStarRE.Quantum.Op ι) (ψ : QuantumState ι) :
+    globalVariance params A ψ ≤ (params.m : Error) * localVariance params A ψ := by
+  by_cases hι : Nonempty ι
+  · letI := hι
+    change matrixGlobalVariance params (abstractMatrixModel params A ψ) ≤
+      (params.m : Error) * matrixLocalVariance params (abstractMatrixModel params A ψ)
+    exact matrixLocalToGlobal params (abstractMatrixModel params A ψ)
+  · rw [globalVariance_eq_zero_of_isEmpty hι params A ψ,
+      localVariance_eq_zero_of_isEmpty hι params A ψ]
+    positivity
+end
+end MIPStarRE.LDT.ExpansionHypercubeGraph
+
+namespace MIPStarRE.LDT.GlobalVariance
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.Preliminaries
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+lemma pointConditionedExpansionTransfer
+    (params : Parameters)
+    [FieldModel params.q]
+    (strategy : SymStrat params ι)
+    (G : SubMeas (Polynomial params) ι)
+    (g : Polynomial params) :
+    pointConditionedGlobalVarianceAtPolynomial params strategy G g ≤
+      (params.m : Error) * pointConditionedLocalVarianceAtPolynomial params strategy G g := by
+  simpa [pointConditionedGlobalVarianceAtPolynomial,
+    pointConditionedLocalVarianceAtPolynomial] using
+      (localToGlobal params
+        (fun u =>
+          leftTensor (ι₂ := ι)
+            (pointConditionedOutcomeOperatorAtPolynomial params strategy g u))
+        (weightedPolynomialState params strategy G g))
+end
+end MIPStarRE.LDT.GlobalVariance
+
+namespace MIPStarRE.LDT.GlobalVariance
+section
+open MIPStarRE.LDT
+open MIPStarRE.LDT.Preliminaries
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+lemma globalVarianceOfPoints_bound_of_local
+    (params : Parameters)
+    [FieldModel params.q]
+    (eps delta : Error)
+    (globalVariance localVariance : Polynomial params → Error)
+    (hexpansion :
+      ∀ g : Polynomial params,
+        globalVariance g ≤ (params.m : Error) * localVariance g)
+    (hlocal :
+      ∀ g : Polynomial params,
+        localVariance g ≤ localVarianceOfPointsError params eps delta) :
+    ∀ g : Polynomial params,
+      globalVariance g ≤ globalVarianceOfPointsError params eps delta := by
+  intro g
+  calc
+    globalVariance g ≤ (params.m : Error) * localVariance g :=
+      hexpansion g
+    _ ≤ (params.m : Error) * localVarianceOfPointsError params eps delta := by
+      exact mul_le_mul_of_nonneg_left (hlocal g) (by positivity)
+    _ = globalVarianceOfPointsError params eps delta := by
+      simp [globalVarianceOfPointsError, localVarianceOfPointsError]
+      ring
+end
+end MIPStarRE.LDT.GlobalVariance
+
+/-! The uploaded declaration as `solution` (a root name declared inside the source's
+namespace, so that names resolve as they do in the source). -/
+namespace MIPStarRE.LDT.GlobalVariance
+open MIPStarRE.LDT
+open MIPStarRE.LDT.Preliminaries
+open MIPStarRE.LDT.MakingMeasurementsProjective
+open MIPStarRE.LDT.ExpansionHypercubeGraph
+open scoped BigOperators MatrixOrder Matrix ComplexOrder
+set_option backward.isDefEq.respectTransparency false
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+theorem _root_.solution
+    (params : Parameters)
+    [FieldModel params.q]
+    (strategy : SymStrat params ι)
+    (eps delta : Error)
+    (G : SubMeas (Polynomial params) ι)
+    (hlocalDev :
+      ∀ g : Polynomial params,
+        localVarianceDeviationAtPolynomial params strategy strategy.state G g ≤
+          localVarianceOfPointsError params eps delta) :
+    GlobalVarianceOfPointsStatement params strategy strategy.state G eps delta := by
+  let hlocal := localVarianceOfPointsFromEdgeDeviation params strategy eps delta G hlocalDev
+  have hglobalNorm :
+      ∀ g : Polynomial params,
+        globalVarianceDeviationAtPolynomial params strategy strategy.state G g ≤
+          globalVarianceOfPointsError params eps delta :=
+    globalVarianceOfPoints_bound_of_local params eps delta
+      (fun g => globalVarianceDeviationAtPolynomial params strategy strategy.state G g)
+      (fun g => localVarianceDeviationAtPolynomial params strategy strategy.state G g)
+      (globalVarianceDeviationAtPolynomial_le_m_localVarianceDeviationAtPolynomial
+        params strategy G)
+      hlocalDev
+  have hglobalVariance :
+      ∀ g : Polynomial params,
+        pointConditionedGlobalVarianceAtPolynomial params strategy G g ≤
+          globalVarianceOfPointsError params eps delta :=
+    globalVarianceOfPoints_bound_of_local params eps delta
+      (fun g => pointConditionedGlobalVarianceAtPolynomial params strategy G g)
+      (fun g => pointConditionedLocalVarianceAtPolynomial params strategy G g)
+      (pointConditionedExpansionTransfer params strategy G)
+      hlocal.pointwiseLocalVarianceBound
+  refine
+    { aggregateGlobalComparison := by
+        exact sddRel_unit_family_of_pointwise strategy.state
+          (independentPointPair params)
+          (globalVarianceLeftFamily params strategy G)
+          (globalVarianceRightFamily params strategy G)
+          (fun uv g =>
+            weightedPointConditionedOperatorAtPolynomial params strategy G g uv.1)
+          (fun uv g =>
+            weightedPointConditionedOperatorAtPolynomial params strategy G g uv.2)
+          (by
+            intro uv
+            simp [globalVarianceLeftFamily, localVarianceLeftFamily])
+          (by
+            intro uv
+            simp [globalVarianceRightFamily, localVarianceRightFamily])
+          (globalVarianceOfPointsError params eps delta) (by
+            intro g
+            simpa [globalVarianceDeviationAtPolynomial] using hglobalNorm g)
+      pointwiseGlobalNormBound := hglobalNorm
+      pointwiseExpansionTransfer := pointConditionedExpansionTransfer params strategy G
+      pointwiseGlobalVarianceBound := hglobalVariance
+      averagedGlobalVarianceBound :=
+        avgOver_polynomialDistribution_le_of_pointwise params
+          (fun g => pointConditionedGlobalVarianceAtPolynomial params strategy G g)
+          (globalVarianceOfPointsError params eps delta) hglobalVariance }
+end MIPStarRE.LDT.GlobalVariance

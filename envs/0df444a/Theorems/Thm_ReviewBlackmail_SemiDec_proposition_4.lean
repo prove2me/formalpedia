@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReviewBlackmail_SemiDec_proposition_4
 -- name    : ReviewBlackmail.SemiDec.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:48.758007+00:00
 -- url     : https://prove2.me/theorems/0ada3ebe-28aa-4e24-8dae-43e3267a5b26

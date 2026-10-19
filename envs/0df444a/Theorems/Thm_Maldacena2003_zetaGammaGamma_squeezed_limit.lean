@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Maldacena2003_zetaGammaGamma_squeezed_limit
 -- name    : Maldacena2003.zetaGammaGamma_squeezed_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T12:55:50.471711+00:00
 -- url     : https://prove2.me/theorems/7ef78b1d-4d37-4a4a-b845-068b4c4f803f

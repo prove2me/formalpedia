@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DOptimal_theorem_4_1
 -- name    : RelSmoothFOM.DOptimal.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:34:44.837148+00:00
 -- url     : https://prove2.me/theorems/55efe377-dd41-478b-9f01-ce37516d2d35

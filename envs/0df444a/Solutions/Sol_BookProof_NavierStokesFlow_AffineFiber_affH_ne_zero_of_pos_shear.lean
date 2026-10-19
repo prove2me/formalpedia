@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NavierStokesFlow.AffineFiber.affH_ne_zero_of_pos_shear
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T00:10:41.57575+00:00
 -- url     : https://prove2.me/submissions/3205d622-56a2-4b90-94c7-7167fc6dfa0c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNavierStokesAffineFiberEsa.lean — solution of BookProof.NavierStokesFlow.AffineFiber.affH_ne_zero_of_pos_shear
 import Mathlib

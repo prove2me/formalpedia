@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLaplacianProduct_laplacian_radial_mul_harmonic
 -- name    : BookProof.ChapterLaplacianProduct.laplacian_radial_mul_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:25:29.148826+00:00
 -- url     : https://prove2.me/theorems/6a80f965-fb6c-4805-9994-0a31ad25150a

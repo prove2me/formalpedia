@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_nsComparison_restrict_eq
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.nsComparison_restrict_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:21:10.556561+00:00
 -- url     : https://prove2.me/theorems/b4a16577-5338-4955-b635-b804a5826e35

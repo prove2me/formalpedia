@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LandauFunction_landau_log_eq_sqrt_logIntegralInv
 -- name    : LandauFunction.landau_log_eq_sqrt_logIntegralInv
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:30.431802+00:00
 -- url     : https://prove2.me/theorems/f3a3ea36-d9a9-4b9a-890c-1428661d98ee

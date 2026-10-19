@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_harmFried_op_core
 -- name    : BookProof.QgOuterFockFL.harmFried_op_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:45:45.670669+00:00
 -- url     : https://prove2.me/theorems/fd2686e3-60a5-4eb3-b084-6cebef2d733f

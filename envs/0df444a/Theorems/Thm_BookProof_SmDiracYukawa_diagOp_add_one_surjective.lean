@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_diagOp_add_one_surjective
 -- name    : BookProof.SmDiracYukawa.diagOp_add_one_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:29:56.755919+00:00
 -- url     : https://prove2.me/theorems/66d2abb4-519f-4569-8a65-2ed1a1d7f034

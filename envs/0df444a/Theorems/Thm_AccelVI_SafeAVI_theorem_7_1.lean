@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_SafeAVI_theorem_7_1
 -- name    : AccelVI.SafeAVI.theorem_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:12.593923+00:00
 -- url     : https://prove2.me/theorems/7922b3f2-83fe-47c2-8e7e-3529122c59b9

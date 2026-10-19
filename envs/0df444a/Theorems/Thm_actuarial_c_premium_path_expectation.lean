@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_premium_path_expectation
 -- name    : actuarial_c_premium_path_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:30:19.607801+00:00
 -- url     : https://prove2.me/theorems/79490d09-f84a-402e-a962-ac062d14483c

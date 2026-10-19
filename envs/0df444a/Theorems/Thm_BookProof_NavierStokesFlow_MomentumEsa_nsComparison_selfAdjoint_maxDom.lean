@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_nsComparison_selfAdjoint_maxDom
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.nsComparison_selfAdjoint_maxDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:15.530348+00:00
 -- url     : https://prove2.me/theorems/5d532d09-0f65-4b5c-a2c2-ef781c69426e

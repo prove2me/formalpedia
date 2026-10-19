@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_oscTPoly_apply
 -- name    : BookProof.ShiftedQuadratic.oscTPoly_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:59:41.161374+00:00
 -- url     : https://prove2.me/theorems/130eabee-9b49-4b8a-ace1-7d3a705b4605

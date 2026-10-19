@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnphysicalHilbert_prop21_unitary_leaves_domain
 -- name    : UnphysicalHilbert.prop21_unitary_leaves_domain
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T21:07:02.656664+00:00
 -- url     : https://prove2.me/theorems/655eea9e-df88-40c6-9e68-3dd1596b14fc

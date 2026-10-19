@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSolidHarmonic_angular_harmonic
 -- name    : BookProof.ChapterSolidHarmonic.angular_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:39:00.749987+00:00
 -- url     : https://prove2.me/theorems/b3fc0201-ad85-436e-893e-00c5ed0d6175

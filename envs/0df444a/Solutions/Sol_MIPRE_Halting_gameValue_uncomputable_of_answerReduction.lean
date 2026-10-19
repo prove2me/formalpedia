@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MIPRE.Halting.gameValue_uncomputable_of_answerReduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @thomasvidick
 -- created : 2026-10-15T22:14:59.504731+00:00
 -- url     : https://prove2.me/submissions/8403115c-2003-46ae-8c0d-466f5d1307ad
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Thomas Vidick. All rights reserved.

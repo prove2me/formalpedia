@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_fdGradient_random_point_epsSubgrad
 -- name    : QAlgorithms.Nannicini.fdGradient_random_point_epsSubgrad
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:46:18.530294+00:00
 -- url     : https://prove2.me/theorems/c5a8b117-8af0-4686-b020-743e66744040

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_post_guarantee_entitlement
 -- name    : ActuarialAnnuitiesContinuous.bc_post_guarantee_entitlement
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:15:01.58099+00:00
 -- url     : https://prove2.me/theorems/f4c4f9c9-49d4-456b-9e4d-ad17e5a968c1

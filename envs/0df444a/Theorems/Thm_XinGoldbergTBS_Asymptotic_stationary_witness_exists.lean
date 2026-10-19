@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_stationary_witness_exists
 -- name    : XinGoldbergTBS.Asymptotic.stationary_witness_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:24:15.793897+00:00
 -- url     : https://prove2.me/theorems/28618a0e-9921-4a37-b5db-b9b3b717d713

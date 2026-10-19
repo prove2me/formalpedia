@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HuWang2023_weightedMeanRedshift_mem_Icc
 -- name    : HuWang2023.weightedMeanRedshift_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T00:44:11.379306+00:00
 -- url     : https://prove2.me/theorems/608404f7-5caf-4e76-a526-9c152561e8a3

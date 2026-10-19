@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreenTao_varnavides_set_count
 -- name    : GreenTao.varnavides_set_count
--- status  : Open
+-- status  : Proved
 -- author  : @davidnet
 -- created : 2026-09-06T02:15:17.272866+00:00
 -- url     : https://prove2.me/theorems/4c8c5516-a1da-4d48-95e6-3e72d34e0c47

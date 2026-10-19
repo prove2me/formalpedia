@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiSecretary_NonAdaptive_binomial_overshoot
 -- name    : MultiSecretary.NonAdaptive.binomial_overshoot
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:43:07.216467+00:00
 -- url     : https://prove2.me/theorems/29a036a2-79bc-4cb4-8e75-5ea3ceaa0922

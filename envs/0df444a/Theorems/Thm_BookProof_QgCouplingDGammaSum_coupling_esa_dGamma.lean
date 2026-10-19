@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_coupling_esa_dGamma
 -- name    : BookProof.QgCouplingDGammaSum.coupling_esa_dGamma
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:20:21.167295+00:00
 -- url     : https://prove2.me/theorems/a2d6df77-4809-466a-845f-55d578b51d11

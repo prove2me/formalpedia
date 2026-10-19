@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_xorConv_eigenvalues
 -- name    : QAlgorithms.Arunachalam.xorConv_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:56:43.233991+00:00
 -- url     : https://prove2.me/theorems/118d34ba-be92-444e-9697-99d260372d93

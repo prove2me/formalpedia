@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CriticalZ3_critical_no_infinite
 -- name    : OAI.CriticalZ3.critical_no_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:31.014665+00:00
 -- url     : https://prove2.me/theorems/fee83bc0-4805-4839-bd3e-7b861294a618
