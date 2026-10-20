@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_Phi_nonneg_refinement
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.Phi_nonneg_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/e4020bae-152b-450f-b2c5-69f51abd34af

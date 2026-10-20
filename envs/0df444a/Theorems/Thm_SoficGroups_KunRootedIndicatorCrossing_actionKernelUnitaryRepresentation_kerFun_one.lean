@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_actionKernelUnitaryRepresentation_kerFun_one
 -- name    : SoficGroups.KunRootedIndicatorCrossing.actionKernelUnitaryRepresentation_kerFun_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/2b98bf44-952d-4eb8-984b-bd4c33a273b9

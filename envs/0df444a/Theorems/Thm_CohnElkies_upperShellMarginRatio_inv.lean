@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperShellMarginRatio_inv
 -- name    : CohnElkies.upperShellMarginRatio_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/c3697859-2661-41ff-9373-c1018318030f

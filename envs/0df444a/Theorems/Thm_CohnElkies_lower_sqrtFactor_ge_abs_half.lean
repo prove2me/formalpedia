@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lower_sqrtFactor_ge_abs_half
 -- name    : CohnElkies.lower_sqrtFactor_ge_abs_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/b6f91034-8dbd-41ae-bd84-710dcf944530

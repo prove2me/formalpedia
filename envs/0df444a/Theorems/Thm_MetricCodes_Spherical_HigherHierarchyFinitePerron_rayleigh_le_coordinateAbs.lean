@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_rayleigh_le_coordinateAbs
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.rayleigh_le_coordinateAbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/e4b9a594-7e1c-4cd2-ab2b-e0216db72988

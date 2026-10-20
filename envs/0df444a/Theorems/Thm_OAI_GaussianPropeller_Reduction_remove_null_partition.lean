@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_remove_null_partition
 -- name    : OAI.GaussianPropeller.Reduction.remove_null_partition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:32:25.716212+00:00
 -- url     : https://prove2.me/theorems/9d97194b-c4ea-4878-8a06-5c9d3e655590

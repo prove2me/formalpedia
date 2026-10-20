@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticIncidence_card_by_points
 -- name    : CompactnessConjecture.symplecticIncidence_card_by_points
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/ab866a1f-696b-4020-8249-2f50f51f0e14

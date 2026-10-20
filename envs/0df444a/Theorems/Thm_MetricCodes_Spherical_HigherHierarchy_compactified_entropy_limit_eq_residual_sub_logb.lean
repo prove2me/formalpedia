@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactified_entropy_limit_eq_residual_sub_logb
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactified_entropy_limit_eq_residual_sub_logb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/45ac7778-a9bf-403f-abdc-5e7e8e41b0ce

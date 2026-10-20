@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTRelativeCasimirZeroRowTransport_paddedPieriSource_retained_eq_appendZero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport.paddedPieriSource_retained_eq_appendZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/dc249943-55e8-436a-822a-c5231e87de81

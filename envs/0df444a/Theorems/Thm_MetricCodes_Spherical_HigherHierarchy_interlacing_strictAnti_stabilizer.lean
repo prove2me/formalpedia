@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_interlacing_strictAnti_stabilizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.interlacing_strictAnti_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/3d812764-34e2-467b-8293-ac986884ec0b

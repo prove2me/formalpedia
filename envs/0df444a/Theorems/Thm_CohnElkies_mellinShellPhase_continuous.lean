@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_mellinShellPhase_continuous
 -- name    : CohnElkies.mellinShellPhase_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/bfb6ccc2-bfd4-4450-a08a-5983bb50a57c

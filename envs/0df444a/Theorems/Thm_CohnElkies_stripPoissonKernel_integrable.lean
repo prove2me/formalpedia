@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_integrable
 -- name    : CohnElkies.stripPoissonKernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/672c7825-60b2-4361-8fe9-e72091699e83

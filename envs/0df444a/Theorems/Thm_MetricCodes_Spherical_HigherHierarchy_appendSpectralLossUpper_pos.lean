@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_appendSpectralLossUpper_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.appendSpectralLossUpper_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/50bbe758-a30d-4a06-9457-5aa7778d02a5

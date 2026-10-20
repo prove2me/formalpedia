@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGapBase_twelfth_le_one
 -- name    : QuantumParallelRepetition.pdfGapBase_twelfth_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/08ea4062-e72f-4385-a3e4-1a3a65c18457

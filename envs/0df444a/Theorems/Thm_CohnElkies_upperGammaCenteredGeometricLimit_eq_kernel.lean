@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaCenteredGeometricLimit_eq_kernel
 -- name    : CohnElkies.upperGammaCenteredGeometricLimit_eq_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/22d6b606-7f77-4e80-ab69-073e5cd7a8d8

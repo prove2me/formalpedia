@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerRiemannLog_one_nonneg_le
 -- name    : CohnElkies.lowerRiemannLog_one_nonneg_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/00804124-a71e-451d-9fee-7b33db816304

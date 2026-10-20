@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongCoverMollification_tendsto_integral_norm_sq_normalizedCoverMollification_sub_of_continuous_compact
 -- name    : Ehrhart.TorusStrongCoverMollification.tendsto_integral_norm_sq_normalizedCoverMollification_sub_of_continuous_compact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/1659b2b0-c4b3-492a-a87f-aa3ea70310f8

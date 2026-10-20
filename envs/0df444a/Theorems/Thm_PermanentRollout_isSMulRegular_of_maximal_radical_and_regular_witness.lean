@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_isSMulRegular_of_maximal_radical_and_regular_witness
 -- name    : PermanentRollout.isSMulRegular_of_maximal_radical_and_regular_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/1dc126aa-82db-49f6-a9aa-67d928f56970

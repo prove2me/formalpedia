@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_normalizedCoefficient_zero
 -- name    : MetricCodes.Hamming.normalizedCoefficient_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/076ba4be-8ee8-47ae-8465-d2026a9a1c71

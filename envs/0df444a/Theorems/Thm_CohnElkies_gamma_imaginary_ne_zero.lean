@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_gamma_imaginary_ne_zero
 -- name    : CohnElkies.gamma_imaginary_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/e92fcfaf-0316-4603-95c9-b3e043360d2a

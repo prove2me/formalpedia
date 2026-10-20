@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetUpperTaggedMonomialObservableConvergence_unitPartition_tag_index_mem_scaledIntegerLattice
 -- name    : Ehrhart.BergmanJetUpperTaggedMonomialObservableConvergence.unitPartition_tag_index_mem_scaledIntegerLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/7d9541f8-7af7-4a0c-82ed-b008d5f69590

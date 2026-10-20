@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalMixedCanonicalPrefixPhysicalSigmaWeighted_norm_sq
 -- name    : QuantumParallelRepetition.dSVDensityRationalMixedCanonicalPrefixPhysicalSigmaWeighted_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/c56a954f-5a5a-492d-b08f-91a109669a17

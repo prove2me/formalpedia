@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_accumulatorVariable_injective
 -- name    : GapCVP.ThreeCNFReduction.accumulatorVariable_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/9351fb96-ff5b-4c04-9606-15f685d6e8da

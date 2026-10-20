@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_stieltjes_pair_factor_of_degree_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_stieltjes_pair_factor_of_degree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/f5f9c8e3-7669-46e4-a6bd-08a9d51bd2b7

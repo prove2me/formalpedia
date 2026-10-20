@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicInventory_Sequential_inventory_near_five_sixths
 -- name    : StrategicInventory.Sequential.inventory_near_five_sixths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T05:44:39.05956+00:00
 -- url     : https://prove2.me/theorems/3a10e251-13a1-45ac-b691-ff48f856c4c3

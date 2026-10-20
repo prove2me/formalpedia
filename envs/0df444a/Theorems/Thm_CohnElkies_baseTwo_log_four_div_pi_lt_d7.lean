@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_baseTwo_log_four_div_pi_lt_d7
 -- name    : CohnElkies.baseTwo_log_four_div_pi_lt_d7
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/26039d98-6a6e-486b-b767-16c085e71ab7

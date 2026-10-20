@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAxisCompressedCharacteristicMinor_sum_gtAxisCompressedSignedProjectorCoefficient
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor.sum_gtAxisCompressedSignedProjectorCoefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/eb8bd62c-9525-4295-b51b-72ba417811d9

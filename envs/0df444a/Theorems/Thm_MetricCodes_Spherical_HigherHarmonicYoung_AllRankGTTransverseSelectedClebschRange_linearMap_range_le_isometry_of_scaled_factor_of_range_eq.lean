@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseSelectedClebschRange_linearMap_range_le_isometry_of_scaled_factor_of_range_eq
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseSelectedClebschRange.linearMap_range_le_isometry_of_scaled_factor_of_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/1f5fe3af-eddf-4b9f-bd55-b890c1422947

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_finite_binaryCodeNumber_bound_of_projection_gram
 -- name    : MetricCodes.Johnson.finite_binaryCodeNumber_bound_of_projection_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/f01aae74-caaf-44f3-b629-28045d5b0067

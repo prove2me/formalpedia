@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Pruning_augmented_matching_card
 -- name    : OAI.SeymourSecondNeighborhood.Pruning.augmented_matching_card
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:16:00.209728+00:00
 -- url     : https://prove2.me/theorems/dac314a8-c699-4794-b9be-485f3c06e6a5

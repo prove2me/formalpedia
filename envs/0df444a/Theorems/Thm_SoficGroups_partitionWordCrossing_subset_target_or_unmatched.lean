@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_partitionWordCrossing_subset_target_or_unmatched
 -- name    : SoficGroups.partitionWordCrossing_subset_target_or_unmatched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/678c7f82-f382-4a28-9ae1-ca1c40ab1705

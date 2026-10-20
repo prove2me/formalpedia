@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperFirstBranch_shortMeasure_pointwise
 -- name    : CohnElkies.upperFirstBranch_shortMeasure_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/a40e2f08-0497-4499-af09-fb5a0dd1fc5d

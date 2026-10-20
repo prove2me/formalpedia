@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_integrableOn_rankDropCount
 -- name    : SoficGroups.integrableOn_rankDropCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/d6d7fc59-e6a9-4827-93cd-d7fae28c012e

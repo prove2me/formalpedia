@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_hybrid_entropy_formula
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.hybrid_entropy_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:23:49.509705+00:00
 -- url     : https://prove2.me/theorems/025faa46-4549-41bf-a607-7a48bfaca621

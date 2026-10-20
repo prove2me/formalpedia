@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphCopy_childPotential_eq
 -- name    : TwoDegenerateGraphs.pairGraphCopy_childPotential_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/bcc96db4-f2b9-48df-8bbf-499f16441599

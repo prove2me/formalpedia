@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_reesParameter_isTorsionFree
 -- name    : PermanentRollout.homogeneousMap_allTarget_reesParameter_isTorsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/0a5f96cb-4dda-4caa-a653-ccfa59e6e5d9

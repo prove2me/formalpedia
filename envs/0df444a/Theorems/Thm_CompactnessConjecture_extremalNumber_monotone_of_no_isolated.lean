@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_extremalNumber_monotone_of_no_isolated
 -- name    : CompactnessConjecture.extremalNumber_monotone_of_no_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/2f1de830-62ca-4689-96ba-e7f6c4b86411

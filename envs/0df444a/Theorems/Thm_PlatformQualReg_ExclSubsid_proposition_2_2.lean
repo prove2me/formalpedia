@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformQualReg_ExclSubsid_proposition_2_2
 -- name    : PlatformQualReg.ExclSubsid.proposition_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:52:16.870162+00:00
 -- url     : https://prove2.me/theorems/bf03c6a6-741e-4086-9003-f93f2ebbeeaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleExpSeries_polynomialMoment_sum_range_le
 -- name    : CohnElkies.saddleExpSeries_polynomialMoment_sum_range_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/50943223-73e9-4670-a2bc-119a56c989bb

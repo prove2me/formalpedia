@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_PackingBridge_sphere_packing_sharp_asymptotic_upper
 -- name    : PackingBounds.PackingBridge.sphere_packing_sharp_asymptotic_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/9984d87a-b5f6-418e-8a87-00f743aebf34

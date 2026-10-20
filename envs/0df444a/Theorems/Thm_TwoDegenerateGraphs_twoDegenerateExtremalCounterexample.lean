@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_twoDegenerateExtremalCounterexample
 -- name    : TwoDegenerateGraphs.twoDegenerateExtremalCounterexample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/24f47bda-4f5b-41ab-ad9a-b384ac3d7d10

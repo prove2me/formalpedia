@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_hasCompactSupport_angularSmoothPartition
 -- name    : Ehrhart.MatrixTorusBochnerBridge.hasCompactSupport_angularSmoothPartition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/15736cfd-24cb-4a27-aaca-799cbbac8e9f

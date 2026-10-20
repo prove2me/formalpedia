@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_second_singleton_half_of_reference_difference
 -- name    : SoficGroups.KunThomFiberCoarea.second_singleton_half_of_reference_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/91ae9758-6d2d-4192-a022-1d58141570b7

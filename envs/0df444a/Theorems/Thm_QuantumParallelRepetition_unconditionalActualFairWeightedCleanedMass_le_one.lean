@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairWeightedCleanedMass_le_one
 -- name    : QuantumParallelRepetition.unconditionalActualFairWeightedCleanedMass_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/2033da8c-0771-4f69-a676-e2fc98f697ec

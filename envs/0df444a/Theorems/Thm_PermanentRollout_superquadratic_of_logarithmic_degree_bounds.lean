@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_superquadratic_of_logarithmic_degree_bounds
 -- name    : PermanentRollout.superquadratic_of_logarithmic_degree_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/a1539017-32a5-4783-8171-ab76e484c937

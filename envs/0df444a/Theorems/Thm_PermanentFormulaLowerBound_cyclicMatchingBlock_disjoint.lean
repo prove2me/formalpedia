@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_cyclicMatchingBlock_disjoint
 -- name    : PermanentFormulaLowerBound.cyclicMatchingBlock_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/42eb0e4b-2e22-4c44-afc7-d8e511aa748e

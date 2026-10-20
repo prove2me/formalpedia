@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_inner_finiteUnitarySubgroupAverage_of_fixed_left
 -- name    : SoficGroups.inner_finiteUnitarySubgroupAverage_of_fixed_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/10531fe4-2037-4956-bc35-0f9aca4ef125

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_retainedVertex_card_le_manuscriptVertexCount
 -- name    : TwoDegenerateGraphs.retainedVertex_card_le_manuscriptVertexCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/3243ad90-5d1a-492d-ab07-329c4f373593

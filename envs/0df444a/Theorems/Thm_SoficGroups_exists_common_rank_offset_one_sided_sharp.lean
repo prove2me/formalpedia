@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_common_rank_offset_one_sided_sharp
 -- name    : SoficGroups.exists_common_rank_offset_one_sided_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/df7bc708-320d-4598-b8d2-0b63b03be96b

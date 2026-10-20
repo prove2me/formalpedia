@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongCoverMollificationDensity_normalizedCoverMollification_sub
 -- name    : Ehrhart.TorusStrongCoverMollificationDensity.normalizedCoverMollification_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/0a8721c8-2fde-41b4-9157-772b75961558

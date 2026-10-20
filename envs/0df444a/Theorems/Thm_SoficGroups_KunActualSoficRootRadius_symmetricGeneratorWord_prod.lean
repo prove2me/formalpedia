@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_symmetricGeneratorWord_prod
 -- name    : SoficGroups.KunActualSoficRootRadius.symmetricGeneratorWord_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/13eb238d-c7b7-4128-9345-786b43df76ba

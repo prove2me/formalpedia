@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_spectral_iff_quadratic
 -- name    : MetricCodes.Spherical.spectral_iff_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/a4434290-f824-493d-afea-0f6189d18764

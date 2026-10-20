@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCanonicalSelectedBranchRange_canonicalGelfandTsetlinFibre_range_eq_selectedFullBranch
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange.canonicalGelfandTsetlinFibre_range_eq_selectedFullBranch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/bdd7e6e5-9586-4570-9b89-a467517e1e09

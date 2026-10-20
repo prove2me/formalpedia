@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceConjugateTensorEmbezzlementOne_inverse_reindex
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceConjugateTensorEmbezzlementOne_inverse_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/3f758281-6782-47ec-9be5-094516abd07f

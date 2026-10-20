@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticAutomorphism_commonPoint
 -- name    : CompactnessConjecture.symplecticAutomorphism_commonPoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/bd2e2d25-414f-4448-956b-69591b095f83

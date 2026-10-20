@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_exists_boxWidth_spectral_gap
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.exists_boxWidth_spectral_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/f1dc2967-50bb-406d-b754-4ae7efcd777e

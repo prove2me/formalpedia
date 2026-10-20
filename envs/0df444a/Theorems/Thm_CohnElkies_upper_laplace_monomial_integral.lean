@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upper_laplace_monomial_integral
 -- name    : CohnElkies.upper_laplace_monomial_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/2cb66412-b02e-48c4-8e27-7c558d8b1d10

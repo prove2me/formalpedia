@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_integratorActualCanonicalRetainedPhaseTail_norm
 -- name    : QuantumParallelRepetition.integratorActualCanonicalRetainedPhaseTail_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/71d2d83b-baf6-44ee-82bd-3f3dc72f8998

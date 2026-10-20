@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetSlope_continuous_weightedDiagonalKernel
 -- name    : Ehrhart.BergmanJetSlope.continuous_weightedDiagonalKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/182e8451-fb1b-43ea-bdb3-5ad9703fe15c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionLine_centers_injective
 -- name    : CompactnessConjecture.subdivisionLine_centers_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/db8f30d2-92b6-415e-afe4-9fd6bf744969

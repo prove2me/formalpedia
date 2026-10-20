@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_factorial_exp_lower
 -- name    : ErdosProblems.MulticolourTriangleRamsey.factorial_exp_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/afc90da5-bbcc-4f25-8abe-dc1631e0bee6

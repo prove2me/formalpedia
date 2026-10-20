@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentWeakBergmanProbabilityEndpoint_normalizedMonomialDensity_momentNormalized_pos
 -- name    : Ehrhart.MomentWeakBergmanProbabilityEndpoint.normalizedMonomialDensity_momentNormalized_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/50691b5c-ebbd-4349-8b58-5683ac7bfd74

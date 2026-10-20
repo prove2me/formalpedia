@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondGapShift_shiftedRowGap_raiseWeight_preceding
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondGapShift.shiftedRowGap_raiseWeight_preceding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/319e70a3-ff2f-4bdd-bc68-1346ddb97138

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperNegativeHalfGamma_reflection_norm
 -- name    : CohnElkies.upperNegativeHalfGamma_reflection_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/d0ca06d8-e6ad-4b8e-89df-291c3a07d87a

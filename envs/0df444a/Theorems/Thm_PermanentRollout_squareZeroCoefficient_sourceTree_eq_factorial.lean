@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareZeroCoefficient_sourceTree_eq_factorial
 -- name    : PermanentRollout.squareZeroCoefficient_sourceTree_eq_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/9a7dac89-1daf-42c8-9c81-7f633cc78a7e

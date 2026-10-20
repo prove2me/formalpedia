@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_eventually_transverse_add_le_longitudinal
 -- name    : MetricCodes.Hamming.eventually_transverse_add_le_longitudinal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/cba6fd10-cdc8-407e-a6d0-f549c71380d5

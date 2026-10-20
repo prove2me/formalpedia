@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_cyclicMatchingBlock_count_bound
 -- name    : PermanentFormulaLowerBound.cyclicMatchingBlock_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/7546b3a9-f5b2-4bcf-b0cc-b6287aed4af7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_sum_card_component_inter_partition
 -- name    : SoficGroups.sum_card_component_inter_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/4424ea5e-6425-4ea6-b8a9-eeed6f297576

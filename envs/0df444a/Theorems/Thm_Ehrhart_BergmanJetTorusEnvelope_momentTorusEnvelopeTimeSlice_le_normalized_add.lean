@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusEnvelope_momentTorusEnvelopeTimeSlice_le_normalized_add
 -- name    : Ehrhart.BergmanJetTorusEnvelope.momentTorusEnvelopeTimeSlice_le_normalized_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/78350795-1b70-4bd5-ae9d-13e57294564f

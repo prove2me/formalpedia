@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicSpherePacking_packing_density_zero_of_empty_centers
 -- name    : PeriodicSpherePacking.packing_density_zero_of_empty_centers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/09779599-938a-4551-a748-abbe4d630b0a

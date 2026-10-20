@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Pruning_originalEdges_isMatching
 -- name    : OAI.SeymourSecondNeighborhood.Pruning.originalEdges_isMatching
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:11:40.86508+00:00
 -- url     : https://prove2.me/theorems/e257ca60-d549-48b0-8871-01244bb1d28f

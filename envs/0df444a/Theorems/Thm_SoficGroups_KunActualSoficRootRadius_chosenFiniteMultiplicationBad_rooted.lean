@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_chosenFiniteMultiplicationBad_rooted
 -- name    : SoficGroups.KunActualSoficRootRadius.chosenFiniteMultiplicationBad_rooted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/a061906f-e2ab-41fd-a3fb-cd75c302e668

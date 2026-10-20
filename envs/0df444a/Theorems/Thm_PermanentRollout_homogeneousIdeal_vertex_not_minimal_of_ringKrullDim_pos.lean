@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousIdeal_vertex_not_minimal_of_ringKrullDim_pos
 -- name    : PermanentRollout.homogeneousIdeal_vertex_not_minimal_of_ringKrullDim_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/1cb4c7d5-daae-4c3d-8a32-270979b0bfd6

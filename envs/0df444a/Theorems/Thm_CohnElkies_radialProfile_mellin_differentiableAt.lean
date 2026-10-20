@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_mellin_differentiableAt
 -- name    : CohnElkies.radialProfile_mellin_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/bc0f5151-df45-4c6b-80c8-8da68b83e3fa

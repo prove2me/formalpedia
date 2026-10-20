@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_ops_zero_of_minimal_cas_zero
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.ops_zero_of_minimal_cas_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:40:38.842513+00:00
 -- url     : https://prove2.me/theorems/b0a3ccdb-8e2d-4304-9b49-0195039272a0

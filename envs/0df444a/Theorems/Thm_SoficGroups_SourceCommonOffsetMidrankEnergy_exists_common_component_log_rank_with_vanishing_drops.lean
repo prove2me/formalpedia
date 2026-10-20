@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCommonOffsetMidrankEnergy_exists_common_component_log_rank_with_vanishing_drops
 -- name    : SoficGroups.SourceCommonOffsetMidrankEnergy.exists_common_component_log_rank_with_vanishing_drops
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/8909f99d-cc7b-4ef9-b588-74bbb521c3ec

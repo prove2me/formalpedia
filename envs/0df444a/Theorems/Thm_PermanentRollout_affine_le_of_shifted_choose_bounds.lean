@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_le_of_shifted_choose_bounds
 -- name    : PermanentRollout.affine_le_of_shifted_choose_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/fb3b2746-1a82-49a5-b8ae-0949cbf16996

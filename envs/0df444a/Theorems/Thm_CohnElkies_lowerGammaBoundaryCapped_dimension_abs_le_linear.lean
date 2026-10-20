@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryCapped_dimension_abs_le_linear
 -- name    : CohnElkies.lowerGammaBoundaryCapped_dimension_abs_le_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/d8e549de-7e03-4bac-b07e-de4e2f1c3a45

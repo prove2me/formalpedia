@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusCompactTestGreen_tsupport_normalizedCoverMollification_subset_cthickening
 -- name    : Ehrhart.TorusCompactTestGreen.tsupport_normalizedCoverMollification_subset_cthickening
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/a6b08fb9-3ca5-4111-876d-dffc40116f37

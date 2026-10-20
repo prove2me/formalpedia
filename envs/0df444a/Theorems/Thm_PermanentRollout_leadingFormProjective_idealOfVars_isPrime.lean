@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_leadingFormProjective_idealOfVars_isPrime
 -- name    : PermanentRollout.leadingFormProjective_idealOfVars_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/da6d78f9-41fd-4b9a-b91c-576f1c985023

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_weightedTorusMeasure_eq_unweighted_withDensity
 -- name    : Ehrhart.WeightedTorusDistributionBridge.weightedTorusMeasure_eq_unweighted_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/ff9c1b5f-f0f8-4bff-a3f1-e43d443a4d56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetUpperTaggedMonomialObservableConvergence_norm_momentTaggedLaurentObservable_le_of_mem_interior
 -- name    : Ehrhart.BergmanJetUpperTaggedMonomialObservableConvergence.norm_momentTaggedLaurentObservable_le_of_mem_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/24273768-2e32-4d54-99b2-3c80092bee9b

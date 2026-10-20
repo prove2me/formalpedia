@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_triangular_instruction_prefix_ideal_ofList
 -- name    : PermanentRollout.affine_triangular_instruction_prefix_ideal_ofList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/f2dbd6c9-fd24-4f95-a87f-91f43eed91d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_linearCoordinatePolynomial_isHomogeneous
 -- name    : PermanentRollout.linearCoordinatePolynomial_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/87879c00-2164-4d2b-96fe-bc8ffef05371

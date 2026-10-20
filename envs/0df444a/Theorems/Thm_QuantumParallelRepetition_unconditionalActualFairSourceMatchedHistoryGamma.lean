@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceMatchedHistoryGamma
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceMatchedHistoryGamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/5042b65c-ff7e-4e8c-ae49-8901e5567561

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualMap_norm_sq_le
 -- name    : SoficGroups.ejThreeResidualMap_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/8861df24-0ab5-43ab-b472-977cfd3a24ea

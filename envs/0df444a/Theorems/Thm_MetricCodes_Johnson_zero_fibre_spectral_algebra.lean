@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_zero_fibre_spectral_algebra
 -- name    : MetricCodes.Johnson.zero_fibre_spectral_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/70729375-5cdd-42a0-ba6c-4905e7be55b3

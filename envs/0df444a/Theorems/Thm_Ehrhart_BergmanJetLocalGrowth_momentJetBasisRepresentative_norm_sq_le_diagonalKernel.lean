@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_momentJetBasisRepresentative_norm_sq_le_diagonalKernel
 -- name    : Ehrhart.BergmanJetLocalGrowth.momentJetBasisRepresentative_norm_sq_le_diagonalKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/9a16e8bc-0fa4-4a7d-8e70-c67d4f133de3

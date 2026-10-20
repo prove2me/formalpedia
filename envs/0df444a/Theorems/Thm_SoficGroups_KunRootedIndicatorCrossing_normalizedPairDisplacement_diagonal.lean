@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_normalizedPairDisplacement_diagonal
 -- name    : SoficGroups.KunRootedIndicatorCrossing.normalizedPairDisplacement_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/249994c8-ab63-4782-8790-95dfefb4a327

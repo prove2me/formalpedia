@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceGlobalWinningEffect_compression
 -- name    : QuantumParallelRepetition.exactSourceGlobalWinningEffect_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/41e0454f-0149-4e22-9d09-c9f4f09bf0d4

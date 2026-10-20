@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ComponentMidrankVariance_componentVertexMidrank_variance_eq
 -- name    : SoficGroups.ComponentMidrankVariance.componentVertexMidrank_variance_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/45572643-cdef-433b-8116-2adbf02d4c3d

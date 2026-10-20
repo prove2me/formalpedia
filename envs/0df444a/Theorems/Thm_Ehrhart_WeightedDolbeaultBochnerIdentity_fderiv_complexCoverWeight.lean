@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_fderiv_complexCoverWeight
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.fderiv_complexCoverWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/002d0b07-c3e8-49c7-9c4e-6e9a50f4a4d8

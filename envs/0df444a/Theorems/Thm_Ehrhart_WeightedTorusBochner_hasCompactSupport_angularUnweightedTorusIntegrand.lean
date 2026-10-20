@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_hasCompactSupport_angularUnweightedTorusIntegrand
 -- name    : Ehrhart.WeightedTorusBochner.hasCompactSupport_angularUnweightedTorusIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/87749ef5-0a1c-453f-b802-1ae7cbb92251

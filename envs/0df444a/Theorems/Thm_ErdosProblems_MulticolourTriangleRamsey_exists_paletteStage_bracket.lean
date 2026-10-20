@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_paletteStage_bracket
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_paletteStage_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/16ab4149-ae53-4566-a055-95da990b9287

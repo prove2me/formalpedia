@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxJacobian_hasDerivAt_scoreSoftmax_score
 -- name    : BookProof.ChapterSoftmaxJacobian.hasDerivAt_scoreSoftmax_score
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:16:15.881112+00:00
 -- url     : https://prove2.me/theorems/ab30696c-6f07-4ffd-a76e-a182acaa59c8

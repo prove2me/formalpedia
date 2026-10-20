@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_packing_supremum_eq_unit_separation
 -- name    : SpherePacking.packing_supremum_eq_unit_separation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/c3721d69-bd6e-4ef7-827b-1eee7c4f0f15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripNormalizedPoissonKernel_eq_extension
 -- name    : CohnElkies.stripNormalizedPoissonKernel_eq_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/36658c51-4cc1-4d20-ba55-38105421d009

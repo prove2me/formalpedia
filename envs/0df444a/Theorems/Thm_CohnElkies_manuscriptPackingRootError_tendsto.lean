@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptPackingRootError_tendsto
 -- name    : CohnElkies.manuscriptPackingRootError_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/f9b260f7-ebf8-4e21-9ee0-643de8cc21e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_forbidden_angularFourierCoefficient_constant_eq_zero
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.forbidden_angularFourierCoefficient_constant_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/7611f619-dcc3-4476-b39a-606e720c047e

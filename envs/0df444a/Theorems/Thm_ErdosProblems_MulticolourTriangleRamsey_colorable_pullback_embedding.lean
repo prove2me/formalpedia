@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_colorable_pullback_embedding
 -- name    : ErdosProblems.MulticolourTriangleRamsey.colorable_pullback_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/14bfaa63-aa4a-4040-b000-8ad2645292dc

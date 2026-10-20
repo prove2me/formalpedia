@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraph_free_of_layer_exclusion_and_disagreement
 -- name    : TwoDegenerateGraphs.pairGraph_free_of_layer_exclusion_and_disagreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/daac207f-72ea-43ff-9504-07820e7e560d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_momentHolomorphicRepresentative_schwarz_of_mem_jetFiltration
 -- name    : Ehrhart.BergmanJetLocalGrowth.momentHolomorphicRepresentative_schwarz_of_mem_jetFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/d415e0a8-9271-469b-bdf6-bdfb008c0eb6

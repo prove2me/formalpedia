@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_terminal_coefficient
 -- name    : MetricCodes.Hamming.tendsto_terminal_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/d90acb97-18a6-4f9c-829d-05293902e104

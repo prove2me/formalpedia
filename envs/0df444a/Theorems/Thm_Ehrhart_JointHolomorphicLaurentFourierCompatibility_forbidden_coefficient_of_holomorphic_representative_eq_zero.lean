@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_forbidden_coefficient_of_holomorphic_representative_eq_zero
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.forbidden_coefficient_of_holomorphic_representative_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/b4097080-15d8-466b-b395-d6134694fbb7

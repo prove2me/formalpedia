@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_degree_gt_two_of_three_neighbors
 -- name    : TwoDegenerateGraphs.degree_gt_two_of_three_neighbors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/63eb38ab-4892-44a2-ac04-62d17bdf3f4f

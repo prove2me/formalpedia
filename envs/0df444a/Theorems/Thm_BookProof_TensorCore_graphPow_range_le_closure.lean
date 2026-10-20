@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorCore_graphPow_range_le_closure
 -- name    : BookProof.TensorCore.graphPow_range_le_closure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:04:39.214118+00:00
 -- url     : https://prove2.me/theorems/d33b69b0-20ac-4450-978f-f03808d6719c

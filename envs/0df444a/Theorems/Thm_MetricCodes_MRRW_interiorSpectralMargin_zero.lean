@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_interiorSpectralMargin_zero
 -- name    : MetricCodes.MRRW.interiorSpectralMargin_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/5f620745-0358-4c59-87e3-adb5e59f1895

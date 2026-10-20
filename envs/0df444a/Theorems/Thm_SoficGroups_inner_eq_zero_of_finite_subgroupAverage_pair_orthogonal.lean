@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_inner_eq_zero_of_finite_subgroupAverage_pair_orthogonal
 -- name    : SoficGroups.inner_eq_zero_of_finite_subgroupAverage_pair_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/922a8b13-a523-451c-a8f6-7fe2798419d4

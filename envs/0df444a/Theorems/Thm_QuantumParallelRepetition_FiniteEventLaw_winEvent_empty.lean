@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_FiniteEventLaw_winEvent_empty
 -- name    : QuantumParallelRepetition.FiniteEventLaw.winEvent_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/2f974577-5eeb-4f40-9774-ed5d1ed3c0ce

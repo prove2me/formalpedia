@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_diagonalImage_sdiff_cards
 -- name    : SoficGroups.KunThomFiberCoarea.diagonalImage_sdiff_cards
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/894724e0-fa65-4013-b162-26c6fb225b2f

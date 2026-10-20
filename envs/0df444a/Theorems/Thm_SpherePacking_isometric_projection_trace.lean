@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_isometric_projection_trace
 -- name    : SpherePacking.isometric_projection_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/8b1c1b2f-1322-484f-abf2-a3fbe98e7a97

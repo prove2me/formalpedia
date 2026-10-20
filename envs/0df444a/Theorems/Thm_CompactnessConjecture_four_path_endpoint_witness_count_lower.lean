@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_four_path_endpoint_witness_count_lower
 -- name    : CompactnessConjecture.four_path_endpoint_witness_count_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/7c173a62-a2ac-455e-9774-418947125bb2

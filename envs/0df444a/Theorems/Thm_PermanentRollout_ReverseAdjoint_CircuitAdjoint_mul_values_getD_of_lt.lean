@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_mul_values_getD_of_lt
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.mul_values_getD_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/8299815b-ad61-4354-a798-403fe9c07fa1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactBobRefinedPOVM_compression
 -- name    : QuantumParallelRepetition.exactBobRefinedPOVM_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/273852da-db7e-4ced-8c72-dedfac3919d7

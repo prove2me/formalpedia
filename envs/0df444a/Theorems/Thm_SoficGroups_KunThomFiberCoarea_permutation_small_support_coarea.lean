@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_permutation_small_support_coarea
 -- name    : SoficGroups.KunThomFiberCoarea.permutation_small_support_coarea
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/316576a6-2e8c-42b0-8ad6-15d63b61ee4d

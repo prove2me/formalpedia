@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronEsa_wave_add_scalaronTruncated_esa
 -- name    : BookProof.ScalaronEsa.wave_add_scalaronTruncated_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T22:42:28.217751+00:00
 -- url     : https://prove2.me/theorems/b88d4b09-f361-466f-947b-6cca34e4e539

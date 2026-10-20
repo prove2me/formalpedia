@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_yLeafCount_pos_of_eval_eq_matchingMarkedPermanent
 -- name    : PermanentFormulaLowerBound.RationalFormula.yLeafCount_pos_of_eval_eq_matchingMarkedPermanent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/6b43a624-a102-4464-9874-3194068ed400

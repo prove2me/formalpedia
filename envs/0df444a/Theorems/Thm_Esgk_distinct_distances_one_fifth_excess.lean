@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Esgk_distinct_distances_one_fifth_excess
 -- name    : Esgk.distinct_distances_one_fifth_excess
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-09-12T19:34:17.409456+00:00
 -- url     : https://prove2.me/theorems/23105be7-912c-467a-8f19-b74f9385cc6e

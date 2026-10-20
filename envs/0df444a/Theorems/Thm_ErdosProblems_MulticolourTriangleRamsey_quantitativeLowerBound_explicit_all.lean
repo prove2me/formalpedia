@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_quantitativeLowerBound_explicit_all
 -- name    : ErdosProblems.MulticolourTriangleRamsey.quantitativeLowerBound_explicit_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/1e6bcfff-e6dc-47ac-b313-77288050b26b

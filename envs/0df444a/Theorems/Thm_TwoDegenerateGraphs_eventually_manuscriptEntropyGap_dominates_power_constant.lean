@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_eventually_manuscriptEntropyGap_dominates_power_constant
 -- name    : TwoDegenerateGraphs.eventually_manuscriptEntropyGap_dominates_power_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/bdd2d7d5-740d-4020-a7cb-c8e3765e22c7

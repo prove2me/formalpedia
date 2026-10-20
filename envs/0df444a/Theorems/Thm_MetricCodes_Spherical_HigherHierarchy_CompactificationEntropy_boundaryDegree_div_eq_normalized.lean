@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_boundaryDegree_div_eq_normalized
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.boundaryDegree_div_eq_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/054335ba-486e-4c98-8f53-a133201140a3

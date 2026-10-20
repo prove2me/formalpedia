@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_saddleGammaArgument_atTop
 -- name    : CohnElkies.tendsto_saddleGammaArgument_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/71c28e37-c2b0-442f-a907-3ad2cd85259d

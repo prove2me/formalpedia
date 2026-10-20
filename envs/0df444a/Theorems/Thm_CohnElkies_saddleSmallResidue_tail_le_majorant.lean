@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSmallResidue_tail_le_majorant
 -- name    : CohnElkies.saddleSmallResidue_tail_le_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/10a3644c-db41-4fad-ac7c-2affe8505af5

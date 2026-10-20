@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_powerSum_cost_le_quarter
 -- name    : PermanentRollout.powerSum_cost_le_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/21863f87-ff09-4c9f-b5fd-2463434a00fd

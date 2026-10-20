@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_homogeneous_fin_isWeaklyRegular_of_linear_quotient_aux
 -- name    : PermanentRollout.homogeneousMap_allRank_homogeneous_fin_isWeaklyRegular_of_linear_quotient_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/b9a90718-e51a-4710-8cad-cb32fb7f0fd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockVariables_eq_four_mul
 -- name    : PermanentRollout.blockVariables_eq_four_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/137360d7-fa60-41de-8d8b-435efad8619f

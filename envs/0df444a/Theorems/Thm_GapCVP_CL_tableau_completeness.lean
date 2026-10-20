@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_tableau_completeness
 -- name    : GapCVP.CL.tableau_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/28c2cc07-3e3e-47e8-97f0-c347bc3a075a

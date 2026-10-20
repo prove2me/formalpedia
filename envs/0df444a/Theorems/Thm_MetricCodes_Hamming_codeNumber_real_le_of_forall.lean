@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_codeNumber_real_le_of_forall
 -- name    : MetricCodes.Hamming.codeNumber_real_le_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/14a64069-fca9-41d4-846d-de3bb58f7ba7

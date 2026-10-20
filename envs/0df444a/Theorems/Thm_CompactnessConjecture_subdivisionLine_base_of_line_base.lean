@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionLine_base_of_line_base
 -- name    : CompactnessConjecture.subdivisionLine_base_of_line_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/191f01ba-3c88-4c8e-a6a4-daddd15e5a54

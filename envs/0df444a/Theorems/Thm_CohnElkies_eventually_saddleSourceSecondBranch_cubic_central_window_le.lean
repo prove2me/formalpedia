@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceSecondBranch_cubic_central_window_le
 -- name    : CohnElkies.eventually_saddleSourceSecondBranch_cubic_central_window_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/01873621-5777-4213-8cb9-f3922ada848c

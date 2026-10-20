@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_johnsonAmbientDimension_le_terminalChoose
 -- name    : MetricCodes.Johnson.Asymptotics.johnsonAmbientDimension_le_terminalChoose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/d9b051d3-10b1-4f39-a31e-568f9ad05a35

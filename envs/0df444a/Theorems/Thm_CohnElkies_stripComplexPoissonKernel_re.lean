@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripComplexPoissonKernel_re
 -- name    : CohnElkies.stripComplexPoissonKernel_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/3831fce9-a856-4f49-a7fc-05cd1a2c9ef8

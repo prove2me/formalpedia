@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_torus_descended_periodization_comp_projection
 -- name    : SchwartzMap.PoissonSummation.Standard.torus_descended_periodization_comp_projection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/9f8c5a85-f9d7-4a18-a3a3-e3271e6295e9

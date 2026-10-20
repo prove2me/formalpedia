@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Cauchy_convergent_iff_cauchy_rectangular
 -- name    : PermLimits.Cauchy.convergent_iff_cauchy_rectangular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:27:25.807636+00:00
 -- url     : https://prove2.me/theorems/0891e0ff-f95f-451e-83ff-4f05c579be31

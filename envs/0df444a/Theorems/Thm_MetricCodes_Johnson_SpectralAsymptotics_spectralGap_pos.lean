@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_spectralGap_pos
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.spectralGap_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/b3eb0cbb-5c32-4ace-af3d-9e357394e3a2

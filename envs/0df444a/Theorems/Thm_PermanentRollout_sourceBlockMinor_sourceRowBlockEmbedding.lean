@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMinor_sourceRowBlockEmbedding
 -- name    : PermanentRollout.sourceBlockMinor_sourceRowBlockEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/0f9e1230-5a86-4b07-958b-3a8bfcc09c7c

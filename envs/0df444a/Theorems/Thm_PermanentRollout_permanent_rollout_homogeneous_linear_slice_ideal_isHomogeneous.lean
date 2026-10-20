@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_homogeneous_linear_slice_ideal_isHomogeneous
 -- name    : PermanentRollout.permanent_rollout_homogeneous_linear_slice_ideal_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/cee5335d-ed56-4616-a3b9-0ba12b324922

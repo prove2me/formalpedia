@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPrefactor_sixtyFour_fourthRoot_le
 -- name    : QuantumParallelRepetition.unconditionalPrefactor_sixtyFour_fourthRoot_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/30683946-eaad-4c85-98f7-71f80eedc2a6

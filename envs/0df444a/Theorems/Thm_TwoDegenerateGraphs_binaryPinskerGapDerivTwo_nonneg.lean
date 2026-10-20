@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryPinskerGapDerivTwo_nonneg
 -- name    : TwoDegenerateGraphs.binaryPinskerGapDerivTwo_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/b0a517e0-10e6-415f-ac8d-2149a11177bf

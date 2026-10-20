@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_unrelated_four_path_endpoint_card_le
 -- name    : CompactnessConjecture.unrelated_four_path_endpoint_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/535c6549-5260-4779-a9a1-1e82c838404b

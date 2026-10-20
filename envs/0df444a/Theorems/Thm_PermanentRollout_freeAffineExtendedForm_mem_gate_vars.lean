@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineExtendedForm_mem_gate_vars
 -- name    : PermanentRollout.freeAffineExtendedForm_mem_gate_vars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/42096d1c-7534-4101-ac2f-5cbe2756a553

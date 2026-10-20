@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMatrix_rectangularPermanent_flatten
 -- name    : PermanentRollout.sourceBlockMatrix_rectangularPermanent_flatten
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/0deda884-7210-420b-b4bb-62c18bb7a441

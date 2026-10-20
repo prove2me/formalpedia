@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondSuffixSummation_succeedingDiamondSubset_union
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixSummation.succeedingDiamondSubset_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:00.396673+00:00
 -- url     : https://prove2.me/theorems/f151f0b1-8cce-4993-9ed7-521e4b319627

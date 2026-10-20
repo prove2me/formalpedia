@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_weight_complement_pos
 -- name    : MetricCodes.Johnson.AsymptoticParameters.weight_complement_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/ff978885-8bcd-42e5-8371-42cba821bbf1

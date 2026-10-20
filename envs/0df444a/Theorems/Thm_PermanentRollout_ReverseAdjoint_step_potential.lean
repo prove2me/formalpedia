@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_step_potential
 -- name    : PermanentRollout.ReverseAdjoint.step_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/eeff5c78-bf28-4886-9d29-55b752ceb140

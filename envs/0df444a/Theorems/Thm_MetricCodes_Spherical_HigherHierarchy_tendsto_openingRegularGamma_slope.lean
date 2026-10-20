@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_openingRegularGamma_slope
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_openingRegularGamma_slope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/437ec927-2b5d-4f32-88ea-e2082a208ad9

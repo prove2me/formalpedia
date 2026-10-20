@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedJHom_injOn_marked_copy
 -- name    : CompactnessConjecture.gluedJHom_injOn_marked_copy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/be804b49-d43d-48a8-a010-b7a116022e1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoopetSourcing_WholesalePrice_eq_13
 -- name    : CoopetSourcing.WholesalePrice.eq_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:52:04.445963+00:00
 -- url     : https://prove2.me/theorems/de2b1d85-3a55-40e5-8de4-7074d94a139b

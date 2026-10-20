@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusCompactGreen_angularScalarFundamentalLiftLI_ae_eq
 -- name    : Ehrhart.MatrixTorusCompactGreen.angularScalarFundamentalLiftLI_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/fd0c224e-32ff-4880-9cd6-6221b7c835f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_coverFundamentalInterior_isOpen
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.coverFundamentalInterior_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/5dc324ec-da25-4da4-9c51-65e6f27e20fa

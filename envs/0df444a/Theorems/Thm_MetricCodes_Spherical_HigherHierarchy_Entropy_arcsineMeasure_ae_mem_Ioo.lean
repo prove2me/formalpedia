@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_arcsineMeasure_ae_mem_Ioo
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.arcsineMeasure_ae_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/e296a79f-6f2a-4b5a-a169-1e60767d1ec3

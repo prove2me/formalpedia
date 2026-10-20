@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusGraphWeakBridge_weightedFormGraphGenerator_complexCoverLift_ae_eq
 -- name    : Ehrhart.WeightedTorusGraphWeakBridge.weightedFormGraphGenerator_complexCoverLift_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/cbb9e2e7-1d16-4439-9986-448360f73d26

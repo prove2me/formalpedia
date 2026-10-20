@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MonomialDivergence_not_integrable_monomialWeight_of_centeredBody_not_mem_interior
 -- name    : Ehrhart.MonomialDivergence.not_integrable_monomialWeight_of_centeredBody_not_mem_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/5908fc78-649d-4af7-903a-8abf94e63d94

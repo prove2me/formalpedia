@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_homogeneous_linear_sub_constant_isSMulRegular
 -- name    : PermanentRollout.homogeneousMap_allTarget_homogeneous_linear_sub_constant_isSMulRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/d4f98810-4a53-464a-ad86-24eb6beb43ed

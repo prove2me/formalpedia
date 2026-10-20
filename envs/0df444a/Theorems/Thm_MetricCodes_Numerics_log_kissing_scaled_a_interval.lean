@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_log_kissing_scaled_a_interval
 -- name    : MetricCodes.Numerics.log_kissing_scaled_a_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/4002d2a9-7cc6-4f41-b660-c4a25bf4c5ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUnconditionalActualSourceDecomposition_exists_unconditional_actual_source_dual_finpartition_sequences
 -- name    : SoficGroups.KunUnconditionalActualSourceDecomposition.exists_unconditional_actual_source_dual_finpartition_sequences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/9761247b-e430-40a9-a0c1-529e3ed64756

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtree_topProduct_union_erase_right
 -- name    : PermanentRollout.subtree_topProduct_union_erase_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/e126d19d-dca7-42aa-bbe4-37d23c05201c

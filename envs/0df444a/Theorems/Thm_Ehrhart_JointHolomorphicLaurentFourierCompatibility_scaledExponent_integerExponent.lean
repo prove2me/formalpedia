@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_scaledExponent_integerExponent
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.scaledExponent_integerExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/07933a2f-9d25-4bb4-8bc9-87cadc10cd12

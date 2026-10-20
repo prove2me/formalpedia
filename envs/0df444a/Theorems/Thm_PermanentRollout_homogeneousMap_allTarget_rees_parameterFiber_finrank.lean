@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_rees_parameterFiber_finrank
 -- name    : PermanentRollout.homogeneousMap_allTarget_rees_parameterFiber_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/c2b3c5bd-4af7-4635-bc69-ef5d3195f744

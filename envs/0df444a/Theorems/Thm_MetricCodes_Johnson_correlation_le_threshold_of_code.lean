@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_correlation_le_threshold_of_code
 -- name    : MetricCodes.Johnson.correlation_le_threshold_of_code
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/af2ccc8d-35c5-4591-ac76-157b15045271

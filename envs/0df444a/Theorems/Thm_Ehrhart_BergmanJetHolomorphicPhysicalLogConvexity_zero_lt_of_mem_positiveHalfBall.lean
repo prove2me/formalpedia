@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_zero_lt_of_mem_positiveHalfBall
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.zero_lt_of_mem_positiveHalfBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/10ef3b21-0ea4-4f7b-a50f-c9e00cfe3498

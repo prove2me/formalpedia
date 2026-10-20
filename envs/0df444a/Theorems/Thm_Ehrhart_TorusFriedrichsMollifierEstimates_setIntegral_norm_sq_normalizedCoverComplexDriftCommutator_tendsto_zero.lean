@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsMollifierEstimates_setIntegral_norm_sq_normalizedCoverComplexDriftCommutator_tendsto_zero
 -- name    : Ehrhart.TorusFriedrichsMollifierEstimates.setIntegral_norm_sq_normalizedCoverComplexDriftCommutator_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/6381c5d9-888c-4a12-8987-f1de65d09c87

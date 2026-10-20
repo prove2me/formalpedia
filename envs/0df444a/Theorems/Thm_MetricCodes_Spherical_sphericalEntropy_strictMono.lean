@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalEntropy_strictMono
 -- name    : MetricCodes.Spherical.sphericalEntropy_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/a8e651f0-bc96-4238-ba93-cb77b01607d3

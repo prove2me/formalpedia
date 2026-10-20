@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTNormalizedTransverseCharacteristicAnnihilation_normalizedGTTransversePositiveSector_mem_gtSignedEigenvectorSpan
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseCharacteristicAnnihilation.normalizedGTTransversePositiveSector_mem_gtSignedEigenvectorSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/e2f4a9a5-a744-4994-9618-9f74c849a020

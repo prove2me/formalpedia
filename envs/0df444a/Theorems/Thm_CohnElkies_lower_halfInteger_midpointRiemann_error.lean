@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lower_halfInteger_midpointRiemann_error
 -- name    : CohnElkies.lower_halfInteger_midpointRiemann_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/9f7ef3f9-e078-4e91-8652-e64ce1bc7868

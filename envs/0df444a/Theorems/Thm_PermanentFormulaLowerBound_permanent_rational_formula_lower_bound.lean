@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_permanent_rational_formula_lower_bound
 -- name    : PermanentFormulaLowerBound.permanent_rational_formula_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/a43c9b7f-c37e-4757-a98e-d57daf538616

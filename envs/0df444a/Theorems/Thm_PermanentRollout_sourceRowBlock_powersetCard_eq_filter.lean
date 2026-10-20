@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceRowBlock_powersetCard_eq_filter
 -- name    : PermanentRollout.sourceRowBlock_powersetCard_eq_filter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/569a1ad2-cead-43f1-bf62-f18cf4d1f94f

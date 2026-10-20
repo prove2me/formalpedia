@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeGlobalPlurisubharmonic_jointLogTime_sourceJointPhaseHomeomorph
 -- name    : Ehrhart.JetEnvelopeGlobalPlurisubharmonic.jointLogTime_sourceJointPhaseHomeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/f620c610-e072-4f16-9aa1-1ac0ea94dccd

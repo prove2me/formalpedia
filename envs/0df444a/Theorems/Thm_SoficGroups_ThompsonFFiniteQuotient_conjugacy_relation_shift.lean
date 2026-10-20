@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFFiniteQuotient_conjugacy_relation_shift
 -- name    : SoficGroups.ThompsonFFiniteQuotient.conjugacy_relation_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/99960119-4db4-42bc-a2f0-8b7bae86837f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_fockH_stone_flow
 -- name    : BookProof.DirectSumEsa.fockH_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:00:50.016348+00:00
 -- url     : https://prove2.me/theorems/0d07acdf-9a30-4029-8115-bea65d10fbbb

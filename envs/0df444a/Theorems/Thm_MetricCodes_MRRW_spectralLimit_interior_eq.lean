@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_spectralLimit_interior_eq
 -- name    : MetricCodes.MRRW.spectralLimit_interior_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/a8448bca-6549-43df-846c-385257474ae9

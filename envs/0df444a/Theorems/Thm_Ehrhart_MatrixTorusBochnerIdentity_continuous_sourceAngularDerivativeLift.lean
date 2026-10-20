@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_continuous_sourceAngularDerivativeLift
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.continuous_sourceAngularDerivativeLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/487c2e0e-dac0-4f93-be7d-860f67e4688b

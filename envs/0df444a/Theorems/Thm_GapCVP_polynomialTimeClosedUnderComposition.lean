@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_polynomialTimeClosedUnderComposition
 -- name    : GapCVP.polynomialTimeClosedUnderComposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/42b3e622-2034-4b49-a23e-515306d0ec80

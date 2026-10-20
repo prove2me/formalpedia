@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_gradientVector_eq_zero_iff
 -- name    : PermanentRollout.gradientVector_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/f942d3fb-3a10-4eb6-aa02-73d5c8436cc5

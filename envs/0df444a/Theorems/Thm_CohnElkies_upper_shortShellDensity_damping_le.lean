@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upper_shortShellDensity_damping_le
 -- name    : CohnElkies.upper_shortShellDensity_damping_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/25cd7f46-6910-48bd-843a-7abae03fcb9c

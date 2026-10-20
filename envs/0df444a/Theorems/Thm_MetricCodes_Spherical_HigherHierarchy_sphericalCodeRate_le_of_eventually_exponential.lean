@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sphericalCodeRate_le_of_eventually_exponential
 -- name    : MetricCodes.Spherical.HigherHierarchy.sphericalCodeRate_le_of_eventually_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/3a05598d-4c41-4cec-b6b2-1b18dcc97039

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPhysicalOneScaleActualGlobalFiberPOVM_nested
 -- name    : QuantumParallelRepetition.unconditionalPhysicalOneScaleActualGlobalFiberPOVM_nested
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/58d85347-da71-4a50-87df-500cc3341e04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_windowFibreQuotient_pos_of_fit
 -- name    : MetricCodes.Hamming.windowFibreQuotient_pos_of_fit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/6602b346-8ffc-4fde-a408-6b02d72b860d

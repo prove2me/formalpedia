@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCartanCharacteristicInterpolation_cartanCharacteristicInterpolationProjector_apply_of_eigenvector
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation.cartanCharacteristicInterpolationProjector_apply_of_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/3dc808ec-7a80-48f4-ab69-d5a16265af66

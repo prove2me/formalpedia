@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusPolynomial_imaginary_re_pos
 -- name    : CohnElkies.plusPolynomial_imaginary_re_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/6f5847a4-eaca-45ab-9a88-4d4868aa4bf3

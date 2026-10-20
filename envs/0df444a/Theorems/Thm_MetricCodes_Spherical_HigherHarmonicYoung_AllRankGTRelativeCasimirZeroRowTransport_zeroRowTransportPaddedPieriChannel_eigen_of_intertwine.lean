@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTRelativeCasimirZeroRowTransport_zeroRowTransportPaddedPieriChannel_eigen_of_intertwine
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport.zeroRowTransportPaddedPieriChannel_eigen_of_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/63da02fe-5c5d-492f-b4a2-aeebd705d8cf

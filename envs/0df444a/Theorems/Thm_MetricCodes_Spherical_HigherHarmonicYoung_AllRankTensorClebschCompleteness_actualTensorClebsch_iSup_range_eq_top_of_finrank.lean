@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankTensorClebschCompleteness_actualTensorClebsch_iSup_range_eq_top_of_finrank
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschCompleteness.actualTensorClebsch_iSup_range_eq_top_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/27197551-82c2-4faf-b009-ae006302646c

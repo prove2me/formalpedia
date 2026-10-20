@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_variationalRate_le_of_feasible
 -- name    : MetricCodes.Johnson.variationalRate_le_of_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/4820af9d-3897-4aee-a522-d1c234cce0fb

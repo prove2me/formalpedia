@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicTimeDerivativeBounds_momentWeakHolomorphicStrictJointTorusVelocity_eq_mollified
 -- name    : Ehrhart.BergmanJetJointHolomorphicTimeDerivativeBounds.momentWeakHolomorphicStrictJointTorusVelocity_eq_mollified
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/ab749919-c213-40d0-89ca-cfbea6f3b012

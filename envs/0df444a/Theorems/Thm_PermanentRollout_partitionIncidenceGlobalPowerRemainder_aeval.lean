@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionIncidenceGlobalPowerRemainder_aeval
 -- name    : PermanentRollout.partitionIncidenceGlobalPowerRemainder_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/b8e7e167-728a-4507-b018-9fcde729d363

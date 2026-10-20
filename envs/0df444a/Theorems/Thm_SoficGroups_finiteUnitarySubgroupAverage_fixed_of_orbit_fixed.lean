@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteUnitarySubgroupAverage_fixed_of_orbit_fixed
 -- name    : SoficGroups.finiteUnitarySubgroupAverage_fixed_of_orbit_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/c7da8f02-93d2-440c-9ada-3edd55bcfd8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleProfile_div_origin_eq_small_radius_residue_series
 -- name    : CohnElkies.plusSaddleProfile_div_origin_eq_small_radius_residue_series
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/db381bb1-2439-4e7e-9ced-ec7047408460

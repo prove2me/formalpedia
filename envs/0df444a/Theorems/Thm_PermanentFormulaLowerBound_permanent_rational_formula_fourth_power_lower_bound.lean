@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_permanent_rational_formula_fourth_power_lower_bound
 -- name    : PermanentFormulaLowerBound.permanent_rational_formula_fourth_power_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/589bbb88-3612-4c3a-8122-7ab23a9d29e9

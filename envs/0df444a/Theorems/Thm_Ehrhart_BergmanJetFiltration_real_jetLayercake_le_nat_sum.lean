@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetFiltration_real_jetLayercake_le_nat_sum
 -- name    : Ehrhart.BergmanJetFiltration.real_jetLayercake_le_nat_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/a3dc3f7c-d8d7-4fa3-85bd-ff3f39d35195

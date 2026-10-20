@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_terminalVector_ne_zero
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.terminalVector_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/b378fbcd-5c14-416c-b181-4d4c99a981ab

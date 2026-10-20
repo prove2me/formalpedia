@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMatchedVerifierTensor_norm
 -- name    : QuantumParallelRepetition.unconditionalMatchedVerifierTensor_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/81091344-9c73-4327-b924-538ceb3b850e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialLogProfile_nonneg_of_exterior
 -- name    : CohnElkies.normalizedRadialLogProfile_nonneg_of_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/5bd0ee4b-0632-4fe5-8948-7f9122ea630f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeBridge_integral_momentTorusRepresentative_jetBasis
 -- name    : Ehrhart.BergmanJetTorusSlopeBridge.integral_momentTorusRepresentative_jetBasis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/f05abf22-5ff2-4e11-8f8d-227b86dff9e3

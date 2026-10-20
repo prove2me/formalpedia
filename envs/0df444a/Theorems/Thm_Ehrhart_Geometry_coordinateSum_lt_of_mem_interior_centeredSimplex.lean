@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_coordinateSum_lt_of_mem_interior_centeredSimplex
 -- name    : Ehrhart.Geometry.coordinateSum_lt_of_mem_interior_centeredSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/8a927d9a-e624-47f1-bbad-ea7504a6e76c

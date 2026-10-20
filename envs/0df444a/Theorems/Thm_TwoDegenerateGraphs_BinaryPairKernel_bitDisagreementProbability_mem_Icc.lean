@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_bitDisagreementProbability_mem_Icc
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.bitDisagreementProbability_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/262d16c8-46b5-45bc-b192-f2e5be674634

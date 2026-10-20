@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphCopy_parent_child_hammingDist_le
 -- name    : TwoDegenerateGraphs.pairGraphCopy_parent_child_hammingDist_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/b1b17927-7a34-4325-a3dd-37e59df442b6

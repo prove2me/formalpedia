@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockIncidence_adjoin_column_coordinates
 -- name    : PermanentRollout.blockIncidence_adjoin_column_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/efab5c24-a3c5-456f-9780-f3ada5e4b4d3

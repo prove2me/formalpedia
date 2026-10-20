@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PermanentFormulaLowerBound_pderiv_bind__chain_rule_ab7619a8c457
 -- name    : P2M_PermanentFormulaLowerBound_pderiv_bind__chain_rule_ab7619a8c457
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/a0331f6a-be57-4241-adc3-1a101b73d245

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedJBase_color_eq
 -- name    : CompactnessConjecture.gluedJBase_color_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/fd92f550-f7f4-4885-a39e-f3e14ae03ea9

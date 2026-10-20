@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_directDSVActualReindexedRetainedPOVMWinningEffect
 -- name    : QuantumParallelRepetition.directDSVActualReindexedRetainedPOVMWinningEffect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/1f436ba8-3699-4f5f-9037-1f76b4189226

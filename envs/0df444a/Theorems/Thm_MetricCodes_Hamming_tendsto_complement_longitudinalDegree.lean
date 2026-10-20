@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_complement_longitudinalDegree
 -- name    : MetricCodes.Hamming.tendsto_complement_longitudinalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/95329fd0-fe4d-419d-99b7-e71ac1d1c84a

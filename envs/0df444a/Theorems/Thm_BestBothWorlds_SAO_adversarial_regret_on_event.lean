@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_adversarial_regret_on_event
 -- name    : BestBothWorlds.SAO.adversarial_regret_on_event
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:59.409625+00:00
 -- url     : https://prove2.me/theorems/8092e862-3647-4629-9d07-6b98d7d597bb

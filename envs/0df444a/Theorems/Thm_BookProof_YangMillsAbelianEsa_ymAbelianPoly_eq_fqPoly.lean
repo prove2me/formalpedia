@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_ymAbelianPoly_eq_fqPoly
 -- name    : BookProof.YangMillsAbelianEsa.ymAbelianPoly_eq_fqPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:41:37.043037+00:00
 -- url     : https://prove2.me/theorems/1a0cc5ec-7c50-4a68-ac4f-a52de63b4a6d

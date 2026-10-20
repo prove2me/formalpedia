@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_minimal_cap_three
 -- name    : OAI.GaussianPropeller.Reduction.minimal_cap_three
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:28:41.760456+00:00
 -- url     : https://prove2.me/theorems/1f922471-60ab-4226-83b1-41aee63e90f9

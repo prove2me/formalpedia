@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusClosedMollifierAdjoint_contDiff_translatedDensityCancelledCoverKernel
 -- name    : Ehrhart.TorusClosedMollifierAdjoint.contDiff_translatedDensityCancelledCoverKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/98182340-dbe2-4ee4-8f17-a9907daaa2d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_sum_sumEmbedding_left_weight
 -- name    : PermanentFormulaLowerBound.sum_sumEmbedding_left_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/b81d52d7-d62e-47b7-afa0-cc70790b634c

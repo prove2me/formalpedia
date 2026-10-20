@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalInvalidRowProjectorVanishing_interlaces_of_appendZeroWeight
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalInvalidRowProjectorVanishing.interlaces_of_appendZeroWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/6e111fc5-d247-4a61-83a1-b27ff5c2d8db

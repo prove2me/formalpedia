@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_integer_lattice_poisson_identity
 -- name    : SchwartzMap.integer_lattice_poisson_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/753e0abe-674c-49d0-90a3-b6317ec7d27b

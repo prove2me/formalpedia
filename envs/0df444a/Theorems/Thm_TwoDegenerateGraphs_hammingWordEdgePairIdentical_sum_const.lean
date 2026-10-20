@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingWordEdgePairIdentical_sum_const
 -- name    : TwoDegenerateGraphs.hammingWordEdgePairIdentical_sum_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/9607733c-098f-479b-bb87-122775a5c1bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPointwiseLogKernel_tendsto_log_momentNormalized_diagonalKernel_div
 -- name    : Ehrhart.BergmanJetPointwiseLogKernel.tendsto_log_momentNormalized_diagonalKernel_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/d0232579-1554-4334-9b8e-74154e3baf53

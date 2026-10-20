@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyTrueGridAdjacency_matrix_symmetric
 -- name    : MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency.matrix_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/4218365b-8ac4-4273-bf1b-1e6ad7b04d70

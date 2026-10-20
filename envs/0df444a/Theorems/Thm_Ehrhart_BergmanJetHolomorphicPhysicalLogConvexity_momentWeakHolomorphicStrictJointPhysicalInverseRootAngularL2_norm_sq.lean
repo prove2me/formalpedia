@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_momentWeakHolomorphicStrictJointPhysicalInverseRootAngularL2_norm_sq
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.momentWeakHolomorphicStrictJointPhysicalInverseRootAngularL2_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/22bb845a-6e1d-45c7-abae-a5b294d0f207

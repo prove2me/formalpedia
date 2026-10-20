@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_polePolynomial_derivative_eval_pole_eq_lagrangeDenominator
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.polePolynomial_derivative_eval_pole_eq_lagrangeDenominator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/f3287a08-094d-4177-b919-6908ae78de08

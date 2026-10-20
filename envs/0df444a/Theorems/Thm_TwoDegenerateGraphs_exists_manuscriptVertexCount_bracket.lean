@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exists_manuscriptVertexCount_bracket
 -- name    : TwoDegenerateGraphs.exists_manuscriptVertexCount_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/1c3b80ac-7737-44c6-a4a6-5b4cb37d36d7

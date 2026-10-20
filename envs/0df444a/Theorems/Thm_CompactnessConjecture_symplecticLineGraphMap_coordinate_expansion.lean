@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLineGraphMap_coordinate_expansion
 -- name    : CompactnessConjecture.symplecticLineGraphMap_coordinate_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/4064bb1c-777e-4044-92a4-aa2ecfae4f74

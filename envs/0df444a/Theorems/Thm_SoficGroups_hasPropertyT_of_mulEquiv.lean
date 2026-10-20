@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_hasPropertyT_of_mulEquiv
 -- name    : SoficGroups.hasPropertyT_of_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/f4de36c6-5f02-4cec-97a1-54c248f144a8

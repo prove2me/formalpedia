@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gammaBad_four_path_triple_mass_le_bad_fiber_mass
 -- name    : CompactnessConjecture.gammaBad_four_path_triple_mass_le_bad_fiber_mass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/e7a10946-50c8-4746-8495-95d6b91de01e

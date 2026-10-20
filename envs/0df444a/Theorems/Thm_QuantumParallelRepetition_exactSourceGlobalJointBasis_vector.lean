@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceGlobalJointBasis_vector
 -- name    : QuantumParallelRepetition.exactSourceGlobalJointBasis_vector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/9508fb5b-08d9-474c-a964-064cd4ff6320

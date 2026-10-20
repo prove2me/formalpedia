@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMatrix_permanent_eq_matchingExpansion
 -- name    : PermanentRollout.sourceBlockMatrix_permanent_eq_matchingExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/72a7677a-c0c5-4f43-8a11-82e7ab7095fc

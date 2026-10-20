@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_coordinateSum_surjective
 -- name    : Ehrhart.Geometry.coordinateSum_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/ac7f83cf-18f1-412a-aaf5-cbd34dc449cf

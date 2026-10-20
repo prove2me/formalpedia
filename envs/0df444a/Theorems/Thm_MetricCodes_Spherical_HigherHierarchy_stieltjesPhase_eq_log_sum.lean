@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhase_eq_log_sum
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhase_eq_log_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/e31a8fb0-35e1-4a6f-bc85-977c4bad9570

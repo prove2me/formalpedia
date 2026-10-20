@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCartanHodgeSelector_gtYoungAxisTensor_adjoint_comp_youngClebschLower
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector.gtYoungAxisTensor_adjoint_comp_youngClebschLower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/c435643d-d8a6-497c-a5c5-dc107df481b8

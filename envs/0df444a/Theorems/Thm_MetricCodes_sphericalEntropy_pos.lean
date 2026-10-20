@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_sphericalEntropy_pos
 -- name    : MetricCodes.sphericalEntropy_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/6d2d3ab2-bb5d-4dad-b860-dc17242f00a6

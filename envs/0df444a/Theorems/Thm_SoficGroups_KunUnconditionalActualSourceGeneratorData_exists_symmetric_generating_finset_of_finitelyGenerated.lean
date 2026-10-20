@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUnconditionalActualSourceGeneratorData_exists_symmetric_generating_finset_of_finitelyGenerated
 -- name    : SoficGroups.KunUnconditionalActualSourceGeneratorData.exists_symmetric_generating_finset_of_finitelyGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/c1e65921-773d-456b-8e31-5af0b4cdee3f

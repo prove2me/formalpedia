@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPrefactor_fourthRoot_async_le_twelfth
 -- name    : QuantumParallelRepetition.unconditionalPrefactor_fourthRoot_async_le_twelfth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/a63c72b1-4452-40d2-a8cd-a6c7665bdd47

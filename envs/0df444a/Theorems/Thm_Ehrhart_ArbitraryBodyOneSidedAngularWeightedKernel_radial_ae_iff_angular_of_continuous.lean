@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularWeightedKernel_radial_ae_iff_angular_of_continuous
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularWeightedKernel.radial_ae_iff_angular_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/df44c608-e56a-463d-801b-eb956be5e2e7

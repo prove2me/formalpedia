@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_openingAmbient_scaledDerivative
 -- name    : MetricCodes.Spherical.HigherHierarchy.openingAmbient_scaledDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/03538173-93cd-4e5b-bd63-70c37aea7da7

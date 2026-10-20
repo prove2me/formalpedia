@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperFirstBranch_saddleSourceThirdMoment_scaled_le
 -- name    : CohnElkies.upperFirstBranch_saddleSourceThirdMoment_scaled_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/b39ed3aa-3a79-445b-b4e4-e9410457b239

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceConditionalWinningProbability_bounds
 -- name    : QuantumParallelRepetition.exactSourceConditionalWinningProbability_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/10be3f52-a06a-4f15-adad-33d3d543c310

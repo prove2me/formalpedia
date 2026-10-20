@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArnoldCounterexample_Construction_vertical_core_fixed
 -- name    : OAI.ArnoldCounterexample.Construction.vertical_core_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:45:19.607977+00:00
 -- url     : https://prove2.me/theorems/b2549a22-cd5a-4c06-9fc7-b7a2da05bd8b

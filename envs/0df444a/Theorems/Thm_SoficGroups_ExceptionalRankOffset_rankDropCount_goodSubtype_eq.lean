@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ExceptionalRankOffset_rankDropCount_goodSubtype_eq
 -- name    : SoficGroups.ExceptionalRankOffset.rankDropCount_goodSubtype_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/a83bc387-346e-4c78-a85a-6a00aa414dc7

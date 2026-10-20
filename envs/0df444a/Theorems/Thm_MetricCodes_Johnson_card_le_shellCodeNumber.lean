@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_card_le_shellCodeNumber
 -- name    : MetricCodes.Johnson.card_le_shellCodeNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/d01411f6-1f00-48f0-863b-513f955955cd

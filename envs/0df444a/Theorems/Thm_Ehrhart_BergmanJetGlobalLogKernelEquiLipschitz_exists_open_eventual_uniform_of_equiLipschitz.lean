@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_exists_open_eventual_uniform_of_equiLipschitz
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.exists_open_eventual_uniform_of_equiLipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/12cd5ecb-9cd5-4466-9898-4523dcd637df

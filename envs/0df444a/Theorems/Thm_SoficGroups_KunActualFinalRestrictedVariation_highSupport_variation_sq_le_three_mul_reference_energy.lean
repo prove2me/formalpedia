@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFinalRestrictedVariation_highSupport_variation_sq_le_three_mul_reference_energy
 -- name    : SoficGroups.KunActualFinalRestrictedVariation.highSupport_variation_sq_le_three_mul_reference_energy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/2a7a4b2e-d7ed-4b86-8fbf-2c86dc5ee619

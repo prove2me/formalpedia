@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerCoreApproximation_torusScalarRepresentative_add
 -- name    : Ehrhart.MatrixTorusBochnerCoreApproximation.torusScalarRepresentative_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/122514bc-ac30-4658-8457-223a6666b2c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_fixedLevelForwardCompactifiedResidualLimit
 -- name    : MetricCodes.Spherical.HigherHierarchy.fixedLevelForwardCompactifiedResidualLimit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/7e715b27-b1fa-437b-8330-cb7565f3a02a

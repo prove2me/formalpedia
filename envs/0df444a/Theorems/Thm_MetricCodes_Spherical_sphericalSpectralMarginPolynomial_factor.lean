@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalSpectralMarginPolynomial_factor
 -- name    : MetricCodes.Spherical.sphericalSpectralMarginPolynomial_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/5477c845-93b8-4598-ba3f-884ac067efb0

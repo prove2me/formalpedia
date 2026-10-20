@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_terminal_rayleigh_le_top
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.terminal_rayleigh_le_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/99b05aa7-7fa9-485e-8462-f7e42838088b

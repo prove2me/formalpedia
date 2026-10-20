@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_esscher_tail_kernel_mass_as_discounted_first_moment
 -- name    : AvramDividend.Classical.esscher_tail_kernel_mass_as_discounted_first_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:13:36.141277+00:00
 -- url     : https://prove2.me/theorems/e3f1c19a-6165-4b24-b0e9-32ee1a32b355

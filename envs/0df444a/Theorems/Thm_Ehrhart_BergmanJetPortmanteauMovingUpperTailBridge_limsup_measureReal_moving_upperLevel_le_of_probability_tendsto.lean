@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauMovingUpperTailBridge_limsup_measureReal_moving_upperLevel_le_of_probability_tendsto
 -- name    : Ehrhart.BergmanJetPortmanteauMovingUpperTailBridge.limsup_measureReal_moving_upperLevel_le_of_probability_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/32c2a199-1de8-4fd5-b961-f293914451f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Phi_eq_sum_entropy_gaps
 -- name    : MetricCodes.Spherical.HigherHierarchy.Phi_eq_sum_entropy_gaps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/bdcf4d52-e195-44b8-ae8e-976576b3d784

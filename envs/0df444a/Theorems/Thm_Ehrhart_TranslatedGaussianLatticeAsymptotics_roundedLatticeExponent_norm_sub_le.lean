@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TranslatedGaussianLatticeAsymptotics_roundedLatticeExponent_norm_sub_le
 -- name    : Ehrhart.TranslatedGaussianLatticeAsymptotics.roundedLatticeExponent_norm_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/9369477c-7791-4c8b-ac7d-f251f13fdba7

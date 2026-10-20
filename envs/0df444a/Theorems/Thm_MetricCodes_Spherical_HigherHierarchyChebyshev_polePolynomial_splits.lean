@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_polePolynomial_splits
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.polePolynomial_splits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/52583938-ece7-439c-92f7-ac35f5e01030

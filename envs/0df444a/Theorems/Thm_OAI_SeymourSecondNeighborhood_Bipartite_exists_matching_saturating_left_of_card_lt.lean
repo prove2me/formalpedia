@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_exists_matching_saturating_left_of_card_lt
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.exists_matching_saturating_left_of_card_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:17:25.5431+00:00
 -- url     : https://prove2.me/theorems/5b331109-3523-4685-9069-74155a32df22

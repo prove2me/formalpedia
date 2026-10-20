@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalInvalidRowProjectorVanishing_physicalPaddedPieriChannel_adjoint_canonicalAxis_eq_zero_of_not_interlaces
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalInvalidRowProjectorVanishing.physicalPaddedPieriChannel_adjoint_canonicalAxis_eq_zero_of_not_interlaces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/85fb1c9f-16a4-47f0-b9eb-b6f056d0d7ec

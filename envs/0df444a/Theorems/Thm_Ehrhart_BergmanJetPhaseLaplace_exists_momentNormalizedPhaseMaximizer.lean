@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPhaseLaplace_exists_momentNormalizedPhaseMaximizer
 -- name    : Ehrhart.BergmanJetPhaseLaplace.exists_momentNormalizedPhaseMaximizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/bb40ecbc-ea03-49d3-a879-36b56d261a9e

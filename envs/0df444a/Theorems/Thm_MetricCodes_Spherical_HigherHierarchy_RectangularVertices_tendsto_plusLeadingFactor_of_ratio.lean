@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_plusLeadingFactor_of_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_plusLeadingFactor_of_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/43ae9bae-de28-4f5d-83fa-f5f0ac3f861d

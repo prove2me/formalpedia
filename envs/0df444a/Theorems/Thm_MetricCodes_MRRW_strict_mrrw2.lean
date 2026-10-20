@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_strict_mrrw2
 -- name    : MetricCodes.MRRW.strict_mrrw2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/6509b764-485c-4402-8e24-c172eb169c6c

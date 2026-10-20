@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_member_isBipartite
 -- name    : CompactnessConjecture.proposedFamily_member_isBipartite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/0b0433af-cdc7-449e-9a03-86a63676651f

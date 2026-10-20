@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ringKrullDim_le_of_isIntegral
 -- name    : PermanentRollout.ringKrullDim_le_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/c441e4dc-7209-42db-a017-f58b402ab702

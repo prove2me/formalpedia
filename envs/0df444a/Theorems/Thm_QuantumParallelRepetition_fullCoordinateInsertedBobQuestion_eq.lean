@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedBobQuestion_eq
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedBobQuestion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/c92b4f69-9b01-4d99-8157-ae18c838ead8

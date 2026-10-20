@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_not_erdos_180
 -- name    : CompactnessConjecture.not_erdos_180
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/5c679758-32c7-48b9-ade9-09b09380098d

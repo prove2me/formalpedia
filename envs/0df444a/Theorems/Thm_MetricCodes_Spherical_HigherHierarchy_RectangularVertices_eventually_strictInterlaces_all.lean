@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_eventually_strictInterlaces_all
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.eventually_strictInterlaces_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/77cf119b-d18a-49c8-be96-dc397a895415

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptHammingBall_card_entropy_lower
 -- name    : TwoDegenerateGraphs.manuscriptHammingBall_card_entropy_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/5d681013-710e-4c3c-8676-21e8d5e5bc54

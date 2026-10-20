@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalFairMatchedFlag_history_eq
 -- name    : QuantumParallelRepetition.unconditionalFairMatchedFlag_history_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/611af170-3ce9-4598-a0a3-4db7fe1b8ce8

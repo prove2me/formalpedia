@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_convexMixtureStrategy_outcomeProbability
 -- name    : QuantumParallelRepetition.convexMixtureStrategy_outcomeProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/3983aa06-2691-461f-a506-272af1594a2b

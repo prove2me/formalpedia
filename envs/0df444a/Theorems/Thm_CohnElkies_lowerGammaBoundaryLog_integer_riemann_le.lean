@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_integer_riemann_le
 -- name    : CohnElkies.lowerGammaBoundaryLog_integer_riemann_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/c1776084-d22b-4569-853e-2348970c9b3a

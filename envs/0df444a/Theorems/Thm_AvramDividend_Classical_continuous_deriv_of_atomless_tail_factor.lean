@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_continuous_deriv_of_atomless_tail_factor
 -- name    : AvramDividend.Classical.continuous_deriv_of_atomless_tail_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T14:49:14.85198+00:00
 -- url     : https://prove2.me/theorems/1511abb2-f62a-4a0c-8921-a6a34b27a9fc

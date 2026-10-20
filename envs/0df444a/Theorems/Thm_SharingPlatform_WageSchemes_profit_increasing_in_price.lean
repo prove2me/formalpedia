@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharingPlatform_WageSchemes_profit_increasing_in_price
 -- name    : SharingPlatform.WageSchemes.profit_increasing_in_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:56.961893+00:00
 -- url     : https://prove2.me/theorems/7c81e635-704a-45c6-bbc8-3dcded3189dd

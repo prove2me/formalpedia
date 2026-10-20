@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauMovingUpperTailBridge_moving_upperLevel_subset_closedTail
 -- name    : Ehrhart.BergmanJetPortmanteauMovingUpperTailBridge.moving_upperLevel_subset_closedTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/652decc1-d005-4b5e-a549-da41d7015acd

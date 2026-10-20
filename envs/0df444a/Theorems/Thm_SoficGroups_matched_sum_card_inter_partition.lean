@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matched_sum_card_inter_partition
 -- name    : SoficGroups.matched_sum_card_inter_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/6e8f54f1-f030-40ed-9f4c-785967d3c826

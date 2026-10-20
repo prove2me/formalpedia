@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_longitudinalDegree_le_dimension
 -- name    : MetricCodes.Hamming.longitudinalDegree_le_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/5b966d28-5e6b-4114-ae7d-1301f2a1cddd

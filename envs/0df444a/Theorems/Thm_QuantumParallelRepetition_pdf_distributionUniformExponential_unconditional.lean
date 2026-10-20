@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdf_distributionUniformExponential_unconditional
 -- name    : QuantumParallelRepetition.pdf_distributionUniformExponential_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/03e2fd2c-0f01-4edc-aa71-b829c9620816

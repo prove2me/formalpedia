@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousIdeal_radical_eq_idealOfVars_of_ringKrullDim_le_zero
 -- name    : PermanentRollout.homogeneousIdeal_radical_eq_idealOfVars_of_ringKrullDim_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/242473ab-c080-455b-b295-f679d0215136

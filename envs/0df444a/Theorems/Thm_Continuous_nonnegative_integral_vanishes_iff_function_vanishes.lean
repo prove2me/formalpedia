@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Continuous_nonnegative_integral_vanishes_iff_function_vanishes
 -- name    : Continuous.nonnegative_integral_vanishes_iff_function_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/c24b8715-ac3b-4bdc-873c-68d0899cc30b

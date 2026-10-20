@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedKHom_color_respecting
 -- name    : CompactnessConjecture.gluedKHom_color_respecting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/78f9a94d-d90f-41d1-9e7d-102e4032a0cd

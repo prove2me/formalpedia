@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusGraphWeakBridge_weightedTorus_ae_iff_unweighted
 -- name    : Ehrhart.WeightedTorusGraphWeakBridge.weightedTorus_ae_iff_unweighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/99a2c5f6-0d98-4811-b08c-fc8d3339b1de

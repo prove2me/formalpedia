@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_scaled_fourierInv_le_integral_norm
 -- name    : CohnElkies.norm_scaled_fourierInv_le_integral_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/51abc278-41e7-432c-9df7-553eec70cb91

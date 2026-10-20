@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_addChannel_isometry
 -- name    : MetricCodes.Boolean.addChannel_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/fc3b1cc5-2288-43b1-a93c-56f21d58ed26

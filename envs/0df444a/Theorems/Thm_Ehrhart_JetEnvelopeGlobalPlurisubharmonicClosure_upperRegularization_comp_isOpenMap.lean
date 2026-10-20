@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeGlobalPlurisubharmonicClosure_upperRegularization_comp_isOpenMap
 -- name    : Ehrhart.JetEnvelopeGlobalPlurisubharmonicClosure.upperRegularization_comp_isOpenMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/f903f9fd-dcf4-4d4d-a0f5-ed5e1f51331e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckGraphAdjoint_angularWeakDolbeaultResolvent_smoothGraphTest_adjoint_integral
 -- name    : Ehrhart.TorusDeckGraphAdjoint.angularWeakDolbeaultResolvent_smoothGraphTest_adjoint_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/7216298d-0940-46d5-9d27-a19d5ef79782

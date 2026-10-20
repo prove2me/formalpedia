@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceWeightedCosineQuadraticRemainder_norm_le
 -- name    : CohnElkies.saddleSourceWeightedCosineQuadraticRemainder_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/bc56fbc0-d03d-4bf3-9e9d-3e733c0c913d

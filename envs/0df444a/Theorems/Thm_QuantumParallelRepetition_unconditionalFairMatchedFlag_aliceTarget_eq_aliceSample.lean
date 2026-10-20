@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalFairMatchedFlag_aliceTarget_eq_aliceSample
 -- name    : QuantumParallelRepetition.unconditionalFairMatchedFlag_aliceTarget_eq_aliceSample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/e0d6fb0a-00e6-4a08-bd9f-f0e7932bcbe5

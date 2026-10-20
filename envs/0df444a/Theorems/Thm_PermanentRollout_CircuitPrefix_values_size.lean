@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_CircuitPrefix_values_size
 -- name    : PermanentRollout.CircuitPrefix.values_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/d16cb391-0fd4-4b40-bb88-7663e4f4cfa7

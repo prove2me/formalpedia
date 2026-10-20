@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_flaggedQuestionWeight_sum
 -- name    : QuantumParallelRepetition.flaggedQuestionWeight_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/0c10e4f2-6b55-4aeb-ad61-74508fb0cb13

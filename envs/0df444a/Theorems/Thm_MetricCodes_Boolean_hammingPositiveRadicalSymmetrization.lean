@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingPositiveRadicalSymmetrization
 -- name    : MetricCodes.Boolean.hammingPositiveRadicalSymmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/a7567d2c-ea83-41a8-b57d-f50eda1f77ac

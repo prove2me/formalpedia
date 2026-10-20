@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_unmatched_vertices_le_zero_and_excess
 -- name    : SoficGroups.KunThomFiberCoarea.unmatched_vertices_le_zero_and_excess
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/7254c204-a5be-42dd-9847-b4348bb35dc3

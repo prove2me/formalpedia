@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_withoutReplacementBinaryPairExpectation_nonneg
 -- name    : TwoDegenerateGraphs.withoutReplacementBinaryPairExpectation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/2f15f40f-fcc9-492a-82f5-6ed41c841c8a

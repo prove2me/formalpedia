@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_actualStoppingBranchBorn_nonneg
 -- name    : QuantumParallelRepetition.actualStoppingBranchBorn_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/c10ca63c-dbc9-409d-ba1e-133b0b6d4a8d

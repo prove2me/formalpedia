@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_boundaryDegree_lt_longitudinal
 -- name    : MetricCodes.Spherical.boundaryDegree_lt_longitudinal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/ab4d18d9-cd99-4032-8b11-ec4025458d3f

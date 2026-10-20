@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_plusSaddleProfile_re_pos_on_star_fixed
 -- name    : CohnElkies.eventually_plusSaddleProfile_re_pos_on_star_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/8a838968-466c-4da6-aee9-5bb873c5492d

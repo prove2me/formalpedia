@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_rowVariationalRate_nonneg_all
 -- name    : MetricCodes.Spherical.HigherHierarchy.rowVariationalRate_nonneg_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/e61b75e9-2146-4066-9cc2-845114213ced

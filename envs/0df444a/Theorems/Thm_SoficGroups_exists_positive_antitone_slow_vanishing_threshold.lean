@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_positive_antitone_slow_vanishing_threshold
 -- name    : SoficGroups.exists_positive_antitone_slow_vanishing_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/894726e1-e6b7-48de-b86d-f345ab01c320

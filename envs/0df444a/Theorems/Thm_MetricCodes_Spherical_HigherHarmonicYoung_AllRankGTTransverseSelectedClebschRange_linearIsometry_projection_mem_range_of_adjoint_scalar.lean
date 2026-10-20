@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseSelectedClebschRange_linearIsometry_projection_mem_range_of_adjoint_scalar
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseSelectedClebschRange.linearIsometry_projection_mem_range_of_adjoint_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/b0e8811a-31be-47f3-9ceb-916d9b5fc398

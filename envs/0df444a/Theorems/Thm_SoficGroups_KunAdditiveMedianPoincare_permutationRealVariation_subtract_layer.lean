@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunAdditiveMedianPoincare_permutationRealVariation_subtract_layer
 -- name    : SoficGroups.KunAdditiveMedianPoincare.permutationRealVariation_subtract_layer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/23d6d881-2be0-4055-b940-6a4f4b55905b

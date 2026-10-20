@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingMonomialObservableConvergence_tendsto_integral_bounded_continuous_of_concentrating_normalized_density
 -- name    : Ehrhart.BergmanJetMovingMonomialObservableConvergence.tendsto_integral_bounded_continuous_of_concentrating_normalized_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/85f27da3-19ea-4377-bd7e-0da70c223142

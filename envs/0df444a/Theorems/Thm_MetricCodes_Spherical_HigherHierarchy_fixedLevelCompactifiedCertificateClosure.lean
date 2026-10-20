@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_fixedLevelCompactifiedCertificateClosure
 -- name    : MetricCodes.Spherical.HigherHierarchy.fixedLevelCompactifiedCertificateClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/57df2e2b-2460-4c6f-8e78-e967f6ae82b8

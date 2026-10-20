@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_gate_graph_equation_ne_zero
 -- name    : PermanentRollout.affine_gate_graph_equation_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/9f3fc3e7-0f56-43ad-be3d-8fe43bd0e6f9

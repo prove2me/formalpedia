@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousPhysicalStoppedAsynchronousMass_nonneg
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousPhysicalStoppedAsynchronousMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/9fdd6f2b-cc37-423b-b8d1-734691a6b661

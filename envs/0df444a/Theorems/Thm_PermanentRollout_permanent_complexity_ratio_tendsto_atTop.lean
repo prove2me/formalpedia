@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_complexity_ratio_tendsto_atTop
 -- name    : PermanentRollout.permanent_complexity_ratio_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/de0802f1-4aec-4361-9729-0289809ece5d

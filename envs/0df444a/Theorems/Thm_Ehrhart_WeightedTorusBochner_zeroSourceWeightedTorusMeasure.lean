@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_zeroSourceWeightedTorusMeasure
 -- name    : Ehrhart.WeightedTorusBochner.zeroSourceWeightedTorusMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/c1e471fb-f330-4d98-8eea-596f63fc6f96

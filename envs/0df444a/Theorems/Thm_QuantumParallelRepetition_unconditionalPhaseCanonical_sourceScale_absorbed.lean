@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPhaseCanonical_sourceScale_absorbed
 -- name    : QuantumParallelRepetition.unconditionalPhaseCanonical_sourceScale_absorbed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/8fc8ac85-bcd5-479c-9f89-8da229ae4fcb

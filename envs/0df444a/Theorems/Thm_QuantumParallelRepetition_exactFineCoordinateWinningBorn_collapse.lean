@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactFineCoordinateWinningBorn_collapse
 -- name    : QuantumParallelRepetition.exactFineCoordinateWinningBorn_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/4a84eee5-9fe9-4b73-a3ef-74d742a6c663

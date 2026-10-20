@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_rateSet_nonempty_of_interior
 -- name    : MetricCodes.Spherical.rateSet_nonempty_of_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/220f88a9-47d0-435f-86ec-80b713ba13cd

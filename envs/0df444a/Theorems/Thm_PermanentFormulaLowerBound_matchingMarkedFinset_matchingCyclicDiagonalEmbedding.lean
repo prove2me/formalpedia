@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingMarkedFinset_matchingCyclicDiagonalEmbedding
 -- name    : PermanentFormulaLowerBound.matchingMarkedFinset_matchingCyclicDiagonalEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/494cf8eb-d567-42d1-af46-40b28f9fd17f

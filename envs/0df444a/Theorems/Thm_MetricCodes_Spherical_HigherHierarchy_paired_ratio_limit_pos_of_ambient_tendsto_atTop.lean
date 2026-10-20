@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_paired_ratio_limit_pos_of_ambient_tendsto_atTop
 -- name    : MetricCodes.Spherical.HigherHierarchy.paired_ratio_limit_pos_of_ambient_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/810f37cc-7c36-4306-a2c5-e2969be21192

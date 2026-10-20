@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_compactnessSharpHostPowerConstant_pos
 -- name    : CompactnessConjecture.compactnessSharpHostPowerConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/a2190c73-2e12-4c2e-afa0-304cfda35766

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_entropy_gap_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.entropy_gap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/d1b331a7-b38a-43c4-9494-48347a57669a

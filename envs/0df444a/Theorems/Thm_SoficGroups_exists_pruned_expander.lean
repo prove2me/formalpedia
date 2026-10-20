@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_pruned_expander
 -- name    : SoficGroups.exists_pruned_expander
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/80f0cd00-7113-4c74-90fd-81601e4ea3aa

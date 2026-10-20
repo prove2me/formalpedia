@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedRadialCutoff_angularWeightedLp_tendsto_of_squared_error_integral
 -- name    : Ehrhart.TorusStrongWeightedRadialCutoff.angularWeightedLp_tendsto_of_squared_error_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/ed2d160d-1d7d-4e8a-b859-b30b43295bed

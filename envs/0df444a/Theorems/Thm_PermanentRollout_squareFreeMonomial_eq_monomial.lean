@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareFreeMonomial_eq_monomial
 -- name    : PermanentRollout.squareFreeMonomial_eq_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/5da16402-5cb0-44f3-898c-7ca8f77a2530

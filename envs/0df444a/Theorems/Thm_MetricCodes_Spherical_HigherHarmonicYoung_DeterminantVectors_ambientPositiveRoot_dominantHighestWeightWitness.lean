@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_DeterminantVectors_ambientPositiveRoot_dominantHighestWeightWitness
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors.ambientPositiveRoot_dominantHighestWeightWitness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/471c93fa-8c1a-420e-8483-0d255cd06c9f

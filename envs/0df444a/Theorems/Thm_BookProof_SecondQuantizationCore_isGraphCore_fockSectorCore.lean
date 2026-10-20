@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SecondQuantizationCore_isGraphCore_fockSectorCore
 -- name    : BookProof.SecondQuantizationCore.isGraphCore_fockSectorCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:48:42.431186+00:00
 -- url     : https://prove2.me/theorems/b2d93eac-ed18-46ff-8184-b2f5cd2fe0c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeProjectionAverage_dist_sq_le
 -- name    : SoficGroups.ejThreeProjectionAverage_dist_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/39bf0e4c-7dba-4035-8211-82ff4aec0e70

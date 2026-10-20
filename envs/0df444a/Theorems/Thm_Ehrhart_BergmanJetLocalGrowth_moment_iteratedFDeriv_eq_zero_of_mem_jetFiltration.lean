@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_moment_iteratedFDeriv_eq_zero_of_mem_jetFiltration
 -- name    : Ehrhart.BergmanJetLocalGrowth.moment_iteratedFDeriv_eq_zero_of_mem_jetFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/d4ea4fc8-5f29-4a90-84d5-d124850d7728

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_limsup_momentTorusJetSlope_le_envelope_positive_secant
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.limsup_momentTorusJetSlope_le_envelope_positive_secant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/aec1ad19-7f0f-489c-ad9e-78280c5a7bc4

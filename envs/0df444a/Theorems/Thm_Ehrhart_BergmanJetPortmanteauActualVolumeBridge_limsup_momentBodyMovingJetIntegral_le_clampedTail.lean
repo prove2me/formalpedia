@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_limsup_momentBodyMovingJetIntegral_le_clampedTail
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.limsup_momentBodyMovingJetIntegral_le_clampedTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/d62a3207-3e03-4ec4-8686-a65eb355bc92

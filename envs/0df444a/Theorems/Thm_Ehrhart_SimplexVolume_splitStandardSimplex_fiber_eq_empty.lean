@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_splitStandardSimplex_fiber_eq_empty
 -- name    : Ehrhart.SimplexVolume.splitStandardSimplex_fiber_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/75acf33a-35e9-4e8f-846c-8979c667ce8e

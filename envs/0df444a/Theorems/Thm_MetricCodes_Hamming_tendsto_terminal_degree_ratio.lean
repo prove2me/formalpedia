@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_terminal_degree_ratio
 -- name    : MetricCodes.Hamming.tendsto_terminal_degree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/9d911faa-8ab6-4707-91ec-fd718cdb5938

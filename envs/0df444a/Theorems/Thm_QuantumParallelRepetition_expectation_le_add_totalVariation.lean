@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_expectation_le_add_totalVariation
 -- name    : QuantumParallelRepetition.expectation_le_add_totalVariation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/360008a3-f7e0-407d-a8e1-e194ecd8103f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTRelativeCasimirCompressedResolvent_gtRelativeCasimir_isSymmetric
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent.gtRelativeCasimir_isSymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/e5563ae9-e683-4827-af36-480fd8aa6f78

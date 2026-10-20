@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_chosenFiniteRootBad_injective_word_evaluation
 -- name    : SoficGroups.KunActualSoficRootRadius.chosenFiniteRootBad_injective_word_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/39432e3e-d877-4536-ba89-65bc68d07475

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_fullLinearProgram_eq_radial
 -- name    : PackingBounds.fullLinearProgram_eq_radial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/7e3a3d5f-1f3c-4175-b46f-98a6367b8b9d

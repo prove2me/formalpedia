@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_greedy_terminal_of_log_cost
 -- name    : QuantumParallelRepetition.greedy_terminal_of_log_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/ed60518f-ee32-4232-ae31-477d3024acc5

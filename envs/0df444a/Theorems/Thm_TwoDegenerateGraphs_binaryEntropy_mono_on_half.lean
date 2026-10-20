@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryEntropy_mono_on_half
 -- name    : TwoDegenerateGraphs.binaryEntropy_mono_on_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/a8dcd3b1-cc3b-4bc5-8cea-83a7c2236fb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MvPolynomial_IsWeightedHomogeneous_eq_monomial_of_unique_weight_tenProofs
 -- name    : MvPolynomial.IsWeightedHomogeneous.eq_monomial_of_unique_weight_tenProofs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/f854bdeb-a07a-4236-91a2-1376537df777

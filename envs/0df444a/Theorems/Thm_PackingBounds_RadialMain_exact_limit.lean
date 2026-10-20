@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_RadialMain_exact_limit
 -- name    : PackingBounds.RadialMain.exact_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/50cd5009-d895-49de-98c8-23cf02c70fbd

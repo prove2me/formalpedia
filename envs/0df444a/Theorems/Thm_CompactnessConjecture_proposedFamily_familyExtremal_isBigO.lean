@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_familyExtremal_isBigO
 -- name    : CompactnessConjecture.proposedFamily_familyExtremal_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/b26c7a0c-7d05-4786-bf2a-222794fdb7b2

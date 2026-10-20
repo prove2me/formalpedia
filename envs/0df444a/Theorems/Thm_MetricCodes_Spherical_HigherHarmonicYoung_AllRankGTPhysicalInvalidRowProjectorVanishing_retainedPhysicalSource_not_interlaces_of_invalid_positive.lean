@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalInvalidRowProjectorVanishing_retainedPhysicalSource_not_interlaces_of_invalid_positive
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalInvalidRowProjectorVanishing.retainedPhysicalSource_not_interlaces_of_invalid_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/62ea5c8a-8b1b-40bd-8fcf-a7f74c2021f4

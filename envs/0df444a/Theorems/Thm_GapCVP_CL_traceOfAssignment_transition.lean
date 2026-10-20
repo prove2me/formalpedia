@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_traceOfAssignment_transition
 -- name    : GapCVP.CL.traceOfAssignment_transition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/4340268d-a710-493c-8082-fdc961d6bc12

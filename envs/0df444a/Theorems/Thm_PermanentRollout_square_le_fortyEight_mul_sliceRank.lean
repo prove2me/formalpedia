@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_square_le_fortyEight_mul_sliceRank
 -- name    : PermanentRollout.square_le_fortyEight_mul_sliceRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/fd8d106a-620f-4964-848e-04d51803dd56

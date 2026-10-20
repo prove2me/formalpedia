@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_purifiedRefinementCore_compression
 -- name    : QuantumParallelRepetition.purifiedRefinementCore_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/d755bf44-632b-49bf-82ef-ccd4284dc282

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplectic_isotropic_finrank_le_two
 -- name    : CompactnessConjecture.symplectic_isotropic_finrank_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/324325e6-acfa-48c4-9fef-08b3227e65ea

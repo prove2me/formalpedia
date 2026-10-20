@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusDolbeaultGraph_angularMatrixSquareRoot_posDef
 -- name    : Ehrhart.MatrixTorusDolbeaultGraph.angularMatrixSquareRoot_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/2b2aab13-9fd8-4a15-a362-238c57faf11a

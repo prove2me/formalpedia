@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAppendedPieriPhysicalAxisOrthogonality_appendedPaddedPieriLower_adjoint_originalPaddedSelectedAxisTensor_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality.appendedPaddedPieriLower_adjoint_originalPaddedSelectedAxisTensor_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/0f5ffe6d-6362-4f5b-93ef-622687298d2e

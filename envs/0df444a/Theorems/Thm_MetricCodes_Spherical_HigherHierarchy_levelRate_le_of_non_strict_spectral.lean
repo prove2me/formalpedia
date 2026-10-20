@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_le_of_non_strict_spectral
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_le_of_non_strict_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/b76f8a52-5d99-4993-b453-7cc4ea4ecded

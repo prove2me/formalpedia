@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_exists_open_eventual_log_momentNormalized_diagonalKernel_uniform_all
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.exists_open_eventual_log_momentNormalized_diagonalKernel_uniform_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/bd0340ac-196a-482f-bf25-9a2ee713f32d

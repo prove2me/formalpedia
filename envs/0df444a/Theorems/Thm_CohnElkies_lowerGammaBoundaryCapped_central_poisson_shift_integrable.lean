@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryCapped_central_poisson_shift_integrable
 -- name    : CohnElkies.lowerGammaBoundaryCapped_central_poisson_shift_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/09984b29-12ff-4d4f-ba3b-83322cb304c5

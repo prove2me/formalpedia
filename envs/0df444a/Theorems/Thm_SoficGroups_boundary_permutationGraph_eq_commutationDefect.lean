@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_boundary_permutationGraph_eq_commutationDefect
 -- name    : SoficGroups.boundary_permutationGraph_eq_commutationDefect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/eb9f4a1b-7f11-41f2-8e6b-c6764df19822

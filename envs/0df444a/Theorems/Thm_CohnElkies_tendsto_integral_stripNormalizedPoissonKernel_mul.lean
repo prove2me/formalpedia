@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_integral_stripNormalizedPoissonKernel_mul
 -- name    : CohnElkies.tendsto_integral_stripNormalizedPoissonKernel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/0a936645-ea9e-4434-8d8c-5ca09cc4a7d3

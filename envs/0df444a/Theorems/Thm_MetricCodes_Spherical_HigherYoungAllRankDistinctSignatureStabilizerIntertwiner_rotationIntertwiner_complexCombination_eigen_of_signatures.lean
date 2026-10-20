@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankDistinctSignatureStabilizerIntertwiner_rotationIntertwiner_complexCombination_eigen_of_signatures
 -- name    : MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner.rotationIntertwiner_complexCombination_eigen_of_signatures
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:00.396673+00:00
 -- url     : https://prove2.me/theorems/eaf308ff-decd-4126-b319-e1eda06b3809

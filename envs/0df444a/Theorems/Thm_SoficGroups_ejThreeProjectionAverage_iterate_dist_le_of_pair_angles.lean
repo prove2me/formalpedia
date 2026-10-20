@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeProjectionAverage_iterate_dist_le_of_pair_angles
 -- name    : SoficGroups.ejThreeProjectionAverage_iterate_dist_le_of_pair_angles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/1221aad9-9eae-45d1-b2ae-8d792bdba07a

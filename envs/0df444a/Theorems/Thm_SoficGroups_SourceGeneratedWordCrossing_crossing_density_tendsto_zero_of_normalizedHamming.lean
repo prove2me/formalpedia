@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneratedWordCrossing_crossing_density_tendsto_zero_of_normalizedHamming
 -- name    : SoficGroups.SourceGeneratedWordCrossing.crossing_density_tendsto_zero_of_normalizedHamming
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/c91b2792-9645-4811-8646-2ffae0b3df62

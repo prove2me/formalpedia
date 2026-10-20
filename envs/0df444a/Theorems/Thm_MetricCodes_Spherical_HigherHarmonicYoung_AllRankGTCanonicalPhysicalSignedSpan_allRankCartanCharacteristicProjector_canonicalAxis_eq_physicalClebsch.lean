@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCanonicalPhysicalSignedSpan_allRankCartanCharacteristicProjector_canonicalAxis_eq_physicalClebsch
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCanonicalPhysicalSignedSpan.allRankCartanCharacteristicProjector_canonicalAxis_eq_physicalClebsch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/2ac59b52-05bd-48dd-b338-278ab246adfc

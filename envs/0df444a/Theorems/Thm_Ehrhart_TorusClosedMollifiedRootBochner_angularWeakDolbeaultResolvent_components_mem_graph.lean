@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusClosedMollifiedRootBochner_angularWeakDolbeaultResolvent_components_mem_graph
 -- name    : Ehrhart.TorusClosedMollifiedRootBochner.angularWeakDolbeaultResolvent_components_mem_graph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/f5149642-c1d7-4268-9fdc-9e93072d6a17

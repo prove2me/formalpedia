@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricQuadratic_char_two
 -- name    : CompactnessConjecture.symmetricQuadratic_char_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/8e32dc05-b95b-42b0-806c-eb9521c0ea22

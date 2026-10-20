@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalEndpointUpper_one_lt_witness
 -- name    : MetricCodes.Spherical.classicalEndpointUpper_one_lt_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/15e1f228-4de8-4182-8c44-4dd5d41c7a16

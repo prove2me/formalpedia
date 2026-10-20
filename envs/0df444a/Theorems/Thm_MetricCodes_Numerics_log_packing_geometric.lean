@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_log_packing_geometric
 -- name    : MetricCodes.Numerics.log_packing_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/34c40ea7-6069-4abc-b807-a7ffa5898131

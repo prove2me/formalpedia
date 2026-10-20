@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_OriginalThreeSATNPHardness_paperOriginalThreeSATLanguage_encode_iff
 -- name    : GapCVP.OriginalThreeSATNPHardness.paperOriginalThreeSATLanguage_encode_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/aa5bf3ec-6664-401f-b25b-0d1c10ecd76c

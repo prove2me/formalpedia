@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_sourceHistoryQuadraticExpectation_matrix_sum
 -- name    : QuantumParallelRepetition.sourceHistoryQuadraticExpectation_matrix_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/c5b96c73-7156-4745-8af7-0bcf1aca700f

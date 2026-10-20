@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_radiusPackingObjective_le_hierarchyPackingExponent_of_convergence
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.radiusPackingObjective_le_hierarchyPackingExponent_of_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/d0a3ee2c-c2e7-48eb-b89a-73509f28b738

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicUnconditionalBodyConvexity_convexOn_momentBodyLogPartition_Ici
 -- name    : Ehrhart.BergmanJetJointHolomorphicUnconditionalBodyConvexity.convexOn_momentBodyLogPartition_Ici
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/7b3deaf0-defb-4359-b3bc-5e4494c8034d

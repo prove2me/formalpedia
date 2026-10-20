@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_permanentPolynomial_pderiv_eq_sum
 -- name    : PermanentFormulaLowerBound.permanentPolynomial_pderiv_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/bed50be0-0216-4634-8519-7deb6d01fac5

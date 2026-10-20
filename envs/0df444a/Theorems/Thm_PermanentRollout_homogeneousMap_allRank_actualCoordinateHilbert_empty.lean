@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_actualCoordinateHilbert_empty
 -- name    : PermanentRollout.homogeneousMap_allRank_actualCoordinateHilbert_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/9bbb89d1-6ef4-4af0-8b69-214f6345df1d

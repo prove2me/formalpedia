@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteShell_card_le
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteShell_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/bf158f2c-9f6b-4215-aafa-cc0baa05bbdc

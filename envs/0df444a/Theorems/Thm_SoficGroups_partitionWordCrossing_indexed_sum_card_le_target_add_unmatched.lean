@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_partitionWordCrossing_indexed_sum_card_le_target_add_unmatched
 -- name    : SoficGroups.partitionWordCrossing_indexed_sum_card_le_target_add_unmatched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/8492a58f-d8f6-48d4-a0b8-7cba7480e5c5

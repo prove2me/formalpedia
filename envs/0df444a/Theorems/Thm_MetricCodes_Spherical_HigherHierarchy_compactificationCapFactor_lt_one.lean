@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactificationCapFactor_lt_one
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactificationCapFactor_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/f016f2b3-55fa-464c-acff-c1093a268444

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceLocalSchwarzRatio_sq_mul_exp_le_one
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceLocalSchwarzRatio_sq_mul_exp_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/3fa783a5-d0f5-4e57-9d69-7f88a77a6533

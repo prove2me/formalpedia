@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_barPartialCoordinate_mul
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.barPartialCoordinate_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/4e185565-d9dc-414b-b255-5c7b24fc4d80

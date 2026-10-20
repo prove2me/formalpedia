@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunLiteralSourceSelectedComponents_sourceConjugacyDisagreementBad_density_tendsto_zero
 -- name    : SoficGroups.KunLiteralSourceSelectedComponents.sourceConjugacyDisagreementBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/cb32a172-da1f-433e-b863-e107df7089c0

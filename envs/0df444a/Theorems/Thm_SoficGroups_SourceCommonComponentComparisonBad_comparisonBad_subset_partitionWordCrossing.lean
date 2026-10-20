@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCommonComponentComparisonBad_comparisonBad_subset_partitionWordCrossing
 -- name    : SoficGroups.SourceCommonComponentComparisonBad.comparisonBad_subset_partitionWordCrossing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/d6d87cbd-ac7f-40fd-939f-32ab60416f46

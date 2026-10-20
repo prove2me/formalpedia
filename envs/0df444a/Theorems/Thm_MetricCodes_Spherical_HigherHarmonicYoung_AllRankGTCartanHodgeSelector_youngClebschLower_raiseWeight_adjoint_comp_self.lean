@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCartanHodgeSelector_youngClebschLower_raiseWeight_adjoint_comp_self
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector.youngClebschLower_raiseWeight_adjoint_comp_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/4838e20a-f0dc-4ff7-8b90-f241e930aae0

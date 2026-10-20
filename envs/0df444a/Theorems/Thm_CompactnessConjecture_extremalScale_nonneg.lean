@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_extremalScale_nonneg
 -- name    : CompactnessConjecture.extremalScale_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/3dd1b376-f885-408f-be15-0ff97a221a8e

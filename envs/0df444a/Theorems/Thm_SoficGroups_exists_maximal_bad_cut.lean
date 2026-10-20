@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_maximal_bad_cut
 -- name    : SoficGroups.exists_maximal_bad_cut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/2773a14c-e8e6-4aee-9307-93bc2c717a1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankDistinctSignatureStabilizerIntertwiner_rotationIntertwiner_positiveRoot_dominantHighest_of_signatures
 -- name    : MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner.rotationIntertwiner_positiveRoot_dominantHighest_of_signatures
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/b204801c-d107-4d05-9df1-0c0314c554a3

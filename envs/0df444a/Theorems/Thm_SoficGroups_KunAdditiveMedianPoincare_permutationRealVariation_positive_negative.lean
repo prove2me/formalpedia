@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunAdditiveMedianPoincare_permutationRealVariation_positive_negative
 -- name    : SoficGroups.KunAdditiveMedianPoincare.permutationRealVariation_positive_negative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/ae98a0d5-91c8-44f3-97de-be2e1f8d6ac2

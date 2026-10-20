@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularDolbeaultGraph_compact_barPartial_green_of_fundamentalCell
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularDolbeaultGraph_compact_barPartial_green_of_fundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/e41263a0-5a27-482e-bc27-eae01c61aa0a

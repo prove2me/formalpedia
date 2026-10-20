@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_hasAlmostCentralizerImprovement_of_rooted_reference_cuts
 -- name    : SoficGroups.KunThomFiberCoarea.hasAlmostCentralizerImprovement_of_rooted_reference_cuts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/292b871e-b4b4-4fbf-ae8f-73bd505030a0

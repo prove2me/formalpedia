@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankCanonicalBranchProjectedLowerCrossGram_canonicalBranchProjectedLowerCrossGram_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherYoungAllRankCanonicalBranchProjectedLowerCrossGram.canonicalBranchProjectedLowerCrossGram_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/2e43144a-3bfb-4cb3-8e60-ad11cf178dd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalCoherentPhaseConstantWork_sub
 -- name    : QuantumParallelRepetition.unconditionalCoherentPhaseConstantWork_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/d97ce5b4-8cf9-4e19-856d-f0f71d116a6f

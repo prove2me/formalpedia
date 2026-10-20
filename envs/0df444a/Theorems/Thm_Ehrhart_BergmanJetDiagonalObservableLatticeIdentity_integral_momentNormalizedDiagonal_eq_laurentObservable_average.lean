@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDiagonalObservableLatticeIdentity_integral_momentNormalizedDiagonal_eq_laurentObservable_average
 -- name    : Ehrhart.BergmanJetDiagonalObservableLatticeIdentity.integral_momentNormalizedDiagonal_eq_laurentObservable_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/fe9a78de-f79e-4482-a1e6-8ff10a36a238

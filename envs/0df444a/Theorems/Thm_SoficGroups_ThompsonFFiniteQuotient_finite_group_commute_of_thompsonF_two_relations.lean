@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFFiniteQuotient_finite_group_commute_of_thompsonF_two_relations
 -- name    : SoficGroups.ThompsonFFiniteQuotient.finite_group_commute_of_thompsonF_two_relations
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/a5057222-87e3-4675-b72b-00588a8bed48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_angularSlice_memLp_ae
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.angularSlice_memLp_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/cb831baf-c5bd-491c-b465-e240f28425f3

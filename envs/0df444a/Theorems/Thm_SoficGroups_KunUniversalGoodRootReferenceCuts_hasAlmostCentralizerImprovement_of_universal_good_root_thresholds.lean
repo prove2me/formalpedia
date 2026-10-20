@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUniversalGoodRootReferenceCuts_hasAlmostCentralizerImprovement_of_universal_good_root_thresholds
 -- name    : SoficGroups.KunUniversalGoodRootReferenceCuts.hasAlmostCentralizerImprovement_of_universal_good_root_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/d93a5b28-d6eb-436a-8b18-e5d499beea8f

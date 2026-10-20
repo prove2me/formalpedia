@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_re_eq_zero_of_antiFourier
 -- name    : CohnElkies.integral_re_eq_zero_of_antiFourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/f6550730-3b23-4024-9d7c-2372108e595d

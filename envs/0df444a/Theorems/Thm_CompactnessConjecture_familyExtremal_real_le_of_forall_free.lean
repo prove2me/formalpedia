@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_familyExtremal_real_le_of_forall_free
 -- name    : CompactnessConjecture.familyExtremal_real_le_of_forall_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/194a9f05-bba7-4e1d-bbef-9f0bb39dc2c3

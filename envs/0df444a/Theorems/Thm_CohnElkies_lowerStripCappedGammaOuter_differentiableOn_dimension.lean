@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedGammaOuter_differentiableOn_dimension
 -- name    : CohnElkies.lowerStripCappedGammaOuter_differentiableOn_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/5fac1529-937d-4ba4-8de2-5b4d7aafccab

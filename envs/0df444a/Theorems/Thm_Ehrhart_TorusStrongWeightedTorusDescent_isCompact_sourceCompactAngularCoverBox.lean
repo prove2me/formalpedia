@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedTorusDescent_isCompact_sourceCompactAngularCoverBox
 -- name    : Ehrhart.TorusStrongWeightedTorusDescent.isCompact_sourceCompactAngularCoverBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/5912a34c-f7d2-42f3-a06d-3cc03d7b157a

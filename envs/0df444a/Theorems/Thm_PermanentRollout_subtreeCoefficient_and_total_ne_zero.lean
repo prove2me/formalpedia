@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtreeCoefficient_and_total_ne_zero
 -- name    : PermanentRollout.subtreeCoefficient_and_total_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/b503ab1f-f4e9-4fb5-8e51-c8d482b1bfd4

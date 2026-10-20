@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparison_logLikelihood_integrable
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparison_logLikelihood_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/8c8395b3-70eb-4a02-a520-be7e8c9dda68

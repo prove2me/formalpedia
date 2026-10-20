@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_circuitComplexity_attained
 -- name    : PermanentRollout.circuitComplexity_attained
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/5f996611-2754-4573-af97-3a6ff29a4d69

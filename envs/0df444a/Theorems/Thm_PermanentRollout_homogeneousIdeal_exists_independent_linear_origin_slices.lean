@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousIdeal_exists_independent_linear_origin_slices
 -- name    : PermanentRollout.homogeneousIdeal_exists_independent_linear_origin_slices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/5cdf5bf5-5500-41b8-846e-cb20fb33094d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualBothTransportedOverlapScales_exists_source_both_capped_overlap_scales
 -- name    : SoficGroups.KunActualBothTransportedOverlapScales.exists_source_both_capped_overlap_scales
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/67e22d05-0dfb-4b5e-977f-baaf1b911796

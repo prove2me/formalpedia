@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Arcsine_map_withDensity_comp
 -- name    : MetricCodes.Spherical.HigherHierarchy.Arcsine.map_withDensity_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/f1f7b6fb-9221-4176-979b-097e4b0a6423

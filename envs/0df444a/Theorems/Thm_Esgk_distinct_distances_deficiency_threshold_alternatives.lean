@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Esgk_distinct_distances_deficiency_threshold_alternatives
 -- name    : Esgk.distinct_distances_deficiency_threshold_alternatives
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-09-14T02:15:18.466115+00:00
 -- url     : https://prove2.me/theorems/9ecb03b8-28ba-428a-8a0a-b8d5dfab3806

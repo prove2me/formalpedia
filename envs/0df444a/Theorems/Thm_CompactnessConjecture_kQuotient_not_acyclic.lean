@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_kQuotient_not_acyclic
 -- name    : CompactnessConjecture.kQuotient_not_acyclic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/a2e435bb-ba1d-4406-a1af-eee174158c0b

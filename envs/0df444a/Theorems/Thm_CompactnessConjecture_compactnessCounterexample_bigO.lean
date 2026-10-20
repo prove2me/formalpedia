@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_compactnessCounterexample_bigO
 -- name    : CompactnessConjecture.compactnessCounterexample_bigO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/12ecbb2d-23f1-4ae8-8175-1a114c776c04

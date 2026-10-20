@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_natDist_sub_one_le
 -- name    : SoficGroups.KunThomFiberCoarea.natDist_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/a36fd7b3-4c0d-4f0a-bfe0-ed59b875adbd

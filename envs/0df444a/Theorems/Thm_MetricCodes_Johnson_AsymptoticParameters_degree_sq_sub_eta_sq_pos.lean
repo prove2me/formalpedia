@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_degree_sq_sub_eta_sq_pos
 -- name    : MetricCodes.Johnson.AsymptoticParameters.degree_sq_sub_eta_sq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/e77ce061-405c-434e-ae70-4ebe6f06f648

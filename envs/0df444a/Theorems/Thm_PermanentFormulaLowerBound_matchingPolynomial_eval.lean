@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPolynomial_eval
 -- name    : PermanentFormulaLowerBound.matchingPolynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/9c215b83-7d99-4f06-88b6-9a1b92c55207

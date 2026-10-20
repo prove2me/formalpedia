@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_Configuration_impossible_five_or_more
 -- name    : OAI.GaussianPropeller.Reduction.Configuration.impossible_five_or_more
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:31:22.924955+00:00
 -- url     : https://prove2.me/theorems/20c1649d-99fc-48b6-a1e1-1efd513dd27c

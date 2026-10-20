@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPolynomial_coeff_binaryDegree_ne_zero
 -- name    : PermanentFormulaLowerBound.matchingPolynomial_coeff_binaryDegree_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/23fdc792-20ca-46fb-9b4f-54002d196db2

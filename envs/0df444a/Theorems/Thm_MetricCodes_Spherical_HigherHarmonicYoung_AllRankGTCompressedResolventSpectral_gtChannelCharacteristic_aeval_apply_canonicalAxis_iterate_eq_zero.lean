@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCompressedResolventSpectral_gtChannelCharacteristic_aeval_apply_canonicalAxis_iterate_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral.gtChannelCharacteristic_aeval_apply_canonicalAxis_iterate_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/36c9447a-9e80-4589-b612-b5298040a3b8

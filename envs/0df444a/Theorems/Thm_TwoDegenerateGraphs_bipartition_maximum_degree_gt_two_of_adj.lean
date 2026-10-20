@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_bipartition_maximum_degree_gt_two_of_adj
 -- name    : TwoDegenerateGraphs.bipartition_maximum_degree_gt_two_of_adj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/3362cdb7-ceda-4235-85c9-f906c3cf4409

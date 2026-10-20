@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_contDiff_coverAngularSmoothPartition
 -- name    : Ehrhart.MatrixTorusBochnerBridge.contDiff_coverAngularSmoothPartition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/557bfbff-d083-4e8f-a698-241bd060e4f4

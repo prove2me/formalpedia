@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseWrongBranchCompression_transverseStabilizerIsometry_relativeCasimir_cross_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWrongBranchCompression.transverseStabilizerIsometry_relativeCasimir_cross_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/189a6929-003f-4ab1-b198-327cbdca398b

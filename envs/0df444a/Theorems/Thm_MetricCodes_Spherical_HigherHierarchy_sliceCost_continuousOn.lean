@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sliceCost_continuousOn
 -- name    : MetricCodes.Spherical.HigherHierarchy.sliceCost_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/199b8477-67a2-4684-a949-b368f9d5f483

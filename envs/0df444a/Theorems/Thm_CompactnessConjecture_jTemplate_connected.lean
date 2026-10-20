@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_jTemplate_connected
 -- name    : CompactnessConjecture.jTemplate_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/3000324b-7aaa-494a-83f8-3248053fd23c

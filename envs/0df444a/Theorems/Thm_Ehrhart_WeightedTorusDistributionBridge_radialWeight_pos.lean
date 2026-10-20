@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_radialWeight_pos
 -- name    : Ehrhart.WeightedTorusDistributionBridge.radialWeight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/74362d37-9b15-4bb6-9a90-dc8efbc32031

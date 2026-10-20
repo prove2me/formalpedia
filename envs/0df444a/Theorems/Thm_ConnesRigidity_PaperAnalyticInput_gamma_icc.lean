@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_gamma_icc
 -- name    : ConnesRigidity.PaperAnalyticInput.gamma_icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/b008b793-c067-430c-96a2-6abf67e06de9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceBothCompressionNormalization_sourceCompressionVElement_conjugates_alpha
 -- name    : SoficGroups.SourceBothCompressionNormalization.sourceCompressionVElement_conjugates_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/04bd667a-ed8e-499a-b834-72f1e166d333

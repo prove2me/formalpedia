@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CanonicalProductRadiusBadMatchedCapture_generator_mem_sourceProductRadiusLabels
 -- name    : SoficGroups.CanonicalProductRadiusBadMatchedCapture.generator_mem_sourceProductRadiusLabels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/e7148219-d72a-4b4b-afb2-ebc14c2e5943

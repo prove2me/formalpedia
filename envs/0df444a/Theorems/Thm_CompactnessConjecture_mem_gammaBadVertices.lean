@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_mem_gammaBadVertices
 -- name    : CompactnessConjecture.mem_gammaBadVertices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/8976bc88-bb8b-4384-87b8-fb26a5fe977f

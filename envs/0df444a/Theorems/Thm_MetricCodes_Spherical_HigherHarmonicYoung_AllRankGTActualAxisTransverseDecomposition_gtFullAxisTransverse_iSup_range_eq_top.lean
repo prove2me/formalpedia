@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTActualAxisTransverseDecomposition_gtFullAxisTransverse_iSup_range_eq_top
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTActualAxisTransverseDecomposition.gtFullAxisTransverse_iSup_range_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/9e6d68b6-5669-439f-b688-b22c75e7cd93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonWeightedMeasure_integral
 -- name    : CohnElkies.stripPoissonWeightedMeasure_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/0470c716-d07c-4e10-aa7e-0acb7691bf6f

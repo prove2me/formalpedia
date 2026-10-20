@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentTorusTruncatedJetOrderDensity_le_diagonal_mul_cutoff
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentTorusTruncatedJetOrderDensity_le_diagonal_mul_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/5140c958-0644-4dc7-a272-777b89a789cf

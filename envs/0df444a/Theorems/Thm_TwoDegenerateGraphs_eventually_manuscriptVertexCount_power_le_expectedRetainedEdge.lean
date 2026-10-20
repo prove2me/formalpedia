@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_eventually_manuscriptVertexCount_power_le_expectedRetainedEdge
 -- name    : TwoDegenerateGraphs.eventually_manuscriptVertexCount_power_le_expectedRetainedEdge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/4928526b-bf73-4720-af18-d1619eea0b8d

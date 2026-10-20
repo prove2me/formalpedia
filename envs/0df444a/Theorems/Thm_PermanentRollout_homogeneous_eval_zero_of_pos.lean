@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneous_eval_zero_of_pos
 -- name    : PermanentRollout.homogeneous_eval_zero_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/9f56b6b6-f72e-44e7-ad2c-ab37408f5c48

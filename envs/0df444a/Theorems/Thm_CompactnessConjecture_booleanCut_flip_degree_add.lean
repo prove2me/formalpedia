@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_booleanCut_flip_degree_add
 -- name    : CompactnessConjecture.booleanCut_flip_degree_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/149893e9-ccec-40e8-bbcc-d2549c94217c

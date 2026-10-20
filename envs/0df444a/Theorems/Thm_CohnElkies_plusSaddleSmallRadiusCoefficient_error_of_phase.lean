@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleSmallRadiusCoefficient_error_of_phase
 -- name    : CohnElkies.plusSaddleSmallRadiusCoefficient_error_of_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/c0c8a820-d2e1-47a5-9370-7f71f7064f9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondSuffixCoefficientFactor_diamondOmittedRows_eq_preceding_union_succeeding
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixCoefficientFactor.diamondOmittedRows_eq_preceding_union_succeeding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/78366a9d-6b3a-4dd2-befd-2a281bf76de3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualRootedModelBridge_sourceRootedIndicatorMarkovModel_isRootedAtRadius
 -- name    : SoficGroups.KunActualRootedModelBridge.sourceRootedIndicatorMarkovModel_isRootedAtRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/6f8881f5-ce7a-4434-8d7f-38705e1fc201

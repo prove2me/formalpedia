@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsCutoff_angularTorusFormAdjoint_cutoffPhysicalField
 -- name    : Ehrhart.TorusFriedrichsCutoff.angularTorusFormAdjoint_cutoffPhysicalField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/3995de19-0ac8-4ec4-a0ef-b42e80f871d2

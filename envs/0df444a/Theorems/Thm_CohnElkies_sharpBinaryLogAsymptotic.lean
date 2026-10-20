@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpBinaryLogAsymptotic
 -- name    : CohnElkies.sharpBinaryLogAsymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/f1347bae-1857-4cb9-9192-fa4ac7592262

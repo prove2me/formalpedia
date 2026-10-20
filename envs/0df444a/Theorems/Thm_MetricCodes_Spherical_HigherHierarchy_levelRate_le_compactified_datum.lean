@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_le_compactified_datum
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_le_compactified_datum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/ac1bb401-05b2-4fbc-8b51-c791a193c454

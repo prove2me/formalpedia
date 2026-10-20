@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTNormalizedTransverseRotationIntertwining_normalizedGTTransversePositiveSector_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseRotationIntertwining.normalizedGTTransversePositiveSector_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/74020a0c-562b-4c0b-b0c0-8a9ee2c2092f

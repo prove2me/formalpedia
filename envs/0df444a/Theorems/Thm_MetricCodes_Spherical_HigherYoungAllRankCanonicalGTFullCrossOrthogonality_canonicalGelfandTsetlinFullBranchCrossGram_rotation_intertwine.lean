@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankCanonicalGTFullCrossOrthogonality_canonicalGelfandTsetlinFullBranchCrossGram_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherYoungAllRankCanonicalGTFullCrossOrthogonality.canonicalGelfandTsetlinFullBranchCrossGram_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/3e46d52f-d3c5-4908-9ead-e1a3f7c41129

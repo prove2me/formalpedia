@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_two_pow_four_injective
 -- name    : ConnesRigidity.two_pow_four_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/bc308fca-b780-405a-867b-4a5d4a239eff

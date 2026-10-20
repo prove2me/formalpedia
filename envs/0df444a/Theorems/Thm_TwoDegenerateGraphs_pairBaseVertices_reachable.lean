@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairBaseVertices_reachable
 -- name    : TwoDegenerateGraphs.pairBaseVertices_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/e14fd33e-5e23-4f07-a421-5c7d6a817129

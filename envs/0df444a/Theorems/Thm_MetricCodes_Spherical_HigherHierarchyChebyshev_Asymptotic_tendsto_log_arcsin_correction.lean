@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_tendsto_log_arcsin_correction
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.tendsto_log_arcsin_correction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/aff265f8-6509-40f7-b69e-1154da2e18d3

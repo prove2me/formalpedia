@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_rectangular_matrix_quadratic_compression
 -- name    : QuantumParallelRepetition.rectangular_matrix_quadratic_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/3b28522f-a749-4a3e-8e9c-7c182818d578

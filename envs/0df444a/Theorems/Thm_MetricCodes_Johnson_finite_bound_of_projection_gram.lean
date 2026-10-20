@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_finite_bound_of_projection_gram
 -- name    : MetricCodes.Johnson.finite_bound_of_projection_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/6ebeff60-ecab-440a-b241-c795ddf9af00

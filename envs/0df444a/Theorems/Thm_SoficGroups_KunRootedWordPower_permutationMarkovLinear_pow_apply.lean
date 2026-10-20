@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_permutationMarkovLinear_pow_apply
 -- name    : SoficGroups.KunRootedWordPower.permutationMarkovLinear_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/055f8666-8046-4133-ad31-821ad1fb5390

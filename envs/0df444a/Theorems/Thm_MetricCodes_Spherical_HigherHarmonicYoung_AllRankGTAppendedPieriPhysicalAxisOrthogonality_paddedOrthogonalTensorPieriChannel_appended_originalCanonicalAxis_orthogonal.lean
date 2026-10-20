@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAppendedPieriPhysicalAxisOrthogonality_paddedOrthogonalTensorPieriChannel_appended_originalCanonicalAxis_orthogonal
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality.paddedOrthogonalTensorPieriChannel_appended_originalCanonicalAxis_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/fb443195-561b-4435-acbf-85750458303a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_CircuitInstructionReference_lt_of_referencesBounded
 -- name    : PermanentRollout.CircuitInstructionReference.lt_of_referencesBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/b89fbf5e-3329-4350-bacd-bac9c10433b4

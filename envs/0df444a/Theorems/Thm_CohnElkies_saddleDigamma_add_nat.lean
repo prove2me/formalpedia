@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleDigamma_add_nat
 -- name    : CohnElkies.saddleDigamma_add_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/cdb9cf09-c6cb-4d88-8e7e-8ac582b73ab6

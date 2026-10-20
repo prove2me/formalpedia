@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_four_mul_clog_two_lt_self
 -- name    : PermanentFormulaLowerBound.four_mul_clog_two_lt_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/6fed0ae1-899a-42a0-ac53-72d1524c128d

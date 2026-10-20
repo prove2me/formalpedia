@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_log_stabilizerDimension_floor_current_div_log_two
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_log_stabilizerDimension_floor_current_div_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/4bc9a0a6-7790-46e0-b58e-ca27fedf57fd

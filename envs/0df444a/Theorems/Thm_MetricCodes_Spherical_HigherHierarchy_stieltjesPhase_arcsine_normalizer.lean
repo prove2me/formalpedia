@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhase_arcsine_normalizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhase_arcsine_normalizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/c8f11e2d-5fba-40c9-a71c-b7ae064c2976

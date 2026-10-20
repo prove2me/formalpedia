@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_sphericalCode_card_le_number
 -- name    : SpherePacking.sphericalCode_card_le_number
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/3321b5f8-5e6f-49f0-ac86-58862d715880

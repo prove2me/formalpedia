@@ -16,6 +16,8 @@
 --   **Formalization Note** $\theta$ is Mathlib's `Chebyshev.theta`.
 --
 --   **Status note (2026-10-17)** This statement is proved in Lean 4, kernel-checked with axioms `propext`, `Classical.choice`, `Quot.sound` only, in the release [Dusart v2.0.0, doi:10.5281/zenodo.23432990](https://doi.org/10.5281/zenodo.23432990), under the same name `Dusart.chebyshev_theta_k2_finite`. The proof is a kernel sieve certificate (3416 segments, 221 modules) whose memory and time needs exceed this platform's per-job limits, so it is not re-checked here; its checker and base range are proved on this platform as `ThetaCert.base`.
+--
+--   **Status note (2026-10-19)** The current release is [Dusart v3.0.0, doi:10.5281/zenodo.23463154](https://doi.org/10.5281/zenodo.23463154); its clean replay rebuilt the whole sieve certificate in a fresh Lean kernel environment (10 of 10 replay steps passed). The statement and proof of `Dusart.chebyshev_theta_k2_finite` are unchanged from v2.0.0, and for the reason above the entry stays Open here.
 -- source:
 --   P. Dusart, Estimates of some functions over primes without R.H., arXiv:1002.0442 (2010), Theorem 5.2 (k = 2, η = 0.2, x ≥ 3 594 641); finite range checked there with exact values of θ (Tables 6.1, 6.2, 6.6).; proved in Lean 4 in doi:10.5281/zenodo.23432990
 

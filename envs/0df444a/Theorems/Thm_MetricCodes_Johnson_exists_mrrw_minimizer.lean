@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_exists_mrrw_minimizer
 -- name    : MetricCodes.Johnson.exists_mrrw_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/613a43f7-4990-42d9-a82d-05d7801ff382

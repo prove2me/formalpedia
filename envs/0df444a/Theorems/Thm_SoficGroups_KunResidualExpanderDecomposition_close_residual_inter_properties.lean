@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_close_residual_inter_properties
 -- name    : SoficGroups.KunResidualExpanderDecomposition.close_residual_inter_properties
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/a6fd1c07-887f-4fff-9ed1-66ab2fb8c1aa

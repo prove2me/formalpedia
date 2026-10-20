@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakRadialCutoffCommutator_angularWeakSourceCutoffDerivativeCommutator_L2_tendsto_zero
 -- name    : Ehrhart.TorusWeakRadialCutoffCommutator.angularWeakSourceCutoffDerivativeCommutator_L2_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/3d20e767-4f36-4ef8-8a69-6ecf25084798

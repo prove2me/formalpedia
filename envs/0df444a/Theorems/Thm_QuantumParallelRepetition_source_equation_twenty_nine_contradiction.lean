@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_source_equation_twenty_nine_contradiction
 -- name    : QuantumParallelRepetition.source_equation_twenty_nine_contradiction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/eff4acfb-2564-4bb1-8aa9-f9b753c97886

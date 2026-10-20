@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsMollifierEstimates_norm_normalizedCoverComplexDriftCommutator_le_driftOscillation
 -- name    : Ehrhart.TorusFriedrichsMollifierEstimates.norm_normalizedCoverComplexDriftCommutator_le_driftOscillation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/b676de60-143f-43d7-ac43-80eb498b29a9

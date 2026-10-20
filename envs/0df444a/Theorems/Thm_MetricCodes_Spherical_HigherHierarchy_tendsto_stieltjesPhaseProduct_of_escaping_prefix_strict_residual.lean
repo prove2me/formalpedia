@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_stieltjesPhaseProduct_of_escaping_prefix_strict_residual
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_stieltjesPhaseProduct_of_escaping_prefix_strict_residual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/ab398aa2-765c-4cb1-ad54-2e7559bac962

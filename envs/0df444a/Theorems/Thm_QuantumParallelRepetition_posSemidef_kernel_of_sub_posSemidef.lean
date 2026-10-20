@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_posSemidef_kernel_of_sub_posSemidef
 -- name    : QuantumParallelRepetition.posSemidef_kernel_of_sub_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/330e2e6c-7db3-4e7b-a5e1-333b6ca30a82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_sum_pairCoordinatePairMismatchCount_eq_hammingDist
 -- name    : TwoDegenerateGraphs.sum_pairCoordinatePairMismatchCount_eq_hammingDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/a6cc626d-ccac-45d3-8f30-78643dc5d6a4

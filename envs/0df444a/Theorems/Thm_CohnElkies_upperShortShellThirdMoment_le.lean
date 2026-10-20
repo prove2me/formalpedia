@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperShortShellThirdMoment_le
 -- name    : CohnElkies.upperShortShellThirdMoment_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/2850191b-8f4e-44eb-8499-1924182a27eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_PathFollowing_dual_infeasibility_update
 -- name    : VanderbeiLP.PathFollowing.dual_infeasibility_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:52:56.530285+00:00
 -- url     : https://prove2.me/theorems/c4b96306-6f5b-4a51-8578-17150d57336f

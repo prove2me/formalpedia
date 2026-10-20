@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPolynomialEvaluationMatrix_det_ne_zero
 -- name    : PermanentFormulaLowerBound.matchingPolynomialEvaluationMatrix_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/8b5ede85-291e-448b-87e3-a3cea5726b37

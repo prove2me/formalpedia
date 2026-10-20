@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetCounting_card_jetIndexLT
 -- name    : Ehrhart.JetCounting.card_jetIndexLT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/a94dad62-fa5d-48ee-8275-cfb4d5d00958

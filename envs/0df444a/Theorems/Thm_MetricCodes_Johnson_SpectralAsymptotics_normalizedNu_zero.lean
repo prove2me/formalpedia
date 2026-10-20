@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_normalizedNu_zero
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.normalizedNu_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/698c682d-2b6a-4e45-9c57-8ee9c1b62033

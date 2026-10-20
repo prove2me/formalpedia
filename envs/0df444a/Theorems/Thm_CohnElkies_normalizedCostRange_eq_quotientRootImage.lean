@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedCostRange_eq_quotientRootImage
 -- name    : CohnElkies.normalizedCostRange_eq_quotientRootImage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/7ffb848c-c1e0-4f48-87dc-83f5ca3b36e1

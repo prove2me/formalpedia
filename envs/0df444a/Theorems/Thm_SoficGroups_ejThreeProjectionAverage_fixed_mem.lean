@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeProjectionAverage_fixed_mem
 -- name    : SoficGroups.ejThreeProjectionAverage_fixed_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/40794d36-934a-492a-b811-79dd1e8fbb57

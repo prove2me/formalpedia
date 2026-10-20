@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_clog_two_cast_le_two_mul_logb
 -- name    : PermanentFormulaLowerBound.clog_two_cast_le_two_mul_logb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/1c040793-264d-46a1-b296-7fcae4d797c7

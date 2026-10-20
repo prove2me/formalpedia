@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Esgk.distinct_distances_one_fifth_excess
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @mysticflounder
 -- created : 2026-09-14T02:18:47.532114+00:00
 -- url     : https://prove2.me/submissions/6f2b2cc8-7ab4-4a9e-9051-bbaf5828e17a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

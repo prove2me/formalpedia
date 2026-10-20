@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_sign_mul_eq_difference_indicator
 -- name    : MetricCodes.Boolean.sign_mul_eq_difference_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/55fdc077-4154-4948-a1e3-49334fe23ffc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_lowerGammaScaledPositivePart_uniform_bound
 -- name    : CohnElkies.exists_lowerGammaScaledPositivePart_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/67537f94-13a3-433b-8627-b1ac27d7a2fe

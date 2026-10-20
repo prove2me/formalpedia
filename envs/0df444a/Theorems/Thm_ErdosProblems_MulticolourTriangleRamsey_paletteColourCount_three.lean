@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteColourCount_three
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteColourCount_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/50930b76-44c5-4305-8ec0-2cc91775fc50

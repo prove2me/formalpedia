@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_spherical_dist_sq
 -- name    : MetricCodes.spherical_dist_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/ec09da79-7507-4617-8f7c-d7470fe8176a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_eval_rename
 -- name    : PermanentFormulaLowerBound.RationalFormula.eval_rename
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/2c0ca144-457d-44b9-8b89-6f14da955589

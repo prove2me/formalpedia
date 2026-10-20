@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCompressedResolvent_signedNode_sub_mul_basis
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent.signedNode_sub_mul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/6e0c2fd8-d8be-4f01-a495-b49871278e1b

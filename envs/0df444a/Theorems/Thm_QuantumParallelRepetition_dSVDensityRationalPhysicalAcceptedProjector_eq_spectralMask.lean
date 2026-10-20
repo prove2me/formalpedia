@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalPhysicalAcceptedProjector_eq_spectralMask
 -- name    : QuantumParallelRepetition.dSVDensityRationalPhysicalAcceptedProjector_eq_spectralMask
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/9c4bd3b2-8d51-4037-a7d4-c00b545e5ecb

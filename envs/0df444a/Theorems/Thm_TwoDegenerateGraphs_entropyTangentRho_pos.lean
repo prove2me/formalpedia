@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropyTangentRho_pos
 -- name    : TwoDegenerateGraphs.entropyTangentRho_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/b754828b-4bdd-4ea6-b8f4-cc20aa5db9fc

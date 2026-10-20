@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetRadialHaarWeakProbabilityLift_integral_normalizedBergmanMeasure_momentNormalized
 -- name    : Ehrhart.BergmanJetRadialHaarWeakProbabilityLift.integral_normalizedBergmanMeasure_momentNormalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/25d15e82-cacd-4c14-81f8-c9c09e4b3aea

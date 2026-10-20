@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetUpperTaggedMonomialObservableConvergence_ae_tendsto_momentTaggedLaurentObservable_interior_unitPartition_tag
 -- name    : Ehrhart.BergmanJetUpperTaggedMonomialObservableConvergence.ae_tendsto_momentTaggedLaurentObservable_interior_unitPartition_tag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/6b2be251-1509-4cb5-9531-4a0c0fa57b75

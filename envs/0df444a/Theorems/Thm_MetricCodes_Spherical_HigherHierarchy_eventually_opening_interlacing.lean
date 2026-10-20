@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_opening_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_opening_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/c794f68e-fc85-4f80-84fa-b6e8cf82cc3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_empiricalAverageDisagreement_error
 -- name    : TwoDegenerateGraphs.empiricalAverageDisagreement_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/5af87989-06bf-4abc-898e-0fa43d3aefa4

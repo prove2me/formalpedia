@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_bipartition_maximum_degree_gt_two
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_bipartition_maximum_degree_gt_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f52df99d-bfcc-4cac-8416-09dfe69b2492

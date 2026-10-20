@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_neg
 -- name    : CohnElkies.radialProfile_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/9f6db6e7-79bd-468b-8109-31782a1e40fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_criticalRadius_pos
 -- name    : CohnElkies.criticalRadius_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/32f209d0-5077-4990-b5fd-670ddeea8e2c

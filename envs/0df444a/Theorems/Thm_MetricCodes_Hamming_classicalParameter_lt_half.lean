@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_classicalParameter_lt_half
 -- name    : MetricCodes.Hamming.classicalParameter_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/3fbdfee0-06c2-4b00-981f-9cc4c228be13

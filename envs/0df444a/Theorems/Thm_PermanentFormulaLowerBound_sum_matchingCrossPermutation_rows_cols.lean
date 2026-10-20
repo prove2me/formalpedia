@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_sum_matchingCrossPermutation_rows_cols
 -- name    : PermanentFormulaLowerBound.sum_matchingCrossPermutation_rows_cols
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/1808c651-f456-426a-aabf-b367200fdce8

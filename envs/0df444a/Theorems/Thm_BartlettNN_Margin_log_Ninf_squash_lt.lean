@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettNN_Margin_log_Ninf_squash_lt
 -- name    : BartlettNN.Margin.log_Ninf_squash_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:06:18.902215+00:00
 -- url     : https://prove2.me/theorems/5e409b85-1387-4bad-a50b-02b77b4344e7

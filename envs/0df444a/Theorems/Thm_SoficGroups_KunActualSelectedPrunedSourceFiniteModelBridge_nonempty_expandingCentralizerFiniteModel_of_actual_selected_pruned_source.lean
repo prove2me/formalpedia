@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSelectedPrunedSourceFiniteModelBridge_nonempty_expandingCentralizerFiniteModel_of_actual_selected_pruned_source
 -- name    : SoficGroups.KunActualSelectedPrunedSourceFiniteModelBridge.nonempty_expandingCentralizerFiniteModel_of_actual_selected_pruned_source
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/9eb33689-8012-4593-9ac2-4fd64e3a84e0

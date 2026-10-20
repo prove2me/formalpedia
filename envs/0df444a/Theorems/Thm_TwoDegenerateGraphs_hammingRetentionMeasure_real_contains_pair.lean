@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_real_contains_pair
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_real_contains_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/f8b9dc3e-fc87-4d77-ae8a-58a55901bdee

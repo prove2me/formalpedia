@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CheegerPoincare_card_mul_finiteVariance
 -- name    : SoficGroups.CheegerPoincare.card_mul_finiteVariance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/fddf83af-d50b-4191-bacb-4456ef57e50e

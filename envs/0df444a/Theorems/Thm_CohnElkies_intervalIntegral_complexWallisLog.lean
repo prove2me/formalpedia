@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_intervalIntegral_complexWallisLog
 -- name    : CohnElkies.intervalIntegral_complexWallisLog
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/75cb80e9-4f80-4938-af7a-286b75321b69

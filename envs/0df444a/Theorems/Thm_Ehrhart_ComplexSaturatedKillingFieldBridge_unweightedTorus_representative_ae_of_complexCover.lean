@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ComplexSaturatedKillingFieldBridge_unweightedTorus_representative_ae_of_complexCover
 -- name    : Ehrhart.ComplexSaturatedKillingFieldBridge.unweightedTorus_representative_ae_of_complexCover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/ee827e46-1df5-4ffa-9009-ad71a0cac55f

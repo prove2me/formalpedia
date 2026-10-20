@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAxisCompressedValidNodeRoot_gtAxisCompressedCharacteristicMinor_eval_eq_zero_of_arrowhead_operator_row
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedValidNodeRoot.gtAxisCompressedCharacteristicMinor_eval_eq_zero_of_arrowhead_operator_row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/0babc034-beab-4a7c-a5d5-bac01acc75ed

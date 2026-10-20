@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapFiber_finiteDimensional
 -- name    : PermanentRollout.homogeneousMapFiber_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/e16366b0-cdef-42e1-93f0-09c7f99a5a66

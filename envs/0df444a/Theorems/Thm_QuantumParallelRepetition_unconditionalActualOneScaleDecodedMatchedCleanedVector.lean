@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualOneScaleDecodedMatchedCleanedVector
 -- name    : QuantumParallelRepetition.unconditionalActualOneScaleDecodedMatchedCleanedVector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/d7c0bd53-973c-446f-83dd-2c209bf804a7

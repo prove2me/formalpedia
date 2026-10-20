@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneous_eval_smul
 -- name    : PermanentRollout.homogeneous_eval_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/983bf5a6-4ee9-4491-a32c-7cadb766858d

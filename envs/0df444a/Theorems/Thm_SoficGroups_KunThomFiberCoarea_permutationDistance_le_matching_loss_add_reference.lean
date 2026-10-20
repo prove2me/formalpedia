@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_permutationDistance_le_matching_loss_add_reference
 -- name    : SoficGroups.KunThomFiberCoarea.permutationDistance_le_matching_loss_add_reference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/c673b17d-dbcc-4142-98e5-29537ef6ce74

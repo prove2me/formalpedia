@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_angularBoxMeasure_eq_restrict
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.angularBoxMeasure_eq_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/3681c2e3-0f80-4638-9084-e7928e6264e1

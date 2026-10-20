@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDualGradientInverseTransport_finiteEnergySourceLegendreGradient_pushforward_target
 -- name    : Ehrhart.BergmanJetDualGradientInverseTransport.finiteEnergySourceLegendreGradient_pushforward_target
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/c560c119-c7be-4d01-9bcf-f6a42fc14aca

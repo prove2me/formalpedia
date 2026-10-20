@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_binaryRate_lt_mrrw
 -- name    : MetricCodes.Johnson.binaryRate_lt_mrrw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/a7f79f8d-c46c-4ca4-8ea9-855f7fe598b7

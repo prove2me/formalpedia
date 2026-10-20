@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_blowup_strictSubsetGrowth
 -- name    : OAI.SeymourSecondNeighborhood.blowup_strictSubsetGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:07:55.424653+00:00
 -- url     : https://prove2.me/theorems/14127dc2-a8c1-45d0-b013-8cbdc1bcf2d5

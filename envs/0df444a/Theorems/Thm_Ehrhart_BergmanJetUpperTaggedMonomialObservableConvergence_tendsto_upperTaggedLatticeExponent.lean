@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetUpperTaggedMonomialObservableConvergence_tendsto_upperTaggedLatticeExponent
 -- name    : Ehrhart.BergmanJetUpperTaggedMonomialObservableConvergence.tendsto_upperTaggedLatticeExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/5796ea63-4113-4bf9-9d87-a44985bf1f87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronEsa_wave_add_smoothTruncatedPotential_essentiallySelfAdjoint
 -- name    : BookProof.ScalaronEsa.wave_add_smoothTruncatedPotential_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T22:42:00.844106+00:00
 -- url     : https://prove2.me/theorems/6611be72-d56f-425e-aa42-94859bfc36e4

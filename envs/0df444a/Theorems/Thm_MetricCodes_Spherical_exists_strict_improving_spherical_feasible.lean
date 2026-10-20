@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_exists_strict_improving_spherical_feasible
 -- name    : MetricCodes.Spherical.exists_strict_improving_spherical_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/8b05281b-3cee-4692-a606-df75934c1183

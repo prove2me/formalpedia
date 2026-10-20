@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_quadraticCoordinate_ratio_of_tendsto_degree_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_quadraticCoordinate_ratio_of_tendsto_degree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/73fda3ea-2275-4e73-87fe-e55682f25d9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptVertexCount_tendsto_atTop
 -- name    : TwoDegenerateGraphs.manuscriptVertexCount_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/1258d435-0de8-4362-b24f-950494062fd6

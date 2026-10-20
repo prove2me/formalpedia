@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_poissonLogistic_lowerWallisPhase_product_integrable
 -- name    : CohnElkies.poissonLogistic_lowerWallisPhase_product_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/9de98f28-5673-43a5-9e4d-e6f32c7d7bf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_angularSlice_sq_integrable_ae
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.angularSlice_sq_integrable_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/c6855300-6180-476d-88c9-b241d6638f94

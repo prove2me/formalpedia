@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualRetainedSelection_matchedRetained_boundary_density_tendsto_zero
 -- name    : SoficGroups.KunResidualRetainedSelection.matchedRetained_boundary_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/bc13564c-70f5-4977-b49c-19378e624848

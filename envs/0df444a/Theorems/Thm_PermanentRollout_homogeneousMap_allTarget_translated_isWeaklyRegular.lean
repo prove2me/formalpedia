@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_translated_isWeaklyRegular
 -- name    : PermanentRollout.homogeneousMap_allTarget_translated_isWeaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/4ef01505-590d-4e76-9eb8-4a617da6409a

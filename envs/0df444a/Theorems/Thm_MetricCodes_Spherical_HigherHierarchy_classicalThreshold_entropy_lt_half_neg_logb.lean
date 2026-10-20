@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_classicalThreshold_entropy_lt_half_neg_logb
 -- name    : MetricCodes.Spherical.HigherHierarchy.classicalThreshold_entropy_lt_half_neg_logb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/6f70dc06-fed0-4a7c-9223-c3ae9bb202cf

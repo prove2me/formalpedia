@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_cliqueFree_compRight_embedding
 -- name    : ErdosProblems.MulticolourTriangleRamsey.cliqueFree_compRight_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/1672d331-ed04-4ba0-8514-dfe8e0584a02

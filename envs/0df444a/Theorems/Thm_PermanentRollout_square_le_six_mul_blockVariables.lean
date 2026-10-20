@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_square_le_six_mul_blockVariables
 -- name    : PermanentRollout.square_le_six_mul_blockVariables
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/c05d5bed-cebb-4e1e-9278-a03d9ce4fa22

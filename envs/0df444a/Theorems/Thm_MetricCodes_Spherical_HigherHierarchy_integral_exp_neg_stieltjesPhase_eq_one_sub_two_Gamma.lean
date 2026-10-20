@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_integral_exp_neg_stieltjesPhase_eq_one_sub_two_Gamma
 -- name    : MetricCodes.Spherical.HigherHierarchy.integral_exp_neg_stieltjesPhase_eq_one_sub_two_Gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/097d5fb7-2575-46b5-abaf-188f8c8ef7f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusMollificationLocalL2Bounds_complexShrinkingBump_rOut_le_one
 -- name    : Ehrhart.TorusMollificationLocalL2Bounds.complexShrinkingBump_rOut_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/db3e755e-06a1-4e5a-818a-7c9b0ae7b998

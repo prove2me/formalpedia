@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localizedEnvelope_levelRate_succ_lt_of_lowerSemicontinuous
 -- name    : MetricCodes.Spherical.HigherHierarchy.localizedEnvelope_levelRate_succ_lt_of_lowerSemicontinuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/944b0f36-1410-403d-a5ed-8abe6a9f438e

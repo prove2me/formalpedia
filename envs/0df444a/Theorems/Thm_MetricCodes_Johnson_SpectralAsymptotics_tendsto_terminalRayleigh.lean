@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_tendsto_terminalRayleigh
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.tendsto_terminalRayleigh
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/fba92173-66c3-4054-830f-a1522ad3adfe

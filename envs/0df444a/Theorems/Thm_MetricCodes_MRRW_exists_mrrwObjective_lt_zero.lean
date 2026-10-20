@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_exists_mrrwObjective_lt_zero
 -- name    : MetricCodes.MRRW.exists_mrrwObjective_lt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/e33fa80d-56ed-49f4-9284-f94139c3937d

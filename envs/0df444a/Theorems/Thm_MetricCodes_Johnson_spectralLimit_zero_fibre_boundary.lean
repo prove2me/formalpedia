@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_spectralLimit_zero_fibre_boundary
 -- name    : MetricCodes.Johnson.spectralLimit_zero_fibre_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/174ae263-3ab6-4476-a9d5-88bd47d19ed6

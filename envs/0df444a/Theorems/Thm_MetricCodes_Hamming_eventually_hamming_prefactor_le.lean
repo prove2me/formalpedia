@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_eventually_hamming_prefactor_le
 -- name    : MetricCodes.Hamming.eventually_hamming_prefactor_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/bf63bb42-bf6f-482c-a190-c414b62e038e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparison_relativeEntropy_eq_log_pi_sub_one
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparison_relativeEntropy_eq_log_pi_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/d6a4dc2d-36af-4e8a-a468-3dd144224cd4

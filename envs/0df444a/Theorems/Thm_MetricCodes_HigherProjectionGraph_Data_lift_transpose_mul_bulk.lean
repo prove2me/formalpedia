@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_lift_transpose_mul_bulk
 -- name    : MetricCodes.HigherProjectionGraph.Data.lift_transpose_mul_bulk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/a64aa40b-cf5a-45f6-aac6-9e0d50b07fa4

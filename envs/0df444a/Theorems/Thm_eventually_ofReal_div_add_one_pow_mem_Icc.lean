@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eventually_ofReal_div_add_one_pow_mem_Icc
 -- name    : eventually_ofReal_div_add_one_pow_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/a5ac2921-e235-4001-9336-dd099f528d00

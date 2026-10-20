@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockProductCentralRoot_commute_left
 -- name    : SoficGroups.finiteOuterBlockProductCentralRoot_commute_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/dbafdc92-eef1-45e9-931e-16d4558067ab

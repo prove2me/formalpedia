@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_packing_bound_geometric_estimate
 -- name    : packing_bound_geometric_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/f468689a-30c0-44d4-9ba4-c44af5b7b8dd

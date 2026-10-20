@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyVariationalRate_le_levelRate
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyVariationalRate_le_levelRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/04212961-4475-4c1f-b79d-dd08cf300703

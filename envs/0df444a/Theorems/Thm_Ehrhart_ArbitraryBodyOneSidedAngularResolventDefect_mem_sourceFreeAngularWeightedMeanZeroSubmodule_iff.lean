@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularResolventDefect_mem_sourceFreeAngularWeightedMeanZeroSubmodule_iff
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularResolventDefect.mem_sourceFreeAngularWeightedMeanZeroSubmodule_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/e76c67dc-00e2-4c56-883a-e0441ef300f4

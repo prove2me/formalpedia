@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedProjectorCompression_gtSelectedProjectorCompression_inner
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedProjectorCompression.gtSelectedProjectorCompression_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/b7c21b69-b060-4136-b15d-5e7097904884

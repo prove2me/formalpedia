@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_eventually_signature_strictAnti
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.eventually_signature_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/7c4074f1-9749-458e-a896-bf975df93b95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_shifted_floor_drop_subset_two_intervals
 -- name    : SoficGroups.shifted_floor_drop_subset_two_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/06e7c395-577b-41e6-8fd7-08b6b72818fd

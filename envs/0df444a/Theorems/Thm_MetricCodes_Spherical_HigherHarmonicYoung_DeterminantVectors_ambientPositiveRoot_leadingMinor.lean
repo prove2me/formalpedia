@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_DeterminantVectors_ambientPositiveRoot_leadingMinor
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors.ambientPositiveRoot_leadingMinor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/f09704f8-6187-4080-ac15-487aeb6fb3d3

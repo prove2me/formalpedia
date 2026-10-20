@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_realFundamentalCellMeasure_eq_restrict
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.realFundamentalCellMeasure_eq_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/6182db8c-93b3-4c6b-aec1-cfdff7ac5634

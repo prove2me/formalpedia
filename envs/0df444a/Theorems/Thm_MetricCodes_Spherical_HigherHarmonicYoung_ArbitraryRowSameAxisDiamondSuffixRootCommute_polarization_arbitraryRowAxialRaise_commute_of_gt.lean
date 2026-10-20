@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondSuffixRootCommute_polarization_arbitraryRowAxialRaise_commute_of_gt
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixRootCommute.polarization_arbitraryRowAxialRaise_commute_of_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/7d62e749-56c7-452f-8f6a-bb840b09db7a

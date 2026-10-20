@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankStrongStableActualBoxSufficiency_fixedLevelHierarchyCodeBound_of_extraStrongStableProjectedAxis
 -- name    : MetricCodes.Spherical.HigherYoungAllRankStrongStableActualBoxSufficiency.fixedLevelHierarchyCodeBound_of_extraStrongStableProjectedAxis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/92ede08b-e8eb-4c2a-88cf-f61a689eb3ae

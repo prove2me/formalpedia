@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_square_zero_add_pow_succ
 -- name    : PermanentRollout.square_zero_add_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/7d407aa8-0374-4555-a9a9-fbc96ff2942e

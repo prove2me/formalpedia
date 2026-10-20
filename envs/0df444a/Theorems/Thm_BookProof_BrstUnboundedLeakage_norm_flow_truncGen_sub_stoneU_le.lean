@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_norm_flow_truncGen_sub_stoneU_le
 -- name    : BookProof.BrstUnboundedLeakage.norm_flow_truncGen_sub_stoneU_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:20:04.411228+00:00
 -- url     : https://prove2.me/theorems/73d01b31-c577-420f-ae66-e472574445a8

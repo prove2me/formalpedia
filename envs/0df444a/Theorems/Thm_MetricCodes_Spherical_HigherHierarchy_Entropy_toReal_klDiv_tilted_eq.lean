@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_toReal_klDiv_tilted_eq
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.toReal_klDiv_tilted_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/5bbafb30-b77f-49d1-99d7-886f76d934eb

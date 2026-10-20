@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_spectralConverse
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.spectralConverse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:52:34.763097+00:00
 -- url     : https://prove2.me/theorems/bd3b2a47-ca3c-4340-b427-d448328602ba

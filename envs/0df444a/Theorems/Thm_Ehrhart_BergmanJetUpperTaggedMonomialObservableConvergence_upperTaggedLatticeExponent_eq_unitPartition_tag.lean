@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetUpperTaggedMonomialObservableConvergence_upperTaggedLatticeExponent_eq_unitPartition_tag
 -- name    : Ehrhart.BergmanJetUpperTaggedMonomialObservableConvergence.upperTaggedLatticeExponent_eq_unitPartition_tag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/43bf0570-d41f-4747-8604-bfe4470de501

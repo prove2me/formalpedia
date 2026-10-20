@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ArcsineTransform_arcsine_integral_self_div_add
 -- name    : MetricCodes.Spherical.HigherHierarchy.ArcsineTransform.arcsine_integral_self_div_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/ae0d678d-809e-4e23-9c8e-89fe95b9acff

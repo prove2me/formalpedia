@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLinesOnPoint_card
 -- name    : CompactnessConjecture.symplecticLinesOnPoint_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/50d305d8-dd0e-4c5e-b840-07bce7638738

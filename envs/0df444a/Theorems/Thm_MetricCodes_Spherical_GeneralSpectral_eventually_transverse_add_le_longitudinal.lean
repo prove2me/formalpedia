@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_eventually_transverse_add_le_longitudinal
 -- name    : MetricCodes.Spherical.GeneralSpectral.eventually_transverse_add_le_longitudinal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/62447161-2de3-4228-a88c-d97a261cb129

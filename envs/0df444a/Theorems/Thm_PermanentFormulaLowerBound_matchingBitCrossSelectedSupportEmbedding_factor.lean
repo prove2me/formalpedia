@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingBitCrossSelectedSupportEmbedding_factor
 -- name    : PermanentFormulaLowerBound.matchingBitCrossSelectedSupportEmbedding_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/84f77117-494b-41a2-b08e-0715049e49ae

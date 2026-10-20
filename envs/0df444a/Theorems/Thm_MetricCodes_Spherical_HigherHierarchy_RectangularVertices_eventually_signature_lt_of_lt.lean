@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_eventually_signature_lt_of_lt
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.eventually_signature_lt_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/72eea479-bd7c-40ae-b103-243e163172f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_badPairChildArrays_card_le
 -- name    : TwoDegenerateGraphs.badPairChildArrays_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/27e36f41-efb2-45f0-adc0-085ba90ae45b

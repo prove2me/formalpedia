@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_CircleConsequence_five_point_isolator
 -- name    : OAI.EuclideanRamsey.CircleConsequence.five_point_isolator
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:26:53.365431+00:00
 -- url     : https://prove2.me/theorems/659f822f-2fe0-4ff8-98eb-351a6df7f76a

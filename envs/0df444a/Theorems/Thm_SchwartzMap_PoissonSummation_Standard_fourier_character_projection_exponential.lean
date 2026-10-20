@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_fourier_character_projection_exponential
 -- name    : SchwartzMap.PoissonSummation.Standard.fourier_character_projection_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/30ad9a34-4b17-4db5-9cca-f0dc5fd8e440

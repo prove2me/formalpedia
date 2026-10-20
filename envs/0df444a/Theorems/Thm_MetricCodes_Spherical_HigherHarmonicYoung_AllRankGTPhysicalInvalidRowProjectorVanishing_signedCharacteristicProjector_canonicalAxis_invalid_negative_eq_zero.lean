@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalInvalidRowProjectorVanishing_signedCharacteristicProjector_canonicalAxis_invalid_negative_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalInvalidRowProjectorVanishing.signedCharacteristicProjector_canonicalAxis_invalid_negative_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/136e45da-0836-4ec6-8527-3c2f55811a36

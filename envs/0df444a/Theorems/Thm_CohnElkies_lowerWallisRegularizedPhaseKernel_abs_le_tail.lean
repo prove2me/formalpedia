@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerWallisRegularizedPhaseKernel_abs_le_tail
 -- name    : CohnElkies.lowerWallisRegularizedPhaseKernel_abs_le_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/cf5712f0-38b1-4942-a32c-d69a5a813a8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TalagrandDiscreteConvexity_talagrand_discrete_convexity
 -- name    : OAI.TalagrandDiscreteConvexity.talagrand_discrete_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:28.774274+00:00
 -- url     : https://prove2.me/theorems/95451299-0ad5-40d5-916f-9ab9ebce385b

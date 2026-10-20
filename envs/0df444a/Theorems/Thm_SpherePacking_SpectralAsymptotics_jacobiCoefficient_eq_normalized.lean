@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_SpectralAsymptotics_jacobiCoefficient_eq_normalized
 -- name    : SpherePacking.SpectralAsymptotics.jacobiCoefficient_eq_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/637faa82-6c8a-4867-affb-f251521ff846

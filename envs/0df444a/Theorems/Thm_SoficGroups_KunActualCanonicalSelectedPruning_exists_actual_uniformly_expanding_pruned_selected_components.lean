@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualCanonicalSelectedPruning_exists_actual_uniformly_expanding_pruned_selected_components
 -- name    : SoficGroups.KunActualCanonicalSelectedPruning.exists_actual_uniformly_expanding_pruned_selected_components
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/b3e17fdb-b724-47eb-8dc3-aabb27f4b58c

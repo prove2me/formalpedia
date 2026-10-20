@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_exists_expanding_residual_finpartition
 -- name    : SoficGroups.KunResidualExpanderDecomposition.exists_expanding_residual_finpartition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/1a0a6974-6573-4d55-ba77-ece6990226c2

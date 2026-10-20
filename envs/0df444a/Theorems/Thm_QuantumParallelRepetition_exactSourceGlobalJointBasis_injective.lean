@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceGlobalJointBasis_injective
 -- name    : QuantumParallelRepetition.exactSourceGlobalJointBasis_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/7e8bba85-4741-4d84-9a31-6d4307364fa3

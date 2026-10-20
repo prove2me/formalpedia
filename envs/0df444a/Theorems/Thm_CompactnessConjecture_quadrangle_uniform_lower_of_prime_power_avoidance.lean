@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quadrangle_uniform_lower_of_prime_power_avoidance
 -- name    : CompactnessConjecture.quadrangle_uniform_lower_of_prime_power_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/601dbebd-1604-4572-8b2a-4d57eed5d899

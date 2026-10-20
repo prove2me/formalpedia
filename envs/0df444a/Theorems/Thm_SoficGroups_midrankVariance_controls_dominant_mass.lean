@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_midrankVariance_controls_dominant_mass
 -- name    : SoficGroups.midrankVariance_controls_dominant_mass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/5ccb98e7-87b3-48e9-b4c5-88a53c8beb65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_ProjectionFamily_sum_overlap_eq_trace_mul_sum
 -- name    : MetricCodes.ProjectionFamily.sum_overlap_eq_trace_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/98bc09a1-7e6e-42f5-ab83-f7e26ed089f8

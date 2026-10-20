@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeProjectionAverage_iterate_dist_le_geometric
 -- name    : SoficGroups.ejThreeProjectionAverage_iterate_dist_le_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/fdfaa92d-569e-43a1-a564-e38d47e54bcb

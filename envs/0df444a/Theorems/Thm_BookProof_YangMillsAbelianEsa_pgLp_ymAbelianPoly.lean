@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_pgLp_ymAbelianPoly
 -- name    : BookProof.YangMillsAbelianEsa.pgLp_ymAbelianPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:41:54.138934+00:00
 -- url     : https://prove2.me/theorems/9fb1fe8f-6e2a-4548-85b8-5c7395ccf207

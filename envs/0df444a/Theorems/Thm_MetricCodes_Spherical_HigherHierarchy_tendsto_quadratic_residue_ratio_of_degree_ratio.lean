@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_quadratic_residue_ratio_of_degree_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_quadratic_residue_ratio_of_degree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/64261166-4159-41ac-8a38-28db3243a343

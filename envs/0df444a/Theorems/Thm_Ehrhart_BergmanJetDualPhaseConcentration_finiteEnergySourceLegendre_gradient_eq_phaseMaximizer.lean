@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDualPhaseConcentration_finiteEnergySourceLegendre_gradient_eq_phaseMaximizer
 -- name    : Ehrhart.BergmanJetDualPhaseConcentration.finiteEnergySourceLegendre_gradient_eq_phaseMaximizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/c2a36f58-8773-4e67-b186-6a5c9f561828

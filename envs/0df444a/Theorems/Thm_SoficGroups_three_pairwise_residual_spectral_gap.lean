@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_three_pairwise_residual_spectral_gap
 -- name    : SoficGroups.three_pairwise_residual_spectral_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/e223e9b3-2346-4ede-a07e-2042be370a31

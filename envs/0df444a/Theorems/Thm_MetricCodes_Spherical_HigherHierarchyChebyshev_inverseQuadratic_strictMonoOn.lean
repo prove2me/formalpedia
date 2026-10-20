@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_inverseQuadratic_strictMonoOn
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.inverseQuadratic_strictMonoOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/48fb4313-485d-4b25-bb9e-5eb377cc576d

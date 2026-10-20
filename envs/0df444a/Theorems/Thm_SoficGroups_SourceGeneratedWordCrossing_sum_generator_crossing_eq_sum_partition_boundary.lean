@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneratedWordCrossing_sum_generator_crossing_eq_sum_partition_boundary
 -- name    : SoficGroups.SourceGeneratedWordCrossing.sum_generator_crossing_eq_sum_partition_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/bfc15f2d-2871-4901-9261-d77893dcd538

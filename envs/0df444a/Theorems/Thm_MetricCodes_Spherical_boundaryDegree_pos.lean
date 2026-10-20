@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_boundaryDegree_pos
 -- name    : MetricCodes.Spherical.boundaryDegree_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/f12c3889-0a0b-46b5-9279-0f81f13cec3f

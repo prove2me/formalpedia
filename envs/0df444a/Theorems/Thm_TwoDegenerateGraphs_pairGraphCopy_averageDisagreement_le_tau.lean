@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphCopy_averageDisagreement_le_tau
 -- name    : TwoDegenerateGraphs.pairGraphCopy_averageDisagreement_le_tau
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/459801e5-7613-4b3a-9e9b-b24b6d3b8c87

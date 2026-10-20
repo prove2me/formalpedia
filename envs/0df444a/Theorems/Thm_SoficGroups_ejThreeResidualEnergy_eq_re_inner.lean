@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualEnergy_eq_re_inner
 -- name    : SoficGroups.ejThreeResidualEnergy_eq_re_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/6334653d-f31e-4303-ad76-1b145c0f2cb6

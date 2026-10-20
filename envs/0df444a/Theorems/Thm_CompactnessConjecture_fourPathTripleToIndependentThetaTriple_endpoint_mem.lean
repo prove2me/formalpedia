@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_fourPathTripleToIndependentThetaTriple_endpoint_mem
 -- name    : CompactnessConjecture.fourPathTripleToIndependentThetaTriple_endpoint_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/bc83c397-eb82-40f8-9095-40dcf246bb26

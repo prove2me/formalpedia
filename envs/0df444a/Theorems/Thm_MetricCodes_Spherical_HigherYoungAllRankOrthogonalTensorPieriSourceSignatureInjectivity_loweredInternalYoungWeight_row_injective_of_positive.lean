@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity_loweredInternalYoungWeight_row_injective_of_positive
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity.loweredInternalYoungWeight_row_injective_of_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/a00b6e31-47ae-4321-888e-c6730714e755

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_bv_ac_without_standing
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one_bv_ac_without_standing
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-07T22:39:42.682983+00:00
 -- url     : https://prove2.me/theorems/8b2fe922-4c54-40cd-b39d-c0b4de477ffb

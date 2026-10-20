@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetEnvelopeLimit_tendsto_momentJointTailUpperEnvelope
 -- name    : Ehrhart.BergmanJetEnvelopeLimit.tendsto_momentJointTailUpperEnvelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/ce68bf7d-6e2b-4bfa-b98a-046913661794

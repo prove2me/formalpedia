@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.WeylCauchyRiemann.exists_analyticOn_ae_eq_ball
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:37:49.840748+00:00
 -- url     : https://prove2.me/submissions/ca547cb5-5701-4c27-ab92-6b0aead60930
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWeylCauchyRiemann.lean — solution of BookProof.WeylCauchyRiemann.exists_analyticOn_ae_eq_ball
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_booleanCut_deleteIncidence_flip
 -- name    : CompactnessConjecture.booleanCut_deleteIncidence_flip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/1828e8e6-fc59-42c5-a56b-c05f021ff8dd

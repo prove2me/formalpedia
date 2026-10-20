@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_minorSum_cost_lt_quarter
 -- name    : PermanentRollout.minorSum_cost_lt_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/4ac800cd-0ac3-4dcb-8099-90d91c1c5e98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankDistinctSignatureStabilizerIntertwiner_canonicalGelfandTsetlinFibre_inner_eq_zero_of_signature_ne
 -- name    : MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner.canonicalGelfandTsetlinFibre_inner_eq_zero_of_signature_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/60a5cf72-1846-4219-9a3f-c2750cdc2595

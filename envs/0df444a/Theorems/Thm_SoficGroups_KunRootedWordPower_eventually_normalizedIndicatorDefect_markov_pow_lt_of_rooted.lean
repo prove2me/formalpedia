@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_eventually_normalizedIndicatorDefect_markov_pow_lt_of_rooted
 -- name    : SoficGroups.KunRootedWordPower.eventually_normalizedIndicatorDefect_markov_pow_lt_of_rooted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/7e3ce47b-55a6-49f6-abc0-c448862fd93f

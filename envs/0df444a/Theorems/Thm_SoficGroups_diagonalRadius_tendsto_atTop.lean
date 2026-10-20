@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_diagonalRadius_tendsto_atTop
 -- name    : SoficGroups.diagonalRadius_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/34b1a02c-5e33-4390-86a2-ab9d49b8bb48

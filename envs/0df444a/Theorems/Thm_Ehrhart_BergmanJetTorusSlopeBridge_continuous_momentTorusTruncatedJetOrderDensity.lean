@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeBridge_continuous_momentTorusTruncatedJetOrderDensity
 -- name    : Ehrhart.BergmanJetTorusSlopeBridge.continuous_momentTorusTruncatedJetOrderDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/22fd6898-1cd5-43cd-ae13-d35ab0740c48

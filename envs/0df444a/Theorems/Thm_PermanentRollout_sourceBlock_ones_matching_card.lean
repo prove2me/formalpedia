@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlock_ones_matching_card
 -- name    : PermanentRollout.sourceBlock_ones_matching_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/0bf60c09-3798-4122-8af8-6e2d23ee7a81

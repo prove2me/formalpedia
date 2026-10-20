@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtreeTopProduct_mul_other_sum_eq_zero
 -- name    : PermanentRollout.subtreeTopProduct_mul_other_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/03429fef-fe8f-4634-af83-1c90a777a406

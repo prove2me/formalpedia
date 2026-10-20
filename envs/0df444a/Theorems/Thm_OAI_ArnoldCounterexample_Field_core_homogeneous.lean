@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArnoldCounterexample_Field_core_homogeneous
 -- name    : OAI.ArnoldCounterexample.Field.core_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:35:12.832981+00:00
 -- url     : https://prove2.me/theorems/8519ece6-331e-4d09-8b84-172c2f362d8d

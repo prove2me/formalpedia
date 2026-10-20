@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankZeroRowRotationEquivariance_appendZeroRowIsometryEquiv_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance.appendZeroRowIsometryEquiv_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/b1e4b3ac-4c11-46f8-9e5c-0faf239bbab8

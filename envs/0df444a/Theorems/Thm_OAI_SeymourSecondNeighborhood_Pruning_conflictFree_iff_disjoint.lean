@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Pruning_conflictFree_iff_disjoint
 -- name    : OAI.SeymourSecondNeighborhood.Pruning.conflictFree_iff_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:08:13.83133+00:00
 -- url     : https://prove2.me/theorems/ea734c8b-f68a-4243-99e4-e09aa2adc6ec

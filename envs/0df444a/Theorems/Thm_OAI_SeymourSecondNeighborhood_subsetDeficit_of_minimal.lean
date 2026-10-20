@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_subsetDeficit_of_minimal
 -- name    : OAI.SeymourSecondNeighborhood.subsetDeficit_of_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:06:51.042149+00:00
 -- url     : https://prove2.me/theorems/f9ee9305-025b-42d0-b0a3-8d39f28245c7

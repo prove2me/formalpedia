@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionPoint_base_of_point_base
 -- name    : CompactnessConjecture.subdivisionPoint_base_of_point_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/ca6f0cdb-711b-4aa9-80e2-5b8e1b431df1

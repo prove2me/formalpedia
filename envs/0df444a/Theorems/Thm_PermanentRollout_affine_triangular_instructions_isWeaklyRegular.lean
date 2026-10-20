@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_triangular_instructions_isWeaklyRegular
 -- name    : PermanentRollout.affine_triangular_instructions_isWeaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/a21bf819-29dd-469e-b2d5-274d282de790

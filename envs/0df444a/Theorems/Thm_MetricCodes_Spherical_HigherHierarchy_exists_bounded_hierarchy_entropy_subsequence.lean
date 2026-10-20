@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_bounded_hierarchy_entropy_subsequence
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_bounded_hierarchy_entropy_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/64c66a87-4070-4895-b673-a4a58f45f3de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_log_interval_of_series
 -- name    : MetricCodes.Numerics.log_interval_of_series
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/6d26f47d-b5ae-4ba2-a40f-b5dc542036a0

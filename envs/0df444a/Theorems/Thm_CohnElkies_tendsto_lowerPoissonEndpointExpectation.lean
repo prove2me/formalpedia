@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_lowerPoissonEndpointExpectation
 -- name    : CohnElkies.tendsto_lowerPoissonEndpointExpectation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/524872b3-1b87-4a08-b65e-a02bf265a378

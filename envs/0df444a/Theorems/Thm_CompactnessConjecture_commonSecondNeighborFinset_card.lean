@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_commonSecondNeighborFinset_card
 -- name    : CompactnessConjecture.commonSecondNeighborFinset_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/73e4e15b-b703-40d6-9088-5b04487cc709

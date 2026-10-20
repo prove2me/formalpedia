@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_forall_exists_adj
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_forall_exists_adj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/77ca194a-956b-4b15-97e9-d8f55f97faa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAbsentWallCharacteristicFactor_gtAxisCompressedCharacteristicMinor_eval_neg_wallShift_eq_zero_iff
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAbsentWallCharacteristicFactor.gtAxisCompressedCharacteristicMinor_eval_neg_wallShift_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/86f997db-85e3-4b25-a20b-3911538e6b13

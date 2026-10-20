@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binomialProbabilityMass_mode_mul_exp_entropy
 -- name    : TwoDegenerateGraphs.binomialProbabilityMass_mode_mul_exp_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/3a42eb3c-3170-446d-9892-a9a669a663f3

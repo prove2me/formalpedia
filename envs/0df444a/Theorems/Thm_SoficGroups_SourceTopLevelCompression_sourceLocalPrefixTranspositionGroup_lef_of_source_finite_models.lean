@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceTopLevelCompression_sourceLocalPrefixTranspositionGroup_lef_of_source_finite_models
 -- name    : SoficGroups.SourceTopLevelCompression.sourceLocalPrefixTranspositionGroup_lef_of_source_finite_models
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/d4567f72-211b-4052-803f-5fd5fb0adc91

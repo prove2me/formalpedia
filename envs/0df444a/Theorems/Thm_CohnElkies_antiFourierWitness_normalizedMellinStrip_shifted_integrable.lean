@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_normalizedMellinStrip_shifted_integrable
 -- name    : CohnElkies.antiFourierWitness_normalizedMellinStrip_shifted_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/8219aaef-9c51-4cc6-b44e-a5206245a9de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_abs_binaryEntropy_sub_le_binaryEntropy_abs_sub
 -- name    : TwoDegenerateGraphs.abs_binaryEntropy_sub_le_binaryEntropy_abs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/4a04f6bc-ac92-4ebb-ab45-744a06826d8f

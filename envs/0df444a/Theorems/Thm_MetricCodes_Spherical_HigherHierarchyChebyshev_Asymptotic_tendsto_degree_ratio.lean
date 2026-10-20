@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_tendsto_degree_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.tendsto_degree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/a9bb572b-cc21-4fa1-a03b-5c57272a6a07

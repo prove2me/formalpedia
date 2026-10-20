@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_variationalRate_lowerSemicontinuousOn_Icc
 -- name    : MetricCodes.Spherical.HigherHierarchy.variationalRate_lowerSemicontinuousOn_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/2fc66457-2b0c-4dd7-8d3c-88f17163e5f9

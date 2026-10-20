@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_coefficientTranscendenceDegree_ge_square_of_algebraicIndependent
 -- name    : PermanentFormulaLowerBound.coefficientTranscendenceDegree_ge_square_of_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/96944a53-b9ce-4125-a535-c833e307138d

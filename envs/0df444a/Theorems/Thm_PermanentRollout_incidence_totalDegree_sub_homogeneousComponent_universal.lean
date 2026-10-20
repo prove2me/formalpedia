@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_incidence_totalDegree_sub_homogeneousComponent_universal
 -- name    : PermanentRollout.incidence_totalDegree_sub_homogeneousComponent_universal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/843a2dd6-87bc-4e77-a041-300a4edbb584

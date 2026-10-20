@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_uniformMemberLower_of_characteristic_avoidance
 -- name    : CompactnessConjecture.uniformMemberLower_of_characteristic_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/bb0df6d4-acf4-4fd3-91d9-451dac5700ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCartanSpectralCouplingNonvanishing_arrowhead_coupling_eq_zero_of_apply_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanSpectralCouplingNonvanishing.arrowhead_coupling_eq_zero_of_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/4fcd9270-cb0d-4b68-975b-39cf00c88883

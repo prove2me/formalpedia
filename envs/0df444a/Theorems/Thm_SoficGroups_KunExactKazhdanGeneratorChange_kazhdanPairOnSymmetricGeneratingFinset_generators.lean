@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunExactKazhdanGeneratorChange_kazhdanPairOnSymmetricGeneratingFinset_generators
 -- name    : SoficGroups.KunExactKazhdanGeneratorChange.kazhdanPairOnSymmetricGeneratingFinset_generators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/c922b3f8-6b71-47f8-9ba3-05b9f3571036

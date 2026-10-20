@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullHistoryAnswerCount_le_sourceAnswerAlphabetBound_pow
 -- name    : QuantumParallelRepetition.fullHistoryAnswerCount_le_sourceAnswerAlphabetBound_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/5e67623e-f9b5-4a47-b0db-b956584d68b1

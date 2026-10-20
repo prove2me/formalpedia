@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerCore_sourceTorusFormFullDerivativeDensity_re_nonneg
 -- name    : Ehrhart.MatrixTorusBochnerCore.sourceTorusFormFullDerivativeDensity_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/dec36ec9-420d-4a83-831a-d8df9f32583d

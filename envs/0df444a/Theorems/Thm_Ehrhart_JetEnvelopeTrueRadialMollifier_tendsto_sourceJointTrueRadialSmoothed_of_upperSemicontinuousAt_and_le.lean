@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeTrueRadialMollifier_tendsto_sourceJointTrueRadialSmoothed_of_upperSemicontinuousAt_and_le
 -- name    : Ehrhart.JetEnvelopeTrueRadialMollifier.tendsto_sourceJointTrueRadialSmoothed_of_upperSemicontinuousAt_and_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/5527c4fd-f2db-4aa2-8268-9fdd7e0d25d5

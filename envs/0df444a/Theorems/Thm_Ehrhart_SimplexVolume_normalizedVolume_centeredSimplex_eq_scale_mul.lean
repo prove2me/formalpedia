@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_normalizedVolume_centeredSimplex_eq_scale_mul
 -- name    : Ehrhart.SimplexVolume.normalizedVolume_centeredSimplex_eq_scale_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/ad29a75b-578e-4249-a6ae-4056d57d0c0e

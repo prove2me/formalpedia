@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_integrable_angularTorusComplexHessian_pair
 -- name    : Ehrhart.WeightedTorusBochner.integrable_angularTorusComplexHessian_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/cb906406-624c-480e-8d2f-736be1743b62

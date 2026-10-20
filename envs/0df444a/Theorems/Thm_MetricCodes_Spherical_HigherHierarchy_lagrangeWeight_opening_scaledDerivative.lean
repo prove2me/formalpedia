@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_lagrangeWeight_opening_scaledDerivative
 -- name    : MetricCodes.Spherical.HigherHierarchy.lagrangeWeight_opening_scaledDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/7f13cac9-808e-4cf3-9ebf-aa72fd5f43f5

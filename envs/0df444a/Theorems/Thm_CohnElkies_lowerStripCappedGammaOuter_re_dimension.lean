@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedGammaOuter_re_dimension
 -- name    : CohnElkies.lowerStripCappedGammaOuter_re_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/ef3479b2-5a13-4fe7-af24-78f8a3936fc8

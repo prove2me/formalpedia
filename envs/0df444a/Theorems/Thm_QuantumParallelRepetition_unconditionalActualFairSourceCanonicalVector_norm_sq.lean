@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceCanonicalVector_norm_sq
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceCanonicalVector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/7a65de65-da4e-4e40-b516-80df0af589dd

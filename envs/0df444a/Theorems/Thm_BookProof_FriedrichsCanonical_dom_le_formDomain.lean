@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_dom_le_formDomain
 -- name    : BookProof.FriedrichsCanonical.dom_le_formDomain
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:37:13.910183+00:00
 -- url     : https://prove2.me/theorems/a19a0f90-bf8f-4ef1-954a-fea9b5799640

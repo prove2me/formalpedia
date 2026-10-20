@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptSamplingFailureEvent_real_le
 -- name    : TwoDegenerateGraphs.manuscriptSamplingFailureEvent_real_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/bc9a6e3b-6c83-4e09-ac3e-cbc4c3b38fea

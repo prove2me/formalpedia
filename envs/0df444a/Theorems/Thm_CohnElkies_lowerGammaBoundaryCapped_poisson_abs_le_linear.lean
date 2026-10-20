@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryCapped_poisson_abs_le_linear
 -- name    : CohnElkies.lowerGammaBoundaryCapped_poisson_abs_le_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/4a1fd521-2f45-42a1-ae6d-3519e2420115

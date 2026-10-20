@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicClosure_momentWeakJointCoverFiniteGeodesic_eq_positive
 -- name    : Ehrhart.BergmanJetJointHolomorphicClosure.momentWeakJointCoverFiniteGeodesic_eq_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/9d128131-1af0-4a47-82e7-0c64d4b53a5f

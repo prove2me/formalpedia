@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_circuit_loglog_lower_bound_288
 -- name    : PermanentRollout.permanent_circuit_loglog_lower_bound_288
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/cd266e79-5308-49ec-b835-0864b4eb4b9c

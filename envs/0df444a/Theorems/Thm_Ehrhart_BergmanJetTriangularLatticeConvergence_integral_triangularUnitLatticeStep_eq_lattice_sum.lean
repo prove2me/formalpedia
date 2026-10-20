@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTriangularLatticeConvergence_integral_triangularUnitLatticeStep_eq_lattice_sum
 -- name    : Ehrhart.BergmanJetTriangularLatticeConvergence.integral_triangularUnitLatticeStep_eq_lattice_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/a47d68cf-bf2b-4847-95e3-7251a07e286f

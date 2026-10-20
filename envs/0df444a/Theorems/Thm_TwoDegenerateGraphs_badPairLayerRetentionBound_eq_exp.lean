@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_badPairLayerRetentionBound_eq_exp
 -- name    : TwoDegenerateGraphs.badPairLayerRetentionBound_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/220ea57b-878f-4990-9b31-35026665c2a5

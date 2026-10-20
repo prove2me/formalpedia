@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSource_secondBranch_pointwise_gaussian_plus_outer
 -- name    : CohnElkies.eventually_saddleSource_secondBranch_pointwise_gaussian_plus_outer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/0b246a51-f1a7-41a9-a862-81881c059692

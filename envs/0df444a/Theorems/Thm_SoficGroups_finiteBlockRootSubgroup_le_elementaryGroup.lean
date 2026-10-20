@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteBlockRootSubgroup_le_elementaryGroup
 -- name    : SoficGroups.finiteBlockRootSubgroup_le_elementaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/393e4cc6-1886-4cbd-980b-ae547cba0753

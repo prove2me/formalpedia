@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lower_exp_log_coth_div_integrable
 -- name    : CohnElkies.lower_exp_log_coth_div_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/d4a513c6-7f1a-459c-a4ff-61d506ff0d6c

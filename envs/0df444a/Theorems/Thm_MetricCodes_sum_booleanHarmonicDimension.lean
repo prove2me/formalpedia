@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_sum_booleanHarmonicDimension
 -- name    : MetricCodes.sum_booleanHarmonicDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/23951bee-95ea-47c2-98a6-16c1d6d39f02

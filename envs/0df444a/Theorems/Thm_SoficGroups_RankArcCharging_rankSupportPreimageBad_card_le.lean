@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_RankArcCharging_rankSupportPreimageBad_card_le
 -- name    : SoficGroups.RankArcCharging.rankSupportPreimageBad_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/cda4ab51-b82c-40fa-ae64-d2105c0b0a6a

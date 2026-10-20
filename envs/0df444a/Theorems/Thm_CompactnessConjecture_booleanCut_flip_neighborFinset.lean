@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_booleanCut_flip_neighborFinset
 -- name    : CompactnessConjecture.booleanCut_flip_neighborFinset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/b8d264f9-d5e4-45a0-baeb-7948e8e42585

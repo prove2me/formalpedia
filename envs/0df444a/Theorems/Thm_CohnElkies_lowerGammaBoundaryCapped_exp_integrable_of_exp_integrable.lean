@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryCapped_exp_integrable_of_exp_integrable
 -- name    : CohnElkies.lowerGammaBoundaryCapped_exp_integrable_of_exp_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/ea21ece8-f367-4a17-8404-62388d6c257a

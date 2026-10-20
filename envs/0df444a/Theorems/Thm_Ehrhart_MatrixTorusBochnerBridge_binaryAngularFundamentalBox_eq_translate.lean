@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_binaryAngularFundamentalBox_eq_translate
 -- name    : Ehrhart.MatrixTorusBochnerBridge.binaryAngularFundamentalBox_eq_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/3db746b3-5ff1-41e6-8fdc-010793aea267

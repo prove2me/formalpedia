@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_compactified_residual_of_closure_sequence
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_compactified_residual_of_closure_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/fd4fbe1e-c69f-482a-b34b-5d798c575a30

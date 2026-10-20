@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunLiteralNineSourceCompletedCentralizerModels_exists_source_common_log_rank_with_ambient_midrank_variance
 -- name    : SoficGroups.KunLiteralNineSourceCompletedCentralizerModels.exists_source_common_log_rank_with_ambient_midrank_variance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/9644469c-6055-4f06-bb5c-ea20a32e195d

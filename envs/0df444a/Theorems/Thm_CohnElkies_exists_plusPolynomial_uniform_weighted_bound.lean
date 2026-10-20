@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_plusPolynomial_uniform_weighted_bound
 -- name    : CohnElkies.exists_plusPolynomial_uniform_weighted_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/4687d6b7-eb9e-4361-982e-8d8d8fe6af93

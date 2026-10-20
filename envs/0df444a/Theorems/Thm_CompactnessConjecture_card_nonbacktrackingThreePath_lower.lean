@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_card_nonbacktrackingThreePath_lower
 -- name    : CompactnessConjecture.card_nonbacktrackingThreePath_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/989973c1-3b42-481c-9bfd-c7cda91e9462

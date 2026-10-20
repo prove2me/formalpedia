@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_LaurentJetSeparatedness_analyticAt_normalizedHolomorphicMonomial
 -- name    : Ehrhart.LaurentJetSeparatedness.analyticAt_normalizedHolomorphicMonomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/4cbacfe3-9caf-4fbd-a4f8-2439e9978e89

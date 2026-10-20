@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousWeakResolventRootCoercivity_angularTorusFormAdjoint_cutoff_closedWeakResolventMollifier
 -- name    : Ehrhart.TorusHomogeneousWeakResolventRootCoercivity.angularTorusFormAdjoint_cutoff_closedWeakResolventMollifier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/6e8eed95-c1f4-47e4-9f81-f9121b2b153d

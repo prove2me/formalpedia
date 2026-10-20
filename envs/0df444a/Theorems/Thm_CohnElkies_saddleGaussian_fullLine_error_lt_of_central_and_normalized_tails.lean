@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleGaussian_fullLine_error_lt_of_central_and_normalized_tails
 -- name    : CohnElkies.saddleGaussian_fullLine_error_lt_of_central_and_normalized_tails
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/d2828623-aa6d-46bc-be2f-761cdb9e88a2

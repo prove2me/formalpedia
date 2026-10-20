@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsSquare_eq_frExt_of_isSelfAdjointExtension
 -- name    : BookProof.FriedrichsSquare.eq_frExt_of_isSelfAdjointExtension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:42:02.063998+00:00
 -- url     : https://prove2.me/theorems/b1c2c534-ec51-4713-9b99-6d9fc4307c2f

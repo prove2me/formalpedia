@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_supportHarmonicDimension
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_supportHarmonicDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/76add2e0-9e1a-4d6b-a7a6-46bdcbfc4c01

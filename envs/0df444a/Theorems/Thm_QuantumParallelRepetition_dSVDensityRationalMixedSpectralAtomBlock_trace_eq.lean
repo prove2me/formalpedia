@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalMixedSpectralAtomBlock_trace_eq
 -- name    : QuantumParallelRepetition.dSVDensityRationalMixedSpectralAtomBlock_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/c1c0c251-f270-4c61-afae-c8548fba1fb7

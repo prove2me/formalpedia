@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_weightedCellVector_inner_eq_unweighted
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.weightedCellVector_inner_eq_unweighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/0d9a521e-b1bc-40eb-94ca-cdde3b701b99

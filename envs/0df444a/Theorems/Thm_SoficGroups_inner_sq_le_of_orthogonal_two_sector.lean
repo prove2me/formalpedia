@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_inner_sq_le_of_orthogonal_two_sector
 -- name    : SoficGroups.inner_sq_le_of_orthogonal_two_sector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/d7c60e68-83a2-400e-9174-a8abc2531259

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_coverBarPartialTest_finset_sum
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.coverBarPartialTest_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/589f93a0-2708-4499-b82b-a9e5ff217ef4

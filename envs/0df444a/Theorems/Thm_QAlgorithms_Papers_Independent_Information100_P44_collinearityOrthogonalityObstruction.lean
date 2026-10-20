@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_collinearityOrthogonalityObstruction
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.collinearityOrthogonalityObstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:36:06.81671+00:00
 -- url     : https://prove2.me/theorems/7df82788-ecee-434c-8ba9-bff7b0b596b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceLocalBallVolumeConstant_pos
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceLocalBallVolumeConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/9f74ead9-98ab-4b0c-85e1-60e54e4674a3

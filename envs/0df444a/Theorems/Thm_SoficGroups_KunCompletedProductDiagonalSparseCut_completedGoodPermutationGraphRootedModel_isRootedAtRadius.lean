@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedProductDiagonalSparseCut_completedGoodPermutationGraphRootedModel_isRootedAtRadius
 -- name    : SoficGroups.KunCompletedProductDiagonalSparseCut.completedGoodPermutationGraphRootedModel_isRootedAtRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/060c98a9-7b50-429e-95f6-11628ab442e6

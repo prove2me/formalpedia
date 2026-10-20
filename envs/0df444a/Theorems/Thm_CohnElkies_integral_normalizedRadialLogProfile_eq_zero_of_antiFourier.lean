@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_normalizedRadialLogProfile_eq_zero_of_antiFourier
 -- name    : CohnElkies.integral_normalizedRadialLogProfile_eq_zero_of_antiFourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/96589658-5f5e-4de8-b35e-79a64e9ea0ab

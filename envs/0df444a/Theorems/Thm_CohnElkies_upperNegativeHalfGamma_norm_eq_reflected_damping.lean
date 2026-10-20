@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperNegativeHalfGamma_norm_eq_reflected_damping
 -- name    : CohnElkies.upperNegativeHalfGamma_norm_eq_reflected_damping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/9a3d5f0d-9862-46d3-806a-fb78bafbd0cc

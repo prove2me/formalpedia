@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteLogWidth_le_stage
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteLogWidth_le_stage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/6fc21b33-ec9d-480e-9c34-81a171adfeb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_square_surjective_char_two
 -- name    : CompactnessConjecture.square_surjective_char_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/94c35d01-d8a0-4d6f-83c1-68c23e1af765

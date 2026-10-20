@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGelfandTsetlinFibreNormalization_normalizedGelfandTsetlinFibre_phase_pos
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinFibreNormalization.normalizedGelfandTsetlinFibre_phase_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/eefa57ea-0347-4c32-8ffe-0103a47b8819

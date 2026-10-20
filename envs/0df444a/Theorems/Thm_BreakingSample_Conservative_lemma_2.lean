@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BreakingSample_Conservative_lemma_2
 -- name    : BreakingSample.Conservative.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:01:45.927493+00:00
 -- url     : https://prove2.me/theorems/3b3b5835-e4f6-4c59-8c19-ace48f9e245f

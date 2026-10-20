@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_extremalScale_sixteenth_power
 -- name    : CompactnessConjecture.extremalScale_sixteenth_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/e87ae2b8-2bf2-4c40-b209-544ba8872e0b

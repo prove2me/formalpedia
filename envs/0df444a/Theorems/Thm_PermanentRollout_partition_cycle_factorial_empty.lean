@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partition_cycle_factorial_empty
 -- name    : PermanentRollout.partition_cycle_factorial_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/6efcea80-65b1-433e-99a7-95875d1cabc7

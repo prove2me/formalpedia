@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_fourier_transform_is_integrable
 -- name    : fourier_transform_is_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/b75bcca0-b409-4ae2-b83d-53ce277ded77

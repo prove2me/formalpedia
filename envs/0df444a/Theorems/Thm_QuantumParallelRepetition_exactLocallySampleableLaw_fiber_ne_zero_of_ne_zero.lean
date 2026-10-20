@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactLocallySampleableLaw_fiber_ne_zero_of_ne_zero
 -- name    : QuantumParallelRepetition.exactLocallySampleableLaw_fiber_ne_zero_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/fd1fb2a9-e422-4c8e-924b-b4a8e37f61d7

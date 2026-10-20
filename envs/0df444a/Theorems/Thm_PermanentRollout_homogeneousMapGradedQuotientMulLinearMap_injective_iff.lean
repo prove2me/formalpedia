@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapGradedQuotientMulLinearMap_injective_iff
 -- name    : PermanentRollout.homogeneousMapGradedQuotientMulLinearMap_injective_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/dc570af5-c7ea-44a1-896b-3fa4232e1414

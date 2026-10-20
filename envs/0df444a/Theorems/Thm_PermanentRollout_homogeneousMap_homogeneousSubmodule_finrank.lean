@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_homogeneousSubmodule_finrank
 -- name    : PermanentRollout.homogeneousMap_homogeneousSubmodule_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/5a0c6717-e9f7-429d-ad9d-c0a7fe2958e3

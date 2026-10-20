@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseAppendedChannelOrthogonality_appendedFullBranchPieriLower_adjoint_paddedPhysicalStabilizerTensor_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseAppendedChannelOrthogonality.appendedFullBranchPieriLower_adjoint_paddedPhysicalStabilizerTensor_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/7122f105-b81e-42c6-8b95-8463b3c55e3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusRootCurvatureCoercivity_angularTorusFormCurvatureDensity_eq_conjugatePhysical_inner
 -- name    : Ehrhart.TorusRootCurvatureCoercivity.angularTorusFormCurvatureDensity_eq_conjugatePhysical_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/0ea4d22d-6b8a-47ed-b971-ffc666dd3ab3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerCoth_log_abs_integrable
 -- name    : CohnElkies.lowerCoth_log_abs_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/de54f47b-c26a-4295-8fef-ab62c63ba6f0

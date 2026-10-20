@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_scaled_log_factorial_sub
 -- name    : SpherePacking.tendsto_scaled_log_factorial_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/f36efbc5-a488-4892-888a-1ce5bafccf12

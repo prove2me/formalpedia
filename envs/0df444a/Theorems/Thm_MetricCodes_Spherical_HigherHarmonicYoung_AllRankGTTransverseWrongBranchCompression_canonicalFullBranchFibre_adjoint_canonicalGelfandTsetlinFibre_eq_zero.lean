@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseWrongBranchCompression_canonicalFullBranchFibre_adjoint_canonicalGelfandTsetlinFibre_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWrongBranchCompression.canonicalFullBranchFibre_adjoint_canonicalGelfandTsetlinFibre_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/c3aec944-65f8-4e3e-aaaa-12bcc8f60208

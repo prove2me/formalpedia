@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_card_badSaturationRows_mul_lt
 -- name    : ErdosProblems.MulticolourTriangleRamsey.card_badSaturationRows_mul_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/2b7248b1-a4f7-4adc-bb48-cfce1bb7e693

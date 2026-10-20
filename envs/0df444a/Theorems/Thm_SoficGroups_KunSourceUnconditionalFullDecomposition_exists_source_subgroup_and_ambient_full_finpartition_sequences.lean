@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSourceUnconditionalFullDecomposition_exists_source_subgroup_and_ambient_full_finpartition_sequences
 -- name    : SoficGroups.KunSourceUnconditionalFullDecomposition.exists_source_subgroup_and_ambient_full_finpartition_sequences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/cc59a931-dd64-4abc-8cd8-a1553374f49f

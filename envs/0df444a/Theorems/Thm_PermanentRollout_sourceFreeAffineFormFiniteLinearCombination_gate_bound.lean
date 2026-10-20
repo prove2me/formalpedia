@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceFreeAffineFormFiniteLinearCombination_gate_bound
 -- name    : PermanentRollout.sourceFreeAffineFormFiniteLinearCombination_gate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/8300ed06-16dd-4d85-9824-a218d4fbab86

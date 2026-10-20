@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_embeddedPhaseFrustration
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.embeddedPhaseFrustration
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:42:27.967733+00:00
 -- url     : https://prove2.me/theorems/8f4331a8-9d14-430a-bdb2-cb3523a8d77b

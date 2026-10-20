@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalCompleteBlockReconstruction_eq_of_iSup_range_sup_eq_top_of_adjoint_eq
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalCompleteBlockReconstruction.eq_of_iSup_range_sup_eq_top_of_adjoint_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/344b1b31-fd35-4e88-a441-4244878c1889

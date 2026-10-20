@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_affinePolynomial_eval_zero
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.affinePolynomial_eval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/11524c28-7801-4b69-930a-483320b807a5

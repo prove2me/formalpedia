@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_harmonicDimension_choose_bounds
 -- name    : SpherePacking.harmonicDimension_choose_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/99e7a892-2e82-4981-b87a-92b1590cc9c3

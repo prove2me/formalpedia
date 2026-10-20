@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_volume_splitStandardSimplex
 -- name    : Ehrhart.SimplexVolume.volume_splitStandardSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/d50d005d-d12f-498f-a067-54f7125535a3

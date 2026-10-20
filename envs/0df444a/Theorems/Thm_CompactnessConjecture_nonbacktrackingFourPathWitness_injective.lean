@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_nonbacktrackingFourPathWitness_injective
 -- name    : CompactnessConjecture.nonbacktrackingFourPathWitness_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/a290cace-be46-4f01-a609-ab0d75187379

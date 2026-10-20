@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalRetainedAdditiveColumn_linearMap_comp_eq_smul_add_of_complete_adjoint_block_rows
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalRetainedAdditiveColumn.linearMap_comp_eq_smul_add_of_complete_adjoint_block_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/2cf0227b-ead1-43d9-94e5-8e60bff2a917

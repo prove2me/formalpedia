@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_lower_product_integrable
 -- name    : CohnElkies.stripPoissonKernel_lower_product_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/cf3e7cb5-11e9-4839-8b5b-355b2ea19236

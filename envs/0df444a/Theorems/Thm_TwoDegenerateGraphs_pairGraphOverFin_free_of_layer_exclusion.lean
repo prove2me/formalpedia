@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_free_of_layer_exclusion
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_free_of_layer_exclusion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/37a631f1-2bc1-419e-b480-16812a298bf6

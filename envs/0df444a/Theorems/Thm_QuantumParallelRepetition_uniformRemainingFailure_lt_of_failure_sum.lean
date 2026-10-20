@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_uniformRemainingFailure_lt_of_failure_sum
 -- name    : QuantumParallelRepetition.uniformRemainingFailure_lt_of_failure_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/303ee8fa-54e2-4982-a156-b5366a083362

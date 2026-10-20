@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockProductCentralRoot_le_galoisConjugates
 -- name    : SoficGroups.finiteOuterBlockProductCentralRoot_le_galoisConjugates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/67fafda7-8067-4bc8-bc75-35511952890d

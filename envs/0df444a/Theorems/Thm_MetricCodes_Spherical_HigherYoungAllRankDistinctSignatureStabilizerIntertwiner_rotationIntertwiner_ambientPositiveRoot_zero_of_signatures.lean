@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankDistinctSignatureStabilizerIntertwiner_rotationIntertwiner_ambientPositiveRoot_zero_of_signatures
 -- name    : MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner.rotationIntertwiner_ambientPositiveRoot_zero_of_signatures
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:00.396673+00:00
 -- url     : https://prove2.me/theorems/5d18562c-082a-456c-825d-5e6cda001535

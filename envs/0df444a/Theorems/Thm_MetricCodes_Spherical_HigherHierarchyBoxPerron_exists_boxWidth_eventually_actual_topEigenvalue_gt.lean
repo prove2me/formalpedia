@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_exists_boxWidth_eventually_actual_topEigenvalue_gt
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.exists_boxWidth_eventually_actual_topEigenvalue_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/83505444-e96d-4c7d-be4c-c1664d809824

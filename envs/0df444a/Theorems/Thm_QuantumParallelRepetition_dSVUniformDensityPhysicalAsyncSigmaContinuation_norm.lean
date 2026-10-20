@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVUniformDensityPhysicalAsyncSigmaContinuation_norm
 -- name    : QuantumParallelRepetition.dSVUniformDensityPhysicalAsyncSigmaContinuation_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/60f38c3d-298f-4b08-a860-5b4cf1c628c5

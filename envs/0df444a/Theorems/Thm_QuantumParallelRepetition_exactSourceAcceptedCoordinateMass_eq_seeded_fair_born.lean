@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceAcceptedCoordinateMass_eq_seeded_fair_born
 -- name    : QuantumParallelRepetition.exactSourceAcceptedCoordinateMass_eq_seeded_fair_born
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/6bed232d-3bd7-4ac4-b997-8d76704bee67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetRealGeodesic_convexOn_momentJetGeodesic
 -- name    : Ehrhart.BergmanJetRealGeodesic.convexOn_momentJetGeodesic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/0cc28e12-0ccf-40fd-b2e5-564456022c81

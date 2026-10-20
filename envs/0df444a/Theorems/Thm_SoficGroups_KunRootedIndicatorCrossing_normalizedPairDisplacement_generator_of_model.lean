@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_normalizedPairDisplacement_generator_of_model
 -- name    : SoficGroups.KunRootedIndicatorCrossing.normalizedPairDisplacement_generator_of_model
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/508da46a-d52b-46a3-9335-c25d65191949

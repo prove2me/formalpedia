@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondFullCommutator_arbitraryRowAxialRaise_eq_paired_paths
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondFullCommutator.arbitraryRowAxialRaise_eq_paired_paths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/e93aec0a-a63c-451c-82f3-f79501fd3048

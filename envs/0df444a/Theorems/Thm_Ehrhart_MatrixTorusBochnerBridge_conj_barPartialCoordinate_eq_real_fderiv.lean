@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_conj_barPartialCoordinate_eq_real_fderiv
 -- name    : Ehrhart.MatrixTorusBochnerBridge.conj_barPartialCoordinate_eq_real_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/83a9b2a8-5f44-4612-9e39-95c2f4d6d038

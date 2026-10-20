@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDSmooth_Framework_corollary_4_1
 -- name    : PDSmooth.Framework.corollary_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:44.103495+00:00
 -- url     : https://prove2.me/theorems/d5dfa548-6a0b-4dc9-98b0-7841287800f9

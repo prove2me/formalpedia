@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_tendsto_interiorWeight_zero
 -- name    : MetricCodes.MRRW.tendsto_interiorWeight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/4ef0b27f-0e5e-46a5-923c-3727521f0fd2

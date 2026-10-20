@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_normalizedVolume_standardSimplex_succ_eq_integral_fibers
 -- name    : Ehrhart.SimplexVolume.normalizedVolume_standardSimplex_succ_eq_integral_fibers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/a2a32801-7718-4768-bb56-21d29835a6d7

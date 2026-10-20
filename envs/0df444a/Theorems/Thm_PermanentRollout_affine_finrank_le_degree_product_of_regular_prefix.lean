@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_finrank_le_degree_product_of_regular_prefix
 -- name    : PermanentRollout.affine_finrank_le_degree_product_of_regular_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/18a5b5dd-9379-42d7-8116-39dbaaab8ebc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_tendsto_inverse_double_degree_nhdsGT_zero
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.tendsto_inverse_double_degree_nhdsGT_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/542623f6-3b51-4a6d-8054-b50c60ba79c1

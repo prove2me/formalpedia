@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_FreeAffineCircuit_multiplicationCount_ofArithmetic_le
 -- name    : PermanentRollout.FreeAffineCircuit.multiplicationCount_ofArithmetic_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/6122cab7-730f-4217-8aa4-2bec537b9644

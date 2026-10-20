@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_acceptanceClause_satisfied
 -- name    : GapCVP.CL.acceptanceClause_satisfied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/371b75ca-07f6-47a4-936b-1e4578bd5c2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_exists_positive_mrrw_minimizer
 -- name    : MetricCodes.MRRW.exists_positive_mrrw_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/b39d66a2-a1a0-447b-88fd-30dcf7f66b87

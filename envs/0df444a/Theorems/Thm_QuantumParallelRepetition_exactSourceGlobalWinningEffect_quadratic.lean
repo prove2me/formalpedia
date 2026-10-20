@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceGlobalWinningEffect_quadratic
 -- name    : QuantumParallelRepetition.exactSourceGlobalWinningEffect_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/ad19319e-a067-49f6-a3b6-6feea160cb2b

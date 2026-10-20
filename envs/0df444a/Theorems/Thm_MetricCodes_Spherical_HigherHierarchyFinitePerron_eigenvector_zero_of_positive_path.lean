@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_eigenvector_zero_of_positive_path
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.eigenvector_zero_of_positive_path
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/e41a503e-5f75-4deb-9ff4-5ff8e8e78c08

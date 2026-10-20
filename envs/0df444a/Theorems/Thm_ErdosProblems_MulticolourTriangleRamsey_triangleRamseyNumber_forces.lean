@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_triangleRamseyNumber_forces
 -- name    : ErdosProblems.MulticolourTriangleRamsey.triangleRamseyNumber_forces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/2021f429-95fc-4104-9ab2-e990c6ad04cd

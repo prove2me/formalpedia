@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_sum_geometric_budget_le
 -- name    : SoficGroups.KunRootedWordPower.sum_geometric_budget_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/4a08acac-187e-4ccb-8aff-ae8dd4adfc76

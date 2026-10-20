@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_RankArcCharging_rankChangingArc_subset_crossing_or_unselected
 -- name    : SoficGroups.RankArcCharging.rankChangingArc_subset_crossing_or_unselected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/5e8131ee-1e12-49db-85d4-38e3d45bb631

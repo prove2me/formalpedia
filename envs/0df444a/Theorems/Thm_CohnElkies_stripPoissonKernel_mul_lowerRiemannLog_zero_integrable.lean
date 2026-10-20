@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_mul_lowerRiemannLog_zero_integrable
 -- name    : CohnElkies.stripPoissonKernel_mul_lowerRiemannLog_zero_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/203f3c74-a197-475f-995b-306c8a08562c

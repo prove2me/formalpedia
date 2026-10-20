@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_one_le_sourceAnswerAlphabetBound
 -- name    : QuantumParallelRepetition.one_le_sourceAnswerAlphabetBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/b5e46026-c1e8-46d5-aacd-e70450ba822b

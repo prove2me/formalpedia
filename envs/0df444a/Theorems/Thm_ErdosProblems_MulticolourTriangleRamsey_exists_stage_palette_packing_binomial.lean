@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_stage_palette_packing_binomial
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_stage_palette_packing_binomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/e234875c-15e6-4ce0-b100-29c2456e82a3

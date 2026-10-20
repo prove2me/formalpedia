@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_integrable_momentBodyMovingJetSlope
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.integrable_momentBodyMovingJetSlope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/16d81b69-4531-464e-ad30-98c6f9d71b84

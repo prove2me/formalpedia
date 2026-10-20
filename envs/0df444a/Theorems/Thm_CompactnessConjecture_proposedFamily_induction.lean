@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_induction
 -- name    : CompactnessConjecture.proposedFamily_induction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/f215e8cc-097f-4283-99a5-e0802d57ae2d

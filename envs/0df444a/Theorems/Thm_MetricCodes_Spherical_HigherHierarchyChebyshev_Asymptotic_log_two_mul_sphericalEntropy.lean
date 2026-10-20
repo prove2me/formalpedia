@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_log_two_mul_sphericalEntropy
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.log_two_mul_sphericalEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/83023835-db40-4e3e-9412-c7597bc86995

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_poissonLogistic_characteristic
 -- name    : CohnElkies.poissonLogistic_characteristic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/cdcb2263-5160-4ab0-8f2d-4b4cbc467fe1

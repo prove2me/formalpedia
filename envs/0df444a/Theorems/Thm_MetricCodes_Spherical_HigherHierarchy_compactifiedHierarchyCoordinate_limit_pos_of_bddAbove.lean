@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedHierarchyCoordinate_limit_pos_of_bddAbove
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedHierarchyCoordinate_limit_pos_of_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/a75b0f34-e2a5-4188-a3fd-3d50ad8f9164

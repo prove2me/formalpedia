@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUniformCompletedRootRadiusImprovement_exists_uniform_radius_hasAlmostCentralizerImprovement
 -- name    : SoficGroups.KunUniformCompletedRootRadiusImprovement.exists_uniform_radius_hasAlmostCentralizerImprovement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/12491aa2-3688-4bb8-8923-9aba30238ebb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingMarkedPermanent_evaluated_coefficient_pderiv_eq_sum
 -- name    : PermanentFormulaLowerBound.matchingMarkedPermanent_evaluated_coefficient_pderiv_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/27861418-0a60-41ad-aad5-169bdf83e039

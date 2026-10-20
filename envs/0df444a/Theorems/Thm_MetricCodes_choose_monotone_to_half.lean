@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_choose_monotone_to_half
 -- name    : MetricCodes.choose_monotone_to_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/cf7136ef-47a2-4337-a5de-4a70b5b89c75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingMarkedPermanent_bit_coefficients_algebraicIndependent
 -- name    : PermanentFormulaLowerBound.matchingMarkedPermanent_bit_coefficients_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/5f170d08-ef39-4e43-8e6c-d36979f13888

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGapRate_pos
 -- name    : QuantumParallelRepetition.pdfGapRate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/de837f3b-369c-4891-813b-4f5cfa2bdc96

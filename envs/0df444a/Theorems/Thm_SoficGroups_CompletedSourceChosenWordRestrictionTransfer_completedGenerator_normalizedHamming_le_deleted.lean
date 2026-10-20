@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedSourceChosenWordRestrictionTransfer_completedGenerator_normalizedHamming_le_deleted
 -- name    : SoficGroups.CompletedSourceChosenWordRestrictionTransfer.completedGenerator_normalizedHamming_le_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/0377c06c-4aa4-47c0-b42f-552d88ff39a1

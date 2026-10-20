@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseTensorRelativeCompression_gtRelativeCasimir_eq_scalar_sub_mixed
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTensorRelativeCompression.gtRelativeCasimir_eq_scalar_sub_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/90b4a6a5-4235-45d8-bd15-c0e24f39e6c6

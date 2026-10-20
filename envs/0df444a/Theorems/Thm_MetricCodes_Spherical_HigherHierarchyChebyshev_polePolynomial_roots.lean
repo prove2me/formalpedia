@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_polePolynomial_roots
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.polePolynomial_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/415bdadf-724a-4f47-b88e-d4f24a2616c8

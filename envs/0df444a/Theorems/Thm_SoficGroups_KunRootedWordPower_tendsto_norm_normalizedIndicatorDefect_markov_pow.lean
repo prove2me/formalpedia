@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_tendsto_norm_normalizedIndicatorDefect_markov_pow
 -- name    : SoficGroups.KunRootedWordPower.tendsto_norm_normalizedIndicatorDefect_markov_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/3708db5f-378a-4f1d-a55a-26a343c6354d

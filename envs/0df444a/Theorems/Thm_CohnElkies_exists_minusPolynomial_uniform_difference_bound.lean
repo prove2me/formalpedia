@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_minusPolynomial_uniform_difference_bound
 -- name    : CohnElkies.exists_minusPolynomial_uniform_difference_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/981cf436-99aa-4e1d-a8b2-b5f3baf27bd4

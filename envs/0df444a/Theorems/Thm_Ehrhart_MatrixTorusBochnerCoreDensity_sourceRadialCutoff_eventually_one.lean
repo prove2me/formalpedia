@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerCoreDensity_sourceRadialCutoff_eventually_one
 -- name    : Ehrhart.MatrixTorusBochnerCoreDensity.sourceRadialCutoff_eventually_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/e60ee214-004c-4a50-be15-4026da3540de

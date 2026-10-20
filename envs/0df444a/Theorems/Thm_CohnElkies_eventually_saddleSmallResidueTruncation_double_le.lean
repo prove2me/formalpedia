@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSmallResidueTruncation_double_le
 -- name    : CohnElkies.eventually_saddleSmallResidueTruncation_double_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/4239e896-b14b-4191-bcb2-ac68e793a4b8

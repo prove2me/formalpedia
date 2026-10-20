@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperFirstBranch_shortDamping_le_gamma
 -- name    : CohnElkies.upperFirstBranch_shortDamping_le_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/1b58e37b-aecc-4d18-867b-d64f0b9dfdb0

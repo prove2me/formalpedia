@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_chosenWordEvaluation_tendsto_action
 -- name    : SoficGroups.KunActualSoficRootRadius.chosenWordEvaluation_tendsto_action
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/5294eb73-3b30-422a-98d8-8afab3bb702f

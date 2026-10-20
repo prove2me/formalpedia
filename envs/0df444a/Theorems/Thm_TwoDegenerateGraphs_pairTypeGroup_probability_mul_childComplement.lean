@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairTypeGroup_probability_mul_childComplement
 -- name    : TwoDegenerateGraphs.pairTypeGroup_probability_mul_childComplement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/f73074c8-816f-4154-9e3c-58d09a4c1f22

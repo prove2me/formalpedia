@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedProjectorCompression_gtSelectedProjectorCompression_eq_fibre_adjoint_physical_of_selected
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedProjectorCompression.gtSelectedProjectorCompression_eq_fibre_adjoint_physical_of_selected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/a61c99bf-5da5-498c-86cf-0f79f4bcef47

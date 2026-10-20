@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_eventually_Gamma_improvement
 -- name    : MetricCodes.Spherical.eventually_Gamma_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/0f06127d-d2aa-4cdf-83a8-5a023bf0b208

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_saddleResidue_dimension_half
 -- name    : CohnElkies.tendsto_saddleResidue_dimension_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/64e05d9b-8349-4b16-8c6d-adfa3e08a2c7

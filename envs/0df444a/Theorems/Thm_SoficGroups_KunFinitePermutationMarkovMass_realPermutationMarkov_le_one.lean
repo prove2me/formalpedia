@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunFinitePermutationMarkovMass_realPermutationMarkov_le_one
 -- name    : SoficGroups.KunFinitePermutationMarkovMass.realPermutationMarkov_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/f18a7e4c-ba40-41ee-b0ef-9b7ad85c4eed

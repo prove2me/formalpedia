@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_chosenFiniteRootBad_density_tendsto_zero
 -- name    : SoficGroups.KunActualSoficRootRadius.chosenFiniteRootBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/ff06a8e1-47d4-4e2b-81ec-adbc72197c7e

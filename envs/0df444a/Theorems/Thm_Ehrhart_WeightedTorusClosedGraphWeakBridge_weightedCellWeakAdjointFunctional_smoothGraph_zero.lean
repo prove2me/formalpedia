@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_weightedCellWeakAdjointFunctional_smoothGraph_zero
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.weightedCellWeakAdjointFunctional_smoothGraph_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/cfbe409d-cb46-446d-967e-816ed24db5ef

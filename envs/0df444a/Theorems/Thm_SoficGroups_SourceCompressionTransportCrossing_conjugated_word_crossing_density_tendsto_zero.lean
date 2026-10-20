@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionTransportCrossing_conjugated_word_crossing_density_tendsto_zero
 -- name    : SoficGroups.SourceCompressionTransportCrossing.conjugated_word_crossing_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/229ff5a9-d65b-4f9d-85c0-b28000561de8

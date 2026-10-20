@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTWallTransverseCrossOrthogonality_gtFullTransverseEmbedding_adjoint_wallSector_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCrossOrthogonality.gtFullTransverseEmbedding_adjoint_wallSector_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/040029b2-79ba-49b7-91ec-4ea292077018

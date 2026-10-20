@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localizedLevelRate_one_lt_localizedRowRate
 -- name    : MetricCodes.Spherical.HigherHierarchy.localizedLevelRate_one_lt_localizedRowRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/4b26a3d5-2705-4777-b95d-bb007e69435b

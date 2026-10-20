@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerRiemannLog_scaled_factor
 -- name    : CohnElkies.lowerRiemannLog_scaled_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/2e16662a-494e-4e44-8977-5dc399db7b7f

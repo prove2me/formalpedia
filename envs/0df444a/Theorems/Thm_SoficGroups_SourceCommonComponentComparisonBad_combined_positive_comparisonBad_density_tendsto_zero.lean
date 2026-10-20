@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCommonComponentComparisonBad_combined_positive_comparisonBad_density_tendsto_zero
 -- name    : SoficGroups.SourceCommonComponentComparisonBad.combined_positive_comparisonBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/6ba61439-30a6-4041-8343-d5679b95e33f

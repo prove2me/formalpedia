@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_rootOfUnity_node_coefficient_add_one_ne_zero
 -- name    : PermanentRollout.rootOfUnity_node_coefficient_add_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/e2fe3131-8e6b-4426-bdc6-b5797f417431

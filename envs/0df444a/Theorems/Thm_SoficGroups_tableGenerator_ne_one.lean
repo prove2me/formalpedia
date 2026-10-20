@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_tableGenerator_ne_one
 -- name    : SoficGroups.tableGenerator_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/2f14fe82-1f0b-49c7-b91b-7e90d5abc3f1

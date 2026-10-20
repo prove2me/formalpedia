@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_weighted_midrank_dominant_mass_le
 -- name    : SoficGroups.weighted_midrank_dominant_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/31e19c87-1135-494f-a704-a29f642f8140

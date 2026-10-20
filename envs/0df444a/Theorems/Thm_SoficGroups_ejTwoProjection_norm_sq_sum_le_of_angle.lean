@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejTwoProjection_norm_sq_sum_le_of_angle
 -- name    : SoficGroups.ejTwoProjection_norm_sq_sum_le_of_angle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/3c9c94c0-d835-4200-a30f-ba059a2ec081

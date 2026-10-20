@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_mellinShellPhase_analyticOnNhd
 -- name    : CohnElkies.mellinShellPhase_analyticOnNhd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/91ced412-8262-4866-be56-0b905425a253

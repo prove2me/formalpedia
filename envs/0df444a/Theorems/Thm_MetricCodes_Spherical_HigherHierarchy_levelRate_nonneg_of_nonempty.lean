@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_nonneg_of_nonempty
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_nonneg_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/56029bad-5b7e-46c5-8498-1f691d67c93d

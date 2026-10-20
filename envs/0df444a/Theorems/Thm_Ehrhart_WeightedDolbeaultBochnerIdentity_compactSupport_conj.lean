@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_compactSupport_conj
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.compactSupport_conj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/94f848d8-d8a4-44a4-9b16-d202bf9926f2

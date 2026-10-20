@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_PaletteBlockCertificate_noMonochromaticTriangle
 -- name    : ErdosProblems.MulticolourTriangleRamsey.PaletteBlockCertificate.noMonochromaticTriangle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/848e3b9d-b794-42e7-b833-0351a4d5b2db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPartitionEndpoint_momentBodyNormalizedPartition_pos
 -- name    : Ehrhart.BergmanJetPartitionEndpoint.momentBodyNormalizedPartition_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/879225cb-ee6f-4378-952a-abfe43e8aab6

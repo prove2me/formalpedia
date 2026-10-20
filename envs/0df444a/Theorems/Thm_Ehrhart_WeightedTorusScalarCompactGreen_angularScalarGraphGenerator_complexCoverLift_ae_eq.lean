@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularScalarGraphGenerator_complexCoverLift_ae_eq
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularScalarGraphGenerator_complexCoverLift_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/7af28041-cc2d-4da3-8449-98343b430387

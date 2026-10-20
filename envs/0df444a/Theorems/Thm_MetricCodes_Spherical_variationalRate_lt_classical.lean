@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_variationalRate_lt_classical
 -- name    : MetricCodes.Spherical.variationalRate_lt_classical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/c0849acb-e063-47e2-8e82-3bb0cab9cb6f

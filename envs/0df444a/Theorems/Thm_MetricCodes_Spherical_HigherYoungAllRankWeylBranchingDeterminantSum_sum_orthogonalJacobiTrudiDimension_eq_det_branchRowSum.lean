@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankWeylBranchingDeterminantSum_sum_orthogonalJacobiTrudiDimension_eq_det_branchRowSum
 -- name    : MetricCodes.Spherical.HigherYoungAllRankWeylBranchingDeterminantSum.sum_orthogonalJacobiTrudiDimension_eq_det_branchRowSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/2bd596bf-f8bf-416c-9442-35a2eea3f3e6

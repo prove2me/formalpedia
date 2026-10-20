@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceLocalAngularBox_volume
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceLocalAngularBox_volume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/6ed67a31-f10e-445f-bdb0-048d7dc13350

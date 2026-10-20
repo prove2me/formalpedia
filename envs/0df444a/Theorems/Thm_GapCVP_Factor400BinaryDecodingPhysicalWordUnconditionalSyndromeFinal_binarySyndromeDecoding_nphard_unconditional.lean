@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Factor400BinaryDecodingPhysicalWordUnconditionalSyndromeFinal_binarySyndromeDecoding_nphard_unconditional
 -- name    : GapCVP.Factor400BinaryDecodingPhysicalWordUnconditionalSyndromeFinal.binarySyndromeDecoding_nphard_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/47f85697-007b-4f0d-8dc4-2299334ec6b2

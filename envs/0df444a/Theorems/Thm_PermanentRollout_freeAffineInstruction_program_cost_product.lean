@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineInstruction_program_cost_product
 -- name    : PermanentRollout.freeAffineInstruction_program_cost_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/02746709-52b1-410e-ab2e-53c6f278561f

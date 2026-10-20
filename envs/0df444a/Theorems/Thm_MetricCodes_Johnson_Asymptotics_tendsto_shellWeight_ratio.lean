@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_shellWeight_ratio
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_shellWeight_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/ad7536c0-22bc-46e5-8767-666fbecf23c0

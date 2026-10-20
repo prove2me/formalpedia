@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_locallyIntegrableOn
 -- name    : CohnElkies.radialProfile_locallyIntegrableOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/1f6b2be1-6ed0-4e2c-9ad3-2011ace3cbb0

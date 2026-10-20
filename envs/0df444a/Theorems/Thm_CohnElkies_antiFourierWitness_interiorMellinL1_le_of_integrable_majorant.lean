@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_interiorMellinL1_le_of_integrable_majorant
 -- name    : CohnElkies.antiFourierWitness_interiorMellinL1_le_of_integrable_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/eeaec21b-7702-491c-8366-82af9bbe179a

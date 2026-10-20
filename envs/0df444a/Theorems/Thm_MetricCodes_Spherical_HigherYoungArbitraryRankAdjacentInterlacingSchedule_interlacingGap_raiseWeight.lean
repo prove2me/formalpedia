@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungArbitraryRankAdjacentInterlacingSchedule_interlacingGap_raiseWeight
 -- name    : MetricCodes.Spherical.HigherYoungArbitraryRankAdjacentInterlacingSchedule.interlacingGap_raiseWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/4eba42b3-f48a-4500-8d80-f1f731d2cf62

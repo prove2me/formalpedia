@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropyUpperEndpoint_lt_one
 -- name    : TwoDegenerateGraphs.entropyUpperEndpoint_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/7a0af704-cdfc-4516-b618-0b65c5210057

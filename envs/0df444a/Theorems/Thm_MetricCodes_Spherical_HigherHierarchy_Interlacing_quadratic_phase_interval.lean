@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_quadratic_phase_interval
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.quadratic_phase_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/b692935c-d62c-4dbb-b080-769849bf56d9

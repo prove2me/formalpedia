@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_lagrangeWeight_scale
 -- name    : MetricCodes.Spherical.HigherHierarchy.lagrangeWeight_scale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/ad52985d-d77d-49c9-88eb-fbcb97345a73

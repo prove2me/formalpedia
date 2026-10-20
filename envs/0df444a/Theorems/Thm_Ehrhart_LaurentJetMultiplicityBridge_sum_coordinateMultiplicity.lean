@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_LaurentJetMultiplicityBridge_sum_coordinateMultiplicity
 -- name    : Ehrhart.LaurentJetMultiplicityBridge.sum_coordinateMultiplicity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/cb956ca3-f2e8-4d8f-9e66-63428c9c7fa4

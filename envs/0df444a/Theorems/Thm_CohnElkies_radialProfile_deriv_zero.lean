@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_deriv_zero
 -- name    : CohnElkies.radialProfile_deriv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/67f5d57b-be8b-4800-abf3-7baa53c24775

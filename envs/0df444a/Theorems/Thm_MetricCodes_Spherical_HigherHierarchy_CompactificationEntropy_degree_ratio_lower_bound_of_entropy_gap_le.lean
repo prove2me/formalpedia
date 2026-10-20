@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_degree_ratio_lower_bound_of_entropy_gap_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.degree_ratio_lower_bound_of_entropy_gap_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/f6a0fa24-e2e4-45a9-b000-edb5369d18ed

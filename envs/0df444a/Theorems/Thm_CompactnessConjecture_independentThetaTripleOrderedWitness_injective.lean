@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_independentThetaTripleOrderedWitness_injective
 -- name    : CompactnessConjecture.independentThetaTripleOrderedWitness_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/cb56104e-392d-4d14-812a-9cb611316b8c

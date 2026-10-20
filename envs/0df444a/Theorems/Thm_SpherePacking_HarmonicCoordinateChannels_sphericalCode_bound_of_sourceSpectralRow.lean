@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_HarmonicCoordinateChannels_sphericalCode_bound_of_sourceSpectralRow
 -- name    : SpherePacking.HarmonicCoordinateChannels.sphericalCode_bound_of_sourceSpectralRow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/3baa53ff-381f-4ab8-8020-b43ed1cdee0b

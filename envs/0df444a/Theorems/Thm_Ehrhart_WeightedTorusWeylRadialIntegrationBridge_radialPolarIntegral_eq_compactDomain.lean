@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_radialPolarIntegral_eq_compactDomain
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.radialPolarIntegral_eq_compactDomain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/88e77d98-c4e6-4515-924b-01f82b9c6bbf

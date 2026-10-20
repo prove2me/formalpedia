@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTInvalidNonterminalProjectorVanishing_paddedOrthogonalTensorPieriChannel_relativeCasimir
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidNonterminalProjectorVanishing.paddedOrthogonalTensorPieriChannel_relativeCasimir
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/8e8fafba-3174-4787-955f-c7f98a0339a4

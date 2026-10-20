@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_log_two_mul_natCast_div_natCast
 -- name    : SpherePacking.tendsto_log_two_mul_natCast_div_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/a749b5a9-3f75-4a36-96f5-001766518c33

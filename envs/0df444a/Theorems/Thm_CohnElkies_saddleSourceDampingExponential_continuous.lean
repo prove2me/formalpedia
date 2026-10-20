@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceDampingExponential_continuous
 -- name    : CohnElkies.saddleSourceDampingExponential_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/e8b1ab7c-11a3-4184-9023-b17afcf79907

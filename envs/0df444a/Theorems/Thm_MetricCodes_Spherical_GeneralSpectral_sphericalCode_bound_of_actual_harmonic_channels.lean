@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_sphericalCode_bound_of_actual_harmonic_channels
 -- name    : MetricCodes.Spherical.GeneralSpectral.sphericalCode_bound_of_actual_harmonic_channels
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/ac042d1a-e2c9-4154-83cd-95f4f462841c

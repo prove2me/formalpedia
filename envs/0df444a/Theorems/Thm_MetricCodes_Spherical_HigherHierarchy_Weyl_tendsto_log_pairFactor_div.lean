@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_tendsto_log_pairFactor_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.tendsto_log_pairFactor_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/089b2871-7e29-473c-bc4a-624edb3b26bc

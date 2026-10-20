@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_succ_of_le_dimension
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_succ_of_le_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/55d987b3-896e-446d-b4cc-6865e5e701c1

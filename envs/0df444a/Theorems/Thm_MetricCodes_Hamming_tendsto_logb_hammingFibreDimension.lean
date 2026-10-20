@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_logb_hammingFibreDimension
 -- name    : MetricCodes.Hamming.tendsto_logb_hammingFibreDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/f7924725-b418-4195-b67d-ed9f9e7389e1

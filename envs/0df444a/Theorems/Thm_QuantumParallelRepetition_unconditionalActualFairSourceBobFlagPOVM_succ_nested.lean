@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceBobFlagPOVM_succ_nested
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceBobFlagPOVM_succ_nested
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/63615b01-719d-4bbd-9fd1-8fae7c15525a

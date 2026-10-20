@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_WeylCauchyRiemann_analyticOn_of_dbar_eq_zero
 -- name    : BookProof.WeylCauchyRiemann.analyticOn_of_dbar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:19:45.061006+00:00
 -- url     : https://prove2.me/theorems/67edb435-b411-4830-813a-1bc8d4c7b9f7

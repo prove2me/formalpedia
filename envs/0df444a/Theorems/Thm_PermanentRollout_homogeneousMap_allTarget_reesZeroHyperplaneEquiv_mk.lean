@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_reesZeroHyperplaneEquiv_mk
 -- name    : PermanentRollout.homogeneousMap_allTarget_reesZeroHyperplaneEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/27178343-7687-4c42-aa66-e8919ec9dd6c

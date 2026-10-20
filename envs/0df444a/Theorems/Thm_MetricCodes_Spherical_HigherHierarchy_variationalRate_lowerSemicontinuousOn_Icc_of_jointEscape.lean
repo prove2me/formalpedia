@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_variationalRate_lowerSemicontinuousOn_Icc_of_jointEscape
 -- name    : MetricCodes.Spherical.HigherHierarchy.variationalRate_lowerSemicontinuousOn_Icc_of_jointEscape
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/09463344-ad14-4f39-84b5-fb7935b20c07

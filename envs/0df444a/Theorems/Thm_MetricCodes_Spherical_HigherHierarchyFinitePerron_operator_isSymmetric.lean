@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_operator_isSymmetric
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.operator_isSymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/0d0604a4-8732-4861-98f4-17b6067f2037

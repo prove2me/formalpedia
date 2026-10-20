@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalEntropy_continuous
 -- name    : MetricCodes.Spherical.sphericalEntropy_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/3083b654-c629-4f01-9af0-a89c36a924b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_eventually_rooted_of_growing_word_radius
 -- name    : SoficGroups.KunRootedWordPower.eventually_rooted_of_growing_word_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/ae5ac2a5-4ed0-498f-a889-04df4f81ecf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateAnswerExtension_sum
 -- name    : QuantumParallelRepetition.fullCoordinateAnswerExtension_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/c4ac12fc-ab46-4d88-92ed-3f157fed37d9

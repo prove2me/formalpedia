@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCommonRankArcInvariance_sofic_action_inverse_normalizedHamming_tendsto_zero
 -- name    : SoficGroups.KunCommonRankArcInvariance.sofic_action_inverse_normalizedHamming_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/7b5c44da-5721-4e2c-a6da-8e34e5691bab

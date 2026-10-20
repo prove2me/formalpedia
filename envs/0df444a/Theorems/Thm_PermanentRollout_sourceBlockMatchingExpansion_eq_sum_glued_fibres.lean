@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMatchingExpansion_eq_sum_glued_fibres
 -- name    : PermanentRollout.sourceBlockMatchingExpansion_eq_sum_glued_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/126d7949-04c1-4799-bcb1-7922d22c7050

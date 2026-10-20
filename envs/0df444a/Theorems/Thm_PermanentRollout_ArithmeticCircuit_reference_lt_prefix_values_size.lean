@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ArithmeticCircuit_reference_lt_prefix_values_size
 -- name    : PermanentRollout.ArithmeticCircuit.reference_lt_prefix_values_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/ab181ad4-3c53-43a1-8b41-5eabea053e9f

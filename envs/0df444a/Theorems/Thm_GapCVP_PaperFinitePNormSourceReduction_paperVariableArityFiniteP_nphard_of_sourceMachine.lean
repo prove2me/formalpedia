@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_PaperFinitePNormSourceReduction_paperVariableArityFiniteP_nphard_of_sourceMachine
 -- name    : GapCVP.PaperFinitePNormSourceReduction.paperVariableArityFiniteP_nphard_of_sourceMachine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/e6bf3094-8978-4593-bfc8-0f1b000f79bf

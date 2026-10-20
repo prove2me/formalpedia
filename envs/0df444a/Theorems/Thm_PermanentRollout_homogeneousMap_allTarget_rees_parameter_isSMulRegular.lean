@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_rees_parameter_isSMulRegular
 -- name    : PermanentRollout.homogeneousMap_allTarget_rees_parameter_isSMulRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/37bf703a-42d8-430b-baef-8806f45308c3

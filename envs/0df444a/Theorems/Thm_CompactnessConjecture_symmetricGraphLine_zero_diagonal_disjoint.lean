@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricGraphLine_zero_diagonal_disjoint
 -- name    : CompactnessConjecture.symmetricGraphLine_zero_diagonal_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/eb011095-a6ff-4a6c-93c9-8c7dc73b1247

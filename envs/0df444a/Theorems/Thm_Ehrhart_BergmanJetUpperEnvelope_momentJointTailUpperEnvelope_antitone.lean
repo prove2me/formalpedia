@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetUpperEnvelope_momentJointTailUpperEnvelope_antitone
 -- name    : Ehrhart.BergmanJetUpperEnvelope.momentJointTailUpperEnvelope_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/eb8148f4-b09e-4450-9fa5-d347ceb0627b

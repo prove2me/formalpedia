@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_variationalRate_boundary_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_variationalRate_boundary_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/cff56ab8-b79c-4fcb-9973-cc38627081aa

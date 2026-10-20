@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_norm_normalizedPairDisplacement_le_of_words
 -- name    : SoficGroups.KunRootedIndicatorCrossing.norm_normalizedPairDisplacement_le_of_words
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/0693b2a8-020a-4093-9a57-028dec6b1e4a

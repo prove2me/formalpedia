@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_isometric_mixed_gram_trace_cauchy
 -- name    : SpherePacking.isometric_mixed_gram_trace_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/b78cb4ca-65d1-4bd6-a5d6-4333a0c42781

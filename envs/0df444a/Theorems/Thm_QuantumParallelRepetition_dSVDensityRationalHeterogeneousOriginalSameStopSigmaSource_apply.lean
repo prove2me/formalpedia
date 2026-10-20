@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousOriginalSameStopSigmaSource_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousOriginalSameStopSigmaSource_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/8089dac7-393f-43a7-b13d-8f529aa87753

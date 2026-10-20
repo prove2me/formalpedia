@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentWeakBergman_momentNormalizedPotential_le_support_add
 -- name    : Ehrhart.MomentWeakBergman.momentNormalizedPotential_le_support_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/a4448c4d-ba23-49cc-8dd8-21d3e10f435c

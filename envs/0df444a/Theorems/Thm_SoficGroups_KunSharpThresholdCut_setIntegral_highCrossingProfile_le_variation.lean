@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSharpThresholdCut_setIntegral_highCrossingProfile_le_variation
 -- name    : SoficGroups.KunSharpThresholdCut.setIntegral_highCrossingProfile_le_variation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/fd02d438-51dd-47e6-a0d6-84bfa8a1d623

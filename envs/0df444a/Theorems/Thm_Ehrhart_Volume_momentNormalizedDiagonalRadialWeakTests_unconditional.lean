@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Volume_momentNormalizedDiagonalRadialWeakTests_unconditional
 -- name    : Ehrhart.Volume.momentNormalizedDiagonalRadialWeakTests_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/af9fd515-7af3-4e2f-a223-a34ea516fa95

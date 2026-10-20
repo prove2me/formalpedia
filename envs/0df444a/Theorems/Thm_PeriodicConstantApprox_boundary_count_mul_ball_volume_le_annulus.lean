@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_boundary_count_mul_ball_volume_le_annulus
 -- name    : PeriodicConstantApprox.boundary_count_mul_ball_volume_le_annulus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/1d4bc444-96cf-4ec8-99bc-1aedbf5a97e6

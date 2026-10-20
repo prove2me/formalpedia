@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_weightedHilbert_eq_zero_of_angularFourierCoefficients
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.weightedHilbert_eq_zero_of_angularFourierCoefficients
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/ed825454-b13f-4628-a801-7a2ba8a84d22

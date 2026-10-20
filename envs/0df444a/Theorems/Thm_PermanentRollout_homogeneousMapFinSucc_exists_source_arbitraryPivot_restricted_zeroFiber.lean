@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapFinSucc_exists_source_arbitraryPivot_restricted_zeroFiber
 -- name    : PermanentRollout.homogeneousMapFinSucc_exists_source_arbitraryPivot_restricted_zeroFiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/a6b6178e-ba9e-4ece-9511-6cdd68d2ffeb

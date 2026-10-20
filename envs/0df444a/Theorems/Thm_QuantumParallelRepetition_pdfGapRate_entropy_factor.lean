@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGapRate_entropy_factor
 -- name    : QuantumParallelRepetition.pdfGapRate_entropy_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/2eb7d700-d865-4e4a-a758-e731afb56555

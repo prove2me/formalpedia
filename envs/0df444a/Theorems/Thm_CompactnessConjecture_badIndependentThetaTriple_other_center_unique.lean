@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_badIndependentThetaTriple_other_center_unique
 -- name    : CompactnessConjecture.badIndependentThetaTriple_other_center_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/ef807428-62b5-47f7-a18d-5ec0aec4e9dd

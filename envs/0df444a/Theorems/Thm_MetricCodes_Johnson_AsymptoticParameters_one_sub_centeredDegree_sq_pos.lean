@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_one_sub_centeredDegree_sq_pos
 -- name    : MetricCodes.Johnson.AsymptoticParameters.one_sub_centeredDegree_sq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/68751e46-1474-46c8-af94-823cec6fd7bc

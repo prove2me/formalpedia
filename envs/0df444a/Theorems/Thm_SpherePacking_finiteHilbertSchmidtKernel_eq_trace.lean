@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteHilbertSchmidtKernel_eq_trace
 -- name    : SpherePacking.finiteHilbertSchmidtKernel_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/c5b11c67-e3b7-4635-89da-03d6707a8f37

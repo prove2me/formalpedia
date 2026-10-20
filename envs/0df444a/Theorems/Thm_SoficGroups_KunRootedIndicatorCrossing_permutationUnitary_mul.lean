@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_permutationUnitary_mul
 -- name    : SoficGroups.KunRootedIndicatorCrossing.permutationUnitary_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/6e681f69-e955-4380-88d9-1ecf33c6f774

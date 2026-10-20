@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialMellinStrip_top_norm_eq
 -- name    : CohnElkies.normalizedRadialMellinStrip_top_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/ccde5ba1-cbd0-44ad-9791-3928b454d5c2

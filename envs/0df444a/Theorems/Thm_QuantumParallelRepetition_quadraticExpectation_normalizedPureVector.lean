@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_quadraticExpectation_normalizedPureVector
 -- name    : QuantumParallelRepetition.quadraticExpectation_normalizedPureVector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/98c04d4e-530e-498c-9a9c-c10cc32ef324

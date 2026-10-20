@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDolbeault_angularWeakDolbeaultResolvent_moment
 -- name    : Ehrhart.WeightedTorusDolbeault.angularWeakDolbeaultResolvent_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/42ec44a9-d38c-483a-9c06-51fa0272d63e

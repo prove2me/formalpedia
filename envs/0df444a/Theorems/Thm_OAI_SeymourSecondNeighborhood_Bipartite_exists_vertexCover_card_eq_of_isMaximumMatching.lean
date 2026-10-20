@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_exists_vertexCover_card_eq_of_isMaximumMatching
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.exists_vertexCover_card_eq_of_isMaximumMatching
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:26:27.350583+00:00
 -- url     : https://prove2.me/theorems/1bef7280-5965-4c43-9713-7aa9b55e0f26

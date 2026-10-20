@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_lagrangeNumerator_prepend_succ
 -- name    : MetricCodes.Spherical.HigherHierarchy.lagrangeNumerator_prepend_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/c2957749-5612-45c7-b2ec-de972ceca577

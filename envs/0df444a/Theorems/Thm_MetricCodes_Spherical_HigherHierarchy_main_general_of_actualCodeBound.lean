@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_main_general_of_actualCodeBound
 -- name    : MetricCodes.Spherical.HigherHierarchy.main_general_of_actualCodeBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/8bdc0ce2-c599-46f0-a924-df33fefc48b1

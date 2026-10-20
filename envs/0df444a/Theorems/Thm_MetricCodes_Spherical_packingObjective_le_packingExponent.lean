@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_packingObjective_le_packingExponent
 -- name    : MetricCodes.Spherical.packingObjective_le_packingExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/799babc9-1fb4-4c3a-990c-7b447a6e603b

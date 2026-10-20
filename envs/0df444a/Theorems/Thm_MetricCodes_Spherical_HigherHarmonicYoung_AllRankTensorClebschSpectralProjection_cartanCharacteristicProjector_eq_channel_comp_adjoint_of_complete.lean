@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankTensorClebschSpectralProjection_cartanCharacteristicProjector_eq_channel_comp_adjoint_of_complete
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschSpectralProjection.cartanCharacteristicProjector_eq_channel_comp_adjoint_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/19657633-4fae-4548-97f5-7826d20a3799

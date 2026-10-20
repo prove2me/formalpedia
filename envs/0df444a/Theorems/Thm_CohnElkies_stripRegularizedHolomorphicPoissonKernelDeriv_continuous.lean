@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripRegularizedHolomorphicPoissonKernelDeriv_continuous
 -- name    : CohnElkies.stripRegularizedHolomorphicPoissonKernelDeriv_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/1d5ff20e-c864-42c6-84a1-e9ba0a6f2c1a

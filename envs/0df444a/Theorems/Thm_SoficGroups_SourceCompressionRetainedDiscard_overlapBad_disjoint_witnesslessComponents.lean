@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionRetainedDiscard_overlapBad_disjoint_witnesslessComponents
 -- name    : SoficGroups.SourceCompressionRetainedDiscard.overlapBad_disjoint_witnesslessComponents
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/ebaf2ca6-7e82-4f8d-9b0f-ebb2a1e63bab

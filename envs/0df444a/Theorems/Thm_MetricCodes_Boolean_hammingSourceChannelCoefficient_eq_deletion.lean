@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingSourceChannelCoefficient_eq_deletion
 -- name    : MetricCodes.Boolean.hammingSourceChannelCoefficient_eq_deletion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/448dfc1c-8d9b-45e1-ba99-169329365302

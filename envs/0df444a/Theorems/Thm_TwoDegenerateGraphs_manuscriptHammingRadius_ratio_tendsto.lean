@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptHammingRadius_ratio_tendsto
 -- name    : TwoDegenerateGraphs.manuscriptHammingRadius_ratio_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/d065baf6-6faf-41cd-9adb-82081d2201ad

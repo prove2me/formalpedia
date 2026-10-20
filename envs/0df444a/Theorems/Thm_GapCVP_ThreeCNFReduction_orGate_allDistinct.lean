@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_orGate_allDistinct
 -- name    : GapCVP.ThreeCNFReduction.orGate_allDistinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/1f220188-37f4-48d7-a7de-25ba2bbc6a95

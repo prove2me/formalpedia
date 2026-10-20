@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_matching_block_four_leaves_of_coefficientTranscendenceDegree
 -- name    : PermanentFormulaLowerBound.Formula.matching_block_four_leaves_of_coefficientTranscendenceDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/a2951749-26dd-42e9-a0c9-62af5eda1a1e

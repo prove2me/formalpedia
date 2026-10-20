@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullHistoryAnswerCount_pos_of_postselection
 -- name    : QuantumParallelRepetition.fullHistoryAnswerCount_pos_of_postselection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/49b0ab96-e89e-45a3-8c52-12a2801e65a9

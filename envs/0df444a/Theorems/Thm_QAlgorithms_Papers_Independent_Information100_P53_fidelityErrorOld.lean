@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_fidelityErrorOld
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.fidelityErrorOld
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:53:36.767267+00:00
 -- url     : https://prove2.me/theorems/d9d35180-0246-4126-954c-8cb377a688b2

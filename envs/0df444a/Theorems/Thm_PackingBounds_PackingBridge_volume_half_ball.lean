@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_PackingBridge_volume_half_ball
 -- name    : PackingBounds.PackingBridge.volume_half_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/b232b9ba-e775-4461-b133-095d4305367b

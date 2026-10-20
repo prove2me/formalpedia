@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhase_comparison_moment
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhase_comparison_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/03eb2886-e949-484e-994b-ee18ac946b1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_nonnegOn_Icc
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_nonnegOn_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/290768f8-74d4-4c27-b86b-e55b8e35d0e4

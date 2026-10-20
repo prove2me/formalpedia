@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_no_jTemplate_of_char_two
 -- name    : CompactnessConjecture.symplecticQuadrangle_no_jTemplate_of_char_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/8053314e-993f-4b92-bc1f-1fe9000bb112

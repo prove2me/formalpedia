@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousWeakResolventRootCoercivity_angularClosedMollifiedRadialAdjointL2_eq_defect_drift_commutator
 -- name    : Ehrhart.TorusHomogeneousWeakResolventRootCoercivity.angularClosedMollifiedRadialAdjointL2_eq_defect_drift_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/adcc118b-98d9-4507-805c-b41411b6cd2d

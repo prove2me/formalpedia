@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_packing_entropy_certificate
 -- name    : MetricCodes.Numerics.packing_entropy_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/c19b7bc2-fe42-47be-a23a-4a60905855ff

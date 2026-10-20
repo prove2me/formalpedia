@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorCore_graphPow_tmul_mem_closure
 -- name    : BookProof.TensorCore.graphPow_tmul_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:18:08.552207+00:00
 -- url     : https://prove2.me/theorems/832f8ce9-ceba-45e0-a349-2a2279cb48cc

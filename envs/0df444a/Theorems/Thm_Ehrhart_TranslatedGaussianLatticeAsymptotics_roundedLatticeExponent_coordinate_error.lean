@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TranslatedGaussianLatticeAsymptotics_roundedLatticeExponent_coordinate_error
 -- name    : Ehrhart.TranslatedGaussianLatticeAsymptotics.roundedLatticeExponent_coordinate_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/d660f191-1826-4385-8706-40bd6242c489

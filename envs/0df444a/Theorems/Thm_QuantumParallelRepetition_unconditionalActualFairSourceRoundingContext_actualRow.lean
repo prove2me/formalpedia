@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceRoundingContext_actualRow
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceRoundingContext_actualRow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/ba06503f-73e9-4c81-aa61-ec789975d9f4

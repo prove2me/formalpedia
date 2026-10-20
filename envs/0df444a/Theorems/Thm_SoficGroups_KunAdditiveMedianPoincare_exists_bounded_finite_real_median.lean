@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunAdditiveMedianPoincare_exists_bounded_finite_real_median
 -- name    : SoficGroups.KunAdditiveMedianPoincare.exists_bounded_finite_real_median
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/abcdb0b0-f4f5-4337-bf19-471543249501

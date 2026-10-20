@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_gamma_not_isomorphic_lambda
 -- name    : ConnesRigidity.PaperAnalyticInput.gamma_not_isomorphic_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/df878ee0-3010-48b9-99e6-f4a54309566b

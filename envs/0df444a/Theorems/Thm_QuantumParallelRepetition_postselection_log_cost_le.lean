@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_postselection_log_cost_le
 -- name    : QuantumParallelRepetition.postselection_log_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/382a03c8-053e-45c9-9b61-083a59938d1f

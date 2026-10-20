@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusNoncompactBochner_sourceTorusBarPartial_cutoffPhysicalField_antisymmetric
 -- name    : Ehrhart.TorusNoncompactBochner.sourceTorusBarPartial_cutoffPhysicalField_antisymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/e6ec1b48-ec28-4ff6-8c8a-1014ce20c06f

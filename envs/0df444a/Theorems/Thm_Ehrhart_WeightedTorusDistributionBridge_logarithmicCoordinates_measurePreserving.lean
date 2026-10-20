@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_logarithmicCoordinates_measurePreserving
 -- name    : Ehrhart.WeightedTorusDistributionBridge.logarithmicCoordinates_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/908fbce6-9612-4307-919d-855356bd7b08

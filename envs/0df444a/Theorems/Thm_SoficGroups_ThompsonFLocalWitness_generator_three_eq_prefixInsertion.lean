@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFLocalWitness_generator_three_eq_prefixInsertion
 -- name    : SoficGroups.ThompsonFLocalWitness.generator_three_eq_prefixInsertion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/045e1474-b210-4fd0-8a23-9ada4cfbcdec

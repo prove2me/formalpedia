@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockIncidenceBaseProjection_comm
 -- name    : PermanentRollout.blockIncidenceBaseProjection_comm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/c692bc90-43aa-4c12-a4cf-e8bccd4eae02

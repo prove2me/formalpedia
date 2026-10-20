@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TranslatedGaussianLatticeAsymptotics_eventually_roundedLatticeExponent_mem_monomialIndex
 -- name    : Ehrhart.TranslatedGaussianLatticeAsymptotics.eventually_roundedLatticeExponent_mem_monomialIndex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/971ba64a-078f-43a8-846a-bed567118580

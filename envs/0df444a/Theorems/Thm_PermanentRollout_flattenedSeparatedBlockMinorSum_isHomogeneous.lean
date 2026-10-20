@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_flattenedSeparatedBlockMinorSum_isHomogeneous
 -- name    : PermanentRollout.flattenedSeparatedBlockMinorSum_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/d3cd90c9-236d-46ed-992d-3576ebbe79e3

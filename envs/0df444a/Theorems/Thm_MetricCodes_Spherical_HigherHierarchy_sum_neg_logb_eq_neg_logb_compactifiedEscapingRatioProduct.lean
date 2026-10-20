@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sum_neg_logb_eq_neg_logb_compactifiedEscapingRatioProduct
 -- name    : MetricCodes.Spherical.HigherHierarchy.sum_neg_logb_eq_neg_logb_compactifiedEscapingRatioProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/a562e6b2-ffd6-41a4-96a0-c502504b3eb6

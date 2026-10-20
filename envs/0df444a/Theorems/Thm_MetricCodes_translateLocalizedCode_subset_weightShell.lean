@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_translateLocalizedCode_subset_weightShell
 -- name    : MetricCodes.translateLocalizedCode_subset_weightShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/807ec2e3-d204-4530-a3ff-fe24bed9a933

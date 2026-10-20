@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_treeQuotientLinearForm_eq_column
 -- name    : PermanentRollout.treeQuotientLinearForm_eq_column
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/86171190-251d-405f-b3ce-4a9e63b9fa7d

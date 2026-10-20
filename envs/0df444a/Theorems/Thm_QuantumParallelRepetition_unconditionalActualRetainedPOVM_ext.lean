@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualRetainedPOVM_ext
 -- name    : QuantumParallelRepetition.unconditionalActualRetainedPOVM_ext
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/f3bd15ce-8e16-4d2f-9cb0-a22d17e34be3

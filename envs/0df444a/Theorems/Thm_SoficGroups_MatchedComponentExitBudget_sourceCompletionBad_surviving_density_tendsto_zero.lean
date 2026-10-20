@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentExitBudget_sourceCompletionBad_surviving_density_tendsto_zero
 -- name    : SoficGroups.MatchedComponentExitBudget.sourceCompletionBad_surviving_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/cacbc8d8-59ce-4ba6-afbd-447c56ba9e33

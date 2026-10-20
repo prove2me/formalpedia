@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_familyLittleO_of_sixteenth_power_host_bound
 -- name    : CompactnessConjecture.familyLittleO_of_sixteenth_power_host_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/8cf4381e-e08b-44ec-b86c-9f4cdea15598

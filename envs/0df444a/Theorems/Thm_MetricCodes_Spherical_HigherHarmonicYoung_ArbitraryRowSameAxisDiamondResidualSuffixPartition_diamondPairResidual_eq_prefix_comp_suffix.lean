@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondResidualSuffixPartition_diamondPairResidual_eq_prefix_comp_suffix
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondResidualSuffixPartition.diamondPairResidual_eq_prefix_comp_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/b1d367b1-16be-452e-8851-1e1cf56670bd

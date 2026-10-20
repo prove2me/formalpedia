@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Katyusha_NonSC_eq_C1
 -- name    : Katyusha.NonSC.eq_C1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:57:57.242377+00:00
 -- url     : https://prove2.me/theorems/eddae6c9-5d04-4a21-ac3c-801e9b43b7e4

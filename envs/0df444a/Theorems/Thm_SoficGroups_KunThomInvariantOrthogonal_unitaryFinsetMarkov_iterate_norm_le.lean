@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_unitaryFinsetMarkov_iterate_norm_le
 -- name    : SoficGroups.KunThomInvariantOrthogonal.unitaryFinsetMarkov_iterate_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/7079c0b1-8fd5-4fdc-88b2-96dc97db1118

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_matching_card_le_cover_card
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.matching_card_le_cover_card
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:10:50.025768+00:00
 -- url     : https://prove2.me/theorems/e91e8b37-5f16-4e8f-9214-008a60394f9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_actualStoppingGlobalWinningEffect_cross_eq_zero
 -- name    : QuantumParallelRepetition.actualStoppingGlobalWinningEffect_cross_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/e8e31e61-0a49-4173-872e-3d0c5db7d8fb

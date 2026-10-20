@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBrascampLieb_angularWeakScalarResolventCLM_selfAdjoint
 -- name    : Ehrhart.WeightedTorusBrascampLieb.angularWeakScalarResolventCLM_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/e37e805f-7ef3-418a-a5f9-22c9762295be

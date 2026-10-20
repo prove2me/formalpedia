@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_recursivePaletteRamsey_exponential_bound
 -- name    : ErdosProblems.MulticolourTriangleRamsey.recursivePaletteRamsey_exponential_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/d3809a8a-f96a-43af-8121-0a1485363074

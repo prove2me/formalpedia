@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_codeNumber_pos
 -- name    : MetricCodes.Hamming.codeNumber_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/c1f103d4-4c89-4cdb-9ed2-b551f93163a1

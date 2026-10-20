@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeastSquaresTD_Ergodic_lstd_converges_ergodic
 -- name    : LeastSquaresTD.Ergodic.lstd_converges_ergodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:18:28.079115+00:00
 -- url     : https://prove2.me/theorems/8d423316-74cb-4f93-9d1f-38f0ef893d01

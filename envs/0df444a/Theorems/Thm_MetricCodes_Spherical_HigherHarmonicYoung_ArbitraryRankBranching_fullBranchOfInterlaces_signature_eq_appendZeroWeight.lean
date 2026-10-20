@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRankBranching_fullBranchOfInterlaces_signature_eq_appendZeroWeight
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching.fullBranchOfInterlaces_signature_eq_appendZeroWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/3e74b222-5303-4b4c-886e-9f27b243ae4a

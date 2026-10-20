@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_pderiv_eval_eq_zero_of_blockLeaves_eq_zero
 -- name    : PermanentFormulaLowerBound.Formula.pderiv_eval_eq_zero_of_blockLeaves_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/2c737e19-027f-4742-8490-5c930b9d6c71

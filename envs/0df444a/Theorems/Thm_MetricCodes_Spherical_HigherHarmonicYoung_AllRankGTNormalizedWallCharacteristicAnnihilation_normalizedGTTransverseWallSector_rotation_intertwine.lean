@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTNormalizedWallCharacteristicAnnihilation_normalizedGTTransverseWallSector_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedWallCharacteristicAnnihilation.normalizedGTTransverseWallSector_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/5ac048b1-2fb0-4cd0-a2dd-f282cd3d60ac

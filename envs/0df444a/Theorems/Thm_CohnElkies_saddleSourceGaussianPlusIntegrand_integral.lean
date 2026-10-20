@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceGaussianPlusIntegrand_integral
 -- name    : CohnElkies.saddleSourceGaussianPlusIntegrand_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/1e8099c9-c238-4965-a122-407b00bf7281

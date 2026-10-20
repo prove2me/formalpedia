@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_centeredWeight_pos
 -- name    : MetricCodes.Johnson.AsymptoticParameters.centeredWeight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/dee3b7fb-7002-41eb-88b0-c52f85911419

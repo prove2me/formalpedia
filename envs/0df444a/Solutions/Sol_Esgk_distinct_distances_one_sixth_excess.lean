@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Esgk.distinct_distances_one_sixth_excess
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @mysticflounder
 -- created : 2026-09-13T02:58:15.160973+00:00
 -- url     : https://prove2.me/submissions/bb2dd6c9-cebc-44be-947d-07fc4ceb239b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

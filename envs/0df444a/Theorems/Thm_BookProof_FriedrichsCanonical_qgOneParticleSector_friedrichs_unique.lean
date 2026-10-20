@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_qgOneParticleSector_friedrichs_unique
 -- name    : BookProof.FriedrichsCanonical.qgOneParticleSector_friedrichs_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:39:41.207284+00:00
 -- url     : https://prove2.me/theorems/44475194-a299-4356-b904-848613e696db

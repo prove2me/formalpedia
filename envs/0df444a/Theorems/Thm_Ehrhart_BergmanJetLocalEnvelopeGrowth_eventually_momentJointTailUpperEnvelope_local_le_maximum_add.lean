@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalEnvelopeGrowth_eventually_momentJointTailUpperEnvelope_local_le_maximum_add
 -- name    : Ehrhart.BergmanJetLocalEnvelopeGrowth.eventually_momentJointTailUpperEnvelope_local_le_maximum_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/7e5c599f-bceb-408f-848a-2903f807863f

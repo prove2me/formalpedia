@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_criticalBinaryExponent_lt_d30
 -- name    : CohnElkies.criticalBinaryExponent_lt_d30
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/75c2bde2-8c96-466c-8d2a-b8b382acdd3a

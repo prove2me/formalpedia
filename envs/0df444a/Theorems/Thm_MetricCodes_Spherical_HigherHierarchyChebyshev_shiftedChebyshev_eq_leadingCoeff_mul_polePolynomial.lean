@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_shiftedChebyshev_eq_leadingCoeff_mul_polePolynomial
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.shiftedChebyshev_eq_leadingCoeff_mul_polePolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/38c813a9-4945-4f8d-a67e-3575dd3d5701

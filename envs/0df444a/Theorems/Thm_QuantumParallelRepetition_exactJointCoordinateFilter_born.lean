@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactJointCoordinateFilter_born
 -- name    : QuantumParallelRepetition.exactJointCoordinateFilter_born
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/de4f0db2-2619-478f-9f75-3941c350f3d3

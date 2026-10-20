@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicTimeDerivativeBounds_exists_momentWeakHolomorphicStrictJointTorusAcceleration_local_bound
 -- name    : Ehrhart.BergmanJetJointHolomorphicTimeDerivativeBounds.exists_momentWeakHolomorphicStrictJointTorusAcceleration_local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/654421f9-5f5b-4e87-bb7e-ed505b7c8245

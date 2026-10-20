@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_classicalParameter_mul_one_sub
 -- name    : MetricCodes.Hamming.classicalParameter_mul_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/bce878a0-9eb1-4065-a3b3-9314147ce1e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaDampingIntegrand_integrable
 -- name    : CohnElkies.upperGammaDampingIntegrand_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/3facb8bc-fe87-4f23-b233-2382d6e5a0d3

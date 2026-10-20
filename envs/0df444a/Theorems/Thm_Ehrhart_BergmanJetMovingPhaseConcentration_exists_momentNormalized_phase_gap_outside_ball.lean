@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingPhaseConcentration_exists_momentNormalized_phase_gap_outside_ball
 -- name    : Ehrhart.BergmanJetMovingPhaseConcentration.exists_momentNormalized_phase_gap_outside_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/574233dd-7d75-4558-afd4-da5022fbaa60

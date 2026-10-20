@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_scaleCoordinate_sq_lt_self
 -- name    : MetricCodes.Spherical.HigherHierarchy.scaleCoordinate_sq_lt_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/26d20f8f-05c1-48c7-8663-7e12ad853b39

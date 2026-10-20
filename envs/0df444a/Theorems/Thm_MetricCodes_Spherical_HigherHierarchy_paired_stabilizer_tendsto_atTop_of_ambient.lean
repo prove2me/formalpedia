@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_paired_stabilizer_tendsto_atTop_of_ambient
 -- name    : MetricCodes.Spherical.HigherHierarchy.paired_stabilizer_tendsto_atTop_of_ambient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/6de96b3a-10e6-47b7-ae1d-5f77ed01fdc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_norm_add_le_two_sub_sq_div_four
 -- name    : SoficGroups.KunThomInvariantOrthogonal.norm_add_le_two_sub_sq_div_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/09f19106-9982-4b6b-9767-34984515a09b

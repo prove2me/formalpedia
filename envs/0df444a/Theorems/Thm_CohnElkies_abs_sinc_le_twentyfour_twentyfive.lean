@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_abs_sinc_le_twentyfour_twentyfive
 -- name    : CohnElkies.abs_sinc_le_twentyfour_twentyfive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/72c6b14c-ec2f-4621-8988-c43880d42339

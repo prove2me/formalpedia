@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_tendsto_log_rowBinomial_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.tendsto_log_rowBinomial_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/846a3ae4-faf0-4613-a32f-77703d3225a2

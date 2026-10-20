@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quotientGraph_no_isolated
 -- name    : CompactnessConjecture.quotientGraph_no_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/0e000574-905d-4fb3-a40e-bd04f637745d

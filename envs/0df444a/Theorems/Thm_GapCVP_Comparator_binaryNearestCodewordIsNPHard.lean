@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_binaryNearestCodewordIsNPHard
 -- name    : GapCVP.Comparator.binaryNearestCodewordIsNPHard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/8d654db3-b1d8-44e2-b30d-3a3571f2a07b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_six_cycle
 -- name    : CompactnessConjecture.proposedFamilyFree_six_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/382c3763-9253-434c-812a-04ad87690973

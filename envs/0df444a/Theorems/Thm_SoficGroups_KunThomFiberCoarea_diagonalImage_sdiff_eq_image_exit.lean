@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_diagonalImage_sdiff_eq_image_exit
 -- name    : SoficGroups.KunThomFiberCoarea.diagonalImage_sdiff_eq_image_exit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/5a2ebd0c-c130-4336-9a6e-968592aca487

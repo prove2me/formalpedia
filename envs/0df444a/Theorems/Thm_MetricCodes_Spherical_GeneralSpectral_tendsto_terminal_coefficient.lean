@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_tendsto_terminal_coefficient
 -- name    : MetricCodes.Spherical.GeneralSpectral.tendsto_terminal_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/2fd8f231-bc3c-4ab2-959d-f2a50809b725

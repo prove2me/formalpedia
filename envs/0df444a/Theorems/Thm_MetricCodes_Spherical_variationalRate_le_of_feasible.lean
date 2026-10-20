@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_variationalRate_le_of_feasible
 -- name    : MetricCodes.Spherical.variationalRate_le_of_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/a9ba9d02-3a53-4798-a855-e9d146fe6e51

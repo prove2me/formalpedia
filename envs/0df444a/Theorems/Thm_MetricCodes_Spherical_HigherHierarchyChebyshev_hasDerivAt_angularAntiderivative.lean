@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_hasDerivAt_angularAntiderivative
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.hasDerivAt_angularAntiderivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/5adc5390-9b95-46a3-87ad-4271bafee5c9

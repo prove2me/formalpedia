@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_independentBinaryPairMass_sum
 -- name    : TwoDegenerateGraphs.independentBinaryPairMass_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/9ad1d4db-0222-4acd-829c-e596f2c0c0fe

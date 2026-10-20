@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_odd_characteristic_avoidance
 -- name    : CompactnessConjecture.proposedFamily_odd_characteristic_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/85b8374c-c71c-4d1f-8af1-17e64780e8e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_MaximalCodeBounds_sphericalCodeNumber_toNat_lt_iff
 -- name    : MetricCodes.Spherical.MaximalCodeBounds.sphericalCodeNumber_toNat_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/006274f6-d315-455c-a479-6083a2f8ad05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_inner_sq_le_of_finite_orthogonal_sector_splitting
 -- name    : SoficGroups.inner_sq_le_of_finite_orthogonal_sector_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/cbc0692f-baa0-418c-8966-fee81840b725

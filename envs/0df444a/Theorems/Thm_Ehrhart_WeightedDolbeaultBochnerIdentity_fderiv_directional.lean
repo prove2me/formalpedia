@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_fderiv_directional
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.fderiv_directional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/b179e1f4-1fdd-42bb-846f-da6e1d3ff853

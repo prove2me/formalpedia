@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_fourier_character_translate_integrable_on_cell
 -- name    : SchwartzMap.PoissonSummation.Standard.fourier_character_translate_integrable_on_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/53a16560-1d07-4e5c-a6f1-63d07141100a

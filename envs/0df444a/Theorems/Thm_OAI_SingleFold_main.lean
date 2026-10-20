@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SingleFold_main
 -- name    : OAI.SingleFold.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:22.423327+00:00
 -- url     : https://prove2.me/theorems/dd8b1614-76e1-4c6e-9f87-812ba00da3c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lower_abs_log_sinh_le
 -- name    : CohnElkies.lower_abs_log_sinh_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/8b7ac77f-3d10-4eb4-a5ca-7344931b5923

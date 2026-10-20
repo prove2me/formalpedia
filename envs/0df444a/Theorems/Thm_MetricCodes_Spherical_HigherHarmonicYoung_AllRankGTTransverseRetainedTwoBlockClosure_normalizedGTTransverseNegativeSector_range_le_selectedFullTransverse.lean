@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseRetainedTwoBlockClosure_normalizedGTTransverseNegativeSector_range_le_selectedFullTransverse
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseRetainedTwoBlockClosure.normalizedGTTransverseNegativeSector_range_le_selectedFullTransverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/a8460d6d-1b6f-4ad8-a4ab-7ed00d0cc4e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleGaussianOuterPhi_uniform_polynomial
 -- name    : CohnElkies.eventually_saddleGaussianOuterPhi_uniform_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/80ba8c0a-e92a-4985-b249-b835b0f108e6

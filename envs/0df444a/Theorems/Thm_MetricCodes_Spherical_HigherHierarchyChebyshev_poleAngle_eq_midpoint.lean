@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_poleAngle_eq_midpoint
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.poleAngle_eq_midpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/220c33bd-f23e-4ed6-ae09-2e881c6e59eb

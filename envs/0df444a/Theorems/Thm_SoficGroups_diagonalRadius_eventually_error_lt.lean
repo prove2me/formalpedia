@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_diagonalRadius_eventually_error_lt
 -- name    : SoficGroups.diagonalRadius_eventually_error_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/40b0c187-408a-4257-be73-3eaf609deb89

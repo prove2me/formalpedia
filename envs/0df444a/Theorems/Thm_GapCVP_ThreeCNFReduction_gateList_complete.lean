@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_gateList_complete
 -- name    : GapCVP.ThreeCNFReduction.gateList_complete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/3567f299-cb30-4c04-8e8d-85cd50e354cd

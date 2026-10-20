@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedChosenWordLocalRoot_chosenWordEvaluation_tendsto_action
 -- name    : SoficGroups.CompletedChosenWordLocalRoot.chosenWordEvaluation_tendsto_action
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/709aede8-fdd1-4a85-ab21-5a50fdea9482

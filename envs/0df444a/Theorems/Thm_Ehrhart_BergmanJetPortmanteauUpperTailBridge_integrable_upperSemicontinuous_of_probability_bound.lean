@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauUpperTailBridge_integrable_upperSemicontinuous_of_probability_bound
 -- name    : Ehrhart.BergmanJetPortmanteauUpperTailBridge.integrable_upperSemicontinuous_of_probability_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/ad66b4f4-ed38-4d14-97a2-59ed5eca99da

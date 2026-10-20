@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_integral_barPartialCoordinate_coverAngularSmoothPartition_mul_lift_eq_zero
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.integral_barPartialCoordinate_coverAngularSmoothPartition_mul_lift_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/3f1505e1-91a0-406a-85c0-1d55d0cb7f8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_orthogonal_three_channel_inner
 -- name    : SpherePacking.orthogonal_three_channel_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/6347b864-226c-43d0-9c04-d059924c155e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lower_cosh_le_exp
 -- name    : CohnElkies.lower_cosh_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/b0ee9a9e-e45a-4bb0-9014-3020b6b9abe2

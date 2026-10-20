@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_cumulative_le_degree_mul_of_filtered_step
 -- name    : PermanentRollout.affine_cumulative_le_degree_mul_of_filtered_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/17b69a15-4eca-4b8a-a044-2beab332a698

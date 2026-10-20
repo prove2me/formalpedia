@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceRowBlock_card
 -- name    : PermanentRollout.sourceRowBlock_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/271291a3-3a8e-4769-b17d-59d9a9eda5e7

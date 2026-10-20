@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyPackingObjective_le_hierarchyPackingExponent
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyPackingObjective_le_hierarchyPackingExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/61a029ac-fb58-4b79-bd89-a44d5a84665b

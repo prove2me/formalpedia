@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_zero_fibre_boundary_variance
 -- name    : MetricCodes.Johnson.zero_fibre_boundary_variance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/048c0ce9-e0a5-4680-9d50-aec021c4b8be

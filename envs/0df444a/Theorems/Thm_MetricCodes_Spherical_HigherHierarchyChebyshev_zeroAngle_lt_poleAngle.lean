@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_zeroAngle_lt_poleAngle
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.zeroAngle_lt_poleAngle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/6abf82b0-abf2-416e-b696-a42c46463cfc

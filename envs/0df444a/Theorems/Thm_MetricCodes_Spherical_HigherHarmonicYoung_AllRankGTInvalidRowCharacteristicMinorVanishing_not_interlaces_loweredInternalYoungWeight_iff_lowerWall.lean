@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTInvalidRowCharacteristicMinorVanishing_not_interlaces_loweredInternalYoungWeight_iff_lowerWall
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidRowCharacteristicMinorVanishing.not_interlaces_loweredInternalYoungWeight_iff_lowerWall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/40f4091d-1a96-405c-97a9-e5222bce9603

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_oneRow_certificate_better_than_levelZero
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_oneRow_certificate_better_than_levelZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/224fff96-508e-4e76-ac18-3efd830bb8a1

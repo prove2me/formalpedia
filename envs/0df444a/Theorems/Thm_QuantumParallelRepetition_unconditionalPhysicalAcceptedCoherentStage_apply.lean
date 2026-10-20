@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPhysicalAcceptedCoherentStage_apply
 -- name    : QuantumParallelRepetition.unconditionalPhysicalAcceptedCoherentStage_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/443efd30-3a3b-4876-af3a-c03083ecb8d7

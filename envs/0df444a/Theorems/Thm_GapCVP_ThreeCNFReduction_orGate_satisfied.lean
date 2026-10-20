@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_orGate_satisfied
 -- name    : GapCVP.ThreeCNFReduction.orGate_satisfied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/4b18512a-8f37-4c32-ad4b-972225968f4d

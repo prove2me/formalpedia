@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhysicalApproximation_momentWeakHolomorphicUniformRadialRate_pos
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhysicalApproximation.momentWeakHolomorphicUniformRadialRate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/9dcc7ebc-44c6-4d36-b94a-0dea6798e9ed

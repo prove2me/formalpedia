@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicSpherePacking_orbit_cardinality_eq_bounded_representatives
 -- name    : PeriodicSpherePacking.orbit_cardinality_eq_bounded_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/66b798de-6159-421f-8959-14b8ac5915d6

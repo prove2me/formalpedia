@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualLocalPOVMWinningEffect_complement_posSemidef
 -- name    : QuantumParallelRepetition.unconditionalActualLocalPOVMWinningEffect_complement_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/6064759e-b799-4bc3-849c-7cf41d0c33b2

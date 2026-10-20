@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_exists_binaryRate_improvement
 -- name    : MetricCodes.Hamming.exists_binaryRate_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/2977dd73-84ff-452e-bbb5-5632565300d0

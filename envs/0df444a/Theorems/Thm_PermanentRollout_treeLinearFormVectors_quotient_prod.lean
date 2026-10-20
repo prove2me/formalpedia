@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_treeLinearFormVectors_quotient_prod
 -- name    : PermanentRollout.treeLinearFormVectors_quotient_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/d2832f69-05ce-477d-bf53-9685ad240806

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankCanonicalBoxReverseRange_canonicalBoxReverseAxisRange_of_strongStable
 -- name    : MetricCodes.Spherical.HigherYoungAllRankCanonicalBoxReverseRange.canonicalBoxReverseAxisRange_of_strongStable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/3839cc06-7360-4041-8758-9cc01ad65849

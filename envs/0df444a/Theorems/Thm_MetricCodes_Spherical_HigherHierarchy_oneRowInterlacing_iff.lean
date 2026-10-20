@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_oneRowInterlacing_iff
 -- name    : MetricCodes.Spherical.HigherHierarchy.oneRowInterlacing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/ca52f36b-b6b6-4d9f-84c1-894d07fde2a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_log_ratio_upper
 -- name    : MetricCodes.Numerics.log_ratio_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/05cb1365-5f78-4b79-9bbc-2a64265e6b87

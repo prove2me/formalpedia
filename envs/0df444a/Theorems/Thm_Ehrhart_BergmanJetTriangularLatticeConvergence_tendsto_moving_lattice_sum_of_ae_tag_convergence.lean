@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTriangularLatticeConvergence_tendsto_moving_lattice_sum_of_ae_tag_convergence
 -- name    : Ehrhart.BergmanJetTriangularLatticeConvergence.tendsto_moving_lattice_sum_of_ae_tag_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/975d3388-7006-45d9-b637-dd8e1f7753de

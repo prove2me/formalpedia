@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetAsymptotics_tendsto_choose_floor_mul_div_pow
 -- name    : Ehrhart.JetAsymptotics.tendsto_choose_floor_mul_div_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/402c9a1e-7511-4068-b90b-490770a09199

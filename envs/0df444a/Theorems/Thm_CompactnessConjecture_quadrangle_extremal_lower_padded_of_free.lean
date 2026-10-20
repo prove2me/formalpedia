@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quadrangle_extremal_lower_padded_of_free
 -- name    : CompactnessConjecture.quadrangle_extremal_lower_padded_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/a1de3178-a3f3-4e55-9b30-a4ab3c417fd1

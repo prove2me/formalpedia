@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_gapCVP400IsNPHard
 -- name    : GapCVP.Comparator.gapCVP400IsNPHard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/7c5eb661-5942-4f51-b2ba-c8dd03c34d96

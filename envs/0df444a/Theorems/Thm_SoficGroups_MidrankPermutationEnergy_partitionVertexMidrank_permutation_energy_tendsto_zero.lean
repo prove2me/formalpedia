@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MidrankPermutationEnergy_partitionVertexMidrank_permutation_energy_tendsto_zero
 -- name    : SoficGroups.MidrankPermutationEnergy.partitionVertexMidrank_permutation_energy_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/b4cf0cb2-1389-4b1b-a17d-74503be82f9b

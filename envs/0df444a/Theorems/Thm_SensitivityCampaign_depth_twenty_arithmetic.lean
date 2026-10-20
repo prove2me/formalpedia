@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_depth_twenty_arithmetic
 -- name    : SensitivityCampaign.depth_twenty_arithmetic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-15T17:45:23.943973+00:00
 -- url     : https://prove2.me/theorems/fb8ef2a6-9f9e-4097-80b0-622d2be88abf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_triangleRamseyNumber_mono
 -- name    : ErdosProblems.MulticolourTriangleRamsey.triangleRamseyNumber_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/04f2c56a-faef-4341-b5f4-685ec7464bf4

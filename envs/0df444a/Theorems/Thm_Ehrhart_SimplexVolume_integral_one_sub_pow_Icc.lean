@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_integral_one_sub_pow_Icc
 -- name    : Ehrhart.SimplexVolume.integral_one_sub_pow_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/ac5e4f08-ad41-41f7-a2e4-04a3d2a424eb

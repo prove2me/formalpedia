@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularQuadratic_continuous
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularQuadratic_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/27f25f88-9dec-43bb-8d69-9a483dc503ab

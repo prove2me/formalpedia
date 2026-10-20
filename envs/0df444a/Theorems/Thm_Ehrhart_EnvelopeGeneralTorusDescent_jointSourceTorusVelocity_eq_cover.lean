@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_EnvelopeGeneralTorusDescent_jointSourceTorusVelocity_eq_cover
 -- name    : Ehrhart.EnvelopeGeneralTorusDescent.jointSourceTorusVelocity_eq_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/1d4f2640-8923-405e-8c91-a08472a6a058

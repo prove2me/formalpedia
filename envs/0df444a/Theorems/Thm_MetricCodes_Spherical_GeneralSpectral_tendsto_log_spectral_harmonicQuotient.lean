@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_tendsto_log_spectral_harmonicQuotient
 -- name    : MetricCodes.Spherical.GeneralSpectral.tendsto_log_spectral_harmonicQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/58b36cd3-f9da-43d4-922f-95e6f47f0c3f

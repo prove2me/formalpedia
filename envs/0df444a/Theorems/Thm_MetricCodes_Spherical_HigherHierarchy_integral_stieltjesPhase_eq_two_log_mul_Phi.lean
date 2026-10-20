@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_integral_stieltjesPhase_eq_two_log_mul_Phi
 -- name    : MetricCodes.Spherical.HigherHierarchy.integral_stieltjesPhase_eq_two_log_mul_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/7f8fde8d-3b2c-4b2c-9ec1-daf4ae5321bd

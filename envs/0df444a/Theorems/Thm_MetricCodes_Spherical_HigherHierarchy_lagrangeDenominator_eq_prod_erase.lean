@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_lagrangeDenominator_eq_prod_erase
 -- name    : MetricCodes.Spherical.HigherHierarchy.lagrangeDenominator_eq_prod_erase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/2b757c8a-45f8-447d-a664-97069c61767a

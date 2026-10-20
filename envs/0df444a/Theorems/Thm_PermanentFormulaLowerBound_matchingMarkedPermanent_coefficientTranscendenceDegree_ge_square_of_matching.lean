@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingMarkedPermanent_coefficientTranscendenceDegree_ge_square_of_matching
 -- name    : PermanentFormulaLowerBound.matchingMarkedPermanent_coefficientTranscendenceDegree_ge_square_of_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/162e86d4-5eaa-42d5-b3fa-33dce38b67f1

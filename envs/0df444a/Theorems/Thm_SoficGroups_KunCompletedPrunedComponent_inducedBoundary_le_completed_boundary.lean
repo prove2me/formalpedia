@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedPrunedComponent_inducedBoundary_le_completed_boundary
 -- name    : SoficGroups.KunCompletedPrunedComponent.inducedBoundary_le_completed_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/84bfb5a9-dbfd-4ea5-8d6b-fa08e98ce954

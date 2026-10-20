@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_UnitPacking_toGeneralPacking_ofGeneralPacking
 -- name    : SpherePacking.UnitPacking.toGeneralPacking_ofGeneralPacking
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/ae3b2d8e-8d51-4024-ad3b-a158490ec16b

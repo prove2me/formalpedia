@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_encodeClause_allDistinct
 -- name    : GapCVP.ThreeCNFReduction.encodeClause_allDistinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/3e0a47cd-a054-4d9e-bfa7-caaf0fd04b97

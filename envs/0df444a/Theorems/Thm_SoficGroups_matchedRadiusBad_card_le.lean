@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedRadiusBad_card_le
 -- name    : SoficGroups.matchedRadiusBad_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/5710d389-9d72-44ea-ae6e-6525a4c59361

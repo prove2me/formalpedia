@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_columnAssignment_product_eq_monomial
 -- name    : PermanentRollout.columnAssignment_product_eq_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/8c0c41d9-6ab4-4f5c-9c82-2bbeb43442fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_positiveShellDamping_lower_bound
 -- name    : CohnElkies.positiveShellDamping_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/a72a1fb2-23b7-4f59-8d6b-33993e6a51e0

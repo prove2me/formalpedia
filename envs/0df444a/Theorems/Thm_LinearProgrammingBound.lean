@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearProgrammingBound
 -- name    : LinearProgrammingBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/97c2befb-e38b-403f-8f3e-86d16ed558ba

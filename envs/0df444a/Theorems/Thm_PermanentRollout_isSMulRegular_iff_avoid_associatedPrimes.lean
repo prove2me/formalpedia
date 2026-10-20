@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_isSMulRegular_iff_avoid_associatedPrimes
 -- name    : PermanentRollout.isSMulRegular_iff_avoid_associatedPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/0354ccca-51c8-46db-8eaf-4fe2d1488530

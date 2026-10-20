@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_pairwiseDisjoint_binaryAngularFundamentalBox
 -- name    : Ehrhart.MatrixTorusBochnerBridge.pairwiseDisjoint_binaryAngularFundamentalBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/ad8e8854-bb61-4a43-8d2c-0fd770d023ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedProgram_eq_quotientInf_root
 -- name    : CohnElkies.normalizedProgram_eq_quotientInf_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/e6a0aa00-3ebe-4141-b892-48d4fa078ebb

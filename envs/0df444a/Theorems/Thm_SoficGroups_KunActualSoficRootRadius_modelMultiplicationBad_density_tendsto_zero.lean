@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_modelMultiplicationBad_density_tendsto_zero
 -- name    : SoficGroups.KunActualSoficRootRadius.modelMultiplicationBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/4a50c7dc-f2fa-4a4f-882e-cf2b128032d5

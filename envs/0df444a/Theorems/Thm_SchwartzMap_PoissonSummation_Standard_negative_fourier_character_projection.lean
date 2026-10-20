@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_negative_fourier_character_projection
 -- name    : SchwartzMap.PoissonSummation.Standard.negative_fourier_character_projection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/b730c3d7-a759-4f60-8a4c-a12457d2367f

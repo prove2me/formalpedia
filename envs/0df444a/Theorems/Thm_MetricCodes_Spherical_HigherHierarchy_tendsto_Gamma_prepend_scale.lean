@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_Gamma_prepend_scale
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_Gamma_prepend_scale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/c77feb45-3fba-4224-ba20-aabae8675968

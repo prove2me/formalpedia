@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongCoverMollificationDensity_tendsto_integral_norm_sq_normalizedCoverMollification_sub
 -- name    : Ehrhart.TorusStrongCoverMollificationDensity.tendsto_integral_norm_sq_normalizedCoverMollification_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/343cadc5-19aa-4195-93f7-4fce8fac99df

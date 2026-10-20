@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_radialPolar_angle_integral_eq_one_mul_center
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.radialPolar_angle_integral_eq_one_mul_center
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/8ae34e75-7690-461d-a10a-1fa48378e02a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_childMarginal_le_one
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.childMarginal_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/0a9cf213-ac87-41c2-a8be-350d407621ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanGeodesicConvexity_hasDerivAt_logarithmicSlope
 -- name    : Ehrhart.BergmanGeodesicConvexity.hasDerivAt_logarithmicSlope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/8f7baffe-6cdd-4779-852e-155d0ed4116e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_source_floor_blockTree
 -- name    : PermanentRollout.exists_source_floor_blockTree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/4d5df9b3-19b6-43cf-b9e9-067aa9762975

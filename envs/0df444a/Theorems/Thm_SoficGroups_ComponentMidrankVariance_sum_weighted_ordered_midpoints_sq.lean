@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ComponentMidrankVariance_sum_weighted_ordered_midpoints_sq
 -- name    : SoficGroups.ComponentMidrankVariance.sum_weighted_ordered_midpoints_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/7d62b7a1-cdc9-4039-a708-74b215db8603

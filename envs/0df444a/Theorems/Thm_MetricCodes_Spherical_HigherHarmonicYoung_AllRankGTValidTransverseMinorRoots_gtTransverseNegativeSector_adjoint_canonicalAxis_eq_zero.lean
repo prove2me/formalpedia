@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTValidTransverseMinorRoots_gtTransverseNegativeSector_adjoint_canonicalAxis_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseMinorRoots.gtTransverseNegativeSector_adjoint_canonicalAxis_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/37020241-92e6-465b-9d78-d4b54c4a711a

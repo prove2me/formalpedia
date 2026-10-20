@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_log_stirlingSeq_div_natCast
 -- name    : SpherePacking.tendsto_log_stirlingSeq_div_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/2fb323ad-0e74-4cf5-a144-e4c5e9c3aeb6

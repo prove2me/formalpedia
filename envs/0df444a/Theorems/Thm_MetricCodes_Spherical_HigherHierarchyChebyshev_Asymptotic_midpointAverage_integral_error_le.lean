@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_midpointAverage_integral_error_le
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.midpointAverage_integral_error_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/0b6c34e4-8ebc-4676-9f4b-9d2288290b75

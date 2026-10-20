@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_positive_supported_renewal_measure_of_laplace_gap
 -- name    : AvramDividend.Classical.positive_supported_renewal_measure_of_laplace_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:14:24.236458+00:00
 -- url     : https://prove2.me/theorems/f5d3ec89-859f-4aad-9619-3c8e2a03116c

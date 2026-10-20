@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_ambient_stabilizer_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.ambient_stabilizer_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/d71310b6-626f-4407-abd1-d43e78d4b4f2

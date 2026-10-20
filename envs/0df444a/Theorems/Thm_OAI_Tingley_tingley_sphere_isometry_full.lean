@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Tingley_tingley_sphere_isometry_full
 -- name    : OAI.Tingley.tingley_sphere_isometry_full
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:32.432498+00:00
 -- url     : https://prove2.me/theorems/58608ed6-6906-48c2-a08e-1e7f99726aec

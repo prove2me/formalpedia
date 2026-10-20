@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrandSpillover_Commitment_quantity_game
 -- name    : BrandSpillover.Commitment.quantity_game
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:53.609817+00:00
 -- url     : https://prove2.me/theorems/f50cd5e4-1db3-4470-b3c3-8994e78670bb

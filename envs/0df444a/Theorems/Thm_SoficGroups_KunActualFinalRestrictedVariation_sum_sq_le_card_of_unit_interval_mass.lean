@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFinalRestrictedVariation_sum_sq_le_card_of_unit_interval_mass
 -- name    : SoficGroups.KunActualFinalRestrictedVariation.sum_sq_le_card_of_unit_interval_mass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/97761028-7064-4dc0-b450-3ff0a8760c87

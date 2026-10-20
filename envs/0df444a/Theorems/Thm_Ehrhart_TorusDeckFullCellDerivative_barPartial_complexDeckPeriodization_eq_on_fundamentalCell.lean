@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckFullCellDerivative_barPartial_complexDeckPeriodization_eq_on_fundamentalCell
 -- name    : Ehrhart.TorusDeckFullCellDerivative.barPartial_complexDeckPeriodization_eq_on_fundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/82c717c0-f6a1-442e-966c-0a3f34c1c358

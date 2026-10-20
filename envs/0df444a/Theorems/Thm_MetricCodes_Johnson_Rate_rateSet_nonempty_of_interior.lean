@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Rate_rateSet_nonempty_of_interior
 -- name    : MetricCodes.Johnson.Rate.rateSet_nonempty_of_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/1c00105b-87f9-41e1-99b5-1414f8518f6e

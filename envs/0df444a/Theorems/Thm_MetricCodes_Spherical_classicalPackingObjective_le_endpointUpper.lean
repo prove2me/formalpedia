@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalPackingObjective_le_endpointUpper
 -- name    : MetricCodes.Spherical.classicalPackingObjective_le_endpointUpper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/e083d18f-0a83-4dc0-a32f-df450cf3be71

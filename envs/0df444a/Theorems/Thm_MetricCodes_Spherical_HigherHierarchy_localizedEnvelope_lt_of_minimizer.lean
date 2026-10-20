@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localizedEnvelope_lt_of_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.localizedEnvelope_lt_of_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/fe1ec53f-a57d-4b37-9948-871342fb4657

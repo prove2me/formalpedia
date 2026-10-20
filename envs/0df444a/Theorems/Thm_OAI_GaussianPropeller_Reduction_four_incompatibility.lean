@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_four_incompatibility
 -- name    : OAI.GaussianPropeller.Reduction.four_incompatibility
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:30:28.983115+00:00
 -- url     : https://prove2.me/theorems/b104d617-346a-424d-8de4-68456341ad16

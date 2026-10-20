@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiSecretary_BR_sufficient_condition
 -- name    : MultiSecretary.BR.sufficient_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:58:16.118584+00:00
 -- url     : https://prove2.me/theorems/4152fefa-319a-49e7-b5ce-e3777c65e2a5

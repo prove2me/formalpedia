@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceAliceFlagCoupling_expectation
 -- name    : QuantumParallelRepetition.exactSourceAliceFlagCoupling_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/506a6f23-7bb7-47c6-b393-a8a79d5f1333

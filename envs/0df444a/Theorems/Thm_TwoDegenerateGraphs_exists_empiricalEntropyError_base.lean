@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exists_empiricalEntropyError_base
 -- name    : TwoDegenerateGraphs.exists_empiricalEntropyError_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f23cd459-6e82-49a6-bc5e-8efb184f3df0

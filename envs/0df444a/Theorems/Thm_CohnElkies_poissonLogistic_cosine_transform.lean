@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_poissonLogistic_cosine_transform
 -- name    : CohnElkies.poissonLogistic_cosine_transform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/3d390f7f-2b1d-4777-9247-4a7ef6a97737

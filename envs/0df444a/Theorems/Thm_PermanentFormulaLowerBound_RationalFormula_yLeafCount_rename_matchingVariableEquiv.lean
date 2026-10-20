@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_yLeafCount_rename_matchingVariableEquiv
 -- name    : PermanentFormulaLowerBound.RationalFormula.yLeafCount_rename_matchingVariableEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/e4ed8e2a-cca3-4ce3-9a89-18f6bda267cb

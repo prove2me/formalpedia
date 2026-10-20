@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetAsymptotics_normalized_jetLayercake_value_at_bodyScale
 -- name    : Ehrhart.JetAsymptotics.normalized_jetLayercake_value_at_bodyScale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/b16c8e92-97e5-4c35-bd81-b84f982634bf

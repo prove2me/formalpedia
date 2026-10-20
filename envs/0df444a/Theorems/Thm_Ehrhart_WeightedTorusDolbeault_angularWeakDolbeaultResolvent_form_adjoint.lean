@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDolbeault_angularWeakDolbeaultResolvent_form_adjoint
 -- name    : Ehrhart.WeightedTorusDolbeault.angularWeakDolbeaultResolvent_form_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/7e97924d-2e8e-4f25-ae1c-addec5e9bb9b

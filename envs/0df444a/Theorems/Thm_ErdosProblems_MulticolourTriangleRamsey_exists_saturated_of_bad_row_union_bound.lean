@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_saturated_of_bad_row_union_bound
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_saturated_of_bad_row_union_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/2d6a5b86-0d25-4da9-80b6-7424654d2dbc

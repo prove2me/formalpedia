@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_sourceSeparatedBlockMinorSum_slicedGradient
 -- name    : PermanentRollout.exists_sourceSeparatedBlockMinorSum_slicedGradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/6fd71ebe-e012-4e80-9af4-d05be99b0160

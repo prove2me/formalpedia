@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_tendsto_sphericalEntropy_sub_of_sequential_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.tendsto_sphericalEntropy_sub_of_sequential_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/80f37dab-a79b-4eeb-b650-7d0aa172e88b

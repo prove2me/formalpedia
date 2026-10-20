@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_productRadialWeighted_integral_eq_coordinateFubini
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.productRadialWeighted_integral_eq_coordinateFubini
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/0cb74e48-be74-4ec9-b7ad-35b5fd770ab4

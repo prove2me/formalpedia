@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryConditionalLogPotential_tangent_bound
 -- name    : TwoDegenerateGraphs.binaryConditionalLogPotential_tangent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/5d8be627-eb43-4083-aa78-b3aa9f30cc92

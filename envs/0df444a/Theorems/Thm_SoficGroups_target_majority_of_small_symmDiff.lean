@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_target_majority_of_small_symmDiff
 -- name    : SoficGroups.target_majority_of_small_symmDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/c9e7d3b9-41ea-4fc4-8f45-b838ecc65c3b

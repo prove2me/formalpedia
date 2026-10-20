@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_integral_eq_sum
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_integral_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/79facd00-f083-4adb-89fd-c99a9fc81254

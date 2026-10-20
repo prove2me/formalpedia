@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_channelFactor_of_ratios
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_channelFactor_of_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/c1d42377-cd0d-42d5-80f7-c55a4c3c547c

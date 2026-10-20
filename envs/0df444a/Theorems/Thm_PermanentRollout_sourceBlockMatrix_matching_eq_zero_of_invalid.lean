@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMatrix_matching_eq_zero_of_invalid
 -- name    : PermanentRollout.sourceBlockMatrix_matching_eq_zero_of_invalid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/0a0c037c-4b0b-40a3-8e33-9c20c712d5f7

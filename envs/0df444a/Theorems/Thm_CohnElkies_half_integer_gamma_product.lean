@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_half_integer_gamma_product
 -- name    : CohnElkies.half_integer_gamma_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/1a82fb14-8dfc-4a26-905f-d94f7cbe81eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_supportDegree_ratio
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_supportDegree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/4e23440c-6141-4c81-9cfd-fd079322e869

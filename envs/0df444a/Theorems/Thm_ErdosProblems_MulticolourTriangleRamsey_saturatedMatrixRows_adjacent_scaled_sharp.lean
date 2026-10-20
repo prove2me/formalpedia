@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_saturatedMatrixRows_adjacent_scaled_sharp
 -- name    : ErdosProblems.MulticolourTriangleRamsey.saturatedMatrixRows_adjacent_scaled_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/00bcf111-af80-464e-bff4-0f37f966f049

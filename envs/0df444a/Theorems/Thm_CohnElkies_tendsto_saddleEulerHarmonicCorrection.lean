@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_saddleEulerHarmonicCorrection
 -- name    : CohnElkies.tendsto_saddleEulerHarmonicCorrection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/4af66b8a-e50c-4950-b5e5-4abe1ff75928

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungArbitraryRankAdjacentInterlacingSchedule_reverseInterlacingRowSchedule_raiseWeight_perm
 -- name    : MetricCodes.Spherical.HigherYoungArbitraryRankAdjacentInterlacingSchedule.reverseInterlacingRowSchedule_raiseWeight_perm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/0af32dc5-ab05-4a09-8aab-928ce88b285e

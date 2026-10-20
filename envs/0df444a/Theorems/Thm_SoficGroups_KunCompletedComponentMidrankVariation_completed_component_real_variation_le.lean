@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedComponentMidrankVariation_completed_component_real_variation_le
 -- name    : SoficGroups.KunCompletedComponentMidrankVariation.completed_component_real_variation_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/8fc44416-dc75-4b84-90f0-ea2d0dc75165

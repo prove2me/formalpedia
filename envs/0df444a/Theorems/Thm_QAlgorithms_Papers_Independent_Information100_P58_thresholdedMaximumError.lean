@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_thresholdedMaximumError
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.thresholdedMaximumError
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:19:32.227987+00:00
 -- url     : https://prove2.me/theorems/da8a257f-da16-4467-9064-276ae9c90e56

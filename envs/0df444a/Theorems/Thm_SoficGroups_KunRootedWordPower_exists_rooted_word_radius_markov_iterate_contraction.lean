@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_exists_rooted_word_radius_markov_iterate_contraction
 -- name    : SoficGroups.KunRootedWordPower.exists_rooted_word_radius_markov_iterate_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/040d63cf-0fef-49f9-8879-f59812cf45b1

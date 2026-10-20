@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_exists_maximum_matching_min_cost
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.exists_maximum_matching_min_cost
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:11:16.184811+00:00
 -- url     : https://prove2.me/theorems/9067dec2-7191-465b-b5ce-fb32c9cacf2f

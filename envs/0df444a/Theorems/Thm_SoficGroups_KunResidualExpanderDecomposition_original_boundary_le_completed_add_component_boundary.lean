@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_original_boundary_le_completed_add_component_boundary
 -- name    : SoficGroups.KunResidualExpanderDecomposition.original_boundary_le_completed_add_component_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/4e1c6fab-d5ce-45f2-99f9-72b1a294160e

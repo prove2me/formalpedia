@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunLiteralSourceSelectedComponents_sourceTransportedReferenceGenerator_disagreement_mem
 -- name    : SoficGroups.KunLiteralSourceSelectedComponents.sourceTransportedReferenceGenerator_disagreement_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/2b547add-6a83-4efa-bb76-e8d59cc69cdc

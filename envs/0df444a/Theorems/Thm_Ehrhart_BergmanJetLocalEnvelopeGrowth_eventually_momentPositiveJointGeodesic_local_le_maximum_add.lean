@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalEnvelopeGrowth_eventually_momentPositiveJointGeodesic_local_le_maximum_add
 -- name    : Ehrhart.BergmanJetLocalEnvelopeGrowth.eventually_momentPositiveJointGeodesic_local_le_maximum_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/f6dfb62f-4c59-4310-b1de-c6d6f2827496

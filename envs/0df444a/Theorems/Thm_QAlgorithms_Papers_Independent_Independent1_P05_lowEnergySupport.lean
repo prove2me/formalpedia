@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P05_lowEnergySupport
 -- name    : QAlgorithms.Papers.Independent.Independent1.P05.lowEnergySupport
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:34:53.161985+00:00
 -- url     : https://prove2.me/theorems/4bb30def-8678-4aff-9b2e-e33e13043940

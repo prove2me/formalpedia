@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_exists_centeredBody_sharp
 -- name    : Ehrhart.SimplexVolume.exists_centeredBody_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/e590d844-efd7-46ce-82e1-74b4afcf368f

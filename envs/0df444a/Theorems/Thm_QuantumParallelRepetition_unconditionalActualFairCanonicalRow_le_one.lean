@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairCanonicalRow_le_one
 -- name    : QuantumParallelRepetition.unconditionalActualFairCanonicalRow_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/574ec475-2565-4c21-8bc2-13cb4a19df68

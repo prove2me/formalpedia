@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceTopLevelCompressionFinal_exists_finitelyPresented_nonsofic_group
 -- name    : SoficGroups.SourceTopLevelCompressionFinal.exists_finitelyPresented_nonsofic_group
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/44cf1952-2bed-4e48-af3f-00da3324a384

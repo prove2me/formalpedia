@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_no_three_pairwise_palette_disagreements
 -- name    : ErdosProblems.MulticolourTriangleRamsey.no_three_pairwise_palette_disagreements
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/b753a804-4459-4c75-8058-519896c2b7f1

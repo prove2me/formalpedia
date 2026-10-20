@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceProductThroughAlpha_source_u_transported_reference_boundary_density_tendsto_zero
 -- name    : SoficGroups.SourceProductThroughAlpha.source_u_transported_reference_boundary_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/ae9974d8-c1ad-46da-a402-967ae1cb2c8c

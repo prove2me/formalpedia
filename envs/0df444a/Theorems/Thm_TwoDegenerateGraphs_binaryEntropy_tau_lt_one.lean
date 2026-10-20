@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryEntropy_tau_lt_one
 -- name    : TwoDegenerateGraphs.binaryEntropy_tau_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/0e153394-969b-495c-b9c5-2c8a31058cf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_instruction_isSMulRegular_mod_prefix_graph
 -- name    : PermanentRollout.affine_instruction_isSMulRegular_mod_prefix_graph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/b4d60388-9394-43c0-b8e7-d7db58109a86

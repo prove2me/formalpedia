@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_sum_fderiv_angularSmoothPartition_binary_eq_zero
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.sum_fderiv_angularSmoothPartition_binary_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/ded8cf7d-0541-4a26-8818-63b5cc78200d

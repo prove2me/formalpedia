@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_sum_lagrangeWeight
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.sum_lagrangeWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/5ff01327-0876-466d-b3a1-2dafcb067ade

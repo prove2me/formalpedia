@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_nphardPromise_of_nphard_of_promiseReduction
 -- name    : GapCVP.nphardPromise_of_nphard_of_promiseReduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/074d9817-1dda-4e2c-be6a-583dc6cd9734

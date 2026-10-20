@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalPhysicalMixedAcceptedPrefixWork_norm_sq
 -- name    : QuantumParallelRepetition.dSVDensityRationalPhysicalMixedAcceptedPrefixWork_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/f2c50c58-6705-4441-81b5-a08fd51c0f72

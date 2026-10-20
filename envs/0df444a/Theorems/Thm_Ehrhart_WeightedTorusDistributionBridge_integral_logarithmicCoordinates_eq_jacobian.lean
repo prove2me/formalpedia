@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_integral_logarithmicCoordinates_eq_jacobian
 -- name    : Ehrhart.WeightedTorusDistributionBridge.integral_logarithmicCoordinates_eq_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/59655950-4e57-4a12-9eee-ce8eed6974ab

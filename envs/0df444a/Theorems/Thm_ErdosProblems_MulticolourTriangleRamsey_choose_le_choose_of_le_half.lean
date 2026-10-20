@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_choose_le_choose_of_le_half
 -- name    : ErdosProblems.MulticolourTriangleRamsey.choose_le_choose_of_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/1c294b78-4c40-49b4-9f67-3a5bfbe4e0c1

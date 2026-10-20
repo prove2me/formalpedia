@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseCasimirEmbedding_gtTransverseEuclideanIsometry_orthogonal_last
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding.gtTransverseEuclideanIsometry_orthogonal_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/da7ac229-f195-4130-a70d-3f6b1caa2fed

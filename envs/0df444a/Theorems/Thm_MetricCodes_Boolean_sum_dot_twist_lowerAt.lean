@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_sum_dot_twist_lowerAt
 -- name    : MetricCodes.Boolean.sum_dot_twist_lowerAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/edb08d2e-697e-41ce-87f8-c6e70b8c89e8

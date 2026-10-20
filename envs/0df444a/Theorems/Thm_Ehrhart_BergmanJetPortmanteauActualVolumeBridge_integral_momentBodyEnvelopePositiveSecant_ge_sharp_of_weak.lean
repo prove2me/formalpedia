@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_integral_momentBodyEnvelopePositiveSecant_ge_sharp_of_weak
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.integral_momentBodyEnvelopePositiveSecant_ge_sharp_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/3856b11f-f11b-4934-9041-5d7991806df7

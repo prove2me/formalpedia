@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_opening_spectralSlope_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.opening_spectralSlope_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/2f5ff118-1cef-47d3-a37c-1392286bd991

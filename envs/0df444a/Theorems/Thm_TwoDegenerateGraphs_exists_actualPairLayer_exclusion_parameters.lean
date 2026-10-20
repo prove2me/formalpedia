@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exists_actualPairLayer_exclusion_parameters
 -- name    : TwoDegenerateGraphs.exists_actualPairLayer_exclusion_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/37a58c6c-fb71-43de-a863-9a6ad3851573

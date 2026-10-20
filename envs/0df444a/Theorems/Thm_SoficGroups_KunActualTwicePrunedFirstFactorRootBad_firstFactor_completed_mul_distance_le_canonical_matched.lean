@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualTwicePrunedFirstFactorRootBad_firstFactor_completed_mul_distance_le_canonical_matched
 -- name    : SoficGroups.KunActualTwicePrunedFirstFactorRootBad.firstFactor_completed_mul_distance_le_canonical_matched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/6c858448-efc4-49d8-bb9d-f36d3604b0f7

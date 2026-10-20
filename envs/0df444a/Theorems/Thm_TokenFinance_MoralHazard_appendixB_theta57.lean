@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_appendixB_theta57
 -- name    : TokenFinance.MoralHazard.appendixB_theta57
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:19:34.183979+00:00
 -- url     : https://prove2.me/theorems/d16ac8ee-fc93-4848-a964-5152b734ca4f

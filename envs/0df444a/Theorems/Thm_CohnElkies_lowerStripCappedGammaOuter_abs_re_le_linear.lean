@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedGammaOuter_abs_re_le_linear
 -- name    : CohnElkies.lowerStripCappedGammaOuter_abs_re_le_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/7d428691-7a88-487f-bdff-a357518f97f0

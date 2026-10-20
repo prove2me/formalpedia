@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_one_sub_two_mul_Gamma_of_stieltjesPhaseProduct
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_one_sub_two_mul_Gamma_of_stieltjesPhaseProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/a8041806-3f3a-4837-b55e-4b48644b30dd

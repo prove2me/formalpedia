@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_threshold_ceil
 -- name    : MetricCodes.Hamming.tendsto_threshold_ceil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/c0c19f9c-4055-4524-b362-b33098215b82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_measurableSet_angularBox
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.measurableSet_angularBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/4750942f-c592-4dde-9b1a-957652b19517

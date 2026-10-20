@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyExponentialSecantBridge_measurable_momentBodyEnvelopeRelativeDensity
 -- name    : Ehrhart.BergmanJetBodyExponentialSecantBridge.measurable_momentBodyEnvelopeRelativeDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/08a128ef-eea4-4374-a955-b443c0050578

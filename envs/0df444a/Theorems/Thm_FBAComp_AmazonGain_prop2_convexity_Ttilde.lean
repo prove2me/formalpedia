@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBAComp_AmazonGain_prop2_convexity_Ttilde
 -- name    : FBAComp.AmazonGain.prop2_convexity_Ttilde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:16.422717+00:00
 -- url     : https://prove2.me/theorems/4b120eae-08d0-434b-89fb-b2118cdf4a2a

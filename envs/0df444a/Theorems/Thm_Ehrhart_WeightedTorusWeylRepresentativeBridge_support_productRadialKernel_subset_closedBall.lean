@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_support_productRadialKernel_subset_closedBall
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.support_productRadialKernel_subset_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/6a785694-86d8-4756-b976-e52d3f72d3d9

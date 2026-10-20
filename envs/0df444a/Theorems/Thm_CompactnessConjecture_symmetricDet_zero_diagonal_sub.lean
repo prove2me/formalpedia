@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricDet_zero_diagonal_sub
 -- name    : CompactnessConjecture.symmetricDet_zero_diagonal_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/46b86664-74b0-4b2c-8732-38e4aa07f49a

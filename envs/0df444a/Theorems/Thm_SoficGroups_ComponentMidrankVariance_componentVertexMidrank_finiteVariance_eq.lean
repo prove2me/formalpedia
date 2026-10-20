@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ComponentMidrankVariance_componentVertexMidrank_finiteVariance_eq
 -- name    : SoficGroups.ComponentMidrankVariance.componentVertexMidrank_finiteVariance_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/446e945d-8d41-44d2-8382-1dac6f386d92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_complexFrullaniKernel_norm_le_exp
 -- name    : CohnElkies.complexFrullaniKernel_norm_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/399187a2-ef36-4f85-a46b-28d9561ef1bf

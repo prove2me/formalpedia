@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CLStructuralWholeCNFOutputTM_structuralWholeCNFWord_mem_threeSAT_iff
 -- name    : GapCVP.CLStructuralWholeCNFOutputTM.structuralWholeCNFWord_mem_threeSAT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/fd822fb0-5025-4bd7-bd0e-dd99d56d1a65

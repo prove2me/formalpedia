@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceSecondBranch_gaussianL1Tails
 -- name    : CohnElkies.eventually_saddleSourceSecondBranch_gaussianL1Tails
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/75a86e5c-1387-4b13-9c69-747b914a2fff

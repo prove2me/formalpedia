@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyTrueGridAdjacency_matrix_irreducible
 -- name    : MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency.matrix_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/7a456df8-8e17-460c-918e-10f9dc1aa2db

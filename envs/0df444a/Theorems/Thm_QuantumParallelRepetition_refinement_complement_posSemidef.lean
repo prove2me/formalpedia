@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_refinement_complement_posSemidef
 -- name    : QuantumParallelRepetition.refinement_complement_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/bea9efc9-b58d-4785-9db8-fc0097e2ea28

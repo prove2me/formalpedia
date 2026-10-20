@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ComponentMidrankVariance_componentVertexMidrank_eq_ordered_midpoint
 -- name    : SoficGroups.ComponentMidrankVariance.componentVertexMidrank_eq_ordered_midpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/013c050e-77e6-4eec-a3d1-a9a5752e5944

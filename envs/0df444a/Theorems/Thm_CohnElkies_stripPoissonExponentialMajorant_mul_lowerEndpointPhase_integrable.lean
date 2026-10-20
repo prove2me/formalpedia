@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonExponentialMajorant_mul_lowerEndpointPhase_integrable
 -- name    : CohnElkies.stripPoissonExponentialMajorant_mul_lowerEndpointPhase_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/643125e9-40fe-4fa0-9848-469eb78d200d

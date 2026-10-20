@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairTypeGroup_true_card
 -- name    : TwoDegenerateGraphs.pairTypeGroup_true_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/d58d984f-e8d0-4acf-ad59-eaacc2805e61

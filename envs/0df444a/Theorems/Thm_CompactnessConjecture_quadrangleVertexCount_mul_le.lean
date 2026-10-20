@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quadrangleVertexCount_mul_le
 -- name    : CompactnessConjecture.quadrangleVertexCount_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/12d200af-ceda-4cc4-936f-4cef00befade

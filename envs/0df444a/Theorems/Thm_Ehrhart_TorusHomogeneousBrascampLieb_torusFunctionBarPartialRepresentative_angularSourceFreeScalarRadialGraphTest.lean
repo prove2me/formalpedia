@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_torusFunctionBarPartialRepresentative_angularSourceFreeScalarRadialGraphTest
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.torusFunctionBarPartialRepresentative_angularSourceFreeScalarRadialGraphTest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/04a0404a-fc87-4d7e-a904-1e5d7bd2731c

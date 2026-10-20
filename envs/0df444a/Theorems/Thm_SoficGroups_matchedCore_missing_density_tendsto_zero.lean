@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedCore_missing_density_tendsto_zero
 -- name    : SoficGroups.matchedCore_missing_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/0ca05fa5-c4c6-4286-bf5d-17bca9e32ecd

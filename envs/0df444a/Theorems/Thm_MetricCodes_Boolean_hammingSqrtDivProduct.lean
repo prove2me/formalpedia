@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingSqrtDivProduct
 -- name    : MetricCodes.Boolean.hammingSqrtDivProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/40a74247-e59e-4629-8d42-6e3d1bfbe296

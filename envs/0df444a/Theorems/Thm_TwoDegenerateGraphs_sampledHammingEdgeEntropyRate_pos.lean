@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_sampledHammingEdgeEntropyRate_pos
 -- name    : TwoDegenerateGraphs.sampledHammingEdgeEntropyRate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/dd73235f-9b21-44ca-8b18-b1fe3e7d216a

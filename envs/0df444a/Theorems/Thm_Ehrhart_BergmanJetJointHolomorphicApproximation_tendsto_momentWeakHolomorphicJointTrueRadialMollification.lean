@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicApproximation_tendsto_momentWeakHolomorphicJointTrueRadialMollification
 -- name    : Ehrhart.BergmanJetJointHolomorphicApproximation.tendsto_momentWeakHolomorphicJointTrueRadialMollification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/60a7da31-eace-4c23-ab98-ae51ce8b45e7

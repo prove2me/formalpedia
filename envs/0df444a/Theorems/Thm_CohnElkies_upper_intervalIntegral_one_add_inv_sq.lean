@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upper_intervalIntegral_one_add_inv_sq
 -- name    : CohnElkies.upper_intervalIntegral_one_add_inv_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/29bde7da-8aa2-41f1-9658-f6ccd7ba84ef

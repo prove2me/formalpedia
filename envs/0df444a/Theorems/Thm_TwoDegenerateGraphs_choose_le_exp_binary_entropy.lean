@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_choose_le_exp_binary_entropy
 -- name    : TwoDegenerateGraphs.choose_le_exp_binary_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/634c1e18-e709-4c77-9200-164110563630

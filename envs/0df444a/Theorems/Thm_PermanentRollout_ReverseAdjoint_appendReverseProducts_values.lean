@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_appendReverseProducts_values
 -- name    : PermanentRollout.ReverseAdjoint.appendReverseProducts_values
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/3fd1ad32-badf-495f-b417-2978d82568ab

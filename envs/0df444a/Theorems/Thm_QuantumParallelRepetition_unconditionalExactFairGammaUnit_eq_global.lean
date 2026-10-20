@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalExactFairGammaUnit_eq_global
 -- name    : QuantumParallelRepetition.unconditionalExactFairGammaUnit_eq_global
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/a8efdf1c-4c91-4057-a167-cb1b84c67f7b

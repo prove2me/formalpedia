@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_kissing_entropy_certificate
 -- name    : MetricCodes.Numerics.kissing_entropy_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/2da00927-dde8-4fb7-888d-b39c54724542

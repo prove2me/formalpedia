@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicTimeDerivativeBounds_upperRegularization_sourceJointCover_le_translate
 -- name    : Ehrhart.BergmanJetJointHolomorphicTimeDerivativeBounds.upperRegularization_sourceJointCover_le_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/daa8ed86-dff8-479e-bf5a-ff3e37922468

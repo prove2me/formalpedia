@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_smooth
 -- name    : CohnElkies.radialProfile_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/f791e6f8-90ec-41d4-b416-82542c501aaa

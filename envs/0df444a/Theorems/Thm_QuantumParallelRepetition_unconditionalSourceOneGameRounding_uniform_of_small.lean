@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourceOneGameRounding_uniform_of_small
 -- name    : QuantumParallelRepetition.unconditionalSourceOneGameRounding_uniform_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/2a470240-a6a9-4747-a16d-0b6159c5dbf2

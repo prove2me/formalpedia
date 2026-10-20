@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusCompactGreen_angularWeightedTorus_complexCoverLift_ae_eq
 -- name    : Ehrhart.MatrixTorusCompactGreen.angularWeightedTorus_complexCoverLift_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/747d8b96-60f1-419f-b46e-6ddfa3ffef9c

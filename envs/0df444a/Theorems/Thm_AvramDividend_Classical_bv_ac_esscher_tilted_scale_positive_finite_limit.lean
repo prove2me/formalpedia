@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_ac_esscher_tilted_scale_positive_finite_limit
 -- name    : AvramDividend.Classical.bv_ac_esscher_tilted_scale_positive_finite_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T10:59:42.1918+00:00
 -- url     : https://prove2.me/theorems/9c42a9e2-b6a7-4f3e-a3a4-6f03173c5338

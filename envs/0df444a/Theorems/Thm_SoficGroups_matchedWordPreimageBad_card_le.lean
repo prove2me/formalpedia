@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedWordPreimageBad_card_le
 -- name    : SoficGroups.matchedWordPreimageBad_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/feaba6bc-47f6-494b-a7b7-4261e6f1f7d3

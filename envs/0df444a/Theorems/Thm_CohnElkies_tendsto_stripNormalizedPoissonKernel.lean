@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_stripNormalizedPoissonKernel
 -- name    : CohnElkies.tendsto_stripNormalizedPoissonKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/0fc89a6b-e7d9-47a9-b27b-7d1d84b9abde

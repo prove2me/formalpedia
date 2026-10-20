@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTAxisTensorRotationIntertwining_euclideanAmbientRotation_castSucc_last
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining.euclideanAmbientRotation_castSucc_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/b55fdeaa-f8d3-4590-88d3-a641145b93c3

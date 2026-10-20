@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_projection_certificate_mul
 -- name    : MetricCodes.projection_certificate_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/8c491a94-a62f-4f07-81ab-4a2ec649e930

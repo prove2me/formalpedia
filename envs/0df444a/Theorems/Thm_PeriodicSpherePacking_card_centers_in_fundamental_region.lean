@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicSpherePacking_card_centers_in_fundamental_region
 -- name    : PeriodicSpherePacking.card_centers_in_fundamental_region
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/6cf18704-9ecf-42b8-a0e3-faae3a0ce4cf

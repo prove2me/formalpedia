@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_matrixEffectCLM_norm_le_one
 -- name    : QuantumParallelRepetition.matrixEffectCLM_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/4004ec24-fb71-4ac8-a6a4-a996e3e25920

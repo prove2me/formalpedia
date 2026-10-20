@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualRetainedSelection_matchedRetained_parts_eventually_nonempty_of_discard
 -- name    : SoficGroups.KunResidualRetainedSelection.matchedRetained_parts_eventually_nonempty_of_discard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/b5b50a4b-cf1f-4abc-ad14-ea1e5c64a455

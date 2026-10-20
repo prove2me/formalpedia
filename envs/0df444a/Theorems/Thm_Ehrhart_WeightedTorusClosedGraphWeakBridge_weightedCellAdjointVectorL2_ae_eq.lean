@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_weightedCellAdjointVectorL2_ae_eq
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.weightedCellAdjointVectorL2_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/f6489b86-b352-4072-aa1e-95d3b97a51dc

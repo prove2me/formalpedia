@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceProductThroughAlpha_sourceCompressedGeneratingFinset_one_mem
 -- name    : SoficGroups.SourceProductThroughAlpha.sourceCompressedGeneratingFinset_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/16b5c347-6642-4ecf-ab3d-2cefffe23552

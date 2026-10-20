@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsSpatialMultiplier_euclidean_foSymbolFn_add_fibre
 -- name    : BookProof.NsSpatialMultiplier.euclidean_foSymbolFn_add_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:43:18.013318+00:00
 -- url     : https://prove2.me/theorems/7389a207-6a8c-4249-aaa1-28f1046cc8f6

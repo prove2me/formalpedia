@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPointwiseLogKernel_exists_eventual_momentNormalized_uniform_moving_phase_coercivity
 -- name    : Ehrhart.BergmanJetPointwiseLogKernel.exists_eventual_momentNormalized_uniform_moving_phase_coercivity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/7ec4e765-95b3-4488-bd73-1a9d3d84336b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparisonLebesgueDensity_measurable
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparisonLebesgueDensity_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/8cc42342-d07a-4bca-ab4e-290b9adc5276

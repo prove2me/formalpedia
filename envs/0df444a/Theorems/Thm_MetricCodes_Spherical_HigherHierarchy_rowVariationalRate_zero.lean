@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_rowVariationalRate_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.rowVariationalRate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/da119d1e-117f-4821-890f-d1e0e8f4cc63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_norm_normalizedIndicatorDisplacement_generator_le
 -- name    : SoficGroups.KunRootedIndicatorCrossing.norm_normalizedIndicatorDisplacement_generator_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/a3522e7c-44a2-4d42-a281-c7719ba56878

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_negativeHalfline_le_of_fourierInversion
 -- name    : CohnElkies.negativeHalfline_le_of_fourierInversion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/3be4f368-1d34-40f6-bf55-1c0fe7fff3e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousStoppedCommonPrefixFailureVector_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousStoppedCommonPrefixFailureVector_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/b30bc331-361f-4141-a425-abaa8c8f9a3a

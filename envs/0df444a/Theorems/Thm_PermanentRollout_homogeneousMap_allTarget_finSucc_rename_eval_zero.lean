@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_finSucc_rename_eval_zero
 -- name    : PermanentRollout.homogeneousMap_allTarget_finSucc_rename_eval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/4905af3e-d23a-4e82-b1b4-9725f9eff31a

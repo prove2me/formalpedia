@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_stripRegularizedHolomorphicPoissonKernel_of_neg
 -- name    : CohnElkies.norm_stripRegularizedHolomorphicPoissonKernel_of_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/d0e9cb3d-7ecc-4576-8f33-f3958a83171f

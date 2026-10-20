@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_minusSaddleProfile_re_neg_at_secondBranchSaddles
 -- name    : CohnElkies.eventually_minusSaddleProfile_re_neg_at_secondBranchSaddles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/40128499-d2d7-40c9-a379-2a29402b5c5d

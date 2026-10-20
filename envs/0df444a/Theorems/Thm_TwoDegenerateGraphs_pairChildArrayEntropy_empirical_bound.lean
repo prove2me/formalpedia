@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairChildArrayEntropy_empirical_bound
 -- name    : TwoDegenerateGraphs.pairChildArrayEntropy_empirical_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/ae4386ee-3567-455c-9326-373e5ba721a9

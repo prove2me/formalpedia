@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_exists_codeNumber
 -- name    : MetricCodes.Hamming.exists_codeNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/cdff261c-6885-4255-8a44-3e3ddc3a731b

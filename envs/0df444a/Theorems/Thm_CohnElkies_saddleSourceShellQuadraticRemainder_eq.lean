@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceShellQuadraticRemainder_eq
 -- name    : CohnElkies.saddleSourceShellQuadraticRemainder_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/7da949ce-79cd-4fb0-b09c-6d2e902c64be

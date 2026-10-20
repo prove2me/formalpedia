@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyStieltjesRatio_prepend
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyStieltjesRatio_prepend
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/5997b3fb-9b93-4489-b6c5-1c975df9497f

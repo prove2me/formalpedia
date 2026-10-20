@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAmbientCharacteristicAtTransverseNode_signedAmbientCharacteristic_eval_ne_zero_of_forall_ne
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAmbientCharacteristicAtTransverseNode.signedAmbientCharacteristic_eval_ne_zero_of_forall_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/07a5fdb9-8151-45cf-8447-4b83e112e226

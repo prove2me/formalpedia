@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunGlobalActualAdditiveMidrankVariance_weighted_component_midrankVariance_tendsto_zero_of_additive_expansion
 -- name    : SoficGroups.KunGlobalActualAdditiveMidrankVariance.weighted_component_midrankVariance_tendsto_zero_of_additive_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/5bb3dd58-1a53-4d0a-bf9a-ae41543457c0

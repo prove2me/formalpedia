@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_constantVector_ne_zero
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.constantVector_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/648d773c-a7e0-4ac0-bd70-2019e59e854f

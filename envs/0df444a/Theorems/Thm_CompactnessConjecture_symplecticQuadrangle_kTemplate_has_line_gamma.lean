@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_kTemplate_has_line_gamma
 -- name    : CompactnessConjecture.symplecticQuadrangle_kTemplate_has_line_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/07fcaafe-fee2-460b-bb60-c78cc24ac7d4

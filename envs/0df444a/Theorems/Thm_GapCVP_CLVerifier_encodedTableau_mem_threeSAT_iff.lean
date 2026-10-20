@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CLVerifier_encodedTableau_mem_threeSAT_iff
 -- name    : GapCVP.CLVerifier.encodedTableau_mem_threeSAT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/ee5e0726-dbc8-4032-a63f-f5078aadfc9a

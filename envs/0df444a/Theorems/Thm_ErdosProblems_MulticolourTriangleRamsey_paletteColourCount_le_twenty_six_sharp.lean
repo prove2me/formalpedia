@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteColourCount_le_twenty_six_sharp
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteColourCount_le_twenty_six_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/4c12248e-493a-45db-a376-7d0c95d7cc30

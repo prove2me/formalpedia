@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ArcsineTransform_betaPDFReal_half_half_eq
 -- name    : MetricCodes.Spherical.HigherHierarchy.ArcsineTransform.betaPDFReal_half_half_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/82ca86ab-f098-4bef-a3a0-06cb2e65f0e2

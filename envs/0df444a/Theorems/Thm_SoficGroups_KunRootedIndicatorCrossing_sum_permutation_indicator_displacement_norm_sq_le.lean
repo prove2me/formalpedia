@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_sum_permutation_indicator_displacement_norm_sq_le
 -- name    : SoficGroups.KunRootedIndicatorCrossing.sum_permutation_indicator_displacement_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/03afbb0b-5462-4c0d-b431-5c013479b725

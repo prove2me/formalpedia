@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_exists_hyperfilter_diagonal_positive_pair_kernel
 -- name    : SoficGroups.KunRootedIndicatorCrossing.exists_hyperfilter_diagonal_positive_pair_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/3b935d9b-8e69-47e9-9329-9df26ba7bb9d

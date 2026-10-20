@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_filtered_piece_eventually_eq_top
 -- name    : PermanentRollout.affine_total_degree_filtered_piece_eventually_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/7f126798-863c-47ce-9a11-7b5cb484a1e3

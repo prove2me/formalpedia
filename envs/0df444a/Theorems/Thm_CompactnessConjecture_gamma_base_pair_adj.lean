@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gamma_base_pair_adj
 -- name    : CompactnessConjecture.gamma_base_pair_adj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/e6092430-0a65-48da-b9f3-432acdf87d9d

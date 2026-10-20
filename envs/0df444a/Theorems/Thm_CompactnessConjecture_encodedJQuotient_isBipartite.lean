@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_encodedJQuotient_isBipartite
 -- name    : CompactnessConjecture.encodedJQuotient_isBipartite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/1b330b3f-8fd1-40bd-b138-818f38832f4f

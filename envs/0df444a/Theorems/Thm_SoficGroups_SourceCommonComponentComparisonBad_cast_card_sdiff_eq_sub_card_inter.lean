@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCommonComponentComparisonBad_cast_card_sdiff_eq_sub_card_inter
 -- name    : SoficGroups.SourceCommonComponentComparisonBad.cast_card_sdiff_eq_sub_card_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/25bf5cdf-65b3-481f-afdd-643c335a21eb

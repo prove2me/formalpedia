@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidual_cross_re_inner
 -- name    : SoficGroups.ejThreeResidual_cross_re_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/1596da71-6339-4f3b-affe-3b6e308dfac0

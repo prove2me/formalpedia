@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_antisymmetric_matrix_energy_add_cross
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.antisymmetric_matrix_energy_add_cross
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/bd0e69fe-6baf-4cd4-a44c-bff1f01654cc

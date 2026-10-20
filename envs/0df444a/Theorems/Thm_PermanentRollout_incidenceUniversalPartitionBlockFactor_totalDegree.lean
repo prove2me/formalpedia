@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_incidenceUniversalPartitionBlockFactor_totalDegree
 -- name    : PermanentRollout.incidenceUniversalPartitionBlockFactor_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/9ae9bece-57dd-43bc-b044-b5f53a9cd0d1

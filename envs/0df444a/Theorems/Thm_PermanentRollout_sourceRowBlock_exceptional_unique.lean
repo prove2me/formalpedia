@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceRowBlock_exceptional_unique
 -- name    : PermanentRollout.sourceRowBlock_exceptional_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/99d616df-b9b0-442f-9c0f-6b94dc0c57bc

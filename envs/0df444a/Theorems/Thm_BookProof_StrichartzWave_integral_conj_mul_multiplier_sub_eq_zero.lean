@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_integral_conj_mul_multiplier_sub_eq_zero
 -- name    : BookProof.StrichartzWave.integral_conj_mul_multiplier_sub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:19:28.295496+00:00
 -- url     : https://prove2.me/theorems/f403481f-9881-46df-8639-3651f5798e32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_CircuitPrefix_append_values_getD_new
 -- name    : PermanentRollout.CircuitPrefix.append_values_getD_new
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/2a637f69-3102-41f2-98e2-2b4c8863a4f0

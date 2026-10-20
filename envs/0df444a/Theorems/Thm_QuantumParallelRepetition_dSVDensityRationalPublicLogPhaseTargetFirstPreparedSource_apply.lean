@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalPublicLogPhaseTargetFirstPreparedSource_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalPublicLogPhaseTargetFirstPreparedSource_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/a460705a-e0ab-40f3-b18c-65d9d3e1c100

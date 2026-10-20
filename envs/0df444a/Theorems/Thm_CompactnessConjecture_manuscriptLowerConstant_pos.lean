@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_manuscriptLowerConstant_pos
 -- name    : CompactnessConjecture.manuscriptLowerConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/33496712-88b8-4231-b18a-cf5dbcdf013c

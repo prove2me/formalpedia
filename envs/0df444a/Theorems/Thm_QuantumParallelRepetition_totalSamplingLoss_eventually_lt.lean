@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_totalSamplingLoss_eventually_lt
 -- name    : QuantumParallelRepetition.totalSamplingLoss_eventually_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/eb123639-6258-4f0e-ba3e-df207175eaee

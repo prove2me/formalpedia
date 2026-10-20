@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_compactSupport_barPartialCoordinate
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.compactSupport_barPartialCoordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/244d8c39-67dd-4ffd-87e0-c9da31f6f116

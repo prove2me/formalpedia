@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusCharacters_torusCharacter_zero
 -- name    : Ehrhart.TorusCharacters.torusCharacter_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/0c7a2cb3-406c-4569-9dc8-05881ca8b0e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactified_certificate_entropy_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactified_certificate_entropy_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/35b836cf-c24c-458e-a5dd-fc0695e81272

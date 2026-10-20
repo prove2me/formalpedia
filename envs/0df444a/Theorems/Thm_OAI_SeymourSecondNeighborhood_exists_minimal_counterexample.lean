@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_exists_minimal_counterexample
 -- name    : OAI.SeymourSecondNeighborhood.exists_minimal_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:04:38.098139+00:00
 -- url     : https://prove2.me/theorems/29a331c1-e0d4-401e-b576-bfa2986d5ae0

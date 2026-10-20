@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_filtered_mul_injective
 -- name    : PermanentRollout.affine_total_degree_filtered_mul_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/178fad38-dd55-4fa5-8547-8c3f6ef14b4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_tendsto_shifted_choose_ratio
 -- name    : PermanentRollout.affine_tendsto_shifted_choose_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/03b667b6-93d0-47cb-b411-d48675a96a19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyKissingExponent_lt_exact
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyKissingExponent_lt_exact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/2c3a9217-8289-4092-83bb-74720361236c

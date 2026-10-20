@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_realHyperbolicShellPhase_quadratic_remainder
 -- name    : CohnElkies.exists_realHyperbolicShellPhase_quadratic_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/3d989672-1653-4a4a-81ad-c8a1fc0a25af

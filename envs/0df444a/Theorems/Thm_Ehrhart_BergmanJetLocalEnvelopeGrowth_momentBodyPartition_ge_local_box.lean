@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalEnvelopeGrowth_momentBodyPartition_ge_local_box
 -- name    : Ehrhart.BergmanJetLocalEnvelopeGrowth.momentBodyPartition_ge_local_box
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/b66c5000-d99f-486b-9c89-cfdd73f48e43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaThirdMoment_firstBranch_scaled_le
 -- name    : CohnElkies.upperGammaThirdMoment_firstBranch_scaled_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/4c9cc679-2640-4b1c-b347-e1504adfede7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunFinitePermutationMarkovMass_realPermutationMarkov_iterate_indicator_mem_unitInterval
 -- name    : SoficGroups.KunFinitePermutationMarkovMass.realPermutationMarkov_iterate_indicator_mem_unitInterval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/2750e644-89d4-4e3c-8d8b-14f568a878e9

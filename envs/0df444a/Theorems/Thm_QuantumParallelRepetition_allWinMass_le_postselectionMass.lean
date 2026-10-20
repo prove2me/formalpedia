@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_allWinMass_le_postselectionMass
 -- name    : QuantumParallelRepetition.allWinMass_le_postselectionMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/6d9b685d-5dff-4ed7-a5f9-11a3fa5b83ed

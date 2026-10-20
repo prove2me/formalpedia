@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_compactPolarDomain_subset_polarTarget
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.compactPolarDomain_subset_polarTarget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/f898b6fa-782c-4a2e-8190-75bd184ae893

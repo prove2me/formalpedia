@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_fixedLevelHierarchyCodeBound_of_positiveTerminal
 -- name    : MetricCodes.Spherical.HigherHierarchy.fixedLevelHierarchyCodeBound_of_positiveTerminal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/aef23739-3bf8-42bb-a05c-869da8ff8795

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CheegerPoincare_sum_sq_sub_finiteMean_le
 -- name    : SoficGroups.CheegerPoincare.sum_sq_sub_finiteMean_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/bc513f8a-58f7-4926-89c3-037117038618

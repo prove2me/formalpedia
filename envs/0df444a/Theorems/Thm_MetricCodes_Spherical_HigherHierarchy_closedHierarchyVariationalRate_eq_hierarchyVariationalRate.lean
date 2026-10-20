@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_closedHierarchyVariationalRate_eq_hierarchyVariationalRate
 -- name    : MetricCodes.Spherical.HigherHierarchy.closedHierarchyVariationalRate_eq_hierarchyVariationalRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/aef50893-a17c-4408-9df9-77f8d1152cc4

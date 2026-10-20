@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_tendsto_norm_pairedDefectWordAverage_of_gram
 -- name    : SoficGroups.KunRootedWordPower.tendsto_norm_pairedDefectWordAverage_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/40e2a671-a3f9-49b1-af63-e28bd8fe0df0

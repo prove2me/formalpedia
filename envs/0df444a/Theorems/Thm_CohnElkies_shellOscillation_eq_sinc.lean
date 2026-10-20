@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_shellOscillation_eq_sinc
 -- name    : CohnElkies.shellOscillation_eq_sinc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/2cd233f7-7acd-4c44-a19a-6c630060af61

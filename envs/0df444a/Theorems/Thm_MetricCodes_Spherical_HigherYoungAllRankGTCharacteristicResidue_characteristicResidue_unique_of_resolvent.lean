@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTCharacteristicResidue_characteristicResidue_unique_of_resolvent
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue.characteristicResidue_unique_of_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/d12d5751-f37e-4122-be7a-9f4a5acc0bf4

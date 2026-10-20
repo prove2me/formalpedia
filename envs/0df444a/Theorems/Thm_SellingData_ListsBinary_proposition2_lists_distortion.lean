@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_ListsBinary_proposition2_lists_distortion
 -- name    : SellingData.ListsBinary.proposition2_lists_distortion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:49.352751+00:00
 -- url     : https://prove2.me/theorems/7aa614c0-619e-4838-bf9b-dc1df5abc39f

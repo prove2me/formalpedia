@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_integral_event_indicator
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_integral_event_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/103437e7-2bdf-4ea1-afe0-14999f15af67

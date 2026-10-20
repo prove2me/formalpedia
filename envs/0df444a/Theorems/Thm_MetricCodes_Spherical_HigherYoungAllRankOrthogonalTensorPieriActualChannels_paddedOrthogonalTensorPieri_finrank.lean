@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalTensorPieriActualChannels_paddedOrthogonalTensorPieri_finrank
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels.paddedOrthogonalTensorPieri_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/1def4cff-c173-4cb9-aae0-dd467205590f

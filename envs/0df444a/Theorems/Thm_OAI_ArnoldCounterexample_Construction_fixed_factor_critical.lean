@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArnoldCounterexample_Construction_fixed_factor_critical
 -- name    : OAI.ArnoldCounterexample.Construction.fixed_factor_critical
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:42:07.848997+00:00
 -- url     : https://prove2.me/theorems/646dfa2f-d51e-478d-a178-9f12804111f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_log_entropyTangentSigma
 -- name    : TwoDegenerateGraphs.log_entropyTangentSigma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/d12c3a18-8079-466b-baf6-d4b7b683ef56

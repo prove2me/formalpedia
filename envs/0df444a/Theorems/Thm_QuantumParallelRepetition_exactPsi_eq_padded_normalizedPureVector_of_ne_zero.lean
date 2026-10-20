@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactPsi_eq_padded_normalizedPureVector_of_ne_zero
 -- name    : QuantumParallelRepetition.exactPsi_eq_padded_normalizedPureVector_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/c1d1a27f-3284-46a8-a7ef-068fca22e729

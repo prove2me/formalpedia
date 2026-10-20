@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_nonbacktrackingThreePathEndpoint_injective
 -- name    : CompactnessConjecture.nonbacktrackingThreePathEndpoint_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/f522c9bc-5205-45ec-b16c-84b270851357

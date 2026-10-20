@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularWeightedCellScalar_inner_eq_unweighted
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularWeightedCellScalar_inner_eq_unweighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/b570d175-2a76-46af-a18e-621a99f16c42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_contract_terms_exist
 -- name    : TokenFinance.MoralHazard.contract_terms_exist
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:27.567358+00:00
 -- url     : https://prove2.me/theorems/35b8a944-9403-4871-a647-c38afc67a88b

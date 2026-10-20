@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousClosedResolventAdjoint_coverFormAdjoint_angularGraphMollifiedPhysicalWeakResolvent_eq
 -- name    : Ehrhart.TorusHomogeneousClosedResolventAdjoint.coverFormAdjoint_angularGraphMollifiedPhysicalWeakResolvent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/2eebfac1-10bb-4d45-bd0a-48b67b40f9a0

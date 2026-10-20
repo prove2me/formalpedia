@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperImaginaryExp_quadratic_remainder_norm_le_of_nonneg
 -- name    : CohnElkies.upperImaginaryExp_quadratic_remainder_norm_le_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/b9ecd067-92c8-4120-874e-82ce11ed8524

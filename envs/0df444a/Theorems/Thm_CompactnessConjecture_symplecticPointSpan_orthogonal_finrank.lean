@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticPointSpan_orthogonal_finrank
 -- name    : CompactnessConjecture.symplecticPointSpan_orthogonal_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/a0282eb5-0386-40a0-9f1f-0ca57cf9672a

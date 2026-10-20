@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_weightedScalarFundamentalLiftLI_ae_eq
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.weightedScalarFundamentalLiftLI_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/15325f2f-82ce-4d5b-acff-df8cd5959a3c

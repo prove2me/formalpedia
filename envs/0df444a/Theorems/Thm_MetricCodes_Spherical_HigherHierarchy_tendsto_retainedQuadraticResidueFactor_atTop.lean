@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_retainedQuadraticResidueFactor_atTop
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_retainedQuadraticResidueFactor_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/7bd9936f-7e9e-47c2-8cd3-9531a696fb2f

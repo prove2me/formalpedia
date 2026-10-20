@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankOrthogonalTensorPieriDimension_orthogonalJacobiTrudiMatrix_lastRow_delta
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalTensorPieriDimension.orthogonalJacobiTrudiMatrix_lastRow_delta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/6ad740da-4127-4d83-877e-cb8faa868f4a

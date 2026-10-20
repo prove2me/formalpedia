@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicTimeDerivativeBounds_sourceJointTimeEmbedding_sub_eq_add_realTimeShift
 -- name    : Ehrhart.BergmanJetJointHolomorphicTimeDerivativeBounds.sourceJointTimeEmbedding_sub_eq_add_realTimeShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/19e4fe10-56a4-4ec3-851d-aa7ae777b942

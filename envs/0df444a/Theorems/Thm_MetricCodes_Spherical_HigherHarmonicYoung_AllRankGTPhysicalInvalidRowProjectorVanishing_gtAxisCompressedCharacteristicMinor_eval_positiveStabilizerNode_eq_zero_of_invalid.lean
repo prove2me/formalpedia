@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalInvalidRowProjectorVanishing_gtAxisCompressedCharacteristicMinor_eval_positiveStabilizerNode_eq_zero_of_invalid
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalInvalidRowProjectorVanishing.gtAxisCompressedCharacteristicMinor_eval_positiveStabilizerNode_eq_zero_of_invalid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/69149c6b-84ea-463f-9a7e-a86ff6903098

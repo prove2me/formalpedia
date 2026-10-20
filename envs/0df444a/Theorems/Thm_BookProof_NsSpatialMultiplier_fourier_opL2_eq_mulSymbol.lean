@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsSpatialMultiplier_fourier_opL2_eq_mulSymbol
 -- name    : BookProof.NsSpatialMultiplier.fourier_opL2_eq_mulSymbol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:43:04.701646+00:00
 -- url     : https://prove2.me/theorems/5c152ad8-f742-4b4d-adfe-e43623c3b367

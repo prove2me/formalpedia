@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentInteriorLegendre_locallyLipschitzOn_finiteEnergySourceLegendre_interior
 -- name    : Ehrhart.MomentInteriorLegendre.locallyLipschitzOn_finiteEnergySourceLegendre_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/d4f18e62-61eb-4fc8-841a-29871efd4b6a

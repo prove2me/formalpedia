@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Cotype_mainTarget_proved
 -- name    : OAI.Cotype.mainTarget_proved
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:29.715573+00:00
 -- url     : https://prove2.me/theorems/c006ad59-1699-42d6-b2d3-bb1349b323dc

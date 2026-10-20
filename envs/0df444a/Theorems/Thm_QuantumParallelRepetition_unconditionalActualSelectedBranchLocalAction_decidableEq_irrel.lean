@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualSelectedBranchLocalAction_decidableEq_irrel
 -- name    : QuantumParallelRepetition.unconditionalActualSelectedBranchLocalAction_decidableEq_irrel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/09a52450-0574-4157-87b6-cb84a1ba8b20

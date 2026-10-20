@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_not_erdos_146
 -- name    : TwoDegenerateGraphs.not_erdos_146
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/dcb7cccf-8549-4d32-8ce1-914a19f5cda0

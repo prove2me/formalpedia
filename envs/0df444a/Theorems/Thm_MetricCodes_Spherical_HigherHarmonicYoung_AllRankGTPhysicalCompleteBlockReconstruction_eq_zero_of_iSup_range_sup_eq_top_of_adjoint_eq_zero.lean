@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalCompleteBlockReconstruction_eq_zero_of_iSup_range_sup_eq_top_of_adjoint_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalCompleteBlockReconstruction.eq_zero_of_iSup_range_sup_eq_top_of_adjoint_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/8ad7e14e-344c-4cb8-8754-3ff571663d16

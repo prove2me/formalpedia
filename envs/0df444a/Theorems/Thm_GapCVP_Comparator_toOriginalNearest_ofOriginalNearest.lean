@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_toOriginalNearest_ofOriginalNearest
 -- name    : GapCVP.Comparator.toOriginalNearest_ofOriginalNearest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/8738e188-46b4-402a-b3c0-c840d50c5812

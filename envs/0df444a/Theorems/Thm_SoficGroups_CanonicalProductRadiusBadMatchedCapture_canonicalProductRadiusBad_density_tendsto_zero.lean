@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CanonicalProductRadiusBadMatchedCapture_canonicalProductRadiusBad_density_tendsto_zero
 -- name    : SoficGroups.CanonicalProductRadiusBadMatchedCapture.canonicalProductRadiusBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/4617af67-4f02-40cc-9406-145ddfdb32ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBasis_bergmanDimension_le_momentJetFiltration_add_jetCount
 -- name    : Ehrhart.BergmanJetBasis.bergmanDimension_le_momentJetFiltration_add_jetCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/50198470-3797-448d-94f4-0fc680ba8653

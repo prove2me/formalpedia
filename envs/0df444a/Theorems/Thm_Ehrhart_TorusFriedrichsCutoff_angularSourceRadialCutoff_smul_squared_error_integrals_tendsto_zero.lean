@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsCutoff_angularSourceRadialCutoff_smul_squared_error_integrals_tendsto_zero
 -- name    : Ehrhart.TorusFriedrichsCutoff.angularSourceRadialCutoff_smul_squared_error_integrals_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/31f928e0-0687-467b-a142-56199949c9d0

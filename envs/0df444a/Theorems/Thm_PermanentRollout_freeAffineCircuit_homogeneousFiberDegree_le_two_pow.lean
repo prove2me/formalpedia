@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuit_homogeneousFiberDegree_le_two_pow
 -- name    : PermanentRollout.freeAffineCircuit_homogeneousFiberDegree_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/1a9701f5-e062-40e2-a864-e61c3e72ad18

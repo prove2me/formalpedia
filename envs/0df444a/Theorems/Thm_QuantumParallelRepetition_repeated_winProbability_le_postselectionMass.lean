@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_repeated_winProbability_le_postselectionMass
 -- name    : QuantumParallelRepetition.repeated_winProbability_le_postselectionMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/93c707c2-652d-473b-86bd-e0496421921b

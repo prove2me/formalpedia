@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localizedHierarchyRate_lt_level_one_of_level_two
 -- name    : MetricCodes.Spherical.HigherHierarchy.localizedHierarchyRate_lt_level_one_of_level_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/b9fcb977-ddd4-40fe-8494-8caa25c745e6

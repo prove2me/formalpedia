@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCartanCharacteristicInterpolation_cartanCharacteristicInterpolationBasis_mul_eq_nodal
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation.cartanCharacteristicInterpolationBasis_mul_eq_nodal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/c9895f0a-06fb-4cc5-9d90-709967745aa5

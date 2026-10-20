@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhase_eq_logAtom_sum
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhase_eq_logAtom_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/a79de187-d0c2-48c3-a51b-dcc2dc5be7aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_finite_of_totalDegree_power_reductions
 -- name    : PermanentRollout.finite_of_totalDegree_power_reductions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/491f5616-a7cb-4ae6-8eba-7461d2963050

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoopetSourcing_WholesalePrice_proposition_4
 -- name    : CoopetSourcing.WholesalePrice.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:52:12.22798+00:00
 -- url     : https://prove2.me/theorems/563a8266-6caa-4085-b8fc-ec62f7b18a64

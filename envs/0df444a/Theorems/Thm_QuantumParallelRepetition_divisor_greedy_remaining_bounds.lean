@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_divisor_greedy_remaining_bounds
 -- name    : QuantumParallelRepetition.divisor_greedy_remaining_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/0639a9c3-e17c-47af-b946-54bfedb7dd78

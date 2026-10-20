@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_blowup_isOriented
 -- name    : OAI.SeymourSecondNeighborhood.blowup_isOriented
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:07:06.578637+00:00
 -- url     : https://prove2.me/theorems/e03319e7-11df-4d41-a8e2-6b32c03fc02f

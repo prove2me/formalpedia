@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_barPartial_weightedHolomorphicDerivative_commutator
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.barPartial_weightedHolomorphicDerivative_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/c7cf11cf-d9e5-4215-a251-80da00575c6f

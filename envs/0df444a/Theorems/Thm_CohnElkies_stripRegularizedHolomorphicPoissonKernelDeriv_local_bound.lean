@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripRegularizedHolomorphicPoissonKernelDeriv_local_bound
 -- name    : CohnElkies.stripRegularizedHolomorphicPoissonKernelDeriv_local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/392d16ab-f3be-494b-8ccd-dc5be3e1203c

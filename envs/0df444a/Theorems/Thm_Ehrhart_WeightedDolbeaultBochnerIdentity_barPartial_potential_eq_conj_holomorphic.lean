@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_barPartial_potential_eq_conj_holomorphic
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.barPartial_potential_eq_conj_holomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/6c0a757d-8773-460f-80de-8d552c0f07b0

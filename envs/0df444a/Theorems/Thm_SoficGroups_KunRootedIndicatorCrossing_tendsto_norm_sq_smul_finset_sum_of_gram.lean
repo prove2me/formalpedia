@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_tendsto_norm_sq_smul_finset_sum_of_gram
 -- name    : SoficGroups.KunRootedIndicatorCrossing.tendsto_norm_sq_smul_finset_sum_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/b5e6dc71-5695-4506-82c6-b8ee9a418b15

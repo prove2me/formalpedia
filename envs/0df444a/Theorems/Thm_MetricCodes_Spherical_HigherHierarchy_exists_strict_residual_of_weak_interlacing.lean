@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_strict_residual_of_weak_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_strict_residual_of_weak_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/8f3d7f21-7174-483d-ae9e-99e73d0554ae

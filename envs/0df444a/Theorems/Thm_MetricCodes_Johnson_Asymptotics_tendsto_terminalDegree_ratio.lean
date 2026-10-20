@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_terminalDegree_ratio
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_terminalDegree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/39fa19e9-bae4-41d3-b63f-a4c89f854407

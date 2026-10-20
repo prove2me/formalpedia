@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_spectralAtom_sq_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_spectralAtom_sq_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/99498942-363a-4f3c-aada-a2b3c95210e7

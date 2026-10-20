@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperFirstBranchSaddleDamping_lower_bound
 -- name    : CohnElkies.upperFirstBranchSaddleDamping_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/ec6d4dde-caf3-499c-98d3-f88ae3b11e00

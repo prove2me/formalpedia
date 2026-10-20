@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripBottomMass_pos
 -- name    : CohnElkies.stripBottomMass_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/745bee7a-0dcc-4856-9044-5b98414ff459

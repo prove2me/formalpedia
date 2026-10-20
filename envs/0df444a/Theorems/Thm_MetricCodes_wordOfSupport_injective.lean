@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_wordOfSupport_injective
 -- name    : MetricCodes.wordOfSupport_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/fe2fa9a1-12e2-4ab8-8f42-6818172240fa

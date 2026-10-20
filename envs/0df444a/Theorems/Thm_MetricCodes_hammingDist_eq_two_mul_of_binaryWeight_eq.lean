@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_hammingDist_eq_two_mul_of_binaryWeight_eq
 -- name    : MetricCodes.hammingDist_eq_two_mul_of_binaryWeight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/f165afc9-e52b-44c8-99a6-caf1655c3635

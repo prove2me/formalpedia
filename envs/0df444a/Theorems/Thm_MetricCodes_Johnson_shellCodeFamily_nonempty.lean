@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_shellCodeFamily_nonempty
 -- name    : MetricCodes.Johnson.shellCodeFamily_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/498fae5f-90b6-40b9-8022-ed57668b41eb

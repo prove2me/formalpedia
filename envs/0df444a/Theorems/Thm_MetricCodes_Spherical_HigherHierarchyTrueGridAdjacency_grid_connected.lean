@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyTrueGridAdjacency_grid_connected
 -- name    : MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency.grid_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/e4393e64-5caa-4529-b2c1-124b37214080

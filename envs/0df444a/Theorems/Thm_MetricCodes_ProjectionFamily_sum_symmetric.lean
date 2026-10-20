@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_ProjectionFamily_sum_symmetric
 -- name    : MetricCodes.ProjectionFamily.sum_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/d21a5323-f051-4d71-9656-b6dd10fc50d6

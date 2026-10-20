@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_booleanWordsOfWeight_card
 -- name    : TwoDegenerateGraphs.booleanWordsOfWeight_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/4a200a61-5b0d-4dcf-8a27-2b8957c75b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_axis_cell_cover_index_mem
 -- name    : PeriodicConstantApprox.axis_cell_cover_index_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/036411fd-ca6d-41c1-b17e-0178bdc89d78

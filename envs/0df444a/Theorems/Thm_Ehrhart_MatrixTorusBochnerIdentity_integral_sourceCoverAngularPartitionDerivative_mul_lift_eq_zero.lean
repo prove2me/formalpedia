@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_integral_sourceCoverAngularPartitionDerivative_mul_lift_eq_zero
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.integral_sourceCoverAngularPartitionDerivative_mul_lift_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/99d12810-921b-4017-97ce-e84e28913c6c

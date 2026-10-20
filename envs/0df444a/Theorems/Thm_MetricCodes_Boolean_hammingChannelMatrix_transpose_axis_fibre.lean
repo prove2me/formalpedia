@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingChannelMatrix_transpose_axis_fibre
 -- name    : MetricCodes.Boolean.hammingChannelMatrix_transpose_axis_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/a869526d-d34f-4e60-a0fe-42f3332cb937

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingExpectedRetainedVertexCount_tendsto_atTop
 -- name    : TwoDegenerateGraphs.hammingExpectedRetainedVertexCount_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/3e4e5eb7-9442-4a69-b5de-b58f6e6c8eb6

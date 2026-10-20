@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionLine_pair_incidence
 -- name    : CompactnessConjecture.subdivisionLine_pair_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/d3a50715-0dc2-44fa-9d30-bb310ce8f798

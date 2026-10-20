@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicApproximation_momentWeakJointCoverUpperEnvelope_le_trueRadialMollification
 -- name    : Ehrhart.BergmanJetJointHolomorphicApproximation.momentWeakJointCoverUpperEnvelope_le_trueRadialMollification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/7b0df764-2adb-42e2-9dfa-97396d112d18

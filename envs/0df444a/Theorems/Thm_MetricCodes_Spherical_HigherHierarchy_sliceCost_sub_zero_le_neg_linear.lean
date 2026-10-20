@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sliceCost_sub_zero_le_neg_linear
 -- name    : MetricCodes.Spherical.HigherHierarchy.sliceCost_sub_zero_le_neg_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/67309f34-8169-4b48-be59-c5a7f5d57777

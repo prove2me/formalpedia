@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankActualProjectedAxisCompletion_fixedLevelHierarchyCodeBound_of_actualCharacteristicMinor
 -- name    : MetricCodes.Spherical.HigherYoungAllRankActualProjectedAxisCompletion.fixedLevelHierarchyCodeBound_of_actualCharacteristicMinor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/ae673f14-5396-4dd6-b929-a87f8c167b72

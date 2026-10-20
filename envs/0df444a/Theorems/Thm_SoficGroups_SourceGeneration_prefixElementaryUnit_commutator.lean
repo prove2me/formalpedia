@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_prefixElementaryUnit_commutator
 -- name    : SoficGroups.SourceGeneration.prefixElementaryUnit_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/17d46884-744e-4b10-94d2-2d8664ce377c

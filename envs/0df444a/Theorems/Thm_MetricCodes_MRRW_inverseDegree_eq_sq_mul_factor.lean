@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_inverseDegree_eq_sq_mul_factor
 -- name    : MetricCodes.MRRW.inverseDegree_eq_sq_mul_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/3f73dee2-2847-4515-bb55-1c4e8b1d9140

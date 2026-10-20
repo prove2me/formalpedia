@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_fixedLevelCompactifiedCertificateClosure_of_forward_residual_and_realization
 -- name    : MetricCodes.Spherical.HigherHierarchy.fixedLevelCompactifiedCertificateClosure_of_forward_residual_and_realization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/a5e40334-1527-4ece-b22b-3d18bb7bcbac

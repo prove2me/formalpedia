@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockVariables_div_four
 -- name    : PermanentRollout.blockVariables_div_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/4870c702-4c33-4552-9490-936283c755e8

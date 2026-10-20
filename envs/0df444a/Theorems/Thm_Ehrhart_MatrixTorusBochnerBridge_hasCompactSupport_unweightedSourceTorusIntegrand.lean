@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_hasCompactSupport_unweightedSourceTorusIntegrand
 -- name    : Ehrhart.MatrixTorusBochnerBridge.hasCompactSupport_unweightedSourceTorusIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/ee3fe930-519f-49b8-9486-98d5a2642ba2

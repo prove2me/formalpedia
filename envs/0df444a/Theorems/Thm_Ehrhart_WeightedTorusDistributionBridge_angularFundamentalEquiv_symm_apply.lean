@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_angularFundamentalEquiv_symm_apply
 -- name    : Ehrhart.WeightedTorusDistributionBridge.angularFundamentalEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/83c3686e-7087-4116-a389-26b0d877af50

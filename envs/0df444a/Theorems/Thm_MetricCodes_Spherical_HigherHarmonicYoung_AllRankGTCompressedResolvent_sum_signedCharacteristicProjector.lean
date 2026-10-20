@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCompressedResolvent_sum_signedCharacteristicProjector
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent.sum_signedCharacteristicProjector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/99702ad3-d8b8-4873-ae5e-c63a38ef2c98

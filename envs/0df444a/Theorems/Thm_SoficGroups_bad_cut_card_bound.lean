@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_bad_cut_card_bound
 -- name    : SoficGroups.bad_cut_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/aa6bc0e6-5473-4156-b0c4-e3fb024a4c18

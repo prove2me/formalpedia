@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_encodeFormulaFrom_complete
 -- name    : GapCVP.ThreeCNFReduction.encodeFormulaFrom_complete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/0e270797-ed73-4957-9677-5623d764f3e8

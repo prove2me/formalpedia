@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_upper_shortShellThirdMoment_domination
 -- name    : CohnElkies.eventually_upper_shortShellThirdMoment_domination
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/facb10c4-cf00-4140-aa98-25f2c7694c04

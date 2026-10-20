@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_halfInteger_antitoneOn
 -- name    : CohnElkies.lowerGammaBoundaryLog_halfInteger_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/4dc307f8-1023-4677-89bf-28b60209e9db

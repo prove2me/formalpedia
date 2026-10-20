@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_shellChoose
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_shellChoose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/9a248a4a-9e0b-44fa-a9b0-79e4dfabe821

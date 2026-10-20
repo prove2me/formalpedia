@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_rateSet_bddBelow
 -- name    : MetricCodes.Hamming.rateSet_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/a03a4a80-95f0-45c7-895f-e662b6e64c70

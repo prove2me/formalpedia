@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticCanonicalLines_disjoint
 -- name    : CompactnessConjecture.symplecticCanonicalLines_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/a409c02b-7d47-43ce-94fa-193fa36c55a8

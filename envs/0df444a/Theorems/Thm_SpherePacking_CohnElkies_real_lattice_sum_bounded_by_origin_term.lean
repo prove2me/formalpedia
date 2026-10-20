@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_CohnElkies_real_lattice_sum_bounded_by_origin_term
 -- name    : SpherePacking.CohnElkies.real_lattice_sum_bounded_by_origin_term
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/f023fd33-9125-4768-94ea-353ee65215f6

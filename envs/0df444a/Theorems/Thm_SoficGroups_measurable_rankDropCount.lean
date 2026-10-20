@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_measurable_rankDropCount
 -- name    : SoficGroups.measurable_rankDropCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/70ac9da5-b10a-4572-a127-821cc6b561bc

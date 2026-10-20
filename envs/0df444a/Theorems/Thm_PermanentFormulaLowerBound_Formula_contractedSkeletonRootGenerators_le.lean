@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_contractedSkeletonRootGenerators_le
 -- name    : PermanentFormulaLowerBound.Formula.contractedSkeletonRootGenerators_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/bd82fde6-9080-4810-959f-908087086935

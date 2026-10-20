@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_terminalEdgeRayleigh
 -- name    : MetricCodes.Hamming.tendsto_terminalEdgeRayleigh
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/4d37d46c-1b13-4e38-9f31-ceb46ad17652

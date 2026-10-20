@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_four_cycle_free
 -- name    : CompactnessConjecture.symplecticQuadrangle_four_cycle_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/973a8aa7-9d87-4dee-9c24-64de97fa1cc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_ProjectionFamily_overlap_eq_trace_sq
 -- name    : MetricCodes.ProjectionFamily.overlap_eq_trace_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/11588af9-80e0-48b7-a96f-1a793babedf1

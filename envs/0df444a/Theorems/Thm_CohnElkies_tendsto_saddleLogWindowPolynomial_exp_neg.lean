@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_saddleLogWindowPolynomial_exp_neg
 -- name    : CohnElkies.tendsto_saddleLogWindowPolynomial_exp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/c60fb51d-3b94-4798-b546-cc21aec7a64a

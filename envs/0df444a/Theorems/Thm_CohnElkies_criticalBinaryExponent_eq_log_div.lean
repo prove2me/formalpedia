@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_criticalBinaryExponent_eq_log_div
 -- name    : CohnElkies.criticalBinaryExponent_eq_log_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/fa63f490-2a44-4144-afda-87b632853c0f

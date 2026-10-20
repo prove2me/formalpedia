@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicApproximation_integrable_momentWeakHolomorphicJointRadialEnvelopeCircleAverage
 -- name    : Ehrhart.BergmanJetJointHolomorphicApproximation.integrable_momentWeakHolomorphicJointRadialEnvelopeCircleAverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/8b562cfe-b253-4b23-9400-75a15d581e16

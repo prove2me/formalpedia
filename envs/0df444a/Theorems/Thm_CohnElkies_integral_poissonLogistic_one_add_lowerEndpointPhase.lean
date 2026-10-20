@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_poissonLogistic_one_add_lowerEndpointPhase
 -- name    : CohnElkies.integral_poissonLogistic_one_add_lowerEndpointPhase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/82d91a74-9244-422a-aab5-df7cbe819d94

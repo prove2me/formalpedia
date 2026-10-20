@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_combinedVariationalRate_le_hamming
 -- name    : MetricCodes.Johnson.combinedVariationalRate_le_hamming
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/886db9aa-72c0-432e-a337-4beeedb84453

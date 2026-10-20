@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunLiteralNineSourceCompletedCentralizerModels_sourceAmbientFiniteFamily_crossing_density_tendsto_zero
 -- name    : SoficGroups.KunLiteralNineSourceCompletedCentralizerModels.sourceAmbientFiniteFamily_crossing_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/8b42f508-832f-4c2e-98b2-4bae3d049325

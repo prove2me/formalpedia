@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperCosLaplaceKernel_eq_frullani_re
 -- name    : CohnElkies.upperCosLaplaceKernel_eq_frullani_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/b1d0adff-739d-42c8-8c34-1c061129ba00

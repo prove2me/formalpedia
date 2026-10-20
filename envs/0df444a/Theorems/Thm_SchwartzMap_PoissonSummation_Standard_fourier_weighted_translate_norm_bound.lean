@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_fourier_weighted_translate_norm_bound
 -- name    : SchwartzMap.PoissonSummation.Standard.fourier_weighted_translate_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/0407967d-70a3-405f-ab1b-2b76d0cb77c3

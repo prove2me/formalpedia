@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_tendsto_log_fixedTail_choose_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.tendsto_log_fixedTail_choose_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/8d056289-3162-49d1-9db8-5caa5c2a0d89

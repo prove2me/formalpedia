@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactified_certificate_threshold_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactified_certificate_threshold_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/8a22259f-8d1c-457d-a879-576d7b6daa2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_integrable_of_continuous_compact_cover
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.integrable_of_continuous_compact_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/d471b037-07c2-4820-99a5-8df02eb0b29a

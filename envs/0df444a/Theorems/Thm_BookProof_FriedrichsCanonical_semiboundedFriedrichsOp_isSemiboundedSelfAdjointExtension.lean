@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_semiboundedFriedrichsOp_isSemiboundedSelfAdjointExtension
 -- name    : BookProof.FriedrichsCanonical.semiboundedFriedrichsOp_isSemiboundedSelfAdjointExtension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:38:41.261782+00:00
 -- url     : https://prove2.me/theorems/b265d335-5a96-4589-9100-b844887d2e07

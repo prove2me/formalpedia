@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_log_harmonicDimensionQuotient
 -- name    : SpherePacking.tendsto_log_harmonicDimensionQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/2744d476-6f60-4710-aeac-129bdcfb990b

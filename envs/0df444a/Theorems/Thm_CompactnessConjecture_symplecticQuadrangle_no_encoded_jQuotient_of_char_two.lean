@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_no_encoded_jQuotient_of_char_two
 -- name    : CompactnessConjecture.symplecticQuadrangle_no_encoded_jQuotient_of_char_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/acbbc52b-7da9-487a-93af-29ef35b6f14a

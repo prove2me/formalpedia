@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_cgpCompactAttainment
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.cgpCompactAttainment
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:38:48.564742+00:00
 -- url     : https://prove2.me/theorems/2fc1c530-c64d-433a-99ec-0c522433df96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBrascampLieb_radialZeroGraph_weightOne_eq_constantMonomial
 -- name    : Ehrhart.WeightedTorusBrascampLieb.radialZeroGraph_weightOne_eq_constantMonomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/2cc3bdcc-8037-4085-97da-7bb4f834c168

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_weighted_gram_sum_eq_norm_sq
 -- name    : SpherePacking.weighted_gram_sum_eq_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/3ab0ecab-25c3-44c1-ae45-e8c28b7fc710

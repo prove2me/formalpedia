@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_convex_centeredSimplex
 -- name    : Ehrhart.Geometry.convex_centeredSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/c030facc-d176-408f-b59d-c8b1dc954f52

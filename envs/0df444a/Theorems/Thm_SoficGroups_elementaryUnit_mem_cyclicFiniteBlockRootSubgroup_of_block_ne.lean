@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_elementaryUnit_mem_cyclicFiniteBlockRootSubgroup_of_block_ne
 -- name    : SoficGroups.elementaryUnit_mem_cyclicFiniteBlockRootSubgroup_of_block_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/6ee6f580-9137-418c-b437-1db615967bee

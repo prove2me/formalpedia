@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_FreeAffineInstruction_eval_substituteInputs
 -- name    : PermanentRollout.FreeAffineInstruction.eval_substituteInputs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/0901b7e4-d3c5-414b-9fe7-b3a689c0834c

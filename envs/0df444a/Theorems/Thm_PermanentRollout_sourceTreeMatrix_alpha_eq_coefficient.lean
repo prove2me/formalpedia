@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeMatrix_alpha_eq_coefficient
 -- name    : PermanentRollout.sourceTreeMatrix_alpha_eq_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/9c21c784-c16e-4b62-aca3-279c1fd9f5a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P47_induced_statistical_joint_convexity
 -- name    : QAlgorithms.Papers.Independent.Information100.P47.induced_statistical_joint_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:37:18.241405+00:00
 -- url     : https://prove2.me/theorems/19200c1a-7e63-46bc-a794-ecd8d6797c83

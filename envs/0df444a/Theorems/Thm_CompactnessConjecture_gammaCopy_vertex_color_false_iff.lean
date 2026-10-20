@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gammaCopy_vertex_color_false_iff
 -- name    : CompactnessConjecture.gammaCopy_vertex_color_false_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/46385393-1b25-4309-9823-3f6515b7f33e

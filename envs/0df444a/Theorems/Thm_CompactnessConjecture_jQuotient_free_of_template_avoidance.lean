@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_jQuotient_free_of_template_avoidance
 -- name    : CompactnessConjecture.jQuotient_free_of_template_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/785bb436-cd24-48b7-bd41-2b9f2a271b37

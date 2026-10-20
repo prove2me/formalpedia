@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTWallFullTransverseFactorization_gtWallCanonicalFullBranchFibre_range_eq_fullBranch
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallFullTransverseFactorization.gtWallCanonicalFullBranchFibre_range_eq_fullBranch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/c779a9a2-4c6d-4ee2-8baf-9bd11e7ef855

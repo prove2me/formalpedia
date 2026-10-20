@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_run_potential
 -- name    : PermanentRollout.ReverseAdjoint.run_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/c2c5729b-d50d-42c8-97bd-a72d90e8bd0b

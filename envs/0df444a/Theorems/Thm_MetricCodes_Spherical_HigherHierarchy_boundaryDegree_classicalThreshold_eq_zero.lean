@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_boundaryDegree_classicalThreshold_eq_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.boundaryDegree_classicalThreshold_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/8184d316-a0d4-4612-9bcb-cb29ab06f841

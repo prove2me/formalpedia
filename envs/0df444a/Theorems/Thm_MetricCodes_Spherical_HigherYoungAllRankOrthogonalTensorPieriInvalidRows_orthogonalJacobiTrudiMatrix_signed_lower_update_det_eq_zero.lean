@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalTensorPieriInvalidRows_orthogonalJacobiTrudiMatrix_signed_lower_update_det_eq_zero
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriInvalidRows.orthogonalJacobiTrudiMatrix_signed_lower_update_det_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/0d0e4ad9-26a9-4abd-bce2-4d2514017a14

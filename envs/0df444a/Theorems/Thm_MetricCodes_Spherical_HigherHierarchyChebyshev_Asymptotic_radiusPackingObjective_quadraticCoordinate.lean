@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_radiusPackingObjective_quadraticCoordinate
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.radiusPackingObjective_quadraticCoordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/3c3c816b-dfc1-45c8-b1a3-41888580b0f1

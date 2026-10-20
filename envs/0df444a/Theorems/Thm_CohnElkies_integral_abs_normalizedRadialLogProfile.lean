@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_abs_normalizedRadialLogProfile
 -- name    : CohnElkies.integral_abs_normalizedRadialLogProfile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/b38749b2-cb1c-41a9-8e19-f5482a5117c5

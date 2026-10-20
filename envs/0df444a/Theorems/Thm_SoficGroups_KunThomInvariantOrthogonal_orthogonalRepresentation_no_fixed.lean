@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_orthogonalRepresentation_no_fixed
 -- name    : SoficGroups.KunThomInvariantOrthogonal.orthogonalRepresentation_no_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/5cbafd3e-91c4-4702-b05e-679fa2de5cec

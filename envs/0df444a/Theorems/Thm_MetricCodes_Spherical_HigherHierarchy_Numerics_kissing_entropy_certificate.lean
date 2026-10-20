@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Numerics_kissing_entropy_certificate
 -- name    : MetricCodes.Spherical.HigherHierarchy.Numerics.kissing_entropy_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/42775e7e-69b9-4694-83d1-3c7daa1cd130

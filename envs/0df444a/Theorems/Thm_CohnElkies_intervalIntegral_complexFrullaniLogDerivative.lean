@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_intervalIntegral_complexFrullaniLogDerivative
 -- name    : CohnElkies.intervalIntegral_complexFrullaniLogDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/e1f8ec52-61cd-4c13-bb84-81a24db61895

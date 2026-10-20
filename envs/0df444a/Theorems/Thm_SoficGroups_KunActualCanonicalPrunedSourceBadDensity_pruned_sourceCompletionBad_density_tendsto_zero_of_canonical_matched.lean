@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualCanonicalPrunedSourceBadDensity_pruned_sourceCompletionBad_density_tendsto_zero_of_canonical_matched
 -- name    : SoficGroups.KunActualCanonicalPrunedSourceBadDensity.pruned_sourceCompletionBad_density_tendsto_zero_of_canonical_matched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/192517b9-cef6-45f8-bcde-7ffe1b241166

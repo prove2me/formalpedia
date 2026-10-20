@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_hasDerivAt_negMulLog_inverseDegree_zero
 -- name    : MetricCodes.MRRW.hasDerivAt_negMulLog_inverseDegree_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/1b37eb7b-d993-449f-a763-b30d99172cf5

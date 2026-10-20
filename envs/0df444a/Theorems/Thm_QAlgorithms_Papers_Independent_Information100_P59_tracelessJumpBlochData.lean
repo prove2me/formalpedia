@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P59_tracelessJumpBlochData
 -- name    : QAlgorithms.Papers.Independent.Information100.P59.tracelessJumpBlochData
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:26:41.086756+00:00
 -- url     : https://prove2.me/theorems/1f82e79e-03aa-427f-9bd2-9edf75d2242d

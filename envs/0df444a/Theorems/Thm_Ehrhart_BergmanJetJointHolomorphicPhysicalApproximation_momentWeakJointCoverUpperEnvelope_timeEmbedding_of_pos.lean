@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhysicalApproximation_momentWeakJointCoverUpperEnvelope_timeEmbedding_of_pos
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhysicalApproximation.momentWeakJointCoverUpperEnvelope_timeEmbedding_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/e5781a1f-4446-4a5b-9567-f8c9c7f8e1fa

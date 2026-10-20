@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Esgk_distinct_distances_one_sixth_excess
 -- name    : Esgk.distinct_distances_one_sixth_excess
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-09-12T19:30:17.986962+00:00
 -- url     : https://prove2.me/theorems/a82db177-9597-4798-9ad3-3198c09633ac

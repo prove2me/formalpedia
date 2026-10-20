@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_translatedRealKernel_contDiff
 -- name    : Ehrhart.DolbeaultRegularity.translatedRealKernel_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/59c4ae4e-d08c-4fa8-850d-5aa7a08e55fb

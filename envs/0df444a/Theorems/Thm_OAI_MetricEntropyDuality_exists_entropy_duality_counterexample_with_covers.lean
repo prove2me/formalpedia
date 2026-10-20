@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MetricEntropyDuality_exists_entropy_duality_counterexample_with_covers
 -- name    : OAI.MetricEntropyDuality.exists_entropy_duality_counterexample_with_covers
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:56.5357+00:00
 -- url     : https://prove2.me/theorems/acb08ed3-6597-49af-a954-c558a2a5cc98

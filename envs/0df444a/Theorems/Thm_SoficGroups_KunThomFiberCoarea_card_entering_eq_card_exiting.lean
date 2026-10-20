@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_card_entering_eq_card_exiting
 -- name    : SoficGroups.KunThomFiberCoarea.card_entering_eq_card_exiting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/2867eebd-ba20-444d-b941-3ecab5d65bfc

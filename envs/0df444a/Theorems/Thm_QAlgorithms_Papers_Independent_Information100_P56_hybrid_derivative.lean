@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_hybrid_derivative
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.hybrid_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:24:31.694618+00:00
 -- url     : https://prove2.me/theorems/761b1cf5-d706-4be9-840a-a264e91bd04e

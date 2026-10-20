@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscript_pi_gt_d40
 -- name    : CohnElkies.manuscript_pi_gt_d40
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/3c55a1f3-2bac-4d4f-9df0-300db19f5133

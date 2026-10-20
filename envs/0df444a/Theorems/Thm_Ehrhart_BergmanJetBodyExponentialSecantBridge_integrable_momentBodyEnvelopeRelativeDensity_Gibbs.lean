@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyExponentialSecantBridge_integrable_momentBodyEnvelopeRelativeDensity_Gibbs
 -- name    : Ehrhart.BergmanJetBodyExponentialSecantBridge.integrable_momentBodyEnvelopeRelativeDensity_Gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/e4763877-fa0f-4f20-8592-54bae1cacb1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceTorusCoverPoint_mem_shrinkingBall_of_mem_box
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceTorusCoverPoint_mem_shrinkingBall_of_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/a0aa9cdb-4cfd-4ef9-b574-570fcc239d95

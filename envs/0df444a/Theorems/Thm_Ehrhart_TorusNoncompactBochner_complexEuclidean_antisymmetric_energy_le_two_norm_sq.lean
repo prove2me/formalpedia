@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusNoncompactBochner_complexEuclidean_antisymmetric_energy_le_two_norm_sq
 -- name    : Ehrhart.TorusNoncompactBochner.complexEuclidean_antisymmetric_energy_le_two_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/9c8a4ebb-da17-48a2-b7b9-7c14b45d4a09

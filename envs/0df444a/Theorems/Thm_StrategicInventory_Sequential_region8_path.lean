@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicInventory_Sequential_region8_path
 -- name    : StrategicInventory.Sequential.region8_path
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T05:19:12.864494+00:00
 -- url     : https://prove2.me/theorems/6ccab412-0fb0-4505-a667-b62d4b2e420d

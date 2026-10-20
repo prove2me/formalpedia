@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckPeriodization_exists_finite_complexDeckPeriodization_support_near
 -- name    : Ehrhart.TorusDeckPeriodization.exists_finite_complexDeckPeriodization_support_near
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/cde3ec18-e673-4172-b1ec-2a807a30bf71

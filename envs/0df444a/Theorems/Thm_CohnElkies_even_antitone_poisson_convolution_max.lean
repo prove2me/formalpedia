@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_even_antitone_poisson_convolution_max
 -- name    : CohnElkies.even_antitone_poisson_convolution_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/61116639-6b32-432e-93db-67650d57c547

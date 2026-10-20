@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialMellinStrip_bottom_norm_le_gamma
 -- name    : CohnElkies.normalizedRadialMellinStrip_bottom_norm_le_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/b8c893c4-92e9-448f-9cc8-f751b021f918

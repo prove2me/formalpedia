@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_directDSVActualReindexedWinningEffect_quadratic
 -- name    : QuantumParallelRepetition.directDSVActualReindexedWinningEffect_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/674ea02c-59e6-45d6-849d-772574b0df7f

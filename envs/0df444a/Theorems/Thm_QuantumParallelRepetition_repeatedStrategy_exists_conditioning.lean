@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_repeatedStrategy_exists_conditioning
 -- name    : QuantumParallelRepetition.repeatedStrategy_exists_conditioning
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/edbcadff-efa7-4b47-8fc9-ab62a8ddd88c

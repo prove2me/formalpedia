@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyVariationalRate_le_localizedEnvelope_of_transfer
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyVariationalRate_le_localizedEnvelope_of_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/09718e06-10b8-4696-9794-00d21605f624

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceRadius_log_coverage
 -- name    : CohnElkies.eventually_saddleSourceRadius_log_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/75de11d5-be53-494b-99fa-4d5c5fbeaef8

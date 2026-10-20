@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_FiniteEventLaw_exists_conditioned_win_set
 -- name    : QuantumParallelRepetition.FiniteEventLaw.exists_conditioned_win_set
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/365aa471-e5bd-46c8-b285-d11204d9219b

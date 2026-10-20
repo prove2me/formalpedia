@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_weightedTorusMeasure_isLocallyFinite
 -- name    : Ehrhart.WeightedTorusDistributionBridge.weightedTorusMeasure_isLocallyFinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/1bdfeda2-bfa3-419d-9abe-89898fa9c063

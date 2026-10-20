@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_badIndependentTripleWitness_card
 -- name    : CompactnessConjecture.badIndependentTripleWitness_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/2705296d-c277-49a9-9466-572af58e6eb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quadrangle_prime_power_bracketing
 -- name    : CompactnessConjecture.quadrangle_prime_power_bracketing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/7beab700-e0e2-43a2-b03f-2b879eb8bb3e

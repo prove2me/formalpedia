@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_slicedGradientPolynomial_eval
 -- name    : PermanentRollout.slicedGradientPolynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/44b0e60f-aa71-488c-b7c4-c6fec2043879

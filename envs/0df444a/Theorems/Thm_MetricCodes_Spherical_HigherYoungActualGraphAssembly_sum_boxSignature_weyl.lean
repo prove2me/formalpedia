@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungActualGraphAssembly_sum_boxSignature_weyl
 -- name    : MetricCodes.Spherical.HigherYoungActualGraphAssembly.sum_boxSignature_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/5d23f29b-cc28-4eef-8fd1-591140883dd0

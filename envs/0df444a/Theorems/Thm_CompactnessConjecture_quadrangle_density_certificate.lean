@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quadrangle_density_certificate
 -- name    : CompactnessConjecture.quadrangle_density_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/204b36c6-d1ff-4e48-b430-d11e14e517c5

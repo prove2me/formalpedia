@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptExtremalPower_pos
 -- name    : TwoDegenerateGraphs.manuscriptExtremalPower_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/499b22d5-7804-4bf5-9acf-3087493e45e5

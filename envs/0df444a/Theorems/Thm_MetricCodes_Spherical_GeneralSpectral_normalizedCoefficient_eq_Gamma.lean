@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_normalizedCoefficient_eq_Gamma
 -- name    : MetricCodes.Spherical.GeneralSpectral.normalizedCoefficient_eq_Gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/fce12c31-c7b8-4082-add4-70a5a4d10317

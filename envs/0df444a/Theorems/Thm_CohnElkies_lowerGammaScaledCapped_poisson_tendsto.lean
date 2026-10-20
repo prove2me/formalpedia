@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledCapped_poisson_tendsto
 -- name    : CohnElkies.lowerGammaScaledCapped_poisson_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/3c1f169a-3b49-4805-90a2-bdc045d4adac

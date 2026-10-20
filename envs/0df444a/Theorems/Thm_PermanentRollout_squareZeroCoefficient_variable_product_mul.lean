@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareZeroCoefficient_variable_product_mul
 -- name    : PermanentRollout.squareZeroCoefficient_variable_product_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/c1065aa7-0bdc-4b4e-bfc3-c7c23a367b58

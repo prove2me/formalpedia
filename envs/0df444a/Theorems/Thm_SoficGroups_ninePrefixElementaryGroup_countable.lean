@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ninePrefixElementaryGroup_countable
 -- name    : SoficGroups.ninePrefixElementaryGroup_countable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/ab385816-a98d-4a07-b23f-422795ce1383

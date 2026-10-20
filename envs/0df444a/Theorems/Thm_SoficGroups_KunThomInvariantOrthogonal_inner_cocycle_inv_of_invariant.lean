@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_inner_cocycle_inv_of_invariant
 -- name    : SoficGroups.KunThomInvariantOrthogonal.inner_cocycle_inv_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/e86fdb12-e5ee-4cae-9e92-47e21bb0c77c

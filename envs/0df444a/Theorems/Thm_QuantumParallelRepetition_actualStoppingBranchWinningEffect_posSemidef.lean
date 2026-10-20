@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_actualStoppingBranchWinningEffect_posSemidef
 -- name    : QuantumParallelRepetition.actualStoppingBranchWinningEffect_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/0f866296-4bc4-40d1-938f-06682cfa72c7

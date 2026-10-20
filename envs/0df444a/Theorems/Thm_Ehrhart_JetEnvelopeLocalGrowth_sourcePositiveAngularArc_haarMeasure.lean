@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourcePositiveAngularArc_haarMeasure
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourcePositiveAngularArc_haarMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/2c90c779-55ec-42b9-a708-5e6de60f79ad

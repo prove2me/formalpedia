@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunAdditiveMedianPoincare_positive_negative_abs_eq
 -- name    : SoficGroups.KunAdditiveMedianPoincare.positive_negative_abs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/c4677a31-1bf5-4697-9fd7-904638bc8730

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_ceil_distance_ratio
 -- name    : MetricCodes.Hamming.tendsto_ceil_distance_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/3a23648b-b6a2-4006-a528-c2781db342e5

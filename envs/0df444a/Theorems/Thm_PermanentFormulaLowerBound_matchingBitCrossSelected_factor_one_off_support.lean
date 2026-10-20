@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingBitCrossSelected_factor_one_off_support
 -- name    : PermanentFormulaLowerBound.matchingBitCrossSelected_factor_one_off_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/0c0d1f99-6d48-4116-b840-f9d8eab65d23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedMultiscalePhase_EPR_apply
 -- name    : QuantumParallelRepetition.unconditionalSelectedMultiscalePhase_EPR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/7ba15e88-b5c1-4f3f-8668-878f0fe60339

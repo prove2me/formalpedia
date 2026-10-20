@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeTrueRadialMollifier_tendsto_sourceJointTrueRadialRadius
 -- name    : Ehrhart.JetEnvelopeTrueRadialMollifier.tendsto_sourceJointTrueRadialRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/874a5cb0-493c-42f7-a07c-cea93201396d

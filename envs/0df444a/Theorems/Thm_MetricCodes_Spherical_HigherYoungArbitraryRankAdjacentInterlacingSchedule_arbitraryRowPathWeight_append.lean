@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungArbitraryRankAdjacentInterlacingSchedule_arbitraryRowPathWeight_append
 -- name    : MetricCodes.Spherical.HigherYoungArbitraryRankAdjacentInterlacingSchedule.arbitraryRowPathWeight_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/4d73b06a-a35b-420e-bf2c-3d357db66c28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_constantVector_norm_sq
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.constantVector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/86961e47-89a2-44ed-92b2-e019c8fc2cf7

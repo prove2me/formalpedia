@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_edgeLimit_zero_eq
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.edgeLimit_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/939f6d47-54c9-4361-a222-ac696c50fe83

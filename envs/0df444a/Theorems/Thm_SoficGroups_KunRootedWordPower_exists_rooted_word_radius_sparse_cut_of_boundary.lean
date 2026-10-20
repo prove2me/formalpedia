@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_exists_rooted_word_radius_sparse_cut_of_boundary
 -- name    : SoficGroups.KunRootedWordPower.exists_rooted_word_radius_sparse_cut_of_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/b0c767d1-e713-4d40-a158-65abce1d9def

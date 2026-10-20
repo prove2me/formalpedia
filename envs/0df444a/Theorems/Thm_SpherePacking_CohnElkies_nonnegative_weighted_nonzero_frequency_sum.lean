@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_CohnElkies_nonnegative_weighted_nonzero_frequency_sum
 -- name    : SpherePacking.CohnElkies.nonnegative_weighted_nonzero_frequency_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/d492bbc2-61a4-4af8-9b67-4a8abf7a9083

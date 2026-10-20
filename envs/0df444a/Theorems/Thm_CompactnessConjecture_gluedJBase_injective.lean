@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedJBase_injective
 -- name    : CompactnessConjecture.gluedJBase_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/73189eb1-0dfd-48d9-b158-a851c43b545e

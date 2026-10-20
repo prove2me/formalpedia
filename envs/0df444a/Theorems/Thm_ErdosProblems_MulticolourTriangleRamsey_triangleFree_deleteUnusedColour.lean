@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_triangleFree_deleteUnusedColour
 -- name    : ErdosProblems.MulticolourTriangleRamsey.triangleFree_deleteUnusedColour
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/d0a76f85-23c1-4de4-a408-e10223392955

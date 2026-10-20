@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetProfileBridge_eventually_normalizedMomentTruncatedJetOrderProfile_ge
 -- name    : Ehrhart.BergmanJetProfileBridge.eventually_normalizedMomentTruncatedJetOrderProfile_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/4dee518d-2194-40d4-904e-42274eb9742b

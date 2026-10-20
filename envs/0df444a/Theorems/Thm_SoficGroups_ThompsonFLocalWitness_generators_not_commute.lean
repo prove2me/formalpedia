@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFLocalWitness_generators_not_commute
 -- name    : SoficGroups.ThompsonFLocalWitness.generators_not_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/305e04a9-9a3f-4f77-9971-9f6218ad9f49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_spectralMarginPolynomial_factor
 -- name    : MetricCodes.Hamming.spectralMarginPolynomial_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/bbcc29d1-e398-4357-b58d-f5f47eff0f22

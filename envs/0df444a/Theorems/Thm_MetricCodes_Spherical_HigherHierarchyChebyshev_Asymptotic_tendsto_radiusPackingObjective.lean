@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_tendsto_radiusPackingObjective
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.tendsto_radiusPackingObjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/13fb0a55-1f8f-44b1-9b35-7753f2448506

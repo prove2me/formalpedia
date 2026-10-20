@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_symbol_unique_of_satisfiesFormula
 -- name    : GapCVP.CL.symbol_unique_of_satisfiesFormula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/44c8d973-d682-4a53-ab16-2daaa502c663

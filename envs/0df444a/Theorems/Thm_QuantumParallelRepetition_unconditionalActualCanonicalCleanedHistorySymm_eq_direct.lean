@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualCanonicalCleanedHistorySymm_eq_direct
 -- name    : QuantumParallelRepetition.unconditionalActualCanonicalCleanedHistorySymm_eq_direct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/eeb27be7-ba00-42ef-9ea8-ea74edad37ba

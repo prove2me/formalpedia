@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanGeodesicConvexity_exponentialMoment_sq_le_partition_mul_second
 -- name    : Ehrhart.BergmanGeodesicConvexity.exponentialMoment_sq_le_partition_mul_second
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/ae6e604b-4dfa-4a4c-967a-fbd53b05fd49

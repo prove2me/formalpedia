@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrw_endpoint_dichotomy
 -- name    : MetricCodes.Johnson.mrrw_endpoint_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/41eaa946-2a09-4ac1-b325-4b9376fa49aa

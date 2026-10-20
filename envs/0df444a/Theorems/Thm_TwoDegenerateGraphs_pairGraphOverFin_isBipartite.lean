@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_isBipartite
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_isBipartite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/e5df1db1-8044-4559-85da-46b436428d65

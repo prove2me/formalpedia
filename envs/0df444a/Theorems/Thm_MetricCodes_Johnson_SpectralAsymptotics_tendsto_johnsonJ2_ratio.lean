@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_tendsto_johnsonJ2_ratio
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.tendsto_johnsonJ2_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/8d32b44d-0540-4506-9ae6-8cb92c9516ba

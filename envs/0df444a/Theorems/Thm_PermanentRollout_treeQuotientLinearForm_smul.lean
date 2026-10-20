@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_treeQuotientLinearForm_smul
 -- name    : PermanentRollout.treeQuotientLinearForm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/0f0dccc7-cc16-4900-8fd9-d9966613429c

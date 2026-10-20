@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_log_add_choose_div_eq
 -- name    : SpherePacking.log_add_choose_div_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/3c8f7079-9c20-4dcc-afe6-089ac5a5e093

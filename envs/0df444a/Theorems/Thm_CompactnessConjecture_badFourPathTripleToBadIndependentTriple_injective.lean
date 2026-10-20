@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_badFourPathTripleToBadIndependentTriple_injective
 -- name    : CompactnessConjecture.badFourPathTripleToBadIndependentTriple_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/d08e2f9f-f93a-42af-a2fc-3fed9d63ca16

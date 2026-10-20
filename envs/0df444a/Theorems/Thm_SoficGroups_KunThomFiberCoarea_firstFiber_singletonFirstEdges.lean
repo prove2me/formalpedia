@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_firstFiber_singletonFirstEdges
 -- name    : SoficGroups.KunThomFiberCoarea.firstFiber_singletonFirstEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/1ef3410d-2f98-4339-91a2-86bab471b676

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualRetainedSelection_exists_matched_slow_diagonal_large_components_on_source_scale_tail
 -- name    : SoficGroups.KunResidualRetainedSelection.exists_matched_slow_diagonal_large_components_on_source_scale_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/330088a8-93c6-49b8-bb8d-75644adcfd6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_legacy_binaryEntropy_eq_sphericalEntropy
 -- name    : MetricCodes.Spherical.GeneralSpectral.legacy_binaryEntropy_eq_sphericalEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/3bdc1072-7111-4ee8-b947-f4b011fff448

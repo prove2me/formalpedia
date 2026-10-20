@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompressionCriterion_normalizedHamming_distinct_tendsto
 -- name    : SoficGroups.CompressionCriterion.normalizedHamming_distinct_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/f8464e09-8dc6-41d6-86d9-47623be19875

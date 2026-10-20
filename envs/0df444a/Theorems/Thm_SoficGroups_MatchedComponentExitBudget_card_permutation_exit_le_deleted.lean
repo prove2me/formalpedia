@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentExitBudget_card_permutation_exit_le_deleted
 -- name    : SoficGroups.MatchedComponentExitBudget.card_permutation_exit_le_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/0417c254-4fb2-41d2-a05c-5782d80bc87f

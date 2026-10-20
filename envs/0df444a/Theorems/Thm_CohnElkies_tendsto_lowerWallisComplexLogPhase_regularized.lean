@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_lowerWallisComplexLogPhase_regularized
 -- name    : CohnElkies.tendsto_lowerWallisComplexLogPhase_regularized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/141e7dc2-fceb-4d63-b2aa-3dfa5031cfe9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_sphericalCodeNumber_lt_top
 -- name    : MetricCodes.sphericalCodeNumber_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/d283404e-aba4-4c1e-835f-b8aaa468985c

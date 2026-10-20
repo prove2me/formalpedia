@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_normalizedDerivative_natDegree
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.normalizedDerivative_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/58c1d192-fa4e-4a88-8684-f6a654f4308e

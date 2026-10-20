@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryCapped_bottom_poisson_joint_tendsto
 -- name    : CohnElkies.lowerGammaBoundaryCapped_bottom_poisson_joint_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/2f45ff33-4cf0-477e-9b09-972e8a488d66

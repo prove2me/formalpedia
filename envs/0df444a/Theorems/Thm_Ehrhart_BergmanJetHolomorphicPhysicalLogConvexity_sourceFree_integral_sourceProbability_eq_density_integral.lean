@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_sourceFree_integral_sourceProbability_eq_density_integral
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.sourceFree_integral_sourceProbability_eq_density_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/287a208d-93cb-4473-89f9-066dd3f2748d

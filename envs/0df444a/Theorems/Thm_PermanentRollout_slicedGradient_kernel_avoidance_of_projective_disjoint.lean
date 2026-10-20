@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_slicedGradient_kernel_avoidance_of_projective_disjoint
 -- name    : PermanentRollout.slicedGradient_kernel_avoidance_of_projective_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/5cc29331-4e37-4bd1-bfb5-5dae681aa47f

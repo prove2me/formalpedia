@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_barycenter_centeredSimplex
 -- name    : Ehrhart.SimplexVolume.barycenter_centeredSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/56398c5f-aab8-473c-b201-f268167e1913

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_plusProbability_of_ratios
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_plusProbability_of_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/22d7d76e-6581-43ad-bb5b-5b897c11dee5

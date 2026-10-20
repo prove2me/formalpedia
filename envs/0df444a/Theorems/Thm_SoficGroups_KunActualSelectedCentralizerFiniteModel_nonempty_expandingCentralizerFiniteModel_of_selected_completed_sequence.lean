@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSelectedCentralizerFiniteModel_nonempty_expandingCentralizerFiniteModel_of_selected_completed_sequence
 -- name    : SoficGroups.KunActualSelectedCentralizerFiniteModel.nonempty_expandingCentralizerFiniteModel_of_selected_completed_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/96a01423-f7b8-4e09-af38-01dcf7500f79

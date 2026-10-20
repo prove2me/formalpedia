@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_UnitPacking_ofGeneralPacking_upperDensity
 -- name    : SpherePacking.UnitPacking.ofGeneralPacking_upperDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/f0bb3496-6c2c-4a26-9dcc-1ee07d1719a2

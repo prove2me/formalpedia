@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ArcsineTransform_integral_beta_half_half_eq_integral_measureT
 -- name    : MetricCodes.Spherical.HigherHierarchy.ArcsineTransform.integral_beta_half_half_eq_integral_measureT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/6f109c6c-1e28-4748-bb61-925af742c5b5

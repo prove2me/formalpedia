@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCompressedResolvent_signedCharacteristicProjector_eigen_of_aeval_apply
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent.signedCharacteristicProjector_eigen_of_aeval_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/55cd34c4-dae1-4d22-b062-c69ca3722d94

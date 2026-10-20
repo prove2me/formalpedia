@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_aeval_pderiv_eq_zero_of_jacobianMinor_det_ne_zero
 -- name    : PermanentFormulaLowerBound.aeval_pderiv_eq_zero_of_jacobianMinor_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/4c12b723-5f4f-4dc5-8f3e-627143a1c346

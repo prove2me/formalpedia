@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtree_weighted_sum_mul_block_sum_pow
 -- name    : PermanentRollout.subtree_weighted_sum_mul_block_sum_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/2e1b373d-83ac-4c28-9240-044ce6ff936e

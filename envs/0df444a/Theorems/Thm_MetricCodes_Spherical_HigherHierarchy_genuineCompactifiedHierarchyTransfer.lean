@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_genuineCompactifiedHierarchyTransfer
 -- name    : MetricCodes.Spherical.HigherHierarchy.genuineCompactifiedHierarchyTransfer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/7cb2035a-019c-438c-886b-8bb89895ea70

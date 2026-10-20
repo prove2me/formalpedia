@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_log_dimensionSum_div_log_two
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_log_dimensionSum_div_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/c1391465-5c15-4c77-80c9-43c4c6a989fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialLogProfile_ofReal
 -- name    : CohnElkies.normalizedRadialLogProfile_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/6b4d6ba9-9cbf-438d-8ed0-51e8c4fc12b3

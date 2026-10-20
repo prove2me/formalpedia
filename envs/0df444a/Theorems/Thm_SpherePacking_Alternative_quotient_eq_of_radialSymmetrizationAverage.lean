@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_Alternative_quotient_eq_of_radialSymmetrizationAverage
 -- name    : SpherePacking.Alternative.quotient_eq_of_radialSymmetrizationAverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/a6751415-9d9f-4840-8ee0-50c05ec3fb10

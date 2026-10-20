@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_slicedGradient_zero_iff_mem_kernel
 -- name    : PermanentRollout.slicedGradient_zero_iff_mem_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/ff1f7e73-fa43-43c5-bc41-503457edf5e6

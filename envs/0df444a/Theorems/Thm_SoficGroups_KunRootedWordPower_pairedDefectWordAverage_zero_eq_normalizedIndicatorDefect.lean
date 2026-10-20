@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_pairedDefectWordAverage_zero_eq_normalizedIndicatorDefect
 -- name    : SoficGroups.KunRootedWordPower.pairedDefectWordAverage_zero_eq_normalizedIndicatorDefect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/3ab05368-b56b-4a46-9e80-ef064e69a817

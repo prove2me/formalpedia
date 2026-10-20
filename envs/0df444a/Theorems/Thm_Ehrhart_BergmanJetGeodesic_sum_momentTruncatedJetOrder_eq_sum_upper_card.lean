@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGeodesic_sum_momentTruncatedJetOrder_eq_sum_upper_card
 -- name    : Ehrhart.BergmanJetGeodesic.sum_momentTruncatedJetOrder_eq_sum_upper_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/a95bb516-ceed-410b-a383-90fd52e247c3

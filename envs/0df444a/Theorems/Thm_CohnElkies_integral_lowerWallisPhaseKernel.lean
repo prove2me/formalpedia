@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_lowerWallisPhaseKernel
 -- name    : CohnElkies.integral_lowerWallisPhaseKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/7b43ff4e-ab1b-4de2-942a-9c239805125f

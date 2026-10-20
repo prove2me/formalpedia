@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_excursion_log_derivative_antitoneOn
 -- name    : AvramDividend.Classical.excursion_log_derivative_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T07:09:11.115925+00:00
 -- url     : https://prove2.me/theorems/5c98fd2e-9edb-43d6-b266-e2d80d234c81

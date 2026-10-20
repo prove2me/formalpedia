@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_esscher_finite_renewal_cumulative_representation
 -- name    : AvramDividend.Classical.bv_esscher_finite_renewal_cumulative_representation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T11:28:42.67269+00:00
 -- url     : https://prove2.me/theorems/e4a07bef-413b-4cf7-84a6-3e8adf527200

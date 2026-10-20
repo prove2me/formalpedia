@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteHilbertSchmidtKernel_positive
 -- name    : SpherePacking.finiteHilbertSchmidtKernel_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/5eca68bd-652d-4be9-89ad-0f09bf4a8a8e

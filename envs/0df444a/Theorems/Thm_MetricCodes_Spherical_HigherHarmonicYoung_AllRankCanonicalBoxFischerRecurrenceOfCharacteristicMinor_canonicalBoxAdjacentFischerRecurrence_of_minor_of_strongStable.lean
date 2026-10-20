@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCanonicalBoxFischerRecurrenceOfCharacteristicMinor_canonicalBoxAdjacentFischerRecurrence_of_minor_of_strongStable
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxFischerRecurrenceOfCharacteristicMinor.canonicalBoxAdjacentFischerRecurrence_of_minor_of_strongStable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/3ce5e7b7-43f1-4f75-9ea8-4ed3a9a08734

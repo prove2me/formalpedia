@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_Alternative_schwartzDilation_apply
 -- name    : SpherePacking.Alternative.schwartzDilation_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/db8904cc-cc2c-43b4-8573-3581ca476b96

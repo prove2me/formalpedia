@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicConvexTransfer_convexOn_momentWeakHolomorphicEnvelopeLogPartition_Ioi_of_strict
 -- name    : Ehrhart.BergmanJetJointHolomorphicConvexTransfer.convexOn_momentWeakHolomorphicEnvelopeLogPartition_Ioi_of_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/eaf2258d-f152-433b-a7e0-db21ea8fd7e3

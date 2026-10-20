@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPrefactor_smallHazard_twelfthRoot_le
 -- name    : QuantumParallelRepetition.unconditionalPrefactor_smallHazard_twelfthRoot_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/ec7da1eb-c76d-403b-b8b8-21a7d77b0a88

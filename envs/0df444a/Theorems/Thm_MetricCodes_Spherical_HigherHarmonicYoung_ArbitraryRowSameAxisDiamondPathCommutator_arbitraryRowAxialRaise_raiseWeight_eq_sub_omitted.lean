@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondPathCommutator_arbitraryRowAxialRaise_raiseWeight_eq_sub_omitted
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator.arbitraryRowAxialRaise_raiseWeight_eq_sub_omitted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/4d50a782-ff46-4aaf-ba21-40555cdda4d6

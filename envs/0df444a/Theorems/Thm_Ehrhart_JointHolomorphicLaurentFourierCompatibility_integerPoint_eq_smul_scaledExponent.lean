@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_integerPoint_eq_smul_scaledExponent
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.integerPoint_eq_smul_scaledExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/c76a60b7-dd29-4dc7-ad6d-4e70a95baeef

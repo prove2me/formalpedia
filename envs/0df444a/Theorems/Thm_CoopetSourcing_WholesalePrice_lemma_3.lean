@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoopetSourcing_WholesalePrice_lemma_3
 -- name    : CoopetSourcing.WholesalePrice.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:52:12.240984+00:00
 -- url     : https://prove2.me/theorems/6c7cf7ae-5039-4cef-881b-674d81b8c3f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaDamping_lower_bound
 -- name    : CohnElkies.upperGammaDamping_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/12647fc3-4dc5-4c4d-b13a-3c27a1d35842

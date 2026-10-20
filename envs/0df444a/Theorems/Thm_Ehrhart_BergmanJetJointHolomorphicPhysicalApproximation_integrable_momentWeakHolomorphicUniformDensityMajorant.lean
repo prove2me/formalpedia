@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhysicalApproximation_integrable_momentWeakHolomorphicUniformDensityMajorant
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhysicalApproximation.integrable_momentWeakHolomorphicUniformDensityMajorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/5ec9d7fd-f535-497a-af92-5b158e22f47f

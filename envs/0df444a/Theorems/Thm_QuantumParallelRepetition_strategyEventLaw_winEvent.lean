@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_strategyEventLaw_winEvent
 -- name    : QuantumParallelRepetition.strategyEventLaw_winEvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/d2747163-9320-4b45-abd1-05d76f172ee0

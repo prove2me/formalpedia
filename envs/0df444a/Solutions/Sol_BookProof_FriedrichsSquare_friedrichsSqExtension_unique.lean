@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FriedrichsSquare.friedrichsSqExtension_unique
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:11:06.439997+00:00
 -- url     : https://prove2.me/submissions/47f62974-7fd5-4c99-8900-6d42c7017df7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFriedrichsSquareFactorization.lean — solution of BookProof.FriedrichsSquare.friedrichsSqExtension_unique
 import Mathlib

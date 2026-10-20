@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_edge_mul_pred_sq_le_bad_card_mul
 -- name    : CompactnessConjecture.proposedFamilyFree_edge_mul_pred_sq_le_bad_card_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/7c054745-d6c6-4e74-bfca-560df938087e

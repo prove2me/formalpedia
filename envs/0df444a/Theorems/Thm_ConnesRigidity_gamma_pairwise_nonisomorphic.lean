@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_gamma_pairwise_nonisomorphic
 -- name    : ConnesRigidity.gamma_pairwise_nonisomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/d956f90f-1aeb-4fee-a4bd-b07aa95b4850

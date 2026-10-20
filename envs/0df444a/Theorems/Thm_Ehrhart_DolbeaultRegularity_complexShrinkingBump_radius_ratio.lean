@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_complexShrinkingBump_radius_ratio
 -- name    : Ehrhart.DolbeaultRegularity.complexShrinkingBump_radius_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/b1d28b61-a665-4e05-bf06-db8924d1eed2

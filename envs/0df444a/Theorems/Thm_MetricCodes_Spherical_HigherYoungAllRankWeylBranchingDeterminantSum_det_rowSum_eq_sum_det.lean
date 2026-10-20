@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankWeylBranchingDeterminantSum_det_rowSum_eq_sum_det
 -- name    : MetricCodes.Spherical.HigherYoungAllRankWeylBranchingDeterminantSum.det_rowSum_eq_sum_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/0ed71a37-cd1c-4ef1-ac36-a256607922cb

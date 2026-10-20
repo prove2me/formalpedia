@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_momentSimultaneousJetBasis_mem_truncatedJetFiltration
 -- name    : Ehrhart.BergmanJetLocalGrowth.momentSimultaneousJetBasis_mem_truncatedJetFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/b4038391-dcea-4dc0-a2c6-eba7f2c55dcb

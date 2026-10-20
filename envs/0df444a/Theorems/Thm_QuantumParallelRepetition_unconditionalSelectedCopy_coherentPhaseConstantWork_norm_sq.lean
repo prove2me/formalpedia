@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedCopy_coherentPhaseConstantWork_norm_sq
 -- name    : QuantumParallelRepetition.unconditionalSelectedCopy_coherentPhaseConstantWork_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/f7bac965-e682-49e8-9ec2-aa44fff6c1bb

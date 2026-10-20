@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_sourceHistoryAcceptedMass_eq_remaining_average
 -- name    : QuantumParallelRepetition.sourceHistoryAcceptedMass_eq_remaining_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/8eacb09e-35ab-4487-9608-eeece9c33018

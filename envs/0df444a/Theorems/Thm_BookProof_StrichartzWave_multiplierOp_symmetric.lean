@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_multiplierOp_symmetric
 -- name    : BookProof.StrichartzWave.multiplierOp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:39:08.416704+00:00
 -- url     : https://prove2.me/theorems/0e37b50d-d0f2-4968-a69c-1788711a6e8f

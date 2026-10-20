@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_exists_binaryCodeNumber
 -- name    : MetricCodes.Johnson.exists_binaryCodeNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/7b54d34f-cde6-4f85-90e6-46701250ceae

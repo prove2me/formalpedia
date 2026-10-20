@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_groupFactorsIsomorphic_trans
 -- name    : ConnesRigidity.groupFactorsIsomorphic_trans
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/e80afc21-59ba-45fc-84b4-f2f306f549d5

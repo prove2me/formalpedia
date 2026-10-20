@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledCappedClipped_support
 -- name    : CohnElkies.lowerGammaScaledCappedClipped_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/e09bb38d-7650-4d98-86ce-581416d835cd

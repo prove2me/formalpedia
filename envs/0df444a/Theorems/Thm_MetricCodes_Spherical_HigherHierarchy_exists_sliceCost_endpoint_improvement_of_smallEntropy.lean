@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_sliceCost_endpoint_improvement_of_smallEntropy
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_sliceCost_endpoint_improvement_of_smallEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/34fbc13f-1c32-461f-9a7c-5cc2f91e3763

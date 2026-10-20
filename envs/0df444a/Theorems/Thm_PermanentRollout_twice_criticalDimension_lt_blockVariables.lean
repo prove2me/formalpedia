@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_twice_criticalDimension_lt_blockVariables
 -- name    : PermanentRollout.twice_criticalDimension_lt_blockVariables
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/e9d76b8c-ab0f-4b9f-9fb5-b7d57a566790

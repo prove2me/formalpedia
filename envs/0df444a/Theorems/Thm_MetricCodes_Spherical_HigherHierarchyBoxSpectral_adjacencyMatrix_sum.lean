@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxSpectral_adjacencyMatrix_sum
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxSpectral.adjacencyMatrix_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/725a0867-2acf-4328-9cf5-c3d87a02dc4f

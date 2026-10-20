@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticPoint_point_class_avoidance
 -- name    : CompactnessConjecture.symplecticPoint_point_class_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/5760074d-afd6-485d-925f-9d449d28e0af

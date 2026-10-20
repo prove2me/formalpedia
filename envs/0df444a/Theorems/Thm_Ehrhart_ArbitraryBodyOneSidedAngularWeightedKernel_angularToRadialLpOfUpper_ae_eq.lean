@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularWeightedKernel_angularToRadialLpOfUpper_ae_eq
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularWeightedKernel.angularToRadialLpOfUpper_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/28582e13-17e9-46bf-a6d4-98c0d856b2cf

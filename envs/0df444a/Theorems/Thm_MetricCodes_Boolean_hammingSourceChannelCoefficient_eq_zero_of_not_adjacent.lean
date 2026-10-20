@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingSourceChannelCoefficient_eq_zero_of_not_adjacent
 -- name    : MetricCodes.Boolean.hammingSourceChannelCoefficient_eq_zero_of_not_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/3ba7cb95-95a5-49be-a30b-9c7c5ef0ced4

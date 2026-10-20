@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedCore_missing_card
 -- name    : SoficGroups.matchedCore_missing_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/c0fc4ab7-3ac9-4729-988d-676e29af9018

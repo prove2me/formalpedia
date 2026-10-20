@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_continuous_momentWeakHolomorphicStrictJointPhysicalRowEnergy
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.continuous_momentWeakHolomorphicStrictJointPhysicalRowEnergy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/20f8698b-07e9-4698-9e43-780cb9d14ed4

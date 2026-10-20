@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentCompletion_sourceCompletionBad_subset
 -- name    : SoficGroups.MatchedComponentCompletion.sourceCompletionBad_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/a5704f57-b1a8-4391-8e91-dda9edfb3d98

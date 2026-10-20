@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaVarianceDensity_integrable
 -- name    : CohnElkies.upperGammaVarianceDensity_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/6667de36-54b2-4d76-9404-cf861be3fd52

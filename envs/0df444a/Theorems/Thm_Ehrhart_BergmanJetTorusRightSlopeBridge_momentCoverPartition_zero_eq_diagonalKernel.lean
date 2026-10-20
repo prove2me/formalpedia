@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentCoverPartition_zero_eq_diagonalKernel
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentCoverPartition_zero_eq_diagonalKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/a9aeefca-5f62-48b1-8ba5-352365d454bd

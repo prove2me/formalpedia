@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricQuadraticEvaluationMatrix_det
 -- name    : CompactnessConjecture.symmetricQuadraticEvaluationMatrix_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/fd4467bf-bcf8-46f9-a091-c569fd84f6d8

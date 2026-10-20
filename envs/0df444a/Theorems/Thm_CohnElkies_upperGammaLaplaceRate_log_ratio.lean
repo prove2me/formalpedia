@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaLaplaceRate_log_ratio
 -- name    : CohnElkies.upperGammaLaplaceRate_log_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/3ee0764f-8534-4e9c-9e2c-0ef3d982e956

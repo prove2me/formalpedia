@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_weightedHolomorphicDerivative_mul
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.weightedHolomorphicDerivative_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/4928e16a-a470-4145-abc2-36ef3f404b03

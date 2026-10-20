@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualPhysicalMixedAcceptedSpectralGauge_sum
 -- name    : QuantumParallelRepetition.unconditionalActualPhysicalMixedAcceptedSpectralGauge_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/91c5a7e6-c953-4434-acd2-947d48f9178b

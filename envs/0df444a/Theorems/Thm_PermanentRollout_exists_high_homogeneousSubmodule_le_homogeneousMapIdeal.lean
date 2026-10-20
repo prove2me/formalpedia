@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_high_homogeneousSubmodule_le_homogeneousMapIdeal
 -- name    : PermanentRollout.exists_high_homogeneousSubmodule_le_homogeneousMapIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/3f2d0d96-0b7b-4a01-ae09-844a3c139ff2

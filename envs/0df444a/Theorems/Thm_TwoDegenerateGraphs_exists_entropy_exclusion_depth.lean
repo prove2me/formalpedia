@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exists_entropy_exclusion_depth
 -- name    : TwoDegenerateGraphs.exists_entropy_exclusion_depth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/0feb496c-64db-46bb-9786-3f6724733f10

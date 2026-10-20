@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_normalizedVolume_smul_standardSimplex
 -- name    : Ehrhart.SimplexVolume.normalizedVolume_smul_standardSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/0d4083dc-8717-4b7f-80ad-00bad01a5be0

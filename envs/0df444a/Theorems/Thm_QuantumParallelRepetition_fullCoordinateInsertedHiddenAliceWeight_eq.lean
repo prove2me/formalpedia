@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedHiddenAliceWeight_eq
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedHiddenAliceWeight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/43d417ed-0391-40e4-aa5c-e1425bc0a353

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localizedEnvelope_levelRate_lt_profile_of_positive_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.localizedEnvelope_levelRate_lt_profile_of_positive_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/9e0e2c50-6557-4c54-87f9-1bdd9f85c914

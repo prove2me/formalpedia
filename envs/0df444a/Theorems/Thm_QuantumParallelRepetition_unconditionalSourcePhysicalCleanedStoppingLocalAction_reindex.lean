@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalCleanedStoppingLocalAction_reindex
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalCleanedStoppingLocalAction_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/72dc8aba-e03b-42bc-9277-d1e58cf30225

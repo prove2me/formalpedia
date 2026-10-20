@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_stochastic_deactivation_time
 -- name    : BestBothWorlds.SAO.stochastic_deactivation_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:48.802419+00:00
 -- url     : https://prove2.me/theorems/bb37e697-0820-4c2e-90c9-6ff4546a671c

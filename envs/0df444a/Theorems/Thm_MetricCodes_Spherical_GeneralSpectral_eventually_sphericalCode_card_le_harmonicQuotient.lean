@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_eventually_sphericalCode_card_le_harmonicQuotient
 -- name    : MetricCodes.Spherical.GeneralSpectral.eventually_sphericalCode_card_le_harmonicQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/c0f05cd4-f441-4db8-a056-e8bb34d2009b

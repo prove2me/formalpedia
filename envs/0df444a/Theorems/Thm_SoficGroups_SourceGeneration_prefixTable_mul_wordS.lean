@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_prefixTable_mul_wordS
 -- name    : SoficGroups.SourceGeneration.prefixTable_mul_wordS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/07d60d0f-fdc9-4c7a-a5fb-eaee0818684c

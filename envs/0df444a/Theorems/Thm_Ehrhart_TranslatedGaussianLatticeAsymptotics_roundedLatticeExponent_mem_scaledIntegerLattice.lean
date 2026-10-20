@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TranslatedGaussianLatticeAsymptotics_roundedLatticeExponent_mem_scaledIntegerLattice
 -- name    : Ehrhart.TranslatedGaussianLatticeAsymptotics.roundedLatticeExponent_mem_scaledIntegerLattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/98aee838-baf8-48c1-be5b-822ea298ebd1

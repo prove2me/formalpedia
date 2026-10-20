@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_four_path_common_second_neighbor_sum_lower
 -- name    : CompactnessConjecture.four_path_common_second_neighbor_sum_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/8b52292b-179d-4d65-a0ba-92dd9f8d2def

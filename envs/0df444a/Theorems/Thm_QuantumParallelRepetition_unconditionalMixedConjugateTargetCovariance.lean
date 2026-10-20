@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMixedConjugateTargetCovariance
 -- name    : QuantumParallelRepetition.unconditionalMixedConjugateTargetCovariance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/cd8c9c72-9f56-479e-88c5-0ec2562fa3d4

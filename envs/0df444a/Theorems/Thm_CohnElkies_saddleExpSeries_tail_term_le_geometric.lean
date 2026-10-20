@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleExpSeries_tail_term_le_geometric
 -- name    : CohnElkies.saddleExpSeries_tail_term_le_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/3e093827-a468-46f6-aed8-0c66a30f683a

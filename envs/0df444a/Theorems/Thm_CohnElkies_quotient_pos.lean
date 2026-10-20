@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_quotient_pos
 -- name    : CohnElkies.quotient_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/2b530681-d210-4b32-ac15-586bb71cd074

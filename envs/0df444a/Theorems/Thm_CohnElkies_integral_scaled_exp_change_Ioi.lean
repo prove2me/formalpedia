@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_scaled_exp_change_Ioi
 -- name    : CohnElkies.integral_scaled_exp_change_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/618b4714-35d1-4217-ad98-07fb7a1bfa85

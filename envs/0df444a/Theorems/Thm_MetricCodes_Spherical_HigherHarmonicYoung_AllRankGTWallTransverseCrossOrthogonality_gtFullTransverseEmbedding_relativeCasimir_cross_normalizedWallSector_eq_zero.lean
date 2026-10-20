@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTWallTransverseCrossOrthogonality_gtFullTransverseEmbedding_relativeCasimir_cross_normalizedWallSector_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCrossOrthogonality.gtFullTransverseEmbedding_relativeCasimir_cross_normalizedWallSector_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/9c2e6e55-a65d-4944-ab37-435380a01afe

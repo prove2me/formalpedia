@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateWeightedInsertedSum
 -- name    : QuantumParallelRepetition.fullCoordinateWeightedInsertedSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/5e0e57ec-0f6b-4ca9-a5ef-25b9d8beb939

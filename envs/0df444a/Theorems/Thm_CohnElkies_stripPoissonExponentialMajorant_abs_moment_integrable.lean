@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonExponentialMajorant_abs_moment_integrable
 -- name    : CohnElkies.stripPoissonExponentialMajorant_abs_moment_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/212db3ed-7ccd-4756-96d0-86b8ec81d00e

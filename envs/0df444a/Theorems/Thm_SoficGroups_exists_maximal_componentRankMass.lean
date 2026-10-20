@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_maximal_componentRankMass
 -- name    : SoficGroups.exists_maximal_componentRankMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/162c1702-ebff-4eb2-b1e5-5eaeb2f827a8

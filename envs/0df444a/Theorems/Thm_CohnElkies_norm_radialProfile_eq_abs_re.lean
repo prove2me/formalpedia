@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_radialProfile_eq_abs_re
 -- name    : CohnElkies.norm_radialProfile_eq_abs_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/8ce8592e-2154-4938-88ee-bf9768f3fb47

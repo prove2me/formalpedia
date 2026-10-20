@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_unit_interval_vertical_integral_eq
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.unit_interval_vertical_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/af32f3b5-ddd5-4cbd-9a84-2ab5d97e4702

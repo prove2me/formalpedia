@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ArcsineTransform_arcsine_stieltjes_integrable
 -- name    : MetricCodes.Spherical.HigherHierarchy.ArcsineTransform.arcsine_stieltjes_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/4220b6f9-e525-4e5e-9046-461b4c0eecfe

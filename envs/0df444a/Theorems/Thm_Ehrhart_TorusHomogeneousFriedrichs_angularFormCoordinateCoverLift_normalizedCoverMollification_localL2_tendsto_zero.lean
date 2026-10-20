@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousFriedrichs_angularFormCoordinateCoverLift_normalizedCoverMollification_localL2_tendsto_zero
 -- name    : Ehrhart.TorusHomogeneousFriedrichs.angularFormCoordinateCoverLift_normalizedCoverMollification_localL2_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/131584aa-4af8-4749-a1e0-39582f413844

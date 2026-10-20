@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_fin_hyperplane_isSMulRegular_of_quotient_weaklyRegular
 -- name    : PermanentRollout.homogeneousMap_allRank_fin_hyperplane_isSMulRegular_of_quotient_weaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/eb1b851b-4610-4e09-801f-ae6a92d43e3b

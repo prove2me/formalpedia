@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedGammaHarmonic_continuousOn
 -- name    : CohnElkies.lowerStripCappedGammaHarmonic_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/ac25416f-b2a7-486f-83e6-a907cb8e4e4f

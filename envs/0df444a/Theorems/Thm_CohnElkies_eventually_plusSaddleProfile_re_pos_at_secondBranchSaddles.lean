@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_plusSaddleProfile_re_pos_at_secondBranchSaddles
 -- name    : CohnElkies.eventually_plusSaddleProfile_re_pos_at_secondBranchSaddles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/efa51cfc-9f66-4de8-bd15-37a470a80896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_ManyLengths_tree_extension_attach
 -- name    : CycleLengthsExp.ManyLengths.tree_extension_attach
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-16T12:35:45.826535+00:00
 -- url     : https://prove2.me/theorems/eaeaa519-1887-439b-8ed0-12c5ccc123f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalTensorPieriInvalidRows_orthogonalJacobiTrudiDimension_lowered_eq_zero_of_not_antitone
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriInvalidRows.orthogonalJacobiTrudiDimension_lowered_eq_zero_of_not_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/f52e0a7a-d1b7-47e0-97e5-6cba315bb27f

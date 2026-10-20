@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_cubeSum_le_dominant_mul_sum
 -- name    : SoficGroups.cubeSum_le_dominant_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/6414ce65-cbbc-40d9-a6e9-5e6dc7a55195

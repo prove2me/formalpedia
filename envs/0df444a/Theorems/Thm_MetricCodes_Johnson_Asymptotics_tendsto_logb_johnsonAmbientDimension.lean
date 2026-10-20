@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_johnsonAmbientDimension
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_johnsonAmbientDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/94536611-50c1-45d1-aee3-a4ec6d219639

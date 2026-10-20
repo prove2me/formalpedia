@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTProjectedLowerRange_euclideanAmbientRotation_castSucc_last
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTProjectedLowerRange.euclideanAmbientRotation_castSucc_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/06d09665-1be4-4116-bca4-0ec4667b2f8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_measurableSet_shifted_floor_drop
 -- name    : SoficGroups.measurableSet_shifted_floor_drop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/04c460bd-cfb1-44a4-8dab-5cc57d51ae43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalMixedSpectralAtomBlock_eq_projectorProduct
 -- name    : QuantumParallelRepetition.dSVDensityRationalMixedSpectralAtomBlock_eq_projectorProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/e5cd8090-43b3-443b-bc26-b65e046c7825

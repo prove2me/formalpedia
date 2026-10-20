@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_boundaryDegree_spectral_eq
 -- name    : MetricCodes.Spherical.HigherHierarchy.boundaryDegree_spectral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/da0afe35-6c36-4486-8f8f-ff08c920ab6b

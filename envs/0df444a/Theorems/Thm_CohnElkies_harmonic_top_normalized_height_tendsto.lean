@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_harmonic_top_normalized_height_tendsto
 -- name    : CohnElkies.harmonic_top_normalized_height_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/bab5b91e-8534-4c96-b8dc-e4eca983ea8c

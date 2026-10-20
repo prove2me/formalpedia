@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_log_ratio_lower
 -- name    : MetricCodes.Numerics.log_ratio_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/ab69011d-09e7-4c1a-8fb1-72c7ff692c72

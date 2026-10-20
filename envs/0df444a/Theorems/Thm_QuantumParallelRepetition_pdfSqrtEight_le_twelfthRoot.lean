@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfSqrtEight_le_twelfthRoot
 -- name    : QuantumParallelRepetition.pdfSqrtEight_le_twelfthRoot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/aa927ba3-7490-4ef0-806f-0b930ee8b96f

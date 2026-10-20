@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_fourPathHeavyThreshold_low_degree_fourth_le
 -- name    : CompactnessConjecture.fourPathHeavyThreshold_low_degree_fourth_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/6d3c9205-0ba9-4026-a46f-6221736036bf

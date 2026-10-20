@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceSlicedGradientLinearInput_polynomial
 -- name    : PermanentRollout.sourceSlicedGradientLinearInput_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/a31f62ab-a389-4f04-8f09-5ae9692a8d11

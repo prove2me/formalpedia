@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_run_realizes
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.run_realizes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/6ece3b17-14db-4480-bb35-b02859518fa5

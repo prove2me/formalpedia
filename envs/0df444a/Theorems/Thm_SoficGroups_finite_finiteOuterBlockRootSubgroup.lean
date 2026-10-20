@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finite_finiteOuterBlockRootSubgroup
 -- name    : SoficGroups.finite_finiteOuterBlockRootSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/b97ad6da-a8d6-4e4c-8903-463ba224eacf

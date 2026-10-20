@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_triple_distinct
 -- name    : GapCVP.ThreeCNFReduction.triple_distinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/f76cbb05-9a28-4563-80e8-f4c324be486c

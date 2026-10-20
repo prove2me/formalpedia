@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_badFourPathTripleWitness_card
 -- name    : CompactnessConjecture.badFourPathTripleWitness_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/4d0be282-885a-4e03-9b2e-1be3f9dbaead

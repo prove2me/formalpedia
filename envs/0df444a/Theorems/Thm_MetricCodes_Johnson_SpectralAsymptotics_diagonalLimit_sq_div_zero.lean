@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_diagonalLimit_sq_div_zero
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.diagonalLimit_sq_div_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/b9bf85c1-b5bf-4ab4-b370-bfc6cc4e8645

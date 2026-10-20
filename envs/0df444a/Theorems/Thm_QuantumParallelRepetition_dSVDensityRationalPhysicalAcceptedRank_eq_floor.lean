@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalPhysicalAcceptedRank_eq_floor
 -- name    : QuantumParallelRepetition.dSVDensityRationalPhysicalAcceptedRank_eq_floor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/bf5efd46-f7e1-4e91-9909-ed5b62307b98

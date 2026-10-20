@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtreeLinearFormProduct_eq_subtreeFormProduct
 -- name    : PermanentRollout.subtreeLinearFormProduct_eq_subtreeFormProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/b9051065-c83d-43d1-a0c6-0017a6be9bee

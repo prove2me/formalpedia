@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSource_firstBranch_normalized_tail_bound
 -- name    : CohnElkies.saddleSource_firstBranch_normalized_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/e93f5f86-0116-4e73-a089-13cc842963f5

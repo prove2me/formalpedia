@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_slicedGradient_of_projective_input_disjoint
 -- name    : PermanentRollout.exists_slicedGradient_of_projective_input_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/baf610b3-df55-4bae-951b-3326cab088cb

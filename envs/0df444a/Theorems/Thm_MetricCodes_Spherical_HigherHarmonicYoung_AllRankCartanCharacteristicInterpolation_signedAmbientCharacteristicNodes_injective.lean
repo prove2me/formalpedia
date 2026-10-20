@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCartanCharacteristicInterpolation_signedAmbientCharacteristicNodes_injective
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation.signedAmbientCharacteristicNodes_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/6d3ac2ca-3f45-409e-b407-b2b79d816333

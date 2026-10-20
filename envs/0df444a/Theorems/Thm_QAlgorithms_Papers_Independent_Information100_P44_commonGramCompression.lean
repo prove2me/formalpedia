@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_commonGramCompression
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.commonGramCompression
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:48:38.656909+00:00
 -- url     : https://prove2.me/theorems/3f0dad12-014c-4751-aede-f96e7a47d220

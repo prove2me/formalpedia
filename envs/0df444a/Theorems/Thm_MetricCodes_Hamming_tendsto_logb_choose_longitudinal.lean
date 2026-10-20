@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_logb_choose_longitudinal
 -- name    : MetricCodes.Hamming.tendsto_logb_choose_longitudinal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/826672ad-dfe1-4055-8edd-4bb3316d8a26

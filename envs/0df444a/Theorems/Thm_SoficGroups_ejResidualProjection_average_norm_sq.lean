@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejResidualProjection_average_norm_sq
 -- name    : SoficGroups.ejResidualProjection_average_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/3eff81ee-1ee1-4d73-990d-1b05b7962f45

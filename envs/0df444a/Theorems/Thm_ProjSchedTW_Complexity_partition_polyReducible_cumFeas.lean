@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_Complexity_partition_polyReducible_cumFeas
 -- name    : ProjSchedTW.Complexity.partition_polyReducible_cumFeas
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T02:09:29.869775+00:00
 -- url     : https://prove2.me/theorems/81aa0cce-42ec-44b4-9d90-4c2bd2ef2130

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_twistedAngularIntegral_coordinate_update
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.twistedAngularIntegral_coordinate_update
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/e8750172-52e8-45ba-b09e-346b16e2f5f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_johnsonDiagonal_eq_normalized
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.johnsonDiagonal_eq_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/0546b465-5252-40db-b10a-bfc24ae37a25

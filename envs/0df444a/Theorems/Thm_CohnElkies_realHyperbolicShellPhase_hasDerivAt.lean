@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_realHyperbolicShellPhase_hasDerivAt
 -- name    : CohnElkies.realHyperbolicShellPhase_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/07b42cba-337a-437d-8858-0c6332c00955

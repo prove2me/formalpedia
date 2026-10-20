@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousFriedrichs_angularMollifiedPhysicalAdjointDriftCommutator_tendsto_zero
 -- name    : Ehrhart.TorusHomogeneousFriedrichs.angularMollifiedPhysicalAdjointDriftCommutator_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/db8e24cd-5e29-4014-8455-7e221a9538c3

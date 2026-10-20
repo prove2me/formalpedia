@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ArcsineIntegral_integral_inv_add_mul_cos
 -- name    : MetricCodes.Spherical.HigherHierarchy.ArcsineIntegral.integral_inv_add_mul_cos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/bc2dac59-7b2d-4003-82b8-5a9f404c6620

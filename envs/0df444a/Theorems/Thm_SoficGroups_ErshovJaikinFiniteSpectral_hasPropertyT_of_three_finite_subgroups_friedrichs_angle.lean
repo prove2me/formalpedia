@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_hasPropertyT_of_three_finite_subgroups_friedrichs_angle
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.hasPropertyT_of_three_finite_subgroups_friedrichs_angle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/17464e71-60e8-453d-9d66-c6335835ee9f

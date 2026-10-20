@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticPoint_sup_finrank
 -- name    : CompactnessConjecture.symplecticPoint_sup_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/5068c901-90ac-4915-8ad8-6e4ab71dc21e

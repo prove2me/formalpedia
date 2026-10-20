@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_cumulative_iterate_eventual_constant_lower
 -- name    : PermanentRollout.affine_cumulative_iterate_eventual_constant_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/50ebe457-b334-46a5-ac1b-321441d3e8a1

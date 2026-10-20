@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptHammingRadius_binEntropy_tendsto
 -- name    : TwoDegenerateGraphs.manuscriptHammingRadius_binEntropy_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/a60e0c1f-d2bd-4ddd-96a0-f0fc6024dfe3

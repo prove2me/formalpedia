@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceShiftedCosine_eq_imaginaryExponentials
 -- name    : CohnElkies.saddleSourceShiftedCosine_eq_imaginaryExponentials
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/24315c7c-8146-45d5-aa1f-2d1e9984e04a

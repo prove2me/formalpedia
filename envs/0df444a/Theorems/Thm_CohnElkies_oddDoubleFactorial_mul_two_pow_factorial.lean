@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_oddDoubleFactorial_mul_two_pow_factorial
 -- name    : CohnElkies.oddDoubleFactorial_mul_two_pow_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/eb52a4dc-0a9a-49c2-bf32-f02e5f81e141

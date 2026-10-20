@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalEntropy_eq_logb_add_mul_logb
 -- name    : MetricCodes.Spherical.sphericalEntropy_eq_logb_add_mul_logb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/23964dd7-269e-43ef-ab0f-e8bd9c0f991d

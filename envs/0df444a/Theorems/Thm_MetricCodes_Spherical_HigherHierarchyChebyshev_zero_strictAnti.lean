@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_zero_strictAnti
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.zero_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/560a6105-3427-4578-a8d1-5191b37ae96f

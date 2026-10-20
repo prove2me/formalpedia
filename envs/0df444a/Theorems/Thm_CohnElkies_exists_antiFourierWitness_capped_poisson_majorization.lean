@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_antiFourierWitness_capped_poisson_majorization
 -- name    : CohnElkies.exists_antiFourierWitness_capped_poisson_majorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/b28a6108-3eec-4061-ae0d-2098d95b559b

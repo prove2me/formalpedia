@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalConjugateCanonicalAcceptedTarget_apply
 -- name    : QuantumParallelRepetition.unconditionalConjugateCanonicalAcceptedTarget_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/411cd812-fde0-48c8-9acf-0a07d539a362

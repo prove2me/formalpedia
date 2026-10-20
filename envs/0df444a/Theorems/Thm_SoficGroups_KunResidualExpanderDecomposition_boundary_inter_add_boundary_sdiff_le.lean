@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_boundary_inter_add_boundary_sdiff_le
 -- name    : SoficGroups.KunResidualExpanderDecomposition.boundary_inter_add_boundary_sdiff_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/81ec3691-6a84-4a5d-9306-241b55f068c1

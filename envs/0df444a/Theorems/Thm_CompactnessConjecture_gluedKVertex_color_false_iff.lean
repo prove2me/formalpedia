@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedKVertex_color_false_iff
 -- name    : CompactnessConjecture.gluedKVertex_color_false_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/11da4c07-a003-4004-8905-04b5e2c70e3e

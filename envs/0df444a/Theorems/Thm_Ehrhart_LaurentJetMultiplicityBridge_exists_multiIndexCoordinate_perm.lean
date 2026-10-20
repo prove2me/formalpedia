@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_LaurentJetMultiplicityBridge_exists_multiIndexCoordinate_perm
 -- name    : Ehrhart.LaurentJetMultiplicityBridge.exists_multiIndexCoordinate_perm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/581c0110-a4a8-4588-980c-8537046f4acc

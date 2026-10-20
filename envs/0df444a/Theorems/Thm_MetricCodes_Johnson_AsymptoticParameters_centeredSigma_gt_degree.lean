@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_centeredSigma_gt_degree
 -- name    : MetricCodes.Johnson.AsymptoticParameters.centeredSigma_gt_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/42cd98d4-cb4b-430b-951a-0d5dc77811cf

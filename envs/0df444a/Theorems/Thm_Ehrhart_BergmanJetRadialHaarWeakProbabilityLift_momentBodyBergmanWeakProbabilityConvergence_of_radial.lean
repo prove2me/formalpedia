@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetRadialHaarWeakProbabilityLift_momentBodyBergmanWeakProbabilityConvergence_of_radial
 -- name    : Ehrhart.BergmanJetRadialHaarWeakProbabilityLift.momentBodyBergmanWeakProbabilityConvergence_of_radial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/2371c878-f6be-430a-bfdc-c498064b25e2

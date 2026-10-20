@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_kTemplate_no_isolated
 -- name    : CompactnessConjecture.kTemplate_no_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/2b653136-b3ba-45e5-9384-e5f24a7010bf

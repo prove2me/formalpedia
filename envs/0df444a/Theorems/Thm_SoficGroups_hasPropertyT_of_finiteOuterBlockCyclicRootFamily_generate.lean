@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_hasPropertyT_of_finiteOuterBlockCyclicRootFamily_generate
 -- name    : SoficGroups.hasPropertyT_of_finiteOuterBlockCyclicRootFamily_generate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/7195b2cb-94d2-4c79-ab79-568be8cde156

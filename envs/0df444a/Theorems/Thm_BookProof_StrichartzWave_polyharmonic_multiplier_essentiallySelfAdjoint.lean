@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_polyharmonic_multiplier_essentiallySelfAdjoint
 -- name    : BookProof.StrichartzWave.polyharmonic_multiplier_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:53:22.683773+00:00
 -- url     : https://prove2.me/theorems/5bdc28a5-705a-4557-a7a8-7ee0e9f4cf58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairCleanedRow_eq_stoppedSuccess
 -- name    : QuantumParallelRepetition.unconditionalActualFairCleanedRow_eq_stoppedSuccess
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/1024a818-a751-484b-9870-0b8d46549442

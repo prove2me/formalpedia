@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_negMulLog_inverseDegree_eventually
 -- name    : MetricCodes.MRRW.negMulLog_inverseDegree_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/ce7bb111-4357-42de-92a3-cd4c092a470a

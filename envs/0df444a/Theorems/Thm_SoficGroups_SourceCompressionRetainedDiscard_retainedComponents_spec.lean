@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionRetainedDiscard_retainedComponents_spec
 -- name    : SoficGroups.SourceCompressionRetainedDiscard.retainedComponents_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/7d9c20ac-c02d-43a4-b1b4-5665dacc7490

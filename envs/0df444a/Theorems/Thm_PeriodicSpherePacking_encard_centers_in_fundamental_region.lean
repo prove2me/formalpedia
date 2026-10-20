@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicSpherePacking_encard_centers_in_fundamental_region
 -- name    : PeriodicSpherePacking.encard_centers_in_fundamental_region
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/203b031b-21ac-4a23-8dd8-6f9e7083b679

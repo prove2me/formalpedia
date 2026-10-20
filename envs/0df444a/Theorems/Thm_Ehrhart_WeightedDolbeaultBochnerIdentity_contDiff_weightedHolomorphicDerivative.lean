@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_contDiff_weightedHolomorphicDerivative
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.contDiff_weightedHolomorphicDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/d73d0911-0555-454f-8bb9-6461a57a20f6

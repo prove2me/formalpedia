@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_det_blockSupportedVariables_ne_zero
 -- name    : OAI.SeymourSecondNeighborhood.det_blockSupportedVariables_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:19:45.372529+00:00
 -- url     : https://prove2.me/theorems/1e96f51c-820d-49ed-acf5-3196a2f0ad7f

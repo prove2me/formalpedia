@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_encodeFormula_sound
 -- name    : GapCVP.ThreeCNFReduction.encodeFormula_sound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/f361c81d-9cce-43f3-be90-4f8f4e3d1e7d

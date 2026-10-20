@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_rateSet_subset_hierarchyRateSet
 -- name    : MetricCodes.Spherical.HigherHierarchy.rateSet_subset_hierarchyRateSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/b8a4d15b-5a31-4610-8f71-1b0250d7e0f8

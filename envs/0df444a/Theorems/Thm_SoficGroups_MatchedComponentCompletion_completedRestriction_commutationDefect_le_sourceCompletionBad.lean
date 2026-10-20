@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentCompletion_completedRestriction_commutationDefect_le_sourceCompletionBad
 -- name    : SoficGroups.MatchedComponentCompletion.completedRestriction_commutationDefect_le_sourceCompletionBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/c5488027-eeb1-46e7-98bb-adfe624dd299

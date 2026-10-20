@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_exists_bipartite_half_edges
 -- name    : CompactnessConjecture.exists_bipartite_half_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/b0622092-a1c3-4964-a12a-690efa1b5446

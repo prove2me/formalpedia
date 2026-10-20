@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MonomialDivergence_pairing_sub_left
 -- name    : Ehrhart.MonomialDivergence.pairing_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/e31b1275-edaf-49fe-ab28-a8c940520547

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_sqrt_one_sub_centeredDegree_sq
 -- name    : MetricCodes.Johnson.sqrt_one_sub_centeredDegree_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/5d2b5751-c373-4047-8a02-3a802e29e85f

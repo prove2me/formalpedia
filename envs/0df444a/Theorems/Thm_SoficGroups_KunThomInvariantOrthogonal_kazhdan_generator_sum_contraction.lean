@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_kazhdan_generator_sum_contraction
 -- name    : SoficGroups.KunThomInvariantOrthogonal.kazhdan_generator_sum_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/69c9dcf5-2c01-4a01-a5b0-f5c16f3a6268

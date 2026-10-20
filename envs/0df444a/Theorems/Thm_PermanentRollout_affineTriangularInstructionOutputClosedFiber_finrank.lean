@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affineTriangularInstructionOutputClosedFiber_finrank
 -- name    : PermanentRollout.affineTriangularInstructionOutputClosedFiber_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/a8d431c4-65e2-4fd0-836c-08a93ddbfb01

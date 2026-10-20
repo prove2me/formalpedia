@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_repeated_allWinMass_eq
 -- name    : QuantumParallelRepetition.repeated_allWinMass_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/f6ad96d8-ae5a-4ab1-b213-bf3909781df3

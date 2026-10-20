@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseOrthogonalCompleteness_canonicalGelfandTsetlinAxisTensor_mem_gtSignedEigenvectorSpan
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseOrthogonalCompleteness.canonicalGelfandTsetlinAxisTensor_mem_gtSignedEigenvectorSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/3b75d849-a0e2-49d0-a330-4a4c0d907545

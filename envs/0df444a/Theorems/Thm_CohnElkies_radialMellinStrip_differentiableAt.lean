@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialMellinStrip_differentiableAt
 -- name    : CohnElkies.radialMellinStrip_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/32b8081c-921f-46ae-a235-09ecdb58cc14

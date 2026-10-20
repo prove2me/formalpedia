@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_inner_smul_finset_sum_self
 -- name    : SoficGroups.KunRootedIndicatorCrossing.inner_smul_finset_sum_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/2805ac90-d667-4e33-8330-26674a8aca5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_holomorphic_representative_eq_finite_laurent_sum
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.holomorphic_representative_eq_finite_laurent_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/05bded34-c948-4810-beb1-53cd0a080d9a

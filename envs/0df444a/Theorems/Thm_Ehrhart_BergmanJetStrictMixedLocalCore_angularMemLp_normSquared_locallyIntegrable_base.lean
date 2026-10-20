@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetStrictMixedLocalCore_angularMemLp_normSquared_locallyIntegrable_base
 -- name    : Ehrhart.BergmanJetStrictMixedLocalCore.angularMemLp_normSquared_locallyIntegrable_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/5648c91c-42cf-43cb-a0ed-de2719433a64

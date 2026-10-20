@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalMeasure_momentWeakHolomorphicStrictJointProbability_univ
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalMeasure.momentWeakHolomorphicStrictJointProbability_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/2190b60b-9fc7-4906-aadf-31c0efdf5bc4

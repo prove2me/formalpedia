@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_norm_normalizedIndicatorDisplacement_list_prod_le
 -- name    : SoficGroups.KunRootedIndicatorCrossing.norm_normalizedIndicatorDisplacement_list_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/cdcad1dc-ce42-4667-a53a-98d11cef5907

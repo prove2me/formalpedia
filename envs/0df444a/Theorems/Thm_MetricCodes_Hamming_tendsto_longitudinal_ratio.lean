@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_longitudinal_ratio
 -- name    : MetricCodes.Hamming.tendsto_longitudinal_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/4940cd44-7cb2-4b2a-a06b-2a211349e96b

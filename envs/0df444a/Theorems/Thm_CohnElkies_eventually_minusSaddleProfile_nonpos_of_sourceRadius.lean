@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_minusSaddleProfile_nonpos_of_sourceRadius
 -- name    : CohnElkies.eventually_minusSaddleProfile_nonpos_of_sourceRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/f4a2b354-67c0-4ad2-8b32-9ff562b3f843

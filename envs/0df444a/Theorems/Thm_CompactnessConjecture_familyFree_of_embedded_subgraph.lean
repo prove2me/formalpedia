@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_familyFree_of_embedded_subgraph
 -- name    : CompactnessConjecture.familyFree_of_embedded_subgraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/ad97ad22-370f-47d7-bb55-6232046a8005

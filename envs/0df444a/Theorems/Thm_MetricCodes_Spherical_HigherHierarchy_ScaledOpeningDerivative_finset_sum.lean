@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ScaledOpeningDerivative_finset_sum
 -- name    : MetricCodes.Spherical.HigherHierarchy.ScaledOpeningDerivative.finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/a0965f9e-a49a-4191-9301-f428bedffd1d

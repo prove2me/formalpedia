@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceEventualSigns
 -- name    : CohnElkies.saddleSourceEventualSigns
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/e309b83c-cea7-4d34-b5ff-89f8913b34db

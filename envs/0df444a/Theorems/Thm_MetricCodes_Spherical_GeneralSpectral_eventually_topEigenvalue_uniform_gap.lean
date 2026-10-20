@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_eventually_topEigenvalue_uniform_gap
 -- name    : MetricCodes.Spherical.GeneralSpectral.eventually_topEigenvalue_uniform_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/e9f4cb4c-40c1-46c5-bdc6-4579a634bb77

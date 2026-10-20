@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_lemma40_menu_compression
 -- name    : MulticlassDS.Compress.lemma40_menu_compression
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:03:55.93377+00:00
 -- url     : https://prove2.me/theorems/07aacce1-9689-4074-98ae-9da92a0e731f

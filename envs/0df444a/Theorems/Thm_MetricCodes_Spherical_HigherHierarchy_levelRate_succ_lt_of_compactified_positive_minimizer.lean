@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_succ_lt_of_compactified_positive_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_succ_lt_of_compactified_positive_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/52e3ec62-3b8f-47a4-a9e1-7466af9711c0

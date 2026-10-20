@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_weighted_holomorphic_hermitian_integration_by_parts_compact_right
 -- name    : Ehrhart.MatrixTorusBochnerBridge.weighted_holomorphic_hermitian_integration_by_parts_compact_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/3aa4ced3-3648-46fa-889d-6b0fb003390f

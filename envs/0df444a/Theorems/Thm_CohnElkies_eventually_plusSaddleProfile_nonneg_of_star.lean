@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_plusSaddleProfile_nonneg_of_star
 -- name    : CohnElkies.eventually_plusSaddleProfile_nonneg_of_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/dc0c82c6-4661-44ac-9692-e533ff34db59

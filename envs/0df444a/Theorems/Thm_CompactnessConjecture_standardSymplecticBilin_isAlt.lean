@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_standardSymplecticBilin_isAlt
 -- name    : CompactnessConjecture.standardSymplecticBilin_isAlt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/4deb6839-57f1-4e85-a1dd-81db6aadebd1

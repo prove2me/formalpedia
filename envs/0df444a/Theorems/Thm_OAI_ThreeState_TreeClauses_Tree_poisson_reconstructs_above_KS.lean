@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThreeState_TreeClauses_Tree_poisson_reconstructs_above_KS
 -- name    : OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:31.408391+00:00
 -- url     : https://prove2.me/theorems/66d897ab-bf74-4aec-8129-5b2ab24fd742

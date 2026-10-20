@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_natCard_support_deleteIncidence_add_one_le
 -- name    : CompactnessConjecture.natCard_support_deleteIncidence_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/2100baa4-f6ed-4944-b1ac-6d31c3a9669c

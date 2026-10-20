@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalThreshold_continuousAt
 -- name    : MetricCodes.Spherical.classicalThreshold_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/e423e837-8368-4933-9d4c-54fccc354bdb

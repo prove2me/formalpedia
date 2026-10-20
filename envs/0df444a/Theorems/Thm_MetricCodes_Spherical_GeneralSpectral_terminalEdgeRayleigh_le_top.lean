@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_terminalEdgeRayleigh_le_top
 -- name    : MetricCodes.Spherical.GeneralSpectral.terminalEdgeRayleigh_le_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/c91aaeb9-d5e2-4d92-8024-9f4ac4866d60

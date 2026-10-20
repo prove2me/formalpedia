@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeBlockWeight_ne_zero
 -- name    : PermanentRollout.sourceTreeBlockWeight_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/68687bd7-a7cc-47b3-b849-d2d42d47da7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockRootSubgroups_pair_inner_sq_le
 -- name    : SoficGroups.finiteOuterBlockRootSubgroups_pair_inner_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/542600f3-152d-457d-830c-523ad8ff9a10

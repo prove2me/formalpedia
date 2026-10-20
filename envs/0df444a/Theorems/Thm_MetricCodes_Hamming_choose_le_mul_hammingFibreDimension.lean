@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_choose_le_mul_hammingFibreDimension
 -- name    : MetricCodes.Hamming.choose_le_mul_hammingFibreDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/fd59347e-cdc0-4598-bd24-4a0741553158

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_differentiable_insertNth_holomorphicSlice
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.differentiable_insertNth_holomorphicSlice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/f05a3bc5-23ab-4e57-89fc-6c03c3200dbf

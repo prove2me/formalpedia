@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleShellPhase_damping_identity
 -- name    : CohnElkies.saddleShellPhase_damping_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/dd4de0f0-ebe5-4397-ba18-2da6423ab6d6

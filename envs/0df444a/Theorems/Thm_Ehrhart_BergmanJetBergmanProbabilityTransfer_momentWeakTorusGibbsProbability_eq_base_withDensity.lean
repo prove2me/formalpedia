@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBergmanProbabilityTransfer_momentWeakTorusGibbsProbability_eq_base_withDensity
 -- name    : Ehrhart.BergmanJetBergmanProbabilityTransfer.momentWeakTorusGibbsProbability_eq_base_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/87a8418f-7722-46e8-9f29-88b46d3e7046

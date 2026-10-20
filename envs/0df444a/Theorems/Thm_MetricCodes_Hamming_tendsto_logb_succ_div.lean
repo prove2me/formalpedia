@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_logb_succ_div
 -- name    : MetricCodes.Hamming.tendsto_logb_succ_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/decfcec7-b49a-4990-99f4-5492fb0c524a

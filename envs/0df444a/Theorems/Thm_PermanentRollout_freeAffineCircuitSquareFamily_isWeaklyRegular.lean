@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuitSquareFamily_isWeaklyRegular
 -- name    : PermanentRollout.freeAffineCircuitSquareFamily_isWeaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/c0d7a83c-8ea8-46bd-af6b-b5c3799a7c8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_asymptoticThreshold_lt_one
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.asymptoticThreshold_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/09726c81-492e-432f-951c-c4bd01e5720a

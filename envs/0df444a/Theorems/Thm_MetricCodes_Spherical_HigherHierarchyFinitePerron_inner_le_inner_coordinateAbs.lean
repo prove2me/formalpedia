@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_inner_le_inner_coordinateAbs
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.inner_le_inner_coordinateAbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/05dd5087-f929-4674-b9bb-be2b5e3f944c

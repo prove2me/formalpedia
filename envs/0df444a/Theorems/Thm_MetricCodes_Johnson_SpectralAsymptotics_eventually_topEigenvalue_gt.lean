@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_eventually_topEigenvalue_gt
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.eventually_topEigenvalue_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/d5da70da-c814-4e45-aa67-84e7466af20e

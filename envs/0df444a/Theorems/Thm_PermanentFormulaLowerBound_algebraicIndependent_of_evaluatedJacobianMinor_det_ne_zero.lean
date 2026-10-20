@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_algebraicIndependent_of_evaluatedJacobianMinor_det_ne_zero
 -- name    : PermanentFormulaLowerBound.algebraicIndependent_of_evaluatedJacobianMinor_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/178571a3-8cbe-46eb-8d9e-8147fb50db8b

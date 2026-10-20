@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_cumulative_mono
 -- name    : PermanentRollout.affine_cumulative_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/4add9396-f658-4731-b66a-5e2954954e8e

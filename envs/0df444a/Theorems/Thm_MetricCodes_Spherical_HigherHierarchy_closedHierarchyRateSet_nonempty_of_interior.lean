@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_closedHierarchyRateSet_nonempty_of_interior
 -- name    : MetricCodes.Spherical.HigherHierarchy.closedHierarchyRateSet_nonempty_of_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/932e9652-4683-4aba-a942-100920664be2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_mellinShellPhase_shifted_re
 -- name    : CohnElkies.mellinShellPhase_shifted_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/7ac824d6-1005-4608-9f2e-ba15f71381ff

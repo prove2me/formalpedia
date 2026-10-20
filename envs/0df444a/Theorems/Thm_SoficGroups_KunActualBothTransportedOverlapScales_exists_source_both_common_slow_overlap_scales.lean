@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualBothTransportedOverlapScales_exists_source_both_common_slow_overlap_scales
 -- name    : SoficGroups.KunActualBothTransportedOverlapScales.exists_source_both_common_slow_overlap_scales
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/2bd32f51-af13-4c83-80a5-0044e995bc0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAbsentSignedProjectorOnRetainedSpan_cartanCharacteristicProjector_apply_eq_zero_of_absent_eigenchannel_span
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAbsentSignedProjectorOnRetainedSpan.cartanCharacteristicProjector_apply_eq_zero_of_absent_eigenchannel_span
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/39fc6f04-d22e-46b1-a691-d5dd9e8e8b75

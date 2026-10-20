@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungArbitraryRankAdjacentInterlacingSchedule_le_of_mem_adjacentReversePrefix
 -- name    : MetricCodes.Spherical.HigherYoungArbitraryRankAdjacentInterlacingSchedule.le_of_mem_adjacentReversePrefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/3fe7511f-fbec-4e48-99c8-fb48ef538229

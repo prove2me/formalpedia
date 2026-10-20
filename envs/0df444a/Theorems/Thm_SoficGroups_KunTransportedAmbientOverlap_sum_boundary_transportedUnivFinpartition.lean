@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_sum_boundary_transportedUnivFinpartition
 -- name    : SoficGroups.KunTransportedAmbientOverlap.sum_boundary_transportedUnivFinpartition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/747b9560-8aaa-4d5c-a0b4-a3a133cbac23

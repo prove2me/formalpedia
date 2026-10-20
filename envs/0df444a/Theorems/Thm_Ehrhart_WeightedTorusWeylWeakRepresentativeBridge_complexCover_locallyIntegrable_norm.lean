@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylWeakRepresentativeBridge_complexCover_locallyIntegrable_norm
 -- name    : Ehrhart.WeightedTorusWeylWeakRepresentativeBridge.complexCover_locallyIntegrable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/ed3cd387-ef80-4b0f-abd4-323a38682aef

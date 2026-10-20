@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleProfile_eq_small_radius_residue_series
 -- name    : CohnElkies.plusSaddleProfile_eq_small_radius_residue_series
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/f67611bf-9d60-47bd-8fbc-5a6e9b74db64

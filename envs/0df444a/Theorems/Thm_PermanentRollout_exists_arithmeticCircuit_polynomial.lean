@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_arithmeticCircuit_polynomial
 -- name    : PermanentRollout.exists_arithmeticCircuit_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/ee07bd6d-56c2-4bc6-b727-fdfece1d7733

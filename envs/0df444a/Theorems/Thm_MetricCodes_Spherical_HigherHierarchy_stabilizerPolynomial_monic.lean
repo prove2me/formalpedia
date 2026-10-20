@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stabilizerPolynomial_monic
 -- name    : MetricCodes.Spherical.HigherHierarchy.stabilizerPolynomial_monic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/65dbdb6f-7192-4b12-8f22-052518ed54a6

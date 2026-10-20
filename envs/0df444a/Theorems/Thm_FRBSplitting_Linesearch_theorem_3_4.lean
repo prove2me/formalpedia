@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_Linesearch_theorem_3_4
 -- name    : FRBSplitting.Linesearch.theorem_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:45:12.523908+00:00
 -- url     : https://prove2.me/theorems/0932945b-8f37-4594-b05d-a5aa7b53d08b

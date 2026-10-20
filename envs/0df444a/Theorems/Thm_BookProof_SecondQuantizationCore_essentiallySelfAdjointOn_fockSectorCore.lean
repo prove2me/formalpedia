@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SecondQuantizationCore_essentiallySelfAdjointOn_fockSectorCore
 -- name    : BookProof.SecondQuantizationCore.essentiallySelfAdjointOn_fockSectorCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:49:40.256977+00:00
 -- url     : https://prove2.me/theorems/1bfbbc7f-8c95-470a-9b81-07741a1030e1

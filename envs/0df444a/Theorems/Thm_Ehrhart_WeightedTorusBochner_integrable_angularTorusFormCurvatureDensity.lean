@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_integrable_angularTorusFormCurvatureDensity
 -- name    : Ehrhart.WeightedTorusBochner.integrable_angularTorusFormCurvatureDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/dfc7a861-0929-4a27-b3f2-7ac818919113

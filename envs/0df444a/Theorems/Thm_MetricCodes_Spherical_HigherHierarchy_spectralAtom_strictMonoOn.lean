@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_spectralAtom_strictMonoOn
 -- name    : MetricCodes.Spherical.HigherHierarchy.spectralAtom_strictMonoOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/d180832c-07cd-45d9-8e31-06e8d530b6fc

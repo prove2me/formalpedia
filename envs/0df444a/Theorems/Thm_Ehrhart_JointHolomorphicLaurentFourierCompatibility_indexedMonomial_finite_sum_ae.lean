@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_indexedMonomial_finite_sum_ae
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.indexedMonomial_finite_sum_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/95f85b66-783a-4ccf-8239-fff7ebde65a2

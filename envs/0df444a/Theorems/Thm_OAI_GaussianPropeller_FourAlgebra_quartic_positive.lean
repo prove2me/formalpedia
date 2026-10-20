@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_FourAlgebra_quartic_positive
 -- name    : OAI.GaussianPropeller.FourAlgebra.quartic_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:20:26.376278+00:00
 -- url     : https://prove2.me/theorems/83a830e1-0548-488f-b8f7-d8ed89a14875

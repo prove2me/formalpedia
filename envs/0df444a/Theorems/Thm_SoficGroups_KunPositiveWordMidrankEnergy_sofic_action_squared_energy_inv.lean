@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunPositiveWordMidrankEnergy_sofic_action_squared_energy_inv
 -- name    : SoficGroups.KunPositiveWordMidrankEnergy.sofic_action_squared_energy_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/2488e27b-f8e2-4895-9580-e46f996e2594

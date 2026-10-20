@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_Gegenbauer_harmonicDimension_branch_sum
 -- name    : SpherePacking.Gegenbauer.harmonicDimension_branch_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/d10fb6b1-eb5e-4a31-bf98-9b4cd03af9aa

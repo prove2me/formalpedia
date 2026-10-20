@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_minimizing_sequence_bddAbove
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_minimizing_sequence_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/3d21d4d9-c4e0-4313-84aa-b8f8a0f3756b

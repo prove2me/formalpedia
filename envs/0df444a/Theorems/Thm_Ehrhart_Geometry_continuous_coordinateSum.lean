@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_continuous_coordinateSum
 -- name    : Ehrhart.Geometry.continuous_coordinateSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/372acc63-03be-440d-8752-d6e73c9b0511

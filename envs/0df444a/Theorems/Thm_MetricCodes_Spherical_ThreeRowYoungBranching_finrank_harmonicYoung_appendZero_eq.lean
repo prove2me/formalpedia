@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_ThreeRowYoungBranching_finrank_harmonicYoung_appendZero_eq
 -- name    : MetricCodes.Spherical.ThreeRowYoungBranching.finrank_harmonicYoung_appendZero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/689104e0-65ef-43e8-a221-db8d31575745

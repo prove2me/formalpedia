@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_directionalExampleFiniteTO
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.directionalExampleFiniteTO
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:48:06.875793+00:00
 -- url     : https://prove2.me/theorems/8868e4ca-a289-473b-9a44-c31dca5a54a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeProjectionAverage_fixed_iff_residualMap_eq_zero
 -- name    : SoficGroups.ejThreeProjectionAverage_fixed_iff_residualMap_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/fe048f76-16ad-4846-90f9-c93db39f7bb8

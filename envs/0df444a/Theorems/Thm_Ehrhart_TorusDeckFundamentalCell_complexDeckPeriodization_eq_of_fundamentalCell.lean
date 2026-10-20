@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckFundamentalCell_complexDeckPeriodization_eq_of_fundamentalCell
 -- name    : Ehrhart.TorusDeckFundamentalCell.complexDeckPeriodization_eq_of_fundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/82af3a77-c3ca-4880-b79a-ca7c797103b7

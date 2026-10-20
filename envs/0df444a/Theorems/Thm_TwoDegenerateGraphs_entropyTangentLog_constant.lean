@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropyTangentLog_constant
 -- name    : TwoDegenerateGraphs.entropyTangentLog_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/163c90a2-eda2-418f-aaaa-064dc83959e3

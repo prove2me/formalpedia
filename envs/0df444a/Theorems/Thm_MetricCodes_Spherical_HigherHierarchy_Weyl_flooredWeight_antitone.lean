@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_flooredWeight_antitone
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.flooredWeight_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/2a10d8a6-e283-4030-a2dc-2bd3d24ab45c

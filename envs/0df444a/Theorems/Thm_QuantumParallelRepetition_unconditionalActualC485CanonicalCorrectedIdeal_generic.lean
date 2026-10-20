@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485CanonicalCorrectedIdeal_generic
 -- name    : QuantumParallelRepetition.unconditionalActualC485CanonicalCorrectedIdeal_generic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/12b2949d-95ff-42f9-abd4-03dcc0d77361

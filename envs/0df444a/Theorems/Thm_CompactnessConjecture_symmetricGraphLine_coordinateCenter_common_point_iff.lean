@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricGraphLine_coordinateCenter_common_point_iff
 -- name    : CompactnessConjecture.symmetricGraphLine_coordinateCenter_common_point_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/53525f1e-8ea5-4ea2-a045-f5ae988be1c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseSectorSignedSpan_gtPhysicalStabilizerIntertwiner_mem_gtSignedEigenvectorSpan
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseSectorSignedSpan.gtPhysicalStabilizerIntertwiner_mem_gtSignedEigenvectorSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/11ffe6c2-d4a1-4d35-a22e-e9e421e995ab

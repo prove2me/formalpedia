@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejTwoResidual_spectral_gap_of_angle
 -- name    : SoficGroups.ejTwoResidual_spectral_gap_of_angle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/0658df26-46d1-4112-9b58-df62625f8e3a

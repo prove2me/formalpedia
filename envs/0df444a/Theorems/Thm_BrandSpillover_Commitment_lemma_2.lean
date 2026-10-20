@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrandSpillover_Commitment_lemma_2
 -- name    : BrandSpillover.Commitment.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:51.655738+00:00
 -- url     : https://prove2.me/theorems/8cd74964-5f26-46f0-9814-150b8f9555c1

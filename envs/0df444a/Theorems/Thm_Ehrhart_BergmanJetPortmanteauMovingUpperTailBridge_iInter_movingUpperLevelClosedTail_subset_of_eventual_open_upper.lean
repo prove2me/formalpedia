@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauMovingUpperTailBridge_iInter_movingUpperLevelClosedTail_subset_of_eventual_open_upper
 -- name    : Ehrhart.BergmanJetPortmanteauMovingUpperTailBridge.iInter_movingUpperLevelClosedTail_subset_of_eventual_open_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/247df64e-6c64-4efc-9d66-a2415bdc7de7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_elementaryGroup_infinite
 -- name    : SoficGroups.elementaryGroup_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/34814255-54b9-4375-8974-89d4973ba22e

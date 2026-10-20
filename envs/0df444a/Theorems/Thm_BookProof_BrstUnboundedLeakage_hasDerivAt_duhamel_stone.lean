@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_hasDerivAt_duhamel_stone
 -- name    : BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:18:15.727034+00:00
 -- url     : https://prove2.me/theorems/f0fb7de9-514e-4e26-9466-3306a2ae091f

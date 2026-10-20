@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceSecondBranch_sourceL1Tails_of_uniform_tail
 -- name    : CohnElkies.eventually_saddleSourceSecondBranch_sourceL1Tails_of_uniform_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/ed736c0a-8fdd-4e14-a36f-a045650a93a1

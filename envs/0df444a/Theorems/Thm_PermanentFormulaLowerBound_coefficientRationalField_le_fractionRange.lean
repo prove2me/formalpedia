@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_coefficientRationalField_le_fractionRange
 -- name    : PermanentFormulaLowerBound.coefficientRationalField_le_fractionRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/f15f10f3-525b-44c9-ba58-f09fb07ea301

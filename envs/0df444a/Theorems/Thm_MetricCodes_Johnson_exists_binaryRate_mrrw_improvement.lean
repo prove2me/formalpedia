@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_exists_binaryRate_mrrw_improvement
 -- name    : MetricCodes.Johnson.exists_binaryRate_mrrw_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/766a3e5d-8f2a-4d23-9e98-fca8334e828c

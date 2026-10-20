@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_LinearGame_condition_v_admissible
 -- name    : ImpulseGames.LinearGame.condition_v_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:51:24.17179+00:00
 -- url     : https://prove2.me/theorems/d82c1170-a778-4d73-bd96-19a648178c2a

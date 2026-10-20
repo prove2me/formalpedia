@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_eventually_y_star_le_log_eighth_add
 -- name    : CohnElkies.exists_eventually_y_star_le_log_eighth_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/f134a124-b037-4b91-8d33-6fe433050b54

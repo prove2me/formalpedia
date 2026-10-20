@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_hasCompactSupport_sourceAngularDerivativeLift
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.hasCompactSupport_sourceAngularDerivativeLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/2995c0cd-cf00-4dce-9b19-a18e0e7e387f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_finiteNatSup_sixteenth_power_le
 -- name    : CompactnessConjecture.finiteNatSup_sixteenth_power_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/1b39d98e-ba2e-492c-a3ad-2930a9a639b2

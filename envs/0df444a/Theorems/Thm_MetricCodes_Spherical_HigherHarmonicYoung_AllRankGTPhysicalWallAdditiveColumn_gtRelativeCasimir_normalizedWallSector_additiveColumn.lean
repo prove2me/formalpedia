@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalWallAdditiveColumn_gtRelativeCasimir_normalizedWallSector_additiveColumn
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalWallAdditiveColumn.gtRelativeCasimir_normalizedWallSector_additiveColumn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/de206c66-5370-4322-b5e5-7ce3af6c7f0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingDeletionChannelSquare_mul_sqrt_choose
 -- name    : MetricCodes.Boolean.hammingDeletionChannelSquare_mul_sqrt_choose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/74d95795-3a68-4dc4-a8d5-62fec12fcf06

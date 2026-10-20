@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_two_le_leaves_of_fourth_power_bound
 -- name    : PermanentFormulaLowerBound.two_le_leaves_of_fourth_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/d69e68ab-e419-4207-b433-132d251ae1a0

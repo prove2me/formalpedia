@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_integerExponent_eq_of_integerPoint
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.integerExponent_eq_of_integerPoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/794824e7-bfba-4cda-8f47-fa5cbb743231

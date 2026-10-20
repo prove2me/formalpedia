@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicConvexTransfer_exp_neg_canonicalScale_mul_volume_le_momentBodyPartition
 -- name    : Ehrhart.BergmanJetJointHolomorphicConvexTransfer.exp_neg_canonicalScale_mul_volume_le_momentBodyPartition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/b8630be1-1cc2-49cd-8bae-f735f5e58b4a

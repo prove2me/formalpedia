@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_blockTree_leafList
 -- name    : PermanentRollout.exists_blockTree_leafList
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/6fa7f585-9e1b-4db7-905b-d9985774d046

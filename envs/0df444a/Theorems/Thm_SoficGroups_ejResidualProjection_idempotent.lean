@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejResidualProjection_idempotent
 -- name    : SoficGroups.ejResidualProjection_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/397e1c34-8adc-444d-87fe-972979c0ac11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionRetainedDiscard_witnesslessComponents_subset_parts
 -- name    : SoficGroups.SourceCompressionRetainedDiscard.witnesslessComponents_subset_parts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/f6ae6ba0-1c44-4a27-8f78-cbe5294c6f8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualUpperTailBridge_continuous_sourcePositiveJointTimePoint_fixed
 -- name    : Ehrhart.BergmanJetPortmanteauActualUpperTailBridge.continuous_sourcePositiveJointTimePoint_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/e9fa7a5a-83e1-4781-84fa-0fc7ca4ff785

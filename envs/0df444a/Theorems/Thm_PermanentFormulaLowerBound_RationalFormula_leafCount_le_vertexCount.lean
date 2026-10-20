@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_leafCount_le_vertexCount
 -- name    : PermanentFormulaLowerBound.RationalFormula.leafCount_le_vertexCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/a8eb9a85-ce19-4828-86c3-750c6106d24c

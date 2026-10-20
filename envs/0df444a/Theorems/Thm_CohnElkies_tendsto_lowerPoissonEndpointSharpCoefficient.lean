@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_lowerPoissonEndpointSharpCoefficient
 -- name    : CohnElkies.tendsto_lowerPoissonEndpointSharpCoefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/fc8a03ea-7d31-4dc7-9300-944a690734d9

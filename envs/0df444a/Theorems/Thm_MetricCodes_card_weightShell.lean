@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_card_weightShell
 -- name    : MetricCodes.card_weightShell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/1731eb24-03ac-4789-8c4e-1871e8f26e70

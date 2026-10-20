@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_positive_quadraticExpectation_nonneg
 -- name    : QuantumParallelRepetition.positive_quadraticExpectation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/2920657e-c516-412c-87ae-32cfd65938e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactFairWinningOutcomeBornMass_eq_refined
 -- name    : QuantumParallelRepetition.exactFairWinningOutcomeBornMass_eq_refined
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/1db224cb-931e-41a8-9c28-6bfd72846719

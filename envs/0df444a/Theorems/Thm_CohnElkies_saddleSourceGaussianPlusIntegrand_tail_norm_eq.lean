@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceGaussianPlusIntegrand_tail_norm_eq
 -- name    : CohnElkies.saddleSourceGaussianPlusIntegrand_tail_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/e014e8d8-3832-4473-80dc-5c6194b6c351

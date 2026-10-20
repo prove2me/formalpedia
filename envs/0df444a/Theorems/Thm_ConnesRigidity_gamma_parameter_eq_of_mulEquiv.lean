@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_gamma_parameter_eq_of_mulEquiv
 -- name    : ConnesRigidity.gamma_parameter_eq_of_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/1fcdc25c-a2ef-4e88-9140-27db92e98ee5

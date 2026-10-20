@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Arcsine_betaPDFReal_one_half_eq_mul_half_pi_sqrt
 -- name    : MetricCodes.Spherical.HigherHierarchy.Arcsine.betaPDFReal_one_half_eq_mul_half_pi_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/a0ce756b-1132-4d40-abaa-68ec85915f01

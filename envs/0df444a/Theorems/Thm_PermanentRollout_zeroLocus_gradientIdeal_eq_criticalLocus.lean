@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_zeroLocus_gradientIdeal_eq_criticalLocus
 -- name    : PermanentRollout.zeroLocus_gradientIdeal_eq_criticalLocus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/4e947492-d1e5-4cde-9246-62a4595a569d

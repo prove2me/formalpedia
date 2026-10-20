@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Pruning_alphaEdges_isMatching
 -- name    : OAI.SeymourSecondNeighborhood.Pruning.alphaEdges_isMatching
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:12:23.242711+00:00
 -- url     : https://prove2.me/theorems/f2d5d0d4-0c04-4a4a-a8cf-88fb37f421e6

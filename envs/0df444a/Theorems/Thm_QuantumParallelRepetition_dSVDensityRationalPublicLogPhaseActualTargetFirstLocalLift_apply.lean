@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalPublicLogPhaseActualTargetFirstLocalLift_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalPublicLogPhaseActualTargetFirstLocalLift_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/facd98ac-67b8-49a5-b035-c1830eedf0b5

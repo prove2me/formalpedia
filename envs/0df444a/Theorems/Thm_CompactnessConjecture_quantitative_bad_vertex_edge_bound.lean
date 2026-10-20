@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quantitative_bad_vertex_edge_bound
 -- name    : CompactnessConjecture.quantitative_bad_vertex_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/8b2d2a87-4390-47e0-bf29-54431b01033d

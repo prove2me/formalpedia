@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_EnvelopeSpatialPeriodicity_sourcePositiveJointTimePoint_spatial_translate
 -- name    : Ehrhart.EnvelopeSpatialPeriodicity.sourcePositiveJointTimePoint_spatial_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/5983bd8c-977f-4e49-acd5-c4b1b0c6d621

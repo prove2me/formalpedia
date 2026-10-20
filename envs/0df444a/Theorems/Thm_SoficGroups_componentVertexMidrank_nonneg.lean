@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_componentVertexMidrank_nonneg
 -- name    : SoficGroups.componentVertexMidrank_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/ecfea530-3fe4-490b-9a1a-db2143c6b64c

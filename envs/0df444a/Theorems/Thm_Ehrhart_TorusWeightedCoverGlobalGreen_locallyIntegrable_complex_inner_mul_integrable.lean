@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedCoverGlobalGreen_locallyIntegrable_complex_inner_mul_integrable
 -- name    : Ehrhart.TorusWeightedCoverGlobalGreen.locallyIntegrable_complex_inner_mul_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/2a9a449c-d999-4137-9d0e-b849d86e1c59

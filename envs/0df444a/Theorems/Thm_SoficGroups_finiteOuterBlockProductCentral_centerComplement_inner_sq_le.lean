@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockProductCentral_centerComplement_inner_sq_le
 -- name    : SoficGroups.finiteOuterBlockProductCentral_centerComplement_inner_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/9b28f95d-0304-4237-ad31-926f7981115d

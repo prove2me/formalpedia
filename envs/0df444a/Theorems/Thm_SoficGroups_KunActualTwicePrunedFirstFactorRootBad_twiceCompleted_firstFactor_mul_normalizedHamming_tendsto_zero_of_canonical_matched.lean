@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualTwicePrunedFirstFactorRootBad_twiceCompleted_firstFactor_mul_normalizedHamming_tendsto_zero_of_canonical_matched
 -- name    : SoficGroups.KunActualTwicePrunedFirstFactorRootBad.twiceCompleted_firstFactor_mul_normalizedHamming_tendsto_zero_of_canonical_matched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/60420838-58cc-4c5a-a148-43ddbc9dca8a

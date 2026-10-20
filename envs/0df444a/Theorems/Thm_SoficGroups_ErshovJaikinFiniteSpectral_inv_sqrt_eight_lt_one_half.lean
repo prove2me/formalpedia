@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_inv_sqrt_eight_lt_one_half
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.inv_sqrt_eight_lt_one_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/7e881fc3-a6ce-4457-a6ce-4524fc08de59

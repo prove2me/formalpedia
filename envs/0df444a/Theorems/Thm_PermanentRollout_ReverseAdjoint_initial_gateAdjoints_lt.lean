@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_initial_gateAdjoints_lt
 -- name    : PermanentRollout.ReverseAdjoint.initial_gateAdjoints_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/790562e7-e4c8-4614-8b6e-b8a07e0d90eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCanonicalBoxActualForward_dominantSameAxisDiamond_allRows
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward.dominantSameAxisDiamond_allRows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:00.396673+00:00
 -- url     : https://prove2.me/theorems/4cccdc2d-d88a-4290-861c-7bc0c7f860f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_permanent_size_bounds_of_fourth_power
 -- name    : PermanentFormulaLowerBound.RationalFormula.permanent_size_bounds_of_fourth_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/b94d1963-df26-44dd-beb9-921f989052f3

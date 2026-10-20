@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalMixedCanonicalSpectralOutcome_eq
 -- name    : QuantumParallelRepetition.dSVDensityRationalMixedCanonicalSpectralOutcome_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/eff4baba-3c75-48e1-b793-e51aa0c461ef

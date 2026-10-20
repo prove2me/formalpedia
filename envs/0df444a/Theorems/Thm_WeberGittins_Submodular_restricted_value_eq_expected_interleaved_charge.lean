@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_Submodular_restricted_value_eq_expected_interleaved_charge
 -- name    : WeberGittins.Submodular.restricted_value_eq_expected_interleaved_charge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:56:15.927636+00:00
 -- url     : https://prove2.me/theorems/5afbb9a3-9c22-43df-bba7-26c84e35bee1

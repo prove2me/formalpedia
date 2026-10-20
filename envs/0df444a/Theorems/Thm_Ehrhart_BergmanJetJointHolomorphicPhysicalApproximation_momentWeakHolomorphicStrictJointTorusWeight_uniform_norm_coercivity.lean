@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhysicalApproximation_momentWeakHolomorphicStrictJointTorusWeight_uniform_norm_coercivity
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhysicalApproximation.momentWeakHolomorphicStrictJointTorusWeight_uniform_norm_coercivity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/a8938c9a-bf80-4af6-a3e7-83ca19874c9b

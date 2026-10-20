@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_no_point_jTemplate_of_first_base
 -- name    : CompactnessConjecture.symplecticQuadrangle_no_point_jTemplate_of_first_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/cba3e4e5-3526-444c-97f9-11bbbdaf3a75

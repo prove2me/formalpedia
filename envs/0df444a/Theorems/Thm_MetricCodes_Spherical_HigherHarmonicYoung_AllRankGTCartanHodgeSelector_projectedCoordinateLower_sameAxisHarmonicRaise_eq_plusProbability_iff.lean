@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCartanHodgeSelector_projectedCoordinateLower_sameAxisHarmonicRaise_eq_plusProbability_iff
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector.projectedCoordinateLower_sameAxisHarmonicRaise_eq_plusProbability_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/500221c2-460e-4f97-9239-e82e6260714c

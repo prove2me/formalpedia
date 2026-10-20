@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_mem_threeFiniteSubgroupGenerators
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.mem_threeFiniteSubgroupGenerators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/0de8d82d-51a8-41b1-8281-e231a3617d5f

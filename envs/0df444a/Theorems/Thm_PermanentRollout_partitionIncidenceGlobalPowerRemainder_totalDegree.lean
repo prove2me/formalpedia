@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionIncidenceGlobalPowerRemainder_totalDegree
 -- name    : PermanentRollout.partitionIncidenceGlobalPowerRemainder_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/c7cf06d3-440e-4887-8414-f16a22b36ba1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhase_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhase_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/b61ffb2f-8e3d-4bde-bf58-b00dd607f21b

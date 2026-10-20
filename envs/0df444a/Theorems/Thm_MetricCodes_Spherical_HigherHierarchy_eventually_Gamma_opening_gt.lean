@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_Gamma_opening_gt
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_Gamma_opening_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/ce74956a-1d73-4b96-bcdf-ef985dfbfbed

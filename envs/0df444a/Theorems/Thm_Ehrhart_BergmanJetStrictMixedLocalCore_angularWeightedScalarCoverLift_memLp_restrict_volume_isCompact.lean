@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetStrictMixedLocalCore_angularWeightedScalarCoverLift_memLp_restrict_volume_isCompact
 -- name    : Ehrhart.BergmanJetStrictMixedLocalCore.angularWeightedScalarCoverLift_memLp_restrict_volume_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/599b6133-4448-4399-9157-680c1b1cced4

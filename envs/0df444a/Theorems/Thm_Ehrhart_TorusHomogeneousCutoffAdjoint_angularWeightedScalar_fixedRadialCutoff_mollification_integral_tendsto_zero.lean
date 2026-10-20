@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousCutoffAdjoint_angularWeightedScalar_fixedRadialCutoff_mollification_integral_tendsto_zero
 -- name    : Ehrhart.TorusHomogeneousCutoffAdjoint.angularWeightedScalar_fixedRadialCutoff_mollification_integral_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/dc5eab93-3baf-4285-949a-ffafffe91212

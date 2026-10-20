@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTCharacteristicResidue_plusProbability_eq_gtCharacteristic_residue
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue.plusProbability_eq_gtCharacteristic_residue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/99c301dd-e470-40b8-a9dd-c008238c5232

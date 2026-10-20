@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedResolventConstantCore_inv_nat_add_one_tendsto_zero
 -- name    : Ehrhart.WeightedResolventConstantCore.inv_nat_add_one_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/99214b48-10b1-4834-894d-1f5c1dc03ec0

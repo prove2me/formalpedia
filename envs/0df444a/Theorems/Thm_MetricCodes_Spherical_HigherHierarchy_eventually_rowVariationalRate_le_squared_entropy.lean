@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_rowVariationalRate_le_squared_entropy
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_rowVariationalRate_le_squared_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/994694cd-b602-4917-ad97-8f95bc0a7e8c

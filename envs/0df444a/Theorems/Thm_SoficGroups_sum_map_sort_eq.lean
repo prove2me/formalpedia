@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_sum_map_sort_eq
 -- name    : SoficGroups.sum_map_sort_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/7c5e7a43-3c05-4fa0-81e0-1a5d6bff582b

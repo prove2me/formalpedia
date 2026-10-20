@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.WeylCauchyRiemann.mollify_analyticOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:37:43.13225+00:00
 -- url     : https://prove2.me/submissions/23fa081b-6acb-4811-9efe-94f87bbb728a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWeylCauchyRiemann.lean — solution of BookProof.WeylCauchyRiemann.mollify_analyticOn
 import Mathlib

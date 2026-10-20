@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_atLeastOneClause_satisfied
 -- name    : GapCVP.CL.atLeastOneClause_satisfied
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/9f0e67b8-fc06-485d-b931-8356e1c68847

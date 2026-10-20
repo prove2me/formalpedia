@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_hilbertKernelRealization_pair_vector_add
 -- name    : SoficGroups.KunRootedIndicatorCrossing.hilbertKernelRealization_pair_vector_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/0e80dda7-4fa6-44d5-8d57-52429648327e

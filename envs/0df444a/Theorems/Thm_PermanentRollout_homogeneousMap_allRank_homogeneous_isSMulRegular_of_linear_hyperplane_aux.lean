@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_homogeneous_isSMulRegular_of_linear_hyperplane_aux
 -- name    : PermanentRollout.homogeneousMap_allRank_homogeneous_isSMulRegular_of_linear_hyperplane_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/10881e1a-f0f6-445e-b175-0f0d375ffc49

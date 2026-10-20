@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedCoverAdjointGreen_ae_mem_angularFundamentalBox_realFundamentalCell
 -- name    : Ehrhart.TorusWeightedCoverAdjointGreen.ae_mem_angularFundamentalBox_realFundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/19828749-7f7c-4579-9830-e9881940c129

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Arcsine_beta_half_half_eq_pi
 -- name    : MetricCodes.Spherical.HigherHierarchy.Arcsine.beta_half_half_eq_pi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/3947c3bd-ca0f-4c64-9444-8b2a38fd5ed3

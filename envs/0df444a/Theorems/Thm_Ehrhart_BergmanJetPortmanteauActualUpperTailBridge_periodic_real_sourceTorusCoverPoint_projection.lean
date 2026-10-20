@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualUpperTailBridge_periodic_real_sourceTorusCoverPoint_projection
 -- name    : Ehrhart.BergmanJetPortmanteauActualUpperTailBridge.periodic_real_sourceTorusCoverPoint_projection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/dc1424fc-ce5c-4675-aaa9-2cba37acd465

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairCoordinateClassificationFiber_card
 -- name    : TwoDegenerateGraphs.pairCoordinateClassificationFiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/ce796224-c3ba-4e43-883c-fcb1e76ff07f

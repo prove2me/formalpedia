@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapFinSucc_source_prefix_plane_data
 -- name    : PermanentRollout.homogeneousMapFinSucc_source_prefix_plane_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/9e1000a3-716b-40c6-962b-63f0b694b8a2

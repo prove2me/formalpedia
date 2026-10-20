@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_physical_ext_iff_comprehensive
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.physical_ext_iff_comprehensive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:56:53.759378+00:00
 -- url     : https://prove2.me/theorems/59a0b774-cc2c-4982-bc73-10fcbf067848

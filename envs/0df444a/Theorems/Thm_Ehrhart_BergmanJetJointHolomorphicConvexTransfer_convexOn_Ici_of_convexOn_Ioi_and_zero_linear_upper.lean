@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicConvexTransfer_convexOn_Ici_of_convexOn_Ioi_and_zero_linear_upper
 -- name    : Ehrhart.BergmanJetJointHolomorphicConvexTransfer.convexOn_Ici_of_convexOn_Ioi_and_zero_linear_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/f4f037e3-588f-4a57-bb7d-32d16fb679cd

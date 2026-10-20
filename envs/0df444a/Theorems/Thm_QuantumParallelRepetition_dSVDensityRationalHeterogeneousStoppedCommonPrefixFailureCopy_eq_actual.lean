@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousStoppedCommonPrefixFailureCopy_eq_actual
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousStoppedCommonPrefixFailureCopy_eq_actual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/fcc85759-83b8-46af-b045-53ee05c1cc0f

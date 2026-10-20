@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_hattedEdgeLimit_pos
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.hattedEdgeLimit_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/e9c180e3-143a-44ae-83ad-d106a9791693

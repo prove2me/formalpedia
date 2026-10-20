@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryCapped_exp_integrable_dimension
 -- name    : CohnElkies.lowerGammaBoundaryCapped_exp_integrable_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/6dcbe2e8-0ea4-44aa-88cd-bbd4f4f4c105

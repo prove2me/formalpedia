@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_rankDropCount_nonneg_and_le
 -- name    : SoficGroups.rankDropCount_nonneg_and_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/26adf4c4-dbdc-4569-bd38-dc109e2ec3da

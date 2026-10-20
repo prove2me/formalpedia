@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockProductCentralRoot_pair_le_centralizer
 -- name    : SoficGroups.finiteOuterBlockProductCentralRoot_pair_le_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/9e5d9137-2cb3-492a-9740-6610e6185329

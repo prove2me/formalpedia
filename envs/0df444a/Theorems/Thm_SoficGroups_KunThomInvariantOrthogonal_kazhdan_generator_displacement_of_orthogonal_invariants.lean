@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_kazhdan_generator_displacement_of_orthogonal_invariants
 -- name    : SoficGroups.KunThomInvariantOrthogonal.kazhdan_generator_displacement_of_orthogonal_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/aaadcbb3-cf85-49fb-98a5-59ee6c2f8409

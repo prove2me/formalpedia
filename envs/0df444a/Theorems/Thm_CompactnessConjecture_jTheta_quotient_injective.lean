@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_jTheta_quotient_injective
 -- name    : CompactnessConjecture.jTheta_quotient_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/26c684dd-999b-477c-80ff-54361fafc150

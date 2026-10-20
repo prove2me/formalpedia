@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_sourceTorusClosedForm_angularGraphMollifiedPhysicalField
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.sourceTorusClosedForm_angularGraphMollifiedPhysicalField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/3766ebc1-d7b2-47bc-b8f3-263c5fe7b5b0

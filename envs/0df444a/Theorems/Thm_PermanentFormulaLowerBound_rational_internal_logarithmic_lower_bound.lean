@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_rational_internal_logarithmic_lower_bound
 -- name    : PermanentFormulaLowerBound.rational_internal_logarithmic_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/389ec435-3cc4-49de-8bfa-1836a82fcefe

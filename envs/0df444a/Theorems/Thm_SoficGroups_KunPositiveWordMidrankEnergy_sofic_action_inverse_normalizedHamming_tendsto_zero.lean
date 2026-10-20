@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunPositiveWordMidrankEnergy_sofic_action_inverse_normalizedHamming_tendsto_zero
 -- name    : SoficGroups.KunPositiveWordMidrankEnergy.sofic_action_inverse_normalizedHamming_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/36ed6542-93a7-42d6-9fc6-e27d7699986f

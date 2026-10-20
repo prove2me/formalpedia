@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_correctedSignature_antitone
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.correctedSignature_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/70e995aa-5725-41e5-92f2-697bcfacaf6a

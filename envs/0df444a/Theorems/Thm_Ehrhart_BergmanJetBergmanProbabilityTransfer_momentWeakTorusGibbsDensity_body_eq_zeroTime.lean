@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBergmanProbabilityTransfer_momentWeakTorusGibbsDensity_body_eq_zeroTime
 -- name    : Ehrhart.BergmanJetBergmanProbabilityTransfer.momentWeakTorusGibbsDensity_body_eq_zeroTime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/b1e7a36a-6735-468c-a9d8-7b24dc2d1f85

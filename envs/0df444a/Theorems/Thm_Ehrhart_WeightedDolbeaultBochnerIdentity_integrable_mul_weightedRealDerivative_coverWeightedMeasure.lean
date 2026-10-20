@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_integrable_mul_weightedRealDerivative_coverWeightedMeasure
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.integrable_mul_weightedRealDerivative_coverWeightedMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/292706aa-f6f0-469b-8930-0a084d538ecb

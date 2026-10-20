@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_circuit_logarithmic_bound_of_gradient
 -- name    : PermanentRollout.permanent_circuit_logarithmic_bound_of_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/0bdfdf01-5de4-4bde-941a-6b366b23e2ec

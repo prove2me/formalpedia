@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_WeylCauchyRiemann_mollify_analyticOn
 -- name    : BookProof.WeylCauchyRiemann.mollify_analyticOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:13:51.503381+00:00
 -- url     : https://prove2.me/theorems/5025e5b6-4ae5-46a3-b40b-24d3cafb070a

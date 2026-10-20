@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_criticalLinearSliceIdeal_radical_eq_idealOfVars_of_dimension_le_zero
 -- name    : PermanentRollout.criticalLinearSliceIdeal_radical_eq_idealOfVars_of_dimension_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/b1db3f12-1b89-4eda-87c9-09df8bcc01c0

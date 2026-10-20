@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_norm_normalizedIndicatorDefect
 -- name    : SoficGroups.KunRootedIndicatorCrossing.norm_normalizedIndicatorDefect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/44e9d6be-ad79-450e-bfdc-d3db5612c424

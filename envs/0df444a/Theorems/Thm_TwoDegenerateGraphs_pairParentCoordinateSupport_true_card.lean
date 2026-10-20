@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairParentCoordinateSupport_true_card
 -- name    : TwoDegenerateGraphs.pairParentCoordinateSupport_true_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/b3f42958-5762-4487-86c6-755aa54287a5

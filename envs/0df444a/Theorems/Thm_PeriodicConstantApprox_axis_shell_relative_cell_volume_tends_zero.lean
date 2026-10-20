@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_axis_shell_relative_cell_volume_tends_zero
 -- name    : PeriodicConstantApprox.axis_shell_relative_cell_volume_tends_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/548822bb-ab87-4f69-9990-20e67a6309ec

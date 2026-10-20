@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_deleteChannel_orthogonal_addChannel
 -- name    : MetricCodes.Boolean.deleteChannel_orthogonal_addChannel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/2fdde7e7-2b6f-4b50-a4fe-ce5d0bc4b585

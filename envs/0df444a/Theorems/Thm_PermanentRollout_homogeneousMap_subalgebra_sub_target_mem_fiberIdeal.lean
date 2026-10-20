@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_subalgebra_sub_target_mem_fiberIdeal
 -- name    : PermanentRollout.homogeneousMap_subalgebra_sub_target_mem_fiberIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/68580458-d008-467b-8099-9f519bcc26ce

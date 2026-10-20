@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceProductThroughAlpha_source_compressed_local_product_word_crossing_density_tendsto_zero
 -- name    : SoficGroups.SourceProductThroughAlpha.source_compressed_local_product_word_crossing_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/0b9e4c9e-f734-4dd4-a1f2-171a1c8d64c4

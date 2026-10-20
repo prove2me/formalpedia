@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_real_contains_finset
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_real_contains_finset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/509d659e-643f-4e4c-899f-f6a4a8f64b12

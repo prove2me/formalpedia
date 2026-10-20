@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_binarySyndromeDecoding_yes_iff_original
 -- name    : GapCVP.Comparator.binarySyndromeDecoding_yes_iff_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/1b199d16-8421-4706-a24f-75593a8fedb3

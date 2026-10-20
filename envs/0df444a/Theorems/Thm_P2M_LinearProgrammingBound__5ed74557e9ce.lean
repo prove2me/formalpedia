@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_LinearProgrammingBound__5ed74557e9ce
 -- name    : P2M_LinearProgrammingBound__5ed74557e9ce
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/a3915c11-0aad-4a54-a334-7f6a4190df5c

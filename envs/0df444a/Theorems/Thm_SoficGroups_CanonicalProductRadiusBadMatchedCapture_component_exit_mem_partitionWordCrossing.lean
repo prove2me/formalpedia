@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CanonicalProductRadiusBadMatchedCapture_component_exit_mem_partitionWordCrossing
 -- name    : SoficGroups.CanonicalProductRadiusBadMatchedCapture.component_exit_mem_partitionWordCrossing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/d592c65d-870e-474e-9fa3-e62bc66f5850

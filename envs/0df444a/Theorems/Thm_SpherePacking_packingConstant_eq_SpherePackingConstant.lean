@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_packingConstant_eq_SpherePackingConstant
 -- name    : SpherePacking.packingConstant_eq_SpherePackingConstant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/a5e0c142-4bed-4ccc-8c99-31c5bc6046a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_fderiv_complex_mul_apply
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.fderiv_complex_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/69f625da-4738-4b6d-a888-c08425e8e76e

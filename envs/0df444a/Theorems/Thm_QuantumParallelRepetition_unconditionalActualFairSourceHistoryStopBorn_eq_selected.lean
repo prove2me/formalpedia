@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceHistoryStopBorn_eq_selected
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceHistoryStopBorn_eq_selected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/ac07f2b8-95cf-4ec9-a668-0bd0a14d8eda

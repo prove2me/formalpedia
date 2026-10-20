@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_prefixElementaryEntry_mul
 -- name    : SoficGroups.SourceGeneration.prefixElementaryEntry_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/eb95781e-6816-4bea-92fb-c803676c63d3

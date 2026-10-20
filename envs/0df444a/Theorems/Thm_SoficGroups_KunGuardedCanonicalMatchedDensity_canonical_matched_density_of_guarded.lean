@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunGuardedCanonicalMatchedDensity_canonical_matched_density_of_guarded
 -- name    : SoficGroups.KunGuardedCanonicalMatchedDensity.canonical_matched_density_of_guarded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/4c2379b7-8372-4ba3-a3d0-93988c0b81d1

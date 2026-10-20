@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ComplexSaturatedKillingFieldBridge_weightOne_integerExponent_eq_zero
 -- name    : Ehrhart.ComplexSaturatedKillingFieldBridge.weightOne_integerExponent_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/3d952f2f-cf15-49f1-b529-da54541776aa

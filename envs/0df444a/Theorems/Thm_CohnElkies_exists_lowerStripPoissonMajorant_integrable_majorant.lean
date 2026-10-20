@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_lowerStripPoissonMajorant_integrable_majorant
 -- name    : CohnElkies.exists_lowerStripPoissonMajorant_integrable_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/ea39e1bc-7920-4d50-9871-2932fab2c12f

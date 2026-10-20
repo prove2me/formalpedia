@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingMonomialTailConvergence_tendsto_momentNormalized_moving_off_ball_probability
 -- name    : Ehrhart.BergmanJetMovingMonomialTailConvergence.tendsto_momentNormalized_moving_off_ball_probability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/e90d0a35-18bb-4c10-9b9d-1e85a3ff48d6

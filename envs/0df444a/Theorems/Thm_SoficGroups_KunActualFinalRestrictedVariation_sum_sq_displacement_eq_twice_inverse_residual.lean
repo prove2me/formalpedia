@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFinalRestrictedVariation_sum_sq_displacement_eq_twice_inverse_residual
 -- name    : SoficGroups.KunActualFinalRestrictedVariation.sum_sq_displacement_eq_twice_inverse_residual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/de72e2f2-7486-4865-9d63-469843583293

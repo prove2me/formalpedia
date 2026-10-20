@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonPrimitive_centered_neg
 -- name    : CohnElkies.stripPoissonPrimitive_centered_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/0a712082-f9c3-4af6-897b-679f32a8e5bf

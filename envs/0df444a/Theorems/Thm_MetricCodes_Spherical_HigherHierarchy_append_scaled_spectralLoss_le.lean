@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_append_scaled_spectralLoss_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.append_scaled_spectralLoss_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/b93026f0-15c1-4a4a-b813-08bafb4c4320

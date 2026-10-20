@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingInjectionSum_partition
 -- name    : PermanentFormulaLowerBound.matchingInjectionSum_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/6448abdb-83ec-4a6f-8427-a0978a8d0280

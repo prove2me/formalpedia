@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quantitativeCompactnessCounterexample
 -- name    : CompactnessConjecture.quantitativeCompactnessCounterexample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/d15d8e6e-48d5-4cf8-95e7-d1d5d4d9c724

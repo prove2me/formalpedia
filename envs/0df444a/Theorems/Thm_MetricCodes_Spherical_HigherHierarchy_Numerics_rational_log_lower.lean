@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Numerics_rational_log_lower
 -- name    : MetricCodes.Spherical.HigherHierarchy.Numerics.rational_log_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/32e01a01-808b-4371-bc67-32305ecb9b98

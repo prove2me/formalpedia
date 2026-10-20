@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLine_eq_invertible_symmetricGraphLine
 -- name    : CompactnessConjecture.symplecticLine_eq_invertible_symmetricGraphLine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/34ca02f2-0e24-45a8-973e-265b8eb4cf56

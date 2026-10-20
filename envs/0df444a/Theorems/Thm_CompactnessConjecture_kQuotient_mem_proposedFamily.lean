@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_kQuotient_mem_proposedFamily
 -- name    : CompactnessConjecture.kQuotient_mem_proposedFamily
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/46527341-cb2d-42da-ae0d-1241510e8e0a

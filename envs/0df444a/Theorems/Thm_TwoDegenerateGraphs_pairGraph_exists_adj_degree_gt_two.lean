@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraph_exists_adj_degree_gt_two
 -- name    : TwoDegenerateGraphs.pairGraph_exists_adj_degree_gt_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/118105ae-f6e9-48f8-b2f5-b87804fcffbf

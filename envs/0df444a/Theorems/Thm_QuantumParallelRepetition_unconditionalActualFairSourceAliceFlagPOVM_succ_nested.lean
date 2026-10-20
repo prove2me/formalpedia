@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceAliceFlagPOVM_succ_nested
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceAliceFlagPOVM_succ_nested
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/12781904-5f4b-4896-9078-b317f0f4da6b

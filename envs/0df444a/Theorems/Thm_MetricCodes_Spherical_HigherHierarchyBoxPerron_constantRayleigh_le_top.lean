@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_constantRayleigh_le_top
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.constantRayleigh_le_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/d7f10242-d957-4b4e-aebe-837d8be41e4a

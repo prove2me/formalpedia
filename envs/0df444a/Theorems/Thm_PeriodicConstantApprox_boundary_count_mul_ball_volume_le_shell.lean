@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_boundary_count_mul_ball_volume_le_shell
 -- name    : PeriodicConstantApprox.boundary_count_mul_ball_volume_le_shell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/9a0f6834-d73f-4b20-bd34-f8134dcd9200

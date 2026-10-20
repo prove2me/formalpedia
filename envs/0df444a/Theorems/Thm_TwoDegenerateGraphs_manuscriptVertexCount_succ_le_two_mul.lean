@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptVertexCount_succ_le_two_mul
 -- name    : TwoDegenerateGraphs.manuscriptVertexCount_succ_le_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/ad887a18-8484-44a9-a4e3-28df5356813f

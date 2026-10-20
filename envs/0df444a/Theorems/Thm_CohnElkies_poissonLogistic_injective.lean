@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_poissonLogistic_injective
 -- name    : CohnElkies.poissonLogistic_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/bff65bb9-60cc-4bca-973c-4cf4eff76aef

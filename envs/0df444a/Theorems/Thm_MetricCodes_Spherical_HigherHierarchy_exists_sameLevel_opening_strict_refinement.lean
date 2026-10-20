@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_sameLevel_opening_strict_refinement
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_sameLevel_opening_strict_refinement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/6a35f6dc-87be-4f49-9368-8ae22cd19e11

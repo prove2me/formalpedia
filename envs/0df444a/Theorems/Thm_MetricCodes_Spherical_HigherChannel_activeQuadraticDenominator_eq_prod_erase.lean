@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherChannel_activeQuadraticDenominator_eq_prod_erase
 -- name    : MetricCodes.Spherical.HigherChannel.activeQuadraticDenominator_eq_prod_erase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/319e5f2c-e4d0-4ff8-9667-11a6895e4d3f

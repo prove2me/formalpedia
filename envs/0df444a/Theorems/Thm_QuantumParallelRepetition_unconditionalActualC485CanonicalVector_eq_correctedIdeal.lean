@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485CanonicalVector_eq_correctedIdeal
 -- name    : QuantumParallelRepetition.unconditionalActualC485CanonicalVector_eq_correctedIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/d6d6b3f9-efd9-4083-a718-15ecbd0cfc59

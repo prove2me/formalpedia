@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_RadialMain_exact_binary_exponent
 -- name    : PackingBounds.RadialMain.exact_binary_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/55b635c0-8861-4d3b-bd1d-2d57e01e7e95

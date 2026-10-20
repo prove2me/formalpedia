@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactificationCapFactor_scaled_spectral
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactificationCapFactor_scaled_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/cdd7e1e7-3c59-4981-b45d-d03d57649e7b

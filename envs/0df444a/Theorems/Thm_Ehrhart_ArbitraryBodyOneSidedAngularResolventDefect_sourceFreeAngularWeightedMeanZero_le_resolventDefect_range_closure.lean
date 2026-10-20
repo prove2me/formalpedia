@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularResolventDefect_sourceFreeAngularWeightedMeanZero_le_resolventDefect_range_closure
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularResolventDefect.sourceFreeAngularWeightedMeanZero_le_resolventDefect_range_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/376e4b48-2e82-4f12-b271-debfdb733c1b

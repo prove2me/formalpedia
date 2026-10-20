@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_contDiff_normalizedProductRadialKernel
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.contDiff_normalizedProductRadialKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/0cd33aae-5850-40d8-948f-ef75b78927c1

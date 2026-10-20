@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfCatalystAccuracy_bounds
 -- name    : QuantumParallelRepetition.pdfCatalystAccuracy_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/ce2bb5d0-bbf1-45b0-aab6-b3b50a2ad9ec

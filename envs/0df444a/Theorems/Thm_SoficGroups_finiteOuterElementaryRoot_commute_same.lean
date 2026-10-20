@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterElementaryRoot_commute_same
 -- name    : SoficGroups.finiteOuterElementaryRoot_commute_same
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/64e5a9d9-6a9a-49f1-81ab-c6915dc58fd2

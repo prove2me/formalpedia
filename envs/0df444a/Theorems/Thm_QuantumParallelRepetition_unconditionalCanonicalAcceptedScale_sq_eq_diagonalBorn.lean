@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalCanonicalAcceptedScale_sq_eq_diagonalBorn
 -- name    : QuantumParallelRepetition.unconditionalCanonicalAcceptedScale_sq_eq_diagonalBorn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/dc707594-af43-45fc-9dd4-d436b7046b98

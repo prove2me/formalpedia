@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonPrimitive_tendsto_atTop
 -- name    : CohnElkies.stripPoissonPrimitive_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/270a00cf-d3c7-4d70-9392-1f265cf83506

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485GenericRetainedWinningBorn
 -- name    : QuantumParallelRepetition.unconditionalActualC485GenericRetainedWinningBorn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/9a81af79-6656-4e34-8cb1-a27dd0ac8d15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_variableLeaves_le_leafCount
 -- name    : PermanentFormulaLowerBound.Formula.variableLeaves_le_leafCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/bbeb0902-c439-4595-88f2-5df167c9ab4f

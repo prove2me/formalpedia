@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_fderiv_conj
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.fderiv_conj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/7e6a8747-1c75-4c01-ae75-a305cc6aa182

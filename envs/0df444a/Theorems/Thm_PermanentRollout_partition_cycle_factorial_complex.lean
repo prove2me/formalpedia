@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partition_cycle_factorial_complex
 -- name    : PermanentRollout.partition_cycle_factorial_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/d0e041ff-ee34-4108-865d-10deb9e38df2

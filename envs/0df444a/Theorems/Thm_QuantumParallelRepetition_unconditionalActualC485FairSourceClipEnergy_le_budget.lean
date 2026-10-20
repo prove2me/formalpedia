@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485FairSourceClipEnergy_le_budget
 -- name    : QuantumParallelRepetition.unconditionalActualC485FairSourceClipEnergy_le_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/a4bed949-ed53-4d02-b759-4eaf9d88ee53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxSpectral_forwardMatrix_sum
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxSpectral.forwardMatrix_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/6969d73f-5d34-4ce1-ad33-a21e9f6b2d1c

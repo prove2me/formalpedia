@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripAngle_eq_pi_sub
 -- name    : CohnElkies.stripAngle_eq_pi_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/0adb8ebe-02ee-4883-a0df-ea0866ff6c8f

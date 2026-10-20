@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_choose_three_factorial_identity
 -- name    : CompactnessConjecture.choose_three_factorial_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/12ecf7e5-8d59-4137-a16c-b48425e1af5f

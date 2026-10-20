@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_manuscriptLinearProgram_pos
 -- name    : CohnElkies.eventually_manuscriptLinearProgram_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/6b1372e7-1e9c-4fea-97b2-202b9bddb4d9

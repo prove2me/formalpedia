@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformQualReg_ExclSubsid_exclusion_special_case
 -- name    : PlatformQualReg.ExclSubsid.exclusion_special_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:51:59.698771+00:00
 -- url     : https://prove2.me/theorems/6cfa2474-70fb-45d0-a8ef-2f35c63e0b7c

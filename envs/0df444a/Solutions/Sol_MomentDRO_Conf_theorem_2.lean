@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MomentDRO.Conf.theorem_2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T04:14:06.325878+00:00
 -- url     : https://prove2.me/submissions/eb444aaa-58dd-4461-aad7-5c682543e850
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MomentDRO_Conf_Setting

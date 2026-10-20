@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_agreementSet_card_add_hammingDist
 -- name    : SoficGroups.agreementSet_card_add_hammingDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/735fd73e-d5d0-4af0-913d-e41a9d36bea3

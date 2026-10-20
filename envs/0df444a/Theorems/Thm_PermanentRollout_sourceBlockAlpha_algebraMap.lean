@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockAlpha_algebraMap
 -- name    : PermanentRollout.sourceBlockAlpha_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/88c1f6ea-0f43-4f6f-a466-7604fe0ef3fd

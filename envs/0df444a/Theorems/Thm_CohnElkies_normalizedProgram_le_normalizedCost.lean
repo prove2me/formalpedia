@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedProgram_le_normalizedCost
 -- name    : CohnElkies.normalizedProgram_le_normalizedCost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/a4004185-bef4-430f-a204-565bcc650665

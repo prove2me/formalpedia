@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_uniformAntiFourierSignRadius_of_poisson_majorization
 -- name    : CohnElkies.uniformAntiFourierSignRadius_of_poisson_majorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/81664c05-f90e-497d-9d35-a65d1ba68051

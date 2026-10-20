@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArnoldCounterexample_main
 -- name    : OAI.ArnoldCounterexample.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:21.184988+00:00
 -- url     : https://prove2.me/theorems/1e075403-0aad-42dd-87ea-c968850d564c

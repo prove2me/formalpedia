@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairChildArraysOfRealizedProfile_card_le
 -- name    : TwoDegenerateGraphs.pairChildArraysOfRealizedProfile_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/bb8e1f76-de81-4182-89d2-e0bacf5bb5a2

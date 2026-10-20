@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_complexWallisPhaseKernel_integrable
 -- name    : CohnElkies.complexWallisPhaseKernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/99297ca0-b849-45d9-b985-357805ad7352

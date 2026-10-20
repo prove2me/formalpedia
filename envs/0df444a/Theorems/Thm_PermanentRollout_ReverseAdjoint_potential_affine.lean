@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_potential_affine
 -- name    : PermanentRollout.ReverseAdjoint.potential_affine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/84d21a8b-3369-4550-8d06-338174785e77

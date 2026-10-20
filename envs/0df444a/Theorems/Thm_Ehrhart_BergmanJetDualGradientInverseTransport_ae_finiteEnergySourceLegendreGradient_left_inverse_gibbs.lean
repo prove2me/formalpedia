@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDualGradientInverseTransport_ae_finiteEnergySourceLegendreGradient_left_inverse_gibbs
 -- name    : Ehrhart.BergmanJetDualGradientInverseTransport.ae_finiteEnergySourceLegendreGradient_left_inverse_gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/3324db91-ea35-4778-b1f9-027d17f3676f

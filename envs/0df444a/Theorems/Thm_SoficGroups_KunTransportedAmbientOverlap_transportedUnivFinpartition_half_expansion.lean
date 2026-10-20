@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_transportedUnivFinpartition_half_expansion
 -- name    : SoficGroups.KunTransportedAmbientOverlap.transportedUnivFinpartition_half_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/12f88ee1-0486-4b14-9948-d09ab772f977

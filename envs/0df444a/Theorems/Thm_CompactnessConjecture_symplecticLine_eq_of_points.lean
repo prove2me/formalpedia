@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLine_eq_of_points
 -- name    : CompactnessConjecture.symplecticLine_eq_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/6faf5009-41ae-4e5a-b5d5-771e3a54d202

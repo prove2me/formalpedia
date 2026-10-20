@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceCircuit_ofList_ofFn_eq_span_range
 -- name    : PermanentRollout.sourceCircuit_ofList_ofFn_eq_span_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/236585ca-6e20-4279-813f-5b5e4a59072e

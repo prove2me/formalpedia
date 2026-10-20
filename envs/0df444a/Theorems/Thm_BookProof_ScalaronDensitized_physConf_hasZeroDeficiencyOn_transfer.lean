@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_physConf_hasZeroDeficiencyOn_transfer
 -- name    : BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:58:38.611977+00:00
 -- url     : https://prove2.me/theorems/ebe3eec6-c829-4c45-a61b-a947ba6c5e9a

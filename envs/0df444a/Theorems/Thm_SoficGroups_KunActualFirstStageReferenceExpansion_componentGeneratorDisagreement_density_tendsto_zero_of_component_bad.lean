@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFirstStageReferenceExpansion_componentGeneratorDisagreement_density_tendsto_zero_of_component_bad
 -- name    : SoficGroups.KunActualFirstStageReferenceExpansion.componentGeneratorDisagreement_density_tendsto_zero_of_component_bad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/cd60390c-3a2a-41b6-bb0c-e37277b260c1

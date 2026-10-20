@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousWeakResolventRootCoercivity_angularClosedMollifiedRootVectorL2_sub_norm_sq_le
 -- name    : Ehrhart.TorusHomogeneousWeakResolventRootCoercivity.angularClosedMollifiedRootVectorL2_sub_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/ec41fab6-a936-4f10-a917-53a55c40d19d

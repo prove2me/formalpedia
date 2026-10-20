@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_sum_secondFiber_card
 -- name    : SoficGroups.KunThomFiberCoarea.sum_secondFiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/9b8c864b-d75d-4fa6-942d-ae0f470fb78f

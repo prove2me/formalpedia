@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonPrimitive_centered_hasDerivAt
 -- name    : CohnElkies.stripPoissonPrimitive_centered_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/d9973cfa-aa57-47d8-a9a4-7f53003291db

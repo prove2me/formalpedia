@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_unitaryFixedSubmodule_starProjection_mem_orthogonal_of_commute
 -- name    : SoficGroups.unitaryFixedSubmodule_starProjection_mem_orthogonal_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/d33dfbd9-5dfb-46b7-a950-3f8cbee6556d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_localized_minimizer_of_lowerSemicontinuous
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_localized_minimizer_of_lowerSemicontinuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/e5d49b7e-fd79-46db-a329-d6dc155f908a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptVertexCount_le_four_wordMean
 -- name    : TwoDegenerateGraphs.manuscriptVertexCount_le_four_wordMean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/8735dedc-5cfd-44f0-9c9a-6e2bc54f13dd

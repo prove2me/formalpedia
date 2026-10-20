@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPointwiseLogKernel_eventually_log_momentNormalized_moving_monomialIntegral_div_le
 -- name    : Ehrhart.BergmanJetPointwiseLogKernel.eventually_log_momentNormalized_moving_monomialIntegral_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/8943ab08-a41c-42a8-be35-a215e56e505c

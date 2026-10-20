@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentPositiveTorusJetSlope_le_canonicalScale
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentPositiveTorusJetSlope_le_canonicalScale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/937b9794-e596-47c4-bc0a-ece1fa19b9d4

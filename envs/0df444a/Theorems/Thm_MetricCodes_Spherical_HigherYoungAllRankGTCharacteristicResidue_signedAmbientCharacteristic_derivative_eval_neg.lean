@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTCharacteristicResidue_signedAmbientCharacteristic_derivative_eval_neg
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue.signedAmbientCharacteristic_derivative_eval_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/050c5165-9e8d-459d-bb8c-067c4e7a2629

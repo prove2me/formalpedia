@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_eventually_sphericalEntropy_improvement
 -- name    : MetricCodes.Spherical.eventually_sphericalEntropy_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/5a862e63-9426-4340-ab3a-a1571931f6ea

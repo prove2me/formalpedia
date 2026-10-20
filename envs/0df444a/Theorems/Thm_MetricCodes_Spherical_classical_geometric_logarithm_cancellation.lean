@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classical_geometric_logarithm_cancellation
 -- name    : MetricCodes.Spherical.classical_geometric_logarithm_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/32089252-39c2-45e0-a753-66e2bcc8a0df

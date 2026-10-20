@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_member_eventual_lower_of_prime_power_avoidance
 -- name    : CompactnessConjecture.member_eventual_lower_of_prime_power_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/579d8d4c-23e1-44dd-a9ef-ae4ba969dd3b

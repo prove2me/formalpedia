@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_tendsto_packingObjective_of_limits
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.tendsto_packingObjective_of_limits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/9e5b0e35-4a82-4d4a-b2a4-26406cb3fc37

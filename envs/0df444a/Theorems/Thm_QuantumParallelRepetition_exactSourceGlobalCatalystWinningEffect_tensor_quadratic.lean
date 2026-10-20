@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceGlobalCatalystWinningEffect_tensor_quadratic
 -- name    : QuantumParallelRepetition.exactSourceGlobalCatalystWinningEffect_tensor_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/5907e7d7-3af6-4d3c-8a68-b14351186b1d

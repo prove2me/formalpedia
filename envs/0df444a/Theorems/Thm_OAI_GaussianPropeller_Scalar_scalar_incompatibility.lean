@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Scalar_scalar_incompatibility
 -- name    : OAI.GaussianPropeller.Scalar.scalar_incompatibility
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:27:49.770027+00:00
 -- url     : https://prove2.me/theorems/0e4d1dcd-df0f-4385-850e-8e783bb93607

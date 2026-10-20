@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousFriedrichs_angularFormCoordinateCoverLift_complexDriftCommutator_tendsto_zero
 -- name    : Ehrhart.TorusHomogeneousFriedrichs.angularFormCoordinateCoverLift_complexDriftCommutator_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/791bb763-f2ce-406a-a880-745ad476c94c

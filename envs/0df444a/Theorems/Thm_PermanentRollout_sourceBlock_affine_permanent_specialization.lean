@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlock_affine_permanent_specialization
 -- name    : PermanentRollout.sourceBlock_affine_permanent_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/790cb5fd-a1ba-477b-a458-7b9b6f550e94

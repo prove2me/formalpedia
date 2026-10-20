@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BreakingSample_Conservative_eq_56
 -- name    : BreakingSample.Conservative.eq_56
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:01:54.989525+00:00
 -- url     : https://prove2.me/theorems/95aeef7b-0721-4812-ae09-d8305afb768b

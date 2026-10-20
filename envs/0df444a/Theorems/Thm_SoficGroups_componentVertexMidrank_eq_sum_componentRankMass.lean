@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_componentVertexMidrank_eq_sum_componentRankMass
 -- name    : SoficGroups.componentVertexMidrank_eq_sum_componentRankMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/224ace2b-6d54-4d5f-8513-0085eea80fce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_kissing_sqrt_upper
 -- name    : MetricCodes.Numerics.kissing_sqrt_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/b1d06481-e796-4ce5-93d5-6829fa638875

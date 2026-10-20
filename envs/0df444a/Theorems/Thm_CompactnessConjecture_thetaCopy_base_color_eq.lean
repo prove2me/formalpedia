@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_thetaCopy_base_color_eq
 -- name    : CompactnessConjecture.thetaCopy_base_color_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/df778bb6-c424-403c-87da-3a795fd052c6

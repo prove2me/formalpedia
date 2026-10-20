@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_harmonic_integerGammaBoundary_abs_le_linear
 -- name    : CohnElkies.harmonic_integerGammaBoundary_abs_le_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/cbf5689b-19ae-41b2-b5e7-1b3b316a31fc

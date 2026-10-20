@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_finiteLocalPurificationJointMatrix_compression
 -- name    : QuantumParallelRepetition.finiteLocalPurificationJointMatrix_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/64a4686a-9b25-483a-ae23-057196b9babb

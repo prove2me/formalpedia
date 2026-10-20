@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_coordinateDot_addChannel_hammingAxisTensor
 -- name    : MetricCodes.Boolean.coordinateDot_addChannel_hammingAxisTensor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/66fd4172-cc0d-4a0d-91a8-7cd82a0614a3

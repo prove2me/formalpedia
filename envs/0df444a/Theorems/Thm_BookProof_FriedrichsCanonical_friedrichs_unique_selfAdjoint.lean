@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_friedrichs_unique_selfAdjoint
 -- name    : BookProof.FriedrichsCanonical.friedrichs_unique_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:38:33.656447+00:00
 -- url     : https://prove2.me/theorems/428da1fd-37a6-4514-8982-eb15598bc824

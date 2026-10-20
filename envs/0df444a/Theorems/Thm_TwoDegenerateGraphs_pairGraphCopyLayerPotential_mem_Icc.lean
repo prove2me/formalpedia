@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphCopyLayerPotential_mem_Icc
 -- name    : TwoDegenerateGraphs.pairGraphCopyLayerPotential_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/c5e7202a-06fd-4d53-99bd-7740ad877772

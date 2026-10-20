@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_continuous_coverWeight
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.continuous_coverWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/62fa6fb9-41fd-44d7-9e9e-949fed987d54

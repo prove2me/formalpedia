@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_normalizedIndicatorDisplacement_cocycle_of_agree_on_support
 -- name    : SoficGroups.KunRootedIndicatorCrossing.normalizedIndicatorDisplacement_cocycle_of_agree_on_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/3e2c952d-905c-4eb3-91ae-1d77b4e48ea9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperFirstBranch_shortRatio_le
 -- name    : CohnElkies.upperFirstBranch_shortRatio_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/8f9d0843-7ec1-4f4b-8acf-6100d73a0deb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_bassalygo_elias_bound
 -- name    : MetricCodes.bassalygo_elias_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/b122c8c4-13dd-4180-8aed-bfd7ad7f0ca6

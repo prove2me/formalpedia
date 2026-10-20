@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_choose_three_cubic_lower
 -- name    : CompactnessConjecture.choose_three_cubic_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/19183d29-b6cc-4e68-86cd-4bc882fe966c

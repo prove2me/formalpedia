@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_eventually_finiteInterlacing_all
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.eventually_finiteInterlacing_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/14d27c7d-8965-4255-9a59-d2ba9d043875

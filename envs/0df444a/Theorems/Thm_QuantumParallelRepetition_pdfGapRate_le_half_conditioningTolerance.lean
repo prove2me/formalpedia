@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGapRate_le_half_conditioningTolerance
 -- name    : QuantumParallelRepetition.pdfGapRate_le_half_conditioningTolerance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/f6f1ff91-554d-4298-a95d-5bdd9bd4a9a6

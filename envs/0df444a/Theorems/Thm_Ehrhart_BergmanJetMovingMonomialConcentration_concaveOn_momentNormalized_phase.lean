@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingMonomialConcentration_concaveOn_momentNormalized_phase
 -- name    : Ehrhart.BergmanJetMovingMonomialConcentration.concaveOn_momentNormalized_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/d5d74c70-6d07-41a8-94b4-56cc30aeea89

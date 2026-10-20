@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_partitionWordCrossing_card_le_target_add_unmatched
 -- name    : SoficGroups.partitionWordCrossing_card_le_target_add_unmatched
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/ab811e19-ed21-4d2a-8f35-644f45eec38f

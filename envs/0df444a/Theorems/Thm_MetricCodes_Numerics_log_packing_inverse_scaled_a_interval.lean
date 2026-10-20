@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_log_packing_inverse_scaled_a_interval
 -- name    : MetricCodes.Numerics.log_packing_inverse_scaled_a_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/14a90e37-d59b-4aab-9b1f-67f01ed6e00c

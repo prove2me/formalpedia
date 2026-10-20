@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_four_mul_le_two_pow_pred
 -- name    : PermanentFormulaLowerBound.four_mul_le_two_pow_pred
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/efe76802-7579-48fc-b945-2a9dc228bf41

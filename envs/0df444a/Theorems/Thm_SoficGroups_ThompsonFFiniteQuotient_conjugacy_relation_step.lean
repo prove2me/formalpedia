@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFFiniteQuotient_conjugacy_relation_step
 -- name    : SoficGroups.ThompsonFFiniteQuotient.conjugacy_relation_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/a6d79cef-d290-4872-b158-9121182b5d89

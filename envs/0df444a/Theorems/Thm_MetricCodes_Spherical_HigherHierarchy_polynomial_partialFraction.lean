@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_polynomial_partialFraction
 -- name    : MetricCodes.Spherical.HigherHierarchy.polynomial_partialFraction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/74c6ca90-704e-4a68-bc83-1389126b88d6

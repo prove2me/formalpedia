@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sliceRank_lt_blockVariables
 -- name    : PermanentRollout.sliceRank_lt_blockVariables
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/c70e15d3-df9e-42c6-bd78-a5237e63b454

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_symmetricSpectralSimplification
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.symmetricSpectralSimplification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:02:36.189237+00:00
 -- url     : https://prove2.me/theorems/055d60ef-5698-4128-931d-66ea071d6463

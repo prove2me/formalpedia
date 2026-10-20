@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_log_five_gt_1609_thousandths
 -- name    : MetricCodes.Spherical.log_five_gt_1609_thousandths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/17650b7c-b378-422a-aac0-eafc443e8c7d

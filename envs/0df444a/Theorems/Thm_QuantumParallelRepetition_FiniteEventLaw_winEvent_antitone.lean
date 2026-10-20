@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_FiniteEventLaw_winEvent_antitone
 -- name    : QuantumParallelRepetition.FiniteEventLaw.winEvent_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/b47d8a5a-a532-4942-b429-cf21b372dc71

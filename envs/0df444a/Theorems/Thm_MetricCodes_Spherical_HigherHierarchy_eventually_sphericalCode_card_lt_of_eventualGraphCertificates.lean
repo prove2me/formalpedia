@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_sphericalCode_card_lt_of_eventualGraphCertificates
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_sphericalCode_card_lt_of_eventualGraphCertificates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/fe3ce3c8-e982-4ff9-af0f-3cdb7a8fded5

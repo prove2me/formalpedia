@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejStarProjection_mem_inf_orthogonal
 -- name    : SoficGroups.ejStarProjection_mem_inf_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/d4b7bbcd-cf47-4090-8c85-33532c6ac891

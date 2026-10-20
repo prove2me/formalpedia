@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairChildGroup_choose_product_entropy_bound
 -- name    : TwoDegenerateGraphs.pairChildGroup_choose_product_entropy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/641091c6-17ca-4c35-8da8-089e79ea5a60

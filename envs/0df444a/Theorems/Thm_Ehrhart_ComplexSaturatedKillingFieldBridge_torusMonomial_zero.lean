@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ComplexSaturatedKillingFieldBridge_torusMonomial_zero
 -- name    : Ehrhart.ComplexSaturatedKillingFieldBridge.torusMonomial_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/7afe4afd-7ad0-4c58-9cce-75e87ffbc292

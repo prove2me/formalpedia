@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedCopyIdealMatchedBranch_norm_sq
 -- name    : QuantumParallelRepetition.unconditionalSelectedCopyIdealMatchedBranch_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/6188254e-1db3-4e4c-b483-58570e760ce2

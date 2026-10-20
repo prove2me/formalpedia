@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_weighted_complex_bochner_coordinate_identity_compact_right
 -- name    : Ehrhart.MatrixTorusBochnerBridge.weighted_complex_bochner_coordinate_identity_compact_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/556f2cec-c396-45de-a0de-6d6fc685e84c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_fintype_card_sigma_lower
 -- name    : CompactnessConjecture.fintype_card_sigma_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/d64a41e6-dcb4-4787-9131-57bfb8a4655c

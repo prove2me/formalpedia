@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_holomorphicCoordinateReset_finsetReset
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.holomorphicCoordinateReset_finsetReset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/b9c3e4d5-4661-457a-a700-01554c8cd12e

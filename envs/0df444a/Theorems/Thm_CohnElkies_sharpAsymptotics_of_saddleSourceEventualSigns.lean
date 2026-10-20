@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpAsymptotics_of_saddleSourceEventualSigns
 -- name    : CohnElkies.sharpAsymptotics_of_saddleSourceEventualSigns
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/de5e034a-f5c1-4220-9bae-9b5a5d64b804

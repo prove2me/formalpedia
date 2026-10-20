@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_traceOfAssignment_initial
 -- name    : GapCVP.CL.traceOfAssignment_initial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/488a3253-6a80-4c12-aea5-bd4320d9292b

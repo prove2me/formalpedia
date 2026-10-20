@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_terminal_indicator_diagonal_sum
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.terminal_indicator_diagonal_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/d06c0813-ac7a-4b92-9d29-b00ee3eb7eba

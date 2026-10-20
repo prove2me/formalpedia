@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDolbeault_continuous_angularCoverPotential
 -- name    : Ehrhart.WeightedTorusDolbeault.continuous_angularCoverPotential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/169a4795-7a53-425e-9f00-8b7615c2e6d1

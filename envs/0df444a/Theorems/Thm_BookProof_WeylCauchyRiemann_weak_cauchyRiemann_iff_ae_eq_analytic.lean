@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_WeylCauchyRiemann_weak_cauchyRiemann_iff_ae_eq_analytic
 -- name    : BookProof.WeylCauchyRiemann.weak_cauchyRiemann_iff_ae_eq_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:36:06.289983+00:00
 -- url     : https://prove2.me/theorems/e2460acd-4216-4303-a89e-e4899ed49ffe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceCenteredPlusIntegrand_centralGaussianError_le
 -- name    : CohnElkies.saddleSourceCenteredPlusIntegrand_centralGaussianError_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/1977846d-1c45-4f34-8372-19daad8a2178

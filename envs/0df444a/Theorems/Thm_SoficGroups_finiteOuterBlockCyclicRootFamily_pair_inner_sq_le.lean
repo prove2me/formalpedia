@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockCyclicRootFamily_pair_inner_sq_le
 -- name    : SoficGroups.finiteOuterBlockCyclicRootFamily_pair_inner_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/5b2d48b0-d3b3-47a3-aa4e-e0454c0c6f4a

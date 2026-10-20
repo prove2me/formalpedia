@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularResolventDefect_sourceFreeAngularWeightedMeanZero_eq_constant_orthogonal
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularResolventDefect.sourceFreeAngularWeightedMeanZero_eq_constant_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/0722c245-11e8-4a6e-ae2a-3f5915bf04c9

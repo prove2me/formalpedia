@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalMixedCanonicalCrossGauge_eq
 -- name    : QuantumParallelRepetition.dSVDensityRationalMixedCanonicalCrossGauge_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/e91af8ab-000d-428b-bd09-2aeb6bdb314c

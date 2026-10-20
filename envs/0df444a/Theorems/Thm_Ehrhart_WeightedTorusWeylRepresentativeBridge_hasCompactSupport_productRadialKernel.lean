@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_hasCompactSupport_productRadialKernel
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.hasCompactSupport_productRadialKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/211d8635-ba55-4206-9d27-95db8dbcfaa0

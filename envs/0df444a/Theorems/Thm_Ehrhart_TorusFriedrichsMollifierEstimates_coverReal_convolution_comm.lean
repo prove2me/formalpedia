@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsMollifierEstimates_coverReal_convolution_comm
 -- name    : Ehrhart.TorusFriedrichsMollifierEstimates.coverReal_convolution_comm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/efe022df-54b9-44fb-a86d-f6b09f04338e

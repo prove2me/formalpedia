@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_one_sub_centeredWeight_sq_pos
 -- name    : MetricCodes.Johnson.AsymptoticParameters.one_sub_centeredWeight_sq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/96fce02b-1b49-4a33-9f57-4f9401592d00

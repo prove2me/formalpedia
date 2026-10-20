@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedTorusDescent_torusScalarRepresentative_realTorusCoverProjection
 -- name    : Ehrhart.TorusStrongWeightedTorusDescent.torusScalarRepresentative_realTorusCoverProjection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/2a26fad2-9d6e-4bd1-b6c2-124e192050a5

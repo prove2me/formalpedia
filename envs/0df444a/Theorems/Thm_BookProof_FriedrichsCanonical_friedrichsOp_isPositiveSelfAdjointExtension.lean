@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_friedrichsOp_isPositiveSelfAdjointExtension
 -- name    : BookProof.FriedrichsCanonical.friedrichsOp_isPositiveSelfAdjointExtension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:37:46.691304+00:00
 -- url     : https://prove2.me/theorems/5b7567f8-d5ef-4a32-93a7-98b12249a9ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_positiveDefiniteKernel_finset_sum
 -- name    : SpherePacking.positiveDefiniteKernel_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/76d36af1-08e1-4e20-954e-1a196debfe80

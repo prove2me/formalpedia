@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_interior_centeredSimplex_nonempty
 -- name    : Ehrhart.Geometry.interior_centeredSimplex_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/aeb76ff1-12ea-4932-be6b-6aeca38b8c08

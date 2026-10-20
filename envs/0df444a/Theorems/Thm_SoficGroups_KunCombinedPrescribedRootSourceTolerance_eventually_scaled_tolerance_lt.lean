@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCombinedPrescribedRootSourceTolerance_eventually_scaled_tolerance_lt
 -- name    : SoficGroups.KunCombinedPrescribedRootSourceTolerance.eventually_scaled_tolerance_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/8dc34911-1f82-4238-adc0-564086bffab8

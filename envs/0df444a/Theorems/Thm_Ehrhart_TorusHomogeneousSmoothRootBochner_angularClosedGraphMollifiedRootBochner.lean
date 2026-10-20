@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousSmoothRootBochner_angularClosedGraphMollifiedRootBochner
 -- name    : Ehrhart.TorusHomogeneousSmoothRootBochner.angularClosedGraphMollifiedRootBochner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/be648884-5cf8-434f-8fc6-db6aa125e21a

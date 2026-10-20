@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsCutoff_angularSourceCutoffAdjointCommutator_eq_sum
 -- name    : Ehrhart.TorusFriedrichsCutoff.angularSourceCutoffAdjointCommutator_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/a648b84b-2bca-4c51-9fdb-5ff08f0c02ce

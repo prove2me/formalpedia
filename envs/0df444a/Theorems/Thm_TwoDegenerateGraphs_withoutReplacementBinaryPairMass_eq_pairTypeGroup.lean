@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_withoutReplacementBinaryPairMass_eq_pairTypeGroup
 -- name    : TwoDegenerateGraphs.withoutReplacementBinaryPairMass_eq_pairTypeGroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/77f4f73a-112d-4e66-bf86-68e11317d5a2

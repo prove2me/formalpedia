@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_not_acyclic_of_eight_cycle_copy
 -- name    : CompactnessConjecture.not_acyclic_of_eight_cycle_copy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/51aecfb7-d012-48cf-8a23-d7b02a4f0350

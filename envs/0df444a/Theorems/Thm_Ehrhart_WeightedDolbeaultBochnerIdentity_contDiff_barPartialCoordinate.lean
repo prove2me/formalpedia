@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_contDiff_barPartialCoordinate
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.contDiff_barPartialCoordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/5f9746a3-8dff-4e07-b1b3-9a551e37b099

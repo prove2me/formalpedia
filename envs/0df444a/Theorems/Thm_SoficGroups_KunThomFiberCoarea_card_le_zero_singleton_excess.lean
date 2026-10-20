@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_card_le_zero_singleton_excess
 -- name    : SoficGroups.KunThomFiberCoarea.card_le_zero_singleton_excess
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/75f65b2a-928f-441d-b254-e28b109fd559

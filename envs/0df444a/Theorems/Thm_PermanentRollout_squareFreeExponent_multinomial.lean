@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareFreeExponent_multinomial
 -- name    : PermanentRollout.squareFreeExponent_multinomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/a1ad28c0-ca75-49a0-b2f1-5e8a82d08e6b

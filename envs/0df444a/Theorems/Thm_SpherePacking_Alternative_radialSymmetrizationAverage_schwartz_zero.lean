@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_Alternative_radialSymmetrizationAverage_schwartz_zero
 -- name    : SpherePacking.Alternative.radialSymmetrizationAverage_schwartz_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/9528faba-5a69-4b85-b0cd-7549541fb5d2

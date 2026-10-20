@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_torus_integral_eq_euclidean_cell_integral
 -- name    : SchwartzMap.PoissonSummation.Standard.torus_integral_eq_euclidean_cell_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/d3ae953f-c770-456c-af7b-3cb1d24ed116

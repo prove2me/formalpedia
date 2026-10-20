@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_PathFollowing_complementarity_one_step
 -- name    : VanderbeiLP.PathFollowing.complementarity_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:55:46.454004+00:00
 -- url     : https://prove2.me/theorems/5c19a469-c8c3-4610-9c11-ae7734488256

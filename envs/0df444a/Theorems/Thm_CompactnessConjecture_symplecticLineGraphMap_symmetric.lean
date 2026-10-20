@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLineGraphMap_symmetric
 -- name    : CompactnessConjecture.symplecticLineGraphMap_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/baec2984-0c20-4166-ba41-a5b4315e0dfe

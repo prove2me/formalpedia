@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_FourCertificates_affine_from_cap
 -- name    : OAI.GaussianPropeller.FourCertificates.affine_from_cap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:19:11.283119+00:00
 -- url     : https://prove2.me/theorems/bb8e2ceb-a084-44b0-8b11-4f642c5364ec

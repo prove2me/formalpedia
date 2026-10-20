@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedRestrictedProjectorEquality_gtSignedEigenvectorSpan_le_selectedPhysicalSignedSpan
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedRestrictedProjectorEquality.gtSignedEigenvectorSpan_le_selectedPhysicalSignedSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/8cfa3d20-0c39-4ebd-97e0-9f5c58e1427e

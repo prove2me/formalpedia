@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_spectralAtom_sq
 -- name    : MetricCodes.Spherical.HigherHierarchy.spectralAtom_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/882931af-9d28-47f8-b29b-f109b5aa1d38

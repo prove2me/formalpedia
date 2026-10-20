@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedTorusDescent_logarithmicPoint_mem_sourceCompactAngularCoverBox
 -- name    : Ehrhart.TorusStrongWeightedTorusDescent.logarithmicPoint_mem_sourceCompactAngularCoverBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/2c383fbd-913d-435d-8ae1-97b5765b0b27

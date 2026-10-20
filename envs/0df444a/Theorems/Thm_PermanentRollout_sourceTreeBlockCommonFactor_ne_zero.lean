@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeBlockCommonFactor_ne_zero
 -- name    : PermanentRollout.sourceTreeBlockCommonFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/4d34acf8-ea84-4ae5-bc6a-7ec5678c03e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusCompactTestGreen_normalizedCoverMollification_tendsto_of_continuous
 -- name    : Ehrhart.TorusCompactTestGreen.normalizedCoverMollification_tendsto_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/0ec00212-d354-4df5-a739-bf6eee893f2c

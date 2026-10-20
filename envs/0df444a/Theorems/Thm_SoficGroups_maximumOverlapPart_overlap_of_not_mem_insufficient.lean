@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_maximumOverlapPart_overlap_of_not_mem_insufficient
 -- name    : SoficGroups.maximumOverlapPart_overlap_of_not_mem_insufficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/5b99238c-35b3-4331-9c28-418888e01a80

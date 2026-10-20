@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_polynomialCoefficientProjection_map
 -- name    : PermanentFormulaLowerBound.polynomialCoefficientProjection_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/de520a1d-3769-437f-a8f0-9cd698e3063d

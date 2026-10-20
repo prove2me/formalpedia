@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Phi_append
 -- name    : MetricCodes.Spherical.HigherHierarchy.Phi_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/2f744933-874b-4bee-b8b7-79401e56f3a9

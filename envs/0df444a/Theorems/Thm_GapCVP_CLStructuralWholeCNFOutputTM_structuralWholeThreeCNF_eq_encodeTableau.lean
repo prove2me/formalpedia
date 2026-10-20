@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CLStructuralWholeCNFOutputTM_structuralWholeThreeCNF_eq_encodeTableau
 -- name    : GapCVP.CLStructuralWholeCNFOutputTM.structuralWholeThreeCNF_eq_encodeTableau
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/5769f095-d32e-4761-822c-39814a3390c3

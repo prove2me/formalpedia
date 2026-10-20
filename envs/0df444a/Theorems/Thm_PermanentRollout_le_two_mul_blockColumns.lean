@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_le_two_mul_blockColumns
 -- name    : PermanentRollout.le_two_mul_blockColumns
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/50c271a2-98f8-4106-a54f-bbd527d2ab9c

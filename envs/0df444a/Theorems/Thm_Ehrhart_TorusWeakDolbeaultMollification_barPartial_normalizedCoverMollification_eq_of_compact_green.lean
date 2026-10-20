@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakDolbeaultMollification_barPartial_normalizedCoverMollification_eq_of_compact_green
 -- name    : Ehrhart.TorusWeakDolbeaultMollification.barPartial_normalizedCoverMollification_eq_of_compact_green
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/afb7c772-8ae2-4a26-80cd-d4c625ea695e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_lemma39_list_compression
 -- name    : MulticlassDS.Compress.lemma39_list_compression
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:03:56.928635+00:00
 -- url     : https://prove2.me/theorems/d5aa0ae0-af8f-4881-883a-c47cffff2658

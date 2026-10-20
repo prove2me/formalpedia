@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_sphericalCodeNumber_lt_top
 -- name    : SpherePacking.sphericalCodeNumber_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/14baf6a6-4da9-4c69-b1b6-dc425698be8c

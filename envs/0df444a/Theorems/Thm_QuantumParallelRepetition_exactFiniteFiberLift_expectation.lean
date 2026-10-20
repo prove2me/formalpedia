@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactFiniteFiberLift_expectation
 -- name    : QuantumParallelRepetition.exactFiniteFiberLift_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/3ae7ff9c-7671-4b2d-8690-f20f9fc0800c

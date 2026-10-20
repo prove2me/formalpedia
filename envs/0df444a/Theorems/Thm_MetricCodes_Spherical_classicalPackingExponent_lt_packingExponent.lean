@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalPackingExponent_lt_packingExponent
 -- name    : MetricCodes.Spherical.classicalPackingExponent_lt_packingExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/4c863011-40a4-4952-b9f0-24ce9ee9b788

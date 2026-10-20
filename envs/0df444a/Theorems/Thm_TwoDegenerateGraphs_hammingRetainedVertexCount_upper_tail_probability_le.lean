@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedVertexCount_upper_tail_probability_le
 -- name    : TwoDegenerateGraphs.hammingRetainedVertexCount_upper_tail_probability_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/11c5ce22-abf4-4b7a-a76f-87394cf55cf4

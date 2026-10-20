@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunGuardedCanonicalMatchedDensity_matchedRadiusBad_mono_bad
 -- name    : SoficGroups.KunGuardedCanonicalMatchedDensity.matchedRadiusBad_mono_bad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/b2cacd42-b569-410c-b689-22c022a0ba9b

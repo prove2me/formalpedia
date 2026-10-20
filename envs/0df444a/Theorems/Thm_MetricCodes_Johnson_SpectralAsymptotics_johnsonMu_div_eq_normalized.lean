@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_johnsonMu_div_eq_normalized
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.johnsonMu_div_eq_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/1cbae1fe-c0f3-4291-841b-f2c1345c66c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualMap_spectral_gap
 -- name    : SoficGroups.ejThreeResidualMap_spectral_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/262585d7-e520-4c4e-8e68-56a4a6f37493

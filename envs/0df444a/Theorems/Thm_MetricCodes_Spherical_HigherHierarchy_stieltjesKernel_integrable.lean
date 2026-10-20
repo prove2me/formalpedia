@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesKernel_integrable
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesKernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/3a4fdf07-4d08-47da-93ce-df90b05576c9

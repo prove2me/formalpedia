@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceWinningEffect_reindex
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceWinningEffect_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/8920f838-55a4-402b-8213-0185058e5d34

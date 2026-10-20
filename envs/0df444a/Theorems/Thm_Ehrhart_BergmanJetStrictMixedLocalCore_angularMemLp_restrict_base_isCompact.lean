@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetStrictMixedLocalCore_angularMemLp_restrict_base_isCompact
 -- name    : Ehrhart.BergmanJetStrictMixedLocalCore.angularMemLp_restrict_base_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/be8c92e6-cd91-4803-becf-f2d0e60f88ea

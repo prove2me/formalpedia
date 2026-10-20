@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_hammingDist_binaryTranslate
 -- name    : MetricCodes.hammingDist_binaryTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/c0ac1278-a357-4d6f-a420-9092d3aaa463

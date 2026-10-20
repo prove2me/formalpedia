@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_criticalExponent_le_hierarchyPackingExponent
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.criticalExponent_le_hierarchyPackingExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/66725b9c-37e6-4389-991b-8c6b9fc4a654

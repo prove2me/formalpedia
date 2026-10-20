@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTerminalNegativeProjectorVanishing_gtAxisCompressedSignedProjectorCoefficient_last_false_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTerminalNegativeProjectorVanishing.gtAxisCompressedSignedProjectorCoefficient_last_false_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/f8d5404f-5bbb-498c-87e3-f4204a9de819

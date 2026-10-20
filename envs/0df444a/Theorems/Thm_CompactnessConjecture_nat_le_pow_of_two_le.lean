@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_nat_le_pow_of_two_le
 -- name    : CompactnessConjecture.nat_le_pow_of_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/7cd4715a-2c49-47fe-89e1-7c393d6e0513

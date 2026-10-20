@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedRetainedSupport_cover_density_tendsto_one
 -- name    : SoficGroups.matchedRetainedSupport_cover_density_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/a4523fef-0100-4380-b92a-354cbece25ff

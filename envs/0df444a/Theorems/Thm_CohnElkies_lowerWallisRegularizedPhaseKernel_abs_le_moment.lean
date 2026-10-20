@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerWallisRegularizedPhaseKernel_abs_le_moment
 -- name    : CohnElkies.lowerWallisRegularizedPhaseKernel_abs_le_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/a73827c8-26c2-4e99-97a1-37d458dd32e6

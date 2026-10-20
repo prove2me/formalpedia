@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_isProbability
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_isProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/e14c63c2-1785-4bee-a423-84dd06136f95

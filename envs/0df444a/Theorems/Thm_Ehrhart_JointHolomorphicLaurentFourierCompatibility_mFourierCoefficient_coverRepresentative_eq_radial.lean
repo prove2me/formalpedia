@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_mFourierCoefficient_coverRepresentative_eq_radial
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.mFourierCoefficient_coverRepresentative_eq_radial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/e0f3b95b-8baf-404f-b782-09e5bd82b347

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactLocallySampleableLaw_accepted_of_ne_zero
 -- name    : QuantumParallelRepetition.exactLocallySampleableLaw_accepted_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/fe847cde-a0b0-4d90-9994-bed55a27618a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFLocalWitness_source_relator_one
 -- name    : SoficGroups.ThompsonFLocalWitness.source_relator_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/9212858f-8085-4e56-ab87-877708de9693

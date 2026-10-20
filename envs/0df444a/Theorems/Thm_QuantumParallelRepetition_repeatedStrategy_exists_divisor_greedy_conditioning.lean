@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_repeatedStrategy_exists_divisor_greedy_conditioning
 -- name    : QuantumParallelRepetition.repeatedStrategy_exists_divisor_greedy_conditioning
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/d220d051-c573-4f95-aea1-eec0416a39b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_shor_periodFinding
 -- name    : QAlgorithms.DeWolf.shor_periodFinding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:34:57.788865+00:00
 -- url     : https://prove2.me/theorems/d1f72f49-9a9d-41a5-92de-560783bd030b

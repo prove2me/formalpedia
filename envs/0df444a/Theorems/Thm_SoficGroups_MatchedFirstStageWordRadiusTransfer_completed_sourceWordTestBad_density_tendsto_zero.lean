@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedFirstStageWordRadiusTransfer_completed_sourceWordTestBad_density_tendsto_zero
 -- name    : SoficGroups.MatchedFirstStageWordRadiusTransfer.completed_sourceWordTestBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/3974ac72-a38f-4eaa-9712-9ca3419f3ba8

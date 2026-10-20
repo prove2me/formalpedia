@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalRationalMixedConjugateBobSpectral_sum
 -- name    : QuantumParallelRepetition.unconditionalRationalMixedConjugateBobSpectral_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/4d8d8e10-79f3-425b-bf4c-1f9631d8840d

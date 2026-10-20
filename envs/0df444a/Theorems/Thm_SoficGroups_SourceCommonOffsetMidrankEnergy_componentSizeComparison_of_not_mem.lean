@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCommonOffsetMidrankEnergy_componentSizeComparison_of_not_mem
 -- name    : SoficGroups.SourceCommonOffsetMidrankEnergy.componentSizeComparison_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/42ce219e-d62d-499f-9a27-60a71f201ff9

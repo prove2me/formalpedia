@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.StrichartzWave.multiplierOp_deficiencyTrivial
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:27:38.535187+00:00
 -- url     : https://prove2.me/submissions/98b14edc-0d8c-4291-a052-0ca2e8cf5f29
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWaveUnboundedPotential.lean — solution of BookProof.StrichartzWave.multiplierOp_deficiencyTrivial
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tridiagonal_quadratic_sum
 -- name    : MetricCodes.Hamming.tridiagonal_quadratic_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/5d0548c3-7f53-440f-9dac-08f689580eb2

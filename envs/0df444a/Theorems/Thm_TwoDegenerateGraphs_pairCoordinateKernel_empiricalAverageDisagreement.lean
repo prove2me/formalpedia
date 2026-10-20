@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairCoordinateKernel_empiricalAverageDisagreement
 -- name    : TwoDegenerateGraphs.pairCoordinateKernel_empiricalAverageDisagreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/df9c410c-d91b-454b-97b3-2dc99bbe4fc3

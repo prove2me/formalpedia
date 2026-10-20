@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_MidpointQuadrature_midpoint_error_eq_derivative_difference
 -- name    : MetricCodes.Spherical.HigherHierarchy.MidpointQuadrature.midpoint_error_eq_derivative_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/e3306125-a549-478d-9a43-bcfcba87f4e2

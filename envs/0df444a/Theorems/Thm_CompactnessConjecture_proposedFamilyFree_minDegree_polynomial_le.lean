@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_minDegree_polynomial_le
 -- name    : CompactnessConjecture.proposedFamilyFree_minDegree_polynomial_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/e091d282-20d9-42b8-bfe2-a206eecd2818

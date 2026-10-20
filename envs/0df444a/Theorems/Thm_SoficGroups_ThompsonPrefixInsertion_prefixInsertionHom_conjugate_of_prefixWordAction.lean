@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonPrefixInsertion_prefixInsertionHom_conjugate_of_prefixWordAction
 -- name    : SoficGroups.ThompsonPrefixInsertion.prefixInsertionHom_conjugate_of_prefixWordAction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/0ee372c0-44ab-4ccf-9695-8bedb56c7dfa

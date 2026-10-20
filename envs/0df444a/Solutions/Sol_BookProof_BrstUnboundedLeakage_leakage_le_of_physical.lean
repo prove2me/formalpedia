@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.BrstUnboundedLeakage.leakage_le_of_physical
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T19:48:06.071098+00:00
 -- url     : https://prove2.me/submissions/f77a10c6-be80-4f77-b4fe-c7358c7838ab
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBrstUnboundedLeakage.lean — solution of BookProof.BrstUnboundedLeakage.leakage_le_of_physical
 import Mathlib

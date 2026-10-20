@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_homogeneous_linear_slice_exists_independent_dimension_drop
 -- name    : PermanentRollout.permanent_rollout_homogeneous_linear_slice_exists_independent_dimension_drop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/ced276f8-d2b7-4f09-9183-7008a6a55c62

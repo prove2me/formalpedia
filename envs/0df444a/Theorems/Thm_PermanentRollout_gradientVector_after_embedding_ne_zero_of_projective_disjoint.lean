@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_gradientVector_after_embedding_ne_zero_of_projective_disjoint
 -- name    : PermanentRollout.gradientVector_after_embedding_ne_zero_of_projective_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/eae0366b-c9d6-447a-9841-96631f1ef2b7

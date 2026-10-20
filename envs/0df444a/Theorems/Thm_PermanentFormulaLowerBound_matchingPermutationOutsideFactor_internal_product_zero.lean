@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermutationOutsideFactor_internal_product_zero
 -- name    : PermanentFormulaLowerBound.matchingPermutationOutsideFactor_internal_product_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/7ec51bea-2a08-404e-a084-1b919e7be872

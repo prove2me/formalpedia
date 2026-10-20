@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyExponentialSecantBridge_nonnegative_le_exp_mul_one_sub_exp_neg
 -- name    : Ehrhart.BergmanJetBodyExponentialSecantBridge.nonnegative_le_exp_mul_one_sub_exp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/bdc42a68-b34f-4dca-9c17-0576bdd24aa3

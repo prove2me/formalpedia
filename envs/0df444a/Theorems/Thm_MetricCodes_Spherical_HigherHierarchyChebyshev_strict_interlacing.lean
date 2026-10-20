@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_strict_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.strict_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/74c79ddf-e69f-475e-a149-1e103eb761df

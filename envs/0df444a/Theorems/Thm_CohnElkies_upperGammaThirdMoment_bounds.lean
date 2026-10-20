@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaThirdMoment_bounds
 -- name    : CohnElkies.upperGammaThirdMoment_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/5a02668a-ce70-4f06-bb08-6ae15abcc555

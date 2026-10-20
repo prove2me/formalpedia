@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialL1Mass_pos
 -- name    : CohnElkies.radialL1Mass_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/2921b024-892d-4693-90ea-ba557108b794

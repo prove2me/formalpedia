@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Phi_drop_second_of_collision
 -- name    : MetricCodes.Spherical.HigherHierarchy.Phi_drop_second_of_collision
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/610d90f7-bb4f-4295-bfe7-708f5431448a

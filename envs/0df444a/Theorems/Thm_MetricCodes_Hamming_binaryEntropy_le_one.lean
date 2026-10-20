@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryEntropy_le_one
 -- name    : MetricCodes.Hamming.binaryEntropy_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/ce41bd25-989e-41cd-9dd0-3c0be7f57a29

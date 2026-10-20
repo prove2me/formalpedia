@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousOriginalStoppedState_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousOriginalStoppedState_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/ea484d67-3adc-4d4a-b2aa-01d4a72b2de8

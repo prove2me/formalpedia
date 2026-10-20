@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485WeightedCleanDeviation_eq_hazard
 -- name    : QuantumParallelRepetition.unconditionalActualC485WeightedCleanDeviation_eq_hazard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/af77e9a0-983c-44d9-a56a-7f4d9041f76d

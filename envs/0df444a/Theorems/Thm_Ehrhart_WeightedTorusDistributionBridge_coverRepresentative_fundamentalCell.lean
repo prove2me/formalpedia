@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_coverRepresentative_fundamentalCell
 -- name    : Ehrhart.WeightedTorusDistributionBridge.coverRepresentative_fundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/308b9baa-17ec-4bfa-91bf-84867a73eda0

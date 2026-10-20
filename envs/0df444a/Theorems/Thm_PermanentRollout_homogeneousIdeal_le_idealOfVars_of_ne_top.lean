@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousIdeal_le_idealOfVars_of_ne_top
 -- name    : PermanentRollout.homogeneousIdeal_le_idealOfVars_of_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/e82a7475-447e-4c85-8ac4-073cf84d1be3

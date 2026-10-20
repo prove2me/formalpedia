@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockIncidencePowerRemainder_totalDegree
 -- name    : PermanentRollout.blockIncidencePowerRemainder_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/aa1721f5-4179-46db-873e-e3f2f8f46ad3

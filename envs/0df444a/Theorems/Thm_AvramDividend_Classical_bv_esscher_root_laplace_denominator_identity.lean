@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_esscher_root_laplace_denominator_identity
 -- name    : AvramDividend.Classical.bv_esscher_root_laplace_denominator_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:27:47.162313+00:00
 -- url     : https://prove2.me/theorems/e38154cd-6088-4aea-8551-60ffb7a01fae

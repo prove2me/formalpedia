@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperFirstBranch_shortVariance_le_gamma
 -- name    : CohnElkies.upperFirstBranch_shortVariance_le_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/e86af7d5-e22d-4e8c-8e6e-0ca07138e6c0

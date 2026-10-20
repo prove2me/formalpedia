@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_SpectralAsymptotics_terminalVector_norm_sq
 -- name    : SpherePacking.SpectralAsymptotics.terminalVector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/c8f46c99-a4bc-4bc0-8299-b071b3d969a8

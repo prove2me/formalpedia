@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripSchwarzExponential_sub_one_norm_ge_sin
 -- name    : CohnElkies.stripSchwarzExponential_sub_one_norm_ge_sin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/8c3ba5bd-13cb-43e2-80d4-3025840f3fde

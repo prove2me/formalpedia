@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sliceCost_sub_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.sliceCost_sub_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/d8f47216-ec9f-421b-8205-4860eb036117

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SpatialBergmanPointwiseAsymptotics_tendsto_nearestMonomialIndex
 -- name    : Ehrhart.SpatialBergmanPointwiseAsymptotics.tendsto_nearestMonomialIndex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/a4a7dc8b-b89c-4c28-9aee-c0abca4df2bf

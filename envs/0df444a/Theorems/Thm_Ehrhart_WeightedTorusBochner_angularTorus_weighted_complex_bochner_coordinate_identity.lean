@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_angularTorus_weighted_complex_bochner_coordinate_identity
 -- name    : Ehrhart.WeightedTorusBochner.angularTorus_weighted_complex_bochner_coordinate_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/4be0c6eb-3287-4585-93e8-a44720b219c1

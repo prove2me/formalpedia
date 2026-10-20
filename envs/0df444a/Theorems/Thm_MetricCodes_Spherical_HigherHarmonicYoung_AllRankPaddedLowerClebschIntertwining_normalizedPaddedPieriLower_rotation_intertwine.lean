@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankPaddedLowerClebschIntertwining_normalizedPaddedPieriLower_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining.normalizedPaddedPieriLower_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/eec92955-f73a-4dd9-bb3c-20021e94f8a2

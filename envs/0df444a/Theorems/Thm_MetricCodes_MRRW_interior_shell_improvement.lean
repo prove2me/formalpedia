@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_interior_shell_improvement
 -- name    : MetricCodes.MRRW.interior_shell_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/7c3f94be-a269-48d6-8d31-adcb74f5a80c

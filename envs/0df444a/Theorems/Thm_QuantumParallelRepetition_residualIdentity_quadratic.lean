@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_residualIdentity_quadratic
 -- name    : QuantumParallelRepetition.residualIdentity_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/dab7d200-83b6-41f6-847f-f4783d657d2c

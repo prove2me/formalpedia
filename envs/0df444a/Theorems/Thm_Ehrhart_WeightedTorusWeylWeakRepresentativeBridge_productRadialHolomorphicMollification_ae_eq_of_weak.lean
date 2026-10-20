@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylWeakRepresentativeBridge_productRadialHolomorphicMollification_ae_eq_of_weak
 -- name    : Ehrhart.WeightedTorusWeylWeakRepresentativeBridge.productRadialHolomorphicMollification_ae_eq_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/6e8b1ade-efb2-43ad-9e24-65ba1f25bc05

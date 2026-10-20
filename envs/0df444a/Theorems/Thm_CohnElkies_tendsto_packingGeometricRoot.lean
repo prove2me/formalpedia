@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_packingGeometricRoot
 -- name    : CohnElkies.tendsto_packingGeometricRoot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/9a56c3a4-6784-451c-8898-8f4ed76c4b12

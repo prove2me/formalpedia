@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_chosenCayleyRadiusBad_rooted
 -- name    : SoficGroups.KunActualSoficRootRadius.chosenCayleyRadiusBad_rooted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/757c0952-bbd8-411e-be79-5902ceb6c8ed

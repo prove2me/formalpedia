@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphCopy_entropy_lower_of_exclusion
 -- name    : TwoDegenerateGraphs.pairGraphCopy_entropy_lower_of_exclusion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/b444c448-e659-4fc4-9df5-4fe7d540facf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeMatrix_alpha_eq_zero
 -- name    : PermanentRollout.sourceTreeMatrix_alpha_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/e59802cb-09b8-4ed6-bb02-c81f224c168e

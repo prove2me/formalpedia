@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_extension_le_of_frontier
 -- name    : CohnElkies.norm_extension_le_of_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/f0390feb-5eb7-4b5f-b799-32b5b74cbe04

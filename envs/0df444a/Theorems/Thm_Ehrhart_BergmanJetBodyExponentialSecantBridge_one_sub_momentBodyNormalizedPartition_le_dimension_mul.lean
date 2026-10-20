@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyExponentialSecantBridge_one_sub_momentBodyNormalizedPartition_le_dimension_mul
 -- name    : Ehrhart.BergmanJetBodyExponentialSecantBridge.one_sub_momentBodyNormalizedPartition_le_dimension_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/4a8f46f2-f8ac-4e5c-8034-f32e8cafb7e3

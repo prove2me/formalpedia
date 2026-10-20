@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunPositiveWordMidrankEnergy_squaredPermutationEnergy_le_add_hammingDist
 -- name    : SoficGroups.KunPositiveWordMidrankEnergy.squaredPermutationEnergy_le_add_hammingDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/3fc1eaa2-a8d0-4c7c-a599-996e555f8dd2

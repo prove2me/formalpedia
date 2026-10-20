@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedHistory_bobFilter
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedHistory_bobFilter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/62ae6dd8-1722-4ab0-aa17-cdfdf526f9b0

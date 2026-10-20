@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusMollificationLocalL2Bounds_integral_norm_sq_normalizedCoverMollification_le
 -- name    : Ehrhart.TorusMollificationLocalL2Bounds.integral_norm_sq_normalizedCoverMollification_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/5c7e1bed-5c3b-4d88-a9de-551c9ce2d81e

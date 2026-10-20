@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeMatrix_columnLinearFormProduct
 -- name    : PermanentRollout.sourceTreeMatrix_columnLinearFormProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/c2c2665d-44a6-4962-afb4-c3e589527f60

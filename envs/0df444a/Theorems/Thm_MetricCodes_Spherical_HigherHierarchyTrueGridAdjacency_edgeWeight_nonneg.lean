@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyTrueGridAdjacency_edgeWeight_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency.edgeWeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/53621eba-c05d-4a4e-b805-00ba0f71ec8d

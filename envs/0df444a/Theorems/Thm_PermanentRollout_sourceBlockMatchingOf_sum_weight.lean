@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMatchingOf_sum_weight
 -- name    : PermanentRollout.sourceBlockMatchingOf_sum_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/079cdd49-441d-4828-b153-9c9aef4f615a

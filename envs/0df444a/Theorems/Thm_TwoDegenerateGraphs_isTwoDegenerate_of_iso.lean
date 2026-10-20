@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_isTwoDegenerate_of_iso
 -- name    : TwoDegenerateGraphs.isTwoDegenerate_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/7ea76a4a-813a-4d98-bd3a-b86256be74df

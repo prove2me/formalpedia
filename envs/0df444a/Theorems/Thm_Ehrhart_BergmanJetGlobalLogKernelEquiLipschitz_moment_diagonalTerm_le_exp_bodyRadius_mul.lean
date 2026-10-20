@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_moment_diagonalTerm_le_exp_bodyRadius_mul
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.moment_diagonalTerm_le_exp_bodyRadius_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/5bc0747d-41ce-4d5f-9c11-9772a692177b

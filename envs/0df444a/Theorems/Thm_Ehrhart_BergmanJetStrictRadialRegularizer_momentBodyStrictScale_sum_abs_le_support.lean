@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetStrictRadialRegularizer_momentBodyStrictScale_sum_abs_le_support
 -- name    : Ehrhart.BergmanJetStrictRadialRegularizer.momentBodyStrictScale_sum_abs_le_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/5988a2a9-f35a-4407-810b-7fd421fae2c3

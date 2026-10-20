@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_spectralSupportProjection_mul
 -- name    : QuantumParallelRepetition.spectralSupportProjection_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/23898aa6-0f9c-4403-87c8-abf7e8aef893

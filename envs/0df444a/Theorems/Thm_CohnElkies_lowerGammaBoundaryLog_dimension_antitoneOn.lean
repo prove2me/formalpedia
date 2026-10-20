@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_dimension_antitoneOn
 -- name    : CohnElkies.lowerGammaBoundaryLog_dimension_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/71af681a-3071-451e-908b-a6ddc9fa9c32

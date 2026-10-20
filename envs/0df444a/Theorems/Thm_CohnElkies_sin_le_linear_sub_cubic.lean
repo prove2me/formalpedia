@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sin_le_linear_sub_cubic
 -- name    : CohnElkies.sin_le_linear_sub_cubic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/1aebdc62-1a5b-49b8-a238-80896f49c661

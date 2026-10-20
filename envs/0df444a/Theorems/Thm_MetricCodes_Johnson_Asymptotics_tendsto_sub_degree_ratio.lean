@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_sub_degree_ratio
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_sub_degree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/d1b676ba-4f63-4126-bcce-72ea35499194

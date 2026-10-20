@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSharpThresholdCut_card_symmDiff_upperLevel_le_nine_sq_error
 -- name    : SoficGroups.KunSharpThresholdCut.card_symmDiff_upperLevel_le_nine_sq_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/fe932c5a-b8f9-4784-81c1-279518972f80

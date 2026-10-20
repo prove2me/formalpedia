@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingInsertionChannelSquare_mul_sqrt_choose
 -- name    : MetricCodes.Boolean.hammingInsertionChannelSquare_mul_sqrt_choose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/3cb3d13c-71d2-44f2-aa97-790a93274c84

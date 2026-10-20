@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_tendsto_atTop_zero
 -- name    : CohnElkies.lowerGammaBoundaryLog_tendsto_atTop_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/7206948b-888d-4b15-85f6-03e1b2704807

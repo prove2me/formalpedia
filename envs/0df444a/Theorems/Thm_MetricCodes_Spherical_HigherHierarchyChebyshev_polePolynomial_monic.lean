@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_polePolynomial_monic
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.polePolynomial_monic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/dd07f335-cbfe-4937-a991-860b22df6392

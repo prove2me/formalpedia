@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_quadratic_iff_boundaryDegree
 -- name    : MetricCodes.Spherical.quadratic_iff_boundaryDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/e454adc5-0527-41cf-8ed1-36e7c9c7291f

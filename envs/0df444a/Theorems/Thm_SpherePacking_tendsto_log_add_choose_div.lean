@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_log_add_choose_div
 -- name    : SpherePacking.tendsto_log_add_choose_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/0de3105d-d8c6-4d40-87b9-9579b5b43141

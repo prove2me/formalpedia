@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingMonomialObservableConvergence_tendsto_momentNormalized_moving_monomial_bounded_observable
 -- name    : Ehrhart.BergmanJetMovingMonomialObservableConvergence.tendsto_momentNormalized_moving_monomial_bounded_observable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/9706688a-1d0b-4b4b-9a43-37de31ca8430

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_minusSaddleProfile_exp_re_neg_of_gaussian_error
 -- name    : CohnElkies.minusSaddleProfile_exp_re_neg_of_gaussian_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/0875e7ad-02df-4c29-878b-e8fc808d8be3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_member_no_isolated
 -- name    : CompactnessConjecture.proposedFamily_member_no_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/d0ff6a50-a7b9-4294-8ca4-3d6262ee5770

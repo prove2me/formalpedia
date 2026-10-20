@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualRetainedSelection_exists_matchedRetained_part_boundary_and_bad_density_le
 -- name    : SoficGroups.KunResidualRetainedSelection.exists_matchedRetained_part_boundary_and_bad_density_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/e81833b8-7178-4a18-841a-279251f33b0e

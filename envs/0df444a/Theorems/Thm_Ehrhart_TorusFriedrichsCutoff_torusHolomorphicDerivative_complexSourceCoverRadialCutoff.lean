@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsCutoff_torusHolomorphicDerivative_complexSourceCoverRadialCutoff
 -- name    : Ehrhart.TorusFriedrichsCutoff.torusHolomorphicDerivative_complexSourceCoverRadialCutoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/e5fc93d8-e600-4611-a263-4843df38af5d

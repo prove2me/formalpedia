@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_completeCleanFinpartition_half_expansion
 -- name    : SoficGroups.KunResidualExpanderDecomposition.completeCleanFinpartition_half_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/7a9efddd-0f5d-4b57-9574-33a14ab618d4

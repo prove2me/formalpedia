@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptPackingRoot_sub_deficit_pow_le
 -- name    : CohnElkies.manuscriptPackingRoot_sub_deficit_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/7857514b-c06f-4fb7-ac28-1966d34c9f50

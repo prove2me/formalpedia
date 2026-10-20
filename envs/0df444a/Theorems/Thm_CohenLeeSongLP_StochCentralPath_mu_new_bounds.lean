@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohenLeeSongLP_StochCentralPath_mu_new_bounds
 -- name    : CohenLeeSongLP.StochCentralPath.mu_new_bounds
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:27:00.011482+00:00
 -- url     : https://prove2.me/theorems/70ba82ad-7009-4ec1-957a-d36640e8c60c

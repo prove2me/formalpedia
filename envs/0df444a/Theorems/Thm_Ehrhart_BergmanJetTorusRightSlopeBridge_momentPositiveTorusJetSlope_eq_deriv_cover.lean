@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentPositiveTorusJetSlope_eq_deriv_cover
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentPositiveTorusJetSlope_eq_deriv_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/b17ced22-d43b-437b-8191-8460009a2b8b

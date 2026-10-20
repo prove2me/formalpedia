@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceShellDerivative_monotone_secondBranch
 -- name    : CohnElkies.eventually_saddleSourceShellDerivative_monotone_secondBranch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/2bbab96b-01b3-46b9-91b6-f8e1aad7307d

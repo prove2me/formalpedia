@@ -18,6 +18,8 @@
 --   This is the explicit form of Mertens' second theorem used to bound smoothed sums over primes.
 --
 --   **Status note (2026-10-17)** The release [Dusart v2.0.0, doi:10.5281/zenodo.23432990](https://doi.org/10.5281/zenodo.23432990) proves this bound in Lean 4 from the Chebyshev estimate for $t\ge3584912846=\lfloor e^{22}\rfloor$ alone (`Dusart.dusart_reciprocal_primes_of_chebyshev_large`).
+--
+--   **Status note (2026-10-19)** The release [Dusart v3.0.0, doi:10.5281/zenodo.23463154](https://doi.org/10.5281/zenodo.23463154) proves this bound in Lean 4 with a single published table row as the only hypothesis, $|\theta(t)-t|<0.15952\,t/\log^2t$ for $t>5\cdot10^6$ (Broadbent, Kadiri, Lumley, Ng and Wilk, Math. Comp. 90 (2021), Theorem 1 with $k=2$, Table 15, row $\log X_0=\log(5\cdot10^6)$) (`Dusart.dusart_reciprocal_primes_of_bklnw`; axioms `propext`, `Classical.choice`, `Quot.sound` only). With that published theorem the bound holds unconditionally as mathematics; the row itself is not formalized, so on this platform the entry stays reduced to the Chebyshev estimate.
 -- source:
 --   P. Dusart, Estimates of some functions over primes without R.H., arXiv:1002.0442 (2010), Theorem 6.10 (upper bound).
 

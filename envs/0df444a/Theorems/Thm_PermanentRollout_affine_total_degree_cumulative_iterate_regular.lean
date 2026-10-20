@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_cumulative_iterate_regular
 -- name    : PermanentRollout.affine_total_degree_cumulative_iterate_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/7e509813-9a96-44ba-8e22-38e35b124e8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_FiniteCarry_carry_add_right
 -- name    : ConnesRigidity.FiniteCarry.carry_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/702db8a3-4dc2-4bb7-a8df-f42332fb9a05

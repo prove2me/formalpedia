@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockGluedFibre_eq
 -- name    : PermanentRollout.sourceBlockGluedFibre_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/de80df5c-bcca-424f-90ae-ee6b5e6afa51

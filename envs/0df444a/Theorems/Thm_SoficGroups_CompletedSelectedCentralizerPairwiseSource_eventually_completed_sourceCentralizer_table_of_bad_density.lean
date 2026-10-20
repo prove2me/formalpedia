@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedSelectedCentralizerPairwiseSource_eventually_completed_sourceCentralizer_table_of_bad_density
 -- name    : SoficGroups.CompletedSelectedCentralizerPairwiseSource.eventually_completed_sourceCentralizer_table_of_bad_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/ee865221-c9dd-43cf-8932-dec217e51ec8

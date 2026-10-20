@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankZeroRowRotationEquivariance_ambientRotation_zeroRowPolynomial
 -- name    : MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance.ambientRotation_zeroRowPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/dea53613-9f7c-4d33-ad3f-46d200b7cc7e

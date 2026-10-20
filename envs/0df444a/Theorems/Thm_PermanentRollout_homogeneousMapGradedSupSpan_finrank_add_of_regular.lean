@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapGradedSupSpan_finrank_add_of_regular
 -- name    : PermanentRollout.homogeneousMapGradedSupSpan_finrank_add_of_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/d4f000ec-050b-45c8-9e3d-a72cb921c84b

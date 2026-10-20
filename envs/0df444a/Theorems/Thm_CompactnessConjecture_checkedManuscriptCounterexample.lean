@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_checkedManuscriptCounterexample
 -- name    : CompactnessConjecture.checkedManuscriptCounterexample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/4d2eda96-a58c-48ca-aaca-bfd783a36f72

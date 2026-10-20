@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceCenteredPlusIntegrand_norm
 -- name    : CohnElkies.saddleSourceCenteredPlusIntegrand_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/11759194-e307-46ab-9094-c1771380b47a

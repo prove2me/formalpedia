@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedBaseAE_angularWeightedTorus_ae_eq_base
 -- name    : Ehrhart.TorusWeightedBaseAE.angularWeightedTorus_ae_eq_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/30123d2d-4d05-4dc0-a8e2-82a9a291b101

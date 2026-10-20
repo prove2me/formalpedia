@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanentRolloutLinearCoordinateCombination_isHomogeneous
 -- name    : PermanentRollout.permanentRolloutLinearCoordinateCombination_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/a2770f38-9eb0-4dda-977c-3b51ff45e003

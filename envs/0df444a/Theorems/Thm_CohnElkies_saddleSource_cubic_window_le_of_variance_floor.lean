@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSource_cubic_window_le_of_variance_floor
 -- name    : CohnElkies.saddleSource_cubic_window_le_of_variance_floor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/55b0242c-90f0-4a62-95ae-9eb826d9e461

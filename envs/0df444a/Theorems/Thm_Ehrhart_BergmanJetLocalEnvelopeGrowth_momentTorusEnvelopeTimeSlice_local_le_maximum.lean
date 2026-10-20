@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalEnvelopeGrowth_momentTorusEnvelopeTimeSlice_local_le_maximum
 -- name    : Ehrhart.BergmanJetLocalEnvelopeGrowth.momentTorusEnvelopeTimeSlice_local_le_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/58ccd805-eee7-4c2a-85f1-c5f75fd82313

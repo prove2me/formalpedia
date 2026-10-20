@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_exists_rooted_word_radius_real_markov_sq_error_le_boundary
 -- name    : SoficGroups.KunRootedWordPower.exists_rooted_word_radius_real_markov_sq_error_le_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/7afdebd3-a571-47f1-85ad-958b4fcfb5ad

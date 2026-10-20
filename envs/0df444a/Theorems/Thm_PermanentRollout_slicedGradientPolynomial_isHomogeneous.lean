@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_slicedGradientPolynomial_isHomogeneous
 -- name    : PermanentRollout.slicedGradientPolynomial_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/6127bb4f-713c-48b1-b57f-00da7f91f17f

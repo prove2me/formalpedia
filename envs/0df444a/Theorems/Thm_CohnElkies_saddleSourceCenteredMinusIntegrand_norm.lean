@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceCenteredMinusIntegrand_norm
 -- name    : CohnElkies.saddleSourceCenteredMinusIntegrand_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/4b372c84-5a2f-46a1-adaf-0b49745e1b77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_angularFundamentalEquiv_measurePreserving
 -- name    : Ehrhart.WeightedTorusDistributionBridge.angularFundamentalEquiv_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/a2e4bb78-a23e-4af2-aeca-e828d7d5df89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_angular_integral_holomorphic_coverAngularSmoothPartition_eq_zero
 -- name    : Ehrhart.WeightedTorusBochner.angular_integral_holomorphic_coverAngularSmoothPartition_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/32ba1c29-8e32-417f-83ab-b46a81092f77

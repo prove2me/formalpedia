@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finite_linear_programming_bound
 -- name    : SpherePacking.finite_linear_programming_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/1219576e-b290-4744-92f2-50aa4f82f756

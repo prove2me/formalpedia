@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_interiorLatticePoints_centeredSimplex
 -- name    : Ehrhart.Geometry.interiorLatticePoints_centeredSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/832f048f-9703-4ba3-a281-c6d7ac48d999

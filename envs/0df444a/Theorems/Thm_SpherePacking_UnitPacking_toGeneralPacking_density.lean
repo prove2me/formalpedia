@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_UnitPacking_toGeneralPacking_density
 -- name    : SpherePacking.UnitPacking.toGeneralPacking_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/4b2ac9da-9876-444e-91de-d6a7f7b818e4

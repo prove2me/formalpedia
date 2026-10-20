@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropySlack_pos
 -- name    : TwoDegenerateGraphs.entropySlack_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/0df77b06-7dbd-4f32-aa36-ff9f1923a1a7

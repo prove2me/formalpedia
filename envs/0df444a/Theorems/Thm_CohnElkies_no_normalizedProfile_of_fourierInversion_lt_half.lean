@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_no_normalizedProfile_of_fourierInversion_lt_half
 -- name    : CohnElkies.no_normalizedProfile_of_fourierInversion_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/21515637-8fe3-4756-9c6d-0cde2aa0dbc4

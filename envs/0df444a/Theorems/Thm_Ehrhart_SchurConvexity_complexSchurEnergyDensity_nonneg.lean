@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SchurConvexity_complexSchurEnergyDensity_nonneg
 -- name    : Ehrhart.SchurConvexity.complexSchurEnergyDensity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/b333aa72-3aa3-4b2d-b257-c1dd39f288d1

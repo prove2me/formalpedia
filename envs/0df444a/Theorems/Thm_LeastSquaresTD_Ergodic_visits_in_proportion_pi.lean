@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeastSquaresTD_Ergodic_visits_in_proportion_pi
 -- name    : LeastSquaresTD.Ergodic.visits_in_proportion_pi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:17:55.259196+00:00
 -- url     : https://prove2.me/theorems/c1ddba70-04e1-4d9f-8f7b-f7b6eff6b2d8

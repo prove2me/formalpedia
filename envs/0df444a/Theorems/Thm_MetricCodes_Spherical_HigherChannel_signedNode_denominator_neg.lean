@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherChannel_signedNode_denominator_neg
 -- name    : MetricCodes.Spherical.HigherChannel.signedNode_denominator_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/16d66815-bbe0-4c62-b433-d244eb04a4fd

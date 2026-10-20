@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceGaussianKernel_integral_pos
 -- name    : CohnElkies.saddleSourceGaussianKernel_integral_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/55d41fcd-a44d-423b-b08b-c90fb856a6b7

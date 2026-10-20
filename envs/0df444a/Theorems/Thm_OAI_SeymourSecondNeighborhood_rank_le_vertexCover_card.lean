@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_rank_le_vertexCover_card
 -- name    : OAI.SeymourSecondNeighborhood.rank_le_vertexCover_card
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:24:33.550355+00:00
 -- url     : https://prove2.me/theorems/64c7f23a-92ce-4fde-b4e0-4f785b07759d

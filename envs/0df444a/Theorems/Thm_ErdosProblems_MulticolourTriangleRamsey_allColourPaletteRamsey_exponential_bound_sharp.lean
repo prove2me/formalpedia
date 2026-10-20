@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_allColourPaletteRamsey_exponential_bound_sharp
 -- name    : ErdosProblems.MulticolourTriangleRamsey.allColourPaletteRamsey_exponential_bound_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/acc9f53e-af92-496b-9ebb-239e296aeab2

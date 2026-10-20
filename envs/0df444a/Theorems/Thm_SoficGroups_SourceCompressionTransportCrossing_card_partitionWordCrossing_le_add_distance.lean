@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionTransportCrossing_card_partitionWordCrossing_le_add_distance
 -- name    : SoficGroups.SourceCompressionTransportCrossing.card_partitionWordCrossing_le_add_distance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/a72c3ba4-ce4d-41c7-a935-2efe5fd3af93

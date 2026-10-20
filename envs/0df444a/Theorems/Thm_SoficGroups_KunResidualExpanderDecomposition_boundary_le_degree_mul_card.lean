@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_boundary_le_degree_mul_card
 -- name    : SoficGroups.KunResidualExpanderDecomposition.boundary_le_degree_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/25056f91-1d5f-4403-a14f-60dbbd7c3bde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedCoverGlobalGreen_barPartialCoordinate_finset_sum_complex
 -- name    : Ehrhart.TorusWeightedCoverGlobalGreen.barPartialCoordinate_finset_sum_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/5b9fc7c7-e5cb-414a-a37f-344d044d5e08

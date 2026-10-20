@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedCore_subset
 -- name    : SoficGroups.matchedCore_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/8705efa2-e82b-499e-abe1-fe6ffedc2db5

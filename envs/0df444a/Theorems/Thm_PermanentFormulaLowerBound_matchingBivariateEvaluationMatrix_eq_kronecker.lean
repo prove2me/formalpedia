@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingBivariateEvaluationMatrix_eq_kronecker
 -- name    : PermanentFormulaLowerBound.matchingBivariateEvaluationMatrix_eq_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/5b766e14-a98d-4cdb-8088-128740ffacaf

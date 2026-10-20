@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FriedrichsCanonical.friedrichsOp_symmetricOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-18T10:33:24.730615+00:00
 -- url     : https://prove2.me/submissions/cc035f07-f9b6-44d2-ac7e-6b9585587fce
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFriedrichsCanonical.lean — solution of BookProof.FriedrichsCanonical.friedrichsOp_symmetricOn
 import Mathlib

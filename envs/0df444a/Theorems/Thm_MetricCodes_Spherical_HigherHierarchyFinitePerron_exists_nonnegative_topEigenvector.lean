@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_exists_nonnegative_topEigenvector
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.exists_nonnegative_topEigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/dbe77fb1-0133-497a-ad03-2cca74e94ca8

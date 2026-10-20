@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_levelRate_zero_le_squared_entropy
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_levelRate_zero_le_squared_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/51fd71ff-3c19-4886-a44e-cc0013b84de1

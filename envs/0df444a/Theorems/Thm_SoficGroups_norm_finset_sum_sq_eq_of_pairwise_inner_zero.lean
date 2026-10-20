@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_norm_finset_sum_sq_eq_of_pairwise_inner_zero
 -- name    : SoficGroups.norm_finset_sum_sq_eq_of_pairwise_inner_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/cc39834d-8dde-419d-b31f-25fe4ae9482d

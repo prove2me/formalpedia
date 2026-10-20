@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparison_log_integrable_of_logMoment
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparison_log_integrable_of_logMoment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/2182085c-2d86-4f8d-a1e9-890db9e36ff4

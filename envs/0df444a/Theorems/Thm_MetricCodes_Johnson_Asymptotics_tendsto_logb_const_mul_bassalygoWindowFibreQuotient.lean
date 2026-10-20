@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_const_mul_bassalygoWindowFibreQuotient
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_const_mul_bassalygoWindowFibreQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/f5050e9f-17bf-4f48-893f-acd052e125bb

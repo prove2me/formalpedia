@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionIncidenceGlobalColumnLift_aeval
 -- name    : PermanentRollout.partitionIncidenceGlobalColumnLift_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/8d7bdac9-758c-4f13-bc89-497211c5c8b0

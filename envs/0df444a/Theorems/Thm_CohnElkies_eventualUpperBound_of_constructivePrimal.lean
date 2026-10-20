@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventualUpperBound_of_constructivePrimal
 -- name    : CohnElkies.eventualUpperBound_of_constructivePrimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/c75a42ae-bd03-40f9-8c29-ed589ab72c9d

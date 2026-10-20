@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affineTriangularInstructionInputAlgEquiv_mk
 -- name    : PermanentRollout.affineTriangularInstructionInputAlgEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/998ef928-b6cc-4fd5-a922-847bd0d994a3

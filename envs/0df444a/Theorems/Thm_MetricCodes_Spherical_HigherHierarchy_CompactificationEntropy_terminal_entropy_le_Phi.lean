@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_terminal_entropy_le_Phi
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.terminal_entropy_le_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/6354efe9-124b-445f-8e52-87477de0dae3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerCoth_one_le
 -- name    : CohnElkies.lowerCoth_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/e7971ab1-fd24-4b29-8c7a-c9894c525f7b

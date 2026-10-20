@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_complexShrinkingBump_rOut_tendsto
 -- name    : Ehrhart.DolbeaultRegularity.complexShrinkingBump_rOut_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/52c9df7b-bb14-4556-8f7d-f7f6c1981df7

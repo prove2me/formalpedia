@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCanonicalBoxActualForward_canonicalBoxForwardPolynomialData_of_recurrence
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward.canonicalBoxForwardPolynomialData_of_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:00.396673+00:00
 -- url     : https://prove2.me/theorems/05eec1a5-76b6-41ed-a789-967908ef938c

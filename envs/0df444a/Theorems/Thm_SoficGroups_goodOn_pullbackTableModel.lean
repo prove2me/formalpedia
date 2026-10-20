@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_goodOn_pullbackTableModel
 -- name    : SoficGroups.goodOn_pullbackTableModel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/34b94364-25eb-409d-a596-ad73b9cc5b90

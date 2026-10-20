@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankActualBranchingDimension_finrank_harmonicYoung_eq_sum_fullBranch_of_weylBranching
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankActualBranchingDimension.finrank_harmonicYoung_eq_sum_fullBranch_of_weylBranching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:00.396673+00:00
 -- url     : https://prove2.me/theorems/540017d7-57b8-455e-8587-f56f113d67b1

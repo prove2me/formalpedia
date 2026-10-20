@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_interior_integerPoint_eq_zero
 -- name    : Ehrhart.Geometry.interior_integerPoint_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/1b2b4102-8cca-418a-9769-82747f0f0175

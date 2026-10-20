@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentRegularity_ae_normalizedTargetBodyMeasure_mem_interior
 -- name    : Ehrhart.MomentRegularity.ae_normalizedTargetBodyMeasure_mem_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/f6874500-9166-49b7-8ce2-6dc5ce606762

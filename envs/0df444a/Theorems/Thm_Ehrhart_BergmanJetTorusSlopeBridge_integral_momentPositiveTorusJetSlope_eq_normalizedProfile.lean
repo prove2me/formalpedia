@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeBridge_integral_momentPositiveTorusJetSlope_eq_normalizedProfile
 -- name    : Ehrhart.BergmanJetTorusSlopeBridge.integral_momentPositiveTorusJetSlope_eq_normalizedProfile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/86e6cb31-531c-480c-a31a-367b544b975e

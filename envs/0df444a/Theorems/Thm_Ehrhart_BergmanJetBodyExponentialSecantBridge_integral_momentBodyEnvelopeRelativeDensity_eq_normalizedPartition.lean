@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyExponentialSecantBridge_integral_momentBodyEnvelopeRelativeDensity_eq_normalizedPartition
 -- name    : Ehrhart.BergmanJetBodyExponentialSecantBridge.integral_momentBodyEnvelopeRelativeDensity_eq_normalizedPartition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/a8a34033-1061-48ce-b1cf-611ca3d8cab6

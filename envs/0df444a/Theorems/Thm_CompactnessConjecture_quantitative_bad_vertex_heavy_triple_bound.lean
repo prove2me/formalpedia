@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quantitative_bad_vertex_heavy_triple_bound
 -- name    : CompactnessConjecture.quantitative_bad_vertex_heavy_triple_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/d6d02412-7f8c-4e9a-a826-02319516acbc

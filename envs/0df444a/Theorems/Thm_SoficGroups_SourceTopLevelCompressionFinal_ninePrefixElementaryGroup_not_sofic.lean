@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceTopLevelCompressionFinal_ninePrefixElementaryGroup_not_sofic
 -- name    : SoficGroups.SourceTopLevelCompressionFinal.ninePrefixElementaryGroup_not_sofic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/f5603cc1-d527-461c-b3aa-cbac7bd5df34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_encodeBinarySyndromeDecodingInstance_eq_original
 -- name    : GapCVP.Comparator.encodeBinarySyndromeDecodingInstance_eq_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/8794f454-0d2d-4700-abef-2465184a54b4

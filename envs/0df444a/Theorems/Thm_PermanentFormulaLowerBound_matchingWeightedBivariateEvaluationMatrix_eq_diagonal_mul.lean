@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingWeightedBivariateEvaluationMatrix_eq_diagonal_mul
 -- name    : PermanentFormulaLowerBound.matchingWeightedBivariateEvaluationMatrix_eq_diagonal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/63a7a9af-247d-42f4-851e-75a3fe406bda

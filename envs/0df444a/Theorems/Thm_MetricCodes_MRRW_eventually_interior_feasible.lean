@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_eventually_interior_feasible
 -- name    : MetricCodes.MRRW.eventually_interior_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/b20ecbb2-0b97-4a4b-a677-e51d134181a1

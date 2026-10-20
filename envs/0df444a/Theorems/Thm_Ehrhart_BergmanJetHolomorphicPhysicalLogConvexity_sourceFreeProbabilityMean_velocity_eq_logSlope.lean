@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_sourceFreeProbabilityMean_velocity_eq_logSlope
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.sourceFreeProbabilityMean_velocity_eq_logSlope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/3d1cb87d-4322-4548-9e3a-4c86b62a7096

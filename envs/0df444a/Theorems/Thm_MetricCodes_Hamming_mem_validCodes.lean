@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_mem_validCodes
 -- name    : MetricCodes.Hamming.mem_validCodes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/999692b5-39c6-4225-8a69-cb828e71e2e6

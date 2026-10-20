@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_mem_centeredSimplex_iff
 -- name    : Ehrhart.Geometry.mem_centeredSimplex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/0f12b5e7-668b-4e75-8101-67e0335549c0

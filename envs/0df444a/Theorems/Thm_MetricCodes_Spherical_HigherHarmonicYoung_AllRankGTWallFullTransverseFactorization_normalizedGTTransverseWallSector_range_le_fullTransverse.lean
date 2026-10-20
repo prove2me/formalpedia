@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTWallFullTransverseFactorization_normalizedGTTransverseWallSector_range_le_fullTransverse
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallFullTransverseFactorization.normalizedGTTransverseWallSector_range_le_fullTransverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/a04cbbdb-eda6-4a52-86c2-549ee17b0c47

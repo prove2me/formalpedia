@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_transverse_ratio
 -- name    : MetricCodes.Hamming.tendsto_transverse_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/119d79e7-1407-46cd-a84e-6f53e7b0c911

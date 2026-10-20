@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualSelectedBranchLocalAction_sub
 -- name    : QuantumParallelRepetition.unconditionalActualSelectedBranchLocalAction_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/41e3e9c5-99d7-4fbe-a2ff-1419afb36bc5

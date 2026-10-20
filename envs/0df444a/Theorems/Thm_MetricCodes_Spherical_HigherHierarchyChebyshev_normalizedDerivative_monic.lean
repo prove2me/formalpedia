@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_normalizedDerivative_monic
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.normalizedDerivative_monic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/1d85817f-b1a4-4b3d-a16b-1254460336cb

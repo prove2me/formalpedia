@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_permanentPolynomial_pderiv_ne_zero
 -- name    : PermanentFormulaLowerBound.permanentPolynomial_pderiv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/ee87e46c-90de-4d17-8480-b2e4bd14e6d6

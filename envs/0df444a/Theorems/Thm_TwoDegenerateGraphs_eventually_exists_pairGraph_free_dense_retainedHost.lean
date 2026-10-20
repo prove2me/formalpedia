@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_eventually_exists_pairGraph_free_dense_retainedHost
 -- name    : TwoDegenerateGraphs.eventually_exists_pairGraph_free_dense_retainedHost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/4a361b1a-b3a8-41b0-97dc-37b8dd8330cc

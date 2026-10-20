@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLine_char_two_disjoint_of_two_common_center_pairs
 -- name    : CompactnessConjecture.symplecticLine_char_two_disjoint_of_two_common_center_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/72566d16-1399-480a-9655-c275e2f62b9a

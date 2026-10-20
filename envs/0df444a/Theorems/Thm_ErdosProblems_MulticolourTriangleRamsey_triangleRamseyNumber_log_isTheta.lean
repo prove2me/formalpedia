@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_triangleRamseyNumber_log_isTheta
 -- name    : ErdosProblems.MulticolourTriangleRamsey.triangleRamseyNumber_log_isTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/3d7f9e5d-ed32-4acb-81a1-f7e7f31b52b8

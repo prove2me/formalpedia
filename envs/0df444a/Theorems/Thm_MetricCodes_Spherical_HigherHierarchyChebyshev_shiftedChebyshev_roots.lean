@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_shiftedChebyshev_roots
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.shiftedChebyshev_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/acfb7bc9-f943-4ac5-bde1-c213e666df09

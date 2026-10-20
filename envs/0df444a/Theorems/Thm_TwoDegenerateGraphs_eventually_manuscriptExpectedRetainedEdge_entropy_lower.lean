@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_eventually_manuscriptExpectedRetainedEdge_entropy_lower
 -- name    : TwoDegenerateGraphs.eventually_manuscriptExpectedRetainedEdge_entropy_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/3bd139d0-960f-4918-bb74-1e4c867948f9

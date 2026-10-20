@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermanentJacobian_eq_weighted
 -- name    : PermanentFormulaLowerBound.matchingPermanentJacobian_eq_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/ea37b196-7393-47d3-9b78-4df8071c0083

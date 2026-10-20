@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_interiorSpectralMargin_derivative_pos
 -- name    : MetricCodes.MRRW.interiorSpectralMargin_derivative_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/781a7745-e57d-486c-9ccf-95cc556f0f3b

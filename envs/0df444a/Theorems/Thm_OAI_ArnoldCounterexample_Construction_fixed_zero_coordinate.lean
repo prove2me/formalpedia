@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArnoldCounterexample_Construction_fixed_zero_coordinate
 -- name    : OAI.ArnoldCounterexample.Construction.fixed_zero_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:39:16.242451+00:00
 -- url     : https://prove2.me/theorems/d765b0d1-8084-4982-836d-3fd95ffd95ba

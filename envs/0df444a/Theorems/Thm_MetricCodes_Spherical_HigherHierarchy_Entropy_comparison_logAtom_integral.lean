@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparison_logAtom_integral
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparison_logAtom_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/4b65ab21-5eb0-49df-b2fd-637344d12de0

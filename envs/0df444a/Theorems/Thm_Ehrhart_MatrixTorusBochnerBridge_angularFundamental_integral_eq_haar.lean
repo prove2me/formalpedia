@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_angularFundamental_integral_eq_haar
 -- name    : Ehrhart.MatrixTorusBochnerBridge.angularFundamental_integral_eq_haar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/11ca24ed-55ea-42a4-9936-fd099c9cbb8c

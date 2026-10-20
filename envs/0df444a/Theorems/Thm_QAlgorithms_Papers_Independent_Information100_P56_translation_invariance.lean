@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_translation_invariance
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.translation_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:14:31.036299+00:00
 -- url     : https://prove2.me/theorems/80498579-a63f-4c8e-8d5c-b692e612bdc2

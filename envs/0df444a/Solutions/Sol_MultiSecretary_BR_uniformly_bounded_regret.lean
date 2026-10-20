@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MultiSecretary.BR.uniformly_bounded_regret
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T03:49:21.344829+00:00
 -- url     : https://prove2.me/submissions/294e084f-dd91-408b-8b1f-f4e20097daba
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MultiSecretary_BR_Model

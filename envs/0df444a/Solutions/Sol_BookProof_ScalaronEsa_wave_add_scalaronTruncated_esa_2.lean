@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for BookProof.ScalaronEsa.wave_add_scalaronTruncated_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-05T22:29:14.348705+00:00
 -- url     : https://prove2.me/submissions/28263ffd-f0b0-495a-9d04-43e8ce07c316
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterScalaronCoreEsa.lean — solution of BookProof.ScalaronEsa.wave_add_scalaronTruncated_esa
 import Mathlib

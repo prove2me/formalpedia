@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_isCyclic
 -- name    : CompactnessConjecture.proposedFamily_isCyclic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/74e91e8e-e526-40e3-8718-666abb08447b

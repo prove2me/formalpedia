@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankOrthogonalTensorPieriDimension_det_updateCol_orthogonalTensorPieriPrevColumn_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalTensorPieriDimension.det_updateCol_orthogonalTensorPieriPrevColumn_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/d2de8501-e124-4cca-a31a-7ebaa2414d65

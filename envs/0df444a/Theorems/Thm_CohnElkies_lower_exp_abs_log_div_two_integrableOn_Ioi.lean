@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lower_exp_abs_log_div_two_integrableOn_Ioi
 -- name    : CohnElkies.lower_exp_abs_log_div_two_integrableOn_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/b1e4e645-3f23-47f0-aac5-b39d46ee7908

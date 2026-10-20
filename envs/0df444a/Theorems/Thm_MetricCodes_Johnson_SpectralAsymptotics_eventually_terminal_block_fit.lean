@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_eventually_terminal_block_fit
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.eventually_terminal_block_fit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/0eaaeb2d-b21f-4b03-a9e4-8eb8842b7c93

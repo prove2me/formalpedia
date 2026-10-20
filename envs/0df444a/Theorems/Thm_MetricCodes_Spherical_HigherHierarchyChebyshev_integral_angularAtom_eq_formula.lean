@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_integral_angularAtom_eq_formula
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.integral_angularAtom_eq_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/37bbf94d-fc1e-43b7-8233-fad25a8835c0

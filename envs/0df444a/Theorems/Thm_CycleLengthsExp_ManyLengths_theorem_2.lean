@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_ManyLengths_theorem_2
 -- name    : CycleLengthsExp.ManyLengths.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:26:51.586557+00:00
 -- url     : https://prove2.me/theorems/3ede001e-4457-441c-8fe4-434ac2135ff1

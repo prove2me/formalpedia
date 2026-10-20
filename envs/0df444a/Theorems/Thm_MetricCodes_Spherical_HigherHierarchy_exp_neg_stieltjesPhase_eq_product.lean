@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exp_neg_stieltjesPhase_eq_product
 -- name    : MetricCodes.Spherical.HigherHierarchy.exp_neg_stieltjesPhase_eq_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/988c23fc-f8a7-4e45-a684-0bf67db69bad

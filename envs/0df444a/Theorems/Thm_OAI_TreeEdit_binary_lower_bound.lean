@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TreeEdit_binary_lower_bound
 -- name    : OAI.TreeEdit.binary_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:34.195199+00:00
 -- url     : https://prove2.me/theorems/014bbf44-abab-489e-82d2-50edb5772618

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripRegularizedHolomorphicPoissonKernel_hasDerivAt
 -- name    : CohnElkies.stripRegularizedHolomorphicPoissonKernel_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/097c2874-f0db-408a-9304-f48d01e8b01c

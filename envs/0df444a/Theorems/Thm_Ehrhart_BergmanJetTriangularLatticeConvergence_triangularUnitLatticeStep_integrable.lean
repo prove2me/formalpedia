@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTriangularLatticeConvergence_triangularUnitLatticeStep_integrable
 -- name    : Ehrhart.BergmanJetTriangularLatticeConvergence.triangularUnitLatticeStep_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/7c331343-3695-4e9d-b004-fec78f5f913c

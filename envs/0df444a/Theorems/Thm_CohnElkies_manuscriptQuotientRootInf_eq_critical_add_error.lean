@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptQuotientRootInf_eq_critical_add_error
 -- name    : CohnElkies.manuscriptQuotientRootInf_eq_critical_add_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/1d093b14-1f12-4aec-bc49-ab924400ed5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxSpectral_constantRayleigh_eq
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxSpectral.constantRayleigh_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/1b86004d-1185-4ed0-aeda-e2c6e7d01f37

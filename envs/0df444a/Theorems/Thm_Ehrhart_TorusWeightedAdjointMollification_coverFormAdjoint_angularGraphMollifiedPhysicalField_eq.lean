@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedAdjointMollification_coverFormAdjoint_angularGraphMollifiedPhysicalField_eq
 -- name    : Ehrhart.TorusWeightedAdjointMollification.coverFormAdjoint_angularGraphMollifiedPhysicalField_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/354df947-07e0-4108-ad61-2246a998d0d3

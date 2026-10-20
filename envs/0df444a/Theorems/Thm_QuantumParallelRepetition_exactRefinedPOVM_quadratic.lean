@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactRefinedPOVM_quadratic
 -- name    : QuantumParallelRepetition.exactRefinedPOVM_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/c37166a0-0204-4dd1-9fa0-ffe6d01c84a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_realFundamentalCell_integral_eq_coverJacobian
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.realFundamentalCell_integral_eq_coverJacobian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/c579d0fc-0f3a-4e71-8dec-7f61f43289ce

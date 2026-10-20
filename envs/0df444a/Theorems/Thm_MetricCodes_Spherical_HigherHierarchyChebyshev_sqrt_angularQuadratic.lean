@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_sqrt_angularQuadratic
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.sqrt_angularQuadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/d06db509-0114-465a-b1d6-7ea0faf8e611

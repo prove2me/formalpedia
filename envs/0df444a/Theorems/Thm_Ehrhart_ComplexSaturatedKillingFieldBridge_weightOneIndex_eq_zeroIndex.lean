@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ComplexSaturatedKillingFieldBridge_weightOneIndex_eq_zeroIndex
 -- name    : Ehrhart.ComplexSaturatedKillingFieldBridge.weightOneIndex_eq_zeroIndex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/b1f9faa0-d9fa-43c9-8baf-7937f17f5142

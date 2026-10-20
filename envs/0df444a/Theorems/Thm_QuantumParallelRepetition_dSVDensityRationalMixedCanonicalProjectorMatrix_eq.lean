@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalMixedCanonicalProjectorMatrix_eq
 -- name    : QuantumParallelRepetition.dSVDensityRationalMixedCanonicalProjectorMatrix_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/eeaff9c8-c34f-4fc9-9a4c-dbae7101b98d

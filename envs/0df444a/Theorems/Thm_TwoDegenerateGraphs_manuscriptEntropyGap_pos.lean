@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptEntropyGap_pos
 -- name    : TwoDegenerateGraphs.manuscriptEntropyGap_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/3ac2e969-b9a0-4948-aacb-abed53b341a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPrefactorBucketCoefficient_nonneg
 -- name    : QuantumParallelRepetition.unconditionalPrefactorBucketCoefficient_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/933b8f3f-855b-40a7-be2d-53212c58381b

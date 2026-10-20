@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherChannel_tendsto_wallShift_div
 -- name    : MetricCodes.Spherical.HigherChannel.tendsto_wallShift_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/9e21c0ed-b369-4bf6-b085-1730226ce333

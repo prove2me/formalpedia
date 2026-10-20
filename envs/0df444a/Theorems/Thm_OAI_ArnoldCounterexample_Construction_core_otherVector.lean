@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArnoldCounterexample_Construction_core_otherVector
 -- name    : OAI.ArnoldCounterexample.Construction.core_otherVector
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:46:54.698806+00:00
 -- url     : https://prove2.me/theorems/4dcaf4ca-eb5f-4aa2-84f8-066d2f342da8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_productRadialKernelMass_pos
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.productRadialKernelMass_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/f005c453-c8df-40c9-b7c2-74947618be0c

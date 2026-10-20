@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_binaryWeight_binaryTranslate
 -- name    : MetricCodes.binaryWeight_binaryTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/f46516d5-df1e-4735-b558-c833852d0d8b

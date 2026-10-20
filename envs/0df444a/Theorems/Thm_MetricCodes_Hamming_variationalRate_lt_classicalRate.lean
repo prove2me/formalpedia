@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_variationalRate_lt_classicalRate
 -- name    : MetricCodes.Hamming.variationalRate_lt_classicalRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/e677d098-2702-472d-afc3-825ccf4a45c8

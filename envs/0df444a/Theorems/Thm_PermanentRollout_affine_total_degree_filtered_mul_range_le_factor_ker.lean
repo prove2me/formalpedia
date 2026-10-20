@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_filtered_mul_range_le_factor_ker
 -- name    : PermanentRollout.affine_total_degree_filtered_mul_range_le_factor_ker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/daa389fa-d6ee-4bf9-a786-4ca5513ef98a

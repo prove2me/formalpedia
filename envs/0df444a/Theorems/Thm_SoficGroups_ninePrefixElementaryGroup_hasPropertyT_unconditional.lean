@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ninePrefixElementaryGroup_hasPropertyT_unconditional
 -- name    : SoficGroups.ninePrefixElementaryGroup_hasPropertyT_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/4f25f2f0-e853-44cc-bb6f-dcd7b48e85bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_tendsto_linearRowFactor
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.tendsto_linearRowFactor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/5c7933fd-b1c0-4b49-97e7-9eecea5dc8fc

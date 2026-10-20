@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_productRadialKernel_nonneg
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.productRadialKernel_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/f42eb01e-58dc-4618-9038-8198a6f001e5

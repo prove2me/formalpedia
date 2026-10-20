@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_exists_independent_linear_ideal_dimension_zero
 -- name    : PermanentRollout.permanent_rollout_exists_independent_linear_ideal_dimension_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/7115004d-77c1-484c-b733-2b9c0acd6180

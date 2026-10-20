@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSource_scaled_cubic_window_le
 -- name    : CohnElkies.saddleSource_scaled_cubic_window_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/f2b65a45-d992-4b96-bcc9-b40c6c9d5206

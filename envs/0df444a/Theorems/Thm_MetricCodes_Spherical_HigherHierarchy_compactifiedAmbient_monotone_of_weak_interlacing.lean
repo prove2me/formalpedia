@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedAmbient_monotone_of_weak_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedAmbient_monotone_of_weak_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/9b79ab6a-b87b-4b1f-bcea-7643e2ac0624

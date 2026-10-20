@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_card_nonbacktrackingFourPath_lower
 -- name    : CompactnessConjecture.card_nonbacktrackingFourPath_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/4a77df2e-e072-4988-a91d-4cf56bf5819e

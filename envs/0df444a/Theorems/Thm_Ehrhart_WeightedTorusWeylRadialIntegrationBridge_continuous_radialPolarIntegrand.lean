@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_continuous_radialPolarIntegrand
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.continuous_radialPolarIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/95e913ed-214d-427a-bca9-f7fb5c26ee89

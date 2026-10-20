@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingParentTuple_card
 -- name    : TwoDegenerateGraphs.hammingParentTuple_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/30ed230d-c1e4-4ad0-86c5-4e2122337822

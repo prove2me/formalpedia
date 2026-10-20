@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_treeQuotientLinearForm_node
 -- name    : PermanentRollout.treeQuotientLinearForm_node
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/24388d08-ccea-46db-a138-6e927ceb3340

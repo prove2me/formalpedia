@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceSecondBranch_fullGaussianErrors
 -- name    : CohnElkies.eventually_saddleSourceSecondBranch_fullGaussianErrors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/828980f2-5e5f-480b-b58c-367d5c5cf2a7

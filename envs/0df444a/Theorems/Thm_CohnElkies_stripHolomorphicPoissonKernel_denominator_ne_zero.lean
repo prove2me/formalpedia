@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripHolomorphicPoissonKernel_denominator_ne_zero
 -- name    : CohnElkies.stripHolomorphicPoissonKernel_denominator_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/9a468754-0fce-4fdf-a9d2-9973927325bd

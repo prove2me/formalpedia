@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_poissonLogistic_characteristic_integrable
 -- name    : CohnElkies.poissonLogistic_characteristic_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/cce4bc40-f939-4ae5-8d36-b49d175adb2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousWeakResolventRootCoercivity_angularClosedMollifiedRootVector_sub_pointwise
 -- name    : Ehrhart.TorusHomogeneousWeakResolventRootCoercivity.angularClosedMollifiedRootVector_sub_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/33826f9c-f84a-40ed-a466-e68ec9a643ac

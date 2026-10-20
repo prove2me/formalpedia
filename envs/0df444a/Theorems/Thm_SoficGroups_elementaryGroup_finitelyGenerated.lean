@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_elementaryGroup_finitelyGenerated
 -- name    : SoficGroups.elementaryGroup_finitelyGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/6051f8e4-8b12-4372-be9e-d7eebf27f439

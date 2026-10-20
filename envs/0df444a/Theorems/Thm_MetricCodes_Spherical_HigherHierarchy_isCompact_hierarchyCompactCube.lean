@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_isCompact_hierarchyCompactCube
 -- name    : MetricCodes.Spherical.HigherHierarchy.isCompact_hierarchyCompactCube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/96630444-d247-4f4b-ac74-e40f96d6dd10

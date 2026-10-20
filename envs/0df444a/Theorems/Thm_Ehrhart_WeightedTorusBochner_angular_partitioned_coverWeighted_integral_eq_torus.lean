@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_angular_partitioned_coverWeighted_integral_eq_torus
 -- name    : Ehrhart.WeightedTorusBochner.angular_partitioned_coverWeighted_integral_eq_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/78ddc5da-8287-47b4-b663-166852614409

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseAppendedChannelOrthogonality_paddedOrthogonalTensorPieriChannel_appended_normalizedGTTransversePositiveSector_orthogonal
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseAppendedChannelOrthogonality.paddedOrthogonalTensorPieriChannel_appended_normalizedGTTransversePositiveSector_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/e1a8fc05-d62c-4af2-b959-44bf748e6217

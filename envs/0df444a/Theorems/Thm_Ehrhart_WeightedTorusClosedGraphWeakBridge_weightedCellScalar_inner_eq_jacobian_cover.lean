@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_weightedCellScalar_inner_eq_jacobian_cover
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.weightedCellScalar_inner_eq_jacobian_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/9c5a7283-f4c7-4889-a4f1-e81590298c6c

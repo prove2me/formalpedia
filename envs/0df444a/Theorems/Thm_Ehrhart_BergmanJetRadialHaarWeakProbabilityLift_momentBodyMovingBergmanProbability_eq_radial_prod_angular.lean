@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetRadialHaarWeakProbabilityLift_momentBodyMovingBergmanProbability_eq_radial_prod_angular
 -- name    : Ehrhart.BergmanJetRadialHaarWeakProbabilityLift.momentBodyMovingBergmanProbability_eq_radial_prod_angular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/717df904-6a87-45d3-acf1-7f47d12f460c

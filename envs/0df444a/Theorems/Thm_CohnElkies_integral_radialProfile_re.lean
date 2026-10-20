@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_radialProfile_re
 -- name    : CohnElkies.integral_radialProfile_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/519c32a6-8d6a-453f-b2b8-cc017c1e05cc

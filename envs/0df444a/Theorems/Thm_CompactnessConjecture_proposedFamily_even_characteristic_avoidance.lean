@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_even_characteristic_avoidance
 -- name    : CompactnessConjecture.proposedFamily_even_characteristic_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/0183d5bf-6e3e-4a53-931e-556bc7a31e5e

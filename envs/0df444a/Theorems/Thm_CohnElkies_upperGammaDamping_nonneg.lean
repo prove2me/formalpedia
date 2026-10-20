@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaDamping_nonneg
 -- name    : CohnElkies.upperGammaDamping_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/23df5a11-ced7-49e1-9d5f-e33360d7c28f

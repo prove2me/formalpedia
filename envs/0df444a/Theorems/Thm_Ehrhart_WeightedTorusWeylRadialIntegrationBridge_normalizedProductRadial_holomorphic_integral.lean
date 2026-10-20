@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_normalizedProductRadial_holomorphic_integral
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.normalizedProductRadial_holomorphic_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/9109b8f6-d946-45e6-8d35-c276a6e8ee77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_edgeWeight
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_edgeWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/02366513-8364-4fb4-a684-b754802df14d

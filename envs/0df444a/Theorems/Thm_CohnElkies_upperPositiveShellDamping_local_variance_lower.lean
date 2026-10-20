@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperPositiveShellDamping_local_variance_lower
 -- name    : CohnElkies.upperPositiveShellDamping_local_variance_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/7886c232-93dc-44d1-a370-9945e60aed6f

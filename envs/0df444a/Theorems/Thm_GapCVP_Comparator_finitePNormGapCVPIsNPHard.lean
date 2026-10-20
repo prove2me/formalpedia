@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_finitePNormGapCVPIsNPHard
 -- name    : GapCVP.Comparator.finitePNormGapCVPIsNPHard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/fe19e541-e15b-45b8-8f83-14ff461ba570

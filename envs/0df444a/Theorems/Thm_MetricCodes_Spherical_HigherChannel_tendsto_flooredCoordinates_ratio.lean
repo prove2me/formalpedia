@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherChannel_tendsto_flooredCoordinates_ratio
 -- name    : MetricCodes.Spherical.HigherChannel.tendsto_flooredCoordinates_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/953aec9c-14fd-4fa4-aa46-9bac1b08ed4d

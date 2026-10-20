@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualLocalPOVMWinningEffect_add_losingEffect
 -- name    : QuantumParallelRepetition.unconditionalActualLocalPOVMWinningEffect_add_losingEffect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/adccc7a8-b0ff-4fff-8e47-52d2e8767cc9

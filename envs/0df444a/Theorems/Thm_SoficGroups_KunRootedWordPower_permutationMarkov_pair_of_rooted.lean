@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_permutationMarkov_pair_of_rooted
 -- name    : SoficGroups.KunRootedWordPower.permutationMarkov_pair_of_rooted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/4094a5de-ab6c-4c30-94b5-be4dc265f4f1

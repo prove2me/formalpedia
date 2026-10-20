@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPointwiseLogKernel_exists_eventual_momentNormalized_moving_base_integral_bound
 -- name    : Ehrhart.BergmanJetPointwiseLogKernel.exists_eventual_momentNormalized_moving_base_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/5d9bab40-9419-42f1-bfab-a85207fbc42c

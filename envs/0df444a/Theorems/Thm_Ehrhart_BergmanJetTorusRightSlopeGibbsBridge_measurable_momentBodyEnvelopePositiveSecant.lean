@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeGibbsBridge_measurable_momentBodyEnvelopePositiveSecant
 -- name    : Ehrhart.BergmanJetTorusRightSlopeGibbsBridge.measurable_momentBodyEnvelopePositiveSecant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/5d1391f8-660d-45a7-99b4-7b39cdcb19da

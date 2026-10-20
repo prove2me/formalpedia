@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceLocalBoxRadius_pos
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceLocalBoxRadius_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/2263e4d6-0f64-4874-8739-9fe8e4d2729f

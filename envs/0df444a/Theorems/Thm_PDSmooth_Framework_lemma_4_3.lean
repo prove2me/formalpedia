@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDSmooth_Framework_lemma_4_3
 -- name    : PDSmooth.Framework.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:40.610607+00:00
 -- url     : https://prove2.me/theorems/764a882e-9bc8-4e25-b727-773679dc6591

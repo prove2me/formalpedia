@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_transported_partition_boundary_density_tendsto_zero
 -- name    : SoficGroups.KunTransportedAmbientOverlap.transported_partition_boundary_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/784179ea-a2be-464a-b4e4-9672845afd9e

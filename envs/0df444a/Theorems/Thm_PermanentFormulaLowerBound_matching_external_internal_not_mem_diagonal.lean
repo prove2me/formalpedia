@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matching_external_internal_not_mem_diagonal
 -- name    : PermanentFormulaLowerBound.matching_external_internal_not_mem_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/ad6d0a44-b17d-49b2-9784-9857c7f39469

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_spectralAtom_inverseQuadratic_half
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.spectralAtom_inverseQuadratic_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/9977a9c5-8103-4158-9b5d-7063033e04e7

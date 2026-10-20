@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourcePhaseHarmonicStage_sourceProduct
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourcePhaseHarmonicStage_sourceProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/82b74299-8795-4d85-85d9-4f4a76f0b56a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_periodic_packing_supremum_eq_unit_separation
 -- name    : periodic_packing_supremum_eq_unit_separation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/e9d4cd08-49d6-4242-9a01-8354ab86009a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockRoot_commutator_mem_productCentral
 -- name    : SoficGroups.finiteOuterBlockRoot_commutator_mem_productCentral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/832958b1-a6bf-40ba-9118-6e4a38b2f612

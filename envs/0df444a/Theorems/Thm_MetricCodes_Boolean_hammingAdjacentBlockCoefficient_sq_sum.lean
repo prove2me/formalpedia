@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingAdjacentBlockCoefficient_sq_sum
 -- name    : MetricCodes.Boolean.hammingAdjacentBlockCoefficient_sq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/f9428f69-ab90-49de-95d6-cda61c5444ff

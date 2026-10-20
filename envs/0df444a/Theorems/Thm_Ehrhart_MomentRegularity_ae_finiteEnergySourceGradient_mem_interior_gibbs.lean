@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentRegularity_ae_finiteEnergySourceGradient_mem_interior_gibbs
 -- name    : Ehrhart.MomentRegularity.ae_finiteEnergySourceGradient_mem_interior_gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/5ede2af9-fe4e-49d3-bf90-9ab1f6271605

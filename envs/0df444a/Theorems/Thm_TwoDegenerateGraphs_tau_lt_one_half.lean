@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_tau_lt_one_half
 -- name    : TwoDegenerateGraphs.tau_lt_one_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/647db769-6ebb-45cd-aec2-5a233b76a9d1

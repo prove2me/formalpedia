@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_inJCopy_iff_exists_jThetaVertex
 -- name    : CompactnessConjecture.inJCopy_iff_exists_jThetaVertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/bcec01fa-1a23-4651-8db7-02951b1b9ca8

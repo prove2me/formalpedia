@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_packing_sqrt_upper
 -- name    : MetricCodes.Numerics.packing_sqrt_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/51625608-8a8d-4eb8-9dbe-d927f2b2e013

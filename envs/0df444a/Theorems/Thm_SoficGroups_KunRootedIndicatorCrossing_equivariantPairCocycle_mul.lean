@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_equivariantPairCocycle_mul
 -- name    : SoficGroups.KunRootedIndicatorCrossing.equivariantPairCocycle_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/c6591a3e-436a-414b-8d4b-2f37626806a9

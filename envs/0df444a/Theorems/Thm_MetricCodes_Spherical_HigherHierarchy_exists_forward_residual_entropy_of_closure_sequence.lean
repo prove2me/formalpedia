@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_forward_residual_entropy_of_closure_sequence
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_forward_residual_entropy_of_closure_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/08b45f73-2345-4fd1-8df7-b253c38339b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_finite_obstruction
 -- name    : SoficGroups.exists_finite_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/a4153884-ba59-4b64-bb1e-32bf784a828c

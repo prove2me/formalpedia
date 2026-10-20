@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_exists_boundary_controlled_permutation_repair_close_to_reference
 -- name    : SoficGroups.KunThomFiberCoarea.exists_boundary_controlled_permutation_repair_close_to_reference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/bf61eb28-c86c-4854-9d59-fa2eab2074e2

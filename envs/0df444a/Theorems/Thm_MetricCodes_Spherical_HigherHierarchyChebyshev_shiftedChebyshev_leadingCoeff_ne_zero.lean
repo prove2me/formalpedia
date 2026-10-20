@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_shiftedChebyshev_leadingCoeff_ne_zero
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.shiftedChebyshev_leadingCoeff_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/11f846ec-c20a-46f6-8524-6669e48e3f27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_angularSmoothPartition_binary_sum
 -- name    : Ehrhart.MatrixTorusBochnerBridge.angularSmoothPartition_binary_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/05b8d91c-f23a-451d-9a29-88564ff841a1

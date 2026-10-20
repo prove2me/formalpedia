@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_alphaZeroPrefixElementaryGroup_hasPropertyT_unconditional
 -- name    : SoficGroups.alphaZeroPrefixElementaryGroup_hasPropertyT_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/a615d99e-43c4-4c47-913e-9a64a76042b7

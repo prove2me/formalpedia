@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_sum_positive_difference_eq_totalVariation
 -- name    : QuantumParallelRepetition.sum_positive_difference_eq_totalVariation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/3362bc42-3b6b-452f-aeda-f8337596c91c

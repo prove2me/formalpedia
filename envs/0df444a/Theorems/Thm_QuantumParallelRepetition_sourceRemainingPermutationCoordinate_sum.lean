@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_sourceRemainingPermutationCoordinate_sum
 -- name    : QuantumParallelRepetition.sourceRemainingPermutationCoordinate_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/6b875231-4e14-43dd-94e0-511c6a2cce29

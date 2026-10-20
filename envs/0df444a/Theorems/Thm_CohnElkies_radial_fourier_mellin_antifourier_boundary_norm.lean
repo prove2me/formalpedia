@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radial_fourier_mellin_antifourier_boundary_norm
 -- name    : CohnElkies.radial_fourier_mellin_antifourier_boundary_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/1adc2138-2739-4688-b14d-52b8024eb652

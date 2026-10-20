@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingBinaryDegree_bitSubset
 -- name    : PermanentFormulaLowerBound.matchingBinaryDegree_bitSubset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/1ed927fb-ad19-4520-a11e-e3950d46f6b2

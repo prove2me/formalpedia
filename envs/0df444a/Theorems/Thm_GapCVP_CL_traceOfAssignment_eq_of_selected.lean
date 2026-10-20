@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_traceOfAssignment_eq_of_selected
 -- name    : GapCVP.CL.traceOfAssignment_eq_of_selected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/86a052de-bb5a-4c80-adde-b86a11321546

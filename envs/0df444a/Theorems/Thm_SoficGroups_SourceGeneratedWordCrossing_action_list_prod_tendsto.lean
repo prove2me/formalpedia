@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneratedWordCrossing_action_list_prod_tendsto
 -- name    : SoficGroups.SourceGeneratedWordCrossing.action_list_prod_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/7f7bff6c-c98e-49b3-8a46-38a8f399ecd9

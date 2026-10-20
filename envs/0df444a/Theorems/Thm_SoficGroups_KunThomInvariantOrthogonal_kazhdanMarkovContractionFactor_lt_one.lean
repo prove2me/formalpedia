@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_kazhdanMarkovContractionFactor_lt_one
 -- name    : SoficGroups.KunThomInvariantOrthogonal.kazhdanMarkovContractionFactor_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/15e3a7d0-ea8a-4a92-b0a9-093217c9195a

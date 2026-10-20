@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_exists_hyperfilter_positive_gram_kernel_of_pointwise_bound
 -- name    : SoficGroups.KunRootedIndicatorCrossing.exists_hyperfilter_positive_gram_kernel_of_pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/0ea4d848-8950-411f-ad63-7316012cff52

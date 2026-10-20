@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairTypeCountProfile_card
 -- name    : TwoDegenerateGraphs.pairTypeCountProfile_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/031e354c-20ca-47cc-9f55-8f723f9b1f3d

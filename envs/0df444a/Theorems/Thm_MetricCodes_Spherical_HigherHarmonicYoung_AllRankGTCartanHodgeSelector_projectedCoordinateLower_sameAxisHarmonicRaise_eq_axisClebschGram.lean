@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCartanHodgeSelector_projectedCoordinateLower_sameAxisHarmonicRaise_eq_axisClebschGram
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector.projectedCoordinateLower_sameAxisHarmonicRaise_eq_axisClebschGram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/b1aceca9-9f58-4408-8bac-34da32841bc2

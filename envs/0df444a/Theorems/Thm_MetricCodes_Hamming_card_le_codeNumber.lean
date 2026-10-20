@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_card_le_codeNumber
 -- name    : MetricCodes.Hamming.card_le_codeNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/95cd0512-a9b9-48ec-80ed-0298439070e1

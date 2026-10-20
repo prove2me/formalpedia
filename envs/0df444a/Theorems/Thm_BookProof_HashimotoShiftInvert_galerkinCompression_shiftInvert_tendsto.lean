@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_galerkinCompression_shiftInvert_tendsto
 -- name    : BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:01:04.611581+00:00
 -- url     : https://prove2.me/theorems/fa9a3e5a-1a62-4c16-82e7-f8fdab680ded

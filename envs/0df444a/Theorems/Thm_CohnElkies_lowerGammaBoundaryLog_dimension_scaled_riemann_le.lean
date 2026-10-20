@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_dimension_scaled_riemann_le
 -- name    : CohnElkies.lowerGammaBoundaryLog_dimension_scaled_riemann_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/3baf099c-4ab9-47e1-9ce9-3f55c764cfba

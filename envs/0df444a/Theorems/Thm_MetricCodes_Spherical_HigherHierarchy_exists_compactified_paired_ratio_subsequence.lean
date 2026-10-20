@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_compactified_paired_ratio_subsequence
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_compactified_paired_ratio_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/72ed27a0-f32f-48e2-ac58-1f226855ec94

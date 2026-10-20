@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedProjectorCompression_reverseInterlacing_projectedCoordinateLower_sameAxis_eq_plusProbability_of_minor
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedProjectorCompression.reverseInterlacing_projectedCoordinateLower_sameAxis_eq_plusProbability_of_minor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/3bce8bfa-4d6c-4101-a958-a707868e0541

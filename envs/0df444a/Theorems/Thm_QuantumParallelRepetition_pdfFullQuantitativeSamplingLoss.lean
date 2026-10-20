@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfFullQuantitativeSamplingLoss
 -- name    : QuantumParallelRepetition.pdfFullQuantitativeSamplingLoss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/f1314aeb-1bcb-46f3-9797-58292d695478

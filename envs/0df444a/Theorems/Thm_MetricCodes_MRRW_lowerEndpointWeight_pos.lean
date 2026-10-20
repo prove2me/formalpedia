@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_lowerEndpointWeight_pos
 -- name    : MetricCodes.MRRW.lowerEndpointWeight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/fe4f367a-e6fd-487d-ba1f-ab3b23823cb2

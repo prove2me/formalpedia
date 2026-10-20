@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauUpperTailBridge_measurable_measureReal_upperLevel
 -- name    : Ehrhart.BergmanJetPortmanteauUpperTailBridge.measurable_measureReal_upperLevel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/cd677853-ba13-4c58-a448-20401ac0a4bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finite_union_bad_density_tendsto_zero
 -- name    : SoficGroups.finite_union_bad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/dfe2fb36-9699-4b6b-aa87-9d43bfba66b3

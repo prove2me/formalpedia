@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_variationalRate_le_of_feasible
 -- name    : MetricCodes.Hamming.variationalRate_le_of_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/3327330a-fb3c-4d84-af0c-ab288edf19e1

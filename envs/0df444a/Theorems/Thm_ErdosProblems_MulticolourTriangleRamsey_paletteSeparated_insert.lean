@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteSeparated_insert
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteSeparated_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/c5651a2f-3908-4715-8435-51b86c7f0a7a

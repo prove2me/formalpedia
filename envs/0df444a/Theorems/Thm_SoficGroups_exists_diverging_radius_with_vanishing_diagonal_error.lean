@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_diverging_radius_with_vanishing_diagonal_error
 -- name    : SoficGroups.exists_diverging_radius_with_vanishing_diagonal_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/c9b0e259-442a-4e14-88ff-3b459aca9876

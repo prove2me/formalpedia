@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionMatching_lt_exp_mul_of_equal_log_floor
 -- name    : SoficGroups.SourceCompressionMatching.lt_exp_mul_of_equal_log_floor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/563a1616-5852-4c7c-886b-9a5586a55a0a

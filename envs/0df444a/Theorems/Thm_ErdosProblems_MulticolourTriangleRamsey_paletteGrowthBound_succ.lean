@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteGrowthBound_succ
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteGrowthBound_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/f484fe5c-18e1-41e8-8dd1-e063ecc97bfe

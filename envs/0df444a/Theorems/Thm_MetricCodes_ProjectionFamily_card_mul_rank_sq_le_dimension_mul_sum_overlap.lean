@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_ProjectionFamily_card_mul_rank_sq_le_dimension_mul_sum_overlap
 -- name    : MetricCodes.ProjectionFamily.card_mul_rank_sq_le_dimension_mul_sum_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/a17ee8f9-3647-49f4-8649-c99adf78344d

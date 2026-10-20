@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_multiplication_gate_equation_totalDegree_le_two
 -- name    : PermanentRollout.multiplication_gate_equation_totalDegree_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/77a8c5d9-8bfd-451d-9d22-a6e55ce05a8b

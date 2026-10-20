@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAxisCompressedValidNodeRoot_gtAxisCompressedCharacteristicMinor_eval_eq_adjugate_inner
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedValidNodeRoot.gtAxisCompressedCharacteristicMinor_eval_eq_adjugate_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/f115c073-1892-4b0d-8fd4-0ad1e2f30416

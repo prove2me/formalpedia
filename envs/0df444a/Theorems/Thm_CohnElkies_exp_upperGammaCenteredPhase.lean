@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exp_upperGammaCenteredPhase
 -- name    : CohnElkies.exp_upperGammaCenteredPhase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/968ed6d3-9ad3-4ff6-9dde-b5a7c0f67005

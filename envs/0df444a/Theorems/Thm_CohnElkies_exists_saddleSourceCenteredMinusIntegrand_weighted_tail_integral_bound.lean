@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_saddleSourceCenteredMinusIntegrand_weighted_tail_integral_bound
 -- name    : CohnElkies.exists_saddleSourceCenteredMinusIntegrand_weighted_tail_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/7cd95dd7-5626-4c4b-8535-053060af14e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_harmonic_abs_log_half_le_half
 -- name    : CohnElkies.harmonic_abs_log_half_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/45d58ad2-306d-4a5f-a896-1b554ae97f38

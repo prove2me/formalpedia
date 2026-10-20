@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularWeightedKernel_angularZeroGraph_mem_radialZeroGraph_of_upper
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularWeightedKernel.angularZeroGraph_mem_radialZeroGraph_of_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/65d1c2d3-e9ba-417d-825d-8809d84f41cf

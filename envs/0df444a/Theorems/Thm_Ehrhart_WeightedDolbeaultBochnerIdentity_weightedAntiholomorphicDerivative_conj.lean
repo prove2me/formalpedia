@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_weightedAntiholomorphicDerivative_conj
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.weightedAntiholomorphicDerivative_conj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/4c89f2c8-26b0-47b7-b9a4-7402491c8c29

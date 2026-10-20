@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_gradientVector_smul_of_isHomogeneous
 -- name    : PermanentRollout.gradientVector_smul_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/d69e99ea-3bca-4a47-8ce2-5a9e5f3aa4ff

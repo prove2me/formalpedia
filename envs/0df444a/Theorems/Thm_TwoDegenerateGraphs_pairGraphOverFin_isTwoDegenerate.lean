@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_isTwoDegenerate
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_isTwoDegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/43c01d29-bbf6-4ac5-867a-ba65fb18bd04

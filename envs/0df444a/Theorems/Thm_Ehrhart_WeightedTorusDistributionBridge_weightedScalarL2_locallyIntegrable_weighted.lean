@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_weightedScalarL2_locallyIntegrable_weighted
 -- name    : Ehrhart.WeightedTorusDistributionBridge.weightedScalarL2_locallyIntegrable_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/d8157ec2-dbf2-4c8a-883d-346fd53486a7

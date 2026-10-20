@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CLStructuralWholeCNFOutputTM_structuralWholeThreeCNF_allDistinct
 -- name    : GapCVP.CLStructuralWholeCNFOutputTM.structuralWholeThreeCNF_allDistinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/a8f4f594-1791-4394-84f9-86b4ff2e0aaa

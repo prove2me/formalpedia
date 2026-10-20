@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingSourceChannelCoefficient_nonneg
 -- name    : MetricCodes.Boolean.hammingSourceChannelCoefficient_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/7a207e79-1e68-4c23-a506-75608dddc943

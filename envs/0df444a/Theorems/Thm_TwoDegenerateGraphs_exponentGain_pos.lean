@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exponentGain_pos
 -- name    : TwoDegenerateGraphs.exponentGain_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/acd7fe09-3422-4cbf-95d0-13fe9f3b2b39

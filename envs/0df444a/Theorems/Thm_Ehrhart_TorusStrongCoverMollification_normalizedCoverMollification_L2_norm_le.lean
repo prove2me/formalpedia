@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongCoverMollification_normalizedCoverMollification_L2_norm_le
 -- name    : Ehrhart.TorusStrongCoverMollification.normalizedCoverMollification_L2_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/2a95e646-b7ce-4bbe-a4e9-28614b6cdb99

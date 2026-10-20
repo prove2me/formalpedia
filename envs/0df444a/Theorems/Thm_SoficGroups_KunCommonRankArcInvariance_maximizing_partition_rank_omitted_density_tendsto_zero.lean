@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCommonRankArcInvariance_maximizing_partition_rank_omitted_density_tendsto_zero
 -- name    : SoficGroups.KunCommonRankArcInvariance.maximizing_partition_rank_omitted_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/60f8948d-12e0-4015-9fa6-932cd37f45a1

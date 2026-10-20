@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUnconditionalActualSourceGeneratorData_exists_unconditional_actual_source_generator_data
 -- name    : SoficGroups.KunUnconditionalActualSourceGeneratorData.exists_unconditional_actual_source_generator_data
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/62562bfe-ca6a-441d-a827-b8f0387366e3

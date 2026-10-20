@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpQuotient_of_uniform_lower_and_constructive_upper
 -- name    : CohnElkies.sharpQuotient_of_uniform_lower_and_constructive_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/e9b05a07-7354-4270-b02d-bc7dad8abe19

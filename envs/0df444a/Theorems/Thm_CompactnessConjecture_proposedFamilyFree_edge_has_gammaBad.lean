@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_edge_has_gammaBad
 -- name    : CompactnessConjecture.proposedFamilyFree_edge_has_gammaBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/16e93b21-792d-498a-bfab-90ea617c7d53

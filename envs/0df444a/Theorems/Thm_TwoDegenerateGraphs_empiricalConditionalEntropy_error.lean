@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_empiricalConditionalEntropy_error
 -- name    : TwoDegenerateGraphs.empiricalConditionalEntropy_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/75d3c123-4385-4065-b92e-ff0f93eb198a

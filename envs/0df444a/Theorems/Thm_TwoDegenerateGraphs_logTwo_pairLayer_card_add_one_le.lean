@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_logTwo_pairLayer_card_add_one_le
 -- name    : TwoDegenerateGraphs.logTwo_pairLayer_card_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/1f2b31bb-68c5-4243-910a-26f26ca2a4b8

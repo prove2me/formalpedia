@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedChosenWordLocalRoot_normalizedHamming_mul_le
 -- name    : SoficGroups.CompletedChosenWordLocalRoot.normalizedHamming_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/6f73facf-d8e8-4c0c-9402-ec8d09758d3f

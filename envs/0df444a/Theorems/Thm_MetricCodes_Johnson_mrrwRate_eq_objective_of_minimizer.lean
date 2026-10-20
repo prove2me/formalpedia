@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrwRate_eq_objective_of_minimizer
 -- name    : MetricCodes.Johnson.mrrwRate_eq_objective_of_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/e84bce2d-b0b4-46da-91e4-1023f34f9cc5

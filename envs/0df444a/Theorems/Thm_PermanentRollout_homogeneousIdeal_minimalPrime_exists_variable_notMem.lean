@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousIdeal_minimalPrime_exists_variable_notMem
 -- name    : PermanentRollout.homogeneousIdeal_minimalPrime_exists_variable_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/97c3b8e0-9f4a-4c74-b040-d3f19287fdc5

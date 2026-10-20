@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCharacteristicMinorOfValidRoots_gtAxisCompressedCharacteristicMinor_eq_channelNumerator_of_validRoots
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCharacteristicMinorOfValidRoots.gtAxisCompressedCharacteristicMinor_eq_channelNumerator_of_validRoots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/295f58b7-3a0d-471c-83d9-14a0f6ddb254

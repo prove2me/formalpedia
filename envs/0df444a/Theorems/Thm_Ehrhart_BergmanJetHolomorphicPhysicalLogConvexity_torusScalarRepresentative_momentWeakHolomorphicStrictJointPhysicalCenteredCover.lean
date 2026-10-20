@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_torusScalarRepresentative_momentWeakHolomorphicStrictJointPhysicalCenteredCover
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.torusScalarRepresentative_momentWeakHolomorphicStrictJointPhysicalCenteredCover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/63e106fc-332f-4e49-817b-260c9bfb260b

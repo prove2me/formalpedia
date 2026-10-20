@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleTaylorRemainder_negativeContour_bound
 -- name    : CohnElkies.plusSaddleTaylorRemainder_negativeContour_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/07d39a25-9d23-469a-a44e-501d77b65262

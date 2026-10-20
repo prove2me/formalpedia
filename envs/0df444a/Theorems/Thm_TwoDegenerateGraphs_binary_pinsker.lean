@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binary_pinsker
 -- name    : TwoDegenerateGraphs.binary_pinsker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/243432d8-a60c-4619-811d-1f592d2bca1c

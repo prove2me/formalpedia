@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstant_inset_axis_cell_volume_formula
 -- name    : PeriodicConstant.inset_axis_cell_volume_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/a4ff12dc-8f9a-4b76-bd1e-2a89e748641c

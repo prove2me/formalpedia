@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_terminalVector_norm_sq
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.terminalVector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/92bd99f9-8241-4d81-8a30-c6404b7e3d29

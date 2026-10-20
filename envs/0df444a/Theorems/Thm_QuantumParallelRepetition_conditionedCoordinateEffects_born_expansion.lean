@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_conditionedCoordinateEffects_born_expansion
 -- name    : QuantumParallelRepetition.conditionedCoordinateEffects_born_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/744456fc-9be2-4cb3-bf91-d69fd1432a64

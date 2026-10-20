@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_sum_singleton_bad_boundary_le
 -- name    : SoficGroups.KunResidualExpanderDecomposition.sum_singleton_bad_boundary_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/4ce9c40d-5cb3-427e-b4be-eda228a04711

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalEntropy_lower_logb_add_fraction
 -- name    : MetricCodes.Spherical.sphericalEntropy_lower_logb_add_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/7111f4e1-7709-4bb2-831b-be8fe85ab297

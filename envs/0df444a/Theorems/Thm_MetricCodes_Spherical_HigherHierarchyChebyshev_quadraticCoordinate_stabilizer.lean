@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_quadraticCoordinate_stabilizer
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.quadraticCoordinate_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/dab2e8a5-5f02-43c2-91b6-d9308a3bfc96

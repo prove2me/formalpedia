@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_radialCharacter_sq_integrable_iff_monomialWeight
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.radialCharacter_sq_integrable_iff_monomialWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/834b212a-1e44-43a8-bcbc-5cfd71a5f76d

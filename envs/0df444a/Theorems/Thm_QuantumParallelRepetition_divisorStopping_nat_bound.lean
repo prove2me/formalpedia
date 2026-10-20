@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_divisorStopping_nat_bound
 -- name    : QuantumParallelRepetition.divisorStopping_nat_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/ddd29e24-6948-451e-97fd-e2b2ff53699d

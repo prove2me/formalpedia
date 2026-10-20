@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_ball_subset_translated_cell_of_interior
 -- name    : PeriodicConstantApprox.ball_subset_translated_cell_of_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/cf3e575b-0052-4cc7-b750-ceb5bd282032

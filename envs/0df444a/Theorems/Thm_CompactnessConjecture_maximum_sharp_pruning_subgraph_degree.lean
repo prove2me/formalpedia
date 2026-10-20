@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_maximum_sharp_pruning_subgraph_degree
 -- name    : CompactnessConjecture.maximum_sharp_pruning_subgraph_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/9838a01e-89b1-4d1c-80ca-83fe101169cd

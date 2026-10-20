@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_memLp_two
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_memLp_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/07c96d57-cc91-4112-bbab-b75050c31a70

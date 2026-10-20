@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_instructionCost_sum
 -- name    : PermanentRollout.ReverseAdjoint.instructionCost_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/f5b495ff-07b2-4430-b670-7e8b76152fa2

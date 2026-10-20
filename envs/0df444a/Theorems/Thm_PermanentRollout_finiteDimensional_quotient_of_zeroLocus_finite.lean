@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_finiteDimensional_quotient_of_zeroLocus_finite
 -- name    : PermanentRollout.finiteDimensional_quotient_of_zeroLocus_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/66c6d7e2-6828-47b1-86f2-40be3f38139f

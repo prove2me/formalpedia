@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_output_equation_totalDegree_le_one
 -- name    : PermanentRollout.affine_output_equation_totalDegree_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/9becf6dc-0c20-4ce6-90dc-0de5cd259a24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_LinearGame_prop_4_2_explicit_solution
 -- name    : ImpulseGames.LinearGame.prop_4_2_explicit_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:28:19.485801+00:00
 -- url     : https://prove2.me/theorems/5f0ad578-4f7a-4c7d-8f3f-1b4d8149df87

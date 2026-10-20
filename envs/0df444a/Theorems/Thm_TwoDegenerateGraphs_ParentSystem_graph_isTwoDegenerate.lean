@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_ParentSystem_graph_isTwoDegenerate
 -- name    : TwoDegenerateGraphs.ParentSystem.graph_isTwoDegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/9fcbaff3-bdd6-463a-9421-6dd545aa3b45

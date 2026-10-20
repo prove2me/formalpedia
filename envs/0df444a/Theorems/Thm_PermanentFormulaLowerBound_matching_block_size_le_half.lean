@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matching_block_size_le_half
 -- name    : PermanentFormulaLowerBound.matching_block_size_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/bb94c998-dadf-41ed-9749-33dbbdedb122

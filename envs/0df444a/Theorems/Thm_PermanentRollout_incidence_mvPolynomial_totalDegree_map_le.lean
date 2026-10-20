@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_incidence_mvPolynomial_totalDegree_map_le
 -- name    : PermanentRollout.incidence_mvPolynomial_totalDegree_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/5bf45f39-44d9-4c6b-83ad-936fd37d7b9e

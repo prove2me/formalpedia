@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunLiteralNineSourceCompletedCentralizerModels_sourceAmbientActualInverse_crossing_density_tendsto_zero
 -- name    : SoficGroups.KunLiteralNineSourceCompletedCentralizerModels.sourceAmbientActualInverse_crossing_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/0c38775f-df68-46ee-b0fe-243bb8421ed0

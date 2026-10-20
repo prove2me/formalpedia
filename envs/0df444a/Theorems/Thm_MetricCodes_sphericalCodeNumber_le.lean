@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_sphericalCodeNumber_le
 -- name    : MetricCodes.sphericalCodeNumber_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/8bc9d882-e60d-40af-8f12-730c3f90842c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ArcsineTransform_integral_betaMap_half_half_eq_integral_cos
 -- name    : MetricCodes.Spherical.HigherHierarchy.ArcsineTransform.integral_betaMap_half_half_eq_integral_cos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/d5353516-00ff-4991-b4e9-be97d68175ab

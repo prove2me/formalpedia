@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCartanHodgeSelector_gtSelectedRowClebschRangeProjector_axisCompression_mem_canonicalFibre_range
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector.gtSelectedRowClebschRangeProjector_axisCompression_mem_canonicalFibre_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/ec01d7d5-3265-4cc7-92d9-07d89e6e3f12

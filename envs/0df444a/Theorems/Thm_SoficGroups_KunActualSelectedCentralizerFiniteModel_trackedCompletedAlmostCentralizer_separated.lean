@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSelectedCentralizerFiniteModel_trackedCompletedAlmostCentralizer_separated
 -- name    : SoficGroups.KunActualSelectedCentralizerFiniteModel.trackedCompletedAlmostCentralizer_separated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/2aead7f3-c0e4-49bf-bf5c-6f865de85d79

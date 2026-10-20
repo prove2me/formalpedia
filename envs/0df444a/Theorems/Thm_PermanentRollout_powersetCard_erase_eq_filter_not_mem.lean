@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_powersetCard_erase_eq_filter_not_mem
 -- name    : PermanentRollout.powersetCard_erase_eq_filter_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/88a9f854-eb9c-431b-b42d-d5595fdc114b

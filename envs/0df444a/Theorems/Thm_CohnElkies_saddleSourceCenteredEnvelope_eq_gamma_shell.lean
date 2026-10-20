@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceCenteredEnvelope_eq_gamma_shell
 -- name    : CohnElkies.saddleSourceCenteredEnvelope_eq_gamma_shell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/3ff5f42f-528e-4411-a5e2-def97e0e5b93

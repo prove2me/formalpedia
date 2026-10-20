@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_finite_bad_fiber_card_le_two
 -- name    : CompactnessConjecture.finite_bad_fiber_card_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/f6e66bca-547d-4570-9ea4-ecfd9f339847

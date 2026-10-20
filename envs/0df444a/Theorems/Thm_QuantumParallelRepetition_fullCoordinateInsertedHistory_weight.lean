@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedHistory_weight
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedHistory_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/296962b0-6036-4ecd-adeb-eeb4019cf6f6

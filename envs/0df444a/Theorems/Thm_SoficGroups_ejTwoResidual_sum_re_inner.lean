@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejTwoResidual_sum_re_inner
 -- name    : SoficGroups.ejTwoResidual_sum_re_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/b4663ee3-3cdb-437c-b0cc-dc46cb7770ee

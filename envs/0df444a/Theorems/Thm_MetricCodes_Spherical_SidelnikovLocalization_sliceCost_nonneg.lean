@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_SidelnikovLocalization_sliceCost_nonneg
 -- name    : MetricCodes.Spherical.SidelnikovLocalization.sliceCost_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/4f44728f-b645-42c6-aa57-62b547039e68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_tendsto_complementWeight_ratio
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.tendsto_complementWeight_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/5e8dcc85-b7c9-4476-9021-f7fddd0d31f5

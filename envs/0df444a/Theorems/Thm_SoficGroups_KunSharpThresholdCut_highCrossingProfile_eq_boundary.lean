@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSharpThresholdCut_highCrossingProfile_eq_boundary
 -- name    : SoficGroups.KunSharpThresholdCut.highCrossingProfile_eq_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/4e2d0656-44cc-4ad8-bebd-934da984b506

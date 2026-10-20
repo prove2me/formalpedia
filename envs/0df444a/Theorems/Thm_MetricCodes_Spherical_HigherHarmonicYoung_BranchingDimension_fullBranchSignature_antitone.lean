@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_BranchingDimension_fullBranchSignature_antitone
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension.fullBranchSignature_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/f9b2c435-9f18-44aa-9cb6-bed182aef22c

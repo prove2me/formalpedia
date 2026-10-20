@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTWallTransverseCompression_stabilizerShift_appendZeroWeight_last_add_half_eq_wall
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression.stabilizerShift_appendZeroWeight_last_add_half_eq_wall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/04e790b6-2b09-4e0d-8861-fd6810e7822d

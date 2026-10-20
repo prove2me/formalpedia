@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionIncidenceGlobalColumnLift_deleted
 -- name    : PermanentRollout.partitionIncidenceGlobalColumnLift_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/d34443fb-0420-4bb9-aa24-a97c916689b6

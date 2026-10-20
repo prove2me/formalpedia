@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_not_adj_gammaGood
 -- name    : CompactnessConjecture.proposedFamilyFree_not_adj_gammaGood
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/d629b7b7-ffd3-4983-b80a-6b2ebec35ca0

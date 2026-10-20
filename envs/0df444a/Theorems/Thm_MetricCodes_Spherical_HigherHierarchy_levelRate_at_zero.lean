@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_at_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/185e198e-fce5-4712-a246-5576f8c7a4e7

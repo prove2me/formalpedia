@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_exists_maximal_sphericalCode
 -- name    : MetricCodes.exists_maximal_sphericalCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/ac59229c-9bbf-46c7-af3d-796292c1ea0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_CohnElkies_origin_character_sum_norm_sq_eq_orbit_count_sq
 -- name    : SpherePacking.CohnElkies.origin_character_sum_norm_sq_eq_orbit_count_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/bfddc2a8-413b-42c1-af1e-4150bdf999de

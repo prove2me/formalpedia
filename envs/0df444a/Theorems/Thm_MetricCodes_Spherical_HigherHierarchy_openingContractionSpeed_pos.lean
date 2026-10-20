@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_openingContractionSpeed_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.openingContractionSpeed_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/c8dd90b0-d01c-4743-a1f5-84bd842a423c

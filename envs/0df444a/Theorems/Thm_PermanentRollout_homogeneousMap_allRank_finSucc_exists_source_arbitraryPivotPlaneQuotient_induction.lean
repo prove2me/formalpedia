@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_finSucc_exists_source_arbitraryPivotPlaneQuotient_induction
 -- name    : PermanentRollout.homogeneousMap_allRank_finSucc_exists_source_arbitraryPivotPlaneQuotient_induction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/68c3daeb-47d0-42ba-b2ae-8353a14dd6c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedJHom_color_respecting
 -- name    : CompactnessConjecture.gluedJHom_color_respecting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/b4964776-d26e-4f72-a0bc-06065a4aa676

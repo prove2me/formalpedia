@@ -41503,7 +41503,7 @@
 {"parent": "ArapostathisAC.VanishingDiscount.theorem_2_1", "child": "ArapostathisAC_VanishingDiscount_DPMaps", "via": ["statement"]}
 {"parent": "ArapostathisAC.VanishingDiscount.theorem_5_1", "child": "ArapostathisAC_VanishingDiscount_CMP", "via": ["statement"]}
 {"parent": "ArapostathisAC.VanishingDiscount.theorem_5_1", "child": "ArapostathisAC_VanishingDiscount_StationaryChain", "via": ["statement"]}
-{"parent": "ArapostathisAC.VanishingDiscount.theorem_5_2", "child": "ArapostathisAC_VanishingDiscount_CMP", "via": ["statement"]}
+{"parent": "ArapostathisAC.VanishingDiscount.theorem_5_2", "child": "ArapostathisAC_VanishingDiscount_CMP", "via": ["solution", "statement"]}
 {"parent": "ArapostathisAC_CanonicalPolicy_SamplePath", "child": "ArapostathisAC_CanonicalPolicy_CMP", "via": ["statement"]}
 {"parent": "ArapostathisAC_RossRecurrence_CMP", "child": "ArapostathisAC_VanishingDiscount_CMP", "via": ["statement"]}
 {"parent": "ArapostathisAC_RossRecurrence_ReturnTime", "child": "ArapostathisAC_RossRecurrence_CMP", "via": ["statement"]}
@@ -73657,9 +73657,9 @@
 {"parent": "AvramDividend.Classical.bv_esscher_finite_renewal_cumulative_representation", "child": "AvramDividend.Classical.rightContinuous_cumulative_toReal_of_finite", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.bv_esscher_finite_renewal_cumulative_representation", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_esscher_finite_renewal_cumulative_representation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.bv_esscher_root_finite_laplace_package", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.bv_esscher_root_finite_laplace_package", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_esscher_root_finite_laplace_package", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.bv_esscher_root_laplace_denominator_identity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.bv_esscher_root_laplace_denominator_identity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.bv_esscher_root_subcritical_kernel_mass", "child": "AvramDividend.Classical.bv_exponential_jump_integrable_nonneg", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.bv_esscher_root_subcritical_kernel_mass", "child": "AvramDividend.Classical.bv_laplace_exponent_positive_magnitude_nonneg", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.bv_esscher_root_subcritical_kernel_mass", "child": "AvramDividend.Classical.esscher_discounted_moment_integrable", "via": ["solution"]}
@@ -74453,8 +74453,8 @@
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one", "child": "AvramDividend.Classical.scaleFunction_excursion_tail_derivative_representation", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_bv_ac_without_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_bv_ac_without_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_bv_ac_without_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_bv_ac_without_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_gaussian_without_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_gaussian_without_standing", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_contDiff_one_infinite_variation_without_standing", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
@@ -74855,8 +74855,8 @@
 {"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.vcstar_capped_upper_bound_all_capital", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.vcstar_deriv_continuous_on_positive_bv", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_above_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_above_cstar", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar", "child": "AvramDividend.Classical.barrierValue_above_affine", "via": ["solution"]}
@@ -74977,8 +74977,8 @@
 {"parent": "AvramDividend.Classical.weightedLaplace_gaussian_drift_with_right_boundary_slope", "child": "AvramDividend.Classical.weightedLaplace_second_derivative_with_right_boundary_slope", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.weightedLaplace_second_derivative_with_boundary", "child": "AvramDividend.Classical.weightedLaplace_derivative_with_origin_boundary", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.weightedLaplace_second_derivative_with_right_boundary_slope", "child": "AvramDividend.Classical.weightedLaplace_derivative_with_origin_boundary", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.zero_cap_admissible_dividendValue_le_barrier_at_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.zero_cap_admissible_dividendValue_le_barrier_at_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.zero_cap_admissible_dividendValue_le_barrier_at_zero", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.zero_cap_admissible_dividendValue_le_barrier_at_zero", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.zero_cap_boundary_value_package", "child": "AvramDividend.Classical.barrier_zero_boundary_value_nonneg", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.zero_cap_boundary_value_package", "child": "AvramDividend.Classical.zero_cap_admissible_dividendValue_le_barrier_at_zero", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.zero_cap_boundary_value_package", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -76812,10 +76812,10 @@
 {"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Covering", "via": ["statement"]}
 {"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_FatShattering", "via": ["statement"]}
 {"parent": "BartlettNN.Margin.lemma4_covering_margin_bound", "child": "BartlettNN_Margin_Squash", "via": ["statement"]}
-{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Classification", "via": ["statement"]}
-{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Covering", "via": ["statement"]}
-{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_FatShattering", "via": ["statement"]}
-{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Squash", "via": ["statement"]}
+{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Classification", "via": ["solution", "statement"]}
+{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Covering", "via": ["solution", "statement"]}
+{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_FatShattering", "via": ["solution", "statement"]}
+{"parent": "BartlettNN.Margin.log_Ninf_squash_lt", "child": "BartlettNN_Margin_Squash", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Margin.theorem2_margin_bound", "child": "BartlettNN.Margin.fat_squash_le_fat", "via": ["solution"]}
 {"parent": "BartlettNN.Margin.theorem2_margin_bound", "child": "BartlettNN.Margin.lemma4_covering_margin_bound", "via": ["solution"]}
 {"parent": "BartlettNN.Margin.theorem2_margin_bound", "child": "BartlettNN.Margin.log_Ninf_squash_lt", "via": ["solution"]}
@@ -76835,8 +76835,8 @@
 {"parent": "BartlettNN.Sigmoid.lemma22_cover_combos", "child": "BartlettNN_Sigmoid_Networks", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Sigmoid.lemma23_pdim_cover", "child": "BartlettNN_FatNet_coverNum", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Sigmoid.lemma23_pdim_cover", "child": "BartlettNN_Sigmoid_Fat", "via": ["solution", "statement"]}
-{"parent": "BartlettNN.Sigmoid.theorem28_part1", "child": "BartlettNN_Sigmoid_Classification", "via": ["statement"]}
-{"parent": "BartlettNN.Sigmoid.theorem28_part1", "child": "BartlettNN_Sigmoid_Networks", "via": ["statement"]}
+{"parent": "BartlettNN.Sigmoid.theorem28_part1", "child": "BartlettNN_Sigmoid_Classification", "via": ["solution", "statement"]}
+{"parent": "BartlettNN.Sigmoid.theorem28_part1", "child": "BartlettNN_Sigmoid_Networks", "via": ["solution", "statement"]}
 {"parent": "BartlettNN.Sigmoid.theorem2_margin_bound", "child": "BartlettNN_Sigmoid_Classification", "via": ["statement"]}
 {"parent": "BartlettNN.Sigmoid.theorem2_margin_bound", "child": "BartlettNN_Sigmoid_Fat", "via": ["statement"]}
 {"parent": "BartlettNN_FatNet_coverNum", "child": "BartlettNN_Margin_Covering", "via": ["statement"]}
@@ -77493,10 +77493,10 @@
 {"parent": "BesbesZeevi_SingleParam_Algorithm", "child": "BesbesZeevi_SingleParam_PoissonProcess", "via": ["statement"]}
 {"parent": "BesbesZeevi_SingleParam_Algorithm", "child": "BesbesZeevi_SingleParam_Tuning", "via": ["statement"]}
 {"parent": "BesbesZeevi_SingleParam_Family", "child": "BesbesZeevi_SingleParam_Model", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_Algorithm", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_Exp3P", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_Interaction", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_RunNotation", "via": ["statement"]}
+{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_Algorithm", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_Exp3P", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_Interaction", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.adversarial_regret_on_event", "child": "BestBothWorlds_SAO_RunNotation", "via": ["solution", "statement"]}
 {"parent": "BestBothWorlds.SAO.estimate_concentration_adversarial", "child": "BestBothWorlds_SAO_Algorithm", "via": ["statement"]}
 {"parent": "BestBothWorlds.SAO.estimate_concentration_adversarial", "child": "BestBothWorlds_SAO_Exp3P", "via": ["statement"]}
 {"parent": "BestBothWorlds.SAO.estimate_concentration_adversarial", "child": "BestBothWorlds_SAO_Interaction", "via": ["statement"]}
@@ -77531,14 +77531,14 @@
 {"parent": "BestBothWorlds.SAO.sao_stochastic_regret", "child": "BestBothWorlds_SAO_Exp3P", "via": ["statement"]}
 {"parent": "BestBothWorlds.SAO.sao_stochastic_regret", "child": "BestBothWorlds_SAO_Interaction", "via": ["statement"]}
 {"parent": "BestBothWorlds.SAO.sao_stochastic_regret", "child": "BestBothWorlds_SAO_RunNotation", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_Algorithm", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_Exp3P", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_Interaction", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_RunNotation", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_Algorithm", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_Exp3P", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_Interaction", "via": ["statement"]}
-{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_RunNotation", "via": ["statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_Algorithm", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_Exp3P", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_Interaction", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_deactivation_time", "child": "BestBothWorlds_SAO_RunNotation", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_Algorithm", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_Exp3P", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_Interaction", "via": ["solution", "statement"]}
+{"parent": "BestBothWorlds.SAO.stochastic_no_switch", "child": "BestBothWorlds_SAO_RunNotation", "via": ["solution", "statement"]}
 {"parent": "BestBothWorlds.SAO.sum_q_le_harmonic", "child": "BestBothWorlds_SAO_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BestBothWorlds.SAO.sum_q_le_harmonic", "child": "BestBothWorlds_SAO_Exp3P", "via": ["solution", "statement"]}
 {"parent": "BestBothWorlds.SAO.sum_q_le_harmonic", "child": "BestBothWorlds_SAO_Interaction", "via": ["solution", "statement"]}
@@ -79626,11 +79626,11 @@
 {"parent": "BookProof.BrstUnboundedLeakage.flow_truncGen_mem_domain", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.flow_truncGen_mem_domain", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.flow_truncGen_mem_domain", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterBrstTruncationLeakage", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterBrstUnboundedLeakage", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterStoneUnitary", "via": ["statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterBrstTruncationLeakage", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_duhamel_stone", "child": "ChapterStoneUnitary", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_flow", "child": "ChapterBrstTruncationLeakage", "via": ["statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_flow", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_flow", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
@@ -79639,22 +79639,22 @@
 {"parent": "BookProof.BrstUnboundedLeakage.hasDerivAt_isometry_apply", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "via": ["solution"]}
 {"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "BookProof.BrstUnboundedLeakage.norm_omega_stoneU_eq", "via": ["solution"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterBrstTruncationLeakage", "via": ["statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterBrstTruncationLeakage", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterStoneUnitary", "via": ["statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le", "child": "ChapterStoneUnitary", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "BookProof.BrstUnboundedLeakage.leakage_le", "via": ["solution"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterBrstTruncationLeakage", "via": ["statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterBrstTruncationLeakage", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterStoneUnitary", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterBrstTruncationLeakage", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterBrstUnboundedLeakage", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterStoneUnitary", "via": ["statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.leakage_le_of_physical", "child": "ChapterStoneUnitary", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterBrstTruncationLeakage", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.norm_flow_sub_stoneU_le", "child": "ChapterStoneUnitary", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.norm_flow_truncGen_sub_stoneU_le", "child": "ChapterBrstTruncationLeakage", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.norm_flow_truncGen_sub_stoneU_le", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.norm_flow_truncGen_sub_stoneU_le", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
@@ -79715,11 +79715,11 @@
 {"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le", "child": "ChapterStoneUnitary", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "BookProof.BrstUnboundedLeakage.truncation_leakage_le", "via": ["solution"]}
-{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterBrstTruncationLeakage", "via": ["statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterBrstTruncationLeakage", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterBrstUnboundedLeakage", "via": ["solution", "statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterStoneUnitary", "via": ["statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical", "child": "ChapterStoneUnitary", "via": ["solution", "statement"]}
 {"parent": "BookProof.CarlemanUnboundedHop.Theta_antitone", "child": "BookProof.CarlemanUnboundedHop.Theta_succ_le", "via": ["solution"]}
 {"parent": "BookProof.CarlemanUnboundedHop.Theta_antitone", "child": "ChapterCarlemanUnboundedHop", "via": ["solution", "statement"]}
 {"parent": "BookProof.CarlemanUnboundedHop.Theta_nonneg", "child": "BookProof.CarlemanUnboundedHop.theta_le_Theta", "via": ["solution"]}
@@ -83876,13 +83876,13 @@
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_comprehensive_complete_gaugeFixing", "child": "BookProof.ChapterGaugeComprehensiveFixing.orbitRepresentatives_isComprehensiveGaugeFixing", "via": ["solution"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_comprehensive_complete_gaugeFixing", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_comprehensive_complete_gaugeFixing", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_not_extendable_of_not_complete", "child": "ChapterGaugeComprehensiveFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_not_extendable_of_not_complete", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_not_extendable_of_not_complete", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_not_extendable_of_not_complete", "child": "ChapterGaugeIncompleteFixing", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_physical_extension_of_complete", "child": "BookProof.ChapterGaugeIncompleteFixing.exists_physical_extension", "via": ["solution"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_physical_extension_of_complete", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_physical_extension_of_complete", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_physical_ne_agreeing_of_not_comprehensive", "child": "ChapterGaugeComprehensiveFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_physical_ne_agreeing_of_not_comprehensive", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_physical_ne_agreeing_of_not_comprehensive", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.exists_physical_ne_agreeing_of_not_comprehensive", "child": "ChapterGaugeIncompleteFixing", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.not_isClopen_of_complete_comprehensive", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.not_isClopen_of_complete_comprehensive", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.not_isPhysicalObservable_indicator", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
@@ -83891,10 +83891,10 @@
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.orbitRepresentatives_isCompleteGaugeFixing_prime", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.orbitRepresentatives_isComprehensiveGaugeFixing", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.orbitRepresentatives_isComprehensiveGaugeFixing", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_ext_iff_comprehensive", "child": "ChapterGaugeComprehensiveFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_ext_iff_comprehensive", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_extension_iff_complete", "child": "ChapterGaugeComprehensiveFixing", "via": ["statement"]}
-{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_extension_iff_complete", "child": "ChapterGaugeIncompleteFixing", "via": ["statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_ext_iff_comprehensive", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_ext_iff_comprehensive", "child": "ChapterGaugeIncompleteFixing", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_extension_iff_complete", "child": "ChapterGaugeComprehensiveFixing", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterGaugeComprehensiveFixing.physical_extension_iff_complete", "child": "ChapterGaugeIncompleteFixing", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.shift_gaugeFixing_classification", "child": "BookProof.ChapterGaugeComprehensiveFixing.shift_movesEveryPointOfSpectrum", "via": ["solution"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.shift_gaugeFixing_classification", "child": "BookProof.ChapterGaugeComprehensiveFixing.shift_smul_def", "via": ["solution"]}
 {"parent": "BookProof.ChapterGaugeComprehensiveFixing.shift_gaugeFixing_classification", "child": "BookProof.ChapterGaugeComprehensiveFixing.shift_smul_ne_half", "via": ["solution"]}
@@ -87138,10 +87138,10 @@
 {"parent": "BookProof.ChapterSoftmaxDivergence.fisherInformation_eq_varScore", "child": "ChapterSoftmaxDivergence", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxDivergence.fisherInformation_eq_varScore", "child": "ChapterSoftmaxFluctuation", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxDivergence.fisherInformation_eq_varScore", "child": "ChapterSoftmaxSharpness", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterAttentionEntropy", "via": ["statement"]}
-{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterSoftmaxDivergence", "via": ["statement"]}
-{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterSoftmaxFluctuation", "via": ["statement"]}
-{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterSoftmaxSharpness", "via": ["statement"]}
+{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterAttentionEntropy", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterSoftmaxDivergence", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterSoftmaxFluctuation", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "child": "ChapterSoftmaxSharpness", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax_self", "child": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax", "via": ["solution"]}
 {"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax_self", "child": "ChapterAttentionEntropy", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax_self", "child": "ChapterSoftmaxDivergence", "via": ["solution", "statement"]}
@@ -87250,9 +87250,9 @@
 {"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_partition_score", "child": "ChapterSoftmaxJacobian", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_partition_score", "child": "ChapterSoftmaxOrder", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_partition_score", "child": "ChapterSoftmaxSharpness", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_scoreSoftmax_score", "child": "ChapterSoftmaxJacobian", "via": ["statement"]}
-{"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_scoreSoftmax_score", "child": "ChapterSoftmaxOrder", "via": ["statement"]}
-{"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_scoreSoftmax_score", "child": "ChapterSoftmaxSharpness", "via": ["statement"]}
+{"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_scoreSoftmax_score", "child": "ChapterSoftmaxJacobian", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_scoreSoftmax_score", "child": "ChapterSoftmaxOrder", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterSoftmaxJacobian.hasDerivAt_scoreSoftmax_score", "child": "ChapterSoftmaxSharpness", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxJacobian.scorePerturb_of_ne", "child": "ChapterSoftmaxJacobian", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxJacobian.scorePerturb_of_ne", "child": "ChapterSoftmaxOrder", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSoftmaxJacobian.scorePerturb_of_ne", "child": "ChapterSoftmaxSharpness", "via": ["solution", "statement"]}
@@ -87895,14 +87895,14 @@
 {"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.ext_prime", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.ext_prime", "child": "ChapterStoneTheorem", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.ext_prime", "child": "ChapterUnitaryTransport", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterStoneConverse", "via": ["statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterStoneTheorem", "via": ["statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterStoneConverse", "via": ["statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterStoneTheorem", "via": ["statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterStoneConverse", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.genDomain_eq_domain", "child": "ChapterStoneTheorem", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterStoneConverse", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq", "child": "ChapterStoneTheorem", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSuperBracket.eps_comm", "child": "ChapterElectroweakFieldStrength", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSuperBracket.eps_comm", "child": "ChapterSuperBracket", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterSuperBracket.eps_mul_self", "child": "ChapterElectroweakFieldStrength", "via": ["solution", "statement"]}
@@ -88274,9 +88274,9 @@
 {"parent": "BookProof.ChapterWeylSl2.Sl2Rep.ops_zero_of_trivial", "child": "ChapterGleasonPureMixed", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterWeylSl2.Sl2Rep.ops_zero_of_trivial", "child": "ChapterWeylSl2", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterWeylSl2.Sl2Rep.pow_succ_apply", "child": "ChapterWeylSl2", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterWeylSl2.Sl2Rep.weyl_complete_reducibility", "child": "ChapterDoubleSlit", "via": ["statement"]}
-{"parent": "BookProof.ChapterWeylSl2.Sl2Rep.weyl_complete_reducibility", "child": "ChapterGleasonPureMixed", "via": ["statement"]}
-{"parent": "BookProof.ChapterWeylSl2.Sl2Rep.weyl_complete_reducibility", "child": "ChapterWeylSl2", "via": ["statement"]}
+{"parent": "BookProof.ChapterWeylSl2.Sl2Rep.weyl_complete_reducibility", "child": "ChapterDoubleSlit", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterWeylSl2.Sl2Rep.weyl_complete_reducibility", "child": "ChapterGleasonPureMixed", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterWeylSl2.Sl2Rep.weyl_complete_reducibility", "child": "ChapterWeylSl2", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterWignerLittleGroup.act_conjTranspose", "child": "ChapterWignerLittleGroup", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterWignerLittleGroup.act_det", "child": "ChapterWignerLittleGroup", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterWignerLittleGroup.act_det_of_sl", "child": "BookProof.ChapterWignerLittleGroup.act_det", "via": ["solution"]}
@@ -88675,14 +88675,14 @@
 {"parent": "BookProof.DirectSumEsa.dsOpD_isSymmetricDom", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.dsOpD_isSymmetricDom", "child": "ChapterFarisLavine", "via": ["statement"]}
 {"parent": "BookProof.DirectSumEsa.dsOpD_isSymmetricDom", "child": "ChapterNavierStokesFullEsa", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterDirectSumEsa", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterEsaClosureCore", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterNavierStokesFlow", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterNavierStokesFullEsa", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterStoneBridge", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterStoneResolvent", "via": ["statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterEsaClosureCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterNavierStokesFlow", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterNavierStokesFullEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterStoneBridge", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.dsOpD_stone_flow", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.dsOp_deficiencyTrivialAt", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.dsOp_deficiencyTrivialAt", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.dsOp_deficiencyTrivialAt", "child": "ChapterFarisLavineCore", "via": ["solution", "statement"]}
@@ -88701,16 +88701,16 @@
 {"parent": "BookProof.DirectSumEsa.fockCore_dense", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.fockCore_dense", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.fockCore_dense", "child": "ChapterNavierStokesFockContinuum", "via": ["solution", "statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_essentiallySelfAdjointOn", "child": "ChapterDirectSumEsa", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_essentiallySelfAdjointOn", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_essentiallySelfAdjointOn", "child": "ChapterFarisLavineCore", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterDirectSumEsa", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterEsaClosureCore", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterLinftyMultiplication", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterNavierStokesFockContinuum", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterStoneBridge", "via": ["statement"]}
-{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterStoneResolvent", "via": ["statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_essentiallySelfAdjointOn", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_essentiallySelfAdjointOn", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_essentiallySelfAdjointOn", "child": "ChapterFarisLavineCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterEsaClosureCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterLinftyMultiplication", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterNavierStokesFockContinuum", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterStoneBridge", "via": ["solution", "statement"]}
+{"parent": "BookProof.DirectSumEsa.fockH_stone_flow", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.hasZeroDeficiencyOn_of_essentiallySelfAdjointOn", "child": "ChapterDirectSumEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.DirectSumEsa.hasZeroDeficiencyOn_of_essentiallySelfAdjointOn", "child": "ChapterFarisLavine", "via": ["statement"]}
 {"parent": "BookProof.DirectSumEsa.hasZeroDeficiencyOn_of_essentiallySelfAdjointOn", "child": "ChapterFarisLavineCore", "via": ["statement"]}
@@ -89946,21 +89946,21 @@
 {"parent": "BookProof.HashimotoShiftInvert.exists_isShiftInvert", "child": "ChapterYangMillsFriedrichs", "via": ["solution", "statement"]}
 {"parent": "BookProof.HashimotoShiftInvert.exists_isShiftInvert", "child": "ChapterYangMillsFriedrichsLimit", "via": ["solution", "statement"]}
 {"parent": "BookProof.HashimotoShiftInvert.exists_isShiftInvertC", "child": "ChapterHashimotoComplexShifts", "via": ["solution", "statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterAbelianDiagonalCountable", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterComplexShiftCore", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterHashimotoShiftInvert", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterHermiteGalerkinFriedrichs", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterStoneResolvent", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichs", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichsLimit", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterComplexShiftCore", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterFarisLavineCore", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterHashimotoShiftInvert", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterHermiteGalerkinFriedrichs", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichs", "via": ["statement"]}
-{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichsLimit", "via": ["statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterAbelianDiagonalCountable", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterComplexShiftCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterHashimotoShiftInvert", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterHermiteGalerkinFriedrichs", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterStoneResolvent", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichs", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinCompression_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichsLimit", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterComplexShiftCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterFarisLavineCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterHashimotoShiftInvert", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterHermiteGalerkinFriedrichs", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichs", "via": ["solution", "statement"]}
+{"parent": "BookProof.HashimotoShiftInvert.galerkinResolvent_shiftInvert_tendsto", "child": "ChapterYangMillsFriedrichsLimit", "via": ["solution", "statement"]}
 {"parent": "BookProof.HashimotoShiftInvert.hashimoto_multishift_selects_friedrichs", "child": "BookProof.HashimotoShiftInvert.IsShiftInvertC.dom_eq_range", "via": ["solution"]}
 {"parent": "BookProof.HashimotoShiftInvert.hashimoto_multishift_selects_friedrichs", "child": "BookProof.HashimotoShiftInvert.IsShiftInvertC.opNorm_le", "via": ["solution"]}
 {"parent": "BookProof.HashimotoShiftInvert.hashimoto_multishift_selects_friedrichs", "child": "BookProof.HashimotoShiftInvert.exists_isShiftInvertC", "via": ["solution"]}
@@ -95911,11 +95911,11 @@
 {"parent": "BookProof.QgMultiHalfDensity.mpUnitary_boundedEnergyCore_surjective", "child": "ChapterNavierStokesFockContinuum", "via": ["solution", "statement"]}
 {"parent": "BookProof.QgMultiHalfDensity.mpUnitary_boundedEnergyCore_surjective", "child": "ChapterQgMultiHalfDensity", "via": ["solution", "statement"]}
 {"parent": "BookProof.QgMultiHalfDensity.mpUnitary_boundedEnergyCore_surjective", "child": "ChapterQuantumGravityHalfDensity", "via": ["solution", "statement"]}
-{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterLinftyMultiplication", "via": ["statement"]}
-{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFlow", "via": ["statement"]}
-{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFockContinuum", "via": ["statement"]}
-{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterQgMultiHalfDensity", "via": ["statement"]}
-{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterQuantumGravityHalfDensity", "via": ["statement"]}
+{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterLinftyMultiplication", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFlow", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFockContinuum", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterQgMultiHalfDensity", "via": ["solution", "statement"]}
+{"parent": "BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer", "child": "ChapterQuantumGravityHalfDensity", "via": ["solution", "statement"]}
 {"parent": "BookProof.QgMultiHalfDensity.mpUnitary_mem_boundedEnergyCore", "child": "ChapterNavierStokesFockContinuum", "via": ["solution", "statement"]}
 {"parent": "BookProof.QgMultiHalfDensity.mpUnitary_mem_boundedEnergyCore", "child": "ChapterQgMultiHalfDensity", "via": ["solution", "statement"]}
 {"parent": "BookProof.QgMultiHalfDensity.mpUnitary_mem_boundedEnergyCore", "child": "ChapterQuantumGravityHalfDensity", "via": ["solution", "statement"]}
@@ -97061,10 +97061,10 @@
 {"parent": "BookProof.QuantumGravityBrstCharge.glin_sq", "child": "ChapterQuantumGravity3DGauge", "via": ["solution", "statement"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.glin_sq", "child": "ChapterQuantumGravityBrstCharge", "via": ["solution", "statement"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.glin_sq", "child": "ChapterYangMillsHermite", "via": ["solution", "statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterBRSTNilpotent", "via": ["statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterQuantumGravity3DGauge", "via": ["statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterQuantumGravityBrstCharge", "via": ["statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterYangMillsHermite", "via": ["statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterBRSTNilpotent", "via": ["solution", "statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterQuantumGravity3DGauge", "via": ["solution", "statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterQuantumGravityBrstCharge", "via": ["solution", "statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.linGen_bracket", "child": "ChapterYangMillsHermite", "via": ["solution", "statement"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.linGen_contract_left", "child": "BookProof.QuantumGravityBrstCharge.linGen_def", "via": ["solution"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.linGen_contract_left", "child": "ChapterBRSTNilpotent", "via": ["solution", "statement"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.linGen_contract_left", "child": "ChapterQuantumGravity3DGauge", "via": ["solution", "statement"]}
@@ -97108,10 +97108,10 @@
 {"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_abelian_nilpotent", "child": "ChapterQuantumGravityBrstCharge", "via": ["solution", "statement"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_abelian_nilpotent", "child": "ChapterSmBrstGhost", "via": ["solution", "statement"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_abelian_nilpotent", "child": "ChapterYangMillsHermite", "via": ["solution", "statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterBRSTNilpotent", "via": ["statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterQuantumGravity3DGauge", "via": ["statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterQuantumGravityBrstCharge", "via": ["statement"]}
-{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterYangMillsHermite", "via": ["statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterBRSTNilpotent", "via": ["solution", "statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterQuantumGravity3DGauge", "via": ["solution", "statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterQuantumGravityBrstCharge", "via": ["solution", "statement"]}
+{"parent": "BookProof.QuantumGravityBrstCharge.qgBRST_nilpotent", "child": "ChapterYangMillsHermite", "via": ["solution", "statement"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.qgGhostCar", "child": "BookProof.QuantumGravityBrstCharge.ghostOp_add", "via": ["solution"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.qgGhostCar", "child": "BookProof.QuantumGravityBrstCharge.ghostOp_mul", "via": ["solution"]}
 {"parent": "BookProof.QuantumGravityBrstCharge.qgGhostCar", "child": "BookProof.QuantumGravityBrstCharge.ghostOp_one", "via": ["solution"]}
@@ -97518,18 +97518,18 @@
 {"parent": "BookProof.ScalaronDensitized.integral_norm_sq_eq_norm_sq", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
 {"parent": "BookProof.ScalaronDensitized.integral_norm_sq_eq_norm_sq", "child": "ChapterStarobinskyPotential", "via": ["solution", "statement"]}
 {"parent": "BookProof.ScalaronDensitized.integral_norm_sq_eq_norm_sq", "child": "ChapterStoneBridge", "via": ["solution", "statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterEsaClosureCore", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterFarisLavineCore", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterLinftyMultiplication", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterNavierStokesFockContinuum", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterQuantumGravityDensitized", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterQuantumGravityHalfDensity", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterScalaronDensitizedTransfer", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterStarobinskyPotential", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterStoneBridge", "via": ["statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterEsaClosureCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterFarisLavineCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterLinftyMultiplication", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterNavierStokesFockContinuum", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterQuantumGravityDensitized", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterQuantumGravityHalfDensity", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterScalaronDensitizedTransfer", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterStarobinskyPotential", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "child": "ChapterStoneBridge", "via": ["solution", "statement"]}
 {"parent": "BookProof.ScalaronDensitized.multOp_quadForm_ge", "child": "BookProof.ScalaronDensitized.integral_norm_sq_eq_norm_sq", "via": ["solution"]}
 {"parent": "BookProof.ScalaronDensitized.multOp_quadForm_ge", "child": "BookProof.ScalaronDensitized.multOp_quadForm_eq", "via": ["solution"]}
 {"parent": "BookProof.ScalaronDensitized.multOp_quadForm_ge", "child": "ChapterEsaClosureCore", "via": ["solution", "statement"]}
@@ -97594,17 +97594,17 @@
 {"parent": "BookProof.ScalaronDensitized.physConf_esa", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
 {"parent": "BookProof.ScalaronDensitized.physConf_esa", "child": "ChapterStarobinskyPotential", "via": ["solution", "statement"]}
 {"parent": "BookProof.ScalaronDensitized.physConf_esa", "child": "ChapterStoneBridge", "via": ["solution", "statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterEsaClosureCore", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFlow", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFockContinuum", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterQuantumGravityDensitized", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterQuantumGravityHalfDensity", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterScalaronDensitizedTransfer", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterSirkTrotterKato", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterStarobinskyPotential", "via": ["statement"]}
-{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterStoneBridge", "via": ["statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterEsaClosureCore", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFlow", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterNavierStokesFockContinuum", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterQuantumGravityDensitized", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterQuantumGravityHalfDensity", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterScalaronDensitizedTransfer", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterStarobinskyPotential", "via": ["solution", "statement"]}
+{"parent": "BookProof.ScalaronDensitized.physConf_hasZeroDeficiencyOn_transfer", "child": "ChapterStoneBridge", "via": ["solution", "statement"]}
 {"parent": "BookProof.ScalaronDensitized.physConf_stone_flow", "child": "BookProof.ScalaronDensitized.physConfCore_dense", "via": ["solution"]}
 {"parent": "BookProof.ScalaronDensitized.physConf_stone_flow", "child": "BookProof.ScalaronDensitized.physConfOp_symmetricOn", "via": ["solution"]}
 {"parent": "BookProof.ScalaronDensitized.physConf_stone_flow", "child": "BookProof.ScalaronDensitized.physConf_esa", "via": ["solution"]}

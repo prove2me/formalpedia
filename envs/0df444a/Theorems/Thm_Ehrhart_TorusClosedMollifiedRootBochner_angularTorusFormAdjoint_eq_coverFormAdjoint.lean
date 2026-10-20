@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusClosedMollifiedRootBochner_angularTorusFormAdjoint_eq_coverFormAdjoint
 -- name    : Ehrhart.TorusClosedMollifiedRootBochner.angularTorusFormAdjoint_eq_coverFormAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/b8507e21-67b6-40a5-8e3c-bf8b2851cce7

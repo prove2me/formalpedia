@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedResolventConstantCore_growingBump_eventually_one
 -- name    : Ehrhart.WeightedResolventConstantCore.growingBump_eventually_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/5a1e38aa-dbc9-4b37-b411-1fbe517c603c

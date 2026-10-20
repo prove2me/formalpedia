@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_analyticAt_momentHolomorphicRepresentative
 -- name    : Ehrhart.BergmanJetLocalGrowth.analyticAt_momentHolomorphicRepresentative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/7d84a8a8-4522-4fcc-9cb6-3a12d8788402

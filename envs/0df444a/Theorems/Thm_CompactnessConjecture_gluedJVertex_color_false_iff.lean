@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedJVertex_color_false_iff
 -- name    : CompactnessConjecture.gluedJVertex_color_false_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/ff984c82-13d7-4e1f-92ff-a25b3a8ca542

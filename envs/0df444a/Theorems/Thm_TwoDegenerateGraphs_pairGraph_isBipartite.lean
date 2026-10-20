@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraph_isBipartite
 -- name    : TwoDegenerateGraphs.pairGraph_isBipartite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/efdc2020-d44a-4285-b73b-8d3c15c7a257

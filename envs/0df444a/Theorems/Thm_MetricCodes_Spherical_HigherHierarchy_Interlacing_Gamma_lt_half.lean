@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_Gamma_lt_half
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.Gamma_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/7e2bac8d-74be-461d-9344-fa1edbd12267

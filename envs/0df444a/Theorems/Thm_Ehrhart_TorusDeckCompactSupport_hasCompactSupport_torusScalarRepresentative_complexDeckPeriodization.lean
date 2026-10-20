@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckCompactSupport_hasCompactSupport_torusScalarRepresentative_complexDeckPeriodization
 -- name    : Ehrhart.TorusDeckCompactSupport.hasCompactSupport_torusScalarRepresentative_complexDeckPeriodization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/ae36a0e9-7ba9-4c35-abdb-ae9c0ab3509c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_cyclicMatchingBlock_square_sum_le_variableLeaves
 -- name    : PermanentFormulaLowerBound.Formula.cyclicMatchingBlock_square_sum_le_variableLeaves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/f06be5e8-d228-4629-926a-265b0a7ec615

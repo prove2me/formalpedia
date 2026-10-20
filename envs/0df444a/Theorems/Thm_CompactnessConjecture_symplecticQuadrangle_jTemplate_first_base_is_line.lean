@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_jTemplate_first_base_is_line
 -- name    : CompactnessConjecture.symplecticQuadrangle_jTemplate_first_base_is_line
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/246dd2b5-3ecc-44b5-9242-3dd0c111d69f

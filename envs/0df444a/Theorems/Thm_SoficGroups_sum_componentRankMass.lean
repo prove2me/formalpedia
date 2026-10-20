@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_sum_componentRankMass
 -- name    : SoficGroups.sum_componentRankMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/9823c0ef-6d8d-4479-aec7-86aa5b6d2914

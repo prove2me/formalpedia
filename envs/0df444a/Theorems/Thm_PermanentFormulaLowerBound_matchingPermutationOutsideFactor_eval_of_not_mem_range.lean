@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermutationOutsideFactor_eval_of_not_mem_range
 -- name    : PermanentFormulaLowerBound.matchingPermutationOutsideFactor_eval_of_not_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/5bac9aa6-0605-4d06-8390-7ea2420ec955

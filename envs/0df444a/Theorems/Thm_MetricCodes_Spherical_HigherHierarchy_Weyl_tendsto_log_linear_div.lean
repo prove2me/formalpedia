@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_tendsto_log_linear_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.tendsto_log_linear_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/9ad240e9-863f-48fb-8b50-76c94ba6a20d

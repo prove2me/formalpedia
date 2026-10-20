@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_weighted_eigenvector_equation
 -- name    : MetricCodes.HigherProjectionGraph.Data.weighted_eigenvector_equation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/0d9fc488-5c94-4947-ad55-30f8eb688dec

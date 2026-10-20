@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_sourceTorusFormExterior_add_mixed_eq_full
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.sourceTorusFormExterior_add_mixed_eq_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/00519f08-3211-4c77-a157-d2bfa4942d6f

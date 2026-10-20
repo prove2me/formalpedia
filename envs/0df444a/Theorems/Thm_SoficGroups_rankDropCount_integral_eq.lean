@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_rankDropCount_integral_eq
 -- name    : SoficGroups.rankDropCount_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/ccb27824-16f1-41c8-bcb7-d8b53a3b797e

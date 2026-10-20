@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_stripPoissonKernel
 -- name    : CohnElkies.integral_stripPoissonKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/a550139f-82a0-455a-b9bc-0e3d305fc558

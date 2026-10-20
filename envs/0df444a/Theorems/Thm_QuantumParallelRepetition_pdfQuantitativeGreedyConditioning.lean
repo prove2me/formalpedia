@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfQuantitativeGreedyConditioning
 -- name    : QuantumParallelRepetition.pdfQuantitativeGreedyConditioning
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/38941ed1-ee8e-4090-bcfc-5ed9bd11169a

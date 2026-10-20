@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetAsymptotics_tendsto_shifted_floor_mul_div_nat
 -- name    : Ehrhart.JetAsymptotics.tendsto_shifted_floor_mul_div_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/1ff229e4-32aa-49a4-a63a-cad8aa7c88ba

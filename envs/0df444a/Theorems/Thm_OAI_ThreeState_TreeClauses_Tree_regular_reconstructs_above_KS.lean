@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThreeState_TreeClauses_Tree_regular_reconstructs_above_KS
 -- name    : OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:31.537379+00:00
 -- url     : https://prove2.me/theorems/0a0ed6ce-4be2-41cc-a0fe-313f5d6cda93

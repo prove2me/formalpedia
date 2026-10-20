@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_rankPenalty_le_one
 -- name    : MetricCodes.Johnson.AsymptoticParameters.rankPenalty_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/ed576302-b0e1-45e5-81d0-e66be937b412

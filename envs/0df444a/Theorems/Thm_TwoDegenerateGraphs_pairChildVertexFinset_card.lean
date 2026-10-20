@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairChildVertexFinset_card
 -- name    : TwoDegenerateGraphs.pairChildVertexFinset_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/d802cec6-c1f7-4355-9389-00061c8ca088

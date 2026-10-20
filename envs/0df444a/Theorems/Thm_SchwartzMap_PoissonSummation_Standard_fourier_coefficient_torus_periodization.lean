@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_fourier_coefficient_torus_periodization
 -- name    : SchwartzMap.PoissonSummation.Standard.fourier_coefficient_torus_periodization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/36bcebb6-635b-43d2-8d50-a20e48eaa5b3

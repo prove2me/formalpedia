@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedBaseAE_angularWeightedTorus_ae_iff_base
 -- name    : Ehrhart.TorusWeightedBaseAE.angularWeightedTorus_ae_iff_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/67bdfceb-bac3-4529-99a9-3e92986be230

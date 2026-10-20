@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_foldl_potential
 -- name    : PermanentRollout.ReverseAdjoint.foldl_potential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/1ad80ac3-b234-4583-a09f-36621a353dfb

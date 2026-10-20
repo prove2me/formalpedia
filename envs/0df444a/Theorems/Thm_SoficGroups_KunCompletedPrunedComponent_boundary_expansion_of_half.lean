@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedPrunedComponent_boundary_expansion_of_half
 -- name    : SoficGroups.KunCompletedPrunedComponent.boundary_expansion_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/8aa2db73-23f9-4bb9-8ee1-ffac16c5691a

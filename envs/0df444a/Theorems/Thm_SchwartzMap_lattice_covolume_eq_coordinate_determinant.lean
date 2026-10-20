@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_lattice_covolume_eq_coordinate_determinant
 -- name    : SchwartzMap.lattice_covolume_eq_coordinate_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/b9536845-8804-4568-a681-4275886aa282

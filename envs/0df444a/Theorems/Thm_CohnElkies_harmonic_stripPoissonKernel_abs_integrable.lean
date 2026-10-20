@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_harmonic_stripPoissonKernel_abs_integrable
 -- name    : CohnElkies.harmonic_stripPoissonKernel_abs_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/818d4e2a-f1f6-47f8-9b5c-3286997b1bd0

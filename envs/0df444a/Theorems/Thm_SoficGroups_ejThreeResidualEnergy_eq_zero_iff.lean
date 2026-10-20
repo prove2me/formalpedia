@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualEnergy_eq_zero_iff
 -- name    : SoficGroups.ejThreeResidualEnergy_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/c684c358-9a7b-4f29-88f6-a341633a8774

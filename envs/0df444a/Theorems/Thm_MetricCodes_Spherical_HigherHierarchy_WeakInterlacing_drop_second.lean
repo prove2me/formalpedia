@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_WeakInterlacing_drop_second
 -- name    : MetricCodes.Spherical.HigherHierarchy.WeakInterlacing.drop_second
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/031d4989-41d9-47a6-8fb6-4e9a90b467fc

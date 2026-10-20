@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettNN_Sigmoid_theorem28_part1
 -- name    : BartlettNN.Sigmoid.theorem28_part1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:15:51.788743+00:00
 -- url     : https://prove2.me/theorems/2d0c27b3-3aa2-48bb-bb0e-5ac7c90fe837

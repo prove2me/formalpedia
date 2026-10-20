@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_circuit_values_size
 -- name    : PermanentRollout.ReverseAdjoint.circuit_values_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/ebec9bba-9b21-4f81-bba5-17c7c7810e69

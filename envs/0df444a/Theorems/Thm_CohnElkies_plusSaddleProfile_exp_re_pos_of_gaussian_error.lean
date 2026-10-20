@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleProfile_exp_re_pos_of_gaussian_error
 -- name    : CohnElkies.plusSaddleProfile_exp_re_pos_of_gaussian_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/9bd8ba10-045d-445f-96a3-45602680bfd8

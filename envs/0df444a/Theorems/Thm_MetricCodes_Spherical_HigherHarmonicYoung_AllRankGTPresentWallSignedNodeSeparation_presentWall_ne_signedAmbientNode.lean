@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPresentWallSignedNodeSeparation_presentWall_ne_signedAmbientNode
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPresentWallSignedNodeSeparation.presentWall_ne_signedAmbientNode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/bcea6a48-b841-4601-a886-2f0e9e0034a1

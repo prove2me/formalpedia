@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalPackingExponent_lt_packingExponent_of_maximizer
 -- name    : MetricCodes.Spherical.classicalPackingExponent_lt_packingExponent_of_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/29f24b9b-a5b7-483d-8902-99dd6b5006ef

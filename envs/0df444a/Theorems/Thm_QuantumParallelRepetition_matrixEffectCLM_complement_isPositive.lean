@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_matrixEffectCLM_complement_isPositive
 -- name    : QuantumParallelRepetition.matrixEffectCLM_complement_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/7e308ef2-5e4c-4f3d-8825-a8661d203eb2

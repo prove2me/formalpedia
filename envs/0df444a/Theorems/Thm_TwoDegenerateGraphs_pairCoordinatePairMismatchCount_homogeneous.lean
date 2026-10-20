@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairCoordinatePairMismatchCount_homogeneous
 -- name    : TwoDegenerateGraphs.pairCoordinatePairMismatchCount_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/2442d628-af49-4bc8-885d-585155395ed1

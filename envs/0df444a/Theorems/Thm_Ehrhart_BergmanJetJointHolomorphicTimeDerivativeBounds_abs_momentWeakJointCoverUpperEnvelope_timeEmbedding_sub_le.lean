@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicTimeDerivativeBounds_abs_momentWeakJointCoverUpperEnvelope_timeEmbedding_sub_le
 -- name    : Ehrhart.BergmanJetJointHolomorphicTimeDerivativeBounds.abs_momentWeakJointCoverUpperEnvelope_timeEmbedding_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/34c1349a-6623-4454-9b9f-ff89ac70c0c1

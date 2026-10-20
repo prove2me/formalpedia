@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraph_connected
 -- name    : TwoDegenerateGraphs.pairGraph_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/c771d6d7-8c24-4522-a86a-ebe55cff4e9d

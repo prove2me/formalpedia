@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_weightedZeroGraph_compact_barPartial_zero_of_fundamentalCell
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.weightedZeroGraph_compact_barPartial_zero_of_fundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/912e1d56-81e8-47f4-98ad-459da1ac490d

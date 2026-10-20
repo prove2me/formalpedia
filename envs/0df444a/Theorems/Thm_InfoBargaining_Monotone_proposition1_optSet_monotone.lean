@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Monotone_proposition1_optSet_monotone
 -- name    : InfoBargaining.Monotone.proposition1_optSet_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:17.799089+00:00
 -- url     : https://prove2.me/theorems/9235ed09-d2db-404f-be32-8e1d57dfb112

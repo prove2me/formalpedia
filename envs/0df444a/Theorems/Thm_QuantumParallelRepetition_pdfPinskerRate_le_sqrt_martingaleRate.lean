@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfPinskerRate_le_sqrt_martingaleRate
 -- name    : QuantumParallelRepetition.pdfPinskerRate_le_sqrt_martingaleRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/abe75a01-f25d-4be3-b343-72d5e693612b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankCanonicalGTFullCrossOrthogonality_canonicalGelfandTsetlinFibre_fullBranch_orthogonal_of_ne_selected
 -- name    : MetricCodes.Spherical.HigherYoungAllRankCanonicalGTFullCrossOrthogonality.canonicalGelfandTsetlinFibre_fullBranch_orthogonal_of_ne_selected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/5c85e113-ab95-49c2-a429-1081ea6d1457

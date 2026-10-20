@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_halfDensityUnitary_intertwines
 -- name    : BookProof.ScalaronDensitized.halfDensityUnitary_intertwines
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:47:54.377365+00:00
 -- url     : https://prove2.me/theorems/f172051d-967f-452c-8478-81f45ee3e0f7

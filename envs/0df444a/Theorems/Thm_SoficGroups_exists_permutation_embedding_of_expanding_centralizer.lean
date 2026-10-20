@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_permutation_embedding_of_expanding_centralizer
 -- name    : SoficGroups.exists_permutation_embedding_of_expanding_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/d976aa1a-40ad-4d4f-90af-43b35a1d674d

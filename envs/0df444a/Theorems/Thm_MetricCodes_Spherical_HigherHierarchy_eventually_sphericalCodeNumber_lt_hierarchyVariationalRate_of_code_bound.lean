@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_sphericalCodeNumber_lt_hierarchyVariationalRate_of_code_bound
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_sphericalCodeNumber_lt_hierarchyVariationalRate_of_code_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/c1bf3723-07e4-4f26-b2ad-3df0c63ff47a

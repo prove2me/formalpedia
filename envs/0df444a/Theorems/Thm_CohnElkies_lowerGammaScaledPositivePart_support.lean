@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledPositivePart_support
 -- name    : CohnElkies.lowerGammaScaledPositivePart_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/fd4902fb-a7fb-48e8-ae2c-75118db15fe3

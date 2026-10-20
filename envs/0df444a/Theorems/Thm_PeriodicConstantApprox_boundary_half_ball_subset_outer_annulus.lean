@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_boundary_half_ball_subset_outer_annulus
 -- name    : PeriodicConstantApprox.boundary_half_ball_subset_outer_annulus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/4f4b9103-0afc-4892-93f9-78953b3eb8d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CheegerPoincare_positiveSupport_max_sub_reverse
 -- name    : SoficGroups.CheegerPoincare.positiveSupport_max_sub_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/04dcd1a6-18bf-4eee-8344-1b9878d47726

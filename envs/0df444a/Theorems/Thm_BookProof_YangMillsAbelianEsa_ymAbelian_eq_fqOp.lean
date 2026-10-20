@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_ymAbelian_eq_fqOp
 -- name    : BookProof.YangMillsAbelianEsa.ymAbelian_eq_fqOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:16:03.62909+00:00
 -- url     : https://prove2.me/theorems/9620c94a-ebba-4ddb-9ffe-33bfaed27629

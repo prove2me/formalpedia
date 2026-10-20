@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sphericalCodeRate_le_closedHierarchyVariationalRate_of_code_bound
 -- name    : MetricCodes.Spherical.HigherHierarchy.sphericalCodeRate_le_closedHierarchyVariationalRate_of_code_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/6631e9b5-64f3-4520-a8f2-c3e394c17f77

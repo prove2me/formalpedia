@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedJVertex_jThetaVertex
 -- name    : CompactnessConjecture.gluedJVertex_jThetaVertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/e978925e-663a-4c65-9e2f-ab6899fbd2f3

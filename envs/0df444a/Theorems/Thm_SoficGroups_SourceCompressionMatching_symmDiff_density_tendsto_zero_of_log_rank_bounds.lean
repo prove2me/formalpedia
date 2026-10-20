@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionMatching_symmDiff_density_tendsto_zero_of_log_rank_bounds
 -- name    : SoficGroups.SourceCompressionMatching.symmDiff_density_tendsto_zero_of_log_rank_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/1ac4a38b-a8f1-4534-8854-cbe23b3103e2

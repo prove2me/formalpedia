@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_eventually_vertexDimension_pos_all
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.eventually_vertexDimension_pos_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/8a187178-28a1-4e92-a5ce-a0d5e7256bfd

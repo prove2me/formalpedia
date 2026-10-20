@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Factor400PaperVariableArityFinitePNormUnconditional_paperVariableArityFinitePNPHardPromise
 -- name    : GapCVP.Factor400PaperVariableArityFinitePNormUnconditional.paperVariableArityFinitePNPHardPromise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/7a1d2de0-15c8-4e94-965a-a3d5b7cea1cc

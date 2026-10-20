@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_UnitAddTorus_coordinate_torus_projection_measure_preserving
 -- name    : SchwartzMap.UnitAddTorus.coordinate_torus_projection_measure_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/c27e1ae7-4645-4585-a084-60864d0e4f1f

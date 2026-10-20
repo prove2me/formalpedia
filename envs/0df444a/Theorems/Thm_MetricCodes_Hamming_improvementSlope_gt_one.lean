@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_improvementSlope_gt_one
 -- name    : MetricCodes.Hamming.improvementSlope_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/c006a5d8-0262-439a-a866-1f494a32d263

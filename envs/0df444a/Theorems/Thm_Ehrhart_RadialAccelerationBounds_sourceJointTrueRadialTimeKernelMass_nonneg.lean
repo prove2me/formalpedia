@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_RadialAccelerationBounds_sourceJointTrueRadialTimeKernelMass_nonneg
 -- name    : Ehrhart.RadialAccelerationBounds.sourceJointTrueRadialTimeKernelMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/360078e9-ba63-412e-b27a-c68b4086d587

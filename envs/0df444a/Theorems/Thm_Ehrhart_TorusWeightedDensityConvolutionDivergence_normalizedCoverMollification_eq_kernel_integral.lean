@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedDensityConvolutionDivergence_normalizedCoverMollification_eq_kernel_integral
 -- name    : Ehrhart.TorusWeightedDensityConvolutionDivergence.normalizedCoverMollification_eq_kernel_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/7a89609b-35b4-4cba-bdbe-fb5446a0512e

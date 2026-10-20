@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_offset_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_offset_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/eef13cb5-8c46-49ab-a68f-cd4a1afb6cf0

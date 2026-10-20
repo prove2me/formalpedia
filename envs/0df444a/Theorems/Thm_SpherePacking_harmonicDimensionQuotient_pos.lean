@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_harmonicDimensionQuotient_pos
 -- name    : SpherePacking.harmonicDimensionQuotient_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/beaca223-03b7-4fbb-9a7f-5bca0956ac37

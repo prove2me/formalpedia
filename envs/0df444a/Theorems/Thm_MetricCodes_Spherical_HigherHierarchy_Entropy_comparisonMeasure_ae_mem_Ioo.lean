@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparisonMeasure_ae_mem_Ioo
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparisonMeasure_ae_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/a95859db-46a7-47da-859c-7554668ff6eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_commonNeighborIndependent_card_mul_degree_le
 -- name    : CompactnessConjecture.commonNeighborIndependent_card_mul_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/5a5ae554-e5fa-4b30-8aad-d0aa8514a299

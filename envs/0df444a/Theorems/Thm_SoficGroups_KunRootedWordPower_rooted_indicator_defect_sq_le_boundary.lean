@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_rooted_indicator_defect_sq_le_boundary
 -- name    : SoficGroups.KunRootedWordPower.rooted_indicator_defect_sq_le_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/4e5bdd22-1e33-440e-bb70-14da15906a90

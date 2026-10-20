@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485FullBilateralWorkRegroup
 -- name    : QuantumParallelRepetition.unconditionalActualC485FullBilateralWorkRegroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/08a7708b-f932-4a4a-8d83-88131c089a95

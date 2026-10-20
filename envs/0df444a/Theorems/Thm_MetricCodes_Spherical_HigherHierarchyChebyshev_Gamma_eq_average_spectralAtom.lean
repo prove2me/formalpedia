@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Gamma_eq_average_spectralAtom
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Gamma_eq_average_spectralAtom
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/73b03d43-1b8b-48bc-99dc-46720711ff31

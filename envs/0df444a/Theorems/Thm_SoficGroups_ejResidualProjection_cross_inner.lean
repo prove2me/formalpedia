@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejResidualProjection_cross_inner
 -- name    : SoficGroups.ejResidualProjection_cross_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/e74f6adb-6139-4b1e-bd32-f955ebfd31d1

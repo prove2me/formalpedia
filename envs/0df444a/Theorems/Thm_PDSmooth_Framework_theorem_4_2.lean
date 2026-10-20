@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDSmooth_Framework_theorem_4_2
 -- name    : PDSmooth.Framework.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:46.908161+00:00
 -- url     : https://prove2.me/theorems/e8e2ee31-38a2-43e2-98eb-81e652fdb797

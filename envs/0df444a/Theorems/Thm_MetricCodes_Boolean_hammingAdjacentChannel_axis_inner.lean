@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingAdjacentChannel_axis_inner
 -- name    : MetricCodes.Boolean.hammingAdjacentChannel_axis_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/09f26917-dcd8-473b-8d1c-5f78edeed99a

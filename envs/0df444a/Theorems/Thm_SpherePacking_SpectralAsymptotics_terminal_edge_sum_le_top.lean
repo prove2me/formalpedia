@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_SpectralAsymptotics_terminal_edge_sum_le_top
 -- name    : SpherePacking.SpectralAsymptotics.terminal_edge_sum_le_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/eb20775e-f34e-41ee-9efb-d0486ee1ae66

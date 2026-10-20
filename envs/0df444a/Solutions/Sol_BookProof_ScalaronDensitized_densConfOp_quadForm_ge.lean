@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ScalaronDensitized.densConfOp_quadForm_ge
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:07:45.567762+00:00
 -- url     : https://prove2.me/submissions/8c380f23-4ff0-4caa-9bbb-2676e581371d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterScalaronDensitizedTransfer.lean — solution of BookProof.ScalaronDensitized.densConfOp_quadForm_ge
 import Mathlib

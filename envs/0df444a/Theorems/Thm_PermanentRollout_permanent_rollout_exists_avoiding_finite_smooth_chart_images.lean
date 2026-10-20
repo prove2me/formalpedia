@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_exists_avoiding_finite_smooth_chart_images
 -- name    : PermanentRollout.permanent_rollout_exists_avoiding_finite_smooth_chart_images
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/c28b99d3-154a-41aa-be94-ec518816f037

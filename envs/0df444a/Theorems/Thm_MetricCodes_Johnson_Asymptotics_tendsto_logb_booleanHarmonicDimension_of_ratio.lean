@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_booleanHarmonicDimension_of_ratio
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_booleanHarmonicDimension_of_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/899626c7-161a-493e-b9b8-73cd37c792c1

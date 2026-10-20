@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceLocalTorusBox_measure_ne_top
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceLocalTorusBox_measure_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/c5663268-ebcd-4d34-9897-8eb856d260ca

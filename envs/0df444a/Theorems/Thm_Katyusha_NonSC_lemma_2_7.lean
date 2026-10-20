@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Katyusha_NonSC_lemma_2_7
 -- name    : Katyusha.NonSC.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:34:54.559068+00:00
 -- url     : https://prove2.me/theorems/75d06781-1513-4cb9-85e0-6e55018d190b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_eventually_interior_parameters
 -- name    : MetricCodes.MRRW.eventually_interior_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/1aa63248-ffbb-4c9a-bf68-1cdfd126ed7b

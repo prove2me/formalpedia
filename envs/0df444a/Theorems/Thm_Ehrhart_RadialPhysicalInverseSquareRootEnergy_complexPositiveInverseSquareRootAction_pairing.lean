@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_RadialPhysicalInverseSquareRootEnergy_complexPositiveInverseSquareRootAction_pairing
 -- name    : Ehrhart.RadialPhysicalInverseSquareRootEnergy.complexPositiveInverseSquareRootAction_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/32ad5cc2-5819-4228-8cd9-b62eb53d7a38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_johnsonAmbientDimension_eq
 -- name    : MetricCodes.johnsonAmbientDimension_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/19dd7782-a2e5-4bd0-bbf6-2f3dd79a0851

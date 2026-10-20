@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_mem_finiteBlockCoefficientSpan_of_mem
 -- name    : SoficGroups.mem_finiteBlockCoefficientSpan_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/953063c2-9e81-4122-8bc7-cebdd3673b89

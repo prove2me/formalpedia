@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_productRadialHolomorphicMollification_periodic
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.productRadialHolomorphicMollification_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/bbf5a0cd-8908-451c-8be4-7ff46f52734a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_thetaBaseExtensions_commonNeighborIndependent
 -- name    : CompactnessConjecture.thetaBaseExtensions_commonNeighborIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/2600ba3b-b561-4aa7-ba80-79e8abab10e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_sphericalCodeNumber_eq_codes
 -- name    : SpherePacking.sphericalCodeNumber_eq_codes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/7ed80909-0752-4e0e-9af7-dab9ff5c0e5a

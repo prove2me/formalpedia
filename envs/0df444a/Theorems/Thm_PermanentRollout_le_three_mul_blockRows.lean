@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_le_three_mul_blockRows
 -- name    : PermanentRollout.le_three_mul_blockRows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/d1fce9a4-d247-42db-a1c2-29151c66a31a

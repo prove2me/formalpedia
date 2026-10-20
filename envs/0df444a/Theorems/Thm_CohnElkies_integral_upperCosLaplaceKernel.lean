@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_upperCosLaplaceKernel
 -- name    : CohnElkies.integral_upperCosLaplaceKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/53742851-2496-40b7-8319-5f7b331e5e8f

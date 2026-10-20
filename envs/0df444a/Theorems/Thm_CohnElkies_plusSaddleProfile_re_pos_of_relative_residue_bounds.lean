@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleProfile_re_pos_of_relative_residue_bounds
 -- name    : CohnElkies.plusSaddleProfile_re_pos_of_relative_residue_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/a6ace0d8-10b6-466b-8e9b-7ad9d6dfe9c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_kissing_variationalRate_lt
 -- name    : MetricCodes.Spherical.kissing_variationalRate_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/45c0dbaa-f41c-4ca5-8ddd-6d647f36f0d8

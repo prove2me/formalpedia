@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_familyLittleO
 -- name    : CompactnessConjecture.proposedFamily_familyLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/1631f6ed-e7d6-4a75-86da-7e74f80eafd4

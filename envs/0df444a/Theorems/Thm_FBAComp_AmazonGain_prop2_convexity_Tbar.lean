@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBAComp_AmazonGain_prop2_convexity_Tbar
 -- name    : FBAComp.AmazonGain.prop2_convexity_Tbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:11.838997+00:00
 -- url     : https://prove2.me/theorems/ee267dba-37d1-4567-97f4-082ba2534250

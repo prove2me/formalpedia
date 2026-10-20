@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_incidenceUniversalPartitionDerivative_homogeneousComponent
 -- name    : PermanentRollout.incidenceUniversalPartitionDerivative_homogeneousComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/d7aafe40-a5d9-4aa0-a450-8a7a3dcd8ac1

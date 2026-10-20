@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularWeightedCellScalar_inner_eq_jacobian_cover
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularWeightedCellScalar_inner_eq_jacobian_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/5cfc5f13-65c8-4997-8804-1d5cd1609ca0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_const_mul_rectangularWeylQuotient_lt
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_const_mul_rectangularWeylQuotient_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/b587da6b-08e7-4e4a-a02b-d50b65d72a78

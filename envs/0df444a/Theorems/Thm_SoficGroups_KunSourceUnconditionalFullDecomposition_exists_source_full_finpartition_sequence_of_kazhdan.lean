@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSourceUnconditionalFullDecomposition_exists_source_full_finpartition_sequence_of_kazhdan
 -- name    : SoficGroups.KunSourceUnconditionalFullDecomposition.exists_source_full_finpartition_sequence_of_kazhdan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/ae1667bb-0932-47eb-8ed7-e5dddddfaa2a

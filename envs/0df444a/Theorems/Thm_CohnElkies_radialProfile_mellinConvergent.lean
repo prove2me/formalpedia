@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_mellinConvergent
 -- name    : CohnElkies.radialProfile_mellinConvergent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/5ef6f17f-619e-451e-ae3c-1e88582445ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_purificationRangeProjection_complement_compression
 -- name    : QuantumParallelRepetition.purificationRangeProjection_complement_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/9654b1b5-37fe-40e9-871e-b04104065331

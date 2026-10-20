@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSL2Group_weyl_complete_reducibility_SL2
 -- name    : BookProof.ChapterWeylSL2Group.weyl_complete_reducibility_SL2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:38:26.1874+00:00
 -- url     : https://prove2.me/theorems/5f1690d5-b6fe-4253-9935-d2f4194e284c

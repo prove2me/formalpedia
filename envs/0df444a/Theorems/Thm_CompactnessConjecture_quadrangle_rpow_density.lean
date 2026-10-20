@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quadrangle_rpow_density
 -- name    : CompactnessConjecture.quadrangle_rpow_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/f4410f35-4e77-4583-8c6e-3c136ab98dd6

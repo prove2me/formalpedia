@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MonomialDivergence_one_le_abs_cast_sub
 -- name    : Ehrhart.MonomialDivergence.one_le_abs_cast_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/df91f16e-a48c-4504-8399-eadff8b36625

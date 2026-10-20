@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunExactActualSourceAmbientGenerators_one_mem_sourceAmbientSymmetricGenerators
 -- name    : SoficGroups.KunExactActualSourceAmbientGenerators.one_mem_sourceAmbientSymmetricGenerators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/e4585019-eea4-4528-b6ff-ec1242c28df6

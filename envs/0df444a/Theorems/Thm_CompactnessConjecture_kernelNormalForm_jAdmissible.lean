@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_kernelNormalForm_jAdmissible
 -- name    : CompactnessConjecture.kernelNormalForm_jAdmissible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/a603215b-eb07-4a65-8964-f3c885cebf23

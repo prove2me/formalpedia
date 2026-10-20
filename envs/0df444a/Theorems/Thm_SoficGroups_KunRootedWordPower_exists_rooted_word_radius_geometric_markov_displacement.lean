@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_exists_rooted_word_radius_geometric_markov_displacement
 -- name    : SoficGroups.KunRootedWordPower.exists_rooted_word_radius_geometric_markov_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/a514f5de-56ea-4602-92ba-f0fefb80dcd3

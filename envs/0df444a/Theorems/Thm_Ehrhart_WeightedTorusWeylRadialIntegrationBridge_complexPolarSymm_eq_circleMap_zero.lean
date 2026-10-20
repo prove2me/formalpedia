@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_complexPolarSymm_eq_circleMap_zero
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.complexPolarSymm_eq_circleMap_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/d90b8df7-5984-4dab-b35e-66728f8b620b

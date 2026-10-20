@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_scaled_log_factorial_identity
 -- name    : SpherePacking.scaled_log_factorial_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/d1f8803d-1296-402a-9670-71aa74719837

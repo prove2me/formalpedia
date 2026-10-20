@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_majoranaFourier_symm
 -- name    : BookProof.majoranaFourier_symm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:09:25.963498+00:00
 -- url     : https://prove2.me/theorems/9d64f188-6227-496f-96bd-6c60fbd4b8a6

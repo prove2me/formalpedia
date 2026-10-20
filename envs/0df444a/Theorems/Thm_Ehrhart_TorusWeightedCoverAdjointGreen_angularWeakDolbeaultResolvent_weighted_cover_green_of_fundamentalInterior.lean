@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedCoverAdjointGreen_angularWeakDolbeaultResolvent_weighted_cover_green_of_fundamentalInterior
 -- name    : Ehrhart.TorusWeightedCoverAdjointGreen.angularWeakDolbeaultResolvent_weighted_cover_green_of_fundamentalInterior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/f634ff35-580d-49b8-a133-a14dee943d1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockRootSubgroup_map_flatten
 -- name    : SoficGroups.finiteOuterBlockRootSubgroup_map_flatten
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/a96073a2-6c83-415b-9cee-7e2f778bf4e8

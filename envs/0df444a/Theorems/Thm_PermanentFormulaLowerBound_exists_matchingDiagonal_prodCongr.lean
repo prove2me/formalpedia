@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_exists_matchingDiagonal_prodCongr
 -- name    : PermanentFormulaLowerBound.exists_matchingDiagonal_prodCongr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/556d53a1-4ba0-4e14-a709-766485facf53

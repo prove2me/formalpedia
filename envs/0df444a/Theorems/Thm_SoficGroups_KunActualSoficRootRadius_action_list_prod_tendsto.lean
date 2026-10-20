@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_action_list_prod_tendsto
 -- name    : SoficGroups.KunActualSoficRootRadius.action_list_prod_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/c510aed8-bf4c-4699-97f8-8a7b9f76d6b4

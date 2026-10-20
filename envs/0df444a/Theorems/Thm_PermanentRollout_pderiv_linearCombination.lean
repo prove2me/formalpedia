@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_pderiv_linearCombination
 -- name    : PermanentRollout.pderiv_linearCombination
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/29d250d7-280d-4d39-a8f2-44cd49c24b18

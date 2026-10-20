@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhaseProduct_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhaseProduct_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/5c40561d-2a7e-4bd4-8920-e17cc83420dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleMellinData_negativeContour_norm_le
 -- name    : CohnElkies.plusSaddleMellinData_negativeContour_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/1fc9ad8d-abd9-44d7-897d-eaa4ee254501

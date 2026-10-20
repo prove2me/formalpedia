@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingSourceChannelCoefficient_sqrt_insertion
 -- name    : MetricCodes.Boolean.hammingSourceChannelCoefficient_sqrt_insertion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/6be56d11-97fe-4f47-87c6-9a1d0361421c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_exists_positive_feasible_of_zero
 -- name    : MetricCodes.Hamming.exists_positive_feasible_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/a597d5ab-84a5-47cc-a31c-4cd4cfaa38f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunAdditiveMedianPoincare_additive_permutation_median_absolute_deviation
 -- name    : SoficGroups.KunAdditiveMedianPoincare.additive_permutation_median_absolute_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/220b0b5d-8c96-4cad-97e5-da0666e104cf

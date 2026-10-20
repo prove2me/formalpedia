@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_weightedRealDerivative_integration_by_parts_compact_right
 -- name    : Ehrhart.MatrixTorusBochnerBridge.weightedRealDerivative_integration_by_parts_compact_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/a789c780-1b55-4446-b939-d6d9ce643e11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticAutomorphism_incidence_iff
 -- name    : CompactnessConjecture.symplecticAutomorphism_incidence_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/f170a0bb-49d0-44d6-bfac-8f3e403ba5ec

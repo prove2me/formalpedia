@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_differentiable_coordinateHolomorphicSlice
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.differentiable_coordinateHolomorphicSlice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/a71d1a0c-a004-42f8-ac33-c9a1cae7f997

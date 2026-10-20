@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSharpThresholdCut_setIntegral_crossingIndicator_le_abs
 -- name    : SoficGroups.KunSharpThresholdCut.setIntegral_crossingIndicator_le_abs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/6bfd076f-131b-4d13-b429-66b13f4e0343

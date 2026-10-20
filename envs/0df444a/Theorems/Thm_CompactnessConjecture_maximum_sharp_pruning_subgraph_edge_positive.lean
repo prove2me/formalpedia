@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_maximum_sharp_pruning_subgraph_edge_positive
 -- name    : CompactnessConjecture.maximum_sharp_pruning_subgraph_edge_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/d74c5ce8-5782-49cf-bace-a076d337682d

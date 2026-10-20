@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_levelRate_minimizing_sequence
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_levelRate_minimizing_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/1a2c71a9-964c-4b4f-a113-10489399b358

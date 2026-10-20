@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_mul_gateAdjoints_eval
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.mul_gateAdjoints_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/bce5aa2d-f83c-49d9-96aa-f21a3f59c08f

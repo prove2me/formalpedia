@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousCutoffAdjoint_angularMollifiedPhysicalAdjointDriftCommutator_compact_weighted_L2_tendsto_zero
 -- name    : Ehrhart.TorusHomogeneousCutoffAdjoint.angularMollifiedPhysicalAdjointDriftCommutator_compact_weighted_L2_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/b7e58f65-4ffe-4dba-b3e5-1cabd22712a7

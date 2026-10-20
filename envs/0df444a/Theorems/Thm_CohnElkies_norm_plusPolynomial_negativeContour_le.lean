@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_plusPolynomial_negativeContour_le
 -- name    : CohnElkies.norm_plusPolynomial_negativeContour_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/25384aab-14c6-4011-932d-928eb0af5e82

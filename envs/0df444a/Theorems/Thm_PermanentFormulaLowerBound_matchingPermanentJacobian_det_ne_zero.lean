@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermanentJacobian_det_ne_zero
 -- name    : PermanentFormulaLowerBound.matchingPermanentJacobian_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/dd2a6fd2-b3b8-41ed-90e4-a2f6e7b2939f

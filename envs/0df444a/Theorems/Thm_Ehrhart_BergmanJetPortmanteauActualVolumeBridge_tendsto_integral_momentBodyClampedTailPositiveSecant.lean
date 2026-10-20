@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_tendsto_integral_momentBodyClampedTailPositiveSecant
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.tendsto_integral_momentBodyClampedTailPositiveSecant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/a9e0b5c9-d6be-435e-b7e3-1a24240d2f4d

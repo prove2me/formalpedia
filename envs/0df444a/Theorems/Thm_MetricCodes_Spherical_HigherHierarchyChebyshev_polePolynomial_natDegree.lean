@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_polePolynomial_natDegree
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.polePolynomial_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/da3d823a-2d05-4431-a920-57b71e8d5cd2

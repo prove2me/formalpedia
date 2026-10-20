@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseWrongBranchCompression_gtFullTransverseEmbedding_normalizedNegativeRelativeCasimir_eq_zero_of_wrong_branch
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWrongBranchCompression.gtFullTransverseEmbedding_normalizedNegativeRelativeCasimir_eq_zero_of_wrong_branch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/500b53ab-c1be-4faf-bc8e-f43fe054a6aa

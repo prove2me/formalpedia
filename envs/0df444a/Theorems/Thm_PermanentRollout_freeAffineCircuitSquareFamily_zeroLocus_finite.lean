@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuitSquareFamily_zeroLocus_finite
 -- name    : PermanentRollout.freeAffineCircuitSquareFamily_zeroLocus_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/56d82d1b-3fcf-4dc5-9848-9c02f8bf8701

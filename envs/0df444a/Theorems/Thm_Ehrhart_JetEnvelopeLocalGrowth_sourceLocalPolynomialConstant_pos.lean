@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceLocalPolynomialConstant_pos
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceLocalPolynomialConstant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/a7d50a8a-49bd-414e-9dc2-ac890265430b

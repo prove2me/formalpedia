@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Katyusha_NonSC_theorem_4_1
 -- name    : Katyusha.NonSC.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:58:33.950958+00:00
 -- url     : https://prove2.me/theorems/b034dfdf-ffc1-4118-a532-4b709c7fb35c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_fullQuotientSet_eq_radial
 -- name    : PackingBounds.fullQuotientSet_eq_radial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/9d61a276-ec2b-4e4c-9d6b-f1157b72c100

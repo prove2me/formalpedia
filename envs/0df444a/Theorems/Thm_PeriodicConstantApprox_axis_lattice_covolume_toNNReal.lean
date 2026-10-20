@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_axis_lattice_covolume_toNNReal
 -- name    : PeriodicConstantApprox.axis_lattice_covolume_toNNReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/47e19254-8e3d-4650-92e6-bb84271a1a8f

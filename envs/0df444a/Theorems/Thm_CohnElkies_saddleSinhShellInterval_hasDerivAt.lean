@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSinhShellInterval_hasDerivAt
 -- name    : CohnElkies.saddleSinhShellInterval_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/aac2942b-c907-442f-9b11-aa5ce4d330d0

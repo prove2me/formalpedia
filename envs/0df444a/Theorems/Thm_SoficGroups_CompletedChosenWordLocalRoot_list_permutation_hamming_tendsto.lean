@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedChosenWordLocalRoot_list_permutation_hamming_tendsto
 -- name    : SoficGroups.CompletedChosenWordLocalRoot.list_permutation_hamming_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/1dc4153c-7b9c-4a81-9247-8d5beb89b7ba

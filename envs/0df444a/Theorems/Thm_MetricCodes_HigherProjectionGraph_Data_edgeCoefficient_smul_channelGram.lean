@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_edgeCoefficient_smul_channelGram
 -- name    : MetricCodes.HigherProjectionGraph.Data.edgeCoefficient_smul_channelGram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/5fdf4b22-f1e3-4526-8bf0-5fb70ef322f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPublicBucketPhysicalCoherentTarget_apply
 -- name    : QuantumParallelRepetition.unconditionalPublicBucketPhysicalCoherentTarget_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/267229bb-39ad-44bf-8046-c057dd0607a8

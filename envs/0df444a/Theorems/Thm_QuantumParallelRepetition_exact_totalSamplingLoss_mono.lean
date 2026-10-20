@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exact_totalSamplingLoss_mono
 -- name    : QuantumParallelRepetition.exact_totalSamplingLoss_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/bcafe0ab-2eea-4587-b6dc-3cc78f5f79c4

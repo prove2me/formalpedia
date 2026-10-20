@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_totalDegree_succ_le_of_mem_pderiv_support
 -- name    : PermanentFormulaLowerBound.totalDegree_succ_le_of_mem_pderiv_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/9f706caa-e5bf-42f1-a37d-17faba2cbd0c

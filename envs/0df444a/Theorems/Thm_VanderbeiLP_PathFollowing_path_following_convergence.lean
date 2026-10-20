@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_PathFollowing_path_following_convergence
 -- name    : VanderbeiLP.PathFollowing.path_following_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T20:11:06.192847+00:00
 -- url     : https://prove2.me/theorems/220d8944-f802-44d2-966d-fe70c0b837f8

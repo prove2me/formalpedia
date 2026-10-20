@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMixedConjugateCanonicalAcceptedTarget_sum
 -- name    : QuantumParallelRepetition.unconditionalMixedConjugateCanonicalAcceptedTarget_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/8ad3fd1f-142a-4978-967c-981af12c3976

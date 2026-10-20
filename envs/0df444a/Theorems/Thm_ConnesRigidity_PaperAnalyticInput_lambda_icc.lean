@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_lambda_icc
 -- name    : ConnesRigidity.PaperAnalyticInput.lambda_icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/0eba2b63-660d-402e-b66f-07d56d368bf5

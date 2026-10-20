@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFixedSourceFullBilateralRegroup_eq
 -- name    : QuantumParallelRepetition.unconditionalActualFixedSourceFullBilateralRegroup_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/deb365ac-2d8a-4f1e-b9ef-ccbc66892eef

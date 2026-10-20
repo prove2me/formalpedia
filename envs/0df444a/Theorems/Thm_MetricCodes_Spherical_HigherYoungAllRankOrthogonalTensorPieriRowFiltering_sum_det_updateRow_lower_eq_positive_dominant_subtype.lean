@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalTensorPieriRowFiltering_sum_det_updateRow_lower_eq_positive_dominant_subtype
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriRowFiltering.sum_det_updateRow_lower_eq_positive_dominant_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/b1ccdc3f-ba41-4c04-86d7-666f7fb89b2d

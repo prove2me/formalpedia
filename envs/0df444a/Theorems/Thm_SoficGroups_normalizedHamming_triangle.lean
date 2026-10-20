@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_normalizedHamming_triangle
 -- name    : SoficGroups.normalizedHamming_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/7d71dab5-b848-40fc-97b0-e910e713714a

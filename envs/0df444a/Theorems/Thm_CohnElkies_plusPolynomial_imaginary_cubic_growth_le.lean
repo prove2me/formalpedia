@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusPolynomial_imaginary_cubic_growth_le
 -- name    : CohnElkies.plusPolynomial_imaginary_cubic_growth_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/332267dc-1932-4ed8-9d53-a3fec5ce582f

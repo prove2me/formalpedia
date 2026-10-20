@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTriangularLatticeConvergence_tendsto_unitPartition_tag_index
 -- name    : Ehrhart.BergmanJetTriangularLatticeConvergence.tendsto_unitPartition_tag_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/b4e3d51f-af04-4db5-8886-e415c1f703bc

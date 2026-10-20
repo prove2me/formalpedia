@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Esgk_distinct_distances_deficiency_quintic_nat_bound
 -- name    : Esgk.distinct_distances_deficiency_quintic_nat_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-09-14T02:15:30.13066+00:00
 -- url     : https://prove2.me/theorems/3c1999fc-e339-4c5d-b20b-cedc4f040734

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_reference_lattice_poisson_formula
 -- name    : SchwartzMap.PoissonSummation.Standard.reference_lattice_poisson_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/a37af0bd-7946-4ed8-880a-718437324f12

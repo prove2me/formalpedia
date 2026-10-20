@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Esgk.distinct_distances_deficiency_quintic_nat_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @mysticflounder
 -- created : 2026-09-14T02:18:30.441412+00:00
 -- url     : https://prove2.me/submissions/d7717b2d-425c-4623-aca2-24a5c700a63b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

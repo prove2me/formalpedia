@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_integrable_angularSourceAngularDerivativeLift
 -- name    : Ehrhart.WeightedTorusBochner.integrable_angularSourceAngularDerivativeLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/9b693eaf-ff22-4946-b5c0-8d111d19f953

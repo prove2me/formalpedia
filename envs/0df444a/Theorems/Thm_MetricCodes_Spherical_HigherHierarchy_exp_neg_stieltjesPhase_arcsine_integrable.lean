@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exp_neg_stieltjesPhase_arcsine_integrable
 -- name    : MetricCodes.Spherical.HigherHierarchy.exp_neg_stieltjesPhase_arcsine_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/d9f86fe3-8d89-4a0c-8f42-d9c6879f7e02

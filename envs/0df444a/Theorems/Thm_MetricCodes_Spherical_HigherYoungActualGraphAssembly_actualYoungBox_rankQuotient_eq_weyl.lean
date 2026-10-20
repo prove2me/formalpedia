@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungActualGraphAssembly_actualYoungBox_rankQuotient_eq_weyl
 -- name    : MetricCodes.Spherical.HigherYoungActualGraphAssembly.actualYoungBox_rankQuotient_eq_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/1a1a97e2-9829-4490-a1be-c4eaaaffaa7a

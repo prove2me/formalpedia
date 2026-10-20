@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylWeakRepresentativeBridge_complexReal_compactKernel_convolution_assoc
 -- name    : Ehrhart.WeightedTorusWeylWeakRepresentativeBridge.complexReal_compactKernel_convolution_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/b4b0eb41-d5af-412c-a1e6-3949dd6bbf51

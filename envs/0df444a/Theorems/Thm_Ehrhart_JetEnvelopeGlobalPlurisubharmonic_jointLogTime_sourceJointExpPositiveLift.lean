@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeGlobalPlurisubharmonic_jointLogTime_sourceJointExpPositiveLift
 -- name    : Ehrhart.JetEnvelopeGlobalPlurisubharmonic.jointLogTime_sourceJointExpPositiveLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/1db89313-0723-47ec-a7de-9ce8a0c639e7

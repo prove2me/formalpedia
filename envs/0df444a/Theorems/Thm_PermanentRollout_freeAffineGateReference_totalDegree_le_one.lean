@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineGateReference_totalDegree_le_one
 -- name    : PermanentRollout.freeAffineGateReference_totalDegree_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/f549dd9f-9ffb-4e5f-8b5d-168cace0f711

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_axis_shell_volume_power_formula
 -- name    : PeriodicConstantApprox.axis_shell_volume_power_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/7fb8fbc7-a975-4da6-892b-4b96971fec28

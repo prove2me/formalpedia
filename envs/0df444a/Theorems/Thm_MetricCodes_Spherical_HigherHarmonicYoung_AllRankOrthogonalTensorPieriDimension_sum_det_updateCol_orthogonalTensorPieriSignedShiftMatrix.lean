@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankOrthogonalTensorPieriDimension_sum_det_updateCol_orthogonalTensorPieriSignedShiftMatrix
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalTensorPieriDimension.sum_det_updateCol_orthogonalTensorPieriSignedShiftMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/fd13b866-7994-4855-8f07-c1e03d43cc7a

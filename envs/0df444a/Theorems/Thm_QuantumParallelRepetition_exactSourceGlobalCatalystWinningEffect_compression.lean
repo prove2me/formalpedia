@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceGlobalCatalystWinningEffect_compression
 -- name    : QuantumParallelRepetition.exactSourceGlobalCatalystWinningEffect_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/4af4136d-3417-4886-82cd-41c5a5c26667

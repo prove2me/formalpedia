@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperFirstBranch_saddleSourceGaussianVariance_scaled_lower_bound
 -- name    : CohnElkies.upperFirstBranch_saddleSourceGaussianVariance_scaled_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/5cf20834-68b3-49cb-980e-b5b7b22ed258

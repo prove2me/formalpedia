@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMatchedVerifierEffect_tensor_complement
 -- name    : QuantumParallelRepetition.unconditionalMatchedVerifierEffect_tensor_complement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/b2de4b90-a7e0-49ea-821b-6e8c9f850345

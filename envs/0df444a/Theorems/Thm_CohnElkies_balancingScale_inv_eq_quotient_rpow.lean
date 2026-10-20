@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_balancingScale_inv_eq_quotient_rpow
 -- name    : CohnElkies.balancingScale_inv_eq_quotient_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/44e6509f-9234-443b-b606-407a7d0d700e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairCoordinateKernel_empiricalChildMarginal
 -- name    : TwoDegenerateGraphs.pairCoordinateKernel_empiricalChildMarginal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/e6bceb76-655c-4e9e-a23f-7965803c3d54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularResolventDefect_sourceFreeAngularConstantL2_ae_eq
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularResolventDefect.sourceFreeAngularConstantL2_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/e6d2235d-7cb7-4f7b-a902-4bf795de6173

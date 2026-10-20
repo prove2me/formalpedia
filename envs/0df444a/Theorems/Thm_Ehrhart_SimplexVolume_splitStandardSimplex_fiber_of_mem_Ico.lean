@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_splitStandardSimplex_fiber_of_mem_Ico
 -- name    : Ehrhart.SimplexVolume.splitStandardSimplex_fiber_of_mem_Ico
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/4761b822-63ae-4ce9-af61-d60a0a85452b

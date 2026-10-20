@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxDivergence_logPartition_tangent_le
 -- name    : BookProof.ChapterSoftmaxDivergence.logPartition_tangent_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:09:58.236714+00:00
 -- url     : https://prove2.me/theorems/8fe130d1-985e-4864-9138-60a353c22bd7

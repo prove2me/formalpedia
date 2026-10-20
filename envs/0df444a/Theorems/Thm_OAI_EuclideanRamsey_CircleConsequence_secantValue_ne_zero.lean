@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_CircleConsequence_secantValue_ne_zero
 -- name    : OAI.EuclideanRamsey.CircleConsequence.secantValue_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:26:17.156324+00:00
 -- url     : https://prove2.me/theorems/0fde52c8-6371-4106-9fc9-7dedbcad76b2

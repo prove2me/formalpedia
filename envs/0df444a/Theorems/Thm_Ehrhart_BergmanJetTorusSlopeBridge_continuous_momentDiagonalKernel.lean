@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeBridge_continuous_momentDiagonalKernel
 -- name    : Ehrhart.BergmanJetTorusSlopeBridge.continuous_momentDiagonalKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/9cf89f29-7fa4-4fe7-a689-72562cd1c231

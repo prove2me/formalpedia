@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_multiplierOp_essentiallySelfAdjoint
 -- name    : BookProof.StrichartzWave.multiplierOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:52:54.640824+00:00
 -- url     : https://prove2.me/theorems/e979e640-8a72-4ee5-b2a1-c9c097c61664

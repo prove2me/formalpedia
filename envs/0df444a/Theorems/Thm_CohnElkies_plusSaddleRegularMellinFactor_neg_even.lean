@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleRegularMellinFactor_neg_even
 -- name    : CohnElkies.plusSaddleRegularMellinFactor_neg_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/976f560e-a9e9-406e-8d6d-84a789101918

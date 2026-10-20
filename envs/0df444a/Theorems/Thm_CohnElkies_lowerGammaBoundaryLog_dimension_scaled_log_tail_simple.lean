@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_dimension_scaled_log_tail_simple
 -- name    : CohnElkies.lowerGammaBoundaryLog_dimension_scaled_log_tail_simple
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/baa80257-856f-4460-87d2-41e364486e90

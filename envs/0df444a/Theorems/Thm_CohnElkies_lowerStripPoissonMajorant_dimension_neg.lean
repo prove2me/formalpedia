@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripPoissonMajorant_dimension_neg
 -- name    : CohnElkies.lowerStripPoissonMajorant_dimension_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/d8276aaf-f43c-4685-bd3c-452c82134f06

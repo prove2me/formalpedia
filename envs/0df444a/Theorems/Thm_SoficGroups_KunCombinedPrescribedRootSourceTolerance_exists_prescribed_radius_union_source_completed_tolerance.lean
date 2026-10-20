@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCombinedPrescribedRootSourceTolerance_exists_prescribed_radius_union_source_completed_tolerance
 -- name    : SoficGroups.KunCombinedPrescribedRootSourceTolerance.exists_prescribed_radius_union_source_completed_tolerance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/f8f27bcf-03b6-42fc-8005-536d2b28a941

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_periodic_packing_supremum_eq_unrestricted
 -- name    : periodic_packing_supremum_eq_unrestricted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/f56987e0-fa09-4273-a3e5-b2b6089eb167

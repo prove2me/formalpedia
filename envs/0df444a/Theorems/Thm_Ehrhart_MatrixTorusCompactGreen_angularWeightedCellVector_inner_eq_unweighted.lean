@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusCompactGreen_angularWeightedCellVector_inner_eq_unweighted
 -- name    : Ehrhart.MatrixTorusCompactGreen.angularWeightedCellVector_inner_eq_unweighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/23de41d8-b347-47de-bf2d-6fdb60ee9b52

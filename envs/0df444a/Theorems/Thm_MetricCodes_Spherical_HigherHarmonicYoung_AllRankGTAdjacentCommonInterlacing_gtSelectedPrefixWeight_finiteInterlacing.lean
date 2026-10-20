@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAdjacentCommonInterlacing_gtSelectedPrefixWeight_finiteInterlacing
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAdjacentCommonInterlacing.gtSelectedPrefixWeight_finiteInterlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/d02affc5-f198-4b71-bef4-91a56e2a1fa0

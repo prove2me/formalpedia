@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_fin_last_mem_span_of_weaklyRegular_aux
 -- name    : PermanentRollout.homogeneousMap_allRank_fin_last_mem_span_of_weaklyRegular_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/750ebb27-d800-4b97-b6d9-f52e05061673

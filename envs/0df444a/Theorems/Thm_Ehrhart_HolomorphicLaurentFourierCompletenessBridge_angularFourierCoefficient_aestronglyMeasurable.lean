@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_angularFourierCoefficient_aestronglyMeasurable
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.angularFourierCoefficient_aestronglyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/aa446d54-d3b1-46e9-8f35-1d9fe6c7c66b

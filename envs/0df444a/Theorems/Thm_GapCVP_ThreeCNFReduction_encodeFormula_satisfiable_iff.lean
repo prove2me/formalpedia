@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_encodeFormula_satisfiable_iff
 -- name    : GapCVP.ThreeCNFReduction.encodeFormula_satisfiable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/bf9154ef-9360-4360-8dfc-b21975906b0c

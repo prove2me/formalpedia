@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularResolventDefect_angularWeakResolventFixedSpace_le_sourceFreeConstants
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularResolventDefect.angularWeakResolventFixedSpace_le_sourceFreeConstants
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/e16ba757-e992-474e-958c-cbc1feac6625

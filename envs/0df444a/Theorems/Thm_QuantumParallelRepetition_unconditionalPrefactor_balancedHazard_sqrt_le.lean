@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPrefactor_balancedHazard_sqrt_le
 -- name    : QuantumParallelRepetition.unconditionalPrefactor_balancedHazard_sqrt_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/db343d51-d2dc-4a6d-97c2-833891f49c95

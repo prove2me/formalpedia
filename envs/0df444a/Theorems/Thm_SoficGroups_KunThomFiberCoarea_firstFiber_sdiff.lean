@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_firstFiber_sdiff
 -- name    : SoficGroups.KunThomFiberCoarea.firstFiber_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/693c8903-e367-4e57-9300-fff4f348568a

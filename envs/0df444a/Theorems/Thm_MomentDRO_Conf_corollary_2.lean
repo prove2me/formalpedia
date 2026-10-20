@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentDRO_Conf_corollary_2
 -- name    : MomentDRO.Conf.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:06:23.316344+00:00
 -- url     : https://prove2.me/theorems/ce822c27-2c55-423d-8631-7c2f246458b9

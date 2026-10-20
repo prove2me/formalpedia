@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuitInstructionEquation_totalDegree_le
 -- name    : PermanentRollout.freeAffineCircuitInstructionEquation_totalDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/7e97b69b-64f2-4972-8677-e0744edbc7b5

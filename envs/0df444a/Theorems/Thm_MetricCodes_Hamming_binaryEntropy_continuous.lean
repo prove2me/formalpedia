@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryEntropy_continuous
 -- name    : MetricCodes.Hamming.binaryEntropy_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/d9980c37-a5f5-45f8-a9ae-5f18ee8728b8

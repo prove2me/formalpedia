@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LeastSquaresTD.Ergodic.lstd_converges_ergodic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T13:28:11.306031+00:00
 -- url     : https://prove2.me/submissions/8c7bf4e8-ba78-4f8c-b0be-8d4ee99406b0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeastSquaresTD_Ergodic_Chain

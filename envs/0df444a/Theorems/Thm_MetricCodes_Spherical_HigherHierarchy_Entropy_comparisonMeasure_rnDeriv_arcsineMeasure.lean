@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparisonMeasure_rnDeriv_arcsineMeasure
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparisonMeasure_rnDeriv_arcsineMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/aae91c29-758e-4708-bccb-221e97bc04cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_eventually_codeNumber_le_spectralPrefactor_mul_windowFibreQuotient
 -- name    : MetricCodes.Hamming.eventually_codeNumber_le_spectralPrefactor_mul_windowFibreQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/fd044698-78b7-4d0e-a515-0d316f89f9eb

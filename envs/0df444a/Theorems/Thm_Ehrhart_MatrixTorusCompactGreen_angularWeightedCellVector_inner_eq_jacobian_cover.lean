@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusCompactGreen_angularWeightedCellVector_inner_eq_jacobian_cover
 -- name    : Ehrhart.MatrixTorusCompactGreen.angularWeightedCellVector_inner_eq_jacobian_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/8dca1e23-97c4-42fa-a7e7-e0ebe0b729f1

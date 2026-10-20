@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partition_selected_blocks_card_lt
 -- name    : PermanentRollout.partition_selected_blocks_card_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/73b73963-9245-4890-bd86-4ba2339cca8e

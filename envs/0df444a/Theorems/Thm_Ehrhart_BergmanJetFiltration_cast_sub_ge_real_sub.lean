@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetFiltration_cast_sub_ge_real_sub
 -- name    : Ehrhart.BergmanJetFiltration.cast_sub_ge_real_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/ff4eb7df-6d59-4833-a77d-4d6e92d6c8fc

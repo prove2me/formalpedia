@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_conditionalEntropy_logsum_reduction
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.conditionalEntropy_logsum_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/c5461101-5d48-44cd-9137-1706f1c001a6

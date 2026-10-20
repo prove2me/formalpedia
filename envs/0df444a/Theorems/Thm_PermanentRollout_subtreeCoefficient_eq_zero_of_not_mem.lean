@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtreeCoefficient_eq_zero_of_not_mem
 -- name    : PermanentRollout.subtreeCoefficient_eq_zero_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/e6900aee-db85-4285-849b-4e06e786eb53

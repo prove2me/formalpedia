@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_fockH_essentiallySelfAdjointOn
 -- name    : BookProof.DirectSumEsa.fockH_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:00:48.789519+00:00
 -- url     : https://prove2.me/theorems/bafa25d1-c5c2-43cc-a495-7ad06b858937

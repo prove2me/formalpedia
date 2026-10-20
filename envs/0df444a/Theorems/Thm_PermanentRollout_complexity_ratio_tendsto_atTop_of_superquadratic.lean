@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_complexity_ratio_tendsto_atTop_of_superquadratic
 -- name    : PermanentRollout.complexity_ratio_tendsto_atTop_of_superquadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/515282f9-90e0-4424-a483-9ead037cb0e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualCompressedSourceGroupFoundations_alphaZeroPrefixElementaryGroup_infinite
 -- name    : SoficGroups.KunActualCompressedSourceGroupFoundations.alphaZeroPrefixElementaryGroup_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/8608a559-feb1-45fe-84ba-5ad6b92de89f

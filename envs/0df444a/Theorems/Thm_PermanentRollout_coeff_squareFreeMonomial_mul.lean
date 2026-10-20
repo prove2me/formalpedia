@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_coeff_squareFreeMonomial_mul
 -- name    : PermanentRollout.coeff_squareFreeMonomial_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/1ddee8be-74d2-4caa-b3c1-a67f13c18938

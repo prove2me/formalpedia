@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockGaloisConjugateRootsWithCoefficient_commute
 -- name    : SoficGroups.finiteOuterBlockGaloisConjugateRootsWithCoefficient_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/841b7720-e2cb-4408-b8c8-3e13d3b6a473

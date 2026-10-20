@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_real_contains_vertex
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_real_contains_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/bd8951a3-e973-4c3a-879d-66e84e761e68

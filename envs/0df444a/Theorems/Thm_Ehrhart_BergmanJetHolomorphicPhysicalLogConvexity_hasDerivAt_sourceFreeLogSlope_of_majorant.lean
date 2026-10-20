@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_hasDerivAt_sourceFreeLogSlope_of_majorant
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.hasDerivAt_sourceFreeLogSlope_of_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/98f5dbee-673d-4e10-b61e-696f8e6dda23

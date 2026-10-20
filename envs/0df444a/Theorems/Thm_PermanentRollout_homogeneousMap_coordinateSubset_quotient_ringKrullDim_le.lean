@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_coordinateSubset_quotient_ringKrullDim_le
 -- name    : PermanentRollout.homogeneousMap_coordinateSubset_quotient_ringKrullDim_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/afc14940-4cd6-490c-a804-c9c31e5278fa

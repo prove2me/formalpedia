@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_leavittWordS_split
 -- name    : SoficGroups.SourceGeneration.leavittWordS_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/b2b3ba8b-e853-47a3-8f9b-b23e71e7707a

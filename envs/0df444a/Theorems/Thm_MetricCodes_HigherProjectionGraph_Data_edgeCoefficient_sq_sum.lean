@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_edgeCoefficient_sq_sum
 -- name    : MetricCodes.HigherProjectionGraph.Data.edgeCoefficient_sq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/de234428-107b-4709-ab1d-0477d78970c3

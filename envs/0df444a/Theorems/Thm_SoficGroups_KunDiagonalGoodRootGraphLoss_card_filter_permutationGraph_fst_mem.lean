@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunDiagonalGoodRootGraphLoss_card_filter_permutationGraph_fst_mem
 -- name    : SoficGroups.KunDiagonalGoodRootGraphLoss.card_filter_permutationGraph_fst_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/00955bbc-e9dc-436b-8b75-b71485d8224c

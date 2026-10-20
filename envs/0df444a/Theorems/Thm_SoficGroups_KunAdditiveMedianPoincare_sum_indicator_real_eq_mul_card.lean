@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunAdditiveMedianPoincare_sum_indicator_real_eq_mul_card
 -- name    : SoficGroups.KunAdditiveMedianPoincare.sum_indicator_real_eq_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/b31f04c6-a4d5-44fa-93fd-5b3660a0eae1

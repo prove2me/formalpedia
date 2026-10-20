@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrwRate_le_classicalRate
 -- name    : MetricCodes.Johnson.mrrwRate_le_classicalRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/b9137acc-6b0c-46ce-a4b2-d818045d4faa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_terminalVector_rayleigh
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.terminalVector_rayleigh
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/4442a407-e45f-4f59-8659-f7ad61c0c464

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_angularSourceFreeScalarCutoffGradient_L2_tendsto_zero
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.angularSourceFreeScalarCutoffGradient_L2_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/0665950d-56a7-4227-a130-99f9040f3e32

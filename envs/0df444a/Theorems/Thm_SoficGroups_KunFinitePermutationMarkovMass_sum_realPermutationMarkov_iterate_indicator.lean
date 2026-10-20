@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunFinitePermutationMarkovMass_sum_realPermutationMarkov_iterate_indicator
 -- name    : SoficGroups.KunFinitePermutationMarkovMass.sum_realPermutationMarkov_iterate_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/6990e694-5a42-45d9-8d28-edc7d469fd7a

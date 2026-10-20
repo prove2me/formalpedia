@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_card_hammingSphere
 -- name    : MetricCodes.card_hammingSphere
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/1e5865f8-6c4e-4838-b7af-fff1a58c9f64

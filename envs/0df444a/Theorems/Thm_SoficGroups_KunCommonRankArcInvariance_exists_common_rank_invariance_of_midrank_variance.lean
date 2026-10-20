@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCommonRankArcInvariance_exists_common_rank_invariance_of_midrank_variance
 -- name    : SoficGroups.KunCommonRankArcInvariance.exists_common_rank_invariance_of_midrank_variance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/8d822f34-f4fa-4b1d-8961-1bcc1d390ec0

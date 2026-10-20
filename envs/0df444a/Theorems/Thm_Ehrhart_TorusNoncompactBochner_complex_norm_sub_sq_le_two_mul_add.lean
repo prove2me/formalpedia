@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusNoncompactBochner_complex_norm_sub_sq_le_two_mul_add
 -- name    : Ehrhart.TorusNoncompactBochner.complex_norm_sub_sq_le_two_mul_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/6aa93aa8-0867-4bdd-9858-14a6cee08532

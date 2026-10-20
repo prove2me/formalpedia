@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_opening_terminalWeight
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_opening_terminalWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/67c35024-0157-4eda-a7e8-8e74bfd1d8ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_rees_free_of_finite
 -- name    : PermanentRollout.homogeneousMap_allTarget_rees_free_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/107185c9-2267-4070-92df-a42f3fb60c30

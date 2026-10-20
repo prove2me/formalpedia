@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_criticalBinaryExponent_gt_d33
 -- name    : CohnElkies.criticalBinaryExponent_gt_d33
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/f3f34431-02c1-4170-82eb-3bda74c4b1bc

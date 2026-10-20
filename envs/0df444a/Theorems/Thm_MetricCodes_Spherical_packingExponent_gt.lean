@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_packingExponent_gt
 -- name    : MetricCodes.Spherical.packingExponent_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/87e43d3d-ad43-4018-ba27-f9dca5833479

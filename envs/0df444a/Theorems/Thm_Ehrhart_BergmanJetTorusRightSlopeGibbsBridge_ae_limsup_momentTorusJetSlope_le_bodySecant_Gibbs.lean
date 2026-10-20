@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeGibbsBridge_ae_limsup_momentTorusJetSlope_le_bodySecant_Gibbs
 -- name    : Ehrhart.BergmanJetTorusRightSlopeGibbsBridge.ae_limsup_momentTorusJetSlope_le_bodySecant_Gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/7a034947-dcc7-47ad-a23a-6c85461eced3

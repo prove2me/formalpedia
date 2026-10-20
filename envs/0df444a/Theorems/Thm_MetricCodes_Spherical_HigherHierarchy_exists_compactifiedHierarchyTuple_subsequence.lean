@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_compactifiedHierarchyTuple_subsequence
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_compactifiedHierarchyTuple_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/07975d05-196e-4fce-8d86-a062a5776f06

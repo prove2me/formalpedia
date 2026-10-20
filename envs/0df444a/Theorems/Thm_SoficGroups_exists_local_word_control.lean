@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_local_word_control
 -- name    : SoficGroups.exists_local_word_control
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/7018b5da-d1b9-4f13-bb01-067badb5d288

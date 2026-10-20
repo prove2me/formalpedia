@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBasis_momentJetFiltration_finrank_ge
 -- name    : Ehrhart.BergmanJetBasis.momentJetFiltration_finrank_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/aac0ee54-9ba1-4fad-b3fe-4c5f554923b6

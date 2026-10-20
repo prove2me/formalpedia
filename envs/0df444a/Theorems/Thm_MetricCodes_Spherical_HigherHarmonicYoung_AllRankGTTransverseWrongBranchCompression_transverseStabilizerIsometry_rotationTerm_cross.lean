@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseWrongBranchCompression_transverseStabilizerIsometry_rotationTerm_cross
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWrongBranchCompression.transverseStabilizerIsometry_rotationTerm_cross
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/7bb2486d-fce4-49db-a0cf-69ec8cb3317e

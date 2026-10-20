@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_CohnElkies_center_double_sum_eq_region_lattice_sum
 -- name    : SpherePacking.CohnElkies.center_double_sum_eq_region_lattice_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/c77cf86f-223a-434c-ae67-cffc90e62abf

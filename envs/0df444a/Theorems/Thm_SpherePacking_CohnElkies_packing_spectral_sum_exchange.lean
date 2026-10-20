@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_CohnElkies_packing_spectral_sum_exchange
 -- name    : SpherePacking.CohnElkies.packing_spectral_sum_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/bd7e29dc-6f4e-41ff-a744-486c5ce19877

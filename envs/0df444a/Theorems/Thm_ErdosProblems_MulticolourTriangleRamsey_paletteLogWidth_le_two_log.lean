@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteLogWidth_le_two_log
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteLogWidth_le_two_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/9d323ccd-69c3-4e48-9e31-4ea2359e8d98

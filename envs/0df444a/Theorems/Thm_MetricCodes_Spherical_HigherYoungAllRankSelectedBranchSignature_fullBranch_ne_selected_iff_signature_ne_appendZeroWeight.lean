@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankSelectedBranchSignature_fullBranch_ne_selected_iff_signature_ne_appendZeroWeight
 -- name    : MetricCodes.Spherical.HigherYoungAllRankSelectedBranchSignature.fullBranch_ne_selected_iff_signature_ne_appendZeroWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/8c17b13b-b0b5-442e-bb01-f9105a4ce6fa

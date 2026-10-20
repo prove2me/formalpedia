@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousLinearSliceIdeal_coefficient_span_le_minimalPrime
 -- name    : PermanentRollout.homogeneousLinearSliceIdeal_coefficient_span_le_minimalPrime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/a23d6828-6fd0-4d4f-95a3-56beeee6a7bb

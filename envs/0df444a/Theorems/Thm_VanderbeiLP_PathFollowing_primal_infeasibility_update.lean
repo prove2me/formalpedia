@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_PathFollowing_primal_infeasibility_update
 -- name    : VanderbeiLP.PathFollowing.primal_infeasibility_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:49:16.320992+00:00
 -- url     : https://prove2.me/theorems/eb83b04a-ada7-4752-a6fb-5cf6f34e4fa8

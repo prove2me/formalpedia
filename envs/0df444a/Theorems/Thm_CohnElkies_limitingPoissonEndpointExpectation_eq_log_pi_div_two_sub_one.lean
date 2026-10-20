@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_limitingPoissonEndpointExpectation_eq_log_pi_div_two_sub_one
 -- name    : CohnElkies.limitingPoissonEndpointExpectation_eq_log_pi_div_two_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/41909a11-9acd-4cb1-8b41-6702ee14d7cb

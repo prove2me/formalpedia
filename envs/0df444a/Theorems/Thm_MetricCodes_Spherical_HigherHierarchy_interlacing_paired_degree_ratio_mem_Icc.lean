@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_interlacing_paired_degree_ratio_mem_Icc
 -- name    : MetricCodes.Spherical.HigherHierarchy.interlacing_paired_degree_ratio_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/f21efe44-6fa1-4106-84bc-23fcb32b9b0e

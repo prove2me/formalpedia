@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneous_fin_one_eq_C_mul_X_pow
 -- name    : PermanentRollout.homogeneous_fin_one_eq_C_mul_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/508b3f1b-b31a-4d70-816d-9c0f3fdcb1a2

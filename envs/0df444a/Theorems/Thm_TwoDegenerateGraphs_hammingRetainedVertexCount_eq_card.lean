@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedVertexCount_eq_card
 -- name    : TwoDegenerateGraphs.hammingRetainedVertexCount_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/31857266-8ae9-4ca2-a342-140595be27c2

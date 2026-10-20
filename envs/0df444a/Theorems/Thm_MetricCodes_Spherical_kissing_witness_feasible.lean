@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_kissing_witness_feasible
 -- name    : MetricCodes.Spherical.kissing_witness_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/71c31733-4cbc-4ce4-ada7-0d4b1deecdb1

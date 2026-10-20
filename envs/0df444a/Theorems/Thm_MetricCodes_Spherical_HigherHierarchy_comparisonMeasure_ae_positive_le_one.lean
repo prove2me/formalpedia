@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_comparisonMeasure_ae_positive_le_one
 -- name    : MetricCodes.Spherical.HigherHierarchy.comparisonMeasure_ae_positive_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/24fc61a1-1161-4727-a3f6-00f2a79e01e9

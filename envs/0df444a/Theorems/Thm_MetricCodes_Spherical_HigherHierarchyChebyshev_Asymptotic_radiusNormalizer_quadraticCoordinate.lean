@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_radiusNormalizer_quadraticCoordinate
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.radiusNormalizer_quadraticCoordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/f4090d85-96e9-47e5-aef8-bb51b38e3b39

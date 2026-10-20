@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_correctedSignature_atTop
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_correctedSignature_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/5148174f-f223-4990-8256-cb598c3bb526

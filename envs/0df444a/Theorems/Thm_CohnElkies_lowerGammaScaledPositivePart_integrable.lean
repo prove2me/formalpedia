@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledPositivePart_integrable
 -- name    : CohnElkies.lowerGammaScaledPositivePart_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/680e407c-2af6-42d3-8d9b-aace4ea44a3e

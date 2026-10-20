@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRankInterlacingAdjacentPathExchange_iteratedArbitraryRowAxialRaise_move_last_of_rowDiamond
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingAdjacentPathExchange.iteratedArbitraryRowAxialRaise_move_last_of_rowDiamond
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:58.135956+00:00
 -- url     : https://prove2.me/theorems/cb59f27a-f405-4ea1-a905-35482a13caac

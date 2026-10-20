@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_normalizedMellinStrip_shifted_fourier_inversion
 -- name    : CohnElkies.antiFourierWitness_normalizedMellinStrip_shifted_fourier_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/e0516fcc-b6b8-4360-821a-47584b8ab717

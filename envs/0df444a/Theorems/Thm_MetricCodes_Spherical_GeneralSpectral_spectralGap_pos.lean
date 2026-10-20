@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_spectralGap_pos
 -- name    : MetricCodes.Spherical.GeneralSpectral.spectralGap_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/b96e6df2-b731-4cf1-b232-69f856ed09d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_EnvelopeSpatialPeriodicity_jointLogTime_sourceJointSpatialDeckHomeomorph
 -- name    : Ehrhart.EnvelopeSpatialPeriodicity.jointLogTime_sourceJointSpatialDeckHomeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/331ed2e6-d2e5-488e-afe6-41cc640eb7d3

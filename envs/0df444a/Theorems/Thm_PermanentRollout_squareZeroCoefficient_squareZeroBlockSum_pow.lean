@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareZeroCoefficient_squareZeroBlockSum_pow
 -- name    : PermanentRollout.squareZeroCoefficient_squareZeroBlockSum_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/a1a597af-fa78-4b4d-a9a6-dc270512905d

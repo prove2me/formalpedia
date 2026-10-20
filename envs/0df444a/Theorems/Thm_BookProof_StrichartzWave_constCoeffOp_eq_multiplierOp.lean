@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_constCoeffOp_eq_multiplierOp
 -- name    : BookProof.StrichartzWave.constCoeffOp_eq_multiplierOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:52:52.592762+00:00
 -- url     : https://prove2.me/theorems/6079fdcb-8f69-4b73-a18d-897394bba4bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_strict_hierarchy_refinement_of_closed
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_strict_hierarchy_refinement_of_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/aa425756-e6b2-42d2-99e3-a00857667fc7

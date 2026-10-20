@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeBlock_slicedGradient_homogeneousFiberDegree_le_two_pow
 -- name    : PermanentRollout.sourceTreeBlock_slicedGradient_homogeneousFiberDegree_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/b57bdd78-6e38-4147-9053-8f173631b758

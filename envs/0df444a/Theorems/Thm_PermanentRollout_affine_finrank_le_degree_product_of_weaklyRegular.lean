@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_finrank_le_degree_product_of_weaklyRegular
 -- name    : PermanentRollout.affine_finrank_le_degree_product_of_weaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/3f356587-d5c7-4184-a960-a2751628f025

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_realChoiReduction
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.realChoiReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:47:34.184503+00:00
 -- url     : https://prove2.me/theorems/f725f3e0-60bd-4171-8489-79f5284f06f7

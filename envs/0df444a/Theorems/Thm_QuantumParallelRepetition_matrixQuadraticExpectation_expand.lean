@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_matrixQuadraticExpectation_expand
 -- name    : QuantumParallelRepetition.matrixQuadraticExpectation_expand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/528f0621-2d4e-4a41-b048-9bcdd45e469d

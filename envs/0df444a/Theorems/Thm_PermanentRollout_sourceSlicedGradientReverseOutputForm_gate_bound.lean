@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceSlicedGradientReverseOutputForm_gate_bound
 -- name    : PermanentRollout.sourceSlicedGradientReverseOutputForm_gate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/7cb4578e-ba5a-4e19-983f-54521b9e3f94

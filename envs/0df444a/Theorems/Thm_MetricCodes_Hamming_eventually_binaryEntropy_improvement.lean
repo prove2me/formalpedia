@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_eventually_binaryEntropy_improvement
 -- name    : MetricCodes.Hamming.eventually_binaryEntropy_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/37593cdb-6b76-4fc4-b63d-3f46ad3c0e67

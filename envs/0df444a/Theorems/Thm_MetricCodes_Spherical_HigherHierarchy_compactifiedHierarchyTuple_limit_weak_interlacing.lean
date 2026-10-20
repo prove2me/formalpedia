@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedHierarchyTuple_limit_weak_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedHierarchyTuple_limit_weak_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/c991d4ec-6e5d-41ca-893e-6af6045af8d0

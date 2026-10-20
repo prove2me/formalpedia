@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialMellinStrip_diffContOnCl
 -- name    : CohnElkies.normalizedRadialMellinStrip_diffContOnCl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/1ba79450-1812-4e73-947f-b66e4b6ccf28

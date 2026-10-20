@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_no_kTemplate
 -- name    : CompactnessConjecture.proposedFamilyFree_no_kTemplate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/4cf05c29-0cab-42a8-8878-54906a6073b5

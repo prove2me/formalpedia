@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairTypeGroup_probability_mul_childRatio
 -- name    : TwoDegenerateGraphs.pairTypeGroup_probability_mul_childRatio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/026c321d-160e-45ac-afa0-1f692488ab1a

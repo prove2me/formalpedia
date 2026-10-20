@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_hammingFibreDimension_pos
 -- name    : MetricCodes.Hamming.hammingFibreDimension_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/f958874f-8c3b-4931-b78e-f5c04f41bbc8

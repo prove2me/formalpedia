@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrwG_continuous
 -- name    : MetricCodes.Johnson.mrrwG_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/7beff44d-6022-4bcf-aaa0-f1df0233a1a3

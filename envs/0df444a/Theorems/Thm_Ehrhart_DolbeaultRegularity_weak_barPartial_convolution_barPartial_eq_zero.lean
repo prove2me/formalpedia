@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_weak_barPartial_convolution_barPartial_eq_zero
 -- name    : Ehrhart.DolbeaultRegularity.weak_barPartial_convolution_barPartial_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/41e7ea3f-426a-428d-b62d-95d41bc6c535

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_natDist_card_le_sdiff
 -- name    : SoficGroups.KunThomFiberCoarea.natDist_card_le_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/ec9295a5-f55a-4869-975e-6ba9ed7af88b

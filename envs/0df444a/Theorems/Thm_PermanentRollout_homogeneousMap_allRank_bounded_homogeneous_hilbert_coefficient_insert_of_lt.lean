@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_bounded_homogeneous_hilbert_coefficient_insert_of_lt
 -- name    : PermanentRollout.homogeneousMap_allRank_bounded_homogeneous_hilbert_coefficient_insert_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/4cbcdd7c-5d41-4c76-ad94-961fd8a81943

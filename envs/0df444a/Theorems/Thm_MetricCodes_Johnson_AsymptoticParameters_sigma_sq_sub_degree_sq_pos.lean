@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_sigma_sq_sub_degree_sq_pos
 -- name    : MetricCodes.Johnson.AsymptoticParameters.sigma_sq_sub_degree_sq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/d3284acf-7518-48c6-a9e3-1c63b0ba75c2

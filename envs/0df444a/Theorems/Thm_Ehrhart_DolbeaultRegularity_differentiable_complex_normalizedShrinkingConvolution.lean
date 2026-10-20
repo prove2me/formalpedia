@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_differentiable_complex_normalizedShrinkingConvolution
 -- name    : Ehrhart.DolbeaultRegularity.differentiable_complex_normalizedShrinkingConvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/89fa1c01-9432-451d-ae0f-a95b3cafbefe

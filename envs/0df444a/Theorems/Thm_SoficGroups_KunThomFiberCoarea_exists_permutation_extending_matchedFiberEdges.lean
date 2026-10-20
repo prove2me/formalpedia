@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_exists_permutation_extending_matchedFiberEdges
 -- name    : SoficGroups.KunThomFiberCoarea.exists_permutation_extending_matchedFiberEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/e034cc03-d654-4191-9ec4-b0a70e620f6a

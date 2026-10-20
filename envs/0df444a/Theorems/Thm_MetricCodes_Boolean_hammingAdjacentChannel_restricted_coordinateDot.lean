@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingAdjacentChannel_restricted_coordinateDot
 -- name    : MetricCodes.Boolean.hammingAdjacentChannel_restricted_coordinateDot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/879e2b1c-d4a8-4cc8-8bba-6d9bb5ececf6

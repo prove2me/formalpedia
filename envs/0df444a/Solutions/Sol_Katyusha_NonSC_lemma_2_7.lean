@@ -1,0 +1,434 @@
+-- Prove2me | solution 1 for Katyusha.NonSC.lemma_2_7
+-- status  : ACCEPTED   (prove)
+-- author  : @Nickrobbins95
+-- created : 2026-10-19T19:28:13.02677+00:00
+-- url     : https://prove2.me/submissions/c1759ba1-0467-4a92-a4f4-c1190cb1713b
+
+import Mathlib
+import Definitions.Def_SAGA_Convex_finiteSum
+import Definitions.Def_SAGA_Convex_IsProxPoint
+import Definitions.Def_SAGA_Convex_sagaRun
+import Definitions.Def_Katyusha_NonSC_step
+
+set_option autoImplicit false
+
+namespace KatB034
+
+open scoped RealInnerProductSpace in
+theorem line_deriv {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+    [CompleteSpace E] {F : E → ℝ} {G : E → E} (hF : ∀ x, HasGradientAt F (G x) x)
+    (x w : E) (t : ℝ) :
+    HasDerivAt (fun s : ℝ => F (x + s • w)) ⟪G (x + t • w), w⟫ t := by
+  have hl : HasDerivAt (fun s : ℝ => x + s • w) w t := by
+    simpa using ((hasDerivAt_id t).smul_const w).const_add x
+  have h1 := (hasGradientAt_iff_hasFDerivAt.mp (hF (x + t • w))).comp_hasDerivAt t hl
+  rw [InnerProductSpace.toDual_apply_apply] at h1
+  exact h1
+
+open scoped RealInnerProductSpace in
+theorem descent {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+    [CompleteSpace E] {F : E → ℝ} {G : E → E} {L : ℝ} (hF : ∀ x, HasGradientAt F (G x) x)
+    (hG : ∀ x y, ‖G x - G y‖ ≤ L * ‖x - y‖) (x y : E) :
+    F y ≤ F x + ⟪G x, y - x⟫ + L / 2 * ‖y - x‖ ^ 2 := by
+  set w := y - x
+  let g : ℝ → ℝ := fun t => F (x + t • w) - t * ⟪G x, w⟫ - L / 2 * t ^ 2 * ‖w‖ ^ 2
+  have hg : ∀ t, HasDerivAt g (⟪G (x + t • w), w⟫ - ⟪G x, w⟫
+      - L / 2 * (2 * t) * ‖w‖ ^ 2) t := by
+    intro t
+    have h1 := line_deriv hF x w t
+    have h2 : HasDerivAt (fun s : ℝ => s * ⟪G x, w⟫) ⟪G x, w⟫ t := by
+      simpa using (hasDerivAt_id t).mul_const ⟪G x, w⟫
+    have h3 : HasDerivAt (fun s : ℝ => L / 2 * s ^ 2 * ‖w‖ ^ 2) (L / 2 * (2 * t) * ‖w‖ ^ 2) t := by
+      have := ((hasDerivAt_pow 2 t).const_mul (L / 2)).mul_const (‖w‖ ^ 2)
+      simpa using this
+    exact (h1.sub h2).sub h3
+  obtain ⟨c, hc, hcd⟩ := exists_hasDerivAt_eq_slope g _ (zero_lt_one' ℝ)
+    (fun t _ => (hg t).continuousAt.continuousWithinAt) (fun t _ => hg t)
+  have hle : ⟪G (x + c • w), w⟫ - ⟪G x, w⟫ - L / 2 * (2 * c) * ‖w‖ ^ 2 ≤ 0 := by
+    have e1 : ⟪G (x + c • w), w⟫ - ⟪G x, w⟫ = ⟪G (x + c • w) - G x, w⟫ := by
+      rw [inner_sub_left]
+    have e2 := real_inner_le_norm (G (x + c • w) - G x) w
+    have e3 := hG (x + c • w) x
+    have e4 : ‖x + c • w - x‖ = c * ‖w‖ := by
+      rw [add_sub_cancel_left, norm_smul, Real.norm_eq_abs, abs_of_pos hc.1]
+    rw [e4] at e3
+    have : ‖G (x + c • w) - G x‖ * ‖w‖ ≤ L * (c * ‖w‖) * ‖w‖ :=
+      mul_le_mul_of_nonneg_right e3 (norm_nonneg _)
+    nlinarith
+  rw [hcd] at hle
+  have : g 1 ≤ g 0 := by
+    have := hle; simp only [sub_zero, div_one] at this; linarith
+  simp only [g, one_smul, zero_smul, add_zero, one_mul, zero_mul, one_pow, sub_zero,
+    ne_eq, OfNat.ofNat_ne_zero, not_false_eq_true, zero_pow, mul_zero] at this
+  have hw : x + w = y := by simp [w]
+  rw [hw] at this
+  linarith
+
+open scoped RealInnerProductSpace in
+theorem convex_fo {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+    [CompleteSpace E] {F : E → ℝ} {G : E → E} (hF : ∀ x, HasGradientAt F (G x) x)
+    (hc : ConvexOn ℝ Set.univ F) (x y : E) : F x + ⟪G x, y - x⟫ ≤ F y := by
+  set w := y - x
+  have hφ : ConvexOn ℝ Set.univ (fun t : ℝ => F (x + t • w)) := by
+    have := hc.comp_affineMap (AffineMap.lineMap x y)
+    simp only [Set.preimage_univ] at this
+    have e : (fun t : ℝ => F (x + t • w)) = F ∘ AffineMap.lineMap x y := by
+      funext t
+      simp [AffineMap.lineMap_apply, w, add_comm]
+    rw [e]; exact this
+  have h := hφ.le_slope_of_hasDerivAt (Set.mem_univ 0) (Set.mem_univ 1) zero_lt_one
+    (by simpa using line_deriv hF x w 0)
+  rw [slope_def_field] at h
+  simp only [zero_smul, add_zero, one_smul, sub_zero, div_one] at h
+  have hw : x + w = y := by simp [w]
+  rw [hw] at h
+  linarith
+
+-- Co-coercivity: ‖G y - G x‖² ≤ 2L (F y - F x - ⟪G x, y - x⟫).
+open scoped RealInnerProductSpace in
+theorem cocoercive {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+    [CompleteSpace E] {F : E → ℝ} {G : E → E} {L : ℝ} (hL : 0 < L)
+    (hF : ∀ x, HasGradientAt F (G x) x)
+    (hG : ∀ x y, ‖G x - G y‖ ≤ L * ‖x - y‖) (hc : ConvexOn ℝ Set.univ F) (x y : E) :
+    ‖G y - G x‖ ^ 2 ≤ 2 * L * (F y - F x - ⟪G x, y - x⟫) := by
+  set φ : E → ℝ := fun z => F z - ⟪G x, z⟫ with hφdef
+  set H : E → E := fun z => G z - G x with hHdef
+  have hφ : ∀ z, HasGradientAt φ (H z) z := by
+    intro z
+    have h1 := hasGradientAt_iff_hasFDerivAt.mp (hF z)
+    have h2 : HasFDerivAt (fun z : E => ⟪G x, z⟫) (InnerProductSpace.toDual ℝ E (G x)) z := by
+      have e : (fun z : E => ⟪G x, z⟫) = ⇑(InnerProductSpace.toDual ℝ E (G x)) := by
+        funext z; simp [InnerProductSpace.toDual_apply_apply]
+      rw [e]; exact ContinuousLinearMap.hasFDerivAt _
+    rw [hasGradientAt_iff_hasFDerivAt, map_sub]
+    exact h1.sub h2
+  have hH : ∀ a b, ‖H a - H b‖ ≤ L * ‖a - b‖ := by
+    intro a b; simp only [hHdef, sub_sub_sub_cancel_right]; exact hG a b
+  have hmin : ∀ z, φ x ≤ φ z := by
+    intro z
+    have := convex_fo hF hc x z
+    simp only [hφdef, inner_sub_right] at this ⊢
+    linarith
+  set v := H y
+  have hd := descent hφ hH y (y - (1 / L) • v)
+  have hm := hmin (y - (1 / L) • v)
+  have e1 : y - (1 / L) • v - y = -((1 / L) • v) := by abel
+  rw [e1, inner_neg_right, real_inner_smul_right, norm_neg, norm_smul, Real.norm_eq_abs,
+    abs_of_pos (by positivity : (0:ℝ) < 1 / L), real_inner_self_eq_norm_sq] at hd
+  have key : ‖v‖ ^ 2 ≤ 2 * L * (φ y - φ x) := by
+    have hL' : L ≠ 0 := hL.ne'
+    have : φ x ≤ φ y - 1 / (2 * L) * ‖v‖ ^ 2 := by
+      have h := hm.trans hd
+      have : -(1 / L * ‖v‖ ^ 2) + L / 2 * (1 / L * ‖v‖) ^ 2 = - (1 / (2 * L) * ‖v‖ ^ 2) := by
+        field_simp; ring
+      linarith
+    have h2 : 2 * L * (1 / (2 * L) * ‖v‖ ^ 2) = ‖v‖ ^ 2 := by field_simp
+    nlinarith
+  have hv : v = G y - G x := rfl
+  rw [← hv]
+  have : φ y - φ x = F y - F x - ⟪G x, y - x⟫ := by
+    simp only [hφdef, inner_sub_right]; ring
+  rw [← this]; exact key
+
+lemma var_le {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] {n : ℕ} (hn : 0 < n)
+    (y : Fin n → E) :
+    ∑ j, ‖y j - (1 / (n : ℝ)) • ∑ i, y i‖ ^ 2 ≤ ∑ j, ‖y j‖ ^ 2 := by
+  have hn' : (n : ℝ) ≠ 0 := by exact_mod_cast hn.ne'
+  set m := (1 / (n : ℝ)) • ∑ i, y i with hm
+  have hsum : ∑ i, y i = (n : ℝ) • m := by
+    rw [hm, smul_smul, mul_one_div_cancel hn', one_smul]
+  have h : ∑ j, ‖y j - m‖ ^ 2 = ∑ j, ‖y j‖ ^ 2 - (n : ℝ) * ‖m‖ ^ 2 := by
+    simp_rw [norm_sub_sq_real]
+    rw [Finset.sum_add_distrib, Finset.sum_sub_distrib, ← Finset.mul_sum, ← sum_inner, hsum,
+      real_inner_smul_left, real_inner_self_eq_norm_sq]
+    simp
+    ring
+  rw [h]
+  have : 0 ≤ (n : ℝ) * ‖m‖ ^ 2 := by positivity
+  linarith
+
+open scoped RealInnerProductSpace in
+lemma inner_young {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] (a b : E)
+    {L : ℝ} (hL : 0 < L) : ⟪a, b⟫ - L * ‖b‖ ^ 2 ≤ ‖a‖ ^ 2 / (4 * L) := by
+  have h0 : 0 ≤ ‖a - (2 * L) • b‖ ^ 2 := by positivity
+  rw [norm_sub_sq_real, real_inner_smul_right, norm_smul, Real.norm_eq_abs,
+    abs_of_pos (by positivity : (0:ℝ) < 2 * L), mul_pow] at h0
+  rw [le_div_iff₀ (by positivity)]
+  nlinarith
+
+-- Expansion of the prox objective around `z` for the shifted center `z - γ g`.
+open scoped RealInnerProductSpace in
+lemma expand {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] {γ : ℝ} (hγ : 0 < γ)
+    (q z g : E) :
+    1 / (2 * γ) * ‖q - (z - γ • g)‖ ^ 2
+      = 1 / (2 * γ) * ‖q - z‖ ^ 2 + ⟪g, q - z⟫ + γ / 2 * ‖g‖ ^ 2 := by
+  have e : q - (z - γ • g) = (q - z) + γ • g := by abel
+  rw [e, norm_add_sq_real, real_inner_smul_right, norm_smul, Real.norm_eq_abs, abs_of_pos hγ,
+    mul_pow, real_inner_comm]
+  field_simp
+
+-- Three-point property of the prox of a convex function.
+open scoped RealInnerProductSpace in
+lemma prox3 {d : ℕ} {ψ : EuclideanSpace ℝ (Fin d) → ℝ} (hψ : ConvexOn ℝ Set.univ ψ)
+    {γ : ℝ} (hγ : 0 < γ) {w p : EuclideanSpace ℝ (Fin d)}
+    (hp : SAGA.Convex.IsProxPoint ψ γ w p) (u : EuclideanSpace ℝ (Fin d)) :
+    ψ p + 1 / (2 * γ) * ‖p - w‖ ^ 2 + 1 / (2 * γ) * ‖u - p‖ ^ 2
+      ≤ ψ u + 1 / (2 * γ) * ‖u - w‖ ^ 2 := by
+  set c := 1 / (2 * γ) with hc
+  have hc0 : 0 < c := by positivity
+  set a := p - w
+  set b := u - p
+  have key : ∀ t : ℝ, 0 < t → t < 1 →
+      0 ≤ (ψ u - ψ p) + 2 * c * ⟪a, b⟫ + t * (c * ‖b‖ ^ 2) := by
+    intro t ht0 ht1
+    have h1 := hp (p + t • b)
+    have h2 : ψ (p + t • b) ≤ (1 - t) * ψ p + t * ψ u := by
+      have := hψ.2 (Set.mem_univ p) (Set.mem_univ u) (by linarith : (0:ℝ) ≤ 1 - t) ht0.le
+        (by ring)
+      have e : (1 - t) • p + t • u = p + t • b := by simp only [b]; module
+      rw [e] at this
+      simpa [smul_eq_mul] using this
+    have e2 : p + t • b - w = a + t • b := by simp only [a]; abel
+    rw [e2, norm_add_sq_real, real_inner_smul_right, norm_smul, Real.norm_eq_abs,
+      abs_of_pos ht0, mul_pow] at h1
+    have h3 : 0 ≤ t * ((ψ u - ψ p) + 2 * c * ⟪a, b⟫ + t * (c * ‖b‖ ^ 2)) := by
+      nlinarith
+    exact (mul_nonneg_iff_of_pos_left ht0).mp h3
+  have hlim : 0 ≤ (ψ u - ψ p) + 2 * c * ⟪a, b⟫ := by
+    by_contra hneg
+    push Not at hneg
+    set e := (ψ u - ψ p) + 2 * c * ⟪a, b⟫ with he
+    set K := c * ‖b‖ ^ 2 with hK
+    have hK0 : 0 ≤ K := by positivity
+    set t := min (1 / 2 : ℝ) (-e / (2 * (K + 1))) with ht
+    have ht0 : 0 < t := by
+      apply lt_min (by norm_num)
+      apply div_pos (by linarith) (by positivity)
+    have ht1 : t < 1 := lt_of_le_of_lt (min_le_left _ _) (by norm_num)
+    have htK : t * (K + 1) ≤ -e / 2 := by
+      have : t ≤ -e / (2 * (K + 1)) := min_le_right _ _
+      rw [le_div_iff₀ (by positivity)] at this
+      linarith
+    have := key t ht0 ht1
+    nlinarith
+  have e3 : u - w = a + b := by simp only [a, b]; abel
+  rw [e3, norm_add_sq_real]
+  nlinarith
+
+
+-- One inner step of Katyusha (Allen-Zhu, proof of Lemma 2.7), for a fixed index.
+open scoped RealInnerProductSpace in
+lemma per_step {d : ℕ} {ψ : EuclideanSpace ℝ (Fin d) → ℝ} (hψ : ConvexOn ℝ Set.univ ψ)
+    (P : ℝ → EuclideanSpace ℝ (Fin d) → EuclideanSpace ℝ (Fin d))
+    (hP : ∀ γ : ℝ, 0 < γ → ∀ v, SAGA.Convex.IsProxPoint ψ γ v (P γ v))
+    {L τ1 α t2 : ℝ} (hL : 0 < L) (hα : 0 < α) (hτ1 : 0 < τ1) (hτ1lt : τ1 < 1) (ht2 : 0 ≤ t2)
+    (hc0 : 0 ≤ 1 - τ1 - t2) (hQ : 3 * L * τ1 ^ 2 / 2 ≤ τ1 / (2 * α))
+    (F0 : EuclideanSpace ℝ (Fin d) → ℝ) (x xt y z xs g gb : EuclideanSpace ℝ (Fin d))
+    (hx : x = τ1 • z + t2 • xt + (1 - τ1 - t2) • y)
+    (hdesc : ∀ u, F0 u ≤ F0 x + ⟪gb, u - x⟫ + L / 2 * ‖u - x‖ ^ 2) :
+    F0 (P (1 / (3 * L)) (x - (1 / (3 * L)) • g)) + ψ (P (1 / (3 * L)) (x - (1 / (3 * L)) • g))
+      ≤ (F0 x + τ1 / (2 * α) * ‖z - xs‖ ^ 2 + τ1 * ψ xs + t2 * ψ xt + (1 - τ1 - t2) * ψ y)
+        - τ1 * ⟪g, z - xs⟫ + ‖gb - g‖ ^ 2 / (4 * L)
+        - τ1 / (2 * α) * ‖P α (z - α • g) - xs‖ ^ 2 := by
+  set yp := P (1 / (3 * L)) (x - (1 / (3 * L)) • g) with hyp
+  set zp := P α (z - α • g) with hzp
+  set v := τ1 • zp + t2 • xt + (1 - τ1 - t2) • y with hv
+  have hvx : v - x = τ1 • (zp - z) := by rw [hv, hx]; module
+  have hγy : (0:ℝ) < 1 / (3 * L) := by positivity
+  have hY := hP (1 / (3 * L)) hγy (x - (1 / (3 * L)) • g) v
+  rw [← hyp, expand hγy, expand hγy, hvx, real_inner_smul_right, norm_smul, Real.norm_eq_abs,
+    abs_of_pos hτ1, mul_pow] at hY
+  have hZ := prox3 hψ hα (hP α hα (z - α • g)) xs
+  rw [← hzp, expand hα, expand hα, norm_sub_rev xs zp, norm_sub_rev xs z] at hZ
+  have e5 : ⟪g, xs - z⟫ = -⟪g, z - xs⟫ := by
+    rw [← inner_neg_right, neg_sub]
+  rw [e5] at hZ
+  have hZm := mul_le_mul_of_nonneg_left hZ hτ1.le
+  have hψv : ψ v ≤ τ1 * ψ zp + t2 * ψ xt + (1 - τ1 - t2) * ψ y := by
+    have hpos : 0 < 1 - τ1 := by linarith
+    set w := (t2 / (1 - τ1)) • xt + ((1 - τ1 - t2) / (1 - τ1)) • y with hwdef
+    have hw : ψ w ≤ t2 / (1 - τ1) * ψ xt + (1 - τ1 - t2) / (1 - τ1) * ψ y := by
+      have := hψ.2 (Set.mem_univ xt) (Set.mem_univ y) (div_nonneg ht2 hpos.le)
+        (div_nonneg hc0 hpos.le) (by field_simp; ring)
+      simpa [smul_eq_mul] using this
+    have c1 : (1 - τ1) * (t2 / (1 - τ1)) = t2 := by field_simp
+    have c2 : (1 - τ1) * ((1 - τ1 - t2) / (1 - τ1)) = 1 - τ1 - t2 := by field_simp
+    have hv2 : v = τ1 • zp + (1 - τ1) • w := by
+      rw [hv, hwdef, smul_add, smul_smul, smul_smul, c1, c2, add_assoc]
+    have h1 := hψ.2 (Set.mem_univ zp) (Set.mem_univ w) hτ1.le hpos.le (by ring)
+    simp only [smul_eq_mul] at h1
+    rw [hv2]
+    have h2 := mul_le_mul_of_nonneg_left hw hpos.le
+    have e : (1 - τ1) * (t2 / (1 - τ1) * ψ xt + (1 - τ1 - t2) / (1 - τ1) * ψ y)
+        = t2 * ψ xt + (1 - τ1 - t2) * ψ y := by
+      field_simp
+    linarith
+  have hD := hdesc yp
+  have hYo := inner_young (gb - g) (yp - x) hL
+  rw [inner_sub_left] at hYo
+  have hQm := mul_le_mul_of_nonneg_right hQ (sq_nonneg ‖zp - z‖)
+  have hk : (1 : ℝ) / (2 * (1 / (3 * L))) = 3 * L / 2 := by field_simp
+  rw [hk] at hY
+  linear_combination hD + hY + hYo + hψv + hZm + hQm
+
+end KatB034
+
+open SAGA.Convex Katyusha.NonSC RealInnerProductSpace in
+theorem solution {d n : ℕ} (hn : 0 < n)
+    (f : Fin n → EuclideanSpace ℝ (Fin d) → ℝ)
+    (f' : Fin n → EuclideanSpace ℝ (Fin d) → EuclideanSpace ℝ (Fin d))
+    (ψ : EuclideanSpace ℝ (Fin d) → ℝ) (L : ℝ) (hL : 0 < L)
+    (hf_grad : ∀ i x, HasGradientAt (f i) (f' i x) x)
+    (hf_conv : ∀ i, ConvexOn ℝ Set.univ (f i))
+    (hf_smooth : ∀ i x y, ‖f' i x - f' i y‖ ≤ L * ‖x - y‖)
+    (hψ : ConvexOn ℝ Set.univ ψ)
+    (P : ℝ → EuclideanSpace ℝ (Fin d) → EuclideanSpace ℝ (Fin d))
+    (hP : ∀ γ : ℝ, 0 < γ → ∀ v, SAGA.Convex.IsProxPoint ψ γ v (P γ v))
+    (xstar : EuclideanSpace ℝ (Fin d)) (hxstar : ∀ x, obj f ψ xstar ≤ obj f ψ x)
+    (τ1 α : ℝ) (hα : 0 < α) (hτ1 : 0 < τ1) (hτ1_half : τ1 ≤ 1 / 2)
+    (hτ1α : τ1 ≤ 1 / (3 * α * L))
+    (xt y z : EuclideanSpace ℝ (Fin d)) :
+    0 ≤ α * (1 - τ1 - tau2) / τ1 * (obj f ψ y - obj f ψ xstar)
+        - α / τ1 * ((1 / (n : ℝ)) * (∑ i, obj f ψ (innerStep f' P L τ1 α xt (y, z) i).1)
+            - obj f ψ xstar)
+        + α * tau2 / τ1 * (obj f ψ xt - obj f ψ xstar)
+        + 1 / 2 * ‖z - xstar‖ ^ 2
+        - 1 / 2 * ((1 / (n : ℝ)) * ∑ i, ‖(innerStep f' P L τ1 α xt (y, z) i).2 - xstar‖ ^ 2) := by
+  have ht2 : tau2 = 1 / 2 := rfl
+  have ht20 : (0:ℝ) ≤ tau2 := by rw [ht2]; norm_num
+  have hc0 : 0 ≤ 1 - τ1 - tau2 := by rw [ht2]; linarith
+  have hnR : (0 : ℝ) < n := by exact_mod_cast hn
+  have hn' : (n : ℝ) ≠ 0 := hnR.ne'
+  set x := coupling τ1 xt y z with hxdef
+  set gb := gradAvg f' x with hgb
+  -- smoothness / convexity of the average
+  have hdesc : ∀ u, fAvg f u ≤ fAvg f x + ⟪gb, u - x⟫ + L / 2 * ‖u - x‖ ^ 2 := by
+    intro u
+    have hi : ∀ i, f i u ≤ f i x + ⟪f' i x, u - x⟫ + L / 2 * ‖u - x‖ ^ 2 :=
+      fun i => KatB034.descent (hf_grad i) (hf_smooth i) x u
+    have hs := Finset.sum_le_sum (fun i (_ : i ∈ Finset.univ) => hi i)
+    rw [Finset.sum_add_distrib, Finset.sum_add_distrib, ← sum_inner] at hs
+    simp only [Finset.sum_const, Finset.card_univ, Fintype.card_fin, nsmul_eq_mul] at hs
+    have hg : ⟪gb, u - x⟫ = (1 / (n : ℝ)) * ⟪∑ i, f' i x, u - x⟫ := by
+      rw [hgb, gradAvg, real_inner_smul_left]
+    unfold fAvg
+    rw [hg]
+    have := mul_le_mul_of_nonneg_left hs (by positivity : (0:ℝ) ≤ 1 / (n : ℝ))
+    have e : (1 / (n : ℝ)) * ((n : ℝ) * (L / 2 * ‖u - x‖ ^ 2)) = L / 2 * ‖u - x‖ ^ 2 := by
+      field_simp
+    linarith
+  have hcvx : ∀ u, fAvg f x + ⟪gb, u - x⟫ ≤ fAvg f u := by
+    intro u
+    have hi : ∀ i, f i x + ⟪f' i x, u - x⟫ ≤ f i u :=
+      fun i => KatB034.convex_fo (hf_grad i) (hf_conv i) x u
+    have hs := Finset.sum_le_sum (fun i (_ : i ∈ Finset.univ) => hi i)
+    rw [Finset.sum_add_distrib, ← sum_inner] at hs
+    have hg : ⟪gb, u - x⟫ = (1 / (n : ℝ)) * ⟪∑ i, f' i x, u - x⟫ := by
+      rw [hgb, gradAvg, real_inner_smul_left]
+    unfold fAvg
+    rw [hg]
+    have := mul_le_mul_of_nonneg_left hs (by positivity : (0:ℝ) ≤ 1 / (n : ℝ))
+    linarith
+  -- the mean of the estimator
+  have hsumg : ∑ i, gradEst f' xt x i = (n : ℝ) • gb := by
+    simp only [gradEst, Finset.sum_add_distrib, Finset.sum_sub_distrib, Finset.sum_const,
+      Finset.card_univ, Fintype.card_fin, hgb, gradAvg]
+    rw [← Nat.cast_smul_eq_nsmul ℝ, smul_smul, smul_smul, mul_one_div_cancel hn', one_smul,
+      one_smul]
+    abel
+  -- variance bound
+  have hvar : (1 / (n : ℝ)) * ∑ i, ‖gb - gradEst f' xt x i‖ ^ 2
+      ≤ 2 * L * (fAvg f xt - fAvg f x - ⟪gb, xt - x⟫) := by
+    set a : Fin n → EuclideanSpace ℝ (Fin d) := fun i => f' i x - f' i xt with ha
+    have hv := KatB034.var_le hn a
+    have hma : (1 / (n : ℝ)) • ∑ j, a j = gb - gradAvg f' xt := by
+      simp only [ha, Finset.sum_sub_distrib, smul_sub, hgb, gradAvg]
+    have hnorm : ∀ i, ‖gb - gradEst f' xt x i‖ ^ 2 = ‖a i - (1 / (n : ℝ)) • ∑ j, a j‖ ^ 2 := by
+      intro i
+      rw [hma, ← norm_neg]
+      congr 2
+      simp only [gradEst, ha]
+      abel
+    simp_rw [hnorm]
+    have hco : ∀ i, ‖a i‖ ^ 2 ≤ 2 * L * (f i xt - f i x - ⟪f' i x, xt - x⟫) := by
+      intro i
+      have := KatB034.cocoercive hL (hf_grad i) (hf_smooth i) (hf_conv i) x xt
+      show ‖f' i x - f' i xt‖ ^ 2 ≤ _
+      rw [norm_sub_rev]; exact this
+    have hs := Finset.sum_le_sum (fun i (_ : i ∈ Finset.univ) => hco i)
+    rw [← Finset.mul_sum, Finset.sum_sub_distrib, Finset.sum_sub_distrib, ← sum_inner] at hs
+    have hg : ⟪gb, xt - x⟫ = (1 / (n : ℝ)) * ⟪∑ i, f' i x, xt - x⟫ := by
+      rw [hgb, gradAvg, real_inner_smul_left]
+    unfold fAvg
+    rw [hg]
+    have h1 := mul_le_mul_of_nonneg_left (hv.trans hs) (by positivity : (0:ℝ) ≤ 1 / (n : ℝ))
+    linarith
+  have hQ : 3 * L * τ1 ^ 2 / 2 ≤ τ1 / (2 * α) := by
+    rw [le_div_iff₀ (by positivity)]
+    have := hτ1α
+    rw [le_div_iff₀ (by positivity)] at this
+    nlinarith
+  -- per-index inequality
+  have per : ∀ i, obj f ψ (innerStep f' P L τ1 α xt (y, z) i).1
+      ≤ (fAvg f x + τ1 / (2 * α) * ‖z - xstar‖ ^ 2 + τ1 * ψ xstar + tau2 * ψ xt
+          + (1 - τ1 - tau2) * ψ y)
+        - τ1 * ⟪gradEst f' xt x i, z - xstar⟫ + ‖gb - gradEst f' xt x i‖ ^ 2 / (4 * L)
+        - τ1 / (2 * α) * ‖(innerStep f' P L τ1 α xt (y, z) i).2 - xstar‖ ^ 2 :=
+    fun i => KatB034.per_step hψ P hP hL hα hτ1 (by linarith) ht20 hc0 hQ (fAvg f) x xt y z xstar
+      (gradEst f' xt x i) gb rfl hdesc
+  have hav := mul_le_mul_of_nonneg_left
+    (Finset.sum_le_sum fun i (_ : i ∈ Finset.univ) => per i)
+    (by positivity : (0:ℝ) ≤ 1 / (n : ℝ))
+  have hR : (1 / (n : ℝ)) * ∑ i, ((fAvg f x + τ1 / (2 * α) * ‖z - xstar‖ ^ 2 + τ1 * ψ xstar
+          + tau2 * ψ xt + (1 - τ1 - tau2) * ψ y)
+        - τ1 * ⟪gradEst f' xt x i, z - xstar⟫ + ‖gb - gradEst f' xt x i‖ ^ 2 / (4 * L)
+        - τ1 / (2 * α) * ‖(innerStep f' P L τ1 α xt (y, z) i).2 - xstar‖ ^ 2)
+      = (fAvg f x + τ1 / (2 * α) * ‖z - xstar‖ ^ 2 + τ1 * ψ xstar + tau2 * ψ xt
+          + (1 - τ1 - tau2) * ψ y)
+        - τ1 * ⟪gb, z - xstar⟫
+        + ((1 / (n : ℝ)) * ∑ i, ‖gb - gradEst f' xt x i‖ ^ 2) / (4 * L)
+        - τ1 / (2 * α) * ((1 / (n : ℝ)) * ∑ i, ‖(innerStep f' P L τ1 α xt (y, z) i).2 - xstar‖ ^ 2) := by
+    simp only [Finset.sum_sub_distrib, Finset.sum_add_distrib, Finset.sum_const,
+      Finset.card_univ, Fintype.card_fin, nsmul_eq_mul, ← Finset.mul_sum, ← Finset.sum_div,
+      ← sum_inner]
+    rw [hsumg, real_inner_smul_left]
+    field_simp
+  rw [hR] at hav
+  -- coupling identity
+  have hcpl : τ1 * ⟪gb, z - xstar⟫ = τ1 * ⟪gb, x - xstar⟫ + tau2 * ⟪gb, x - xt⟫
+      + (1 - τ1 - tau2) * ⟪gb, x - y⟫ := by
+    have e : τ1 • (z - xstar) = τ1 • (x - xstar) + tau2 • (x - xt) + (1 - τ1 - tau2) • (x - y) := by
+      rw [hxdef]; simp only [coupling]; module
+    rw [← real_inner_smul_right, e, inner_add_right, inner_add_right, real_inner_smul_right,
+      real_inner_smul_right, real_inner_smul_right]
+  have hc1 := hcvx xstar
+  have hc2 := hcvx y
+  have e1 : ⟪gb, xstar - x⟫ = -⟪gb, x - xstar⟫ := by rw [← inner_neg_right, neg_sub]
+  have e2 : ⟪gb, y - x⟫ = -⟪gb, x - y⟫ := by rw [← inner_neg_right, neg_sub]
+  rw [e1] at hc1
+  rw [e2] at hc2
+  have hc1m := mul_le_mul_of_nonneg_left hc1 hτ1.le
+  have hc2m := mul_le_mul_of_nonneg_left hc2 hc0
+  have hvd := div_le_div_of_nonneg_right hvar (by positivity : (0:ℝ) ≤ 4 * L)
+  have e3 : 2 * L * (fAvg f xt - fAvg f x - ⟪gb, xt - x⟫) / (4 * L)
+      = tau2 * (fAvg f xt - fAvg f x - ⟪gb, xt - x⟫) := by
+    rw [ht2]; field_simp; ring
+  rw [e3] at hvd
+  have e4 : ⟪gb, xt - x⟫ = -⟪gb, x - xt⟫ := by rw [← inner_neg_right, neg_sub]
+  rw [e4] at hvd
+  set A := (1 / (n : ℝ)) * ∑ i, obj f ψ (innerStep f' P L τ1 α xt (y, z) i).1 with hA
+  set B := (1 / (n : ℝ)) * ∑ i, ‖(innerStep f' P L τ1 α xt (y, z) i).2 - xstar‖ ^ 2 with hB
+  have key : 0 ≤ τ1 * obj f ψ xstar + tau2 * obj f ψ xt + (1 - τ1 - tau2) * obj f ψ y
+      + τ1 / (2 * α) * (‖z - xstar‖ ^ 2 - B) - A := by
+    unfold obj
+    linarith
+  have hgoal : α * (1 - τ1 - tau2) / τ1 * (obj f ψ y - obj f ψ xstar)
+        - α / τ1 * (A - obj f ψ xstar)
+        + α * tau2 / τ1 * (obj f ψ xt - obj f ψ xstar)
+        + 1 / 2 * ‖z - xstar‖ ^ 2 - 1 / 2 * B
+      = α / τ1 * (τ1 * obj f ψ xstar + tau2 * obj f ψ xt + (1 - τ1 - tau2) * obj f ψ y
+      + τ1 / (2 * α) * (‖z - xstar‖ ^ 2 - B) - A) := by
+    field_simp
+    ring
+  rw [hgoal]
+  exact mul_nonneg (by positivity) key

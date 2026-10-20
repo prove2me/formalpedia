@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTUnconditionalCharacteristicMinor_gtAxisCompressedCharacteristicMinor_eq_channelNumerator
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTUnconditionalCharacteristicMinor.gtAxisCompressedCharacteristicMinor_eq_channelNumerator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/66ab9631-8016-4fe3-89fb-22fcff631cbf

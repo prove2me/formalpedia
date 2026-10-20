@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_formula_skeleton
 -- name    : PermanentFormulaLowerBound.Formula.formula_skeleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/09ebe72a-daa1-4ace-a87e-9e0e44a41882

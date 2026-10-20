@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_norm_finiteUnitarySubgroupAverage_sub_le
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.norm_finiteUnitarySubgroupAverage_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/c0f37a0f-6430-4e6c-8594-d85141afe303

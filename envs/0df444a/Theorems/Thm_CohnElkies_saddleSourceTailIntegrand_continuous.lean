@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceTailIntegrand_continuous
 -- name    : CohnElkies.saddleSourceTailIntegrand_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/0ceb05a0-74a9-4b67-8f10-08dce373b58e

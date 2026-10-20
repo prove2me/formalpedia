@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CheegerPoincare_positive_max_iff
 -- name    : SoficGroups.CheegerPoincare.positive_max_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/eeea7796-5a25-4b8a-a5e2-16f2259e69fc

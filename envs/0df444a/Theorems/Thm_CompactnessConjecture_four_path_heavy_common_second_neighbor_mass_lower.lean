@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_four_path_heavy_common_second_neighbor_mass_lower
 -- name    : CompactnessConjecture.four_path_heavy_common_second_neighbor_mass_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/6a699d64-02cc-487b-85b1-108b88c98cf4

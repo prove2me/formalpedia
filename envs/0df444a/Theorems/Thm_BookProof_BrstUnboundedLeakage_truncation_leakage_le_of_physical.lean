@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_truncation_leakage_le_of_physical
 -- name    : BookProof.BrstUnboundedLeakage.truncation_leakage_le_of_physical
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:20:17.676302+00:00
 -- url     : https://prove2.me/theorems/36026caa-8aef-4471-8706-46d2794b8dbc

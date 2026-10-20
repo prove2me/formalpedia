@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_sourceRate_mul_lt_divisorStopping
 -- name    : QuantumParallelRepetition.sourceRate_mul_lt_divisorStopping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/0e582fa0-1491-469c-aabc-d5c2b46b3637

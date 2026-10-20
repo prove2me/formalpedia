@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_MidpointQuadrature_midpointCorrection_abs_lt_of_uniform_derivative
 -- name    : MetricCodes.Spherical.HigherHierarchy.MidpointQuadrature.midpointCorrection_abs_lt_of_uniform_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/4d3ade7e-d7a0-4b7d-98f9-9a4a2cbdc933

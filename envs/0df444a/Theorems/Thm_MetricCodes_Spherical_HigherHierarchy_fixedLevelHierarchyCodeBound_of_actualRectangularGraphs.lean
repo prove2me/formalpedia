@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_fixedLevelHierarchyCodeBound_of_actualRectangularGraphs
 -- name    : MetricCodes.Spherical.HigherHierarchy.fixedLevelHierarchyCodeBound_of_actualRectangularGraphs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/c0bc896a-848a-414e-8f04-49e678c8a9e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceGaussianVariance_firstBranch_pos
 -- name    : CohnElkies.eventually_saddleSourceGaussianVariance_firstBranch_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/64065bc1-f655-4cac-8bbb-4d04e4f7d327

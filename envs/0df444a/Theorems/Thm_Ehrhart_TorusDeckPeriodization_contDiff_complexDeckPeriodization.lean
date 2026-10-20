@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckPeriodization_contDiff_complexDeckPeriodization
 -- name    : Ehrhart.TorusDeckPeriodization.contDiff_complexDeckPeriodization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/68a10825-e58b-47a9-9bd9-443334c67880

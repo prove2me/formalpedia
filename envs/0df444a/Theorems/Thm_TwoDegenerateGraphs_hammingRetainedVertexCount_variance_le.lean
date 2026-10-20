@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedVertexCount_variance_le
 -- name    : TwoDegenerateGraphs.hammingRetainedVertexCount_variance_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/8ac1e0f0-d593-4cea-9ff0-366c8b47f43d

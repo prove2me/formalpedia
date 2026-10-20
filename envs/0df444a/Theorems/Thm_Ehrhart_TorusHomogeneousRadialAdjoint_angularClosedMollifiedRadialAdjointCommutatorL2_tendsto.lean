@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousRadialAdjoint_angularClosedMollifiedRadialAdjointCommutatorL2_tendsto
 -- name    : Ehrhart.TorusHomogeneousRadialAdjoint.angularClosedMollifiedRadialAdjointCommutatorL2_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/7ba2221c-9d28-4c40-9ec2-8cbed7469e9d

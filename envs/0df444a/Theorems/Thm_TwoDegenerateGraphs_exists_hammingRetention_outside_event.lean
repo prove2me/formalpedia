@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exists_hammingRetention_outside_event
 -- name    : TwoDegenerateGraphs.exists_hammingRetention_outside_event
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/3a5f343f-8a05-48fd-a5ac-f9d7fd983ff8

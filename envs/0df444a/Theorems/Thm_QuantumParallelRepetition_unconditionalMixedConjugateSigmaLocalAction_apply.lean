@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMixedConjugateSigmaLocalAction_apply
 -- name    : QuantumParallelRepetition.unconditionalMixedConjugateSigmaLocalAction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/75949246-f2cb-48d3-9cb7-ee9a805ab9f8

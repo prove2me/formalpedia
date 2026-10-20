@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_finSucc_arbitraryPivotPlaneQuotientEquiv_mk_eq_aeval
 -- name    : PermanentRollout.homogeneousMap_allRank_finSucc_arbitraryPivotPlaneQuotientEquiv_mk_eq_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/943ae593-20d4-4395-85eb-332993f14df1

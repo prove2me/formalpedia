@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_free_of_layer_exclusion_and_disagreement
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_free_of_layer_exclusion_and_disagreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/808a41a4-0d08-4569-b603-4b82e3778ae4

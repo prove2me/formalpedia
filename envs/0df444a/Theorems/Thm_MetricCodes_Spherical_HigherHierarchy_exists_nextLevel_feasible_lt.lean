@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_nextLevel_feasible_lt
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_nextLevel_feasible_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/60ad4c6e-9bfb-436e-b660-8fa39877d8c8

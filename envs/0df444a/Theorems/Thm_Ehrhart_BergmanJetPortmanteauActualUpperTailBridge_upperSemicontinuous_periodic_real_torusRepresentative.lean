@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualUpperTailBridge_upperSemicontinuous_periodic_real_torusRepresentative
 -- name    : Ehrhart.BergmanJetPortmanteauActualUpperTailBridge.upperSemicontinuous_periodic_real_torusRepresentative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/d60ac27f-5bd8-44a5-94fc-af6ff41813d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_normalizedHamming_mul_le
 -- name    : SoficGroups.KunActualSoficRootRadius.normalizedHamming_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/c6b478e7-7335-40a9-9af0-c515cc98b805

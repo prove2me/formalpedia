@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceSelectedRetainedWinningEffectGauge
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceSelectedRetainedWinningEffectGauge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/4fb45488-5f51-423c-999c-41bd53573216

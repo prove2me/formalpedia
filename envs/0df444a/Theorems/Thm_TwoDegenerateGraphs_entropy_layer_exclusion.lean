@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropy_layer_exclusion
 -- name    : TwoDegenerateGraphs.entropy_layer_exclusion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/86df0d02-2512-4fe3-a66b-f0be31e80a55

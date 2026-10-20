@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_eventually_momentJetBasisRepresentative_local_bound
 -- name    : Ehrhart.BergmanJetLocalGrowth.eventually_momentJetBasisRepresentative_local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/d6fea377-9dda-4b4c-b8b1-584f30836ad2

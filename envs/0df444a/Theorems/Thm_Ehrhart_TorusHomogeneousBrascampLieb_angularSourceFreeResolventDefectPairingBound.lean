@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_angularSourceFreeResolventDefectPairingBound
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.angularSourceFreeResolventDefectPairingBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/1b8ddff7-5c98-4ae9-b7e8-4f566820d6c2

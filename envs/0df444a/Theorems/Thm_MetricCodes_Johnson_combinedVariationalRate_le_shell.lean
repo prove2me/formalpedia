@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_combinedVariationalRate_le_shell
 -- name    : MetricCodes.Johnson.combinedVariationalRate_le_shell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/77603d33-85f8-47b8-be49-b98682a96c1c

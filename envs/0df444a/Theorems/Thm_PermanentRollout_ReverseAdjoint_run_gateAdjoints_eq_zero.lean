@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_run_gateAdjoints_eq_zero
 -- name    : PermanentRollout.ReverseAdjoint.run_gateAdjoints_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/501831c5-f77c-47e5-bf89-844348114fd9

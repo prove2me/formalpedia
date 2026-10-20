@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_positive_localized_row_minimizer_of_lowerSemicontinuous
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_positive_localized_row_minimizer_of_lowerSemicontinuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/7d0c89c4-c367-4cd2-9f88-17e5e333143d

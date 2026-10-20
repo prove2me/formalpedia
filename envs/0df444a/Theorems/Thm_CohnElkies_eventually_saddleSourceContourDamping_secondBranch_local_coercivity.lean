@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceContourDamping_secondBranch_local_coercivity
 -- name    : CohnElkies.eventually_saddleSourceContourDamping_secondBranch_local_coercivity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/3af0f3c7-e0a4-429f-b4cd-813a702ebef9

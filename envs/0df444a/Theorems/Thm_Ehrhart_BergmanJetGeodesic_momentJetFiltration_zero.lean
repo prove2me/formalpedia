@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGeodesic_momentJetFiltration_zero
 -- name    : Ehrhart.BergmanJetGeodesic.momentJetFiltration_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/affb134a-a94e-4689-8cb3-75a2c8ec8156

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_finite_heavy_fiber_mass_half
 -- name    : CompactnessConjecture.finite_heavy_fiber_mass_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/3ac9bf8e-a09f-418f-b22b-ae649a855f40

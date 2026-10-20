@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerRiemannLog_one_continuous
 -- name    : CohnElkies.lowerRiemannLog_one_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/2464bee4-2a48-4a79-8fb6-95b930b13947

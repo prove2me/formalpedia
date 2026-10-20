@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_integral_angularTorusFormMixed_add_curvature_eq_coordinate_sum
 -- name    : Ehrhart.WeightedTorusBochner.integral_angularTorusFormMixed_add_curvature_eq_coordinate_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/aa95fca4-3ee1-4cd5-bc1d-3e5d7f91ad44

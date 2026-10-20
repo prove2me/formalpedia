@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryRate_le_of_positive_feasible_bound
 -- name    : MetricCodes.Hamming.binaryRate_le_of_positive_feasible_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/0bc80f84-3c1a-42c0-9ff4-f3e90494faa6

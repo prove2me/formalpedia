@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentCompletion_sourceCompletionBad_good
 -- name    : SoficGroups.MatchedComponentCompletion.sourceCompletionBad_good
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/96fa6548-ba25-4826-a429-01ab1d64bc82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_coordinateSubsetIdeal_insert
 -- name    : PermanentRollout.homogeneousMap_allRank_coordinateSubsetIdeal_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/4f60c523-c4cd-425d-aa2c-d95e13f3ce96

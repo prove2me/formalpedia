@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentWeakBergman_convexOn_momentNormalizedPotential
 -- name    : Ehrhart.MomentWeakBergman.convexOn_momentNormalizedPotential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/8525af78-4e1c-438d-8e97-7ccf0db5bc7b

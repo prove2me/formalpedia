@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_isometricPackingKernel_diag
 -- name    : SpherePacking.isometricPackingKernel_diag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/20c3061c-9d56-4f51-9bde-70c1e0fd7a42

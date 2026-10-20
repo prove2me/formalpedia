@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_sum_pairTypeGroupChildOnes_card
 -- name    : TwoDegenerateGraphs.sum_pairTypeGroupChildOnes_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f15b6a3a-35bc-42df-bc55-2b1d15b68fb6

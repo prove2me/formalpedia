@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerCoth_log_antitoneOn
 -- name    : CohnElkies.lowerCoth_log_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/500fe98a-0900-4973-ae41-97f21d337b37

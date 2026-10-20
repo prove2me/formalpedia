@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusCompactTestGreen_norm_normalizedCoverMollification_le_of_continuous_bound
 -- name    : Ehrhart.TorusCompactTestGreen.norm_normalizedCoverMollification_le_of_continuous_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/dc96a911-c5c3-4714-9ba1-3cae567f176e

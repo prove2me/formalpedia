@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_winning_expectation_transfer
 -- name    : QuantumParallelRepetition.winning_expectation_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/4f37bf0d-9ac7-4c79-aebb-ef7fe08e93a2

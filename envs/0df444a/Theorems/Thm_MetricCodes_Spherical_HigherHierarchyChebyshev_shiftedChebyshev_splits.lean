@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_shiftedChebyshev_splits
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.shiftedChebyshev_splits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/3a305a29-e88e-4569-acd2-542fd25ab719

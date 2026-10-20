@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_hasDerivAt_inverseDegree_zero
 -- name    : MetricCodes.MRRW.hasDerivAt_inverseDegree_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/e9da2ec5-f5c6-4e90-a77b-58a7f2704356

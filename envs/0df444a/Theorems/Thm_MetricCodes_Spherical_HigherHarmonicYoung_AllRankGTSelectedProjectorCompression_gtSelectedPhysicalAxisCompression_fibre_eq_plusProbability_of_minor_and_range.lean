@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedProjectorCompression_gtSelectedPhysicalAxisCompression_fibre_eq_plusProbability_of_minor_and_range
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedProjectorCompression.gtSelectedPhysicalAxisCompression_fibre_eq_plusProbability_of_minor_and_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/2d935d4a-bdc5-4b26-bb31-1d5fa5031aeb

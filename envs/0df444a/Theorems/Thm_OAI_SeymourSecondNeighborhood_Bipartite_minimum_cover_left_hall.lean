@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_minimum_cover_left_hall
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.minimum_cover_left_hall
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:25:02.362653+00:00
 -- url     : https://prove2.me/theorems/9263470f-d39e-4e45-89f2-23befde295e3

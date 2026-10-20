@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedSelectedCentralizerPairwiseSource_eventually_five_mul_sourceCompletionBad_le_of_density
 -- name    : SoficGroups.CompletedSelectedCentralizerPairwiseSource.eventually_five_mul_sourceCompletionBad_le_of_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/bb134678-2b1a-4c6b-97c1-c2e644ca0f6b

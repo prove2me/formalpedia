@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_torusMonomial_angular_memLp
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.torusMonomial_angular_memLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/53ac4aa4-483d-4c16-905c-67bd071b98c1

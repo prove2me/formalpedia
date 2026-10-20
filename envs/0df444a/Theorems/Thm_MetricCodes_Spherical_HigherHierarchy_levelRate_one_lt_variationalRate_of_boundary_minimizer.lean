@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_one_lt_variationalRate_of_boundary_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_one_lt_variationalRate_of_boundary_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/a7431de0-344f-4d10-9682-2a744e8a61fe

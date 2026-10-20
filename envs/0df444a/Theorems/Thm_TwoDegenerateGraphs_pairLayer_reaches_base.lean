@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairLayer_reaches_base
 -- name    : TwoDegenerateGraphs.pairLayer_reaches_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f466899a-229d-4ed0-87ec-925c01032961

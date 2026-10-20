@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteGramCertificate_shift_sum_nonnegative
 -- name    : SpherePacking.finiteGramCertificate_shift_sum_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/499c3514-0134-46c9-afee-d99df635527b

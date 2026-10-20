@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AdmissibleDegrees_terminal_le_half
 -- name    : MetricCodes.Johnson.AdmissibleDegrees.terminal_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/23e01b21-f830-4f56-ba8b-32843d7be326

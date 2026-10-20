@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_cocycle_one
 -- name    : SoficGroups.KunThomInvariantOrthogonal.cocycle_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/72894db1-e1a4-40a1-ba30-b970e5d2bc8b

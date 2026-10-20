@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingExpectedRetainedVertexVariance_le_mean
 -- name    : TwoDegenerateGraphs.hammingExpectedRetainedVertexVariance_le_mean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/649e380b-ecdd-4926-b1f2-1105607331f4

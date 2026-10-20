@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_sourceFree_integral_sourceProbability_velocity_sq_eq_secondMoment
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.sourceFree_integral_sourceProbability_velocity_sq_eq_secondMoment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/ef679106-861a-49fe-9415-a87922120fb8

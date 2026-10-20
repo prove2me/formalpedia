@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_arcsineMeasure_stieltjesKernel
 -- name    : MetricCodes.Spherical.HigherHierarchy.arcsineMeasure_stieltjesKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/3f902232-9e96-4797-b760-5a9daace6bed

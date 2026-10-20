@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_LocalMultiplicativeOn_map_inv_of_mem
 -- name    : SoficGroups.LocalMultiplicativeOn.map_inv_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/719071c3-aeb6-4bd3-aa52-6f7e55581246

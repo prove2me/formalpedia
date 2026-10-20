@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_filtered_piece_eventual_finrank
 -- name    : PermanentRollout.affine_total_degree_filtered_piece_eventual_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/97284d30-c8bd-45dc-af95-13a8e100bc87

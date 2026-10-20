@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleNegative_sqrt_le_one_add
 -- name    : CohnElkies.saddleNegative_sqrt_le_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/42b1da3b-fd90-4a47-8574-567d97ef8769

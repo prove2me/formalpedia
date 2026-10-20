@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuitGate_eq_graphEvaluation_rhs
 -- name    : PermanentRollout.freeAffineCircuitGate_eq_graphEvaluation_rhs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/40a41305-c869-4af2-bdf3-a93a5c628e89

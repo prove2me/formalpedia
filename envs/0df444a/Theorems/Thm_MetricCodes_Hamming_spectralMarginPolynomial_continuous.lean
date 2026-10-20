@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_spectralMarginPolynomial_continuous
 -- name    : MetricCodes.Hamming.spectralMarginPolynomial_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/709a3920-66ce-4b5d-9fcc-26b5d2097ac1

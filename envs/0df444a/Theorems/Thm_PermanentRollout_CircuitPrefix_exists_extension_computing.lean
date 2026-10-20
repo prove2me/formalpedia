@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_CircuitPrefix_exists_extension_computing
 -- name    : PermanentRollout.CircuitPrefix.exists_extension_computing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/2ad3dd50-95d5-4ee7-b89c-8cca6fde79f7

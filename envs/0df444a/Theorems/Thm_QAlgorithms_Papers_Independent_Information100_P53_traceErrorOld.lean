@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_traceErrorOld
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.traceErrorOld
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:04:32.916857+00:00
 -- url     : https://prove2.me/theorems/7396ac55-ecf2-434e-a3a5-2ffcbee303c8

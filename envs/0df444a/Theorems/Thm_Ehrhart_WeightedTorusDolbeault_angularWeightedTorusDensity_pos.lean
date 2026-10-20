@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDolbeault_angularWeightedTorusDensity_pos
 -- name    : Ehrhart.WeightedTorusDolbeault.angularWeightedTorusDensity_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/d8fc935c-7fdb-4b75-9b82-ffcd0c641a39

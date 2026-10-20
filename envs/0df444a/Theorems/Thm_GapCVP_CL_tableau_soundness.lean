@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_tableau_soundness
 -- name    : GapCVP.CL.tableau_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/c95713cd-7092-41cb-a713-fb092e3e31c3

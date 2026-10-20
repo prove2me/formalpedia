@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_encodeFiniteGraph_not_acyclic
 -- name    : CompactnessConjecture.encodeFiniteGraph_not_acyclic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/e303e14d-ccc2-4ab6-8482-2b7b74ee813a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_norm_sub_one_third_smul_sq
 -- name    : SoficGroups.norm_sub_one_third_smul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/ee2da266-b00a-4d55-bbe2-3f76c4107d56

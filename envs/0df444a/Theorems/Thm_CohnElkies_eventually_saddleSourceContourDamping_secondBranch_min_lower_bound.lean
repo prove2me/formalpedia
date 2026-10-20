@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceContourDamping_secondBranch_min_lower_bound
 -- name    : CohnElkies.eventually_saddleSourceContourDamping_secondBranch_min_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/a26bf2d0-aacf-4271-91eb-dcf601064f07

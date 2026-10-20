@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_spectralLimit_eq_hatted
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.spectralLimit_eq_hatted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/ff18c04b-6cd8-4adf-a49b-1e33483272d0

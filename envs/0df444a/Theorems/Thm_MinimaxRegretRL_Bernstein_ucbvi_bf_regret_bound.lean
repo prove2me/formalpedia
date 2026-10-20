@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxRegretRL_Bernstein_ucbvi_bf_regret_bound
 -- name    : MinimaxRegretRL.Bernstein.ucbvi_bf_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:45:36.853987+00:00
 -- url     : https://prove2.me/theorems/21490c43-d7db-4155-ab56-fdbfc08927c2

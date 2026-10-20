@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CLStructuralWholeCNFOutputTM_structuralWholeCNFWord_eq_encodedTableau
 -- name    : GapCVP.CLStructuralWholeCNFOutputTM.structuralWholeCNFWord_eq_encodedTableau
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/734ba0b4-dda7-4f3d-b63e-e9723847ee49

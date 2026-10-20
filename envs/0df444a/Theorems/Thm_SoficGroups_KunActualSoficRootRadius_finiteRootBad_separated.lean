@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_finiteRootBad_separated
 -- name    : SoficGroups.KunActualSoficRootRadius.finiteRootBad_separated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/1bcc941e-7164-4155-8aaa-2c39437e34cc

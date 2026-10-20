@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_append_stabilizer_prefix_suffix
 -- name    : MetricCodes.Spherical.HigherHierarchy.append_stabilizer_prefix_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/680ad9fe-1233-4b46-a3f7-f643dc68353c

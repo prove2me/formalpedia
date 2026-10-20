@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformQualReg_ExclSubsid_reduced_subsidization
 -- name    : PlatformQualReg.ExclSubsid.reduced_subsidization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:52:04.392413+00:00
 -- url     : https://prove2.me/theorems/a36132ac-6c49-4b92-83f4-1f840ab88987

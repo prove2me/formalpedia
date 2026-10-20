@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_bounded_homogeneous_hilbert_coefficient_insert_recurrence
 -- name    : PermanentRollout.homogeneousMap_allRank_bounded_homogeneous_hilbert_coefficient_insert_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/5394b037-6965-49dd-9c91-80b50fc8b04f

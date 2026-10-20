@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_quadraticCoordinate_ambient
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.quadraticCoordinate_ambient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/d146cd43-a6f9-4df7-80a1-29223944117e

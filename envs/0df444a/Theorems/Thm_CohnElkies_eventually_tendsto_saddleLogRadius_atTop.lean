@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_tendsto_saddleLogRadius_atTop
 -- name    : CohnElkies.eventually_tendsto_saddleLogRadius_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/3f20f37a-6e39-4724-b60b-3506260d8268

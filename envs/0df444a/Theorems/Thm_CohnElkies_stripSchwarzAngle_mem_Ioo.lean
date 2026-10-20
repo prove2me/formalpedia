@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripSchwarzAngle_mem_Ioo
 -- name    : CohnElkies.stripSchwarzAngle_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/ab86e426-5a1f-4f28-8c11-3e84aba29e16

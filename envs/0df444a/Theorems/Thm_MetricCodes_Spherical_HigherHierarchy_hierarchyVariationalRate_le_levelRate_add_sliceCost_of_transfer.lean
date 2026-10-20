@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyVariationalRate_le_levelRate_add_sliceCost_of_transfer
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyVariationalRate_le_levelRate_add_sliceCost_of_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/cdf0aed1-ca08-4f86-9aee-def23d2f59c6

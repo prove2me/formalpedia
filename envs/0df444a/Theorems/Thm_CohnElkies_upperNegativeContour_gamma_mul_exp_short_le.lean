@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperNegativeContour_gamma_mul_exp_short_le
 -- name    : CohnElkies.upperNegativeContour_gamma_mul_exp_short_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/a9be8648-7b08-4373-bfc0-328417985bfb

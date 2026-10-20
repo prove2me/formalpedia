@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_gate_prefix_graph_ideal_isPrime
 -- name    : PermanentRollout.affine_gate_prefix_graph_ideal_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/5a56a46f-a2a7-40b2-9e92-c6385a9dde63

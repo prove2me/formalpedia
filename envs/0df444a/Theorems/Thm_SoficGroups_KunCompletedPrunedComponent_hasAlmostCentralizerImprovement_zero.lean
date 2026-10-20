@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedPrunedComponent_hasAlmostCentralizerImprovement_zero
 -- name    : SoficGroups.KunCompletedPrunedComponent.hasAlmostCentralizerImprovement_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/a69aa194-8675-41ac-a0f2-2c4102e22a23

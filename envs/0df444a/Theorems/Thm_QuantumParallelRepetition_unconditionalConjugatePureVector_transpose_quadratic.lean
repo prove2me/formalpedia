@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalConjugatePureVector_transpose_quadratic
 -- name    : QuantumParallelRepetition.unconditionalConjugatePureVector_transpose_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/31730a1b-4ffb-4bf7-814d-22a2c82dd3ee

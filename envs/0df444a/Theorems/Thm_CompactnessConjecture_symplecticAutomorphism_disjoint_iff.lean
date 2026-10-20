@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticAutomorphism_disjoint_iff
 -- name    : CompactnessConjecture.symplecticAutomorphism_disjoint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/96c3b582-c63a-4eee-992f-992e3f27f979

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_even_antitone_poisson_lintegral_max
 -- name    : CohnElkies.even_antitone_poisson_lintegral_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/8ca24468-73a4-4807-817f-59f0db21c5d6

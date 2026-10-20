@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_spectralPrefactor_pos
 -- name    : MetricCodes.Hamming.spectralPrefactor_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/5f67f89f-86c3-4b4a-b438-db24ca87be4d

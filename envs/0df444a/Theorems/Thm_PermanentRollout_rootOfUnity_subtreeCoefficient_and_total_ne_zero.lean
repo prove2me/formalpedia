@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_rootOfUnity_subtreeCoefficient_and_total_ne_zero
 -- name    : PermanentRollout.rootOfUnity_subtreeCoefficient_and_total_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/93b5a565-eec9-43eb-8d0b-408b071d2555

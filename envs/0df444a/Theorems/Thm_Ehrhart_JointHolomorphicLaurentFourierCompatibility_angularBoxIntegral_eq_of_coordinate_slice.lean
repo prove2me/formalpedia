@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_angularBoxIntegral_eq_of_coordinate_slice
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.angularBoxIntegral_eq_of_coordinate_slice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/875a45ee-0a3e-4dea-8d11-b380ccd85659

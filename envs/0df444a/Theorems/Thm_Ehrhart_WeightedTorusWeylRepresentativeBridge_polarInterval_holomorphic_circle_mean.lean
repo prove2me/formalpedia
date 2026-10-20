@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_polarInterval_holomorphic_circle_mean
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.polarInterval_holomorphic_circle_mean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/d2cf2cd8-31ec-431b-aaec-5988adc86114

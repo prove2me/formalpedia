@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_binaryNearestCodeword_no_iff_original
 -- name    : GapCVP.Comparator.binaryNearestCodeword_no_iff_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/4d9f738f-ce14-4f68-9672-bbf354b642fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSL2Unipotent_weyl_complete_reducibility_SL2_unipotent
 -- name    : BookProof.ChapterWeylSL2Unipotent.weyl_complete_reducibility_SL2_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:41:53.219136+00:00
 -- url     : https://prove2.me/theorems/0a4bd209-c37e-4302-acf3-a9ac39a6eb47

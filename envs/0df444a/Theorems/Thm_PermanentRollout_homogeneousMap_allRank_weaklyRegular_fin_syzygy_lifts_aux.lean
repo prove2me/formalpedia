@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_weaklyRegular_fin_syzygy_lifts_aux
 -- name    : PermanentRollout.homogeneousMap_allRank_weaklyRegular_fin_syzygy_lifts_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/252b5d83-320e-473f-a245-52f954bbc15f

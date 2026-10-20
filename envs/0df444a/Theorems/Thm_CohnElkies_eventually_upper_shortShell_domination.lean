@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_upper_shortShell_domination
 -- name    : CohnElkies.eventually_upper_shortShell_domination
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/66e4c84a-e867-4878-b978-ba283c69a695

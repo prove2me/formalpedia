@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_SpectralAsymptotics_tendsto_floored_ratio
 -- name    : SpherePacking.SpectralAsymptotics.tendsto_floored_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/9cdccafd-f0a8-4f43-b274-b2fbfa94ade6

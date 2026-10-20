@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfRoundingCoefficient_one_le
 -- name    : QuantumParallelRepetition.pdfRoundingCoefficient_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/5ed727a1-b844-428c-9eaa-9252f264e87b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_cyclicMatchingBlock_fourth_power_bound
 -- name    : PermanentFormulaLowerBound.RationalFormula.cyclicMatchingBlock_fourth_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/23d5b08e-cd9f-4af3-913b-bb470c2b6c4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_continuous_derivativePartitionedRealCoverIntegrand
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.continuous_derivativePartitionedRealCoverIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/6b9a5a33-d00e-4d7a-af92-d4d8fa5f56db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localizedLevelRate_succ_lt_of_compactifiedCertificateClosure
 -- name    : MetricCodes.Spherical.HigherHierarchy.localizedLevelRate_succ_lt_of_compactifiedCertificateClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/cbc83560-9e73-4267-8d7b-dfc4f2073f89

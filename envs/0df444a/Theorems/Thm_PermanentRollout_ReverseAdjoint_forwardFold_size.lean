@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_forwardFold_size
 -- name    : PermanentRollout.ReverseAdjoint.forwardFold_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/79ee7a71-ce0f-4a45-bfdc-d94f3664e656

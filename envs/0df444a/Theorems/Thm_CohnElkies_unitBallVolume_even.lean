@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_unitBallVolume_even
 -- name    : CohnElkies.unitBallVolume_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/98ab1d4a-aad3-4d03-af00-66f34e3e4c67

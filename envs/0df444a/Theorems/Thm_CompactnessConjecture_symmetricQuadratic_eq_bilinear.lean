@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricQuadratic_eq_bilinear
 -- name    : CompactnessConjecture.symmetricQuadratic_eq_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/80d4547e-622e-49bc-9e8d-a2b846da1693

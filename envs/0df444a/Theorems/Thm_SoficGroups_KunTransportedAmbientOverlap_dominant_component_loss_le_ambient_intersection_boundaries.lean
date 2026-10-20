@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_dominant_component_loss_le_ambient_intersection_boundaries
 -- name    : SoficGroups.KunTransportedAmbientOverlap.dominant_component_loss_le_ambient_intersection_boundaries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/6d5bf0fa-4e0e-4fac-a8c3-b38786669bba

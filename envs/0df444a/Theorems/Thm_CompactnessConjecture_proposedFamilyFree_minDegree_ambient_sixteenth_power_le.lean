@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_minDegree_ambient_sixteenth_power_le
 -- name    : CompactnessConjecture.proposedFamilyFree_minDegree_ambient_sixteenth_power_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/cbdb2827-7384-4a44-a4d2-dd4cbcb68fc2

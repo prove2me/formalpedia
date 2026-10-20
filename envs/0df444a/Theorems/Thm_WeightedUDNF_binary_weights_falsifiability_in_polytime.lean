@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedUDNF_binary_weights_falsifiability_in_polytime
 -- name    : WeightedUDNF.binary_weights_falsifiability_in_polytime
--- status  : Open
+-- status  : Proved
 -- author  : @hao jia
 -- created : 2026-10-04T22:26:40.16304+00:00
 -- url     : https://prove2.me/theorems/1d890170-ac3f-4fe6-afd3-30cbb064e229

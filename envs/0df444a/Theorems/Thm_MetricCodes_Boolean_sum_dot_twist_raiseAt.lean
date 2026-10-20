@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_sum_dot_twist_raiseAt
 -- name    : MetricCodes.Boolean.sum_dot_twist_raiseAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/ab44e41b-d313-474d-9bc6-30328538fe32

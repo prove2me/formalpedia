@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_sourceFreeProbabilityVariance_eq_momentVariance
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.sourceFreeProbabilityVariance_eq_momentVariance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/3b80bf4e-c755-4c61-973f-af7f76b0fc7b

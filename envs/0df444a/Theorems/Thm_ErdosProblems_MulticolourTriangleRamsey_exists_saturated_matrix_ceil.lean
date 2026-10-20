@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_saturated_matrix_ceil
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_saturated_matrix_ceil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/33156bd1-d7df-4f27-b136-82429b14f181

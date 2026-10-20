@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_coverRealTest_eq_zero_of_notMem_tsupport
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.coverRealTest_eq_zero_of_notMem_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/38e2ea08-3146-40ba-8774-125eb88f14c0

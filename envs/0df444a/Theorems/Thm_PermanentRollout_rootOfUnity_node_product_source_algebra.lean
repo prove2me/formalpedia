@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_rootOfUnity_node_product_source_algebra
 -- name    : PermanentRollout.rootOfUnity_node_product_source_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/5777c8ca-ba73-40ae-a501-08c2b0caca7b

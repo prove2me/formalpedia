@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_sum_indicator_nat_eq_mul_card
 -- name    : SoficGroups.KunThomFiberCoarea.sum_indicator_nat_eq_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/7efcb966-be58-4c0d-b822-68f667d3fc8b

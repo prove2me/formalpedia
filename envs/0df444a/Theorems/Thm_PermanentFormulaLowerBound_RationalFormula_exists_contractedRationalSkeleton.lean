@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_exists_contractedRationalSkeleton
 -- name    : PermanentFormulaLowerBound.RationalFormula.exists_contractedRationalSkeleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/7d754f7b-34d8-408e-bbf7-19128d645098

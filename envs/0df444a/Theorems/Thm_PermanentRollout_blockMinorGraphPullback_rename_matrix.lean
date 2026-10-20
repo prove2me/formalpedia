@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockMinorGraphPullback_rename_matrix
 -- name    : PermanentRollout.blockMinorGraphPullback_rename_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/8411e3fb-d170-4c8a-8406-a30c1c0e2337

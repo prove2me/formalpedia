@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_rateSet_nonempty_of_interior
 -- name    : MetricCodes.Hamming.rateSet_nonempty_of_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/3d838bce-9cda-45ef-91d2-359603357ed9

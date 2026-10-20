@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_unitaryFixedSubmodule_sup
 -- name    : SoficGroups.unitaryFixedSubmodule_sup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/5512b8d0-3697-4276-9034-ceef97ce3cf7

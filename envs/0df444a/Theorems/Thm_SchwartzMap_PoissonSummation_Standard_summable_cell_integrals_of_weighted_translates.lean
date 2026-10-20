@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_summable_cell_integrals_of_weighted_translates
 -- name    : SchwartzMap.PoissonSummation.Standard.summable_cell_integrals_of_weighted_translates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/1437791d-d23a-4be6-868f-c740610d97fd

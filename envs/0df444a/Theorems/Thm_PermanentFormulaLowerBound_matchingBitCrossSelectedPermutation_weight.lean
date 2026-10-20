@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingBitCrossSelectedPermutation_weight
 -- name    : PermanentFormulaLowerBound.matchingBitCrossSelectedPermutation_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/e8c799a8-bf09-4f46-a077-c223c8f56eea

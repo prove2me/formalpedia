@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_shiftedChebyshev_derivative_eval_zero
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.shiftedChebyshev_derivative_eval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/a9bfd11d-3883-432e-8c90-c3742f130ba4

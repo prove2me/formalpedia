@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingEmbedding_prod_split
 -- name    : PermanentFormulaLowerBound.matchingEmbedding_prod_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/39f244f5-8fc2-4667-85f8-5463bdf89f31

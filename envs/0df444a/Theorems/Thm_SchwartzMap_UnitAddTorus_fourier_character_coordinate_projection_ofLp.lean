@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_UnitAddTorus_fourier_character_coordinate_projection_ofLp
 -- name    : SchwartzMap.UnitAddTorus.fourier_character_coordinate_projection_ofLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/7158a2db-9b0d-4720-8b9e-92598cbea91b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousTargetFirstSpectralPhysicalSource_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousTargetFirstSpectralPhysicalSource_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/8582c955-bdd4-4515-ac3e-89bf0f1becd8

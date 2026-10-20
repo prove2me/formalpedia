@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaQuadraticKernel_integrable
 -- name    : CohnElkies.upperGammaQuadraticKernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/951dba38-8ce5-493b-9118-9728d5bce642

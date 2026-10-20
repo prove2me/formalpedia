@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_Gamma_of_compactified_suffix
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_Gamma_of_compactified_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/b5f942cf-0270-4558-8880-5fc5a925f5f1

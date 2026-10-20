@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_exists_topEigenvector
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.exists_topEigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/15af000f-c7f5-48a9-ba89-3ef88f6529b3

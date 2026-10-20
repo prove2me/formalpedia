@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_ListsRotation_proposition5_lists_rotation
 -- name    : SellingData.ListsRotation.proposition5_lists_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:45.921607+00:00
 -- url     : https://prove2.me/theorems/06ab5492-97c6-4582-9e59-71312de48e71

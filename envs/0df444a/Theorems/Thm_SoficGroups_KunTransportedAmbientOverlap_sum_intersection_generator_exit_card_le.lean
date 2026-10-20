@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_sum_intersection_generator_exit_card_le
 -- name    : SoficGroups.KunTransportedAmbientOverlap.sum_intersection_generator_exit_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/25e1ba68-d7a2-47d7-bd74-a63a7c06169e

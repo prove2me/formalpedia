@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongCoverMollificationDensity_normalizedCoverMollificationL2_dist_le
 -- name    : Ehrhart.TorusStrongCoverMollificationDensity.normalizedCoverMollificationL2_dist_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/ee45e46b-730e-40a7-ab5c-bbea84455c78

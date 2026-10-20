@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareZero_fullBlockProduct
 -- name    : PermanentRollout.squareZero_fullBlockProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/0386d393-1539-49d2-a7a6-9b25c12d4758

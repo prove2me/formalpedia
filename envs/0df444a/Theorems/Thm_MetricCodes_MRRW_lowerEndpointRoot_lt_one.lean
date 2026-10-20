@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_lowerEndpointRoot_lt_one
 -- name    : MetricCodes.MRRW.lowerEndpointRoot_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/22331493-0d24-4fb4-8471-8d41b4ceda5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_isLittleO_norm_pow_of_iteratedFDeriv_zero
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.isLittleO_norm_pow_of_iteratedFDeriv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/aba0af56-edef-49e9-a5a0-a5896576c3fa

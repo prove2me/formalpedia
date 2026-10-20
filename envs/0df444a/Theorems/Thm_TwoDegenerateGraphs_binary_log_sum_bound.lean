@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binary_log_sum_bound
 -- name    : TwoDegenerateGraphs.binary_log_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/b6779900-fc5d-4647-a6f5-0aaccf380b38

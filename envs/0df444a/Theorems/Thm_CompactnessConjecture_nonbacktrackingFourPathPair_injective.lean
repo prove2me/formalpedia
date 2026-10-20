@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_nonbacktrackingFourPathPair_injective
 -- name    : CompactnessConjecture.nonbacktrackingFourPathPair_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/4ee6cc06-499a-444b-aff8-14817c08ed3f

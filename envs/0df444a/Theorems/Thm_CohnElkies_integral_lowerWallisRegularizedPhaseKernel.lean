@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_lowerWallisRegularizedPhaseKernel
 -- name    : CohnElkies.integral_lowerWallisRegularizedPhaseKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/8ef045b1-e3f8-40c9-a7f4-190d4adfc251

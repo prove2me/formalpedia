@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunPositiveWordMidrankEnergy_squaredPermutationEnergy_mul_le
 -- name    : SoficGroups.KunPositiveWordMidrankEnergy.squaredPermutationEnergy_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/0664e634-245d-4a9f-8cd0-9e2010abe39c

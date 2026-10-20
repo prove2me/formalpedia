@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfPostselectionLogCost_lt_of_exponential
 -- name    : QuantumParallelRepetition.pdfPostselectionLogCost_lt_of_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/19078ede-d6b8-48ea-9826-fa7af70a8500

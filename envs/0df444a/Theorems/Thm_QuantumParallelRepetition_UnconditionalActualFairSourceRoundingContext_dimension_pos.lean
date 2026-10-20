@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_UnconditionalActualFairSourceRoundingContext_dimension_pos
 -- name    : QuantumParallelRepetition.UnconditionalActualFairSourceRoundingContext.dimension_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/e779a137-d985-4d7f-a3e6-dc5cdfd30aca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_UnitPacking_covered_eq_toGeneralPacking_balls
 -- name    : SpherePacking.UnitPacking.covered_eq_toGeneralPacking_balls
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/65e0d24a-86aa-4924-9a83-3a7c3ca38699

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTFullySelectedTransverseBranchProjection_gtFullTransverseEmbedding_range_eq_selectedTransverseTensorEmbedding
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTFullySelectedTransverseBranchProjection.gtFullTransverseEmbedding_range_eq_selectedTransverseTensorEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/3fabce5f-4cef-4685-a609-23ebb91aba72

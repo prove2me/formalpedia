@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplectic_triangle_points_collinear
 -- name    : CompactnessConjecture.symplectic_triangle_points_collinear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/521c24a4-2199-4d4f-a4e9-cfd5ae9646e5

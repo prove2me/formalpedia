@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripRegularizedHolomorphicPoissonKernel_continuousOn_Iio
 -- name    : CohnElkies.stripRegularizedHolomorphicPoissonKernel_continuousOn_Iio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/ca751c3c-182d-4594-9fe4-a937f97a992e

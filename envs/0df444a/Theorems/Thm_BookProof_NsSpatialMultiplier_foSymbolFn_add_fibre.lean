@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsSpatialMultiplier_foSymbolFn_add_fibre
 -- name    : BookProof.NsSpatialMultiplier.foSymbolFn_add_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:59.571597+00:00
 -- url     : https://prove2.me/theorems/45edef17-359c-4d1e-9071-5aaf319a64dd

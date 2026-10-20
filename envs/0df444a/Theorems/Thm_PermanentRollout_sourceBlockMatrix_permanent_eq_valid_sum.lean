@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMatrix_permanent_eq_valid_sum
 -- name    : PermanentRollout.sourceBlockMatrix_permanent_eq_valid_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/ac3f9f65-2737-4a83-93b0-31f57bf8ef97

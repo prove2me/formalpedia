@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_plusSaddleTaylorRemainder_relative_lt_half_on_star
 -- name    : CohnElkies.eventually_plusSaddleTaylorRemainder_relative_lt_half_on_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/4c42a65a-8d92-4f5d-8b03-7a1053a201f4

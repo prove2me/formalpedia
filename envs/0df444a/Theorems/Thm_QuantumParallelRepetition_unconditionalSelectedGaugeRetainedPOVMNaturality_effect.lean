@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedGaugeRetainedPOVMNaturality_effect
 -- name    : QuantumParallelRepetition.unconditionalSelectedGaugeRetainedPOVMNaturality_effect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/149d453c-666f-4443-b46c-77d750df635c

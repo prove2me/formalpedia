@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_sqrt_degree_mul_one_add_eq
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.sqrt_degree_mul_one_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/abc3b0dd-45ff-4261-b560-529a9d979beb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDiagonalObservableLatticeIdentity_momentNormalizedLaurentObservable_eq_integral_normalizedMonomialDensity
 -- name    : Ehrhart.BergmanJetDiagonalObservableLatticeIdentity.momentNormalizedLaurentObservable_eq_integral_normalizedMonomialDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/d8259a46-2d3d-47af-b5bb-60666a8c4db5

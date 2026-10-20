@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripSchwarzExponential_continuous
 -- name    : CohnElkies.stripSchwarzExponential_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/9d7b1af0-7f90-4fae-a606-d8fca28cfa08

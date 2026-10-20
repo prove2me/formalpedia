@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceTopLevelCompressionFinal_binaryLeavittElementaryGroup_not_sofic
 -- name    : SoficGroups.SourceTopLevelCompressionFinal.binaryLeavittElementaryGroup_not_sofic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/c9c9acec-8127-4153-a6dd-57b9ce34116f

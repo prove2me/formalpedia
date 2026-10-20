@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentRegularity_volume_absolutelyContinuous_finiteEnergySourceGibbs
 -- name    : Ehrhart.MomentRegularity.volume_absolutelyContinuous_finiteEnergySourceGibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/9ebfbd45-efc9-4eb8-96a2-0041870f6674

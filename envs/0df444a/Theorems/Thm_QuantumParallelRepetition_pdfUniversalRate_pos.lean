@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfUniversalRate_pos
 -- name    : QuantumParallelRepetition.pdfUniversalRate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/6d74d617-76d0-460f-882d-e1717fd555d8

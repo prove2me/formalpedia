@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matched_partition_part_eq_of_target_part_eq
 -- name    : SoficGroups.matched_partition_part_eq_of_target_part_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/143f99fb-06ff-4200-b955-3ad604a1a482

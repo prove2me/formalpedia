@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapIdeal_isHomogeneous
 -- name    : PermanentRollout.homogeneousMapIdeal_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/71651411-3a21-4b01-a1f5-40198e5892f1

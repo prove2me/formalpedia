@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_secondMultiplicity_permutationGraph
 -- name    : SoficGroups.KunThomFiberCoarea.secondMultiplicity_permutationGraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/5912fbeb-c604-4641-8ae7-9453013766db

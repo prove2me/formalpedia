@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_sum_intersection_boundary_le_partition_boundaries
 -- name    : SoficGroups.KunTransportedAmbientOverlap.sum_intersection_boundary_le_partition_boundaries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/4829a84a-55be-4fa7-a979-3a499c9ad302

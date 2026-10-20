@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxSpectral_boxVertex_card
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxSpectral.boxVertex_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/32a01aec-bfb3-41df-9fa4-e621ef12c822

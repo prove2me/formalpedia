@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_exists_linear_avoiding_minimalPrimes
 -- name    : PermanentRollout.permanent_rollout_exists_linear_avoiding_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/5c1629c6-cd9e-4f46-a0b4-0221b88ac2b9

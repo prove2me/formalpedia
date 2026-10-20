@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparisonMeasure_eq_volume_withDensity
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparisonMeasure_eq_volume_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/3d759de9-b3de-47ed-8ce6-06083fcdced9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeBridge_continuous_momentTorusJetBasisWeight
 -- name    : Ehrhart.BergmanJetTorusSlopeBridge.continuous_momentTorusJetBasisWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/ff2fe4a9-f025-4575-96f4-739fa6a4d194

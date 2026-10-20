@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetRadialHaarWeakProbabilityLift_momentTorusBergmanProbability_eq_normalizedRadial_prod_angular
 -- name    : Ehrhart.BergmanJetRadialHaarWeakProbabilityLift.momentTorusBergmanProbability_eq_normalizedRadial_prod_angular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/47b96893-d6cb-43b5-affe-83687af2eb9e

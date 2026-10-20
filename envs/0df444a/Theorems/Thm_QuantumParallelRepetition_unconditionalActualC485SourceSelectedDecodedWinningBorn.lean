@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485SourceSelectedDecodedWinningBorn
 -- name    : QuantumParallelRepetition.unconditionalActualC485SourceSelectedDecodedWinningBorn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/53886c16-3107-4d3d-a67d-7291a7e7c13b

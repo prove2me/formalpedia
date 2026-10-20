@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_integrable_unweightedSourceTorusIntegrand
 -- name    : Ehrhart.MatrixTorusBochnerBridge.integrable_unweightedSourceTorusIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/8a01a538-f8cb-4a59-a1cb-10dba583a442

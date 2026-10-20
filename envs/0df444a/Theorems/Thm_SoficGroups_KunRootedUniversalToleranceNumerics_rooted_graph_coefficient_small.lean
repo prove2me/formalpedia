@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedUniversalToleranceNumerics_rooted_graph_coefficient_small
 -- name    : SoficGroups.KunRootedUniversalToleranceNumerics.rooted_graph_coefficient_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/f5933edf-68c6-4c6e-a91e-c0d82d947604

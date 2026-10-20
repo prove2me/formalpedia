@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylWeakRepresentativeBridge_weightedZeroGraph_exists_periodic_holomorphic_representative
 -- name    : Ehrhart.WeightedTorusWeylWeakRepresentativeBridge.weightedZeroGraph_exists_periodic_holomorphic_representative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/e4fb03b4-cf9e-4fac-b0a0-b2af282033c9

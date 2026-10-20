@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunDiagonalGoodRootGraphLoss_goodPermutationGraph_subset
 -- name    : SoficGroups.KunDiagonalGoodRootGraphLoss.goodPermutationGraph_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/3a737ead-afcd-40d8-9afc-49e515fa3c1c

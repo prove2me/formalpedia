@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceGaussianKernel_normalized_tail_le
 -- name    : CohnElkies.saddleSourceGaussianKernel_normalized_tail_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/d498b944-a02f-4158-9ee7-5f7225b04111

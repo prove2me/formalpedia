@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_alphaPrefixElementaryGroup_finitelyGenerated
 -- name    : SoficGroups.alphaPrefixElementaryGroup_finitelyGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/18080913-c46a-41b4-b627-456b6a9ceb3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_unit_coordinate_sq_sum
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.unit_coordinate_sq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/08593967-03ce-48e6-ac5b-2f5d2ba1980e

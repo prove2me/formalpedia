@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_source_fixedDegree_permanent_circuit_logarithmic_bound
 -- name    : PermanentRollout.source_fixedDegree_permanent_circuit_logarithmic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/4dea754b-5472-4391-97a9-dd1885fc3543

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_barPartial_mul
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.barPartial_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/77a1f105-9af3-40c1-9972-09096c2a8499

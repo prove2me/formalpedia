@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedEdgeCount_deviation_probability_le
 -- name    : TwoDegenerateGraphs.hammingRetainedEdgeCount_deviation_probability_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/12395d38-dc0e-4102-9b1a-8e8222afe061

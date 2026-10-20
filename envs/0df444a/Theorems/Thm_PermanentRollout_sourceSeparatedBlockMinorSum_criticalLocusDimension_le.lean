@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceSeparatedBlockMinorSum_criticalLocusDimension_le
 -- name    : PermanentRollout.sourceSeparatedBlockMinorSum_criticalLocusDimension_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/184dc773-c83d-45c4-98e4-9f13d34847a0

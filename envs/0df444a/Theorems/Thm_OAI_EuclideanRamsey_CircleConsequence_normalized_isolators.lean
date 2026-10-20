@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_CircleConsequence_normalized_isolators
 -- name    : OAI.EuclideanRamsey.CircleConsequence.normalized_isolators
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:27:22.736425+00:00
 -- url     : https://prove2.me/theorems/fa87c1f7-ac45-4f65-80a9-c3fc89f05401

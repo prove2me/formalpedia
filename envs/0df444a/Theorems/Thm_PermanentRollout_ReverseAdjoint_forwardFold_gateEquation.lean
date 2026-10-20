@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_forwardFold_gateEquation
 -- name    : PermanentRollout.ReverseAdjoint.forwardFold_gateEquation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/375880ea-c3a5-46ee-8930-398f26af31ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_exists_maximal_sphericalCode
 -- name    : SpherePacking.exists_maximal_sphericalCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/34ac760b-6eae-45cb-b742-313c82613fc6

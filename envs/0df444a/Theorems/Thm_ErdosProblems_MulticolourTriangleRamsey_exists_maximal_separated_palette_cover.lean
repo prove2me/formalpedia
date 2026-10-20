@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_maximal_separated_palette_cover
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_maximal_separated_palette_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/042db80e-5eed-4593-9c76-6d40606d582c

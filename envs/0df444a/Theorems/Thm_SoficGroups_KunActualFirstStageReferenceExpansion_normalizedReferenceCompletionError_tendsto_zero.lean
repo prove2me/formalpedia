@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFirstStageReferenceExpansion_normalizedReferenceCompletionError_tendsto_zero
 -- name    : SoficGroups.KunActualFirstStageReferenceExpansion.normalizedReferenceCompletionError_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/9df375d0-5727-4762-9699-f3403e6c519f

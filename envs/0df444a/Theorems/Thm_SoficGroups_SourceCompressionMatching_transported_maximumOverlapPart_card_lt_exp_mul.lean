@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionMatching_transported_maximumOverlapPart_card_lt_exp_mul
 -- name    : SoficGroups.SourceCompressionMatching.transported_maximumOverlapPart_card_lt_exp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/056f6249-4042-4739-b816-ef8f96ab1a40

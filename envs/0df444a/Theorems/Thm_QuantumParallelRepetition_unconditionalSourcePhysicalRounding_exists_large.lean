@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalRounding_exists_large
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalRounding_exists_large
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/636df924-de85-4b54-a87b-64a8e0706377

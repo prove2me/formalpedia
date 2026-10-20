@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_source_block_slicedGradient
 -- name    : PermanentRollout.exists_source_block_slicedGradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/787822bf-4a81-4099-911d-77ee820db5e3

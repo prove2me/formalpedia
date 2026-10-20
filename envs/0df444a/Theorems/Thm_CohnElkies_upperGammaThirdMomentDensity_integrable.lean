@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaThirdMomentDensity_integrable
 -- name    : CohnElkies.upperGammaThirdMomentDensity_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/89e374c1-b0ee-4d2a-944d-ce5b7e6441d9

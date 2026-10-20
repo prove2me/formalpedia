@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_binaryLeavittEL3_finitelyGenerated
 -- name    : SoficGroups.binaryLeavittEL3_finitelyGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/f940f345-01dc-43d2-9bbf-cbdae609568f

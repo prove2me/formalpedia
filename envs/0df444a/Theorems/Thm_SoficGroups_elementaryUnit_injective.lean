@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_elementaryUnit_injective
 -- name    : SoficGroups.elementaryUnit_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/91429fd8-f566-4fa8-9396-5beed4827caa

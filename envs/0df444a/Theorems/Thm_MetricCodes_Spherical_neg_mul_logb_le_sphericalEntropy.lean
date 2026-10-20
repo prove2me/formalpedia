@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_neg_mul_logb_le_sphericalEntropy
 -- name    : MetricCodes.Spherical.neg_mul_logb_le_sphericalEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/7b038ed1-20e5-42a8-8415-e0ea1d887c1d

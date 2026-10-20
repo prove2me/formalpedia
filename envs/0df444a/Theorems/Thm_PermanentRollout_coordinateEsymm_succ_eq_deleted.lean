@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_coordinateEsymm_succ_eq_deleted
 -- name    : PermanentRollout.coordinateEsymm_succ_eq_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/d5c85aa8-f7dd-41d8-b1c1-3f334cd6859d

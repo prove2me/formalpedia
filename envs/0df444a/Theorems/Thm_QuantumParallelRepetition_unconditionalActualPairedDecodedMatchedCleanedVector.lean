@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualPairedDecodedMatchedCleanedVector
 -- name    : QuantumParallelRepetition.unconditionalActualPairedDecodedMatchedCleanedVector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/daedce36-8981-4a6d-abe7-5d581f887971

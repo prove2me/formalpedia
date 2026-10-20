@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_almostCentralizerCluster_eq_iff
 -- name    : SoficGroups.almostCentralizerCluster_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/1f208031-56dc-4953-9ff6-d85010179b40

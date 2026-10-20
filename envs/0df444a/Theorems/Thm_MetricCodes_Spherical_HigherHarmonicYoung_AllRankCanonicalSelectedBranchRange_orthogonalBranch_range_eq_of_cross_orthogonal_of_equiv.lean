@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCanonicalSelectedBranchRange_orthogonalBranch_range_eq_of_cross_orthogonal_of_equiv
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange.orthogonalBranch_range_eq_of_cross_orthogonal_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/5ce2b4a2-92b6-451c-81d0-4fa6c5676b3f

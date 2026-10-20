@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedEdgeCount_lower_tail_probability_le
 -- name    : TwoDegenerateGraphs.hammingRetainedEdgeCount_lower_tail_probability_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/dd2185dd-e016-42f9-b2bd-3415a564c387

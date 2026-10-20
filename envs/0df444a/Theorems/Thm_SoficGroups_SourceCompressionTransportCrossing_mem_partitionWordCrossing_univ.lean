@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionTransportCrossing_mem_partitionWordCrossing_univ
 -- name    : SoficGroups.SourceCompressionTransportCrossing.mem_partitionWordCrossing_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/4b362e96-e87a-4cdb-b0e0-faaf6da41348

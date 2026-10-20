@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_tableGroup_not_sofic_of_obstruction
 -- name    : SoficGroups.tableGroup_not_sofic_of_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/27bb5c28-8488-4ada-aa22-0976e8b6095d

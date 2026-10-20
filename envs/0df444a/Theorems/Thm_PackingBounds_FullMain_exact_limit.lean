@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_FullMain_exact_limit
 -- name    : PackingBounds.FullMain.exact_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/9686c235-ec48-4f08-afdd-8409087170a4

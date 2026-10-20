@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_boundary_eq_sum_indicator
 -- name    : SoficGroups.KunResidualExpanderDecomposition.boundary_eq_sum_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/8f4c863d-9eb5-42f8-85da-25dc9c44a724

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_abs_log_momentNormalized_diagonalKernel_div_sub_le_bodyRadius
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.abs_log_momentNormalized_diagonalKernel_div_sub_le_bodyRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/ef3ab13b-def3-4daf-adb6-d3cebf67d55d

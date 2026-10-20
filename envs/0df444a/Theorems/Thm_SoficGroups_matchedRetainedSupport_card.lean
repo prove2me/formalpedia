@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedRetainedSupport_card
 -- name    : SoficGroups.matchedRetainedSupport_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/469de31b-5baa-415e-98cb-7ab78f53fd06

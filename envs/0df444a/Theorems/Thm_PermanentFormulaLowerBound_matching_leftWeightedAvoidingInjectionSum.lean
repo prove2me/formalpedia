@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matching_leftWeightedAvoidingInjectionSum
 -- name    : PermanentFormulaLowerBound.matching_leftWeightedAvoidingInjectionSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/45d0701e-17f2-4da6-a8f2-ca9fa436e5e7

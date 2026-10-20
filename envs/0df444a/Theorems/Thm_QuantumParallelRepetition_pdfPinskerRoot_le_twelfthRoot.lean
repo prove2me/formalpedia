@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfPinskerRoot_le_twelfthRoot
 -- name    : QuantumParallelRepetition.pdfPinskerRoot_le_twelfthRoot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/841fc07b-64f1-470d-838b-fec7d8ded603

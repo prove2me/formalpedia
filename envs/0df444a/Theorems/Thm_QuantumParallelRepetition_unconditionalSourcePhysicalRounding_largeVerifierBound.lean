@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalRounding_largeVerifierBound
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalRounding_largeVerifierBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/bfb1ec10-b18f-4193-a8b4-fc28a6516020

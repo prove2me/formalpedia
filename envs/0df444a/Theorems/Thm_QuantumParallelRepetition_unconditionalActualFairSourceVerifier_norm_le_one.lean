@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceVerifier_norm_le_one
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceVerifier_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/a6378cb4-1319-4b9d-ad46-af59036260e9

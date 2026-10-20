@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_kissing_witness_domain
 -- name    : MetricCodes.Numerics.kissing_witness_domain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/5a033600-eaae-4a66-920f-c3275222dc9a

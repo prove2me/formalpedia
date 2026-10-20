@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_differentiable_globalLaurentTwist
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.differentiable_globalLaurentTwist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/7f63eaaa-3afe-4ea5-98c7-ee459f28993d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_plusSaddleSmallRadius_weightedCoefficient_error
 -- name    : CohnElkies.exists_plusSaddleSmallRadius_weightedCoefficient_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/1826c2dc-f33e-4581-a4cb-dbb3dca66baf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_six_cycle_eventual_manuscript_lower
 -- name    : CompactnessConjecture.six_cycle_eventual_manuscript_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/0532d55e-3d75-4b87-baf0-34cf196604b7

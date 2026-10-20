@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_eigenvector_zero_of_positive_edge
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.eigenvector_zero_of_positive_edge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/54f29fa6-e37d-416d-a130-caa2c4ded2b0

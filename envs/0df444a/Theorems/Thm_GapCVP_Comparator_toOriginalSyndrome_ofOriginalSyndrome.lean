@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_toOriginalSyndrome_ofOriginalSyndrome
 -- name    : GapCVP.Comparator.toOriginalSyndrome_ofOriginalSyndrome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/ce2f69be-5ec7-4b85-9b1c-a2fe26bfee0d

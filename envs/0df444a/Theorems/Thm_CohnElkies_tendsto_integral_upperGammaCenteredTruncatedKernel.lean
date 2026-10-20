@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_integral_upperGammaCenteredTruncatedKernel
 -- name    : CohnElkies.tendsto_integral_upperGammaCenteredTruncatedKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/be30cca0-54d4-4ca4-96e1-6124dc844693

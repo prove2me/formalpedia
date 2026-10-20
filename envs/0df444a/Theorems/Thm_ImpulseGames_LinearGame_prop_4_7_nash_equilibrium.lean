@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_LinearGame_prop_4_7_nash_equilibrium
 -- name    : ImpulseGames.LinearGame.prop_4_7_nash_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:51:48.61365+00:00
 -- url     : https://prove2.me/theorems/2b17c77f-4ddb-4a6a-a941-c0610bb27573

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalSupport_momentWeakHolomorphicStrictJoint_centered_mem_resolventDefect_range_closure
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalSupport.momentWeakHolomorphicStrictJoint_centered_mem_resolventDefect_range_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/8f76f066-49a3-470a-b7eb-185927c796e1

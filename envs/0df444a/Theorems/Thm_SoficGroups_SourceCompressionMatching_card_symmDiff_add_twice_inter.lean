@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionMatching_card_symmDiff_add_twice_inter
 -- name    : SoficGroups.SourceCompressionMatching.card_symmDiff_add_twice_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/a840444c-6de8-4980-bd7a-ccd1ace38bb1

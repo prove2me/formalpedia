@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_commonNeighborIndependent_neighborhood_injective
 -- name    : CompactnessConjecture.commonNeighborIndependent_neighborhood_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/5d434adc-92ad-4c84-a6bd-e03e42481c65

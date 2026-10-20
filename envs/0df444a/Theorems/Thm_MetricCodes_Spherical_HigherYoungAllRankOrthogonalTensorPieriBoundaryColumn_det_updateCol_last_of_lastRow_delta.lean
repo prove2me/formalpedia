@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalTensorPieriBoundaryColumn_det_updateCol_last_of_lastRow_delta
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriBoundaryColumn.det_updateCol_last_of_lastRow_delta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/0f841365-ab10-47ed-8352-ec5c604ff1dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowMickelssonGramIdeal_iteratedArbitraryRowAxialRaise_append
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal.iteratedArbitraryRowAxialRaise_append
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/3b2ed62a-6cee-4826-8d72-cd1b60e1b4c1

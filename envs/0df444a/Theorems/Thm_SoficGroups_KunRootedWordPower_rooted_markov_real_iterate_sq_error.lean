@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_rooted_markov_real_iterate_sq_error
 -- name    : SoficGroups.KunRootedWordPower.rooted_markov_real_iterate_sq_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/f11b7741-feaa-41a1-b0c0-9953c62d089a

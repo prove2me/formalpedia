@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_exists_adj_degree_gt_two
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_exists_adj_degree_gt_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f4583ee8-605c-4709-8a0c-4b6370a8bba6

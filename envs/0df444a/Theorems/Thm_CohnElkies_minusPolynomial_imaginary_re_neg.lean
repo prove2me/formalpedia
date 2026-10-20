@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_minusPolynomial_imaginary_re_neg
 -- name    : CohnElkies.minusPolynomial_imaginary_re_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/0383e9dd-983a-4465-99a3-50c6862a8f27

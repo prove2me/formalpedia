@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_first_zero_mass_le_diagonalBoundary
 -- name    : SoficGroups.KunThomFiberCoarea.first_zero_mass_le_diagonalBoundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/a9d32b8f-51c7-4df9-986f-147b3c09cc90

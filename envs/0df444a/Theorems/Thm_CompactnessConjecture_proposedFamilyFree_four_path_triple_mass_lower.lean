@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_four_path_triple_mass_lower
 -- name    : CompactnessConjecture.proposedFamilyFree_four_path_triple_mass_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/dad2902a-db4b-4d7e-aa58-16534b05de80

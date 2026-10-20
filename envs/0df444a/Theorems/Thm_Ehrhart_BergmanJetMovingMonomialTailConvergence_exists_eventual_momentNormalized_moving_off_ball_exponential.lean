@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingMonomialTailConvergence_exists_eventual_momentNormalized_moving_off_ball_exponential
 -- name    : Ehrhart.BergmanJetMovingMonomialTailConvergence.exists_eventual_momentNormalized_moving_off_ball_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/7567a174-b705-4a9f-8ca6-527cb5870302

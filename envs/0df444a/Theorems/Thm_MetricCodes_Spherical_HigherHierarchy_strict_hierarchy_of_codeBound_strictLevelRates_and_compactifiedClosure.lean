@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_strict_hierarchy_of_codeBound_strictLevelRates_and_compactifiedClosure
 -- name    : MetricCodes.Spherical.HigherHierarchy.strict_hierarchy_of_codeBound_strictLevelRates_and_compactifiedClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/c9d1c373-8c8c-491b-a6b8-b6c7916b9dd7

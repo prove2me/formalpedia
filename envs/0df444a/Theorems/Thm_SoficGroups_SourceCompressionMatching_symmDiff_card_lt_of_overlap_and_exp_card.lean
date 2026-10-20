@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionMatching_symmDiff_card_lt_of_overlap_and_exp_card
 -- name    : SoficGroups.SourceCompressionMatching.symmDiff_card_lt_of_overlap_and_exp_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/8829a2be-2f37-4df6-bcfd-ea44b3e57cb6

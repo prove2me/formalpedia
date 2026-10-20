@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Numerics_kissing_spectral_certificate
 -- name    : MetricCodes.Spherical.HigherHierarchy.Numerics.kissing_spectral_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/160c8226-b375-4fdb-a6a2-c9d5889cd7cb

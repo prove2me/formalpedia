@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_card_nonbacktrackingNeighbor
 -- name    : CompactnessConjecture.card_nonbacktrackingNeighbor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/37e32277-8f63-4935-9395-a44e81ece8ea

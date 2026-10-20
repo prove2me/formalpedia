@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_compressionU_mem_sourceGenerated
 -- name    : SoficGroups.SourceGeneration.compressionU_mem_sourceGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/cffed660-d15e-46ff-b2bb-61a098a3718b

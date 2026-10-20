@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalStoppingBranch_sigmaContinuation
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalStoppingBranch_sigmaContinuation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/4f61b6ab-9852-411a-8051-a03d4d1f0bf0

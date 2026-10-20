@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_isSMulRegular_sup_span_swap
 -- name    : PermanentRollout.affine_isSMulRegular_sup_span_swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/b4cb94a9-cf50-45b1-9b60-3f8e7d4fb873

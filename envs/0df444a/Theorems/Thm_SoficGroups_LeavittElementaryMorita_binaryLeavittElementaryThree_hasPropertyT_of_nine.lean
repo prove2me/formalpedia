@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_LeavittElementaryMorita_binaryLeavittElementaryThree_hasPropertyT_of_nine
 -- name    : SoficGroups.LeavittElementaryMorita.binaryLeavittElementaryThree_hasPropertyT_of_nine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/781b535b-bb6b-4d13-970a-12f9873056a1

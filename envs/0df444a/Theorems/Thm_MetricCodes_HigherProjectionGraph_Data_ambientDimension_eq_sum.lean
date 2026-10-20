@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_ambientDimension_eq_sum
 -- name    : MetricCodes.HigherProjectionGraph.Data.ambientDimension_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/d2677219-29d7-4171-b858-918a457bd423

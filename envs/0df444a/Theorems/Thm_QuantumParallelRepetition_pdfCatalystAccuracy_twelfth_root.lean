@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfCatalystAccuracy_twelfth_root
 -- name    : QuantumParallelRepetition.pdfCatalystAccuracy_twelfth_root
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/1e2f074b-85d6-48c9-a5fe-914a1f698945

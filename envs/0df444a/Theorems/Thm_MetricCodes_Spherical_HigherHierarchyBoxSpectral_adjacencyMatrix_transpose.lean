@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxSpectral_adjacencyMatrix_transpose
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxSpectral.adjacencyMatrix_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/f6bc611c-3f48-43eb-9f01-3231738e0803

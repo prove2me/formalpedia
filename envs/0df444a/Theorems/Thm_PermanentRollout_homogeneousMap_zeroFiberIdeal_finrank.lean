@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_zeroFiberIdeal_finrank
 -- name    : PermanentRollout.homogeneousMap_zeroFiberIdeal_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/eeb482b7-9597-451f-b72b-bb9d9be7930f

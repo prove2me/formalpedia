@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunFinitePermutationMarkovMass_realPermutationMarkov_nonneg
 -- name    : SoficGroups.KunFinitePermutationMarkovMass.realPermutationMarkov_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/a23cad5f-932a-417d-92f6-04b0ac4fd250

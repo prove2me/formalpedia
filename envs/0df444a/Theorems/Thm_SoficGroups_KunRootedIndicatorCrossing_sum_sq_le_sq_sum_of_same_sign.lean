@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_sum_sq_le_sq_sum_of_same_sign
 -- name    : SoficGroups.KunRootedIndicatorCrossing.sum_sq_le_sq_sum_of_same_sign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/f2d1812f-6c2b-44e0-a62a-0d31b6b51d03

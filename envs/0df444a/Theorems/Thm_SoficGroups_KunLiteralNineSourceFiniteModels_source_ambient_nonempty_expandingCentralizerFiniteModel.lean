@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunLiteralNineSourceFiniteModels_source_ambient_nonempty_expandingCentralizerFiniteModel
 -- name    : SoficGroups.KunLiteralNineSourceFiniteModels.source_ambient_nonempty_expandingCentralizerFiniteModel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/108f3215-22c8-4962-96b6-2c8ae76855e0

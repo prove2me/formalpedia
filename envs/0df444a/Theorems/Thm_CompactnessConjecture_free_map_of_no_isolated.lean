@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_free_map_of_no_isolated
 -- name    : CompactnessConjecture.free_map_of_no_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/ce0c33d3-92d8-4360-8ba6-26c14bf6d75f

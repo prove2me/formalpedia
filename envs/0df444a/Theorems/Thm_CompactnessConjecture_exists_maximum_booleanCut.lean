@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_exists_maximum_booleanCut
 -- name    : CompactnessConjecture.exists_maximum_booleanCut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/e529b3e0-6f50-48a5-aa5e-e661d432441d

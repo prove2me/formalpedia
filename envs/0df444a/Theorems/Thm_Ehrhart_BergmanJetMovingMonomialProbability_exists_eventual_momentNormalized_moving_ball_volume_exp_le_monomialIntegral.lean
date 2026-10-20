@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingMonomialProbability_exists_eventual_momentNormalized_moving_ball_volume_exp_le_monomialIntegral
 -- name    : Ehrhart.BergmanJetMovingMonomialProbability.exists_eventual_momentNormalized_moving_ball_volume_exp_le_monomialIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/a6a7a1af-2b86-4ed9-843c-7aac599e6957

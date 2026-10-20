@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrwObjective_zero_fibre_boundary
 -- name    : MetricCodes.Johnson.mrrwObjective_zero_fibre_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/5ae677ec-c411-4be9-8d76-0edb91e35cb5

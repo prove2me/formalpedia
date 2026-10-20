@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_Barker_even_length_eq_two_or_four
 -- name    : OAI.CirculantHadamard.Barker.even_length_eq_two_or_four
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:26.26944+00:00
 -- url     : https://prove2.me/theorems/e5898d96-5838-4bd7-8b34-08ce99300eb2

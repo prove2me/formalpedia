@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_average_permutation_indicator_displacement
 -- name    : SoficGroups.KunRootedIndicatorCrossing.average_permutation_indicator_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/7242a1b5-86f5-4bcb-abe7-11a05d819286

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_quadrangle_manuscript_scaled_density_of_gap
 -- name    : CompactnessConjecture.quadrangle_manuscript_scaled_density_of_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/adda00e9-aa38-4e4d-b61c-db83190b2def

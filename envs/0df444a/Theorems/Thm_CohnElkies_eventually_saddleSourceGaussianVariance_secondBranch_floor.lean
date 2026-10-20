@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceGaussianVariance_secondBranch_floor
 -- name    : CohnElkies.eventually_saddleSourceGaussianVariance_secondBranch_floor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/4f265302-daf1-4da8-9697-29d474d97eec

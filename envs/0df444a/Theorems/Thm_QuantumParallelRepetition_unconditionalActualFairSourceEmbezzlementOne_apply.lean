@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceEmbezzlementOne_apply
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceEmbezzlementOne_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/62979aa2-c283-4c4e-9ff9-961533a1791b

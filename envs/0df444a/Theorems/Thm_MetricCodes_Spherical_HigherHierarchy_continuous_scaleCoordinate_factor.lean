@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_continuous_scaleCoordinate_factor
 -- name    : MetricCodes.Spherical.HigherHierarchy.continuous_scaleCoordinate_factor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/281dc6a5-d576-4944-86df-5c93d66affcf

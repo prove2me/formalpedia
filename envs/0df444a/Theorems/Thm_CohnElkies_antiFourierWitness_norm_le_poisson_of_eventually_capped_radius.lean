@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_norm_le_poisson_of_eventually_capped_radius
 -- name    : CohnElkies.antiFourierWitness_norm_le_poisson_of_eventually_capped_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/fa325e33-f44a-469b-ba6e-430f694191b4

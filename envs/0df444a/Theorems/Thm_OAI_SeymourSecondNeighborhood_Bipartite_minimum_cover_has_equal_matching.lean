@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_minimum_cover_has_equal_matching
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.minimum_cover_has_equal_matching
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:25:56.226145+00:00
 -- url     : https://prove2.me/theorems/d824448d-6d50-41a4-8828-fa27ac901a57

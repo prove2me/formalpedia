@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CL_tableau_satisfiable_iff_validTrace
 -- name    : GapCVP.CL.tableau_satisfiable_iff_validTrace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/213e46ef-b7b5-456f-8433-b05a86bce1df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Matching_matching_ocrs
 -- name    : OnlineCRS.Matching.matching_ocrs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:16.834485+00:00
 -- url     : https://prove2.me/theorems/d3990fe7-98a4-4c30-9f90-e555b577f183

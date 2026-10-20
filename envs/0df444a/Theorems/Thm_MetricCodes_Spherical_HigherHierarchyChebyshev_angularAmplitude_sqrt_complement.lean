@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularAmplitude_sqrt_complement
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularAmplitude_sqrt_complement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/0d5df0c5-b180-4187-af9c-3300650118cc

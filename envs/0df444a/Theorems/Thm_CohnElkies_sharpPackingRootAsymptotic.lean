@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpPackingRootAsymptotic
 -- name    : CohnElkies.sharpPackingRootAsymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/b099438d-3359-4879-b137-735a0d718cde

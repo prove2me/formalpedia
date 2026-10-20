@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceAcceptedCoordinateMass_le_law
 -- name    : QuantumParallelRepetition.exactSourceAcceptedCoordinateMass_le_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/ca18ea39-0e38-4495-af22-d5321a0a9d8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTWallTransverseCompression_gtStabilizerShiftedRelativeCasimir_terminal_youngClebschRaise
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression.gtStabilizerShiftedRelativeCasimir_terminal_youngClebschRaise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/36730649-0aa6-40df-9f61-97c12f9af685

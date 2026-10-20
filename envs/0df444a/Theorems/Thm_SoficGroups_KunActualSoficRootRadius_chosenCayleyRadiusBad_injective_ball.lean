@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_chosenCayleyRadiusBad_injective_ball
 -- name    : SoficGroups.KunActualSoficRootRadius.chosenCayleyRadiusBad_injective_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/7ec29be6-a4c5-4c6c-91b6-7f75e9f9a27e

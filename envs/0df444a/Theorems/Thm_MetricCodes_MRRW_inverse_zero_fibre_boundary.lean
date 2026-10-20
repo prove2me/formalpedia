@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_inverse_zero_fibre_boundary
 -- name    : MetricCodes.MRRW.inverse_zero_fibre_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/034c9856-76a9-4129-8ee4-a15753767a57

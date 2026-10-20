@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsMollifierEstimates_normalizedCoverComplexDriftCommutator_eq_integral
 -- name    : Ehrhart.TorusFriedrichsMollifierEstimates.normalizedCoverComplexDriftCommutator_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/8ead31be-078c-4d4f-bf04-55c2a312f60c

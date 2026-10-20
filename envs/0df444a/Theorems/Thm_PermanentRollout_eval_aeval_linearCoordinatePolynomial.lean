@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_eval_aeval_linearCoordinatePolynomial
 -- name    : PermanentRollout.eval_aeval_linearCoordinatePolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/0dfee178-f75b-4f47-9259-c42eef84a4d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_rankOneCornerAlignment
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.rankOneCornerAlignment
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:41:08.864989+00:00
 -- url     : https://prove2.me/theorems/ac322100-473f-4f04-bf30-a6f391983367

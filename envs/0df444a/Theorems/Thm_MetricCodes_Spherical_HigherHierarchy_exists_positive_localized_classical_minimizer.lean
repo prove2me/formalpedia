@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_positive_localized_classical_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_positive_localized_classical_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/93b14e2c-43fe-4351-90c3-f7637e1793e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_midrankFirstMoment_eq
 -- name    : SoficGroups.midrankFirstMoment_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/5ce648b0-b5a8-43bd-abb5-7ee356b1e2e1

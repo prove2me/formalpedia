@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_exists_maximum_sharp_pruning_subgraph
 -- name    : CompactnessConjecture.exists_maximum_sharp_pruning_subgraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/bad19f17-3a03-4049-a787-25f20490f32c

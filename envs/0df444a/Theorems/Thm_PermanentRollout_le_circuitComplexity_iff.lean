@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_le_circuitComplexity_iff
 -- name    : PermanentRollout.le_circuitComplexity_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/b6f171be-baa6-4d2e-b7fb-bf5b1efff87c

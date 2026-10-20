@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_one_le_log_nat_of_three_le
 -- name    : ErdosProblems.MulticolourTriangleRamsey.one_le_log_nat_of_three_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/61018d4a-373a-46ac-b932-eb3193ccb826

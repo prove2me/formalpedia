@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_MaximalCodeBounds_exists_sphericalCode_card_eq_number_toNat
 -- name    : MetricCodes.Spherical.MaximalCodeBounds.exists_sphericalCode_card_eq_number_toNat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/0661d600-4b6f-4f07-87d4-cbee3999eec3

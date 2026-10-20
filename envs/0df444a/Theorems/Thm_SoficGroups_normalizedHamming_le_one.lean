@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_normalizedHamming_le_one
 -- name    : SoficGroups.normalizedHamming_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/2edf0806-ca65-4b86-9281-ccfb93dc3f76

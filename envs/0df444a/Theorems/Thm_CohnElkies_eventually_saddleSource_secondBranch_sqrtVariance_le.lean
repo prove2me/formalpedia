@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSource_secondBranch_sqrtVariance_le
 -- name    : CohnElkies.eventually_saddleSource_secondBranch_sqrtVariance_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/2e09ffe0-1c18-451e-807f-91574f318dac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_nonsofic_finite_table
 -- name    : SoficGroups.exists_nonsofic_finite_table
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/2cf64341-1c54-4ddc-9ff6-61e63fb9f1c7

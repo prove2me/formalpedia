@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_ForMathlib_Fourier_fourier_precompose_linear_equivalence
 -- name    : SpherePacking.ForMathlib.Fourier.fourier_precompose_linear_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/8256a9fe-039a-426d-9901-a1721578d489

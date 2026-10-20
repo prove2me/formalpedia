@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceFreeAffineFormFiniteLinearCombination_eval
 -- name    : PermanentRollout.sourceFreeAffineFormFiniteLinearCombination_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/d0e33b41-71fb-4bbe-b426-7b1640d65954

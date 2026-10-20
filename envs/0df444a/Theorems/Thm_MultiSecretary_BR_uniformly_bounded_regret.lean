@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiSecretary_BR_uniformly_bounded_regret
 -- name    : MultiSecretary.BR.uniformly_bounded_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:19:16.180607+00:00
 -- url     : https://prove2.me/theorems/1db0e56b-4e3d-4c74-996b-3a2a63cce875

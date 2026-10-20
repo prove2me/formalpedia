@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_integral_coverWeightedMeasure
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.integral_coverWeightedMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/38f52976-6ae5-448d-afcb-4fe49dda56a0

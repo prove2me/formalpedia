@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_weightedZeroGraph_hasWeakBarPartialZero
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.weightedZeroGraph_hasWeakBarPartialZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/897020c7-f7a4-4c15-a07e-71403cdcf158

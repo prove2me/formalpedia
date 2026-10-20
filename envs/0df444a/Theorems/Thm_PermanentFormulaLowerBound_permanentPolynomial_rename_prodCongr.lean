@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_permanentPolynomial_rename_prodCongr
 -- name    : PermanentFormulaLowerBound.permanentPolynomial_rename_prodCongr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/0cdc9565-955c-4289-93de-dc61ff53a1ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckFundamentalCell_angularFundamentalBox_integer_shift_eq_zero
 -- name    : Ehrhart.TorusDeckFundamentalCell.angularFundamentalBox_integer_shift_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/1d1febfa-1278-4816-8476-9a1837074d0d

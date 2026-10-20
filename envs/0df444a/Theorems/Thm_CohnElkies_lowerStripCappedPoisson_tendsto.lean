@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedPoisson_tendsto
 -- name    : CohnElkies.lowerStripCappedPoisson_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/e7499a2a-d8d9-4161-8973-0e9b4a0d4b2a

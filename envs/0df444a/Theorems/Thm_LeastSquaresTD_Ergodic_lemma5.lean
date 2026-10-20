@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeastSquaresTD_Ergodic_lemma5
 -- name    : LeastSquaresTD.Ergodic.lemma5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:18:17.615523+00:00
 -- url     : https://prove2.me/theorems/9ce63eb2-4f09-40ca-8746-40e52e40d9d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_rayleigh_eq_of_eigenvector
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.rayleigh_eq_of_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/e0cc1ad7-a038-40f2-b810-77e5af42ca05

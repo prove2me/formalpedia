@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_exists_coordinateSubset_independent_linear_origin_slices
 -- name    : PermanentRollout.homogeneousMap_exists_coordinateSubset_independent_linear_origin_slices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/4ec81973-501b-405b-9171-cad93def5fc3

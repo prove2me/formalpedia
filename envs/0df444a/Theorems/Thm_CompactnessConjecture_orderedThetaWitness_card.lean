@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_orderedThetaWitness_card
 -- name    : CompactnessConjecture.orderedThetaWitness_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/ae98ff32-220f-416e-b89f-286f89dd1ca5

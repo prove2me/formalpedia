@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalConjugateTranspose_eq_inverse
 -- name    : QuantumParallelRepetition.unconditionalConjugateTranspose_eq_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/a7280d10-60a0-4776-b3d6-357c4f0bec5a

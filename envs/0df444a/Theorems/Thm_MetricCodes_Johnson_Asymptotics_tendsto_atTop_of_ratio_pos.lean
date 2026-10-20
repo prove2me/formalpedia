@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_atTop_of_ratio_pos
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_atTop_of_ratio_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/e1911fa0-122d-4c8f-be8c-8f20e85e4c69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceAliceFlagCoupling_sum
 -- name    : QuantumParallelRepetition.exactSourceAliceFlagCoupling_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/057f8ed3-27dd-4ff9-9c3e-defabce635b1

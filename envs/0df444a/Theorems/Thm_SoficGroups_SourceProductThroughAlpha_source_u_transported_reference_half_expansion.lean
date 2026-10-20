@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceProductThroughAlpha_source_u_transported_reference_half_expansion
 -- name    : SoficGroups.SourceProductThroughAlpha.source_u_transported_reference_half_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/d0973f01-e00d-4fa8-98b4-cc20145830a5

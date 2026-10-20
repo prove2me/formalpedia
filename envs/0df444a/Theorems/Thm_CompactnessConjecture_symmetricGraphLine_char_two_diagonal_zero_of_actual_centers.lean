@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricGraphLine_char_two_diagonal_zero_of_actual_centers
 -- name    : CompactnessConjecture.symmetricGraphLine_char_two_diagonal_zero_of_actual_centers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/95327b87-3fdf-44f3-84ae-985c51e7328d

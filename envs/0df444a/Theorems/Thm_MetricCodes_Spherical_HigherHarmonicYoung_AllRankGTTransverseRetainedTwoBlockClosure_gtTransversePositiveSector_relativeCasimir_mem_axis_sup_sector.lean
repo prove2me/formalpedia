@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseRetainedTwoBlockClosure_gtTransversePositiveSector_relativeCasimir_mem_axis_sup_sector
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseRetainedTwoBlockClosure.gtTransversePositiveSector_relativeCasimir_mem_axis_sup_sector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/a89505aa-7720-42b4-8744-078fdb46b3c7

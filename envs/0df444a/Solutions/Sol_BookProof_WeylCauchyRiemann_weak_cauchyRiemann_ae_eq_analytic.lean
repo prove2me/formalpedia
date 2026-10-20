@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.WeylCauchyRiemann.weak_cauchyRiemann_ae_eq_analytic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:37:50.852562+00:00
 -- url     : https://prove2.me/submissions/2f34c457-615d-4efb-a8e8-d150af460f04
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWeylCauchyRiemann.lean — solution of BookProof.WeylCauchyRiemann.weak_cauchyRiemann_ae_eq_analytic
 import Mathlib

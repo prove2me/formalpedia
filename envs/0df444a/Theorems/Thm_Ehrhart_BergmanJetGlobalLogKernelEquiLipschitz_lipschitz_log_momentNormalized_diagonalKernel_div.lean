@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_lipschitz_log_momentNormalized_diagonalKernel_div
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.lipschitz_log_momentNormalized_diagonalKernel_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/d2f06bf0-cc77-419c-a14b-8ba42fe5d451

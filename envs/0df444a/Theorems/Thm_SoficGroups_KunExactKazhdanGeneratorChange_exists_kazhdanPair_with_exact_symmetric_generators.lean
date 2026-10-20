@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunExactKazhdanGeneratorChange_exists_kazhdanPair_with_exact_symmetric_generators
 -- name    : SoficGroups.KunExactKazhdanGeneratorChange.exists_kazhdanPair_with_exact_symmetric_generators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/8cc9914b-f320-4316-8f4d-110b8a76b830

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalCleanedStoppingFixedSource_physicalAction
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalCleanedStoppingFixedSource_physicalAction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/c921cca1-8af3-49bd-9e6f-c5aaedaf8074

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicClosure_momentWeakJointCoverEnvelope_eq_upperEnvelope_of_pos
 -- name    : Ehrhart.BergmanJetJointHolomorphicClosure.momentWeakJointCoverEnvelope_eq_upperEnvelope_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/b9b3af66-900d-4e37-8f50-72d59f4417e2

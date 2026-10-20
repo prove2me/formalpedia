@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourcePhaseHarmonicWork_norm
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourcePhaseHarmonicWork_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/667dbc97-0e02-47fa-9c78-73ff9f2e71cd

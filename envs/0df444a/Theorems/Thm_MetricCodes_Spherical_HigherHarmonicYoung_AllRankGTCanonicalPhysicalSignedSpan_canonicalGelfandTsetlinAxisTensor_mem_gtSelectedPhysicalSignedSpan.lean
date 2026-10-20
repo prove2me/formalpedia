@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTCanonicalPhysicalSignedSpan_canonicalGelfandTsetlinAxisTensor_mem_gtSelectedPhysicalSignedSpan
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCanonicalPhysicalSignedSpan.canonicalGelfandTsetlinAxisTensor_mem_gtSelectedPhysicalSignedSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/6d763191-51e3-49c5-b9d0-18190fdf45ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_johnsonFibreDimension
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_johnsonFibreDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/ff7ce133-81e4-4983-9d8f-69a8acc3effa

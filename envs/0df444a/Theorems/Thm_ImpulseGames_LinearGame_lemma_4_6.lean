@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseGames_LinearGame_lemma_4_6
 -- name    : ImpulseGames.LinearGame.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:28:30.940967+00:00
 -- url     : https://prove2.me/theorems/cdb71033-562b-40d0-b49d-ab5050eda32d

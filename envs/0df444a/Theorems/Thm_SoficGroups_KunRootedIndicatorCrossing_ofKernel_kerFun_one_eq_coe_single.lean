@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_ofKernel_kerFun_one_eq_coe_single
 -- name    : SoficGroups.KunRootedIndicatorCrossing.ofKernel_kerFun_one_eq_coe_single
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/bb6144d3-dcc2-4f28-aed0-b2d029dafc68

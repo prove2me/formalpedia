@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultGraphDistributionBridge_complex_compact_integration_by_parts
 -- name    : Ehrhart.DolbeaultGraphDistributionBridge.complex_compact_integration_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/4e2025e7-0988-49d3-a539-bf0d25b41d84

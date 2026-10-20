@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceShellDerivative_hasDerivAt
 -- name    : CohnElkies.saddleSourceShellDerivative_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/e686a974-e74a-4afe-aa3a-ebb13a0c8bc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseAppendedChannelOrthogonality_paddedOrthogonalTensorPieriChannel_appended_stabilizerIntertwiner_orthogonal
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseAppendedChannelOrthogonality.paddedOrthogonalTensorPieriChannel_appended_stabilizerIntertwiner_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/508957f9-f19d-4e81-8e5e-a64883f196e3

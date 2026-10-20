@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_boundaryQuadratic_eq_sq_mul_normalized
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.boundaryQuadratic_eq_sq_mul_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/5a60d9f8-bfb8-4ecb-baa2-43704cf828fa

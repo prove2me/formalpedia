@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripRegularizedOuter_integrable_of_exp_integrable
 -- name    : CohnElkies.stripRegularizedOuter_integrable_of_exp_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/e744d047-a167-4621-905d-ee28179ed6d3

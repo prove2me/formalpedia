@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_shellRate_lower
 -- name    : MetricCodes.Johnson.AsymptoticParameters.shellRate_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/6be45ffd-5747-4975-8326-b8b9ef009cd8

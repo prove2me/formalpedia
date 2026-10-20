@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_permutation_increment_sum_eq_zero
 -- name    : SoficGroups.permutation_increment_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/3f1ace7d-96ef-4f6c-89fd-e63b610661b3

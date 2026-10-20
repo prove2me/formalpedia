@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_zeroLocus_finite_of_moduleFinite_quotient
 -- name    : PermanentRollout.affine_zeroLocus_finite_of_moduleFinite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/fcca9250-9e69-4e39-83b6-b6f13ee42850

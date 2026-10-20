@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_log_harmonicEntropyBase_div
 -- name    : SpherePacking.tendsto_log_harmonicEntropyBase_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/90b1d21d-e3cf-44c1-9fa2-d6b5d9e8e6c1

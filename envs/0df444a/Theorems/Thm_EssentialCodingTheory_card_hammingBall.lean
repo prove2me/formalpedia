@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EssentialCodingTheory_card_hammingBall
 -- name    : EssentialCodingTheory.card_hammingBall
--- status  : Open
+-- status  : Proved
 -- author  : @chaikon
 -- created : 2026-10-14T16:41:35.606792+00:00
 -- url     : https://prove2.me/theorems/270af476-5ef0-47a7-9b52-3840c35283a5

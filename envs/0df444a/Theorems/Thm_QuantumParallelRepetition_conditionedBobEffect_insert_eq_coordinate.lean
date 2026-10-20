@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_conditionedBobEffect_insert_eq_coordinate
 -- name    : QuantumParallelRepetition.conditionedBobEffect_insert_eq_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/9f55eae4-42a1-44b7-823b-80a67c83e846

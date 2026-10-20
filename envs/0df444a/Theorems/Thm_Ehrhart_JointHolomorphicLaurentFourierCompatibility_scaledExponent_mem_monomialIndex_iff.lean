@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_scaledExponent_mem_monomialIndex_iff
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.scaledExponent_mem_monomialIndex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/9140bd71-7703-4fa5-95b5-3ca651807ed5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_sphericalEntropy_sq_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_sphericalEntropy_sq_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/947ad7d6-31b8-4193-b3d4-98bc74e31f00

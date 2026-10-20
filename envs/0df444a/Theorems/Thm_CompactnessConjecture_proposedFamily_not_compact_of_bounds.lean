@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_not_compact_of_bounds
 -- name    : CompactnessConjecture.proposedFamily_not_compact_of_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/8ff43a14-2662-4db4-9951-06cb382a2948

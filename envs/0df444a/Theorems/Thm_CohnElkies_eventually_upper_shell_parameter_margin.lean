@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_upper_shell_parameter_margin
 -- name    : CohnElkies.eventually_upper_shell_parameter_margin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/e717ffe8-5ac4-4ae0-8f6e-9836033cf0cb

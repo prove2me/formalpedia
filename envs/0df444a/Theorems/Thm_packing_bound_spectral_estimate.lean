@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_packing_bound_spectral_estimate
 -- name    : packing_bound_spectral_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/efd0a62f-7287-4ae5-9321-5354e52a9202

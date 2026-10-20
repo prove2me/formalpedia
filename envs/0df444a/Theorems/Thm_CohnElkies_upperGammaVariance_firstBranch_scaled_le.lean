@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaVariance_firstBranch_scaled_le
 -- name    : CohnElkies.upperGammaVariance_firstBranch_scaled_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/920c32e5-2b9f-4119-8291-bcf782a59ab3

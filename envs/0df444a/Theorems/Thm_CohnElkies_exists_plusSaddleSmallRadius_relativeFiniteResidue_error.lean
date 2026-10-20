@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_plusSaddleSmallRadius_relativeFiniteResidue_error
 -- name    : CohnElkies.exists_plusSaddleSmallRadius_relativeFiniteResidue_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/a996da0c-6b67-4510-8501-06051c32a7ea

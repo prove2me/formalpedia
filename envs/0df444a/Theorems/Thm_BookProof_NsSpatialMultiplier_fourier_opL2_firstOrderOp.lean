@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsSpatialMultiplier_fourier_opL2_firstOrderOp
 -- name    : BookProof.NsSpatialMultiplier.fourier_opL2_firstOrderOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:43:00.237498+00:00
 -- url     : https://prove2.me/theorems/2a5a237e-0410-456b-9b88-f4b94a9073bd

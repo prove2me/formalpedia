@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_FourAlgebra_small_exclusion
 -- name    : OAI.GaussianPropeller.FourAlgebra.small_exclusion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:21:51.39737+00:00
 -- url     : https://prove2.me/theorems/5bb6ac2d-c593-472f-b5eb-49172b90ef62

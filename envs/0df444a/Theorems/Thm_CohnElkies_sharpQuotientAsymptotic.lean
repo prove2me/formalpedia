@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpQuotientAsymptotic
 -- name    : CohnElkies.sharpQuotientAsymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/cf388e75-2423-4e7e-b445-0bc1b4723376

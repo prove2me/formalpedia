@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptQuotientRootInf_div_sqrt_tendsto
 -- name    : CohnElkies.manuscriptQuotientRootInf_div_sqrt_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/0b7616c5-eacd-4a4b-85f6-64815be11db9

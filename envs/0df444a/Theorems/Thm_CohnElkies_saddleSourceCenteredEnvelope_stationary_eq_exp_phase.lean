@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceCenteredEnvelope_stationary_eq_exp_phase
 -- name    : CohnElkies.saddleSourceCenteredEnvelope_stationary_eq_exp_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/c29edfc2-4e44-48e4-bf50-5c6092f1e1c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_logb_one_add_le_sphericalEntropy
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.logb_one_add_le_sphericalEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/1162df2a-9a33-45e4-a2ba-39e68fa9b13f

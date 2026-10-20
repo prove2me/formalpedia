@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_disjoint_dominant_intersections_false
 -- name    : SoficGroups.disjoint_dominant_intersections_false
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/b522ca0d-2d32-45fc-89b8-fbe40e603276

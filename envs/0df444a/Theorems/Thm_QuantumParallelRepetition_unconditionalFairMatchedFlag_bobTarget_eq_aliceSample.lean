@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalFairMatchedFlag_bobTarget_eq_aliceSample
 -- name    : QuantumParallelRepetition.unconditionalFairMatchedFlag_bobTarget_eq_aliceSample
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/55006f3e-810c-40af-b94a-2fc8a0a26ea7

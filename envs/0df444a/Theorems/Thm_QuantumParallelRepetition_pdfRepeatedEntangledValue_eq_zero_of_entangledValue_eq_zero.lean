@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfRepeatedEntangledValue_eq_zero_of_entangledValue_eq_zero
 -- name    : QuantumParallelRepetition.pdfRepeatedEntangledValue_eq_zero_of_entangledValue_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/5513f8f8-6051-4f8f-9a4c-dbbbdbe878e1

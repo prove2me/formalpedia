@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Numerics_kissing_sqrt_lower
 -- name    : MetricCodes.Spherical.HigherHierarchy.Numerics.kissing_sqrt_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/c60c87d0-b3cf-4133-af4a-d0b621975d17

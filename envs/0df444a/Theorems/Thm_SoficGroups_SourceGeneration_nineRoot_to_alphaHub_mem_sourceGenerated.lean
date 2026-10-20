@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_nineRoot_to_alphaHub_mem_sourceGenerated
 -- name    : SoficGroups.SourceGeneration.nineRoot_to_alphaHub_mem_sourceGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/ecd9bced-895c-49c3-982c-c6812c3cff24

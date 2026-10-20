@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_real_vertexPair
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_real_vertexPair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/f66744a4-73f4-4dea-a0bc-8b99af7b3a95

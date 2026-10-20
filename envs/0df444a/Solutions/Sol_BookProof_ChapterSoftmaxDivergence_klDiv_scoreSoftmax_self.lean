@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax_self
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:21:47.903982+00:00
 -- url     : https://prove2.me/submissions/2c085c24-9a21-4aa3-9595-e93a46ca15e5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSoftmaxDivergence.lean — solution of BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax_self
 import Mathlib

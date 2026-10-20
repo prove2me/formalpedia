@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualEnergy_iterate_le
 -- name    : SoficGroups.ejThreeResidualEnergy_iterate_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/902367fb-1c51-4db9-8253-9f0b3a51ab4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousActualCommonStopPhysicalState_eq_outcomeProduct
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousActualCommonStopPhysicalState_eq_outcomeProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/c3ccff82-271c-4d8f-97c3-c3f38cee7f18

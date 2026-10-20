@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusNoncompactBochner_angularTorus_compact_form_curvature_le_adjoint_add_exterior
 -- name    : Ehrhart.TorusNoncompactBochner.angularTorus_compact_form_curvature_le_adjoint_add_exterior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/853189ec-9476-4045-a331-8d5c60117855

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_boundary_conjugate_map
 -- name    : SoficGroups.KunTransportedAmbientOverlap.boundary_conjugate_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/52b64acb-b831-403d-b9af-231dc358fdff

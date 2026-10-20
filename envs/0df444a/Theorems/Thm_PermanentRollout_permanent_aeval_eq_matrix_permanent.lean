@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_aeval_eq_matrix_permanent
 -- name    : PermanentRollout.permanent_aeval_eq_matrix_permanent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/92d2dbb8-9b54-4f19-ab7f-579385ff8e58

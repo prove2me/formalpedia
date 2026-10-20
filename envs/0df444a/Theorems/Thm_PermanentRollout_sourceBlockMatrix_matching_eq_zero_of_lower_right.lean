@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockMatrix_matching_eq_zero_of_lower_right
 -- name    : PermanentRollout.sourceBlockMatrix_matching_eq_zero_of_lower_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/7b057464-5dff-4746-90af-7f9c52ab04e7

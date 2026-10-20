@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_rayleigh_le_top
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.rayleigh_le_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/f0091926-2e29-4619-ab1a-22ecf7bfefc2

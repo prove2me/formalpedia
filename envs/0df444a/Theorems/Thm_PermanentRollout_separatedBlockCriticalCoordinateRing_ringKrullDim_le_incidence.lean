@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_separatedBlockCriticalCoordinateRing_ringKrullDim_le_incidence
 -- name    : PermanentRollout.separatedBlockCriticalCoordinateRing_ringKrullDim_le_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/1befdb93-a39f-4c83-a751-865b6ddb8af6

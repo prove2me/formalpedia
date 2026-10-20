@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusClosedMollifiedRootBochner_sourceTorusFormExteriorDerivativeDensity_cutoff_eq_antisymmetric
 -- name    : Ehrhart.TorusClosedMollifiedRootBochner.sourceTorusFormExteriorDerivativeDensity_cutoff_eq_antisymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/32db6b15-bd46-4ae0-8e96-97a02f8f16b4

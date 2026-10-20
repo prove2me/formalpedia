@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_empiricalChildMarginal_entropy_error
 -- name    : TwoDegenerateGraphs.empiricalChildMarginal_entropy_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/fbe8d597-06f5-4566-abd3-0cfb8335f9b3

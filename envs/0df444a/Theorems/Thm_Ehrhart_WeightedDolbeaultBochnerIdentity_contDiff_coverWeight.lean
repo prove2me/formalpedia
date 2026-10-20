@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_contDiff_coverWeight
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.contDiff_coverWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/f664a7aa-b8e8-4436-a9cc-068030653730

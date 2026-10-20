@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSelectedCentralizerFiniteModel_trackedCompletedAlmostCentralizer_permutation_of_mem
 -- name    : SoficGroups.KunActualSelectedCentralizerFiniteModel.trackedCompletedAlmostCentralizer_permutation_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/4457913a-7503-44d5-a3ff-644956ae3943

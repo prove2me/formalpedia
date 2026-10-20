@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperImaginaryExp_taylorWithinEval_two
 -- name    : CohnElkies.upperImaginaryExp_taylorWithinEval_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/182f4f9d-35e3-4180-b66f-496b34dec63a

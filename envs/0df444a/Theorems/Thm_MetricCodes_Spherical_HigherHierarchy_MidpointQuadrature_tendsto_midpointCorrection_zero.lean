@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_MidpointQuadrature_tendsto_midpointCorrection_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.MidpointQuadrature.tendsto_midpointCorrection_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/87dbb211-5e4b-4f50-ae69-4665c4afe436

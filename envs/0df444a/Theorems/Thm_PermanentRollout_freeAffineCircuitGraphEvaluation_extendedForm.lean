@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuitGraphEvaluation_extendedForm
 -- name    : PermanentRollout.freeAffineCircuitGraphEvaluation_extendedForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/bd2ec76b-4060-4062-a51a-9060204810b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_friedrichsOp_symmetricOn
 -- name    : BookProof.FriedrichsCanonical.friedrichsOp_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:37:53.527553+00:00
 -- url     : https://prove2.me/theorems/9620593a-d66e-4329-9458-be5cb384a1e3

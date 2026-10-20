@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_FreeAffineCircuit_values_substituteInputs
 -- name    : PermanentRollout.FreeAffineCircuit.values_substituteInputs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/15bcc9d3-c4ad-45ad-87ca-5ca0da5baf9d

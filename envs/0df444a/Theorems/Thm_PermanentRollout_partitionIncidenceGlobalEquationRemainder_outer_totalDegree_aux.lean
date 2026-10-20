@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionIncidenceGlobalEquationRemainder_outer_totalDegree_aux
 -- name    : PermanentRollout.partitionIncidenceGlobalEquationRemainder_outer_totalDegree_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/95d99c48-f7cf-406e-8ba9-7dabdeee6409

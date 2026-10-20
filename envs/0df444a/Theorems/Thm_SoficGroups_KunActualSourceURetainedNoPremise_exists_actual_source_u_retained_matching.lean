@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSourceURetainedNoPremise_exists_actual_source_u_retained_matching
 -- name    : SoficGroups.KunActualSourceURetainedNoPremise.exists_actual_source_u_retained_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/d6a04943-dff8-48da-afbd-acbdcc10a02f

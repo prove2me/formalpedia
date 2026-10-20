@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_convexOn_momentWeakHolomorphicStrictJointLogPartition_Ioi_of_timeBounds
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.convexOn_momentWeakHolomorphicStrictJointLogPartition_Ioi_of_timeBounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/41d1b465-5457-4351-b269-1913a8ec9129

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBrascampLieb_angularWeakScalarResolventCLM_fixed_iff_graph_zero
 -- name    : Ehrhart.WeightedTorusBrascampLieb.angularWeakScalarResolventCLM_fixed_iff_graph_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/165a4365-e3ea-4a64-ac45-44a5d97a0c40

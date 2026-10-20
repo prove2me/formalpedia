@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_semibounded_friedrichs_unique
 -- name    : BookProof.FriedrichsCanonical.semibounded_friedrichs_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:38:40.257595+00:00
 -- url     : https://prove2.me/theorems/47a4758e-660f-4e96-a140-851c42315b31

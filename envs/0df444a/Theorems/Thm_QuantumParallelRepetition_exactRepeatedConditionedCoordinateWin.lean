@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactRepeatedConditionedCoordinateWin
 -- name    : QuantumParallelRepetition.exactRepeatedConditionedCoordinateWin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/9998c42b-304d-4af0-8c53-6aa8614c9db6

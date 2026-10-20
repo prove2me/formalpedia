@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_hasCompactSupport_partitionedRealCoverIntegrand
 -- name    : Ehrhart.MatrixTorusBochnerBridge.hasCompactSupport_partitionedRealCoverIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/5b498ce2-2443-47f7-893c-14eeba584206

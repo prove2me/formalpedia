@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_realHyperbolicShellPhase_contDiff
 -- name    : CohnElkies.realHyperbolicShellPhase_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/74aef237-ea6b-4b3e-9095-738d3074c173

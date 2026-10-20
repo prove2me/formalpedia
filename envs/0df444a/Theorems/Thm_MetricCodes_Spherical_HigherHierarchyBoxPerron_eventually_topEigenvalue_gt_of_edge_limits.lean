@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_eventually_topEigenvalue_gt_of_edge_limits
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.eventually_topEigenvalue_gt_of_edge_limits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/e6198955-7b3d-4fd3-b87d-d4db4e696738

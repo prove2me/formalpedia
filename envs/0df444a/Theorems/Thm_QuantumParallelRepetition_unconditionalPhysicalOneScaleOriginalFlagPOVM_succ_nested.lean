@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPhysicalOneScaleOriginalFlagPOVM_succ_nested
 -- name    : QuantumParallelRepetition.unconditionalPhysicalOneScaleOriginalFlagPOVM_succ_nested
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/6256210d-80fe-4131-992b-3ec2ceaa9974

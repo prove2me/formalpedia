@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_nonmatchedFiberEdges_subset
 -- name    : SoficGroups.KunThomFiberCoarea.nonmatchedFiberEdges_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/bc852806-a20a-48ee-9249-2104594ae4a3

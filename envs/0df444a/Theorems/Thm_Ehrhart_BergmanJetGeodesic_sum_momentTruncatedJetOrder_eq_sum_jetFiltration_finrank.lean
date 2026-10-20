@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGeodesic_sum_momentTruncatedJetOrder_eq_sum_jetFiltration_finrank
 -- name    : Ehrhart.BergmanJetGeodesic.sum_momentTruncatedJetOrder_eq_sum_jetFiltration_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/4cf04c99-3113-4b36-b7e9-17b4ec846ad8

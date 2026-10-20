@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_diagonalPairKernelUnitaryRepresentation_kerFun_one
 -- name    : SoficGroups.KunRootedIndicatorCrossing.diagonalPairKernelUnitaryRepresentation_kerFun_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/32514f6c-59dd-4d6d-8d98-e16479de19ee

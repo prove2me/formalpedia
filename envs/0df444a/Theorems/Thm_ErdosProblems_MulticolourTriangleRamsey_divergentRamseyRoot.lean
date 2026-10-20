@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_divergentRamseyRoot
 -- name    : ErdosProblems.MulticolourTriangleRamsey.divergentRamseyRoot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/c82b3499-cf36-4a39-b7d3-523c57609d8a

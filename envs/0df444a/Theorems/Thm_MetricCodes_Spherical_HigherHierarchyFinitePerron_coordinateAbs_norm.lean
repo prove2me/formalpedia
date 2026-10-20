@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_coordinateAbs_norm
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.coordinateAbs_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/8a570b0f-1853-47f7-921c-2aa362b7fd97

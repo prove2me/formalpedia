@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_forcesMonochromaticTriangle_zero
 -- name    : ErdosProblems.MulticolourTriangleRamsey.forcesMonochromaticTriangle_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/371adc5a-3801-4f09-80fd-a24bfedc2fe8

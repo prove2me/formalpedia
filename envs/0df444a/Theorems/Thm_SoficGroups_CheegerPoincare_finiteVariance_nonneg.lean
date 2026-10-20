@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CheegerPoincare_finiteVariance_nonneg
 -- name    : SoficGroups.CheegerPoincare.finiteVariance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/db627699-53ca-4cb1-8fd9-0ddb52c8d12c

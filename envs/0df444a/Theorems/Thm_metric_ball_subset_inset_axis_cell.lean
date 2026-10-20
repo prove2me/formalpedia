@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_metric_ball_subset_inset_axis_cell
 -- name    : metric_ball_subset_inset_axis_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/b07142da-7a9e-42bc-be63-4cf0fd5c62d8

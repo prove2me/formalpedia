@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRealComplexMarkovBridge_indicatorVector_iterate_realMarkov
 -- name    : SoficGroups.KunRealComplexMarkovBridge.indicatorVector_iterate_realMarkov
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/09b942e1-2b03-46d3-8e6f-98041845d6e4

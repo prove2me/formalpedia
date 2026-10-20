@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_Phi_of_compactified_paired_ratios
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_Phi_of_compactified_paired_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/7afe2d42-4236-4c32-b25b-04b9c6abfc61

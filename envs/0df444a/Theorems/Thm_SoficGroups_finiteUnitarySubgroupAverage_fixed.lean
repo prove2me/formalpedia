@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteUnitarySubgroupAverage_fixed
 -- name    : SoficGroups.finiteUnitarySubgroupAverage_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/91f2fa65-8e1b-4398-b0cc-312fac972ae7

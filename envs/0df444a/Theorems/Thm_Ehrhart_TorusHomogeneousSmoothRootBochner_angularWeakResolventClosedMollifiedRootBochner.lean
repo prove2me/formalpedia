@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousSmoothRootBochner_angularWeakResolventClosedMollifiedRootBochner
 -- name    : Ehrhart.TorusHomogeneousSmoothRootBochner.angularWeakResolventClosedMollifiedRootBochner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/9898e734-1a41-4834-ae87-14ee149a4c7a

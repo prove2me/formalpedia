@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ArnoldCounterexample_CriticalBound_no_unit_equivariant_map
 -- name    : OAI.ArnoldCounterexample.CriticalBound.no_unit_equivariant_map
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:33:10.458576+00:00
 -- url     : https://prove2.me/theorems/98f9ceb0-0641-4448-9f72-6d564a9b3e01

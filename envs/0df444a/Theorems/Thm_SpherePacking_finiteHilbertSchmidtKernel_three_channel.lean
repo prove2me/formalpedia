@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteHilbertSchmidtKernel_three_channel
 -- name    : SpherePacking.finiteHilbertSchmidtKernel_three_channel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/1cbde377-853e-4cda-a430-ea27c4a304fe

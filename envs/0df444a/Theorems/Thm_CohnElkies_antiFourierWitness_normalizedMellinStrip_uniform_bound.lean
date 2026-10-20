@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_normalizedMellinStrip_uniform_bound
 -- name    : CohnElkies.antiFourierWitness_normalizedMellinStrip_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/76265480-1fba-4b21-a61a-7a515673cbdb

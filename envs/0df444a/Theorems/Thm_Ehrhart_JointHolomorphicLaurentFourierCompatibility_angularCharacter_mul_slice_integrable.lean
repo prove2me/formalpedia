@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_angularCharacter_mul_slice_integrable
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.angularCharacter_mul_slice_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/199e4d46-391d-4470-a01f-123f651c6675

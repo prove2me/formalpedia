@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_complement_longitudinalDegree_floor_le
 -- name    : MetricCodes.Hamming.complement_longitudinalDegree_floor_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/0468019a-c630-4cc2-b8b1-af6e6b5261d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_isOpen_sourceLocalJointRegion
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.isOpen_sourceLocalJointRegion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/0146bc8c-6cca-46f9-9197-bd67eb7b6a13

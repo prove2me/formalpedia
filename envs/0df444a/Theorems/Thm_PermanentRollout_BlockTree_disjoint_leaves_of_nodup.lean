@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_BlockTree_disjoint_leaves_of_nodup
 -- name    : PermanentRollout.BlockTree.disjoint_leaves_of_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/8df2635b-ccad-48e9-8885-e3c5e291cc78

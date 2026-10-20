@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyTrueGridAdjacency_reachable_zero
 -- name    : MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency.reachable_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/0cb466b8-aa63-4057-b7dd-2a17c46ed84d

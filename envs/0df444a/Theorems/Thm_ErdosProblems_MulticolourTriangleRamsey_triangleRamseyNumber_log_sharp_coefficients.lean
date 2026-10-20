@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_triangleRamseyNumber_log_sharp_coefficients
 -- name    : ErdosProblems.MulticolourTriangleRamsey.triangleRamseyNumber_log_sharp_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/cf4f65f2-a239-4877-ae36-b4620f14e73a

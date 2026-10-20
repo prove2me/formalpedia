@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_truncatedHarmonicDimension_le_successor
 -- name    : SpherePacking.truncatedHarmonicDimension_le_successor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/34c98be5-44c1-4ae7-8874-effddb3926b0

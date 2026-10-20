@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyPackingExponent_le_of_forall
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyPackingExponent_le_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/d05f4308-189d-44fc-845e-daa35b500bba

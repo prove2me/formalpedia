@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_logarithmic_lower_bound_of_gradient
 -- name    : PermanentRollout.logarithmic_lower_bound_of_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/0c128ba2-6e36-4dc6-96dd-d3530a57ae38

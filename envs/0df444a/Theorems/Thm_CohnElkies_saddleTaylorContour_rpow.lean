@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleTaylorContour_rpow
 -- name    : CohnElkies.saddleTaylorContour_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/afd80918-f54e-46b5-ac58-cb04b7bf8e2c

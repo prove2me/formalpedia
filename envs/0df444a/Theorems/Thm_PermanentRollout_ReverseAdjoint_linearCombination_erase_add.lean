@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_linearCombination_erase_add
 -- name    : PermanentRollout.ReverseAdjoint.linearCombination_erase_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/c2906c37-557b-447f-8502-e6a64eaeabba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_lef_of_expanding_centralizer_models
 -- name    : SoficGroups.lef_of_expanding_centralizer_models
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/9d375499-014c-4f4f-95e5-c2b24a0f2620

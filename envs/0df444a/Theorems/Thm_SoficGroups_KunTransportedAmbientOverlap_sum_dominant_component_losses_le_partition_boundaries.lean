@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_sum_dominant_component_losses_le_partition_boundaries
 -- name    : SoficGroups.KunTransportedAmbientOverlap.sum_dominant_component_losses_le_partition_boundaries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/dd6c2361-2077-4927-bcad-cea105e57917

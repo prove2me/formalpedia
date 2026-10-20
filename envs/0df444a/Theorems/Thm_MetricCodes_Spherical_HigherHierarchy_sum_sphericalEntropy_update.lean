@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sum_sphericalEntropy_update
 -- name    : MetricCodes.Spherical.HigherHierarchy.sum_sphericalEntropy_update
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/97d8516b-0266-43e7-9d42-3c219d813ca1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_ProjectionFamily_overlap_nonneg
 -- name    : MetricCodes.ProjectionFamily.overlap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/de33acb6-36bb-4e3d-95df-00159e1fcfd0

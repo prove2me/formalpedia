@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sum_powerset_factorial_mul_factorial
 -- name    : PermanentRollout.sum_powerset_factorial_mul_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/257900ae-1dea-4df9-a29b-f5546508e9b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_continuous_Phi_common_scale
 -- name    : MetricCodes.Spherical.HigherHierarchy.continuous_Phi_common_scale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/b47c2512-d167-4f13-ae0e-39c9c92ba51c

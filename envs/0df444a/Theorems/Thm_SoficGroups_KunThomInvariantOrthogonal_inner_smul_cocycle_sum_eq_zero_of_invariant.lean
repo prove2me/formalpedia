@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_inner_smul_cocycle_sum_eq_zero_of_invariant
 -- name    : SoficGroups.KunThomInvariantOrthogonal.inner_smul_cocycle_sum_eq_zero_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/6593955c-8318-4269-9d55-ae40f7523628

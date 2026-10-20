@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Rate_binaryRate_le_shellRate_of_projectionGrams
 -- name    : MetricCodes.Johnson.Rate.binaryRate_le_shellRate_of_projectionGrams
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/ffcbf594-6c92-4da9-b6bb-5e1ea1300de9

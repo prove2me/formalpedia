@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_arbitrarily_large_witness_of_not_hasExponentialBound
 -- name    : QuantumParallelRepetition.arbitrarily_large_witness_of_not_hasExponentialBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/544639cb-f2be-46e3-b943-e75260c7187f

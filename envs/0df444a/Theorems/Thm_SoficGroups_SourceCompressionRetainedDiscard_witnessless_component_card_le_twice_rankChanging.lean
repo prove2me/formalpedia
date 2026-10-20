@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionRetainedDiscard_witnessless_component_card_le_twice_rankChanging
 -- name    : SoficGroups.SourceCompressionRetainedDiscard.witnessless_component_card_le_twice_rankChanging
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/9ed31351-03ce-4256-b4f7-5cb8820d80ac

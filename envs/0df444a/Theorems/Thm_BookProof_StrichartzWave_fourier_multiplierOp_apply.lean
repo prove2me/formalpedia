@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_fourier_multiplierOp_apply
 -- name    : BookProof.StrichartzWave.fourier_multiplierOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:20:31.672196+00:00
 -- url     : https://prove2.me/theorems/ac9b46ea-b2a5-4f80-996a-a6343b6c4b1a

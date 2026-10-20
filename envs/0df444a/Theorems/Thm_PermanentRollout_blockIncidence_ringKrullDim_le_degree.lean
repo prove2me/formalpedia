@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockIncidence_ringKrullDim_le_degree
 -- name    : PermanentRollout.blockIncidence_ringKrullDim_le_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/a81e6c2b-b062-4605-b7d6-197e6e3a4845

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_exists_positive_unit_topEigenvector
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.exists_positive_unit_topEigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/7a36b955-c980-4b9c-8fa6-99d4c874a7e7

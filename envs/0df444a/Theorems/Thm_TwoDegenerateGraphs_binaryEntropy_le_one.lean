@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryEntropy_le_one
 -- name    : TwoDegenerateGraphs.binaryEntropy_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/5b5285bd-50b8-48b1-bb9f-16f4c8ef4c02

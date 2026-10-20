@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedRetainedSupport_subset
 -- name    : SoficGroups.matchedRetainedSupport_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/8feab4c8-b8b0-49f9-8d39-a92260befeae

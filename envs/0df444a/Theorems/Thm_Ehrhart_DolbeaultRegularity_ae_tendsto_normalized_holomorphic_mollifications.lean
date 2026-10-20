@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_ae_tendsto_normalized_holomorphic_mollifications
 -- name    : Ehrhart.DolbeaultRegularity.ae_tendsto_normalized_holomorphic_mollifications
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/4e505757-0cda-4262-ac84-2e0f288646c4

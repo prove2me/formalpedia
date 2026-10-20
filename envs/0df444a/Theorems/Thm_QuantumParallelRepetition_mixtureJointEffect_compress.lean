@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_mixtureJointEffect_compress
 -- name    : QuantumParallelRepetition.mixtureJointEffect_compress
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/7fd21c74-d23e-494a-a3df-ac93c45d3c9f

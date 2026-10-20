@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeGlobalPlurisubharmonic_sourceJointPhaseHomeomorph_spatial
 -- name    : Ehrhart.JetEnvelopeGlobalPlurisubharmonic.sourceJointPhaseHomeomorph_spatial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/54f93e72-f43b-485d-8baa-5a8632d2179b

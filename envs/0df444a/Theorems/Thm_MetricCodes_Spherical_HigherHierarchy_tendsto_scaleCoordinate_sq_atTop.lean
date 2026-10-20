@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_scaleCoordinate_sq_atTop
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_scaleCoordinate_sq_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/f10b6c88-4a83-465a-ad56-90a97c26d452

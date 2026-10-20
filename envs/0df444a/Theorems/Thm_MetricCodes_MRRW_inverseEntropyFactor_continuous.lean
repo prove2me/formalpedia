@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_inverseEntropyFactor_continuous
 -- name    : MetricCodes.MRRW.inverseEntropyFactor_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/063810d5-7831-4906-a37d-d2cb7b5448e9

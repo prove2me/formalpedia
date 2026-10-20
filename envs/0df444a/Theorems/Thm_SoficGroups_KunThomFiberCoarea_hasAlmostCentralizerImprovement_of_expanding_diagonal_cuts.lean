@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_hasAlmostCentralizerImprovement_of_expanding_diagonal_cuts
 -- name    : SoficGroups.KunThomFiberCoarea.hasAlmostCentralizerImprovement_of_expanding_diagonal_cuts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/d2c95f0d-20f3-41e7-a70b-f28a87f21baf

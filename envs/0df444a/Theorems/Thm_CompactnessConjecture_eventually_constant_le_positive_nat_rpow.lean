@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_eventually_constant_le_positive_nat_rpow
 -- name    : CompactnessConjecture.eventually_constant_le_positive_nat_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/ed9fa502-de29-4c8f-9389-601146390071

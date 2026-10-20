@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyFinitePerron_eigenvector_pos_of_irreducible
 -- name    : MetricCodes.Spherical.HigherHierarchyFinitePerron.eigenvector_pos_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/76b5f4db-316e-44f1-b047-4e1c752a4a28

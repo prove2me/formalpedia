@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_densConfOp_quadForm_ge
 -- name    : BookProof.ScalaronDensitized.densConfOp_quadForm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:22:10.349298+00:00
 -- url     : https://prove2.me/theorems/bfd101f2-a9b4-4707-82f9-16d14782e260

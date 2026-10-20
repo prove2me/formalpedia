@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_MidpointQuadrature_midpointEndpointDifference_eq_correction_add
 -- name    : MetricCodes.Spherical.HigherHierarchy.MidpointQuadrature.midpointEndpointDifference_eq_correction_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/e3ae83e8-1f3a-4c6f-abbb-ca121d73c90a

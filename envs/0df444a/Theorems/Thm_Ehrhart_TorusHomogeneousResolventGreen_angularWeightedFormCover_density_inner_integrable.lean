@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousResolventGreen_angularWeightedFormCover_density_inner_integrable
 -- name    : Ehrhart.TorusHomogeneousResolventGreen.angularWeightedFormCover_density_inner_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/f16e5d97-72b0-47eb-b40e-84827bdff165

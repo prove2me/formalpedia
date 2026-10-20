@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_fourth_power_logarithmic_lower_bound
 -- name    : PermanentFormulaLowerBound.fourth_power_logarithmic_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/7cfce1fb-59d8-40e9-9da7-33e37df0fc35

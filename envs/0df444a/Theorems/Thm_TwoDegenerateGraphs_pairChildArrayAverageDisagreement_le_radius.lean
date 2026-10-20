@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairChildArrayAverageDisagreement_le_radius
 -- name    : TwoDegenerateGraphs.pairChildArrayAverageDisagreement_le_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/42e7d399-a199-471c-bfc9-3999bc82a36b

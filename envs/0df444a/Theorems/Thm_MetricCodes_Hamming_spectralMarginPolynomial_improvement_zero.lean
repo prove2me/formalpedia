@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_spectralMarginPolynomial_improvement_zero
 -- name    : MetricCodes.Hamming.spectralMarginPolynomial_improvement_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/5f8a528e-4953-481c-99fa-337c60e4a297

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exists_source_rounding_divisor
 -- name    : QuantumParallelRepetition.exists_source_rounding_divisor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/d47dd20a-c714-4dc2-8b12-5efc4768ef80

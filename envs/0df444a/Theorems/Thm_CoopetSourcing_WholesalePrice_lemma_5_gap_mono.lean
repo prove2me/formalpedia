@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoopetSourcing_WholesalePrice_lemma_5_gap_mono
 -- name    : CoopetSourcing.WholesalePrice.lemma_5_gap_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:52:16.648015+00:00
 -- url     : https://prove2.me/theorems/3f3c88b4-1f28-4bc3-b124-7d5efcaf73bb

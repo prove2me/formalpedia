@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485GenericSelectedWinningRegroupGauge
 -- name    : QuantumParallelRepetition.unconditionalActualC485GenericSelectedWinningRegroupGauge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/d702052c-376b-462f-b003-2078c5d9ff48

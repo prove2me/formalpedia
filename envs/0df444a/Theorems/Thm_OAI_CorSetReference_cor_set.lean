@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CorSetReference_cor_set
 -- name    : OAI.CorSetReference.cor_set
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:29.573058+00:00
 -- url     : https://prove2.me/theorems/0ab4d6f5-4dcd-429b-9af2-7bb249097b67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_LaurentJetSeparatedness_analyticAt_torusCharacter
 -- name    : Ehrhart.LaurentJetSeparatedness.analyticAt_torusCharacter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/3d906d7b-0dee-4563-9b05-5dee95b000c2

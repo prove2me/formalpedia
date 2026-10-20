@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalRegroupedSelectedRetainedReindexAction
 -- name    : QuantumParallelRepetition.unconditionalRegroupedSelectedRetainedReindexAction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/a1bd48f2-35f8-4fe9-bd07-5f0fff5d9156

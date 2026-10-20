@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareZeroCoefficient_sourceExceptionalBlock
 -- name    : PermanentRollout.squareZeroCoefficient_sourceExceptionalBlock
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/1b2d059e-80ad-4e8e-9c02-c2ead24d8751

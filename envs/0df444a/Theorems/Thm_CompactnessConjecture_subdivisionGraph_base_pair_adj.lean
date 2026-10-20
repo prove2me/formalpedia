@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionGraph_base_pair_adj
 -- name    : CompactnessConjecture.subdivisionGraph_base_pair_adj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/268976cd-0191-459f-bb1c-23b72d6b8cfe

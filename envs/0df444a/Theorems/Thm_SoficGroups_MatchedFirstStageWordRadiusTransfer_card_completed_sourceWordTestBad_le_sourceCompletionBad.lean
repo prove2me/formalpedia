@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedFirstStageWordRadiusTransfer_card_completed_sourceWordTestBad_le_sourceCompletionBad
 -- name    : SoficGroups.MatchedFirstStageWordRadiusTransfer.card_completed_sourceWordTestBad_le_sourceCompletionBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/b66f0a63-e6e6-4aba-af5a-9e73a0040892

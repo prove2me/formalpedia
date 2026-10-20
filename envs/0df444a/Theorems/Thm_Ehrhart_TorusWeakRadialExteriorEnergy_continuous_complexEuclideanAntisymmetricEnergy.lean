@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakRadialExteriorEnergy_continuous_complexEuclideanAntisymmetricEnergy
 -- name    : Ehrhart.TorusWeakRadialExteriorEnergy.continuous_complexEuclideanAntisymmetricEnergy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/52dfdcba-9c33-444e-b002-f3b344ea6595

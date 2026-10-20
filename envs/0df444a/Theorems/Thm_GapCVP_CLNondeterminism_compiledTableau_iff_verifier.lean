@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CLNondeterminism_compiledTableau_iff_verifier
 -- name    : GapCVP.CLNondeterminism.compiledTableau_iff_verifier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/10f3b12e-6b61-4234-995a-6ad39a8444bc

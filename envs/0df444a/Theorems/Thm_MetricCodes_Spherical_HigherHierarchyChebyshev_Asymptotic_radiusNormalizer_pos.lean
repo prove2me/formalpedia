@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_radiusNormalizer_pos
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.radiusNormalizer_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/646424ff-e17e-47a0-b083-f81f64b260be

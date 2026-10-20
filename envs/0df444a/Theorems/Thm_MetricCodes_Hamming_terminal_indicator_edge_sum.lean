@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_terminal_indicator_edge_sum
 -- name    : MetricCodes.Hamming.terminal_indicator_edge_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/594dc961-a35c-4272-b6c0-7f446390ea51

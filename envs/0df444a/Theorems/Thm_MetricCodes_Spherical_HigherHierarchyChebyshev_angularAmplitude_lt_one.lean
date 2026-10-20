@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularAmplitude_lt_one
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularAmplitude_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/4fd9052a-10d1-4f01-a90c-abc434002ff9

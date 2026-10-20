@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedHierarchyCoordinate_mem_Icc
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedHierarchyCoordinate_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/3af3a6c9-99da-471b-b68c-03b85f6bc16d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedHierarchyTuple_mem_cube
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedHierarchyTuple_mem_cube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/41e5c98f-14db-425c-a95e-a96b75b9fe3e

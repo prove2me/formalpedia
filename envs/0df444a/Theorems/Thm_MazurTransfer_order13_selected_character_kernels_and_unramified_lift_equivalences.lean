@@ -1,0 +1,82 @@
+-- Prove2me | Theorems.Thm_MazurTransfer_order13_selected_character_kernels_and_unramified_lift_equivalences
+-- name    : MazurTransfer.order13_selected_character_kernels_and_unramified_lift_equivalences
+-- status  : Proved
+-- author  : @Vas
+-- created : 2026-10-19T13:14:00.159576+00:00
+-- url     : https://prove2.me/theorems/857ab8f1-6380-48b5-93a7-39db3bcb9587
+-- statement:
+--   For each of the two previously fixed ordered norm-character Kummer maps, a quotient class maps to one if and only if its norm Kummer class lifts through the same selected character inclusion from the original submodule unramified at every genuine valuation inertia group away from $13$ and $19$, including $2$. Both forward lift statements and both equivalences retain the original choices, coefficient labels, primitive root and cover. Named downstream consumer: actual character kernel dimensions and norm Selmer bounds.
+
+import Definitions.Def_MazurTransfer_Order13OriginalSelectedUnramifiedCharacterClassSubmodulesData20261019
+import Theorems.Thm_MazurTransfer_order13_character_kernel_lifts_unramified_away_thirteen_nineteen
+import Theorems.Thm_MazurTransfer_order13_actual_selected_character_kummer_kernel_certificates
+noncomputable section
+open MazurTransfer
+open Order13ActualSelectedCharacterUnramifiedKernelLifts
+open CategoryTheory AlgebraicGeometry AlgebraicGeometry.RelPicard
+open GoodReductionJacobian NeronModelInfra
+open MazurTorsion.XOneThirteenProjectiveCurve
+open Order13ActualPicardDiamondSchemeEndomorphism
+open Order13ActualPicardSchemeNineteenNorm Order13ActualPicardSchemeNormGroupHom
+open Order13ActualPicardGeometricNormPreimages
+open Order13ActualPicardNormKummerCocycles
+open scoped CategoryTheory.MonObj
+open Order13ActualPicardNormKernelGaloisAction
+open Order13ActualPicardGaloisFixedPointDescent
+open Order13ActualNormKernelF19Representation Order13ActualNormFixedKernelEquivalence
+open Order13ActualNormKernelFiniteModule
+open Order13ActualPicardSchemeNineteenNorm Order13ActualNormKernelFiniteModule
+open Order13ActualNormKernelCyclotomicCharacter Order13ActualNormKernelCrossPairing
+open NineteenRootsGaloisRepresentation Order13ActualNineteenTorsionNormPairingAdjoint
+open Order13ActualNormKernelInvariantDimensions Order13ActualComplementaryCharacterExactSequence
+open Order13ActualArithmeticCharacterExactSequence Order13ActualCyclotomicThirteenKernelCharacter
+open Order13ActualNormCharacterContinuousH1 Order13ActualNormCharacterKummerUnramified
+open RepresentationDiscreteCoefficients ContinuousCoefficientExponentAndContinuity
+open Order13ActualPicardNormContinuousCohomology
+open Order13ActualPicardNormAlgebraicKummerInjection
+open RepresentationCharacterTwist
+open OneDimensionalSelectedQuotientKernel
+open Order13ActualOrderedCharacterContinuousH1
+open Order13ActualSelectedCharacterExactSequences
+open Order13ActualNormCharacterH1Exactness Order13ActualNormCharacterKummerKernelControl
+open Order13ActualPicardNormContinuousKummerInjection
+open Order13ActualPicardNormSubgroupRestrictionF19
+open Order13ActualSelectedCharacterKummerKernel
+open Order13ActualCharacterKernelLiftsAwayThirteenNineteen
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instGrpObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instIsCommMonObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instIsMonHomOverSchemeSpecOfRatSchemePi_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instIsMonHomOverSchemeSpecOfRatSchemePiConjugate_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instFactPrimeOfNatNat_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instIsFiniteLeftSchemeSchemePi_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instIsFiniteLeftSchemeSchemePiConjugate_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instFactForallEqSubtypePointsMemSubgroupKernelSchemePiHPowOfNat_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instFactForallEqSubtypePointsMemSubgroupKernelSchemePiConjugateHPowOfNat_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instModuleZModOfNatNatAdditiveSubtypePointsMemSubgroupKernelSchemePi_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instModuleZModOfNatNatAdditiveSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instFactNeRatOfNat_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instFiniteSubtypePointsMemSubgroupKernelSchemePi_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instFiniteSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instModuleZModOfNatNatAdditiveSubtypeUnitsMemSubgroupRoots_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instTopologicalSpacePoints_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instDiscreteTopologyPoints_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instMulActionAlgEquivRatPoints_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instMulDistribMulActionAlgEquivRatSubtypePointsMemSubgroupKernelSchemePi_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instMulDistribMulActionAlgEquivRatSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instFiniteDimensionalZModOfNatNatAdditiveSubtypeUnitsMemSubgroupRoots_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instModuleZModOfNatNatContinuousH1SchemePi_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instModuleZModOfNatNatContinuousH1SchemePiConjugate_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instContinuousSMulAlgEquivRatSubtypePointsMemSubgroupKernelSchemePi_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instContinuousSMulAlgEquivRatSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instModuleZModOfNatNatH1AlgEquivRatCoefficientPiLineRepresentation_order13ActualSelectedCharacterUnramifiedKernelLifts
+attribute [local instance] MazurTransfer.Order13ActualSelectedCharacterUnramifiedKernelLifts.instModuleZModOfNatNatH1AlgEquivRatCoefficientTrivialLineRepresentation_order13ActualSelectedCharacterUnramifiedKernelLifts
+
+theorem MazurTransfer.order13_selected_character_kernels_and_unramified_lift_equivalences : (∀ (K : Type) [Field K] [CharZero K] [IsGalois ℚ K] [IsAlgClosed K] (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover), ∀ (x : NormQuotient schemePi) (hx : piKummerHom K z hz 𝒱 x = 1), ∃ y ∈ piUnramifiedCharacterClasses K z hz,
+      piInclusionClass K z hz 𝒱 y =
+        (continuousQuotientHom K schemePi (schemePi_geometricPoint_surjective K) x).toAdd) ∧ (∀ (K : Type) [Field K] [CharZero K] [IsGalois ℚ K] [IsAlgClosed K] (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover), ∀ (x : NormQuotient schemePiConjugate) (hx : piConjugateKummerHom K z hz 𝒱 x = 1), ∃ y ∈ piConjugateUnramifiedCharacterClasses K,
+      piConjugateInclusionClass K z hz 𝒱 y =
+        (continuousQuotientHom K schemePiConjugate (schemePiConjugate_geometricPoint_surjective K) x).toAdd) ∧ (∀ (K : Type) [Field K] [CharZero K] [IsGalois ℚ K] [IsAlgClosed K] (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover), ∀ (x : NormQuotient schemePi), piKummerHom K z hz 𝒱 x = 1 ↔ ∃ y ∈ piUnramifiedCharacterClasses K z hz,
+      piInclusionClass K z hz 𝒱 y =
+        (continuousQuotientHom K schemePi (schemePi_geometricPoint_surjective K) x).toAdd) ∧ (∀ (K : Type) [Field K] [CharZero K] [IsGalois ℚ K] [IsAlgClosed K] (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover), ∀ (x : NormQuotient schemePiConjugate), piConjugateKummerHom K z hz 𝒱 x = 1 ↔ ∃ y ∈ piConjugateUnramifiedCharacterClasses K,
+      piConjugateInclusionClass K z hz 𝒱 y =
+        (continuousQuotientHom K schemePiConjugate (schemePiConjugate_geometricPoint_surjective K) x).toAdd) := by sorry

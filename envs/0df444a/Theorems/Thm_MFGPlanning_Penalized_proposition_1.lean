@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFGPlanning_Penalized_proposition_1
 -- name    : MFGPlanning.Penalized.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T20:00:00.132695+00:00
 -- url     : https://prove2.me/theorems/0b7572ae-d421-4b29-a68d-0c22f0cac5bc

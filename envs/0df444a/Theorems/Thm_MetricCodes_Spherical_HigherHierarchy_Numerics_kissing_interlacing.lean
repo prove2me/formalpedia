@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Numerics_kissing_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchy.Numerics.kissing_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/38247c33-4408-4743-a1b9-4b602174cc16

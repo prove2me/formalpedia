@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_BranchingDimension_fullBranchOfInterlaces_signature
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension.fullBranchOfInterlaces_signature
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/cdffec88-270c-43fe-90cd-416c175ed433

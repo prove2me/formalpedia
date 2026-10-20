@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetSpatialPeriodicity_momentJointTailUpperEnvelope_spatial_invariant
 -- name    : Ehrhart.BergmanJetSpatialPeriodicity.momentJointTailUpperEnvelope_spatial_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/26937c5e-807d-4d7e-8d7a-8d47c682f4a7

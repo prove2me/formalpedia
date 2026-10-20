@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_lt_log_one_add_add_half_log_one_add_sq
 -- name    : MetricCodes.Spherical.HigherHierarchy.lt_log_one_add_add_half_log_one_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/2573eedd-7ac3-4c23-85df-61941014559a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedSourceFinalGeneratorTransfer_twiceCompleted_sourceGenerator_normalizedHamming_tendsto_zero
 -- name    : SoficGroups.CompletedSourceFinalGeneratorTransfer.twiceCompleted_sourceGenerator_normalizedHamming_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/27a3736b-8fb9-4883-82d8-24ca3340ddb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_isBigO_rpow_atTop
 -- name    : CohnElkies.radialProfile_isBigO_rpow_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/a982de02-20b3-44a5-9266-f76048982b0f

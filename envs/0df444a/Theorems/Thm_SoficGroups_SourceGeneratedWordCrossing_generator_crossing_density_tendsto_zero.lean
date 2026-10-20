@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneratedWordCrossing_generator_crossing_density_tendsto_zero
 -- name    : SoficGroups.SourceGeneratedWordCrossing.generator_crossing_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/f98f9ff3-0680-4821-90c2-33991e3f4826

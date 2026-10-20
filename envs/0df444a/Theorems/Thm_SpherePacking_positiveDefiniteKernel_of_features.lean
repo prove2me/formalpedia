@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_positiveDefiniteKernel_of_features
 -- name    : SpherePacking.positiveDefiniteKernel_of_features
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/d2e4ac86-4862-475b-b5c5-d31688e312fc

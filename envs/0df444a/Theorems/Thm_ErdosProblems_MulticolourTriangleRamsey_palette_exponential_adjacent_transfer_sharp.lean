@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_palette_exponential_adjacent_transfer_sharp
 -- name    : ErdosProblems.MulticolourTriangleRamsey.palette_exponential_adjacent_transfer_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/941b2579-9966-4372-b63d-17df8538cd7b

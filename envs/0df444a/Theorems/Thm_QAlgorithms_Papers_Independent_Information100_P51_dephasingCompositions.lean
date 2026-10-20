@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P51_dephasingCompositions
 -- name    : QAlgorithms.Papers.Independent.Information100.P51.dephasingCompositions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:50:31.732916+00:00
 -- url     : https://prove2.me/theorems/cff8cc53-6e63-439a-84d9-cf97351ea567

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_amplitude_pos
 -- name    : MetricCodes.HigherProjectionGraph.Data.amplitude_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/90ba76b9-d7f7-4f30-b13f-48f78864fa16

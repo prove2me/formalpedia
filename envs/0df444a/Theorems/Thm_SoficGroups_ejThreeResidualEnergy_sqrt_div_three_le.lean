@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualEnergy_sqrt_div_three_le
 -- name    : SoficGroups.ejThreeResidualEnergy_sqrt_div_three_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/c934ea7c-6bcb-41f5-a5b3-a7b88b9a4c27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_familyExtremal_sixteenth_power_le
 -- name    : CompactnessConjecture.proposedFamily_familyExtremal_sixteenth_power_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/4cdd8924-f045-4b00-a462-233dc32a49dd

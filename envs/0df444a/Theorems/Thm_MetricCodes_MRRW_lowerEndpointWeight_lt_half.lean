@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_lowerEndpointWeight_lt_half
 -- name    : MetricCodes.MRRW.lowerEndpointWeight_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/412f6d45-26d7-4eae-abc4-4be20c517227

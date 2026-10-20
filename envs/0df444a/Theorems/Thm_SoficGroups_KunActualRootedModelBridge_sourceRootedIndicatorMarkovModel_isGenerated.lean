@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualRootedModelBridge_sourceRootedIndicatorMarkovModel_isGenerated
 -- name    : SoficGroups.KunActualRootedModelBridge.sourceRootedIndicatorMarkovModel_isGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/49945a61-8146-4482-b973-787ff2a435d5

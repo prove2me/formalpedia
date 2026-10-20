@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_lagrangeWeight_eq_residue
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.lagrangeWeight_eq_residue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/bbdd9f0c-070f-460c-a076-300848bae234

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactLocallySampleableLaw_psi_ne_zero_of_ne_zero
 -- name    : QuantumParallelRepetition.exactLocallySampleableLaw_psi_ne_zero_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/42e697d9-b7ae-405f-b949-254b0bdef4fc

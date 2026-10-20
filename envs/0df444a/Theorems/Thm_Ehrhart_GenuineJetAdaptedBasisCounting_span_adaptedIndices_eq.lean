@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_GenuineJetAdaptedBasisCounting_span_adaptedIndices_eq
 -- name    : Ehrhart.GenuineJetAdaptedBasisCounting.span_adaptedIndices_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/c4c21eb0-c1a2-48ec-a4b0-92b62466cfbd

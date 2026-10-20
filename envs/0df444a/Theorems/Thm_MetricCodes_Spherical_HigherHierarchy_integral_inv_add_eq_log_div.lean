@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_integral_inv_add_eq_log_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.integral_inv_add_eq_log_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/7d4a2194-f958-443c-943d-2901c43663c6

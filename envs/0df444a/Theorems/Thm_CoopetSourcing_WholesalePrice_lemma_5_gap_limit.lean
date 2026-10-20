@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoopetSourcing_WholesalePrice_lemma_5_gap_limit
 -- name    : CoopetSourcing.WholesalePrice.lemma_5_gap_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:52:22.364619+00:00
 -- url     : https://prove2.me/theorems/51312dd4-8e48-4d1e-8b9c-2994d7f9aaff

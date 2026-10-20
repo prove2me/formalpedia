@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_ProjectionFamily_sq_trace_le_dimension_mul_trace_sq
 -- name    : MetricCodes.ProjectionFamily.sq_trace_le_dimension_mul_trace_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/69dc9f83-69fe-452b-b53c-73e8b0bb9942

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakRadialCutoffCommutator_angularWeakSourceCutoffAdjointCommutator_L2_norm_le
 -- name    : Ehrhart.TorusWeakRadialCutoffCommutator.angularWeakSourceCutoffAdjointCommutator_L2_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/785eea16-3270-4aeb-b84e-0bc7f5a78004

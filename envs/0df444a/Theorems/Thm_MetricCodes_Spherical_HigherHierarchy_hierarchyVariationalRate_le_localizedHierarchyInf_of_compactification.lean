@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyVariationalRate_le_localizedHierarchyInf_of_compactification
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyVariationalRate_le_localizedHierarchyInf_of_compactification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/fb99bda2-3872-4d50-8880-9b5fdadcefc9

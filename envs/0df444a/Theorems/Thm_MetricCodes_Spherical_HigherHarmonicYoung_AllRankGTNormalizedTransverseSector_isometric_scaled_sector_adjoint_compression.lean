@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTNormalizedTransverseSector_isometric_scaled_sector_adjoint_compression
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseSector.isometric_scaled_sector_adjoint_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/648ecc17-7349-454a-9cf4-28379657bcc6

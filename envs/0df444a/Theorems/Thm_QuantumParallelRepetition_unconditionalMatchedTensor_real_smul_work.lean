@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMatchedTensor_real_smul_work
 -- name    : QuantumParallelRepetition.unconditionalMatchedTensor_real_smul_work
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/18278583-b090-4827-9809-bb516784935c

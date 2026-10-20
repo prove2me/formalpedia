@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedRadialCutoff_angularWeightedTorus_fixedRadialCutoff_smul_error_integral_tendsto_zero
 -- name    : Ehrhart.TorusStrongWeightedRadialCutoff.angularWeightedTorus_fixedRadialCutoff_smul_error_integral_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/f26513ab-51cf-4972-bc71-6e941ac82676

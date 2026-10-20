@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.BrstUnboundedLeakage.leakage_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T19:47:52.669997+00:00
 -- url     : https://prove2.me/submissions/3124c90b-2638-4df1-a32e-b99e148a3de0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBrstUnboundedLeakage.lean — solution of BookProof.BrstUnboundedLeakage.leakage_le
 import Mathlib

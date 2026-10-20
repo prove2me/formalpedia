@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyLogPartitionSharpGrowth_momentBodyLogPartition_le_dimension_mul
 -- name    : Ehrhart.BergmanJetBodyLogPartitionSharpGrowth.momentBodyLogPartition_le_dimension_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/6532776c-42ea-49af-bb3b-221e6d33535d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineInputCombination_not_mem_gate_vars
 -- name    : PermanentRollout.freeAffineInputCombination_not_mem_gate_vars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/574eb28e-8d7c-4820-886d-6e75c30a0192

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sinc_abs
 -- name    : CohnElkies.sinc_abs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/69e5a483-31b0-4704-b4bd-21a295be4307

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_common_neighbor_unique
 -- name    : CompactnessConjecture.symplecticQuadrangle_common_neighbor_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/81f3cdae-66b0-42a0-a26e-c3cd304e3fde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_triangleRamseyNumber_log_eventually_bounds
 -- name    : ErdosProblems.MulticolourTriangleRamsey.triangleRamseyNumber_log_eventually_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/31a45b31-2e19-4079-ba12-21776648f27d

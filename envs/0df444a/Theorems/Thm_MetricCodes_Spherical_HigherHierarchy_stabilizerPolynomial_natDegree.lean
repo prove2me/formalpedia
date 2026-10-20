@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stabilizerPolynomial_natDegree
 -- name    : MetricCodes.Spherical.HigherHierarchy.stabilizerPolynomial_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/339624af-fa02-4cd6-89f7-b3b58697954e

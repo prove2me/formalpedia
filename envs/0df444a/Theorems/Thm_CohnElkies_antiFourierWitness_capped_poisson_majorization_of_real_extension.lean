@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_capped_poisson_majorization_of_real_extension
 -- name    : CohnElkies.antiFourierWitness_capped_poisson_majorization_of_real_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/cd276aac-ad08-427a-8c35-273e1bc6d23a

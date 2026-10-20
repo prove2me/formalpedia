@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angular_cos_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angular_cos_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/42ec4b21-d72c-4f91-91e1-a6ad7a660ecf

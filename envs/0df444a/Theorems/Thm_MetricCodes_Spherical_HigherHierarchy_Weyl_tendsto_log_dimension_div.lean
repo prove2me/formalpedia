@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_tendsto_log_dimension_div
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.tendsto_log_dimension_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/a0a35b56-1266-4aee-98ea-b5d7c518a510

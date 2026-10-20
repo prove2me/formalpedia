@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_continuous_angularUnweightedTorusIntegrand
 -- name    : Ehrhart.WeightedTorusBochner.continuous_angularUnweightedTorusIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/155c4971-1d9b-4fd1-baa2-ae96fa49c34e

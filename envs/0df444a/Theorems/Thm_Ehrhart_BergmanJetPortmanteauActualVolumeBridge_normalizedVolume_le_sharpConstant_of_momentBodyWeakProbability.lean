@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_normalizedVolume_le_sharpConstant_of_momentBodyWeakProbability
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.normalizedVolume_le_sharpConstant_of_momentBodyWeakProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/449c5907-8124-43ed-b3f7-b22c3f17ee9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetStrictRadialRegularizer_ball_momentBodyInteriorRadius_subset
 -- name    : Ehrhart.BergmanJetStrictRadialRegularizer.ball_momentBodyInteriorRadius_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/57731d1f-5908-441d-8714-3b2b417508bb

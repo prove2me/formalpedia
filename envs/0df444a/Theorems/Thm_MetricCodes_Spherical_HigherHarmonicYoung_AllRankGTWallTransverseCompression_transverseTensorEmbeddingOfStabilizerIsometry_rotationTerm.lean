@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTWallTransverseCompression_transverseTensorEmbeddingOfStabilizerIsometry_rotationTerm
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression.transverseTensorEmbeddingOfStabilizerIsometry_rotationTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/7f1b6a43-13e7-4d14-98b9-7c12cd6a8843

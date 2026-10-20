@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetUpperEnvelope_eventually_momentJointTailSup_le_majorant_add
 -- name    : Ehrhart.BergmanJetUpperEnvelope.eventually_momentJointTailSup_le_majorant_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/a7e2d66c-ee52-496f-9b0c-98935e45b73c

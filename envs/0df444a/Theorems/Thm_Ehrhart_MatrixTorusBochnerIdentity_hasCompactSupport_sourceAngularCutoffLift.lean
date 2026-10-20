@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_hasCompactSupport_sourceAngularCutoffLift
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.hasCompactSupport_sourceAngularCutoffLift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/3a22bcda-760b-4da7-9cdd-1b17bcfd1d5f

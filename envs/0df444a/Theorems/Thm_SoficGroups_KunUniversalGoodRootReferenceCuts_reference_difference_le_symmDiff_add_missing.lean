@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUniversalGoodRootReferenceCuts_reference_difference_le_symmDiff_add_missing
 -- name    : SoficGroups.KunUniversalGoodRootReferenceCuts.reference_difference_le_symmDiff_add_missing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/57178dc7-ce78-4e06-b888-d9c1189b538b

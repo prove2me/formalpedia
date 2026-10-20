@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_infinitePropertyTFiber_gamma
 -- name    : ConnesRigidity.PaperAnalyticInput.infinitePropertyTFiber_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/a41cd1ab-152c-453c-b8e6-2d7a3af24087

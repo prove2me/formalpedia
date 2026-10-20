@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLineGraphMap_graphVector
 -- name    : CompactnessConjecture.symplecticLineGraphMap_graphVector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/8970e1d2-3003-431c-9ba3-6730adab8eaf

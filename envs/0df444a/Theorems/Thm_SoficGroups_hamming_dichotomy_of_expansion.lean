@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_hamming_dichotomy_of_expansion
 -- name    : SoficGroups.hamming_dichotomy_of_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/c651d6da-b069-4c1c-89bf-5976c8eb853b

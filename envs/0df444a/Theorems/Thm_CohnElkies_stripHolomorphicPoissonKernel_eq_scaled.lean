@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripHolomorphicPoissonKernel_eq_scaled
 -- name    : CohnElkies.stripHolomorphicPoissonKernel_eq_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/25109f72-0445-4eb6-a230-06ced4f7f9a3

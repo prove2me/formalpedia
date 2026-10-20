@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_monomial_pairing_sub_le_bodyRadius
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.monomial_pairing_sub_le_bodyRadius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/f0eff037-a348-4a72-a1b1-39ca7152fd50

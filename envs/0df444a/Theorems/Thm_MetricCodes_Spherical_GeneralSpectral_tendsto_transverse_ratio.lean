@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_tendsto_transverse_ratio
 -- name    : MetricCodes.Spherical.GeneralSpectral.tendsto_transverse_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/28b625f4-f9cc-47fe-bf31-7a804e75bd72

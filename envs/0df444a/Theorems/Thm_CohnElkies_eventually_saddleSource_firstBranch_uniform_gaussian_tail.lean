@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSource_firstBranch_uniform_gaussian_tail
 -- name    : CohnElkies.eventually_saddleSource_firstBranch_uniform_gaussian_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/00ca7515-331c-439c-8979-66276a98905a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_zero_cap_admissible_dividendValue_le_barrier_at_zero
 -- name    : AvramDividend.Classical.zero_cap_admissible_dividendValue_le_barrier_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T17:55:59.684433+00:00
 -- url     : https://prove2.me/theorems/570b5248-37cd-45e1-a600-cb46bf273fae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransportedPieriOrthogonality_physicalPaddedPieriChannel_finrank
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality.physicalPaddedPieriChannel_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/dadd9a57-b9e0-42d0-a0e2-65d6da9f98a7

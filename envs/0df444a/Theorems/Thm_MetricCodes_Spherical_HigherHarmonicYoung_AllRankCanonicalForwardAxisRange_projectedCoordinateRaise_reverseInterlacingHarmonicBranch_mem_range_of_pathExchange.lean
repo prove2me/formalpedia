@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCanonicalForwardAxisRange_projectedCoordinateRaise_reverseInterlacingHarmonicBranch_mem_range_of_pathExchange
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalForwardAxisRange.projectedCoordinateRaise_reverseInterlacingHarmonicBranch_mem_range_of_pathExchange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/048a994e-ec40-4c1f-a37a-ab2a3fed8024

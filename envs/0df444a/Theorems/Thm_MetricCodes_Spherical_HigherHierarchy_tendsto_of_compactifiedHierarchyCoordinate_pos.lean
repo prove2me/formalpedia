@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_of_compactifiedHierarchyCoordinate_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_of_compactifiedHierarchyCoordinate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/d230ab87-2582-45ac-8e08-4f5210ddc78e

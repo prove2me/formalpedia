@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_mixtureBlockMatrix_trace_mul
 -- name    : QuantumParallelRepetition.mixtureBlockMatrix_trace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/b935d1e5-ef5b-4036-a70b-7be0631a7edf

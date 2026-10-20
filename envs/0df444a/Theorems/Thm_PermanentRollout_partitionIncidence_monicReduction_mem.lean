@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionIncidence_monicReduction_mem
 -- name    : PermanentRollout.partitionIncidence_monicReduction_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/d23b7149-76b7-42a5-8b8e-30a8468d04ae

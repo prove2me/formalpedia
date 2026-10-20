@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_appendReverseProducts_multiplicationCount
 -- name    : PermanentRollout.ReverseAdjoint.appendReverseProducts_multiplicationCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/1608b5a3-2d04-471f-b324-893d0bb7c935

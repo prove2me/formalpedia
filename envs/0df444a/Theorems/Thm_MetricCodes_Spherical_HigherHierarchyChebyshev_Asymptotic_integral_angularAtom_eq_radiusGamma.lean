@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_integral_angularAtom_eq_radiusGamma
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.integral_angularAtom_eq_radiusGamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/b9ba16f9-3b6c-4ba0-84be-e9f1bb787465

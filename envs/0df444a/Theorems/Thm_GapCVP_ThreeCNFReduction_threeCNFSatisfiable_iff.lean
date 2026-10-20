@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_threeCNFSatisfiable_iff
 -- name    : GapCVP.ThreeCNFReduction.threeCNFSatisfiable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/b392b50c-c6c0-407c-bc4e-d8f3e63256aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_conditionalEntropy_bound_of_marginal_interior
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.conditionalEntropy_bound_of_marginal_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/5add8552-d661-4079-81ca-23e1a683bea2

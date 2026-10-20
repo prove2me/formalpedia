@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddlePoleResidue_mul_pow_eq_smallCoefficient
 -- name    : CohnElkies.plusSaddlePoleResidue_mul_pow_eq_smallCoefficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/c3bcb22c-d176-486b-8165-7528e7f3ecfd

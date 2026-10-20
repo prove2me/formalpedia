@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermanentJacobian_apply
 -- name    : PermanentFormulaLowerBound.matchingPermanentJacobian_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/893701cc-37c4-498a-84f1-453e95bf3c40

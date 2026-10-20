@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedTorusDescent_angularWeightedTorus_compact_scalarRepresentative_L2_tendsto_of_cover
 -- name    : Ehrhart.TorusStrongWeightedTorusDescent.angularWeightedTorus_compact_scalarRepresentative_L2_tendsto_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/31138020-4c87-4a1b-ba63-a03add2bffa8

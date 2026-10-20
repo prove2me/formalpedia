@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_boundaryQuadratic_classicalThreshold_eq_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.boundaryQuadratic_classicalThreshold_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/b51a1d2f-593e-4e32-bc2a-e8db2462c9d7

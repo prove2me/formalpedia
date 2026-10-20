@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleNegative_factorialTail_le_majorant
 -- name    : CohnElkies.saddleNegative_factorialTail_le_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/c94ce21b-f70b-40b6-a2dc-c7df055ec2ec

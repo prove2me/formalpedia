@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_boundaryQuadratic_pos_iff_classicalThreshold_lt
 -- name    : MetricCodes.Spherical.boundaryQuadratic_pos_iff_classicalThreshold_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/fe287eac-65b1-4c25-84d6-94e391375d48

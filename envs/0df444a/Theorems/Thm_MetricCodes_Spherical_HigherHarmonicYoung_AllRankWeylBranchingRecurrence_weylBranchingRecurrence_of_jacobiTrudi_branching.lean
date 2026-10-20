@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankWeylBranchingRecurrence_weylBranchingRecurrence_of_jacobiTrudi_branching
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankWeylBranchingRecurrence.weylBranchingRecurrence_of_jacobiTrudi_branching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/978101e6-ab2b-4e05-ad32-78502cd11fa6

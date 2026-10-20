@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentExitBudget_sourceCompletionBad_subset_exit_union_wordBad
 -- name    : SoficGroups.MatchedComponentExitBudget.sourceCompletionBad_subset_exit_union_wordBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/1d2a7792-724e-4c64-a9b4-cc5692d7a3c0

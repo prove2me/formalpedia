@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sliced_gradient_logarithmic_bound_of_fiber_cardinalities
 -- name    : PermanentRollout.sliced_gradient_logarithmic_bound_of_fiber_cardinalities
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/3c333a48-c47d-4b41-948d-75270c52b9b1

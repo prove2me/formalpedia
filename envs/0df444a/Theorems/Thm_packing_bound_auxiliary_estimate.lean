@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_packing_bound_auxiliary_estimate
 -- name    : packing_bound_auxiliary_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/07e9d535-ea0b-43a3-8625-e60744c45471

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitExpanders_Delete_construction_regular
 -- name    : ExplicitExpanders.Delete.construction_regular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:15:43.33382+00:00
 -- url     : https://prove2.me/theorems/986122c2-4eec-435c-a266-22274897e7db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingExpectedRetainedEdgeSquare_le
 -- name    : TwoDegenerateGraphs.hammingExpectedRetainedEdgeSquare_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/a22910a4-8520-410a-8ed2-190b4296c20b

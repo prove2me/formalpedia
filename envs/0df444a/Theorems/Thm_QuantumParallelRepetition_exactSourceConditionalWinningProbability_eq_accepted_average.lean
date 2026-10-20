@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceConditionalWinningProbability_eq_accepted_average
 -- name    : QuantumParallelRepetition.exactSourceConditionalWinningProbability_eq_accepted_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/3aa66684-b47e-4682-bf5e-a59c26c1b44c

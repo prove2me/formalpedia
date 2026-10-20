@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFinalRestrictedVariation_highSupport_variation_le_of_realMarkov_residual_and_highSupport
 -- name    : SoficGroups.KunActualFinalRestrictedVariation.highSupport_variation_le_of_realMarkov_residual_and_highSupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/a3c2cd99-1359-4fb9-8a51-7c5084e9fe12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactAliceRefinedPOVM_compression
 -- name    : QuantumParallelRepetition.exactAliceRefinedPOVM_compression
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/83d8efc2-d039-4ff0-93a9-505c49e1655b

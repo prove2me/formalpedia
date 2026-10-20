@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_terminalHarmonic_le_johnsonAmbientDimension
 -- name    : MetricCodes.Johnson.Asymptotics.terminalHarmonic_le_johnsonAmbientDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/e774f1c3-5f6e-43f2-9b00-5e92f039b17e

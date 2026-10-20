@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_repeatedPostselectionMass_pos
 -- name    : QuantumParallelRepetition.repeatedPostselectionMass_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/ad049fc5-9787-436c-a24c-606dd2371741

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialMellinStrip_shifted_eq_fourier
 -- name    : CohnElkies.normalizedRadialMellinStrip_shifted_eq_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/ef00eb6b-137c-4815-83b4-9c762ad391b2

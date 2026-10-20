@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CanonicalProductRadiusBadMatchedCapture_sourceWordTestBad_subset_finiteProductRootBad
 -- name    : SoficGroups.CanonicalProductRadiusBadMatchedCapture.sourceWordTestBad_subset_finiteProductRootBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/fc4eff43-b059-4210-9dc2-642f4fe85976

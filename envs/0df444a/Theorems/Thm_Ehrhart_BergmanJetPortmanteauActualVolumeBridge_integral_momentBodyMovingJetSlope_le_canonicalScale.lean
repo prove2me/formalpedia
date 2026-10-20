@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_integral_momentBodyMovingJetSlope_le_canonicalScale
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.integral_momentBodyMovingJetSlope_le_canonicalScale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/485842c6-acfe-4020-aa32-e406dd4ca02c

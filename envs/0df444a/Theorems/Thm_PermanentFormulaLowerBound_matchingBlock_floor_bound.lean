@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingBlock_floor_bound
 -- name    : PermanentFormulaLowerBound.matchingBlock_floor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/c15b5aef-b168-4faa-9783-7ee3643f207b

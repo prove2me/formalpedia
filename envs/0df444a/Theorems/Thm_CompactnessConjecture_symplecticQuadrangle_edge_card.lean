@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_edge_card
 -- name    : CompactnessConjecture.symplecticQuadrangle_edge_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/24779aa3-61ba-4a81-9df3-b162439dde71

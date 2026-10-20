@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_jQuotients_mem_iff
 -- name    : CompactnessConjecture.jQuotients_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/1edf0eb1-1f1a-4b72-af56-bf60bb681ce6

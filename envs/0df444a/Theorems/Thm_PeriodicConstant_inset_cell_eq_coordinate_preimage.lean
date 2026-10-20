@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstant_inset_cell_eq_coordinate_preimage
 -- name    : PeriodicConstant.inset_cell_eq_coordinate_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/aaf7aa4b-475a-428f-88c3-66bba4ce617f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_quadratic_residue_ratio_eq_normalized
 -- name    : MetricCodes.Spherical.HigherHierarchy.quadratic_residue_ratio_eq_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/ec43e051-93e2-439f-93ef-8db860cb9479

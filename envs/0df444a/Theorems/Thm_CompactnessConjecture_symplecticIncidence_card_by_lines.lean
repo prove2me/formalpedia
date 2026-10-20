@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticIncidence_card_by_lines
 -- name    : CompactnessConjecture.symplecticIncidence_card_by_lines
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/2a5e43e4-f2e7-4e61-ad1e-90af7cd78d5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusGraphWeakBridge_weightedSmoothGraphGenerator_compact_barPartial_green
 -- name    : Ehrhart.WeightedTorusGraphWeakBridge.weightedSmoothGraphGenerator_compact_barPartial_green
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/323f85fe-bdd6-4c78-918d-c3c949216742

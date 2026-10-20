@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_packingConstant_le_radial_linear_program
 -- name    : SpherePacking.packingConstant_le_radial_linear_program
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/bfce3453-c9b2-4fb3-b9ee-b010cf3187a6

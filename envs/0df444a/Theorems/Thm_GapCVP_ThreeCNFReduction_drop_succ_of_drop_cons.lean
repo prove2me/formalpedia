@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_drop_succ_of_drop_cons
 -- name    : GapCVP.ThreeCNFReduction.drop_succ_of_drop_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/0bfe07ff-160d-4184-b654-2603b919eec5

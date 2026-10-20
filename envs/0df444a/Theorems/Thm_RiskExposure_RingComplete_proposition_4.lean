@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskExposure_RingComplete_proposition_4
 -- name    : RiskExposure.RingComplete.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:13:00.590796+00:00
 -- url     : https://prove2.me/theorems/09f8b5a6-954a-4edd-a09e-2d008c20cfee

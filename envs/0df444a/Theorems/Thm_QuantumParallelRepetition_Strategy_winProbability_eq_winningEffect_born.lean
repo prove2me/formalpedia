@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_Strategy_winProbability_eq_winningEffect_born
 -- name    : QuantumParallelRepetition.Strategy.winProbability_eq_winningEffect_born
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/901c597d-95e1-477e-8708-79fea5263aed

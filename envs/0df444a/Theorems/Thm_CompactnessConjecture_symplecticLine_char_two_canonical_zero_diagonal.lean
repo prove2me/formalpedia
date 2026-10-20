@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLine_char_two_canonical_zero_diagonal
 -- name    : CompactnessConjecture.symplecticLine_char_two_canonical_zero_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/1f27a519-82d1-4cad-99ab-7ef86c2488b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalRounding_smallRoundedLower
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalRounding_smallRoundedLower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/613cfbe1-e8ee-4315-a96e-9afeabe1a390

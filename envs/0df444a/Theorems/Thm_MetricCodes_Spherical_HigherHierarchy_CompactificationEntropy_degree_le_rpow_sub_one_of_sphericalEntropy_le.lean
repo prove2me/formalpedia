@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_degree_le_rpow_sub_one_of_sphericalEntropy_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.degree_le_rpow_sub_one_of_sphericalEntropy_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/638930b9-ab21-49c2-b5b6-b1db8ad3ddea

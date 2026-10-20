@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_angularSourceFreeTruncatedGradientL2_ae_eq
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.angularSourceFreeTruncatedGradientL2_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/ba597035-058b-4704-904f-bc312ba12e3b

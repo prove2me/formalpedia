@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSecondBranch_gammaWeightedCoefficient_le
 -- name    : CohnElkies.saddleSecondBranch_gammaWeightedCoefficient_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/d03e56b9-b505-4ac9-9884-6bfae120c799

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_two_mul_stage_le_paletteColourCount
 -- name    : ErdosProblems.MulticolourTriangleRamsey.two_mul_stage_le_paletteColourCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/41a4f434-43a3-4873-9acd-3bfd844c3c8e

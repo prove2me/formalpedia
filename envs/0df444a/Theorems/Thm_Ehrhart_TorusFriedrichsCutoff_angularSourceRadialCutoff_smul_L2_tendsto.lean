@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsCutoff_angularSourceRadialCutoff_smul_L2_tendsto
 -- name    : Ehrhart.TorusFriedrichsCutoff.angularSourceRadialCutoff_smul_L2_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/6dcba4b1-2022-471a-9280-2a675122dc62

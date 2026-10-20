@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceAcceptedCoordinateMass_sum
 -- name    : QuantumParallelRepetition.exactSourceAcceptedCoordinateMass_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/d6403a17-9deb-4ed7-a4af-2fb66be04118

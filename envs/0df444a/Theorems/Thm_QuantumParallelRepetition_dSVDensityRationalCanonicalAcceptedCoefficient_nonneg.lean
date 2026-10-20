@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalCanonicalAcceptedCoefficient_nonneg
 -- name    : QuantumParallelRepetition.dSVDensityRationalCanonicalAcceptedCoefficient_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/85e70ff3-7b45-487b-adab-dc7f1702789e

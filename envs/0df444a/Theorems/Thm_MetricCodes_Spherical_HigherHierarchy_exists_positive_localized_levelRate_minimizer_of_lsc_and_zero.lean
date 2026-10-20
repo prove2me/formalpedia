@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_positive_localized_levelRate_minimizer_of_lsc_and_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_positive_localized_levelRate_minimizer_of_lsc_and_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/afb04600-b85b-4fc6-b416-e94b57b5f57d

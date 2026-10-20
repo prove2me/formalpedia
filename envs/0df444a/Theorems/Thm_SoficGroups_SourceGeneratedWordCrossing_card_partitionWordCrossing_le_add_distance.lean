@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneratedWordCrossing_card_partitionWordCrossing_le_add_distance
 -- name    : SoficGroups.SourceGeneratedWordCrossing.card_partitionWordCrossing_le_add_distance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/9902ecb6-98d3-4a8e-b9e2-b6f48bf8a236

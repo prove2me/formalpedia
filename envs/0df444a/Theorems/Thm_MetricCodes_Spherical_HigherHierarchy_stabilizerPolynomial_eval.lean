@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stabilizerPolynomial_eval
 -- name    : MetricCodes.Spherical.HigherHierarchy.stabilizerPolynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/f45fcd66-4378-4c2d-afa9-b91fba23d477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_esscher_root_finite_laplace_package
 -- name    : AvramDividend.Classical.bv_esscher_root_finite_laplace_package
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T12:52:30.019346+00:00
 -- url     : https://prove2.me/theorems/554eca76-84a9-4881-a6dc-40f927e96479

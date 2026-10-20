@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionTransportCrossing_tendsto_action_conjugate
 -- name    : SoficGroups.SourceCompressionTransportCrossing.tendsto_action_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/1df24395-e2fd-4a4e-9164-8842dbfdb02c

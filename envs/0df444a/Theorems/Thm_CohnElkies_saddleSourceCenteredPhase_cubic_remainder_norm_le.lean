@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceCenteredPhase_cubic_remainder_norm_le
 -- name    : CohnElkies.saddleSourceCenteredPhase_cubic_remainder_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/fceeca30-ecff-43bc-8175-861a903dbeeb

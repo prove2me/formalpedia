@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalWeightedClippedConjugateUnitSource_distance_sq_le
 -- name    : QuantumParallelRepetition.unconditionalWeightedClippedConjugateUnitSource_distance_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/c43fac7f-826d-493b-9a14-d92565453a10

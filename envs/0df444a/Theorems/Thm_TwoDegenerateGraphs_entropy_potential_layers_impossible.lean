@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropy_potential_layers_impossible
 -- name    : TwoDegenerateGraphs.entropy_potential_layers_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/22597845-5056-45ae-85ae-188d406236c4

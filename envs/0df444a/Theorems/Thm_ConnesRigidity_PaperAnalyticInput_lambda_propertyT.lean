@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_lambda_propertyT
 -- name    : ConnesRigidity.PaperAnalyticInput.lambda_propertyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/002eab06-04e7-4822-8bd2-b4ac7e091282

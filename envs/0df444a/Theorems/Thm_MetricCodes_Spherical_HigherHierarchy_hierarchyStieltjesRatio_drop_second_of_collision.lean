@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyStieltjesRatio_drop_second_of_collision
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyStieltjesRatio_drop_second_of_collision
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/f3016b42-f05c-4873-9bf0-d69bdcf5a959

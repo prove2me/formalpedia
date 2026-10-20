@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteBlockCoefficientMatrixHom_galoisLeftProduct
 -- name    : SoficGroups.finiteBlockCoefficientMatrixHom_galoisLeftProduct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/89d0930e-1859-4f5c-89cc-9c24ba183c8a

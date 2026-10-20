@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_splitFractionHom_injective
 -- name    : PermanentFormulaLowerBound.RationalFormula.splitFractionHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/f907ccb1-4d8e-4ef8-a715-711c1d645c4f

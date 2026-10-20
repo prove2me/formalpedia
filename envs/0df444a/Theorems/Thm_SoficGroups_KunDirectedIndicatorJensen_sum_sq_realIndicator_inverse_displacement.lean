@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunDirectedIndicatorJensen_sum_sq_realIndicator_inverse_displacement
 -- name    : SoficGroups.KunDirectedIndicatorJensen.sum_sq_realIndicator_inverse_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/8ad93d64-cd79-40ba-9478-4b1219841bfc

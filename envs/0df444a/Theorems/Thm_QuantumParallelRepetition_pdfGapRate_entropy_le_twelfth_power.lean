@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGapRate_entropy_le_twelfth_power
 -- name    : QuantumParallelRepetition.pdfGapRate_entropy_le_twelfth_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/c6ca9428-3de5-4abd-8b76-41ff0470d898

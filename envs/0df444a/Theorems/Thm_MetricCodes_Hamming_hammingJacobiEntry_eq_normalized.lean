@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_hammingJacobiEntry_eq_normalized
 -- name    : MetricCodes.Hamming.hammingJacobiEntry_eq_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/a4d56d88-719c-40a5-a8c3-986ec243b123

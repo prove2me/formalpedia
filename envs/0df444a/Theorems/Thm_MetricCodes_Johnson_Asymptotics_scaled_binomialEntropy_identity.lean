@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_scaled_binomialEntropy_identity
 -- name    : MetricCodes.Johnson.Asymptotics.scaled_binomialEntropy_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/e24680ee-47df-4232-baa5-fff1ec659688

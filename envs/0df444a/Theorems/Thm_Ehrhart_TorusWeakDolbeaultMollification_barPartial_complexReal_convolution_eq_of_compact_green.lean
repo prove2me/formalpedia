@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakDolbeaultMollification_barPartial_complexReal_convolution_eq_of_compact_green
 -- name    : Ehrhart.TorusWeakDolbeaultMollification.barPartial_complexReal_convolution_eq_of_compact_green
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/005cd876-3aaf-4252-ba0f-bd35e5f29222

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryCoinMass_nonneg
 -- name    : TwoDegenerateGraphs.binaryCoinMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/40edb17a-1602-4b41-8a10-62b5bad7183c

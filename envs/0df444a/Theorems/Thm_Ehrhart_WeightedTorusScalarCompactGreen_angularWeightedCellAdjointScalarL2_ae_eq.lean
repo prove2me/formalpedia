@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularWeightedCellAdjointScalarL2_ae_eq
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularWeightedCellAdjointScalarL2_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/6f64deb0-a3c7-4d19-a6ee-ef772d44cfe3

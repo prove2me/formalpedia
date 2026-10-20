@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_boundary_union_le
 -- name    : SoficGroups.boundary_union_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/3e98ba00-649d-480c-939f-ec0d028d2e08

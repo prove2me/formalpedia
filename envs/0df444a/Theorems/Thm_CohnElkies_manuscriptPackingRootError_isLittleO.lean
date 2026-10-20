@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptPackingRootError_isLittleO
 -- name    : CohnElkies.manuscriptPackingRootError_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/5def2de5-0fe8-4e94-b40c-d6337b7ddd2f

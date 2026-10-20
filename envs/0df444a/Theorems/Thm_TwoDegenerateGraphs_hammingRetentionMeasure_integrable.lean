@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_integrable
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/4f5d0f20-4295-4ba1-aa9e-e8776d505b48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_shellOscillation_lower_bound
 -- name    : CohnElkies.shellOscillation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/874a7096-ba06-4e2f-8c62-b8994d1b3cee

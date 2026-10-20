@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_actualStoppingGlobalBorn_eq_sum
 -- name    : QuantumParallelRepetition.actualStoppingGlobalBorn_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/62bf0f57-559d-43be-90f0-c42599504e78

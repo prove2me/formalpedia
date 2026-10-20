@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_proposition_6
 -- name    : TokenFinance.MoralHazard.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:19:32.751718+00:00
 -- url     : https://prove2.me/theorems/8e54b51e-4f43-4610-819b-e7f9ff3604a0

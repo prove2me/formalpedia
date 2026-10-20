@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_exists_shellCodeNumber
 -- name    : MetricCodes.Johnson.exists_shellCodeNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/3c9a13aa-cc2b-4bc5-9654-804f020eb2bf

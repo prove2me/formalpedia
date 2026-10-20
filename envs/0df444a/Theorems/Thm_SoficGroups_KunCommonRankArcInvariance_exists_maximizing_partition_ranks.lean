@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCommonRankArcInvariance_exists_maximizing_partition_ranks
 -- name    : SoficGroups.KunCommonRankArcInvariance.exists_maximizing_partition_ranks
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/8be9feee-56e0-420a-a2e7-4215f8a9114a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_half_open_unit_cell_subset_closed_ball
 -- name    : SchwartzMap.PoissonSummation.Standard.half_open_unit_cell_subset_closed_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/b5bc3846-b417-4195-b566-703794fd5fe1

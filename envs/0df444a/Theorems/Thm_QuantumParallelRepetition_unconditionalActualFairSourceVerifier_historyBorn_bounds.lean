@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceVerifier_historyBorn_bounds
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceVerifier_historyBorn_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/a769810f-53fd-4330-a574-30e35e2d3207

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaCubicRemainderKernel_norm_le
 -- name    : CohnElkies.upperGammaCubicRemainderKernel_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/42de2831-4ceb-48e2-8c74-2dea81e43889

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceConditionalWinningProbability_mul_law
 -- name    : QuantumParallelRepetition.exactSourceConditionalWinningProbability_mul_law
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/0db67665-99bf-4b62-bc91-f6db1694ace4

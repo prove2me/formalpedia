@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_isClosed_standardSimplex
 -- name    : Ehrhart.Geometry.isClosed_standardSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/d49bb4c6-fb02-4ed8-b3fa-8c618f46fde8

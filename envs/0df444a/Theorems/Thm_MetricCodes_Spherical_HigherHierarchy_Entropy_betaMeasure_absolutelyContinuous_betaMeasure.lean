@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_betaMeasure_absolutelyContinuous_betaMeasure
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.betaMeasure_absolutelyContinuous_betaMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/73f7dec8-a3a6-473c-991c-7e7f33084186

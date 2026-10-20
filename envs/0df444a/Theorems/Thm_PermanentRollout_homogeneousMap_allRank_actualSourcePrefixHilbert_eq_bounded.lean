@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_actualSourcePrefixHilbert_eq_bounded
 -- name    : PermanentRollout.homogeneousMap_allRank_actualSourcePrefixHilbert_eq_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/01db6e1a-568b-4f84-8f6f-5df05f492f11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryRate_lt_classicalRate
 -- name    : MetricCodes.Hamming.binaryRate_lt_classicalRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/466c3fff-4a74-4737-84aa-0ef0b729c8b7

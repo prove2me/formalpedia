@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockIncidenceBase_ringKrullDim
 -- name    : PermanentRollout.blockIncidenceBase_ringKrullDim
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/f7b2a994-74cb-47f2-86ce-a631e393da3d

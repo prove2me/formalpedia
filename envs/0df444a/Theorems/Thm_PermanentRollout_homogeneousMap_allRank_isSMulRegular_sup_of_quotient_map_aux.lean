@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_isSMulRegular_sup_of_quotient_map_aux
 -- name    : PermanentRollout.homogeneousMap_allRank_isSMulRegular_sup_of_quotient_map_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/9ee41cb5-4021-4718-81b0-dd233a387da3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripPoissonMajorant_dimension_central_bound
 -- name    : CohnElkies.lowerStripPoissonMajorant_dimension_central_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/c75d5359-a141-401e-9205-0c9a44287904

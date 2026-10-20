@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_superquadratic_of_circuit_gradient
 -- name    : PermanentRollout.permanent_superquadratic_of_circuit_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/ce8982d5-a0ae-4a22-a434-b6631d059a40

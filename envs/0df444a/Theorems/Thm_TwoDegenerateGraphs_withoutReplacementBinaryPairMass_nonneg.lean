@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_withoutReplacementBinaryPairMass_nonneg
 -- name    : TwoDegenerateGraphs.withoutReplacementBinaryPairMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/f740f073-b343-44ec-9ff2-de5b7399f251

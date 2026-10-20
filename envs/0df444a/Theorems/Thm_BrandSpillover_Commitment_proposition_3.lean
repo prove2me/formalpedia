@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrandSpillover_Commitment_proposition_3
 -- name    : BrandSpillover.Commitment.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:59.303266+00:00
 -- url     : https://prove2.me/theorems/bf2fdb7e-649b-4002-9cac-883629142bfb

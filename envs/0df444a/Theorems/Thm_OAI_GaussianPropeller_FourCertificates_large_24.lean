@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_FourCertificates_large_24
 -- name    : OAI.GaussianPropeller.FourCertificates.large_24
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:18:24.073951+00:00
 -- url     : https://prove2.me/theorems/6138e63b-17cc-4f16-9050-3faa5598d608

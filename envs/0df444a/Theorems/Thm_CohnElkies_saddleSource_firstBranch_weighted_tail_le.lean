@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSource_firstBranch_weighted_tail_le
 -- name    : CohnElkies.saddleSource_firstBranch_weighted_tail_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/fc015973-f66a-4865-8730-4707dcb0ed4d

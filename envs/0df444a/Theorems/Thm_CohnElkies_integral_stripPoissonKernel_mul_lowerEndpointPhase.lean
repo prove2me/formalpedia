@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_stripPoissonKernel_mul_lowerEndpointPhase
 -- name    : CohnElkies.integral_stripPoissonKernel_mul_lowerEndpointPhase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/c447ab83-25cf-48c0-896b-8a020054fbb0

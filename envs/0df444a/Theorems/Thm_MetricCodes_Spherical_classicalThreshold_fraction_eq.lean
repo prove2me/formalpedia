@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalThreshold_fraction_eq
 -- name    : MetricCodes.Spherical.classicalThreshold_fraction_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/c98f1e55-c6b1-44cf-992f-ce7b4b00f81b

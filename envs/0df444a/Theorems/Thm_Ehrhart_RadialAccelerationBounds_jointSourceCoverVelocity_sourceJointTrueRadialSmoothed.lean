@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_RadialAccelerationBounds_jointSourceCoverVelocity_sourceJointTrueRadialSmoothed
 -- name    : Ehrhart.RadialAccelerationBounds.jointSourceCoverVelocity_sourceJointTrueRadialSmoothed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/f01dd148-1b23-43c5-ad34-39dc04106c4e

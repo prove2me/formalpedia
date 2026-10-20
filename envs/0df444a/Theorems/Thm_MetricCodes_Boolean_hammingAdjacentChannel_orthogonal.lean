@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingAdjacentChannel_orthogonal
 -- name    : MetricCodes.Boolean.hammingAdjacentChannel_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/40626804-1307-4e43-b84e-edfaa3a61149

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MFGPlanning_Existence_theorem_1
 -- name    : MFGPlanning.Existence.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T20:01:36.354472+00:00
 -- url     : https://prove2.me/theorems/c3a94fef-5a32-47fb-943c-7ad18c7a1818

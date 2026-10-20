@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledCappedClipped_integrable
 -- name    : CohnElkies.lowerGammaScaledCappedClipped_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/859f7f63-2768-49bb-ba8c-ae5fba7cce3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeTrueRadialMollifier_measurePreserving_sourceJointComplexPhase
 -- name    : Ehrhart.JetEnvelopeTrueRadialMollifier.measurePreserving_sourceJointComplexPhase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/e93dd87d-8763-4414-b0fc-6865ed7e5040

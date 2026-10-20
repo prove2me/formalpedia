@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricQuadratic_char_two_diagonal_zero_of_two_independent_roots
 -- name    : CompactnessConjecture.symmetricQuadratic_char_two_diagonal_zero_of_two_independent_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/e4a59561-3a0e-40ba-8948-5a3735c303d3

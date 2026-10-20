@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_adjacent_to_point
 -- name    : CompactnessConjecture.symplecticQuadrangle_adjacent_to_point
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/c700a807-70f5-444c-aa85-00e1d8db8abf

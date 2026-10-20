@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_sampledHammingEdgeEntropyRate_eq_manuscriptExtremalPower
 -- name    : TwoDegenerateGraphs.sampledHammingEdgeEntropyRate_eq_manuscriptExtremalPower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/41a05eb3-0af8-41d7-8ebe-c4facf13b47d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_reesCoordinate_quotient_isWeaklyRegular
 -- name    : PermanentRollout.homogeneousMap_allTarget_reesCoordinate_quotient_isWeaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/f54a0e73-2d38-426b-85cc-52ed610731e7

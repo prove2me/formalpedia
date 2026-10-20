@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_packing_witness_feasible
 -- name    : MetricCodes.Spherical.packing_witness_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/b45e4ee9-108e-4d98-8307-0279a10f0917

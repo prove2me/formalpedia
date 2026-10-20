@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankActualFischerGramRecurrence_canonicalGelfandTsetlinFischerGram_adjacent_of_projectedLower
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankActualFischerGramRecurrence.canonicalGelfandTsetlinFischerGram_adjacent_of_projectedLower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/ea336fa4-af40-4086-80e4-b8cc5ff4068c

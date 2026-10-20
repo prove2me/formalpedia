@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_minimum_sparse_cut_expands_close_residual_part
 -- name    : SoficGroups.KunResidualExpanderDecomposition.minimum_sparse_cut_expands_close_residual_part
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/e3bbfab5-8b1e-4fee-aa28-384ca0057c29

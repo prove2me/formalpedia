@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedCutoffAdjoint_torusScalarRepresentative_eq_sourceTorusCoverPoint
 -- name    : Ehrhart.TorusStrongWeightedCutoffAdjoint.torusScalarRepresentative_eq_sourceTorusCoverPoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/a15ae072-5dd5-463c-ae46-72637711c742

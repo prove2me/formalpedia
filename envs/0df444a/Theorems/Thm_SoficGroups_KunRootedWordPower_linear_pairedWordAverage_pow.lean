@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_linear_pairedWordAverage_pow
 -- name    : SoficGroups.KunRootedWordPower.linear_pairedWordAverage_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/0d5ec96f-627d-405a-b15b-55636dcd2770

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerWallis_complexEndpointPhase_re
 -- name    : CohnElkies.lowerWallis_complexEndpointPhase_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/98d614a9-2a52-4ec7-9e2a-f4f3c348e236

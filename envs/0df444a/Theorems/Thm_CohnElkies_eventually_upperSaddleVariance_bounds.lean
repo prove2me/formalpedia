@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_upperSaddleVariance_bounds
 -- name    : CohnElkies.eventually_upperSaddleVariance_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/7f522569-8be0-46a6-b660-d5faf5b52287

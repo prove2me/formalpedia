@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_terminalVector_inner
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.terminalVector_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/5f9833f1-8173-473a-becd-9b6d706c00e3

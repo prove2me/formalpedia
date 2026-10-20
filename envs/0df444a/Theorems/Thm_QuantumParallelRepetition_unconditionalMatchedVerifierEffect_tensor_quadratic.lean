@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMatchedVerifierEffect_tensor_quadratic
 -- name    : QuantumParallelRepetition.unconditionalMatchedVerifierEffect_tensor_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/de7d5ce0-98e7-4d3a-8c66-ad0ebd18a0a8

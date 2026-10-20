@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularCellWeakAdjointFunctional_smoothGraph_zero
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularCellWeakAdjointFunctional_smoothGraph_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/b2a85ad4-343e-43db-b2eb-f464a274300d

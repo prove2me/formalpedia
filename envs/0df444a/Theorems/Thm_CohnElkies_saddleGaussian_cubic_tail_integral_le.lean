@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleGaussian_cubic_tail_integral_le
 -- name    : CohnElkies.saddleGaussian_cubic_tail_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/5b42da6e-ce84-47d4-90e0-d5406facb4d9

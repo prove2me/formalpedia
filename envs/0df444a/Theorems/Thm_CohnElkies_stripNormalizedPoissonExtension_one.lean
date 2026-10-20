@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripNormalizedPoissonExtension_one
 -- name    : CohnElkies.stripNormalizedPoissonExtension_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/281f7b01-4962-4bc8-8e92-c2dca529de51

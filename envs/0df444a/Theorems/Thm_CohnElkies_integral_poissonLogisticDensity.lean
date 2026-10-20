@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_poissonLogisticDensity
 -- name    : CohnElkies.integral_poissonLogisticDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/5d57a0e2-8113-48a3-a1b8-cb0af2298397

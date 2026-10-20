@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuitSquareFamily_span_range
 -- name    : PermanentRollout.freeAffineCircuitSquareFamily_span_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/7b68ed02-38aa-45c3-a5eb-d3d35459b28f

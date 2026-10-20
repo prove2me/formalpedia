@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryPinskerGap_convex
 -- name    : TwoDegenerateGraphs.binaryPinskerGap_convex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/895a69cb-00e5-44f6-94f8-4a25f95265ab

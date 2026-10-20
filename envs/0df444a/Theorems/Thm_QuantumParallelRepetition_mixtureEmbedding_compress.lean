@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_mixtureEmbedding_compress
 -- name    : QuantumParallelRepetition.mixtureEmbedding_compress
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/eda8500d-249f-44c8-85c0-f6861959eaff

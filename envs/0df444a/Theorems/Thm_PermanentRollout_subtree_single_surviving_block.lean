@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtree_single_surviving_block
 -- name    : PermanentRollout.subtree_single_surviving_block
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/57380e4e-438a-4371-a5e0-4524bb0e30f0

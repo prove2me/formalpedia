@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualRetainedSelection_source_compression_scale_guard_eventually
 -- name    : SoficGroups.KunResidualRetainedSelection.source_compression_scale_guard_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/44b4f3d4-2bb5-4d45-987f-96d3bbbd250c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfQuantitativeRoundingLoss
 -- name    : QuantumParallelRepetition.pdfQuantitativeRoundingLoss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/2170febe-4e6e-4de2-911d-4dcfb7db3030

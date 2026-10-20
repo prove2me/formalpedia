@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exp_mul_div_nat_succ_tendsto_atTop
 -- name    : TwoDegenerateGraphs.exp_mul_div_nat_succ_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/ef402753-83bd-4d31-989b-f6c70d03a06e

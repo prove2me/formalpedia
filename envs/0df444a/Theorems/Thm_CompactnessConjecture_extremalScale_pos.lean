@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_extremalScale_pos
 -- name    : CompactnessConjecture.extremalScale_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/5b1665d4-e773-470c-86ce-266b0c90f037

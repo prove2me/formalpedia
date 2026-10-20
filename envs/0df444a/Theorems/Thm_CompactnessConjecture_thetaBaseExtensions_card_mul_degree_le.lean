@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_thetaBaseExtensions_card_mul_degree_le
 -- name    : CompactnessConjecture.thetaBaseExtensions_card_mul_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/d88bdef5-0997-4236-9e50-0dd58115e62c

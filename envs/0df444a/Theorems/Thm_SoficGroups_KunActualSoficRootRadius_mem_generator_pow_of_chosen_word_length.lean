@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_mem_generator_pow_of_chosen_word_length
 -- name    : SoficGroups.KunActualSoficRootRadius.mem_generator_pow_of_chosen_word_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/cd064b95-8a91-46ef-909d-a307a089e8af

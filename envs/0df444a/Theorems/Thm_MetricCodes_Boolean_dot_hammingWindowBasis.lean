@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_dot_hammingWindowBasis
 -- name    : MetricCodes.Boolean.dot_hammingWindowBasis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/affca532-42c8-403d-9e2d-7c9cc2690378

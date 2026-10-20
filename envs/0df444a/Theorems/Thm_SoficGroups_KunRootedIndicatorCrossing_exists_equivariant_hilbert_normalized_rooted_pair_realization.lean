@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_exists_equivariant_hilbert_normalized_rooted_pair_realization
 -- name    : SoficGroups.KunRootedIndicatorCrossing.exists_equivariant_hilbert_normalized_rooted_pair_realization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/9a15475a-94f5-4580-a0e9-e6a2ce96e6b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_strip_exp_abs_log_abs_integrable
 -- name    : CohnElkies.strip_exp_abs_log_abs_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/58207fcf-b44e-4739-8274-77e705965f21

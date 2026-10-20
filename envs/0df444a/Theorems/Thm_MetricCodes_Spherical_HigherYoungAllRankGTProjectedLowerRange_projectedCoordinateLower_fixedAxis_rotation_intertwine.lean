@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTProjectedLowerRange_projectedCoordinateLower_fixedAxis_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTProjectedLowerRange.projectedCoordinateLower_fixedAxis_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/33df14ec-353e-4db8-bbc3-01a73962032a

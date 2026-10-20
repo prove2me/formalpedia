@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusCompactGreen_angularWeight_mul_inverseAngularCoverWeight
 -- name    : Ehrhart.MatrixTorusCompactGreen.angularWeight_mul_inverseAngularCoverWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/ab6b659e-8eb6-414a-88cf-6a88fddb71c3

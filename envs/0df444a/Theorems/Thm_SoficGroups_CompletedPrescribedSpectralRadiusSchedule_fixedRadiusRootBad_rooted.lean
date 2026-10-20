@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedPrescribedSpectralRadiusSchedule_fixedRadiusRootBad_rooted
 -- name    : SoficGroups.CompletedPrescribedSpectralRadiusSchedule.fixedRadiusRootBad_rooted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/0d0b446f-9efd-49fe-b886-85ee4bf3be81

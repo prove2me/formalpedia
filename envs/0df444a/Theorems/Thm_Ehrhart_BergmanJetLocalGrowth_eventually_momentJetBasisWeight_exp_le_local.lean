@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_eventually_momentJetBasisWeight_exp_le_local
 -- name    : Ehrhart.BergmanJetLocalGrowth.eventually_momentJetBasisWeight_exp_le_local
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/d7a681be-d5b2-4cf6-b5f9-d91509e2fcb0

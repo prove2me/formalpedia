@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_longitudinalDegree_le_half
 -- name    : MetricCodes.Hamming.longitudinalDegree_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/f7576565-7370-4a17-aec5-006bd5df9a04

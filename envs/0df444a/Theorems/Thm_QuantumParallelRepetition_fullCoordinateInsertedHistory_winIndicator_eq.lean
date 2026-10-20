@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedHistory_winIndicator_eq
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedHistory_winIndicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/b81894ff-2212-4d89-86ac-d09a164bce8c

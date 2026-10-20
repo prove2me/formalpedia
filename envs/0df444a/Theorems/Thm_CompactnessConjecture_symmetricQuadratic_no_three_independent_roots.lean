@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricQuadratic_no_three_independent_roots
 -- name    : CompactnessConjecture.symmetricQuadratic_no_three_independent_roots
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/385640ba-a6b2-45fa-bd43-63f595fe6acf

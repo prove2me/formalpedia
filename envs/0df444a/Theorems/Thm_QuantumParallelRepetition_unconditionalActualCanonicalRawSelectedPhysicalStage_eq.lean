@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualCanonicalRawSelectedPhysicalStage_eq
 -- name    : QuantumParallelRepetition.unconditionalActualCanonicalRawSelectedPhysicalStage_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/ea28b0b1-e0c1-4614-9f72-484a3489c52b

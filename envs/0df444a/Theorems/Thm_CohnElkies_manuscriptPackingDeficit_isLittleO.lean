@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptPackingDeficit_isLittleO
 -- name    : CohnElkies.manuscriptPackingDeficit_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/b0041cd2-e935-4f71-8997-92d82c32dc88

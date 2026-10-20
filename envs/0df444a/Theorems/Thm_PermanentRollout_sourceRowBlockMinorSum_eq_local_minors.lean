@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceRowBlockMinorSum_eq_local_minors
 -- name    : PermanentRollout.sourceRowBlockMinorSum_eq_local_minors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/c0fe700a-347d-4154-9043-3c593c77827d

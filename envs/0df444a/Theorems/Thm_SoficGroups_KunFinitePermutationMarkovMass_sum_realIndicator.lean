@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunFinitePermutationMarkovMass_sum_realIndicator
 -- name    : SoficGroups.KunFinitePermutationMarkovMass.sum_realIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/8c604f2f-5bf6-4c4b-9880-2657e2a6cf69

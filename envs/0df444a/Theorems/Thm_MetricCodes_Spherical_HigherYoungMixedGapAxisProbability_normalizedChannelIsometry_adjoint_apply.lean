@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungMixedGapAxisProbability_normalizedChannelIsometry_adjoint_apply
 -- name    : MetricCodes.Spherical.HigherYoungMixedGapAxisProbability.normalizedChannelIsometry_adjoint_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/7692b969-4a08-48ee-a40c-42aa256f051d

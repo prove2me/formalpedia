@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFFiniteQuotient_conjugateTerm_succ
 -- name    : SoficGroups.ThompsonFFiniteQuotient.conjugateTerm_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/c0a93559-0076-405b-bc7f-da8409031569

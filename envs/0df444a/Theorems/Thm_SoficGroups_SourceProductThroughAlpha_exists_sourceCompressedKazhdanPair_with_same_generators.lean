@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceProductThroughAlpha_exists_sourceCompressedKazhdanPair_with_same_generators
 -- name    : SoficGroups.SourceProductThroughAlpha.exists_sourceCompressedKazhdanPair_with_same_generators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/5475c05d-a873-45cd-ae3f-0c236f49b592

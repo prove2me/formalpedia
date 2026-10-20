@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareFreeMonomial_quotient_eq_variable_product
 -- name    : PermanentRollout.squareFreeMonomial_quotient_eq_variable_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/62a32bd1-3307-4a07-959d-c145181c4221

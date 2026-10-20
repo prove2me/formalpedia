@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauMovingUpperTailBridge_antitone_movingUpperLevelClosedTail
 -- name    : Ehrhart.BergmanJetPortmanteauMovingUpperTailBridge.antitone_movingUpperLevelClosedTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/29633ebb-96dd-4ebe-8906-d7ceab565a3d

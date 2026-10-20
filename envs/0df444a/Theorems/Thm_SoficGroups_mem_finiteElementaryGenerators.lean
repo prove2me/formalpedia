@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_mem_finiteElementaryGenerators
 -- name    : SoficGroups.mem_finiteElementaryGenerators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/5bd177c2-743e-47e2-b2e8-3060a74564b7

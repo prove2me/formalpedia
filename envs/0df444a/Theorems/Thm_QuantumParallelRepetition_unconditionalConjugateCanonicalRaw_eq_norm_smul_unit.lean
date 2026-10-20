@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalConjugateCanonicalRaw_eq_norm_smul_unit
 -- name    : QuantumParallelRepetition.unconditionalConjugateCanonicalRaw_eq_norm_smul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/262f188f-5ffb-4223-b0e8-a14d2b2db7bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDualPhaseConcentration_momentNormalized_phaseMaximizer_iff
 -- name    : Ehrhart.BergmanJetDualPhaseConcentration.momentNormalized_phaseMaximizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/82de7ec0-174e-45da-b1c4-b2b863051148

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_matching_block_six_leaves_of_coefficientTranscendenceDegree
 -- name    : PermanentFormulaLowerBound.RationalFormula.matching_block_six_leaves_of_coefficientTranscendenceDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/cae56fbc-aa78-41a2-9144-0d67e08a57be

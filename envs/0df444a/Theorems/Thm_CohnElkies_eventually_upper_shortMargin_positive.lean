@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_upper_shortMargin_positive
 -- name    : CohnElkies.eventually_upper_shortMargin_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/6aa4c29b-a950-4ea9-ae76-a2b767df9317

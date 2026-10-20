@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_sourceHistoryAcceptedMass_gt_of_greedy
 -- name    : QuantumParallelRepetition.sourceHistoryAcceptedMass_gt_of_greedy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/08a647be-55fa-44cc-ad00-852e4b531e2f

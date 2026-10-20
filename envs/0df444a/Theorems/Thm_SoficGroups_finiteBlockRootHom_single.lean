@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteBlockRootHom_single
 -- name    : SoficGroups.finiteBlockRootHom_single
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/79000bab-8f1a-4f74-a2f9-b1b461948437

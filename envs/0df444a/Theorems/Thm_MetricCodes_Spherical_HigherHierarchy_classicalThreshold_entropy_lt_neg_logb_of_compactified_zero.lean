@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_classicalThreshold_entropy_lt_neg_logb_of_compactified_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.classicalThreshold_entropy_lt_neg_logb_of_compactified_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/930ee099-86fc-431b-b3bd-2302cba3f61f

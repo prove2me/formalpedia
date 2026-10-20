@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_tendsto_johnsonMu_div
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.tendsto_johnsonMu_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/6060dd2e-c921-4a6b-a034-3fbc409aa8f7

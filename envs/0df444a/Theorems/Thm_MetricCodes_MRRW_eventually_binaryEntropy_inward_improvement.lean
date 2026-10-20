@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_eventually_binaryEntropy_inward_improvement
 -- name    : MetricCodes.MRRW.eventually_binaryEntropy_inward_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/50434b31-5b0d-484e-ab98-15d2e60d77b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_differentiable_holomorphicCoordinateReset
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.differentiable_holomorphicCoordinateReset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/271619a0-da52-41c4-809b-9d7d12ad3a36

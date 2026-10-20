@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Gamma_opening_eq_regular_add
 -- name    : MetricCodes.Spherical.HigherHierarchy.Gamma_opening_eq_regular_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/74934229-ea33-406f-a3d5-99434e0d8ccb

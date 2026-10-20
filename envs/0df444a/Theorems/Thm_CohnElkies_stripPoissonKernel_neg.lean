@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_neg
 -- name    : CohnElkies.stripPoissonKernel_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/4b1ce3ab-d05a-46e3-9258-b9cd6bd1b3d3

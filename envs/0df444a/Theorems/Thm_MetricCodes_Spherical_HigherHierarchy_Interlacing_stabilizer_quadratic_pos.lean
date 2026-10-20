@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_stabilizer_quadratic_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.stabilizer_quadratic_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/c58f90e0-b9e3-4f72-a665-7e31c9a0393a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedCoverAdjointGreen_angularWeightedFormL2_periodized_cell_inner_eq_cover
 -- name    : Ehrhart.TorusWeightedCoverAdjointGreen.angularWeightedFormL2_periodized_cell_inner_eq_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/f51bd329-1974-4e9b-8dcc-d7f150cc4e47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_stieltjesPhaseProduct_append_of_escaping
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_stieltjesPhaseProduct_append_of_escaping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/476f44a7-f23c-41f6-a2ad-43ed0329dbf1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfEntropyRoot_lt_gapBase
 -- name    : QuantumParallelRepetition.pdfEntropyRoot_lt_gapBase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/96e8c17f-7c6b-4263-9242-ae7c1b1f2959

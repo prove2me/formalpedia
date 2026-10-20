@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_boxWidth_ratio_tendsto
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.boxWidth_ratio_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/5c30d341-e9a6-421c-a8ff-b1e44826dab0

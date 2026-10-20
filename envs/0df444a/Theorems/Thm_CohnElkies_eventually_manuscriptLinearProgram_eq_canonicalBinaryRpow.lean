@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_manuscriptLinearProgram_eq_canonicalBinaryRpow
 -- name    : CohnElkies.eventually_manuscriptLinearProgram_eq_canonicalBinaryRpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/e90a92d0-aa9d-4fd2-bba1-7bb92f5700dd

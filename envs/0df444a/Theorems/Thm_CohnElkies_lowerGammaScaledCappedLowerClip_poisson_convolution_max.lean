@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledCappedLowerClip_poisson_convolution_max
 -- name    : CohnElkies.lowerGammaScaledCappedLowerClip_poisson_convolution_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/4c76dac4-2121-40f9-b3b4-da59301b9c89

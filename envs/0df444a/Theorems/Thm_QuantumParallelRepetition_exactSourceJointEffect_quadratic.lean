@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceJointEffect_quadratic
 -- name    : QuantumParallelRepetition.exactSourceJointEffect_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/501ef6d0-0e05-423d-968e-56435c7c835c

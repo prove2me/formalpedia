@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_choose_le_ambientDimension
 -- name    : MetricCodes.Hamming.choose_le_ambientDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/a0d982c3-6b21-4bea-973c-f50c66807a5d

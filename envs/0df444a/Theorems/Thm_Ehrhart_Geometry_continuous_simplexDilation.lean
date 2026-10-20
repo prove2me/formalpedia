@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_continuous_simplexDilation
 -- name    : Ehrhart.Geometry.continuous_simplexDilation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/3102d002-af78-4733-9e48-b087172c0dfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_exists_not_extendable_of_not_complete
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.exists_not_extendable_of_not_complete
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:57:22.8222+00:00
 -- url     : https://prove2.me/theorems/a4476424-215d-4ad3-b8b8-c746cb1ef65e

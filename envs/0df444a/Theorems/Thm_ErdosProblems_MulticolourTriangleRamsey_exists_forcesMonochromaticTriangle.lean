@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_forcesMonochromaticTriangle
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_forcesMonochromaticTriangle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/2a92d866-356b-4ae2-b42c-f1e28e8971ad

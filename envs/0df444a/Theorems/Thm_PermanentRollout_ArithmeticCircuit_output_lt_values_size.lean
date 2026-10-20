@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ArithmeticCircuit_output_lt_values_size
 -- name    : PermanentRollout.ArithmeticCircuit.output_lt_values_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/90efa836-4e01-4c01-868e-cfb3d9cbb65e

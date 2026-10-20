@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_prefixElementaryGroup_le_of_hub
 -- name    : SoficGroups.SourceGeneration.prefixElementaryGroup_le_of_hub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/e495a9d6-004c-4fc9-ad77-545a365c40ad

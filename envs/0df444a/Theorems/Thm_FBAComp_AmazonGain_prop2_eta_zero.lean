@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBAComp_AmazonGain_prop2_eta_zero
 -- name    : FBAComp.AmazonGain.prop2_eta_zero
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:21.619388+00:00
 -- url     : https://prove2.me/theorems/7979e28c-3529-46ef-8eb0-506efcb8ce3a

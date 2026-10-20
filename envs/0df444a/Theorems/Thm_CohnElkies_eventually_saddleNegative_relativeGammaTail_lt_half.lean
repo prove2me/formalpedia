@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleNegative_relativeGammaTail_lt_half
 -- name    : CohnElkies.eventually_saddleNegative_relativeGammaTail_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/e7e4ba27-4636-4f1d-a3da-3bd40e700c28

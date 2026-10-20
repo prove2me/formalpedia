@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_weighted_gram_sum_nonnegative
 -- name    : SpherePacking.weighted_gram_sum_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/e72796ff-8eb0-4421-810a-002f9ea317ac

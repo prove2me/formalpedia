@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_tendsto_of_dense_eventually_equiLipschitz
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.tendsto_of_dense_eventually_equiLipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/f8fc8e04-4359-4248-bd22-26da73c0de69

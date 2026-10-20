@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_sum_blockLeaves_le_variableLeaves_of_disjoint
 -- name    : PermanentFormulaLowerBound.Formula.sum_blockLeaves_le_variableLeaves_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/f40a373e-92be-4841-b31e-d0f909f56400

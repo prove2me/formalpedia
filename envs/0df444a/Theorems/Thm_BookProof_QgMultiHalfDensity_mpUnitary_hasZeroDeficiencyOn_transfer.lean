@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgMultiHalfDensity_mpUnitary_hasZeroDeficiencyOn_transfer
 -- name    : BookProof.QgMultiHalfDensity.mpUnitary_hasZeroDeficiencyOn_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:37:02.372066+00:00
 -- url     : https://prove2.me/theorems/5f483d98-536d-48bf-8bde-353cd4792749

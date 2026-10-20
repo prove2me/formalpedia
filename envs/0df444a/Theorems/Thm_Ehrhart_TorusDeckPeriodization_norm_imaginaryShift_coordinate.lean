@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckPeriodization_norm_imaginaryShift_coordinate
 -- name    : Ehrhart.TorusDeckPeriodization.norm_imaginaryShift_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/fcf3632b-8478-48f0-84d5-5fa73a1c5bf1

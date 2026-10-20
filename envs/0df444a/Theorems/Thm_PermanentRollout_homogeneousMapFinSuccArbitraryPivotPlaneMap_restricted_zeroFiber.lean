@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapFinSuccArbitraryPivotPlaneMap_restricted_zeroFiber
 -- name    : PermanentRollout.homogeneousMapFinSuccArbitraryPivotPlaneMap_restricted_zeroFiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/103288e2-f603-46c2-af63-c7cce9b1567d

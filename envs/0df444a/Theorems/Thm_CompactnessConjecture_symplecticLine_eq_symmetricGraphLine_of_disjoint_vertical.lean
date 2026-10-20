@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLine_eq_symmetricGraphLine_of_disjoint_vertical
 -- name    : CompactnessConjecture.symplecticLine_eq_symmetricGraphLine_of_disjoint_vertical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/30893532-3be6-4cc2-a093-a64ec3c5745d

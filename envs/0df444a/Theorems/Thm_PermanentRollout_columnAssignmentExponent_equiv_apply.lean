@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_columnAssignmentExponent_equiv_apply
 -- name    : PermanentRollout.columnAssignmentExponent_equiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/2f7c0824-a024-4628-b582-3f74b4b76f6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_coverBarPartialTest_eq_zero_of_notMem_tsupport
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.coverBarPartialTest_eq_zero_of_notMem_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/b2ea6937-4c5b-4654-a011-9cd20dc5522c

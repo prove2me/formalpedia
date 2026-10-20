@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCommonComponentComparisonBad_familyComparisonBad_card
 -- name    : SoficGroups.SourceCommonComponentComparisonBad.familyComparisonBad_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/5a604e77-d829-4e04-96e7-01de076e1f03

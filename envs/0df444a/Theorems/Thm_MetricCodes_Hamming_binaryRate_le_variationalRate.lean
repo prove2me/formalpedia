@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryRate_le_variationalRate
 -- name    : MetricCodes.Hamming.binaryRate_le_variationalRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/d5f19859-2502-4710-83ce-70413461f08f

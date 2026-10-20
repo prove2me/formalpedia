@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_not_compact_of_separation
 -- name    : CompactnessConjecture.not_compact_of_separation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/8457032f-29a1-457e-8d3f-fe57866a7f06

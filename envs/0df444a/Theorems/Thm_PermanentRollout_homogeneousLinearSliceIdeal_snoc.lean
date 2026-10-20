@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousLinearSliceIdeal_snoc
 -- name    : PermanentRollout.homogeneousLinearSliceIdeal_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/5e8090ea-376a-4bf0-af3a-b8520af8b681

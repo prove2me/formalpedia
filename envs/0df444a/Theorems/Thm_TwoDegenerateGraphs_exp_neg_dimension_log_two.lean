@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_exp_neg_dimension_log_two
 -- name    : TwoDegenerateGraphs.exp_neg_dimension_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/a510b527-0100-42d8-9b93-3417c82e6ed0

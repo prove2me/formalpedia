@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_iUnion_binaryAngularFundamentalBox
 -- name    : Ehrhart.MatrixTorusBochnerBridge.iUnion_binaryAngularFundamentalBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/3ce0c5fe-4c39-4209-afdc-dcc5f2526ea0

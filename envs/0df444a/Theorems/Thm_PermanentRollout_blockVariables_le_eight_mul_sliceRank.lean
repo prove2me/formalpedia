@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockVariables_le_eight_mul_sliceRank
 -- name    : PermanentRollout.blockVariables_le_eight_mul_sliceRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/f26957b5-239f-422e-b18d-0a29a3ca298a

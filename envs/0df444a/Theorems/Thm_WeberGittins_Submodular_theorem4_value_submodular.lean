@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_Submodular_theorem4_value_submodular
 -- name    : WeberGittins.Submodular.theorem4_value_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:31.624109+00:00
 -- url     : https://prove2.me/theorems/b0bbb3d2-401a-4b00-9fd3-4ce5881bee14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_le_center_of_lower
 -- name    : CohnElkies.stripPoissonKernel_le_center_of_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/bb820e13-c7ef-4c5e-a1fd-c6a45f58dbda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetRoundedMonomialObservableConvergence_momentNormalizedPhase_dualGradient_maximizer
 -- name    : Ehrhart.BergmanJetRoundedMonomialObservableConvergence.momentNormalizedPhase_dualGradient_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/59c6ca3e-03a9-4ac1-a9f9-7576e18397c1

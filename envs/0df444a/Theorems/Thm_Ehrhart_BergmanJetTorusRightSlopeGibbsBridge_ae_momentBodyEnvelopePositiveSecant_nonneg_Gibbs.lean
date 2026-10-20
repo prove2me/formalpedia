@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeGibbsBridge_ae_momentBodyEnvelopePositiveSecant_nonneg_Gibbs
 -- name    : Ehrhart.BergmanJetTorusRightSlopeGibbsBridge.ae_momentBodyEnvelopePositiveSecant_nonneg_Gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/1bd3fe9d-46b4-462b-8dad-94c112654e70

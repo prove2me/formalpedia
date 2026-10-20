@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matchedCore_missing_card_le_symmDiff
 -- name    : SoficGroups.matchedCore_missing_card_le_symmDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/e3bf9287-3b33-4a8d-89f6-b0cbcdb402cf

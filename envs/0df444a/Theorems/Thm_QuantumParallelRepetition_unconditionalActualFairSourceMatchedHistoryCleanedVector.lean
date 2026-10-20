@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceMatchedHistoryCleanedVector
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceMatchedHistoryCleanedVector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/44212f41-1322-462e-b3d2-b072975247d5

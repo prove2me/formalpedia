@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Independent1_P05_conjugateBasisUncertainty
 -- name    : QAlgorithms.Papers.Independent.Independent1.P05.conjugateBasisUncertainty
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T19:34:57.066269+00:00
 -- url     : https://prove2.me/theorems/273c3bd5-810e-4de7-aa8f-5f9ae649f397

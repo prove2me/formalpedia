@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousFriedrichs_angularWeightedFormCoordinate_normalizedCoverMollification_compact_L2_tendsto_zero
 -- name    : Ehrhart.TorusHomogeneousFriedrichs.angularWeightedFormCoordinate_normalizedCoverMollification_compact_L2_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/f730bb38-c7c2-4e20-a5fb-7a959e489c39

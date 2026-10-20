@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_centeredSimplex_coordinate_tail
 -- name    : Ehrhart.SimplexVolume.centeredSimplex_coordinate_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/bfaf7897-b83a-4516-a889-7504dbd5452e

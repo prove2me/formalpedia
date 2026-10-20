@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalEntropy_sub_nonneg
 -- name    : MetricCodes.Spherical.sphericalEntropy_sub_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/dcd1c3af-4501-43c1-9eb9-f9d729d66083

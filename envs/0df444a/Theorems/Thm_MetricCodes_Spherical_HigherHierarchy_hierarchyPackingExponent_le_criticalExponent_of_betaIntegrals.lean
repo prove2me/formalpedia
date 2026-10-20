@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyPackingExponent_le_criticalExponent_of_betaIntegrals
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyPackingExponent_le_criticalExponent_of_betaIntegrals
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/f34cff16-46ff-48e2-9ddb-6cf4d986d8b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_continuous_realRadialWeight
 -- name    : Ehrhart.WeightedTorusDistributionBridge.continuous_realRadialWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/dea8db38-27a0-43c1-a02b-c0de4fc19986

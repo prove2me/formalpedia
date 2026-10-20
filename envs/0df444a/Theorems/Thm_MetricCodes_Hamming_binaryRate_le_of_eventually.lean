@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryRate_le_of_eventually
 -- name    : MetricCodes.Hamming.binaryRate_le_of_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/4707ea40-a52a-45c3-a237-88e97741e768

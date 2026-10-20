@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_kQuotients_mem_iff
 -- name    : CompactnessConjecture.kQuotients_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/ae1c5509-f3c5-4621-8b8d-6d8b21b60fe9

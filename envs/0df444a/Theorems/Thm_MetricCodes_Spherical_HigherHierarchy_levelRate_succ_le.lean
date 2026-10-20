@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_succ_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/ea6f30ab-c4aa-4366-afac-0edcab95bf67

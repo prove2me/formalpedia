@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_tendsto_logb_const_mul_windowFibreQuotient
 -- name    : MetricCodes.Hamming.tendsto_logb_const_mul_windowFibreQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/49f5fea7-a236-4faa-832c-f38b22c6c134

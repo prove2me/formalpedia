@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_abs_moment_integrable
 -- name    : CohnElkies.stripPoissonKernel_abs_moment_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/cc0540f0-687c-4897-9d4e-0ef6b02bc676

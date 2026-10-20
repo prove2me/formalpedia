@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_eventually_correctedSignature_eq
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.eventually_correctedSignature_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/2de47921-ff56-41b0-a1a1-3c7597a78afa

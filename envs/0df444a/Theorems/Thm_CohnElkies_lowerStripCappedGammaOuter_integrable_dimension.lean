@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedGammaOuter_integrable_dimension
 -- name    : CohnElkies.lowerStripCappedGammaOuter_integrable_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/516fc1a7-39a7-442d-93d6-38bc505522d8

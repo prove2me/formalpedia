@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGeodesic_momentSimultaneousJetBasis_adapted
 -- name    : Ehrhart.BergmanJetGeodesic.momentSimultaneousJetBasis_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/b6a19344-313c-4cc9-9342-c6a6ca253661

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matched_eventually_exists_good_vertex
 -- name    : SoficGroups.matched_eventually_exists_good_vertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/86d80942-61e2-4ec3-b459-e99bda84fbd5

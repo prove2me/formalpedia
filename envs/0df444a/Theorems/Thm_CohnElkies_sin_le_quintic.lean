@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sin_le_quintic
 -- name    : CohnElkies.sin_le_quintic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/fb4378e9-4042-44bd-9957-ff1d9fec9622

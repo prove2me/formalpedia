@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusFriedrichsCutoff_angularTorusWeightedHolomorphicDerivative_cutoffPhysicalField
 -- name    : Ehrhart.TorusFriedrichsCutoff.angularTorusWeightedHolomorphicDerivative_cutoffPhysicalField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/6d0dc174-fa6b-40c3-87fe-5adb956ca9d3

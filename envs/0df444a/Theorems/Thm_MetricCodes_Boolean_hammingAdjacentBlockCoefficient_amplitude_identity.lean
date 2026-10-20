@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingAdjacentBlockCoefficient_amplitude_identity
 -- name    : MetricCodes.Boolean.hammingAdjacentBlockCoefficient_amplitude_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/f2490d22-f84d-4da1-97fa-9968361e878e

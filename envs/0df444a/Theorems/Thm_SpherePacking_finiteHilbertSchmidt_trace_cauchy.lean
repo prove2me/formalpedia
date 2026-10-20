@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteHilbertSchmidt_trace_cauchy
 -- name    : SpherePacking.finiteHilbertSchmidt_trace_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/46e09b9b-2158-4727-b9a1-a506e758dc4f

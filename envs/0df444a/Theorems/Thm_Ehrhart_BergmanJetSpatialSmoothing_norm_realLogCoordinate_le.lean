@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetSpatialSmoothing_norm_realLogCoordinate_le
 -- name    : Ehrhart.BergmanJetSpatialSmoothing.norm_realLogCoordinate_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/30dbb8ce-6e54-4ccd-a169-5bf4d8abc369

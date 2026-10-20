@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusMollifiedBochner_barPartial_barPartial_commute
 -- name    : Ehrhart.TorusMollifiedBochner.barPartial_barPartial_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/dd68ee39-0cf9-4604-983c-c4d7c97c083b

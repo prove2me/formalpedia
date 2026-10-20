@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpLogAsymptotic
 -- name    : CohnElkies.sharpLogAsymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/8f2803bb-bf17-4715-8a8e-006dbfefdde4

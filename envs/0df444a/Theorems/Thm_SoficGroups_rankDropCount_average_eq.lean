@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_rankDropCount_average_eq
 -- name    : SoficGroups.rankDropCount_average_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/aea48d3e-0285-4f93-9ca1-1ac34f1a20a3

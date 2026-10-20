@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSmallSourcePhysicalLoss
 -- name    : QuantumParallelRepetition.unconditionalSmallSourcePhysicalLoss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/1e2c33f5-421a-4182-aae5-a891f79677cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_componentRankMassList_le_max
 -- name    : SoficGroups.componentRankMassList_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/b2eafcca-638c-434a-8400-1320c5441706

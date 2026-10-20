@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_quotientSet_bddBelow
 -- name    : CohnElkies.quotientSet_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/f06f7f1b-7253-4179-bdfc-08949f07fefe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaled_poisson_convolution_max
 -- name    : CohnElkies.lowerGammaScaled_poisson_convolution_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/570b614c-3c76-4c14-b9d7-e3f5bc246327

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteGramCertificate_shift_identity
 -- name    : SpherePacking.finiteGramCertificate_shift_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/b5c67f51-8887-48c2-8ac7-a5c9b6b2db5a

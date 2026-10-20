@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_const_mul_lt_rpow_of_logRate
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_const_mul_lt_rpow_of_logRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/72190b38-77da-4af1-9c55-e0ec2545d23b

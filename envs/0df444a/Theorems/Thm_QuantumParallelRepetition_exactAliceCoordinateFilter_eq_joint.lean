@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactAliceCoordinateFilter_eq_joint
 -- name    : QuantumParallelRepetition.exactAliceCoordinateFilter_eq_joint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/b9b72510-9d19-441b-a5a2-454b93846195

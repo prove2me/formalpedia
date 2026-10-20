@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDSmooth_Framework_strongConvex_Q
 -- name    : PDSmooth.Framework.strongConvex_Q
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:43.554701+00:00
 -- url     : https://prove2.me/theorems/e1f3d32f-ec27-4206-b458-fcb7c50d6618

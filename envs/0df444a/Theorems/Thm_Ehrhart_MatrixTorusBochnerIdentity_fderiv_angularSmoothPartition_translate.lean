@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_fderiv_angularSmoothPartition_translate
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.fderiv_angularSmoothPartition_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/3078e53c-6b6a-490b-aa5a-9572dabd6a6f

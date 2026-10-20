@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localized_row_lt_level_zero_of_positive_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.localized_row_lt_level_zero_of_positive_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/9ab1f715-3b27-4a78-88ac-ba56e8090609

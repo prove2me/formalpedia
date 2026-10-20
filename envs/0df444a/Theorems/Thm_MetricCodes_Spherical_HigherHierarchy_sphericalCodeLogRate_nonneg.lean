@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sphericalCodeLogRate_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchy.sphericalCodeLogRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/15c33888-4356-47c1-9172-a0f43fdb09e5

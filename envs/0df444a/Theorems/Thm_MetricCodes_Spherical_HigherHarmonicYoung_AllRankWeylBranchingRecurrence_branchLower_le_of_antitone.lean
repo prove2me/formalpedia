@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankWeylBranchingRecurrence_branchLower_le_of_antitone
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankWeylBranchingRecurrence.branchLower_le_of_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/b6fb2a31-606e-4033-ae28-35d55fdbe4d3

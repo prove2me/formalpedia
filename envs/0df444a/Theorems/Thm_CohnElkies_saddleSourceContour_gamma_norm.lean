@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceContour_gamma_norm
 -- name    : CohnElkies.saddleSourceContour_gamma_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/ecf370e7-8641-4500-b63b-5cc80fc9a77a

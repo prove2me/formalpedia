@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetSlope_continuous_normalizedMonomialDensity
 -- name    : Ehrhart.BergmanJetSlope.continuous_normalizedMonomialDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/a3c3a30b-f6c1-4dfd-8f37-14673ad14f55

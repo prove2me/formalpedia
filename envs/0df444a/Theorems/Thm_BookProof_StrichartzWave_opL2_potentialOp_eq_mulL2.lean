@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_opL2_potentialOp_eq_mulL2
 -- name    : BookProof.StrichartzWave.opL2_potentialOp_eq_mulL2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:53:24.704986+00:00
 -- url     : https://prove2.me/theorems/6105c7b2-364d-41da-94e8-b6b5910c7f66

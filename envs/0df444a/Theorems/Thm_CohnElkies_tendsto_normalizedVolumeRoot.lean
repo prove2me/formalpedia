@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_normalizedVolumeRoot
 -- name    : CohnElkies.tendsto_normalizedVolumeRoot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/fe81a598-1d68-40d6-8024-538ef6d11f0c

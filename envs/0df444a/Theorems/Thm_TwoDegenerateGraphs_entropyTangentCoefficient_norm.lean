@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropyTangentCoefficient_norm
 -- name    : TwoDegenerateGraphs.entropyTangentCoefficient_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/939a97b7-62e1-40fd-b9d3-1427baa80504

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_WeylCauchyRiemann_exists_analyticOn_ae_eq_ball
 -- name    : BookProof.WeylCauchyRiemann.exists_analyticOn_ae_eq_ball
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:34:17.368663+00:00
 -- url     : https://prove2.me/theorems/07a49b6f-2610-455c-b001-dfa5c040ef22

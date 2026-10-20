@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_continuousOn_measureReal_Ici_pos_of_finite_noAtoms
 -- name    : AvramDividend.Classical.continuousOn_measureReal_Ici_pos_of_finite_noAtoms
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T13:51:09.113141+00:00
 -- url     : https://prove2.me/theorems/5e0ae1d1-4948-4867-8d7c-9f4e22c9a0e5

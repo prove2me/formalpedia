@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_tableGenerator_mul
 -- name    : SoficGroups.tableGenerator_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/dfa2b6f2-9307-44d6-ab0c-0dd699a37a34

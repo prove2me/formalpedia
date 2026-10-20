@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_flattened_sourceTreeSeparatedMinorSum_eq_flattenedSeparatedBlockMinorSum
 -- name    : PermanentRollout.flattened_sourceTreeSeparatedMinorSum_eq_flattenedSeparatedBlockMinorSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/b4a69252-2fe1-4135-adb0-590d596964a7

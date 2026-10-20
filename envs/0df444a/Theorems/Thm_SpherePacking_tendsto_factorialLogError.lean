@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_factorialLogError
 -- name    : SpherePacking.tendsto_factorialLogError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/86a2b1d5-7ad2-4185-badc-982db086786a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceContour_shellExponential_eq
 -- name    : CohnElkies.saddleSourceContour_shellExponential_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/1b80234f-479d-41c2-bc56-3729789ba75e

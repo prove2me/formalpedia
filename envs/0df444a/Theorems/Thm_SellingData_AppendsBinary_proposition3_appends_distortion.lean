@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_AppendsBinary_proposition3_appends_distortion
 -- name    : SellingData.AppendsBinary.proposition3_appends_distortion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:37.618007+00:00
 -- url     : https://prove2.me/theorems/77f1cd3e-3c31-45a1-9c13-2ea8e0a60d00

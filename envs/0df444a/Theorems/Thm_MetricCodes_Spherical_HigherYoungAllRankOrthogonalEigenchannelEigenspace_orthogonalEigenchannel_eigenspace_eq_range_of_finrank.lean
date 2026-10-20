@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalEigenchannelEigenspace_orthogonalEigenchannel_eigenspace_eq_range_of_finrank
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalEigenchannelEigenspace.orthogonalEigenchannel_eigenspace_eq_range_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/70207576-2913-4d35-a532-f4ee3201ec36

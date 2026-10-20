@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDensityAdaptedWeightedAdjoint_holomorphicCoordinate_complexCoverWeight
 -- name    : Ehrhart.TorusDensityAdaptedWeightedAdjoint.holomorphicCoordinate_complexCoverWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/52828263-8489-4c01-8e6b-d86df72f7c1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapFiberIdeal_zero
 -- name    : PermanentRollout.homogeneousMapFiberIdeal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/dcb5d86b-4290-4b0d-9699-e2bfca94c9e1

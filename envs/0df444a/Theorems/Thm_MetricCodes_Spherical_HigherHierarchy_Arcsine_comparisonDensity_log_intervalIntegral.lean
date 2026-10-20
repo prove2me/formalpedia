@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Arcsine_comparisonDensity_log_intervalIntegral
 -- name    : MetricCodes.Spherical.HigherHierarchy.Arcsine.comparisonDensity_log_intervalIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/172c2ac6-48d9-49b3-8b2e-1f9310407e61

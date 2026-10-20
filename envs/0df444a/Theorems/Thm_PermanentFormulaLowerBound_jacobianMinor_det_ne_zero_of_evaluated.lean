@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_jacobianMinor_det_ne_zero_of_evaluated
 -- name    : PermanentFormulaLowerBound.jacobianMinor_det_ne_zero_of_evaluated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/0d489c26-ef7e-47e7-9116-337bc06a9cbb

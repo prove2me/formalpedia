@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_saddleNegativeContourPhaseError_bound
 -- name    : CohnElkies.exists_saddleNegativeContourPhaseError_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/8306941d-e326-4a13-be85-32029d323dd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_binaryAngularPartitionSum_eq_one
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.binaryAngularPartitionSum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/89adcdb1-4c67-48a4-ad19-b192a1161589

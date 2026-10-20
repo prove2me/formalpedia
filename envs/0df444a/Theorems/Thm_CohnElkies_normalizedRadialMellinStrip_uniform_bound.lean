@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialMellinStrip_uniform_bound
 -- name    : CohnElkies.normalizedRadialMellinStrip_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/b8fec815-53bc-44c2-baba-39e66874cfdb

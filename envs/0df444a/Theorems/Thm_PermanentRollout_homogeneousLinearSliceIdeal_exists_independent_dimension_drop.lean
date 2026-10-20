@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousLinearSliceIdeal_exists_independent_dimension_drop
 -- name    : PermanentRollout.homogeneousLinearSliceIdeal_exists_independent_dimension_drop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/1161e3c7-4522-4400-957f-01b9d7d18fbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceProductThroughAlpha_boundary_sourceCompressedGeneratorSubtypeEquiv
 -- name    : SoficGroups.SourceProductThroughAlpha.boundary_sourceCompressedGeneratorSubtypeEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/b923e05a-1676-44ab-a5e7-bf81869f5141

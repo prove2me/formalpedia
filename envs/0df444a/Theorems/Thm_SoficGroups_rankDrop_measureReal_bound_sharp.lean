@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_rankDrop_measureReal_bound_sharp
 -- name    : SoficGroups.rankDrop_measureReal_bound_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/382163c7-4638-4889-b544-df9ef70a2e23

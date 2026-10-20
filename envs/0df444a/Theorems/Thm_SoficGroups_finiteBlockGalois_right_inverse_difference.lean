@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteBlockGalois_right_inverse_difference
 -- name    : SoficGroups.finiteBlockGalois_right_inverse_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/b1ad34ca-74e3-4005-95e2-f9f0692e11db

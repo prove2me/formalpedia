@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_complementDegree_ratio
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_complementDegree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/1cc09d62-d640-4881-a906-a63cae279343

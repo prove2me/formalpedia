@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_kGamma_quotient_injective
 -- name    : CompactnessConjecture.kGamma_quotient_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/31bc33f0-5eb3-4000-98e7-9aff35e5b7fe

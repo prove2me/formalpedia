@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedCopyMatchedBranch_deviation_sq
 -- name    : QuantumParallelRepetition.unconditionalSelectedCopyMatchedBranch_deviation_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/394f5815-b2db-4742-944f-e69374877fdd

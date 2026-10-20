@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_tendsto_inner_pairedWordAverage_of_gram
 -- name    : SoficGroups.KunRootedWordPower.tendsto_inner_pairedWordAverage_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/dec4e3b9-77a2-4515-9da0-50d1f14dbefb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_positive_antitone_slow_overlap_scales
 -- name    : SoficGroups.exists_positive_antitone_slow_overlap_scales
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/0f8026cd-d578-4cbc-a2ea-60301f65843a

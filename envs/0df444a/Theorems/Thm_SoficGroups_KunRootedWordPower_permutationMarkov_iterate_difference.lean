@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_permutationMarkov_iterate_difference
 -- name    : SoficGroups.KunRootedWordPower.permutationMarkov_iterate_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/c57f9998-f5c1-4c1f-ad72-6c6b3c4d7556

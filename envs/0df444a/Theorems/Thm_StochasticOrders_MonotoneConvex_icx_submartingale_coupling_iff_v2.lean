@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MonotoneConvex_icx_submartingale_coupling_iff_v2
 -- name    : StochasticOrders.MonotoneConvex.icx_submartingale_coupling_iff_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:18.046767+00:00
 -- url     : https://prove2.me/theorems/8e454fc3-100a-4926-89a2-cfa14bdbeace

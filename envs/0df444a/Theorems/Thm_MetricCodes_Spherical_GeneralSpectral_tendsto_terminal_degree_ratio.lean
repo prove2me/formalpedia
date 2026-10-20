@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_tendsto_terminal_degree_ratio
 -- name    : MetricCodes.Spherical.GeneralSpectral.tendsto_terminal_degree_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/8b4b120a-e2bc-477e-b22c-4b4beeb78bd3

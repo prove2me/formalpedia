@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaCenteredPhase_add_quadratic_eq_integral
 -- name    : CohnElkies.upperGammaCenteredPhase_add_quadratic_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/8c12dd14-f32c-410d-9558-78c8c3e2968f

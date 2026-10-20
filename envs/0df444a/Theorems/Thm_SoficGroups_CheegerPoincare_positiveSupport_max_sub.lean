@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CheegerPoincare_positiveSupport_max_sub
 -- name    : SoficGroups.CheegerPoincare.positiveSupport_max_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/17added9-0418-4070-aea2-fd6d76bc928a

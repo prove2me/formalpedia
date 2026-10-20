@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_inverseQuadratic_quadraticCoordinate
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.inverseQuadratic_quadraticCoordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/8c1a4855-4f63-4bd4-b062-ca9ea0980fe1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_card_singletonSupport_le_matching_add_column_excess
 -- name    : SoficGroups.KunThomFiberCoarea.card_singletonSupport_le_matching_add_column_excess
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/6cb1623f-66e7-402b-988d-db6ce8b78277

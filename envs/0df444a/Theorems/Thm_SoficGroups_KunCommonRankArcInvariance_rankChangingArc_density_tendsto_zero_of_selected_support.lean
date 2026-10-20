@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCommonRankArcInvariance_rankChangingArc_density_tendsto_zero_of_selected_support
 -- name    : SoficGroups.KunCommonRankArcInvariance.rankChangingArc_density_tendsto_zero_of_selected_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/7d58f488-8f87-4565-ad2e-ef0a0985fca3

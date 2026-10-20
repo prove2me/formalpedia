@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousSmoothRootBochner_angularSmoothCompactHessianRootVector_L2_norm_sq
 -- name    : Ehrhart.TorusHomogeneousSmoothRootBochner.angularSmoothCompactHessianRootVector_L2_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/7b37c935-0a20-4189-a295-aa5317943e8a

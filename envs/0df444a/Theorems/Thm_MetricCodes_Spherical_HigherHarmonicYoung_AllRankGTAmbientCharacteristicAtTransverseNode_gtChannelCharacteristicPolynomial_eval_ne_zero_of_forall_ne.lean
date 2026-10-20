@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAmbientCharacteristicAtTransverseNode_gtChannelCharacteristicPolynomial_eval_ne_zero_of_forall_ne
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAmbientCharacteristicAtTransverseNode.gtChannelCharacteristicPolynomial_eval_ne_zero_of_forall_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/0e3c4420-b879-4f2c-af22-e88c81bc5444

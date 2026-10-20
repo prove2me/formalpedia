@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerCoreConvergence_complexLp_norm_le_of_ae_norm_le
 -- name    : Ehrhart.MatrixTorusBochnerCoreConvergence.complexLp_norm_le_of_ae_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/ac09ad83-48c6-4dce-aaa0-d1d4bd6b9ebb

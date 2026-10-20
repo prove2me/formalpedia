@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_exists_finite_fundamental_test_partition
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.exists_finite_fundamental_test_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/c5e3c58c-6556-4045-bd95-446d73ddc73a

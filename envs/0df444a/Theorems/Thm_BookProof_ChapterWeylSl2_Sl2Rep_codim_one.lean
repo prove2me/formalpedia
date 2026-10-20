@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_codim_one
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.codim_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:40:54.685713+00:00
 -- url     : https://prove2.me/theorems/f8e3ebbd-65f4-4577-928c-c3bbdecc5ff2

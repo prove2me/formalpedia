@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_realHyperbolicShellPhase_neg
 -- name    : CohnElkies.realHyperbolicShellPhase_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/5e191cf0-e802-4215-859a-e6143281c268

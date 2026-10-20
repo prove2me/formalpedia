@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_cube_sum_le_dominant_mass
 -- name    : SoficGroups.cube_sum_le_dominant_mass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/93ab8743-fe9e-485d-8f87-eb462a2dd131

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_interiorSupport_add_complement
 -- name    : MetricCodes.MRRW.interiorSupport_add_complement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/7160693d-1556-4bec-89e1-72eb407ee0fc

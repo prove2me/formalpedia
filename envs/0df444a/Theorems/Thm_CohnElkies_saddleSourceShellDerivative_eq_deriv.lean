@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceShellDerivative_eq_deriv
 -- name    : CohnElkies.saddleSourceShellDerivative_eq_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/05ec991d-ac0d-4fe3-b822-5dec5e4b680c

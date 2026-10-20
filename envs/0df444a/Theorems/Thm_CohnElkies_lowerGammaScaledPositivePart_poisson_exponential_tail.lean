@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledPositivePart_poisson_exponential_tail
 -- name    : CohnElkies.lowerGammaScaledPositivePart_poisson_exponential_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/3344dc95-215d-46c1-8f75-a822ec5fa64d

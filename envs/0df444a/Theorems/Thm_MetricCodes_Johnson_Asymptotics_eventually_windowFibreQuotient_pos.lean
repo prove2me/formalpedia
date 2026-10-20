@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_eventually_windowFibreQuotient_pos
 -- name    : MetricCodes.Johnson.Asymptotics.eventually_windowFibreQuotient_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/9824f136-93a1-48dc-801a-6598cbbdcad0

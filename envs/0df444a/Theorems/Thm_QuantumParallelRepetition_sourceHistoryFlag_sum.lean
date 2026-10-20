@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_sourceHistoryFlag_sum
 -- name    : QuantumParallelRepetition.sourceHistoryFlag_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/733a05e5-2ea0-4941-8ef9-dc0e813ba95f

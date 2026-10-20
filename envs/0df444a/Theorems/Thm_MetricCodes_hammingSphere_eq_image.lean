@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_hammingSphere_eq_image
 -- name    : MetricCodes.hammingSphere_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/63c590b3-581b-4627-aeb7-85076773d73d

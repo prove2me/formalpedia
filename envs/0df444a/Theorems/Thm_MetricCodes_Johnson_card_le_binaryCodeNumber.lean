@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_card_le_binaryCodeNumber
 -- name    : MetricCodes.Johnson.card_le_binaryCodeNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/76192842-25d7-4fe9-9ab4-1c448c4b8f93

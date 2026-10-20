@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_angularFourierCoefficient_of_holomorphic_representative_ae
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.angularFourierCoefficient_of_holomorphic_representative_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/8c5f1e6f-d5f5-4359-b3dc-2fd41a6ffd0b

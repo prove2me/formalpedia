@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_SpectralAsymptotics_terminal_indicator_edge_sum
 -- name    : SpherePacking.SpectralAsymptotics.terminal_indicator_edge_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/be60e3b6-5f68-49a8-801b-101148ef9be0

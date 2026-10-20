@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalStoppedPhaseHarmonicDistance_sum_le
 -- name    : QuantumParallelRepetition.unconditionalStoppedPhaseHarmonicDistance_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/71d25597-f3c9-44ce-96ad-06b24669a486

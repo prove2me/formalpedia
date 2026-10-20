@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrwRate_le_objective
 -- name    : MetricCodes.Johnson.mrrwRate_le_objective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/3358c08e-1396-4a01-bb77-61110e15b210

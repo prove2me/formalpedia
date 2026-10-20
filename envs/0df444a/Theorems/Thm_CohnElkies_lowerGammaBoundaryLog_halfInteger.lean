@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_halfInteger
 -- name    : CohnElkies.lowerGammaBoundaryLog_halfInteger
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/a0a405e1-d0b7-43ba-84e4-a79868435ccb

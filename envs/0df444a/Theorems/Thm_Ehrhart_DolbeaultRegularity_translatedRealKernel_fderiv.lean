@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_translatedRealKernel_fderiv
 -- name    : Ehrhart.DolbeaultRegularity.translatedRealKernel_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/c1bc4795-bb4b-4959-b729-a45f4e4d42cd

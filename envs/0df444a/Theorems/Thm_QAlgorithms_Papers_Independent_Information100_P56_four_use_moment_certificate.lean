@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_four_use_moment_certificate
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.four_use_moment_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:27:23.685436+00:00
 -- url     : https://prove2.me/theorems/ec060164-2375-429c-859b-bac17e197ca5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapFiniteGradedQuotient_finrank_eq_sum
 -- name    : PermanentRollout.homogeneousMapFiniteGradedQuotient_finrank_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/27d79cd4-4a72-40eb-89d9-33ee94bfb865

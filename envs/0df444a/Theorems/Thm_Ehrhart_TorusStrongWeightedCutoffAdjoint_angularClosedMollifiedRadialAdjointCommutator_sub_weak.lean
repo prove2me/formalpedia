@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedCutoffAdjoint_angularClosedMollifiedRadialAdjointCommutator_sub_weak
 -- name    : Ehrhart.TorusStrongWeightedCutoffAdjoint.angularClosedMollifiedRadialAdjointCommutator_sub_weak
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/cab29443-5f29-497a-8f44-7e3573ca0db6

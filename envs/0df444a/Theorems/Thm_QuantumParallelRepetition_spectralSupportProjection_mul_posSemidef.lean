@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_spectralSupportProjection_mul_posSemidef
 -- name    : QuantumParallelRepetition.spectralSupportProjection_mul_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/9cf456a4-dc57-4917-b067-d592b2b53dc4

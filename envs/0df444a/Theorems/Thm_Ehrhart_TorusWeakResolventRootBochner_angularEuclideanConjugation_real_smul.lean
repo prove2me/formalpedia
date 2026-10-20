@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakResolventRootBochner_angularEuclideanConjugation_real_smul
 -- name    : Ehrhart.TorusWeakResolventRootBochner.angularEuclideanConjugation_real_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/44c4f0c2-f89a-4cd5-a3d7-e63d0f801a97

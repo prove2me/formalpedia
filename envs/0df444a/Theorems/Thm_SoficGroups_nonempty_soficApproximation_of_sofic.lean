@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_nonempty_soficApproximation_of_sofic
 -- name    : SoficGroups.nonempty_soficApproximation_of_sofic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/aa70516c-825b-4c05-8ef4-5d583965a3f6

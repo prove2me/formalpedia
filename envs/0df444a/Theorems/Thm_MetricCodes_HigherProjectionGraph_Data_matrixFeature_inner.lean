@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_matrixFeature_inner
 -- name    : MetricCodes.HigherProjectionGraph.Data.matrixFeature_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/7654474d-2068-4fba-b723-0e5d613c2c44

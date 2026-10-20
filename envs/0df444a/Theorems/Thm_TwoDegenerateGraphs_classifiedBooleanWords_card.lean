@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_classifiedBooleanWords_card
 -- name    : TwoDegenerateGraphs.classifiedBooleanWords_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/4b122f81-5f3a-4996-bd05-763da0f026e0

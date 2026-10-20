@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGeodesic_card_momentUpperJetBasisIndices_eq_finrank
 -- name    : Ehrhart.BergmanJetGeodesic.card_momentUpperJetBasisIndices_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/9a04a4d4-65e2-4a71-af08-e1ee675cfacc

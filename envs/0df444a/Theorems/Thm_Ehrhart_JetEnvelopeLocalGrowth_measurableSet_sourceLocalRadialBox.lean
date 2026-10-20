@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_measurableSet_sourceLocalRadialBox
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.measurableSet_sourceLocalRadialBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/86ee2554-9043-4b2a-aac6-7922ec303254

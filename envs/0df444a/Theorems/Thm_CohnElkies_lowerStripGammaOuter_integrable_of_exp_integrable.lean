@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripGammaOuter_integrable_of_exp_integrable
 -- name    : CohnElkies.lowerStripGammaOuter_integrable_of_exp_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/226f8516-d376-4d73-980f-bc841ef6a2a2

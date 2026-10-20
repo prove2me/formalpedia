@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_nextLevel_compactified_certificate_lt_of_spectral_limit
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_nextLevel_compactified_certificate_lt_of_spectral_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/7faafb3e-75fa-4387-93f4-ea9a8c890769

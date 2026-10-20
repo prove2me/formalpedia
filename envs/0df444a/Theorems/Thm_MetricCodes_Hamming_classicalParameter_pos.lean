@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_classicalParameter_pos
 -- name    : MetricCodes.Hamming.classicalParameter_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/45cba757-bd2a-43fa-81d9-e29f77eae7db

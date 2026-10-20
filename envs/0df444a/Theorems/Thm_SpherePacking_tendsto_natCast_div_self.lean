@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_tendsto_natCast_div_self
 -- name    : SpherePacking.tendsto_natCast_div_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/58f4697a-2c75-48e1-8501-09f3909786be

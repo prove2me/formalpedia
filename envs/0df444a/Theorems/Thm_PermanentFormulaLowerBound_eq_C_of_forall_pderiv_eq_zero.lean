@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_eq_C_of_forall_pderiv_eq_zero
 -- name    : PermanentFormulaLowerBound.eq_C_of_forall_pderiv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/70456e9c-5a7b-4eae-99f5-4cf1643de3e4

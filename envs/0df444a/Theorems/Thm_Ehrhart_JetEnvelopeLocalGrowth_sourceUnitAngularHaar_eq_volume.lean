@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_sourceUnitAngularHaar_eq_volume
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.sourceUnitAngularHaar_eq_volume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/4a09f8d7-521d-496d-a3a5-3d1d46d00b7e

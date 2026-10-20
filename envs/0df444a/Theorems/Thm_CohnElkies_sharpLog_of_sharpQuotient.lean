@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpLog_of_sharpQuotient
 -- name    : CohnElkies.sharpLog_of_sharpQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/0caae876-e516-4973-9f77-b2c78553c4c8

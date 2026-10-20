@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_stripSchwarzExponential
 -- name    : CohnElkies.norm_stripSchwarzExponential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/263218c9-d091-437b-8372-accd15c29d93

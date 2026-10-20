@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedPhysicalChannelRange_physicalPaddedPieriChannel_relativeCasimir
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedPhysicalChannelRange.physicalPaddedPieriChannel_relativeCasimir
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/cbeb960b-cf22-4e98-a66a-7e1912a39de7

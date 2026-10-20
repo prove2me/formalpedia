@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_normalizedVolumeLog_odd
 -- name    : CohnElkies.tendsto_normalizedVolumeLog_odd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/12291ec2-c70e-488a-8263-7ac6058fd821

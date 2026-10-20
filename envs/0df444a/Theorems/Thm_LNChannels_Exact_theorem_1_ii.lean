@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_Exact_theorem_1_ii
 -- name    : LNChannels.Exact.theorem_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:24.917303+00:00
 -- url     : https://prove2.me/theorems/74b8604d-95aa-46b0-b4f4-c1c61aed0c7c

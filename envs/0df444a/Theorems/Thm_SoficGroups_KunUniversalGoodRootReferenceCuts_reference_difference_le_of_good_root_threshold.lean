@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUniversalGoodRootReferenceCuts_reference_difference_le_of_good_root_threshold
 -- name    : SoficGroups.KunUniversalGoodRootReferenceCuts.reference_difference_le_of_good_root_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/006dc080-9f69-4d1a-b5a6-88f802bcdbce

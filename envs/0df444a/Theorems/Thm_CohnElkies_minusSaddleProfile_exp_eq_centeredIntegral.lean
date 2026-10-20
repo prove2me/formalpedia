@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_minusSaddleProfile_exp_eq_centeredIntegral
 -- name    : CohnElkies.minusSaddleProfile_exp_eq_centeredIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/0bac6abe-1652-43c1-a5a0-95e65484f9a9

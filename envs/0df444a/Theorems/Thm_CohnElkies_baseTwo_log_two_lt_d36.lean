@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_baseTwo_log_two_lt_d36
 -- name    : CohnElkies.baseTwo_log_two_lt_d36
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/b23ea639-32cd-497e-887e-a958bd56df49

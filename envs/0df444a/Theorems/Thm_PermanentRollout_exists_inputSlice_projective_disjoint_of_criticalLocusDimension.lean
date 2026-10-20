@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_inputSlice_projective_disjoint_of_criticalLocusDimension
 -- name    : PermanentRollout.exists_inputSlice_projective_disjoint_of_criticalLocusDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/b371d0f3-0e9e-4afb-b91a-9cd52faae06a

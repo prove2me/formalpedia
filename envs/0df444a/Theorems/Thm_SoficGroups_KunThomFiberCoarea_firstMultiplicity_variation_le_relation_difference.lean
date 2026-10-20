@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_firstMultiplicity_variation_le_relation_difference
 -- name    : SoficGroups.KunThomFiberCoarea.firstMultiplicity_variation_le_relation_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/3072b5f3-1a41-4dcb-8b39-4f08700ce33b

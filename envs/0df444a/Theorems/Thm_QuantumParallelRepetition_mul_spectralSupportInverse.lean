@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_mul_spectralSupportInverse
 -- name    : QuantumParallelRepetition.mul_spectralSupportInverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/26e66cf6-3bf5-418e-9fd5-5fa866287442

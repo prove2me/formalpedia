@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDualGradientConcentration_ae_differentiableAt_of_locallyLipschitzOn_open
 -- name    : Ehrhart.BergmanJetDualGradientConcentration.ae_differentiableAt_of_locallyLipschitzOn_open
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/e047fd29-f125-4149-a9d9-391d07ac18f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_eventually_topEigenvalue_gt
 -- name    : MetricCodes.Hamming.eventually_topEigenvalue_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/19cd8c8d-22f8-458f-b7dd-bd6f2a1606a8

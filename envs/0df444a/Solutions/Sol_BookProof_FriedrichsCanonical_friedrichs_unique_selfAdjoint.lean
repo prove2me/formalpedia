@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FriedrichsCanonical.friedrichs_unique_selfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-18T10:34:59.877903+00:00
 -- url     : https://prove2.me/submissions/bbef5de4-8746-44ce-8f7b-498b60a9af0b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFriedrichsCanonical.lean — solution of BookProof.FriedrichsCanonical.friedrichs_unique_selfAdjoint
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricGraphVector_mem_center_span_iff
 -- name    : CompactnessConjecture.symmetricGraphVector_mem_center_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/a022f1e1-c997-4e8b-b530-e04b9e4eec0e

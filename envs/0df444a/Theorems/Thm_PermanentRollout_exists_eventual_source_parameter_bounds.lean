@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_eventual_source_parameter_bounds
 -- name    : PermanentRollout.exists_eventual_source_parameter_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/3513516a-699a-4660-9ace-a7fdf50a2ba2

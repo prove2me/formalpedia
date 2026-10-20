@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceFirstBranchThirdMomentCoefficient_pos
 -- name    : CohnElkies.saddleSourceFirstBranchThirdMomentCoefficient_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/f7cac5da-2b21-449c-9020-c61c1debdfb6

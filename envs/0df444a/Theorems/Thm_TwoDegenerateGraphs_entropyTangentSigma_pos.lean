@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropyTangentSigma_pos
 -- name    : TwoDegenerateGraphs.entropyTangentSigma_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/35cdbb53-c4a2-4e2d-a66f-7997c3418978

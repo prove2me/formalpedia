@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingBinaryDegree_pos
 -- name    : PermanentFormulaLowerBound.matchingBinaryDegree_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/820146da-4940-42fd-bfe0-89316bca0a4c

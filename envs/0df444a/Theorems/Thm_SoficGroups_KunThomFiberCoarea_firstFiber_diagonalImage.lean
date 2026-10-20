@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_firstFiber_diagonalImage
 -- name    : SoficGroups.KunThomFiberCoarea.firstFiber_diagonalImage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/f651c43c-75ed-4e62-9cbb-e926a8ea9c36

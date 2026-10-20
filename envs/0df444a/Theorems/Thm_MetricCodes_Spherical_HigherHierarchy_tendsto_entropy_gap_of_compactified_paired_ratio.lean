@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_entropy_gap_of_compactified_paired_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_entropy_gap_of_compactified_paired_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/e0a9b4f6-59da-4a6e-804d-d51a9034c275

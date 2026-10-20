@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TriangleFace198_triangle_expansion_face
 -- name    : OAI.TriangleFace198.triangle_expansion_face
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:34.597868+00:00
 -- url     : https://prove2.me/theorems/1a9898b7-f905-4369-bf19-93924145ef63

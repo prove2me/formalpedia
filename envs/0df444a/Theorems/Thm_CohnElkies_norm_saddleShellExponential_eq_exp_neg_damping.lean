@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_saddleShellExponential_eq_exp_neg_damping
 -- name    : CohnElkies.norm_saddleShellExponential_eq_exp_neg_damping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/461f4388-c8d7-4383-99e6-bd95c6be3730

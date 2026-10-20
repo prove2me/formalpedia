@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_hammingDist_eq_card_support_sdiff
 -- name    : MetricCodes.hammingDist_eq_card_support_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/5f25dfec-8483-4224-bfcf-cb1b0cc3e686

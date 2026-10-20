@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGapRate_eq_scaled_twelfth_power
 -- name    : QuantumParallelRepetition.pdfGapRate_eq_scaled_twelfth_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/8f822fd5-54d2-4853-9a5b-f21f6d306225

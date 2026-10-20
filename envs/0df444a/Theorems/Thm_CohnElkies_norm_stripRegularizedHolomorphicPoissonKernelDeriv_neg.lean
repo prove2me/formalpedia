@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_stripRegularizedHolomorphicPoissonKernelDeriv_neg
 -- name    : CohnElkies.norm_stripRegularizedHolomorphicPoissonKernelDeriv_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/e507bdca-6173-4c36-9958-ec698d1b7727

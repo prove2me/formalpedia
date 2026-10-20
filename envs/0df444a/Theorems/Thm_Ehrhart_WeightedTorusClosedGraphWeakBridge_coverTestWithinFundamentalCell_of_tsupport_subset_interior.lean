@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_coverTestWithinFundamentalCell_of_tsupport_subset_interior
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.coverTestWithinFundamentalCell_of_tsupport_subset_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/695c559c-15fd-462f-be25-86c79c2a65f6

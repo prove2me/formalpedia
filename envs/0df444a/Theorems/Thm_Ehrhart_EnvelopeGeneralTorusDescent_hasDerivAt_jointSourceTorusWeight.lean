@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_EnvelopeGeneralTorusDescent_hasDerivAt_jointSourceTorusWeight
 -- name    : Ehrhart.EnvelopeGeneralTorusDescent.hasDerivAt_jointSourceTorusWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/a31a67d3-64e1-4ddf-81d5-f9403b9185c6

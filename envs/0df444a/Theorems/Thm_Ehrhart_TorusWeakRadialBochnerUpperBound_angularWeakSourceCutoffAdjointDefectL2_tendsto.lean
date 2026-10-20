@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakRadialBochnerUpperBound_angularWeakSourceCutoffAdjointDefectL2_tendsto
 -- name    : Ehrhart.TorusWeakRadialBochnerUpperBound.angularWeakSourceCutoffAdjointDefectL2_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/3e0040f2-1792-4988-be87-9e348cfe69a5

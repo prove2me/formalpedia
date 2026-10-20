@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeGibbsBridge_eventually_integral_momentTorusJetSlope_Bergman_ge_sharp
 -- name    : Ehrhart.BergmanJetTorusRightSlopeGibbsBridge.eventually_integral_momentTorusJetSlope_Bergman_ge_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/56385971-b746-4e4a-b053-50a546e1506f

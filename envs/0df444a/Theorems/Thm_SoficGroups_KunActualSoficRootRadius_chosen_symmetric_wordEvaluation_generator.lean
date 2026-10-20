@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_chosen_symmetric_wordEvaluation_generator
 -- name    : SoficGroups.KunActualSoficRootRadius.chosen_symmetric_wordEvaluation_generator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/af2db99d-29b0-4692-a082-4a153ed3a285

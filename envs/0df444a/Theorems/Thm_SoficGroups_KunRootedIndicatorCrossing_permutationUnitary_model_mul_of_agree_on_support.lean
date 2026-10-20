@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_permutationUnitary_model_mul_of_agree_on_support
 -- name    : SoficGroups.KunRootedIndicatorCrossing.permutationUnitary_model_mul_of_agree_on_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/237c0b9d-5260-402d-aa09-55a0f17c6d05

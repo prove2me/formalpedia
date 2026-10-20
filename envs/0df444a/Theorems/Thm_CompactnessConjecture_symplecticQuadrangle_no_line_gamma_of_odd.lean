@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_no_line_gamma_of_odd
 -- name    : CompactnessConjecture.symplecticQuadrangle_no_line_gamma_of_odd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/897a5cbd-aa6b-4e8e-a995-50d7664255e5

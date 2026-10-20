@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Scalar_RadiusData_third_large
 -- name    : OAI.GaussianPropeller.Scalar.RadiusData.third_large
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:26:50.367297+00:00
 -- url     : https://prove2.me/theorems/b98337fe-30ad-4cf1-a4aa-08a573891d9c

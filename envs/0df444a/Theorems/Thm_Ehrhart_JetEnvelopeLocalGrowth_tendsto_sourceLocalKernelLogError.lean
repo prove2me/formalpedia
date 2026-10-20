@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_tendsto_sourceLocalKernelLogError
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.tendsto_sourceLocalKernelLogError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/ec71e8fd-896b-4284-ade6-ebaa132c035a

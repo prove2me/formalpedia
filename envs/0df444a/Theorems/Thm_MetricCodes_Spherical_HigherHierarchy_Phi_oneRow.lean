@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Phi_oneRow
 -- name    : MetricCodes.Spherical.HigherHierarchy.Phi_oneRow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/879438ee-0bc1-4384-9df7-0fa6d26980f4

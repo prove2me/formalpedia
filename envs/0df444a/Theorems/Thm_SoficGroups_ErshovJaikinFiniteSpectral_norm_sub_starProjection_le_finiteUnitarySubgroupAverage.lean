@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_norm_sub_starProjection_le_finiteUnitarySubgroupAverage
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.norm_sub_starProjection_le_finiteUnitarySubgroupAverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/245723e0-0668-4250-bcad-8499c97129a0

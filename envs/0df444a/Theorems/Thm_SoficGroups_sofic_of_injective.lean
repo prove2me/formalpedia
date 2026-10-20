@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_sofic_of_injective
 -- name    : SoficGroups.sofic_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/49af9f41-00b4-4632-9947-c0b10c8600d8

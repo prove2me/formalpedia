@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_tendsto_angularSourceFreeResolventRootCutoff_pairing
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.tendsto_angularSourceFreeResolventRootCutoff_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/a0eda096-3ff8-42c1-8140-c7ef2b2d2a6d

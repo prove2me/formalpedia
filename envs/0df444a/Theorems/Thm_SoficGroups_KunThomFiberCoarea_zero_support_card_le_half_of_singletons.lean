@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_zero_support_card_le_half_of_singletons
 -- name    : SoficGroups.KunThomFiberCoarea.zero_support_card_le_half_of_singletons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/629dc5a9-badf-4762-8c02-20a50823c70d

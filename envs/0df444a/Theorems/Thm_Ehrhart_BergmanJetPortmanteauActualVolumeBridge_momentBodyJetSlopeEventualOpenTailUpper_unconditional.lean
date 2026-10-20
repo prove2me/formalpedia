@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_momentBodyJetSlopeEventualOpenTailUpper_unconditional
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.momentBodyJetSlopeEventualOpenTailUpper_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/06398ac5-be09-4af8-9ab9-c4d66665b508

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedVertexCount_integral_eq
 -- name    : TwoDegenerateGraphs.hammingRetainedVertexCount_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/9eaccb63-72c2-46f8-b450-bea7177d72e8

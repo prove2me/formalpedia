@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharingPlatform_WageSchemes_fcr_vs_fw
 -- name    : SharingPlatform.WageSchemes.fcr_vs_fw
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:02.651999+00:00
 -- url     : https://prove2.me/theorems/4d0cb887-985e-4887-89e0-07805df853ec

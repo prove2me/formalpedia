@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_terminalVector_last
 -- name    : MetricCodes.Hamming.terminalVector_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/5efa4c83-0ba0-4f76-bd59-bf4ee082f0a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_angularSmoothPartition_nonneg
 -- name    : Ehrhart.MatrixTorusBochnerBridge.angularSmoothPartition_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/4c65dca0-e537-4b12-a334-6efac3180d43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterBlockCyclicRootFamily_iSup_eq_top
 -- name    : SoficGroups.finiteOuterBlockCyclicRootFamily_iSup_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/eee84617-7744-4959-8808-145c9a61355b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularWeightedKernel_smoothConvexPotential_upper_of_support_upper
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularWeightedKernel.smoothConvexPotential_upper_of_support_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/6eb83278-5b3e-4a02-a3ff-1549b11f202d

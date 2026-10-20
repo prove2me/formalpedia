@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTCharacteristicResidue_FiniteInterlacing_gtChannel_positiveWeight_eq_mul_plusProbability_of_resolvent
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue.FiniteInterlacing.gtChannel_positiveWeight_eq_mul_plusProbability_of_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/3db046a1-af1c-417a-a7c1-829e5137442d

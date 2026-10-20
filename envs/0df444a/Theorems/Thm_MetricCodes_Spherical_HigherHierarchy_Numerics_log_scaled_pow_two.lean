@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Numerics_log_scaled_pow_two
 -- name    : MetricCodes.Spherical.HigherHierarchy.Numerics.log_scaled_pow_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/5e4f7013-c2bd-46de-bdc2-dfbab4006f2f

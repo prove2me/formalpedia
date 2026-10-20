@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryPinskerGap_continuous
 -- name    : TwoDegenerateGraphs.binaryPinskerGap_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/2c78cb59-da50-4caa-b942-9dc24d48c635

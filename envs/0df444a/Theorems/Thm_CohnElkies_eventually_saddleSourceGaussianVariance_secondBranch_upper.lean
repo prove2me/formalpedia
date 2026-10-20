@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSourceGaussianVariance_secondBranch_upper
 -- name    : CohnElkies.eventually_saddleSourceGaussianVariance_secondBranch_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/5ff6ca40-2eee-487e-a14a-0ce48067a488

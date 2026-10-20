@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_opening_entropy_slope
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_opening_entropy_slope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/196d23f9-0475-4d0a-a510-43f35a25fc8b

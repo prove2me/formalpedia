@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_mixtureEmbedding_trace_mul
 -- name    : QuantumParallelRepetition.mixtureEmbedding_trace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/04607c5b-35c4-483c-b2af-d05da4a87b1c

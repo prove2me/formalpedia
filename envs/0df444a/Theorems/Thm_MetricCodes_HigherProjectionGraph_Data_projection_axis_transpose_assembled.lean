@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_projection_axis_transpose_assembled
 -- name    : MetricCodes.HigherProjectionGraph.Data.projection_axis_transpose_assembled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/d478e605-d65b-47d8-84e1-630875688fb2

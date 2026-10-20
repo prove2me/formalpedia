@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Scalar_RadiusData_common_charge
 -- name    : OAI.GaussianPropeller.Scalar.RadiusData.common_charge
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:22:35.932893+00:00
 -- url     : https://prove2.me/theorems/328fb79a-897f-474c-9a4a-4f5c75b05d99

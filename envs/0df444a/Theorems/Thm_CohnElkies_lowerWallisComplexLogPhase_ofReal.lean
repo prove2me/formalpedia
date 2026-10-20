@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerWallisComplexLogPhase_ofReal
 -- name    : CohnElkies.lowerWallisComplexLogPhase_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/88ae4259-40ca-4304-96d6-84a79e5d65bd

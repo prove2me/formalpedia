@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledCappedClipped_antitoneOn
 -- name    : CohnElkies.lowerGammaScaledCappedClipped_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/608693f8-f40c-4af6-b4c0-afbbdd49f72e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusGraphWeakBridge_complexTorusCoverLift_barPartialRepresentative_eq
 -- name    : Ehrhart.WeightedTorusGraphWeakBridge.complexTorusCoverLift_barPartialRepresentative_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/b0e3bcae-577a-45af-b865-018e3a5512f6

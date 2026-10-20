@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_blockIncidencePowerRemainder_aeval
 -- name    : PermanentRollout.blockIncidencePowerRemainder_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/ad591311-7c13-4fe9-b6e1-2acafa91d6cb

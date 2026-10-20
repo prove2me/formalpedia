@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_lowerStripPoissonMajorant_logarithmic_tail
 -- name    : CohnElkies.exists_lowerStripPoissonMajorant_logarithmic_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/b05ee53c-bd54-4fe1-aa8c-a5a2f32f6386

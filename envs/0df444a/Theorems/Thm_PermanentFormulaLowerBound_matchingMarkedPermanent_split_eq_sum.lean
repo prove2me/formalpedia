@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingMarkedPermanent_split_eq_sum
 -- name    : PermanentFormulaLowerBound.matchingMarkedPermanent_split_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/b97da5b1-34ef-468f-842d-d98faf71f12a

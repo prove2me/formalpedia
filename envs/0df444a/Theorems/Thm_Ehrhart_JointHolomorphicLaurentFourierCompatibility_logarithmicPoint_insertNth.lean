@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_logarithmicPoint_insertNth
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.logarithmicPoint_insertNth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/5ec2d9c6-0526-4793-9bc0-6a5f90f047ca

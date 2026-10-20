@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_incoherent_control
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.incoherent_control
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:44:02.478156+00:00
 -- url     : https://prove2.me/theorems/7fe869f1-e295-43a5-ba46-c26ccf513e89

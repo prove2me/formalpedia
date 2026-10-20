@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_tracePolygonObstruction
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.tracePolygonObstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:36:42.507662+00:00
 -- url     : https://prove2.me/theorems/baa8fbd1-2644-4064-b912-a85f73058f6a

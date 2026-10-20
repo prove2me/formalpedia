@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_projective_output_disjoint_iff
 -- name    : PermanentRollout.projective_output_disjoint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/d37a11d3-beeb-4644-ad34-e7b187e7adcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualUpperTailBridge_upperSemicontinuous_momentTorusTailUpperEnvelopeTimeSlice
 -- name    : Ehrhart.BergmanJetPortmanteauActualUpperTailBridge.upperSemicontinuous_momentTorusTailUpperEnvelopeTimeSlice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/b51d6b23-a54f-4403-b7e9-69755d52833e

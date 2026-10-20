@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_pullbackTableModel_action_of_mem
 -- name    : SoficGroups.pullbackTableModel_action_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/960fa527-2b6b-4a8d-85bb-0c8211d20495

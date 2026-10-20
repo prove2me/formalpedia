@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialLogProfile_weighted_integrable
 -- name    : CohnElkies.normalizedRadialLogProfile_weighted_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/ad67a727-9a60-4014-8579-048e4dd1a636

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunTransportedAmbientOverlap_intersection_generator_exit_subset_union
 -- name    : SoficGroups.KunTransportedAmbientOverlap.intersection_generator_exit_subset_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/e46ecae7-6e97-4503-a063-e31537e37ab1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleLogRadius_continuousOn_Ici
 -- name    : CohnElkies.saddleLogRadius_continuousOn_Ici
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/c08971d0-af72-49d7-9842-62155e075d6a

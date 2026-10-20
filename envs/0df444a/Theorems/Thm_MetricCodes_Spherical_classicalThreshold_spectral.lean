@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalThreshold_spectral
 -- name    : MetricCodes.Spherical.classicalThreshold_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/4fb668d1-1199-4cb8-8d65-acaa5b41cf25

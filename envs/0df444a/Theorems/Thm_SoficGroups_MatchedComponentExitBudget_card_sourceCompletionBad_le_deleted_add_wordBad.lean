@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentExitBudget_card_sourceCompletionBad_le_deleted_add_wordBad
 -- name    : SoficGroups.MatchedComponentExitBudget.card_sourceCompletionBad_le_deleted_add_wordBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/1a9f47fa-341f-46e0-9872-a7c12a83dc3c

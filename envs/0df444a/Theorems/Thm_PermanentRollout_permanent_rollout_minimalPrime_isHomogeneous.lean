@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_minimalPrime_isHomogeneous
 -- name    : PermanentRollout.permanent_rollout_minimalPrime_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/e78b107b-b08d-417b-b245-6478967787c2

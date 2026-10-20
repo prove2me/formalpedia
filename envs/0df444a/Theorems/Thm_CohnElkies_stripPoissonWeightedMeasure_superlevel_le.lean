@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonWeightedMeasure_superlevel_le
 -- name    : CohnElkies.stripPoissonWeightedMeasure_superlevel_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/d201cf96-4a78-4e6d-9d5b-fd0620864231

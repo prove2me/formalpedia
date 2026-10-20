@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_fourPathEndpointWitness_card_eq_sum
 -- name    : CompactnessConjecture.fourPathEndpointWitness_card_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/2a8dccff-fea5-483f-8df6-8cdf21b5b865

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Gamma_eq_sub
 -- name    : MetricCodes.Gamma_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/4348286c-a818-4915-85ae-f27b2fd191f5

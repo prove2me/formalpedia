@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionTransportCrossing_tendsto_action_inverse
 -- name    : SoficGroups.SourceCompressionTransportCrossing.tendsto_action_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/d7526af1-3f8d-445d-97e7-49f153ad48ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunAdditiveMedianPoincare_additive_permutation_small_support_coarea
 -- name    : SoficGroups.KunAdditiveMedianPoincare.additive_permutation_small_support_coarea
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/babde6ac-0186-479f-aca2-1c0ec6cb387f

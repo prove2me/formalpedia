@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicConvexTransfer_convexOn_momentBodyLogPartition_Ioi_of_holomorphicStrict
 -- name    : Ehrhart.BergmanJetJointHolomorphicConvexTransfer.convexOn_momentBodyLogPartition_Ioi_of_holomorphicStrict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/60d2551d-c829-40f7-8665-20a1979eb01c

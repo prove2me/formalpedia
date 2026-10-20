@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidual_spectral_gap_of_pair_angles
 -- name    : SoficGroups.ejThreeResidual_spectral_gap_of_pair_angles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/5a46ff19-cd22-465d-b576-89719cbb81e8

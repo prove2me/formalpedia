@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_sourcePrefix_succ
 -- name    : PermanentRollout.homogeneousMap_allRank_sourcePrefix_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/8dafc97a-2d55-4ce5-bc81-bafd0ca9c65c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_zeroAngle_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.zeroAngle_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/e000b5f9-4954-4542-ab82-3e1740d49f32

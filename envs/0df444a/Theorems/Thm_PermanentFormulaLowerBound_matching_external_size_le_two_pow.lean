@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matching_external_size_le_two_pow
 -- name    : PermanentFormulaLowerBound.matching_external_size_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/80a15f19-3100-4519-b3bc-03657e701512

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeMatrix_quotient_prod
 -- name    : PermanentRollout.sourceTreeMatrix_quotient_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/dadea660-d547-46f2-a322-b050d6e59634

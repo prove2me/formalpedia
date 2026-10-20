@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentCoverMoment_zero_eq_torusTruncatedJetOrderDensity
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentCoverMoment_zero_eq_torusTruncatedJetOrderDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/bc05cbc0-68b2-42eb-8030-730d9c38539f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_large_cut_lower
 -- name    : SoficGroups.large_cut_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/87df653d-e416-42bd-88eb-a7f5c5408bbb

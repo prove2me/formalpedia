@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_pairedDefectWordAverage_eq_unitaryFinsetMarkov_iterate
 -- name    : SoficGroups.KunRootedWordPower.pairedDefectWordAverage_eq_unitaryFinsetMarkov_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/b98afaef-eca9-4833-bfe2-243519833dae

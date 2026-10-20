@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyExponentialSecantBridge_integral_momentBodyZeroGibbs_eq_density_integral
 -- name    : Ehrhart.BergmanJetBodyExponentialSecantBridge.integral_momentBodyZeroGibbs_eq_density_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/5faf021d-6bd2-4936-aa45-84c5da23d0af

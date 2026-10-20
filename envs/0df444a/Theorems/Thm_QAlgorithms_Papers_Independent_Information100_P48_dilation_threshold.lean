@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_dilation_threshold
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.dilation_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:45:08.669706+00:00
 -- url     : https://prove2.me/theorems/e4b89a14-c247-4e37-8b00-e3e19e8470dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerCoth_log_small_abs_bound
 -- name    : CohnElkies.lowerCoth_log_small_abs_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/9e5a4e84-9bf4-439c-b323-60eb49bd728f

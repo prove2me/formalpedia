@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticPointRelated_of_quadrangle_common_neighbor
 -- name    : CompactnessConjecture.symplecticPointRelated_of_quadrangle_common_neighbor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/d1dfa07d-f297-4627-a7cf-c56c44abd1f2

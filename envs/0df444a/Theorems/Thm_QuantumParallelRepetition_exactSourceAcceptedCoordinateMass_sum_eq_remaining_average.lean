@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceAcceptedCoordinateMass_sum_eq_remaining_average
 -- name    : QuantumParallelRepetition.exactSourceAcceptedCoordinateMass_sum_eq_remaining_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/e974fb17-9318-4258-8713-3ffb29cd5f16

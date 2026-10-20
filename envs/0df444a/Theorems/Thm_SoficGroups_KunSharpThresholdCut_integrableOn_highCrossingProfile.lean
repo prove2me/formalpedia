@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSharpThresholdCut_integrableOn_highCrossingProfile
 -- name    : SoficGroups.KunSharpThresholdCut.integrableOn_highCrossingProfile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/c3892032-9561-429d-aefd-8a0a1c0e2f0b

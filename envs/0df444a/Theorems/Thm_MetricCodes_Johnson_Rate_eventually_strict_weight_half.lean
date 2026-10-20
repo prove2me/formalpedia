@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Rate_eventually_strict_weight_half
 -- name    : MetricCodes.Johnson.Rate.eventually_strict_weight_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/df3c7a6b-da98-42a1-a989-e5efe34ca20d

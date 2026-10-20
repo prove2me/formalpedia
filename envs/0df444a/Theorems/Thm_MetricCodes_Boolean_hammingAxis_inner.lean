@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingAxis_inner
 -- name    : MetricCodes.Boolean.hammingAxis_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/dc792075-cd8e-4ff3-8409-e5629f7f7c2a

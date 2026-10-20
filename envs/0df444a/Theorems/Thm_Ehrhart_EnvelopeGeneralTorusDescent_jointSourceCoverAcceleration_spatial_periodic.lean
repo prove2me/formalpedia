@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_EnvelopeGeneralTorusDescent_jointSourceCoverAcceleration_spatial_periodic
 -- name    : Ehrhart.EnvelopeGeneralTorusDescent.jointSourceCoverAcceleration_spatial_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/ecc96f0d-24ff-487f-970f-9c06c95309de

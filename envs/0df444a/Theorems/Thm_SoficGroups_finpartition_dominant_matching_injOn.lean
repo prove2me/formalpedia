@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finpartition_dominant_matching_injOn
 -- name    : SoficGroups.finpartition_dominant_matching_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/00241eb8-3a55-4c00-ac19-a6f6c4e73648

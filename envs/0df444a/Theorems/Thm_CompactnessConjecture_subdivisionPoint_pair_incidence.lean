@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionPoint_pair_incidence
 -- name    : CompactnessConjecture.subdivisionPoint_pair_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/8552898f-30b6-4f9c-80aa-7c114ea6d45d

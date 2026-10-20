@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_RankArcCharging_card_sdiff_selectedRankSupport
 -- name    : SoficGroups.RankArcCharging.card_sdiff_selectedRankSupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/5de73030-3806-4875-935c-d33418bae90d

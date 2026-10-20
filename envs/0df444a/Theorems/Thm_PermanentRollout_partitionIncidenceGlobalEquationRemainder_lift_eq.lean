@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionIncidenceGlobalEquationRemainder_lift_eq
 -- name    : PermanentRollout.partitionIncidenceGlobalEquationRemainder_lift_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/37141623-bde9-44dd-8623-adcf14c7275b

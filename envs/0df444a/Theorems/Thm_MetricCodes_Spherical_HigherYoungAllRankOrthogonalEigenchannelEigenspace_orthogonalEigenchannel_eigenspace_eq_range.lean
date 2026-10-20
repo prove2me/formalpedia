@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalEigenchannelEigenspace_orthogonalEigenchannel_eigenspace_eq_range
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalEigenchannelEigenspace.orthogonalEigenchannel_eigenspace_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/469b5ad6-bf72-4db2-ab2e-89b7a4b77315

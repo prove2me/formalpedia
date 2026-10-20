@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalPublicLogPhasePhysicalAlignedLocalAction_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalPublicLogPhasePhysicalAlignedLocalAction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/01c18035-fd3f-4077-95be-da73208025ff

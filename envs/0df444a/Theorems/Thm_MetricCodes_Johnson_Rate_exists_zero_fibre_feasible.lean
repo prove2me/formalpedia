@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Rate_exists_zero_fibre_feasible
 -- name    : MetricCodes.Johnson.Rate.exists_zero_fibre_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/fa1c43de-39eb-49ed-904e-d9c91ae3735a

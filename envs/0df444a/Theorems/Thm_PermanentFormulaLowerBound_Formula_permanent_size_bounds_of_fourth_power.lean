@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_permanent_size_bounds_of_fourth_power
 -- name    : PermanentFormulaLowerBound.Formula.permanent_size_bounds_of_fourth_power
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/585f0339-a3d4-4a0d-bfa4-28119878c534

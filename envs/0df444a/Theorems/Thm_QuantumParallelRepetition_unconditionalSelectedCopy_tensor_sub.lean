@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedCopy_tensor_sub
 -- name    : QuantumParallelRepetition.unconditionalSelectedCopy_tensor_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/69fc44eb-8460-4b00-9899-147d17f583b0

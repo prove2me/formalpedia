@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_kissing_spectral_certificate
 -- name    : MetricCodes.Numerics.kissing_spectral_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/589accf0-e4f6-4e9f-bb90-1f21f7f9c2c3

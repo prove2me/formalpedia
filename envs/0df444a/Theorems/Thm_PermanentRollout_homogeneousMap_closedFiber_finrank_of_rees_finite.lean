@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_closedFiber_finrank_of_rees_finite
 -- name    : PermanentRollout.homogeneousMap_closedFiber_finrank_of_rees_finite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/54ddbf6f-1500-4e6b-b3ed-683256bcda9a

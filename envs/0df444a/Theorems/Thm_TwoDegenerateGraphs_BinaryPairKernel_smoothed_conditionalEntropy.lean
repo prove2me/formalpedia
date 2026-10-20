@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_smoothed_conditionalEntropy
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.smoothed_conditionalEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/ecd88325-5574-43c2-9af9-d75b8ce874d9

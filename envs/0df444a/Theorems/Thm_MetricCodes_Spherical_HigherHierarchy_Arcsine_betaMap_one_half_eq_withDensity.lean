@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Arcsine_betaMap_one_half_eq_withDensity
 -- name    : MetricCodes.Spherical.HigherHierarchy.Arcsine.betaMap_one_half_eq_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/40177314-06df-45da-95b0-fabab4b9de1b

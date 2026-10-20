@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_productEigenbasis
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.productEigenbasis
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:00:36.00621+00:00
 -- url     : https://prove2.me/theorems/1e1a29f1-da42-48e2-b483-33624c30e2c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_missing_symbol_power_bound
 -- name    : ErdosProblems.MulticolourTriangleRamsey.missing_symbol_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/9a190fd4-3926-4081-ac8a-d956f5410ca9

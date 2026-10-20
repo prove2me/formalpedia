@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Weyl_tendsto_tailLength_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.Weyl.tendsto_tailLength_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/df15bff8-5e95-481e-95be-04df0174305d

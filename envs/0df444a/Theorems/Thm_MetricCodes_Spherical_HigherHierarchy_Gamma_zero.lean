@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Gamma_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.Gamma_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/d0e60ba7-5e82-4447-a415-1db3e7da9be2

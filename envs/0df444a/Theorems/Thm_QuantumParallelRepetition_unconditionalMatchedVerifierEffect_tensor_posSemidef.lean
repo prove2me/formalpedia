@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMatchedVerifierEffect_tensor_posSemidef
 -- name    : QuantumParallelRepetition.unconditionalMatchedVerifierEffect_tensor_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/6f2fe99c-716a-44a0-b634-cd2fbd8e3aff

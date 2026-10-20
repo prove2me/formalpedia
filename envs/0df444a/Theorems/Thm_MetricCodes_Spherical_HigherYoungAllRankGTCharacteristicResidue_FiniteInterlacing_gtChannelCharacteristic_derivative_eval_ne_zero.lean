@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTCharacteristicResidue_FiniteInterlacing_gtChannelCharacteristic_derivative_eval_ne_zero
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue.FiniteInterlacing.gtChannelCharacteristic_derivative_eval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/ae1ecb11-53b6-45b2-bd46-b073cc014e38

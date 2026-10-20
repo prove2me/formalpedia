@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_weightedScalarL2_complexTorusCoverLift_locallyIntegrable
 -- name    : Ehrhart.WeightedTorusDistributionBridge.weightedScalarL2_complexTorusCoverLift_locallyIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/180bfc4e-a3bf-47d3-9699-06faa49aaa7b

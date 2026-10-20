@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_SharpFullCohnElkiesManuscriptConclusions_ofRadial
 -- name    : PackingBounds.SharpFullCohnElkiesManuscriptConclusions.ofRadial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/fbe14e76-f584-41d9-af13-5b3f55839f5a

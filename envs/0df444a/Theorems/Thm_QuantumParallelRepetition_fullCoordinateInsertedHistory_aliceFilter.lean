@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedHistory_aliceFilter
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedHistory_aliceFilter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/59060fa1-3be6-4a1d-aede-5dc660471116

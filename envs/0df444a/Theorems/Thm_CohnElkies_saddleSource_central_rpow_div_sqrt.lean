@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSource_central_rpow_div_sqrt
 -- name    : CohnElkies.saddleSource_central_rpow_div_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/7dbd2f8a-a007-4a0e-94e3-5d18a4197f82

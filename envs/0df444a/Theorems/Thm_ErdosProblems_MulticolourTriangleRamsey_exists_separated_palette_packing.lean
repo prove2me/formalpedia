@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_separated_palette_packing
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_separated_palette_packing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/fc06dfa3-0edc-443f-9f49-26db358d3158

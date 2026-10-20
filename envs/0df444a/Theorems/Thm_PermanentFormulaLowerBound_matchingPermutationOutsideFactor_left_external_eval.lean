@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermutationOutsideFactor_left_external_eval
 -- name    : PermanentFormulaLowerBound.matchingPermutationOutsideFactor_left_external_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/9b4b9f7e-4e1f-455b-b17c-2681a02530d8

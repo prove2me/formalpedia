@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_criticalExponent_le_of_chebyshev_objective_convergence
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.criticalExponent_le_of_chebyshev_objective_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/3c5142c9-73d0-4926-b5be-7cd66ce7288f

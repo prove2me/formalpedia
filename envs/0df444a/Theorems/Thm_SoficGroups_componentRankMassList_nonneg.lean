@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_componentRankMassList_nonneg
 -- name    : SoficGroups.componentRankMassList_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/96a32081-eccc-4e4e-b82d-e1782b3f565e

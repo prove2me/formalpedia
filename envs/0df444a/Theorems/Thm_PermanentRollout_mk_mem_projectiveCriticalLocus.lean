@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_mk_mem_projectiveCriticalLocus
 -- name    : PermanentRollout.mk_mem_projectiveCriticalLocus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/9d8ae374-cde8-46f0-8d7c-03d09810ddcf

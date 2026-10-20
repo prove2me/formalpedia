@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhysicalApproximation_momentTorusEnvelopeTimeSlice_le_holomorphicJointMollification
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhysicalApproximation.momentTorusEnvelopeTimeSlice_le_holomorphicJointMollification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/40053d5b-b9ad-4bfe-8ab6-638b8c684b2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularWeightedKernel_angularWeakScalarResolventCLM_fixed_ae_eq_const_of_support_upper
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularWeightedKernel.angularWeakScalarResolventCLM_fixed_ae_eq_const_of_support_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/96837c6f-4335-4e4b-8114-dd9a0ef8a0ca

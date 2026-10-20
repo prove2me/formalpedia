@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_RankArcCharging_rankChangingArc_card_le_crossing_add_unselected
 -- name    : SoficGroups.RankArcCharging.rankChangingArc_card_le_crossing_add_unselected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/afbafe13-dd8d-4864-a4a5-01b734808c0e

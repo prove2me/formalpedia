@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_recursivePaletteStage
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_recursivePaletteStage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/aa276ddd-dc0e-412b-9bf4-bdd93c280573

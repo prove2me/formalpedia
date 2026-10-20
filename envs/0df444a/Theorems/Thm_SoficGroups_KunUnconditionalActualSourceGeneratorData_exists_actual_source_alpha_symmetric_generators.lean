@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunUnconditionalActualSourceGeneratorData_exists_actual_source_alpha_symmetric_generators
 -- name    : SoficGroups.KunUnconditionalActualSourceGeneratorData.exists_actual_source_alpha_symmetric_generators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/93ee30dd-ffe7-4a09-bd06-4cf149ce11e3

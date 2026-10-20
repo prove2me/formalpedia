@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_coeff_columnLinearFormProduct_eq_assignment_sum
 -- name    : PermanentRollout.coeff_columnLinearFormProduct_eq_assignment_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/750e5f1c-6cc2-4fbc-9247-6a3150fa506b

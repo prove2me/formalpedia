@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_finite_group_embedding_of_expanding_centralizer
 -- name    : SoficGroups.exists_finite_group_embedding_of_expanding_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/c3d21a81-40f2-4529-a313-c0845ba2a13b

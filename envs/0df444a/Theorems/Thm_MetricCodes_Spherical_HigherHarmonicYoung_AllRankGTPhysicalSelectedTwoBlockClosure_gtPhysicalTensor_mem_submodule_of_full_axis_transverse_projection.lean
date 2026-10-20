@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalSelectedTwoBlockClosure_gtPhysicalTensor_mem_submodule_of_full_axis_transverse_projection
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalSelectedTwoBlockClosure.gtPhysicalTensor_mem_submodule_of_full_axis_transverse_projection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/cbd0c3f2-13fa-4237-95b9-a5d787f00700

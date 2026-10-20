@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_integral_angularUnweightedTorusIntegrand_eq_weighted
 -- name    : Ehrhart.WeightedTorusBochner.integral_angularUnweightedTorusIntegrand_eq_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/d97de837-4cb7-4ce6-86bf-4b820230656c

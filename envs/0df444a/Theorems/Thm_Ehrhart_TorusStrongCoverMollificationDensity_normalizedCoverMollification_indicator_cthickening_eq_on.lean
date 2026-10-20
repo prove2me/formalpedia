@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongCoverMollificationDensity_normalizedCoverMollification_indicator_cthickening_eq_on
 -- name    : Ehrhart.TorusStrongCoverMollificationDensity.normalizedCoverMollification_indicator_cthickening_eq_on
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/b1dffaf9-b035-41f2-a60d-4fd329eca093

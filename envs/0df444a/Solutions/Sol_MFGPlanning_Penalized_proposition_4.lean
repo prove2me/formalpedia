@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MFGPlanning.Penalized.proposition_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T16:38:44.136976+00:00
 -- url     : https://prove2.me/submissions/faad6730-722d-40e0-bdd9-8453703824b9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MFGPlanning_Penalized_Grid

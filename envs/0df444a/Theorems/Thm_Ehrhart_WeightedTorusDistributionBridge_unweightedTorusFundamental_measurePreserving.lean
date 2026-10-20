@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDistributionBridge_unweightedTorusFundamental_measurePreserving
 -- name    : Ehrhart.WeightedTorusDistributionBridge.unweightedTorusFundamental_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/84632bd7-f87c-4652-9e18-1a6a18eeb29e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_eval_rename_eq_matchingMarkedPermanent
 -- name    : PermanentFormulaLowerBound.RationalFormula.eval_rename_eq_matchingMarkedPermanent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/bd5c780d-7d9f-4099-a4f9-a48f6cb853b2

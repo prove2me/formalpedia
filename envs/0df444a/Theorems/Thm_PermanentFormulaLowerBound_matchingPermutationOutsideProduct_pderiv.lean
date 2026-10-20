@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermutationOutsideProduct_pderiv
 -- name    : PermanentFormulaLowerBound.matchingPermutationOutsideProduct_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/6542ad65-3673-421d-8fe6-47189cc5f1bb

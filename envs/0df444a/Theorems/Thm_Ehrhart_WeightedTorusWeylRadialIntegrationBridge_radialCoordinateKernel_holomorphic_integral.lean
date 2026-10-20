@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_radialCoordinateKernel_holomorphic_integral
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.radialCoordinateKernel_holomorphic_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/642698c7-32d0-43bc-adb5-da09e547197e

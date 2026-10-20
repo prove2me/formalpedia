@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_orderedThetaTripleCount_mul_degree_le
 -- name    : CompactnessConjecture.orderedThetaTripleCount_mul_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/e80b8c4d-29ce-4864-93da-31aed0bd0051

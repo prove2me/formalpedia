@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_RadialPhysicalResolventRootCutoffUniformExtraction_sourceRadialCutoff_eventually_one_on_compact
 -- name    : Ehrhart.RadialPhysicalResolventRootCutoffUniformExtraction.sourceRadialCutoff_eventually_one_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/944b4241-864c-41d1-814c-c8a1d47932e3

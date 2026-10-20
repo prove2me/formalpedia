@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lower_exp_log_sqrtFactor_integrable
 -- name    : CohnElkies.lower_exp_log_sqrtFactor_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/5048cde7-e35f-4edf-afba-77872c5d6d78

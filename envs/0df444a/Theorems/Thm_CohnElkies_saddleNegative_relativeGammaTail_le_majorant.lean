@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleNegative_relativeGammaTail_le_majorant
 -- name    : CohnElkies.saddleNegative_relativeGammaTail_le_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/65b3d3ce-72c9-4727-8c2a-d0261c6c12c0

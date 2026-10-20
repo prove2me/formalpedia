@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneResolvent_UnboundedSelfAdjoint_gen_stoneGroup_eq
 -- name    : BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.gen_stoneGroup_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-04T13:49:36.912575+00:00
 -- url     : https://prove2.me/theorems/1341ef0c-572f-4dd3-8883-f241c83a023c

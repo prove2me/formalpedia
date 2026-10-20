@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourcePositiveShellQuadraticRemainder_norm_le
 -- name    : CohnElkies.saddleSourcePositiveShellQuadraticRemainder_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/4bf6d547-de1d-4503-9c55-81899404e559

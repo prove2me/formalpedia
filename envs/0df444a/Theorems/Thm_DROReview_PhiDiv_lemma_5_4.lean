@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROReview_PhiDiv_lemma_5_4
 -- name    : DROReview.PhiDiv.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:17:40.134395+00:00
 -- url     : https://prove2.me/theorems/13de0d22-f8a4-4d1a-8e9d-59c875bc7bbe

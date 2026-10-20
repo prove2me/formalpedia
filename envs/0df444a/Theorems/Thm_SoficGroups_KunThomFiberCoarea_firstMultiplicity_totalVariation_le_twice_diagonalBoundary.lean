@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_firstMultiplicity_totalVariation_le_twice_diagonalBoundary
 -- name    : SoficGroups.KunThomFiberCoarea.firstMultiplicity_totalVariation_le_twice_diagonalBoundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/592c6c22-6572-4389-a0cf-5d0c35509580

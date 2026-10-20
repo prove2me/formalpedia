@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_coverRepresentative_coe
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.coverRepresentative_coe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/abb18912-9a2a-4df9-945b-59a624cd0df3

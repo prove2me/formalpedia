@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpAsymptotics_of_signRadius_and_ordered_upper
 -- name    : CohnElkies.sharpAsymptotics_of_signRadius_and_ordered_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/28b6d882-48fc-4eff-8f71-bf87481ec3a6

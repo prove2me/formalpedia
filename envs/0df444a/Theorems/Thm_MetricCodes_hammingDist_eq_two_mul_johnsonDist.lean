@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_hammingDist_eq_two_mul_johnsonDist
 -- name    : MetricCodes.hammingDist_eq_two_mul_johnsonDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/aca780d0-60d1-45e9-ada2-93dee2aad642

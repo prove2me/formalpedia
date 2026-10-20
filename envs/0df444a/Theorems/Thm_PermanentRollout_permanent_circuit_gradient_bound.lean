@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_circuit_gradient_bound
 -- name    : PermanentRollout.permanent_circuit_gradient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/4c86fbf1-5ca2-48e6-b4d9-ef4c12e4b353

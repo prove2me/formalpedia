@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryEntropy_subadditive
 -- name    : TwoDegenerateGraphs.binaryEntropy_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/a71ac856-97f9-4e1f-9504-06e74f980cfa

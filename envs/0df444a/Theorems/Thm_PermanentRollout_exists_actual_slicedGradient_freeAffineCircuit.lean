@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_actual_slicedGradient_freeAffineCircuit
 -- name    : PermanentRollout.exists_actual_slicedGradient_freeAffineCircuit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/e4f76644-42ba-41d8-90f6-daa128a3aa64

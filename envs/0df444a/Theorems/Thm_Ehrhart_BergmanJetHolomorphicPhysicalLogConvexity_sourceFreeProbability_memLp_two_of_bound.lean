@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_sourceFreeProbability_memLp_two_of_bound
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.sourceFreeProbability_memLp_two_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/c76130bd-6091-45dc-9c26-f95ee96794b8

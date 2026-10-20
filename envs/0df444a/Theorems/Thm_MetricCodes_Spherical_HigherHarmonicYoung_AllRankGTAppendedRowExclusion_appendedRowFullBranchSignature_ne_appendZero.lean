@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAppendedRowExclusion_appendedRowFullBranchSignature_ne_appendZero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedRowExclusion.appendedRowFullBranchSignature_ne_appendZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/95bec2cb-1e0a-4c69-8b66-0a4789a08377

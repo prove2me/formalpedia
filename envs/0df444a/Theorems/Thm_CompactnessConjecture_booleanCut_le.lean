@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_booleanCut_le
 -- name    : CompactnessConjecture.booleanCut_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/1cf399dd-343a-4a17-829e-218be215aae6

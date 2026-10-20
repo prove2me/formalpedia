@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_normalizedHamming_nonneg
 -- name    : SoficGroups.normalizedHamming_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/48f794c9-0c46-4630-ae54-b1b0b0b72042

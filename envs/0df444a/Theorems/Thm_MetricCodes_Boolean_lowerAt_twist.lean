@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_lowerAt_twist
 -- name    : MetricCodes.Boolean.lowerAt_twist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/aa7c3d80-27dd-47bf-9b86-c5b3c1c3ce22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_boundary_le_induced_add_deleted
 -- name    : SoficGroups.boundary_le_induced_add_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/617b0d1e-f1f4-4b87-85c7-60759d6c3c48

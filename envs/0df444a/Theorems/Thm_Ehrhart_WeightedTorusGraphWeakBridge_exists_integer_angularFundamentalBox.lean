@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusGraphWeakBridge_exists_integer_angularFundamentalBox
 -- name    : Ehrhart.WeightedTorusGraphWeakBridge.exists_integer_angularFundamentalBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/883e39b9-0d87-4f47-8f45-9ea001dd778d

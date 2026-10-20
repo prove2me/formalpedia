@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485FairSourceDiagonalWork_row
 -- name    : QuantumParallelRepetition.unconditionalActualC485FairSourceDiagonalWork_row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/bf5e99ea-c12d-41b0-8716-c03ace38ce49

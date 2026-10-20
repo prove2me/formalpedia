@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryCapped_dimension_antitoneOn
 -- name    : CohnElkies.lowerGammaBoundaryCapped_dimension_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/5779630a-0b3a-4960-a624-0f9ac1978507

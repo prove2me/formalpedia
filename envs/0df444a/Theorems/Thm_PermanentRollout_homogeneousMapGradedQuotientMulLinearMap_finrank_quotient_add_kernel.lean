@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapGradedQuotientMulLinearMap_finrank_quotient_add_kernel
 -- name    : PermanentRollout.homogeneousMapGradedQuotientMulLinearMap_finrank_quotient_add_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/f13cb825-85ae-432e-8d29-ad2c88a58aa3

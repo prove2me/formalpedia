@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingWindowChannelMatrix_pairing
 -- name    : MetricCodes.Boolean.hammingWindowChannelMatrix_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/125731ad-94a5-448b-8e6f-7c093fce2807

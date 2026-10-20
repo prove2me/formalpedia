@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankTensorClebschCompleteness_orthogonalCompleteBranch_mem_selected_iSup
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschCompleteness.orthogonalCompleteBranch_mem_selected_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/5615a731-5439-4ce9-b3df-13bc345ecd52

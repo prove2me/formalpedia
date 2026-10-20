@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusStrongWeightedTorusDescent_angularWeightedTorus_integral_real_eq_realFundamentalCell
 -- name    : Ehrhart.TorusStrongWeightedTorusDescent.angularWeightedTorus_integral_real_eq_realFundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/80d17c52-4e77-47f1-96b0-4163e0920511

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_Alternative_fourierReal_schwartzDilation_apply
 -- name    : SpherePacking.Alternative.fourierReal_schwartzDilation_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/df2044e1-1c31-4952-abaf-356f90019e2e

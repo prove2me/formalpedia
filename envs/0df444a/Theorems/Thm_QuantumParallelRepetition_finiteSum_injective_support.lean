@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_finiteSum_injective_support
 -- name    : QuantumParallelRepetition.finiteSum_injective_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/52ee56ff-405c-448c-813e-7578ef9df7a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MonomialDivergence_rayBall_volume
 -- name    : Ehrhart.MonomialDivergence.rayBall_volume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/c142a2e7-8489-4b22-a670-298153c5fcf7

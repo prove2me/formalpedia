@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentPositiveJointGeodesic_le_tailUpperEnvelope
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentPositiveJointGeodesic_le_tailUpperEnvelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/4fcdb4de-c971-45e9-a42c-d118d2cb1bb0

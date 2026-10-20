@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRepresentativeBridge_radialCoordinateKernel_eq_zero_iff
 -- name    : Ehrhart.WeightedTorusWeylRepresentativeBridge.radialCoordinateKernel_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/a14bcb5f-ad7e-4245-a0af-2d8748ec9a33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_contDiff_momentHolomorphicRepresentative
 -- name    : Ehrhart.BergmanJetLocalGrowth.contDiff_momentHolomorphicRepresentative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/4101ded2-fcb9-4cb9-96db-b3b6bc7f5588

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_unitaryImages_inner_sq_mul_card_le
 -- name    : SoficGroups.unitaryImages_inner_sq_mul_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/edadd806-e691-43f8-8730-1cdba9d5614d

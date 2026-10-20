@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_step_multiplicationCount
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.step_multiplicationCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/00aa6a30-93d6-4a05-b195-cc75adf6a07a

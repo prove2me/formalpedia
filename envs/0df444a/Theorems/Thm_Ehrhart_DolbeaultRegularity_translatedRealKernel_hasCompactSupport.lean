@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_translatedRealKernel_hasCompactSupport
 -- name    : Ehrhart.DolbeaultRegularity.translatedRealKernel_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/fe9638be-716d-4b76-999c-08bd483d7ce8

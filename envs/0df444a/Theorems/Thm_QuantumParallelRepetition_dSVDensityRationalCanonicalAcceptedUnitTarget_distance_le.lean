@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalCanonicalAcceptedUnitTarget_distance_le
 -- name    : QuantumParallelRepetition.dSVDensityRationalCanonicalAcceptedUnitTarget_distance_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/8ccfaca9-5c86-47b3-b968-aac27e7bdfdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticPoint_centers_span_orthogonal
 -- name    : CompactnessConjecture.symplecticPoint_centers_span_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/a6557037-a4c9-426b-8098-439697d3296d

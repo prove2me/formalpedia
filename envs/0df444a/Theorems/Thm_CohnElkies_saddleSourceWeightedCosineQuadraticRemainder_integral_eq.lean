@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceWeightedCosineQuadraticRemainder_integral_eq
 -- name    : CohnElkies.saddleSourceWeightedCosineQuadraticRemainder_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/8ced14e0-146c-45c3-90ce-656b0fb880f1

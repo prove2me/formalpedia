@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerCoth_hasDerivAt
 -- name    : CohnElkies.lowerCoth_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/d440b1ec-d788-4ebe-afba-f8cd517d5ab1

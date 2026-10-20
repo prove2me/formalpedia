@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherRepresentationGraph_StrictInterlaces_interlaces
 -- name    : MetricCodes.Spherical.HigherRepresentationGraph.StrictInterlaces.interlaces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/9f530b1b-30e2-4f26-a034-b59abb200215

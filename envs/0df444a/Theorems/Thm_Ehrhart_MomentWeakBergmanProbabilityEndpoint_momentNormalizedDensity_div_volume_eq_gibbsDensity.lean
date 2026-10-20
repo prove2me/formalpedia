@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentWeakBergmanProbabilityEndpoint_momentNormalizedDensity_div_volume_eq_gibbsDensity
 -- name    : Ehrhart.MomentWeakBergmanProbabilityEndpoint.momentNormalizedDensity_div_volume_eq_gibbsDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/0e8f8217-48c7-4733-8f86-a8434b7dd59b

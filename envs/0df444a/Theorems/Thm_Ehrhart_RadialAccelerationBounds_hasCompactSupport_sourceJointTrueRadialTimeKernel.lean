@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_RadialAccelerationBounds_hasCompactSupport_sourceJointTrueRadialTimeKernel
 -- name    : Ehrhart.RadialAccelerationBounds.hasCompactSupport_sourceJointTrueRadialTimeKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/024747c3-9894-4f6f-8d5a-1158010dc8bc

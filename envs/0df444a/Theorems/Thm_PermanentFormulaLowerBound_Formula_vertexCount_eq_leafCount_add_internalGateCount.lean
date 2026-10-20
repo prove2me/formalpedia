@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_vertexCount_eq_leafCount_add_internalGateCount
 -- name    : PermanentFormulaLowerBound.Formula.vertexCount_eq_leafCount_add_internalGateCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/8481e3ae-e0e7-4591-88e5-2eb9c84a6c3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSharpThresholdCut_exists_upperLevel_boundary_and_symmDiff_le
 -- name    : SoficGroups.KunSharpThresholdCut.exists_upperLevel_boundary_and_symmDiff_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/ab3c33cf-8fc7-4b7e-8fa2-a70454b5ea5d

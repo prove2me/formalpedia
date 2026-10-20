@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unitaryConjugatePOVM_jointEffect
 -- name    : QuantumParallelRepetition.unitaryConjugatePOVM_jointEffect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/0724c211-e60d-471b-809e-141579bc53e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_integral_fderiv_coverAngularSmoothPartition_mul_lift_eq_zero
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.integral_fderiv_coverAngularSmoothPartition_mul_lift_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/e31d5e1e-b778-4e46-97e7-80bb4d3567bf

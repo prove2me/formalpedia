@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingJacobianWeight_pos
 -- name    : PermanentFormulaLowerBound.matchingJacobianWeight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/4a7d2def-0771-4c70-b510-e740fd69859f

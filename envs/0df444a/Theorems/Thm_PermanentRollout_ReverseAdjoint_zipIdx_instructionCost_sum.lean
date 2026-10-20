@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_zipIdx_instructionCost_sum
 -- name    : PermanentRollout.ReverseAdjoint.zipIdx_instructionCost_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/33ef0178-8a00-44a8-8fe4-78f2ef74c23f

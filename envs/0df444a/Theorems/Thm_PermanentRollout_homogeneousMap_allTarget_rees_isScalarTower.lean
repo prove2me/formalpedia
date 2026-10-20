@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_rees_isScalarTower
 -- name    : PermanentRollout.homogeneousMap_allTarget_rees_isScalarTower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/19514a97-cbf5-4da3-a168-31aedfa9646c

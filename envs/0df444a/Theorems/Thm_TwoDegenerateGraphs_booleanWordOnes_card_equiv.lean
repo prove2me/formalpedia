@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_booleanWordOnes_card_equiv
 -- name    : TwoDegenerateGraphs.booleanWordOnes_card_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f78fb57f-e5b4-450c-aac9-d78d14d958af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFLocalWitness_rootRotation_action_zero_zero
 -- name    : SoficGroups.ThompsonFLocalWitness.rootRotation_action_zero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/2ea1a31b-d775-4b3e-b608-0d4e555cf8ad

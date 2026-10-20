@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedSourceChosenWordRestrictionTransfer_completedGenerator_permutationDistance_le_deleted
 -- name    : SoficGroups.CompletedSourceChosenWordRestrictionTransfer.completedGenerator_permutationDistance_le_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/7a1aecc5-f228-410c-a4b8-4cf6d1f429a5

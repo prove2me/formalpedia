@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_six_cycle_uniform_manuscript_lower
 -- name    : CompactnessConjecture.six_cycle_uniform_manuscript_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/213c34f7-1007-4a2e-88d3-1b6f18c974bb

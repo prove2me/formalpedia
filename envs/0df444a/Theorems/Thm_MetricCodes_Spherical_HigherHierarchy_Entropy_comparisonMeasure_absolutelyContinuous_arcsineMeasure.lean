@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_comparisonMeasure_absolutelyContinuous_arcsineMeasure
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.comparisonMeasure_absolutelyContinuous_arcsineMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/c09efbb5-da63-4529-ba1f-c839f86b9b10

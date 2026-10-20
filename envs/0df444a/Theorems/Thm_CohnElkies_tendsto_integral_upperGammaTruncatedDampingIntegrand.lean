@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_integral_upperGammaTruncatedDampingIntegrand
 -- name    : CohnElkies.tendsto_integral_upperGammaTruncatedDampingIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/b203839c-64cd-4609-adb7-3678cdf5cec3

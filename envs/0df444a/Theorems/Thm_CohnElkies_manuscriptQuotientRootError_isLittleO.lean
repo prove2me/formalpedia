@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptQuotientRootError_isLittleO
 -- name    : CohnElkies.manuscriptQuotientRootError_isLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/a28bbbc8-3d27-4b07-bac6-457b23444f0d

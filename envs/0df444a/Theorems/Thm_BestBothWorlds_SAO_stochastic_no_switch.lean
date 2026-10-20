@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_stochastic_no_switch
 -- name    : BestBothWorlds.SAO.stochastic_no_switch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:37.020064+00:00
 -- url     : https://prove2.me/theorems/6f9ffc20-f93a-4579-8a22-4259a44f0c97

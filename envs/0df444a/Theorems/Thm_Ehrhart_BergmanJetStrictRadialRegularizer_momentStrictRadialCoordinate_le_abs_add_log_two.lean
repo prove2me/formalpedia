@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetStrictRadialRegularizer_momentStrictRadialCoordinate_le_abs_add_log_two
 -- name    : Ehrhart.BergmanJetStrictRadialRegularizer.momentStrictRadialCoordinate_le_abs_add_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/907fb833-1e90-4336-b1ef-a3d9cdd8eefd

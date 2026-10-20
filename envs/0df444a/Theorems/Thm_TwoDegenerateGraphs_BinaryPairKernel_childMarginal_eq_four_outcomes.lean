@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_childMarginal_eq_four_outcomes
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.childMarginal_eq_four_outcomes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/805bcd79-3c50-4c97-8f67-d813039da688

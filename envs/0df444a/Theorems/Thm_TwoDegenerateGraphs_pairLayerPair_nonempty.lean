@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairLayerPair_nonempty
 -- name    : TwoDegenerateGraphs.pairLayerPair_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f1f6d720-bf2e-46ae-8b4a-0533709bda0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_finite_codeNumber_bound_of_projection_gram
 -- name    : MetricCodes.Hamming.finite_codeNumber_bound_of_projection_gram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/be6a1b2a-32c5-4beb-9207-54b6240357b9

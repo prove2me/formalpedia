@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_correlation_eq_hamming
 -- name    : MetricCodes.Johnson.correlation_eq_hamming
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/28b77f16-0b52-4ac0-87e1-85e87e3e84aa

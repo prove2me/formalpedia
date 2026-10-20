@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerWallis_shifted_log_mul_re
 -- name    : CohnElkies.lowerWallis_shifted_log_mul_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/aa7f5d51-8496-4247-91b1-14e76c62347d

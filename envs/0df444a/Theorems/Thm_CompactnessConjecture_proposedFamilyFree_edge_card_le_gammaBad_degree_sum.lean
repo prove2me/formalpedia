@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_edge_card_le_gammaBad_degree_sum
 -- name    : CompactnessConjecture.proposedFamilyFree_edge_card_le_gammaBad_degree_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/757d461c-997c-49ae-939a-93be5cd81d1f

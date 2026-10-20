@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_yesLanguage_iff_original
 -- name    : GapCVP.Comparator.yesLanguage_iff_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/f186faad-2b0b-4a60-b1ad-0afa48a32209

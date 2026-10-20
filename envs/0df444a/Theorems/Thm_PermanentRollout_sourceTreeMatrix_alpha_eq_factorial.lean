@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceTreeMatrix_alpha_eq_factorial
 -- name    : PermanentRollout.sourceTreeMatrix_alpha_eq_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/3d546302-06fb-40c8-9e14-a1e6442e91d7

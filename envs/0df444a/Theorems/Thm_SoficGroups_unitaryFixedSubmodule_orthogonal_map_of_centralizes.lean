@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_unitaryFixedSubmodule_orthogonal_map_of_centralizes
 -- name    : SoficGroups.unitaryFixedSubmodule_orthogonal_map_of_centralizes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/d91209c3-2372-4a71-a5e8-b97e7d715af5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_diagonalLimit_zero_eq
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.diagonalLimit_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/3cb1f64a-d38c-418d-a26c-9e5530634b57

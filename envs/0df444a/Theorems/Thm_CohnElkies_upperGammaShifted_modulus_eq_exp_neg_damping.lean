@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaShifted_modulus_eq_exp_neg_damping
 -- name    : CohnElkies.upperGammaShifted_modulus_eq_exp_neg_damping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/bc3583a2-d8fc-497a-8b7f-f902946fae20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransversePhysicalDiagonalColumn_normalizedWallSector_shortTensor_adjoint_eigen
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransversePhysicalDiagonalColumn.normalizedWallSector_shortTensor_adjoint_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/bcda1f09-e3f8-4169-bf00-39116d64f177

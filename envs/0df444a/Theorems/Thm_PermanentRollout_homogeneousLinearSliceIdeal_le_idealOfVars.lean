@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousLinearSliceIdeal_le_idealOfVars
 -- name    : PermanentRollout.homogeneousLinearSliceIdeal_le_idealOfVars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/a5452272-989a-4ed4-970c-72df544f878a

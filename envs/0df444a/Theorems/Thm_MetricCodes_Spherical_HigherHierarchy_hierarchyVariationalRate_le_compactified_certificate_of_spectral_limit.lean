@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyVariationalRate_le_compactified_certificate_of_spectral_limit
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyVariationalRate_le_compactified_certificate_of_spectral_limit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/421d8fc6-60ea-4b9c-b26d-f189b8dda408

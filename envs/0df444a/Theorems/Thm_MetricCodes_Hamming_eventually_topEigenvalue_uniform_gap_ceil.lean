@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_eventually_topEigenvalue_uniform_gap_ceil
 -- name    : MetricCodes.Hamming.eventually_topEigenvalue_uniform_gap_ceil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/0ee354dd-6427-4e7e-8022-098b095f33f3

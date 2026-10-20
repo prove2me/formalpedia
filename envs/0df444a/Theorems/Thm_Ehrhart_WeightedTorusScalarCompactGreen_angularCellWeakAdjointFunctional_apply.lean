@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularCellWeakAdjointFunctional_apply
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularCellWeakAdjointFunctional_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/34d6f114-937b-47c0-aaa8-e0dcc35f92bb

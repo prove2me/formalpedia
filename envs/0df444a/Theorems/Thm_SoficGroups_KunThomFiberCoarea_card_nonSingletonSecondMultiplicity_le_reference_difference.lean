@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_card_nonSingletonSecondMultiplicity_le_reference_difference
 -- name    : SoficGroups.KunThomFiberCoarea.card_nonSingletonSecondMultiplicity_le_reference_difference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/25d18e33-a9ef-42f3-bfc5-a641699afb85

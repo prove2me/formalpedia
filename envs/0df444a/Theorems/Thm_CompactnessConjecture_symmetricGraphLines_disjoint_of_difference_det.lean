@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symmetricGraphLines_disjoint_of_difference_det
 -- name    : CompactnessConjecture.symmetricGraphLines_disjoint_of_difference_det
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/60a932c8-ade5-4d30-8346-ef3b294f84c7

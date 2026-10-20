@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedPrescribedSpectralRadiusSchedule_fixedRadiusRootBad_density_tendsto_zero
 -- name    : SoficGroups.CompletedPrescribedSpectralRadiusSchedule.fixedRadiusRootBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/ff514f34-3812-4662-9cdf-b9a3ed89a2c0

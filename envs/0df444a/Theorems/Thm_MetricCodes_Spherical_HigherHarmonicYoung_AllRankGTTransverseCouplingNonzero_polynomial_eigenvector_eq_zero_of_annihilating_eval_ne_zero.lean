@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseCouplingNonzero_polynomial_eigenvector_eq_zero_of_annihilating_eval_ne_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCouplingNonzero.polynomial_eigenvector_eq_zero_of_annihilating_eval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/c71a922f-93ee-4809-af49-96809995a9be

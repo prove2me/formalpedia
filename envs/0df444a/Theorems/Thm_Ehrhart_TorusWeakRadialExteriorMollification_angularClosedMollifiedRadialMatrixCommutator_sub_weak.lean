@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakRadialExteriorMollification_angularClosedMollifiedRadialMatrixCommutator_sub_weak
 -- name    : Ehrhart.TorusWeakRadialExteriorMollification.angularClosedMollifiedRadialMatrixCommutator_sub_weak
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/65b9b7d9-6dd6-4ec5-89d0-a7a3061c9389

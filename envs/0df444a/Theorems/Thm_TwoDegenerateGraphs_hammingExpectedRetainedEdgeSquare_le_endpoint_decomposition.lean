@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingExpectedRetainedEdgeSquare_le_endpoint_decomposition
 -- name    : TwoDegenerateGraphs.hammingExpectedRetainedEdgeSquare_le_endpoint_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/99568e18-8fa5-419f-b1ba-f368ab9a54d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_stage_palette_numerator_bound
 -- name    : ErdosProblems.MulticolourTriangleRamsey.stage_palette_numerator_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/d1c30b3d-36aa-41cd-8dde-d547d3d2f80b

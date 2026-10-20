@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceGaussianPlusIntegrand_integral_re_eq_norm
 -- name    : CohnElkies.saddleSourceGaussianPlusIntegrand_integral_re_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/fc4d50c4-25a4-4d6a-8b2e-fdecd119ae13

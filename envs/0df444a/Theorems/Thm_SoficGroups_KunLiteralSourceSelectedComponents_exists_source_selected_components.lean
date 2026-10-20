@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunLiteralSourceSelectedComponents_exists_source_selected_components
 -- name    : SoficGroups.KunLiteralSourceSelectedComponents.exists_source_selected_components
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/cdbb6b87-8b0b-44cb-b631-ff570d76ba85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptHammingRadius_le_dimension
 -- name    : TwoDegenerateGraphs.manuscriptHammingRadius_le_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/0715324e-8f86-4684-8899-d0f3565a31f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCommonComponentComparisonBad_matchedCore_missing_card_le_overlap_and_loss
 -- name    : SoficGroups.SourceCommonComponentComparisonBad.matchedCore_missing_card_le_overlap_and_loss
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/f9b9e07d-1c6d-4049-9124-03a9d6503e66

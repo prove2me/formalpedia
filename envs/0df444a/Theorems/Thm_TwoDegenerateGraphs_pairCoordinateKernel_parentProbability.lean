@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairCoordinateKernel_parentProbability
 -- name    : TwoDegenerateGraphs.pairCoordinateKernel_parentProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/5abae5df-4249-40ef-aacb-c62be23b5c05

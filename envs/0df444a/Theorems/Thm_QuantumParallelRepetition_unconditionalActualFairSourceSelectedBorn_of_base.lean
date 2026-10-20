@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceSelectedBorn_of_base
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceSelectedBorn_of_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/9f264eaa-1a8f-4dd1-9c56-4ebdc7337723

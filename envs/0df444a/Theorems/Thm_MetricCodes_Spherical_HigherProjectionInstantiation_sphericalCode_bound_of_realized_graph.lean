@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherProjectionInstantiation_sphericalCode_bound_of_realized_graph
 -- name    : MetricCodes.Spherical.HigherProjectionInstantiation.sphericalCode_bound_of_realized_graph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/a6513ed5-2113-45d9-a117-39783a20999d

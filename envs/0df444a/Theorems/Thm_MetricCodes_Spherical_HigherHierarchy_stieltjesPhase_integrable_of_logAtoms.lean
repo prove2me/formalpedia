@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhase_integrable_of_logAtoms
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhase_integrable_of_logAtoms
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/c75475d3-52d7-4773-9615-eb5bd449a715

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_assembledChannel_isometry
 -- name    : MetricCodes.HigherProjectionGraph.Data.assembledChannel_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/809ab691-2307-4560-a084-b6e13a84fc9f

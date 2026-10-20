@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFirstStageReferenceExpansion_boundary_le_boundary_add_componentGeneratorDisagreement
 -- name    : SoficGroups.KunActualFirstStageReferenceExpansion.boundary_le_boundary_add_componentGeneratorDisagreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/f6beb533-56e4-446a-9b42-9b0a1e815552

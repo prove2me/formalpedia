@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Extensions_homogeneous_dimension_direct
 -- name    : OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:37.194108+00:00
 -- url     : https://prove2.me/theorems/31a2a83c-c6c5-4812-ac28-a8e0b6c21adc

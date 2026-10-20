@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_entropyTangentZeroCoefficient_eq
 -- name    : TwoDegenerateGraphs.entropyTangentZeroCoefficient_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/cf095de1-76b0-4f36-b5c9-5b2e8cc3d1d0

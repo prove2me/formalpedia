@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_sourceGeneratedGroup_le_nine_of_compressions
 -- name    : SoficGroups.SourceGeneration.sourceGeneratedGroup_le_nine_of_compressions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/c3442f3d-3c9a-4cc8-a85d-bc4b7545b2db

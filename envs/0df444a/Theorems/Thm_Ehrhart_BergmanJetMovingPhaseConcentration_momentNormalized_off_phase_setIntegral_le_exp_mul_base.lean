@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingPhaseConcentration_momentNormalized_off_phase_setIntegral_le_exp_mul_base
 -- name    : Ehrhart.BergmanJetMovingPhaseConcentration.momentNormalized_off_phase_setIntegral_le_exp_mul_base
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/cddc7b68-9a3e-4a3a-b65c-4dbf3787ffae

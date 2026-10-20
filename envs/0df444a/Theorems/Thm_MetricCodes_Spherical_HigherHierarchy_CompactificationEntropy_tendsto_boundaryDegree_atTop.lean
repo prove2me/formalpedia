@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_tendsto_boundaryDegree_atTop
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.tendsto_boundaryDegree_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/8ec7eda0-bb99-4c89-8ba7-c4ec369f8b5f

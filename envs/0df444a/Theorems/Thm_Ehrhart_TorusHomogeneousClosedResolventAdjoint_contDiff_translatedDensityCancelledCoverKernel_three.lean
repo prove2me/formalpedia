@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousClosedResolventAdjoint_contDiff_translatedDensityCancelledCoverKernel_three
 -- name    : Ehrhart.TorusHomogeneousClosedResolventAdjoint.contDiff_translatedDensityCancelledCoverKernel_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/ea05b6b7-e001-489a-bd25-dd2f75386bb5

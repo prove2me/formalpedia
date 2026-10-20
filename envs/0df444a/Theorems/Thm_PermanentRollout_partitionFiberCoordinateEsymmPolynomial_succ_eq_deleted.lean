@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionFiberCoordinateEsymmPolynomial_succ_eq_deleted
 -- name    : PermanentRollout.partitionFiberCoordinateEsymmPolynomial_succ_eq_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/b35c59a9-d8f9-488b-abba-113e3bea6e01

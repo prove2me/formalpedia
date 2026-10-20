@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_partitionComponentSize_transport_lower_of_overlap
 -- name    : SoficGroups.partitionComponentSize_transport_lower_of_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/56185ee5-b967-4ddf-afe7-2cf3a1f4d9e4

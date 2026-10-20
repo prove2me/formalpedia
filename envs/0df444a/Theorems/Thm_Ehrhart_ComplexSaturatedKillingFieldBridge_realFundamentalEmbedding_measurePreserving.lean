@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ComplexSaturatedKillingFieldBridge_realFundamentalEmbedding_measurePreserving
 -- name    : Ehrhart.ComplexSaturatedKillingFieldBridge.realFundamentalEmbedding_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/64b2c3f9-30d3-4bd5-8586-7a2133ba85ab

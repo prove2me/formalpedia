@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_eventually_momentJetGeodesic_local_bound
 -- name    : Ehrhart.BergmanJetLocalGrowth.eventually_momentJetGeodesic_local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/e101d43c-74c9-4090-8e9b-f276222e78e9

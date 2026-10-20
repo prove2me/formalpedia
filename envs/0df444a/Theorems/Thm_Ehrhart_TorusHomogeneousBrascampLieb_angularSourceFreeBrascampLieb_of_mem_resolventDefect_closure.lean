@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_angularSourceFreeBrascampLieb_of_mem_resolventDefect_closure
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.angularSourceFreeBrascampLieb_of_mem_resolventDefect_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/ba4c442d-ae1f-4188-9f67-07c89d1f9a1b

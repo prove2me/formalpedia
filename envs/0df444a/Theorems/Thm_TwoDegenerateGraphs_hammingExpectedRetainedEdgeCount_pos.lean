@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingExpectedRetainedEdgeCount_pos
 -- name    : TwoDegenerateGraphs.hammingExpectedRetainedEdgeCount_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/5734ee79-7856-46e4-be86-3ddbe4e3f45e

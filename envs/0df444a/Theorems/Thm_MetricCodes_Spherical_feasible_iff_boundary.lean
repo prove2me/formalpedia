@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_feasible_iff_boundary
 -- name    : MetricCodes.Spherical.feasible_iff_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/564b2da1-0878-40e6-9e99-e11a8dffe921

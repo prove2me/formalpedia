@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_repeated_allWinEvent_eq
 -- name    : QuantumParallelRepetition.repeated_allWinEvent_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/347a3624-3a8d-4bbb-9290-eddee0d365e4

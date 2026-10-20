@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exp_integral_upperGammaCenteredLaplaceRate
 -- name    : CohnElkies.exp_integral_upperGammaCenteredLaplaceRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/4b59630b-7534-434c-9f5a-333d7ed1aa79

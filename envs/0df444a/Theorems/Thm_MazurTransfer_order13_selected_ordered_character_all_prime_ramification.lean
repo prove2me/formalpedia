@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurTransfer_order13_selected_ordered_character_all_prime_ramification
 -- name    : MazurTransfer.order13_selected_ordered_character_all_prime_ramification
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-19T12:27:22.683871+00:00
 -- url     : https://prove2.me/theorems/c546dcb3-c2fd-4b6a-9f77-4dbc4c2aad2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_mul_multiplicationCount
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.mul_multiplicationCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/e2df8946-4373-40ce-b8ae-76b0d23444c1

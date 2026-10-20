@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetFiltration_sum_range_jetCount
 -- name    : Ehrhart.BergmanJetFiltration.sum_range_jetCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/2a91d6df-d424-4bbc-b16b-83d6eb8b8860

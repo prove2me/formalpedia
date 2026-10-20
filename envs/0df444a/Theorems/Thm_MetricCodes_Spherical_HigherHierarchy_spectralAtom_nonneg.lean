@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_spectralAtom_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchy.spectralAtom_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/649f687d-9251-4f4a-91da-994ad80afd2b

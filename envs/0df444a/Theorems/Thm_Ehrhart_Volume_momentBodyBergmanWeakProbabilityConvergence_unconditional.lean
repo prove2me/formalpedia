@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Volume_momentBodyBergmanWeakProbabilityConvergence_unconditional
 -- name    : Ehrhart.Volume.momentBodyBergmanWeakProbabilityConvergence_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/4ce12671-3504-4b20-918e-868c7939e770

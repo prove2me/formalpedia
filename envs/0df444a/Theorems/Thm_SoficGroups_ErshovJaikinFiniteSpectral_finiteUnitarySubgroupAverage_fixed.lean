@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_finiteUnitarySubgroupAverage_fixed
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.finiteUnitarySubgroupAverage_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/76745119-3c02-4ce3-b22a-d3626d62d1cb

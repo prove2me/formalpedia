@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_isMaximumMatching_rightBlock_of_minimum_crossing
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.isMaximumMatching_rightBlock_of_minimum_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:17:57.716496+00:00
 -- url     : https://prove2.me/theorems/da9cdc7f-9e69-45d0-b3e5-8668ee2a846d

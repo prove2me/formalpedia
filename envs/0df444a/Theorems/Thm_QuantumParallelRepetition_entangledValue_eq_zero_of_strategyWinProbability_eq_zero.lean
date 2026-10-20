@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_entangledValue_eq_zero_of_strategyWinProbability_eq_zero
 -- name    : QuantumParallelRepetition.entangledValue_eq_zero_of_strategyWinProbability_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/7cb78bc8-7bdb-4b18-9b50-3eb5d4c905ec

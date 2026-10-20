@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourcePinskerRate_le_half_of_martingaleRate
 -- name    : QuantumParallelRepetition.exactSourcePinskerRate_le_half_of_martingaleRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/9a6fd5e8-4b21-40f4-8991-b67cf81580c6

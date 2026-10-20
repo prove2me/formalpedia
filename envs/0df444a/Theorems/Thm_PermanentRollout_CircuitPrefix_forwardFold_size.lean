@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_CircuitPrefix_forwardFold_size
 -- name    : PermanentRollout.CircuitPrefix.forwardFold_size
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/9134b3c6-00d9-448f-932a-c23e94a8c9c1

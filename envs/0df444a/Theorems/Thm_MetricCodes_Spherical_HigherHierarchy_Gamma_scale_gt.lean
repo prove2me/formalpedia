@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Gamma_scale_gt
 -- name    : MetricCodes.Spherical.HigherHierarchy.Gamma_scale_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/d1f960bc-4041-4190-b400-7152054107b9

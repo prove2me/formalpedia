@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_three_pair_sum_norm_sq
 -- name    : SoficGroups.three_pair_sum_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/39868301-0d9f-46ba-aa40-add242af2a6f

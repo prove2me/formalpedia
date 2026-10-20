@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripPoissonMajorant_core_tail_split
 -- name    : CohnElkies.lowerStripPoissonMajorant_core_tail_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/05ef3597-d6ad-482d-8b86-cea1010d5825

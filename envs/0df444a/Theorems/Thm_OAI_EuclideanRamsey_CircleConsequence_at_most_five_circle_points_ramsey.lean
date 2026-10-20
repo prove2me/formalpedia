@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EuclideanRamsey_CircleConsequence_at_most_five_circle_points_ramsey
 -- name    : OAI.EuclideanRamsey.CircleConsequence.at_most_five_circle_points_ramsey
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:38.197246+00:00
 -- url     : https://prove2.me/theorems/9f5910df-9d61-4187-bc12-fdf0b2a0d8a3

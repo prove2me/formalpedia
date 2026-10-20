@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_main_binary_theorem
 -- name    : MetricCodes.Johnson.main_binary_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/8e65b7d3-1073-4800-a6e3-831a11b7d0bf

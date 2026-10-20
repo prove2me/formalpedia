@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedComponentMidrankVariation_sum_partition_parts_eq
 -- name    : SoficGroups.KunCompletedComponentMidrankVariation.sum_partition_parts_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/9b586c1f-0af2-4890-b5d0-b24f83c2c35f

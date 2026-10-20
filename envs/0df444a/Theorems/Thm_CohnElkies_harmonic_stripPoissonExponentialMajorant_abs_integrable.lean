@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_harmonic_stripPoissonExponentialMajorant_abs_integrable
 -- name    : CohnElkies.harmonic_stripPoissonExponentialMajorant_abs_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/4ecb8199-ae64-4e5b-a36e-83dfd06a2cd2

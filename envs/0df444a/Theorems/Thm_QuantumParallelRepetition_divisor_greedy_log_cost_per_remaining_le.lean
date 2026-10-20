@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_divisor_greedy_log_cost_per_remaining_le
 -- name    : QuantumParallelRepetition.divisor_greedy_log_cost_per_remaining_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/d5fa3431-6645-49ae-8917-23210fef534a

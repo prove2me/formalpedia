@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_radialCoordinateKernel_integral_eq_polar
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.radialCoordinateKernel_integral_eq_polar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/46226d14-5701-4e76-b2e3-ecfd3168f861

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceSeparatedBlockMinorSum_isHomogeneous
 -- name    : PermanentRollout.sourceSeparatedBlockMinorSum_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/6cc2fda5-1020-415d-8940-53a1741eac31

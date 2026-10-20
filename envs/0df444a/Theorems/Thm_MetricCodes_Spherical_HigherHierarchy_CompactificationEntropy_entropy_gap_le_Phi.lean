@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_entropy_gap_le_Phi
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.entropy_gap_le_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/c23db583-b13e-4781-a4d9-f3eb7dd74f50

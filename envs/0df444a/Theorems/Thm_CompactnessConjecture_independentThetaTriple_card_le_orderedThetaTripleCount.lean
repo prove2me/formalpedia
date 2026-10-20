@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_independentThetaTriple_card_le_orderedThetaTripleCount
 -- name    : CompactnessConjecture.independentThetaTriple_card_le_orderedThetaTripleCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/716bf7c8-d5aa-4c9a-864d-bf84ab7eab5b

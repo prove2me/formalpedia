@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairCoordinateConditionalEntropy_empirical_bound
 -- name    : TwoDegenerateGraphs.pairCoordinateConditionalEntropy_empirical_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/9202068a-750e-4894-80b5-6594dd4fcfcc

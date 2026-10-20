@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_exists_hyperfilter_gram_limit_of_pointwise_bound
 -- name    : SoficGroups.KunRootedIndicatorCrossing.exists_hyperfilter_gram_limit_of_pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/d0b25197-2d9a-425d-b8a7-43639076007a

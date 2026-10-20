@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingFibreAmplitude_pos_of_pos
 -- name    : MetricCodes.Boolean.hammingFibreAmplitude_pos_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/fd2920e2-9448-4e3c-9e39-c31a7a045735

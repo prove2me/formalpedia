@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_encodedJQuotient_no_isolated
 -- name    : CompactnessConjecture.encodedJQuotient_no_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/1c06ccd5-390b-44b8-b240-81b44ece5173

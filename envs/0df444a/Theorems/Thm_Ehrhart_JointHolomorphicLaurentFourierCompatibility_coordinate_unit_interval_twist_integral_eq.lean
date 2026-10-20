@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_coordinate_unit_interval_twist_integral_eq
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.coordinate_unit_interval_twist_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/7d842bf7-2caa-4742-aada-1640a103c094

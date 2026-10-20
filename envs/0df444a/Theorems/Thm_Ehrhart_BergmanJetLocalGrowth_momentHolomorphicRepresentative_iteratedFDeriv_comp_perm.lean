@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_momentHolomorphicRepresentative_iteratedFDeriv_comp_perm
 -- name    : Ehrhart.BergmanJetLocalGrowth.momentHolomorphicRepresentative_iteratedFDeriv_comp_perm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/231812f6-0a51-4df2-94ba-f5a78c92a649

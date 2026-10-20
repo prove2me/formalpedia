@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_firstMultiplicity_permutationGraph
 -- name    : SoficGroups.KunThomFiberCoarea.firstMultiplicity_permutationGraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/639ebd52-a461-46f8-bb06-6a5ee634d3d0

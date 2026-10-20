@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousWeakResolventRootCoercivity_angularClosedMollifiedRadialAdjointL2_tendsto
 -- name    : Ehrhart.TorusHomogeneousWeakResolventRootCoercivity.angularClosedMollifiedRadialAdjointL2_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/80456519-235f-427e-b4e7-7b6e007eff8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTInvalidFullBranchExclusion_fullBranchSignature_ne_appendZeroWeight_of_not_interlaces
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidFullBranchExclusion.fullBranchSignature_ne_appendZeroWeight_of_not_interlaces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/bbb3ad5f-b802-448b-aefb-37b5cb77fb4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeJointNeighborhoodUpper_eventual_open_momentTorusJetSlope_lt_clampedTailSecant
 -- name    : Ehrhart.BergmanJetTorusSlopeJointNeighborhoodUpper.eventual_open_momentTorusJetSlope_lt_clampedTailSecant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/ce7aacab-4d2b-4535-9001-4973a31f30a9

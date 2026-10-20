@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_PaletteBlockCertificate_colourGraph_colorable
 -- name    : ErdosProblems.MulticolourTriangleRamsey.PaletteBlockCertificate.colourGraph_colorable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/b25afdea-6a7d-4844-92ef-c6c069ab011b

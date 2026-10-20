@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_boundaryRateSet_bddBelow
 -- name    : MetricCodes.Spherical.boundaryRateSet_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/34bfb110-7fbe-4359-a422-d5335034d6a3

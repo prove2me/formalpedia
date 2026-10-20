@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedAliceQuestion_eq
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedAliceQuestion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/12b518a2-ba98-4691-86c7-762d492dbe3a

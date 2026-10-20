@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_differentiable_holomorphicFinsetReset
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.differentiable_holomorphicFinsetReset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/afb89889-7aaa-4e16-87c1-46501fc25b21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceRetainedActualMatching_retained_source_transport_matching_of_ambient_midrank_variance
 -- name    : SoficGroups.SourceRetainedActualMatching.retained_source_transport_matching_of_ambient_midrank_variance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/436280a0-7a2d-40bd-99e6-e7166aa6c6d2

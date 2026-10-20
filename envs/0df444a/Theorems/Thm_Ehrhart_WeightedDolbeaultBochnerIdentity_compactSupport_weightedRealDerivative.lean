@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_compactSupport_weightedRealDerivative
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.compactSupport_weightedRealDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/c738a341-4511-4b34-a173-5d14f298cbec

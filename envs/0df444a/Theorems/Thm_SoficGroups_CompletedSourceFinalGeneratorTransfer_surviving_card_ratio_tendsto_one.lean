@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedSourceFinalGeneratorTransfer_surviving_card_ratio_tendsto_one
 -- name    : SoficGroups.CompletedSourceFinalGeneratorTransfer.surviving_card_ratio_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/6a52a2ce-ba93-4925-993b-8c0ab32460ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharingPlatform_WageSchemes_lemma_1
 -- name    : SharingPlatform.WageSchemes.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:58.940409+00:00
 -- url     : https://prove2.me/theorems/1da03184-1159-4b1b-b430-bbab0289ce48

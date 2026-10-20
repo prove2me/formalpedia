@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_permutationVariation_zero_indicator_le
 -- name    : SoficGroups.KunThomFiberCoarea.permutationVariation_zero_indicator_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/e0461f76-13d7-47f1-91b4-4471545c648b

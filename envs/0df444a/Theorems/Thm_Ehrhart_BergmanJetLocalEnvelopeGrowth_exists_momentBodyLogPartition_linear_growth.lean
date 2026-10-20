@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalEnvelopeGrowth_exists_momentBodyLogPartition_linear_growth
 -- name    : Ehrhart.BergmanJetLocalEnvelopeGrowth.exists_momentBodyLogPartition_linear_growth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/02fd3bca-1387-43bc-99fb-149020cea016

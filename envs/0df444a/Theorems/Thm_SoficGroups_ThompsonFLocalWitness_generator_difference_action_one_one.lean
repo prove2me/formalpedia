@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFLocalWitness_generator_difference_action_one_one
 -- name    : SoficGroups.ThompsonFLocalWitness.generator_difference_action_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/d41a63e9-2131-43bd-ad42-f49a9ce8d77a

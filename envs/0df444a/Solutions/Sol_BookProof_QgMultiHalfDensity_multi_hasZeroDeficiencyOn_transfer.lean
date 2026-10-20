@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgMultiHalfDensity.multi_hasZeroDeficiencyOn_transfer
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T14:56:35.364916+00:00
 -- url     : https://prove2.me/submissions/87145838-0344-404e-a3ff-459f9bf3bfcf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgMultiHalfDensity.lean — solution of BookProof.QgMultiHalfDensity.multi_hasZeroDeficiencyOn_transfer
 import Mathlib

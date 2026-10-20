@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentCompletion_card_lt_five_mul_permutationDistance_of_subtypeBad
 -- name    : SoficGroups.MatchedComponentCompletion.card_lt_five_mul_permutationDistance_of_subtypeBad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/3fba4cf5-b779-4f99-84bf-bbbd66a7f668

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompressionCriterion_mul_mem_productTrackedTable
 -- name    : SoficGroups.CompressionCriterion.mul_mem_productTrackedTable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/96787acd-4b2f-4378-937b-e0cfc030741f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionPoint_base_center_related
 -- name    : CompactnessConjecture.subdivisionPoint_base_center_related
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/8655331d-0484-44f9-b585-230b9bd6930a

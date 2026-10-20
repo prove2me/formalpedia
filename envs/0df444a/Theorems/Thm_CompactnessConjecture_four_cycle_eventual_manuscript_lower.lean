@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_four_cycle_eventual_manuscript_lower
 -- name    : CompactnessConjecture.four_cycle_eventual_manuscript_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/69f01298-0172-4c2b-a7ac-59670e3b20e1

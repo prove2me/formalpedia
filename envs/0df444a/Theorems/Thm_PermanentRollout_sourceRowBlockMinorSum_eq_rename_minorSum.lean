@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceRowBlockMinorSum_eq_rename_minorSum
 -- name    : PermanentRollout.sourceRowBlockMinorSum_eq_rename_minorSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/de6fba73-cd23-4e42-9c4c-bdcb6bdd6e46

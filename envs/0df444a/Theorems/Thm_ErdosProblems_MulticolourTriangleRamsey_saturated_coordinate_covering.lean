@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_saturated_coordinate_covering
 -- name    : ErdosProblems.MulticolourTriangleRamsey.saturated_coordinate_covering
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/9c8e5714-4f3c-41d4-8759-633a8ac4b6bf

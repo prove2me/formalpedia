@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyVariationalRate_le_of_feasible
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyVariationalRate_le_of_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/13d50b61-4b21-431c-844d-fcd509470099

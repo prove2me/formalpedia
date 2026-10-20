@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionProbability_mul_wordCount_inv_tendsto_zero
 -- name    : TwoDegenerateGraphs.hammingRetentionProbability_mul_wordCount_inv_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/e2854d83-fcb2-4b8a-8585-a41b20a18b2d

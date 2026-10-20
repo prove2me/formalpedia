@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_phase_relativeEntropy_eq_base_add_phase
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.phase_relativeEntropy_eq_base_add_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/e8721a4b-8c29-411b-8106-8395335bd54c

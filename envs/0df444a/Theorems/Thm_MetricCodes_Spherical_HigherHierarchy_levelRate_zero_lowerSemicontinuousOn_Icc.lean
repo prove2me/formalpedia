@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_zero_lowerSemicontinuousOn_Icc
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_zero_lowerSemicontinuousOn_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/31cd15cf-b2b3-4ca0-98b3-7945ba8998f8

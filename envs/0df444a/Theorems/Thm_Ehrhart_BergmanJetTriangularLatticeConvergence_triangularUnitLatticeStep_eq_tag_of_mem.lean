@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTriangularLatticeConvergence_triangularUnitLatticeStep_eq_tag_of_mem
 -- name    : Ehrhart.BergmanJetTriangularLatticeConvergence.triangularUnitLatticeStep_eq_tag_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/753b917a-1692-4430-a7b4-3ead2d319475

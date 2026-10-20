@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_unitaryFinsetMarkov_orthogonal_invariants
 -- name    : SoficGroups.KunThomInvariantOrthogonal.unitaryFinsetMarkov_orthogonal_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/7de6f55d-e255-43f4-8d59-f6fe78ff606f

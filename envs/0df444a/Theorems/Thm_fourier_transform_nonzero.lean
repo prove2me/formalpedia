@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_fourier_transform_nonzero
 -- name    : fourier_transform_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/e68aafcc-29a4-4764-8c52-2fda8c9b2722

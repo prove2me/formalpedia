@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MonomialDivergence_exists_separating_direction
 -- name    : Ehrhart.MonomialDivergence.exists_separating_direction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/23473073-1e96-401e-a892-f1afe2ccda37

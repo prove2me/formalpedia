@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_positiveLaplace_esscher_discounted_tail_kernel
 -- name    : AvramDividend.Classical.positiveLaplace_esscher_discounted_tail_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:09:52.069977+00:00
 -- url     : https://prove2.me/theorems/bc7b19b0-35a2-4c3f-addd-ff8331655e00

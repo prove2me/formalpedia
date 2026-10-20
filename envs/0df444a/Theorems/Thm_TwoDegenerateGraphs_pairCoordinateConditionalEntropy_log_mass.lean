@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairCoordinateConditionalEntropy_log_mass
 -- name    : TwoDegenerateGraphs.pairCoordinateConditionalEntropy_log_mass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/11c98395-5459-4db3-bbf7-3ccca7bb194c

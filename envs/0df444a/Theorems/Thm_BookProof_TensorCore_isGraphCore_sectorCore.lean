@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorCore_isGraphCore_sectorCore
 -- name    : BookProof.TensorCore.isGraphCore_sectorCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:04:57.559984+00:00
 -- url     : https://prove2.me/theorems/735b9406-9b07-4a0e-9350-5a5b20eb2ddd

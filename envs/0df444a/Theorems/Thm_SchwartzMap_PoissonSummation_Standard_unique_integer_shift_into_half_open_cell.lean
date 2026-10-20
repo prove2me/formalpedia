@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_unique_integer_shift_into_half_open_cell
 -- name    : SchwartzMap.PoissonSummation.Standard.unique_integer_shift_into_half_open_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/2a2e3d38-2c85-457a-8b17-1414c8a0de7d

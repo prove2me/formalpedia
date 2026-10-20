@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_ninePrefixElementaryGroup_le_sourceGenerated
 -- name    : SoficGroups.SourceGeneration.ninePrefixElementaryGroup_le_sourceGenerated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/97b7d59b-d5ff-49a3-bfae-6a9ec557fec6

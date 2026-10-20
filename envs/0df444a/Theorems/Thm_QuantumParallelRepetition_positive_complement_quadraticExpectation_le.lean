@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_positive_complement_quadraticExpectation_le
 -- name    : QuantumParallelRepetition.positive_complement_quadraticExpectation_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/a03ebe3b-719c-485a-b6cd-c320b9341a0f

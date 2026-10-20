@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsCanonical_friedrichs_canonical
 -- name    : BookProof.FriedrichsCanonical.friedrichs_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:37:55.948843+00:00
 -- url     : https://prove2.me/theorems/9991b79c-d1fa-4d07-a043-0ec99cbf9e34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineCircuitSquareFamily_ofFn
 -- name    : PermanentRollout.freeAffineCircuitSquareFamily_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/844ecfe1-3c7c-4804-aa61-048189e0ed31

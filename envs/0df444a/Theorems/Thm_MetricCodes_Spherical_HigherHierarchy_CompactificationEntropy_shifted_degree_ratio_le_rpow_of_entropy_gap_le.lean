@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_CompactificationEntropy_shifted_degree_ratio_le_rpow_of_entropy_gap_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.CompactificationEntropy.shifted_degree_ratio_le_rpow_of_entropy_gap_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/d84d3bd2-c42d-4d7c-a497-6e2e984ffc42

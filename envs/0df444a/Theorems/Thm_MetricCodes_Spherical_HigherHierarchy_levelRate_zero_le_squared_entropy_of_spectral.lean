@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_zero_le_squared_entropy_of_spectral
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_zero_le_squared_entropy_of_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/341bf5ba-a170-4eb3-96c7-ee3cc14ba2aa

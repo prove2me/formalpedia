@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matching_card_residual_equiv
 -- name    : PermanentFormulaLowerBound.matching_card_residual_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/3e091fc4-12ea-449e-990b-5589b3f12846

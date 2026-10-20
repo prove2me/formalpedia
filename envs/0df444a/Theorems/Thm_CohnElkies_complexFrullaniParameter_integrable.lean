@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_complexFrullaniParameter_integrable
 -- name    : CohnElkies.complexFrullaniParameter_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/f4b5c9cd-b32e-43a1-8319-d041a819f1d3

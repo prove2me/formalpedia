@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceNormalizedEnvelope_norm
 -- name    : CohnElkies.saddleSourceNormalizedEnvelope_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/efb9bcc5-5f7d-4c30-9bd0-e9cea47b8743

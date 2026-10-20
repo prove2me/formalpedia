@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTAxisTensorRotationIntertwining_canonicalGelfandTsetlinAxisTensor_rotation_intertwine
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining.canonicalGelfandTsetlinAxisTensor_rotation_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/72e446ab-4f90-493e-a594-dee07f2599e0

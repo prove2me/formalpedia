@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_real_deviation_le
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_real_deviation_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/824c4105-b5fa-4234-afe1-c3647a869bc7

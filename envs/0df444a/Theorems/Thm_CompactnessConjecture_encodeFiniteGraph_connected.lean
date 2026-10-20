@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_encodeFiniteGraph_connected
 -- name    : CompactnessConjecture.encodeFiniteGraph_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/3d238bd7-5017-4535-ad00-1ac8d7dcad2c

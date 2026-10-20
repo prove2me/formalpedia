@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_natCard_support_le_card
 -- name    : CompactnessConjecture.natCard_support_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/52e0bba9-4bce-4039-98a8-42c0da8ebc72

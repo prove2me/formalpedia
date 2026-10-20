@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFinalRestrictedVariation_sum_sum_sq_displacement_eq_twice_card_mul_realMarkov_residual
 -- name    : SoficGroups.KunActualFinalRestrictedVariation.sum_sum_sq_displacement_eq_twice_card_mul_realMarkov_residual
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/e5ad5435-e5ba-430d-9579-c6efc7001fc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceVerifier_complement_isPositive
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceVerifier_complement_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/871582ba-98bb-405a-b196-02a31c700367

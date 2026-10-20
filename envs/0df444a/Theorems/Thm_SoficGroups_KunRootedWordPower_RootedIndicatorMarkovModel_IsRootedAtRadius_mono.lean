@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_RootedIndicatorMarkovModel_IsRootedAtRadius_mono
 -- name    : SoficGroups.KunRootedWordPower.RootedIndicatorMarkovModel.IsRootedAtRadius.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/0c817877-bd29-43e9-b863-d8b7b9c83ecf

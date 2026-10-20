@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Scalar_RadiusData_fourth_cap
 -- name    : OAI.GaussianPropeller.Scalar.RadiusData.fourth_cap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:23:28.978853+00:00
 -- url     : https://prove2.me/theorems/0de0f6e8-fecd-4b87-a76b-59b155b81568

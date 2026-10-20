@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_toPaperFamilyInput_gamma
 -- name    : ConnesRigidity.PaperAnalyticInput.toPaperFamilyInput_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/b0a8798a-0d8a-4cce-befa-74d0201b1baa

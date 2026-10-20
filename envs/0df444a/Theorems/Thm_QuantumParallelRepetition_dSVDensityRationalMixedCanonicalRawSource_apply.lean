@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalMixedCanonicalRawSource_apply
 -- name    : QuantumParallelRepetition.dSVDensityRationalMixedCanonicalRawSource_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/90289596-c95b-4e16-94b9-a2976ef844bf

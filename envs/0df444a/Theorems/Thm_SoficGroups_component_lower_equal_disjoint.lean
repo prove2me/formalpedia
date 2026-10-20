@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_component_lower_equal_disjoint
 -- name    : SoficGroups.component_lower_equal_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/d0f17f25-3596-4f87-b64f-f58feca4520e

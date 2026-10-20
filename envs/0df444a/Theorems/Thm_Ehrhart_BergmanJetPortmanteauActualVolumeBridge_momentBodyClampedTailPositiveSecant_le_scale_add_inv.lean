@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_momentBodyClampedTailPositiveSecant_le_scale_add_inv
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.momentBodyClampedTailPositiveSecant_le_scale_add_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/ef702577-d81d-485b-b1d1-c33af1bc01db

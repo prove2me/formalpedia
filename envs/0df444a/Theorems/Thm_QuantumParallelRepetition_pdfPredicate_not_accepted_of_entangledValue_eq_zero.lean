@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfPredicate_not_accepted_of_entangledValue_eq_zero
 -- name    : QuantumParallelRepetition.pdfPredicate_not_accepted_of_entangledValue_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/faf2a381-0cf7-41da-8ae5-a2506155a746

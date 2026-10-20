@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Bipartite_exists_maximum_matching_with_maximum_blocks
 -- name    : OAI.SeymourSecondNeighborhood.Bipartite.exists_maximum_matching_with_maximum_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:19:25.514987+00:00
 -- url     : https://prove2.me/theorems/055ebbe5-6316-46ef-9302-16411e375b58

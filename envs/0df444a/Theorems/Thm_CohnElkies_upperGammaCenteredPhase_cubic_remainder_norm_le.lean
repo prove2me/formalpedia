@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaCenteredPhase_cubic_remainder_norm_le
 -- name    : CohnElkies.upperGammaCenteredPhase_cubic_remainder_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/220ca3ff-d91f-4542-b4fe-e2cadf58382c

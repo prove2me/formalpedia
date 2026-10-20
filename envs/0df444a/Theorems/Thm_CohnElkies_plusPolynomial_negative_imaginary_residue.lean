@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusPolynomial_negative_imaginary_residue
 -- name    : CohnElkies.plusPolynomial_negative_imaginary_residue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/0470e55b-5845-4a4d-b5eb-60cb17ea61b8

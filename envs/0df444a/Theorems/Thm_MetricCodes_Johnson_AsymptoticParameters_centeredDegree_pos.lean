@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_centeredDegree_pos
 -- name    : MetricCodes.Johnson.AsymptoticParameters.centeredDegree_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/5404b112-7c88-477e-8c16-08b0c07afbed

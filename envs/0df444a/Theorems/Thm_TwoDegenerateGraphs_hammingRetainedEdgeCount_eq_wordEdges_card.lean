@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedEdgeCount_eq_wordEdges_card
 -- name    : TwoDegenerateGraphs.hammingRetainedEdgeCount_eq_wordEdges_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/dc78c837-0f02-4aab-bfbb-4aea5a4ff1ba

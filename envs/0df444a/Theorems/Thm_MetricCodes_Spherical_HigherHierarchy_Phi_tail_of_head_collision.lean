@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Phi_tail_of_head_collision
 -- name    : MetricCodes.Spherical.HigherHierarchy.Phi_tail_of_head_collision
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/cb13ae08-1acd-48a9-b54a-0132ce018ac9

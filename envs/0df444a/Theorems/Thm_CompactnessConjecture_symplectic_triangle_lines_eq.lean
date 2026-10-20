@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplectic_triangle_lines_eq
 -- name    : CompactnessConjecture.symplectic_triangle_lines_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/73e3f012-b97b-4ea1-99b0-45a744487c64

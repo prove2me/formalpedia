@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_gram_posSemidef_infinite
 -- name    : SoficGroups.KunRootedIndicatorCrossing.gram_posSemidef_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/39abe1cf-9dc8-4c3c-b70e-0411d3747675

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_criticalGradientIdeal_ne_top
 -- name    : PermanentRollout.criticalGradientIdeal_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/fbd02cdc-cf16-4185-b842-22df68bb26c1

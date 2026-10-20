@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrandSpillover_Commitment_appendix_b_quantities
 -- name    : BrandSpillover.Commitment.appendix_b_quantities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:54.787993+00:00
 -- url     : https://prove2.me/theorems/6e13bbc0-1fcd-41b1-816a-6551ff511aeb

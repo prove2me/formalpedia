@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SharingPlatform_WageSchemes_price_dcr_vs_fw
 -- name    : SharingPlatform.WageSchemes.price_dcr_vs_fw
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:53:57.062804+00:00
 -- url     : https://prove2.me/theorems/cd005568-78ce-488c-bf9c-4f781e2b6701

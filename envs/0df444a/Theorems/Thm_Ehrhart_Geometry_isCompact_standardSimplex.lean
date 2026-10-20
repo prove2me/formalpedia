@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Geometry_isCompact_standardSimplex
 -- name    : Ehrhart.Geometry.isCompact_standardSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/29586db5-8024-4876-9693-a0c7b020d51f

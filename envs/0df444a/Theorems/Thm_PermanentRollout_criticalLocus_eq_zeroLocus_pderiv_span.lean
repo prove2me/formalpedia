@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_criticalLocus_eq_zeroLocus_pderiv_span
 -- name    : PermanentRollout.criticalLocus_eq_zeroLocus_pderiv_span
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/58617c6d-26b0-4cef-b015-0052c7f47a76

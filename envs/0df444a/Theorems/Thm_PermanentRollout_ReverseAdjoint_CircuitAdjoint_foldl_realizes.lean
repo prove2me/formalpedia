@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_foldl_realizes
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.foldl_realizes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/e427b604-31d7-4e31-a3bb-171f050c485b

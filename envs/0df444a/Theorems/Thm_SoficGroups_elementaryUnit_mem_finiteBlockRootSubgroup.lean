@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_elementaryUnit_mem_finiteBlockRootSubgroup
 -- name    : SoficGroups.elementaryUnit_mem_finiteBlockRootSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/10e828ca-fcee-44f4-a10e-b5b886590a25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleNegativeFrequencyMass_nonneg
 -- name    : CohnElkies.saddleNegativeFrequencyMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/ff4d4349-afa5-4d77-a8d7-147365d07cdd

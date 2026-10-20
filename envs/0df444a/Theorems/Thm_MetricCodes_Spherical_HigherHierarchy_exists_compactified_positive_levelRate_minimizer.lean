@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_compactified_positive_levelRate_minimizer
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_compactified_positive_levelRate_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/6a6809a2-6964-4d3f-b726-1123435c79c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_saddleSmallRadiusStar_log_coverage
 -- name    : CohnElkies.eventually_saddleSmallRadiusStar_log_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/b5b5459d-9a86-430e-9099-e3d31d311d20

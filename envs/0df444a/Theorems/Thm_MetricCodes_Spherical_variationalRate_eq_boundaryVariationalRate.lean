@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_variationalRate_eq_boundaryVariationalRate
 -- name    : MetricCodes.Spherical.variationalRate_eq_boundaryVariationalRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/c4958511-542a-4ad8-ac10-3c31d58c2187

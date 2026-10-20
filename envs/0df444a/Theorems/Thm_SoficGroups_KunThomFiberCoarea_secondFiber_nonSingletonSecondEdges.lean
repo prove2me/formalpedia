@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_secondFiber_nonSingletonSecondEdges
 -- name    : SoficGroups.KunThomFiberCoarea.secondFiber_nonSingletonSecondEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/57c5ec7d-cf9f-45c9-ba52-552448da574b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfEntropyRoundingLoss_lt_gapQuarter
 -- name    : QuantumParallelRepetition.pdfEntropyRoundingLoss_lt_gapQuarter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/03c6faed-7274-4ea5-99d5-9ef17525b1d6

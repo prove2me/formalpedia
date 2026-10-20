@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfConstantStrategy_outcomeProbability
 -- name    : QuantumParallelRepetition.pdfConstantStrategy_outcomeProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/cb2d1dcd-3346-4387-8b7c-3962d4e126cc

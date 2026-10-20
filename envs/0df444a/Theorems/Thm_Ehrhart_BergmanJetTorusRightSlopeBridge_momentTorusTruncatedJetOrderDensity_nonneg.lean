@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentTorusTruncatedJetOrderDensity_nonneg
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentTorusTruncatedJetOrderDensity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/8eeff2b4-0731-4c02-b722-09d074bce5b2

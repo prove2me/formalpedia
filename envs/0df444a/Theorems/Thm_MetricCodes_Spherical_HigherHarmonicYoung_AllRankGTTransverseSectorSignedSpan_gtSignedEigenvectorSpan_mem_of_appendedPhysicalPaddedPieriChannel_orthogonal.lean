@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseSectorSignedSpan_gtSignedEigenvectorSpan_mem_of_appendedPhysicalPaddedPieriChannel_orthogonal
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseSectorSignedSpan.gtSignedEigenvectorSpan_mem_of_appendedPhysicalPaddedPieriChannel_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:12.645026+00:00
 -- url     : https://prove2.me/theorems/0ea3e48d-2bc9-4734-bb33-0e05dc38bb19

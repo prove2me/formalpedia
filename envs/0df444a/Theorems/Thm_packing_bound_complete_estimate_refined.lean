@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_packing_bound_complete_estimate_refined
 -- name    : packing_bound_complete_estimate_refined
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/be777e19-4590-4f73-99ca-a39cb8bd375e

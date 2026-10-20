@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_saddleSmallRadiusStar_coordinate_bound
 -- name    : CohnElkies.exists_saddleSmallRadiusStar_coordinate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/af101a10-11bb-481a-a296-9894ab151969

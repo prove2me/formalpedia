@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_worst_case_expurgation
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.worst_case_expurgation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:20:20.33375+00:00
 -- url     : https://prove2.me/theorems/2fbaa295-6c17-42a8-a59d-850de024886a

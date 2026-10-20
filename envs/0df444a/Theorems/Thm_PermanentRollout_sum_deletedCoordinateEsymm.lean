@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sum_deletedCoordinateEsymm
 -- name    : PermanentRollout.sum_deletedCoordinateEsymm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/4aea34c5-5dc9-4c54-bc42-a3f753d2ac05

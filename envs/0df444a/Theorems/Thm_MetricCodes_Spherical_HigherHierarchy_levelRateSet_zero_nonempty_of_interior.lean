@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRateSet_zero_nonempty_of_interior
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRateSet_zero_nonempty_of_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/719dce82-c935-4960-8a29-f46dfcc8234f

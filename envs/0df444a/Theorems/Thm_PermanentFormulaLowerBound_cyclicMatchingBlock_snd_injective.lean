@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_cyclicMatchingBlock_snd_injective
 -- name    : PermanentFormulaLowerBound.cyclicMatchingBlock_snd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/426e5539-9565-44e9-8648-4a319e9bd434

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_eq_zero_of_mem_zeroLocus_of_linearCoordinateKernel_of_radical
 -- name    : PermanentRollout.eq_zero_of_mem_zeroLocus_of_linearCoordinateKernel_of_radical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/ee1da417-7fbc-4a13-a8ec-3f4d9c6ea2ec

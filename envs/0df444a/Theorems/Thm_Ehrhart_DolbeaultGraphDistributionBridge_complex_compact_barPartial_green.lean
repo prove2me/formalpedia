@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultGraphDistributionBridge_complex_compact_barPartial_green
 -- name    : Ehrhart.DolbeaultGraphDistributionBridge.complex_compact_barPartial_green
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/bdecbfdc-98ed-49a4-b8e7-8c79208b5ba7

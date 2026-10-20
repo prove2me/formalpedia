@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_normalizedDerivative_eq_stabilizerPolynomial
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.normalizedDerivative_eq_stabilizerPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/73b06af3-2124-46b4-976d-3120175ddef1

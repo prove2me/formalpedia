@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_encodeFiniteGraph_isBipartite
 -- name    : CompactnessConjecture.encodeFiniteGraph_isBipartite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/8506beb1-4382-4f4a-9b64-aa35b1dbc124

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunDirectedIndicatorJensen_realPermutationMarkov_sub_sq_le_average_sq
 -- name    : SoficGroups.KunDirectedIndicatorJensen.realPermutationMarkov_sub_sq_le_average_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/771ce63a-151c-4056-ae53-3f318c24bde6

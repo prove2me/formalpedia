@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_sphericalCode_card_lt_levelZero
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_sphericalCode_card_lt_levelZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/07105c9f-9c73-4f9b-91f4-1656ef2200fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_OriginalThreeSATNPHardness_structuralWholeCNFWord_mem_paperOriginalThreeSAT_iff
 -- name    : GapCVP.OriginalThreeSATNPHardness.structuralWholeCNFWord_mem_paperOriginalThreeSAT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/8fd2f656-de75-41f4-9817-cc3484525cd4

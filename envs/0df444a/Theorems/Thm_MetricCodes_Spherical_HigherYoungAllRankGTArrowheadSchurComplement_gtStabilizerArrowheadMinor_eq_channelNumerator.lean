@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTArrowheadSchurComplement_gtStabilizerArrowheadMinor_eq_channelNumerator
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement.gtStabilizerArrowheadMinor_eq_channelNumerator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:07.830035+00:00
 -- url     : https://prove2.me/theorems/0eccd914-de41-475a-96ac-45e864b8616c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusNoncompactBochner_complexScalar_integral_mul_conj_re_eq_L2_norm_sq
 -- name    : Ehrhart.TorusNoncompactBochner.complexScalar_integral_mul_conj_re_eq_L2_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/1fe37316-f2e3-47cb-ab56-317a45a0dedf

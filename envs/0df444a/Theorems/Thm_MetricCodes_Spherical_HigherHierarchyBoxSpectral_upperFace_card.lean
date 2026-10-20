@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxSpectral_upperFace_card
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxSpectral.upperFace_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/94a346f9-d814-4ee7-a30d-d9cf0573f8db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_shifted_centered_interval_max
 -- name    : CohnElkies.stripPoissonKernel_shifted_centered_interval_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/d61f383d-ad41-4270-8748-47372138a76c

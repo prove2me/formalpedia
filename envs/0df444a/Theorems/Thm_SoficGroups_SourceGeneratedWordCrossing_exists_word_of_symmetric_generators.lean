@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneratedWordCrossing_exists_word_of_symmetric_generators
 -- name    : SoficGroups.SourceGeneratedWordCrossing.exists_word_of_symmetric_generators
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/ed2bbeb1-f693-4e23-8a6f-62d286275ba4

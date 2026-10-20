@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ScaledOpeningDerivative_finset_prod
 -- name    : MetricCodes.Spherical.HigherHierarchy.ScaledOpeningDerivative.finset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/1844b179-4dc9-4ff7-970c-f61075a0b867

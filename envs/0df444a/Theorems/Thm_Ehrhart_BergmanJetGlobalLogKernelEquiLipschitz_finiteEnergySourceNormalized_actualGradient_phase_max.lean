@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_finiteEnergySourceNormalized_actualGradient_phase_max
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.finiteEnergySourceNormalized_actualGradient_phase_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/022dd3e3-d461-4a07-86ff-27bbe5fb5904

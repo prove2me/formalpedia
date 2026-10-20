@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_binaryLeavittElementaryNine_hasPropertyT_unconditional
 -- name    : SoficGroups.binaryLeavittElementaryNine_hasPropertyT_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/82598516-fba7-4155-bb50-1c1f50eca1c7

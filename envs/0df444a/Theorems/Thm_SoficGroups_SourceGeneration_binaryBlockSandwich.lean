@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGeneration_binaryBlockSandwich
 -- name    : SoficGroups.SourceGeneration.binaryBlockSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.258421+00:00
 -- url     : https://prove2.me/theorems/06d954dd-42c5-455d-a276-4be38fb28691

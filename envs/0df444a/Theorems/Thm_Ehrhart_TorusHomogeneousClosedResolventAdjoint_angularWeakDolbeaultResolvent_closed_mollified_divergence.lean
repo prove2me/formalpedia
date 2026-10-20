@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousClosedResolventAdjoint_angularWeakDolbeaultResolvent_closed_mollified_divergence
 -- name    : Ehrhart.TorusHomogeneousClosedResolventAdjoint.angularWeakDolbeaultResolvent_closed_mollified_divergence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/23807817-10a8-47ff-90f6-cc902bc4581a

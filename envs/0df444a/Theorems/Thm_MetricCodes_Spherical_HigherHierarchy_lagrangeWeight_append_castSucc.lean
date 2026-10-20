@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_lagrangeWeight_append_castSucc
 -- name    : MetricCodes.Spherical.HigherHierarchy.lagrangeWeight_append_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/cf65916e-b4e8-4db4-9c95-b48112c61bfb

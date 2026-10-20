@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactified_finite_suffix_weak_interlacing
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactified_finite_suffix_weak_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/2c2b9bc3-7c23-46c1-b0af-237dbbc0bcda

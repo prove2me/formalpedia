@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLineNormalizer_map_right
 -- name    : CompactnessConjecture.symplecticLineNormalizer_map_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/680493a1-3634-4af4-a770-1dc728236191

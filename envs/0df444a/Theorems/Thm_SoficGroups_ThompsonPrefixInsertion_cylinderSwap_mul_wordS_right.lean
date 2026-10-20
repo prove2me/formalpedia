@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonPrefixInsertion_cylinderSwap_mul_wordS_right
 -- name    : SoficGroups.ThompsonPrefixInsertion.cylinderSwap_mul_wordS_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/c4be8c43-9964-4eac-b2e7-0ba1216145ca

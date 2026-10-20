@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_sum_sum_indicator_displacement_sq_le_card_sq_mul_markov_defect
 -- name    : SoficGroups.KunRootedIndicatorCrossing.sum_sum_indicator_displacement_sq_le_card_sq_mul_markov_defect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/4e0f5603-743a-4a35-b8d5-a1bda6ad9f0e

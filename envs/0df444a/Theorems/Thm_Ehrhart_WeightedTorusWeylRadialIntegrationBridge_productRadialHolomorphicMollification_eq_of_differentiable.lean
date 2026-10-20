@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_productRadialHolomorphicMollification_eq_of_differentiable
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.productRadialHolomorphicMollification_eq_of_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/b2a46a08-bb45-4f76-9de4-24fd0c9574ed

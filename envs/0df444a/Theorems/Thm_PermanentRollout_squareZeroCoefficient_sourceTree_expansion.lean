@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareZeroCoefficient_sourceTree_expansion
 -- name    : PermanentRollout.squareZeroCoefficient_sourceTree_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/13c1c085-cae9-4ef3-a00f-53c8f454b203

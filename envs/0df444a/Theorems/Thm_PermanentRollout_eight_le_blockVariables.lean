@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_eight_le_blockVariables
 -- name    : PermanentRollout.eight_le_blockVariables
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/544329e1-96db-4776-8f85-a0bc0496e645

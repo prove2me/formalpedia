@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_inverseVarianceFactor_continuous
 -- name    : MetricCodes.MRRW.inverseVarianceFactor_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/aa11010e-5cb3-4379-82c9-4feca4ebab72

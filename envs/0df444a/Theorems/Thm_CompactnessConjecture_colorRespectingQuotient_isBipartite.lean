@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_colorRespectingQuotient_isBipartite
 -- name    : CompactnessConjecture.colorRespectingQuotient_isBipartite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/319f8a15-ce4f-47e2-befe-94b6288a67cb

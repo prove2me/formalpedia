@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_fidelityTensorMultiplicativity
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.fidelityTensorMultiplicativity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:05:36.159931+00:00
 -- url     : https://prove2.me/theorems/1a336e57-a259-4454-8330-9792b1303b19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_strict_hierarchy_of_fixedLevelCodeBound
 -- name    : MetricCodes.Spherical.HigherHierarchy.strict_hierarchy_of_fixedLevelCodeBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/cdeb56a4-e4ef-485c-af48-ffe0c73e8d09

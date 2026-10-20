@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_isometric_mixed_kernel_nonneg
 -- name    : SpherePacking.isometric_mixed_kernel_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/9eb8cdaf-ff7c-4e61-a19f-ee988e96f490

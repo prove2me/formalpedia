@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_stieltjesPhaseProduct_of_compactified_suffix
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_stieltjesPhaseProduct_of_compactified_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/31b1405d-8a35-4197-81db-baf722045606

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.BrstUnboundedLeakage.norm_flow_truncGen_sub_stoneU_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:25:18.55765+00:00
 -- url     : https://prove2.me/submissions/64766919-53d8-4d67-b0bc-d705f78f2a70
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBrstUnboundedLeakage.lean — solution of BookProof.BrstUnboundedLeakage.norm_flow_truncGen_sub_stoneU_le
 import Mathlib

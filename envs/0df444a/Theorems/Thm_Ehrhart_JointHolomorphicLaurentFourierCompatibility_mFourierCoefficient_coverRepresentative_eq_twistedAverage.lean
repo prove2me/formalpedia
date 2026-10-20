@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_mFourierCoefficient_coverRepresentative_eq_twistedAverage
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.mFourierCoefficient_coverRepresentative_eq_twistedAverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/2317467a-c26b-4b74-b700-b26603bd803f

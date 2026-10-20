@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_integral_angularAtom_eq_arcsin
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.integral_angularAtom_eq_arcsin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/eb570daa-606b-4bba-ac9d-41a739b7bf9c

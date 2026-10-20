@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalInvalidRowProjectorVanishing_signedCharacteristicProjector_canonicalAxis_eq_zero_of_matching_noninterlacing
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalInvalidRowProjectorVanishing.signedCharacteristicProjector_canonicalAxis_eq_zero_of_matching_noninterlacing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:10.573365+00:00
 -- url     : https://prove2.me/theorems/227bc58d-4e8a-4d88-a627-6afba3eac59b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingWordEdgePairSharedRight_sum_const
 -- name    : TwoDegenerateGraphs.hammingWordEdgePairSharedRight_sum_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/ad999ebd-376c-4658-85ee-86e51c6ff6f4

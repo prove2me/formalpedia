@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_representationFamilyMarkovLinear_subtype_pow_apply
 -- name    : SoficGroups.KunRootedWordPower.representationFamilyMarkovLinear_subtype_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/66eaf003-be62-4736-8492-7d345d2b89ef

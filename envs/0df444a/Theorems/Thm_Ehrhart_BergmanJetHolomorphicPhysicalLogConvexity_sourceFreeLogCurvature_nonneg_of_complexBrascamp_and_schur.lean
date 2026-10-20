@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_sourceFreeLogCurvature_nonneg_of_complexBrascamp_and_schur
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.sourceFreeLogCurvature_nonneg_of_complexBrascamp_and_schur
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/e6944c43-447a-4dcf-b009-1142751347a4

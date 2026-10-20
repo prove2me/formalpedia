@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_convexOn_sourceFreeLogPartition_Ioi_of_complexBrascamp_and_schur
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.convexOn_sourceFreeLogPartition_Ioi_of_complexBrascamp_and_schur
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/caff67da-0e14-4285-b583-473c364a0ded

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_four_cycle_mem_proposedFamily
 -- name    : CompactnessConjecture.four_cycle_mem_proposedFamily
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/cff9ce38-91c9-4b96-8477-82a35bf1e264

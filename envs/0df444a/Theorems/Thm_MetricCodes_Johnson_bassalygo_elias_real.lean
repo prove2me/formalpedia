@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_bassalygo_elias_real
 -- name    : MetricCodes.Johnson.bassalygo_elias_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/2e985711-7317-463a-aca7-c28fe15f2bfb

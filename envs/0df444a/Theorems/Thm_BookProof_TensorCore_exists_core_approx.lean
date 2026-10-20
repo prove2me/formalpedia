@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorCore_exists_core_approx
 -- name    : BookProof.TensorCore.exists_core_approx
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:18:21.975843+00:00
 -- url     : https://prove2.me/theorems/b8ac2768-9912-4b19-aa23-cdda6ccca260

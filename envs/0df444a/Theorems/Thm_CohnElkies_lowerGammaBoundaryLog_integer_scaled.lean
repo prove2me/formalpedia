@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_integer_scaled
 -- name    : CohnElkies.lowerGammaBoundaryLog_integer_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/30d458de-327b-4691-8dec-82e2de298d32

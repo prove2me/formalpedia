@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gammaBad_card_mul_fourpath_power_le
 -- name    : CompactnessConjecture.gammaBad_card_mul_fourpath_power_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/9420dccb-90c4-40cc-b82b-bea0878c5dcc

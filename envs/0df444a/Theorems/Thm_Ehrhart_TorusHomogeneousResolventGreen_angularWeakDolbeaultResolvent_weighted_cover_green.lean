@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousResolventGreen_angularWeakDolbeaultResolvent_weighted_cover_green
 -- name    : Ehrhart.TorusHomogeneousResolventGreen.angularWeakDolbeaultResolvent_weighted_cover_green
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/3a5559e7-5cdf-494d-ac2d-ba88dcc433c5

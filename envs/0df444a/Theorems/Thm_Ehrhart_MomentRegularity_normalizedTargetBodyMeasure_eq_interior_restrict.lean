@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentRegularity_normalizedTargetBodyMeasure_eq_interior_restrict
 -- name    : Ehrhart.MomentRegularity.normalizedTargetBodyMeasure_eq_interior_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/16d519dc-466d-4d70-9676-1fc9cb2eeb93

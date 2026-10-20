@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpQuotient_of_uniform_lower_and_ordered_upper
 -- name    : CohnElkies.sharpQuotient_of_uniform_lower_and_ordered_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/7152ff14-2f15-4ddb-9ea8-e3a206f5f37b

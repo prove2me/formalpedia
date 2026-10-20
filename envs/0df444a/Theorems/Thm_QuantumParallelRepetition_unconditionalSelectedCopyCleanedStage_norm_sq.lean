@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedCopyCleanedStage_norm_sq
 -- name    : QuantumParallelRepetition.unconditionalSelectedCopyCleanedStage_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/7d2a1adf-a33f-4f40-986b-93fd140e1b08

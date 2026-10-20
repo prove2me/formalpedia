@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyTrueGridAdjacency_grid_adj_nextVertex
 -- name    : MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency.grid_adj_nextVertex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/651a467c-25f2-4b3c-8a6a-a1957cf8830d

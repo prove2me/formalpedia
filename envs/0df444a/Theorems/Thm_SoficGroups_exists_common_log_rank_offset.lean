@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_common_log_rank_offset
 -- name    : SoficGroups.exists_common_log_rank_offset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/0f861d3f-4958-4e0c-8193-2ea74e654bfb

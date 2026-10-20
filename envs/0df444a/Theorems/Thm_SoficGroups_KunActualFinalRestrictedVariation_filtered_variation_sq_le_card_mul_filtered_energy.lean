@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFinalRestrictedVariation_filtered_variation_sq_le_card_mul_filtered_energy
 -- name    : SoficGroups.KunActualFinalRestrictedVariation.filtered_variation_sq_le_card_mul_filtered_energy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/a2ed4919-d179-4be1-8001-80dc0aef6384

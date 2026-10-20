@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhase_momentJointTailUpperEnvelope_phase_invariant
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhase.momentJointTailUpperEnvelope_phase_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/c97ecc47-ea01-4480-8433-14d984d6f2e4

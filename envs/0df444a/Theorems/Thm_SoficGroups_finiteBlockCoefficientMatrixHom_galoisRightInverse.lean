@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteBlockCoefficientMatrixHom_galoisRightInverse
 -- name    : SoficGroups.finiteBlockCoefficientMatrixHom_galoisRightInverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/99c6f86e-1a29-40a3-8719-918a3615fef2

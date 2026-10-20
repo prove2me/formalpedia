@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalEndpointUpper_continuousAt_one
 -- name    : MetricCodes.Spherical.classicalEndpointUpper_continuousAt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/37375a2c-0aa7-49ce-b459-ff9d19eb32b9

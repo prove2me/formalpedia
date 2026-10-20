@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_periodic_globalLaurentTwist
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.periodic_globalLaurentTwist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/e2a1c9de-7982-41ad-94e7-e734c0eae650

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_groupFactorsIsomorphic_symm
 -- name    : ConnesRigidity.groupFactorsIsomorphic_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/111b0d15-18fe-46fe-9231-0f6713ad84bb

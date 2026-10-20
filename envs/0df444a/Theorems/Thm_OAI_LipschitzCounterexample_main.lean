@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LipschitzCounterexample_main
 -- name    : OAI.LipschitzCounterexample.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:53.369974+00:00
 -- url     : https://prove2.me/theorems/a4bc8dd2-8a30-4a65-9830-2c58804a3d8d

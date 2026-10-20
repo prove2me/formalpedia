@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTerminalNegativeProjectorVanishing_allRankCartanCharacteristicProjector_last_false_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTerminalNegativeProjectorVanishing.allRankCartanCharacteristicProjector_last_false_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/fc797d18-d4a2-4ac3-be73-6816ad9536e1

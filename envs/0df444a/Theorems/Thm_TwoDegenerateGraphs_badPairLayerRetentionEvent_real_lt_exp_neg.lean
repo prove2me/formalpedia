@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_badPairLayerRetentionEvent_real_lt_exp_neg
 -- name    : TwoDegenerateGraphs.badPairLayerRetentionEvent_real_lt_exp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/0a97181a-a27f-4e61-a0e4-86ccfc965058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_run_inputAdjoints
 -- name    : PermanentRollout.ReverseAdjoint.run_inputAdjoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/6ab6e002-791a-440a-ba9b-4847645302e1

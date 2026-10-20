@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalLogConvexity_sourceFreeProbabilityMean_acceleration_eq_moment
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalLogConvexity.sourceFreeProbabilityMean_acceleration_eq_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/e0f5f8aa-bcf7-4ebb-9ad0-e75766e7ca1f

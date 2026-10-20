@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_common_offset_below_average
 -- name    : SoficGroups.exists_common_offset_below_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/1e885023-9b04-4adc-8e1d-f072757c202a

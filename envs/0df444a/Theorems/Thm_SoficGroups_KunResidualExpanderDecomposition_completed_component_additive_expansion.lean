@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_completed_component_additive_expansion
 -- name    : SoficGroups.KunResidualExpanderDecomposition.completed_component_additive_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/d92d1cbb-6e54-4dff-bd47-5f3562167c94

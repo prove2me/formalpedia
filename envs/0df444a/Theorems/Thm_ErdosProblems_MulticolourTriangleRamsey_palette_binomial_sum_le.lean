@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_palette_binomial_sum_le
 -- name    : ErdosProblems.MulticolourTriangleRamsey.palette_binomial_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/c18cdaef-031d-4bef-b3b5-067da5fd980f

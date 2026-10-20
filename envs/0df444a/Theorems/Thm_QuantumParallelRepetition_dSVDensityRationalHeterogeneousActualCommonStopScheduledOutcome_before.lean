@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousActualCommonStopScheduledOutcome_before
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousActualCommonStopScheduledOutcome_before
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/d58b5872-ace2-4da3-9d71-ac1140a61ec5

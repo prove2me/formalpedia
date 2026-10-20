@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_PathFollowing_complementarity_recursion
 -- name    : VanderbeiLP.PathFollowing.complementarity_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T20:04:29.641454+00:00
 -- url     : https://prove2.me/theorems/c32d94c0-348c-428c-b709-764f95b9fc8d

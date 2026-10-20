@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunResidualExpanderDecomposition_disjoint_clean_parts_singleton_bad_parts
 -- name    : SoficGroups.KunResidualExpanderDecomposition.disjoint_clean_parts_singleton_bad_parts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/582a7f7a-c75b-4bba-8147-1f90c26b6112

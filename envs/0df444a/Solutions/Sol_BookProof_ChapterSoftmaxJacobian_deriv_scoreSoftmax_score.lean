@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSoftmaxJacobian.deriv_scoreSoftmax_score
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:31:38.838989+00:00
 -- url     : https://prove2.me/submissions/cf134d05-dff1-48b5-afad-59ae18f09e6e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSoftmaxJacobian.lean — solution of BookProof.ChapterSoftmaxJacobian.deriv_scoreSoftmax_score
 import Mathlib

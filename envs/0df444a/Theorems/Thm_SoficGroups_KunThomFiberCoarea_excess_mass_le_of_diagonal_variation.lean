@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_excess_mass_le_of_diagonal_variation
 -- name    : SoficGroups.KunThomFiberCoarea.excess_mass_le_of_diagonal_variation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/1e9345fb-e791-46c0-ab8b-582e85effa20

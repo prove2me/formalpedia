@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRateSet_nonempty_of_mem_source_interval
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRateSet_nonempty_of_mem_source_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/50c03d27-e484-4791-b4ac-f6c852a27645

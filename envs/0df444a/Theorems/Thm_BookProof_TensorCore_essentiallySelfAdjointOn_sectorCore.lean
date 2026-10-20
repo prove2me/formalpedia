@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorCore_essentiallySelfAdjointOn_sectorCore
 -- name    : BookProof.TensorCore.essentiallySelfAdjointOn_sectorCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:13:40.126783+00:00
 -- url     : https://prove2.me/theorems/a4d40fe2-3e83-4011-b88c-a6cefea2b209

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceGuardedCanonicalSelection_exists_source_guarded_canonical_selected_components_of_retained_matching
 -- name    : SoficGroups.SourceGuardedCanonicalSelection.exists_source_guarded_canonical_selected_components_of_retained_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/752fd2f0-50bd-41be-8414-4e82b80371aa

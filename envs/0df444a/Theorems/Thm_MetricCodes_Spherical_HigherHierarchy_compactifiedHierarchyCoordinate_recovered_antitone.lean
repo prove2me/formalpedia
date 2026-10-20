@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedHierarchyCoordinate_recovered_antitone
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedHierarchyCoordinate_recovered_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/37db9337-b1ab-4f99-93e7-ac7ecff274f4

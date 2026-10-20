@@ -543,8 +543,8 @@
 {"parent": "FRBSplitting.Linesearch.lemma_3_3", "child": "ThreeOpSplitting_Accel_MonotoneOperators", "via": ["statement"]}
 {"parent": "FRBSplitting.Linesearch.steps_bounded_below", "child": "FRBSplitting_Linesearch_Setting", "via": ["statement"]}
 {"parent": "FRBSplitting.Linesearch.steps_bounded_below", "child": "ThreeOpSplitting_Accel_MonotoneOperators", "via": ["statement"]}
-{"parent": "FRBSplitting.Linesearch.theorem_3_4", "child": "FRBSplitting_Linesearch_Setting", "via": ["statement"]}
-{"parent": "FRBSplitting.Linesearch.theorem_3_4", "child": "ThreeOpSplitting_Accel_MonotoneOperators", "via": ["statement"]}
+{"parent": "FRBSplitting.Linesearch.theorem_3_4", "child": "FRBSplitting_Linesearch_Setting", "via": ["solution", "statement"]}
+{"parent": "FRBSplitting.Linesearch.theorem_3_4", "child": "ThreeOpSplitting_Accel_MonotoneOperators", "via": ["solution", "statement"]}
 {"parent": "FRBSplitting.ThreeOp.energy_nonneg", "child": "FRBSplitting_ThreeOp_Setting", "via": ["statement"]}
 {"parent": "FRBSplitting.ThreeOp.energy_nonneg", "child": "ThreeOpSplitting_Accel_MonotoneOperators", "via": ["statement"]}
 {"parent": "FRBSplitting.ThreeOp.eq_48", "child": "FRBSplitting_ThreeOp_Setting", "via": ["statement"]}
@@ -41198,10 +41198,10 @@
 {"parent": "HighDimStat.UniformLaws.concentration_around_mean", "child": "HighDimStat_UniformLaws_empProcessDeviation", "via": ["statement"]}
 {"parent": "HighDimStat.UniformLaws.symmetrization_sandwich_v2", "child": "HighDimStat_UniformLaws_empProcessDeviation", "via": ["solution", "statement"]}
 {"parent": "HighDimStat.UniformLaws.symmetrization_sandwich_v2", "child": "HighDimStat_UniformLaws_symmetrizedProcess", "via": ["solution", "statement"]}
-{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_IsRademacherVariable", "via": ["statement"]}
-{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_IsUniformlyBounded", "via": ["statement"]}
-{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_empProcessDeviation", "via": ["statement"]}
-{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_rademacherComplexity", "via": ["statement"]}
+{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_IsRademacherVariable", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_IsUniformlyBounded", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_empProcessDeviation", "via": ["solution", "statement"]}
+{"parent": "HighDimStat.UniformLaws.uniform_law_rademacher_complexity", "child": "HighDimStat_UniformLaws_rademacherComplexity", "via": ["solution", "statement"]}
 {"parent": "HighDimStat_MetricEntropy_EntropyIntegral", "child": "HighDimStat_MetricEntropy_CoveringNumber", "via": ["statement"]}
 {"parent": "HighDimStat_RandomMatrices_BernsteinConditionMatrix", "child": "HighDimStat_RandomMatrices_LoewnerLE", "via": ["statement"]}
 {"parent": "HighDimStat_RandomMatrices_BernsteinConditionMatrix", "child": "HighDimStat_RandomMatrices_matrixExpectation", "via": ["statement"]}
@@ -45404,11 +45404,11 @@
 {"parent": "ImpulseGames.CostMonotonicity.xi_limits", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
 {"parent": "ImpulseGames.CostMonotonicity.xi_unique_zero", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
 {"parent": "ImpulseGames.CostMonotonicity.xstar_monotone", "child": "ImpulseGames_CostMonotonicity_Thresholds", "via": ["statement"]}
-{"parent": "ImpulseGames.LinearGame.condition_v_admissible", "child": "ImpulseGames_LinearGame_Equilibrium", "via": ["statement"]}
+{"parent": "ImpulseGames.LinearGame.condition_v_admissible", "child": "ImpulseGames_LinearGame_Equilibrium", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.LinearGame.eq_4_17_unique_zero", "child": "ImpulseGames_LinearGame_Candidates", "via": ["solution", "statement"]}
-{"parent": "ImpulseGames.LinearGame.lemma_4_6", "child": "ImpulseGames_LinearGame_Candidates", "via": ["statement"]}
-{"parent": "ImpulseGames.LinearGame.prop_4_2_explicit_solution", "child": "ImpulseGames_LinearGame_Candidates", "via": ["statement"]}
-{"parent": "ImpulseGames.LinearGame.prop_4_7_nash_equilibrium", "child": "ImpulseGames_LinearGame_Equilibrium", "via": ["statement"]}
+{"parent": "ImpulseGames.LinearGame.lemma_4_6", "child": "ImpulseGames_LinearGame_Candidates", "via": ["solution", "statement"]}
+{"parent": "ImpulseGames.LinearGame.prop_4_2_explicit_solution", "child": "ImpulseGames_LinearGame_Candidates", "via": ["solution", "statement"]}
+{"parent": "ImpulseGames.LinearGame.prop_4_7_nash_equilibrium", "child": "ImpulseGames_LinearGame_Equilibrium", "via": ["solution", "statement"]}
 {"parent": "ImpulseGames.Verification.lemma2_3_controlled_process", "child": "ImpulseGames_Verification_Game", "via": ["statement"]}
 {"parent": "ImpulseGames.Verification.remark3_6_player_two", "child": "ImpulseGames_Verification_Game", "via": ["statement"]}
 {"parent": "ImpulseGames.Verification.remark3_6_player_two", "child": "ImpulseGames_Verification_QVI", "via": ["statement"]}
@@ -50390,35 +50390,35 @@
 {"parent": "KarpPapadimitriou_Generator_Hyperplanes", "child": "KarpPapadimitriou_Generator_COP", "via": ["statement"]}
 {"parent": "KarpPapadimitriou_Generator_Oracle", "child": "KarpPapadimitriou_Generator_COP", "via": ["statement"]}
 {"parent": "KarpPapadimitriou_SmallFacial_COP", "child": "CookSensitivity_ChvatalRank_IntegerProgram", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C1", "child": "Katyusha_NonSC_run", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C1", "child": "Katyusha_NonSC_step", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C1", "child": "SAGA_Convex_IsProxPoint", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C1", "child": "SAGA_Convex_finiteSum", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C1", "child": "SAGA_Convex_sagaRun", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C2", "child": "Katyusha_NonSC_run", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C2", "child": "Katyusha_NonSC_step", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C2", "child": "SAGA_Convex_IsProxPoint", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C2", "child": "SAGA_Convex_finiteSum", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C2", "child": "SAGA_Convex_sagaRun", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C3", "child": "Katyusha_NonSC_run", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C3", "child": "Katyusha_NonSC_step", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C3", "child": "SAGA_Convex_IsProxPoint", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C3", "child": "SAGA_Convex_finiteSum", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.eq_C3", "child": "SAGA_Convex_sagaRun", "via": ["statement"]}
+{"parent": "Katyusha.NonSC.eq_C1", "child": "Katyusha_NonSC_run", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C1", "child": "Katyusha_NonSC_step", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C1", "child": "SAGA_Convex_IsProxPoint", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C1", "child": "SAGA_Convex_finiteSum", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C1", "child": "SAGA_Convex_sagaRun", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C2", "child": "Katyusha_NonSC_run", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C2", "child": "Katyusha_NonSC_step", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C2", "child": "SAGA_Convex_IsProxPoint", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C2", "child": "SAGA_Convex_finiteSum", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C2", "child": "SAGA_Convex_sagaRun", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C3", "child": "Katyusha_NonSC_run", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C3", "child": "Katyusha_NonSC_step", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C3", "child": "SAGA_Convex_IsProxPoint", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C3", "child": "SAGA_Convex_finiteSum", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.eq_C3", "child": "SAGA_Convex_sagaRun", "via": ["solution", "statement"]}
 {"parent": "Katyusha.NonSC.eq_C4", "child": "Katyusha_NonSC_run", "via": ["solution", "statement"]}
 {"parent": "Katyusha.NonSC.eq_C4", "child": "Katyusha_NonSC_step", "via": ["solution", "statement"]}
 {"parent": "Katyusha.NonSC.eq_C4", "child": "SAGA_Convex_IsProxPoint", "via": ["solution", "statement"]}
 {"parent": "Katyusha.NonSC.eq_C4", "child": "SAGA_Convex_finiteSum", "via": ["solution", "statement"]}
 {"parent": "Katyusha.NonSC.eq_C4", "child": "SAGA_Convex_sagaRun", "via": ["solution", "statement"]}
-{"parent": "Katyusha.NonSC.lemma_2_7", "child": "Katyusha_NonSC_step", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.lemma_2_7", "child": "SAGA_Convex_IsProxPoint", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.lemma_2_7", "child": "SAGA_Convex_finiteSum", "via": ["statement"]}
+{"parent": "Katyusha.NonSC.lemma_2_7", "child": "Katyusha_NonSC_step", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.lemma_2_7", "child": "SAGA_Convex_IsProxPoint", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.lemma_2_7", "child": "SAGA_Convex_finiteSum", "via": ["solution", "statement"]}
 {"parent": "Katyusha.NonSC.tau_inequalities", "child": "Katyusha_NonSC_step", "via": ["solution", "statement"]}
-{"parent": "Katyusha.NonSC.theorem_4_1", "child": "Katyusha_NonSC_run", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.theorem_4_1", "child": "Katyusha_NonSC_step", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.theorem_4_1", "child": "SAGA_Convex_IsProxPoint", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.theorem_4_1", "child": "SAGA_Convex_finiteSum", "via": ["statement"]}
-{"parent": "Katyusha.NonSC.theorem_4_1", "child": "SAGA_Convex_sagaRun", "via": ["statement"]}
+{"parent": "Katyusha.NonSC.theorem_4_1", "child": "Katyusha_NonSC_run", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.theorem_4_1", "child": "Katyusha_NonSC_step", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.theorem_4_1", "child": "SAGA_Convex_IsProxPoint", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.theorem_4_1", "child": "SAGA_Convex_finiteSum", "via": ["solution", "statement"]}
+{"parent": "Katyusha.NonSC.theorem_4_1", "child": "SAGA_Convex_sagaRun", "via": ["solution", "statement"]}
 {"parent": "Katyusha.SC.lemma_2_3", "child": "Katyusha_SC_run", "via": ["statement"]}
 {"parent": "Katyusha.SC.theorem_2_1", "child": "Katyusha_SC_run", "via": ["statement"]}
 {"parent": "Katyusha_NonSC_run", "child": "Katyusha_NonSC_step", "via": ["statement"]}
@@ -71934,8 +71934,8 @@
 {"parent": "LeastSquaresTD.Absorbing.visit_frequencies", "child": "LeastSquaresTD_Absorbing_Estimator", "via": ["statement"]}
 {"parent": "LeastSquaresTD.Ergodic.eq12_theta_star_finite", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Ergodic.eq12_theta_star_finite", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["solution", "statement"]}
-{"parent": "LeastSquaresTD.Ergodic.lemma5", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["statement"]}
-{"parent": "LeastSquaresTD.Ergodic.lemma5", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["statement"]}
+{"parent": "LeastSquaresTD.Ergodic.lemma5", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["solution", "statement"]}
+{"parent": "LeastSquaresTD.Ergodic.lemma5", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Ergodic.lemma5Matrix_isUnit", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Ergodic.lemma5Matrix_isUnit", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Ergodic.lstd_converges_ergodic", "child": "LeastSquaresTD.Ergodic.eq12_theta_star_finite", "via": ["solution"]}
@@ -71946,8 +71946,8 @@
 {"parent": "LeastSquaresTD.Ergodic.lstd_converges_ergodic", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Ergodic.lstd_limit_of_pair_frequencies", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Ergodic.lstd_limit_of_pair_frequencies", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["solution", "statement"]}
-{"parent": "LeastSquaresTD.Ergodic.visits_in_proportion_pi", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["statement"]}
-{"parent": "LeastSquaresTD.Ergodic.visits_in_proportion_pi", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["statement"]}
+{"parent": "LeastSquaresTD.Ergodic.visits_in_proportion_pi", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["solution", "statement"]}
+{"parent": "LeastSquaresTD.Ergodic.visits_in_proportion_pi", "child": "LeastSquaresTD_Ergodic_LSTD", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD_Absorbing_Estimator", "child": "LeastSquaresTD_Absorbing_Chain", "via": ["statement"]}
 {"parent": "LeastSquaresTD_Ergodic_LSTD", "child": "LeastSquaresTD_Ergodic_Chain", "via": ["statement"]}
 {"parent": "LeblSCV.BallPolydisc.jacobian_ne_zero_of_injOn", "child": "LeblSCV_BallPolydisc_IsBiholomorphicMap", "via": ["statement"]}
@@ -83267,24 +83267,24 @@
 {"parent": "MFGPlanning.Existence.lemma_3", "child": "MFGPlanning_Existence_Hyp", "via": ["statement"]}
 {"parent": "MFGPlanning.Existence.positivity", "child": "MFGPlanning_Existence_Grid", "via": ["statement"]}
 {"parent": "MFGPlanning.Existence.positivity", "child": "MFGPlanning_Existence_Hyp", "via": ["statement"]}
-{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Duality", "via": ["statement"]}
-{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Grid", "via": ["statement"]}
-{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Hyp", "via": ["statement"]}
-{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Scheme", "via": ["statement"]}
+{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Duality", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Grid", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Hyp", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Existence.theorem_1", "child": "MFGPlanning_Existence_Scheme", "via": ["solution", "statement"]}
 {"parent": "MFGPlanning.Penalized.corollary_1", "child": "MFGPlanning_Penalized_Grid", "via": ["statement"]}
 {"parent": "MFGPlanning.Penalized.corollary_1", "child": "MFGPlanning_Penalized_Hyp", "via": ["statement"]}
 {"parent": "MFGPlanning.Penalized.corollary_1", "child": "MFGPlanning_Penalized_Scheme", "via": ["statement"]}
 {"parent": "MFGPlanning.Penalized.eq_13", "child": "MFGPlanning_Penalized_Grid", "via": ["solution", "statement"]}
 {"parent": "MFGPlanning.Penalized.eq_13", "child": "MFGPlanning_Penalized_Hyp", "via": ["solution", "statement"]}
-{"parent": "MFGPlanning.Penalized.proposition_1", "child": "MFGPlanning_Penalized_Grid", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.proposition_1", "child": "MFGPlanning_Penalized_Hyp", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.proposition_1", "child": "MFGPlanning_Penalized_Scheme", "via": ["statement"]}
+{"parent": "MFGPlanning.Penalized.proposition_1", "child": "MFGPlanning_Penalized_Grid", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Penalized.proposition_1", "child": "MFGPlanning_Penalized_Hyp", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Penalized.proposition_1", "child": "MFGPlanning_Penalized_Scheme", "via": ["solution", "statement"]}
 {"parent": "MFGPlanning.Penalized.proposition_2", "child": "MFGPlanning_Penalized_Grid", "via": ["statement"]}
 {"parent": "MFGPlanning.Penalized.proposition_2", "child": "MFGPlanning_Penalized_Hyp", "via": ["statement"]}
 {"parent": "MFGPlanning.Penalized.proposition_2", "child": "MFGPlanning_Penalized_Scheme", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.proposition_3", "child": "MFGPlanning_Penalized_Grid", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.proposition_3", "child": "MFGPlanning_Penalized_Hyp", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.proposition_3", "child": "MFGPlanning_Penalized_Scheme", "via": ["statement"]}
+{"parent": "MFGPlanning.Penalized.proposition_3", "child": "MFGPlanning_Penalized_Grid", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Penalized.proposition_3", "child": "MFGPlanning_Penalized_Hyp", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Penalized.proposition_3", "child": "MFGPlanning_Penalized_Scheme", "via": ["solution", "statement"]}
 {"parent": "MFGPlanning.Penalized.proposition_4", "child": "MFGPlanning.Penalized.proposition_1", "via": ["solution"]}
 {"parent": "MFGPlanning.Penalized.proposition_4", "child": "MFGPlanning.Penalized.proposition_3", "via": ["solution"]}
 {"parent": "MFGPlanning.Penalized.proposition_4", "child": "MFGPlanning.Penalized.theorem_2", "via": ["solution"]}
@@ -83292,10 +83292,10 @@
 {"parent": "MFGPlanning.Penalized.proposition_4", "child": "MFGPlanning_Penalized_Grid", "via": ["solution", "statement"]}
 {"parent": "MFGPlanning.Penalized.proposition_4", "child": "MFGPlanning_Penalized_Hyp", "via": ["solution", "statement"]}
 {"parent": "MFGPlanning.Penalized.proposition_4", "child": "MFGPlanning_Penalized_Scheme", "via": ["solution", "statement"]}
-{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Duality", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Grid", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Hyp", "via": ["statement"]}
-{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Scheme", "via": ["statement"]}
+{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Duality", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Grid", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Hyp", "via": ["solution", "statement"]}
+{"parent": "MFGPlanning.Penalized.theorem_2", "child": "MFGPlanning_Penalized_Scheme", "via": ["solution", "statement"]}
 {"parent": "MFGPlanning_Existence_Duality", "child": "MFGPlanning_Existence_Grid", "via": ["statement"]}
 {"parent": "MFGPlanning_Existence_Hyp", "child": "MFGPlanning_Existence_Grid", "via": ["statement"]}
 {"parent": "MFGPlanning_Existence_Scheme", "child": "MFGPlanning_Existence_Grid", "via": ["statement"]}
@@ -99503,7 +99503,7 @@
 {"parent": "MinimaxRegretRL.Bernstein.count_deviation", "child": "MinimaxRegretRL_Bernstein_Process", "via": ["statement"]}
 {"parent": "MinimaxRegretRL.Bernstein.l1_deviation", "child": "MinimaxRegretRL_Bernstein_Process", "via": ["statement"]}
 {"parent": "MinimaxRegretRL.Bernstein.total_variance_episode", "child": "MinimaxRegretRL_Bernstein_Path", "via": ["solution", "statement"]}
-{"parent": "MinimaxRegretRL.Bernstein.ucbvi_bf_regret_bound", "child": "MinimaxRegretRL_Bernstein_Process", "via": ["statement"]}
+{"parent": "MinimaxRegretRL.Bernstein.ucbvi_bf_regret_bound", "child": "MinimaxRegretRL_Bernstein_Process", "via": ["solution", "statement"]}
 {"parent": "MinimaxRegretRL.Bernstein.variance_le_two_sum", "child": "MinimaxRegretRL_Bernstein_FiniteVariance", "via": ["solution", "statement"]}
 {"parent": "MinimaxRegretRL.Hoeffding.count_deviation", "child": "MinimaxRegretRL_Hoeffding_Analysis", "via": ["statement"]}
 {"parent": "MinimaxRegretRL.Hoeffding.eq9_bernstein", "child": "MinimaxRegretRL_Hoeffding_Analysis", "via": ["statement"]}

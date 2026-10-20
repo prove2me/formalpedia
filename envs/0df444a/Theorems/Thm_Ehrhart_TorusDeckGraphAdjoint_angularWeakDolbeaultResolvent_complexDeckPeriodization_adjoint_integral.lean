@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckGraphAdjoint_angularWeakDolbeaultResolvent_complexDeckPeriodization_adjoint_integral
 -- name    : Ehrhart.TorusDeckGraphAdjoint.angularWeakDolbeaultResolvent_complexDeckPeriodization_adjoint_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/45e07f44-b3b0-4de6-abca-93029ac3be6c

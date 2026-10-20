@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankGTCharacteristicResidue_gtChannelCharacteristic_derivative_eval_pos
 -- name    : MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue.gtChannelCharacteristic_derivative_eval_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:03.313092+00:00
 -- url     : https://prove2.me/theorems/7fecc177-95bf-469b-8fba-ef752e0e21b1

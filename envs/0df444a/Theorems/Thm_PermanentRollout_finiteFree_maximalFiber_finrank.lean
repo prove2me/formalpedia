@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_finiteFree_maximalFiber_finrank
 -- name    : PermanentRollout.finiteFree_maximalFiber_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/2a90b4d5-41a2-43d5-bca9-9775a8faf0ad

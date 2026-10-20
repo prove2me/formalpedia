@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperNegativeContour_shortDamping_le_gamma
 -- name    : CohnElkies.upperNegativeContour_shortDamping_le_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/5a7464be-33e2-4dfb-860a-31e3a625c432

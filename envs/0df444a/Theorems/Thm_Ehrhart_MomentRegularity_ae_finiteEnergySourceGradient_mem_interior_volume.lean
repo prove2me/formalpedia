@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MomentRegularity_ae_finiteEnergySourceGradient_mem_interior_volume
 -- name    : Ehrhart.MomentRegularity.ae_finiteEnergySourceGradient_mem_interior_volume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/7bd6bffa-a454-40d9-8f3e-60eb770194b8

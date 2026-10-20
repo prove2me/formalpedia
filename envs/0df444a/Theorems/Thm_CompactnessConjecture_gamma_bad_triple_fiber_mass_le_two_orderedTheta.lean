@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gamma_bad_triple_fiber_mass_le_two_orderedTheta
 -- name    : CompactnessConjecture.gamma_bad_triple_fiber_mass_le_two_orderedTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/d8cf521c-6a0c-4535-9455-5c61187f4d94

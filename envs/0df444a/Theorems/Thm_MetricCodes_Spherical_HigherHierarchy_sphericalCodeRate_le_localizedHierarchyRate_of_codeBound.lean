@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_sphericalCodeRate_le_localizedHierarchyRate_of_codeBound
 -- name    : MetricCodes.Spherical.HigherHierarchy.sphericalCodeRate_le_localizedHierarchyRate_of_codeBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/7bd4526d-61ed-4222-9c78-7042ca0cac88

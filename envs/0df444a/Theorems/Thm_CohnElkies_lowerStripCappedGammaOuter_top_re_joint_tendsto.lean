@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedGammaOuter_top_re_joint_tendsto
 -- name    : CohnElkies.lowerStripCappedGammaOuter_top_re_joint_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/87f423a8-d989-48b0-96d5-301579319f83

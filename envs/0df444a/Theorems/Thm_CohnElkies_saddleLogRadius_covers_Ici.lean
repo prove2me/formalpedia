@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleLogRadius_covers_Ici
 -- name    : CohnElkies.saddleLogRadius_covers_Ici
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/21d9e718-c4fc-4073-86f1-dac866dcec0c

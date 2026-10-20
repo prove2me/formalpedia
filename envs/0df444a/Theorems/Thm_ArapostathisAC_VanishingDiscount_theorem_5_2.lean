@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_VanishingDiscount_theorem_5_2
 -- name    : ArapostathisAC.VanishingDiscount.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:17:23.947511+00:00
 -- url     : https://prove2.me/theorems/85c6cb16-e079-43e9-be1c-958c3f74e194

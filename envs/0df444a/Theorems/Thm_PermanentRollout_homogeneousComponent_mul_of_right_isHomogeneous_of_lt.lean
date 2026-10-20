@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousComponent_mul_of_right_isHomogeneous_of_lt
 -- name    : PermanentRollout.homogeneousComponent_mul_of_right_isHomogeneous_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/8080750f-2d7f-4aca-a5a6-b243a26146e0

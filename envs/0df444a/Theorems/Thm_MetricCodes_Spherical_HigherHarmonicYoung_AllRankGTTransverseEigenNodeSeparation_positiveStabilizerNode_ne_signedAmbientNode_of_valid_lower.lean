@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTTransverseEigenNodeSeparation_positiveStabilizerNode_ne_signedAmbientNode_of_valid_lower
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseEigenNodeSeparation.positiveStabilizerNode_ne_signedAmbientNode_of_valid_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/d4ace09d-989d-4e59-a510-d8bc7b2c84a0

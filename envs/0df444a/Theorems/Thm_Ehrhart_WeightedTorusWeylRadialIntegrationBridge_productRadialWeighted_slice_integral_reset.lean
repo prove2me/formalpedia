@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_productRadialWeighted_slice_integral_reset
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.productRadialWeighted_slice_integral_reset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/3e0af6da-7850-48bd-8a82-1bc8d700be30

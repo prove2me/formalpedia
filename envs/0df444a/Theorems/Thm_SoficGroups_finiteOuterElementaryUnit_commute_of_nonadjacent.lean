@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterElementaryUnit_commute_of_nonadjacent
 -- name    : SoficGroups.finiteOuterElementaryUnit_commute_of_nonadjacent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/ec1b6b6c-4e15-49cf-ba0f-0d16a7964b32

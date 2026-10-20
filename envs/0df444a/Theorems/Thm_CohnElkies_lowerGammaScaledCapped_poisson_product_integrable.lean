@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledCapped_poisson_product_integrable
 -- name    : CohnElkies.lowerGammaScaledCapped_poisson_product_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/be805869-822d-4711-b296-5dce4cf7244d

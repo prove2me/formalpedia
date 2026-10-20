@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchwartzMap_PoissonSummation_Standard_half_open_cell_is_fundamental_region
 -- name    : SchwartzMap.PoissonSummation.Standard.half_open_cell_is_fundamental_region
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/b8e8083c-3420-475b-b2e6-256cd97b2745

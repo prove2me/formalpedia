@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylWeakRepresentativeBridge_complexCover_continuous_normConvolution
 -- name    : Ehrhart.WeightedTorusWeylWeakRepresentativeBridge.complexCover_continuous_normConvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/bcec9f25-1b79-4d58-a91e-7fb989720981

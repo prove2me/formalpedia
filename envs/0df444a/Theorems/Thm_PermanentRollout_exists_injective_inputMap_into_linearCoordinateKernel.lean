@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_injective_inputMap_into_linearCoordinateKernel
 -- name    : PermanentRollout.exists_injective_inputMap_into_linearCoordinateKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/f16d7fb7-1d33-4782-bc10-f127f1cc987f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperNegativeContour_reflectedGamma_damping_exp_le_cosh
 -- name    : CohnElkies.upperNegativeContour_reflectedGamma_damping_exp_le_cosh
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/0b2496a6-c6e7-484a-ae24-160ed7b7f59b

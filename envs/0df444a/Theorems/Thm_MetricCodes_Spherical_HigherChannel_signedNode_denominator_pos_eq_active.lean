@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherChannel_signedNode_denominator_pos_eq_active
 -- name    : MetricCodes.Spherical.HigherChannel.signedNode_denominator_pos_eq_active
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/dc7c1841-a1ce-4f64-90ca-22c97ea374d2

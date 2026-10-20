@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckWeightedUnfolding_angularWeightedFormL2_inner_integral_eq_realFundamentalCell
 -- name    : Ehrhart.TorusDeckWeightedUnfolding.angularWeightedFormL2_inner_integral_eq_realFundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/062f7b58-0543-48f5-80b9-c0b8888dc67d

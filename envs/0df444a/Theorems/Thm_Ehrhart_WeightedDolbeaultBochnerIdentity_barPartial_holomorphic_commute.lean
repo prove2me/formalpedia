@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_barPartial_holomorphic_commute
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.barPartial_holomorphic_commute
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/13ffb920-8f41-46f7-b570-4f919cb0adec

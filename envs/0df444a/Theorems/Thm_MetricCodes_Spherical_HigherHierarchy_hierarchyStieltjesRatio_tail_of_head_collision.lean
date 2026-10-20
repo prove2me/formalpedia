@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyStieltjesRatio_tail_of_head_collision
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyStieltjesRatio_tail_of_head_collision
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/c57f9949-b44e-46fe-b279-3183d7f0df12

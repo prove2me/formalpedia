@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteGramCertificate_sphericalCode_bound
 -- name    : SpherePacking.finiteGramCertificate_sphericalCode_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/eae5c491-1ea3-4b61-b002-da8de7700631

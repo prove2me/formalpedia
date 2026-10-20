@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_kazhdan_generator_displacement
 -- name    : SoficGroups.kazhdan_generator_displacement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/ab1aec8a-c6af-436b-be3f-bfb6d6a3678f

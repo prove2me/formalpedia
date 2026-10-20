@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_exists_slicedGradient_of_criticalLocus_codimension
 -- name    : PermanentRollout.exists_slicedGradient_of_criticalLocus_codimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/17f45cdb-74d2-4281-ab3e-1fa1ab0ae856

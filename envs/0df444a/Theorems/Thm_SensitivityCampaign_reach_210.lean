@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_reach_210
 -- name    : SensitivityCampaign.reach_210
--- status  : Open
+-- status  : Proved
 -- author  : @Robin Kothari
 -- created : 2026-10-16T18:37:09.278904+00:00
 -- url     : https://prove2.me/theorems/34794a98-e5bd-4623-ae65-526fc87e9ad1

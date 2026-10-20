@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_gamma_propertyT
 -- name    : ConnesRigidity.PaperAnalyticInput.gamma_propertyT
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/8943db54-b1d8-4000-b4c9-2c0c12030bd9

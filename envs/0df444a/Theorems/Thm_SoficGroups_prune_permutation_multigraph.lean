@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_prune_permutation_multigraph
 -- name    : SoficGroups.prune_permutation_multigraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/67e78e55-5e10-4c9a-b6d2-2f16d14774ea

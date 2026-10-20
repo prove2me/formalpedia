@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaBoundaryLog_dimension_scaled_nonpos_of_large
 -- name    : CohnElkies.lowerGammaBoundaryLog_dimension_scaled_nonpos_of_large
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:53.711061+00:00
 -- url     : https://prove2.me/theorems/24ee2116-5295-459a-8da2-24a304a36404

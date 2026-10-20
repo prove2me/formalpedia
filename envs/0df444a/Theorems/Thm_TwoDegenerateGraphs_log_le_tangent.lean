@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_log_le_tangent
 -- name    : TwoDegenerateGraphs.log_le_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/276d5870-7cb5-4214-b603-c09b003192c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_maximal_bad_cut_induced_lower
 -- name    : SoficGroups.maximal_bad_cut_induced_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/8527cc7f-6370-4006-9204-714657b86eb6

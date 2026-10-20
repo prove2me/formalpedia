@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_isometric_mixed_kernel_diag
 -- name    : SpherePacking.isometric_mixed_kernel_diag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/ee32e32d-51a7-4c09-8f8d-fea6e6bd7b28

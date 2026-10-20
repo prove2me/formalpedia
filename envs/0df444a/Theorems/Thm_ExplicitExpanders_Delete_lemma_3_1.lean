@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitExpanders_Delete_lemma_3_1
 -- name    : ExplicitExpanders.Delete.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:14:40.317792+00:00
 -- url     : https://prove2.me/theorems/b5c07b60-2996-424c-8c7b-f2446e10e259

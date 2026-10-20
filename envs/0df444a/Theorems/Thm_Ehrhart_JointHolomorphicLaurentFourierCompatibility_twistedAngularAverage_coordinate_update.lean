@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_twistedAngularAverage_coordinate_update
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.twistedAngularAverage_coordinate_update
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/a6c20465-4835-468a-90e9-663c39d4fa78

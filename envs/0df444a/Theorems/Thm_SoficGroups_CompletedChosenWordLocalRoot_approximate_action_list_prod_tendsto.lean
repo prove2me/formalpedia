@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedChosenWordLocalRoot_approximate_action_list_prod_tendsto
 -- name    : SoficGroups.CompletedChosenWordLocalRoot.approximate_action_list_prod_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/85423565-de17-4d22-a552-320366640f82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_real_contains_edgePair_le
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_real_contains_edgePair_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/eea6f16b-469a-4626-8522-ee4cd8265770

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_criticalBinaryExponent_mem_Ioo_d30
 -- name    : CohnElkies.criticalBinaryExponent_mem_Ioo_d30
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/390aaf0c-8078-4778-9f5a-a0a301cc7764

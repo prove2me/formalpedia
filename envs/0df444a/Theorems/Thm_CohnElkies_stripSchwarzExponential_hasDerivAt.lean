@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripSchwarzExponential_hasDerivAt
 -- name    : CohnElkies.stripSchwarzExponential_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/e0bfe4fb-4406-4ef9-b41a-c7da35b2d110

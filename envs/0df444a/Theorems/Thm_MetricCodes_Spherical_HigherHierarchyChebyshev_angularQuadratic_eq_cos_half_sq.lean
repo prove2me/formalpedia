@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularQuadratic_eq_cos_half_sq
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularQuadratic_eq_cos_half_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/340c4194-575d-4fa0-9dbd-fad8ff629425

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_code_bound
 -- name    : MetricCodes.HigherProjectionGraph.Data.code_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/545e8899-c14a-459a-8fc2-c3ad0e7eb7d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_hammingCorrelation_le_of_dist_le
 -- name    : MetricCodes.hammingCorrelation_le_of_dist_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/a91ef919-2f7a-4f51-a51b-4d035382e000

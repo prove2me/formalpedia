@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualEnergy_le_three_norm_sq
 -- name    : SoficGroups.ejThreeResidualEnergy_le_three_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/9ad32d5c-d6db-4576-9dea-9e77fed572a9

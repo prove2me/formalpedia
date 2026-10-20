@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_normalizedVolume_centeredSimplex
 -- name    : Ehrhart.SimplexVolume.normalizedVolume_centeredSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/58ebe705-dc88-4af7-a4a6-d75624a33e97

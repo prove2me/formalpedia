@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptQuotientRootSet_eq_image
 -- name    : CohnElkies.manuscriptQuotientRootSet_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/0d30640f-cd2c-4f1c-8c04-6a25aee52730

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_exists_nextLevel_compactified_certificate_lt
 -- name    : MetricCodes.Spherical.HigherHierarchy.exists_nextLevel_compactified_certificate_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/045c3394-5d9e-4ab6-ac63-e0ca4f1bcce8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_eval_deletedCoordinateEsymmPolynomial
 -- name    : PermanentRollout.eval_deletedCoordinateEsymmPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/5b3e8604-1050-47d3-b583-f34c08a90cea

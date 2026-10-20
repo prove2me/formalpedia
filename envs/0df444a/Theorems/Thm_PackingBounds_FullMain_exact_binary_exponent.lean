@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_FullMain_exact_binary_exponent
 -- name    : PackingBounds.FullMain.exact_binary_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/3dbf41ee-e805-4564-83c8-7daa2fa33c1d

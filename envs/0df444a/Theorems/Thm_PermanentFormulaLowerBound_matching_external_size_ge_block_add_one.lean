@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matching_external_size_ge_block_add_one
 -- name    : PermanentFormulaLowerBound.matching_external_size_ge_block_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/48de0cc2-f019-4776-be69-e730fa23f2e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_packingExponent_deficit_eq_relativeEntropy
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.packingExponent_deficit_eq_relativeEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/3097ccca-8515-42a5-b02c-e3e96a3df6d1

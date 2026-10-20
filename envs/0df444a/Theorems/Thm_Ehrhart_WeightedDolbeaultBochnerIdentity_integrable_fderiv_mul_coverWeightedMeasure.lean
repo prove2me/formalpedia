@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_integrable_fderiv_mul_coverWeightedMeasure
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.integrable_fderiv_mul_coverWeightedMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/79d5bc8d-7161-4509-a9b0-cd8ac2ea4214

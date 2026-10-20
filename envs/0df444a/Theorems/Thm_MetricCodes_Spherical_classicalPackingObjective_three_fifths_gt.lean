@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_classicalPackingObjective_three_fifths_gt
 -- name    : MetricCodes.Spherical.classicalPackingObjective_three_fifths_gt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/1b9a5b59-ab0a-4d98-8ef2-8a9f68ecf682

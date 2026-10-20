@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_log_nat_sub_log_oddDimension
 -- name    : CohnElkies.tendsto_log_nat_sub_log_oddDimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/1169e8f3-7571-4f17-8df3-dc355322a684

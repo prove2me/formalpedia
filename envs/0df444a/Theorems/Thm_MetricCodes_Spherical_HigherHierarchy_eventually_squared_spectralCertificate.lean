@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_squared_spectralCertificate
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_squared_spectralCertificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:40.58935+00:00
 -- url     : https://prove2.me/theorems/a1e27e1d-b2a3-414c-8b41-6a32d72520c4

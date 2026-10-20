@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_squareFreeExponent_sum
 -- name    : PermanentRollout.squareFreeExponent_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/fb3bbb72-b6a0-4c92-a09a-94a5db19650c

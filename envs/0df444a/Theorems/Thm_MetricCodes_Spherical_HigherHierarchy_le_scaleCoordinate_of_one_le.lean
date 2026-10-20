@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_le_scaleCoordinate_of_one_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.le_scaleCoordinate_of_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/284bca7a-78d4-4fd3-9d2c-3b174dc63855

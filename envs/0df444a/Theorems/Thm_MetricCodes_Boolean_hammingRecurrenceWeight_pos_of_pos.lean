@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingRecurrenceWeight_pos_of_pos
 -- name    : MetricCodes.Boolean.hammingRecurrenceWeight_pos_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/18a9bc1b-ab78-43f1-bfbc-5ebd6fd42484

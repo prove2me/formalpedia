@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptNormalizedQuotientInfRoot_eq
 -- name    : CohnElkies.manuscriptNormalizedQuotientInfRoot_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/cba0e689-84d6-41a8-b2e7-a8a67b8bd1bb

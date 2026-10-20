@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_log_inv_lt_half_inv_sub_self
 -- name    : MetricCodes.Spherical.HigherHierarchy.log_inv_lt_half_inv_sub_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/92c121ef-9f2c-4f59-8c8f-f3cfa458bc4e

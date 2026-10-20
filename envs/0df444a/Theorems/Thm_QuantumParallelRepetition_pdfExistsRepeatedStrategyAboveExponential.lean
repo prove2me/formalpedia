@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfExistsRepeatedStrategyAboveExponential
 -- name    : QuantumParallelRepetition.pdfExistsRepeatedStrategyAboveExponential
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/89e3ab03-f978-4eef-9bcc-7de75419214b

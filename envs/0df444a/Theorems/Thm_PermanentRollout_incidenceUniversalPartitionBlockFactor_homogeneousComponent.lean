@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_incidenceUniversalPartitionBlockFactor_homogeneousComponent
 -- name    : PermanentRollout.incidenceUniversalPartitionBlockFactor_homogeneousComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/801c1f99-c2b7-40b1-8ec8-7396eb6cf097

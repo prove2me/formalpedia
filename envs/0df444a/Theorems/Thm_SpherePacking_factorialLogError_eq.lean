@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_factorialLogError_eq
 -- name    : SpherePacking.factorialLogError_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/46a7e523-e48e-4895-bab2-c1e62bb1c81e

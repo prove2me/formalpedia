@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_rankPenalty_interior
 -- name    : MetricCodes.MRRW.rankPenalty_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/6e24fdf6-096f-4868-9851-00257650b32d

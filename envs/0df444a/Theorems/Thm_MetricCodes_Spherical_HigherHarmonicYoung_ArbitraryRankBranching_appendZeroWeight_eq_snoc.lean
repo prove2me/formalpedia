@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRankBranching_appendZeroWeight_eq_snoc
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching.appendZeroWeight_eq_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/36354868-4945-4d6b-80a9-d3e6afe187c2

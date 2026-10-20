@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentDRO_Conf_theorem_2
 -- name    : MomentDRO.Conf.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:06:42.219133+00:00
 -- url     : https://prove2.me/theorems/bc1243a6-6eba-4097-9a3c-0a8045280d2f

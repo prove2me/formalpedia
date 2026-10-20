@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLine_char_two_pair_avoidance
 -- name    : CompactnessConjecture.symplecticLine_char_two_pair_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/218db996-ec14-43d6-943a-30cd2c6020af

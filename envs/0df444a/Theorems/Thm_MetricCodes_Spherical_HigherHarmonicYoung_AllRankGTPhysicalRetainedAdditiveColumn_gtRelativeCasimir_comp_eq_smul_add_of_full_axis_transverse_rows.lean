@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTPhysicalRetainedAdditiveColumn_gtRelativeCasimir_comp_eq_smul_add_of_full_axis_transverse_rows
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalRetainedAdditiveColumn.gtRelativeCasimir_comp_eq_smul_add_of_full_axis_transverse_rows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:14.457341+00:00
 -- url     : https://prove2.me/theorems/0b624287-851f-46c3-8a04-8eaad5f3c957

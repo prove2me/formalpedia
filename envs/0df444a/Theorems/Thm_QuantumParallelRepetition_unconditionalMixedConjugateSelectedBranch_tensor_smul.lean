@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMixedConjugateSelectedBranch_tensor_smul
 -- name    : QuantumParallelRepetition.unconditionalMixedConjugateSelectedBranch_tensor_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/8383fcda-9c97-49fb-b2af-3aadfcf1163d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingSourceChannelCoefficient_eq_insertion
 -- name    : MetricCodes.Boolean.hammingSourceChannelCoefficient_eq_insertion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/59256356-dd79-472f-af26-1892097401c0

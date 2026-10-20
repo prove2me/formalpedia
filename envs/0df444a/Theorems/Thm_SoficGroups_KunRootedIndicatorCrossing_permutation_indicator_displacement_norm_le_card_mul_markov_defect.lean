@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_permutation_indicator_displacement_norm_le_card_mul_markov_defect
 -- name    : SoficGroups.KunRootedIndicatorCrossing.permutation_indicator_displacement_norm_le_card_mul_markov_defect
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/35da24aa-2f7c-46e1-b498-0ee0b255c95c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousRadialAdjoint_angularClosedMollifiedRadialAdjointCommutatorL2_sub_norm_sq_le
 -- name    : Ehrhart.TorusHomogeneousRadialAdjoint.angularClosedMollifiedRadialAdjointCommutatorL2_sub_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/0b618aef-2fe1-4a6a-8146-0b4f11c75c8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_exists_equivariantHilbertKernelRealization
 -- name    : SoficGroups.KunRootedIndicatorCrossing.exists_equivariantHilbertKernelRealization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/95b874d2-4def-4765-b27f-c310414c1e8f

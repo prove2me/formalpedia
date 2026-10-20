@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermutation_split_monomial
 -- name    : PermanentFormulaLowerBound.matchingPermutation_split_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/919d0b26-430a-4a1a-b030-9f4f805c5b09

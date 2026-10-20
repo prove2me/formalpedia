@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_momentBodySharpJetScale_le_dimension_of_weakProbability
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.momentBodySharpJetScale_le_dimension_of_weakProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/caf4eec7-5bea-4d46-a7e5-d73b2e3898bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_binaryRate_le_combinedVariationalRate
 -- name    : MetricCodes.Johnson.binaryRate_le_combinedVariationalRate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/694aae25-2959-4a56-8261-610c63aa1bdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_horizontalStripRealTraceExtension_continuousOn
 -- name    : CohnElkies.horizontalStripRealTraceExtension_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/e4130313-ba1d-479f-b5a7-16f5e90cc40d

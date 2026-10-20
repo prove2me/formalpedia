@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalSupport_momentWeakHolomorphicJointTimeMollification_le_support_add
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalSupport.momentWeakHolomorphicJointTimeMollification_le_support_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/8bdc5103-13e1-4c39-aeab-a7c48279a84e

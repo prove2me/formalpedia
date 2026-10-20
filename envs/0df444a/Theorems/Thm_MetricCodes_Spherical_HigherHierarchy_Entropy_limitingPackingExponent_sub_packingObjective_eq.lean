@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Entropy_limitingPackingExponent_sub_packingObjective_eq
 -- name    : MetricCodes.Spherical.HigherHierarchy.Entropy.limitingPackingExponent_sub_packingObjective_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/6177a182-507b-46f2-9348-4feae5bc5b7d

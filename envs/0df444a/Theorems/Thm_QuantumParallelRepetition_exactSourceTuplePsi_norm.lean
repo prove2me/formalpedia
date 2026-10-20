@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceTuplePsi_norm
 -- name    : QuantumParallelRepetition.exactSourceTuplePsi_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/dc782076-0d7e-4e51-80ab-14a920ba9c6b

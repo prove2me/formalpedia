@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_integrable_angularTorusFormFullDerivativeDensity
 -- name    : Ehrhart.WeightedTorusBochner.integrable_angularTorusFormFullDerivativeDensity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/58a9a6f4-b2da-41c7-bf86-85801629c5b1

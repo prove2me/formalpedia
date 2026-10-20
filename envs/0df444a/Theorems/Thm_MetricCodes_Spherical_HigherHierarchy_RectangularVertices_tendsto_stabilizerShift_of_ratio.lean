@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_stabilizerShift_of_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_stabilizerShift_of_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/7fe56540-1ff0-44ba-97ef-626396665a45

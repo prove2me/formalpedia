@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_lowerStripPoissonMajorant_uniform_negative
 -- name    : CohnElkies.exists_lowerStripPoissonMajorant_uniform_negative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/3a944db0-3ea0-4041-ae1b-1d032ac97e83

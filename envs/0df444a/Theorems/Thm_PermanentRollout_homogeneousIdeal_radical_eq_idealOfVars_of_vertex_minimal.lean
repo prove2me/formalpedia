@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousIdeal_radical_eq_idealOfVars_of_vertex_minimal
 -- name    : PermanentRollout.homogeneousIdeal_radical_eq_idealOfVars_of_vertex_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/47a5d614-dbc6-446e-84c7-84558e1ed42b

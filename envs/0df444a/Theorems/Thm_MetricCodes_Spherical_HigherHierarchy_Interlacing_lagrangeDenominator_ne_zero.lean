@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_lagrangeDenominator_ne_zero
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.lagrangeDenominator_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/8fa964df-231e-4184-b8e2-a9bfe520272e

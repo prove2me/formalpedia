@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrwG_nonneg
 -- name    : MetricCodes.Johnson.mrrwG_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/77a15dfe-dee8-4d12-b4b2-bff6152fd4c1

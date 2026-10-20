@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Scalar_RadiusData_minimum_charge_bound
 -- name    : OAI.GaussianPropeller.Scalar.RadiusData.minimum_charge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:24:13.134531+00:00
 -- url     : https://prove2.me/theorems/239e5d4b-82d3-47e6-bce0-a040d3670b98

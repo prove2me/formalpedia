@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularAtom_continuous
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularAtom_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/41b49f37-7bcd-4dff-831c-fe9cee7c8822

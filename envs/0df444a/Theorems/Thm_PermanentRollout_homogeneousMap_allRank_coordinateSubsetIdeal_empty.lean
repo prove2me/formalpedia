@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_coordinateSubsetIdeal_empty
 -- name    : PermanentRollout.homogeneousMap_allRank_coordinateSubsetIdeal_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/fcddc72e-d482-4292-b496-21bb7d1d13b6

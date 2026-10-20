@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_threshold_ceil
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_threshold_ceil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/ae8ee8bb-e643-4d58-9c83-663df855da25

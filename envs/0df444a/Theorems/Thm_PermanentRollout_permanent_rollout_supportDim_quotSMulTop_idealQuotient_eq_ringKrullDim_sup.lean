@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_supportDim_quotSMulTop_idealQuotient_eq_ringKrullDim_sup
 -- name    : PermanentRollout.permanent_rollout_supportDim_quotSMulTop_idealQuotient_eq_ringKrullDim_sup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/d4c71c7e-91d1-4719-9227-c4be874aa8b6

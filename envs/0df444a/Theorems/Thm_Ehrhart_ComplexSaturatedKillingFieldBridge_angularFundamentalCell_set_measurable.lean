@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ComplexSaturatedKillingFieldBridge_angularFundamentalCell_set_measurable
 -- name    : Ehrhart.ComplexSaturatedKillingFieldBridge.angularFundamentalCell_set_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/5023468f-faaf-40cc-bcf5-772b25b73b40

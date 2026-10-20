@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_TranscendenceBounds_trdeg_intermediateField_le_adjoin_card
 -- name    : PermanentFormulaLowerBound.TranscendenceBounds.trdeg_intermediateField_le_adjoin_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/c542dc9e-6d1e-4187-934a-0c0ca10b6af4

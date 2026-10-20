@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylWeakRepresentativeBridge_exists_periodic_holomorphic_representative_of_weak_barPartial
 -- name    : Ehrhart.WeightedTorusWeylWeakRepresentativeBridge.exists_periodic_holomorphic_representative_of_weak_barPartial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/4c3352d0-8303-4060-8237-098bac291aa9

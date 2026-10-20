@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_permanent_divisionFree_formula_logarithmic_lower_bound
 -- name    : PermanentFormulaLowerBound.permanent_divisionFree_formula_logarithmic_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/c90ae7a9-2de9-4bd2-a8e2-549f6ad4fd4f

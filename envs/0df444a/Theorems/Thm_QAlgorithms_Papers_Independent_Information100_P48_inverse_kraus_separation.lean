@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_inverse_kraus_separation
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.inverse_kraus_separation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:43:28.870345+00:00
 -- url     : https://prove2.me/theorems/f0a8a379-014a-424f-bfc3-8ac563476de8

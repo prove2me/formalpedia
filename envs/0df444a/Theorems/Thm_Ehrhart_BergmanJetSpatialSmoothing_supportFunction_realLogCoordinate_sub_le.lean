@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetSpatialSmoothing_supportFunction_realLogCoordinate_sub_le
 -- name    : Ehrhart.BergmanJetSpatialSmoothing.supportFunction_realLogCoordinate_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/736f906a-ea84-4be1-89b2-9ff31849f92f

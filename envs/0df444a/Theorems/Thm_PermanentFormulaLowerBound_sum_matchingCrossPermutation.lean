@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_sum_matchingCrossPermutation
 -- name    : PermanentFormulaLowerBound.sum_matchingCrossPermutation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/8d0bf776-eea9-4e09-af57-4976b49d10f0

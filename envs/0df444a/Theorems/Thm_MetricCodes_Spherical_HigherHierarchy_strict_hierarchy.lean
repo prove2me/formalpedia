@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_strict_hierarchy
 -- name    : MetricCodes.Spherical.HigherHierarchy.strict_hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/677f54a1-c3e7-4184-b7f1-0ec9c73b193c

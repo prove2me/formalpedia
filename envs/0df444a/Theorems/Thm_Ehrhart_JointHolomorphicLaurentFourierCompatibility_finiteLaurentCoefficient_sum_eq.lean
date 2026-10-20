@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_finiteLaurentCoefficient_sum_eq
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.finiteLaurentCoefficient_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/98a38e67-7c45-4d3e-a162-73e98effa03c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_affBRST_nilpotent
 -- name    : BookProof.QuantumGravityBrstCharge.affBRST_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:39:24.645948+00:00
 -- url     : https://prove2.me/theorems/c9cf583e-ff58-4ca9-b15b-5356aadfcf02

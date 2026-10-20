@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalConjugatePureVector_norm_sq
 -- name    : QuantumParallelRepetition.unconditionalConjugatePureVector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/4cc07b0e-3fc7-4d62-8c43-dfa1108a6302

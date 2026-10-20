@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_manuscriptBinaryIsLittleO
 -- name    : CohnElkies.exists_manuscriptBinaryIsLittleO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/0dd8fae9-6aa9-4e15-af1a-3ca302ee40e0

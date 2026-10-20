@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_strict_deficit_of_augmentation
 -- name    : OAI.SeymourSecondNeighborhood.strict_deficit_of_augmentation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:05:58.566362+00:00
 -- url     : https://prove2.me/theorems/d39f55ce-55d8-45de-9fb1-a9723a65ce89

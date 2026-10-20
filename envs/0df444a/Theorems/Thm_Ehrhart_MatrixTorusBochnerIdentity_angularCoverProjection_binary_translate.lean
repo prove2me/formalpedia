@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_angularCoverProjection_binary_translate
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.angularCoverProjection_binary_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/63c0dd04-6525-4951-875f-5939c312fcc1

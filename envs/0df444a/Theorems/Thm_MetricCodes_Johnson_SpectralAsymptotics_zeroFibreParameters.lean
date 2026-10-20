@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_zeroFibreParameters
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.zeroFibreParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/034fd018-ffb7-4920-bf7f-96a3e5dea487

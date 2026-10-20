@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_paletteStage_cube_root_control_six_sharp
 -- name    : ErdosProblems.MulticolourTriangleRamsey.paletteStage_cube_root_control_six_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/bef4b8a8-b59d-4b81-95c7-2ec699cbeb87

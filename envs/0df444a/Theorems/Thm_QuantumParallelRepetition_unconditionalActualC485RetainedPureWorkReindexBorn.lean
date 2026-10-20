@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualC485RetainedPureWorkReindexBorn
 -- name    : QuantumParallelRepetition.unconditionalActualC485RetainedPureWorkReindexBorn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/03c2e812-2a83-4d99-b88b-96429fa6e913

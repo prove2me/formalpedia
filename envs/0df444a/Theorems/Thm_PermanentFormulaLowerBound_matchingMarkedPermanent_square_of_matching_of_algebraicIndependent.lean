@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingMarkedPermanent_square_of_matching_of_algebraicIndependent
 -- name    : PermanentFormulaLowerBound.matchingMarkedPermanent_square_of_matching_of_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/88fb0efb-17b4-4667-8c36-8af26eef6e6a

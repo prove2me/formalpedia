@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticPointQuotient_finrank
 -- name    : CompactnessConjecture.symplecticPointQuotient_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/3c852562-79de-43e2-8a83-109b06b7be49

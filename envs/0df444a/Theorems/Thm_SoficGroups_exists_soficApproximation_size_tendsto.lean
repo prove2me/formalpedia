@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_exists_soficApproximation_size_tendsto
 -- name    : SoficGroups.exists_soficApproximation_size_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/c9879e34-2aa7-4a01-b155-4101b3d681ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_partitionComponentSize_transport_lower_of_retained
 -- name    : SoficGroups.partitionComponentSize_transport_lower_of_retained
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/0975544e-46ba-4c48-a189-ccd979f5baac

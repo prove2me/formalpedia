@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFLocalWitness_prefixWordAction_inv
 -- name    : SoficGroups.ThompsonFLocalWitness.prefixWordAction_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/ed51ae31-a3d2-44e3-909a-9758aa20c26e

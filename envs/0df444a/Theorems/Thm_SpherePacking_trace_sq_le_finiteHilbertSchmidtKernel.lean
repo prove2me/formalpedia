@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_trace_sq_le_finiteHilbertSchmidtKernel
 -- name    : SpherePacking.trace_sq_le_finiteHilbertSchmidtKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/90b7ada1-589c-4b84-b42e-23efc264afcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_continuous_weightedRealDerivative
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.continuous_weightedRealDerivative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/3fb62268-d255-4d0f-98fa-ff2b862dc56b

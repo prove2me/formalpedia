@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ArithmeticCircuit_polynomial_eq_getElem
 -- name    : PermanentRollout.ArithmeticCircuit.polynomial_eq_getElem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/c2014591-5b6c-4a27-8197-26615e2add01

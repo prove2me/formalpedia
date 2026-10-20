@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FriedrichsCanonical.qgOneParticleSector_friedrichs_canonical
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-18T10:37:01.849784+00:00
 -- url     : https://prove2.me/submissions/1ca26e6d-8e8b-4f3b-a95f-14acd9ca37e0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFriedrichsCanonical.lean — solution of BookProof.FriedrichsCanonical.qgOneParticleSector_friedrichs_canonical
 import Mathlib

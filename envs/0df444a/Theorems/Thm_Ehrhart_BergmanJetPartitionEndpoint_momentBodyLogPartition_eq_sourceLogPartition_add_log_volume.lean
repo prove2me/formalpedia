@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPartitionEndpoint_momentBodyLogPartition_eq_sourceLogPartition_add_log_volume
 -- name    : Ehrhart.BergmanJetPartitionEndpoint.momentBodyLogPartition_eq_sourceLogPartition_add_log_volume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/e2b4d12b-ecb4-4794-ab21-841868997b51

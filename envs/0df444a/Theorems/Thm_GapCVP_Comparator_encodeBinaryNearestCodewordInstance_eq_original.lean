@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_encodeBinaryNearestCodewordInstance_eq_original
 -- name    : GapCVP.Comparator.encodeBinaryNearestCodewordInstance_eq_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/f2b46167-6127-4e22-8409-54e49ef1ddef

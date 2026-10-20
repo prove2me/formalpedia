@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_CLVerifier_threeSATLanguage_encode_iff
 -- name    : GapCVP.CLVerifier.threeSATLanguage_encode_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/98f42c2c-52b0-4a8a-9664-4b0083d5918a

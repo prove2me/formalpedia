@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_classicalHierarchyProfile_continuousOn_Icc
 -- name    : MetricCodes.Spherical.HigherHierarchy.classicalHierarchyProfile_continuousOn_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/d8fdc752-882a-406e-b10a-bfc64b9e3430

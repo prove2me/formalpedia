@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankOrthogonalTensorPieriRowFiltering_sum_eq_subtype_of_eq_zero
 -- name    : MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriRowFiltering.sum_eq_subtype_of_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/3db8c710-df66-483d-8085-575c9fc0730d

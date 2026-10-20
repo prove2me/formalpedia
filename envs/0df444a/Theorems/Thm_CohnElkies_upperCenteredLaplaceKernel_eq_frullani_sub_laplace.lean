@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperCenteredLaplaceKernel_eq_frullani_sub_laplace
 -- name    : CohnElkies.upperCenteredLaplaceKernel_eq_frullani_sub_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/52067739-6e20-4651-83c5-71ae2fe9638f

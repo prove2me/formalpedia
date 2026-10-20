@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Gamma_scale_sub_lower_bound
 -- name    : MetricCodes.Spherical.HigherHierarchy.Gamma_scale_sub_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/19b8185b-a074-44f4-b411-70ca3244a976

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedPhysicalAxisRange_projectedCoordinateLower_reverseInterlacingHarmonicBranch_mem_range_of_strongStable
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedPhysicalAxisRange.projectedCoordinateLower_reverseInterlacingHarmonicBranch_mem_range_of_strongStable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:06.385168+00:00
 -- url     : https://prove2.me/theorems/b5b8e283-740f-48f9-bb2f-ec28e56636c0

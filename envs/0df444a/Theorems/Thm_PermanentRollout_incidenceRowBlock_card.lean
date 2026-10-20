@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_incidenceRowBlock_card
 -- name    : PermanentRollout.incidenceRowBlock_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/ccdc0c9f-8021-43de-93ca-4f86cbe66cdc

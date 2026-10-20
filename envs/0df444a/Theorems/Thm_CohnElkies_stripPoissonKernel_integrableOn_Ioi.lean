@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_integrableOn_Ioi
 -- name    : CohnElkies.stripPoissonKernel_integrableOn_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/3f03b664-9ea0-43a7-8d38-4508720fc5e6

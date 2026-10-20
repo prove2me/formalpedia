@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_encodeInstance_eq_original
 -- name    : GapCVP.Comparator.encodeInstance_eq_original
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/0eb60556-5e89-47c4-bb5c-4d7a4a60cd73

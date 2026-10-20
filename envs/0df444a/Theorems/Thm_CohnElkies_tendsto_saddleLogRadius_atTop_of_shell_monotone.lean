@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_saddleLogRadius_atTop_of_shell_monotone
 -- name    : CohnElkies.tendsto_saddleLogRadius_atTop_of_shell_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.023852+00:00
 -- url     : https://prove2.me/theorems/ced09a38-6df7-45ee-b010-eef41c0620f1

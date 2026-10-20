@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhysicalApproximation_exp_neg_momentWeakHolomorphicStrictJointTorusWeight_le_uniform
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhysicalApproximation.exp_neg_momentWeakHolomorphicStrictJointTorusWeight_le_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/87eecdcd-b65f-46bb-be75-ff940cb0771b

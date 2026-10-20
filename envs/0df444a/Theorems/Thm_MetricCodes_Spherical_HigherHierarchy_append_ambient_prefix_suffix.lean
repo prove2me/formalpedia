@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_append_ambient_prefix_suffix
 -- name    : MetricCodes.Spherical.HigherHierarchy.append_ambient_prefix_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/cc50dd20-27a2-4e83-8ccc-719b825693f6

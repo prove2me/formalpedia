@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalStoppingTargetFirst_branch_apply
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalStoppingTargetFirst_branch_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/a0c5284b-41f6-4985-b0f5-9a4fecf2b024

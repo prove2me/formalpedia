@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_hasPropertyT_of_three_finite_subgroups_geometric
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.hasPropertyT_of_three_finite_subgroups_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/fee2b3b2-7324-4ac4-bad4-38b3521d54cd

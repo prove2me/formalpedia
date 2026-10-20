@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_permutationVariation_subtract_layer
 -- name    : SoficGroups.KunThomFiberCoarea.permutationVariation_subtract_layer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/789ada4e-a746-48df-bb0d-7877d77190ea

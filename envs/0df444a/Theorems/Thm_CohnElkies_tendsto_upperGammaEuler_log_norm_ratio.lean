@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_upperGammaEuler_log_norm_ratio
 -- name    : CohnElkies.tendsto_upperGammaEuler_log_norm_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/370cbb22-55cd-48a2-8e16-7b1ed1e45f9c

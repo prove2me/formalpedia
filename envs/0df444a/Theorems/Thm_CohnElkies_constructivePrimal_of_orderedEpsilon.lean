@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_constructivePrimal_of_orderedEpsilon
 -- name    : CohnElkies.constructivePrimal_of_orderedEpsilon
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/79222eca-48de-4f45-9b83-f4bea95ecc25

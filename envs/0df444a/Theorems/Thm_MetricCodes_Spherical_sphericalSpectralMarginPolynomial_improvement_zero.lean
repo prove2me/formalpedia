@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalSpectralMarginPolynomial_improvement_zero
 -- name    : MetricCodes.Spherical.sphericalSpectralMarginPolynomial_improvement_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/992674b3-8415-4f7c-ab9e-d00e1045805f

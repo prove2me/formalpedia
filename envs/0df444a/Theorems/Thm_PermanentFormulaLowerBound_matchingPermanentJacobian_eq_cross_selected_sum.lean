@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPermanentJacobian_eq_cross_selected_sum
 -- name    : PermanentFormulaLowerBound.matchingPermanentJacobian_eq_cross_selected_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/84224443-5834-4db5-9056-faeca3fb4d34

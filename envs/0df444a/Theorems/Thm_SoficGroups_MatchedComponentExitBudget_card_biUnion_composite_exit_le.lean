@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MatchedComponentExitBudget_card_biUnion_composite_exit_le
 -- name    : SoficGroups.MatchedComponentExitBudget.card_biUnion_composite_exit_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/354705ea-738b-4536-bed6-6caadbd9722f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_edgeCoefficient_axis_sum
 -- name    : MetricCodes.HigherProjectionGraph.Data.edgeCoefficient_axis_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/2313f1f5-c78f-43ab-a2a9-ac9428d7f72f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualOneScaleFlagControlledFiniteStageDecoder_eq
 -- name    : QuantumParallelRepetition.unconditionalActualOneScaleFlagControlledFiniteStageDecoder_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/f7271f37-e8c2-4bac-a867-292030962679

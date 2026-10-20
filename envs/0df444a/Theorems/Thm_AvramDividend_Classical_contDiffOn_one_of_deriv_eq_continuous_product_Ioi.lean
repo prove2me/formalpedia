@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_contDiffOn_one_of_deriv_eq_continuous_product_Ioi
 -- name    : AvramDividend.Classical.contDiffOn_one_of_deriv_eq_continuous_product_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T13:40:39.299595+00:00
 -- url     : https://prove2.me/theorems/5350cb84-ba0a-4175-9251-da98c2bf41df

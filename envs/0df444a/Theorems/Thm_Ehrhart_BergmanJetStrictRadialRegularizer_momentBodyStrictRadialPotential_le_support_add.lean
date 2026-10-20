@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetStrictRadialRegularizer_momentBodyStrictRadialPotential_le_support_add
 -- name    : Ehrhart.BergmanJetStrictRadialRegularizer.momentBodyStrictRadialPotential_le_support_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/b9b7d3fe-6695-41f1-b524-79088598716a

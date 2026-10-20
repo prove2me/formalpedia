@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaVarianceDensity_laplace_linear_lower
 -- name    : CohnElkies.upperGammaVarianceDensity_laplace_linear_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/2091efe6-8097-46bd-884b-5e924ee00aa1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_manuscriptQuotientRootError
 -- name    : CohnElkies.tendsto_manuscriptQuotientRootError
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/c350abf0-6d34-4b05-bd86-2c787f1ba0cb

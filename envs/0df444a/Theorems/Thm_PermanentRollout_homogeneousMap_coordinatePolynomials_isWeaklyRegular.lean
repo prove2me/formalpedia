@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_coordinatePolynomials_isWeaklyRegular
 -- name    : PermanentRollout.homogeneousMap_coordinatePolynomials_isWeaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/dacef226-468b-434f-a6b8-1ae0f40e9568

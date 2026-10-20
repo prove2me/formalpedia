@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedWordPower_eventually_linear_pairedDefectWordAverage_pow
 -- name    : SoficGroups.KunRootedWordPower.eventually_linear_pairedDefectWordAverage_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/81b1f294-862b-40aa-9d2b-90322b91859d

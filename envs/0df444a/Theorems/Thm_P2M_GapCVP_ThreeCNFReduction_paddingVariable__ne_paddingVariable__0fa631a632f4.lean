@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GapCVP_ThreeCNFReduction_paddingVariable__ne_paddingVariable__0fa631a632f4
 -- name    : P2M_GapCVP_ThreeCNFReduction_paddingVariable__ne_paddingVariable__0fa631a632f4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/cbc3fc1f-6df0-49e3-8209-018a28a90810

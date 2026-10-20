@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_measurableSet_sourceLocalAngularBox
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.measurableSet_sourceLocalAngularBox
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/5421b52b-b573-4eba-afe6-9e91a25d8919

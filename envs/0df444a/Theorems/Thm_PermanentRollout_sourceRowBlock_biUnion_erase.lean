@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceRowBlock_biUnion_erase
 -- name    : PermanentRollout.sourceRowBlock_biUnion_erase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/de0319fc-e70a-474b-9576-11afae160de3

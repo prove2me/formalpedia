@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedCostSet_bddBelow
 -- name    : CohnElkies.normalizedCostSet_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/040a5d5d-503f-4c2b-b957-1a9b57adc336

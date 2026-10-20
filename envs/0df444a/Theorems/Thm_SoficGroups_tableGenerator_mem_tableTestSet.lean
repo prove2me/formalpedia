@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_tableGenerator_mem_tableTestSet
 -- name    : SoficGroups.tableGenerator_mem_tableTestSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/749cf7e9-ca2c-424d-ada1-59d92bff49a1

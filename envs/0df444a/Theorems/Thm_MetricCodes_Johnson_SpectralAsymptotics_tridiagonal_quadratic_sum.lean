@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_tridiagonal_quadratic_sum
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.tridiagonal_quadratic_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/a318e31a-88a5-4888-816f-bfb744ba4b41

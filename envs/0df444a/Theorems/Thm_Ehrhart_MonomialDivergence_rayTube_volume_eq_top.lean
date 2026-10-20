@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MonomialDivergence_rayTube_volume_eq_top
 -- name    : Ehrhart.MonomialDivergence.rayTube_volume_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/9f6d6a02-e765-4422-a82d-7d59a9d651ab

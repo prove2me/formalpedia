@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTValidTransverseSectorFamily_normalizedPositiveSector_canonicalAxis_inner_eq_zero
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseSectorFamily.normalizedPositiveSector_canonicalAxis_inner_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:15.843669+00:00
 -- url     : https://prove2.me/theorems/9ffac797-0847-4d0d-9389-e07da0a01d32

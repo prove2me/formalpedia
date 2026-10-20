@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_harmonicDimension_le_truncated
 -- name    : SpherePacking.harmonicDimension_le_truncated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/c4080a5d-3e56-41e1-864c-5423c86c5268

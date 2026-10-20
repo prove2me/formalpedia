@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_coefficientTranscendenceDegree_ge_of_algebraicIndependent
 -- name    : PermanentFormulaLowerBound.coefficientTranscendenceDegree_ge_of_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/ffd58a95-cd43-4788-9ac2-96e2c4168ff7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedRestrictedProjectorEquality_allRankCartanCharacteristicProjector_eq_selectedClebsch_of_mem_physicalSignedSpan
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedRestrictedProjectorEquality.allRankCartanCharacteristicProjector_eq_selectedClebsch_of_mem_physicalSignedSpan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/65dbcb3f-e45f-4094-8caa-f498e76d96fc

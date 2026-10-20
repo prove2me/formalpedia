@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_tendsto_logb_windowFibreQuotient
 -- name    : MetricCodes.Johnson.Asymptotics.tendsto_logb_windowFibreQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/4e45cee3-cbfa-439f-8cec-60195b8e1ec1

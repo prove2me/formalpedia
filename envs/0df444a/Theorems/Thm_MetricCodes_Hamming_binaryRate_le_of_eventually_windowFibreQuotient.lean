@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryRate_le_of_eventually_windowFibreQuotient
 -- name    : MetricCodes.Hamming.binaryRate_le_of_eventually_windowFibreQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/17e2ea98-1a2b-4ebc-90c3-8177f0d5a81b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejTwoResidualEnergy_ge_of_angle
 -- name    : SoficGroups.ejTwoResidualEnergy_ge_of_angle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/6b89683d-3334-448a-9eca-698d1f369791

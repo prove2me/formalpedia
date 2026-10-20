@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radial_fourier_mellin_regularized_closed
 -- name    : CohnElkies.radial_fourier_mellin_regularized_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/d2d28e7e-d786-46e7-82a7-27de57305558

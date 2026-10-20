@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleMellinShellArgument_neg_even
 -- name    : CohnElkies.saddleMellinShellArgument_neg_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/cb1a04e8-c2df-463e-9b94-5ea443fa1abb

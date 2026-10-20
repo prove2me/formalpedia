@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FBAComp_AmazonGain_lemma_A_2
 -- name    : FBAComp.AmazonGain.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:10.548462+00:00
 -- url     : https://prove2.me/theorems/a889de3e-db1e-4573-bd7c-3680ce445612

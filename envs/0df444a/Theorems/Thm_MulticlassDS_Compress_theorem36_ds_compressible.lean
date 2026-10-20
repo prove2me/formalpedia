@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_Compress_theorem36_ds_compressible
 -- name    : MulticlassDS.Compress.theorem36_ds_compressible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:04:11.314127+00:00
 -- url     : https://prove2.me/theorems/2e95e7dc-8033-439a-b9ea-cea8c036eb96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingCyclicDiagonalEmbedding_snd_injective
 -- name    : PermanentFormulaLowerBound.matchingCyclicDiagonalEmbedding_snd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/f2c6589c-c4b2-4b4a-8535-27a3cfe8f10d

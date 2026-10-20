@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_normalized_input_contDiff
 -- name    : PermanentRollout.permanent_rollout_normalized_input_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/4fb816b6-8e73-42f5-90f7-7d0aa7b652bb

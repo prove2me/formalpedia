@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedProductDiagonalSparseCut_exists_completed_goodPermutationGraph_sparse_cut
 -- name    : SoficGroups.KunCompletedProductDiagonalSparseCut.exists_completed_goodPermutationGraph_sparse_cut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:29.358829+00:00
 -- url     : https://prove2.me/theorems/05a6a1a3-bea1-4b71-a533-d988f383ebe2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_continuous_twistedAngularIntegrand
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.continuous_twistedAngularIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/5ecdabef-cbea-4115-9ab7-ac131a7a056a

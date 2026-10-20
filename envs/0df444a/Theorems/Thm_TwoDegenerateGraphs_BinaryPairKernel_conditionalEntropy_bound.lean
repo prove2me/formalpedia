@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_conditionalEntropy_bound
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.conditionalEntropy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/6fc86154-0421-4eca-93b6-0d9acc14a61d

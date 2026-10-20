@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_mul_new_left
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.mul_new_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/322b5c0f-fb70-46c9-8ef8-fdf250d6979c

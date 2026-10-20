@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_tendsto_log_momentNormalized_diagonalKernel_div_all
 -- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.tendsto_log_momentNormalized_diagonalKernel_div_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/c6bf22a8-25d3-4199-aa07-45953bb6a795

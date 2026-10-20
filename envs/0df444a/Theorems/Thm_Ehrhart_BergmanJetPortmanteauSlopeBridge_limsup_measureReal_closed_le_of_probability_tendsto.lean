@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauSlopeBridge_limsup_measureReal_closed_le_of_probability_tendsto
 -- name    : Ehrhart.BergmanJetPortmanteauSlopeBridge.limsup_measureReal_closed_le_of_probability_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/9825f0e7-db22-4c1b-b2d9-5079da8ce82f

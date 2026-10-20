@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalConjugateBobBasisOverlap_sum
 -- name    : QuantumParallelRepetition.unconditionalConjugateBobBasisOverlap_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/e2c884d6-cf9a-4545-b332-f0413021cf18

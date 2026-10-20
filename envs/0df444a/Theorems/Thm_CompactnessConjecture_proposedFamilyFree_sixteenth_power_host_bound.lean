@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamilyFree_sixteenth_power_host_bound
 -- name    : CompactnessConjecture.proposedFamilyFree_sixteenth_power_host_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/51f3530d-673f-4a47-b240-7234d28f2586

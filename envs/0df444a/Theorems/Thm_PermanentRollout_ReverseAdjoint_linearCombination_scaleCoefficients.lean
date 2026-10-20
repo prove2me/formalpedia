@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_linearCombination_scaleCoefficients
 -- name    : PermanentRollout.ReverseAdjoint.linearCombination_scaleCoefficients
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/8a8144da-39af-4d5d-abc0-caa27c5498ef

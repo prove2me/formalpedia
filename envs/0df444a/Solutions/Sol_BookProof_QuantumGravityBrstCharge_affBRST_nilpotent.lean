@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QuantumGravityBrstCharge.affBRST_nilpotent
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:39:07.265931+00:00
 -- url     : https://prove2.me/submissions/954a6ee0-4e31-4374-99f4-2f5baa956899
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQuantumGravityBrstCharge.lean — solution of BookProof.QuantumGravityBrstCharge.affBRST_nilpotent
 import Mathlib

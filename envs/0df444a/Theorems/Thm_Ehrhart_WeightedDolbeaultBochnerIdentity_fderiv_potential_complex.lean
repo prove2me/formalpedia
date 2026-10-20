@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_fderiv_potential_complex
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.fderiv_potential_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/139568b9-5f9d-43d8-98c9-eeb2eccc6033

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetDualGradientInverseTransport_measurable_finiteEnergySourceLegendreGradient
 -- name    : Ehrhart.BergmanJetDualGradientInverseTransport.measurable_finiteEnergySourceLegendreGradient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/7e8971fe-3c6a-4908-9046-0072812eec40

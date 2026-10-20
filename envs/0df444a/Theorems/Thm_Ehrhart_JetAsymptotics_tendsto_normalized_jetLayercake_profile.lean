@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetAsymptotics_tendsto_normalized_jetLayercake_profile
 -- name    : Ehrhart.JetAsymptotics.tendsto_normalized_jetLayercake_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/59fb198b-fd46-4288-952a-84126937343e

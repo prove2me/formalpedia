@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_finiteCycle_connected
 -- name    : CompactnessConjecture.finiteCycle_connected
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/ebc118f1-de70-47d6-9750-10025b2d4b17

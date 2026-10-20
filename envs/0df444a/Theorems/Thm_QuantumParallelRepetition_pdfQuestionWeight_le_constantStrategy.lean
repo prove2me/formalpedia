@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfQuestionWeight_le_constantStrategy
 -- name    : QuantumParallelRepetition.pdfQuestionWeight_le_constantStrategy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/bd2cfade-6a55-41c3-be68-53a424f09fa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gluedThetaBase_color_eq
 -- name    : CompactnessConjecture.gluedThetaBase_color_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/f8992391-af08-4404-b9d0-58d6ceaae2e8

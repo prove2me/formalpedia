@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_freeAffineExtendedForm_totalDegree_le_one
 -- name    : PermanentRollout.freeAffineExtendedForm_totalDegree_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:38.420988+00:00
 -- url     : https://prove2.me/theorems/f86b1bce-9557-4914-9398-a3ac117404c6

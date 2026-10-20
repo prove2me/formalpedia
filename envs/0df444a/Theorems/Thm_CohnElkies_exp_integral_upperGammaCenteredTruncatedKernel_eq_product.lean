@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exp_integral_upperGammaCenteredTruncatedKernel_eq_product
 -- name    : CohnElkies.exp_integral_upperGammaCenteredTruncatedKernel_eq_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/19c98453-78ff-4477-9880-df2f81979973

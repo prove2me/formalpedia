@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusClosedMollifierAdjoint_complexCoverWeight_mul_conj_barPartial_translatedDensityCancelledCoverKernel
 -- name    : Ehrhart.TorusClosedMollifierAdjoint.complexCoverWeight_mul_conj_barPartial_translatedDensityCancelledCoverKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/051d251b-5ba3-46c1-865e-60eeef56344e

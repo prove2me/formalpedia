@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_binaryPinskerGap_hasDerivAt
 -- name    : TwoDegenerateGraphs.binaryPinskerGap_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/c200944f-446b-4fc9-8f6d-c4e647960c84

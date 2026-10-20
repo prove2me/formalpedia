@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGeodesic_real_jetLayercake_le_sum_momentTruncatedJetOrder
 -- name    : Ehrhart.BergmanJetGeodesic.real_jetLayercake_le_sum_momentTruncatedJetOrder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/0f10d919-dbbc-49a9-9617-4d3d7dc87585

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalPhysicalAcceptedCoherentStage_eq_phaseSigma
 -- name    : QuantumParallelRepetition.unconditionalPhysicalAcceptedCoherentStage_eq_phaseSigma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/f2ec9859-fc86-4c80-ac29-1170fc0e7067

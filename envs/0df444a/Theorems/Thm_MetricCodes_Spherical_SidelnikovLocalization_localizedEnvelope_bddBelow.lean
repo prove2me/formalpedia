@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_SidelnikovLocalization_localizedEnvelope_bddBelow
 -- name    : MetricCodes.Spherical.SidelnikovLocalization.localizedEnvelope_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/3b75140d-18fd-45fa-8adf-fce5b7698e70

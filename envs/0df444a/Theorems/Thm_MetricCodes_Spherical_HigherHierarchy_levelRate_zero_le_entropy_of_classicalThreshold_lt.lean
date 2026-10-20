@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_zero_le_entropy_of_classicalThreshold_lt
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_zero_le_entropy_of_classicalThreshold_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/4eca4051-4388-4ebb-9209-78fa9be88707

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ExceptionalRankOffset_exists_common_log_rank_offset_except
 -- name    : SoficGroups.ExceptionalRankOffset.exists_common_log_rank_offset_except
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/cae3c8d4-3417-4293-b530-f8f8a6c3970e

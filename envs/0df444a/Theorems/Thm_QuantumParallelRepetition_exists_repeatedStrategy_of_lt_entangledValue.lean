@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exists_repeatedStrategy_of_lt_entangledValue
 -- name    : QuantumParallelRepetition.exists_repeatedStrategy_of_lt_entangledValue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/675e1044-2ca6-4fa6-8984-2797d19da0a7

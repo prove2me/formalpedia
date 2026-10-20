@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankCanonicalBoxActualForward_canonicalBoxForwardPolynomialData_pathExchange_allRows
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward.canonicalBoxForwardPolynomialData_pathExchange_allRows
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:00.396673+00:00
 -- url     : https://prove2.me/theorems/e3793477-381c-4e37-b2ef-3b99222cab3f

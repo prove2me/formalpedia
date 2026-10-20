@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_forwardFold_getD_of_lt
 -- name    : PermanentRollout.ReverseAdjoint.forwardFold_getD_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/391f81ed-7791-4174-98a8-af52dc9bdb41

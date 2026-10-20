@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_fourier_times_cover_eq_radial_twist
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.fourier_times_cover_eq_radial_twist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/511dd35e-d77f-4891-9308-97a356158a39

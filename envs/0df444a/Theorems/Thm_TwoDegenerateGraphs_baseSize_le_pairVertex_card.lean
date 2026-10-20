@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_baseSize_le_pairVertex_card
 -- name    : TwoDegenerateGraphs.baseSize_le_pairVertex_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/3a764214-f809-4d89-8f98-78381bd0476d

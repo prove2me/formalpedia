@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactified_zero_residual_cost_le
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactified_zero_residual_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/527da7c7-00ef-48af-88d0-bcdebfd063fc

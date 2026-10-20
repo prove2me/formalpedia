@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_one_sub_two_mul_radiusGamma
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.one_sub_two_mul_radiusGamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/88f29836-aa20-4369-bfbf-2c8197bcbde0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_coverWeightedMeasure_isLocallyFinite
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.coverWeightedMeasure_isLocallyFinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/a5029982-c685-4801-b732-c659d1e42b4f

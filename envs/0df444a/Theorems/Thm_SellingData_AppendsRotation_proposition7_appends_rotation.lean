@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_AppendsRotation_proposition7_appends_rotation
 -- name    : SellingData.AppendsRotation.proposition7_appends_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:36:19.747729+00:00
 -- url     : https://prove2.me/theorems/c56147ab-36fb-4fc6-9743-660a187a4537

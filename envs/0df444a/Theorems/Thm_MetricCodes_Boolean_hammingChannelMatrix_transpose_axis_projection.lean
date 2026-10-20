@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingChannelMatrix_transpose_axis_projection
 -- name    : MetricCodes.Boolean.hammingChannelMatrix_transpose_axis_projection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/da990a31-a384-46db-92d8-0f3c563c9dae

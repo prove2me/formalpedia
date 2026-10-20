@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhase_momentWeakJointCoverEnvelope_eq_holomorphicExpLift_of_pos
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhase.momentWeakJointCoverEnvelope_eq_holomorphicExpLift_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/1baafd1a-561e-43eb-a399-1b35ebd1f611

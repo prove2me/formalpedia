@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_eventually_interiorSpectralMargin_pos
 -- name    : MetricCodes.MRRW.eventually_interiorSpectralMargin_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/bca9f1b2-0638-4856-b7e4-dd9db47f21f7

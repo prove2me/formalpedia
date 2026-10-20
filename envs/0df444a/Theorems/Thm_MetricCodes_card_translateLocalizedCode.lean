@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_card_translateLocalizedCode
 -- name    : MetricCodes.card_translateLocalizedCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/dfdaaca1-bef9-4b56-a5db-929e475f1218

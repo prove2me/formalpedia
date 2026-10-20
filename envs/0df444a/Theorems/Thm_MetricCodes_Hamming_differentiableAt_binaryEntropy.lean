@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_differentiableAt_binaryEntropy
 -- name    : MetricCodes.Hamming.differentiableAt_binaryEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/f2201fa5-2d4a-4987-a31b-6d83ca165043

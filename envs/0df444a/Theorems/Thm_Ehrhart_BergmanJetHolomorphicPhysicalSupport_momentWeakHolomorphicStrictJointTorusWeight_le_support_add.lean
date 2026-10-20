@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetHolomorphicPhysicalSupport_momentWeakHolomorphicStrictJointTorusWeight_le_support_add
 -- name    : Ehrhart.BergmanJetHolomorphicPhysicalSupport.momentWeakHolomorphicStrictJointTorusWeight_le_support_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/bb2a99d2-371f-4d5c-ba26-59bd58faa43e

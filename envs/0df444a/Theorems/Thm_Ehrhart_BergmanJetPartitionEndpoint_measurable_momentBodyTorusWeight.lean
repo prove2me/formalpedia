@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPartitionEndpoint_measurable_momentBodyTorusWeight
 -- name    : Ehrhart.BergmanJetPartitionEndpoint.measurable_momentBodyTorusWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/5962cf03-b4c1-4dcb-819d-22c899a151e7

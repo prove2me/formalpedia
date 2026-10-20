@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalCompleteProjectiveOutcome_eq_blockVector
 -- name    : QuantumParallelRepetition.dSVDensityRationalCompleteProjectiveOutcome_eq_blockVector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/f4f53d20-4038-4710-a047-0a89f875bfdb

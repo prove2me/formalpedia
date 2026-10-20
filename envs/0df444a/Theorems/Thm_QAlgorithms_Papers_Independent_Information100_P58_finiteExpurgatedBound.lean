@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_finiteExpurgatedBound
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.finiteExpurgatedBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:21:53.243822+00:00
 -- url     : https://prove2.me/theorems/b915e162-d6f4-40fa-9ce8-e9c11363b5dc

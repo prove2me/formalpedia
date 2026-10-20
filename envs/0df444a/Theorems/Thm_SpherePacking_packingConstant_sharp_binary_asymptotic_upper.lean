@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_packingConstant_sharp_binary_asymptotic_upper
 -- name    : SpherePacking.packingConstant_sharp_binary_asymptotic_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/ef030070-54ed-4ea9-8d7f-28af47be93cb

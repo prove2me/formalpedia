@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingRecurrenceWeight_eigenrecurrence
 -- name    : MetricCodes.Boolean.hammingRecurrenceWeight_eigenrecurrence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/850bb2b2-d122-47fe-8c79-7d274ea15936

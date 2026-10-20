@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_ArbitraryBodyOneSidedAngularWeightedKernel_angularToRadialGraphAmbientCLMOfUpper_smooth_mem
 -- name    : Ehrhart.ArbitraryBodyOneSidedAngularWeightedKernel.angularToRadialGraphAmbientCLMOfUpper_smooth_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/1908c7ab-ada9-4342-97ed-e5561955ec91

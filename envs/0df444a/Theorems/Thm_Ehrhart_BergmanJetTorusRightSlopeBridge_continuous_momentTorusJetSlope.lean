@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_continuous_momentTorusJetSlope
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.continuous_momentTorusJetSlope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/183299dc-6b97-4301-b8a5-ec62bc540e02

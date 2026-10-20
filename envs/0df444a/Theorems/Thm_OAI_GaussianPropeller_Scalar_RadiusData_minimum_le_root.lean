@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Scalar_RadiusData_minimum_le_root
 -- name    : OAI.GaussianPropeller.Scalar.RadiusData.minimum_le_root
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:24:59.974646+00:00
 -- url     : https://prove2.me/theorems/ae2a98df-86bf-4e36-ad34-da4142c51f16

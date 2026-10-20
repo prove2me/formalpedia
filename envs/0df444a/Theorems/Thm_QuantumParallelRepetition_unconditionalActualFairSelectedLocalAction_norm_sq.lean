@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSelectedLocalAction_norm_sq
 -- name    : QuantumParallelRepetition.unconditionalActualFairSelectedLocalAction_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/b10bdd33-8d01-4286-98e2-5ab6937dd06b

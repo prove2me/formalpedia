@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauSlopeBridge_upperSemicontinuous_of_complexTorusCover
 -- name    : Ehrhart.BergmanJetPortmanteauSlopeBridge.upperSemicontinuous_of_complexTorusCover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/bc57205e-1f1e-4197-b7ca-bf4e117ae9f9

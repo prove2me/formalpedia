@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedAdjointMollification_finite_complex_local_square_integral_sum_tendsto_zero
 -- name    : Ehrhart.TorusWeightedAdjointMollification.finite_complex_local_square_integral_sum_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/f0cd6d60-88d1-4b54-8179-3a39c3c81f75

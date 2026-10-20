@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_CircuitAdjoint_foldl_multiplicationCount
 -- name    : PermanentRollout.ReverseAdjoint.CircuitAdjoint.foldl_multiplicationCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/5e6b4803-aeb3-4612-b6c7-b8d8263dc1fa

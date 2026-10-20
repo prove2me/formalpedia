@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SecondQuantizationCore_dGamma_essentiallySelfAdjointOn_fockCore
 -- name    : BookProof.SecondQuantizationCore.dGamma_essentiallySelfAdjointOn_fockCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:50:59.528839+00:00
 -- url     : https://prove2.me/theorems/75020267-bee2-4fe0-8d75-23c0d6eb5c8a

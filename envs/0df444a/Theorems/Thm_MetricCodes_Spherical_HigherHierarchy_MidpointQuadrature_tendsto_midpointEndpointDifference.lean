@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_MidpointQuadrature_tendsto_midpointEndpointDifference
 -- name    : MetricCodes.Spherical.HigherHierarchy.MidpointQuadrature.tendsto_midpointEndpointDifference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/8fc107d5-461c-44a5-8743-5ce6adf741b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankWeylBranchingRecurrence_orthogonalJacobiTrudiDimension_branching_allRank
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankWeylBranchingRecurrence.orthogonalJacobiTrudiDimension_branching_allRank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/e2bf0f16-1bbb-40cc-bb9e-c436b255a55c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_upper_shortEndpoint_scaled
 -- name    : CohnElkies.tendsto_upper_shortEndpoint_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/bbe5d8e9-79c2-4d6c-99b6-2e884a923438

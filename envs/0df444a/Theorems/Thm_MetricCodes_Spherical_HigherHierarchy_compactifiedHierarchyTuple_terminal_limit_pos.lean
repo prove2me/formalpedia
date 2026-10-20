@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedHierarchyTuple_terminal_limit_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedHierarchyTuple_terminal_limit_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/c4810708-5a2e-4b1b-a98c-64db501c1d27

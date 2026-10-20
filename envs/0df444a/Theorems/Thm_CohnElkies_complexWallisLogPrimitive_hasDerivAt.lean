@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_complexWallisLogPrimitive_hasDerivAt
 -- name    : CohnElkies.complexWallisLogPrimitive_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/eed50c98-6108-4834-b816-378b8cbc4303

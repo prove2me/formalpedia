@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeGlobalPlurisubharmonicClosure_continuous_sourcePositiveCoverExp
 -- name    : Ehrhart.JetEnvelopeGlobalPlurisubharmonicClosure.continuous_sourcePositiveCoverExp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/10f573ca-ace6-4482-af96-5fd6e6ddc9b8

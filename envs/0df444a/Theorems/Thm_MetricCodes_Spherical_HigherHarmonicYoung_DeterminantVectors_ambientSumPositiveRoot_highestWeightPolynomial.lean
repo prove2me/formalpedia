@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_DeterminantVectors_ambientSumPositiveRoot_highestWeightPolynomial
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors.ambientSumPositiveRoot_highestWeightPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/d4c771cb-6638-4686-be2e-ded9eb256839

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_first_excess_mass_le_diagonalBoundary
 -- name    : SoficGroups.KunThomFiberCoarea.first_excess_mass_le_diagonalBoundary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/f29ab172-3ecd-4e60-883b-d85c0d7280d1

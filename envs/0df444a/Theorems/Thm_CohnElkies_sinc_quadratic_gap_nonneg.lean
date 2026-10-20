@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sinc_quadratic_gap_nonneg
 -- name    : CohnElkies.sinc_quadratic_gap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/4dda2a45-2f0a-44ad-9f10-5e66da3e4096

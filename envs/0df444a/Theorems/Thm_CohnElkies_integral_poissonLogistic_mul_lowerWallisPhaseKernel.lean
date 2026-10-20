@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_poissonLogistic_mul_lowerWallisPhaseKernel
 -- name    : CohnElkies.integral_poissonLogistic_mul_lowerWallisPhaseKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/86b4e110-cb51-419c-a75c-caf0db138472

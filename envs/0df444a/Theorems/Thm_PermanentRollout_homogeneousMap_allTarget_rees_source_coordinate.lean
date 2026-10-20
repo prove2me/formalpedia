@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_rees_source_coordinate
 -- name    : PermanentRollout.homogeneousMap_allTarget_rees_source_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/58b05897-31f5-44e3-9c9a-552ef39f40b4

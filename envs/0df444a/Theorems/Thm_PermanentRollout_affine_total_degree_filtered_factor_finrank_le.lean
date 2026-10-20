@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_filtered_factor_finrank_le
 -- name    : PermanentRollout.affine_total_degree_filtered_factor_finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/5f86b6e4-13e5-43bb-839d-c57f5a95d945

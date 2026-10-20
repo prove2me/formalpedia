@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_johnsonAmbientDimension_eq_of_fibre
 -- name    : MetricCodes.johnsonAmbientDimension_eq_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/67485309-638e-42a3-b1c1-98ada5b62988

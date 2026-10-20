@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_mrrw_minimizer_pos
 -- name    : MetricCodes.MRRW.mrrw_minimizer_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/b6f36da8-d1dc-4e1f-9dfe-abb789b06757

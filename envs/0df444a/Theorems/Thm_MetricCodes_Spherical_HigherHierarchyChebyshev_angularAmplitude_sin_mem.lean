@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularAmplitude_sin_mem
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularAmplitude_sin_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/03f9cc0f-3798-4a2d-8cff-9a5a80fa3dca

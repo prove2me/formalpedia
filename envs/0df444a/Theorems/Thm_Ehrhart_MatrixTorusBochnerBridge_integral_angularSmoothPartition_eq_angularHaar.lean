@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_integral_angularSmoothPartition_eq_angularHaar
 -- name    : Ehrhart.MatrixTorusBochnerBridge.integral_angularSmoothPartition_eq_angularHaar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/fa74ea39-300d-4f72-bbe0-fae1f9551791

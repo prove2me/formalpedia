@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_manuscriptExpectedRetainedEdgeCount_inv_tendsto_zero
 -- name    : TwoDegenerateGraphs.manuscriptExpectedRetainedEdgeCount_inv_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/a054906d-3ca6-4561-acc9-e1563a8f7e34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_partitioned_coverWeighted_integral_eq_torus
 -- name    : Ehrhart.MatrixTorusBochnerBridge.partitioned_coverWeighted_integral_eq_torus
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/8ffd95bc-722e-4fa8-adb6-a47339971190

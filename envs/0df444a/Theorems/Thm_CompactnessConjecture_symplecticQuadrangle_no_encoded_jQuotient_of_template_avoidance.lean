@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_no_encoded_jQuotient_of_template_avoidance
 -- name    : CompactnessConjecture.symplecticQuadrangle_no_encoded_jQuotient_of_template_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/c090b472-744b-475c-bd65-7a5d1ea52d8c

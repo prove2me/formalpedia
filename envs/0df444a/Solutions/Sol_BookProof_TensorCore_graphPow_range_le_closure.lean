@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.TensorCore.graphPow_range_le_closure
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:12:11.193156+00:00
 -- url     : https://prove2.me/submissions/9759c366-94bf-41b8-8e79-ba638ef955ea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterTensorGraphCore.lean — solution of BookProof.TensorCore.graphPow_range_le_closure
 import Mathlib

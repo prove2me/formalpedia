@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_normalizedPermanent_slicedGradient_homogeneousFiberDegree_le_two_pow
 -- name    : PermanentRollout.normalizedPermanent_slicedGradient_homogeneousFiberDegree_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.904517+00:00
 -- url     : https://prove2.me/theorems/db81cdcc-b47a-49b3-967c-681000bcb628

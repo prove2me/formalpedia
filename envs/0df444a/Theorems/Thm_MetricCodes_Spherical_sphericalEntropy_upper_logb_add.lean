@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_sphericalEntropy_upper_logb_add
 -- name    : MetricCodes.Spherical.sphericalEntropy_upper_logb_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/4b128186-9334-4063-b2ef-8d349ba99e47

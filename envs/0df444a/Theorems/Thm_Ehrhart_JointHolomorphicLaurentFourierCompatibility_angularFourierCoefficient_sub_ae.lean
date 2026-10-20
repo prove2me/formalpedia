@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JointHolomorphicLaurentFourierCompatibility_angularFourierCoefficient_sub_ae
 -- name    : Ehrhart.JointHolomorphicLaurentFourierCompatibility.angularFourierCoefficient_sub_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/8aa22a10-7bfa-402c-a685-0e257f853555

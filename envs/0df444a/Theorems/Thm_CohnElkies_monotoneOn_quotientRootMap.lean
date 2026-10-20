@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_monotoneOn_quotientRootMap
 -- name    : CohnElkies.monotoneOn_quotientRootMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/32b079f6-aabe-472e-9ee8-03f47551e57f

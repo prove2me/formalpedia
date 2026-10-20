@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerCoreApproximation_complexLp_norm_sq_eq_integral
 -- name    : Ehrhart.MatrixTorusBochnerCoreApproximation.complexLp_norm_sq_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/d3e29770-9e4a-4355-af84-dbb2940c6150

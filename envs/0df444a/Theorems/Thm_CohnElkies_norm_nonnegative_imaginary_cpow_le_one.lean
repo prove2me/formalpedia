@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_norm_nonnegative_imaginary_cpow_le_one
 -- name    : CohnElkies.norm_nonnegative_imaginary_cpow_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/1fc28f67-3bc3-4b1f-9945-4146daa2b788

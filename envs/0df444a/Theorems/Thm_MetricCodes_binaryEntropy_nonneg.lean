@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_binaryEntropy_nonneg
 -- name    : MetricCodes.binaryEntropy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/5a252cc3-b8af-47fd-a870-bb9f0d5c0836

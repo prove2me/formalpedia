@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionMeasure_real_event_eq_sum
 -- name    : TwoDegenerateGraphs.hammingRetentionMeasure_real_event_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/ff2e7d06-16b4-498a-91dd-38034e4f3f54

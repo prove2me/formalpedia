@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MonomialDivergence_supportFunction_le_pairing_add_on_rayTube
 -- name    : Ehrhart.MonomialDivergence.supportFunction_le_pairing_add_on_rayTube
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/bb9a1919-4a22-409c-b4a3-2d1de271f11a

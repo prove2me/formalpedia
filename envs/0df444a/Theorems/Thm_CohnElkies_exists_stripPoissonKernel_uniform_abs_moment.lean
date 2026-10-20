@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_stripPoissonKernel_uniform_abs_moment
 -- name    : CohnElkies.exists_stripPoissonKernel_uniform_abs_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/97164f4f-b0ae-4c2e-81ed-776959f55ba3

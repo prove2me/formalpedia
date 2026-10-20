@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_corollary_3
 -- name    : TokenFinance.MoralHazard.corollary_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:19:36.449984+00:00
 -- url     : https://prove2.me/theorems/103f299d-1b6d-469e-bb06-a70b07b476c7

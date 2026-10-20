@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonPrimitive_centered_le
 -- name    : CohnElkies.stripPoissonPrimitive_centered_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/a8f73653-8842-418d-bd28-c7f7adb3334f

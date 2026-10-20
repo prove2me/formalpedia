@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentPositiveTorusJetSlope_le_cutoff
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentPositiveTorusJetSlope_le_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/a3004a23-3b96-4344-9701-1e5fe730af5a

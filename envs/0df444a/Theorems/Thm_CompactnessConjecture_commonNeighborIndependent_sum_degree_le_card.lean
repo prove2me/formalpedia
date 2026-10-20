@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_commonNeighborIndependent_sum_degree_le_card
 -- name    : CompactnessConjecture.commonNeighborIndependent_sum_degree_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/0dc8071f-2743-4323-85c5-044db84a6468

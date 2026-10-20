@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingCyclicBlock_coefficientTranscendenceDegree_ge_square
 -- name    : PermanentFormulaLowerBound.matchingCyclicBlock_coefficientTranscendenceDegree_ge_square
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/b4793db9-82dc-4ebd-9d7f-2f77e97d7010

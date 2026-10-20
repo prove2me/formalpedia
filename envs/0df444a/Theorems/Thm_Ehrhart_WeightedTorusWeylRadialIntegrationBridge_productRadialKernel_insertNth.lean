@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_productRadialKernel_insertNth
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.productRadialKernel_insertNth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/107fc450-430b-4b83-b1bd-ec915641095e

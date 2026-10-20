@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_baseTwo_log_four_div_pi_gt_d36
 -- name    : CohnElkies.baseTwo_log_four_div_pi_gt_d36
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/f2027477-9a30-4620-b9e6-bd44f476bc25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingAdjacentChannel_isometry
 -- name    : MetricCodes.Boolean.hammingAdjacentChannel_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/d1dbdfee-01da-4337-9a8b-9ddeee32abf4

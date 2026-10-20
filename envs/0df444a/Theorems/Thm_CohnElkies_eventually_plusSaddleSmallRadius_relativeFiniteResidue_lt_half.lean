@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_plusSaddleSmallRadius_relativeFiniteResidue_lt_half
 -- name    : CohnElkies.eventually_plusSaddleSmallRadius_relativeFiniteResidue_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/7b05f4e9-8486-4386-815f-196040056874

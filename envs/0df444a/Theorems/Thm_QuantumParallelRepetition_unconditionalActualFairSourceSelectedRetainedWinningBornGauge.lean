@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairSourceSelectedRetainedWinningBornGauge
 -- name    : QuantumParallelRepetition.unconditionalActualFairSourceSelectedRetainedWinningBornGauge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/cee5592f-b0f6-44e6-a93f-913f23c716cc

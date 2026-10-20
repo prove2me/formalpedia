@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_averageDisagreement_eq_four_outcomes
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.averageDisagreement_eq_four_outcomes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/5e2e1bd1-55b0-4d1d-bb9d-4e63ddf3cc02

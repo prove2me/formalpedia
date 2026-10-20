@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripPoissonMajorant_dimension_centered_max
 -- name    : CohnElkies.lowerStripPoissonMajorant_dimension_centered_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/53638f07-6098-4e51-90a9-970ae7b80698

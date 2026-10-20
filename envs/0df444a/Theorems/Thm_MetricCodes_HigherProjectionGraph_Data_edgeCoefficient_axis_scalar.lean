@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_edgeCoefficient_axis_scalar
 -- name    : MetricCodes.HigherProjectionGraph.Data.edgeCoefficient_axis_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/9253eeb0-314d-47bc-b974-479c066e6f5f

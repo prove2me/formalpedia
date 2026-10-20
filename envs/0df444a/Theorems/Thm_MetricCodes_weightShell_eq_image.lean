@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_weightShell_eq_image
 -- name    : MetricCodes.weightShell_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:20.207146+00:00
 -- url     : https://prove2.me/theorems/d532207b-4813-433f-b9ac-ace023a2ce68

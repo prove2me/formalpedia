@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunCompletedComponentMidrankVariation_permutationRealVariation_sq_le_card_mul_energy
 -- name    : SoficGroups.KunCompletedComponentMidrankVariation.permutationRealVariation_sq_le_card_mul_energy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/01b2c149-7a56-466b-8310-ec29ff80e332

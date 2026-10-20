@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGeodesic_sum_momentJetFiltration_finrank_ge
 -- name    : Ehrhart.BergmanJetGeodesic.sum_momentJetFiltration_finrank_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/e74109ef-af30-40ed-9c33-2402d6411efd

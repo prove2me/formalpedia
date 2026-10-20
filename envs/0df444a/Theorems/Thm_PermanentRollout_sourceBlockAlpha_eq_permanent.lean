@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_sourceBlockAlpha_eq_permanent
 -- name    : PermanentRollout.sourceBlockAlpha_eq_permanent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:40.650338+00:00
 -- url     : https://prove2.me/theorems/48f6d4cd-bb7e-4905-b453-2c5089f75e8f

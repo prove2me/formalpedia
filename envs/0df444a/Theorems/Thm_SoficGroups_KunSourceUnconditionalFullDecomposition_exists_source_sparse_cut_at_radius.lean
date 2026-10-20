@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunSourceUnconditionalFullDecomposition_exists_source_sparse_cut_at_radius
 -- name    : SoficGroups.KunSourceUnconditionalFullDecomposition.exists_source_sparse_cut_at_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/8c65e042-e976-40dc-bc3a-c2bc0e0d16cd

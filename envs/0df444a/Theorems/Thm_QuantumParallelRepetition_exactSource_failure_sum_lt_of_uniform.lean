@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSource_failure_sum_lt_of_uniform
 -- name    : QuantumParallelRepetition.exactSource_failure_sum_lt_of_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/59692d2c-cebd-49d7-8e56-fc3edf3a6c24

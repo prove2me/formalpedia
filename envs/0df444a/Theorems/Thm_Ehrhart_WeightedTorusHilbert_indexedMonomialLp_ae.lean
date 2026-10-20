@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusHilbert_indexedMonomialLp_ae
 -- name    : Ehrhart.WeightedTorusHilbert.indexedMonomialLp_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/ca84e35b-dd82-4cde-ae26-4a193c903190

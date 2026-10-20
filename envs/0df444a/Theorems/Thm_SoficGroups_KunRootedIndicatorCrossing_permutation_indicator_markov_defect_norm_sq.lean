@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_permutation_indicator_markov_defect_norm_sq
 -- name    : SoficGroups.KunRootedIndicatorCrossing.permutation_indicator_markov_defect_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/62fa432e-4d93-496a-bca0-abef220eece7

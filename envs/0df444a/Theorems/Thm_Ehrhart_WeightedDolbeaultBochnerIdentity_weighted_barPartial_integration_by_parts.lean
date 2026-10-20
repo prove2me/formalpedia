@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_weighted_barPartial_integration_by_parts
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.weighted_barPartial_integration_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/e61df08a-5703-49fe-bd30-ad58e24c4751

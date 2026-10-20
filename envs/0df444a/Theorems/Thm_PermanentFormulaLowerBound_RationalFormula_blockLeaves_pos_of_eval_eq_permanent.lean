@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_blockLeaves_pos_of_eval_eq_permanent
 -- name    : PermanentFormulaLowerBound.RationalFormula.blockLeaves_pos_of_eval_eq_permanent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/2a8dcabe-cf8d-4000-a8c3-8ba05dd904d9

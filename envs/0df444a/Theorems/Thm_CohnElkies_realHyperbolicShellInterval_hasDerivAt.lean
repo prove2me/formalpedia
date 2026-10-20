@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_realHyperbolicShellInterval_hasDerivAt
 -- name    : CohnElkies.realHyperbolicShellInterval_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/a559aa94-a107-4677-a64c-10dbe288da67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PackingBounds_PackingBridge_sphere_packing_le_radial_linear_program_ennreal
 -- name    : PackingBounds.PackingBridge.sphere_packing_le_radial_linear_program_ennreal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/d61187c8-5b90-4ced-8f55-1b1de58a9a89

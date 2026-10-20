@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_sum_sign_mul_eq_hammingDist
 -- name    : MetricCodes.Boolean.sum_sign_mul_eq_hammingDist
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/52d4af80-9f31-499f-96da-cb6305668c09

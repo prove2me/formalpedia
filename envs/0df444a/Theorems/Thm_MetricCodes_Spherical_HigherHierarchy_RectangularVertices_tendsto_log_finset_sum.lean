@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_log_finset_sum
 -- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_log_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:55.676703+00:00
 -- url     : https://prove2.me/theorems/783ed1d3-6b33-43e7-92e2-c4f2436b9099

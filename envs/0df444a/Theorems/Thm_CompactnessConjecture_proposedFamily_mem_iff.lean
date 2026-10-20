@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_mem_iff
 -- name    : CompactnessConjecture.proposedFamily_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/8cd38ed9-ce3e-4140-ace6-b15d68d2e0ef

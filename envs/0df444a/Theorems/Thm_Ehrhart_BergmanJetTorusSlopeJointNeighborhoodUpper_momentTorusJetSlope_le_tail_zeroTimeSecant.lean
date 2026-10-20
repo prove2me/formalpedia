@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeJointNeighborhoodUpper_momentTorusJetSlope_le_tail_zeroTimeSecant
 -- name    : Ehrhart.BergmanJetTorusSlopeJointNeighborhoodUpper.momentTorusJetSlope_le_tail_zeroTimeSecant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/51c7390e-52d2-4e78-82e4-af122d9204b4

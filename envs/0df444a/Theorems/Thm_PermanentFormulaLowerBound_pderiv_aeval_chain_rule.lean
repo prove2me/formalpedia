@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_pderiv_aeval_chain_rule
 -- name    : PermanentFormulaLowerBound.pderiv_aeval_chain_rule
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/83a16269-21c3-4790-8a27-0a23ec75b8f4

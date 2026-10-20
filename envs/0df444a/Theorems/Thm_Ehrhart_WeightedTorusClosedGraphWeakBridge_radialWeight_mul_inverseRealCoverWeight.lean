@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_radialWeight_mul_inverseRealCoverWeight
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.radialWeight_mul_inverseRealCoverWeight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/c81e8886-52b9-46b8-895c-abfe13c17bb8

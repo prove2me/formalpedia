@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Boolean_hammingChannelMatrix_transpose_mul
 -- name    : MetricCodes.Boolean.hammingChannelMatrix_transpose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/21dde5be-509f-4ef0-83da-b2fcd4fea3ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedPrescribedSpectralRadiusSchedule_mem_generator_pow_of_chosen_word_length
 -- name    : SoficGroups.CompletedPrescribedSpectralRadiusSchedule.mem_generator_pow_of_chosen_word_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/4ed7e98c-06ae-4189-b558-1fb05d70502f

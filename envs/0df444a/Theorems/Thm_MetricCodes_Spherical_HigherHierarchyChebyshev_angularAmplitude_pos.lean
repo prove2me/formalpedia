@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularAmplitude_pos
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularAmplitude_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/8eacdc7f-dd65-4021-970f-e1a5b947276d

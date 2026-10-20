@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_admissible_nonempty
 -- name    : CohnElkies.admissible_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/154729da-992b-4625-9edb-f66e195fe0a8

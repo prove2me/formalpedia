@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_smoothed_childMarginal
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.smoothed_childMarginal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/8c06e16b-c6a2-47bc-88b8-951d23accbd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceConditionalWinningProbability_gt_of_uniform_failure
 -- name    : QuantumParallelRepetition.exactSourceConditionalWinningProbability_gt_of_uniform_failure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/45719104-05f9-4410-a6e7-edc028bedfaf

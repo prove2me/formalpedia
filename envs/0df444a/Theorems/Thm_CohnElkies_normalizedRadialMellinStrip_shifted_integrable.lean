@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_normalizedRadialMellinStrip_shifted_integrable
 -- name    : CohnElkies.normalizedRadialMellinStrip_shifted_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/c09f551d-7f71-4475-9078-58a6b1796ee3

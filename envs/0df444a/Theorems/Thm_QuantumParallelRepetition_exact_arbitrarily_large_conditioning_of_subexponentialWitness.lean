@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exact_arbitrarily_large_conditioning_of_subexponentialWitness
 -- name    : QuantumParallelRepetition.exact_arbitrarily_large_conditioning_of_subexponentialWitness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/f17d19a7-47e5-493c-a58d-b1c8dbb95265

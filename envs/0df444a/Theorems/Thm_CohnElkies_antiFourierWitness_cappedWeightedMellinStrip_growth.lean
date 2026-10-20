@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_cappedWeightedMellinStrip_growth
 -- name    : CohnElkies.antiFourierWitness_cappedWeightedMellinStrip_growth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/8ee101b9-bfc8-4435-aeea-8756c9b1b77d

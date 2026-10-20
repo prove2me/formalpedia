@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_saddleSourceShellDerivative_endpoint_bound
 -- name    : CohnElkies.exists_saddleSourceShellDerivative_endpoint_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/52a08b97-695a-482c-94c9-5a030802e101

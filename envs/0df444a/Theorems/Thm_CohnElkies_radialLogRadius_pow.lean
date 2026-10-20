@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialLogRadius_pow
 -- name    : CohnElkies.radialLogRadius_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/4316df0f-99c4-4408-9b2e-978b0b97ebca

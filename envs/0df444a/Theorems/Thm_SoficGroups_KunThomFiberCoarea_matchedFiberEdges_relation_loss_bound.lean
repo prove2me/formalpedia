@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_matchedFiberEdges_relation_loss_bound
 -- name    : SoficGroups.KunThomFiberCoarea.matchedFiberEdges_relation_loss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/fa376dca-46d4-4d01-98bc-2b6f224f8752

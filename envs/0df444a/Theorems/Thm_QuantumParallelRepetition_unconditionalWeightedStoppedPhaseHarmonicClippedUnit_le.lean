@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalWeightedStoppedPhaseHarmonicClippedUnit_le
 -- name    : QuantumParallelRepetition.unconditionalWeightedStoppedPhaseHarmonicClippedUnit_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/59fb2c86-bf75-4ac7-aa3e-96d67a742490

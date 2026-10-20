@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P58_attainableNoFeedbackRegimes
 -- name    : QAlgorithms.Papers.Independent.Information100.P58.attainableNoFeedbackRegimes
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:20:38.201894+00:00
 -- url     : https://prove2.me/theorems/50699c9d-fd41-406e-a5b0-33d0b040e77b

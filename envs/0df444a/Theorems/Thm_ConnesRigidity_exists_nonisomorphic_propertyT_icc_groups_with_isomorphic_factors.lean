@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_exists_nonisomorphic_propertyT_icc_groups_with_isomorphic_factors
 -- name    : ConnesRigidity.exists_nonisomorphic_propertyT_icc_groups_with_isomorphic_factors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/3fcc9847-e2b3-4619-9495-5ee8c169e404

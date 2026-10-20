@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_finiteOuterElementaryRoot_conjugate_by_successor
 -- name    : SoficGroups.finiteOuterElementaryRoot_conjugate_by_successor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/a3c7112c-6c55-4635-be26-685e0c187b3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_quadratic_injective
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.quadratic_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/a9e482ea-77e7-4116-b548-0ecf4d16f29e

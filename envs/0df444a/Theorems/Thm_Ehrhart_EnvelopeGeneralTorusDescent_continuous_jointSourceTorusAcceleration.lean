@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_EnvelopeGeneralTorusDescent_continuous_jointSourceTorusAcceleration
 -- name    : Ehrhart.EnvelopeGeneralTorusDescent.continuous_jointSourceTorusAcceleration
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/92594c97-71a9-4525-aad3-8c5a64d36e0c

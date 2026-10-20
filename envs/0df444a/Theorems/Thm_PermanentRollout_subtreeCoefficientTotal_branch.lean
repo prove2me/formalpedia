@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtreeCoefficientTotal_branch
 -- name    : PermanentRollout.subtreeCoefficientTotal_branch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/976da011-18a6-4b0d-9e9a-8be4ca686e79

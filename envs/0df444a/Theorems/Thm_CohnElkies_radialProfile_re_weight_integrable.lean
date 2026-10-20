@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_re_weight_integrable
 -- name    : CohnElkies.radialProfile_re_weight_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/0d1e3a59-b6ec-4023-b7f7-fda7c5df857f

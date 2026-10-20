@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_plusSaddleProfile_re_pos_at_sourceSaddle_of_gaussian_error
 -- name    : CohnElkies.plusSaddleProfile_re_pos_at_sourceSaddle_of_gaussian_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.654547+00:00
 -- url     : https://prove2.me/theorems/43f25ad4-8120-4a5a-9949-ac05d49b5d5a

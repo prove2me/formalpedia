@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualTwicePrunedFirstFactorRootBad_completedRestriction_mul_distance_le_failure_add_deleted
 -- name    : SoficGroups.KunActualTwicePrunedFirstFactorRootBad.completedRestriction_mul_distance_le_failure_add_deleted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/2bdfe777-e133-49a6-bee0-9b9a747dbe8c

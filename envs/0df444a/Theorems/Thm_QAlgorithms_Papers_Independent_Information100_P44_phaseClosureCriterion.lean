@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_phaseClosureCriterion
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.phaseClosureCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:37:27.674277+00:00
 -- url     : https://prove2.me/theorems/2774828b-83f6-4f42-981f-3d442ae33c95

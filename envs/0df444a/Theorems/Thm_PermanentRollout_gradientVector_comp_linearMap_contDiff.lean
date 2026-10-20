@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_gradientVector_comp_linearMap_contDiff
 -- name    : PermanentRollout.gradientVector_comp_linearMap_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/67d16b09-456c-415a-9c1a-f71807f4a3b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ChosenCayleyMatchedComponentRealization_sourceFirstFactor_injective_ball
 -- name    : SoficGroups.ChosenCayleyMatchedComponentRealization.sourceFirstFactor_injective_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/f7d9a249-0aba-4273-a825-76a3bcdaba51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_card_nonSingletonSecondEdges_le_twice_excess
 -- name    : SoficGroups.KunThomFiberCoarea.card_nonSingletonSecondEdges_le_twice_excess
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/64e48603-6b07-47cf-a2ff-a5e3649e3a19

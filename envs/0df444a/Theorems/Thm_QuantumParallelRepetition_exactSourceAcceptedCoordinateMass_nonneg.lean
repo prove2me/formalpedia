@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactSourceAcceptedCoordinateMass_nonneg
 -- name    : QuantumParallelRepetition.exactSourceAcceptedCoordinateMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/10b3216d-dafb-4b28-8795-79e1eae23434

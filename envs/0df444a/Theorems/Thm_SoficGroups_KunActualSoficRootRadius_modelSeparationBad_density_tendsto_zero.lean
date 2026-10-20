@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSoficRootRadius_modelSeparationBad_density_tendsto_zero
 -- name    : SoficGroups.KunActualSoficRootRadius.modelSeparationBad_density_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:26.206993+00:00
 -- url     : https://prove2.me/theorems/34270c47-bc6d-4032-8c97-cfe36a7461d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeakRadialExteriorMollification_complexEuclideanAntisymmetricEnergy_integrable_of_memLp
 -- name    : Ehrhart.TorusWeakRadialExteriorMollification.complexEuclideanAntisymmetricEnergy_integrable_of_memLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/0c396fbb-f430-4e79-ab76-1e883c22133c

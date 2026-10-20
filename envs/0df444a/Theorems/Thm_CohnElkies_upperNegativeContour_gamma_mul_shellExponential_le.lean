@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperNegativeContour_gamma_mul_shellExponential_le
 -- name    : CohnElkies.upperNegativeContour_gamma_mul_shellExponential_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:57.456036+00:00
 -- url     : https://prove2.me/theorems/9b0f77df-ff8b-4dc5-ae5e-0daef4477a6f

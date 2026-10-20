@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_normalizedMellinStrip_bottom_norm_le_gamma
 -- name    : CohnElkies.antiFourierWitness_normalizedMellinStrip_bottom_norm_le_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/7cd8355e-30dd-46aa-bb8c-acf84adfad0e

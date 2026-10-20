@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partition_cycle_factorial_fiber
 -- name    : PermanentRollout.partition_cycle_factorial_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/7e9fb9dd-0ef4-427c-82d3-55193c6f4ff5

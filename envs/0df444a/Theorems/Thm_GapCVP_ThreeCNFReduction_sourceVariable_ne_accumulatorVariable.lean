@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_sourceVariable_ne_accumulatorVariable
 -- name    : GapCVP.ThreeCNFReduction.sourceVariable_ne_accumulatorVariable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/d72660fb-b770-4f28-949d-547d4100c55b

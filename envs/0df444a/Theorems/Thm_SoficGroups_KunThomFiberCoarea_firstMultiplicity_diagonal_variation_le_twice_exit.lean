@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_firstMultiplicity_diagonal_variation_le_twice_exit
 -- name    : SoficGroups.KunThomFiberCoarea.firstMultiplicity_diagonal_variation_le_twice_exit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/e0108777-b78b-4339-86a8-cae70fcb7568

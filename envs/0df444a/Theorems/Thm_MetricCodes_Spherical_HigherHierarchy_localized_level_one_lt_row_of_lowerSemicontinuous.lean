@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_localized_level_one_lt_row_of_lowerSemicontinuous
 -- name    : MetricCodes.Spherical.HigherHierarchy.localized_level_one_lt_row_of_lowerSemicontinuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:52.737619+00:00
 -- url     : https://prove2.me/theorems/26bb23fe-59e8-491c-b785-f85e43718947

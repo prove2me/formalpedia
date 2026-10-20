@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_CompletedSourceFinalGeneratorTransfer_deleted_density_relative_survivors
 -- name    : SoficGroups.CompletedSourceFinalGeneratorTransfer.deleted_density_relative_survivors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:30.418361+00:00
 -- url     : https://prove2.me/theorems/7c90e6b2-4803-4e77-92f4-3c356f7c3aff

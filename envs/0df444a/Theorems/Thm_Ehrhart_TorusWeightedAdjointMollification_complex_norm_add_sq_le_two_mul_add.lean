@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedAdjointMollification_complex_norm_add_sq_le_two_mul_add
 -- name    : Ehrhart.TorusWeightedAdjointMollification.complex_norm_add_sq_le_two_mul_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/d63c0888-0124-45d6-bc7a-5e291479a5c7

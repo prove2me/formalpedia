@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_isometric_mixed_kernel_eq_overlap
 -- name    : SpherePacking.isometric_mixed_kernel_eq_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/d0cb79c6-37cc-48d9-9b6d-3b519afa9ee1

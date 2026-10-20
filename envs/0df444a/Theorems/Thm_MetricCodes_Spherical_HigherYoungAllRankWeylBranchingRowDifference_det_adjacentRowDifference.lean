@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankWeylBranchingRowDifference_det_adjacentRowDifference
 -- name    : MetricCodes.Spherical.HigherYoungAllRankWeylBranchingRowDifference.det_adjacentRowDifference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:01.713242+00:00
 -- url     : https://prove2.me/theorems/191b3432-6332-4357-99af-9b68e0429488

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_midpointBeta_lt_upper
 -- name    : TwoDegenerateGraphs.midpointBeta_lt_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/5c982772-486b-460a-a5e0-f9718c707e61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_terminal_edge_sum_le_top
 -- name    : MetricCodes.Hamming.terminal_edge_sum_le_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/1787630e-7c69-4acb-b0ad-b3f07e071ec5

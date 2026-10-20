@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetBodyExponentialSecantBridge_integral_momentBodyEnvelopePositiveSecant_le_partition_complement
 -- name    : Ehrhart.BergmanJetBodyExponentialSecantBridge.integral_momentBodyEnvelopePositiveSecant_le_partition_complement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/8725a509-ca0a-4c97-871d-95c9a7648371

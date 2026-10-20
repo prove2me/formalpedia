@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactBobCoordinateFilter_eq_joint
 -- name    : QuantumParallelRepetition.exactBobCoordinateFilter_eq_joint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/70ffe8b0-0294-419f-a4dc-3a96c2c15699

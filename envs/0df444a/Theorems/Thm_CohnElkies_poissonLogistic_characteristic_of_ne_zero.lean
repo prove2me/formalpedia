@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_poissonLogistic_characteristic_of_ne_zero
 -- name    : CohnElkies.poissonLogistic_characteristic_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/58eeee2f-aaf9-4188-aca3-e4ed7800db0d

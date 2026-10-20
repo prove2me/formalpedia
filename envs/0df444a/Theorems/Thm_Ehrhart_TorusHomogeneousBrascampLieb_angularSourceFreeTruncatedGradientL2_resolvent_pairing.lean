@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_angularSourceFreeTruncatedGradientL2_resolvent_pairing
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.angularSourceFreeTruncatedGradientL2_resolvent_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/048e53d0-92b1-4f0a-84a0-70c360549d73

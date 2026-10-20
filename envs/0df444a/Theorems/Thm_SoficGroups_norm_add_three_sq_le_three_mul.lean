@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_norm_add_three_sq_le_three_mul
 -- name    : SoficGroups.norm_add_three_sq_le_three_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/aea1598c-a802-481d-89e0-0cac1109fcb3

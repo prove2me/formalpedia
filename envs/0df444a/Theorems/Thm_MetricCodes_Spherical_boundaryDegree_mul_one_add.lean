@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_boundaryDegree_mul_one_add
 -- name    : MetricCodes.Spherical.boundaryDegree_mul_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/2af1dbc8-90a3-41d3-8a58-f23b9ac9fd9b

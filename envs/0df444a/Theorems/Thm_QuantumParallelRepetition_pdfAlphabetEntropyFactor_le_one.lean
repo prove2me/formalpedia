@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfAlphabetEntropyFactor_le_one
 -- name    : QuantumParallelRepetition.pdfAlphabetEntropyFactor_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/6d09f0d1-cf25-4c8d-8307-759655fc6b5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualUpperTailBridge_momentJointTailUpperEnvelope_timeSlice_periodic
 -- name    : Ehrhart.BergmanJetPortmanteauActualUpperTailBridge.momentJointTailUpperEnvelope_timeSlice_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/894ad659-5fc8-4819-99cc-6a4c1fad90e3

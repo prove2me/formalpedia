@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_erdos_problem_183_explicit
 -- name    : ErdosProblems.MulticolourTriangleRamsey.erdos_problem_183_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/dbfe908a-12d2-41c7-8331-45a877233fb8

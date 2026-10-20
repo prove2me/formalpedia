@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetEnvelopeLimit_momentJointUpperEnvelope_le_majorant
 -- name    : Ehrhart.BergmanJetEnvelopeLimit.momentJointUpperEnvelope_le_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/bed930fa-3648-4850-8831-fa867110a95e

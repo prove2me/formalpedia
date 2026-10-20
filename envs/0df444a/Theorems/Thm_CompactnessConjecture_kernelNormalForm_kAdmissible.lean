@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_kernelNormalForm_kAdmissible
 -- name    : CompactnessConjecture.kernelNormalForm_kAdmissible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/4d821929-fdc7-4957-ad46-33b86dbf2382

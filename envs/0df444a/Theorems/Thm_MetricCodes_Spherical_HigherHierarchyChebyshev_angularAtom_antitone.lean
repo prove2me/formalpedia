@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularAtom_antitone
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularAtom_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/7feb695a-dfd1-4d12-848f-2fc582d6a0ce

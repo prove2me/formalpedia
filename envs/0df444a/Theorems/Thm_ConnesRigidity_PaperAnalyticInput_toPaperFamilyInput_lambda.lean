@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRigidity_PaperAnalyticInput_toPaperFamilyInput_lambda
 -- name    : ConnesRigidity.PaperAnalyticInput.toPaperFamilyInput_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/0fab222b-ab96-494e-b2c6-fb91acc725b7

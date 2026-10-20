@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaPositiveShifted_log_norm_eq_neg_damping
 -- name    : CohnElkies.upperGammaPositiveShifted_log_norm_eq_neg_damping
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/b5b7d6a0-78be-493b-a5ec-144e7ba5b313

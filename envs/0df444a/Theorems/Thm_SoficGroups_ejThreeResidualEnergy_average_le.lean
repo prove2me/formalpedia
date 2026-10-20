@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ejThreeResidualEnergy_average_le
 -- name    : SoficGroups.ejThreeResidualEnergy_average_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/99bb5398-d3a7-4509-b2d9-2ef51d4c2560

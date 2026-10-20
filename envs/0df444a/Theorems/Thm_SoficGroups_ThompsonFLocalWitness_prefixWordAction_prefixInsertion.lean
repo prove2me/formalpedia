@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFLocalWitness_prefixWordAction_prefixInsertion
 -- name    : SoficGroups.ThompsonFLocalWitness.prefixWordAction_prefixInsertion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/2d8643f8-0bd8-45df-b8bc-fb595cb3998e

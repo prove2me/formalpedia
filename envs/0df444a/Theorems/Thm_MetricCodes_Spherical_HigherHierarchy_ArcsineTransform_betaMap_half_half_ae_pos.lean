@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_ArcsineTransform_betaMap_half_half_ae_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.ArcsineTransform.betaMap_half_half_ae_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/53442657-95f4-44d3-8aaa-ebf942c96edb

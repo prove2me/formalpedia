@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusSlopeJointNeighborhoodUpper_upperSemicontinuous_momentTorusTailPositiveSecant
 -- name    : Ehrhart.BergmanJetTorusSlopeJointNeighborhoodUpper.upperSemicontinuous_momentTorusTailPositiveSecant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/c6c8bb66-3d41-42fd-ac64-4df07f1852f7

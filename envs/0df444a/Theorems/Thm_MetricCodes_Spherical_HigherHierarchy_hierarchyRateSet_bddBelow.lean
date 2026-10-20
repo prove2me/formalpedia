@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyRateSet_bddBelow
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyRateSet_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/07bbaed3-e5fd-49ae-888e-98b628f6c8a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_binaryCodeNumber_eq_hamming
 -- name    : MetricCodes.Johnson.binaryCodeNumber_eq_hamming
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/42d2b5fb-9dfe-42e6-a3b3-e6ba41df2558

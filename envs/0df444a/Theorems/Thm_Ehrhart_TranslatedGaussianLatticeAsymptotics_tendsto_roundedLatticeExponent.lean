@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TranslatedGaussianLatticeAsymptotics_tendsto_roundedLatticeExponent
 -- name    : Ehrhart.TranslatedGaussianLatticeAsymptotics.tendsto_roundedLatticeExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/de98b0bd-80ce-4d72-9fa2-b4c42e7714af

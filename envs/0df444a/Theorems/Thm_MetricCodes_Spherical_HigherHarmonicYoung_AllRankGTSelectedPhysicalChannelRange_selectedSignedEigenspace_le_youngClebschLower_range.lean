@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTSelectedPhysicalChannelRange_selectedSignedEigenspace_le_youngClebschLower_range
 -- name    : MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedPhysicalChannelRange.selectedSignedEigenspace_le_youngClebschLower_range
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:09.321996+00:00
 -- url     : https://prove2.me/theorems/beb90bc6-8cd2-411f-9ca6-000eab4198c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFirstStageReferenceExpansion_completed_actual_component_additive_expansion_of_reference
 -- name    : SoficGroups.KunActualFirstStageReferenceExpansion.completed_actual_component_additive_expansion_of_reference
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/8d9eeb95-5b84-41b7-b863-e0ce3d1d01a1

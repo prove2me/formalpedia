@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_arcsineMeasure_ae_positive
 -- name    : MetricCodes.Spherical.HigherHierarchy.arcsineMeasure_ae_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/4c738ada-34c7-4538-af37-b6b93f1bc909

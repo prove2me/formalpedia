@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Volume_ehrhart_volume_inequality_for_sets
 -- name    : Ehrhart.Volume.ehrhart_volume_inequality_for_sets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/8ba78afc-290d-4d95-8e40-cf9f4e416622

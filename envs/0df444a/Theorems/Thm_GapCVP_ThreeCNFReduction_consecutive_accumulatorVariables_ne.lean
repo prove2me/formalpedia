@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_consecutive_accumulatorVariables_ne
 -- name    : GapCVP.ThreeCNFReduction.consecutive_accumulatorVariables_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/08dd6b99-f28c-4800-a714-fcf4ee9eb317

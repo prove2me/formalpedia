@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_not_compactnessConjecture_of_bounds
 -- name    : CompactnessConjecture.not_compactnessConjecture_of_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:36.289699+00:00
 -- url     : https://prove2.me/theorems/cdfe8031-4e8f-4d22-be7c-6c814136abf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_physConf_esa
 -- name    : BookProof.ScalaronDensitized.physConf_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:22:04.203453+00:00
 -- url     : https://prove2.me/theorems/cfb7abc2-20de-4f28-908e-293d409d023f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSelectedMultiscalePhase_card
 -- name    : QuantumParallelRepetition.unconditionalSelectedMultiscalePhase_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/d4db863b-2795-4021-bbd6-272192a49a89

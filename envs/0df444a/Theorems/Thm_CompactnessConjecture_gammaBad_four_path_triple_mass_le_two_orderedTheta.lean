@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gammaBad_four_path_triple_mass_le_two_orderedTheta
 -- name    : CompactnessConjecture.gammaBad_four_path_triple_mass_le_two_orderedTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/273b1337-3fb3-48fa-9536-d9f56340733a

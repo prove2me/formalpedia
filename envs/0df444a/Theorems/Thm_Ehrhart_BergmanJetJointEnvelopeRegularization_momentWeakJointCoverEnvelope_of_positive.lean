@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointEnvelopeRegularization_momentWeakJointCoverEnvelope_of_positive
 -- name    : Ehrhart.BergmanJetJointEnvelopeRegularization.momentWeakJointCoverEnvelope_of_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/9f73a1b9-d0dc-40c8-9e8a-1e80f39548c4

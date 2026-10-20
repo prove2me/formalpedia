@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_totalSamplingLoss_tendsto_zero
 -- name    : QuantumParallelRepetition.totalSamplingLoss_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/ce4d8c3d-8646-47b5-8870-188209a81f09

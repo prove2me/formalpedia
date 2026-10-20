@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyTrueGridAdjacency_matrix_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency.matrix_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/57d27686-9d3c-4759-8e31-291f80a99833

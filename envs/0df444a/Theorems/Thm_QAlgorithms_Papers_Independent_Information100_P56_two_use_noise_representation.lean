@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_two_use_noise_representation
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.two_use_noise_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:26:11.492783+00:00
 -- url     : https://prove2.me/theorems/06072dff-c226-4c52-9861-deaa4817bd59

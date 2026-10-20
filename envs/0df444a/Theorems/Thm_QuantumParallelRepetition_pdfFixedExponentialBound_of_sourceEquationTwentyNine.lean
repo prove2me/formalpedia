@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfFixedExponentialBound_of_sourceEquationTwentyNine
 -- name    : QuantumParallelRepetition.pdfFixedExponentialBound_of_sourceEquationTwentyNine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/e1f5a7da-643c-4367-93e0-402b04d0a710

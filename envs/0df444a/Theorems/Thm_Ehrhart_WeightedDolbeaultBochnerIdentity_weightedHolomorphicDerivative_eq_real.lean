@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedDolbeaultBochnerIdentity_weightedHolomorphicDerivative_eq_real
 -- name    : Ehrhart.WeightedDolbeaultBochnerIdentity.weightedHolomorphicDerivative_eq_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/7751ff2a-3696-4983-a2b8-b38e0d951ed0

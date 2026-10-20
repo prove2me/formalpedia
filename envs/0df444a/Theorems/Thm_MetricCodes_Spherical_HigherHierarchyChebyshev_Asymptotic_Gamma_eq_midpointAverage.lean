@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_Asymptotic_Gamma_eq_midpointAverage
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic.Gamma_eq_midpointAverage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/1767d648-e709-456a-abd0-fa647dabe490

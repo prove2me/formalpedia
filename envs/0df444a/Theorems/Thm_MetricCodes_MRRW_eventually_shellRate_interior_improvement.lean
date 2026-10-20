@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_eventually_shellRate_interior_improvement
 -- name    : MetricCodes.MRRW.eventually_shellRate_interior_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/753f2b72-3f4d-4289-84aa-3663c1adc609

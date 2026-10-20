@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousPrime_le_idealOfVars
 -- name    : PermanentRollout.homogeneousPrime_le_idealOfVars
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/d2f8208e-cb10-44f3-89e3-705a1005bd7a

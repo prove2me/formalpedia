@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleRegularMellinFactor_continuous
 -- name    : CohnElkies.saddleRegularMellinFactor_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/7a2f1657-5677-4e41-a022-5beacb5595ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetentionProbability_sq_mul_wordCount_eq_exp
 -- name    : TwoDegenerateGraphs.hammingRetentionProbability_sq_mul_wordCount_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/e2f33ecd-c874-45ca-8fbf-af29ae5877af

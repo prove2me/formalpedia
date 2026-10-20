@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_antiFourierWitness_normalizedMellinStrip_top_norm_le_one
 -- name    : CohnElkies.antiFourierWitness_normalizedMellinStrip_top_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/a32c5cf3-ffc6-4b66-8d79-5db358f5572b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_deletedCoordinateEsymmPolynomial_eq_alternating
 -- name    : PermanentRollout.deletedCoordinateEsymmPolynomial_eq_alternating
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/a23fafab-f958-4343-8866-db5e937b1d89

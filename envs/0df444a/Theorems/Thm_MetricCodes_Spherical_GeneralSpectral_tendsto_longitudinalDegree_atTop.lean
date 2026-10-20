@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_GeneralSpectral_tendsto_longitudinalDegree_atTop
 -- name    : MetricCodes.Spherical.GeneralSpectral.tendsto_longitudinalDegree_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/fdfb59b1-ce5e-4bf1-b55f-7eb6ad2a2ae9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_ReverseAdjoint_appendReverseProducts_values_getD_of_lt
 -- name    : PermanentRollout.ReverseAdjoint.appendReverseProducts_values_getD_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.133993+00:00
 -- url     : https://prove2.me/theorems/2c1ce58d-ba87-4356-bb39-20129b6b629e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripHolomorphicPoissonKernel_re
 -- name    : CohnElkies.stripHolomorphicPoissonKernel_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/ecdfbee3-4274-43ce-a946-884a0d109c87

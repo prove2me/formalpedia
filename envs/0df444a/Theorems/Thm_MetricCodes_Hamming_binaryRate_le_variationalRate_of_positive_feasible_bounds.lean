@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_binaryRate_le_variationalRate_of_positive_feasible_bounds
 -- name    : MetricCodes.Hamming.binaryRate_le_variationalRate_of_positive_feasible_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/488a315d-10eb-4c66-961c-b03f106294f7

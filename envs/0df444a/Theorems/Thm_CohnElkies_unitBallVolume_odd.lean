@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_unitBallVolume_odd
 -- name    : CohnElkies.unitBallVolume_odd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/9d829995-0583-4942-b6d1-869c482df425

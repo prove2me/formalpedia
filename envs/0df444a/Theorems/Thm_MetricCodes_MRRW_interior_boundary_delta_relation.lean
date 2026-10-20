@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_interior_boundary_delta_relation
 -- name    : MetricCodes.MRRW.interior_boundary_delta_relation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/49400721-0b00-4864-8008-72343d2d4528

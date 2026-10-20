@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonPrimitive_hasDerivAt
 -- name    : CohnElkies.stripPoissonPrimitive_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/bb74900a-ec42-455e-8f43-c3db146cb803

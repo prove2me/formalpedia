@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetJointHolomorphicPhase_momentPositiveJointGeodesic_phase_invariant
 -- name    : Ehrhart.BergmanJetJointHolomorphicPhase.momentPositiveJointGeodesic_phase_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:00.136627+00:00
 -- url     : https://prove2.me/theorems/b6d71830-f466-4142-9bf9-4b9a85071db8

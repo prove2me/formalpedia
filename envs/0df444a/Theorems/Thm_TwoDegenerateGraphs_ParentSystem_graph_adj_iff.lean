@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_ParentSystem_graph_adj_iff
 -- name    : TwoDegenerateGraphs.ParentSystem.graph_adj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.940432+00:00
 -- url     : https://prove2.me/theorems/f623f037-c757-42e6-94f4-7a3c103a15e1

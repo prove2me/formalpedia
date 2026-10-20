@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusScalarCompactGreen_angularDolbeaultGraph_normalizedCoverMollification_barPartial
 -- name    : Ehrhart.WeightedTorusScalarCompactGreen.angularDolbeaultGraph_normalizedCoverMollification_barPartial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/d8e08f0a-67e7-43da-ad1c-4ea7eb3918aa

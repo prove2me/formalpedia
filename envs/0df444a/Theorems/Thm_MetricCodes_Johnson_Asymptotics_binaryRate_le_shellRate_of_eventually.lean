@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_binaryRate_le_shellRate_of_eventually
 -- name    : MetricCodes.Johnson.Asymptotics.binaryRate_le_shellRate_of_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/bbfcb030-e6f7-4364-b15a-b643f744a398

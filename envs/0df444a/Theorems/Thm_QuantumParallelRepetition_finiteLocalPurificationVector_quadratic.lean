@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_finiteLocalPurificationVector_quadratic
 -- name    : QuantumParallelRepetition.finiteLocalPurificationVector_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/8d3f8d42-6b14-4156-b65d-aa28ccb2a04e

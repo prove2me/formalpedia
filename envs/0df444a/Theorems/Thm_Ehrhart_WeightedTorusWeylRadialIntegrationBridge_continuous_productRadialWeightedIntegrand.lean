@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylRadialIntegrationBridge_continuous_productRadialWeightedIntegrand
 -- name    : Ehrhart.WeightedTorusWeylRadialIntegrationBridge.continuous_productRadialWeightedIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:53.846488+00:00
 -- url     : https://prove2.me/theorems/0d174f2a-87dc-4720-9f0e-cb6fa4285030

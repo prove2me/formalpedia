@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusClosedGraphWeakBridge_coverTest_zero_outside_fundamentalCell
 -- name    : Ehrhart.WeightedTorusClosedGraphWeakBridge.coverTest_zero_outside_fundamentalCell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:52.714743+00:00
 -- url     : https://prove2.me/theorems/bee590d3-784e-44f2-9573-897dc8750625

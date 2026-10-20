@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerGammaScaledCappedLowerClip_poisson_integrable
 -- name    : CohnElkies.lowerGammaScaledCappedLowerClip_poisson_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:01.402116+00:00
 -- url     : https://prove2.me/theorems/dd5b74f1-1978-4a35-8d95-2eafa762b6bc

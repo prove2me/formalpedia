@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_filtered_factor_surjective
 -- name    : PermanentRollout.affine_total_degree_filtered_factor_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/c191ccd5-90ae-4010-8539-e889101df607

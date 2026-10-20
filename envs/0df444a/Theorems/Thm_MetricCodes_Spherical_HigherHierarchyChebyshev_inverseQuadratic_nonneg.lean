@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_inverseQuadratic_nonneg
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.inverseQuadratic_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/ee5bbab8-107f-4796-a2bc-a47f4fb77245

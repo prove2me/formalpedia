@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckWeightedUnfolding_exists_finite_complex_fundamental_test_partition
 -- name    : Ehrhart.TorusDeckWeightedUnfolding.exists_finite_complex_fundamental_test_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/e2855772-efb0-412d-9c12-323f00990b42

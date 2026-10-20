@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_insufficientOverlapComponents_subset
 -- name    : SoficGroups.insufficientOverlapComponents_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/b66adfe4-f08f-4016-bae9-3a789ea296eb

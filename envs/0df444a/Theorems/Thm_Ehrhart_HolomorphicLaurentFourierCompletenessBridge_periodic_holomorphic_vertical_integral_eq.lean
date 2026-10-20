@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_periodic_holomorphic_vertical_integral_eq
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.periodic_holomorphic_vertical_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/769eb8b1-9f8e-4a08-bff8-5ae7a6cf0f8b

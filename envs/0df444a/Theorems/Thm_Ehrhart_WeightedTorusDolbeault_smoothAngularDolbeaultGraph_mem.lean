@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusDolbeault_smoothAngularDolbeaultGraph_mem
 -- name    : Ehrhart.WeightedTorusDolbeault.smoothAngularDolbeaultGraph_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/74d891c5-9360-40dd-a926-9f56dfb4001e

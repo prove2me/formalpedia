@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_geometricFactor_pos
 -- name    : CohnElkies.geometricFactor_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/9a74e480-6859-4c12-9b19-95cdbb111614

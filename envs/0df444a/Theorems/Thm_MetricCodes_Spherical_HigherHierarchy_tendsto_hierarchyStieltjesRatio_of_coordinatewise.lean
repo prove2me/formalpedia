@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_hierarchyStieltjesRatio_of_coordinatewise
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_hierarchyStieltjesRatio_of_coordinatewise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/ed1a5b18-4d6c-4bf2-a500-e699e4a49497

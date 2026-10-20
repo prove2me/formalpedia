@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_purifiedStrategy_outcomeProbability
 -- name    : QuantumParallelRepetition.purifiedStrategy_outcomeProbability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/594416f2-1a08-41ea-a7c5-167ea0455446

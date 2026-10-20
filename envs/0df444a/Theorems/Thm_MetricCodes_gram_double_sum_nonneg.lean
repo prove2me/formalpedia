@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_gram_double_sum_nonneg
 -- name    : MetricCodes.gram_double_sum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:18.697767+00:00
 -- url     : https://prove2.me/theorems/3c33b00f-73bf-4f13-b5e5-e310f1665772

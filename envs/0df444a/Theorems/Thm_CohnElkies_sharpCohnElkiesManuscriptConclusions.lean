@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_sharpCohnElkiesManuscriptConclusions
 -- name    : CohnElkies.sharpCohnElkiesManuscriptConclusions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:05.603159+00:00
 -- url     : https://prove2.me/theorems/1b5b1945-930e-4dff-b5e4-72686af71afa

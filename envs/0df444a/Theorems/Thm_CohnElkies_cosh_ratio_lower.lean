@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_cosh_ratio_lower
 -- name    : CohnElkies.cosh_ratio_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/8752e6f6-a63f-4828-9052-3170f520b9f4

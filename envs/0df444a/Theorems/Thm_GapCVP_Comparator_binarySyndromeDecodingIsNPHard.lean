@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Comparator_binarySyndromeDecodingIsNPHard
 -- name    : GapCVP.Comparator.binarySyndromeDecodingIsNPHard
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/b0a29b18-1eb3-44f4-9cc2-e38b8b730ba9

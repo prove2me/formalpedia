@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_tendsto_zero_bottom_of_ne
 -- name    : CohnElkies.stripPoissonKernel_tendsto_zero_bottom_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/2ffa7c75-fd21-46d9-a179-cb114a08681c

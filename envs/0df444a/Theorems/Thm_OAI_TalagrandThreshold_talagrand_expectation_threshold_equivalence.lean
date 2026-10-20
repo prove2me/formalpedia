@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TalagrandThreshold_talagrand_expectation_threshold_equivalence
 -- name    : OAI.TalagrandThreshold.talagrand_expectation_threshold_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:28.99682+00:00
 -- url     : https://prove2.me/theorems/677bcfec-85e7-4ab1-aca3-d4b92819d344

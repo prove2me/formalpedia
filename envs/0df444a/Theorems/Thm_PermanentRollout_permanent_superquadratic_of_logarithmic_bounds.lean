@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_superquadratic_of_logarithmic_bounds
 -- name    : PermanentRollout.permanent_superquadratic_of_logarithmic_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/0aaa4984-b805-48fa-86b1-78f6f911f413

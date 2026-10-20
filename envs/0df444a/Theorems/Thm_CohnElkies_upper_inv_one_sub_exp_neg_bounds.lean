@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upper_inv_one_sub_exp_neg_bounds
 -- name    : CohnElkies.upper_inv_one_sub_exp_neg_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/0f7a4673-2c47-447a-95a0-fadd3dae8e6c

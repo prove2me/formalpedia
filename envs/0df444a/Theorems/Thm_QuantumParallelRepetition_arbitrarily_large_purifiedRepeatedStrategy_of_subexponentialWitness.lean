@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_arbitrarily_large_purifiedRepeatedStrategy_of_subexponentialWitness
 -- name    : QuantumParallelRepetition.arbitrarily_large_purifiedRepeatedStrategy_of_subexponentialWitness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/e1c973f3-1ef2-4310-8171-d8b1b2ccf13f

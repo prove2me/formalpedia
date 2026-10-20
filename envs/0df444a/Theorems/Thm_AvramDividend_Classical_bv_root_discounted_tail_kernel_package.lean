@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_root_discounted_tail_kernel_package
 -- name    : AvramDividend.Classical.bv_root_discounted_tail_kernel_package
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:18:07.644455+00:00
 -- url     : https://prove2.me/theorems/5c0d50ec-08f3-4e49-9fa7-e5aff075b26f

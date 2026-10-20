@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_continuous_partitionedRealCoverIntegrand
 -- name    : Ehrhart.MatrixTorusBochnerBridge.continuous_partitionedRealCoverIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/04fc3feb-3d78-4db6-aefb-01de4edbf5bc

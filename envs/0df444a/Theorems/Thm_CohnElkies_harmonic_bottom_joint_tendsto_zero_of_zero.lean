@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_harmonic_bottom_joint_tendsto_zero_of_zero
 -- name    : CohnElkies.harmonic_bottom_joint_tendsto_zero_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/3a837b6e-6d6b-4eb8-bf31-0e52d2908691

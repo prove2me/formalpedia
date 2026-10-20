@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_angularAtom_eq
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.angularAtom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:33.730806+00:00
 -- url     : https://prove2.me/theorems/38d787d9-0dee-4c86-81d6-20ffcd03d903

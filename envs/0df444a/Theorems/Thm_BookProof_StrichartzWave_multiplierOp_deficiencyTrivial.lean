@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_multiplierOp_deficiencyTrivial
 -- name    : BookProof.StrichartzWave.multiplierOp_deficiencyTrivial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:53:22.626216+00:00
 -- url     : https://prove2.me/theorems/4c98dd74-c847-4c8d-b44c-3bdc62546e0f

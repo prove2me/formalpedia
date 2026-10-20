@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_sqrt_three_mul_entropyTangentRho
 -- name    : TwoDegenerateGraphs.sqrt_three_mul_entropyTangentRho
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/96bdf96d-2d8d-4bae-bcbb-6b92c7033aa3

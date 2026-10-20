@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_UniformLaws_uniform_law_rademacher_complexity
 -- name    : HighDimStat.UniformLaws.uniform_law_rademacher_complexity
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:31:43.510976+00:00
 -- url     : https://prove2.me/theorems/9bcc49aa-f93d-42d4-9479-8b352a5aa456

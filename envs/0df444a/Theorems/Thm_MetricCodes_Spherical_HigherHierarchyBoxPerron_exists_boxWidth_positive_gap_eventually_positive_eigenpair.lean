@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_exists_boxWidth_positive_gap_eventually_positive_eigenpair
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.exists_boxWidth_positive_gap_eventually_positive_eigenpair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/91e685e2-d66d-42b3-82e7-85c36f328301

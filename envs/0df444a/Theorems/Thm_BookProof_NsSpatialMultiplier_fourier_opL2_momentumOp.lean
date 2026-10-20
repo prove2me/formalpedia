@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsSpatialMultiplier_fourier_opL2_momentumOp
 -- name    : BookProof.NsSpatialMultiplier.fourier_opL2_momentumOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T19:42:50.782001+00:00
 -- url     : https://prove2.me/theorems/2afbbc3f-e270-49db-98f7-4dd150da297c

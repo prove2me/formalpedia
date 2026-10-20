@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_exists_strict_improving_feasible
 -- name    : MetricCodes.Hamming.exists_strict_improving_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/58861550-8fdd-405c-b66e-32978756e86d

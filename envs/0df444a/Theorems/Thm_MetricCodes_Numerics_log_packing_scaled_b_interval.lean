@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Numerics_log_packing_scaled_b_interval
 -- name    : MetricCodes.Numerics.log_packing_scaled_b_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:29.434958+00:00
 -- url     : https://prove2.me/theorems/1f1b2724-9c5f-4373-8090-7eee0d553c12

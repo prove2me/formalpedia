@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauMovingUpperTailBridge_limsup_integral_moving_le_of_probability_tendsto_and_eventual_open_upper
 -- name    : Ehrhart.BergmanJetPortmanteauMovingUpperTailBridge.limsup_integral_moving_le_of_probability_tendsto_and_eventual_open_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/a547c0d8-97d2-45a5-bc96-7b43b7621bc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_kissing_levelTwo_feasible
 -- name    : MetricCodes.Spherical.HigherHierarchy.kissing_levelTwo_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/73a2d4c8-b2c2-4ac2-aebe-f7d01d337ab7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualTwicePrunedFirstFactorRootBad_density_relative_survivors
 -- name    : SoficGroups.KunActualTwicePrunedFirstFactorRootBad.density_relative_survivors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/d449a200-1c37-4d78-94fd-5d9c74a3ac70

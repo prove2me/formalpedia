@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalHeterogeneousPhysicalTerminalMass_nonneg
 -- name    : QuantumParallelRepetition.dSVDensityRationalHeterogeneousPhysicalTerminalMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/bdb754b0-6951-4b8e-8d16-62cb3dbe9069

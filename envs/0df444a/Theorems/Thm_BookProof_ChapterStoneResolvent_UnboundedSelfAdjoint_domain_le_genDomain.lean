@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneResolvent_UnboundedSelfAdjoint_domain_le_genDomain
 -- name    : BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.domain_le_genDomain
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-16T20:28:22.102785+00:00
 -- url     : https://prove2.me/theorems/04ff8233-3c0e-4b06-b6ce-9dd074222d29

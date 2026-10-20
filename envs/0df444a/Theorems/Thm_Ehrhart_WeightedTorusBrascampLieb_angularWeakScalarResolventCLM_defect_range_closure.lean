@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBrascampLieb_angularWeakScalarResolventCLM_defect_range_closure
 -- name    : Ehrhart.WeightedTorusBrascampLieb.angularWeakScalarResolventCLM_defect_range_closure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/94acc2c4-a1df-4cd8-86a8-bc151a34a499

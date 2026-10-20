@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusWeylWeakRepresentativeBridge_normalizedShrinkingConvolution_eq_radialRepresentativeConvolution
 -- name    : Ehrhart.WeightedTorusWeylWeakRepresentativeBridge.normalizedShrinkingConvolution_eq_radialRepresentativeConvolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/c390d4d0-36e3-4273-bc7d-fc386e21d147

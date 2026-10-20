@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaEuler_centered_ratio
 -- name    : CohnElkies.upperGammaEuler_centered_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/45a4daab-897e-41a4-8ce7-93e277159d51

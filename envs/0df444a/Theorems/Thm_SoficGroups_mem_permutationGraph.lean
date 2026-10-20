@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_mem_permutationGraph
 -- name    : SoficGroups.mem_permutationGraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/31ec711b-7773-42cf-8172-a2ae30ece06d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_subdivisionLine_bases_disjoint
 -- name    : CompactnessConjecture.subdivisionLine_bases_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/db846789-c9d9-4f12-a8ec-3a2232b4a90f

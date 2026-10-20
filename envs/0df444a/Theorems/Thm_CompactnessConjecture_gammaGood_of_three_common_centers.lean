@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gammaGood_of_three_common_centers
 -- name    : CompactnessConjecture.gammaGood_of_three_common_centers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/bfda24f8-7a3a-45ae-bf47-67cc2b1afc66

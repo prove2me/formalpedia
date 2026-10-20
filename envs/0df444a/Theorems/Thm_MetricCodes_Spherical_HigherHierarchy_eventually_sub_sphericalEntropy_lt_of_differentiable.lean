@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_eventually_sub_sphericalEntropy_lt_of_differentiable
 -- name    : MetricCodes.Spherical.HigherHierarchy.eventually_sub_sphericalEntropy_lt_of_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/40285ff4-907e-43a1-a00e-1f70f0b0ebfa

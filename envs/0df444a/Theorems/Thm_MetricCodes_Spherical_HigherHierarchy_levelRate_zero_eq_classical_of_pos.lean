@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_zero_eq_classical_of_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_zero_eq_classical_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/5279eba6-ecb2-4da9-92f6-58869dbc50d2

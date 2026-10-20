@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_zero_mass_le_of_diagonal_variation
 -- name    : SoficGroups.KunThomFiberCoarea.zero_mass_le_of_diagonal_variation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/cf87d45a-5f9e-4826-b327-c9911d51e3ac

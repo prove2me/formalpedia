@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_subtree_mul_add_pow_eq_of_annihilates
 -- name    : PermanentRollout.subtree_mul_add_pow_eq_of_annihilates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/7cf09dd1-540e-437b-a9fd-621cc3202cdb

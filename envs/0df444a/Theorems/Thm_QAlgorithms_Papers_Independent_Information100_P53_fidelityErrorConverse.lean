@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_fidelityErrorConverse
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.fidelityErrorConverse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:57:24.84427+00:00
 -- url     : https://prove2.me/theorems/31cd7de1-eb9b-4654-8619-e9b54c6bba68

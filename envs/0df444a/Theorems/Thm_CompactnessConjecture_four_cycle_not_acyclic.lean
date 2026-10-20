@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_four_cycle_not_acyclic
 -- name    : CompactnessConjecture.four_cycle_not_acyclic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/e9a27384-22d9-408d-9aeb-d9651e133520

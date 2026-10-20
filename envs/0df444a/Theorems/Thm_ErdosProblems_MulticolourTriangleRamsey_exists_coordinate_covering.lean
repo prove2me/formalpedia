@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_coordinate_covering
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_coordinate_covering
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/5e020a89-8062-4bf8-b624-96262cc1d78b

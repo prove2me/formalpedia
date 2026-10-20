@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_momentHolomorphicJetMap_apply_eq_iteratedFDeriv
 -- name    : Ehrhart.BergmanJetLocalGrowth.momentHolomorphicJetMap_apply_eq_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/9f5cd990-1474-4b40-8b5e-680a5e3119ca

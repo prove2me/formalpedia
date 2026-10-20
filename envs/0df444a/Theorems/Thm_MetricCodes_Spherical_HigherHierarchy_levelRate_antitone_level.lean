@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_antitone_level
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_antitone_level
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/9ae7bf19-b984-4fc0-aa37-6fef06aa3bd6

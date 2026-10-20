@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_gammaBad_card_mul_heavyTripleLower_le_two_orderedTheta
 -- name    : CompactnessConjecture.gammaBad_card_mul_heavyTripleLower_le_two_orderedTheta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.072441+00:00
 -- url     : https://prove2.me/theorems/c385fd0d-a94e-4fd8-8778-69275237e38b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingVariableEquiv_relabel_commutes
 -- name    : PermanentFormulaLowerBound.matchingVariableEquiv_relabel_commutes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/80e6efc9-56a6-4c14-b3e2-cca4ad81d8f5

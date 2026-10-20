@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_proposedFamily_uniformMemberLower
 -- name    : CompactnessConjecture.proposedFamily_uniformMemberLower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:39.087222+00:00
 -- url     : https://prove2.me/theorems/9b9cde2c-499e-4e22-a648-b965d620afd3

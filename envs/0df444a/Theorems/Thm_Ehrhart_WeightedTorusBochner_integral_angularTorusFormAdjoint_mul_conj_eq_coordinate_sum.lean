@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_WeightedTorusBochner_integral_angularTorusFormAdjoint_mul_conj_eq_coordinate_sum
 -- name    : Ehrhart.WeightedTorusBochner.integral_angularTorusFormAdjoint_mul_conj_eq_coordinate_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:57.23131+00:00
 -- url     : https://prove2.me/theorems/54b7c46d-6ded-41d1-bf3d-38ec6a78edb9

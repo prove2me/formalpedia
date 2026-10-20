@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_differentiableAt_complex_of_barPartialCoordinate_eq_zero
 -- name    : Ehrhart.DolbeaultRegularity.differentiableAt_complex_of_barPartialCoordinate_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/233800f9-4daa-4e5c-bc22-6f030695f685

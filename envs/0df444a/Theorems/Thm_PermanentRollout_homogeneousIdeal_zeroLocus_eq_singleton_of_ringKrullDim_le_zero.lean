@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousIdeal_zeroLocus_eq_singleton_of_ringKrullDim_le_zero
 -- name    : PermanentRollout.homogeneousIdeal_zeroLocus_eq_singleton_of_ringKrullDim_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/b1f7a117-13a4-41ea-aa3f-d73e1971e932

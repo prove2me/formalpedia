@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_eventually_expectedRetainedEdge_le_extremalNumber
 -- name    : TwoDegenerateGraphs.eventually_expectedRetainedEdge_le_extremalNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/1e262bcb-1479-4534-bb44-cc45cb007e3f

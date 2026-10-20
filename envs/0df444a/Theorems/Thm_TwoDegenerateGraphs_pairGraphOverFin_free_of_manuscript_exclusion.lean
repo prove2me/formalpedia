@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphOverFin_free_of_manuscript_exclusion
 -- name    : TwoDegenerateGraphs.pairGraphOverFin_free_of_manuscript_exclusion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/a47c0de9-6070-447e-9df5-83ef8ed228b3

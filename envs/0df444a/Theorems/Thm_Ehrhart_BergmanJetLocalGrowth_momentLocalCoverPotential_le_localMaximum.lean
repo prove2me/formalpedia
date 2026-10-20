@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetLocalGrowth_momentLocalCoverPotential_le_localMaximum
 -- name    : Ehrhart.BergmanJetLocalGrowth.momentLocalCoverPotential_le_localMaximum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:09.94113+00:00
 -- url     : https://prove2.me/theorems/802359b0-78ee-4fb8-8cd9-ab76422bfd5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_BinaryPairKernel_smoothed_averageDisagreement
 -- name    : TwoDegenerateGraphs.BinaryPairKernel.smoothed_averageDisagreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:40.031605+00:00
 -- url     : https://prove2.me/theorems/0e5aac19-4d98-4e4d-9b7b-c82ade1fbbef

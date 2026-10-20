@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_normalizedPairDisplacement_add
 -- name    : SoficGroups.KunRootedIndicatorCrossing.normalizedPairDisplacement_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/be7efbec-6e86-440d-8b62-55cc45d77b87

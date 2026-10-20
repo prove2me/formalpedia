@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_dilationChoice_strictlyEnlarges
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.dilationChoice_strictlyEnlarges
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:39:33.973051+00:00
 -- url     : https://prove2.me/theorems/597f4ee5-e784-425a-b4a6-07337b726f88

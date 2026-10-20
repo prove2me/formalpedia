@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentCircuitCompatibility_ofList_take_succ
 -- name    : PermanentCircuitCompatibility.ofList_take_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/7d4eb866-d075-4396-b5cc-1c911b2af8b5

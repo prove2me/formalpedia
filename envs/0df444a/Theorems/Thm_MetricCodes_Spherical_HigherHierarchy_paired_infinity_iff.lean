@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_paired_infinity_iff
 -- name    : MetricCodes.Spherical.HigherHierarchy.paired_infinity_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/bd0ad83d-9c32-454a-a562-8b166065063a

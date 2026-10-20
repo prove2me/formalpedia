@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSourceFirstBranch_central_radius_le
 -- name    : CohnElkies.saddleSourceFirstBranch_central_radius_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/db1bf7c2-8754-40a5-a7d3-c59c004fae8b

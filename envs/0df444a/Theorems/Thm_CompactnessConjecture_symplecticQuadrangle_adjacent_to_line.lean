@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticQuadrangle_adjacent_to_line
 -- name    : CompactnessConjecture.symplecticQuadrangle_adjacent_to_line
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/ebf314b4-c940-48db-87c7-d211fc48e0c3

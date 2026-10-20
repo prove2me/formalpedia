@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingCrossWeight_sum
 -- name    : PermanentFormulaLowerBound.matchingCrossWeight_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/9a7c13e9-8923-4744-b818-6f5ec85152cc

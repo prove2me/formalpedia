@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_RadialPhysicalResolventDefectReduction_complexHilbert_norm_le_of_mem_closure_inner_bound
 -- name    : Ehrhart.RadialPhysicalResolventDefectReduction.complexHilbert_norm_le_of_mem_closure_inner_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:04.613882+00:00
 -- url     : https://prove2.me/theorems/7e7021b5-7885-4934-acac-fbca6ca14380

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddle_complexShellInterval_re
 -- name    : CohnElkies.saddle_complexShellInterval_re
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/45cce6ba-dbfc-4779-b897-46ff8bc1a5bf

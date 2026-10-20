@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_saddleSmallResidueCoefficientMajorant
 -- name    : CohnElkies.tendsto_saddleSmallResidueCoefficientMajorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/f15a78e6-0dfa-4adc-8173-efa720d7d27b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalConjugateSourceGlobalCatalystWinningEffect_eq_transpose
 -- name    : QuantumParallelRepetition.unconditionalConjugateSourceGlobalCatalystWinningEffect_eq_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/f8a988c7-19b9-419a-a376-0d7ebc484324

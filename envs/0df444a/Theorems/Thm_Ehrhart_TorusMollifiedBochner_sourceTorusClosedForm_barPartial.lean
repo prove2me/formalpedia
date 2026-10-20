@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusMollifiedBochner_sourceTorusClosedForm_barPartial
 -- name    : Ehrhart.TorusMollifiedBochner.sourceTorusClosedForm_barPartial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/121b3942-c732-43d6-9690-59e8b55d3631

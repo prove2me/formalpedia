@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_integral_binaryPeriodic_cutoff_eq_zero
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.integral_binaryPeriodic_cutoff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/5e66ccf2-3a97-45bc-b035-d4598863f854

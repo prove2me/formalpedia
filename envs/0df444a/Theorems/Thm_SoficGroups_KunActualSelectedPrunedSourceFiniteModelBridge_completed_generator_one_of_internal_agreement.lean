@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSelectedPrunedSourceFiniteModelBridge_completed_generator_one_of_internal_agreement
 -- name    : SoficGroups.KunActualSelectedPrunedSourceFiniteModelBridge.completed_generator_one_of_internal_agreement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/52a50841-17a1-4b9e-9467-ee29a4d5e9fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticPointRelated_symm
 -- name    : CompactnessConjecture.symplecticPointRelated_symm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/05b4fe32-9bca-4c23-87d4-120e8e6beb0a

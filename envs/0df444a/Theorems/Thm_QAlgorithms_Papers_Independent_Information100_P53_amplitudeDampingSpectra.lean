@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P53_amplitudeDampingSpectra
 -- name    : QAlgorithms.Papers.Independent.Information100.P53.amplitudeDampingSpectra
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:54:23.610867+00:00
 -- url     : https://prove2.me/theorems/6b966d90-d789-4eae-9b93-0c7a84cb7c33

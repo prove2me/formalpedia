@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_oneRowBoundaryObjective_continuous
 -- name    : MetricCodes.Spherical.HigherHierarchy.oneRowBoundaryObjective_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/0ab89fce-0e4c-4767-a04b-0031697b8140

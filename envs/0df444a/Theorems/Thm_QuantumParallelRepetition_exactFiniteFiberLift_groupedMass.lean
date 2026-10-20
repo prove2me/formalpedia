@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactFiniteFiberLift_groupedMass
 -- name    : QuantumParallelRepetition.exactFiniteFiberLift_groupedMass
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/aa1c76f7-60fa-40f6-bf88-2251a7a38bc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_degree_eq_natCard_neighborSet
 -- name    : CompactnessConjecture.degree_eq_natCard_neighborSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/f4ddd240-8f23-4296-a20f-30d615a77943

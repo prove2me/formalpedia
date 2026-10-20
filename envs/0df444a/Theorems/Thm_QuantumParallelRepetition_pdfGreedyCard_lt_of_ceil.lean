@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGreedyCard_lt_of_ceil
 -- name    : QuantumParallelRepetition.pdfGreedyCard_lt_of_ceil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/abcad539-f344-4759-968c-b72d37b1aa28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleExpSeries_term_le_exp_mul_half_pow
 -- name    : CohnElkies.saddleExpSeries_term_le_exp_mul_half_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/c49e5cc4-c82c-48e2-a298-62018b8de1ac

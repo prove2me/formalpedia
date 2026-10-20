@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_eventually_projectionGram
 -- name    : MetricCodes.Johnson.eventually_projectionGram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/cded8cc5-56e3-4258-8c95-74566086c52e

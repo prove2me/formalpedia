@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_angularFourierCoefficient_sq_integrable
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.angularFourierCoefficient_sq_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/ceff59a0-ae59-45e6-bcdc-efb35e9a787c

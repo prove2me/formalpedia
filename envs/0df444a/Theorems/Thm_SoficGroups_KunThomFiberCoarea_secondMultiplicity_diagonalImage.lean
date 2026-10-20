@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_secondMultiplicity_diagonalImage
 -- name    : SoficGroups.KunThomFiberCoarea.secondMultiplicity_diagonalImage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/7cd73d49-27af-455a-a766-e51228e6b713

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_minusPolynomial_uniform_difference_ratio
 -- name    : CohnElkies.exists_minusPolynomial_uniform_difference_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/309cdc8d-d8ab-4eae-b3a2-7ee732d7d1fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedVertexCount_sq
 -- name    : TwoDegenerateGraphs.hammingRetainedVertexCount_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:41.731406+00:00
 -- url     : https://prove2.me/theorems/98bee5c8-7f65-4109-a004-9ccd95d35429

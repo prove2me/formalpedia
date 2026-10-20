@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_MulticolourTriangleRamsey_exists_saturated_matrix
 -- name    : ErdosProblems.MulticolourTriangleRamsey.exists_saturated_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:17.142639+00:00
 -- url     : https://prove2.me/theorems/9e079dd1-a563-436b-b900-e9843c11c529

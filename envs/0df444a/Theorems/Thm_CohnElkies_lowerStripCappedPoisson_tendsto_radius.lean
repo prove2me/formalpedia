@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerStripCappedPoisson_tendsto_radius
 -- name    : CohnElkies.lowerStripCappedPoisson_tendsto_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/276271ab-efc1-4191-a50d-ecbfd79e252a

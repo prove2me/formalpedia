@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_hierarchyPackingExponent_le_criticalExponent
 -- name    : MetricCodes.Spherical.HigherHierarchy.hierarchyPackingExponent_le_criticalExponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/106738c5-2045-4b45-b578-3742dc44a875

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_certificate_slack_of_strictMono
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_certificate_slack_of_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/3cfb8e3a-a220-4259-a6ee-2c7ef6218be6

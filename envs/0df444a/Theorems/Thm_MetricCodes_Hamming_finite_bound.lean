@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_finite_bound
 -- name    : MetricCodes.Hamming.finite_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/3f2bda07-8df5-443b-85d2-29dfee42f3a3

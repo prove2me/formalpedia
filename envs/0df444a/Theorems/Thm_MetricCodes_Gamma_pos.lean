@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Gamma_pos
 -- name    : MetricCodes.Gamma_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/664d7524-b8ef-4a4f-8a61-debcae4f9078

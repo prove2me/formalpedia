@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_zero_continuousOn_Icc
 -- name    : MetricCodes.Spherical.HigherHierarchy.levelRate_zero_continuousOn_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/459c5ea4-6091-4745-9ba4-0994b33e217d

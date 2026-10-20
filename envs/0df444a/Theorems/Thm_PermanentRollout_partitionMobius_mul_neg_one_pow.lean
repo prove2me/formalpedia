@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_partitionMobius_mul_neg_one_pow
 -- name    : PermanentRollout.partitionMobius_mul_neg_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:39.173076+00:00
 -- url     : https://prove2.me/theorems/add3e41b-cf8a-4c51-b9a8-4dfa9e4f6951

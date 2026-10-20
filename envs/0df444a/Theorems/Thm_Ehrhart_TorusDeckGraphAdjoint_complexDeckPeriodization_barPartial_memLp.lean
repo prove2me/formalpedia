@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusDeckGraphAdjoint_complexDeckPeriodization_barPartial_memLp
 -- name    : Ehrhart.TorusDeckGraphAdjoint.complexDeckPeriodization_barPartial_memLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:01.857667+00:00
 -- url     : https://prove2.me/theorems/a9441478-a54a-4106-ba36-e80221736720

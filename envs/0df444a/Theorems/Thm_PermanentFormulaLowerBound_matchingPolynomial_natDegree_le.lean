@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_matchingPolynomial_natDegree_le
 -- name    : PermanentFormulaLowerBound.matchingPolynomial_natDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:42.612018+00:00
 -- url     : https://prove2.me/theorems/b79525e0-4a71-4ea6-a3ba-6de465f892d4

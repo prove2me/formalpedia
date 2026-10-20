@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomInvariantOrthogonal_norm_finset_sum_le_pair_add
 -- name    : SoficGroups.KunThomInvariantOrthogonal.norm_finset_sum_le_pair_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:25.142856+00:00
 -- url     : https://prove2.me/theorems/812d00dd-53c8-4e6f-b360-1578ab3921dc

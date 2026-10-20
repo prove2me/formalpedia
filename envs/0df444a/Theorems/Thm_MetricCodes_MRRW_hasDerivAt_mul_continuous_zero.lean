@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_hasDerivAt_mul_continuous_zero
 -- name    : MetricCodes.MRRW.hasDerivAt_mul_continuous_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/07c68f7e-f51e-4ca7-9c43-1b9bdf7a7ba8

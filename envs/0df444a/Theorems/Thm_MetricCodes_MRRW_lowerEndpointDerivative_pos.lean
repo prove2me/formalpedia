@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_lowerEndpointDerivative_pos
 -- name    : MetricCodes.MRRW.lowerEndpointDerivative_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/0ad74209-a39f-4119-af9c-27543ef7db3b

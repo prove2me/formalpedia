@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFTwoRelatorLEF_not_lef_of_thompsonF_two_relations
 -- name    : SoficGroups.ThompsonFTwoRelatorLEF.not_lef_of_thompsonF_two_relations
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:32.70599+00:00
 -- url     : https://prove2.me/theorems/118c8628-5844-4647-a4d5-78f96fe0e109

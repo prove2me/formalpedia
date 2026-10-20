@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_variationalRate_lt_mrrw_of_interior
 -- name    : MetricCodes.MRRW.variationalRate_lt_mrrw_of_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/d2197651-6703-40b2-80fe-cdd959b474e3

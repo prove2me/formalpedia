@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsSquare_friedrichsSqExtension_unique
 -- name    : BookProof.FriedrichsSquare.friedrichsSqExtension_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T00:41:17.723509+00:00
 -- url     : https://prove2.me/theorems/8834791f-4386-4b61-b6dd-9266a8558147

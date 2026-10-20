@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyBoxPerron_trueGrid_matrix_eq_rectangular
 -- name    : MetricCodes.Spherical.HigherHierarchyBoxPerron.trueGrid_matrix_eq_rectangular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/1940fd18-d8cb-48c8-a634-73e21b65345c

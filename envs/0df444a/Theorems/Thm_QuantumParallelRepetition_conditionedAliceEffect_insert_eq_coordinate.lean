@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_conditionedAliceEffect_insert_eq_coordinate
 -- name    : QuantumParallelRepetition.conditionedAliceEffect_insert_eq_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/7f78151b-68c7-4249-8657-fb228f00db27

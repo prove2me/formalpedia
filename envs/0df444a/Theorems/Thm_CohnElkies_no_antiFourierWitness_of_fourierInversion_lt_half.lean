@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_no_antiFourierWitness_of_fourierInversion_lt_half
 -- name    : CohnElkies.no_antiFourierWitness_of_fourierInversion_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.959427+00:00
 -- url     : https://prove2.me/theorems/28431275-1349-4141-8af5-11afd81802a3

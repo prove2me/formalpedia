@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_AsymptoticParameters_centeredEta_lt_degree
 -- name    : MetricCodes.Johnson.AsymptoticParameters.centeredEta_lt_degree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/82d40b1c-bd17-44ee-82ba-124572c0b0cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_exists_physical_ne_agreeing_of_not_comprehensive
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.exists_physical_ne_agreeing_of_not_comprehensive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:56:47.533061+00:00
 -- url     : https://prove2.me/theorems/b1432868-c694-497f-bc75-1a5ad03d85b6

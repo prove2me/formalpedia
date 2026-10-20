@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZSpan_fundamental_region_iff_coordinate_floor_zero
 -- name    : ZSpan.fundamental_region_iff_coordinate_floor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/68dabe64-e89d-421f-9c7e-0ed7822fbea3

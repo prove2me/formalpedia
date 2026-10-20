@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_permutationGraph_sdiff_bounds_of_matchedFiberEdges
 -- name    : SoficGroups.KunThomFiberCoarea.permutationGraph_sdiff_bounds_of_matchedFiberEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/cc0eec68-edcc-4f07-9961-a854b963c0de

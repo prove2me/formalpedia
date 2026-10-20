@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualSourceSelectedCompletedGeneratorExpansion_exists_vanishing_completed_first_factor_additive_expansion_of_selected_source
 -- name    : SoficGroups.KunActualSourceSelectedCompletedGeneratorExpansion.exists_vanishing_completed_first_factor_additive_expansion_of_selected_source
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:33.785013+00:00
 -- url     : https://prove2.me/theorems/4e65e2ae-f73b-4ab6-aa25-8dc0b4636a6c

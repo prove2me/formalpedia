@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeBridge_momentTorusJetSlope_nonneg
 -- name    : Ehrhart.BergmanJetTorusRightSlopeBridge.momentTorusJetSlope_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/bc993263-b0fe-45a2-8dbe-5f393762cfe1

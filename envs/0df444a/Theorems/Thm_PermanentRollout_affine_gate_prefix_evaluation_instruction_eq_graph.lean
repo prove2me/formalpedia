@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_gate_prefix_evaluation_instruction_eq_graph
 -- name    : PermanentRollout.affine_gate_prefix_evaluation_instruction_eq_graph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/ca0106c0-bee8-468e-b354-9edb81e52ca2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_tendsto_saddleSmallResidueTruncation_div
 -- name    : CohnElkies.tendsto_saddleSmallResidueTruncation_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/cc34d0b1-6265-46fe-ae17-98bf5bf095f8

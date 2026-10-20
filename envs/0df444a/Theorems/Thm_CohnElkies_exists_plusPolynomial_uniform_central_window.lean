@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_exists_plusPolynomial_uniform_central_window
 -- name    : CohnElkies.exists_plusPolynomial_uniform_central_window
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/f2831126-8d76-4a61-b75c-74f97585ec13

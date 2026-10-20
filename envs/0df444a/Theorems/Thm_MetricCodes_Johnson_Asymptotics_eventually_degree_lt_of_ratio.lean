@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_Asymptotics_eventually_degree_lt_of_ratio
 -- name    : MetricCodes.Johnson.Asymptotics.eventually_degree_lt_of_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/32df2467-ac35-49c9-8491-60b89d2dcfac

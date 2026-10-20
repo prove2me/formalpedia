@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaCenteredKernel_integrable
 -- name    : CohnElkies.upperGammaCenteredKernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.09238+00:00
 -- url     : https://prove2.me/theorems/1494e3c6-ac3c-4339-ba34-6eb6c8c2fb5e

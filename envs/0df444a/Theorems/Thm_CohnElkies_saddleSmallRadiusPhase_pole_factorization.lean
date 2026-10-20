@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleSmallRadiusPhase_pole_factorization
 -- name    : CohnElkies.saddleSmallRadiusPhase_pole_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:55.583848+00:00
 -- url     : https://prove2.me/theorems/704bd07f-e21d-4850-a249-4decbb60f60d

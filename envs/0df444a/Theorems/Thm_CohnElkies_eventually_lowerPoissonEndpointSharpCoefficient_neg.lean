@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_lowerPoissonEndpointSharpCoefficient_neg
 -- name    : CohnElkies.eventually_lowerPoissonEndpointSharpCoefficient_neg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.903436+00:00
 -- url     : https://prove2.me/theorems/97695ef9-c2e5-4118-a899-1b1e8d449aa2

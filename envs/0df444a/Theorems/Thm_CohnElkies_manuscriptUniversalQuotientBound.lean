@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptUniversalQuotientBound
 -- name    : CohnElkies.manuscriptUniversalQuotientBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/659a7342-c4ba-4dd9-8721-7b8d1cd3eb2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousWeakResolventRootCoercivity_angularPhysicalResolventRootCutoffL2_norm_le_of_one_on_support
 -- name    : Ehrhart.TorusHomogeneousWeakResolventRootCoercivity.angularPhysicalResolventRootCutoffL2_norm_le_of_one_on_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/9b57617b-5e93-4aa3-b44b-a9d96005f244

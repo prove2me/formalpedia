@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_tendsto_terminalIndex_ratio
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.tendsto_terminalIndex_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/36e0e310-7ae9-406a-9f48-e77277725a94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetRadialHaarWeakProbabilityLift_tendsto_momentMovingRadialBergmanProbability_of_tests
 -- name    : Ehrhart.BergmanJetRadialHaarWeakProbabilityLift.tendsto_momentMovingRadialBergmanProbability_of_tests
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/1d3534bb-166f-4a34-a51b-6e1b35823328

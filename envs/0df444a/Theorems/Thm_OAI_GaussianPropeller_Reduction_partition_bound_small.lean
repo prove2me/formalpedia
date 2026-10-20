@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_partition_bound_small
 -- name    : OAI.GaussianPropeller.Reduction.partition_bound_small
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:33:32.399897+00:00
 -- url     : https://prove2.me/theorems/34cc2dc3-04ca-425a-8180-4c071fe8480c

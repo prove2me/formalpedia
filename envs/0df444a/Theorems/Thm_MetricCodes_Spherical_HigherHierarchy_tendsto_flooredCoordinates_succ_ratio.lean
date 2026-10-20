@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_flooredCoordinates_succ_ratio
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_flooredCoordinates_succ_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:56.928481+00:00
 -- url     : https://prove2.me/theorems/3c8428a0-7f14-4659-8997-91cd8e396622

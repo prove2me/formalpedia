@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BodyScale_canonicalScale_pow
 -- name    : Ehrhart.BodyScale.canonicalScale_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:44.97552+00:00
 -- url     : https://prove2.me/theorems/b0ca90e2-6819-47e1-96ce-7e56bfa9437d

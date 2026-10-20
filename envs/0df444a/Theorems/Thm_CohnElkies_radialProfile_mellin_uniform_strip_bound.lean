@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_radialProfile_mellin_uniform_strip_bound
 -- name    : CohnElkies.radialProfile_mellin_uniform_strip_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/05db8e26-2e25-4403-8294-ec20d1533a32

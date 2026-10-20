@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchyChebyshev_zeroAngle_lt_pi
 -- name    : MetricCodes.Spherical.HigherHierarchyChebyshev.zeroAngle_lt_pi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:31.984834+00:00
 -- url     : https://prove2.me/theorems/809855a2-3a13-43ea-b76e-9c8e2e499c82

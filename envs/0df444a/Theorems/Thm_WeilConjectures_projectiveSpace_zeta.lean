@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_projectiveSpace_zeta
 -- name    : WeilConjectures.projectiveSpace_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T14:57:25.975168+00:00
 -- url     : https://prove2.me/theorems/592cf63c-7862-4770-a386-e21aef770e61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualOneScaleFixedSourcePhysicalQuestionAction
 -- name    : QuantumParallelRepetition.unconditionalActualOneScaleFixedSourcePhysicalQuestionAction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.052979+00:00
 -- url     : https://prove2.me/theorems/13be2a5b-113c-42c1-954c-5e3c6ae60267

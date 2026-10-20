@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_JetEnvelopeLocalGrowth_measurableSet_sourcePositiveAngularArc
 -- name    : Ehrhart.JetEnvelopeLocalGrowth.measurableSet_sourcePositiveAngularArc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/ba10b28f-af29-414b-9f02-33068d0b7945

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_differentiable_complex_of_weak_barPartial_convolution
 -- name    : Ehrhart.DolbeaultRegularity.differentiable_complex_of_weak_barPartial_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/14cd00c6-35c5-4bc9-8779-818f6cc7c805

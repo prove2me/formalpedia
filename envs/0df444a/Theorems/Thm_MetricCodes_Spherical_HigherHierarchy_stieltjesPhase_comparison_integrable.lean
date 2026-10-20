@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_stieltjesPhase_comparison_integrable
 -- name    : MetricCodes.Spherical.HigherHierarchy.stieltjesPhase_comparison_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:35.827193+00:00
 -- url     : https://prove2.me/theorems/edf6a8b5-97dc-4b73-946f-fb59af350af8

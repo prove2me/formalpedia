@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_codeLogRate_nonneg
 -- name    : MetricCodes.Hamming.codeLogRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/64d79062-9ace-44eb-a017-ba84b50e15cc

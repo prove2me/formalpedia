@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_Volume_interior_dualGradient_average_eq_sourceGibbs
 -- name    : Ehrhart.Volume.interior_dualGradient_average_eq_sourceGibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:15.527216+00:00
 -- url     : https://prove2.me/theorems/094ce72c-8088-46aa-9db8-34059cc7cda7

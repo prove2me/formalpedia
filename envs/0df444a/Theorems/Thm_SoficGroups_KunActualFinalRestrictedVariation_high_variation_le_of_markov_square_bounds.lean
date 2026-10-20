@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunActualFinalRestrictedVariation_high_variation_le_of_markov_square_bounds
 -- name    : SoficGroups.KunActualFinalRestrictedVariation.high_variation_le_of_markov_square_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/784eb884-cdc2-4b52-af6e-fff1c74eda21

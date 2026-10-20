@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalActualFairCleanedVector_norm_sq
 -- name    : QuantumParallelRepetition.unconditionalActualFairCleanedVector_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/0659c757-bea3-468d-9a2e-c90bc1868429

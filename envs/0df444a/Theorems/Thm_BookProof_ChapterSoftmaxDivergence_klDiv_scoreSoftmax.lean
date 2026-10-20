@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxDivergence_klDiv_scoreSoftmax
 -- name    : BookProof.ChapterSoftmaxDivergence.klDiv_scoreSoftmax
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:16:02.554501+00:00
 -- url     : https://prove2.me/theorems/a43df8ed-c58c-4420-a008-5dc7d4f1f9df

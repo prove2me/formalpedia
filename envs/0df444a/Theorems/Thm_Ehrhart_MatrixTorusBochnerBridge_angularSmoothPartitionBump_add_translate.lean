@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerBridge_angularSmoothPartitionBump_add_translate
 -- name    : Ehrhart.MatrixTorusBochnerBridge.angularSmoothPartitionBump_add_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/481d036a-2da7-4ab3-91af-96949b0d734b

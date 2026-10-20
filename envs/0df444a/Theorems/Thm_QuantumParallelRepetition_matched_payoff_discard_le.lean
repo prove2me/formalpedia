@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_matched_payoff_discard_le
 -- name    : QuantumParallelRepetition.matched_payoff_discard_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:44.608116+00:00
 -- url     : https://prove2.me/theorems/1b1ceac8-f362-4a14-907a-973dbcb1acd8

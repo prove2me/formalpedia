@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_SourceCompressionMatching_target_majority_of_overlap_and_exp_card
 -- name    : SoficGroups.SourceCompressionMatching.target_majority_of_overlap_and_exp_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.902902+00:00
 -- url     : https://prove2.me/theorems/453a0586-f69b-4fc2-9c56-852841da426f

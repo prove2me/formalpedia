@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exact_standardQuantumParallelRepetition_unconditional
 -- name    : QuantumParallelRepetition.exact_standardQuantumParallelRepetition_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/28c95cd5-1c6c-4925-9cde-a272fe0a8225

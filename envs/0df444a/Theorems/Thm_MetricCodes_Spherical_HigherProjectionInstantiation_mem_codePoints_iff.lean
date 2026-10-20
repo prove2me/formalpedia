@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherProjectionInstantiation_mem_codePoints_iff
 -- name    : MetricCodes.Spherical.HigherProjectionInstantiation.mem_codePoints_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/e35be18b-db04-430c-9d86-ddf22fdd3dab

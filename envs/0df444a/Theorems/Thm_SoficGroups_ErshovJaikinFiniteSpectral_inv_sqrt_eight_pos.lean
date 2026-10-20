@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ErshovJaikinFiniteSpectral_inv_sqrt_eight_pos
 -- name    : SoficGroups.ErshovJaikinFiniteSpectral.inv_sqrt_eight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:22.66702+00:00
 -- url     : https://prove2.me/theorems/dd03cfa0-a970-4920-bb63-f33e7091d797

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_actualStoppingQuestionLocalWinningProbability_eq_sum
 -- name    : QuantumParallelRepetition.actualStoppingQuestionLocalWinningProbability_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:47.127294+00:00
 -- url     : https://prove2.me/theorems/84cab3ed-cba6-4f4b-a763-290f574bb81f

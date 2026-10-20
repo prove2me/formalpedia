@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_DolbeaultRegularity_complexRealMultiplication_apply
 -- name    : Ehrhart.DolbeaultRegularity.complexRealMultiplication_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:49.881935+00:00
 -- url     : https://prove2.me/theorems/bc12cfb0-c6fe-4b79-b8fa-220a5a34bd89

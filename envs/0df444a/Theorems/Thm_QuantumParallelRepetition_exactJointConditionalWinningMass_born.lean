@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactJointConditionalWinningMass_born
 -- name    : QuantumParallelRepetition.exactJointConditionalWinningMass_born
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/87e0495f-b833-407b-a8f6-a5d8a77b7d4e

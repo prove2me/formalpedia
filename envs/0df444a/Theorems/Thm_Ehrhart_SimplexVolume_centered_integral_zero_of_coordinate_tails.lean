@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SimplexVolume_centered_integral_zero_of_coordinate_tails
 -- name    : Ehrhart.SimplexVolume.centered_integral_zero_of_coordinate_tails
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/e55d8277-1a49-4fbb-bb93-444fd3f3f7b7

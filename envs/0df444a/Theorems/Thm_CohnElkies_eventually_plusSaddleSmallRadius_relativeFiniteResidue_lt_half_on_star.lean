@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_eventually_plusSaddleSmallRadius_relativeFiniteResidue_lt_half_on_star
 -- name    : CohnElkies.eventually_plusSaddleSmallRadius_relativeFiniteResidue_lt_half_on_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.845665+00:00
 -- url     : https://prove2.me/theorems/0e5272ae-46cf-4821-893f-0f8fdee9dddf

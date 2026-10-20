@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_affine_total_degree_hilbert_mono
 -- name    : PermanentRollout.affine_total_degree_hilbert_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:37.782607+00:00
 -- url     : https://prove2.me/theorems/f4e38ecf-9889-46f9-bd44-3e95f9706f89

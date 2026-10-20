@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_HigherProjectionGraph_Data_amplitude_eigenvector_equation
 -- name    : MetricCodes.HigherProjectionGraph.Data.amplitude_eigenvector_equation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:54.32227+00:00
 -- url     : https://prove2.me/theorems/0e4a87ff-bb93-4bc4-99a5-3171d332b055

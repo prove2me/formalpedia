@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_exists_zero_fibre_boundary_of_interior_minimizer
 -- name    : MetricCodes.MRRW.exists_zero_fibre_boundary_of_interior_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/1747cde5-4aba-4790-8bed-27b89ba8efe4

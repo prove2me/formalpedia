@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_forward_entropy_sum_eq_Phi_suffix_sub_logb_escaping_product
 -- name    : MetricCodes.Spherical.HigherHierarchy.forward_entropy_sum_eq_Phi_suffix_sub_logb_escaping_product
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:49.086537+00:00
 -- url     : https://prove2.me/theorems/5b0729eb-f51c-4a0c-baf2-87b1579347d9

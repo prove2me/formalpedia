@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetMovingMonomialConcentration_concave_radial_gap_of_off_ball
 -- name    : Ehrhart.BergmanJetMovingMonomialConcentration.concave_radial_gap_of_off_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:14.348624+00:00
 -- url     : https://prove2.me/theorems/63153668-8efb-435f-9393-07069e73d393

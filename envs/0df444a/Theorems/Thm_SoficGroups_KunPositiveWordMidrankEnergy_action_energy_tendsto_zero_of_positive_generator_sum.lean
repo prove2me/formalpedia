@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunPositiveWordMidrankEnergy_action_energy_tendsto_zero_of_positive_generator_sum
 -- name    : SoficGroups.KunPositiveWordMidrankEnergy.action_energy_tendsto_zero_of_positive_generator_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:31.712996+00:00
 -- url     : https://prove2.me/theorems/fcd49344-071b-45a5-8db3-fb4eb86ebdfa

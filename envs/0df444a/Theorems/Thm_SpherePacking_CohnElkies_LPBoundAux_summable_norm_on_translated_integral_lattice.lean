@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_CohnElkies_LPBoundAux_summable_norm_on_translated_integral_lattice
 -- name    : SpherePacking.CohnElkies.LPBoundAux.summable_norm_on_translated_integral_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:04.614989+00:00
 -- url     : https://prove2.me/theorems/42198bfc-1766-44d8-89b4-16f3cb320125

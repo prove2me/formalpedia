@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_deficitPotential_step
 -- name    : OAI.SeymourSecondNeighborhood.deficitPotential_step
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:06:18.098182+00:00
 -- url     : https://prove2.me/theorems/c9ec3f2f-a160-45ae-be49-e2d21b04b58f

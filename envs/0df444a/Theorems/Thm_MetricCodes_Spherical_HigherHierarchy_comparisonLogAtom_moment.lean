@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_comparisonLogAtom_moment
 -- name    : MetricCodes.Spherical.HigherHierarchy.comparisonLogAtom_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:34.786068+00:00
 -- url     : https://prove2.me/theorems/c9c3f441-e88b-4c83-a9e9-6c560de25191

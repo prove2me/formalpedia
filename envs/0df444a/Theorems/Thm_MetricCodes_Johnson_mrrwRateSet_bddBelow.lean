@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_mrrwRateSet_bddBelow
 -- name    : MetricCodes.Johnson.mrrwRateSet_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/349d8918-289b-4855-8cb6-cbb1bf3b9c1c

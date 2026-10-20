@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_combinedVariationalRate_lt_mrrw_of_endpoint
 -- name    : MetricCodes.Johnson.combinedVariationalRate_lt_mrrw_of_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:24.606098+00:00
 -- url     : https://prove2.me/theorems/429d9e89-8e2d-4980-b222-99a7d609e670

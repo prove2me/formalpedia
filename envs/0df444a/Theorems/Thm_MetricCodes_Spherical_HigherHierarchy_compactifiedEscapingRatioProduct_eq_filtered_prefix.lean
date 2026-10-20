@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_compactifiedEscapingRatioProduct_eq_filtered_prefix
 -- name    : MetricCodes.Spherical.HigherHierarchy.compactifiedEscapingRatioProduct_eq_filtered_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:50.940664+00:00
 -- url     : https://prove2.me/theorems/a95ef645-d910-4516-8c93-1c1a3b30b752

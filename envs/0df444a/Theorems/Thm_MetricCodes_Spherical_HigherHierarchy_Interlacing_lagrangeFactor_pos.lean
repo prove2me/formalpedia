@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Interlacing_lagrangeFactor_pos
 -- name    : MetricCodes.Spherical.HigherHierarchy.Interlacing.lagrangeFactor_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/b46d99fd-fe7b-417b-b2eb-727c20acf84c

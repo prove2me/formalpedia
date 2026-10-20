@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonPrimitive_zero
 -- name    : CohnElkies.stripPoissonPrimitive_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/afe64b0b-c6dc-4c8a-ad74-ab0fff959c08

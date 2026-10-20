@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_hammingRetainedEdgeCount_eq_edgeFinset_card
 -- name    : TwoDegenerateGraphs.hammingRetainedEdgeCount_eq_edgeFinset_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/7aee94c2-6fd8-4f4c-a1d4-358207d77fea

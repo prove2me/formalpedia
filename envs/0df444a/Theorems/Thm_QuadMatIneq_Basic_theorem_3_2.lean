@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Basic_theorem_3_2
 -- name    : QuadMatIneq.Basic.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:09.747122+00:00
 -- url     : https://prove2.me/theorems/e125dfe6-7b32-447b-84ce-23a599e65dd6

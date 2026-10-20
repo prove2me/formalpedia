@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_SpectralAsymptotics_tridiagonal_quadratic_sum
 -- name    : SpherePacking.SpectralAsymptotics.tridiagonal_quadratic_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/54441965-9813-4ec7-ac39-2ef74f634a86

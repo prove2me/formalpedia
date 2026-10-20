@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_fderiv_binaryAngularPartitionSum_eq_zero_of_open
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.fderiv_binaryAngularPartitionSum_eq_zero_of_open
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/4f49842e-39da-47e4-8253-f65e7b4aa05e

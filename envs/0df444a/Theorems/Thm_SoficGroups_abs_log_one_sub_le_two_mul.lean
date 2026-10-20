@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_abs_log_one_sub_le_two_mul
 -- name    : SoficGroups.abs_log_one_sub_le_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:19.999052+00:00
 -- url     : https://prove2.me/theorems/b8491e81-4769-46a7-9779-8e47bc37b93e

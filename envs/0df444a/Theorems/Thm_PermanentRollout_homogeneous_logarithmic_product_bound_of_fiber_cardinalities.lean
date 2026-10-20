@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneous_logarithmic_product_bound_of_fiber_cardinalities
 -- name    : PermanentRollout.homogeneous_logarithmic_product_bound_of_fiber_cardinalities
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.318807+00:00
 -- url     : https://prove2.me/theorems/d8040bd2-80e9-4466-86ee-ff6543996eb1

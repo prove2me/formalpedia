@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_bounded_homogeneous_hilbert_coefficient_univ_eq_zero_of_le
 -- name    : PermanentRollout.homogeneousMap_allRank_bounded_homogeneous_hilbert_coefficient_univ_eq_zero_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/f03c60f8-4d58-41d9-af13-a6ad4dff76f6

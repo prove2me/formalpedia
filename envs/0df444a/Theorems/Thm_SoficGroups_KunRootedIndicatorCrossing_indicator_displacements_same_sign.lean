@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunRootedIndicatorCrossing_indicator_displacements_same_sign
 -- name    : SoficGroups.KunRootedIndicatorCrossing.indicator_displacements_same_sign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:24.345557+00:00
 -- url     : https://prove2.me/theorems/73bd7137-1954-4aa6-b884-06f1dac616a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_schwartz_imaginaryRiesz_integrable
 -- name    : CohnElkies.schwartz_imaginaryRiesz_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/113d0cdf-7452-4bcc-96ba-65259c22ddd4

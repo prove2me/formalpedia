@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleGaussianOuterPhi_le_endpointBarrier
 -- name    : CohnElkies.saddleGaussianOuterPhi_le_endpointBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/efc3e783-573e-46f8-87b5-811a88632730

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousLinearSliceIdeal_exists_independent_zeroDimensional_extension
 -- name    : PermanentRollout.homogeneousLinearSliceIdeal_exists_independent_zeroDimensional_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/c849a67c-8bb8-4dda-b1f9-66c6a81e5120

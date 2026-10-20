@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunDiagonalGoodRootGraphLoss_boundary_goodPermutationGraph_le_commutationDefect_add
 -- name    : SoficGroups.KunDiagonalGoodRootGraphLoss.boundary_goodPermutationGraph_le_commutationDefect_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:27.241177+00:00
 -- url     : https://prove2.me/theorems/110fb111-f5b9-4349-adcb-3db6879935cb

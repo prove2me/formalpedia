@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_dSVDensityRationalCanonicalPrefixMask_transpose
 -- name    : QuantumParallelRepetition.dSVDensityRationalCanonicalPrefixMask_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.843984+00:00
 -- url     : https://prove2.me/theorems/e25a75cd-5fe1-4941-89ec-cecae2948265

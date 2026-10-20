@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicConstantApprox_replicated_cell_packing_density_formula
 -- name    : PeriodicConstantApprox.replicated_cell_packing_density_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.954123+00:00
 -- url     : https://prove2.me/theorems/9cff1201-31b4-45e4-a5ee-d339304d3751

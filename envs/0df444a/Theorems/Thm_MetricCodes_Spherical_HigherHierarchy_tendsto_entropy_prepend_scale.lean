@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_tendsto_entropy_prepend_scale
 -- name    : MetricCodes.Spherical.HigherHierarchy.tendsto_entropy_prepend_scale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/0103c819-76e8-4cf2-8b0c-66e934f1eecf

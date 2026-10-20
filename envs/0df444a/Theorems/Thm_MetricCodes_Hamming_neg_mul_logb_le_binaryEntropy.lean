@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Hamming_neg_mul_logb_le_binaryEntropy
 -- name    : MetricCodes.Hamming.neg_mul_logb_le_binaryEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:21.918845+00:00
 -- url     : https://prove2.me/theorems/2e5188ae-cae2-49c9-b900-15aaa9f85298

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_symplecticLine_eq_coordinateCenterLine_of_common_points
 -- name    : CompactnessConjecture.symplecticLine_eq_coordinateCenterLine_of_common_points
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:37.975989+00:00
 -- url     : https://prove2.me/theorems/101b96c1-0079-4372-9f1e-c631d69c60f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_tableGroup_finitelyPresented
 -- name    : SoficGroups.tableGroup_finitelyPresented
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:18.478977+00:00
 -- url     : https://prove2.me/theorems/4b351978-e240-44be-b2d0-836afdc4bc46

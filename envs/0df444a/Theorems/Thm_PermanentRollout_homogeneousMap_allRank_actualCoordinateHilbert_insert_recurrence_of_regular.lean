@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allRank_actualCoordinateHilbert_insert_recurrence_of_regular
 -- name    : PermanentRollout.homogeneousMap_allRank_actualCoordinateHilbert_insert_recurrence_of_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/1132baac-d3e9-42ba-ab95-0418b1c4a9e1

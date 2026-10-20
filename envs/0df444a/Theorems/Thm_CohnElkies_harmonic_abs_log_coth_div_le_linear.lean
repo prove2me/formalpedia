@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_harmonic_abs_log_coth_div_le_linear
 -- name    : CohnElkies.harmonic_abs_log_coth_div_le_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:00.667982+00:00
 -- url     : https://prove2.me/theorems/43273136-7e09-4b77-bc3b-d5747b1e8fa5

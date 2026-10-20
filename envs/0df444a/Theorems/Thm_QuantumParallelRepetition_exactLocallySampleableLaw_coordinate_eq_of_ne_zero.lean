@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_exactLocallySampleableLaw_coordinate_eq_of_ne_zero
 -- name    : QuantumParallelRepetition.exactLocallySampleableLaw_coordinate_eq_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/ef7e122f-a35b-41f9-b24c-2229975a923f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_manuscriptBinaryExponentError_tendsto
 -- name    : CohnElkies.manuscriptBinaryExponentError_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:03.329542+00:00
 -- url     : https://prove2.me/theorems/ee463f1f-2bbf-4cf8-bbe7-674866d4fec4

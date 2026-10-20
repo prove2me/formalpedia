@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_ThreeCNFReduction_encodeTableau_satisfiable_iff_validTrace
 -- name    : GapCVP.ThreeCNFReduction.encodeTableau_satisfiable_iff_validTrace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/bd38cb56-9f59-416d-a221-0f8dd57f37c8

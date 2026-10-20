@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_criticalGradientIdeal_isHomogeneous
 -- name    : PermanentRollout.criticalGradientIdeal_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/6e720e6a-5364-4b76-811c-7135242982e2

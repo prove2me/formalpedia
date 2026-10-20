@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_cycleGraph_no_isolated
 -- name    : CompactnessConjecture.cycleGraph_no_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:35.440987+00:00
 -- url     : https://prove2.me/theorems/07aa3a9c-d388-4a6e-b39e-32346740e597

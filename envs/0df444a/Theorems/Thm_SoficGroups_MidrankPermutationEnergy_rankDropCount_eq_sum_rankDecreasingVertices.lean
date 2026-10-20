@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_MidrankPermutationEnergy_rankDropCount_eq_sum_rankDecreasingVertices
 -- name    : SoficGroups.MidrankPermutationEnergy.rankDropCount_eq_sum_rankDecreasingVertices
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/9ecf804f-cc92-4918-90e4-dd9a688fef24

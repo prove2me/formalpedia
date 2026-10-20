@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleMellinInversePower_shiftedLine_integral_norm
 -- name    : CohnElkies.saddleMellinInversePower_shiftedLine_integral_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:51.566518+00:00
 -- url     : https://prove2.me/theorems/8dc8a110-c0a0-4653-831f-c74ea732444d

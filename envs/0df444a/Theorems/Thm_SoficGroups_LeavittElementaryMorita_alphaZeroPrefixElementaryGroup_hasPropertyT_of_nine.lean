@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_LeavittElementaryMorita_alphaZeroPrefixElementaryGroup_hasPropertyT_of_nine
 -- name    : SoficGroups.LeavittElementaryMorita.alphaZeroPrefixElementaryGroup_hasPropertyT_of_nine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/db7eed78-3aa1-42b2-be81-916df2e0ee72

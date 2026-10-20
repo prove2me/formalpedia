@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_variationalRate_le_boundaryObjective
 -- name    : MetricCodes.Spherical.variationalRate_le_boundaryObjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:39.191578+00:00
 -- url     : https://prove2.me/theorems/108065e3-09c0-4381-bea9-cb0c0ea0f10d

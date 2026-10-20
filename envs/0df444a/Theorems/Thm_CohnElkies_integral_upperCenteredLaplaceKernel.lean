@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_upperCenteredLaplaceKernel
 -- name    : CohnElkies.integral_upperCenteredLaplaceKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:58.736036+00:00
 -- url     : https://prove2.me/theorems/62cab9ad-34b2-44dc-bd7e-804d486b46af

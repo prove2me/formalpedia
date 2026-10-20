@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_Formula_cyclicMatchingBlock_fourth_power_bound_of_coefficientTranscendenceDegree
 -- name    : PermanentFormulaLowerBound.Formula.cyclicMatchingBlock_fourth_power_bound_of_coefficientTranscendenceDegree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:43.235103+00:00
 -- url     : https://prove2.me/theorems/a6216fd5-385c-4088-b5ae-3273d39b1e00

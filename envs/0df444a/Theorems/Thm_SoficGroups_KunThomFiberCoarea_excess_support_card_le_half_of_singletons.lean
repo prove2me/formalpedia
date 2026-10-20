@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_KunThomFiberCoarea_excess_support_card_le_half_of_singletons
 -- name    : SoficGroups.KunThomFiberCoarea.excess_support_card_le_half_of_singletons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:23.501339+00:00
 -- url     : https://prove2.me/theorems/606752d3-d20e-4cda-8552-f4a5e1fff4fa

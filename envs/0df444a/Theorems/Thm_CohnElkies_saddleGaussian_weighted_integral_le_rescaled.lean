@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_saddleGaussian_weighted_integral_le_rescaled
 -- name    : CohnElkies.saddleGaussian_weighted_integral_le_rescaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:59.395342+00:00
 -- url     : https://prove2.me/theorems/644ded5c-2e8b-49f7-aeb8-0a38fced4817

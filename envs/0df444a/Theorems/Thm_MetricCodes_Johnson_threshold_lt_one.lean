@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_threshold_lt_one
 -- name    : MetricCodes.Johnson.threshold_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:23.310643+00:00
 -- url     : https://prove2.me/theorems/ceb3d41d-a8e8-4b78-85c0-c512fa4e6da9

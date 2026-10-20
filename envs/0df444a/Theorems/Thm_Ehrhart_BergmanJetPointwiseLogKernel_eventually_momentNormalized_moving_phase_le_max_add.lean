@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPointwiseLogKernel_eventually_momentNormalized_moving_phase_le_max_add
 -- name    : Ehrhart.BergmanJetPointwiseLogKernel.eventually_momentNormalized_moving_phase_le_max_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:50.716001+00:00
 -- url     : https://prove2.me/theorems/9c06757b-8e96-4cb4-be67-89eb4a16e178

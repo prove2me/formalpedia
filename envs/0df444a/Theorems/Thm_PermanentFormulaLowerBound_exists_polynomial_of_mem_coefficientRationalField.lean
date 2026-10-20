@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentFormulaLowerBound_exists_polynomial_of_mem_coefficientRationalField
 -- name    : PermanentFormulaLowerBound.exists_polynomial_of_mem_coefficientRationalField
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:41.96597+00:00
 -- url     : https://prove2.me/theorems/9007a2f5-c37c-4261-849c-f60b554c84b4

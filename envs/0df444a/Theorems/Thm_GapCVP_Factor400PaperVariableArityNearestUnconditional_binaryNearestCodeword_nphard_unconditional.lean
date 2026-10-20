@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GapCVP_Factor400PaperVariableArityNearestUnconditional_binaryNearestCodeword_nphard_unconditional
 -- name    : GapCVP.Factor400PaperVariableArityNearestUnconditional.binaryNearestCodeword_nphard_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:16.962274+00:00
 -- url     : https://prove2.me/theorems/eba62c9b-c72d-4a94-81af-bebe8b18ffa8

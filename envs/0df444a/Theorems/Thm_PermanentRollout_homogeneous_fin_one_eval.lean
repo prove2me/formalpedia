@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneous_fin_one_eval
 -- name    : PermanentRollout.homogeneous_fin_one_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/67bedff0-2399-4afc-9ef7-6a40f1b20186

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_permanent_rollout_minimalPrime_exists_variable_of_positive_dimension
 -- name    : PermanentRollout.permanent_rollout_minimalPrime_exists_variable_of_positive_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:34.673665+00:00
 -- url     : https://prove2.me/theorems/f7baca78-8ae8-4645-b51a-79e4e8a95767

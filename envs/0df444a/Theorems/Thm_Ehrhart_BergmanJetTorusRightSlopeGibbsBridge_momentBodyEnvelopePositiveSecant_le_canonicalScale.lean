@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetTorusRightSlopeGibbsBridge_momentBodyEnvelopePositiveSecant_le_canonicalScale
 -- name    : Ehrhart.BergmanJetTorusRightSlopeGibbsBridge.momentBodyEnvelopePositiveSecant_le_canonicalScale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:06.698159+00:00
 -- url     : https://prove2.me/theorems/04bf66bd-8ba5-4109-b0d7-192096809f35

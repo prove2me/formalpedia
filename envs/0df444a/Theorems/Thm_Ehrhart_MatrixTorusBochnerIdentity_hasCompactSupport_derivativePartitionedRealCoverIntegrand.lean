@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_MatrixTorusBochnerIdentity_hasCompactSupport_derivativePartitionedRealCoverIntegrand
 -- name    : Ehrhart.MatrixTorusBochnerIdentity.hasCompactSupport_derivativePartitionedRealCoverIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:55.424275+00:00
 -- url     : https://prove2.me/theorems/4741cdff-443b-4564-84bb-eb7c4ec9fb68

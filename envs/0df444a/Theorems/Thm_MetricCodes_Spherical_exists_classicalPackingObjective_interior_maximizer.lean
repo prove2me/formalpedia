@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_exists_classicalPackingObjective_interior_maximizer
 -- name    : MetricCodes.Spherical.exists_classicalPackingObjective_interior_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:30.752311+00:00
 -- url     : https://prove2.me/theorems/4709191d-026c-4f03-891b-7e20816a9dfa

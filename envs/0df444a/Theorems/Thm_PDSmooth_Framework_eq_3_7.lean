@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDSmooth_Framework_eq_3_7
 -- name    : PDSmooth.Framework.eq_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:54:36.038573+00:00
 -- url     : https://prove2.me/theorems/23ae301d-3558-4bc3-8863-263cc0c748ed

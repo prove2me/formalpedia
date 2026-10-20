@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_fullCoordinateInsertedHiddenBobWeight_eq
 -- name    : QuantumParallelRepetition.fullCoordinateInsertedHiddenBobWeight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:45.425888+00:00
 -- url     : https://prove2.me/theorems/0885be03-1b0c-42ee-8514-d7917d8d743c

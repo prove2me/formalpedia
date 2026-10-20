@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMapFinSuccFirstPivotPlaneMap_coordinate_zero
 -- name    : PermanentRollout.homogeneousMapFinSuccFirstPivotPlaneMap_coordinate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:35.41423+00:00
 -- url     : https://prove2.me/theorems/58dd71ad-33d9-4612-8bad-87dc5fa9a9ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermanentRollout_homogeneousMap_allTarget_totalDegree_sub_homogeneousComponent_le
 -- name    : PermanentRollout.homogeneousMap_allTarget_totalDegree_sub_homogeneousComponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:36.286012+00:00
 -- url     : https://prove2.me/theorems/2afcaa2c-0c81-461d-a768-17f7d426f6f1

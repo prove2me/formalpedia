@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_integral_complexFrullaniKernel
 -- name    : CohnElkies.integral_complexFrullaniKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/78111d7d-6f33-4dd6-abc3-4fc342b4ba05

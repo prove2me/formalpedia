@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_SpatialBergmanPointwiseAsymptotics_eventually_nearestMonomialIndex_eq_rounded
 -- name    : Ehrhart.SpatialBergmanPointwiseAsymptotics.eventually_nearestMonomialIndex_eq_rounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:46.631058+00:00
 -- url     : https://prove2.me/theorems/6671ed30-f535-4e8c-b97b-40984eca6703

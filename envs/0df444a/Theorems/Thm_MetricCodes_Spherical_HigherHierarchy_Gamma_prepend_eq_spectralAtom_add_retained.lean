@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_Gamma_prepend_eq_spectralAtom_add_retained
 -- name    : MetricCodes.Spherical.HigherHierarchy.Gamma_prepend_eq_spectralAtom_add_retained
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:42.425795+00:00
 -- url     : https://prove2.me/theorems/10e1df99-c474-4e09-8c69-c61a991cad0b

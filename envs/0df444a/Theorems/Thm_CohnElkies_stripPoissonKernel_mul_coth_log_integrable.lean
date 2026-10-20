@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_stripPoissonKernel_mul_coth_log_integrable
 -- name    : CohnElkies.stripPoissonKernel_mul_coth_log_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/8bb80a5a-edce-4ff0-bb1b-337fe85ed6f2

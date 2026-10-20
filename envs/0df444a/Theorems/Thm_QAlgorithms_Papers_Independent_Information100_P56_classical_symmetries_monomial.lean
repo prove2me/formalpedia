@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_classical_symmetries_monomial
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.classical_symmetries_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:15:19.064541+00:00
 -- url     : https://prove2.me/theorems/9617a9a0-5f87-4893-ba71-a34a126f742f

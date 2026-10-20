@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalMatchedVerifierAggregate_dependent_le
 -- name    : QuantumParallelRepetition.unconditionalMatchedVerifierAggregate_dependent_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:46.229074+00:00
 -- url     : https://prove2.me/theorems/a676e323-60ad-4706-9959-459f4e325f7a

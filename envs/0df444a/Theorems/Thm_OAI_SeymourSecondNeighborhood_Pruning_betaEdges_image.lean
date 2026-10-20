@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SeymourSecondNeighborhood_Pruning_betaEdges_image
 -- name    : OAI.SeymourSecondNeighborhood.Pruning.betaEdges_image
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T12:14:01.815367+00:00
 -- url     : https://prove2.me/theorems/3e3773d1-4b8f-4826-a401-7233582f444d

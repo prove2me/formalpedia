@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_poissonLogistic_betaIntegral
 -- name    : CohnElkies.poissonLogistic_betaIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:54.348956+00:00
 -- url     : https://prove2.me/theorems/57f192ed-1c48-452f-8e56-2f7582b7a594

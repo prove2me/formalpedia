@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_EnvelopeTorusDescent_hasDerivAt_sourceJointTimeEmbedding
 -- name    : Ehrhart.EnvelopeTorusDescent.hasDerivAt_sourceJointTimeEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:58.667884+00:00
 -- url     : https://prove2.me/theorems/43f8f541-343e-433e-a0ed-60acef974795

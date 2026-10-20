@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpherePacking_finiteGramCertificate_auxiliary_sum_lower
 -- name    : SpherePacking.finiteGramCertificate_auxiliary_sum_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:37.266213+00:00
 -- url     : https://prove2.me/theorems/17fe9401-6fe9-4d58-b84c-e5106da23f59

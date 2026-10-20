@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_BergmanJetPortmanteauActualVolumeBridge_upperSemicontinuous_momentBodyTailPositiveSecant
 -- name    : Ehrhart.BergmanJetPortmanteauActualVolumeBridge.upperSemicontinuous_momentBodyTailPositiveSecant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:12.329469+00:00
 -- url     : https://prove2.me/theorems/99c56899-6274-48a0-88ce-c6bb35f12e62

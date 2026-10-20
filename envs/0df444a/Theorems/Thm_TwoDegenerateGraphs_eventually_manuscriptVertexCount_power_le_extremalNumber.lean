@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_eventually_manuscriptVertexCount_power_le_extremalNumber
 -- name    : TwoDegenerateGraphs.eventually_manuscriptVertexCount_power_le_extremalNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:43.893326+00:00
 -- url     : https://prove2.me/theorems/8c24869b-4174-4e1b-aff6-8c18333cfcb4

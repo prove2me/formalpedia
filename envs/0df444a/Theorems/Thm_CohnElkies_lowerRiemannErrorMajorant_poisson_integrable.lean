@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_lowerRiemannErrorMajorant_poisson_integrable
 -- name    : CohnElkies.lowerRiemannErrorMajorant_poisson_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/fa1fc021-acec-4b70-9f7f-0d3520a4eaeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusWeightedDensityConvolutionDivergence_holomorphicCoordinate_normalizedCoverMollification_eq_kernel
 -- name    : Ehrhart.TorusWeightedDensityConvolutionDivergence.holomorphicCoordinate_normalizedCoverMollification_eq_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:03.298759+00:00
 -- url     : https://prove2.me/theorems/49cd475f-bcc7-4389-8040-c2c10a85112e

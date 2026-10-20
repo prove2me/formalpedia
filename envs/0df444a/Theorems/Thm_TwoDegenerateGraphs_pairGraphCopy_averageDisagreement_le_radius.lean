@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoDegenerateGraphs_pairGraphCopy_averageDisagreement_le_radius
 -- name    : TwoDegenerateGraphs.pairGraphCopy_averageDisagreement_le_radius
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:42.805702+00:00
 -- url     : https://prove2.me/theorems/8ba2d21d-8bb2-4d2d-bf02-a94d19c363d5

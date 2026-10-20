@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_MRRW_hasDerivAt_mrrwG_sq_zero
 -- name    : MetricCodes.MRRW.hasDerivAt_mrrwG_sq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:26.055068+00:00
 -- url     : https://prove2.me/theorems/5481acc8-27f0-4219-b943-32e62b9c10ff

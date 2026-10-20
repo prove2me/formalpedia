@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_matched_exists_le_weighted_average
 -- name    : SoficGroups.matched_exists_le_weighted_average
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.023082+00:00
 -- url     : https://prove2.me/theorems/48f632a7-52ba-4b3c-a487-8380f2577913

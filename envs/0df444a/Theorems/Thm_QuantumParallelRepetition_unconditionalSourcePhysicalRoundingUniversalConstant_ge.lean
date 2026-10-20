@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_unconditionalSourcePhysicalRoundingUniversalConstant_ge
 -- name    : QuantumParallelRepetition.unconditionalSourcePhysicalRoundingUniversalConstant_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/630764c1-532d-4d21-b7d1-1f2061e3e831

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfGreedyCeilingHorizon_le
 -- name    : QuantumParallelRepetition.pdfGreedyCeilingHorizon_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:48.934586+00:00
 -- url     : https://prove2.me/theorems/e5b12aba-3ce6-4c84-88d8-8aa27601d69a

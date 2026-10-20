@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_upperGammaThirdMoment_le_two_mul_variance
 -- name    : CohnElkies.upperGammaThirdMoment_le_two_mul_variance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:56.260927+00:00
 -- url     : https://prove2.me/theorems/fb5b054a-f541-401a-94cb-4b0ac45b0867

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompactnessConjecture_exists_bipartite_min_degree_subgraph
 -- name    : CompactnessConjecture.exists_bipartite_min_degree_subgraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:34.487131+00:00
 -- url     : https://prove2.me/theorems/c79528d1-33e8-4a89-ace1-f8d165d31268

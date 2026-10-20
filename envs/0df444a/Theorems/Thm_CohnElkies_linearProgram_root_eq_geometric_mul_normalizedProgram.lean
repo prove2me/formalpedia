@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_linearProgram_root_eq_geometric_mul_normalizedProgram
 -- name    : CohnElkies.linearProgram_root_eq_geometric_mul_normalizedProgram
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:57:02.02251+00:00
 -- url     : https://prove2.me/theorems/1359d9d7-a532-4b20-ada4-6f1e14e69694

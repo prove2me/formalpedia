@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_balancingScale_inv_eq_normalizedCost_mul_sqrt
 -- name    : CohnElkies.balancingScale_inv_eq_normalizedCost_mul_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:50.637979+00:00
 -- url     : https://prove2.me/theorems/7d008ec9-13ca-4726-9436-7614e5c03370

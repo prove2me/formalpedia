@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohnElkies_strip_abs_log_le_add_rpow
 -- name    : CohnElkies.strip_abs_log_le_add_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:52.291105+00:00
 -- url     : https://prove2.me/theorems/b2d1ad76-1adc-43e7-8e5a-19fa71340314

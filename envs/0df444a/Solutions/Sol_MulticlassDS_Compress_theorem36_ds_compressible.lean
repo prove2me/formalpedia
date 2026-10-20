@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MulticlassDS.Compress.theorem36_ds_compressible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T16:11:47.003028+00:00
 -- url     : https://prove2.me/submissions/1277b13d-0ee5-4e08-a48a-0a9079c6d4a8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MulticlassDS_Compress_Dimensions

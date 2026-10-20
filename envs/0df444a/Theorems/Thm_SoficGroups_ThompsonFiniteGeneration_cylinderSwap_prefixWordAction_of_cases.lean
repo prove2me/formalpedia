@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoficGroups_ThompsonFiniteGeneration_cylinderSwap_prefixWordAction_of_cases
 -- name    : SoficGroups.ThompsonFiniteGeneration.cylinderSwap_prefixWordAction_of_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:21.748479+00:00
 -- url     : https://prove2.me/theorems/7a452b62-a160-402e-ba45-e3191e03999d

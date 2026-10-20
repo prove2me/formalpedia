@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricCodes_Johnson_SpectralAsymptotics_tendsto_johnsonHattedEdge
 -- name    : MetricCodes.Johnson.SpectralAsymptotics.tendsto_johnsonHattedEdge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:27.636998+00:00
 -- url     : https://prove2.me/theorems/4029385f-0c95-4ef2-8097-254d1a33944d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_TorusHomogeneousBrascampLieb_angularSourceFreeScalarRadialGraphTest_scalar_L2_tendsto
 -- name    : Ehrhart.TorusHomogeneousBrascampLieb.angularSourceFreeScalarRadialGraphTest_scalar_L2_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:55:08.235634+00:00
 -- url     : https://prove2.me/theorems/4abf9eeb-cd50-4cc9-aea7-2aa98018006d

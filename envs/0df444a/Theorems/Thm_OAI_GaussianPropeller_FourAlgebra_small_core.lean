@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_FourAlgebra_small_core
 -- name    : OAI.GaussianPropeller.FourAlgebra.small_core
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T07:21:08.81139+00:00
 -- url     : https://prove2.me/theorems/fa08f475-5a65-40e3-9c08-1e14521f82a4

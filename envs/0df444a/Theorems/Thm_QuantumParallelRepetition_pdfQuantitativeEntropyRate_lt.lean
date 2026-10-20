@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumParallelRepetition_pdfQuantitativeEntropyRate_lt
 -- name    : QuantumParallelRepetition.pdfQuantitativeEntropyRate_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:56:49.795984+00:00
 -- url     : https://prove2.me/theorems/170acf0e-2711-4ab5-a0f1-f852a3950fba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Ehrhart_HolomorphicLaurentFourierCompletenessBridge_periodic_coordinateHolomorphicSlice
 -- name    : Ehrhart.HolomorphicLaurentFourierCompletenessBridge.periodic_coordinateHolomorphicSlice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T10:54:48.222718+00:00
 -- url     : https://prove2.me/theorems/f677d84d-1a77-4b8d-be9b-5277e2522d8a
