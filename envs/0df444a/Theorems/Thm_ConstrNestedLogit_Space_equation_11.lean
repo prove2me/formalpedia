@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Space_equation_11
 -- name    : ConstrNestedLogit.Space.equation_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:59.363583+00:00
 -- url     : https://prove2.me/theorems/83dde935-955c-4220-abaa-51ca371d5d95

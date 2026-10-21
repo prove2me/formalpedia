@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_nativeSdp
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.nativeSdp
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:16:23.954128+00:00
 -- url     : https://prove2.me/theorems/0edc4f7e-25a0-4195-9639-a1dc2b485df3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengBCD_Stationary_theorem_4_1
 -- name    : TsengBCD.Stationary.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T22:17:57.179995+00:00
 -- url     : https://prove2.me/theorems/84bd6c84-7371-475b-9895-07a9c0845908

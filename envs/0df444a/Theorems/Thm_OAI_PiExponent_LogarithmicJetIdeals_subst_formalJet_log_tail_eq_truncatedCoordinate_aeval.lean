@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_subst_formalJet_log_tail_eq_truncatedCoordinate_aeval
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.subst_formalJet_log_tail_eq_truncatedCoordinate_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:48:42.180433+00:00
 -- url     : https://prove2.me/theorems/96925ee8-8d7f-403b-add0-cbd103463a5b

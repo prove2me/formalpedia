@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnnounceCorr_Criterion_proposition_1_expansion
 -- name    : AnnounceCorr.Criterion.proposition_1_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:47.161458+00:00
 -- url     : https://prove2.me/theorems/0f08e358-8263-443e-83df-cd7bb3532b41

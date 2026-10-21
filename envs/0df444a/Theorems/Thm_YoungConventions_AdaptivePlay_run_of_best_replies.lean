@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_AdaptivePlay_run_of_best_replies
 -- name    : YoungConventions.AdaptivePlay.run_of_best_replies
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:03:15.427003+00:00
 -- url     : https://prove2.me/theorems/b7bcdfd4-b215-4219-9ed8-2340a63d972c

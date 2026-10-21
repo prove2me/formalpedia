@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Aggregating_restricted_prior_step
 -- name    : ModernOnlineLearning.Aggregating.restricted_prior_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:02.180704+00:00
 -- url     : https://prove2.me/theorems/06d5d370-ab38-49ad-a336-0eb0e241e191

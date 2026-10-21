@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Joint_price_step
 -- name    : PriceQualityService.Joint.price_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:27.162645+00:00
 -- url     : https://prove2.me/theorems/476e28c8-8259-42c2-9112-8f52f699b3f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_period_coefficient_collision_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.period_coefficient_collision_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-18T17:23:20.315399+00:00
 -- url     : https://prove2.me/theorems/cc4b6cfe-7225-43fd-a699-472dcfc91651

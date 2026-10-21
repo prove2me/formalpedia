@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_security_dimension_scaling
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.security_dimension_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:30:12.146328+00:00
 -- url     : https://prove2.me/theorems/c8a09fb1-3e51-4f5a-81e5-3a4d6cd4994f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenQueue_ProductForm_exit_rate
 -- name    : TokenQueue.ProductForm.exit_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:44.515928+00:00
 -- url     : https://prove2.me/theorems/516e658d-7fd1-4872-9ffd-1bda74039ade

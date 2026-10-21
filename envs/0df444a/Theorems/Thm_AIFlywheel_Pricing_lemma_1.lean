@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AIFlywheel_Pricing_lemma_1
 -- name    : AIFlywheel.Pricing.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:42.130391+00:00
 -- url     : https://prove2.me/theorems/9b76e6cb-7b88-47cc-9c87-10fb4f8ffef2

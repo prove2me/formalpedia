@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_Interior_gf_nonneg_of_mem_F
 -- name    : GivenDegreeSeq.Interior.gf_nonneg_of_mem_F
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:53:38.529023+00:00
 -- url     : https://prove2.me/theorems/b202b934-16fb-4d66-823a-b18ab98ec05e

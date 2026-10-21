@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Reductions_lemma_12_2_subdiff
 -- name    : ModernOnlineLearning.Reductions.lemma_12_2_subdiff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:07.899795+00:00
 -- url     : https://prove2.me/theorems/c5e37dfe-103e-44f6-aeea-ee8d5566685c

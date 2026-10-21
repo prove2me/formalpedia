@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kakutani1941_FixedPoint_composition
 -- name    : Kakutani1941.FixedPoint.composition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:15:34.432696+00:00
 -- url     : https://prove2.me/theorems/ec0d5c5c-4872-4f5f-84b9-6e06ff1d59fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomLeadGBS_Diffusion_eq_14
 -- name    : RandomLeadGBS.Diffusion.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:02.73685+00:00
 -- url     : https://prove2.me/theorems/1442b903-2936-4137-ae5d-ef41afa8aea9

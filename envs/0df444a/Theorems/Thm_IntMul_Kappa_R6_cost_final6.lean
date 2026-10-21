@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_cost_final6
 -- name    : IntMul.Kappa.R6.cost_final6
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:38:04.032391+00:00
 -- url     : https://prove2.me/theorems/05de5494-e45c-4cc5-ab7e-93d2282810fc

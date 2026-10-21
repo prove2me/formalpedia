@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErrBoundQG_ProxGrad_theorem_3_5_i
 -- name    : ErrBoundQG.ProxGrad.theorem_3_5_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:11:05.286989+00:00
 -- url     : https://prove2.me/theorems/9cca3dfb-854b-4c83-81cd-028d647f6f0c

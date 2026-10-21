@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_Hyp14_midPre
 -- name    : IntMul.Kappa.R6.IL3H.Hyp14.midPre
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:00.08396+00:00
 -- url     : https://prove2.me/theorems/ed187602-34de-43f9-851e-490f30083dcc

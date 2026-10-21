@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdContest_Pooling_eq_A_6
 -- name    : CrowdContest.Pooling.eq_A_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:22.791733+00:00
 -- url     : https://prove2.me/theorems/50f75cac-8c14-4ee6-bcd3-be0df8cc60b9

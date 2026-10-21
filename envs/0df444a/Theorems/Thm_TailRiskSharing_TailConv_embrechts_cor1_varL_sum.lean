@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_TailConv_embrechts_cor1_varL_sum
 -- name    : TailRiskSharing.TailConv.embrechts_cor1_varL_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:42.12946+00:00
 -- url     : https://prove2.me/theorems/82512423-e141-4fe3-8adb-28e352d79f15

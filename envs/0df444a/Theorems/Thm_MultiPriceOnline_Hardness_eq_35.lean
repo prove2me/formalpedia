@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Hardness_eq_35
 -- name    : MultiPriceOnline.Hardness.eq_35
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:16.943522+00:00
 -- url     : https://prove2.me/theorems/5d99bdac-47b8-401d-8e32-51613bd95709

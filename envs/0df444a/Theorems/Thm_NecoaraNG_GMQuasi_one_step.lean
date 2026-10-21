@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMQuasi_one_step
 -- name    : NecoaraNG.GMQuasi.one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:40:55.216506+00:00
 -- url     : https://prove2.me/theorems/94278c9b-3f01-4e38-bdd0-72d488bfe570

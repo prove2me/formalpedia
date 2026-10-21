@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_interior_case
 -- name    : RoboAdvising.Interaction.interior_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:57.641461+00:00
 -- url     : https://prove2.me/theorems/c92b80c5-5343-42ac-96a8-e1cdc08ed8f7

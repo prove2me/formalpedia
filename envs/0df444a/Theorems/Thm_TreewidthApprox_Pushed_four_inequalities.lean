@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Pushed_four_inequalities
 -- name    : TreewidthApprox.Pushed.four_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:36.717785+00:00
 -- url     : https://prove2.me/theorems/d8c55dd7-c332-4a4b-bfe2-179fcb1affdc

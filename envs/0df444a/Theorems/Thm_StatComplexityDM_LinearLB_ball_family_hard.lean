@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_LinearLB_ball_family_hard
 -- name    : StatComplexityDM.LinearLB.ball_family_hard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:20.66692+00:00
 -- url     : https://prove2.me/theorems/cdc10eb9-70aa-46cc-8136-95fc51213d78

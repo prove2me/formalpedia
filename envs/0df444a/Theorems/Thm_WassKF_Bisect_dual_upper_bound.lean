@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassKF_Bisect_dual_upper_bound
 -- name    : WassKF.Bisect.dual_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:09:11.573166+00:00
 -- url     : https://prove2.me/theorems/8d2a683b-e529-435f-b61e-e86776afd15e

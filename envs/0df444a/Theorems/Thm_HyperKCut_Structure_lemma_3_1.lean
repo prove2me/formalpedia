@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperKCut_Structure_lemma_3_1
 -- name    : HyperKCut.Structure.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:19.51849+00:00
 -- url     : https://prove2.me/theorems/46e1ed54-9feb-41d0-9ce0-a9a9401dea15

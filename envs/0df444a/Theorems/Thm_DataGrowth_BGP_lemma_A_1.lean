@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataGrowth_BGP_lemma_A_1
 -- name    : DataGrowth.BGP.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:16.851357+00:00
 -- url     : https://prove2.me/theorems/eea1fd4c-1fe6-4bb3-93c8-df3d3cc17c93

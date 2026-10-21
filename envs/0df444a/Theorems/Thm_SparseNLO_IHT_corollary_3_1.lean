@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_IHT_corollary_3_1
 -- name    : SparseNLO.IHT.corollary_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:08:02.143297+00:00
 -- url     : https://prove2.me/theorems/f6ed9885-32c3-4302-b3f5-2cab30c05a7b

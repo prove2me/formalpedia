@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallNoCall_OneDir_avgWait_strictAnti_coord
 -- name    : CallNoCall.OneDir.avgWait_strictAnti_coord
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:10.834527+00:00
 -- url     : https://prove2.me/theorems/4acc1c40-3319-45f1-80d5-8e1c4f6a7cec

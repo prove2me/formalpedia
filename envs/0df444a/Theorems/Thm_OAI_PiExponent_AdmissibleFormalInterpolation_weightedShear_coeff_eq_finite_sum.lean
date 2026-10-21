@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weightedShear_coeff_eq_finite_sum
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weightedShear_coeff_eq_finite_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:42:40.766572+00:00
 -- url     : https://prove2.me/theorems/70a160d9-6436-49f8-a6b5-44408bc885f5

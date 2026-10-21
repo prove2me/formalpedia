@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.local_jet_ideal_coeff_vanish_below_scale
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T00:16:51.729879+00:00
 -- url     : https://prove2.me/submissions/2c25bcab-171a-4f4b-b07c-b085227cdb29
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_local_jet_ideal_generator_coeff_vanish_below_scale
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_local_jet_ideal_coeff_vanish_from_generators

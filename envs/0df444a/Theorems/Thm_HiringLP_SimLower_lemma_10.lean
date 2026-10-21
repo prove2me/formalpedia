@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimLower_lemma_10
 -- name    : HiringLP.SimLower.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:25.406995+00:00
 -- url     : https://prove2.me/theorems/191713d4-871d-4ed8-a894-a69a4597254a

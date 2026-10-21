@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Portfolio_theorem_10_4
 -- name    : ModernOnlineLearning.Portfolio.theorem_10_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:38:47.28098+00:00
 -- url     : https://prove2.me/theorems/664b7012-762e-45a8-9f93-2e7895684b86

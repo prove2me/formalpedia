@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PuhaWardFluid_Limit_lemma_2_i
 -- name    : PuhaWardFluid.Limit.lemma_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:28.381202+00:00
 -- url     : https://prove2.me/theorems/2a153ae7-af71-4650-809d-d84d29456866

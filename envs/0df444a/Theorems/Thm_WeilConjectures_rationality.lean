@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_rationality
 -- name    : WeilConjectures.rationality
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T15:02:57.259497+00:00
 -- url     : https://prove2.me/theorems/315db308-e768-4c19-9e77-a98e5b7024f3

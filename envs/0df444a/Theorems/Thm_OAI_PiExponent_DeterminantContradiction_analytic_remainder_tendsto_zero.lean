@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_analytic_remainder_tendsto_zero
 -- name    : OAI.PiExponent.DeterminantContradiction.analytic_remainder_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:24:39.653183+00:00
 -- url     : https://prove2.me/theorems/19cf9dc5-8651-4441-aac3-5bea2bd8c7f0

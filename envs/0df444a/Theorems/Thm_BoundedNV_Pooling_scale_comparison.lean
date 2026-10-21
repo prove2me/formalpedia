@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Pooling_scale_comparison
 -- name    : BoundedNV.Pooling.scale_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:26.524731+00:00
 -- url     : https://prove2.me/theorems/94ebbd6a-6d44-40b8-a591-ced337da42c8

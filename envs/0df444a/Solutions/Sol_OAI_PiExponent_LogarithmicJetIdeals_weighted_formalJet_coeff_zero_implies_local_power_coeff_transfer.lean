@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.weighted_formalJet_coeff_zero_implies_local_power_coeff_transfer
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:41:47.771647+00:00
 -- url     : https://prove2.me/submissions/4eb26d5c-f9f8-4e16-9a93-67e331be06f4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals

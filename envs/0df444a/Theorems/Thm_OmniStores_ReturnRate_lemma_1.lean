@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniStores_ReturnRate_lemma_1
 -- name    : OmniStores.ReturnRate.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:20.977853+00:00
 -- url     : https://prove2.me/theorems/c41dbcbd-5463-4a77-b964-cf790d2b6a2c

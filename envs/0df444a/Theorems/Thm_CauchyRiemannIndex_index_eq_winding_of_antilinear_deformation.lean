@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_index_eq_winding_of_antilinear_deformation
 -- name    : CauchyRiemannIndex.index_eq_winding_of_antilinear_deformation
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:05:16.505358+00:00
 -- url     : https://prove2.me/theorems/8d41a842-5fa1-4ed4-b726-02aad90f553e

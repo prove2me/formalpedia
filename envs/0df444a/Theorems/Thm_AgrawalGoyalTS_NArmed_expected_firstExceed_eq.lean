@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgrawalGoyalTS_NArmed_expected_firstExceed_eq
 -- name    : AgrawalGoyalTS.NArmed.expected_firstExceed_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:25:54.917404+00:00
 -- url     : https://prove2.me/theorems/a2ab7278-a630-48fd-96dc-2e18595631f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_AGP_outer_limit_linear_objective_agp
 -- name    : StrictCQ.AGP.outer_limit_linear_objective_agp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:39:43.118161+00:00
 -- url     : https://prove2.me/theorems/5d910f36-6518-4094-b9b0-3f3c815166ce

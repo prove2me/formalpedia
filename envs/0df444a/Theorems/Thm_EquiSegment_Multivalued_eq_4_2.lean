@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquiSegment_Multivalued_eq_4_2
 -- name    : EquiSegment.Multivalued.eq_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:34.956744+00:00
 -- url     : https://prove2.me/theorems/2dc60f58-90de-4826-aa78-9721c6dec11b

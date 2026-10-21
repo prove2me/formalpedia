@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_HeavyBallODE_lemma_3_2
 -- name    : HighResODE.HeavyBallODE.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:13.450139+00:00
 -- url     : https://prove2.me/theorems/228fbfd1-d641-46b5-a590-dea885952ddd

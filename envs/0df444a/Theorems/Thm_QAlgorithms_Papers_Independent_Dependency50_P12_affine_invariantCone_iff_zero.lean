@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_affine_invariantCone_iff_zero
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.affine_invariantCone_iff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:03:43.126828+00:00
 -- url     : https://prove2.me/theorems/f1e16736-c601-469f-aafd-70d4828d9f6d

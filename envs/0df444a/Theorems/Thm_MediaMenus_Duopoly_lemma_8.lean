@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MediaMenus_Duopoly_lemma_8
 -- name    : MediaMenus.Duopoly.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:44.59022+00:00
 -- url     : https://prove2.me/theorems/7de45d57-785c-4a00-8122-83b507150180

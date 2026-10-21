@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesIMA_Stages_eq_2
 -- name    : GravesIMA.Stages.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:49.084409+00:00
 -- url     : https://prove2.me/theorems/806be234-2a0e-4f7d-9f85-3c4d2d601b11

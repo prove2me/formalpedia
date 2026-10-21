@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFY_ng_exists
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFY.ng_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:21:49.81792+00:00
 -- url     : https://prove2.me/theorems/5bfb449c-0e62-4944-8b09-e67cfdea424f

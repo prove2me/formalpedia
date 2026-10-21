@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Facet_facet_points_affineIndependent
 -- name    : ReluMIP.Facet.facet_points_affineIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:34:50.537061+00:00
 -- url     : https://prove2.me/theorems/2eafce49-7218-4576-a7d0-2a00b4f76910

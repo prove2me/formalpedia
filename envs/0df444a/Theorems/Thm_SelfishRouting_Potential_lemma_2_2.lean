@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Potential_lemma_2_2
 -- name    : SelfishRouting.Potential.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:01.731434+00:00
 -- url     : https://prove2.me/theorems/be48850d-f6dc-459d-93fb-ab318a20474d

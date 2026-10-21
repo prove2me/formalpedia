@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumLB_J_eq_hankel
 -- name    : SymPolyOpt.PowerSumLB.J_eq_hankel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:09.289496+00:00
 -- url     : https://prove2.me/theorems/d29c4bdd-8b32-4071-ab2c-22fe5974c56c

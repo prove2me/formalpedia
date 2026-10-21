@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Reductions_eq_12_2
 -- name    : ModernOnlineLearning.Reductions.eq_12_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:15.007999+00:00
 -- url     : https://prove2.me/theorems/9908bb2e-ee38-4c0d-bb10-9bf1931ad489

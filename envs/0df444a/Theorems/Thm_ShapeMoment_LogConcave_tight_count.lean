@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeMoment_LogConcave_tight_count
 -- name    : ShapeMoment.LogConcave.tight_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:47.827111+00:00
 -- url     : https://prove2.me/theorems/6e7cec22-d6e3-4323-8d91-aa0fd59a3d89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_FixedPoint_eq_8
 -- name    : GivenDegreeSeq.FixedPoint.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:51:34.133534+00:00
 -- url     : https://prove2.me/theorems/8bfdf4fd-b4dd-4fd0-97cd-6983c7ba51d4

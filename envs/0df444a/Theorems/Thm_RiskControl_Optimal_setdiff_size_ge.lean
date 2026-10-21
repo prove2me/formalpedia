@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_Optimal_setdiff_size_ge
 -- name    : RiskControl.Optimal.setdiff_size_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:35:53.045979+00:00
 -- url     : https://prove2.me/theorems/9598195b-11ba-427c-b670-9396e6a2eb49

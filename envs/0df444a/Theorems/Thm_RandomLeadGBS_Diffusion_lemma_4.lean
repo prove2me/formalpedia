@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomLeadGBS_Diffusion_lemma_4
 -- name    : RandomLeadGBS.Diffusion.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:11.877773+00:00
 -- url     : https://prove2.me/theorems/995fba99-d4ad-42f1-858c-824742672128

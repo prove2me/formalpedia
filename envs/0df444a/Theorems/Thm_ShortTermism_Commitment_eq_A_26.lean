@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermism_Commitment_eq_A_26
 -- name    : ShortTermism.Commitment.eq_A_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:07.341624+00:00
 -- url     : https://prove2.me/theorems/9eaf7f1e-a152-44db-b9e8-d1c4cf82418d

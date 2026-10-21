@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAG_SmallStep_proposition_1
 -- name    : SAG.SmallStep.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:56.299998+00:00
 -- url     : https://prove2.me/theorems/f2e5b837-db2a-4f7d-9fdd-a32ae959e532

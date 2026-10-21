@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceMatchNeg_Symmetric_monopoly
 -- name    : PriceMatchNeg.Symmetric.monopoly
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:46.791956+00:00
 -- url     : https://prove2.me/theorems/301ab8c3-0096-47e4-ac6a-94234986a5b0

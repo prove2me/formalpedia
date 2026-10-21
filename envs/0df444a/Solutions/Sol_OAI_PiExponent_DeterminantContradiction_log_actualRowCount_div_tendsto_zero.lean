@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.log_actualRowCount_div_tendsto_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:10:19.820713+00:00
 -- url     : https://prove2.me/submissions/f1634206-60a0-4b28-a2ef-51f5eadb6bb3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData
 import Theorems.Thm_OAI_PiExponent_log_nat_function_div_tendsto_zero_of_eventual_polynomial_bound

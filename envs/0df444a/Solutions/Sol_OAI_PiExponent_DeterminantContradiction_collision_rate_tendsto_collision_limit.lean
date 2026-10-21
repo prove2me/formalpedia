@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.collision_rate_tendsto_collision_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:08:30.65205+00:00
 -- url     : https://prove2.me/submissions/a3c225bd-e840-4baa-b631-24079951dfbd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData
 import Theorems.Thm_OAI_PiExponent_DeterminantContradiction_row_count_asymptotic

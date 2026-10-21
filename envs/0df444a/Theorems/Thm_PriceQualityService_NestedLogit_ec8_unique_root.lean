@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_NestedLogit_ec8_unique_root
 -- name    : PriceQualityService.NestedLogit.ec8_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:32:27.311548+00:00
 -- url     : https://prove2.me/theorems/5fdf43ab-6cfb-42fd-8229-3fb915086c4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMIff_one_step_dist
 -- name    : NecoaraNG.GMIff.one_step_dist
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:47:14.646631+00:00
 -- url     : https://prove2.me/theorems/aa55b2ef-25e6-44cf-a92d-c0a4c6b4fdc4

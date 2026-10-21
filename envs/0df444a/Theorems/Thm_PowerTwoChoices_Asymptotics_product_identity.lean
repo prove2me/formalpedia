@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Asymptotics_product_identity
 -- name    : PowerTwoChoices.Asymptotics.product_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:05:07.636987+00:00
 -- url     : https://prove2.me/theorems/56d6c799-5b1a-49da-b2ef-eca8b3f4378f

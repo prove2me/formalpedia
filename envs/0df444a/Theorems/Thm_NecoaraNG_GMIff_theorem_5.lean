@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMIff_theorem_5
 -- name    : NecoaraNG.GMIff.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:48:22.039754+00:00
 -- url     : https://prove2.me/theorems/1fd8ecf4-d44b-41c6-9b85-a28bf82a51cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_ordinaryTaylor_interpolatingPolynomial
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.ordinaryTaylor_interpolatingPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:45:08.580119+00:00
 -- url     : https://prove2.me/theorems/af163483-d7df-416e-9b9c-6e0d7febbb96

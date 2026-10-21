@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_determinant_exponent_branch
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_determinant_exponent_branch
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:13:07.590589+00:00
 -- url     : https://prove2.me/theorems/7eb948a5-8844-4514-8105-07d7d676439e

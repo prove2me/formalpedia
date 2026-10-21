@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_lemma_7_1
 -- name    : PrivSeqLearn.QueryComplexity.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:22.237691+00:00
 -- url     : https://prove2.me/theorems/9fadbda7-fa1b-45a9-8c8f-5809db29a6b5

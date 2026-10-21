@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_subst_liftLogSeries_of_X_zero
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.subst_liftLogSeries_of_X_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T06:08:04.690837+00:00
 -- url     : https://prove2.me/theorems/5d7251ca-9292-44da-b052-657f5d030cdc

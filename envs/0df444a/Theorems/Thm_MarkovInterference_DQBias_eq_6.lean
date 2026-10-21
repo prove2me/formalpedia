@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovInterference_DQBias_eq_6
 -- name    : MarkovInterference.DQBias.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:40.084609+00:00
 -- url     : https://prove2.me/theorems/cd5cea93-4d92-49ee-b106-89a8fdb4d400

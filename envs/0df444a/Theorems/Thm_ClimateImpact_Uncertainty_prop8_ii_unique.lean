@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Uncertainty_prop8_ii_unique
 -- name    : ClimateImpact.Uncertainty.prop8_ii_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:03.31708+00:00
 -- url     : https://prove2.me/theorems/b150f293-fece-4a85-a19f-735f87dd49bd

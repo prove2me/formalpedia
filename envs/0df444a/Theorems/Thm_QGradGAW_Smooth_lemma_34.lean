@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGradGAW_Smooth_lemma_34
 -- name    : QGradGAW.Smooth.lemma_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:55.472559+00:00
 -- url     : https://prove2.me/theorems/ed2dbce3-0f69-4d68-995d-526b78ec3a3d

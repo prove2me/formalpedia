@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GilesMLMC_Complexity_case_c_complexity
 -- name    : GilesMLMC.Complexity.case_c_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:49.365036+00:00
 -- url     : https://prove2.me/theorems/a02a6423-57fc-4165-877a-1b7b6aa5c006

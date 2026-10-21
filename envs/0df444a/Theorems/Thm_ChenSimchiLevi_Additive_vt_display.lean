@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_Additive_vt_display
 -- name    : ChenSimchiLevi.Additive.vt_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:42:33.117268+00:00
 -- url     : https://prove2.me/theorems/1c77c655-d506-4af2-843a-e34ad8a8698f

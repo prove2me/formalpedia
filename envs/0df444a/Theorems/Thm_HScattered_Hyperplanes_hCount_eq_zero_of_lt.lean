@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Hyperplanes_hCount_eq_zero_of_lt
 -- name    : HScattered.Hyperplanes.hCount_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:48.216994+00:00
 -- url     : https://prove2.me/theorems/8488e457-e35e-44b4-94aa-8e726a38ad73

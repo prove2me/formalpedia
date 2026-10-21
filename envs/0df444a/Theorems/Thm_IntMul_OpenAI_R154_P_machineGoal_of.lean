@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_machineGoal_of
 -- name    : IntMul.OpenAI.R154.P.machineGoal_of
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:21:31.865462+00:00
 -- url     : https://prove2.me/theorems/5a81fd24-2420-4773-88bd-9a85b1e5b763

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoInundation_Screening_aux_density_ratio
 -- name    : InfoInundation.Screening.aux_density_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:26.239231+00:00
 -- url     : https://prove2.me/theorems/8db23263-739a-4962-a893-5692f93e31f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Joint_eq_15
 -- name    : PriceQualityService.Joint.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:55.863431+00:00
 -- url     : https://prove2.me/theorems/e9979108-330a-4a4e-b5ea-8ec31192f582

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Shor_range_condition
 -- name    : JRPHard.Shor.range_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:39:09.728735+00:00
 -- url     : https://prove2.me/theorems/e38746ed-3466-4875-a0c0-3b37ea6dbb56

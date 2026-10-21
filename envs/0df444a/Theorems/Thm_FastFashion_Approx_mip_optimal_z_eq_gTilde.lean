@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Approx_mip_optimal_z_eq_gTilde
 -- name    : FastFashion.Approx.mip_optimal_z_eq_gTilde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:42.11185+00:00
 -- url     : https://prove2.me/theorems/766ccd2a-b9ca-4771-b45b-d457842f815f

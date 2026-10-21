@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Hyperplanes_lemma_5_7
 -- name    : HScattered.Hyperplanes.lemma_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:47.388969+00:00
 -- url     : https://prove2.me/theorems/701ae33f-e7ed-4791-be59-477ac7ec0027

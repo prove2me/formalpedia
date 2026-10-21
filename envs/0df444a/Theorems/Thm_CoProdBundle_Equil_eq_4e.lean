@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_eq_4e
 -- name    : CoProdBundle.Equil.eq_4e
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:34.78568+00:00
 -- url     : https://prove2.me/theorems/3ef1a13f-6bf3-479d-8432-e4fa23303a7e

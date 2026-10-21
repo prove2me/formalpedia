@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDScenRed_Mean_lossL_le
 -- name    : PDScenRed.Mean.lossL_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:03:59.679347+00:00
 -- url     : https://prove2.me/theorems/8a77c4eb-2318-4e2f-a46f-f17fb2f9cb6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_drop_now_value
 -- name    : PostQual.Incumbent.drop_now_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:15.001096+00:00
 -- url     : https://prove2.me/theorems/071c7798-dad0-4320-a62e-4dabf1c99817

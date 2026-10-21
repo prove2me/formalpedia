@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamMCF_MCA_spline_abs_ge
 -- name    : ParamMCF.MCA.spline_abs_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:21.450281+00:00
 -- url     : https://prove2.me/theorems/981fc318-1bf6-482a-9ad2-b1d05fe0ea13

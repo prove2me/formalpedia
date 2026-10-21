@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_MonopolyCapacity_proposition7_optimal_fleet
 -- name    : AVRideHail.MonopolyCapacity.proposition7_optimal_fleet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:19.227884+00:00
 -- url     : https://prove2.me/theorems/e7afeff1-142c-4731-842a-2644274918e6

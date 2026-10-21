@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_LowerBound_kl_display
 -- name    : FirstPriceLearning.LowerBound.kl_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:12.401731+00:00
 -- url     : https://prove2.me/theorems/bbf52258-57ce-4543-a5e4-66563b89ccc0

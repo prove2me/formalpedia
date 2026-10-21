@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDScenRed_Mean_lossL_convex
 -- name    : PDScenRed.Mean.lossL_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:03:01.064469+00:00
 -- url     : https://prove2.me/theorems/42a5b821-1b7e-44e7-9b9a-066975beb5d5

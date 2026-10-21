@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_box_series_jet_interpolation
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_box_series_jet_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:25:42.998859+00:00
 -- url     : https://prove2.me/theorems/56a4ac0f-f630-497f-943d-827ffcb057ec

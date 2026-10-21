@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumUB_exists_unique_monic_of_newtonSums
 -- name    : SymPolyOpt.PowerSumUB.exists_unique_monic_of_newtonSums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:23:02.795109+00:00
 -- url     : https://prove2.me/theorems/e6a93790-9472-4abd-a88c-182162b64597

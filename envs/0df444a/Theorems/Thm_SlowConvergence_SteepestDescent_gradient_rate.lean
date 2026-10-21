@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_SteepestDescent_gradient_rate
 -- name    : SlowConvergence.SteepestDescent.gradient_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:32.856142+00:00
 -- url     : https://prove2.me/theorems/8375c143-2564-4515-8cbd-55ac50267882

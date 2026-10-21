@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLADisclosure_Duopoly_hfun_strictMono
 -- name    : CLADisclosure.Duopoly.hfun_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:49.66481+00:00
 -- url     : https://prove2.me/theorems/147dc5c7-fcb2-4e90-9dc9-ce766afba80c

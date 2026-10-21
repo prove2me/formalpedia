@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_degree_m_homogeneous_surjectivity
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.degree_m_homogeneous_surjectivity
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:33:33.670166+00:00
 -- url     : https://prove2.me/theorems/7c70dcb9-8ef6-40e3-9e40-f859ded3c315

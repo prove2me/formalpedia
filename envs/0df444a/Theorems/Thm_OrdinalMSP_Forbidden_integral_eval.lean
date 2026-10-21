@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalMSP_Forbidden_integral_eval
 -- name    : OrdinalMSP.Forbidden.integral_eval
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:55.667726+00:00
 -- url     : https://prove2.me/theorems/92910d77-c1c8-4836-804f-b340f9558c55

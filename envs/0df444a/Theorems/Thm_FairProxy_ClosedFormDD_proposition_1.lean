@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairProxy_ClosedFormDD_proposition_1
 -- name    : FairProxy.ClosedFormDD.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:18.098665+00:00
 -- url     : https://prove2.me/theorems/3bff10b9-23cb-4fe6-8242-c1ba55ffe27e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_jet_gluing
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_jet_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:14:47.268977+00:00
 -- url     : https://prove2.me/theorems/bcef6f92-f0ca-46c1-88fd-93d33c07d6bd

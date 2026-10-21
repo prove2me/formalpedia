@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.plainJet_shifted_monomial_coeff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T21:52:06.502254+00:00
 -- url     : https://prove2.me/submissions/9f7813a0-5eff-4796-aa32-63ba7739e690
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_plainJet_shifted_monomial_eq_monomial
 import Mathlib.Data.Fintype.Pi

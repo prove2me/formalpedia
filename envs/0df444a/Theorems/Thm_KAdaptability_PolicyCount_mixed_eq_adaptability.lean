@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_PolicyCount_mixed_eq_adaptability
 -- name    : KAdaptability.PolicyCount.mixed_eq_adaptability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:05:02.513208+00:00
 -- url     : https://prove2.me/theorems/ce8b3a6d-603f-4714-8c18-1238d38e1255

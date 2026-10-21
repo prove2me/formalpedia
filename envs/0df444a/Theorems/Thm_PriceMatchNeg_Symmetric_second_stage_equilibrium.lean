@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceMatchNeg_Symmetric_second_stage_equilibrium
 -- name    : PriceMatchNeg.Symmetric.second_stage_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:49.872991+00:00
 -- url     : https://prove2.me/theorems/50c38d1d-22c8-4e5e-b6df-775d38a7420e

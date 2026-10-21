@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P67_actualMarginalExample
 -- name    : QAlgorithms.Papers.Independent.Information100.P67.actualMarginalExample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:04:29.254193+00:00
 -- url     : https://prove2.me/theorems/0b7c8d14-fad5-436b-90df-69f49067d18e

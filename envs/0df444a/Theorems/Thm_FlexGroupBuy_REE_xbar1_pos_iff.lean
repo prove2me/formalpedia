@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexGroupBuy_REE_xbar1_pos_iff
 -- name    : FlexGroupBuy.REE.xbar1_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:45.520622+00:00
 -- url     : https://prove2.me/theorems/f950dc45-f8c0-4fea-a1e9-1f6340c9a900

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFM_chirp_phase
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFM.chirp_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:16:22.2459+00:00
 -- url     : https://prove2.me/theorems/b960410d-8bf5-453b-bb7d-2097660af0d9

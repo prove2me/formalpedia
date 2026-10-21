@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_NonlinEq_residual_after_step_quadratic
 -- name    : ShorNonsmooth.NonlinEq.residual_after_step_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:23:13.270164+00:00
 -- url     : https://prove2.me/theorems/003bd750-1ea6-4572-aa75-8bd7b7a15969

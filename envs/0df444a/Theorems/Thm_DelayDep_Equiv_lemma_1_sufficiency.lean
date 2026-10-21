@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayDep_Equiv_lemma_1_sufficiency
 -- name    : DelayDep.Equiv.lemma_1_sufficiency
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:59.975026+00:00
 -- url     : https://prove2.me/theorems/3ec79d6b-c99c-40f9-a8a7-75734ee928a3

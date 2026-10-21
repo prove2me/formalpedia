@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_PointEstimate_point_estimate_understates_backorders
 -- name    : SherbrookeMetric.PointEstimate.point_estimate_understates_backorders
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:30.648283+00:00
 -- url     : https://prove2.me/theorems/83dc1c94-795d-4b8d-8350-da8a4f48591a

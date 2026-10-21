@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_potential_recursion
 -- name    : LinParamBandits.UEGeneral.potential_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:11.497437+00:00
 -- url     : https://prove2.me/theorems/8526ca1a-85db-4fe0-9a70-1e187df00fda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Space_greedy_lp
 -- name    : ConstrNestedLogit.Space.greedy_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:36.913904+00:00
 -- url     : https://prove2.me/theorems/2dbfdae9-f404-49d2-a12d-436df861fdd6

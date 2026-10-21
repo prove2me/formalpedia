@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovInterference_DQBias_lemma_1
 -- name    : MarkovInterference.DQBias.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:57.980782+00:00
 -- url     : https://prove2.me/theorems/7be78c57-4668-4cb3-b026-6a7690046bcb

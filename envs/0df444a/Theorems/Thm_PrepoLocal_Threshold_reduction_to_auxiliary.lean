@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrepoLocal_Threshold_reduction_to_auxiliary
 -- name    : PrepoLocal.Threshold.reduction_to_auxiliary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:52.379245+00:00
 -- url     : https://prove2.me/theorems/3d89f95a-752f-40fe-9513-7d01da991986

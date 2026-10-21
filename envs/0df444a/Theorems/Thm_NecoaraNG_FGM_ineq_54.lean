@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FGM_ineq_54
 -- name    : NecoaraNG.FGM.ineq_54
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:46:43.080715+00:00
 -- url     : https://prove2.me/theorems/cddef2c7-c390-409f-9e2a-a27e4eeb2e7a

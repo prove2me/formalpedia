@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_Hyp14_cost
 -- name    : IntMul.Kappa.R6.IL3H.Hyp14.cost
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:10.374233+00:00
 -- url     : https://prove2.me/theorems/200c9e6b-2336-40fc-a388-230da86828ec

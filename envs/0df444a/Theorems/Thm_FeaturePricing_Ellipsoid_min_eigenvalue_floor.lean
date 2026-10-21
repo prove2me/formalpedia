@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_min_eigenvalue_floor
 -- name    : FeaturePricing.Ellipsoid.min_eigenvalue_floor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:33:18.190511+00:00
 -- url     : https://prove2.me/theorems/1e77940d-c68d-4606-aed9-1672d4763d86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Static_static_implies_stable
 -- name    : MinEarnings.Static.static_implies_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:29.431609+00:00
 -- url     : https://prove2.me/theorems/c84e97a2-c521-4e47-a874-64e480b9ea28

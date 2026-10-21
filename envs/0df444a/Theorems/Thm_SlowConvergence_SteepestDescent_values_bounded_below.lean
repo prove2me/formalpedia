@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_SteepestDescent_values_bounded_below
 -- name    : SlowConvergence.SteepestDescent.values_bounded_below
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:11.033465+00:00
 -- url     : https://prove2.me/theorems/e5318002-949c-4fca-b590-26ac0854701f

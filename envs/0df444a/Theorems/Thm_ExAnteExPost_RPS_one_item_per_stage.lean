@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExAnteExPost_RPS_one_item_per_stage
 -- name    : ExAnteExPost.RPS.one_item_per_stage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:36.361988+00:00
 -- url     : https://prove2.me/theorems/b789e182-b566-480f-8c78-431eff307d47

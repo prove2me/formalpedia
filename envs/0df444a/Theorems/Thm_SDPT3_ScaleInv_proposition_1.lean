@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDPT3_ScaleInv_proposition_1
 -- name    : SDPT3.ScaleInv.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:18.491984+00:00
 -- url     : https://prove2.me/theorems/5ba9265a-3977-4176-82fc-374536700fdc

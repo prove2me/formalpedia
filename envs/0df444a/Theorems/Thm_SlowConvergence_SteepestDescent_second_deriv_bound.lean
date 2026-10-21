@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_SteepestDescent_second_deriv_bound
 -- name    : SlowConvergence.SteepestDescent.second_deriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:29.629035+00:00
 -- url     : https://prove2.me/theorems/6e3c75f7-c1ad-4a51-abe8-6e9e59c40f87

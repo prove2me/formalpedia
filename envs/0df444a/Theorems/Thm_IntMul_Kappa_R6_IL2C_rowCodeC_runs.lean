@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL2C_rowCodeC_runs
 -- name    : IntMul.Kappa.R6.IL2C.rowCodeC_runs
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:52.201229+00:00
 -- url     : https://prove2.me/theorems/b818445c-59c0-4d9c-b049-adad654cd445

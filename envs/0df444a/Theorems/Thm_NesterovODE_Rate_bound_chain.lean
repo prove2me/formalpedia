@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_Rate_bound_chain
 -- name    : NesterovODE.Rate.bound_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:49:06.085572+00:00
 -- url     : https://prove2.me/theorems/3abce924-ed59-4645-91f9-e6797feddda6

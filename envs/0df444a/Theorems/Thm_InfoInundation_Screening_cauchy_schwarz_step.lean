@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoInundation_Screening_cauchy_schwarz_step
 -- name    : InfoInundation.Screening.cauchy_schwarz_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:35.129305+00:00
 -- url     : https://prove2.me/theorems/93748adf-3a64-4fc4-9da9-e036513f1494

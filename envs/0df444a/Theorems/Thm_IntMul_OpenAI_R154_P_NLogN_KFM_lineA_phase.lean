@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFM_lineA_phase
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFM.lineA_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:16:39.909312+00:00
 -- url     : https://prove2.me/theorems/61202ef8-5a00-472a-b105-e1cc958b0bfd

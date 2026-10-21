@@ -1,0 +1,506 @@
+-- Prove2me | Definitions.Def_QAlgorithms_Papers_Independent_Support21_P19
+-- name    : QAlgorithms_Papers_Independent_Support21_P19
+-- status  : Definition
+-- author  : @Goku
+-- created : 2026-10-21T04:55:28.943393+00:00
+-- url     : https://prove2.me/theorems/4c357ccc-78d2-4df4-9652-7675fa4f7bb9
+-- title:
+--   Definitions for Coherent Communication of Classical Messages
+-- statement:
+--   The objects the formalized statements of *Coherent Communication of Classical Messages* (arXiv:quant-ph/0307091) are stated in. Each was checked against the paper by a blind read-back and a moderator.
+--
+--   - `Resource`: PDF p.1: finite bipartite channel ports, grouped by owner.
+--   - `joinRegisters`: PDF p.1: flatten two registers, first factor most significant.
+--   - `split`: PDF p.1: inverse register split.
+--   - `tensorResources`: PDF p.1: parallel resources, retaining all off-diagonal operator entries.
+--   - `idle`: PDF p.1: identity on local registers; no communication or shared state.
+--   - `resourceTensorCopies`: PDF pp.1–4: n tensor copies, singleton unit at n=0.
+--   - `extend`: PDF pp.1,4: one use of R extended by identity on local ancillary memories.
+--   - `maximallyEntangledKet`: PDF p.1: the normalized rank-d maximally entangled vector (d>0 in uses).
+--   - `entangled`: PDF pp.1–3: prepare Phi_d from no input, charging it as a resource when d=2.
+--   - `cobitChannel`: PDF p.1: a d-ary forward cobit, preserving every coherence.
+--   - `qubitChannel`: PDF p.1: a d-dimensional noiseless quantum transfer from Alice to Bob.
+--   - `cbitChannel`: PDF p.1: dephasing communication, with the environment inaccessible.
+--   - `reverse`: PDF p.2: reverse a resource's ownership, without changing its action.
+--   - `cnotResource`: PDF p.2: Alice-controlled CNOT, acting on all operators.
+--   - `swapResource`: PDF pp.2–3: SWAP exchanges two unknown quantum registers.
+--   - `IsIsometricResource`: PDF p.1: unitary or isometric nonlocal resource, with nonzero physical registers.
+--   - `IsUnitaryResource`: PDF p.4: a unitary gate has equal input/output local dimensions.
+--   - `Kind`: PDF pp.1–4: every possible nonlocal call has its own resource counter.
+--   - `library`: PDF p.1: available resource library. No classical feedback is free.
+--   - `budget`: PDF pp.1–4: integer resource budgets (main,EPR,qubits forward/back,cobits forward/back, cbits forward/back). EPR calls prepare counted input pairs, never a free seed.
+--   - `oneCall`: PDF pp.1–4: a single actual nonlocal call.
+--   - `localMap`: PDF pp.1–4: free tensor product of local CPTP operations.
+--   - `Sequential`: PDF pp.1–4: finite sequential execution. D is Alice's known classical description; Bob's local maps and the schedule are independent of D. With D=Unit the whole protocol is fixed before the unknown quantum input. Only the call constructor communicates or prepares shared entanglement. Composition adds actual call counts. Ownership is explicit in the two local dimensions; arbitrary finite local product ancillas are CPTP operations.
+--   - `Exact`: PDF pp.1–3: exact simulation on every operator, hence on arbitrary reference extensions. All unused resource budget can be discarded. No external shared seed is implicit.
+--   - `ErrorOn`: PDF pp.1–4: uniform trace distance on all finite reference systems and supported inputs. P=True gives unrestricted composable channel simulation.
+--   - `NetBudget`: PDF pp.1–4: integer net-ebit accounting with arbitrarily small rate slack. A vanishing-rate startup is allowed and charged; negative e means output entanglement.
+--   - `AchievesTransmission`: PDF pp.1–4: asymptotic one-way transmission using sequential U calls and net e ebits. The code, all dimensions, and its integer counts precede every unknown input/reference. Classical inputs may be freely dephased, making ErrorOn equivalent to worst-codeword error. At C=0 this remains the entanglement-generation task, not an empty promise.
+--   - `BipartitePureData`: PDF p.2: normalized finite pure-state ensemble. Empty alphabets are excluded by sum=1.
+--   - `averageE`: PDF pp.2–4: average entanglement in bits, computed by tracing out Alice.
+--   - `bobHolevoBits`: PDF pp.2–4: Bob's Holevo information in bits, not the entropy of the global ensemble.
+--   - `ensembleResource`: PDF p.2, Lemma 2: the controlled ensemble isometry; Alice retains her input label.
+--   - `RemoteInput`: PDF pp.2–3: fixed-size block task: m independently specified known m-qubit pure states.
+--   - `remoteVector`: PDF p.3: desired product of the m remote states; Bob gets no classical description.
+--   - `remoteTarget`: PDF p.3: prepare the known product block from singleton inputs.
+--   - `RemoteRate`: PDF p.3, Eq. (5): restricted block RSP at rate C per U call with e net ebits. A single Alice-description-dependent sequential family is selected before the state choices; Bob's maps are fixed by Sequential. Startup EPR pairs must be generated by counted U calls when e=0: there is then exactly zero external seed. The number n of calls tends to infinity, and m blocks of m qubits have total m^2 >=n(C-delta); C=0 permits the empty remote task.
+--   - `Randomizes`: PDF p.3, Eq. (6): the fixed randomizing family is uniform over all normalized psi. Loewner order is expressed by positive semidefinite differences.
+--   - `rspEffect`: PDF p.3: the displayed success effect, including its transpose in Phi_d's basis.
+--   - `rspFail`: PDF p.3: the failure effect, not discarded from the task.
+--   - `rspPOVM`: PDF p.3: complete POVM indexed by success labels and a distinct failure label.
+--   - `rspFailureProbability`: PDF p.3: local herald probability on Alice's maximally mixed input.
+--   - `rspBefore`: PDF p.3: actual unnormalized successful branch of the coherent square-root instrument, before Alice's controlled transpose, obtained by applying sqrt(A_k) to Phi_d.
+--   - `rspDisplayed`: PDF p.3: the source's displayed normalized success vector.
+--   - `rspCorrected`: PDF p.3: amplitude after Alice applies R_k^T, sends the label coherently, and Bob applies R_k^dagger. Alice's original d-dimensional register will then be traced out.
+--   - `rspSuccess`: PDF p.3: computed subnormalized successful output; both label registers remain coherent.
+--   - `rspIdeal`: PDF p.3: ideal returned Phi_n, decoupled from Bob's prepared psi.
+--   - `rspUnconditional`: PDF p.3: unconditional implementation. On failure Alice sends a fixed placeholder label using the same n-ary coherent call; Bob always performs his fixed controlled inverse. The local herald is discarded, never communicated for free. The failure Bob marginal is A_fail^T/d before his inverse. There is no postselection in this output.
+--   - `rspLibrary`: PDF p.3: supplied rank-d entanglement and one n-ary coherent message. Here the ebit-labelled slot explicitly means Phi_d, not a binary EPR pair. All other nonlocal resources have budget zero in the finite construction.
+--   - `rspOutput`: PDF p.3: preparation channel for the computed unconditional instrument output, with the two Bob output registers flattened.
+--   - `TypicalLabelIndex`: PDF p.3: strong typicality, zero-probability letters absent. Frequency tolerance eta can be taken arbitrarily small. The n=0 word is harmless since coding thresholds are >=1.
+--   - `Prepares`: PDF pp.3–4, Eq. (7): simulate controlled ensemble preparation on the whole typical span, uniformly including superpositions and references; q,h,e are supplied resource rates.
+--   - `CapacityC`: PDF p.4: operational capacity with the paper's infeasible-budget value -infinity.
+--   - `CapacityQ`: PDF p.4: qubit capacity is defined independently of the tradeoff identity.
+--   - `outputBob`: PDF p.4: Bob's actual reduced output from U acting as identity on both local ancillas.
+--   - `outputE`: PDF p.4: output average entanglement for the same pure-state ensemble and fixed U.
+--   - `outputChi`: PDF p.4: Holevo information of Bob's actual output ensemble.
+--   - `DeltaChi`: PDF p.4, Proposition 5: extended-real constrained Holevo gain, with arbitrary finite local ancillary dimensions and alphabets. Empty feasible sets give bottom, not zero.
+--   - `weightedValue`: PDF p.4: finite Jensen sum, with zero-weight extended-real terms explicitly omitted.
+-- source:
+--   Coherent Communication of Classical Messages, arXiv:quant-ph/0307091v3, https://arxiv.org/abs/quant-ph/0307091v3
+
+import Mathlib
+import Definitions.Def_QAlgorithms_Defs_Channel
+import Definitions.Def_QAlgorithms_Defs_Ensemble
+import Definitions.Def_QAlgorithms_Defs_Measurement
+import Definitions.Def_QAlgorithms_Defs_QuantumOutputMetrics
+import Definitions.Def_QAlgorithms_Defs_Gates
+import Definitions.Def_QAlgorithms_Defs_FiniteRegisters
+import Definitions.Def_QAlgorithms_Papers_Independent_Information100_P08
+import Definitions.Def_QAlgorithms_Papers_Independent_Information100_P67
+import Definitions.Def_QAlgorithms_Papers_Independent_Claimed50_P20
+
+/-! Harrow, quant-ph/0307091v3. Paper-local operational definitions.
+The theorem bodies are deliberately left as sorry. Compilation is pending the batch mechanical handoff.
+Finite registers use Fin dimensions; tensor indices put the first factor first.
+The three accepted reuse results are recorded in items.json, not duplicated here. -/
+
+noncomputable section
+
+namespace QAlgorithms.Papers.Independent.Support21.P19
+
+open scoped Matrix ComplexConjugate ComplexOrder
+
+attribute [local instance] Classical.propDecidable Classical.decEq
+
+/-- PDF p.1: finite bipartite channel ports, grouped by owner. -/
+structure Resource where
+  ai : ℕ
+  bi : ℕ
+  ao : ℕ
+  bo : ℕ
+  map : Superop (Fin ai × Fin bi) (Fin ao × Fin bo)
+
+/-- PDF p.1: flatten two registers, first factor most significant. -/
+def joinRegisters {a b : ℕ} (x : Fin a) (y : Fin b) : Fin (a*b) := finProdFinEquiv (x,y)
+
+/-- PDF p.1: inverse register split. -/
+def split {a b : ℕ} (x : Fin (a*b)) : Fin a × Fin b := finProdFinEquiv.symm x
+
+/-- PDF p.1: parallel resources, retaining all off-diagonal operator entries. -/
+def tensorResources (R S : Resource) : Resource where
+  ai := R.ai*S.ai
+  bi := R.bi*S.bi
+  ao := R.ao*S.ao
+  bo := R.bo*S.bo
+  map M i j :=
+    ∑ x : Fin R.ai × Fin R.bi, ∑ y : Fin R.ai × Fin R.bi,
+    ∑ u : Fin S.ai × Fin S.bi, ∑ v : Fin S.ai × Fin S.bi,
+      M (joinRegisters x.1 u.1, joinRegisters x.2 u.2) (joinRegisters y.1 v.1, joinRegisters y.2 v.2) *
+        R.map (Matrix.single x y 1) ((split i.1).1,(split i.2).1)
+          ((split j.1).1,(split j.2).1) *
+        S.map (Matrix.single u v 1) ((split i.1).2,(split i.2).2)
+          ((split j.1).2,(split j.2).2)
+
+/-- PDF p.1: identity on local registers; no communication or shared state. -/
+def idle (a b : ℕ) : Resource := ⟨a,b,a,b,fun M => M⟩
+
+/-- PDF pp.1–4: n tensor copies, singleton unit at n=0. -/
+def resourceTensorCopies (R : Resource) : ℕ → Resource
+  | 0 => idle 1 1
+  | n+1 => tensorResources R (resourceTensorCopies R n)
+
+/-- PDF pp.1,4: one use of R extended by identity on local ancillary memories. -/
+def extend (R : Resource) (ma mb : ℕ) :
+    Superop (Fin (R.ai*ma) × Fin (R.bi*mb)) (Fin (R.ao*ma) × Fin (R.bo*mb)) :=
+  fun M i j => R.map (fun x y => M (joinRegisters x.1 (split i.1).2,joinRegisters x.2 (split i.2).2)
+      (joinRegisters y.1 (split j.1).2,joinRegisters y.2 (split j.2).2))
+    ((split i.1).1,(split i.2).1) ((split j.1).1,(split j.2).1)
+
+/-- PDF p.1: the normalized rank-d maximally entangled vector (d>0 in uses). -/
+def maximallyEntangledKet (d : ℕ) : EuclideanSpace ℂ (Fin d × Fin d) :=
+  if hd : 0 < d then
+    letI : Nonempty (Fin d) := ⟨⟨0, hd⟩⟩
+    finiteMaxEntangled (Fin d)
+  else 0
+
+/-- PDF pp.1–3: prepare Phi_d from no input, charging it as a resource when d=2. -/
+def entangled (d : ℕ) : Resource :=
+  ⟨1,1,d,d,fun M i j => M (0,0) (0,0) * pureDensity (maximallyEntangledKet d) i j⟩
+
+/-- PDF p.1: a d-ary forward cobit, preserving every coherence. -/
+def cobitChannel (d : ℕ) : Resource :=
+  ⟨d,1,d,d,fun M i j => if i.1=i.2 ∧ j.1=j.2 then M (i.1,0) (j.1,0) else 0⟩
+
+/-- PDF p.1: a d-dimensional noiseless quantum transfer from Alice to Bob. -/
+def qubitChannel (d : ℕ) : Resource :=
+  ⟨d,1,1,d,fun M i j => M (i.2,0) (j.2,0)⟩
+
+/-- PDF p.1: dephasing communication, with the environment inaccessible. -/
+def cbitChannel (d : ℕ) : Resource :=
+  ⟨d,1,1,d,fun M i j => if i.2=j.2 then M (i.2,0) (j.2,0) else 0⟩
+
+/-- PDF p.2: reverse a resource's ownership, without changing its action. -/
+def reverse (R : Resource) : Resource :=
+  ⟨R.bi,R.ai,R.bo,R.ao,fun M i j => R.map (fun x y => M (x.2,x.1) (y.2,y.1))
+    (i.2,i.1) (j.2,j.1)⟩
+
+/-- PDF p.2: Alice-controlled CNOT, acting on all operators. -/
+def cnotResource : Resource :=
+  ⟨2, 2, 2, 2, conjSuperop
+    (QAlgorithms.cnot.submatrix
+      (fun i : Fin 2 × Fin 2 => (decide (i.1 = 1), decide (i.2 = 1)))
+      (fun i : Fin 2 × Fin 2 => (decide (i.1 = 1), decide (i.2 = 1))))⟩
+
+/-- PDF pp.2–3: SWAP exchanges two unknown quantum registers. -/
+def swapResource : Resource :=
+  ⟨2, 2, 2, 2, conjSuperop
+    (QAlgorithms.swapGate.submatrix
+      (fun i : Fin 2 × Fin 2 => (decide (i.1 = 1), decide (i.2 = 1)))
+      (fun i : Fin 2 × Fin 2 => (decide (i.1 = 1), decide (i.2 = 1))))⟩
+
+/-- PDF p.1: unitary or isometric nonlocal resource, with nonzero physical registers. -/
+def IsIsometricResource (R : Resource) : Prop :=
+  0 < R.ai ∧ 0 < R.bi ∧ 0 < R.ao ∧ 0 < R.bo ∧
+    ∃ V : Matrix (Fin R.ao × Fin R.bo) (Fin R.ai × Fin R.bi) ℂ,
+      QAlgorithms.Papers.Independent.Information100.P67.IsIsometry V ∧ R.map=conjSuperop V
+
+/-- PDF p.4: a unitary gate has equal input/output local dimensions. -/
+def IsUnitaryResource (R : Resource) : Prop :=
+  IsIsometricResource R ∧ R.ai=R.ao ∧ R.bi=R.bo
+
+/-- PDF pp.1–4: every possible nonlocal call has its own resource counter. -/
+inductive Kind where
+  | main | ebit | qubitF | qubitB | cobitF | cobitB | cbitF | cbitB
+  deriving DecidableEq
+
+/-- PDF p.1: available resource library. No classical feedback is free. -/
+def library (U : Resource) : Kind → Resource
+  | .main => U
+  | .ebit => entangled 2
+  | .qubitF => qubitChannel 2
+  | .qubitB => reverse (qubitChannel 2)
+  | .cobitF => cobitChannel 2
+  | .cobitB => reverse (cobitChannel 2)
+  | .cbitF => cbitChannel 2
+  | .cbitB => reverse (cbitChannel 2)
+
+/-- PDF pp.1–4: integer resource budgets (main,EPR,qubits forward/back,cobits forward/back,
+cbits forward/back). EPR calls prepare counted input pairs, never a free seed. -/
+def budget (u e qf qb hf hb cf cb : ℕ) : Kind → ℕ
+  | .main => u
+  | .ebit => e
+  | .qubitF => qf
+  | .qubitB => qb
+  | .cobitF => hf
+  | .cobitB => hb
+  | .cbitF => cf
+  | .cbitB => cb
+
+/-- PDF pp.1–4: a single actual nonlocal call. -/
+def oneCall (k : Kind) : Kind → ℕ := fun t => if t=k then 1 else 0
+
+/-- PDF pp.1–4: free tensor product of local CPTP operations. -/
+def localMap {a b c d : ℕ} (A : Superop (Fin a) (Fin c))
+    (B : Superop (Fin b) (Fin d)) : Superop (Fin a × Fin b) (Fin c × Fin d) :=
+  fun M i j => B (fun x y => A (fun u v => M (u,x) (v,y)) i.1 j.1) i.2 j.2
+
+/-- PDF pp.1–4: finite sequential execution. D is Alice's known classical description;
+Bob's local maps and the schedule are independent of D. With D=Unit the whole protocol
+is fixed before the unknown quantum input. Only the call constructor communicates or
+prepares shared entanglement. Composition adds actual call counts. Ownership is explicit
+in the two local dimensions; arbitrary finite local product ancillas are CPTP operations. -/
+inductive Sequential {D : Type} (L : Kind → Resource) :
+    (a b c d : ℕ) → (Kind → ℕ) →
+      (D → Superop (Fin a × Fin b) (Fin c × Fin d)) → Prop where
+  | localStep {a b c d : ℕ} (A : D → Superop (Fin a) (Fin c))
+      (B : Superop (Fin b) (Fin d)) (hA : ∀ x, IsChannel (A x)) (hB : IsChannel B) :
+      Sequential L a b c d (fun _ => 0) (fun x => localMap (A x) B)
+  | callStep (k : Kind) (ma mb : ℕ) :
+      Sequential L ((L k).ai*ma) ((L k).bi*mb) ((L k).ao*ma) ((L k).bo*mb)
+        (oneCall k) (fun _ => extend (L k) ma mb)
+  | compose {a b c d e f : ℕ} {v w : Kind → ℕ}
+      {F : D → Superop (Fin a × Fin b) (Fin c × Fin d)}
+      {G : D → Superop (Fin c × Fin d) (Fin e × Fin f)}
+      (hF : Sequential L a b c d v F) (hG : Sequential L c d e f w G) :
+      Sequential L a b e f (fun k => v k+w k) (fun x => G x ∘ F x)
+
+/-- PDF pp.1–3: exact simulation on every operator, hence on arbitrary reference extensions.
+All unused resource budget can be discarded. No external shared seed is implicit. -/
+def Exact (U : Resource) (b : Kind → ℕ) (T : Resource) : Prop :=
+  ∃ v : Kind → ℕ, (∀ k, v k ≤ b k) ∧
+    Sequential (D := Unit) (library U) T.ai T.bi T.ao T.bo v (fun _ => T.map)
+
+/-- PDF pp.1–4: uniform trace distance on all finite reference systems and supported inputs.
+P=True gives unrestricted composable channel simulation. -/
+def ErrorOn {a b c d : ℕ} (F G : Superop (Fin a × Fin b) (Fin c × Fin d))
+    (P : Fin a × Fin b → Prop) (eps : ℝ) : Prop :=
+  ∀ r : ℕ, 0 < r → ∀ M : Matrix (Fin r × (Fin a × Fin b))
+      (Fin r × (Fin a × Fin b)) ℂ, IsDensityMatrix M →
+    (∀ i j, M i j≠0 → P i.2 ∧ P j.2) →
+      traceDistance (idTensorSuperop F M) (idTensorSuperop G M) ≤ eps
+
+/-- PDF pp.1–4: integer net-ebit accounting with arbitrarily small rate slack.
+A vanishing-rate startup is allowed and charged; negative e means output entanglement. -/
+def NetBudget (n ei eo : ℕ) (e delta : ℝ) : Prop :=
+  (ei : ℝ) ≤ n*(max e 0+delta) ∧ (n : ℝ)*(max (-e) 0-delta) ≤ eo
+
+/-- PDF pp.1–4: asymptotic one-way transmission using sequential U calls and net e ebits.
+The code, all dimensions, and its integer counts precede every unknown input/reference.
+Classical inputs may be freely dephased, making ErrorOn equivalent to worst-codeword error.
+At C=0 this remains the entanglement-generation task, not an empty promise. -/
+def AchievesTransmission (U T : Resource) (C e : ℝ) : Prop :=
+  0 ≤ C ∧ ∀ eps > 0, ∀ delta > 0, ∃ n0 : ℕ, 1 ≤ n0 ∧ ∀ n ≥ n0,
+    ∃ m ei eo : ℕ, (n : ℝ)*(C-delta) ≤ m ∧ NetBudget n ei eo e delta ∧
+    let target := tensorResources (resourceTensorCopies T m) (resourceTensorCopies (entangled 2) eo)
+    ∃ v : Kind → ℕ, (∀ k, v k ≤ budget n ei 0 0 0 0 0 0 k) ∧
+    ∃ F : Superop (Fin target.ai × Fin target.bi) (Fin target.ao × Fin target.bo),
+      Sequential (D := Unit) (library U) target.ai target.bi target.ao target.bo v (fun _ => F) ∧
+      ErrorOn F target.map (fun _ => True) eps
+
+/-- PDF p.2: normalized finite pure-state ensemble. Empty alphabets are excluded by sum=1. -/
+abbrev BipartitePureData (a b : ℕ) :=
+  QAlgorithms.Papers.Independent.Information100.P08.PureEnsemble (Fin a × Fin b)
+
+/-- PDF pp.2–4: average entanglement in bits, computed by tracing out Alice. -/
+def averageE {a b l : ℕ} (p : Fin l → ℝ)
+    (psi : Fin l → EuclideanSpace ℂ (Fin a × Fin b)) : ℝ :=
+  ∑ x, p x * vnEntropy (traceLeft (pureDensity (psi x)))
+
+/-- PDF pp.2–4: Bob's Holevo information in bits, not the entropy of the global ensemble. -/
+def bobHolevoBits {a b l : ℕ} (p : Fin l → ℝ)
+    (psi : Fin l → EuclideanSpace ℂ (Fin a × Fin b)) : ℝ :=
+  QAlgorithms.Papers.Independent.Claimed50.P20.cqHolevoBits p (fun x => pureDensity (psi x))
+
+/-- PDF p.2, Lemma 2: the controlled ensemble isometry; Alice retains her input label. -/
+def ensembleResource {a b : ℕ} (E : BipartitePureData a b) : Resource :=
+  let V : Matrix (Fin (E.size*a) × Fin b) (Fin E.size × Fin 1) ℂ :=
+    fun i x => if (split i.1).1=x.1 then E.vector x.1 ((split i.1).2,i.2) else 0
+  ⟨E.size,1,E.size*a,b,conjSuperop V⟩
+
+/-- PDF pp.2–3: fixed-size block task: m independently specified known m-qubit pure states. -/
+abbrev RemoteInput (m : ℕ) :=
+  Fin m → {psi : EuclideanSpace ℂ (Fin (2^m)) // IsState psi}
+
+/-- PDF p.3: desired product of the m remote states; Bob gets no classical description. -/
+def remoteVector {m : ℕ} (x : RemoteInput m) : EuclideanSpace ℂ (Fin (2^(m*m))) :=
+  WithLp.toLp 2 fun z => ∏ t : Fin m,
+    (x t).1 ⟨(z.val / (2^m)^t.val) % (2^m), Nat.mod_lt _ (by positivity)⟩
+
+/-- PDF p.3: prepare the known product block from singleton inputs. -/
+def remoteTarget {m : ℕ} (x : RemoteInput m) : Resource :=
+  ⟨1,1,1,2^(m*m),fun M i j => M (0,0) (0,0) * pureDensity (remoteVector x) i.2 j.2⟩
+
+/-- PDF p.3, Eq. (5): restricted block RSP at rate C per U call with e net ebits.
+A single Alice-description-dependent sequential family is selected before the state choices;
+Bob's maps are fixed by Sequential. Startup EPR pairs must be generated by counted U calls
+when e=0: there is then exactly zero external seed. The number n of calls tends to infinity,
+and m blocks of m qubits have total m^2 >=n(C-delta); C=0 permits the empty remote task. -/
+def RemoteRate (U : Resource) (C e : ℝ) : Prop :=
+  0 ≤ C ∧ 0 ≤ e ∧ ∀ eps > 0, ∀ delta > 0, ∃ n0 : ℕ, 1 ≤ n0 ∧ ∀ n ≥ n0,
+    ∃ m ei : ℕ, (n : ℝ)*(C-delta) ≤ (m*m : ℕ) ∧
+      (ei : ℝ) ≤ n*(e+delta) ∧ (e=0 → ei=0) ∧
+    ∃ v : Kind → ℕ, (∀ k, v k ≤ budget n ei 0 0 0 0 0 0 k) ∧
+    ∃ F : RemoteInput m → Superop (Fin 1 × Fin 1) (Fin 1 × Fin (2^(m*m))),
+      Sequential (library U) 1 1 1 (2^(m*m)) v F ∧
+      ∀ x, ErrorOn (F x) (remoteTarget x).map (fun _ => True) eps
+
+/-- PDF p.3, Eq. (6): the fixed randomizing family is uniform over all normalized psi.
+Loewner order is expressed by positive semidefinite differences. -/
+def Randomizes {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ) (eps : ℝ) : Prop :=
+  ∀ psi : EuclideanSpace ℂ (Fin d), IsState psi →
+    let M := (((d : ℝ)/(n : ℝ) : ℝ) : ℂ) •
+      (∑ k, conjSuperop (R k : Matrix (Fin d) (Fin d) ℂ) (pureDensity psi))
+    (M - ((1-eps/2 : ℝ) : ℂ) • (1 : Matrix (Fin d) (Fin d) ℂ)).PosSemidef ∧
+    (((1+eps/2 : ℝ) : ℂ) • (1 : Matrix (Fin d) (Fin d) ℂ) - M).PosSemidef
+
+/-- PDF p.3: the displayed success effect, including its transpose in Phi_d's basis. -/
+def rspEffect {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) (k : Fin n) : Matrix (Fin d) (Fin d) ℂ :=
+  (((d : ℝ)/((n : ℝ)*(1+eps/2)) : ℝ) : ℂ) •
+    (conjSuperop (R k : Matrix (Fin d) (Fin d) ℂ) (pureDensity psi)).transpose
+
+/-- PDF p.3: the failure effect, not discarded from the task. -/
+def rspFail {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) : Matrix (Fin d) (Fin d) ℂ :=
+  1-∑ k, rspEffect R eps psi k
+
+/-- PDF p.3: complete POVM indexed by success labels and a distinct failure label. -/
+def rspPOVM {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) :
+    Option (Fin n) → Matrix (Fin d) (Fin d) ℂ
+  | none => rspFail R eps psi
+  | some k => rspEffect R eps psi k
+
+/-- PDF p.3: local herald probability on Alice's maximally mixed input. -/
+def rspFailureProbability {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) : ℝ :=
+  effectProb (rspFail R eps psi) (((d : ℂ)⁻¹) • (1 : Matrix (Fin d) (Fin d) ℂ))
+
+/-- PDF p.3: actual unnormalized successful branch of the coherent square-root instrument,
+before Alice's controlled transpose, obtained by applying sqrt(A_k) to Phi_d. -/
+def rspBefore {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) :
+    EuclideanSpace ℂ ((Fin d × Fin n) × Fin d) :=
+  WithLp.toLp 2 fun i => cfc Real.sqrt (rspEffect R eps psi i.1.2) i.1.1 i.2 / (Real.sqrt d : ℂ)
+
+/-- PDF p.3: the source's displayed normalized success vector. -/
+def rspDisplayed {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (psi : EuclideanSpace ℂ (Fin d)) : EuclideanSpace ℂ ((Fin d × Fin n) × Fin d) :=
+  WithLp.toLp 2 fun i => (Real.sqrt n : ℂ)⁻¹ *
+    conj (act (R i.1.2 : Matrix (Fin d) (Fin d) ℂ) psi i.1.1) *
+    act (R i.1.2 : Matrix (Fin d) (Fin d) ℂ) psi i.2
+
+/-- PDF p.3: amplitude after Alice applies R_k^T, sends the label coherently, and Bob applies
+R_k^dagger. Alice's original d-dimensional register will then be traced out. -/
+def rspCorrected {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) (a : Fin d) (k : Fin n) (b : Fin d) : ℂ :=
+  ∑ u, ∑ v, (R k : Matrix (Fin d) (Fin d) ℂ).transpose a u *
+    cfc Real.sqrt (rspEffect R eps psi k) u v *
+    (R k : Matrix (Fin d) (Fin d) ℂ)ᴴ b v / (Real.sqrt d : ℂ)
+
+/-- PDF p.3: computed subnormalized successful output; both label registers remain coherent. -/
+def rspSuccess {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) :
+    Matrix (Fin n × (Fin n × Fin d)) (Fin n × (Fin n × Fin d)) ℂ :=
+  fun i j => if i.1=i.2.1 ∧ j.1=j.2.1 then
+    ∑ a, rspCorrected R eps psi a i.1 i.2.2 * conj (rspCorrected R eps psi a j.1 j.2.2)
+  else 0
+
+/-- PDF p.3: ideal returned Phi_n, decoupled from Bob's prepared psi. -/
+def rspIdeal (n : ℕ) {d : ℕ} (psi : EuclideanSpace ℂ (Fin d)) :
+    Matrix (Fin n × (Fin n × Fin d)) (Fin n × (Fin n × Fin d)) ℂ :=
+  fun i j => pureDensity (maximallyEntangledKet n) (i.1,i.2.1) (j.1,j.2.1) * pureDensity psi i.2.2 j.2.2
+
+/-- PDF p.3: unconditional implementation. On failure Alice sends a fixed placeholder label
+using the same n-ary coherent call; Bob always performs his fixed controlled inverse.
+The local herald is discarded, never communicated for free. The failure Bob marginal
+is A_fail^T/d before his inverse. There is no postselection in this output. -/
+def rspUnconditional {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) (k0 : Fin n) :
+    Matrix (Fin n × (Fin n × Fin d)) (Fin n × (Fin n × Fin d)) ℂ :=
+  let B := conjSuperop ((R k0 : Matrix (Fin d) (Fin d) ℂ)ᴴ)
+    (((d : ℂ)⁻¹) • (rspFail R eps psi).transpose)
+  fun i j => rspSuccess R eps psi i j +
+    if i.1=k0 ∧ i.2.1=k0 ∧ j.1=k0 ∧ j.2.1=k0 then B i.2.2 j.2.2 else 0
+
+/-- PDF p.3: supplied rank-d entanglement and one n-ary coherent message.
+Here the ebit-labelled slot explicitly means Phi_d, not a binary EPR pair. All other
+nonlocal resources have budget zero in the finite construction. -/
+def rspLibrary (d n : ℕ) : Kind → Resource
+  | .main => cobitChannel n
+  | .ebit => entangled d
+  | k => library (idle 1 1) k
+
+/-- PDF p.3: preparation channel for the computed unconditional instrument output,
+with the two Bob output registers flattened. -/
+def rspOutput {d n : ℕ} (R : Fin n → Matrix.unitaryGroup (Fin d) ℂ)
+    (eps : ℝ) (psi : EuclideanSpace ℂ (Fin d)) (k0 : Fin n) :
+    Superop (Fin 1 × Fin 1) (Fin n × Fin (n*d)) :=
+  fun M i j => M (0,0) (0,0) *
+    rspUnconditional R eps psi k0 (i.1,split i.2) (j.1,split j.2)
+
+/-- PDF p.3: strong typicality, zero-probability letters absent. Frequency tolerance eta
+can be taken arbitrarily small. The n=0 word is harmless since coding thresholds are >=1. -/
+def TypicalLabelIndex {a b : ℕ} (E : BipartitePureData a b) (n : ℕ) (eta : ℝ) (x : ℕ) : Prop :=
+  ∃ hl : 0 < E.size, ∀ i : Fin E.size,
+    let count := (Finset.univ.filter (fun t : Fin n => (x / E.size^t.val) % E.size = i.val)).card
+    (E.prob i=0 → count=0) ∧ |(count : ℝ)-(n : ℝ)*E.prob i| ≤ n*eta
+
+/-- PDF pp.3–4, Eq. (7): simulate controlled ensemble preparation on the whole typical span,
+uniformly including superpositions and references; q,h,e are supplied resource rates. -/
+def Prepares {a b : ℕ} (E : BipartitePureData a b) (q h e : ℝ) : Prop :=
+  ∀ eps > 0, ∀ delta > 0, ∀ eta0 > 0, ∃ eta : ℝ, 0 < eta ∧ eta ≤ eta0 ∧
+    ∃ n0 : ℕ, 1 ≤ n0 ∧ ∀ n ≥ n0,
+    ∃ nq nh ne : ℕ,
+      (nq : ℝ) ≤ n*(q+delta) ∧ (nh : ℝ) ≤ n*(h+delta) ∧ (ne : ℝ) ≤ n*(e+delta) ∧
+    let T := resourceTensorCopies (ensembleResource E) n
+    ∃ v : Kind → ℕ, (∀ k, v k ≤ budget 0 ne nq 0 nh 0 0 0 k) ∧
+    ∃ F : Superop (Fin T.ai × Fin T.bi) (Fin T.ao × Fin T.bo),
+      Sequential (D := Unit) (library (idle 1 1)) T.ai T.bi T.ao T.bo v (fun _ => F) ∧
+      ErrorOn F T.map (fun x => TypicalLabelIndex E n eta x.1.val) eps
+
+/-- PDF p.4: operational capacity with the paper's infeasible-budget value -infinity. -/
+def CapacityC (U : Resource) (e : ℝ) : EReal :=
+  sSup {v | ∃ C : ℝ, v=(C : EReal) ∧ AchievesTransmission U (cbitChannel 2) C e}
+
+/-- PDF p.4: qubit capacity is defined independently of the tradeoff identity. -/
+def CapacityQ (U : Resource) (e : ℝ) : EReal :=
+  sSup {v | ∃ Q : ℝ, v=(Q : EReal) ∧ AchievesTransmission U (qubitChannel 2) Q e}
+
+/-- PDF p.4: Bob's actual reduced output from U acting as identity on both local ancillas. -/
+def outputBob {ma mb : ℕ} (U : Resource) (E : BipartitePureData (U.ai*ma) (U.bi*mb))
+    (i : Fin E.size) : Matrix (Fin (U.bo*mb)) (Fin (U.bo*mb)) ℂ :=
+  traceLeft (extend U ma mb (pureDensity (E.vector i)))
+
+/-- PDF p.4: output average entanglement for the same pure-state ensemble and fixed U. -/
+def outputE {ma mb : ℕ} (U : Resource) (E : BipartitePureData (U.ai*ma) (U.bi*mb)) : ℝ :=
+  ∑ i, E.prob i * vnEntropy (outputBob U E i)
+
+/-- PDF p.4: Holevo information of Bob's actual output ensemble. -/
+def outputChi {ma mb : ℕ} (U : Resource) (E : BipartitePureData (U.ai*ma) (U.bi*mb)) : ℝ :=
+  vnEntropy (∑ i, (E.prob i : ℂ) • outputBob U E i) - outputE U E
+
+/-- PDF p.4, Proposition 5: extended-real constrained Holevo gain, with arbitrary finite
+local ancillary dimensions and alphabets. Empty feasible sets give bottom, not zero. -/
+def DeltaChi (U : Resource) (e : ℝ) : EReal :=
+  sSup {v | ∃ ma mb : ℕ, 0 < ma ∧ 0 < mb ∧
+    ∃ E : BipartitePureData (U.ai*ma) (U.bi*mb),
+      averageE E.prob E.vector-outputE U E ≤ e ∧
+      v=((outputChi U E-bobHolevoBits E.prob E.vector : ℝ) : EReal)}
+
+/-- PDF p.4: finite Jensen sum, with zero-weight extended-real terms explicitly omitted. -/
+def weightedValue {l : ℕ} (p : Fin l → ℝ) (v : Fin l → EReal) : EReal :=
+  ∑ i, if p i=0 then 0 else (p i : EReal)*v i
+
+/-- Sanity: the sequential budget has no hidden external EPR input. -/
+example (n : ℕ) : budget n 0 0 0 0 0 0 0 Kind.ebit=0 := rfl
+
+/-- Sanity: a coherent channel retains the off-diagonal |x><y| matrix entry (p.1). -/
+example (d : ℕ) (M : Matrix (Fin d × Fin 1) (Fin d × Fin 1) ℂ) (x y : Fin d) :
+    (cobitChannel d).map M (x,x) (y,y)=M (x,0) (y,0) := by
+  simp [cobitChannel]
+
+/-- Sanity: the dimension-two EPR amplitudes use the source's normalization. -/
+example : maximallyEntangledKet 2 (0,0)=((Real.sqrt 2)⁻¹ : ℂ) := by
+  simp [maximallyEntangledKet, finiteMaxEntangled]
+
+/-- Sanity: a classical channel destroys an off-diagonal entry, unlike a cobit. -/
+example (M : Matrix (Fin 2 × Fin 1) (Fin 2 × Fin 1) ℂ) :
+    (cbitChannel 2).map M ((0 : Fin 1), (0 : Fin 2)) ((0 : Fin 1), (1 : Fin 2)) = 0 := by
+  simp [cbitChannel]
+
+/-- Sanity: zero copies are the singleton identity, never an empty register (p.1). -/
+example (R : Resource) : resourceTensorCopies R 0=idle 1 1 := rfl
+
+/-- Sanity: inverse splitting returns the two original local tensor factors. -/
+example {a b : ℕ} (x : Fin a) (y : Fin b) : split (joinRegisters x y)=(x,y) := by
+  exact finProdFinEquiv.symm_apply_apply (x,y)
+
+/-- Sanity: zero-weight infeasible values do not enter a one-term Jensen sum. -/
+example (v : Fin 1 → EReal) : weightedValue (fun _ => 0) v=0 := by
+  simp [weightedValue]
+
+end QAlgorithms.Papers.Independent.Support21.P19
+
+

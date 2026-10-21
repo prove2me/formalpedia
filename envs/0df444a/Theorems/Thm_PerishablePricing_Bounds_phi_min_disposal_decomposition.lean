@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Bounds_phi_min_disposal_decomposition
 -- name    : PerishablePricing.Bounds.phi_min_disposal_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:17:00.233871+00:00
 -- url     : https://prove2.me/theorems/1ec594ae-ee10-41fd-b8e4-7128cca36b81

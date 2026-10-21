@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_Debt_eq_33_strictMono
 -- name    : TokenFinance.Debt.eq_33_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:29:40.806288+00:00
 -- url     : https://prove2.me/theorems/0628b695-6d36-4510-8fce-2662619282e1

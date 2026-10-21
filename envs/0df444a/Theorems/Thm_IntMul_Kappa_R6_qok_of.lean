@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_qok_of
 -- name    : IntMul.Kappa.R6.qok_of
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:37:34.159199+00:00
 -- url     : https://prove2.me/theorems/7d7ddeeb-9a38-476d-9b87-7286371345cc

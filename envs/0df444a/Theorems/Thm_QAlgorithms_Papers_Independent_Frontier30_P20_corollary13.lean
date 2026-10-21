@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P20_corollary13
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P20.corollary13
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:42:10.424875+00:00
 -- url     : https://prove2.me/theorems/3894106c-f8a9-4758-a794-ed9301d1f13f

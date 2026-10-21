@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_IHT_lemma_2_4
 -- name    : SparseNLO.IHT.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:56.051073+00:00
 -- url     : https://prove2.me/theorems/ed65a858-2dbc-4e2e-9f97-8e796aa32dee

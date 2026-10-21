@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Facet_facet_points_feasible_tight
 -- name    : ReluMIP.Facet.facet_points_feasible_tight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:33:55.248265+00:00
 -- url     : https://prove2.me/theorems/34075df2-59f9-4792-9561-10b56d4f705d

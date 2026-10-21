@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_eq_19
 -- name    : ParamSDO.Transition.eq_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:06.628991+00:00
 -- url     : https://prove2.me/theorems/87e80fde-0b02-4314-bf53-937a619f4f98

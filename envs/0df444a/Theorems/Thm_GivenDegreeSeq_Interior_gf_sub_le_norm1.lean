@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_Interior_gf_sub_le_norm1
 -- name    : GivenDegreeSeq.Interior.gf_sub_le_norm1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:53:22.877172+00:00
 -- url     : https://prove2.me/theorems/2ccfaca8-92cb-457c-b194-a60daf683e44

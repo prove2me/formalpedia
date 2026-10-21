@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgeInv_Value_proposition5_hedge_value
 -- name    : HedgeInv.Value.proposition5_hedge_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:19:00.032091+00:00
 -- url     : https://prove2.me/theorems/a81bb2fd-20a5-47a3-944d-c9e5bf638326

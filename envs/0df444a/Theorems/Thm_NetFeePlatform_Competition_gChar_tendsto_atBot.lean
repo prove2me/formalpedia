@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_Competition_gChar_tendsto_atBot
 -- name    : NetFeePlatform.Competition.gChar_tendsto_atBot
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:54.677464+00:00
 -- url     : https://prove2.me/theorems/94ca1ba3-c8d5-4138-8c5b-7955bb7a84fa

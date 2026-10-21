@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_Exact_cost_function
 -- name    : LNChannels.Exact.cost_function
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:16.871152+00:00
 -- url     : https://prove2.me/theorems/d2ebb621-e814-4981-a564-eb48f35f1542

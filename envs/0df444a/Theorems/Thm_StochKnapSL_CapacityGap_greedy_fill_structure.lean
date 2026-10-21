@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKnapSL_CapacityGap_greedy_fill_structure
 -- name    : StochKnapSL.CapacityGap.greedy_fill_structure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:17.681003+00:00
 -- url     : https://prove2.me/theorems/161142e7-2804-4c2d-bed1-d10939670d84

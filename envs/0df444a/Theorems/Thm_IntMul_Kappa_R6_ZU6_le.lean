@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_ZU6_le
 -- name    : IntMul.Kappa.R6.ZU6_le
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:38:01.695989+00:00
 -- url     : https://prove2.me/theorems/368ccd03-185c-45eb-bc20-0cfa529829bd

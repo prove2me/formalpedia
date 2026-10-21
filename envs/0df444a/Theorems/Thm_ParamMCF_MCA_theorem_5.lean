@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamMCF_MCA_theorem_5
 -- name    : ParamMCF.MCA.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:13.088962+00:00
 -- url     : https://prove2.me/theorems/cf17d18f-e7cc-4227-bc77-9c3a5eb03666

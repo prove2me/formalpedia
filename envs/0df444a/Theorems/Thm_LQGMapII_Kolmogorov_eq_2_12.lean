@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LQGMapII_Kolmogorov_eq_2_12
 -- name    : LQGMapII.Kolmogorov.eq_2_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:09.086261+00:00
 -- url     : https://prove2.me/theorems/fb7aff6f-ffb2-44f8-a6be-1f732685279e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovInterference_DQBias_dq_first_order
 -- name    : MarkovInterference.DQBias.dq_first_order
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:50.941776+00:00
 -- url     : https://prove2.me/theorems/7c84b549-2597-4c64-aab8-61b5e1ff8fe3

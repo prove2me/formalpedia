@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_Competition_proposition_1_logit
 -- name    : NetFeePlatform.Competition.proposition_1_logit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:07.679488+00:00
 -- url     : https://prove2.me/theorems/5ce2c764-8f25-4c4b-9483-49609fea2fdd

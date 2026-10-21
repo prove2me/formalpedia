@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumLB_schur_hankel_bound
 -- name    : SymPolyOpt.PowerSumLB.schur_hankel_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:29:23.272161+00:00
 -- url     : https://prove2.me/theorems/0d012163-5437-493f-8819-43f36e01fabf

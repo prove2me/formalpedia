@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuckPassing_Det_deviation_cases
 -- name    : BuckPassing.Det.deviation_cases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:14.119623+00:00
 -- url     : https://prove2.me/theorems/e2f099e8-8ac5-4a5d-8b89-22684da14633

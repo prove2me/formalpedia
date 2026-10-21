@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for OAI.PiExponent.LogarithmicJetIdeals.ideal_power_packet_vanishing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-19T06:31:36.215519+00:00
 -- url     : https://prove2.me/submissions/304e4dab-806d-4856-a0f2-d84bce4eac07
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_simultaneous_jet_ideal_coeff_vanish_below_scale
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_ideal_power_raw_packet_of_coefficient_profile

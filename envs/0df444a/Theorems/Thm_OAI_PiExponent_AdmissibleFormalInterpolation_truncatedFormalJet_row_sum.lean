@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_truncatedFormalJet_row_sum
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.truncatedFormalJet_row_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:41:09.568711+00:00
 -- url     : https://prove2.me/theorems/6b50b5fe-aed5-4b1d-bf0c-5a811f8fca5a

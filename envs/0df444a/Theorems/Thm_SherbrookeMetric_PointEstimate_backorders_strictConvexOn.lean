@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_PointEstimate_backorders_strictConvexOn
 -- name    : SherbrookeMetric.PointEstimate.backorders_strictConvexOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:23.260551+00:00
 -- url     : https://prove2.me/theorems/d2975903-1aff-4e64-9019-6bf20b89fc13

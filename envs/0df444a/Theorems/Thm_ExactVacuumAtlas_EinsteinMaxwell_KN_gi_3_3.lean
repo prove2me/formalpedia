@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_ExactVacuumAtlas_EinsteinMaxwell_KN_gi_3_3
+-- name    : ExactVacuumAtlas.EinsteinMaxwell.KN.gi_3_3
+-- status  : Proved
+-- author  : @He Wang
+-- created : 2026-10-21T01:44:27.898393+00:00
+-- url     : https://prove2.me/theorems/623f568e-3772-4562-a5c5-d6de0c69f950
+-- title:
+--   KN inverse component g^{33} in rational atoms
+-- statement:
+--   KN inverse component g^{33} in rational atoms
+--
+--   giKN M a Q at index (3, 3) in the atoms 1/Σ, 1/Δ.
+--
+--   **Scope.** Exactly the hypotheses printed in the formal statement.
+--
+--   **中文摘要** KN 逆度规分量闭式。
+-- source:
+--   He Wang, Exact Spacetime Atlas IV: Certified Einstein–Maxwell Backgrounds and First Variations. Local source, no public repository; commit 543904bfcfa3bb169f43fc4d9dbd569999b71886; Atlas/EinsteinMaxwell/KN/Tables.lean#L151-L155; SHA-256 82a10a4f76cd734d52eeb263411fc37d6c5cd44401612f53bdcd45891d6d7739. Registered definitions and literature: mission/PHYSICS_BOUNDARY.md (§H–§J); Müller–Grave arXiv:0904.4184; Newman et al., J. Math. Phys. 6 (1965) 918.
+
+import Mathlib
+import Definitions.Def_Atlas_Core_Basic
+import Definitions.Def_Atlas_Core_Lift
+import Definitions.Def_Atlas_EinsteinMaxwell_Basic
+import Definitions.Def_Atlas_EinsteinMaxwell_KN_Defs
+import Definitions.Def_Atlas_EinsteinMaxwell_KN_Domain
+import Definitions.Def_Atlas_Kerr_InAtoms
+open Real
+open ExactVacuumAtlas
+open scoped ContDiff
+open ExactVacuumAtlas.Kerr.In (Ui Wi)
+open ExactVacuumAtlas
+open ExactVacuumAtlas.EinsteinMaxwell
+open ExactVacuumAtlas.EinsteinMaxwell.KN
+set_option maxHeartbeats 8000000
+set_option maxRecDepth 100000
+set_option linter.unusedVariables false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+variable (M a Q : ℝ)
+
+theorem ExactVacuumAtlas.EinsteinMaxwell.KN.gi_3_3 (x : Pt 4) : giKN M a Q 3 3 x = ((-2:ℝ) * M) * (x 1) * Ui a (x 1) (x 2) * Wi (x 2) ^ 2 * Di M a Q (x 1) + ((-1:ℝ) * a^2) * sin (x 2) ^ 2 * Ui a (x 1) (x 2) * Wi (x 2) ^ 2 * Di M a Q (x 1) + ((1:ℝ) * a^2) * Ui a (x 1) (x 2) * Wi (x 2) ^ 2 * Di M a Q (x 1) + ((1:ℝ) * Q^2) * Ui a (x 1) (x 2) * Wi (x 2) ^ 2 * Di M a Q (x 1) + ((1:ℝ)) * (x 1) ^ 2 * Ui a (x 1) (x 2) * Wi (x 2) ^ 2 * Di M a Q (x 1) := by sorry

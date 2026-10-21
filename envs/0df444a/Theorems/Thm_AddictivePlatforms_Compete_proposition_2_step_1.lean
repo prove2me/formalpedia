@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddictivePlatforms_Compete_proposition_2_step_1
 -- name    : AddictivePlatforms.Compete.proposition_2_step_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T12:58:23.011993+00:00
 -- url     : https://prove2.me/theorems/9b056ba6-e180-4739-917c-7a42f9dde375

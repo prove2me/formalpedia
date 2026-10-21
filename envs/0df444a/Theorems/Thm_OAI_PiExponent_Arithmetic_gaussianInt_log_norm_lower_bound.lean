@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_Arithmetic_gaussianInt_log_norm_lower_bound
 -- name    : OAI.PiExponent.Arithmetic.gaussianInt_log_norm_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:22:03.914031+00:00
 -- url     : https://prove2.me/theorems/a2b74d4b-1bf7-4dd0-8894-d62b5a0a0a4a

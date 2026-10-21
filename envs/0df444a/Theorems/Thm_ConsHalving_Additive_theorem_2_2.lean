@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsHalving_Additive_theorem_2_2
 -- name    : ConsHalving.Additive.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:51.559123+00:00
 -- url     : https://prove2.me/theorems/215b1f69-b64b-4176-82fc-2ce8d3a15cb9

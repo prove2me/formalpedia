@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarStorageQN_LeastChange_bracket_comp
 -- name    : VarStorageQN.LeastChange.bracket_comp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:32.498131+00:00
 -- url     : https://prove2.me/theorems/32d8e84d-7d5e-4560-ba55-bfcb9fefc726

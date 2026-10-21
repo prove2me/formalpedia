@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtShortage_CashSubsidy_remark_artificial_shortage
 -- name    : ArtShortage.CashSubsidy.remark_artificial_shortage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:56.392986+00:00
 -- url     : https://prove2.me/theorems/7837d8bf-18f4-42e7-9264-be9fe34bd8f3

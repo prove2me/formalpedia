@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollabProject_TimeDep_theorem_6
 -- name    : CollabProject.TimeDep.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:40.688583+00:00
 -- url     : https://prove2.me/theorems/183b3307-8ec9-4be2-bd29-5aa7c2bee5f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_KSS_theorem_6_5
 -- name    : InterdepSOS.KSS.theorem_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:37:33.506432+00:00
 -- url     : https://prove2.me/theorems/fe7dec4b-215f-415a-ab35-2e238e7ff95f

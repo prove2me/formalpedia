@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_proposition_3
 -- name    : InvIntegration.Behavioral.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:55.566477+00:00
 -- url     : https://prove2.me/theorems/c30504df-68eb-48a4-ac84-4b877d47da7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_twisting_invariance
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.twisting_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:09:00.395984+00:00
 -- url     : https://prove2.me/theorems/00d5aaad-4fe3-44e3-bb7f-ba18f80d5d0d

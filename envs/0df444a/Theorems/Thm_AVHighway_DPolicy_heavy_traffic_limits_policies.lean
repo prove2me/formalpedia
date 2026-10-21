@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVHighway_DPolicy_heavy_traffic_limits_policies
 -- name    : AVHighway.DPolicy.heavy_traffic_limits_policies
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:13:58.976984+00:00
 -- url     : https://prove2.me/theorems/df29e57f-4515-4a1d-ab63-f32ece28984c

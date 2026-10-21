@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_SmallRate_theorem_3_i_size
 -- name    : LNChannels.SmallRate.theorem_3_i_size
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:02:37.617275+00:00
 -- url     : https://prove2.me/theorems/1a096ac4-ded1-4dde-985f-90378f6207d6

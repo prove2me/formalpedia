@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_LateLate_lemma_7_1
 -- name    : TwoAgentSched.LateLate.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:38:41.132064+00:00
 -- url     : https://prove2.me/theorems/6a04b215-7276-4c13-8690-25d16fc2273b

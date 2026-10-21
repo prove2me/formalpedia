@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P09_cBeta_localUnitary
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P09.cBeta_localUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:54:36.301975+00:00
 -- url     : https://prove2.me/theorems/b43522a6-3fdf-4bd5-abe9-4e3a5bfe74b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_LinearRate_linear_rate_of_level_set_ratio
 -- name    : ShorNonsmooth.LinearRate.linear_rate_of_level_set_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:03:04.606588+00:00
 -- url     : https://prove2.me/theorems/a3f1a52e-bb40-4977-9470-0657ca40ec5a

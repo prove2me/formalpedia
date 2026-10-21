@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generatorIntegrand_quadratic_bound_pointwise
 -- name    : AvramDividend.Classical.scaleFunction_generatorIntegrand_quadratic_bound_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:22:24.261012+00:00
 -- url     : https://prove2.me/theorems/8b70ba57-e2fe-4150-b825-61c90f18427a

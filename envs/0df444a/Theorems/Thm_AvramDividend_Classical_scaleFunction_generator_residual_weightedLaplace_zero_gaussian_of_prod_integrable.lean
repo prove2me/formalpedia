@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_residual_weightedLaplace_zero_gaussian_of_prod_integrable
 -- name    : AvramDividend.Classical.scaleFunction_generator_residual_weightedLaplace_zero_gaussian_of_prod_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:36:22.905802+00:00
 -- url     : https://prove2.me/theorems/789c5a26-84fe-42c4-9ba8-d2faa4473cbe

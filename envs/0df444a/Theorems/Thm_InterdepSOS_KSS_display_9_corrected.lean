@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_KSS_display_9_corrected
 -- name    : InterdepSOS.KSS.display_9_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:36:45.411004+00:00
 -- url     : https://prove2.me/theorems/a9e01ddd-1fb1-49da-b7d3-c54fe5b17031

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_transition_iff_frontier
 -- name    : ParamSDO.Transition.transition_iff_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:09.614123+00:00
 -- url     : https://prove2.me/theorems/d4dab236-a81c-4b11-b1c0-47622ab0a3c7

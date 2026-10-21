@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_localJetIdeals_pairwise_comaximal
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.localJetIdeals_pairwise_comaximal
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T21:05:19.396348+00:00
 -- url     : https://prove2.me/theorems/6320a9da-7753-48b2-98fc-d2ad9fa97a7a

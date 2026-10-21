@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_seriesShear_monomial_coeff_eq_zero_of_weight_lt
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.seriesShear_monomial_coeff_eq_zero_of_weight_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T22:20:11.589365+00:00
 -- url     : https://prove2.me/theorems/5f6130c2-e864-4a74-8aa3-6cf8e366a800

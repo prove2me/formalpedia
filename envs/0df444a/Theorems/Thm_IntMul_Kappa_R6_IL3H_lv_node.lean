@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_lv_node
 -- name    : IntMul.Kappa.R6.IL3H.lv_node
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:55.863722+00:00
 -- url     : https://prove2.me/theorems/dc36b01f-f862-4d0b-b72c-be5311591484

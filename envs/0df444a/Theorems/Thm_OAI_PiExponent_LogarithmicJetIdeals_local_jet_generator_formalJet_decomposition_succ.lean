@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_local_jet_generator_formalJet_decomposition_succ
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.local_jet_generator_formalJet_decomposition_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:39:55.112525+00:00
 -- url     : https://prove2.me/theorems/bfa34f3d-39ca-440d-acd8-593f2bc4ca16

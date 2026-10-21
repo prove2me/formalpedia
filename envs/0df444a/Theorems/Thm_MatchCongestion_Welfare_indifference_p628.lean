@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchCongestion_Welfare_indifference_p628
 -- name    : MatchCongestion.Welfare.indifference_p628
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:39.080002+00:00
 -- url     : https://prove2.me/theorems/4e22a74a-0c81-4416-9cb6-bb996bcb8b89

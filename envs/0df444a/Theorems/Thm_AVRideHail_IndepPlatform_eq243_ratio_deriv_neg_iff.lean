@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_IndepPlatform_eq243_ratio_deriv_neg_iff
 -- name    : AVRideHail.IndepPlatform.eq243_ratio_deriv_neg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:33.347932+00:00
 -- url     : https://prove2.me/theorems/53be80e6-f4fa-4bbb-9061-a1086ea03e14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Adaptive_theorem_4_14
 -- name    : ModernOnlineLearning.Adaptive.theorem_4_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:37:05.652681+00:00
 -- url     : https://prove2.me/theorems/1a10c812-dbd2-491b-8ec5-2f73286d4f60

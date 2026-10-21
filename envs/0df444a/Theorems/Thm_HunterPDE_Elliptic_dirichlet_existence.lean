@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Elliptic_dirichlet_existence
 -- name    : HunterPDE.Elliptic.dirichlet_existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:46:49.102669+00:00
 -- url     : https://prove2.me/theorems/5e4c9c6f-e411-4f38-843d-3901a1e28e5a

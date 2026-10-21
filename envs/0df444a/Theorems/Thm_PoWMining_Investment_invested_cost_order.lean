@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_Investment_invested_cost_order
 -- name    : PoWMining.Investment.invested_cost_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:45.702316+00:00
 -- url     : https://prove2.me/theorems/e60cd538-7564-4976-8e5f-6c22b1718447

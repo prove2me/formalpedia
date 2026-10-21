@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Diag_theorem_5
 -- name    : AdaGrad.Diag.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:31:36.873972+00:00
 -- url     : https://prove2.me/theorems/fea2c5de-8876-4a5c-922a-43a2b7978591

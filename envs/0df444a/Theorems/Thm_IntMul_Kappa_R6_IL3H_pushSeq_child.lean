@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_pushSeq_child
 -- name    : IntMul.Kappa.R6.IL3H.pushSeq_child
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:01.001046+00:00
 -- url     : https://prove2.me/theorems/03e84cf4-384e-4973-a875-f3a83eb08d34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_proposition_2_ii
 -- name    : ScarceTesting.PerfectTest.proposition_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:46.926349+00:00
 -- url     : https://prove2.me/theorems/f26c0a8a-6faf-4276-b9bc-812640d1aeca

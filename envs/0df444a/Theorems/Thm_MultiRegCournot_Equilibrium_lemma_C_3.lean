@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiRegCournot_Equilibrium_lemma_C_3
 -- name    : MultiRegCournot.Equilibrium.lemma_C_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:47.227972+00:00
 -- url     : https://prove2.me/theorems/7423dd2b-3302-4d8b-8a65-0367d6780aa9

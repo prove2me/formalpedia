@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BnBPEP_WeakCvx_corollary_1
 -- name    : BnBPEP.WeakCvx.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:16.496456+00:00
 -- url     : https://prove2.me/theorems/2e72c0f1-db3d-4d65-a6d7-2cc118ed4b13

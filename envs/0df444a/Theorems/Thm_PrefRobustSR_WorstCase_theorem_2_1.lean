@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefRobustSR_WorstCase_theorem_2_1
 -- name    : PrefRobustSR.WorstCase.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:36.829096+00:00
 -- url     : https://prove2.me/theorems/1b33f864-1bf1-4f6f-9516-e4dbb97d21df

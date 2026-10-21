@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Submod_char_crs_is_crs
 -- name    : OnlineCRS.Submod.char_crs_is_crs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:03.750641+00:00
 -- url     : https://prove2.me/theorems/095c470d-6ecb-4f20-9a3d-bc1abaf73b3b

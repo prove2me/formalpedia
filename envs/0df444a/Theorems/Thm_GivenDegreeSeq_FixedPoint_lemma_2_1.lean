@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_FixedPoint_lemma_2_1
 -- name    : GivenDegreeSeq.FixedPoint.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:51:33.670052+00:00
 -- url     : https://prove2.me/theorems/ea071dbb-740f-435d-b8d8-bbf9314254e7

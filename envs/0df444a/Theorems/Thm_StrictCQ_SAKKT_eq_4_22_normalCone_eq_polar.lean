@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_SAKKT_eq_4_22_normalCone_eq_polar
 -- name    : StrictCQ.SAKKT.eq_4_22_normalCone_eq_polar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:14.201925+00:00
 -- url     : https://prove2.me/theorems/6ba8e461-7c59-4530-82ad-18fda667ff19

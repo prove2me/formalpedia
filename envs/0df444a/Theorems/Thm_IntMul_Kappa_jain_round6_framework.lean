@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_jain_round6_framework
 -- name    : IntMul.Kappa.jain_round6_framework
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-11T19:58:08.197116+00:00
 -- url     : https://prove2.me/theorems/1924c7f2-c974-48b9-a05e-539f9648594b

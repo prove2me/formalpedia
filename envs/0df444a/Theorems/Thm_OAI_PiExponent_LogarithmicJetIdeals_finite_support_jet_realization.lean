@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_support_jet_realization
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_support_jet_realization
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:44:16.250335+00:00
 -- url     : https://prove2.me/theorems/c7f62beb-45eb-493d-9fdb-f18635cb4d81

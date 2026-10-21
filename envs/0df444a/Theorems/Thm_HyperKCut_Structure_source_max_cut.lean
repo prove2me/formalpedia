@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperKCut_Structure_source_max_cut
 -- name    : HyperKCut.Structure.source_max_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:05.636052+00:00
 -- url     : https://prove2.me/theorems/c1076b75-e26f-4017-91ab-1d234ea2e6ba

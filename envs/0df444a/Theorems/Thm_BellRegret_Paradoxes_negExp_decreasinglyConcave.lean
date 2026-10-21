@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_negExp_decreasinglyConcave
 -- name    : BellRegret.Paradoxes.negExp_decreasinglyConcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:44.989905+00:00
 -- url     : https://prove2.me/theorems/3de502cd-eeae-4db0-87c9-455e90264b87

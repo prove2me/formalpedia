@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_jet_surjective_on_polynomials
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_jet_surjective_on_polynomials
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:49:15.330109+00:00
 -- url     : https://prove2.me/theorems/0192e3b1-77ab-4f4f-b39c-8c60af002786

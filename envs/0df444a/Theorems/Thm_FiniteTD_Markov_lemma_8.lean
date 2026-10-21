@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteTD_Markov_lemma_8
 -- name    : FiniteTD.Markov.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:17.383224+00:00
 -- url     : https://prove2.me/theorems/479cb960-d13a-4702-a281-2544c7f6bcdb

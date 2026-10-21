@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_HellingerChain_hellinger_triangle
 -- name    : StatComplexityDM.HellingerChain.hellinger_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:21:22.085496+00:00
 -- url     : https://prove2.me/theorems/9191ff94-f4a3-40f7-a9c8-39287116dd55

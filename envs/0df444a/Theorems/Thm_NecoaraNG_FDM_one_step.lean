@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FDM_one_step
 -- name    : NecoaraNG.FDM.one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:15.70073+00:00
 -- url     : https://prove2.me/theorems/f699ade4-5b44-4585-a61b-ed7a2a0be1ce

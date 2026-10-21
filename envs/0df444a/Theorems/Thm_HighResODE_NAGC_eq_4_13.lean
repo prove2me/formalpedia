@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_NAGC_eq_4_13
 -- name    : HighResODE.NAGC.eq_4_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:08.621197+00:00
 -- url     : https://prove2.me/theorems/4321594c-3018-4cc2-9594-a98083572a04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPatrol_Star_proposition_1
 -- name    : UniformPatrol.Star.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:51.673515+00:00
 -- url     : https://prove2.me/theorems/e13e0096-7e71-451b-828e-6a30b0bdc36d

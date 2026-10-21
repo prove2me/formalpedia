@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weighted_finsum_cutoff
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weighted_finsum_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-18T07:10:19.981352+00:00
 -- url     : https://prove2.me/theorems/cae8ec56-4b22-4c28-9e7d-62c54475eef1

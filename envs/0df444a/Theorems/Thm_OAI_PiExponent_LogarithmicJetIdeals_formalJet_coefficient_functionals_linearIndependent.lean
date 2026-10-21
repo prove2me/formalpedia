@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_coefficient_functionals_linearIndependent
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_coefficient_functionals_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T00:09:23.305532+00:00
 -- url     : https://prove2.me/theorems/f0034904-02d2-4901-b435-ad509bf4a1f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_OptionalStopping_optional_stopping_window_bound
 -- name    : RobbinsSeqDesign.OptionalStopping.optional_stopping_window_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:30.713083+00:00
 -- url     : https://prove2.me/theorems/1e9bfe45-0be2-4012-b092-e988e7887470

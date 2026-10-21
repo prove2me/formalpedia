@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoSShares_Stability_eq_A31
 -- name    : PoSShares.Stability.eq_A31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:55.325157+00:00
 -- url     : https://prove2.me/theorems/1ad51140-eac8-480b-bdff-c9eb16c82b81

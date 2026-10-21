@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_chirp_of_P18
 -- name    : IntMul.Kappa.R6.chirp_of_P18
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:38:14.158923+00:00
 -- url     : https://prove2.me/theorems/809a8765-0d23-44d9-acfd-65dd836a5462

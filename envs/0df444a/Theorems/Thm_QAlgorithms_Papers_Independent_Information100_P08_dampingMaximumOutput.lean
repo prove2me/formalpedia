@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P08_dampingMaximumOutput
 -- name    : QAlgorithms.Papers.Independent.Information100.P08.dampingMaximumOutput
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:10:56.586992+00:00
 -- url     : https://prove2.me/theorems/e27693f7-4ffe-43e8-a597-725f4793148e

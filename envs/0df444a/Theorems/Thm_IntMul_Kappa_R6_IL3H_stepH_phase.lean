@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_stepH_phase
 -- name    : IntMul.Kappa.R6.IL3H.stepH_phase
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:47.459232+00:00
 -- url     : https://prove2.me/theorems/b44e7b80-1699-4ab6-8bbd-eb863da24fda

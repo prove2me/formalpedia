@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROCalibration_Sensitivity_proposition_F_1_expansion
 -- name    : DROCalibration.Sensitivity.proposition_F_1_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:18.310657+00:00
 -- url     : https://prove2.me/theorems/079d95fa-6341-44c9-a223-2feea6295577

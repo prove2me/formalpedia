@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Pooling_prop7_pooling_strict
 -- name    : BoundedNV.Pooling.prop7_pooling_strict
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:03.246193+00:00
 -- url     : https://prove2.me/theorems/ade9f4ab-0870-4f89-bba4-56715653a8bd

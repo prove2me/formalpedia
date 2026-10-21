@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Pointed_lemma4_low_regret_period
 -- name    : CtxInvOpt.Pointed.lemma4_low_regret_period
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:43.297616+00:00
 -- url     : https://prove2.me/theorems/eb0efd7d-2cb7-4fa2-b571-18cc875b5e0e

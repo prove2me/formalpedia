@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_simultaneous_jet_ideal_coeff_vanish_below_scale
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.simultaneous_jet_ideal_coeff_vanish_below_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T18:11:03.978903+00:00
 -- url     : https://prove2.me/theorems/43d94379-4500-4451-8a08-a4cb18078dc5

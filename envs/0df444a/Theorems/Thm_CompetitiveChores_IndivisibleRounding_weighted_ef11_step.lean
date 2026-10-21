@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitiveChores_IndivisibleRounding_weighted_ef11_step
 -- name    : CompetitiveChores.IndivisibleRounding.weighted_ef11_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:21.138913+00:00
 -- url     : https://prove2.me/theorems/7951e657-590f-4efe-b660-51daaef0f7df

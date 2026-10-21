@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndToEndRisk_SquaredLoss_lemma_5
 -- name    : EndToEndRisk.SquaredLoss.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:16.263648+00:00
 -- url     : https://prove2.me/theorems/3b408c32-1163-4c00-b255-d14f3094b36f

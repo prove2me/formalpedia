@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_truncation_preserves_filtered_substitution
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_truncation_preserves_filtered_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T18:21:54.43767+00:00
 -- url     : https://prove2.me/theorems/271828a5-228e-4abd-ad6f-76c1928e5a2b

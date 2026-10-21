@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayDep_Equiv_pathwise_coupling
 -- name    : DelayDep.Equiv.pathwise_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:23:07.127415+00:00
 -- url     : https://prove2.me/theorems/2de337ae-1300-4809-8c90-5d465f13949a

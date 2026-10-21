@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsHalving_Additive_termination_card
 -- name    : ConsHalving.Additive.termination_card
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:40.133179+00:00
 -- url     : https://prove2.me/theorems/3b2be9af-a552-4db0-b802-439039a26bf8

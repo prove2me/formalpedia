@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Aggregating_shrunk_volume
 -- name    : ModernOnlineLearning.Aggregating.shrunk_volume
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:30.457009+00:00
 -- url     : https://prove2.me/theorems/9b4ccd29-9872-4cdd-bcd1-6ec2f9166b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_Rtilde_deriv_one_neg
 -- name    : RoboAdvising.Interaction.Rtilde_deriv_one_neg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:41.289953+00:00
 -- url     : https://prove2.me/theorems/6bddf2af-31d3-48e3-a13a-2278d2373c05

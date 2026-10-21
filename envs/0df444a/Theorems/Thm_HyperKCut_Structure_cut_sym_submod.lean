@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperKCut_Structure_cut_sym_submod
 -- name    : HyperKCut.Structure.cut_sym_submod
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:05.856971+00:00
 -- url     : https://prove2.me/theorems/72a9120a-22f6-419a-9b29-0927cfc7999e

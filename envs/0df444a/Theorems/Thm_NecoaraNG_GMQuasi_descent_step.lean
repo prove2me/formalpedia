@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMQuasi_descent_step
 -- name    : NecoaraNG.GMQuasi.descent_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:40:46.935626+00:00
 -- url     : https://prove2.me/theorems/5471f0cc-df1c-4f74-8885-6b296d61116e

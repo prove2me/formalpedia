@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyPriceInterp_MarketEq_coefficient_matching
 -- name    : CostlyPriceInterp.MarketEq.coefficient_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:27.630996+00:00
 -- url     : https://prove2.me/theorems/3a6fe87c-9bfd-4b32-b0ab-c3c7cc6747a5

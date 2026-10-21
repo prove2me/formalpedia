@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_sImplQ_chainC
 -- name    : IntMul.Kappa.R6.IL3H.sImplQ_chainC
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:12.614569+00:00
 -- url     : https://prove2.me/theorems/7be46a70-8bb1-4968-9f86-d27fd04843c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Uniform_eq5_profit_quadratic
 -- name    : BoundedNV.Uniform.eq5_profit_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:27.629682+00:00
 -- url     : https://prove2.me/theorems/801013d9-3621-4acf-8fc8-51197d8b9d80

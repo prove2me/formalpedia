@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_closed_form_bounds
 -- name    : FeaturePricing.Ellipsoid.closed_form_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:32:03.777643+00:00
 -- url     : https://prove2.me/theorems/2b70ab71-0769-4a63-b4ff-5e0bc3da0c2f

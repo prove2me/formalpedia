@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_AdaptivePlay_example_2
 -- name    : YoungConventions.AdaptivePlay.example_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:03:24.972747+00:00
 -- url     : https://prove2.me/theorems/6529373f-02cf-4104-853a-411c2238db1c

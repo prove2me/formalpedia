@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_proof_i_prefix
 -- name    : CoProdBundle.Equil.proof_i_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:40.922038+00:00
 -- url     : https://prove2.me/theorems/70b9b462-feb1-44cb-8d74-f2b00eb12a7c

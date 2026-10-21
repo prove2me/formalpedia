@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NLogN_KFM_desc18P_cost_g
 -- name    : NLogN.KFM.desc18P_cost_g
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:37:54.326192+00:00
 -- url     : https://prove2.me/theorems/0c1421a8-4848-447a-8a07-662f2050f21f

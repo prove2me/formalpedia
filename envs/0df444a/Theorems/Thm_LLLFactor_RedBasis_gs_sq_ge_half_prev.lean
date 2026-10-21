@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_RedBasis_gs_sq_ge_half_prev
 -- name    : LLLFactor.RedBasis.gs_sq_ge_half_prev
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:19:02.727988+00:00
 -- url     : https://prove2.me/theorems/5fd459aa-03a0-4665-a262-ff97e4dae573

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weightedShear_comp_of_weightedOrder
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weightedShear_comp_of_weightedOrder
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:32:50.805193+00:00
 -- url     : https://prove2.me/theorems/536c5c84-3e6a-4524-b21b-86a3612cf680

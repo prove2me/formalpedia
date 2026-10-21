@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_volume_update_le
 -- name    : FeaturePricing.Ellipsoid.volume_update_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:21:57.407242+00:00
 -- url     : https://prove2.me/theorems/b4bab41d-2431-49b5-841e-3e26234213b4

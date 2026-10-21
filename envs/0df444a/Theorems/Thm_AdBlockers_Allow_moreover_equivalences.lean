@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_moreover_equivalences
 -- name    : AdBlockers.Allow.moreover_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:03.194617+00:00
 -- url     : https://prove2.me/theorems/963459af-578a-4187-b84b-932511335042

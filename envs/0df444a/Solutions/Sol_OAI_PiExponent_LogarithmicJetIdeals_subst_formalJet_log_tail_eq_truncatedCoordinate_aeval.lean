@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.subst_formalJet_log_tail_eq_truncatedCoordinate_aeval
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T06:29:10.644503+00:00
 -- url     : https://prove2.me/submissions/a90683d2-f9cc-4ae7-8403-b40738a918e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals_LocalCoordinates
 import Mathlib.RingTheory.MvPowerSeries.Substitution

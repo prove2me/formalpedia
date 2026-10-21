@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SustainableFashion_Variety_expected_price
 -- name    : SustainableFashion.Variety.expected_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:34.151973+00:00
 -- url     : https://prove2.me/theorems/040afe73-8048-4c07-bff0-a4d80dab0e4a

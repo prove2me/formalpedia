@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_FixedPoint_eq_10
 -- name    : GivenDegreeSeq.FixedPoint.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:53:25.183271+00:00
 -- url     : https://prove2.me/theorems/ff20e3ff-0081-4067-b5fc-344bdfa61a9c

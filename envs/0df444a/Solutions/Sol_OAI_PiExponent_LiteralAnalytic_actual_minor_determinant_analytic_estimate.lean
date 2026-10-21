@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.actual_minor_determinant_analytic_estimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:06:54.178825+00:00
 -- url     : https://prove2.me/submissions/dde83d77-f036-47f9-81e5-c61b6542dd27
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData
 import Theorems.Thm_OAI_PiExponent_LiteralAnalytic_actual_minor_row_count_pos

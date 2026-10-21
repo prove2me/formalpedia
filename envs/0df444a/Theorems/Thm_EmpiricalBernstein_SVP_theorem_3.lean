@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalBernstein_SVP_theorem_3
 -- name    : EmpiricalBernstein.SVP.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:41:37.320337+00:00
 -- url     : https://prove2.me/theorems/9df523e8-d6da-419c-beda-30735b9cfe02

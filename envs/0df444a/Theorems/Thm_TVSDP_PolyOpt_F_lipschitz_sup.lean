@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TVSDP_PolyOpt_F_lipschitz_sup
 -- name    : TVSDP.PolyOpt.F_lipschitz_sup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:07.48009+00:00
 -- url     : https://prove2.me/theorems/e5fccd66-c2e0-40b6-8e1a-01167c6756f3

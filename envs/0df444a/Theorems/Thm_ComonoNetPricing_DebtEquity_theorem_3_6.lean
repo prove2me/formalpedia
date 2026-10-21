@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComonoNetPricing_DebtEquity_theorem_3_6
 -- name    : ComonoNetPricing.DebtEquity.theorem_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:39.854141+00:00
 -- url     : https://prove2.me/theorems/0c503bb2-bd53-43e5-8237-1de97bfdbe59

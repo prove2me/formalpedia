@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_display5_bet_iff
 -- name    : BellRegret.Paradoxes.display5_bet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:21:54.463985+00:00
 -- url     : https://prove2.me/theorems/b1d888c2-5999-472b-9a51-5a055c71a7bf

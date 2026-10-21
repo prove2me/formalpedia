@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_AlmostSmooth_proposition_1
 -- name    : SDCA.AlmostSmooth.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:06:20.356994+00:00
 -- url     : https://prove2.me/theorems/4c4cc55c-eafd-495f-8947-97075147b1f7

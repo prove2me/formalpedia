@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weighted_series_jet_equiv_of_coeff_agreement_nonpos
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weighted_series_jet_equiv_of_coeff_agreement_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:44:00.954206+00:00
 -- url     : https://prove2.me/theorems/c8807ef3-cb4f-4b9f-bbf9-48468fc8f4f4

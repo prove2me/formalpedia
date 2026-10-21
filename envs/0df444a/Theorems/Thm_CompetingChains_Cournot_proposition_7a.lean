@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingChains_Cournot_proposition_7a
 -- name    : CompetingChains.Cournot.proposition_7a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:59.284614+00:00
 -- url     : https://prove2.me/theorems/871c2d55-e982-4841-9c7f-50b87c76515b

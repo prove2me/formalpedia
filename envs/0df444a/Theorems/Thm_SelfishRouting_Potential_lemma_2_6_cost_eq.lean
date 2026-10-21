@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Potential_lemma_2_6_cost_eq
 -- name    : SelfishRouting.Potential.lemma_2_6_cost_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:12.417982+00:00
 -- url     : https://prove2.me/theorems/e39e9ad1-d46a-44e1-a6c2-ed1f9f0e2d0f

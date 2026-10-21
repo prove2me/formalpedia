@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_Tradeoff_lemma_7
 -- name    : AdWordsMSVV.Tradeoff.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:18.069081+00:00
 -- url     : https://prove2.me/theorems/45f7f06e-2088-4403-aea9-2bebf1d5ec78

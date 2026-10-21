@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaddleSplit_Async_theorem_3_5
 -- name    : SaddleSplit.Async.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:25.45965+00:00
 -- url     : https://prove2.me/theorems/5ce86740-84e6-4cb8-9127-0160ae183410

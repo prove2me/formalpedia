@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROCalibration_Sensitivity_conj_deriv_at_zero
 -- name    : DROCalibration.Sensitivity.conj_deriv_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:21.85799+00:00
 -- url     : https://prove2.me/theorems/333c0b46-812f-4ed1-9665-6848bb02496a

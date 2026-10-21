@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumLB_powerSum_mem_feasL
 -- name    : SymPolyOpt.PowerSumLB.powerSum_mem_feasL
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:13.640495+00:00
 -- url     : https://prove2.me/theorems/76fe02f2-a5bb-4790-be85-2793d6d8c98a

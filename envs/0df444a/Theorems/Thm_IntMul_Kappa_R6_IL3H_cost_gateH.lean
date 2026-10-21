@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_cost_gateH
 -- name    : IntMul.Kappa.R6.IL3H.cost_gateH
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:44.564589+00:00
 -- url     : https://prove2.me/theorems/a7cf810e-3b3e-45c7-be88-84f331c2ef7e

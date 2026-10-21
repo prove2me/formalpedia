@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.explicitProduct_coeff_eq_entry
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:44:28.219992+00:00
 -- url     : https://prove2.me/submissions/ff243251-8b50-463f-874f-f0011b65344a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_explicitProduct_coeff_eq_polynomialCoeff
 

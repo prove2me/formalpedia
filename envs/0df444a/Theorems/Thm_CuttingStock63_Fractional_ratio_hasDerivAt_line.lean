@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CuttingStock63_Fractional_ratio_hasDerivAt_line
 -- name    : CuttingStock63.Fractional.ratio_hasDerivAt_line
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:01:43.8319+00:00
 -- url     : https://prove2.me/theorems/8c92d95c-be5d-4cc4-9edd-bdc424a53b58

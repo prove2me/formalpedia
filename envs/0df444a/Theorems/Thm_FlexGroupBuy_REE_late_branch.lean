@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexGroupBuy_REE_late_branch
 -- name    : FlexGroupBuy.REE.late_branch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:52.020823+00:00
 -- url     : https://prove2.me/theorems/dc0bd7c4-1b39-4028-8e80-f1fd2ef97289

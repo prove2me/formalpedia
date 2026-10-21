@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_PeriodicGauss_first_display
 -- name    : RegevLWE.PeriodicGauss.first_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:35.00342+00:00
 -- url     : https://prove2.me/theorems/80a2bf49-625e-4417-a316-605b25aaa3b0

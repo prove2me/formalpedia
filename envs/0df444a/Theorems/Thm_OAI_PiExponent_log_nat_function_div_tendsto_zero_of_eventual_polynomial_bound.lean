@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_log_nat_function_div_tendsto_zero_of_eventual_polynomial_bound
 -- name    : OAI.PiExponent.log_nat_function_div_tendsto_zero_of_eventual_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:09:41.979465+00:00
 -- url     : https://prove2.me/theorems/20e91903-f9de-44f6-910a-9043af33c22f

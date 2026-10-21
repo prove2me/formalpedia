@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerimeterPatrol_Visible_optimalPatrol_detection_eq
 -- name    : PerimeterPatrol.Visible.optimalPatrol_detection_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:11.555973+00:00
 -- url     : https://prove2.me/theorems/7d32a8fd-a116-46d2-a955-846f91ac9ec1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_SubsetSum_expected_l2_norm
 -- name    : RegevLWE.SubsetSum.expected_l2_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:38.775614+00:00
 -- url     : https://prove2.me/theorems/d891c8a4-144c-42e1-aa38-2a845f975038

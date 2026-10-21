@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_local_jet_ideal_generator_coeff_vanish_below_scale
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.local_jet_ideal_generator_coeff_vanish_below_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T23:59:41.408034+00:00
 -- url     : https://prove2.me/theorems/01067c1d-23c9-4aa7-8a71-19e32029ac04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeMoment_LogConcave_geometric_of_tight
 -- name    : ShapeMoment.LogConcave.geometric_of_tight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:17.535578+00:00
 -- url     : https://prove2.me/theorems/fd79335d-b389-45d2-bb7c-d130691fc8aa

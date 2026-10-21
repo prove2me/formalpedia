@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_FixedFraction_endpoints_elem
 -- name    : SeqLoss.FixedFraction.endpoints_elem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:00.701807+00:00
 -- url     : https://prove2.me/theorems/0d7c36c1-342e-4ed7-b754-dd3de3f27be5

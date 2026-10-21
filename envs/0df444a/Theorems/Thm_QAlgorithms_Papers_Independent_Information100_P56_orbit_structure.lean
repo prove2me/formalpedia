@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_orbit_structure
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.orbit_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:13:35.393063+00:00
 -- url     : https://prove2.me/theorems/9c81223d-ceaf-4ad3-ada9-9189790184ef

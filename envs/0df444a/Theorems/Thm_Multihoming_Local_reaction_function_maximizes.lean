@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Local_reaction_function_maximizes
 -- name    : Multihoming.Local.reaction_function_maximizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:31.1822+00:00
 -- url     : https://prove2.me/theorems/2163ce0d-5eb2-4231-8267-c4d3d1cd3c0b

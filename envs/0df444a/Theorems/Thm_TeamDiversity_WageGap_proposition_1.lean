@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDiversity_WageGap_proposition_1
 -- name    : TeamDiversity.WageGap.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:18.544056+00:00
 -- url     : https://prove2.me/theorems/1252dcd5-5ba2-4594-8f3e-6047ce9cae67

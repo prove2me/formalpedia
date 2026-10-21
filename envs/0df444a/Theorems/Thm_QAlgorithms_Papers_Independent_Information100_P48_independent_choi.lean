@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_independent_choi
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.independent_choi
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:46:26.404132+00:00
 -- url     : https://prove2.me/theorems/71233a92-bcc2-43bb-9662-d16cdd628e33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_AugGreedy_lemma_E_1
 -- name    : CustAssort.AugGreedy.lemma_E_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:49:05.321982+00:00
 -- url     : https://prove2.me/theorems/a13e0e80-3338-4267-8f63-0fd0c471bad2

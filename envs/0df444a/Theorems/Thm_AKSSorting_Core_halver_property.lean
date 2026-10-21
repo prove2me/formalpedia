@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKSSorting_Core_halver_property
 -- name    : AKSSorting.Core.halver_property
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:05:04.51765+00:00
 -- url     : https://prove2.me/theorems/850c01a3-71bd-46f7-a798-22961ff90900

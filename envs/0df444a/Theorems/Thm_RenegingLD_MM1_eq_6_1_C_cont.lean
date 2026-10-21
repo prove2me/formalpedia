@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RenegingLD_MM1_eq_6_1_C_cont
 -- name    : RenegingLD.MM1.eq_6_1_C_cont
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:24.063036+00:00
 -- url     : https://prove2.me/theorems/db552ecf-cdfb-4597-a327-5bc69e6b1508

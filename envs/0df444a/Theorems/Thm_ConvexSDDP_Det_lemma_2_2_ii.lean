@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexSDDP_Det_lemma_2_2_ii
 -- name    : ConvexSDDP.Det.lemma_2_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:42.359269+00:00
 -- url     : https://prove2.me/theorems/dba386bd-c289-4dbe-af62-e72a75959e23

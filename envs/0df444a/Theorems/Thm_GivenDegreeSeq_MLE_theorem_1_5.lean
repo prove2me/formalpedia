@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_MLE_theorem_1_5
 -- name    : GivenDegreeSeq.MLE.theorem_1_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:17.350772+00:00
 -- url     : https://prove2.me/theorems/7037e3cd-29ea-435d-8ca6-ebbaa39410e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestartPD_LPSharp_lemma_4
 -- name    : RestartPD.LPSharp.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:07.290338+00:00
 -- url     : https://prove2.me/theorems/716d6546-00ca-4611-a676-acfb6368d140

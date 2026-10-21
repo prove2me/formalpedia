@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemicHoldings_FEfficient_msd_value
 -- name    : SystemicHoldings.FEfficient.msd_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:21.412832+00:00
 -- url     : https://prove2.me/theorems/1d97c932-a94d-4aff-9998-04fef3f4dc0c

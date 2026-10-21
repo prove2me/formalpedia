@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_InteropFee_foc_best_response
 -- name    : NetFeePlatform.InteropFee.foc_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:34.055473+00:00
 -- url     : https://prove2.me/theorems/26a4e9fb-a041-40a1-a011-89431ba824ea

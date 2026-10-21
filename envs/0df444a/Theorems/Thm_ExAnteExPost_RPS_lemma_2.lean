@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExAnteExPost_RPS_lemma_2
 -- name    : ExAnteExPost.RPS.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:41.576726+00:00
 -- url     : https://prove2.me/theorems/9a6a6a0d-e75f-4128-a9ef-8aa06a8c6a73

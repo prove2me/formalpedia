@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_FundIneq_lemma_1_product
 -- name    : ExploreFirst.FundIneq.lemma_1_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:46.48969+00:00
 -- url     : https://prove2.me/theorems/ea9327a6-600a-420d-afa0-de346c78ff69

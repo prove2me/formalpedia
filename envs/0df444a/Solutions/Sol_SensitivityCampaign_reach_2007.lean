@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SensitivityCampaign.reach_2007
 -- status  : ACCEPTED   (prove)
--- author  : @abhishekdpseok
+-- author  : @Abhishek Anand
 -- created : 2026-10-15T21:05:30.559988+00:00
 -- url     : https://prove2.me/submissions/2cc2d774-0919-4c77-8f6e-7bbad4e835e8
 

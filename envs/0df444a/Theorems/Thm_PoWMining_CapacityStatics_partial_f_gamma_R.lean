@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_CapacityStatics_partial_f_gamma_R
 -- name    : PoWMining.CapacityStatics.partial_f_gamma_R
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:00:46.266981+00:00
 -- url     : https://prove2.me/theorems/c587fe32-4501-4ea3-8a41-1fd9c90b76a4

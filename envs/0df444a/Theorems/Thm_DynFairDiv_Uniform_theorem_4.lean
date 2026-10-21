@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynFairDiv_Uniform_theorem_4
 -- name    : DynFairDiv.Uniform.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:57.150919+00:00
 -- url     : https://prove2.me/theorems/ce3395e7-7a0e-47b5-ae2f-5e5d2fd5b462

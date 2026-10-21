@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdContest_Pooling_concave_deriv_inverse
 -- name    : CrowdContest.Pooling.concave_deriv_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:24.85199+00:00
 -- url     : https://prove2.me/theorems/654a6654-1059-4e72-aa02-150e471993d5

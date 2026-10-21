@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FDM_ineq_66
 -- name    : NecoaraNG.FDM.ineq_66
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:34.501218+00:00
 -- url     : https://prove2.me/theorems/7383a29b-3392-4c8b-bd38-4ae7b7cc57af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_SimplexGap_lemma_2_4_not_symmetric
 -- name    : RobustPower.SimplexGap.lemma_2_4_not_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:23:03.534583+00:00
 -- url     : https://prove2.me/theorems/fe1887f2-f136-4c22-873a-6c1ca6c2ef07

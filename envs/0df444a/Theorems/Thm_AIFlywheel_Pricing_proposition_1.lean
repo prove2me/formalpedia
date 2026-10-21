@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AIFlywheel_Pricing_proposition_1
 -- name    : AIFlywheel.Pricing.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:51.693785+00:00
 -- url     : https://prove2.me/theorems/51a60b6a-2374-4ab0-804a-5e30cca07501

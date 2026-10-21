@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_HellingerChain_hellinger_multiplicative_pinsker
 -- name    : StatComplexityDM.HellingerChain.hellinger_multiplicative_pinsker
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:21:22.533189+00:00
 -- url     : https://prove2.me/theorems/ddfb4617-a36c-4920-a5cd-e7cc95bb5702

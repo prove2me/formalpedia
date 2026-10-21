@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalBernstein_SVP_lemma_13
 -- name    : EmpiricalBernstein.SVP.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:15.399805+00:00
 -- url     : https://prove2.me/theorems/eb3440f7-4821-4ebb-b0cb-8591509ec74d

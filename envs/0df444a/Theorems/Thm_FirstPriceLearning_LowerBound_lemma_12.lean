@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_LowerBound_lemma_12
 -- name    : FirstPriceLearning.LowerBound.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:29.951163+00:00
 -- url     : https://prove2.me/theorems/d49f1203-2c83-4d19-9512-c8ff04e0e35a

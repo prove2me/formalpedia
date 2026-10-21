@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_packet_surjective_of_truncated_surjective
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.packet_surjective_of_truncated_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:47:17.685716+00:00
 -- url     : https://prove2.me/theorems/222be3f0-0e2f-40ed-9a88-3c5314b7d716

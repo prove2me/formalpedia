@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.formalJet_total_degree_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:10:12.225125+00:00
 -- url     : https://prove2.me/submissions/cd8cef5e-5fa8-4500-bc6a-a0aae98cf3fc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals_PlainJet

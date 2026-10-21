@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Uniform_prop3_midpoint_bias
 -- name    : BoundedNV.Uniform.prop3_midpoint_bias
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:42.085635+00:00
 -- url     : https://prove2.me/theorems/06cfb5f3-dd0c-4e31-b082-ff5e0205edf8

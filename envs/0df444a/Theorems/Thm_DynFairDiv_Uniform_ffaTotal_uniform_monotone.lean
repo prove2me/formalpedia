@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynFairDiv_Uniform_ffaTotal_uniform_monotone
 -- name    : DynFairDiv.Uniform.ffaTotal_uniform_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:54.580038+00:00
 -- url     : https://prove2.me/theorems/a418283c-6911-4798-ade2-d9664e7d99b7

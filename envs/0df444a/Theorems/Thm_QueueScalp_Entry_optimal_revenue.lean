@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueScalp_Entry_optimal_revenue
 -- name    : QueueScalp.Entry.optimal_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:54.079771+00:00
 -- url     : https://prove2.me/theorems/6f43702d-1ce2-402c-9718-dae942fcd0ff

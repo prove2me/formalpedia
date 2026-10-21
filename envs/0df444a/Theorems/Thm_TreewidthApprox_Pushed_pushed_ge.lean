@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Pushed_pushed_ge
 -- name    : TreewidthApprox.Pushed.pushed_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:28.013431+00:00
 -- url     : https://prove2.me/theorems/e2a4ba62-ce94-415f-ae79-c7cf6c6b99e0

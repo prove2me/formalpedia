@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSTutorial_InfoRatio_regret_le_sqrt_infoRatio_entropy
 -- name    : TSTutorial.InfoRatio.regret_le_sqrt_infoRatio_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:44.404156+00:00
 -- url     : https://prove2.me/theorems/e38d28f4-c730-45f1-99fb-879507ec3f5c

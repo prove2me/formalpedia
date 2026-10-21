@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_weighted_monic_staircase_remainder
 -- name    : OAI.PiExponent.weighted_monic_staircase_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T21:58:29.381911+00:00
 -- url     : https://prove2.me/theorems/c4043302-4cd1-49bd-b964-0b42f50c2ccc

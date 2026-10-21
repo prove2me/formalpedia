@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WolfPack_FlowEngage_proposition_2
 -- name    : WolfPack.FlowEngage.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:54.198773+00:00
 -- url     : https://prove2.me/theorems/05df982b-aade-40a5-a959-09590a384b3f

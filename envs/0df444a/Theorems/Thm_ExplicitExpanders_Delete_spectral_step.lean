@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitExpanders_Delete_spectral_step
 -- name    : ExplicitExpanders.Delete.spectral_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:16:29.539657+00:00
 -- url     : https://prove2.me/theorems/f420bdaf-651e-4eca-9000-0eff12736fe9

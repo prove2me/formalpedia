@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TDApprox_Conv_lemma_6_ab
 -- name    : TDApprox.Conv.lemma_6_ab
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:38.651198+00:00
 -- url     : https://prove2.me/theorems/ce7c6423-a80b-4e47-bc99-d958c77de7e4

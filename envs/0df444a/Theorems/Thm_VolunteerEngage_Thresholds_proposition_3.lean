@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Thresholds_proposition_3
 -- name    : VolunteerEngage.Thresholds.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:38.751257+00:00
 -- url     : https://prove2.me/theorems/d8e2daee-7096-43a7-b8fb-8c0ae473566f

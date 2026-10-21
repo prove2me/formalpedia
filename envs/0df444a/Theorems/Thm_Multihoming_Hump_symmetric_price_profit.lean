@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Hump_symmetric_price_profit
 -- name    : Multihoming.Hump.symmetric_price_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:33.716984+00:00
 -- url     : https://prove2.me/theorems/ee3f351b-7de8-4594-8980-c69bc408e9f8

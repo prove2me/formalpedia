@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_optimality_conditions_1
 -- name    : ParamSDO.Transition.optimality_conditions_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:12.111851+00:00
 -- url     : https://prove2.me/theorems/2223fdee-2431-4c1f-9d28-3ae3beba5c74

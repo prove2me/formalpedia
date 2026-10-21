@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Hyperplanes_eq_24
 -- name    : HScattered.Hyperplanes.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:42.022024+00:00
 -- url     : https://prove2.me/theorems/2db68b7d-9658-4600-b025-4f584528c1bd

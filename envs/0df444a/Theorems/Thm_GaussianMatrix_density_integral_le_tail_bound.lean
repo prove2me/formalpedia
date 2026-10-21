@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianMatrix_density_integral_le_tail_bound
 -- name    : GaussianMatrix.density_integral_le_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T19:52:46.180447+00:00
 -- url     : https://prove2.me/theorems/fbf09435-ab79-412b-a898-5e1c626da6c5

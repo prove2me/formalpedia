@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_MultiNet_component_lower_bound
 -- name    : VehicleSharePricing.MultiNet.component_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:16.69715+00:00
 -- url     : https://prove2.me/theorems/4dfa80d4-d84a-4cba-90d7-fb86e44b71d9

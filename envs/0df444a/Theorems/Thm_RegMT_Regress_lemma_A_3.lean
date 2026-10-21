@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMT_Regress_lemma_A_3
 -- name    : RegMT.Regress.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:09:34.470982+00:00
 -- url     : https://prove2.me/theorems/e8845076-3bff-4979-9bad-f1aed533d3ec

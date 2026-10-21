@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_RRExists_equilibrium_transfer
 -- name    : StrategicAlloc.RRExists.equilibrium_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:36:03.529664+00:00
 -- url     : https://prove2.me/theorems/350e2667-52c7-409b-832b-6d18c7369b08

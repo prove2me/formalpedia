@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ratios_F_G_ranges
 -- name    : MultiPriceOnline.Ratios.F_G_ranges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:41.91109+00:00
 -- url     : https://prove2.me/theorems/920d9abf-8929-4e29-b96e-6b1139372ecd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_HeavyBallODE_lyap_le_exp
 -- name    : HighResODE.HeavyBallODE.lyap_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:27.868161+00:00
 -- url     : https://prove2.me/theorems/9d4444f5-0fdf-4efa-972f-82eb31430519

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailerMarketplace_Entry_lemma_1
 -- name    : RetailerMarketplace.Entry.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:28.854981+00:00
 -- url     : https://prove2.me/theorems/16f5147e-abde-4fe8-bb9c-b9c2815a75a2

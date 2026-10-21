@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QApproxCount_Counting_lemma_2
 -- name    : QApproxCount.Counting.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:22.070115+00:00
 -- url     : https://prove2.me/theorems/4dbbda6c-a8d0-4ffc-823b-ef2fecc71fa2

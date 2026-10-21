@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_collision_remainder_lt_eighth
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_collision_remainder_lt_eighth
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:44:47.665986+00:00
 -- url     : https://prove2.me/theorems/b27674d5-2d55-4224-ad88-83162eff506f

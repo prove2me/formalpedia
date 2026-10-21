@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_SimplexGap_eq_2_31_mean_last_coord
 -- name    : RobustPower.SimplexGap.eq_2_31_mean_last_coord
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:29:46.586765+00:00
 -- url     : https://prove2.me/theorems/a9544d44-deb1-4ced-ae7c-21406a0da927

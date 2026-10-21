@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetMeterDRE_Profit_proposition_1a_clearing_price
 -- name    : NetMeterDRE.Profit.proposition_1a_clearing_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:35.253387+00:00
 -- url     : https://prove2.me/theorems/e1efa8d1-bb5a-4dd8-ba4f-eb4adb0fac08

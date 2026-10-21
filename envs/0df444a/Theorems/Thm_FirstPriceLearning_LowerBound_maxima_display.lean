@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_LowerBound_maxima_display
 -- name    : FirstPriceLearning.LowerBound.maxima_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:26.766057+00:00
 -- url     : https://prove2.me/theorems/15ef6b3b-2fbe-4aa8-8652-258437610400

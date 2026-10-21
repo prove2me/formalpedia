@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PeriodicDividend_FixedPoint_theorem_3_3_D
 -- name    : PeriodicDividend.FixedPoint.theorem_3_3_D
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:04.763386+00:00
 -- url     : https://prove2.me/theorems/e750889d-24e1-4845-a9a8-31c80d03e015

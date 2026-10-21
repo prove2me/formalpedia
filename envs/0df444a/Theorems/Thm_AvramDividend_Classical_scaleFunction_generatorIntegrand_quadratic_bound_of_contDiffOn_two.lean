@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generatorIntegrand_quadratic_bound_of_contDiffOn_two
 -- name    : AvramDividend.Classical.scaleFunction_generatorIntegrand_quadratic_bound_of_contDiffOn_two
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:19:03.930988+00:00
 -- url     : https://prove2.me/theorems/63e8d243-06e7-44e0-882b-5a57c3c232c9

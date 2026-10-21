@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSparsify_Decomp_eq_12_cut_union
 -- name    : SpectralSparsify.Decomp.eq_12_cut_union
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:34:21.002484+00:00
 -- url     : https://prove2.me/theorems/b3ac4802-cf87-4f66-b080-c18f5051b5d3

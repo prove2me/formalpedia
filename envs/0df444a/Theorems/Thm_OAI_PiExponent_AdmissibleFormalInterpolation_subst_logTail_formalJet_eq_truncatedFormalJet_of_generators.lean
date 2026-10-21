@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_subst_logTail_formalJet_eq_truncatedFormalJet_of_generators
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.subst_logTail_formalJet_eq_truncatedFormalJet_of_generators
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:01:27.925548+00:00
 -- url     : https://prove2.me/theorems/e6a2649c-c74e-481d-aede-218bd2c31da3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefRobustSR_WorstCase_jensen_step
 -- name    : PrefRobustSR.WorstCase.jensen_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:36.16399+00:00
 -- url     : https://prove2.me/theorems/b403b9bf-2abe-4663-bbf8-cdcafac9123c

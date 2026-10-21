@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankMarkov_RankMLE_lemmaEC1_kl_ge_sq
 -- name    : LowRankMarkov.RankMLE.lemmaEC1_kl_ge_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:27:10.243487+00:00
 -- url     : https://prove2.me/theorems/027ad4dd-56cf-4bc5-a6b4-a85025fa5ff4

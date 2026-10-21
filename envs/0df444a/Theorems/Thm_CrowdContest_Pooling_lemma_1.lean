@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdContest_Pooling_lemma_1
 -- name    : CrowdContest.Pooling.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:26.759221+00:00
 -- url     : https://prove2.me/theorems/0a775684-d4d9-4c43-9d55-ead11075f1ad

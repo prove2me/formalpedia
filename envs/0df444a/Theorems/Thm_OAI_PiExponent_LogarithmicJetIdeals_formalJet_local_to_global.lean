@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_local_to_global
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_local_to_global
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:00:59.188121+00:00
 -- url     : https://prove2.me/theorems/39b435fe-82ba-449b-8904-1b8c30aeca67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weightedShear_neg_leftInverse
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weightedShear_neg_leftInverse
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:01:06.801807+00:00
 -- url     : https://prove2.me/theorems/9c2102e6-29d2-448d-9ad9-6dfa50b1ecdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVHighway_DPolicy_eq_16_closed_form
 -- name    : AVHighway.DPolicy.eq_16_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:13:09.251786+00:00
 -- url     : https://prove2.me/theorems/143d9ca9-6d07-43f7-b961-04a597c17ee3

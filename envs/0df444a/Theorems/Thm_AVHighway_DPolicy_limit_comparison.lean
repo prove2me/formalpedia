@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVHighway_DPolicy_limit_comparison
 -- name    : AVHighway.DPolicy.limit_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:13:58.971355+00:00
 -- url     : https://prove2.me/theorems/462350c2-92b4-4d6f-b0a4-144ebf2aa657

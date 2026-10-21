@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9_hasDerivWithinAt_sub_const
 -- name    : d9_hasDerivWithinAt_sub_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T08:07:31.586641+00:00
 -- url     : https://prove2.me/theorems/08067c5a-f948-47e3-93fa-41a1c9ec543b

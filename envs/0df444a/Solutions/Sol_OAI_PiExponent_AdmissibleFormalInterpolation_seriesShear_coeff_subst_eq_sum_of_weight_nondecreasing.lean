@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.seriesShear_coeff_subst_eq_sum_of_weight_nondecreasing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-18T07:10:38.900401+00:00
 -- url     : https://prove2.me/submissions/16dd339c-5ae4-45a8-aa21-f5770c01f15d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_WeightedJetShear
 import Mathlib.RingTheory.MvPowerSeries.Substitution

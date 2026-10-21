@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_DemandFree_ratio_eq_availability
 -- name    : VehicleSharePricing.DemandFree.ratio_eq_availability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:13.603984+00:00
 -- url     : https://prove2.me/theorems/4aa07f76-f03e-4e13-832a-686d7240c5a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_SaddlePoint_regret_sum_15_26
 -- name    : ModernOnlineLearning.SaddlePoint.regret_sum_15_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:39:35.218068+00:00
 -- url     : https://prove2.me/theorems/b1ecfa61-bc90-43cd-918a-1a4f28079895

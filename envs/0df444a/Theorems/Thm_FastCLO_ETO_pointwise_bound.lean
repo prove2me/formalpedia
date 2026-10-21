@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_ETO_pointwise_bound
 -- name    : FastCLO.ETO.pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:16:43.773002+00:00
 -- url     : https://prove2.me/theorems/c9e26228-0f94-42c6-90bd-dc1cae8e3c32

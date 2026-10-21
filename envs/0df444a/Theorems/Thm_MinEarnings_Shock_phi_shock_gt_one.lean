@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Shock_phi_shock_gt_one
 -- name    : MinEarnings.Shock.phi_shock_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:42.34795+00:00
 -- url     : https://prove2.me/theorems/c1b3d72d-37f2-4ca9-a049-839641e9ed83

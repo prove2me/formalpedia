@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_SubsetSum_cauchy_schwarz_l2
 -- name    : RegevLWE.SubsetSum.cauchy_schwarz_l2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:37.842993+00:00
 -- url     : https://prove2.me/theorems/359fc5d6-3e5d-454d-b710-5c9b163ad0d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actualRowCount_poly_upper_eventually
 -- name    : OAI.PiExponent.DeterminantContradiction.actualRowCount_poly_upper_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:14:35.613635+00:00
 -- url     : https://prove2.me/theorems/8b234cbc-abc4-4f24-987f-ff363f3c4c75

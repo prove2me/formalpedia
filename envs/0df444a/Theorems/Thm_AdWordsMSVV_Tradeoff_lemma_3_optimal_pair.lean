@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_Tradeoff_lemma_3_optimal_pair
 -- name    : AdWordsMSVV.Tradeoff.lemma_3_optimal_pair
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:41.635841+00:00
 -- url     : https://prove2.me/theorems/dcf17d8a-5e00-4b7e-bbab-8ef0a1460acc

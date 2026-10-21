@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Uniform_optimum_eq_mu
 -- name    : BoundedNV.Uniform.optimum_eq_mu
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:34.128234+00:00
 -- url     : https://prove2.me/theorems/6e12e9ec-6969-4db8-b73c-e4226589c101

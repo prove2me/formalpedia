@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_Lipschitz_lemma_4
 -- name    : SDCA.Lipschitz.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:59.330318+00:00
 -- url     : https://prove2.me/theorems/dee171ed-5703-47a0-a238-3c67226bd22a

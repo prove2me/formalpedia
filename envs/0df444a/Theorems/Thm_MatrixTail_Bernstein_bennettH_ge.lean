@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTail_Bernstein_bennettH_ge
 -- name    : MatrixTail.Bernstein.bennettH_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:10:55.477978+00:00
 -- url     : https://prove2.me/theorems/2ba015af-0913-47d9-bd76-0978380c50ae

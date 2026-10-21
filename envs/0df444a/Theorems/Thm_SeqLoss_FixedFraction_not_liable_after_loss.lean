@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_FixedFraction_not_liable_after_loss
 -- name    : SeqLoss.FixedFraction.not_liable_after_loss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:03.471123+00:00
 -- url     : https://prove2.me/theorems/613b41d4-a694-4e88-9c38-8df7f8fc4ea3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_StoppingTime_prop4_lp_solution
 -- name    : GVRPricing.StoppingTime.prop4_lp_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:46:54.936223+00:00
 -- url     : https://prove2.me/theorems/225cbf20-711d-43be-9bdb-bad2c6c0b42a

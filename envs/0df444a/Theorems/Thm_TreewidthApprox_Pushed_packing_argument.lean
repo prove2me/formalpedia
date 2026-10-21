@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Pushed_packing_argument
 -- name    : TreewidthApprox.Pushed.packing_argument
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:18.466706+00:00
 -- url     : https://prove2.me/theorems/657a04ab-ae3c-48f0-b3ed-69868df54aec

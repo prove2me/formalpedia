@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphAlignment_Possible_lemma_A_2
 -- name    : GraphAlignment.Possible.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:31:13.248255+00:00
 -- url     : https://prove2.me/theorems/c12a0129-ce26-4e93-b2f8-a22e391abf86

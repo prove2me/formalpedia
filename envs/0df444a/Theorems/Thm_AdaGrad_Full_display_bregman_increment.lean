@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Full_display_bregman_increment
 -- name    : AdaGrad.Full.display_bregman_increment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:45:22.522366+00:00
 -- url     : https://prove2.me/theorems/f54fa470-d215-4583-9900-8a99b6dcfbc6

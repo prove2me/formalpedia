@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_ParameterFree_eq_13_1
 -- name    : ModernOnlineLearning.ParameterFree.eq_13_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:39:35.684434+00:00
 -- url     : https://prove2.me/theorems/02d4613a-63bd-4e09-9259-be7839f4f39f

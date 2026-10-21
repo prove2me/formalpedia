@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_SelfDual_step_direction_relations
 -- name    : VanderbeiLP.SelfDual.step_direction_relations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:53:20.113992+00:00
 -- url     : https://prove2.me/theorems/a48da35a-04c9-4e1d-a6af-dc6a50078a40

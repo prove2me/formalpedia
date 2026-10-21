@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_eq_8
 -- name    : InvIntegration.Behavioral.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:03.197402+00:00
 -- url     : https://prove2.me/theorems/cb4130e9-d2be-4e82-87e5-f0b67637261a

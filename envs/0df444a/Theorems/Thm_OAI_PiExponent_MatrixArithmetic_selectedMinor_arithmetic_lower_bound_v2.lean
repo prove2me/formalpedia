@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_MatrixArithmetic_selectedMinor_arithmetic_lower_bound_v2
 -- name    : OAI.PiExponent.MatrixArithmetic.selectedMinor_arithmetic_lower_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:16:21.383086+00:00
 -- url     : https://prove2.me/theorems/7435a1c1-b93a-47ff-a0b6-0f934da7d698

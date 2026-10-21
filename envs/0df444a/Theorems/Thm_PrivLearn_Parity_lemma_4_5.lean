@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_Parity_lemma_4_5
 -- name    : PrivLearn.Parity.lemma_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:11.714163+00:00
 -- url     : https://prove2.me/theorems/1ac8519b-6fca-49d3-b0ba-1dd8c0174da0

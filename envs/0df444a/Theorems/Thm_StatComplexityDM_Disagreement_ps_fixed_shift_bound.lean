@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_Disagreement_ps_fixed_shift_bound
 -- name    : StatComplexityDM.Disagreement.ps_fixed_shift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:59.31223+00:00
 -- url     : https://prove2.me/theorems/ecdee286-9036-4357-bf0c-1e786ea91838

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_ConvexHull_marginal_unique
 -- name    : SherbrookeMetric.ConvexHull.marginal_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:05.965015+00:00
 -- url     : https://prove2.me/theorems/02caa590-4f1f-4018-b67e-f060f3b1a21f

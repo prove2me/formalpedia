@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefRobustSR_WorstCase_converse_feasible
 -- name    : PrefRobustSR.WorstCase.converse_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:32.297017+00:00
 -- url     : https://prove2.me/theorems/b2acfe47-0626-4bcd-9b1a-b9e82d448eda

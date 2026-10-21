@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Local_closed_forms
 -- name    : Multihoming.Local.closed_forms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:40.895354+00:00
 -- url     : https://prove2.me/theorems/5c46a0ba-6ec8-4762-9cbc-88f247c5456e

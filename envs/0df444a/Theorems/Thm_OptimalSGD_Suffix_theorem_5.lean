@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalSGD_Suffix_theorem_5
 -- name    : OptimalSGD.Suffix.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:22:45.925077+00:00
 -- url     : https://prove2.me/theorems/30df0d36-3006-4181-bd64-24d8478eb786

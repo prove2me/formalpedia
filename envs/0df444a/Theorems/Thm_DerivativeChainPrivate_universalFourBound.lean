@@ -13,9 +13,9 @@
 --
 --   Repeated source roots are counted with multiplicity. There is no real-coefficient or nonreal-root-count restriction. No proof is claimed.
 --
---   **Source convention.** Althöfer's [original announcement](https://althofer.de/prize-money-2.jpg) uses the strict condition $L<C$. This record deliberately states the non-strict target $L\le4$. It does not assert the literal strict target $L<4$, and no equivalence at the fixed value four is claimed. Both would imply existence of some uniform bound.
+--   **Source convention.** Althöfer's [original announcement](https://althofer.de/prize-money-2.jpg) asks for total path length at most $C$ and suggests $C=4$. The target $L\le4$ stated here follows that convention.
 -- source:
---   Ingo Althöfer, 15 August 2026 announcement, open question and prize (i)/(ii): https://althofer.de/prize-money-2.jpg . Exact formulation and strict/non-strict convention: Derivative-zero chains: public formalization reference, R07, DerivativeChainPrivate.universalFourBound. https://gist.github.com/Amal-David/d6612109c98595b12561cd638c60edf5/3883c57ddc7bf9d4c0e898c3d6bfd2ca0d7f9c95#file-notes-md
+--   Ingo Althöfer, 15 August 2026 announcement, open question and prize (i)/(ii), path length at most C and suggested C=4: https://althofer.de/prize-money-2.jpg . Formal statement: Derivative-zero chains: public formalization reference, R07, DerivativeChainPrivate.universalFourBound. https://gist.github.com/Amal-David/d6612109c98595b12561cd638c60edf5/3883c57ddc7bf9d4c0e898c3d6bfd2ca0d7f9c95#file-notes-md
 
 import Definitions.Def_DerivativeChainPrivate_foundations
 open scoped BigOperators

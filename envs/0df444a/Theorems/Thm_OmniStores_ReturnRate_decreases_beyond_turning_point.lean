@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniStores_ReturnRate_decreases_beyond_turning_point
 -- name    : OmniStores.ReturnRate.decreases_beyond_turning_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:20:59.254251+00:00
 -- url     : https://prove2.me/theorems/bf816166-11cb-4729-b5a2-a5ded4ec7334

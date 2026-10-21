@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommitteeVoting_SingleVoter_lemma_4
 -- name    : CommitteeVoting.SingleVoter.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:29.357977+00:00
 -- url     : https://prove2.me/theorems/a21df425-1913-4c65-b67e-2f1f09a26300

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitExpanders_Delete_eq_11
 -- name    : ExplicitExpanders.Delete.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:16:19.585346+00:00
 -- url     : https://prove2.me/theorems/418f81c5-ddac-4435-96f6-3c1b81d7f88b

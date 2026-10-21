@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PromoMulti_PairwiseExact_pairwise_sum_higher_zero
 -- name    : PromoMulti.PairwiseExact.pairwise_sum_higher_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:19.757097+00:00
 -- url     : https://prove2.me/theorems/064e6ddb-3875-4866-b867-ed1f357a063c

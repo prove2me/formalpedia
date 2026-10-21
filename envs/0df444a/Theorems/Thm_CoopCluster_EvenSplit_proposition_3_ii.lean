@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoopCluster_EvenSplit_proposition_3_ii
 -- name    : CoopCluster.EvenSplit.proposition_3_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:16.045681+00:00
 -- url     : https://prove2.me/theorems/6294ece8-65a2-4d36-aed1-4f0be8e18bca

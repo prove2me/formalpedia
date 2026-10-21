@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_ec8_ec9
 -- name    : PostQual.Incumbent.ec8_ec9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:26.377915+00:00
 -- url     : https://prove2.me/theorems/53a78784-4e3e-4cb0-bf04-c079eea319f0

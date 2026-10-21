@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiddenRebate_Fixed_cost_star_eq
 -- name    : HiddenRebate.Fixed.cost_star_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:55.374086+00:00
 -- url     : https://prove2.me/theorems/8f8fed01-f91e-4e2a-8321-ad7dc6c8668d

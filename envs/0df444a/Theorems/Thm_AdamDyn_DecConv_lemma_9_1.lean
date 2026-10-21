@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdamDyn_DecConv_lemma_9_1
 -- name    : AdamDyn.DecConv.lemma_9_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:11:57.796819+00:00
 -- url     : https://prove2.me/theorems/fbe7af87-1d22-4156-bac5-57a450b2901e

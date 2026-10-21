@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayDep_Equiv_exo_law_determined
 -- name    : DelayDep.Equiv.exo_law_determined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:23:21.879087+00:00
 -- url     : https://prove2.me/theorems/37d404f3-4a3a-46b0-a6eb-5a18854c9f38

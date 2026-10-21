@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoSShares_Stability_aSeq_tendsto_one
 -- name    : PoSShares.Stability.aSeq_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:31:28.224794+00:00
 -- url     : https://prove2.me/theorems/ee5a8283-4fe7-413c-96c5-5aaf3795ed5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_Partial_lemma_4_1
 -- name    : SparseNLO.Partial.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:13:49.171273+00:00
 -- url     : https://prove2.me/theorems/fc19b8bd-5760-493f-a638-74f15a983b4a

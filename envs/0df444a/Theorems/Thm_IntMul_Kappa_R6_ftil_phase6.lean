@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_ftil_phase6
 -- name    : IntMul.Kappa.R6.ftil_phase6
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:38:05.975195+00:00
 -- url     : https://prove2.me/theorems/aabefa7a-1cb8-4634-bff3-443f51c6c977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudMWU_Bicriteria_kl_projection_exists_unique
 -- name    : CloudMWU.Bicriteria.kl_projection_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:19.363204+00:00
 -- url     : https://prove2.me/theorems/364e3d89-99ad-49b7-9491-3a54bdd87907

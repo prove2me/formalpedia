@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actual_mean_le_theta_of_pos
 -- name    : OAI.PiExponent.DeterminantContradiction.actual_mean_le_theta_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:33:19.273673+00:00
 -- url     : https://prove2.me/theorems/d5f32772-53ed-46d4-8238-2bb31caf3fde

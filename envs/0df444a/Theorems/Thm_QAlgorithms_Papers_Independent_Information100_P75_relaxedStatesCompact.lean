@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_relaxedStatesCompact
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.relaxedStatesCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:13:19.749031+00:00
 -- url     : https://prove2.me/theorems/2ec5718b-3ab8-400b-83e4-d32426b02efb

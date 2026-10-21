@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesIMA_Stages_upstream_forecast_eq
 -- name    : GravesIMA.Stages.upstream_forecast_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:56.902279+00:00
 -- url     : https://prove2.me/theorems/a3f62090-acfa-462d-85a7-fdc5316b9d3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_ToX_theorem_16_4
 -- name    : ModernOnlineLearning.ToX.theorem_16_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:29.888243+00:00
 -- url     : https://prove2.me/theorems/0a730c13-e99f-4263-a91a-0b6be9d44a5c

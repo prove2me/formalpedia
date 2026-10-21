@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SustainableFashion_Variety_proposition_2_i
 -- name    : SustainableFashion.Variety.proposition_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:50.653821+00:00
 -- url     : https://prove2.me/theorems/758e2273-cbe7-47af-92c4-f1c38cba2d17

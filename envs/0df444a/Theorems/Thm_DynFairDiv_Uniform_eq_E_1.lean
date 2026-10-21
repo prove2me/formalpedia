@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynFairDiv_Uniform_eq_E_1
 -- name    : DynFairDiv.Uniform.eq_E_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:01.824003+00:00
 -- url     : https://prove2.me/theorems/8b614970-8380-4ac1-9e8e-b3736de64b12

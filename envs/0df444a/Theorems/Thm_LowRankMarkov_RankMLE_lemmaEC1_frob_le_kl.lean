@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankMarkov_RankMLE_lemmaEC1_frob_le_kl
 -- name    : LowRankMarkov.RankMLE.lemmaEC1_frob_le_kl
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:27:18.313666+00:00
 -- url     : https://prove2.me/theorems/24e8dad2-76ac-4dd6-bfae-633528d04331

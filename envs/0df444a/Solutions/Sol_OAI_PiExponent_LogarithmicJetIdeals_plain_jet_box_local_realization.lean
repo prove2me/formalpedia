@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.plain_jet_box_local_realization
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T21:32:46.310421+00:00
 -- url     : https://prove2.me/submissions/deb296ea-0e38-4c72-9e73-cbb835c264de
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals_PlainJet
 import Mathlib.Data.Fintype.Pi

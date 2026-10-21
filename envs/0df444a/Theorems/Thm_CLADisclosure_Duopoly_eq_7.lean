@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLADisclosure_Duopoly_eq_7
 -- name    : CLADisclosure.Duopoly.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:54.462296+00:00
 -- url     : https://prove2.me/theorems/39f62e20-54f6-4560-ba9f-53b095f675d3

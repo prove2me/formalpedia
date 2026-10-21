@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AmbDiversify_Smooth_delta_mono
 -- name    : AmbDiversify.Smooth.delta_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:06.970429+00:00
 -- url     : https://prove2.me/theorems/eae9d525-9304-4e57-83bf-d499ee530e60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContagionGrowth_FluidLimit_remark_6
 -- name    : ContagionGrowth.FluidLimit.remark_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:20.137494+00:00
 -- url     : https://prove2.me/theorems/598e14a2-fe77-4577-adec-baca51a5d418

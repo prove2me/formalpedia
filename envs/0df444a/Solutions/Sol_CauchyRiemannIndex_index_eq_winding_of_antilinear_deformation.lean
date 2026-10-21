@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CauchyRiemannIndex.index_eq_winding_of_antilinear_deformation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-17T14:52:16.207081+00:00
 -- url     : https://prove2.me/submissions/5ad3ece8-852a-4b93-a1d6-7cfbb6fe8b23
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CauchyRiemannIndex_Setting
 import Mathlib.Analysis.Calculus.ContDiff.Basic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PBElicit_RandThresh_theorem_3_5
 -- name    : PBElicit.RandThresh.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:27.892652+00:00
 -- url     : https://prove2.me/theorems/1f8f9556-8a1b-462b-b30c-891657fd9e09

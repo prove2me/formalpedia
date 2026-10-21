@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyFlex_SupplierLed_eq_A1_16_paren
 -- name    : SupplyFlex.SupplierLed.eq_A1_16_paren
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-20T05:37:58.560335+00:00
 -- url     : https://prove2.me/theorems/a5fb11b6-a373-4254-b875-2a76b1b2be04

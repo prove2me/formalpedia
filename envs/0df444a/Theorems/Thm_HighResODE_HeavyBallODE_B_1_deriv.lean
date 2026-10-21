@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_HeavyBallODE_B_1_deriv
 -- name    : HighResODE.HeavyBallODE.B_1_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:25:53.407401+00:00
 -- url     : https://prove2.me/theorems/8699f776-1162-4f02-a3d6-e7747f79a722

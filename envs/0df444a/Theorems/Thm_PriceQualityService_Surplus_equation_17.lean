@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Surplus_equation_17
 -- name    : PriceQualityService.Surplus.equation_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:19:07.620425+00:00
 -- url     : https://prove2.me/theorems/bd9df6b8-c4a0-4ac8-b3bf-30fc78d987c4

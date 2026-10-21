@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_matrix_mulVec_weightedSeriesJet
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.matrix_mulVec_weightedSeriesJet
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:31:34.733769+00:00
 -- url     : https://prove2.me/theorems/4a7e3139-dcbc-4966-885f-dd0e6b8ff85c

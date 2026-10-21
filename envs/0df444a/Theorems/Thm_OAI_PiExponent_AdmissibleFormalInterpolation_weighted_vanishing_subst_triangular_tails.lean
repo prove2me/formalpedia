@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weighted_vanishing_subst_triangular_tails
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weighted_vanishing_subst_triangular_tails
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:41:00.194179+00:00
 -- url     : https://prove2.me/theorems/11196702-4e4b-495f-a465-205b575c66c7

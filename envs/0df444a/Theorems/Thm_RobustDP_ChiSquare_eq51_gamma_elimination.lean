@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_ChiSquare_eq51_gamma_elimination
 -- name    : RobustDP.ChiSquare.eq51_gamma_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:38:06.260135+00:00
 -- url     : https://prove2.me/theorems/169b76a0-c778-4bcc-89de-659ddf9e603c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_ImprovedJS_intersection_bound
 -- name    : FuzzyExtractors.ImprovedJS.intersection_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:52.983615+00:00
 -- url     : https://prove2.me/theorems/203fc88d-e8d5-4e29-ac89-84eb016c1c19

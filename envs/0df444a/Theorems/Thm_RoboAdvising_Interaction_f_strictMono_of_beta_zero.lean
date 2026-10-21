@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_f_strictMono_of_beta_zero
 -- name    : RoboAdvising.Interaction.f_strictMono_of_beta_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:41.649882+00:00
 -- url     : https://prove2.me/theorems/f0f0a86e-a368-4d47-a792-fba40b2ebda8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerimeterPatrol_Visible_patrolValue_monotone
 -- name    : PerimeterPatrol.Visible.patrolValue_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:12.786979+00:00
 -- url     : https://prove2.me/theorems/4b0cc85a-40cc-4826-8bdc-dc262b7633bb

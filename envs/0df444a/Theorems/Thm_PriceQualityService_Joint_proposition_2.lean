@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Joint_proposition_2
 -- name    : PriceQualityService.Joint.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:23:05.692966+00:00
 -- url     : https://prove2.me/theorems/40df0d66-d8e5-43c8-b27c-8b8da6c7685a

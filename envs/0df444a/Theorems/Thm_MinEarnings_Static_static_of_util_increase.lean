@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Static_static_of_util_increase
 -- name    : MinEarnings.Static.static_of_util_increase
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:37.403912+00:00
 -- url     : https://prove2.me/theorems/9909afad-9e7a-4d02-8554-f24cee8e3049

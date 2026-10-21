@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Nonadaptive_cond_exp_tail_ge
 -- name    : CorreaThreshold.Nonadaptive.cond_exp_tail_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:06.637275+00:00
 -- url     : https://prove2.me/theorems/4e27a1c3-2d50-4e65-817c-24027eeda52b

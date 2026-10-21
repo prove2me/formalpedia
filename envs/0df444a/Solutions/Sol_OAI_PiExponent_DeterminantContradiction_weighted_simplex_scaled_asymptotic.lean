@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.weighted_simplex_scaled_asymptotic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:19:56.770283+00:00
 -- url     : https://prove2.me/submissions/044ca0ef-5630-4046-b333-36cf39cce707
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData
 import Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weighted_simplex_general_asymptotic

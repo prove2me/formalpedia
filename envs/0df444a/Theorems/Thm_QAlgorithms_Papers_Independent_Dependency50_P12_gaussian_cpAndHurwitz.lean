@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_gaussian_cpAndHurwitz
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.gaussian_cpAndHurwitz
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:04:52.985454+00:00
 -- url     : https://prove2.me/theorems/21d9ff2d-dc93-4640-a17b-09a07f039465

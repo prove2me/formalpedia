@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesIMA_Stages_p1_lead_time_form
 -- name    : GravesIMA.Stages.p1_lead_time_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:50.219005+00:00
 -- url     : https://prove2.me/theorems/6c1549ab-52bb-430e-ba48-45fc5c2ba411

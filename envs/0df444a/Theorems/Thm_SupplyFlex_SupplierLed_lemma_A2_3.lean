@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyFlex_SupplierLed_lemma_A2_3
 -- name    : SupplyFlex.SupplierLed.lemma_A2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:51:59.86075+00:00
 -- url     : https://prove2.me/theorems/79a8d752-e934-458b-a6bd-8b63d1e79018

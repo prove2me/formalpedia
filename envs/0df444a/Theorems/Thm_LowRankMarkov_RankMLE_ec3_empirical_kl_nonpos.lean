@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankMarkov_RankMLE_ec3_empirical_kl_nonpos
 -- name    : LowRankMarkov.RankMLE.ec3_empirical_kl_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:27:14.97361+00:00
 -- url     : https://prove2.me/theorems/c5abb7c8-3c25-4617-a142-0b0cbcf0d9f3

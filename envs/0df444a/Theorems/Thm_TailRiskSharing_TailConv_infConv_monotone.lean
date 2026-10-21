@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_TailConv_infConv_monotone
 -- name    : TailRiskSharing.TailConv.infConv_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:23.571982+00:00
 -- url     : https://prove2.me/theorems/03fbb07c-7553-4b08-b01e-386b820fa874

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalBernstein_SVP_eq_7_9
 -- name    : EmpiricalBernstein.SVP.eq_7_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:42:55.722048+00:00
 -- url     : https://prove2.me/theorems/3d87133e-dd5d-4223-9de0-4fa3cb408a9e

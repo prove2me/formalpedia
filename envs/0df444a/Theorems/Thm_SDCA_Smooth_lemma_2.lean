@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_Smooth_lemma_2
 -- name    : SDCA.Smooth.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:08:39.658889+00:00
 -- url     : https://prove2.me/theorems/71d40964-3325-4d5a-b668-3b343aa44a06

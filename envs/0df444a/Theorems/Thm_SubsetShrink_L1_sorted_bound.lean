@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_L1_sorted_bound
 -- name    : SubsetShrink.L1.sorted_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:31.89955+00:00
 -- url     : https://prove2.me/theorems/0541c0d4-7c92-46ba-ad14-28435ee1a175

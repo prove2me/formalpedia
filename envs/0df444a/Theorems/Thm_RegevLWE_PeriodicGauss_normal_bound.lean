@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_PeriodicGauss_normal_bound
 -- name    : RegevLWE.PeriodicGauss.normal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:40.688916+00:00
 -- url     : https://prove2.me/theorems/c08e34d5-a3cb-4fe2-a43e-d3046a4d6b84

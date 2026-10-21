@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DOptimal_proposition_1_1_a_iii
 -- name    : RelSmoothFOM.DOptimal.proposition_1_1_a_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:35:47.904961+00:00
 -- url     : https://prove2.me/theorems/902983b2-7531-42ae-8c76-513fecd0e0c3

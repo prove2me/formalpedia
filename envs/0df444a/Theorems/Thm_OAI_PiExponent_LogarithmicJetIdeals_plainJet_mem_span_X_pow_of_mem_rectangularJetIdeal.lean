@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_plainJet_mem_span_X_pow_of_mem_rectangularJetIdeal
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.plainJet_mem_span_X_pow_of_mem_rectangularJetIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:09:47.914959+00:00
 -- url     : https://prove2.me/theorems/e04ba7b5-123a-4263-aca1-aa556a4bf488

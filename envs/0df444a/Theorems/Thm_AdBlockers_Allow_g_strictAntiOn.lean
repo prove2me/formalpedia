@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_g_strictAntiOn
 -- name    : AdBlockers.Allow.g_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:00.715176+00:00
 -- url     : https://prove2.me/theorems/91689efd-721e-4e54-93d3-690afd225686

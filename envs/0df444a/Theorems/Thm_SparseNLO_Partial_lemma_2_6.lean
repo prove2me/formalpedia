@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_Partial_lemma_2_6
 -- name    : SparseNLO.Partial.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:12:23.224973+00:00
 -- url     : https://prove2.me/theorems/0149dbac-09f5-47b6-9a71-f14a790eb95d

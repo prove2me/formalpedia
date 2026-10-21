@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqDiagnosis_BeliefRecon_tcal_zero
 -- name    : SeqDiagnosis.BeliefRecon.tcal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:57.567883+00:00
 -- url     : https://prove2.me/theorems/f07ed804-0ee0-4189-ae9f-55f276629f23

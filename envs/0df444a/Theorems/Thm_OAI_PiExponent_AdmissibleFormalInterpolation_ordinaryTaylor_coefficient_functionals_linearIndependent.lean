@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_ordinaryTaylor_coefficient_functionals_linearIndependent
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.ordinaryTaylor_coefficient_functionals_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:39:21.221201+00:00
 -- url     : https://prove2.me/theorems/38eaaef6-9a9a-4e36-a65d-be345a5f5293

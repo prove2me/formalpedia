@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_Exact_theorem_1_i_cost
 -- name    : LNChannels.Exact.theorem_1_i_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:07.853169+00:00
 -- url     : https://prove2.me/theorems/b4a31e75-685b-4ad5-ad71-2807406cda15

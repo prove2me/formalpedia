@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.finite_formal_jet_interpolation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-13T23:22:19.129102+00:00
 -- url     : https://prove2.me/submissions/d19131c3-93a0-4ed9-9111-7adb53678afa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formal_jet_interpolation_of_injective_requests

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialAVD_StrongCvx_thm_3_4_first_display
 -- name    : InertialAVD.StrongCvx.thm_3_4_first_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:43.091978+00:00
 -- url     : https://prove2.me/theorems/cfd96942-713b-4469-9323-1b7b7646acf3

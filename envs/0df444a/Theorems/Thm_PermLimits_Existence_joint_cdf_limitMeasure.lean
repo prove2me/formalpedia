@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Existence_joint_cdf_limitMeasure
 -- name    : PermLimits.Existence.joint_cdf_limitMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:58:24.048211+00:00
 -- url     : https://prove2.me/theorems/577af9b8-1f98-446b-93a7-01989f18636b

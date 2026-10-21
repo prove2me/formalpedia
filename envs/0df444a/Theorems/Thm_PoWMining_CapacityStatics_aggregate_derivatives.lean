@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_CapacityStatics_aggregate_derivatives
 -- name    : PoWMining.CapacityStatics.aggregate_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:00:28.399506+00:00
 -- url     : https://prove2.me/theorems/982f2cbc-2649-45af-9ee4-5e0aa34778bc

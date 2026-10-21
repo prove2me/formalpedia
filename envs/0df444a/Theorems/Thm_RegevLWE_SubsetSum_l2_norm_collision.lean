@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_SubsetSum_l2_norm_collision
 -- name    : RegevLWE.SubsetSum.l2_norm_collision
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:37.039554+00:00
 -- url     : https://prove2.me/theorems/d3b121e2-7327-4d10-85a0-968a3e5d2f79

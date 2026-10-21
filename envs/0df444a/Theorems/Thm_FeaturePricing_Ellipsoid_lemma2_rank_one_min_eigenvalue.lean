@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_lemma2_rank_one_min_eigenvalue
 -- name    : FeaturePricing.Ellipsoid.lemma2_rank_one_min_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:33:02.522413+00:00
 -- url     : https://prove2.me/theorems/bb8efffb-bd5e-42fc-9527-c822e8786f34

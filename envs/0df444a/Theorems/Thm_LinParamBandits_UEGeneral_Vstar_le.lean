@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_Vstar_le
 -- name    : LinParamBandits.UEGeneral.Vstar_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:59.274177+00:00
 -- url     : https://prove2.me/theorems/5918696a-7d18-46a1-adf2-2a698bcf8970

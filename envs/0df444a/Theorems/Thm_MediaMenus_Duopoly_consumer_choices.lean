@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MediaMenus_Duopoly_consumer_choices
 -- name    : MediaMenus.Duopoly.consumer_choices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:52.52963+00:00
 -- url     : https://prove2.me/theorems/e1d3ca67-1427-46ac-aa74-4c16c83df533

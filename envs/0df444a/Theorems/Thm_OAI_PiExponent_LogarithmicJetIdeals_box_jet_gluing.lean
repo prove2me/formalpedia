@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_box_jet_gluing
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.box_jet_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:19:13.686989+00:00
 -- url     : https://prove2.me/theorems/ebb0d236-56f8-49e0-a7d5-2a756144eecb

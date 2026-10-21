@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_pushSeq_nodeFr2
 -- name    : IntMul.Kappa.R6.IL3H.pushSeq_nodeFr2
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:27.591248+00:00
 -- url     : https://prove2.me/theorems/0afaac1f-5dd5-43f5-a884-70010014f943

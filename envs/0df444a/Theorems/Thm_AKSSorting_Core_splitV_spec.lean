@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKSSorting_Core_splitV_spec
 -- name    : AKSSorting.Core.splitV_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:08:40.8157+00:00
 -- url     : https://prove2.me/theorems/95bf217f-7f01-4b56-b480-ea781c723b37

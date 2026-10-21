@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_Budget_lemma_B_1
 -- name    : BudgetedAffine.Budget.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:25:48.311907+00:00
 -- url     : https://prove2.me/theorems/b7ef3fed-6b35-4e86-afda-1496110fcf8c

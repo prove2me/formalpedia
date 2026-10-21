@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastFashion_Approx_tangent_slopes_pos_decreasing
 -- name    : FastFashion.Approx.tangent_slopes_pos_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:30.087499+00:00
 -- url     : https://prove2.me/theorems/079a8e91-c05f-4182-8b7b-a192d36615bf

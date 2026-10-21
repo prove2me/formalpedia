@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weighted_simplex_region_card_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.weighted_simplex_region_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:53:37.151295+00:00
 -- url     : https://prove2.me/theorems/e1d89945-0734-4b1c-99bb-c3326946cd30

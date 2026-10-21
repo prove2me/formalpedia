@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_OneAsset_prop3_gQuad_shape
 -- name    : CostlyShort.OneAsset.prop3_gQuad_shape
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:40.200461+00:00
 -- url     : https://prove2.me/theorems/1408de5d-d0f7-48c4-8bad-026c65dad78a

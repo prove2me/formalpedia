@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_epsOK_tabM
 -- name    : IntMul.Kappa.R6.IL3H.epsOK_tabM
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:25:41.415455+00:00
 -- url     : https://prove2.me/theorems/4c415710-61c0-4434-812d-936baf1b2df7

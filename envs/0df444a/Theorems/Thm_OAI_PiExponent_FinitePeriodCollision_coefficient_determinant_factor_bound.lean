@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FinitePeriodCollision_coefficient_determinant_factor_bound
 -- name    : OAI.PiExponent.FinitePeriodCollision.coefficient_determinant_factor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-18T23:08:06.428157+00:00
 -- url     : https://prove2.me/theorems/a8ae2f06-a908-4d16-bb3c-7f8172be284c

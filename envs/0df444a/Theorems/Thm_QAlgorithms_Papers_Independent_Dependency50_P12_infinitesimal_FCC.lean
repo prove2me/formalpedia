@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_infinitesimal_FCC
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.infinitesimal_FCC
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:59:22.463184+00:00
 -- url     : https://prove2.me/theorems/706c7705-e9a1-4539-9edd-4b1f4f59744e

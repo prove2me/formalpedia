@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_Constraint_lemma_B_1
 -- name    : DimCallCenters.Constraint.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:57:57.483894+00:00
 -- url     : https://prove2.me/theorems/9fdf2f8b-8fb3-4215-8689-94e0f74d2fbf

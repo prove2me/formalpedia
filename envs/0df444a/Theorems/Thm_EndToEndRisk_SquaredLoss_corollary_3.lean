@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndToEndRisk_SquaredLoss_corollary_3
 -- name    : EndToEndRisk.SquaredLoss.corollary_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:10.752541+00:00
 -- url     : https://prove2.me/theorems/d0de6f7c-d2ec-4ee1-bec5-39fd2c351770

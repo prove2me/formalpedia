@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Uncertainty_gStar_monotone
 -- name    : ClimateImpact.Uncertainty.gStar_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:38.408976+00:00
 -- url     : https://prove2.me/theorems/00397a03-d932-4809-b386-eaad17643883

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generatorIntegrand_quadratic_near_zero
 -- name    : AvramDividend.Classical.scaleFunction_generatorIntegrand_quadratic_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T13:49:53.145132+00:00
 -- url     : https://prove2.me/theorems/b3185117-efca-4c66-a82a-be8e04a332c5

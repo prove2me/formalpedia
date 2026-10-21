@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_OneAsset_prop3_eq30_iff_gQuad
 -- name    : CostlyShort.OneAsset.prop3_eq30_iff_gQuad
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:32.256348+00:00
 -- url     : https://prove2.me/theorems/fea7639f-5bb8-42ad-8f50-f675e92cda7b

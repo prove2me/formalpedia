@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialAVD_StrongCvx_eq_26
 -- name    : InertialAVD.StrongCvx.eq_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:28.246992+00:00
 -- url     : https://prove2.me/theorems/4b259eae-71c2-4bbb-85f6-b100192a5d21

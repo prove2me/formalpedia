@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_shear_roundtrip_coeff
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_shear_roundtrip_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T22:34:24.189993+00:00
 -- url     : https://prove2.me/theorems/0729a964-fc80-4a27-8a27-7ecc1c0554da

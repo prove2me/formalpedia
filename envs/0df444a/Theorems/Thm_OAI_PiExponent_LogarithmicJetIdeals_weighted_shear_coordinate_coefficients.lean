@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_shear_coordinate_coefficients
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_shear_coordinate_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T19:23:27.976919+00:00
 -- url     : https://prove2.me/theorems/ccaac5e2-abb9-495e-b341-ca07ee53016e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BitcoinOligopoly_EoS_lemma_3
 -- name    : BitcoinOligopoly.EoS.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:16.707222+00:00
 -- url     : https://prove2.me/theorems/644eb9e6-60ae-4fc3-9d39-0a78546fefa5

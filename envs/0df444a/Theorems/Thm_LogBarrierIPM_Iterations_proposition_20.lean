@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogBarrierIPM_Iterations_proposition_20
 -- name    : LogBarrierIPM.Iterations.proposition_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:07:28.857802+00:00
 -- url     : https://prove2.me/theorems/e453cfc7-6d91-4788-b8eb-603b4ba89a89

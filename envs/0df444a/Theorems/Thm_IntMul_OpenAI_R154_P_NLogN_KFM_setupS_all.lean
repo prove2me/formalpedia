@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFM_setupS_all
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFM.setupS_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:19:15.045471+00:00
 -- url     : https://prove2.me/theorems/df72080b-3cd9-48a4-9ef6-f5afa53a9960

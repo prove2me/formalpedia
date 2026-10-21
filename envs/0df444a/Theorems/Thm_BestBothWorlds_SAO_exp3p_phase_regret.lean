@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_exp3p_phase_regret
 -- name    : BestBothWorlds.SAO.exp3p_phase_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:29.905681+00:00
 -- url     : https://prove2.me/theorems/55803a07-922a-4dbd-ac9e-6f85465e162d

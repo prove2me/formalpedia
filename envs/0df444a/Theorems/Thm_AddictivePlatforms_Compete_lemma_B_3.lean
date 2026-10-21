@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddictivePlatforms_Compete_lemma_B_3
 -- name    : AddictivePlatforms.Compete.lemma_B_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T12:58:21.769857+00:00
 -- url     : https://prove2.me/theorems/33c43a6e-f454-484b-8e8e-bcbd7365860c

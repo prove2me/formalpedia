@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P19_compressionPure
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P19.compressionPure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:20:24.353076+00:00
 -- url     : https://prove2.me/theorems/7bcd13d7-0509-45b2-b050-b8cffadc142b

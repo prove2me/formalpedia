@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.zero_padded_raw_packet_local_power
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T11:34:44.118264+00:00
 -- url     : https://prove2.me/submissions/3d169960-7ffc-4736-aa98-045374df8ce4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals

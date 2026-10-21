@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallNoCall_OneDir_avgWait_le_of_rates_le
 -- name    : CallNoCall.OneDir.avgWait_le_of_rates_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:18.536868+00:00
 -- url     : https://prove2.me/theorems/ecf6b19f-4ffa-4d0e-972d-deffbac5a0da

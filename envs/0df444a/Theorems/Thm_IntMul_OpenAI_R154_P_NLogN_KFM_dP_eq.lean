@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFM_dP_eq
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFM.dP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:16:28.874423+00:00
 -- url     : https://prove2.me/theorems/fea03252-6fa3-498d-a89f-53f4393ee48c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_psi_mem
 -- name    : SlowConvergence.Newton.psi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:39:56.412081+00:00
 -- url     : https://prove2.me/theorems/4bc3dc47-724c-46af-900b-11d2c0cddf62

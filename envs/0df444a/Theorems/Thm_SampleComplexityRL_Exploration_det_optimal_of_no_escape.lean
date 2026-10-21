@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_Exploration_det_optimal_of_no_escape
 -- name    : SampleComplexityRL.Exploration.det_optimal_of_no_escape
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:02:10.983456+00:00
 -- url     : https://prove2.me/theorems/13632210-df41-4b16-9176-53bce0c88a3d

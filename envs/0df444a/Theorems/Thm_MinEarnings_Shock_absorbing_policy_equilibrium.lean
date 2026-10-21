@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Shock_absorbing_policy_equilibrium
 -- name    : MinEarnings.Shock.absorbing_policy_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:27.630854+00:00
 -- url     : https://prove2.me/theorems/39b8323e-705c-4b14-af0a-7ff39b6746d2

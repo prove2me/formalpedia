@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudMWU_Bicriteria_claim_3_2
 -- name    : CloudMWU.Bicriteria.claim_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:19.976203+00:00
 -- url     : https://prove2.me/theorems/65448f1a-19c6-4b32-af0c-f347c9dc22cb

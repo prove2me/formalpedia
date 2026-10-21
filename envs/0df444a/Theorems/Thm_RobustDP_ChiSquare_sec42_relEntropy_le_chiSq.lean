@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_ChiSquare_sec42_relEntropy_le_chiSq
 -- name    : RobustDP.ChiSquare.sec42_relEntropy_le_chiSq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:38:52.561451+00:00
 -- url     : https://prove2.me/theorems/a99b0b5e-4b5f-4302-a208-4ba82f9f8c33

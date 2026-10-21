@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Protective_benchmark_order
 -- name    : PlatformEntry.Protective.benchmark_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:21.647521+00:00
 -- url     : https://prove2.me/theorems/fefd602e-9fa4-4d15-9df0-ef7a2addc317

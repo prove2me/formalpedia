@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_zero_origin_infinite_small_jumps
 -- name    : AvramDividend.Classical.scaleFunction_zero_origin_infinite_small_jumps
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T22:55:46.207171+00:00
 -- url     : https://prove2.me/theorems/1f6cbd4d-f910-47bb-ab44-c654d32fe769

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimUpper_ec18_bound
 -- name    : HiringLP.SimUpper.ec18_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:35.170692+00:00
 -- url     : https://prove2.me/theorems/e5868bc4-37bc-414f-a491-e4959974bce3

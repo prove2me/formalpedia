@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_ideal_power_packet_vanishing
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.ideal_power_packet_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-12T20:16:55.253989+00:00
 -- url     : https://prove2.me/theorems/47a1bf8e-c1af-4d25-bd66-aed8c9b3db43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_dimensionBound
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.dimensionBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:58:39.694637+00:00
 -- url     : https://prove2.me/theorems/797b2aaa-8de9-40f6-bc7c-1260c283173a

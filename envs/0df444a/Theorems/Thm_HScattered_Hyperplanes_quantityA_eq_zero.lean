@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Hyperplanes_quantityA_eq_zero
 -- name    : HScattered.Hyperplanes.quantityA_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:00.815857+00:00
 -- url     : https://prove2.me/theorems/80e225f9-4dc9-46b6-a2a0-7aa7a4e4f3cc

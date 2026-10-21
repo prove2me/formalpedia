@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Shor_rounding
 -- name    : JRPHard.Shor.rounding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:38:37.88678+00:00
 -- url     : https://prove2.me/theorems/4e11425a-a963-4272-af4b-5184401d175c

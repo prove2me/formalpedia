@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BoolWidth_theorem_4_2
 -- name    : TwinWidthI.BoolWidth.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:45.954193+00:00
 -- url     : https://prove2.me/theorems/ba1cd6bd-dce3-4e7e-805b-8f18929a16e0

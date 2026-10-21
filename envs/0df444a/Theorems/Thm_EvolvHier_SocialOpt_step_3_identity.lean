@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EvolvHier_SocialOpt_step_3_identity
 -- name    : EvolvHier.SocialOpt.step_3_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:23.251123+00:00
 -- url     : https://prove2.me/theorems/819ccded-9aab-403f-8b0a-3e2398cec82f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlocking_Surplus_sign_criterion
 -- name    : AdBlocking.Surplus.sign_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:20:17.43028+00:00
 -- url     : https://prove2.me/theorems/10c23ef4-40c7-4617-b0d5-6db9c78c62c5

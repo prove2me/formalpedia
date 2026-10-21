@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoSShares_Stability_lemma_1
 -- name    : PoSShares.Stability.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:50.886678+00:00
 -- url     : https://prove2.me/theorems/87eb0a25-6cd5-48f4-a800-36cb9bf4ebc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_part_i_thresholds
 -- name    : ScarceTesting.PerfectTest.part_i_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:37.249824+00:00
 -- url     : https://prove2.me/theorems/28ddf8df-20de-499b-b293-81a00d38d7a9

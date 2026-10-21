@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemicHoldings_FEfficient_shockMoment_facts
 -- name    : SystemicHoldings.FEfficient.shockMoment_facts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:16.76324+00:00
 -- url     : https://prove2.me/theorems/2f41a8b7-ac5c-456a-a36f-22a34122cb26

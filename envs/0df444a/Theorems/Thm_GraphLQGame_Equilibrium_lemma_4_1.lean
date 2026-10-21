@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphLQGame_Equilibrium_lemma_4_1
 -- name    : GraphLQGame.Equilibrium.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:26:03.629418+00:00
 -- url     : https://prove2.me/theorems/b0096dfa-76c8-476c-b738-faae6f1229e8

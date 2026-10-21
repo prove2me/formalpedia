@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P67_uniformMaximalComparison
 -- name    : QAlgorithms.Papers.Independent.Information100.P67.uniformMaximalComparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:05:39.439635+00:00
 -- url     : https://prove2.me/theorems/20abe5bf-074e-4d17-894b-53298a152fbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_upper_bounds
 -- name    : OppReturns.Menu.upper_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:42.339968+00:00
 -- url     : https://prove2.me/theorems/2f0f5fc5-b4b4-4663-ade5-a9a145e94431

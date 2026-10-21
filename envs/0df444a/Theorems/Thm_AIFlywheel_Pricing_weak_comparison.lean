@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AIFlywheel_Pricing_weak_comparison
 -- name    : AIFlywheel.Pricing.weak_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:56.050992+00:00
 -- url     : https://prove2.me/theorems/d3ac45df-710d-4301-b63a-bace37f5b7ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerimeterPatrol_Visible_optimalPatrol_feasible
 -- name    : PerimeterPatrol.Visible.optimalPatrol_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:49.740986+00:00
 -- url     : https://prove2.me/theorems/a3ce101a-a025-4828-ba30-47af8e904103

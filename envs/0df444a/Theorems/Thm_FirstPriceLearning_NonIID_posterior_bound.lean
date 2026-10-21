@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_NonIID_posterior_bound
 -- name    : FirstPriceLearning.NonIID.posterior_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:32:35.210778+00:00
 -- url     : https://prove2.me/theorems/dc03932a-f44c-4ae4-a962-2bac8e8d5096

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Local_eq22_derivatives
 -- name    : Multihoming.Local.eq22_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:31.133675+00:00
 -- url     : https://prove2.me/theorems/92425709-9a6d-4611-a815-877bce5cb7e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_HeavyBallODE_coeff_lt_seven_halves
 -- name    : HighResODE.HeavyBallODE.coeff_lt_seven_halves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:06.464255+00:00
 -- url     : https://prove2.me/theorems/8d9d2144-6118-4588-97af-cbf02a431f52

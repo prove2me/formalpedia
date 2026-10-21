@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyPriceInterp_MarketEq_a_expressions
 -- name    : CostlyPriceInterp.MarketEq.a_expressions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:36.784052+00:00
 -- url     : https://prove2.me/theorems/b3d1e9dc-f8a0-4677-9285-aec521f6cfd3

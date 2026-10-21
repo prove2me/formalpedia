@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_lemma3_min_eigenvalue_shrink
 -- name    : FeaturePricing.Ellipsoid.lemma3_min_eigenvalue_shrink
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:33:53.039079+00:00
 -- url     : https://prove2.me/theorems/141bb0c2-86e9-4e70-94ef-357cfed246b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothedSimplex_Shadow_measure_P
 -- name    : SmoothedSimplex.Shadow.measure_P
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:17:36.978185+00:00
 -- url     : https://prove2.me/theorems/655ff3db-d25c-463e-b0a7-0a84b3251437

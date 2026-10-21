@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiddenRebate_Fixed_contract_star_ic
 -- name    : HiddenRebate.Fixed.contract_star_ic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:10.890907+00:00
 -- url     : https://prove2.me/theorems/e9f88d9b-29e5-4fe3-a9b3-753f3c6f5df0

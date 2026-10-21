@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_NAGC_lemma_4_3
 -- name    : HighResODE.NAGC.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:05.026809+00:00
 -- url     : https://prove2.me/theorems/bf22e190-cc7f-4e4a-9e81-5ce10f49fc2d

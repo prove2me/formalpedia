@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqDiagnosis_BeliefRecon_theorem_1
 -- name    : SeqDiagnosis.BeliefRecon.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:23:03.182751+00:00
 -- url     : https://prove2.me/theorems/1fdb6bbc-4dfc-4da1-8435-f080207aec42

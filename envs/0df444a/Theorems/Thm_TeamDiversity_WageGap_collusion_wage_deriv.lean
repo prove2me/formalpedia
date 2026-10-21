@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDiversity_WageGap_collusion_wage_deriv
 -- name    : TeamDiversity.WageGap.collusion_wage_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:13.133402+00:00
 -- url     : https://prove2.me/theorems/9a0a5f81-bee8-4261-bb3d-ca94bd8a37d9

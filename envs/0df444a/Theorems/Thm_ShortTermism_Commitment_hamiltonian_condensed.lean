@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermism_Commitment_hamiltonian_condensed
 -- name    : ShortTermism.Commitment.hamiltonian_condensed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:46.573993+00:00
 -- url     : https://prove2.me/theorems/3255282c-8f97-453b-9bf5-2a382b7bc641

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_ColorCritical_card_highDeg_le
 -- name    : TuranMatching.ColorCritical.card_highDeg_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:33:34.381993+00:00
 -- url     : https://prove2.me/theorems/bb4cd4c0-7f3e-4b8e-9455-e36fe70a48d2

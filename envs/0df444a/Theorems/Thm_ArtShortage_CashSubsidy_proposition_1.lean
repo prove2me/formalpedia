@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtShortage_CashSubsidy_proposition_1
 -- name    : ArtShortage.CashSubsidy.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:43.811223+00:00
 -- url     : https://prove2.me/theorems/0952f673-da7a-460b-8d6f-a992d8d9557a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Submod_observation_3_3
 -- name    : OnlineCRS.Submod.observation_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:30.889674+00:00
 -- url     : https://prove2.me/theorems/d07cce7c-a2d4-48b9-adca-c70bd90cb9ad

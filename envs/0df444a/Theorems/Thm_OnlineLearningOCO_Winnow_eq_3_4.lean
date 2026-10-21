@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_Winnow_eq_3_4
 -- name    : OnlineLearningOCO.Winnow.eq_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:55.161696+00:00
 -- url     : https://prove2.me/theorems/cd4c3bfc-7223-4d18-a668-77500f5ea89e

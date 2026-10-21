@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalPF_Block_lemma_4_3
 -- name    : LocalPF.Block.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:30.914003+00:00
 -- url     : https://prove2.me/theorems/230427d9-529c-4eca-ab4d-f369f817ea1f

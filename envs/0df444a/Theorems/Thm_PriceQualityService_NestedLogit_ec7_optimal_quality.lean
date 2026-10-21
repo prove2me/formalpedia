@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_NestedLogit_ec7_optimal_quality
 -- name    : PriceQualityService.NestedLogit.ec7_optimal_quality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:29:03.33154+00:00
 -- url     : https://prove2.me/theorems/9cf14b85-d42d-4296-80a0-615b3b3da391

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPatrol_Star_symmetry
 -- name    : UniformPatrol.Star.symmetry
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:44.322718+00:00
 -- url     : https://prove2.me/theorems/b39a0ebc-4711-40fb-a166-60e941b49e6a

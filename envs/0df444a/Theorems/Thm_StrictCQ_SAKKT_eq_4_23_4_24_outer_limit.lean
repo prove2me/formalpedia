@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_SAKKT_eq_4_23_4_24_outer_limit
 -- name    : StrictCQ.SAKKT.eq_4_23_4_24_outer_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:33:30.570415+00:00
 -- url     : https://prove2.me/theorems/1e9d679b-70ab-49ac-a8c6-a3da05f95341

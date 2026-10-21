@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_truncated_matrix_of_packets
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.truncated_matrix_of_packets
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-12T19:59:29.652993+00:00
 -- url     : https://prove2.me/theorems/d0a8faa3-300d-4f2a-b488-ca09908098e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDiversity_WageGap_punishment_switch
 -- name    : TeamDiversity.WageGap.punishment_switch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:09.134318+00:00
 -- url     : https://prove2.me/theorems/b9b03885-9715-454d-8866-cfd00d298a19

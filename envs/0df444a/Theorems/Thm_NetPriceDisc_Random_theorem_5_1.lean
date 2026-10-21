@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetPriceDisc_Random_theorem_5_1
 -- name    : NetPriceDisc.Random.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:00.916261+00:00
 -- url     : https://prove2.me/theorems/f455a493-6cf6-4b1a-be0c-dc3c49aea1da

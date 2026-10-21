@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_ConvexHull_appendix_theorem
 -- name    : SherbrookeMetric.ConvexHull.appendix_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:30.257526+00:00
 -- url     : https://prove2.me/theorems/30844497-ae79-4ec7-a2ab-fe31a1dd2317

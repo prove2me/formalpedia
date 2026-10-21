@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_DemandFree_beta_quadratic_bound
 -- name    : VehicleSharePricing.DemandFree.beta_quadratic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:28.73024+00:00
 -- url     : https://prove2.me/theorems/c9cf9f3d-882d-42f6-8670-8c83b1800be3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_f_nonneg
 -- name    : RoboAdvising.Interaction.f_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:42.301929+00:00
 -- url     : https://prove2.me/theorems/2e381341-4f8c-44b0-9c3a-687f1e02a529

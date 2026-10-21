@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_NonlinEq_orthDir_norm_lower_bound
 -- name    : ShorNonsmooth.NonlinEq.orthDir_norm_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:23:14.320516+00:00
 -- url     : https://prove2.me/theorems/25edef21-36a0-4533-ba0f-af15136bd982

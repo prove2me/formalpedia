@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrepoLocal_Threshold_eq_5_local_spend_not_binding
 -- name    : PrepoLocal.Threshold.eq_5_local_spend_not_binding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:57.060604+00:00
 -- url     : https://prove2.me/theorems/265871f8-a1e3-4a33-baeb-26b5ac1dd938

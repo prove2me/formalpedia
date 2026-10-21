@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_determinant_budget_gap
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_determinant_budget_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:07:24.49524+00:00
 -- url     : https://prove2.me/theorems/21483e8e-daef-46c8-b153-9cd92f88be08

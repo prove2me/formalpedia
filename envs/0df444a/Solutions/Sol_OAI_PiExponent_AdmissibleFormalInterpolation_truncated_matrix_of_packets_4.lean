@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for OAI.PiExponent.AdmissibleFormalInterpolation.truncated_matrix_of_packets
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-16T19:36:13.23553+00:00
 -- url     : https://prove2.me/submissions/9ae47155-d47c-4251-bc88-74d0628870c5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_ApproximationDefinitions
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData

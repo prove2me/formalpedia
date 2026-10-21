@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_FiniteTranslation_period_determinant_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.FiniteTranslation.period_determinant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-18T12:25:05.031101+00:00
 -- url     : https://prove2.me/theorems/5e483ac8-7603-4f3c-8061-033d300d33bd

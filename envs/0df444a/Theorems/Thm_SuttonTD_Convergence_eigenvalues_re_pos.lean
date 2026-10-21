@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonTD_Convergence_eigenvalues_re_pos
 -- name    : SuttonTD.Convergence.eigenvalues_re_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:23:52.386181+00:00
 -- url     : https://prove2.me/theorems/223b05ea-e3f0-4426-8909-67788d1d7678

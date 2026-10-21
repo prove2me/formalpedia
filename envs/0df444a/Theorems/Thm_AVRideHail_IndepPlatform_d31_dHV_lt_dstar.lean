@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_IndepPlatform_d31_dHV_lt_dstar
 -- name    : AVRideHail.IndepPlatform.d31_dHV_lt_dstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:41.479667+00:00
 -- url     : https://prove2.me/theorems/c4624019-4f99-4403-9ce8-0100962b85db

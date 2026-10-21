@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Joint_eq_17
 -- name    : PriceQualityService.Joint.eq_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:34.34993+00:00
 -- url     : https://prove2.me/theorems/607d816f-86db-4fa4-b949-af41c637274f

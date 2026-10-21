@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Finsler_eq_4_7
 -- name    : QuadMatIneq.Finsler.eq_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:12:49.862023+00:00
 -- url     : https://prove2.me/theorems/4466c755-9e83-4275-b68a-e41b1f9d9372

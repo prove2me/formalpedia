@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_diagonal_convexity
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.diagonal_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:29:21.444302+00:00
 -- url     : https://prove2.me/theorems/02d94195-4ea9-44f6-94ff-4c7ead371e44

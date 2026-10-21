@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_RedBasis_norm_sq_ge_gs_of_last
 -- name    : LLLFactor.RedBasis.norm_sq_ge_gs_of_last
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:19:34.303948+00:00
 -- url     : https://prove2.me/theorems/bdbda481-37be-4fc5-b1b3-2acadf7ae25f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_ColorCritical_final_count
 -- name    : TuranMatching.ColorCritical.final_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:33:48.585058+00:00
 -- url     : https://prove2.me/theorems/53643077-f7ef-4881-aca7-61e9d878a856

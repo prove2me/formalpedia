@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailVariety_Statics_eq_14
 -- name    : RetailVariety.Statics.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:40.105219+00:00
 -- url     : https://prove2.me/theorems/fa46f089-a6b8-404a-90fe-7a07c7c4355a

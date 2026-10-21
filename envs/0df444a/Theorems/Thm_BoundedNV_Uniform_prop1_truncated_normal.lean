@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Uniform_prop1_truncated_normal
 -- name    : BoundedNV.Uniform.prop1_truncated_normal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:33.554633+00:00
 -- url     : https://prove2.me/theorems/160018a3-7503-4da8-9fe5-155dd69fb19b

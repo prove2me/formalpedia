@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_sheared_linear_part
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_sheared_linear_part
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:29:15.954986+00:00
 -- url     : https://prove2.me/theorems/99364149-74cc-4e89-a613-b35f1e2c0790

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_DemandFree_beta_increment_le
 -- name    : VehicleSharePricing.DemandFree.beta_increment_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:41.174297+00:00
 -- url     : https://prove2.me/theorems/3899a250-1308-413b-834d-34fa0d23d603

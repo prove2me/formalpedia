@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_norm_summand_le
 -- name    : OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.norm_summand_le
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:58:16.40609+00:00
 -- url     : https://prove2.me/theorems/e3f06b16-67d6-4c8f-9ce5-52095cb34630

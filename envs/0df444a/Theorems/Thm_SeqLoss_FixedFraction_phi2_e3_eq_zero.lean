@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_FixedFraction_phi2_e3_eq_zero
 -- name    : SeqLoss.FixedFraction.phi2_e3_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:04.566075+00:00
 -- url     : https://prove2.me/theorems/7ef27af7-9534-4871-b5ec-0d65d299c365

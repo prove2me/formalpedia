@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovejoyPOMDP_Monotone_mlr_implies_stoch
 -- name    : LovejoyPOMDP.Monotone.mlr_implies_stoch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:39:20.39534+00:00
 -- url     : https://prove2.me/theorems/39535bcd-7faf-47cc-bf3e-68d8e2042ce4

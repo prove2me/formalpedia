@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimUpper_ec15_chain
 -- name    : HiringLP.SimUpper.ec15_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:31.89425+00:00
 -- url     : https://prove2.me/theorems/6cf32fe5-a630-467f-b654-1abb757de2eb

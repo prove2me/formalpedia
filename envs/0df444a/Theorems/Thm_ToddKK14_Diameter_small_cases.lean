@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToddKK14_Diameter_small_cases
 -- name    : ToddKK14.Diameter.small_cases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:45:37.184924+00:00
 -- url     : https://prove2.me/theorems/e9f77b34-42df-4419-9442-030f48c92bfb

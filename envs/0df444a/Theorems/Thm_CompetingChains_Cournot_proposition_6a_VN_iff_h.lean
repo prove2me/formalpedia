@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingChains_Cournot_proposition_6a_VN_iff_h
 -- name    : CompetingChains.Cournot.proposition_6a_VN_iff_h
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:27:42.149806+00:00
 -- url     : https://prove2.me/theorems/f8807976-c592-481d-af04-14decc6fd035

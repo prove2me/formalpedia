@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_accurate_log_lower
 -- name    : PrivSeqLearn.QueryComplexity.accurate_log_lower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:31.375108+00:00
 -- url     : https://prove2.me/theorems/0aa326f6-d042-486d-9c23-85a56e930db3

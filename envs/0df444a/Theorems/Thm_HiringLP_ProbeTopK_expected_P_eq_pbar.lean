@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_ProbeTopK_expected_P_eq_pbar
 -- name    : HiringLP.ProbeTopK.expected_P_eq_pbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:19.666083+00:00
 -- url     : https://prove2.me/theorems/58aaf31c-af65-402c-896d-eed067d81422

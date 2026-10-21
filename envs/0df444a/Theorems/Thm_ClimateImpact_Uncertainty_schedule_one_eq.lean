@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Uncertainty_schedule_one_eq
 -- name    : ClimateImpact.Uncertainty.schedule_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:43.746663+00:00
 -- url     : https://prove2.me/theorems/e04cdeba-abfb-4625-87d7-eec971263527

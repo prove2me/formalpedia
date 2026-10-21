@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Uniform_corollary1_ii_threshold_cost
 -- name    : InfoBargaining.Uniform.corollary1_ii_threshold_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:47.52328+00:00
 -- url     : https://prove2.me/theorems/fbf0f26c-989f-4fee-80a5-7e5d7d35fd9c

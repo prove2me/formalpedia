@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKnapSL_CapacityGap_gamma_achievable
 -- name    : StochKnapSL.CapacityGap.gamma_achievable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:21.260259+00:00
 -- url     : https://prove2.me/theorems/a6346b33-63c1-4fb7-9112-feea8994cb05

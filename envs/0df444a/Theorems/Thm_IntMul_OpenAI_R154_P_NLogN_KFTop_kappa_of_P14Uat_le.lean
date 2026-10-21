@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFTop_kappa_of_P14Uat_le
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFTop.kappa_of_P14Uat_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:18:53.531876+00:00
 -- url     : https://prove2.me/theorems/6ea6eb8c-3def-47c8-89e2-9414fa0588f5

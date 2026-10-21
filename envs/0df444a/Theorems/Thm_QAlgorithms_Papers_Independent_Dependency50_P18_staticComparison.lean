@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_staticComparison
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.staticComparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:07:32.46778+00:00
 -- url     : https://prove2.me/theorems/44656997-f69e-4c5c-864b-25eaf09e7dfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AmbDiversify_Smooth_proposition_1
 -- name    : AmbDiversify.Smooth.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:08.807098+00:00
 -- url     : https://prove2.me/theorems/1cb289a0-dc06-4114-bcd9-3a53894845d2

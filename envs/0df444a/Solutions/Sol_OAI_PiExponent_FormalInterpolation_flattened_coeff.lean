@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.flattened_coeff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T06:32:22.221637+00:00
 -- url     : https://prove2.me/submissions/e6153cf7-81fd-4970-9f2b-a6d0f7b0e9f0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_flattened_coeff_finsupp

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedSearch_Approx_lemma_4_10
 -- name    : DirectedSearch.Approx.lemma_4_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:05:04.956073+00:00
 -- url     : https://prove2.me/theorems/08bd2efe-8b42-4e12-9743-847ddc3a7020

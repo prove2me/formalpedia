@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Surplus_optimal_profit_order
 -- name    : PriceQualityService.Surplus.optimal_profit_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:18:54.732767+00:00
 -- url     : https://prove2.me/theorems/b1057b6b-bae6-41fa-b858-23d7c00e35c6

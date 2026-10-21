@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_MMS_sum_1_to_3
 -- name    : LittleCharity.MMS.sum_1_to_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:23.95047+00:00
 -- url     : https://prove2.me/theorems/007e5193-9b2f-443c-90df-cc6b4786159f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_eq_61_63
 -- name    : OTCChain.Equilibrium.eq_61_63
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:46.417729+00:00
 -- url     : https://prove2.me/theorems/e59dc2bc-7fb7-465f-a72a-c02b6338af34

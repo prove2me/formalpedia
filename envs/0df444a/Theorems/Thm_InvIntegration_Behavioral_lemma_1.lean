@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_lemma_1
 -- name    : InvIntegration.Behavioral.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:19.270981+00:00
 -- url     : https://prove2.me/theorems/c4e74a09-ed7c-4b99-9a72-06147f4d1960

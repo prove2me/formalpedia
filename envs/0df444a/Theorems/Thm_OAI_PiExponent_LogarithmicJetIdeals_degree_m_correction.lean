@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_degree_m_correction
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.degree_m_correction
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:30:20.241027+00:00
 -- url     : https://prove2.me/theorems/34062fc8-28a1-4322-8eb5-9f9c3ee7ad5b

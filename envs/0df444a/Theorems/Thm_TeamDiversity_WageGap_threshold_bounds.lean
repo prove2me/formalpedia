@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDiversity_WageGap_threshold_bounds
 -- name    : TeamDiversity.WageGap.threshold_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:13.792667+00:00
 -- url     : https://prove2.me/theorems/c592bf4b-8d5e-4430-a609-500bde45046d

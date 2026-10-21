@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsHalving_Additive_eq_1_iff
 -- name    : ConsHalving.Additive.eq_1_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:46.380608+00:00
 -- url     : https://prove2.me/theorems/2087dbd3-d88e-4c8b-b8c3-56953a71a8ab

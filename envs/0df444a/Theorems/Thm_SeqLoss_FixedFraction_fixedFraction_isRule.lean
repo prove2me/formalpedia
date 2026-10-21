@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_FixedFraction_fixedFraction_isRule
 -- name    : SeqLoss.FixedFraction.fixedFraction_isRule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:15.667033+00:00
 -- url     : https://prove2.me/theorems/849a66e3-df89-4400-b557-3ca4512cce19

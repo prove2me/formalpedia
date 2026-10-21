@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StartupExit_ExitChoice_proposition_1_cost_thresholds
 -- name    : StartupExit.ExitChoice.proposition_1_cost_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:43.255024+00:00
 -- url     : https://prove2.me/theorems/2fde1ba0-f6d4-498f-aa31-239cd7901e22

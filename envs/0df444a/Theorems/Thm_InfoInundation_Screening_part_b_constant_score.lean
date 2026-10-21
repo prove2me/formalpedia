@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoInundation_Screening_part_b_constant_score
 -- name    : InfoInundation.Screening.part_b_constant_score
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:49.211189+00:00
 -- url     : https://prove2.me/theorems/89d74515-2d10-49a5-b9b2-df5f0f03b787

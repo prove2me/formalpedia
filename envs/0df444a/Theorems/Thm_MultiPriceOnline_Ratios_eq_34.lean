@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ratios_eq_34
 -- name    : MultiPriceOnline.Ratios.eq_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:45:00.470305+00:00
 -- url     : https://prove2.me/theorems/a7e2a004-266d-466e-b8d2-2a08008ae461

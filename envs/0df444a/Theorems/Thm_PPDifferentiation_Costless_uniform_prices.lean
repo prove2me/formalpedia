@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PPDifferentiation_Costless_uniform_prices
 -- name    : PPDifferentiation.Costless.uniform_prices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:26:09.022351+00:00
 -- url     : https://prove2.me/theorems/3ce7db40-1116-447c-a192-e50c93c63833

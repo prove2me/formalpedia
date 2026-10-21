@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_union_event_stochastic
 -- name    : BestBothWorlds.SAO.union_event_stochastic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:25.742808+00:00
 -- url     : https://prove2.me/theorems/a12151c4-0274-4b50-a2bb-b77f62348123

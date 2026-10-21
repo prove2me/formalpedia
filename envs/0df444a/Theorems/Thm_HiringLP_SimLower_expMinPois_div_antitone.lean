@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimLower_expMinPois_div_antitone
 -- name    : HiringLP.SimLower.expMinPois_div_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:45.538134+00:00
 -- url     : https://prove2.me/theorems/94fab932-5e1f-4ed5-a11a-1ebafc93989b

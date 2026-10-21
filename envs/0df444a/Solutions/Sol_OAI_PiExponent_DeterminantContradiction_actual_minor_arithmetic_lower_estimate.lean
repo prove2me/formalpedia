@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.actual_minor_arithmetic_lower_estimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:16:33.888215+00:00
 -- url     : https://prove2.me/submissions/f63a3b56-5965-4825-a913-ef304bc138f3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData
 import Theorems.Thm_OAI_PiExponent_MatrixArithmetic_selectedMinor_arithmetic_lower_bound_v2

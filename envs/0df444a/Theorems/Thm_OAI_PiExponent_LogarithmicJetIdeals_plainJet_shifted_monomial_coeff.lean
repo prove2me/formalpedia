@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_plainJet_shifted_monomial_coeff
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.plainJet_shifted_monomial_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T21:40:52.748985+00:00
 -- url     : https://prove2.me/theorems/b0f0fc47-64a3-4947-aa37-fc1de658b7d2

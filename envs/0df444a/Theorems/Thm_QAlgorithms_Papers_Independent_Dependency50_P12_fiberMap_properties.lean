@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_fiberMap_properties
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.fiberMap_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:53:08.993419+00:00
 -- url     : https://prove2.me/theorems/2cbf4086-4b38-47bb-b9f6-6838444f6653

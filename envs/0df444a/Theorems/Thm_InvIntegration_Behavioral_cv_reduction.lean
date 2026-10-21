@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_cv_reduction
 -- name    : InvIntegration.Behavioral.cv_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:23.504767+00:00
 -- url     : https://prove2.me/theorems/0041b3b3-d789-42a5-b986-dac6f0013b90

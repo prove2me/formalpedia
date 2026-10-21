@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Accuracy_proposition_1
 -- name    : HumanMachine.Accuracy.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:25:04.758441+00:00
 -- url     : https://prove2.me/theorems/ebf965c1-5e37-4145-874b-5440f9a86d1b

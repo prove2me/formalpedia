@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExAnteExPost_RPS_implements_rps_succ
 -- name    : ExAnteExPost.RPS.implements_rps_succ
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:40.789858+00:00
 -- url     : https://prove2.me/theorems/b1eb4f84-67b2-429b-97d1-5797f964aa4b

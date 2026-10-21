@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_reconstruct_admissible
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.reconstruct_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:54:53.628273+00:00
 -- url     : https://prove2.me/theorems/30a39d89-5e35-4340-a627-ec1d7550a6b8

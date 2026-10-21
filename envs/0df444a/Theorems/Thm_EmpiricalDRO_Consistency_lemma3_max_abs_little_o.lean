@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalDRO_Consistency_lemma3_max_abs_little_o
 -- name    : EmpiricalDRO.Consistency.lemma3_max_abs_little_o
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:06:28.430295+00:00
 -- url     : https://prove2.me/theorems/ade871d4-89fe-4c06-b491-c7ba5a6b11fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_sao_adversarial_regret
 -- name    : BestBothWorlds.SAO.sao_adversarial_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:47:29.965301+00:00
 -- url     : https://prove2.me/theorems/db3f8421-1d49-4961-b999-1eaa76901c19

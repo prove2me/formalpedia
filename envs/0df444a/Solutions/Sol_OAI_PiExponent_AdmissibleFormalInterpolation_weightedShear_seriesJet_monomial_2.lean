@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.AdmissibleFormalInterpolation.weightedShear_seriesJet_monomial
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T22:21:32.986467+00:00
 -- url     : https://prove2.me/submissions/d43d79c1-714b-4612-9a88-faf069af9ab3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_WeightedJetShear
 import Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_seriesShear_monomial_coeff_eq_zero_of_weight_lt

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.finite_box_series_jet_interpolation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:35:05.223059+00:00
 -- url     : https://prove2.me/submissions/771a31ed-f0c3-47d5-832c-2d843033b5b4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation
 import Mathlib.RingTheory.Ideal.Operations

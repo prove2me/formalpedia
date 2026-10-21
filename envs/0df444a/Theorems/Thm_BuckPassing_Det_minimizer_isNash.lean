@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuckPassing_Det_minimizer_isNash
 -- name    : BuckPassing.Det.minimizer_isNash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:10.475629+00:00
 -- url     : https://prove2.me/theorems/447b4abd-eeeb-4230-b1f3-e3a230f94a03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Char_log_law
 -- name    : LariviereIGFR.Char.log_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:32.304365+00:00
 -- url     : https://prove2.me/theorems/a3787325-365f-43e6-b5d8-31c21129c36b

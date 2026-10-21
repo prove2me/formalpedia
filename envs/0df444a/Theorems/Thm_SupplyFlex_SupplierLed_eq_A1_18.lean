@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyFlex_SupplierLed_eq_A1_18
 -- name    : SupplyFlex.SupplierLed.eq_A1_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:51:54.229036+00:00
 -- url     : https://prove2.me/theorems/822f06fb-e91f-43d5-b824-611b9ffc7280

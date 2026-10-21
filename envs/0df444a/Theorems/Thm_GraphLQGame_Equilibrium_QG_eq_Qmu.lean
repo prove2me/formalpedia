@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphLQGame_Equilibrium_QG_eq_Qmu
 -- name    : GraphLQGame.Equilibrium.QG_eq_Qmu
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:26:41.828607+00:00
 -- url     : https://prove2.me/theorems/86772066-7f34-4084-bbce-8d167db658ec

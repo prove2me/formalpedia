@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_Competition_gChar_characterization
 -- name    : NetFeePlatform.Competition.gChar_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:47.803125+00:00
 -- url     : https://prove2.me/theorems/01af9e1e-f7a1-4c41-b582-001608842c58

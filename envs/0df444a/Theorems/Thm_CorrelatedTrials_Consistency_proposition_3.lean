@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedTrials_Consistency_proposition_3
 -- name    : CorrelatedTrials.Consistency.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:15.016262+00:00
 -- url     : https://prove2.me/theorems/e950da59-1873-452e-afb2-0d3911bccb82

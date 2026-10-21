@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Hyperplanes_corollary_5_3
 -- name    : HScattered.Hyperplanes.corollary_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:01.342011+00:00
 -- url     : https://prove2.me/theorems/60d16e0e-e682-43aa-90b2-415d4f546134

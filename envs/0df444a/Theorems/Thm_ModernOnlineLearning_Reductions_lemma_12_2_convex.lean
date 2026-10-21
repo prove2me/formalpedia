@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Reductions_lemma_12_2_convex
 -- name    : ModernOnlineLearning.Reductions.lemma_12_2_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:46.069989+00:00
 -- url     : https://prove2.me/theorems/91cc7c09-de1a-4d4e-a854-d909b7fbdd59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_ConvexHull_marginal_exists
 -- name    : SherbrookeMetric.ConvexHull.marginal_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:03.130976+00:00
 -- url     : https://prove2.me/theorems/f35c11c3-423b-417f-b5ad-f018041e6c3d

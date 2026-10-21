@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_MICP_proof_5_7_persp_simplify
 -- name    : ShortestGCS.MICP.proof_5_7_persp_simplify
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:11:48.423608+00:00
 -- url     : https://prove2.me/theorems/422036a6-eae7-40e3-9c79-c4fd6c7621d0

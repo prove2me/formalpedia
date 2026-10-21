@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PBElicit_RandThresh_eq_8
 -- name    : PBElicit.RandThresh.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:40.564468+00:00
 -- url     : https://prove2.me/theorems/6e8de900-2810-4209-81d1-3bea31fec848

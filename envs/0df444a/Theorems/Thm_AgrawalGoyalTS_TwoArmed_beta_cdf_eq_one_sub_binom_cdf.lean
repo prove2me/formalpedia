@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgrawalGoyalTS_TwoArmed_beta_cdf_eq_one_sub_binom_cdf
 -- name    : AgrawalGoyalTS.TwoArmed.beta_cdf_eq_one_sub_binom_cdf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:06:51.087854+00:00
 -- url     : https://prove2.me/theorems/ef07c99e-5f6c-4847-9f63-09c1dd2bfb90

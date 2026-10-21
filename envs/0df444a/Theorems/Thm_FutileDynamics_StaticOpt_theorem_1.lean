@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FutileDynamics_StaticOpt_theorem_1
 -- name    : FutileDynamics.StaticOpt.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:48.243982+00:00
 -- url     : https://prove2.me/theorems/3ebe791b-b0b5-4abf-afc2-d68f7dfff492

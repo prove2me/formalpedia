@@ -13,7 +13,7 @@
 --
 --   The same constant must work for every degree and root list, with repeated roots counted with multiplicity. No proof is claimed.
 --
---   **Source convention.** The [original announcement](https://althofer.de/prize-money-2.jpg) uses $L<C$. For existence of an unspecified uniform constant, that formulation is equivalent: a non-strict bound $C$ gives a strict bound $C+1$. This argument does not equate $L\le4$ with $L<4$.
+--   **Source convention.** Althöfer's [original announcement](https://althofer.de/prize-money-2.jpg) asks for total path length at most $C$, with one constant independent of degree. The non-strict inequality $L\le C$ in this formal statement follows that convention. The separate four-bound target asks whether $C=4$ suffices.
 -- source:
 --   Ingo Althöfer, 15 August 2026 announcement, open question and prize (i)/(ii): https://althofer.de/prize-money-2.jpg . Exact formulation and strict/non-strict convention: Derivative-zero chains: public formalization reference, R08, DerivativeChainPrivate.universalConstantBound. https://gist.github.com/Amal-David/d6612109c98595b12561cd638c60edf5/3883c57ddc7bf9d4c0e898c3d6bfd2ca0d7f9c95#file-notes-md
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_pull_count_bound
 -- name    : BestBothWorlds.SAO.pull_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:12.671843+00:00
 -- url     : https://prove2.me/theorems/925e7ff2-ad04-48ff-b1e1-22f78022c732

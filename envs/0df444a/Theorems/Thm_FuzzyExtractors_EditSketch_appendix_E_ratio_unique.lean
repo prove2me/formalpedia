@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_EditSketch_appendix_E_ratio_unique
 -- name    : FuzzyExtractors.EditSketch.appendix_E_ratio_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:16:09.655491+00:00
 -- url     : https://prove2.me/theorems/1d59198f-4c79-4ac8-836d-1a36492b41a6

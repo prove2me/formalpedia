@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_fixedMarginalComparison
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.fixedMarginalComparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:06:09.56153+00:00
 -- url     : https://prove2.me/theorems/8fa4dd35-3226-4595-8838-a1687352e380

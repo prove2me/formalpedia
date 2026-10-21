@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_mvPowerSeries_substitution_monomial_coeff_eq_zero_of_weight_lt
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.mvPowerSeries_substitution_monomial_coeff_eq_zero_of_weight_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-18T02:19:14.135321+00:00
 -- url     : https://prove2.me/theorems/9af9edc3-4dd6-46fa-920c-d21ee3c48382

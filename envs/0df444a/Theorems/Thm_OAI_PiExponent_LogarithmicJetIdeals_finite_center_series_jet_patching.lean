@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_center_series_jet_patching
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_center_series_jet_patching
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:31:52.988477+00:00
 -- url     : https://prove2.me/theorems/7f6eb1a0-5403-4bf3-95fd-c41b88a6ae9c

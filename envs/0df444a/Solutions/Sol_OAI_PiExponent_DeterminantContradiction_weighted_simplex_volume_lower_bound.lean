@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.weighted_simplex_volume_lower_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:53:54.385471+00:00
 -- url     : https://prove2.me/submissions/e36b5125-be4d-40ad-9d75-57959404b563
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData
 import Definitions.Def_OAI_NumberTheory_PiExponent_WeightedSimplexRegion

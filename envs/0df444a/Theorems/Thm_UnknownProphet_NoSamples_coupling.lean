@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnknownProphet_NoSamples_coupling
 -- name    : UnknownProphet.NoSamples.coupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:49.97895+00:00
 -- url     : https://prove2.me/theorems/5cf9a797-d0e5-4520-9134-f0c5b6e422ef

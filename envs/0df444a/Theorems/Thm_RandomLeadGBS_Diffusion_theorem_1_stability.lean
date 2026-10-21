@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomLeadGBS_Diffusion_theorem_1_stability
 -- name    : RandomLeadGBS.Diffusion.theorem_1_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:09.208031+00:00
 -- url     : https://prove2.me/theorems/8724fb05-efa0-472d-87b2-cca277f5e656

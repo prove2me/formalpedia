@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_HellingerChain_hellingerSq_convex_right
 -- name    : StatComplexityDM.HellingerChain.hellingerSq_convex_right
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:21:20.501621+00:00
 -- url     : https://prove2.me/theorems/49cc6a88-3cdd-4b35-bd7d-1186fc1fa7eb

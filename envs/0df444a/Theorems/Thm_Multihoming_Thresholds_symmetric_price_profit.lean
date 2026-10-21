@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Thresholds_symmetric_price_profit
 -- name    : Multihoming.Thresholds.symmetric_price_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:45.427615+00:00
 -- url     : https://prove2.me/theorems/2eeaefd6-dff5-4492-a522-0ac82f3f9cb9

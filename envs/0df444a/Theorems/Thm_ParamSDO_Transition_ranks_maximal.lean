@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_ranks_maximal
 -- name    : ParamSDO.Transition.ranks_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:09.759415+00:00
 -- url     : https://prove2.me/theorems/b8a82c13-9a71-4825-b53c-4c88f0aa6015

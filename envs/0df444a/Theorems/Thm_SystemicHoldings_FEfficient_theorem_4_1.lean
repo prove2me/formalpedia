@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemicHoldings_FEfficient_theorem_4_1
 -- name    : SystemicHoldings.FEfficient.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:30.405429+00:00
 -- url     : https://prove2.me/theorems/c28c3357-0a83-4695-9567-9ddd160b7b08

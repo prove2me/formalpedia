@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContractUnobs_Compare_equation_2
 -- name    : ContractUnobs.Compare.equation_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:52.935431+00:00
 -- url     : https://prove2.me/theorems/70b471b7-f876-4c6c-bad4-94cbcb120835

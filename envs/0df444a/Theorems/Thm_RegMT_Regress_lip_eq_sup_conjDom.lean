@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMT_Regress_lip_eq_sup_conjDom
 -- name    : RegMT.Regress.lip_eq_sup_conjDom
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:10:36.226992+00:00
 -- url     : https://prove2.me/theorems/5a71c83c-862e-4a13-8200-3a6334fcf29b

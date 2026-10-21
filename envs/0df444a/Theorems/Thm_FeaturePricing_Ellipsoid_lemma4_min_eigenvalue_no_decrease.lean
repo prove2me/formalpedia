@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_lemma4_min_eigenvalue_no_decrease
 -- name    : FeaturePricing.Ellipsoid.lemma4_min_eigenvalue_no_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:33:15.400972+00:00
 -- url     : https://prove2.me/theorems/ff60b74b-e4cf-4c5e-bf30-86ad92a43c36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Local_footnote15_profit_derivative
 -- name    : Multihoming.Local.footnote15_profit_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:25.940984+00:00
 -- url     : https://prove2.me/theorems/4d66b7a7-9d92-45df-8570-69b85b99b1a2

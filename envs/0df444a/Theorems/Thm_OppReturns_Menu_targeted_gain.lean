@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_targeted_gain
 -- name    : OppReturns.Menu.targeted_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:44.13628+00:00
 -- url     : https://prove2.me/theorems/8b90d65c-83bc-4ba5-b527-b663fc5d7763

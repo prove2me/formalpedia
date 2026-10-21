@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqDiagnosis_BeliefRecon_etm_list_prod
 -- name    : SeqDiagnosis.BeliefRecon.etm_list_prod
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:59.950564+00:00
 -- url     : https://prove2.me/theorems/3190ac4a-4360-496b-aa39-6b0a2f998bc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteutelVanHarn_SelfDec_lemma_1_1
 -- name    : SteutelVanHarn.SelfDec.lemma_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:49:25.732195+00:00
 -- url     : https://prove2.me/theorems/a5737408-db5d-4a7a-8248-113a9f78b4cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassKF_Reform_inner_minimization_over_G
 -- name    : WassKF.Reform.inner_minimization_over_G
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:09:06.182343+00:00
 -- url     : https://prove2.me/theorems/682c7c48-46e7-4448-90f5-9f8abfd400e7

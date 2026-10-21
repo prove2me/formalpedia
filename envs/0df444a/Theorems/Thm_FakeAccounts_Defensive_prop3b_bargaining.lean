@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Defensive_prop3b_bargaining
 -- name    : FakeAccounts.Defensive.prop3b_bargaining
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:00.895412+00:00
 -- url     : https://prove2.me/theorems/6dbda7b5-5de5-43a8-8af2-293edab89e56

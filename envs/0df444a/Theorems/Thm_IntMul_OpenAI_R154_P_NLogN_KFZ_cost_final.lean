@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFZ_cost_final
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFZ.cost_final
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:21:40.355386+00:00
 -- url     : https://prove2.me/theorems/e0a7cc3d-0c4f-43d1-8eb3-5dee3f589cf0

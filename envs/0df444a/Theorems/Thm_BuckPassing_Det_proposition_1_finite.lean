@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuckPassing_Det_proposition_1_finite
 -- name    : BuckPassing.Det.proposition_1_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:17.290281+00:00
 -- url     : https://prove2.me/theorems/64f7bd3d-db1f-4518-8c45-639b037bbdac

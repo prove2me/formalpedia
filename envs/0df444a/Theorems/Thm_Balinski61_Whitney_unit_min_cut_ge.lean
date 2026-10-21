@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Balinski61_Whitney_unit_min_cut_ge
 -- name    : Balinski61.Whitney.unit_min_cut_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:05:43.78799+00:00
 -- url     : https://prove2.me/theorems/17d848df-1e19-4ef2-b9dc-203d5f54a4e8

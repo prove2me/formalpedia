@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallNoCall_OneDir_rate_comparison
 -- name    : CallNoCall.OneDir.rate_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:05.739806+00:00
 -- url     : https://prove2.me/theorems/cc37141d-f177-4402-b9fc-929aa5ed9e84

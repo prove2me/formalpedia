@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.formalJet_coefficients_interpolating_polynomials
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:28:42.44744+00:00
 -- url     : https://prove2.me/submissions/ae93f882-d5ab-4293-a747-602a2e6f436a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals
 import Mathlib.LinearAlgebra.LinearIndependent.Basic

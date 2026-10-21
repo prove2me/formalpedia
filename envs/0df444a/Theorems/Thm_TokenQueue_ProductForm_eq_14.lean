@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenQueue_ProductForm_eq_14
 -- name    : TokenQueue.ProductForm.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:57.48982+00:00
 -- url     : https://prove2.me/theorems/bc94a146-a6c7-4adc-ac6a-5779aad37f4a

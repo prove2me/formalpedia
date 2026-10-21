@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKnapSL_CapacityGap_theorem_4
 -- name    : StochKnapSL.CapacityGap.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:18.86948+00:00
 -- url     : https://prove2.me/theorems/ef73ce03-813e-4ffd-9346-5483ce8e40eb

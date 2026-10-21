@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROCalibration_Sensitivity_eq_F_4
 -- name    : DROCalibration.Sensitivity.eq_F_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:19.007976+00:00
 -- url     : https://prove2.me/theorems/e961f182-2cd2-4af9-b11b-c062c7b0c4df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqSubmod_Discrete_theorem_3
 -- name    : SeqSubmod.Discrete.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:56.574886+00:00
 -- url     : https://prove2.me/theorems/c668e6ee-5942-4509-a84b-d1b49026ef63

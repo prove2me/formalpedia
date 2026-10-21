@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailerMarketplace_Entry_eq_A2_vStar
 -- name    : RetailerMarketplace.Entry.eq_A2_vStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:49.431181+00:00
 -- url     : https://prove2.me/theorems/1c6ea64f-2aac-4006-9218-faa44a11d21c

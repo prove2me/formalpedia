@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_eq_20
 -- name    : PrivSeqLearn.QueryComplexity.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:49.235078+00:00
 -- url     : https://prove2.me/theorems/7c5c190c-5c8f-4292-8179-80ea5f1aaeab

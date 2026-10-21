@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_weighted_global_fubini_of_prod_integrable
 -- name    : AvramDividend.Classical.scaleFunction_generator_weighted_global_fubini_of_prod_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:36:00.469476+00:00
 -- url     : https://prove2.me/theorems/1b6472d7-8a24-4d8b-b7cd-e1046bc78f91

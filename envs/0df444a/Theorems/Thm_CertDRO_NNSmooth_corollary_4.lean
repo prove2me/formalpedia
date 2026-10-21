@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_NNSmooth_corollary_4
 -- name    : CertDRO.NNSmooth.corollary_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:34:10.777991+00:00
 -- url     : https://prove2.me/theorems/1e208f1a-ac41-4535-8eb6-79895ed4e23c

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.formalJet_coefficient_functionals_independent
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:06:38.940706+00:00
 -- url     : https://prove2.me/submissions/807c2454-32ad-4ea3-a7dc-1f68b4d33978
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_coefficients_interpolating_polynomials

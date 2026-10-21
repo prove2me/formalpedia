@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalDRO_Discrete_proposition1_discrete_reduction
 -- name    : EmpiricalDRO.Discrete.proposition1_discrete_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:06:22.653266+00:00
 -- url     : https://prove2.me/theorems/5f19ba76-3786-4c89-8e35-f2b3fbd78b73

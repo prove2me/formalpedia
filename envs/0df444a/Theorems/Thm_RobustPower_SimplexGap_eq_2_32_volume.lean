@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_SimplexGap_eq_2_32_volume
 -- name    : RobustPower.SimplexGap.eq_2_32_volume
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:29:19.989662+00:00
 -- url     : https://prove2.me/theorems/da9d4d38-f3a3-4e6b-a7a1-7caceca2af2b

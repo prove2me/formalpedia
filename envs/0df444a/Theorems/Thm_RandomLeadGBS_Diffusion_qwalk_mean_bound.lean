@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomLeadGBS_Diffusion_qwalk_mean_bound
 -- name    : RandomLeadGBS.Diffusion.qwalk_mean_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:08.386992+00:00
 -- url     : https://prove2.me/theorems/2fcbf2b8-a915-45e3-93a7-ce351ea3c1c8

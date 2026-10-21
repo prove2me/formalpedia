@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_IndepPlatform_proposition4_ipm_price_higher
 -- name    : AVRideHail.IndepPlatform.proposition4_ipm_price_higher
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:33.958822+00:00
 -- url     : https://prove2.me/theorems/da3323a6-735b-45e6-bf0b-232e2b06495f

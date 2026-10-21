@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_IndepPlatform_alphaBound_strictAntiOn
 -- name    : AVRideHail.IndepPlatform.alphaBound_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:04.255809+00:00
 -- url     : https://prove2.me/theorems/e3167aba-fdd7-4e8d-9d73-ea0ce63071ce

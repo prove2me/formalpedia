@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DavidonVM_Termination_eigen_one_persists
 -- name    : DavidonVM.Termination.eigen_one_persists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:42:39.557996+00:00
 -- url     : https://prove2.me/theorems/45c41f40-d1a3-42a1-85de-e7819210cda0

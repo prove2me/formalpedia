@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_liftLogSeries_log_coeff_finite_sum
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.liftLogSeries_log_coeff_finite_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:07:46.691619+00:00
 -- url     : https://prove2.me/theorems/7844c2a5-cd4d-420c-80b5-4e6a3f71daa0

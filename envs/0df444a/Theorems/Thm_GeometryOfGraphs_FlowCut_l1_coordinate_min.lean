@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_FlowCut_l1_coordinate_min
 -- name    : GeometryOfGraphs.FlowCut.l1_coordinate_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:43:11.087074+00:00
 -- url     : https://prove2.me/theorems/2a10f266-d31c-4bdd-9449-3d7c7238d151

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndToEndRisk_SquaredLoss_remark_5
 -- name    : EndToEndRisk.SquaredLoss.remark_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:29.934795+00:00
 -- url     : https://prove2.me/theorems/0b3122ba-dd9b-4f33-b8f2-bbbb3ce7c2a0

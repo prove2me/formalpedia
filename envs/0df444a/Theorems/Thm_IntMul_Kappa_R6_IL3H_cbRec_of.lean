@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_cbRec_of
 -- name    : IntMul.Kappa.R6.IL3H.cbRec_of
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:06.756475+00:00
 -- url     : https://prove2.me/theorems/99570f94-8600-4dfa-9f9d-d983e7758584

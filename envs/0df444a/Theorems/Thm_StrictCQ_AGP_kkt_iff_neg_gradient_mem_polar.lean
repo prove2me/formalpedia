@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_AGP_kkt_iff_neg_gradient_mem_polar
 -- name    : StrictCQ.AGP.kkt_iff_neg_gradient_mem_polar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:41:12.872996+00:00
 -- url     : https://prove2.me/theorems/34af78e9-b37d-417f-8996-ed94ee42298d

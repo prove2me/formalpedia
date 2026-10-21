@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_MonopolyCapacity_lemma4_profit_decreasing
 -- name    : AVRideHail.MonopolyCapacity.lemma4_profit_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:24.107996+00:00
 -- url     : https://prove2.me/theorems/135ff197-c64a-4e39-9a34-7fc6cb33d84e

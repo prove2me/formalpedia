@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_MICP_lemma_5_4
 -- name    : ShortestGCS.MICP.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:11:56.825587+00:00
 -- url     : https://prove2.me/theorems/6accaecb-b758-4019-abef-7877d1dba03e

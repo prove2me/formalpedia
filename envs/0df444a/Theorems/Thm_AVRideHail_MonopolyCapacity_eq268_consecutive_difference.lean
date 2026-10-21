@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_MonopolyCapacity_eq268_consecutive_difference
 -- name    : AVRideHail.MonopolyCapacity.eq268_consecutive_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:26.232636+00:00
 -- url     : https://prove2.me/theorems/628c821d-eb81-4eab-981f-9e2c1237ac3e

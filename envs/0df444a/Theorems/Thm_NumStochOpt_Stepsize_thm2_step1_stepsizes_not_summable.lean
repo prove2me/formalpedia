@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Stepsize_thm2_step1_stepsizes_not_summable
 -- name    : NumStochOpt.Stepsize.thm2_step1_stepsizes_not_summable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T06:24:22.072426+00:00
 -- url     : https://prove2.me/theorems/749e1329-6603-427b-95ca-d58767d539b7

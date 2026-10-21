@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_LowerBound_eq_20
 -- name    : FirstPriceLearning.LowerBound.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:34.712016+00:00
 -- url     : https://prove2.me/theorems/59d9b05e-466f-49c3-89d8-8725867fb9e2

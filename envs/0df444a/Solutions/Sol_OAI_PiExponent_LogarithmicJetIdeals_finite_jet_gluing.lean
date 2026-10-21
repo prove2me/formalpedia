@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.finite_jet_gluing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:19:23.605793+00:00
 -- url     : https://prove2.me/submissions/e3182899-4dfe-41de-97e0-472513e0efb8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_box_jet_gluing
 

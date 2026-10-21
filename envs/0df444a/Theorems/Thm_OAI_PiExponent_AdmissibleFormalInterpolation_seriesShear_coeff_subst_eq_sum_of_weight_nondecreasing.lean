@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_seriesShear_coeff_subst_eq_sum_of_weight_nondecreasing
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.seriesShear_coeff_subst_eq_sum_of_weight_nondecreasing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T22:20:40.6978+00:00
 -- url     : https://prove2.me/theorems/3ff7d834-0ae7-4a09-a1dd-fca76914d5ac

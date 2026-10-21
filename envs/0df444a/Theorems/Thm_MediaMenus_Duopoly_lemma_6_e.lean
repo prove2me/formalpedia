@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MediaMenus_Duopoly_lemma_6_e
 -- name    : MediaMenus.Duopoly.lemma_6_e
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:46.475439+00:00
 -- url     : https://prove2.me/theorems/85151a7a-551d-42a1-aec5-bb173e33cbc4

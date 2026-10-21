@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_MMS_mms_le_average
 -- name    : LittleCharity.MMS.mms_le_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:11.095668+00:00
 -- url     : https://prove2.me/theorems/775f066e-c1db-4de8-bd24-2333cb3c769c

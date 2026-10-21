@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteTD_Markov_lemma_9
 -- name    : FiniteTD.Markov.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:29.216983+00:00
 -- url     : https://prove2.me/theorems/d7ef8be0-7e01-488d-9b78-385df4961e99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Greedy_eq3_2_boundary_crossing
 -- name    : GreedyRS.Greedy.eq3_2_boundary_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:08.882448+00:00
 -- url     : https://prove2.me/theorems/bde635f4-e9cc-4c83-a9c2-ddfc48cafb96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Accuracy_value_slope_at_thresholds
 -- name    : HumanMachine.Accuracy.value_slope_at_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:23:44.432955+00:00
 -- url     : https://prove2.me/theorems/706ad526-7cf9-42c1-a5f6-eec5551f0684

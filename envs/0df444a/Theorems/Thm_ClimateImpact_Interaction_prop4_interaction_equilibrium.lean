@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Interaction_prop4_interaction_equilibrium
 -- name    : ClimateImpact.Interaction.prop4_interaction_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:00:14.342562+00:00
 -- url     : https://prove2.me/theorems/47646471-cebc-415a-8b2c-7aecd702c22a

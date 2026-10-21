@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_cost_phaseH
 -- name    : IntMul.Kappa.R6.IL3H.cost_phaseH
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:55.879914+00:00
 -- url     : https://prove2.me/theorems/66a31f9a-5564-4063-b3ed-cbce6e0804c2

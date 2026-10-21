@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_minor_eq_sum
 -- name    : OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.minor_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:57:41.674532+00:00
 -- url     : https://prove2.me/theorems/b8bbe9d9-365a-437b-8485-5aaa8960a6bd

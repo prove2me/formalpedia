@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_PartialCollab_sum_ge_alpha
 -- name    : Fundraising.PartialCollab.sum_ge_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:02:36.61315+00:00
 -- url     : https://prove2.me/theorems/bdb417dd-215c-465b-b1b4-7f97f40aa283

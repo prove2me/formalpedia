@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFY_NG_axA_le
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFY.NG.axA_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:18:46.762432+00:00
 -- url     : https://prove2.me/theorems/706e7047-ecec-41a9-804d-25fa9de10f73

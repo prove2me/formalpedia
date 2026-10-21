@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_Compose_lipschitz_grad
 -- name    : NecoaraNG.Compose.lipschitz_grad
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:16.049106+00:00
 -- url     : https://prove2.me/theorems/4fb508c5-b176-453a-aa64-ffe615a7e0f5

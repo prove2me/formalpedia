@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamMCF_MCA_edge_flow_bound
 -- name    : ParamMCF.MCA.edge_flow_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:08.84479+00:00
 -- url     : https://prove2.me/theorems/766a7ec7-579b-40f0-a25b-29d8602b792d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_generatorIntegrable_scaleFunction_of_boundedVariation_contDiffOn_one
 -- name    : AvramDividend.Classical.generatorIntegrable_scaleFunction_of_boundedVariation_contDiffOn_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:14:19.193979+00:00
 -- url     : https://prove2.me/theorems/8e9b9fb1-ecd1-4cbd-9715-3b03e5864f85

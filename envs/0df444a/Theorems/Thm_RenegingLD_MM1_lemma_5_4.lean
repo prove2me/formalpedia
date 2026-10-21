@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RenegingLD_MM1_lemma_5_4
 -- name    : RenegingLD.MM1.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:21.878968+00:00
 -- url     : https://prove2.me/theorems/a55ece03-1106-4941-8cdd-ba8f910fb0d3

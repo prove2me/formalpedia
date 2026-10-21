@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_reflection_effect
 -- name    : BellRegret.Paradoxes.reflection_effect
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:30.646661+00:00
 -- url     : https://prove2.me/theorems/df4f87ce-4cfc-44d9-83ca-1afa79969fdf

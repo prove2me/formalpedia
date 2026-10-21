@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Linear_lemma_2_8
 -- name    : ProjReflGrad.Linear.lemma_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:14:10.57642+00:00
 -- url     : https://prove2.me/theorems/f2815763-c181-4b83-a5e2-26d6a14db7f9

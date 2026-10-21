@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_Generic_theorem_3_4
 -- name    : PrivLearn.Generic.theorem_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:46:54.984142+00:00
 -- url     : https://prove2.me/theorems/f9d8daab-3cbf-4b08-a2c1-0cfe672cebd4

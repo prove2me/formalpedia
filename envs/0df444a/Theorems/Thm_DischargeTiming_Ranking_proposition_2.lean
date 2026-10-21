@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DischargeTiming_Ranking_proposition_2
 -- name    : DischargeTiming.Ranking.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:54.905419+00:00
 -- url     : https://prove2.me/theorems/1c73bb37-be45-4c11-8a90-089133960e4a

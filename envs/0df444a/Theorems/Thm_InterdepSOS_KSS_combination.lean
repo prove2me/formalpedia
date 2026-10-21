@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_KSS_combination
 -- name    : InterdepSOS.KSS.combination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:37:28.593986+00:00
 -- url     : https://prove2.me/theorems/43f6ecba-284b-4d08-b4d2-27ad271540ba

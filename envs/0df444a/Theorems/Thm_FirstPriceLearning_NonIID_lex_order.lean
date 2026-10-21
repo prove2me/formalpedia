@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_NonIID_lex_order
 -- name    : FirstPriceLearning.NonIID.lex_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:00.784622+00:00
 -- url     : https://prove2.me/theorems/5941b003-0699-4bc6-bdd8-574e2dcfdb74

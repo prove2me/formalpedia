@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerimeterPatrol_Visible_converse
 -- name    : PerimeterPatrol.Visible.converse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:53.118022+00:00
 -- url     : https://prove2.me/theorems/6fe4e925-fa24-44c8-8efb-6c8e58715e9b

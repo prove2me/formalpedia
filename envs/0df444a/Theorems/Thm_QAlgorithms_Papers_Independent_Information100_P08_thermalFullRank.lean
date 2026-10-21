@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P08_thermalFullRank
 -- name    : QAlgorithms.Papers.Independent.Information100.P08.thermalFullRank
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:12:50.303582+00:00
 -- url     : https://prove2.me/theorems/af3443d7-d934-4b23-b916-d348c6c71703

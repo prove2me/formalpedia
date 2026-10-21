@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.weighted_vanishing_subst_triangular_tails
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:47:20.008407+00:00
 -- url     : https://prove2.me/submissions/a9fa519c-beec-41fa-b21b-1a6ba6b5b0ff
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation
 import Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weighted_vanishing_subst_of_weight_support

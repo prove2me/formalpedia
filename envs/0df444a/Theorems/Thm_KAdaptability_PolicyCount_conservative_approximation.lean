@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_PolicyCount_conservative_approximation
 -- name    : KAdaptability.PolicyCount.conservative_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:03:03.789349+00:00
 -- url     : https://prove2.me/theorems/ce777b50-6e5d-446c-b705-3f340bccc92e

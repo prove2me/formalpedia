@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_plain_jet_box_local_realization
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.plain_jet_box_local_realization
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:58:20.950974+00:00
 -- url     : https://prove2.me/theorems/544c28c2-82f7-42e3-bb57-9490baba41a7

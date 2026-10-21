@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P28_support_failure_tests
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P28.support_failure_tests
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:56:14.287395+00:00
 -- url     : https://prove2.me/theorems/2be7675b-a28e-4fe3-8511-ac5f773d0577

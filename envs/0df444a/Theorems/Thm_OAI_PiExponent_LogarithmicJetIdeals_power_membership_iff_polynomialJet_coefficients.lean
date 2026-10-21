@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_power_membership_iff_polynomialJet_coefficients
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.power_membership_iff_polynomialJet_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T21:58:00.053319+00:00
 -- url     : https://prove2.me/theorems/c21c2cc7-780e-43ff-9636-44c0f05157d5

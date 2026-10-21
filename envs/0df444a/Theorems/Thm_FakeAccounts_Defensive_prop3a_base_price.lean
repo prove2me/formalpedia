@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Defensive_prop3a_base_price
 -- name    : FakeAccounts.Defensive.prop3a_base_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:06.989636+00:00
 -- url     : https://prove2.me/theorems/ab304d2a-1012-49b1-af36-9575756e529f

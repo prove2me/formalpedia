@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Defensive_eventually_decreasing
 -- name    : FakeAccounts.Defensive.eventually_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:05.024036+00:00
 -- url     : https://prove2.me/theorems/31bc1d7d-6eab-4c97-9311-911162105e40

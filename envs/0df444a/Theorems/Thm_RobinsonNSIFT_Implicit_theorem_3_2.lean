@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonNSIFT_Implicit_theorem_3_2
 -- name    : RobinsonNSIFT.Implicit.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:03:05.887582+00:00
 -- url     : https://prove2.me/theorems/c6980389-fb08-44f0-9c24-b97f3ca8b0b5

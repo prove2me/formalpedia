@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GabayMercier_Approximation_theorem_4_1
 -- name    : GabayMercier.Approximation.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:22:37.253985+00:00
 -- url     : https://prove2.me/theorems/e9447951-db04-491a-9db1-66f569b8e21e

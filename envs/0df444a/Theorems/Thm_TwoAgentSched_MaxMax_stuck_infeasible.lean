@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_MaxMax_stuck_infeasible
 -- name    : TwoAgentSched.MaxMax.stuck_infeasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:43.027266+00:00
 -- url     : https://prove2.me/theorems/7e629142-9ab7-4395-ab0a-a3eafe7510a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastRatesSVM_Rates_lemma_4_1
 -- name    : FastRatesSVM.Rates.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:46.63306+00:00
 -- url     : https://prove2.me/theorems/5cf8fc01-7a84-4511-841b-75bfcf54ff04

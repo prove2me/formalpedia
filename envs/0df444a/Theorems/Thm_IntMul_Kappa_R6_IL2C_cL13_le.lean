@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL2C_cL13_le
 -- name    : IntMul.Kappa.R6.IL2C.cL13_le
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:34.572859+00:00
 -- url     : https://prove2.me/theorems/0b5ba369-70d3-4300-b67d-da1c6661d871

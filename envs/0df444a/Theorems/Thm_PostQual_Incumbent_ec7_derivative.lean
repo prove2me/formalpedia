@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_ec7_derivative
 -- name    : PostQual.Incumbent.ec7_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:19.546511+00:00
 -- url     : https://prove2.me/theorems/a844d6f8-f932-4495-b626-425986fd4dd7

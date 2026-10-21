@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultitierCSR_Strategy_control_delegation_comparison
 -- name    : MultitierCSR.Strategy.control_delegation_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:05.569674+00:00
 -- url     : https://prove2.me/theorems/74a13761-6d2c-4722-9ec7-90887815a9a3

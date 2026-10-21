@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetMeterDRE_Profit_proposition_1a_existence
 -- name    : NetMeterDRE.Profit.proposition_1a_existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:37.84184+00:00
 -- url     : https://prove2.me/theorems/e297b283-da78-4f26-ab3a-874df23c788a

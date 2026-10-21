@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_ListScheduling_lemma_8_1_ii_expected_max_over_sqrt
 -- name    : NumStochOpt.ListScheduling.lemma_8_1_ii_expected_max_over_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:05:28.80306+00:00
 -- url     : https://prove2.me/theorems/a9267f14-1c54-491e-ac39-97254334e80d

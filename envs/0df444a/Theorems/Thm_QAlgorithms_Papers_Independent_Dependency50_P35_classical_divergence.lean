@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P35_classical_divergence
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P35.classical_divergence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:04:04.082324+00:00
 -- url     : https://prove2.me/theorems/c36f43fa-06f6-488b-8d1e-c590e4da2f25

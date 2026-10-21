@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for IntMul.Kappa.openai_theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-16T21:36:19.952206+00:00
 -- url     : https://prove2.me/submissions/4c50079b-fc4f-46b4-8df6-9281c207723d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_IntMul_MultitapeModel

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_special_cover_bound
 -- name    : PrivSeqLearn.QueryComplexity.special_cover_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:30.982818+00:00
 -- url     : https://prove2.me/theorems/3bedf1af-f72b-446f-b835-717c4f766387

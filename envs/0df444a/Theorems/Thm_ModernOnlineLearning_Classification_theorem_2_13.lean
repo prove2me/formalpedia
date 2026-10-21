@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Classification_theorem_2_13
 -- name    : ModernOnlineLearning.Classification.theorem_2_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:40.434992+00:00
 -- url     : https://prove2.me/theorems/3175d5b2-1da0-43a9-913c-7aaa843d4fae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkillData_GoldRush_proposition_1
 -- name    : SkillData.GoldRush.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:27.836917+00:00
 -- url     : https://prove2.me/theorems/fe92978b-f4fd-4a94-b4b7-87393eccaec2

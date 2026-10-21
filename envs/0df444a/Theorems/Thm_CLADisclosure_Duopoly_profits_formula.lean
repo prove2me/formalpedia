@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLADisclosure_Duopoly_profits_formula
 -- name    : CLADisclosure.Duopoly.profits_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:43.806842+00:00
 -- url     : https://prove2.me/theorems/0a1c5dc3-2bbc-41fc-80e8-53b5cd635ae1

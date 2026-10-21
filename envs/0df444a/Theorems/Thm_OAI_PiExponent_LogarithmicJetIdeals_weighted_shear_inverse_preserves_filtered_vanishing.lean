@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_shear_inverse_preserves_filtered_vanishing
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_shear_inverse_preserves_filtered_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T22:33:56.289881+00:00
 -- url     : https://prove2.me/theorems/2246a5c5-ed0e-4788-b9ef-2fcb7ce76f3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_NNSmooth_proposition_5_part_2
 -- name    : CertDRO.NNSmooth.proposition_5_part_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:33:08.392793+00:00
 -- url     : https://prove2.me/theorems/62dc8a16-7349-415a-ae8a-a2c680937f52

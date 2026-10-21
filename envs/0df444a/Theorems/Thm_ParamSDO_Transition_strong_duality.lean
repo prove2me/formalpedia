@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_strong_duality
 -- name    : ParamSDO.Transition.strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:08.178267+00:00
 -- url     : https://prove2.me/theorems/f8a6233f-4773-498f-ba73-ad334a9ef811

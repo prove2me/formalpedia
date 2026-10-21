@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_SmallRate_symmetric_cost
 -- name    : LNChannels.SmallRate.symmetric_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:53.948367+00:00
 -- url     : https://prove2.me/theorems/9ce083d0-6c75-483e-a2d4-77002c0eef27

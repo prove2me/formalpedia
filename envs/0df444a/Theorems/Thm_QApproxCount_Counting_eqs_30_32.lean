@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QApproxCount_Counting_eqs_30_32
 -- name    : QApproxCount.Counting.eqs_30_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:38.030037+00:00
 -- url     : https://prove2.me/theorems/3f418ab0-49a2-45e5-8a4b-7d27247133ac

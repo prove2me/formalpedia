@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_eq_4c_best_response
 -- name    : CoProdBundle.Equil.eq_4c_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:37.970339+00:00
 -- url     : https://prove2.me/theorems/83420762-1585-41d9-a39c-77670ef0c7fe

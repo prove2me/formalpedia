@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Potential_lemma_2_6_existence
 -- name    : SelfishRouting.Potential.lemma_2_6_existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:13.308847+00:00
 -- url     : https://prove2.me/theorems/edd26151-10ca-4f56-ada1-b3b934dcfd40

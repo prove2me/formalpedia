@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_generatorIntegrable_scaleFunction_of_contDiffOn_two
 -- name    : AvramDividend.Classical.generatorIntegrable_scaleFunction_of_contDiffOn_two
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:13:51.551092+00:00
 -- url     : https://prove2.me/theorems/196ecce3-b56c-4bf1-83a7-99f415b4705b

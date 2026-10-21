@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierRuinTime_measurable
 -- name    : AvramDividend.Classical.barrierRuinTime_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T23:13:41.520516+00:00
 -- url     : https://prove2.me/theorems/322896d6-052f-46bc-9fe6-962277f2d0a2

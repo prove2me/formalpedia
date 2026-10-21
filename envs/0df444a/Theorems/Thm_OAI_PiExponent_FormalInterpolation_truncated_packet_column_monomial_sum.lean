@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_column_monomial_sum
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_column_monomial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:38:09.711277+00:00
 -- url     : https://prove2.me/theorems/7094abe5-8ea3-4d71-b875-fcd881adbde7

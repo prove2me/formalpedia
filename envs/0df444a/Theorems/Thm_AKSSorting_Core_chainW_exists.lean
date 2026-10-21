@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKSSorting_Core_chainW_exists
 -- name    : AKSSorting.Core.chainW_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:13:12.323821+00:00
 -- url     : https://prove2.me/theorems/97bcb46e-15d5-4012-acd9-827a122bd2b8

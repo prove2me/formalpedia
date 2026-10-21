@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_Optimal_setdiff_condLoss_ge
 -- name    : RiskControl.Optimal.setdiff_condLoss_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:35:44.122424+00:00
 -- url     : https://prove2.me/theorems/8e2b7b7b-820c-4850-b2f7-d87f19690a78

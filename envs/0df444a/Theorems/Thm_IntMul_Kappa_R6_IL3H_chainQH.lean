@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_chainQH
 -- name    : IntMul.Kappa.R6.IL3H.chainQH
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:24.865686+00:00
 -- url     : https://prove2.me/theorems/536b06d4-3f87-4f6e-9cca-97dcf24d8bb8

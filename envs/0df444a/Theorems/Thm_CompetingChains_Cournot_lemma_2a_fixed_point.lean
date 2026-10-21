@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingChains_Cournot_lemma_2a_fixed_point
 -- name    : CompetingChains.Cournot.lemma_2a_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:34.275127+00:00
 -- url     : https://prove2.me/theorems/b01a0a50-68f6-48af-b043-18f381649f97

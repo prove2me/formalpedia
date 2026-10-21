@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnovContest_Rewards_rank_identity
 -- name    : InnovContest.Rewards.rank_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:32.943481+00:00
 -- url     : https://prove2.me/theorems/bf5bd922-c7bc-4fa6-9081-29fc8c9dd562

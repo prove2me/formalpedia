@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PBElicit_RandThresh_eq_7
 -- name    : PBElicit.RandThresh.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:13.470355+00:00
 -- url     : https://prove2.me/theorems/91ab87a0-a9c2-484b-8ffe-85ffd09ad8e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudMWU_Bicriteria_proposition_2_weak_duality
 -- name    : CloudMWU.Bicriteria.proposition_2_weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:37.416626+00:00
 -- url     : https://prove2.me/theorems/beedd34f-9cab-48d8-a465-53eac561790f

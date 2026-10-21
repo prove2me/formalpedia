@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Stakes_prop5_expected_profit_strict_mono
 -- name    : BoundedNV.Stakes.prop5_expected_profit_strict_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:01:20.856752+00:00
 -- url     : https://prove2.me/theorems/5807206b-1596-4a53-b980-3f49283ecc56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Stakes_eq56_57_stochastic_dominance
 -- name    : BoundedNV.Stakes.eq56_57_stochastic_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:01:32.678621+00:00
 -- url     : https://prove2.me/theorems/e695b215-4b5c-4844-ad51-48d33dd55041

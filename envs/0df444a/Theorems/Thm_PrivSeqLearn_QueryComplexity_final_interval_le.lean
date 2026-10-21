@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_final_interval_le
 -- name    : PrivSeqLearn.QueryComplexity.final_interval_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:23.133012+00:00
 -- url     : https://prove2.me/theorems/6c8e26f9-931f-43e1-b778-81ec559cad72

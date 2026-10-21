@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_actual_minor_norm_exp_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.actual_minor_norm_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:19:14.829062+00:00
 -- url     : https://prove2.me/theorems/1dbba37b-0afc-4903-bfdf-86f6a30e4c48

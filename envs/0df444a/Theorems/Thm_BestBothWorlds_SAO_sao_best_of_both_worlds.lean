@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_sao_best_of_both_worlds
 -- name    : BestBothWorlds.SAO.sao_best_of_both_worlds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:47:12.01139+00:00
 -- url     : https://prove2.me/theorems/1ee2be50-e871-412d-82a0-3ecce50e59c7

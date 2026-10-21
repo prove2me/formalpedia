@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_NonIID_bayes_regret
 -- name    : FirstPriceLearning.NonIID.bayes_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:10.486001+00:00
 -- url     : https://prove2.me/theorems/20bfd443-fb9d-4c38-a5f0-9e3d27a2b888

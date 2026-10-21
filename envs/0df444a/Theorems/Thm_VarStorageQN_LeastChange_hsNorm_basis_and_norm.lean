@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarStorageQN_LeastChange_hsNorm_basis_and_norm
 -- name    : VarStorageQN.LeastChange.hsNorm_basis_and_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:29.113416+00:00
 -- url     : https://prove2.me/theorems/d1202a25-be59-42b2-be97-f0abf7940113

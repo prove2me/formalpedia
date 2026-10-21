@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_LPFail_xTilde_feasible
 -- name    : LPCommunity.LPFail.xTilde_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:05:21.04278+00:00
 -- url     : https://prove2.me/theorems/3695f494-179b-464c-9b75-2009ca285051

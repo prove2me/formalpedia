@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_InteropFee_xi_characterization
 -- name    : NetFeePlatform.InteropFee.xi_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:13:25.371711+00:00
 -- url     : https://prove2.me/theorems/86acf582-f3ae-4593-935e-87cb2fd91fa8

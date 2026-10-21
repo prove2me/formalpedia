@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqDiagnosis_BeliefRecon_row_RP_eq_beta
 -- name    : SeqDiagnosis.BeliefRecon.row_RP_eq_beta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:59.162238+00:00
 -- url     : https://prove2.me/theorems/f14b332a-ff69-41bc-97f3-21520f0f076f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LootBox_TB_eq_16
 -- name    : LootBox.TB.eq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:50.497867+00:00
 -- url     : https://prove2.me/theorems/18d933b1-4d5b-4c99-94f3-512626b62be5

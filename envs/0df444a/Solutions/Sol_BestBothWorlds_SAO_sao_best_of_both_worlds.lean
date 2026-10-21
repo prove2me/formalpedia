@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BestBothWorlds.SAO.sao_best_of_both_worlds
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T03:41:09.829774+00:00
 -- url     : https://prove2.me/submissions/eaec4a90-d34c-4aa3-a5ac-119a6f771ef2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BestBothWorlds_SAO_Interaction

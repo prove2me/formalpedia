@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_Disagreement_posterior_sampling_sq_dec_disagreement
 -- name    : StatComplexityDM.Disagreement.posterior_sampling_sq_dec_disagreement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:22.695633+00:00
 -- url     : https://prove2.me/theorems/aaca529e-943f-4126-b80a-4bd1edaf4489

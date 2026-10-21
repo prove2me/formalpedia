@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_Gs_node_split
 -- name    : IntMul.Kappa.R6.IL3H.Gs_node_split
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:50.546571+00:00
 -- url     : https://prove2.me/theorems/bf2d155f-2bd1-4b81-a6ad-18e09f7da30e

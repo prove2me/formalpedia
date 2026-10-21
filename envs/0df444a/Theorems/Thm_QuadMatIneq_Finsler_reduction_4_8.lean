@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Finsler_reduction_4_8
 -- name    : QuadMatIneq.Finsler.reduction_4_8
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:13:14.629017+00:00
 -- url     : https://prove2.me/theorems/937c6130-139d-459a-9b68-4271127bb347

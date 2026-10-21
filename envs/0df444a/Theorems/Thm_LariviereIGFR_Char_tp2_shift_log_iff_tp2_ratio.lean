@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Char_tp2_shift_log_iff_tp2_ratio
 -- name    : LariviereIGFR.Char.tp2_shift_log_iff_tp2_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:04.389984+00:00
 -- url     : https://prove2.me/theorems/c3af3b09-019a-4b5f-b071-bb7cdee4c58e

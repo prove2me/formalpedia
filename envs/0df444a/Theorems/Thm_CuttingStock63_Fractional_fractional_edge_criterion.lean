@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CuttingStock63_Fractional_fractional_edge_criterion
 -- name    : CuttingStock63.Fractional.fractional_edge_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:11:20.875028+00:00
 -- url     : https://prove2.me/theorems/04abf014-be41-472a-9b3c-fed91d0970e2

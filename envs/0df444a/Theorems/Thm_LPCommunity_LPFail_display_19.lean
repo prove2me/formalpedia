@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_LPFail_display_19
 -- name    : LPCommunity.LPFail.display_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:05:11.902128+00:00
 -- url     : https://prove2.me/theorems/d9fdb486-af07-422d-9c56-9d165fd953c7

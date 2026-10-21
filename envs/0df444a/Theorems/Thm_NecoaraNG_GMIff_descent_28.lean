@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMIff_descent_28
 -- name    : NecoaraNG.GMIff.descent_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:31.657825+00:00
 -- url     : https://prove2.me/theorems/593357b7-ddef-4ce2-8e08-5732195bd615

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_low_weight_formal_coefficients_imply_local_power
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.low_weight_formal_coefficients_imply_local_power
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T12:00:55.519829+00:00
 -- url     : https://prove2.me/theorems/cc796b19-6aa2-4f7a-965b-430148ff6d94

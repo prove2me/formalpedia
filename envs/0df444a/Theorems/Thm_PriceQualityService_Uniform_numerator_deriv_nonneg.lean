@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Uniform_numerator_deriv_nonneg
 -- name    : PriceQualityService.Uniform.numerator_deriv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:37.162809+00:00
 -- url     : https://prove2.me/theorems/0caa8133-11d9-4e34-9917-b0da163cfcad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Stepsize_thm2_step2_stepsize_ratio_to_one
 -- name    : NumStochOpt.Stepsize.thm2_step2_stepsize_ratio_to_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T06:24:28.009982+00:00
 -- url     : https://prove2.me/theorems/e8a32350-8144-4872-ab88-76c134f965d7

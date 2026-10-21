@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_total_degree_series_jet_interpolation
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.total_degree_series_jet_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:39:38.008767+00:00
 -- url     : https://prove2.me/theorems/da0f615d-043a-4239-995f-7278620b6282

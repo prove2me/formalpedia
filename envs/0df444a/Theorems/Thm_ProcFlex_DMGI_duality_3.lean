@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcFlex_DMGI_duality_3
 -- name    : ProcFlex.DMGI.duality_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:10.871661+00:00
 -- url     : https://prove2.me/theorems/baa94749-3212-4420-a9a7-ef650cc4bfe7

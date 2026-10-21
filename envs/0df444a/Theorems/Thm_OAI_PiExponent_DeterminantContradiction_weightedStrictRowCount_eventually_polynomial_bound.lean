@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weightedStrictRowCount_eventually_polynomial_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.weightedStrictRowCount_eventually_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:32:08.318995+00:00
 -- url     : https://prove2.me/theorems/e5b0dd92-cee4-45ba-ac7f-cc8eb4954911

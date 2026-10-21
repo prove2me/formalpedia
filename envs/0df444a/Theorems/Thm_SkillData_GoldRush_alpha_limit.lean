@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkillData_GoldRush_alpha_limit
 -- name    : SkillData.GoldRush.alpha_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:54.051406+00:00
 -- url     : https://prove2.me/theorems/6bd437b4-5a35-4916-b3db-f9c82403780b

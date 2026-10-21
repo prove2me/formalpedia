@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_SAKKT_proposition_3_1
 -- name    : StrictCQ.SAKKT.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:03.306482+00:00
 -- url     : https://prove2.me/theorems/7ee74c23-d51a-4f34-ad2e-c53a5b7df074

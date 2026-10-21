@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_eq5_2_boundary_crossing
 -- name    : GreedyRS.EFG.eq5_2_boundary_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:42.468115+00:00
 -- url     : https://prove2.me/theorems/de13d4c9-ee1c-4139-996c-b8819b7e4cc4

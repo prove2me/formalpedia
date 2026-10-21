@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_eq_20
 -- name    : OTCChain.Equilibrium.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:58.016616+00:00
 -- url     : https://prove2.me/theorems/0c45b50e-f7e4-471f-a214-531b5cd61abe

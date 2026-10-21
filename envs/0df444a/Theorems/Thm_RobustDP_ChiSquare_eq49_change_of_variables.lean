@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_ChiSquare_eq49_change_of_variables
 -- name    : RobustDP.ChiSquare.eq49_change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:38:06.774517+00:00
 -- url     : https://prove2.me/theorems/b0a80cee-6c2a-4e1d-bcbd-727d4af36830

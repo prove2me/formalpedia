@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExAnteExPost_RPS_rps_isRandAlloc
 -- name    : ExAnteExPost.RPS.rps_isRandAlloc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:50.628571+00:00
 -- url     : https://prove2.me/theorems/18d16e87-31c9-406b-969f-bcb0b725b6e5

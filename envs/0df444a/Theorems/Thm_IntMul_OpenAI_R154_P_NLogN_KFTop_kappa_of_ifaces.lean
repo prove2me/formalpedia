@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFTop_kappa_of_ifaces
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFTop.kappa_of_ifaces
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:18:36.731614+00:00
 -- url     : https://prove2.me/theorems/2762b3b6-716f-4841-8ece-f844f346b651

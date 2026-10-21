@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenQueue_ProductForm_pi_k_rearrangement
 -- name    : TokenQueue.ProductForm.pi_k_rearrangement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:56.145687+00:00
 -- url     : https://prove2.me/theorems/c1deeb88-1fa4-4ee7-a672-54279eef9302

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_actual_minor_bounded_expansion
 -- name    : OAI.PiExponent.LiteralAnalytic.actual_minor_bounded_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:36:00.168977+00:00
 -- url     : https://prove2.me/theorems/31bd4432-a19c-456d-b195-33f9611d4f8d

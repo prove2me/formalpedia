@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Pushed_dichotomy
 -- name    : TreewidthApprox.Pushed.dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:52.345327+00:00
 -- url     : https://prove2.me/theorems/2599ea4f-e86e-4650-baf4-7f8bf7173dd7

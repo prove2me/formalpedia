@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaddleSplit_Async_lemma_A_3
 -- name    : SaddleSplit.Async.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:28.566212+00:00
 -- url     : https://prove2.me/theorems/6caead49-58ea-4a35-9229-635a09a9a8e2

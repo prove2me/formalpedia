@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonNSIFT_Implicit_eq_3_1_3_2
 -- name    : RobinsonNSIFT.Implicit.eq_3_1_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:02:45.878786+00:00
 -- url     : https://prove2.me/theorems/36306287-b01b-4fc5-896d-fe1149852839

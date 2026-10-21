@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_analytic_aggregate
 -- name    : OAI.PiExponent.DeterminantContradiction.analytic_aggregate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T19:30:00.378624+00:00
 -- url     : https://prove2.me/theorems/67192408-1d0d-4b30-ab99-7919c1c13b59

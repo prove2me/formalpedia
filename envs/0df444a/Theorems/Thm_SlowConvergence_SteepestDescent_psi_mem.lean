@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_SteepestDescent_psi_mem
 -- name    : SlowConvergence.SteepestDescent.psi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:37.98304+00:00
 -- url     : https://prove2.me/theorems/8646e07d-ff64-4dd0-a90b-452177b6b863

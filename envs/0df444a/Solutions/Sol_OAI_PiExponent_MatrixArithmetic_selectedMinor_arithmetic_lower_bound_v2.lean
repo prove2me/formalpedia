@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.MatrixArithmetic.selectedMinor_arithmetic_lower_bound_v2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:25:36.717024+00:00
 -- url     : https://prove2.me/submissions/dcb19262-5a04-40b5-af61-8eb78ff49b50
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData
 import Theorems.Thm_OAI_PiExponent_MatrixArithmetic_selectedMinor_row_card_pos

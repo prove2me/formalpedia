@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_ParameterFree_kt_one_dim_regret
 -- name    : ModernOnlineLearning.ParameterFree.kt_one_dim_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:39:11.768005+00:00
 -- url     : https://prove2.me/theorems/d6992d98-404d-4436-ae32-99e178b7a707

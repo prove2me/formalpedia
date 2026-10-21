@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_SteepestDescent_goldstein_armijo
 -- name    : SlowConvergence.SteepestDescent.goldstein_armijo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:48:20.664146+00:00
 -- url     : https://prove2.me/theorems/2b8b0525-b1cf-449b-add3-db882a8c2e0d

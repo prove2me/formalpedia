@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_basicWidthFacts
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.basicWidthFacts
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:11:25.976584+00:00
 -- url     : https://prove2.me/theorems/a812ddd4-c79a-431b-8277-d800de018d5d

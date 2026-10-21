@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_total_degree_surjective
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_total_degree_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:59:16.460993+00:00
 -- url     : https://prove2.me/theorems/95510fbb-5b94-47d4-a1b6-c19908d781ed

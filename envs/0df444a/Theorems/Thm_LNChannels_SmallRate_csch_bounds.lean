@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_SmallRate_csch_bounds
 -- name    : LNChannels.SmallRate.csch_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:44.834982+00:00
 -- url     : https://prove2.me/theorems/d7ca75ef-142a-42f2-8236-4e4d38c33f7e

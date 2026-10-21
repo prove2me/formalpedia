@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiddenRebate_Fixed_selStar_cost_coords
 -- name    : HiddenRebate.Fixed.selStar_cost_coords
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:58.023925+00:00
 -- url     : https://prove2.me/theorems/e59dbcf0-fe4d-4d9d-a9c9-a0731df82d55

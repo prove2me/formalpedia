@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemicHoldings_FEfficient_F_rank_nullity
 -- name    : SystemicHoldings.FEfficient.F_rank_nullity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:12.054632+00:00
 -- url     : https://prove2.me/theorems/0d52cec5-c533-4dcf-8bf3-fdbb2910345b

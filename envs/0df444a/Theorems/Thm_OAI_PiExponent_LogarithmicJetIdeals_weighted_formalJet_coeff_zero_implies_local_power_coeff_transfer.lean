@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_formalJet_coeff_zero_implies_local_power_coeff_transfer
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_formalJet_coeff_zero_implies_local_power_coeff_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T21:17:52.769666+00:00
 -- url     : https://prove2.me/theorems/52122f97-569c-4aa3-9cb3-6401f4e89093

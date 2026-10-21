@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsHalving_Additive_step_3c_bounds
 -- name    : ConsHalving.Additive.step_3c_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:45.485772+00:00
 -- url     : https://prove2.me/theorems/fbad7f25-b893-4cfd-974e-d324b2507763

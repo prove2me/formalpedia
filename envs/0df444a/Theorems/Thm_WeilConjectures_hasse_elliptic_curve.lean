@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_hasse_elliptic_curve
 -- name    : WeilConjectures.hasse_elliptic_curve
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T14:57:57.915729+00:00
 -- url     : https://prove2.me/theorems/71e7a8ee-5209-4081-b61f-cc45026675de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Asymptotics_td_rewriting
 -- name    : PowerTwoChoices.Asymptotics.td_rewriting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:04:57.307977+00:00
 -- url     : https://prove2.me/theorems/36f09c39-7f4b-487b-907a-405ecaec8afe

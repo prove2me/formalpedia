@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_Additive_lemma_2
 -- name    : ChenSimchiLevi.Additive.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:41:38.050974+00:00
 -- url     : https://prove2.me/theorems/55c967b9-e01b-46bf-bc9e-4971a2d981b0

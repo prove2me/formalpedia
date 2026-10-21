@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumUB_padded_roots_feasible
 -- name    : SymPolyOpt.PowerSumUB.padded_roots_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:43.445245+00:00
 -- url     : https://prove2.me/theorems/938f0907-1adc-4a83-86d7-c4f8c8d0d40f

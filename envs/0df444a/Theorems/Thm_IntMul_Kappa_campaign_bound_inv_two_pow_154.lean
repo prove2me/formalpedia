@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_campaign_bound_inv_two_pow_154
 -- name    : IntMul.Kappa.campaign_bound_inv_two_pow_154
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-19T20:40:54.31104+00:00
 -- url     : https://prove2.me/theorems/694f2f2b-9cc6-4b1b-90d1-2ed30eb888cf

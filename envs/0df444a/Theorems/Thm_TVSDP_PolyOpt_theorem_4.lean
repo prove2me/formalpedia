@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TVSDP_PolyOpt_theorem_4
 -- name    : TVSDP.PolyOpt.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:03.383438+00:00
 -- url     : https://prove2.me/theorems/9f50ed0e-8b6a-40ba-b305-02f4d454d0b4

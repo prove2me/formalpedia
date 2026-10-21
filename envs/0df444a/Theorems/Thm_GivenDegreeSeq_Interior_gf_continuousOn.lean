@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_Interior_gf_continuousOn
 -- name    : GivenDegreeSeq.Interior.gf_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:51:29.517987+00:00
 -- url     : https://prove2.me/theorems/e1769514-f2c6-4cd0-b71d-f4da7d110ba0

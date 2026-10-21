@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_plainJet_shifted_product_eq_Xprod
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.plainJet_shifted_product_eq_Xprod
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T21:59:25.986979+00:00
 -- url     : https://prove2.me/theorems/dfbbb46e-8545-4ad7-9099-df7088464bb7

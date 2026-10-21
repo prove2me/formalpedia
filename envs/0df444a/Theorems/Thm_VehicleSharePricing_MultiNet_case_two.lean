@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_MultiNet_case_two
 -- name    : VehicleSharePricing.MultiNet.case_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:29:44.754839+00:00
 -- url     : https://prove2.me/theorems/c2026eee-a4bd-451b-861e-389f1039ebf3

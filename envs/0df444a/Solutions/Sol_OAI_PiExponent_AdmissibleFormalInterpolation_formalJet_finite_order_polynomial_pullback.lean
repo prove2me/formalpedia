@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.formalJet_finite_order_polynomial_pullback
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:08:04.607756+00:00
 -- url     : https://prove2.me/submissions/684a2b85-6cb2-41ba-9a6f-c02bf79b1c91
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation_FiniteLogPullback

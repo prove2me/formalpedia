@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassTwoStage_Copositive_proposition_1
 -- name    : WassTwoStage.Copositive.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:58:55.225292+00:00
 -- url     : https://prove2.me/theorems/30e997f0-0b10-4fc7-a5cc-f3d19aa15353

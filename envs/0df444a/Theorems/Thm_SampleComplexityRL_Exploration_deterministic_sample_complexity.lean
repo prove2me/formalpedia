@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_Exploration_deterministic_sample_complexity
 -- name    : SampleComplexityRL.Exploration.deterministic_sample_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:00:58.982688+00:00
 -- url     : https://prove2.me/theorems/5d77441e-b20c-40d0-950a-df85ee07d879

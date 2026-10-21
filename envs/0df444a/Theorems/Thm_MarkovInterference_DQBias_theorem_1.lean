@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovInterference_DQBias_theorem_1
 -- name    : MarkovInterference.DQBias.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:46.59481+00:00
 -- url     : https://prove2.me/theorems/0bf87113-21b9-4f9f-ba10-70848955701e

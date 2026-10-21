@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_indifferent_user_share
 -- name    : AdBlockers.Allow.indifferent_user_share
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:44.399543+00:00
 -- url     : https://prove2.me/theorems/a96be7b0-923e-4d72-bdc6-6ca0223c24a5

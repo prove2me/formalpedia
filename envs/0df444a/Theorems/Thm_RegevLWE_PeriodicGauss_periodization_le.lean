@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_PeriodicGauss_periodization_le
 -- name    : RegevLWE.PeriodicGauss.periodization_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:43.327873+00:00
 -- url     : https://prove2.me/theorems/d3d03b3b-3802-4171-8657-e53e7fd460f6

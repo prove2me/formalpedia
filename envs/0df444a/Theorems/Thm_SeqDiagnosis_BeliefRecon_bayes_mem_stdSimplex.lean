@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqDiagnosis_BeliefRecon_bayes_mem_stdSimplex
 -- name    : SeqDiagnosis.BeliefRecon.bayes_mem_stdSimplex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:19.768998+00:00
 -- url     : https://prove2.me/theorems/4607d850-acc7-423e-a8db-e3512b75a6a0

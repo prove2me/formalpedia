@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_AdaptivePlay_absorbing_iff_convention
 -- name    : YoungConventions.AdaptivePlay.absorbing_iff_convention
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:03:34.784109+00:00
 -- url     : https://prove2.me/theorems/1b50e245-0319-4265-bfd1-be64c20946eb

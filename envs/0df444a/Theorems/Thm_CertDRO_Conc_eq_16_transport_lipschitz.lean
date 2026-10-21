@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_Conc_eq_16_transport_lipschitz
 -- name    : CertDRO.Conc.eq_16_transport_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:09:33.083969+00:00
 -- url     : https://prove2.me/theorems/be9a212d-1819-42f7-bf42-1d8bd527ec2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P28_pinching_implies_measurement_attainability
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P28.pinching_implies_measurement_attainability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:13:19.800749+00:00
 -- url     : https://prove2.me/theorems/83baf4f1-a0f1-4350-ac70-58b3f00ea59d

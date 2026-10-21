@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Protective_dM_da
 -- name    : PlatformEntry.Protective.dM_da
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:32.56433+00:00
 -- url     : https://prove2.me/theorems/e7cf45c3-6199-4a92-b485-74ce0b691cab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSparsify_Decomp_phi_third_step
 -- name    : SpectralSparsify.Decomp.phi_third_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:36.945339+00:00
 -- url     : https://prove2.me/theorems/16cdad71-b15a-46c6-b3d4-7bc57924352a

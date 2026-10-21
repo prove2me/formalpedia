@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFM_setupC_cost
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFM.setupC_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:18:50.089567+00:00
 -- url     : https://prove2.me/theorems/efc43550-4c8d-4b92-a4e7-fe56907cb477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedMMS_Additive_ineq_16
 -- name    : ImprovedMMS.Additive.ineq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:39.247603+00:00
 -- url     : https://prove2.me/theorems/b7893424-cc17-4d3c-81f0-78ccfb3cf6bb

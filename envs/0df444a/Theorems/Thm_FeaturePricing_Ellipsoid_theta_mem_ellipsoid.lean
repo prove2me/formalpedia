@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_theta_mem_ellipsoid
 -- name    : FeaturePricing.Ellipsoid.theta_mem_ellipsoid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:32:13.46129+00:00
 -- url     : https://prove2.me/theorems/c3ada608-b493-4ee4-a65b-2d810943c663

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_lemma_1
 -- name    : CoProdBundle.Equil.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:34.439123+00:00
 -- url     : https://prove2.me/theorems/6db0478d-4c97-4e68-8125-8024d9d049d8

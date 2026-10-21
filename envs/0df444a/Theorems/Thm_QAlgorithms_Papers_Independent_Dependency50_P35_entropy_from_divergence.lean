@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P35_entropy_from_divergence
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P35.entropy_from_divergence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:58:01.706024+00:00
 -- url     : https://prove2.me/theorems/9d021583-db43-44d3-88b9-2aa361078660

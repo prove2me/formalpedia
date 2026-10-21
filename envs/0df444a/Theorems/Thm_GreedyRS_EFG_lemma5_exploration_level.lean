@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_lemma5_exploration_level
 -- name    : GreedyRS.EFG.lemma5_exploration_level
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:35.361092+00:00
 -- url     : https://prove2.me/theorems/157e1eca-b970-4d69-8dbb-0c1a97b34292

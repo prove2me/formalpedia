@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.truncated_packet_support_expansion_corrected
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:55:23.313428+00:00
 -- url     : https://prove2.me/submissions/c24fc0b9-f5cb-4cf4-a033-800850400b25
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_polynomial_jet_support_expansion

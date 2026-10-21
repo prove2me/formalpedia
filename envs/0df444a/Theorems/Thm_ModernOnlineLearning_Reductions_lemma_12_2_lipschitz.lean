@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Reductions_lemma_12_2_lipschitz
 -- name    : ModernOnlineLearning.Reductions.lemma_12_2_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:13.72621+00:00
 -- url     : https://prove2.me/theorems/d9c0e506-78b5-4ec6-8513-4401c7064127

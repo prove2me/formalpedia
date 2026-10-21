@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QReversal_PGMBound_theorem_5
 -- name    : QReversal.PGMBound.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:24.471743+00:00
 -- url     : https://prove2.me/theorems/c7a3a8dd-f62a-484f-92d8-42443c9eb448

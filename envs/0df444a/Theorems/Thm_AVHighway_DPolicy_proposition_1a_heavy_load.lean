@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVHighway_DPolicy_proposition_1a_heavy_load
 -- name    : AVHighway.DPolicy.proposition_1a_heavy_load
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:03.861165+00:00
 -- url     : https://prove2.me/theorems/9d9f9f83-8b67-491a-ae18-ff7d07da0c06

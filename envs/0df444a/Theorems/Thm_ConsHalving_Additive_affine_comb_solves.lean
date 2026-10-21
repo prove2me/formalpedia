@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsHalving_Additive_affine_comb_solves
 -- name    : ConsHalving.Additive.affine_comb_solves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:43.681036+00:00
 -- url     : https://prove2.me/theorems/bc80e783-2915-4507-8dbd-c3e85fb7737c

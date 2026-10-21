@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PBElicit_RandThresh_observation_3_1
 -- name    : PBElicit.RandThresh.observation_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:55.472187+00:00
 -- url     : https://prove2.me/theorems/16205f4a-eb66-4ad9-a666-e321f518662b

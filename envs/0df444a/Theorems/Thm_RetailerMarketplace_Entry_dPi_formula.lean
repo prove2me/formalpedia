@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailerMarketplace_Entry_dPi_formula
 -- name    : RetailerMarketplace.Entry.dPi_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:31.406598+00:00
 -- url     : https://prove2.me/theorems/0f6b828a-d88b-43f6-9299-08f3d9953091

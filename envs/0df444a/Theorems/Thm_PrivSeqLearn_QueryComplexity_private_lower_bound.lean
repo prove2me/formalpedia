@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_private_lower_bound
 -- name    : PrivSeqLearn.QueryComplexity.private_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:17.778982+00:00
 -- url     : https://prove2.me/theorems/d644a268-0447-4086-9920-93c9cd1ded6f

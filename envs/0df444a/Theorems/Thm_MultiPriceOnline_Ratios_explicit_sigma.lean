@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ratios_explicit_sigma
 -- name    : MultiPriceOnline.Ratios.explicit_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:17.148977+00:00
 -- url     : https://prove2.me/theorems/d2656818-75a9-483d-8fa3-a5f73cc91d1b

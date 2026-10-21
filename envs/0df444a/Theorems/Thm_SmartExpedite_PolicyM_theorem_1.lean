@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartExpedite_PolicyM_theorem_1
 -- name    : SmartExpedite.PolicyM.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:42.114692+00:00
 -- url     : https://prove2.me/theorems/e3f977cd-2c98-475c-9441-a0e24a296859

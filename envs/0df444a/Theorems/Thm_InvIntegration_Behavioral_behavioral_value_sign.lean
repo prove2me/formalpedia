@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_behavioral_value_sign
 -- name    : InvIntegration.Behavioral.behavioral_value_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:33.715201+00:00
 -- url     : https://prove2.me/theorems/1d829f22-83cc-469b-af18-8caa50cf905b

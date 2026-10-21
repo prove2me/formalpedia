@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_StoppingTime_detValue_shrunk_bound
 -- name    : GVRPricing.StoppingTime.detValue_shrunk_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:47:26.480067+00:00
 -- url     : https://prove2.me/theorems/66ba6e10-529f-44c3-98ec-d9d1880355bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeMoment_LogConcave_lemma_3_3
 -- name    : ShapeMoment.LogConcave.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:12.659021+00:00
 -- url     : https://prove2.me/theorems/12025ba8-1c6e-4989-8757-c7eabda9821c

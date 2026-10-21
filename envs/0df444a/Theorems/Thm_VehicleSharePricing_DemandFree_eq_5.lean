@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_DemandFree_eq_5
 -- name    : VehicleSharePricing.DemandFree.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:19.669642+00:00
 -- url     : https://prove2.me/theorems/c06560f5-691a-4039-b183-b86d08717eb0

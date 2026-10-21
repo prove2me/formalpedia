@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_seriesShear_subst_seriesJet
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.seriesShear_subst_seriesJet
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T22:21:18.63501+00:00
 -- url     : https://prove2.me/theorems/d9a364f6-7b47-4da7-8829-3eb3dc403eb4

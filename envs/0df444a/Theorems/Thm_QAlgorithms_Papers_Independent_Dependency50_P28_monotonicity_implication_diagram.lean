@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P28_monotonicity_implication_diagram
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P28.monotonicity_implication_diagram
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:12:19.082101+00:00
 -- url     : https://prove2.me/theorems/db44bd05-4206-4272-b5b4-8962482dd1bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weighted_simplex_toReal_le_card_of_cube_cover
 -- name    : OAI.PiExponent.DeterminantContradiction.weighted_simplex_toReal_le_card_of_cube_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T03:00:16.502596+00:00
 -- url     : https://prove2.me/theorems/3d98dafa-894c-4b6a-9ac1-e18def9892ce

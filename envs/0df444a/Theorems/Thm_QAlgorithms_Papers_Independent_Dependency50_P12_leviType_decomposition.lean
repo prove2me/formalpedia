@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_leviType_decomposition
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.leviType_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:41:26.393622+00:00
 -- url     : https://prove2.me/theorems/90159a8d-e0e9-4e51-9263-de508624d707

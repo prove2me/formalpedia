@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kakutani1941_FixedPoint_closed_graph_iff
 -- name    : Kakutani1941.FixedPoint.closed_graph_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:15:45.865314+00:00
 -- url     : https://prove2.me/theorems/3b9c9556-7aaa-4e08-bab9-548380e6b0ce

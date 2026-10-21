@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_SAKKT_eq_4_26_outer_limit_linear_objective_agp
 -- name    : StrictCQ.SAKKT.eq_4_26_outer_limit_linear_objective_agp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:41.829978+00:00
 -- url     : https://prove2.me/theorems/47f33455-aaf9-427b-a66f-f1b1695ec263

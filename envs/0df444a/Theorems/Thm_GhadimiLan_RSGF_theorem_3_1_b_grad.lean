@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GhadimiLan_RSGF_theorem_3_1_b_grad
 -- name    : GhadimiLan.RSGF.theorem_3_1_b_grad
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:18:30.939983+00:00
 -- url     : https://prove2.me/theorems/508c53b2-6418-4930-97e1-93acdf8c7b9b

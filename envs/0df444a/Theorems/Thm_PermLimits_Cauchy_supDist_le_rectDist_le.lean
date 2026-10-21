@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Cauchy_supDist_le_rectDist_le
 -- name    : PermLimits.Cauchy.supDist_le_rectDist_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:23:34.251469+00:00
 -- url     : https://prove2.me/theorems/734e010a-5275-4b06-a6be-10f98d924cc6

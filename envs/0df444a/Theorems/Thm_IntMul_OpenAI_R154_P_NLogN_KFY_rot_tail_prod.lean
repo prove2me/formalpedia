@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFY_rot_tail_prod
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFY.rot_tail_prod
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:21:36.651787+00:00
 -- url     : https://prove2.me/theorems/bc62581d-c482-4ed1-ac0e-5d15de4bd6cc

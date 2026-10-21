@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_SelfDual_self_dual_embedding_solution
 -- name    : VanderbeiLP.SelfDual.self_dual_embedding_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:54:12.967066+00:00
 -- url     : https://prove2.me/theorems/3e280db7-177f-4dbf-95cb-d370944a6526

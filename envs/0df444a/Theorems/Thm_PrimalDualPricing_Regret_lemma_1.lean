@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualPricing_Regret_lemma_1
 -- name    : PrimalDualPricing.Regret.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:20:46.662985+00:00
 -- url     : https://prove2.me/theorems/13d83982-4ed8-4cca-8cac-758beb93291d

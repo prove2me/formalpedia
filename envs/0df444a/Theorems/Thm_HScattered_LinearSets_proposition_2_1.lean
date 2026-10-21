@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_LinearSets_proposition_2_1
 -- name    : HScattered.LinearSets.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:28:25.705966+00:00
 -- url     : https://prove2.me/theorems/48f9e0c3-4a7c-4810-a9f9-54d26636596f

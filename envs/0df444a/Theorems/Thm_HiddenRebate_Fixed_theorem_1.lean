@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiddenRebate_Fixed_theorem_1
 -- name    : HiddenRebate.Fixed.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:04.82797+00:00
 -- url     : https://prove2.me/theorems/48665d63-d607-4ffe-a957-280973e1e06c

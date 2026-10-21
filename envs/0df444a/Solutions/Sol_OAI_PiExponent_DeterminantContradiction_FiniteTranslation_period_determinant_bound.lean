@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.FiniteTranslation.period_determinant_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-19T03:11:10.484795+00:00
 -- url     : https://prove2.me/submissions/782b9b32-e1d8-4f43-a47b-df805a41317b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_FiniteActualTranslation
 import Theorems.Thm_OAI_PiExponent_FinitePeriodCollision_coefficient_determinant_factor_bound

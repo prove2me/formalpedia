@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelaxTS_Monotone_Ukn_interpolation
 -- name    : InfoRelaxTS.Monotone.Ukn_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:31:21.419475+00:00
 -- url     : https://prove2.me/theorems/1c79735c-84f1-4ab3-bf0e-68e36c0512fb

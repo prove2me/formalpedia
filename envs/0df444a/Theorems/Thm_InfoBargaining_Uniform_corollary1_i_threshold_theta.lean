@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Uniform_corollary1_i_threshold_theta
 -- name    : InfoBargaining.Uniform.corollary1_i_threshold_theta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:27.815153+00:00
 -- url     : https://prove2.me/theorems/48e4bb03-f27b-4d73-8416-4b92968abdfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_SubsetSum_collision_prob
 -- name    : RegevLWE.SubsetSum.collision_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:33.961214+00:00
 -- url     : https://prove2.me/theorems/c75c3ab4-cd2f-4859-bf34-7a0dd1c681b2

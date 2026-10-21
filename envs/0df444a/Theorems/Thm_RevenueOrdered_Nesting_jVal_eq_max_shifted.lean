@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Nesting_jVal_eq_max_shifted
 -- name    : RevenueOrdered.Nesting.jVal_eq_max_shifted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:32:16.965358+00:00
 -- url     : https://prove2.me/theorems/e559c291-3de7-40db-b6c4-18067a67e123

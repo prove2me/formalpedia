@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.colkitt_2pow30
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @avi
 -- created : 2026-10-09T04:49:46.623881+00:00
 -- url     : https://prove2.me/submissions/e6923bc8-9eec-4c24-8712-94610475c80a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_IntMul_Kappa_jain_round6

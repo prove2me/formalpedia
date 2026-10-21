@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Pushed_restrict_terminal_sep
 -- name    : TreewidthApprox.Pushed.restrict_terminal_sep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:22.595099+00:00
 -- url     : https://prove2.me/theorems/9d9eaa2e-77e3-4153-954e-d7479be43c75

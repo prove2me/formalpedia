@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalDRO_Discrete_p_to_w_feasible
 -- name    : EmpiricalDRO.Discrete.p_to_w_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:06:50.176971+00:00
 -- url     : https://prove2.me/theorems/4614306a-ee57-41e1-9503-62fcf199ed63

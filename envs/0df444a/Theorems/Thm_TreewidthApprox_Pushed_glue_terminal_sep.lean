@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Pushed_glue_terminal_sep
 -- name    : TreewidthApprox.Pushed.glue_terminal_sep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:36.237096+00:00
 -- url     : https://prove2.me/theorems/52d7bd5e-3220-4ed9-8ea7-366f12861827

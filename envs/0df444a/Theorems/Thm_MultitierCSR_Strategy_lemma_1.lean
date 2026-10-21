@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultitierCSR_Strategy_lemma_1
 -- name    : MultitierCSR.Strategy.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:55.179686+00:00
 -- url     : https://prove2.me/theorems/e04bc4e8-05f8-4d44-8ce2-0175d71aeea9

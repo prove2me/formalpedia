@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdContest_Pooling_winProb_hasDerivAt
 -- name    : CrowdContest.Pooling.winProb_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:25.259003+00:00
 -- url     : https://prove2.me/theorems/5220d2b7-68b3-415b-b8f4-72ff5353419c

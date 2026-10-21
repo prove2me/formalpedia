@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_Restart_descent
 -- name    : NesterovODE.Restart.descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:38:00.075527+00:00
 -- url     : https://prove2.me/theorems/944b911c-0a49-47c2-bf02-b29b2f4a2ace

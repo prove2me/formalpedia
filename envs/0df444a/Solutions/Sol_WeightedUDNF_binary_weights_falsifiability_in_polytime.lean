@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WeightedUDNF.binary_weights_falsifiability_in_polytime
 -- status  : ACCEPTED   (prove)
--- author  : @abhishekdpseok
+-- author  : @Abhishek Anand
 -- created : 2026-10-20T00:09:30.864151+00:00
 -- url     : https://prove2.me/submissions/9f86c96a-4087-462d-bd30-a6aec4c95e55
 

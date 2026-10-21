@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_NonlinEq_orthogonalization_stage_quadratic
 -- name    : ShorNonsmooth.NonlinEq.orthogonalization_stage_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:23:51.541002+00:00
 -- url     : https://prove2.me/theorems/cdd9f735-aeee-46ab-b156-0464c6edeb1f

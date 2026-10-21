@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_MultiNet_chu_vandermonde
 -- name    : VehicleSharePricing.MultiNet.chu_vandermonde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:20.487374+00:00
 -- url     : https://prove2.me/theorems/4c9ab640-4b17-4123-a67c-eaf4c62ec5ca

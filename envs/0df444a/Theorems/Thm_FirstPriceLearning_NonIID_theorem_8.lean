@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_NonIID_theorem_8
 -- name    : FirstPriceLearning.NonIID.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:12.843489+00:00
 -- url     : https://prove2.me/theorems/9ac4761b-dcc1-4742-8b98-d6db2fe312b1

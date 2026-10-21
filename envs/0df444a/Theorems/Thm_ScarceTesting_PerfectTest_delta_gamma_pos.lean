@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_delta_gamma_pos
 -- name    : ScarceTesting.PerfectTest.delta_gamma_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:39.677088+00:00
 -- url     : https://prove2.me/theorems/e4833b5f-4f92-4584-838d-ac6fbe85e8e1

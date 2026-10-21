@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFQ_chainSizes
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFQ.chainSizes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:19:06.572978+00:00
 -- url     : https://prove2.me/theorems/51f17255-47f0-4979-871b-28263b180d18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralSparsify_Decomp_per_level_cut_bound
 -- name    : SpectralSparsify.Decomp.per_level_cut_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:26.217319+00:00
 -- url     : https://prove2.me/theorems/b2adb57d-d333-4d3e-aa05-e1b0af751504

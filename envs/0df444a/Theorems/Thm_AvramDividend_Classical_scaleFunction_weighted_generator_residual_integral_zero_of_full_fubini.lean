@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_weighted_generator_residual_integral_zero_of_full_fubini
 -- name    : AvramDividend.Classical.scaleFunction_weighted_generator_residual_integral_zero_of_full_fubini
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T11:17:18.436796+00:00
 -- url     : https://prove2.me/theorems/36fd0513-fd80-4559-9e24-82571c27a7da

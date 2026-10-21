@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_probabilistic_insurance
 -- name    : BellRegret.Paradoxes.probabilistic_insurance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:09.684973+00:00
 -- url     : https://prove2.me/theorems/b6573868-fd91-46a0-a2d9-29d9ddf32b26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_EFG_lemma3_argmin_finite
 -- name    : GreedyRS.EFG.lemma3_argmin_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:52.815367+00:00
 -- url     : https://prove2.me/theorems/e6820bf9-ac66-4b01-b839-312626cc3d49

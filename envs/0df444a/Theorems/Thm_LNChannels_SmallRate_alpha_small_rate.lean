@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_SmallRate_alpha_small_rate
 -- name    : LNChannels.SmallRate.alpha_small_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:55.412677+00:00
 -- url     : https://prove2.me/theorems/262f3484-2817-46a3-acf4-2ec398d819c2

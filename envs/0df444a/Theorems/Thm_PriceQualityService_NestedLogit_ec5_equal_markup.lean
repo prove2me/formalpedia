@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_NestedLogit_ec5_equal_markup
 -- name    : PriceQualityService.NestedLogit.ec5_equal_markup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:28:00.154982+00:00
 -- url     : https://prove2.me/theorems/a8a44e33-41fc-449a-a042-0a53dbf90f74

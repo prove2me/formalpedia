@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_zero_origin_gaussian_without_standing
 -- name    : AvramDividend.Classical.scaleFunction_zero_origin_gaussian_without_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T22:27:36.347385+00:00
 -- url     : https://prove2.me/theorems/20b1acb4-bfe6-483b-bceb-2f0bbd6b6842

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AIFlywheel_Pricing_strict_comparison
 -- name    : AIFlywheel.Pricing.strict_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:59.471162+00:00
 -- url     : https://prove2.me/theorems/46021fb4-41b7-49e6-9040-aa7fa31d52d8

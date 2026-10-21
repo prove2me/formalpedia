@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_eq_64_Ns
 -- name    : OTCChain.Equilibrium.eq_64_Ns
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:38.352732+00:00
 -- url     : https://prove2.me/theorems/eff83601-9793-4bdc-856b-7eb5bdfe0d20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_Optimal_expSize_le_of_setdiff
 -- name    : RiskControl.Optimal.expSize_le_of_setdiff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:38:30.517001+00:00
 -- url     : https://prove2.me/theorems/956119cb-c385-4e7f-bfc8-afc80cd8f17b

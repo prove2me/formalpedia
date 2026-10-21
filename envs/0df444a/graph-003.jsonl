@@ -405,66 +405,66 @@
 {"parent": "ModelRiskOT_WorstProb_TransportBall", "child": "ModelRiskOT_Duality_AssumptionA1", "via": ["statement"]}
 {"parent": "ModelRiskOT_WorstProb_WorstCaseProb", "child": "ModelRiskOT_WorstProb_TransportBall", "via": ["statement"]}
 {"parent": "ModelTransfer_ClearedData", "child": "FLTPrelim_Modularity", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Adaptive.implicit_bound", "child": "ModernOnlineLearning_Adaptive_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Adaptive.theorem_4_14", "child": "ModernOnlineLearning_Adaptive_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Adaptive.implicit_bound", "child": "ModernOnlineLearning_Adaptive_Defs", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Adaptive.theorem_4_14", "child": "ModernOnlineLearning_Adaptive_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Adaptive.theorem_4_30", "child": "ModernOnlineLearning_Adaptive_Defs", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.Aggregating.proposition_7_34", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Aggregating.restricted_prior_step", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Aggregating.restricted_prior_step", "child": "ModernOnlineLearning_Aggregating_ShrunkSet", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Aggregating.shrunk_volume", "child": "ModernOnlineLearning_Aggregating_ShrunkSet", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Aggregating.proposition_7_34", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Aggregating.restricted_prior_step", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Aggregating.restricted_prior_step", "child": "ModernOnlineLearning_Aggregating_ShrunkSet", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Aggregating.shrunk_volume", "child": "ModernOnlineLearning_Aggregating_ShrunkSet", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Aggregating.theorem_11_5", "child": "LogRegretOCO_EWOO_ewooPoint", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Aggregating.theorem_11_5", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Bandits.eq_9_8", "child": "ModernOnlineLearning_Bandits_Tsallis", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Bandits.lemma_9_10", "child": "ModernOnlineLearning_Bandits_Protocol", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Bandits.theorem_9_17_adversarial", "child": "ModernOnlineLearning_Bandits_Tsallis", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Classification.eq_8_4", "child": "ModernOnlineLearning_Classification_Perceptron", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Classification.eq_8_4", "child": "ModernOnlineLearning_Classification_Perceptron", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Classification.eq_8_5", "child": "ModernOnlineLearning_Classification_Perceptron", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Classification.theorem_2_13", "child": "ModernOnlineLearning_Classification_Perceptron", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Classification.theorem_8_2", "child": "ModernOnlineLearning_Classification_Perceptron", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.Dynamic.lemma_6_10", "child": "ModernOnlineLearning_Dynamic_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Dynamic.lemma_6_10", "child": "ModernOnlineLearning_Dynamic_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Dynamic.proof_14_2_sum", "child": "ModernOnlineLearning_Dynamic_Defs", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Dynamic.theorem_14_2", "child": "ModernOnlineLearning_Dynamic_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.FTRL.corollary_7_6", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.FTRL.lemma_7_1", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.FTRL.lemma_7_49", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.FTRL.lemma_7_5", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.FTRL.lemma_7_7", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.FTRL.lemma_7_1", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.FTRL.lemma_7_49", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.FTRL.lemma_7_5", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.FTRL.lemma_7_7", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.LowerBounds.theorem_5_1", "child": "ModernOnlineLearning_LowerBounds_Protocol", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.LowerBounds.theorem_5_4", "child": "ModernOnlineLearning_LowerBounds_phi", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.OGD.lemma_2_12", "child": "OnlineConvexOpt_FirstOrder_Protocol", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.OGD.lemma_2_31", "child": "ModernOnlineLearning_OGD_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.OGD.proposition_2_11", "child": "OnlineConvexOpt_FirstOrder_Protocol", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.OGD.lemma_2_31", "child": "ModernOnlineLearning_OGD_Defs", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.OGD.proposition_2_11", "child": "OnlineConvexOpt_FirstOrder_Protocol", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OGD.theorem_2_13", "child": "ModernOnlineLearning_OGD_Defs", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.OMD.lemma_6_10", "child": "ModernOnlineLearning_OMD_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.OMD.lemma_6_10_exists", "child": "ModernOnlineLearning_OMD_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.OMD.lemma_6_7", "child": "ModernOnlineLearning_OMD_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.OMD.lemma_6_10", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.OMD.lemma_6_10_exists", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.OMD.lemma_6_7", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OMD.theorem_6_11", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.OMD.theorem_6_9", "child": "ModernOnlineLearning_OMD_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.OMD.theorem_6_9", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OnlineToBatch.martingale_step_3_10", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.OnlineToBatch.theorem_3_10", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.OnlineToBatch.theorem_3_10", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OnlineToBatch.theorem_3_17", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.ParameterFree.eq_13_1", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.ParameterFree.eq_13_1", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.kt_one_dim_regret", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.theorem_13_4", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.theorem_13_9", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Portfolio.eq_10_5", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Portfolio.lemma_10_5", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Portfolio.lemma_10_6", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Portfolio.lemma_10_6", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Portfolio.theorem_10_1_uniform", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Portfolio.theorem_10_4", "child": "ModernOnlineLearning_Portfolio_Setting", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Reductions.eq_12_2", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_convex", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_lipschitz", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_subdiff", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_zero_mem", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Reductions.eq_12_2", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_convex", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_lipschitz", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_subdiff", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Reductions.lemma_12_2_zero_mem", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Reductions.theorem_12_5", "child": "ModernOnlineLearning_Reductions_Setting", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.SaddlePoint.regret_sum_15_26", "child": "ModernOnlineLearning_SaddlePoint_Setting", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.SaddlePoint.theorem_15_12", "child": "ModernOnlineLearning_SaddlePoint_Setting", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.SaddlePoint.regret_sum_15_26", "child": "ModernOnlineLearning_SaddlePoint_Setting", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.SaddlePoint.theorem_15_12", "child": "ModernOnlineLearning_SaddlePoint_Setting", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.SaddlePoint.theorem_15_26", "child": "ModernOnlineLearning_SaddlePoint_Setting", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.SaddlePoint.theorem_7_47_linear", "child": "ModernOnlineLearning_SaddlePoint_Setting", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.SaddlePoint.theorem_7_47_linear", "child": "ModernOnlineLearning_SaddlePoint_Setting", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.ToX.corollary_16_7", "child": "ModernOnlineLearning_ToX_Rademacher", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.ToX.eg_regret_6_6", "child": "ModernOnlineLearning_ToX_Algorithms", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.ToX.theorem_16_4", "child": "ModernOnlineLearning_ToX_Algorithms", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.ToX.eg_regret_6_6", "child": "ModernOnlineLearning_ToX_Algorithms", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.ToX.theorem_16_4", "child": "ModernOnlineLearning_ToX_Algorithms", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning_Adaptive_Defs", "child": "OnlineConvexOpt_FirstOrder_Protocol", "via": ["statement"]}
 {"parent": "ModernOnlineLearning_Bandits_Tsallis", "child": "ModernOnlineLearning_Bandits_Protocol", "via": ["statement"]}
 {"parent": "ModernOnlineLearning_Classification_Perceptron", "child": "ModernOnlineLearning_Adaptive_Defs", "via": ["statement"]}

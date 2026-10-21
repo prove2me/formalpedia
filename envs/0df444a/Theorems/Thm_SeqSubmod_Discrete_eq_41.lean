@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqSubmod_Discrete_eq_41
 -- name    : SeqSubmod.Discrete.eq_41
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:55.969775+00:00
 -- url     : https://prove2.me/theorems/68b4e0f9-2f2b-4a81-9826-dd0b1faf07aa

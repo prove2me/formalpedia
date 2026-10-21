@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Stakes_cor2_newsvendor_share
 -- name    : BoundedNV.Stakes.cor2_newsvendor_share
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:04:38.252342+00:00
 -- url     : https://prove2.me/theorems/988b557c-a1f9-413d-9b5e-a127d4a09ef0

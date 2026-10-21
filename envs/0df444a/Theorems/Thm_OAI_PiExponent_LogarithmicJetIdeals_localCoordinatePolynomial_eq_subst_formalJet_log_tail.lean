@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_localCoordinatePolynomial_eq_subst_formalJet_log_tail
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.localCoordinatePolynomial_eq_subst_formalJet_log_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:41:34.074917+00:00
 -- url     : https://prove2.me/theorems/e7120eb8-3d4c-489e-b074-dda8dba781fa

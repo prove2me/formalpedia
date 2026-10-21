@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExAnteExPost_RPS_eating_envy_free
 -- name    : ExAnteExPost.RPS.eating_envy_free
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:38.694766+00:00
 -- url     : https://prove2.me/theorems/09a27727-cfe3-4b16-8292-31159cde5770

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_low_index_count_asymptotic
 -- name    : OAI.PiExponent.DeterminantContradiction.low_index_count_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:08:15.13883+00:00
 -- url     : https://prove2.me/theorems/b4625ce3-3416-4b6c-a55b-1e64d1273f5b

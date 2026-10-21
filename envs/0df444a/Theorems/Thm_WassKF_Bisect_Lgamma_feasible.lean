@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassKF_Bisect_Lgamma_feasible
 -- name    : WassKF.Bisect.Lgamma_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:10:44.314005+00:00
 -- url     : https://prove2.me/theorems/c3540e4a-aa94-413c-88d1-23aff35ca587

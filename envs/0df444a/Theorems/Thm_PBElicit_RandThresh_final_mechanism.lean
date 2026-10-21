@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PBElicit_RandThresh_final_mechanism
 -- name    : PBElicit.RandThresh.final_mechanism
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:34.389378+00:00
 -- url     : https://prove2.me/theorems/5dbc0e4b-90e6-4905-a177-b32d07c20209

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPackCover_General_theorem_4_5
 -- name    : FracPackCover.General.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:26.090369+00:00
 -- url     : https://prove2.me/theorems/d081dee4-ee86-4cc6-aa14-2031d27f0807

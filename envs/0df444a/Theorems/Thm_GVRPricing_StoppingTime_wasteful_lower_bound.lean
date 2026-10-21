@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_StoppingTime_wasteful_lower_bound
 -- name    : GVRPricing.StoppingTime.wasteful_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:06:11.295029+00:00
 -- url     : https://prove2.me/theorems/7e7daf31-dd99-406b-8b0e-bb68fffeea6a

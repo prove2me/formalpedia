@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NLogN_KFW_rImplQ_onRole
 -- name    : NLogN.KFW.rImplQ_onRole
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:25:35.763141+00:00
 -- url     : https://prove2.me/theorems/cfe5d4d0-076d-4562-b277-6a29a56eb576

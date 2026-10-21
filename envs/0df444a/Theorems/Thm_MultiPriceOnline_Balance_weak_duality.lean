@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Balance_weak_duality
 -- name    : MultiPriceOnline.Balance.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:42:54.686092+00:00
 -- url     : https://prove2.me/theorems/88eba0bc-d2fd-4692-ab48-807c917a0447

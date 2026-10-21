@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquiSegment_Multivalued_lemma_2_2_a
 -- name    : EquiSegment.Multivalued.lemma_2_2_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:18.540041+00:00
 -- url     : https://prove2.me/theorems/f8aaf759-1d80-4917-acf6-a1c770a63189

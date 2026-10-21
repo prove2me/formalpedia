@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Static_static_of_wage_ge
 -- name    : MinEarnings.Static.static_of_wage_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:32.118895+00:00
 -- url     : https://prove2.me/theorems/946118b4-53a5-4fff-88a5-21ebb80e8201

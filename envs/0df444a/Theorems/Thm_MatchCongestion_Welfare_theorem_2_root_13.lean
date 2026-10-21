@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchCongestion_Welfare_theorem_2_root_13
 -- name    : MatchCongestion.Welfare.theorem_2_root_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:36.072619+00:00
 -- url     : https://prove2.me/theorems/bc975198-4edd-4b45-8f2c-44db5c3e2e35

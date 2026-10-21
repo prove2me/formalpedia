@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_plain_jet_coeff_zero_of_mem_rectangularJetIdeal
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.plain_jet_coeff_zero_of_mem_rectangularJetIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:05:36.705562+00:00
 -- url     : https://prove2.me/theorems/06981d31-383e-4f25-bf54-0a44dbcc97d9

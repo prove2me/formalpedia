@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_Additive_eq_7
 -- name    : ChenSimchiLevi.Additive.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:42:16.489219+00:00
 -- url     : https://prove2.me/theorems/8aef7553-7c05-4635-87cd-e6bd4a15a1d8

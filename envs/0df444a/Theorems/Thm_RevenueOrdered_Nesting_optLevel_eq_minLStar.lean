@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Nesting_optLevel_eq_minLStar
 -- name    : RevenueOrdered.Nesting.optLevel_eq_minLStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:32:12.83241+00:00
 -- url     : https://prove2.me/theorems/1acb0fed-19ff-4e4b-87f7-ce8ac1629da8

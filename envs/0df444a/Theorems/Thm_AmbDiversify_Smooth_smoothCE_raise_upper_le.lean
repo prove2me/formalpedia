@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AmbDiversify_Smooth_smoothCE_raise_upper_le
 -- name    : AmbDiversify.Smooth.smoothCE_raise_upper_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:08.205011+00:00
 -- url     : https://prove2.me/theorems/8b94a4d1-e836-4026-8e55-c7cc8a9004c8

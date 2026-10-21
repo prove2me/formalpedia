@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceMatchNeg_Symmetric_pm_equilibrium
 -- name    : PriceMatchNeg.Symmetric.pm_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:58.094298+00:00
 -- url     : https://prove2.me/theorems/64db9467-8d38-4fca-a684-22ece0a48a7a

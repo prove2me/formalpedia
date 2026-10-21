@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.scaleFunction_generator_residual_weightedLaplace_zero_gaussian_of_prod_integrable
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-08T09:37:11.416021+00:00
 -- url     : https://prove2.me/submissions/c51487b0-15af-47c5-a454-2e49ecfd75e3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

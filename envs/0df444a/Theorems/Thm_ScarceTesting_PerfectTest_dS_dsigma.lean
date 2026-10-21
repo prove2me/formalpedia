@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_dS_dsigma
 -- name    : ScarceTesting.PerfectTest.dS_dsigma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:43.877201+00:00
 -- url     : https://prove2.me/theorems/8907abbb-f01c-4a93-b3d2-6ff1912a40c5

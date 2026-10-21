@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_RRExists_positive_strict_perturbation
 -- name    : StrategicAlloc.RRExists.positive_strict_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:35:58.787929+00:00
 -- url     : https://prove2.me/theorems/1f1eb5c1-f7c6-4fdf-b563-9f34f0c90650

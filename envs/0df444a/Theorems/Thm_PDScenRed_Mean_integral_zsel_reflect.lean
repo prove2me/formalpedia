@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDScenRed_Mean_integral_zsel_reflect
 -- name    : PDScenRed.Mean.integral_zsel_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:47.404283+00:00
 -- url     : https://prove2.me/theorems/0ffbe627-7fc4-4a6c-a7c9-ac79f43529b8

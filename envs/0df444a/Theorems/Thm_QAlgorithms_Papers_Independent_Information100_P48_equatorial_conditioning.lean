@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_equatorial_conditioning
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.equatorial_conditioning
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:47:38.53754+00:00
 -- url     : https://prove2.me/theorems/81ca492a-e2db-47d8-9e0b-92b465296d15

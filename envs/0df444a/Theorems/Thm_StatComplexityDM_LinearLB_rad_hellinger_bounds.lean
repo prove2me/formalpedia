@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_LinearLB_rad_hellinger_bounds
 -- name    : StatComplexityDM.LinearLB.rad_hellinger_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:24.730378+00:00
 -- url     : https://prove2.me/theorems/e0ad4c9f-cf71-43d3-b347-e8f53868700d

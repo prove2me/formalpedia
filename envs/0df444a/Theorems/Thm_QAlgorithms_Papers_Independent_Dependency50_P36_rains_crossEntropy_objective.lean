@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P36_rains_crossEntropy_objective
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P36.rains_crossEntropy_objective
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:43:05.725418+00:00
 -- url     : https://prove2.me/theorems/bdb27cd0-5fcc-48ca-965e-1fcc2ba67ac1

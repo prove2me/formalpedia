@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultitierCSR_Strategy_domination
 -- name    : MultitierCSR.Strategy.domination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:56.259984+00:00
 -- url     : https://prove2.me/theorems/acd79dd7-ac65-493a-89ba-88fbcb84ed37

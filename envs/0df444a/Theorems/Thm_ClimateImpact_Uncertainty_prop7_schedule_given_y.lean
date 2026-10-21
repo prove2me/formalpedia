@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Uncertainty_prop7_schedule_given_y
 -- name    : ClimateImpact.Uncertainty.prop7_schedule_given_y
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:00:41.494684+00:00
 -- url     : https://prove2.me/theorems/836d3909-f581-4bf6-9f98-d42a5c983f21

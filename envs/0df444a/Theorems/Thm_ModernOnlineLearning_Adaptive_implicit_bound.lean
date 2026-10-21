@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Adaptive_implicit_bound
 -- name    : ModernOnlineLearning.Adaptive.implicit_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:38:39.95525+00:00
 -- url     : https://prove2.me/theorems/2360383e-e49d-4c99-9dee-6637a3db5cd4

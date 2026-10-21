@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Pooling_canon_profit_nonpos
 -- name    : BoundedNV.Pooling.canon_profit_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:33.095957+00:00
 -- url     : https://prove2.me/theorems/b65dfab5-0c03-4c2a-b8b3-e2eeffffee92

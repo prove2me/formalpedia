@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Defensive_marginal_effects
 -- name    : FakeAccounts.Defensive.marginal_effects
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:09.017945+00:00
 -- url     : https://prove2.me/theorems/5569f9dd-4f0d-4ebf-a4c7-3a8862753000

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PPDifferentiation_Costless_lemma_1_dominance
 -- name    : PPDifferentiation.Costless.lemma_1_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:26:02.831908+00:00
 -- url     : https://prove2.me/theorems/b85ee97f-a179-427d-b785-dac598c0e48c

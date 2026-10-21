@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_DemandFree_theorem_3
 -- name    : VehicleSharePricing.DemandFree.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:22.928746+00:00
 -- url     : https://prove2.me/theorems/b1526225-7415-4d1e-8a2e-c38f31f8155f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Multiplicative_exp_le_one_add_two_mul
 -- name    : KalaiVempala.Multiplicative.exp_le_one_add_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:23.677591+00:00
 -- url     : https://prove2.me/theorems/b6fe7a62-66d1-4a90-8379-a0c0aa959d88

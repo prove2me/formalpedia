@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerimeterPatrol_Visible_blue_red_count
 -- name    : PerimeterPatrol.Visible.blue_red_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:01.20002+00:00
 -- url     : https://prove2.me/theorems/a101ce8d-f732-4d18-b9ce-1b740da07ee5

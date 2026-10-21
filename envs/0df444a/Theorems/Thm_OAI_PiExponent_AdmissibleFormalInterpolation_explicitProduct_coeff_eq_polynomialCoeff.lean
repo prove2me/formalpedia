@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_explicitProduct_coeff_eq_polynomialCoeff
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.explicitProduct_coeff_eq_polynomialCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:44:07.195123+00:00
 -- url     : https://prove2.me/theorems/24b93c1d-05d8-430f-9470-54ef34e1328e

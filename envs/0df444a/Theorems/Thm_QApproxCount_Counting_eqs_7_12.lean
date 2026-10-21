@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QApproxCount_Counting_eqs_7_12
 -- name    : QApproxCount.Counting.eqs_7_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:10.24873+00:00
 -- url     : https://prove2.me/theorems/50f09f60-2bae-4ba4-a48b-d5b1754181d7

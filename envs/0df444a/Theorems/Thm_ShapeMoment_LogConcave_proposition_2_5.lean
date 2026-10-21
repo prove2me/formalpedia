@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShapeMoment_LogConcave_proposition_2_5
 -- name    : ShapeMoment.LogConcave.proposition_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:14.61556+00:00
 -- url     : https://prove2.me/theorems/407079e4-9497-4a31-a23b-60273dc7143e

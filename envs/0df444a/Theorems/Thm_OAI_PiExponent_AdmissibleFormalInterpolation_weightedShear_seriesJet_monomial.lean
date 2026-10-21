@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weightedShear_seriesJet_monomial
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weightedShear_seriesJet_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:27:21.836919+00:00
 -- url     : https://prove2.me/theorems/10767b78-b39c-44fe-898c-3c395123f3e0

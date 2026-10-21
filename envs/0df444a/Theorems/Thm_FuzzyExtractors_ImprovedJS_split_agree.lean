@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_ImprovedJS_split_agree
 -- name    : FuzzyExtractors.ImprovedJS.split_agree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:36.730315+00:00
 -- url     : https://prove2.me/theorems/6b612c2d-66c6-4167-84e4-88dfa8da59c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FDM_gap_le_product
 -- name    : NecoaraNG.FDM.gap_le_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:47.725464+00:00
 -- url     : https://prove2.me/theorems/9406ff15-3c96-4450-b064-50e26bb38263

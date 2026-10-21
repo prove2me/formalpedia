@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_polyak_step_dist_sq_le
 -- name    : ShorNonsmooth.Fejer.polyak_step_dist_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:30:24.956983+00:00
 -- url     : https://prove2.me/theorems/c1e5b79c-600f-4c00-905b-2dabb6316828

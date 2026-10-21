@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingChains_Cournot_lemma_3_coeff_lt_one
 -- name    : CompetingChains.Cournot.lemma_3_coeff_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:38.765096+00:00
 -- url     : https://prove2.me/theorems/7e3ea155-6eef-4fd6-a660-76868d19aa2e

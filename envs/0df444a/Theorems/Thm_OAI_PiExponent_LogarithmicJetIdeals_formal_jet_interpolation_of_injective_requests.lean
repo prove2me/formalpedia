@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formal_jet_interpolation_of_injective_requests
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formal_jet_interpolation_of_injective_requests
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T23:06:12.165833+00:00
 -- url     : https://prove2.me/theorems/bbe9c705-c8a1-46cd-a474-193dd473e546

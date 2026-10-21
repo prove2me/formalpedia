@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Protective_M_at_a1_nonneg
 -- name    : PlatformEntry.Protective.M_at_a1_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:17.975793+00:00
 -- url     : https://prove2.me/theorems/339a3a6d-96fa-4cf2-bea6-c6eea43738fd

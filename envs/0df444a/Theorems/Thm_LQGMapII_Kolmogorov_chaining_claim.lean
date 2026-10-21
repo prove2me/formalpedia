@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LQGMapII_Kolmogorov_chaining_claim
 -- name    : LQGMapII.Kolmogorov.chaining_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:03.18598+00:00
 -- url     : https://prove2.me/theorems/466fc2c9-39f8-457d-9a1a-826bd93551d4

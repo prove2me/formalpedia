@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubspaceProxGrad_RPSD_lemma_1
 -- name    : SubspaceProxGrad.RPSD.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:55.410255+00:00
 -- url     : https://prove2.me/theorems/017198af-7be5-4dfd-a611-079c56f91b54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Static_limit_is_static
 -- name    : MinEarnings.Static.limit_is_static
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:33.349123+00:00
 -- url     : https://prove2.me/theorems/20a8de2a-b2e1-4ebf-a287-915eec31389a

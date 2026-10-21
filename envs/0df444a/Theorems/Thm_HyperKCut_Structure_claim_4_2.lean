@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperKCut_Structure_claim_4_2
 -- name    : HyperKCut.Structure.claim_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:15.59995+00:00
 -- url     : https://prove2.me/theorems/5dc9b14a-57e4-4026-9f3c-f23ac965e229

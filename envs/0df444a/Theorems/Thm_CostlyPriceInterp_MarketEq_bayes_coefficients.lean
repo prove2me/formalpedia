@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyPriceInterp_MarketEq_bayes_coefficients
 -- name    : CostlyPriceInterp.MarketEq.bayes_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:27.770287+00:00
 -- url     : https://prove2.me/theorems/02fa245f-9c1e-4d17-990d-368316097f39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrepoLocal_Threshold_proposition_2b
 -- name    : PrepoLocal.Threshold.proposition_2b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:59.867623+00:00
 -- url     : https://prove2.me/theorems/35cde06f-26cd-4a55-bd7a-13fc540050e1

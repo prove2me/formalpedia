@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankMarkov_RankMLE_rank_remark_nuclear_le
 -- name    : LowRankMarkov.RankMLE.rank_remark_nuclear_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:56.990628+00:00
 -- url     : https://prove2.me/theorems/85f2bc8d-d7fb-440f-86c4-8d0ab230dcfb

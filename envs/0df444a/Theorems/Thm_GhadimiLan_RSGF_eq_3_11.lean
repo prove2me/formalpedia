@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GhadimiLan_RSGF_eq_3_11
 -- name    : GhadimiLan.RSGF.eq_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:18:27.288838+00:00
 -- url     : https://prove2.me/theorems/cdd68460-9d65-4c8f-933c-dedf35a32af3

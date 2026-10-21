@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateRelease_Distributional_theorem_7_3
 -- name    : PrivateRelease.Distributional.theorem_7_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:44.457001+00:00
 -- url     : https://prove2.me/theorems/512b1259-2414-41a7-a390-c2577c17f669

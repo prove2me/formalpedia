@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_collision_remainder_tendsto_zero
 -- name    : OAI.PiExponent.DeterminantContradiction.collision_remainder_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:31:42.054055+00:00
 -- url     : https://prove2.me/theorems/2156b85d-e3c4-4115-9d51-0d968c9f373e

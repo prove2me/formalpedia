@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PBElicit_RandThresh_mechanism_A_bound
 -- name    : PBElicit.RandThresh.mechanism_A_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:31.877686+00:00
 -- url     : https://prove2.me/theorems/0025d19f-e491-40c0-98ea-07bd1879f1d3

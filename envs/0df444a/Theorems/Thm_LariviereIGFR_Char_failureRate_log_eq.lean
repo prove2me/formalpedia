@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Char_failureRate_log_eq
 -- name    : LariviereIGFR.Char.failureRate_log_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:35.55263+00:00
 -- url     : https://prove2.me/theorems/c585803a-9a1d-4245-b725-da33466f0718

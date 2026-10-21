@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_sImplQ_padRole
 -- name    : IntMul.Kappa.R6.IL3H.sImplQ_padRole
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:25:46.356945+00:00
 -- url     : https://prove2.me/theorems/eb398d4b-09b9-4417-bcf7-36d327b67f61

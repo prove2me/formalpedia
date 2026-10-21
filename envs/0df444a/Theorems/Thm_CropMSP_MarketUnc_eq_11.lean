@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CropMSP_MarketUnc_eq_11
 -- name    : CropMSP.MarketUnc.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:14.289096+00:00
 -- url     : https://prove2.me/theorems/8511eae3-d9c3-4488-9eed-3090d913a4c0

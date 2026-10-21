@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_step_III
 -- name    : OTCChain.Equilibrium.step_III
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:04.657304+00:00
 -- url     : https://prove2.me/theorems/9861b5ee-2fab-4b9c-82b9-5f00bbca2884

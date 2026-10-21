@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_OptionalStopping_rejection_prob_eq
 -- name    : RobbinsSeqDesign.OptionalStopping.rejection_prob_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:21.116982+00:00
 -- url     : https://prove2.me/theorems/b3cb1a6d-78df-4c98-8513-5b0ec2329131

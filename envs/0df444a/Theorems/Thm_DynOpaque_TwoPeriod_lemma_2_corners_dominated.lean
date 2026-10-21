@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOpaque_TwoPeriod_lemma_2_corners_dominated
 -- name    : DynOpaque.TwoPeriod.lemma_2_corners_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:31.000029+00:00
 -- url     : https://prove2.me/theorems/dc4df5a4-f39f-4e33-8cfb-d52f264a6325

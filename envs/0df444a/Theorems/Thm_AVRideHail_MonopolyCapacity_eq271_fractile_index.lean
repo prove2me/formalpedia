@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_MonopolyCapacity_eq271_fractile_index
 -- name    : AVRideHail.MonopolyCapacity.eq271_fractile_index
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:35.337994+00:00
 -- url     : https://prove2.me/theorems/730b78da-90cf-4860-81bb-10e05eae1208

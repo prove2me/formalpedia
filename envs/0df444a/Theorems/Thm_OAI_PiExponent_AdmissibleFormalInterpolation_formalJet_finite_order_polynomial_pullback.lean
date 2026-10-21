@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalJet_finite_order_polynomial_pullback
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalJet_finite_order_polynomial_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:39:46.133501+00:00
 -- url     : https://prove2.me/theorems/d820ca80-13ce-4edc-aef9-9bd63f5f9f5f

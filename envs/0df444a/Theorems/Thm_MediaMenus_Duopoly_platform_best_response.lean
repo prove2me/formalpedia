@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MediaMenus_Duopoly_platform_best_response
 -- name    : MediaMenus.Duopoly.platform_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:55.712151+00:00
 -- url     : https://prove2.me/theorems/de8d6bcd-139c-4865-9c86-afeb7e473a90

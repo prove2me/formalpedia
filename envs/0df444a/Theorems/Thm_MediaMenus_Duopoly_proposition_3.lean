@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MediaMenus_Duopoly_proposition_3
 -- name    : MediaMenus.Duopoly.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:52.562276+00:00
 -- url     : https://prove2.me/theorems/d3b126e6-1448-4097-8819-f8f8bdffc0b0

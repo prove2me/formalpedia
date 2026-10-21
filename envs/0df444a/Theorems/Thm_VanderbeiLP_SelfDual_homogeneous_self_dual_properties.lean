@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_SelfDual_homogeneous_self_dual_properties
 -- name    : VanderbeiLP.SelfDual.homogeneous_self_dual_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:53:08.263148+00:00
 -- url     : https://prove2.me/theorems/912a464c-f97a-4fe9-b7aa-57f5bc35fde9

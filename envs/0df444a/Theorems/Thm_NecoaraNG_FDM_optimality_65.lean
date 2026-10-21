@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FDM_optimality_65
 -- name    : NecoaraNG.FDM.optimality_65
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:44.747212+00:00
 -- url     : https://prove2.me/theorems/b67d6fd1-503a-4be3-9cc4-56bca0d6cf44

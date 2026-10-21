@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteTD_Markov_lemma_11
 -- name    : FiniteTD.Markov.lemma_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:15.360493+00:00
 -- url     : https://prove2.me/theorems/c81e31a1-26dc-43f2-882d-510aec62533b

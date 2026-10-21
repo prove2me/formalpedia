@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_OGD_lemma_2_31
 -- name    : ModernOnlineLearning.OGD.lemma_2_31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:37:20.508514+00:00
 -- url     : https://prove2.me/theorems/c018e517-ddb9-49f5-bd59-33c515dfd187

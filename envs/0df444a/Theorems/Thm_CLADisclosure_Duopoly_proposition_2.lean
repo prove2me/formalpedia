@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLADisclosure_Duopoly_proposition_2
 -- name    : CLADisclosure.Duopoly.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:46.345984+00:00
 -- url     : https://prove2.me/theorems/cad08afd-4397-4f83-adb3-5b6b47d9e5c9

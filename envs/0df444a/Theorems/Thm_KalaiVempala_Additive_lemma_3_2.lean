@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Additive_lemma_3_2
 -- name    : KalaiVempala.Additive.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:15.443987+00:00
 -- url     : https://prove2.me/theorems/18bbd4e5-ee41-4cd2-bd89-6bd38c4a32e0

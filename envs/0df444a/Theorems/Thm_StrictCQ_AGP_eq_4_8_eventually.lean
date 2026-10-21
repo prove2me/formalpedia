@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_AGP_eq_4_8_eventually
 -- name    : StrictCQ.AGP.eq_4_8_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:37:35.143961+00:00
 -- url     : https://prove2.me/theorems/60e02125-da39-489d-8e85-1f65bedbcb41

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.DeterminantContradiction.actualRowCount_polynomial_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:14:50.257541+00:00
 -- url     : https://prove2.me/submissions/2403f631-812e-478e-9c16-f40e5573360f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actualRowCount_ge_one_eventually
 import Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actualRowCount_poly_upper_eventually

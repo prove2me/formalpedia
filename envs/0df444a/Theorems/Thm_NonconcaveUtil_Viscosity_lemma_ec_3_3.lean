@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconcaveUtil_Viscosity_lemma_ec_3_3
 -- name    : NonconcaveUtil.Viscosity.lemma_ec_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:20.473551+00:00
 -- url     : https://prove2.me/theorems/71b379bb-1fa1-47de-9930-6e54e5681379

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_AWC_example_base10_period
 -- name    : CarryRNG.AWC.example_base10_period
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:23:15.152975+00:00
 -- url     : https://prove2.me/theorems/1e2a1663-e343-4d08-8554-98cd09b36414

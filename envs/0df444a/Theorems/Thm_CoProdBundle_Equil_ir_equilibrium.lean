@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_ir_equilibrium
 -- name    : CoProdBundle.Equil.ir_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:40.627735+00:00
 -- url     : https://prove2.me/theorems/fe0ed00d-6fdb-4207-81f3-89a7da6ed155

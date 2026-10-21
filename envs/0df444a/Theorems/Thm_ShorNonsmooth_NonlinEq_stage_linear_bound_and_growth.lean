@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_NonlinEq_stage_linear_bound_and_growth
 -- name    : ShorNonsmooth.NonlinEq.stage_linear_bound_and_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:23:24.428218+00:00
 -- url     : https://prove2.me/theorems/5fd31767-bf13-416f-a37a-44a629c07d03

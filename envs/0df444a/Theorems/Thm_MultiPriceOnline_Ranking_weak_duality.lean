@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ranking_weak_duality
 -- name    : MultiPriceOnline.Ranking.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:22.70049+00:00
 -- url     : https://prove2.me/theorems/eeacaf45-2858-46e1-ad3a-72ec75e38cdf

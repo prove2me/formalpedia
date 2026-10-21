@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_seriesJet_monomial_coeff_eq_entry
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.seriesJet_monomial_coeff_eq_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T13:06:32.057991+00:00
 -- url     : https://prove2.me/theorems/b2f79d6f-9208-4fa2-8420-6252b40181c1

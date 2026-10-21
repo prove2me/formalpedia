@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_swap_werner_private_bit
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.swap_werner_private_bit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:25:49.160014+00:00
 -- url     : https://prove2.me/theorems/81aecc0f-edcf-4582-b4c2-1a42fc5fe471

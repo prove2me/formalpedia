@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_Rationalized_contErlangC_eq_erlangC
 -- name    : DimCallCenters.Rationalized.contErlangC_eq_erlangC
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:25:49.42199+00:00
 -- url     : https://prove2.me/theorems/52f59e32-cec7-453a-8856-5d93a1ef9f71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_bounded_packet_representative_from_matrix_surjectivity
 -- name    : OAI.PiExponent.FormalInterpolation.bounded_packet_representative_from_matrix_surjectivity
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T05:22:10.287222+00:00
 -- url     : https://prove2.me/theorems/69794f7e-672b-4c5a-a7ff-d05eb2b683cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_AWC_expansion_period_iff
 -- name    : CarryRNG.AWC.expansion_period_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:16.692564+00:00
 -- url     : https://prove2.me/theorems/58b135cd-2d18-47b1-ad2c-c67bdb65a7a9

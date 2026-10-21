@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_Winnow_lemma_2_20
 -- name    : OnlineLearningOCO.Winnow.lemma_2_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:20.247994+00:00
 -- url     : https://prove2.me/theorems/77770cac-c351-426d-9d63-e75e898515a2

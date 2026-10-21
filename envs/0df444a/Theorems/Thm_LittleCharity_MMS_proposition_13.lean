@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_MMS_proposition_13
 -- name    : LittleCharity.MMS.proposition_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:10.669021+00:00
 -- url     : https://prove2.me/theorems/3fc89ed1-2714-4e3d-8aed-a9b48121bbe0

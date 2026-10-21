@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Curtain_lemma_5_1
 -- name    : MartOT.Curtain.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:23.425199+00:00
 -- url     : https://prove2.me/theorems/e3579fd8-e9ad-49ae-9cc1-4fcf9157d2a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDScenRed_Mean_pos_on_Z
 -- name    : PDScenRed.Mean.pos_on_Z
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:44.369615+00:00
 -- url     : https://prove2.me/theorems/e5008ed9-d908-406d-b3ee-10a6b79638a7

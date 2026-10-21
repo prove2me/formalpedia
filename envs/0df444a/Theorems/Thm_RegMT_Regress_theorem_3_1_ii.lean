@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMT_Regress_theorem_3_1_ii
 -- name    : RegMT.Regress.theorem_3_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:10:34.692143+00:00
 -- url     : https://prove2.me/theorems/e6c10c75-7d1d-4e5c-bac7-1c320709958a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Thresholds_proposition2_thresholds
 -- name    : Multihoming.Thresholds.proposition2_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:50.576436+00:00
 -- url     : https://prove2.me/theorems/1bbdab22-4a59-4c7f-83bd-345acc246cdf

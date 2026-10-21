@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weightedShear_seriesJet_linearExtension
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weightedShear_seriesJet_linearExtension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:28:05.063169+00:00
 -- url     : https://prove2.me/theorems/62dec3bd-a02e-41cf-87ea-c4bdb6f3fd8e

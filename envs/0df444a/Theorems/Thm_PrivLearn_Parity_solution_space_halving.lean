@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_Parity_solution_space_halving
 -- name    : PrivLearn.Parity.solution_space_halving
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:11.663245+00:00
 -- url     : https://prove2.me/theorems/35c15b81-74c8-4a48-b92f-c31e9c3fc14e

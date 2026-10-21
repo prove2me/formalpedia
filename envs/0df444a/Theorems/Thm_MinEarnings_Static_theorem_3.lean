@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Static_theorem_3
 -- name    : MinEarnings.Static.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:46.181881+00:00
 -- url     : https://prove2.me/theorems/fd551f6d-eb99-410c-a256-03179945d3a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_ProxyLabel_exp_neg_c_step
 -- name    : PosetSecretary.ProxyLabel.exp_neg_c_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:33.876121+00:00
 -- url     : https://prove2.me/theorems/f3067450-c099-4781-99af-7e4420173461

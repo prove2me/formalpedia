@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMQuasi_optimality_47
 -- name    : NecoaraNG.GMQuasi.optimality_47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:40:45.801974+00:00
 -- url     : https://prove2.me/theorems/1b4a059c-c6ee-4547-b227-a7c4e968e780

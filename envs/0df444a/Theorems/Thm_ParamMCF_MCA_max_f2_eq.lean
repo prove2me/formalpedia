@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamMCF_MCA_max_f2_eq
 -- name    : ParamMCF.MCA.max_f2_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:13.536652+00:00
 -- url     : https://prove2.me/theorems/a673d882-06ab-4334-8368-e3dca70e5a7b

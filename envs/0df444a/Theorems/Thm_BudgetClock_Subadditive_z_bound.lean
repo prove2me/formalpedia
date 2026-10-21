@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Subadditive_z_bound
 -- name    : BudgetClock.Subadditive.z_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:25:16.674984+00:00
 -- url     : https://prove2.me/theorems/5070c382-e813-415c-a695-ad715f8e0cbd

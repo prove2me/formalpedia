@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Additive_eq_5
 -- name    : KalaiVempala.Additive.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:11.079232+00:00
 -- url     : https://prove2.me/theorems/88719cdd-fc76-4a90-a6a3-3770aab995a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_IHT_theorem_3_1
 -- name    : SparseNLO.IHT.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:58.135773+00:00
 -- url     : https://prove2.me/theorems/08a2a461-0c77-48bd-9648-027d0a35a55b

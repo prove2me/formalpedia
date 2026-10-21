@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_formal_jet_interpolation
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_formal_jet_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T21:58:48.636587+00:00
 -- url     : https://prove2.me/theorems/f8eb26ef-25ae-4c5a-91b1-41746aed483b

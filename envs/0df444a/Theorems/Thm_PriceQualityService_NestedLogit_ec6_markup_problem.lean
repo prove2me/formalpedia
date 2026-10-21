@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_NestedLogit_ec6_markup_problem
 -- name    : PriceQualityService.NestedLogit.ec6_markup_problem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:28:20.309473+00:00
 -- url     : https://prove2.me/theorems/468b8209-d4a8-4443-bbb1-140553b03f1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedPriceChanges_LowerBound_separation
 -- name    : LimitedPriceChanges.LowerBound.separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:44.299975+00:00
 -- url     : https://prove2.me/theorems/5ab7474f-ecf6-4767-b990-428cbc96b216

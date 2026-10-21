@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_eq_83_trade_rule
 -- name    : OTCChain.Equilibrium.eq_83_trade_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:38.075968+00:00
 -- url     : https://prove2.me/theorems/9549561b-fb22-4a73-9b11-b85222dd62d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_localCoordinatePolynomial_eq_truncatedCoordinate_aeval
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.localCoordinatePolynomial_eq_truncatedCoordinate_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:49:11.137547+00:00
 -- url     : https://prove2.me/theorems/6d78b1c5-cf8c-4217-8ca3-1aa61c86de83

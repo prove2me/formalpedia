@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TVSDP_PolyOpt_lemma_3b
 -- name    : TVSDP.PolyOpt.lemma_3b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:59.551124+00:00
 -- url     : https://prove2.me/theorems/c76e3140-dd4d-495b-8559-c1d526c2fee6

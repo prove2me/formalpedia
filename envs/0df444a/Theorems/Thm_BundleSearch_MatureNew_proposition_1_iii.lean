@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundleSearch_MatureNew_proposition_1_iii
 -- name    : BundleSearch.MatureNew.proposition_1_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:26:12.116111+00:00
 -- url     : https://prove2.me/theorems/97177f7e-2001-404a-b94d-021845fdab5e

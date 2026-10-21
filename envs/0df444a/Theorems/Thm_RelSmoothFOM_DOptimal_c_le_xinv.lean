@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DOptimal_c_le_xinv
 -- name    : RelSmoothFOM.DOptimal.c_le_xinv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:34:34.747909+00:00
 -- url     : https://prove2.me/theorems/29be4ab9-151c-4191-b8c0-c7f85503d175

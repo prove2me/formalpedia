@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefMNLPricing_PromoInsensitive_observation_p24
 -- name    : RefMNLPricing.PromoInsensitive.observation_p24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:18.09768+00:00
 -- url     : https://prove2.me/theorems/68105fbc-5286-44ff-a201-3fb39dfe344f

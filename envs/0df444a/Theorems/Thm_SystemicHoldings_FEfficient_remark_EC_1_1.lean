@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemicHoldings_FEfficient_remark_EC_1_1
 -- name    : SystemicHoldings.FEfficient.remark_EC_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:21.325003+00:00
 -- url     : https://prove2.me/theorems/94be1c58-e9ae-4772-94de-698bec88674a

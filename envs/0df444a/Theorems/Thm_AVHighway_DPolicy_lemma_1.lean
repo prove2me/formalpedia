@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVHighway_DPolicy_lemma_1
 -- name    : AVHighway.DPolicy.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:13:08.972914+00:00
 -- url     : https://prove2.me/theorems/3ad97c45-5fd5-42f8-8abd-964efba106f6

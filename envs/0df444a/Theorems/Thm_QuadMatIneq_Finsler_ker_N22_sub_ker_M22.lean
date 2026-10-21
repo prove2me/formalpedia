@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Finsler_ker_N22_sub_ker_M22
 -- name    : QuadMatIneq.Finsler.ker_N22_sub_ker_M22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:29.858127+00:00
 -- url     : https://prove2.me/theorems/72fdd286-e2ab-46fa-a7db-b2a167e57ea3

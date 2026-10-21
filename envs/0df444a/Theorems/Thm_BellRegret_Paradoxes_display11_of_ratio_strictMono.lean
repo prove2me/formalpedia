@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_display11_of_ratio_strictMono
 -- name    : BellRegret.Paradoxes.display11_of_ratio_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:09.568392+00:00
 -- url     : https://prove2.me/theorems/3cbe4d61-2e7a-4095-8b29-075e95689ad2

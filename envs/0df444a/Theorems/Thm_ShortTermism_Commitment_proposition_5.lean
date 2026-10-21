@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermism_Commitment_proposition_5
 -- name    : ShortTermism.Commitment.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:17.676987+00:00
 -- url     : https://prove2.me/theorems/f6f5d01e-4c84-4ac5-b530-69090d3d4f7d

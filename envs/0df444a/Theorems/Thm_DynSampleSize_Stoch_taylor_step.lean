@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynSampleSize_Stoch_taylor_step
 -- name    : DynSampleSize.Stoch.taylor_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:45.048123+00:00
 -- url     : https://prove2.me/theorems/826089a2-08f0-4c0b-904b-19de85c48e61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Multiplicative_eq_7
 -- name    : KalaiVempala.Multiplicative.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:53:15.308762+00:00
 -- url     : https://prove2.me/theorems/1729b385-b581-4991-8ae6-4f0d1769a80c

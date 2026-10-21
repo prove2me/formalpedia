@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGradGAW_Smooth_eq_25
 -- name    : QGradGAW.Smooth.eq_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:05.74215+00:00
 -- url     : https://prove2.me/theorems/8efc940a-8fe2-421c-8577-556e260fab7f

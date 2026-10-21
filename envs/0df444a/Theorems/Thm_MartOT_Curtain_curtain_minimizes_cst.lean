@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Curtain_curtain_minimizes_cst
 -- name    : MartOT.Curtain.curtain_minimizes_cst
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:27.591633+00:00
 -- url     : https://prove2.me/theorems/a2672ae7-996e-4bef-a546-e90770820f75

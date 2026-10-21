@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiRegCournot_Equilibrium_theorem_4_5
 -- name    : MultiRegCournot.Equilibrium.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:42.749373+00:00
 -- url     : https://prove2.me/theorems/934b2d7d-9d20-4cf1-97df-6a169c049641

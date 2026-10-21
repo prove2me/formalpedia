@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Char_igfr_iff_hr_scale
 -- name    : LariviereIGFR.Char.igfr_iff_hr_scale
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:39:10.48554+00:00
 -- url     : https://prove2.me/theorems/b4035511-ec86-4136-baf7-8fda54b208b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Knapsack_eq_2
 -- name    : TwoAgentSched.Knapsack.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:49.082352+00:00
 -- url     : https://prove2.me/theorems/48f45795-d107-4232-b76a-b65f57551a34

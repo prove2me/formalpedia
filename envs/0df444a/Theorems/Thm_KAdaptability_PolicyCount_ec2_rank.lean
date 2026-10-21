@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_PolicyCount_ec2_rank
 -- name    : KAdaptability.PolicyCount.ec2_rank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:03:36.932201+00:00
 -- url     : https://prove2.me/theorems/ba7b92fe-138d-4ed3-ac34-3dfe44044ad1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Potential_corollary_2_7
 -- name    : SelfishRouting.Potential.corollary_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:12.016921+00:00
 -- url     : https://prove2.me/theorems/7744f6c1-dbc1-48c4-a66a-beb1b8c3f94f

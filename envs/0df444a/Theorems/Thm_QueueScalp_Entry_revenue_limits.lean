@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueScalp_Entry_revenue_limits
 -- name    : QueueScalp.Entry.revenue_limits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:56.466515+00:00
 -- url     : https://prove2.me/theorems/44aeb554-974c-4960-a5f3-39189b7cee86

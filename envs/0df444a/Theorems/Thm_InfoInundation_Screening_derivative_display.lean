@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoInundation_Screening_derivative_display
 -- name    : InfoInundation.Screening.derivative_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:35.153978+00:00
 -- url     : https://prove2.me/theorems/807cfc24-f732-464e-873d-4aba7d4448de

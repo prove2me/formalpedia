@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTail_Azuma_lemma4_3_rademacher
 -- name    : MatrixTail.Azuma.lemma4_3_rademacher
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:25:07.032095+00:00
 -- url     : https://prove2.me/theorems/69286823-5dfa-464c-b7fc-59ea9086570b

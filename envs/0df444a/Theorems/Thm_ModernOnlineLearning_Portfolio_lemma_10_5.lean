@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Portfolio_lemma_10_5
 -- name    : ModernOnlineLearning.Portfolio.lemma_10_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:38:37.828072+00:00
 -- url     : https://prove2.me/theorems/d1186dcc-a0e7-42e8-96d4-e7db974855f9

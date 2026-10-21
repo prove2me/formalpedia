@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_OptionalStopping_rejects_infinitely_often
 -- name    : RobbinsSeqDesign.OptionalStopping.rejects_infinitely_often
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:16.776167+00:00
 -- url     : https://prove2.me/theorems/4c2892c9-47c8-4792-a9ac-81531562b15e

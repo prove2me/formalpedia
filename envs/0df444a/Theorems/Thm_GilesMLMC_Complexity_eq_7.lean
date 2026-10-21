@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GilesMLMC_Complexity_eq_7
 -- name    : GilesMLMC.Complexity.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:50.647801+00:00
 -- url     : https://prove2.me/theorems/a3c13f83-020d-4114-b2ef-95292b406203

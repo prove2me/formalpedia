@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_Clique_cube_upper_bound
 -- name    : GeometryOfGraphs.Clique.cube_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:09:46.339993+00:00
 -- url     : https://prove2.me/theorems/4ef096d5-e0c4-4481-aa21-1fda70f037bc

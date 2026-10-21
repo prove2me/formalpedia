@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ratios_proposition_1
 -- name    : MultiPriceOnline.Ratios.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:28.25198+00:00
 -- url     : https://prove2.me/theorems/f482eb59-e214-4cd5-a883-9e1ff6d735e3

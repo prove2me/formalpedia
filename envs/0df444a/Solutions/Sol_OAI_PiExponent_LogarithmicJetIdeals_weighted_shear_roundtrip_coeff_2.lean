@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.LogarithmicJetIdeals.weighted_shear_roundtrip_coeff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:49:40.702747+00:00
 -- url     : https://prove2.me/submissions/aaa1070a-5956-40ab-af62-fce546d8bc00
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals_LocalCoordinatePolynomial

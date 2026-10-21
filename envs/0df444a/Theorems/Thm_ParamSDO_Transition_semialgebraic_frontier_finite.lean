@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_semialgebraic_frontier_finite
 -- name    : ParamSDO.Transition.semialgebraic_frontier_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:14.85498+00:00
 -- url     : https://prove2.me/theorems/379aca0f-e7d6-47db-a92e-15b57b564527

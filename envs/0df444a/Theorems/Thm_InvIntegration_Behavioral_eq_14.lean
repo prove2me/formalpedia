@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_eq_14
 -- name    : InvIntegration.Behavioral.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:08.772+00:00
 -- url     : https://prove2.me/theorems/b3f28a9e-7d0b-4f65-825d-32ae5bc5c96e

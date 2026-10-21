@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MechanismDesign_Robust_no_undominated_interim_pareto
 -- name    : MechanismDesign.Robust.no_undominated_interim_pareto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T05:20:38.337977+00:00
 -- url     : https://prove2.me/theorems/e2f54e25-9beb-4eec-8648-376d7f9bc0df

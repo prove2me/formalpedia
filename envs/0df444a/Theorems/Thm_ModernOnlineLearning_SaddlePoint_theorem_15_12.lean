@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_SaddlePoint_theorem_15_12
 -- name    : ModernOnlineLearning.SaddlePoint.theorem_15_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:39:45.381302+00:00
 -- url     : https://prove2.me/theorems/59861d22-2f2a-4226-a916-541afceaca74

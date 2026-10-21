@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_Interior_mem_Icc_of_mem_F
 -- name    : GivenDegreeSeq.Interior.mem_Icc_of_mem_F
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:52:25.69857+00:00
 -- url     : https://prove2.me/theorems/b61ed198-11ca-45da-954c-58de5b386ddd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weightedStrictSimplex_box_product_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.weightedStrictSimplex_box_product_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:44:25.740311+00:00
 -- url     : https://prove2.me/theorems/e127d72a-536b-4029-92ef-f88550660932

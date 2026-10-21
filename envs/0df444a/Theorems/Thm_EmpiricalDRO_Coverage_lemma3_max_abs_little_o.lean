@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalDRO_Coverage_lemma3_max_abs_little_o
 -- name    : EmpiricalDRO.Coverage.lemma3_max_abs_little_o
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T15:08:27.578008+00:00
 -- url     : https://prove2.me/theorems/daabacd1-3c90-41c7-a62e-4b7040531cea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeveragedPayouts_Unregulated_lrho_gt_lstar
 -- name    : LeveragedPayouts.Unregulated.lrho_gt_lstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:20.29718+00:00
 -- url     : https://prove2.me/theorems/69a20be7-d277-4102-9aa2-287a76098ff6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_NNSmooth_lemma_6
 -- name    : CertDRO.NNSmooth.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:32:52.216025+00:00
 -- url     : https://prove2.me/theorems/0640f752-a333-498c-b1ed-32be9e4a5ff5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_Disagreement_prob_disagree_le_coeff
 -- name    : StatComplexityDM.Disagreement.prob_disagree_le_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:19.29275+00:00
 -- url     : https://prove2.me/theorems/7c05f105-ba10-4620-bab2-a4600bce8d9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundleSearch_MatureNew_mature_optimal
 -- name    : BundleSearch.MatureNew.mature_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:26:07.503666+00:00
 -- url     : https://prove2.me/theorems/c3e5939f-00de-4f6e-9377-53ad874a57b9

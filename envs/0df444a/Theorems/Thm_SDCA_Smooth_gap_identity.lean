@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_Smooth_gap_identity
 -- name    : SDCA.Smooth.gap_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:08:45.975354+00:00
 -- url     : https://prove2.me/theorems/f5e7680e-3fa8-4c2a-90f9-311dc6f6091e

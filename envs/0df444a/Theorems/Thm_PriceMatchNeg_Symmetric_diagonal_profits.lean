@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceMatchNeg_Symmetric_diagonal_profits
 -- name    : PriceMatchNeg.Symmetric.diagonal_profits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:04.708578+00:00
 -- url     : https://prove2.me/theorems/dca37c56-03c0-4f47-991b-63a0f78f96fc

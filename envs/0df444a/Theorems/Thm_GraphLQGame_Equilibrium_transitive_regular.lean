@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphLQGame_Equilibrium_transitive_regular
 -- name    : GraphLQGame.Equilibrium.transitive_regular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:25:27.891243+00:00
 -- url     : https://prove2.me/theorems/46c9e508-8825-4718-a272-b4c764130cc5

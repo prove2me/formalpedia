@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_translation_remainder_lt_eighth
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_translation_remainder_lt_eighth
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:45:15.897661+00:00
 -- url     : https://prove2.me/theorems/8491beb6-2e62-48fd-a7f6-645d60845cd6

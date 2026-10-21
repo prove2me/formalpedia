@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_MICP_remark_4_2
 -- name    : ShortestGCS.MICP.remark_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:10:19.422441+00:00
 -- url     : https://prove2.me/theorems/bd1ea5bf-c747-4a42-afb0-99301548f571

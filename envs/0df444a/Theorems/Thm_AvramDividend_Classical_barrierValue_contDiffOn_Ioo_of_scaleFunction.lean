@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierValue_contDiffOn_Ioo_of_scaleFunction
 -- name    : AvramDividend.Classical.barrierValue_contDiffOn_Ioo_of_scaleFunction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T18:11:09.291242+00:00
 -- url     : https://prove2.me/theorems/65142bce-7b97-475c-a252-af8b8ccfbb86

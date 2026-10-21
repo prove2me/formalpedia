@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weightedStrictSimplex_card_eventually_polynomial_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.weightedStrictSimplex_card_eventually_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:34:21.720697+00:00
 -- url     : https://prove2.me/theorems/b1fec56b-b4a6-444e-b131-5d4d9eaf3401

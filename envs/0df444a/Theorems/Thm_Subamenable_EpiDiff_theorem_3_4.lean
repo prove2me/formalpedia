@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Subamenable_EpiDiff_theorem_3_4
 -- name    : Subamenable.EpiDiff.theorem_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:35.869983+00:00
 -- url     : https://prove2.me/theorems/c96e12e5-a600-4e28-9664-0a783fe5ed4b

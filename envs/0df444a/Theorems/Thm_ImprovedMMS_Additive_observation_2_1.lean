@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedMMS_Additive_observation_2_1
 -- name    : ImprovedMMS.Additive.observation_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:48.504127+00:00
 -- url     : https://prove2.me/theorems/34974e68-8e4d-45ab-b0d0-26b2bd17121a

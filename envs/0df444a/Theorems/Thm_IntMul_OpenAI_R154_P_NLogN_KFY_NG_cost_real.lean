@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFY_NG_cost_real
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFY.NG.cost_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:18:41.870802+00:00
 -- url     : https://prove2.me/theorems/3ce459bd-4fe8-4e28-81a1-893e722fb230

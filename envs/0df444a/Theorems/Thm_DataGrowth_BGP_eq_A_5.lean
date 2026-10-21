@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataGrowth_BGP_eq_A_5
 -- name    : DataGrowth.BGP.eq_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:07.27299+00:00
 -- url     : https://prove2.me/theorems/ef8c5879-821e-4378-aa96-f6eb8cb60ef8

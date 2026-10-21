@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_eq_55_57
 -- name    : OTCChain.Equilibrium.eq_55_57
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:35.682213+00:00
 -- url     : https://prove2.me/theorems/03880fcd-2c30-4c6e-9a3a-f709c0d19a80

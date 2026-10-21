@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CropMSP_MarketUnc_v_identity
 -- name    : CropMSP.MarketUnc.v_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:06.021237+00:00
 -- url     : https://prove2.me/theorems/6a794ff3-f642-44b6-a2e3-96d028b437b1

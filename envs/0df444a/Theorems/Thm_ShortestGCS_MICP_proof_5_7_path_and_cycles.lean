@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_MICP_proof_5_7_path_and_cycles
 -- name    : ShortestGCS.MICP.proof_5_7_path_and_cycles
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:12:09.745049+00:00
 -- url     : https://prove2.me/theorems/2cbf74fb-0d1c-461f-bf61-04579135d13c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_inP_phase6
 -- name    : IntMul.Kappa.R6.inP_phase6
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:38:00.945644+00:00
 -- url     : https://prove2.me/theorems/354e60bc-89f2-4a6a-ab63-50d3f66a4571

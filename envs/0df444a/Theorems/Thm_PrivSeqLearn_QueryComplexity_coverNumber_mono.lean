@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_coverNumber_mono
 -- name    : PrivSeqLearn.QueryComplexity.coverNumber_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:19.685905+00:00
 -- url     : https://prove2.me/theorems/332bb8db-0bfd-431b-aadd-1c6ac4718007

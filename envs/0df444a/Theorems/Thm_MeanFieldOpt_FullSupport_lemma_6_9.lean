@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanFieldOpt_FullSupport_lemma_6_9
 -- name    : MeanFieldOpt.FullSupport.lemma_6_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:30:35.079357+00:00
 -- url     : https://prove2.me/theorems/075c6042-ebbf-4cdf-9cc4-1ce60761d4f2

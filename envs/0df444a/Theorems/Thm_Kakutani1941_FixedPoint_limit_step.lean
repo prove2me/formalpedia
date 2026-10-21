@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kakutani1941_FixedPoint_limit_step
 -- name    : Kakutani1941.FixedPoint.limit_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:15:55.284672+00:00
 -- url     : https://prove2.me/theorems/64ebbd72-3993-43af-86c6-32d60e5435fa

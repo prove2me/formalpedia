@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultitierCSR_Strategy_theorem_1
 -- name    : MultitierCSR.Strategy.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:06.787731+00:00
 -- url     : https://prove2.me/theorems/d79134fe-19d3-4df7-affd-9214140e90a4

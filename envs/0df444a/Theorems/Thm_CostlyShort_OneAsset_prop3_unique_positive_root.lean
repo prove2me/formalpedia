@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_OneAsset_prop3_unique_positive_root
 -- name    : CostlyShort.OneAsset.prop3_unique_positive_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:35.305863+00:00
 -- url     : https://prove2.me/theorems/a46c9ef4-05bf-4af6-baba-5cb7b9acc54a

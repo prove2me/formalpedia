@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRenewal_Elementary_elementary_renewal_theorem
 -- name    : SmithRenewal.Elementary.elementary_renewal_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:11.591983+00:00
 -- url     : https://prove2.me/theorems/b689ea1a-fac8-4240-8c12-fa8e3e439bae

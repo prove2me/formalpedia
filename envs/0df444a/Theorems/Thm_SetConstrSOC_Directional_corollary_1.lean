@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetConstrSOC_Directional_corollary_1
 -- name    : SetConstrSOC.Directional.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:12.317322+00:00
 -- url     : https://prove2.me/theorems/a268b280-3f45-4ba9-92a8-fa0e1fef3af5

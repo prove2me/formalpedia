@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_AGP_eq_4_6_normalCone_eq_polar
 -- name    : StrictCQ.AGP.eq_4_6_normalCone_eq_polar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:38:08.851161+00:00
 -- url     : https://prove2.me/theorems/d32d8a1f-3783-4562-9158-9a262492cf08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassartDKW_Tight_lemma_4
 -- name    : MassartDKW.Tight.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:12:55.198981+00:00
 -- url     : https://prove2.me/theorems/d2089810-4801-4db5-858d-bcdb3783e676

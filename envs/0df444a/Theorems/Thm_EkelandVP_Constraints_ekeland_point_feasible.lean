@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_Constraints_ekeland_point_feasible
 -- name    : EkelandVP.Constraints.ekeland_point_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:51:34.355686+00:00
 -- url     : https://prove2.me/theorems/ee72f2e6-2e7f-49bc-807a-3824115d0c6d

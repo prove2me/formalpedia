@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGradGAW_Smooth_central_coeff_moments
 -- name    : QGradGAW.Smooth.central_coeff_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:46.616983+00:00
 -- url     : https://prove2.me/theorems/203a659d-12c1-48a6-8150-d8ebbd305c75

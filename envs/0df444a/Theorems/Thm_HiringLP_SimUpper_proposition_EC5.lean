@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimUpper_proposition_EC5
 -- name    : HiringLP.SimUpper.proposition_EC5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:08.839923+00:00
 -- url     : https://prove2.me/theorems/3b6abc20-4bb0-443f-946d-5c962cc7a14e

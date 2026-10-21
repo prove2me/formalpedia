@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_sample_mean_concentration
 -- name    : BestBothWorlds.SAO.sample_mean_concentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:00.166653+00:00
 -- url     : https://prove2.me/theorems/b0242b1c-5bd2-45c6-a09b-504fb4a83ab0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Multiplicative_bound_shared_perturbation
 -- name    : KalaiVempala.Multiplicative.bound_shared_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:52:32.673995+00:00
 -- url     : https://prove2.me/theorems/14f1b5c4-5dcb-47dc-8a79-b9ec26c63972

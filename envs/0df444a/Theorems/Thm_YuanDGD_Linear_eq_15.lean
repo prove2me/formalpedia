@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YuanDGD_Linear_eq_15
 -- name    : YuanDGD.Linear.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:19:30.141477+00:00
 -- url     : https://prove2.me/theorems/063aaff8-38e7-4784-b0f0-cfca7197f87b

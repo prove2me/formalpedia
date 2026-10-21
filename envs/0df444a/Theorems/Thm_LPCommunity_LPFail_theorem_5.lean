@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_LPFail_theorem_5
 -- name    : LPCommunity.LPFail.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:04:26.356459+00:00
 -- url     : https://prove2.me/theorems/9e31207f-ca9d-469a-9f33-3bea001b343a

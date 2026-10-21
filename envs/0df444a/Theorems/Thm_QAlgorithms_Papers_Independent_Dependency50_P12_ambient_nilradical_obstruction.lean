@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_ambient_nilradical_obstruction
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.ambient_nilradical_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:04:17.970058+00:00
 -- url     : https://prove2.me/theorems/da704271-13e8-42ef-9f99-244e15df8410

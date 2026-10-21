@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_ColorCritical_small_X_lt_gNum
 -- name    : TuranMatching.ColorCritical.small_X_lt_gNum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:33:54.486052+00:00
 -- url     : https://prove2.me/theorems/31735a34-d0e3-436d-8ae3-5c80cf166ec3

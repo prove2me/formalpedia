@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_CapacityStatics_proposition_4_8
 -- name    : PoWMining.CapacityStatics.proposition_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:36.20167+00:00
 -- url     : https://prove2.me/theorems/97ca29ba-d650-433d-a7f6-c50f23814aad

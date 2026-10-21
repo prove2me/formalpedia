@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_MonopolyCapacity_lemma1_nMin_strictMono_bijOn
 -- name    : AVRideHail.MonopolyCapacity.lemma1_nMin_strictMono_bijOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:19.084378+00:00
 -- url     : https://prove2.me/theorems/f7e6b90f-8e6a-4c4c-bd8c-e56e6250b1c0

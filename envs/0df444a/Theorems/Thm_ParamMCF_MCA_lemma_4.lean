@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamMCF_MCA_lemma_4
 -- name    : ParamMCF.MCA.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:17.127817+00:00
 -- url     : https://prove2.me/theorems/f3f45159-1fc9-4cbd-836f-23f89a038b15

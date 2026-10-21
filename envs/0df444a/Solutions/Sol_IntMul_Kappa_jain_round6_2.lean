@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for IntMul.Kappa.jain_round6
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-10-11T19:59:38.284814+00:00
 -- url     : https://prove2.me/submissions/0697d257-94ab-4cb1-a981-96c2590e6085
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_MultitapeModel
 import Definitions.Def_IntMul_KappaFramework

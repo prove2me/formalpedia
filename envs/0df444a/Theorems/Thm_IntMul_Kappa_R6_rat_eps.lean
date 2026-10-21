@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_rat_eps
 -- name    : IntMul.Kappa.R6.rat_eps
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:37:24.956866+00:00
 -- url     : https://prove2.me/theorems/9a0f5e9c-1926-40bf-add2-7c42e1a819cf

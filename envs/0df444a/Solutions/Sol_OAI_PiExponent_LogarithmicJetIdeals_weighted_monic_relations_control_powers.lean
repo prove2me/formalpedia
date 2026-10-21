@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.weighted_monic_relations_control_powers
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-19T03:10:04.411968+00:00
 -- url     : https://prove2.me/submissions/65e6c17d-a9e6-4115-b2b5-9f17a8297771
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_weighted_monic_staircase_remainder
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals

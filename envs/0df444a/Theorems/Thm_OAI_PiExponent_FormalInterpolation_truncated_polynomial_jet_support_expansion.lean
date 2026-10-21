@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_polynomial_jet_support_expansion
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_polynomial_jet_support_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:55:14.658137+00:00
 -- url     : https://prove2.me/theorems/fa041992-641e-43bb-b856-2369dad905f9

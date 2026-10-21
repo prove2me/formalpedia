@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_Perturb_g_estimate
 -- name    : PDASNewton.Perturb.g_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:10:50.756739+00:00
 -- url     : https://prove2.me/theorems/1eed004c-2599-4772-970c-7ee356af485b

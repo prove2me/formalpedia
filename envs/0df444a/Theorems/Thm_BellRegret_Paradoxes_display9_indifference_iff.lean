@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_display9_indifference_iff
 -- name    : BellRegret.Paradoxes.display9_indifference_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:21:58.680001+00:00
 -- url     : https://prove2.me/theorems/c1236398-e90e-4a79-966e-c36fa9116939

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Uncertainty_y_lambda_exists_unique
 -- name    : ClimateImpact.Uncertainty.y_lambda_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:57:35.457753+00:00
 -- url     : https://prove2.me/theorems/38acb07a-7ad1-46aa-88c3-8fdfdb57f9b0

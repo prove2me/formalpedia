@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_equivalent_instrument
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.equivalent_instrument
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:42:45.929711+00:00
 -- url     : https://prove2.me/theorems/e30b9c18-5bbb-487e-9f16-b1a3facdfccc

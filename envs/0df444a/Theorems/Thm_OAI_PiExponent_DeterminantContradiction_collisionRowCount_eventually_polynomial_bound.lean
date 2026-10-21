@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_collisionRowCount_eventually_polynomial_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.collisionRowCount_eventually_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:14:15.191416+00:00
 -- url     : https://prove2.me/theorems/19f8f71f-07d9-4be7-88ef-e1583c208020

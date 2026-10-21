@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGradGAW_Smooth_choice_of_r
 -- name    : QGradGAW.Smooth.choice_of_r
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:31.717171+00:00
 -- url     : https://prove2.me/theorems/12074a09-f435-441b-adee-0641e82ec5f3

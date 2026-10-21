@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_Additive_kconvex_def22_iff_def21
 -- name    : ChenSimchiLevi.Additive.kconvex_def22_iff_def21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:41:06.448372+00:00
 -- url     : https://prove2.me/theorems/6f60162e-d48d-43d2-9920-6f7b185c5a83

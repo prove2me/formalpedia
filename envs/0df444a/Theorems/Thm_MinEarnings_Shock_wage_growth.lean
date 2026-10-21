@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Shock_wage_growth
 -- name    : MinEarnings.Shock.wage_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:52.862696+00:00
 -- url     : https://prove2.me/theorems/72932ea2-0130-4dcc-aeaa-8eac0dd89c80

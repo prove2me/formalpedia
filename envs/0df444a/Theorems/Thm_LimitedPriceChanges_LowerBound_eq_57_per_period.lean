@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedPriceChanges_LowerBound_eq_57_per_period
 -- name    : LimitedPriceChanges.LowerBound.eq_57_per_period
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:58.115375+00:00
 -- url     : https://prove2.me/theorems/42200056-a5a9-4f30-8dc6-25532421ce12

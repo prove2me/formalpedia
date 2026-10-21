@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_strict_pos_of_unbounded_variation
 -- name    : AvramDividend.Classical.scaleFunction_strict_pos_of_unbounded_variation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T21:04:18.224995+00:00
 -- url     : https://prove2.me/theorems/e50526dc-0664-41df-ab1c-b260c3e1f923

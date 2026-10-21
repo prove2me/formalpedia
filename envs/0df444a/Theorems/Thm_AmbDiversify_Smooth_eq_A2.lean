@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AmbDiversify_Smooth_eq_A2
 -- name    : AmbDiversify.Smooth.eq_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:09.331724+00:00
 -- url     : https://prove2.me/theorems/5766b2a1-0239-4c27-b9e5-1e8afa23c950

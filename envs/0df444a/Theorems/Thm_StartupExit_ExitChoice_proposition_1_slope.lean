@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StartupExit_ExitChoice_proposition_1_slope
 -- name    : StartupExit.ExitChoice.proposition_1_slope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:45.827757+00:00
 -- url     : https://prove2.me/theorems/0aa49b89-fd74-4892-bc61-0384d6430c9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Nesting_marginalValue_le_topRevenue
 -- name    : RevenueOrdered.Nesting.marginalValue_le_topRevenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:32:34.834447+00:00
 -- url     : https://prove2.me/theorems/863d1b41-14f3-492c-b9d5-fb1e5f39bc35

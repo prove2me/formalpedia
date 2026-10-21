@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_LowerBound_lemma_E_1
 -- name    : MNLBandit.LowerBound.lemma_E_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:10.99599+00:00
 -- url     : https://prove2.me/theorems/14fc1112-2106-4e76-bfff-a3959db03c41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_SaddlePoint_theorem_7_47_linear
 -- name    : ModernOnlineLearning.SaddlePoint.theorem_7_47_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:39:29.96207+00:00
 -- url     : https://prove2.me/theorems/651984d9-4292-40d9-8e2a-93a4ce5f655b

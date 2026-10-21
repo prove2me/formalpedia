@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetPriceDisc_Random_eq_9
 -- name    : NetPriceDisc.Random.eq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:07.223138+00:00
 -- url     : https://prove2.me/theorems/a48c9102-5124-423c-ae5c-cfa932ed6e23

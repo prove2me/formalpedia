@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_eq_5b
 -- name    : OppReturns.Menu.eq_5b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:42.358877+00:00
 -- url     : https://prove2.me/theorems/bec756da-a04a-4de5-abe8-58aa380153b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexGroupBuy_REE_price_switch
 -- name    : FlexGroupBuy.REE.price_switch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:44.047799+00:00
 -- url     : https://prove2.me/theorems/816733c7-64be-48d9-adfd-0b6066c55ace

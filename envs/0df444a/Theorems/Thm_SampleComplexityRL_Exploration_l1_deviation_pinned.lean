@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_Exploration_l1_deviation_pinned
 -- name    : SampleComplexityRL.Exploration.l1_deviation_pinned
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:10.27972+00:00
 -- url     : https://prove2.me/theorems/37fe9646-0aa2-4261-bb79-cd4225d65dd4

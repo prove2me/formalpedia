@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DavidonVM_Termination_hereditary
 -- name    : DavidonVM.Termination.hereditary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:49.064613+00:00
 -- url     : https://prove2.me/theorems/4de50d1e-af16-4583-8fac-16d75275edc7

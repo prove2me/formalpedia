@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreedyRS_Greedy_lemma1_argmin_finite
 -- name    : GreedyRS.Greedy.lemma1_argmin_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:08.347179+00:00
 -- url     : https://prove2.me/theorems/e05387af-45f3-4391-b206-3b7b207c814a

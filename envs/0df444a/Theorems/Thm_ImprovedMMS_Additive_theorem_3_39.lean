@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedMMS_Additive_theorem_3_39
 -- name    : ImprovedMMS.Additive.theorem_3_39
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:09.697537+00:00
 -- url     : https://prove2.me/theorems/f9fe045f-8550-4e2b-a308-dd3ee78782b1

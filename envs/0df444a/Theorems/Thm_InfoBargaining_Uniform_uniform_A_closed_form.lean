@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Uniform_uniform_A_closed_form
 -- name    : InfoBargaining.Uniform.uniform_A_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:24.147908+00:00
 -- url     : https://prove2.me/theorems/b576a3d9-1e6a-4fd3-b346-6ecd0aa67c10

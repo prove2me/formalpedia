@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_eve_block_representation
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.eve_block_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:28:15.184756+00:00
 -- url     : https://prove2.me/theorems/1b3ae072-4aff-40cd-862f-ced3acb738a0

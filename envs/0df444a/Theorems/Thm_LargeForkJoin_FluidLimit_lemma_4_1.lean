@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeForkJoin_FluidLimit_lemma_4_1
 -- name    : LargeForkJoin.FluidLimit.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:08.54319+00:00
 -- url     : https://prove2.me/theorems/1a3319ff-aeef-47f0-9448-7280d7429986

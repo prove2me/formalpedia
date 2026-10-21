@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoSShares_Stability_variance_limit_eq
 -- name    : PoSShares.Stability.variance_limit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:31:35.154198+00:00
 -- url     : https://prove2.me/theorems/dc758b76-d196-4916-8305-45ddda620dd1

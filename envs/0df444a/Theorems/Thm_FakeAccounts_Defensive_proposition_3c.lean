@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Defensive_proposition_3c
 -- name    : FakeAccounts.Defensive.proposition_3c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:10.262261+00:00
 -- url     : https://prove2.me/theorems/92e50874-2bff-45ef-b498-37176a63921e

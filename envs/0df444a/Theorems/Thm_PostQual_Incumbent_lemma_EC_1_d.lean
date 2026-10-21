@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_lemma_EC_1_d
 -- name    : PostQual.Incumbent.lemma_EC_1_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:33.844256+00:00
 -- url     : https://prove2.me/theorems/9309054c-5f31-4be8-9e7a-b39c1a70108a

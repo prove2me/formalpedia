@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_SubsetSum_claim_5_3
 -- name    : RegevLWE.SubsetSum.claim_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:44.250496+00:00
 -- url     : https://prove2.me/theorems/f329af65-b825-4695-8504-66179acf49b3

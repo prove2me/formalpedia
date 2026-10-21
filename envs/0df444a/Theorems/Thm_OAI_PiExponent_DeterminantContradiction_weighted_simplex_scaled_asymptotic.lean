@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weighted_simplex_scaled_asymptotic
 -- name    : OAI.PiExponent.DeterminantContradiction.weighted_simplex_scaled_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:14:52.618908+00:00
 -- url     : https://prove2.me/theorems/6b56a874-ad25-47da-b1af-49f3d044223e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_ConvexHull_hull_optimal
 -- name    : SherbrookeMetric.ConvexHull.hull_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:07.599585+00:00
 -- url     : https://prove2.me/theorems/1018ee70-d73c-41b7-992d-5e60f97ebde8

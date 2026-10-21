@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShipConsol_OneWH_lemma_E1
 -- name    : ShipConsol.OneWH.lemma_E1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:13:44.471981+00:00
 -- url     : https://prove2.me/theorems/066f32a4-9b83-443b-9f49-c6041aa4449c

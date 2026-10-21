@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.exists_formalJet_coefficient_dualFamily
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T08:49:49.000977+00:00
 -- url     : https://prove2.me/submissions/d53b9128-fcba-49d0-8e17-5fd39243fcf1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicJetIdeals
 import Mathlib.LinearAlgebra.LinearIndependent.Basic

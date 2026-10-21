@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_Perturb_principal_inv_offDiag_le
 -- name    : PDASNewton.Perturb.principal_inv_offDiag_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:10:43.888446+00:00
 -- url     : https://prove2.me/theorems/61ed80f7-5e2e-467d-908d-cca1fbee8cf0

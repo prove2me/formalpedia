@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_FoReL_lemma_2_3
 -- name    : OnlineLearningOCO.FoReL.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:24.374008+00:00
 -- url     : https://prove2.me/theorems/00e898af-22bd-486c-b948-9313f2ebe44f

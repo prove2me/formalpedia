@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BNCovPack_Packing_theorem_3_1
 -- name    : BNCovPack.Packing.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T18:19:21.422983+00:00
 -- url     : https://prove2.me/theorems/ef1acec4-d7be-4623-a679-f99e2ddb7104

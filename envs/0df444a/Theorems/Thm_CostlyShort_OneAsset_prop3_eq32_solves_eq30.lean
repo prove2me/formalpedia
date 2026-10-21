@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_OneAsset_prop3_eq32_solves_eq30
 -- name    : CostlyShort.OneAsset.prop3_eq32_solves_eq30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:28.279575+00:00
 -- url     : https://prove2.me/theorems/00a23501-49ca-4873-9272-17b96cd91ffb

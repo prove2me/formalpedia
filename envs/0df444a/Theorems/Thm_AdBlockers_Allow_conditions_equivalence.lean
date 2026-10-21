@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_conditions_equivalence
 -- name    : AdBlockers.Allow.conditions_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:00.510456+00:00
 -- url     : https://prove2.me/theorems/bab90711-5722-4769-b3b7-cb0fb046a5f1

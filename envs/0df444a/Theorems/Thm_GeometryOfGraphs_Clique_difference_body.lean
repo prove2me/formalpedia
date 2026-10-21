@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_Clique_difference_body
 -- name    : GeometryOfGraphs.Clique.difference_body
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:15.448753+00:00
 -- url     : https://prove2.me/theorems/6027c719-6cef-454b-94d6-2d777ff8b6cb

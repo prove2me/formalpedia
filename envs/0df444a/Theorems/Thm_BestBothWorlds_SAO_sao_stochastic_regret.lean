@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_sao_stochastic_regret
 -- name    : BestBothWorlds.SAO.sao_stochastic_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:47:07.274026+00:00
 -- url     : https://prove2.me/theorems/d1470854-8222-40fe-afb9-01285799617b

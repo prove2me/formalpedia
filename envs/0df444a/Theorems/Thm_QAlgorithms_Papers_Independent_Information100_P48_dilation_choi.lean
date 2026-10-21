@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P48_dilation_choi
 -- name    : QAlgorithms.Papers.Independent.Information100.P48.dilation_choi
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:46:55.983282+00:00
 -- url     : https://prove2.me/theorems/c65c3b7e-6a0f-4978-b356-688e4c4d5ace

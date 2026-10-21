@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgrawalGoyalTS_TwoArmed_expected_firstExceed_eq
 -- name    : AgrawalGoyalTS.TwoArmed.expected_firstExceed_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:08:03.891742+00:00
 -- url     : https://prove2.me/theorems/9478b06f-8a08-4ac7-83b3-641e4cf07e88

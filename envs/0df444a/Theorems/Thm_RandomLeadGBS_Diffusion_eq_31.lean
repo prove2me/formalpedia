@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomLeadGBS_Diffusion_eq_31
 -- name    : RandomLeadGBS.Diffusion.eq_31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:13.398045+00:00
 -- url     : https://prove2.me/theorems/d32bced2-c4b1-4ae6-9af9-e04e21cb7c23

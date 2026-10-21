@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_PolicyCount_ec1_objective
 -- name    : KAdaptability.PolicyCount.ec1_objective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:05:31.038342+00:00
 -- url     : https://prove2.me/theorems/2afc6125-fbb7-4d36-bc12-b8d18deefbeb

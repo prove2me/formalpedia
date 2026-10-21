@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Finsler_theta_psd_ker_schur
 -- name    : QuadMatIneq.Finsler.theta_psd_ker_schur
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:12:49.116516+00:00
 -- url     : https://prove2.me/theorems/c11e2de5-e2dc-40bc-bb4a-6d8128d79cf2

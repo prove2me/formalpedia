@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actual_minor_uniform_exp_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.actual_minor_uniform_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T19:42:03.998127+00:00
 -- url     : https://prove2.me/theorems/5c1bf3a1-b882-42ee-8bc3-4ede8ba9371f

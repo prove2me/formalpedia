@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Thresholds_ePi_lt_eBar
 -- name    : Multihoming.Thresholds.ePi_lt_eBar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:42.228984+00:00
 -- url     : https://prove2.me/theorems/f91e6333-457e-4bde-9f1f-be86dbfc6a49

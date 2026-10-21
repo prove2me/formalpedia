@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaGoldfarbFPC_Convergence_theorem4
 -- name    : MaGoldfarbFPC.Convergence.theorem4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:42:17.401911+00:00
 -- url     : https://prove2.me/theorems/fedab86d-65c3-4080-bc99-f29b7976b71a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnfairML_Coverage_interior_optimum
 -- name    : UnfairML.Coverage.interior_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:28.154978+00:00
 -- url     : https://prove2.me/theorems/af844cb2-227d-46ae-9fcb-59a089fe167c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_collision_log_row_count_div_tendsto_zero
 -- name    : OAI.PiExponent.DeterminantContradiction.collision_log_row_count_div_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:08:22.701994+00:00
 -- url     : https://prove2.me/theorems/4f3501c6-1277-4087-9009-9956dedb687b

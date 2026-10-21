@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_simultaneous_squeezing
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.simultaneous_squeezing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:10:57.489494+00:00
 -- url     : https://prove2.me/theorems/47d4e691-a185-468e-ac51-b496b6766479

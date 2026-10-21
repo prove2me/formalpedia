@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_collision_rate_tendsto_collision_limit
 -- name    : OAI.PiExponent.DeterminantContradiction.collision_rate_tendsto_collision_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:44:59.965127+00:00
 -- url     : https://prove2.me/theorems/e2cc5c32-fba7-4ef8-934c-24b4a4a8d7ff

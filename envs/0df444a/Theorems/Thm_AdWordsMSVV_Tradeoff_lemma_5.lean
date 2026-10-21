@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_Tradeoff_lemma_5
 -- name    : AdWordsMSVV.Tradeoff.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:18.891629+00:00
 -- url     : https://prove2.me/theorems/28a4ffe3-326b-4945-b142-014a1a9cfd17

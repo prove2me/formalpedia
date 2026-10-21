@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Char_igfr_iff_log_ifr
 -- name    : LariviereIGFR.Char.igfr_iff_log_ifr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:02.008384+00:00
 -- url     : https://prove2.me/theorems/ee005986-885b-43c5-8c99-ac4ebcfb211e

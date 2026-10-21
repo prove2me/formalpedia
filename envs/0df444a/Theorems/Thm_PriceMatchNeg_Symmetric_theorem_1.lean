@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceMatchNeg_Symmetric_theorem_1
 -- name    : PriceMatchNeg.Symmetric.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:13.911978+00:00
 -- url     : https://prove2.me/theorems/c98dbe1c-8485-415d-af0e-ccc71bb5cf82

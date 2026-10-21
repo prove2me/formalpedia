@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_PolicyCount_ec2_dim
 -- name    : KAdaptability.PolicyCount.ec2_dim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:03:49.367984+00:00
 -- url     : https://prove2.me/theorems/35526daa-0ce9-4d93-909e-7eb5836bf51d

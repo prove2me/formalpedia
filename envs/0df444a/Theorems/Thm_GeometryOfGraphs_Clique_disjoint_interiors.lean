@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_Clique_disjoint_interiors
 -- name    : GeometryOfGraphs.Clique.disjoint_interiors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:09:59.053221+00:00
 -- url     : https://prove2.me/theorems/755f7d6b-d874-43cf-8645-75294bd0b480

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueScalp_Entry_pricing_problem
 -- name    : QueueScalp.Entry.pricing_problem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:54.816054+00:00
 -- url     : https://prove2.me/theorems/44b64960-2f5b-4653-9fe7-d4da4e5243b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoInundation_Screening_eq_4
 -- name    : InfoInundation.Screening.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:21.879818+00:00
 -- url     : https://prove2.me/theorems/786e4766-a894-4793-a04c-252e0874f50f

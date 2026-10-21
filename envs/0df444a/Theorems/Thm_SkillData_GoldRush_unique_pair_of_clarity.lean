@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkillData_GoldRush_unique_pair_of_clarity
 -- name    : SkillData.GoldRush.unique_pair_of_clarity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:30.603195+00:00
 -- url     : https://prove2.me/theorems/7a5be0b7-a467-4aca-bc48-71fbe1e1dce7

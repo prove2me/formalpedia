@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generatorIntegrand_uniformBound_negative
 -- name    : AvramDividend.Classical.scaleFunction_generatorIntegrand_uniformBound_negative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T13:43:34.981924+00:00
 -- url     : https://prove2.me/theorems/663a7c3a-0f55-4c09-a312-710d81c4d753

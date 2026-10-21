@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_Optimal_lintegral_condLoss
 -- name    : RiskControl.Optimal.lintegral_condLoss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:35:55.733481+00:00
 -- url     : https://prove2.me/theorems/8b9f829f-091b-411c-8b98-bcee7b5f0bc7

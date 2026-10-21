@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_AlmostSmooth_lemma_3
 -- name    : SDCA.AlmostSmooth.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:06:15.195348+00:00
 -- url     : https://prove2.me/theorems/52002a4e-b46d-413c-9172-0dabfd4b4cb8

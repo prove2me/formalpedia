@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_gloopQ
 -- name    : IntMul.Kappa.R6.IL3H.gloopQ
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:25.20486+00:00
 -- url     : https://prove2.me/theorems/6b4977d2-5455-435e-9c99-506e2614bd1e

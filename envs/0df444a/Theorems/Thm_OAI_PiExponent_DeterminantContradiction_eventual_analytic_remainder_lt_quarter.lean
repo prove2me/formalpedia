@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_analytic_remainder_lt_quarter
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_analytic_remainder_lt_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:24:04.697414+00:00
 -- url     : https://prove2.me/theorems/0940898b-2a2a-4875-bcc2-3e9d9c7e2262

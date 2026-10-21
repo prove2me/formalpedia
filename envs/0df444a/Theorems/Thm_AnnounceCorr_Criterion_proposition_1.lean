@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnnounceCorr_Criterion_proposition_1
 -- name    : AnnounceCorr.Criterion.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:48.911532+00:00
 -- url     : https://prove2.me/theorems/9040bf92-6886-4514-8b4a-10ddf2243751

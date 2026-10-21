@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitPoA_RegVar_lemma_2
 -- name    : LimitPoA.RegVar.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:35.662788+00:00
 -- url     : https://prove2.me/theorems/baaac852-df7f-4785-9751-49e98b430a1b

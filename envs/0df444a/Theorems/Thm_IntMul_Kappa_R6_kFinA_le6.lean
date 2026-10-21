@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_kFinA_le6
 -- name    : IntMul.Kappa.R6.kFinA_le6
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:37:51.236294+00:00
 -- url     : https://prove2.me/theorems/ea49c3b4-d11a-4f14-8f8b-fd47fbecf4a3

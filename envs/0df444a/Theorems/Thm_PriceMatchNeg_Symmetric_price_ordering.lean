@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceMatchNeg_Symmetric_price_ordering
 -- name    : PriceMatchNeg.Symmetric.price_ordering
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:58.056207+00:00
 -- url     : https://prove2.me/theorems/b7b8431b-06b7-4b76-8197-a524a409d38c

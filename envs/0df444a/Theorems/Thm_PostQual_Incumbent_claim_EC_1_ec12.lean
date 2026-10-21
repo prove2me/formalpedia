@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_claim_EC_1_ec12
 -- name    : PostQual.Incumbent.claim_EC_1_ec12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:34.786441+00:00
 -- url     : https://prove2.me/theorems/dc33fa47-f53c-4f1a-9b4d-50b01adbaf6c

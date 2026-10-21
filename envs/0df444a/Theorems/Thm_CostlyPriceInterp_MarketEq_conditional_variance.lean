@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyPriceInterp_MarketEq_conditional_variance
 -- name    : CostlyPriceInterp.MarketEq.conditional_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:34.666492+00:00
 -- url     : https://prove2.me/theorems/3699c063-0792-4669-8b0e-cdf768067bc0

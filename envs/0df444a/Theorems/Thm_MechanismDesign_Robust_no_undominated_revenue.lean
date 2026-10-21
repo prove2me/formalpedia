@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MechanismDesign_Robust_no_undominated_revenue
 -- name    : MechanismDesign.Robust.no_undominated_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T05:21:02.675173+00:00
 -- url     : https://prove2.me/theorems/1adf9290-e6f9-4a3f-b965-04af7daf9cc1

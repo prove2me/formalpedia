@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_NNSmooth_softmax_constants
 -- name    : CertDRO.NNSmooth.softmax_constants
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:33:08.331375+00:00
 -- url     : https://prove2.me/theorems/3607c41a-44b0-40c6-b8d3-a0a740bfae9b

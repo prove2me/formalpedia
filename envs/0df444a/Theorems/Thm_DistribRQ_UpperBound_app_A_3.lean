@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistribRQ_UpperBound_app_A_3
 -- name    : DistribRQ.UpperBound.app_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:23:22.077991+00:00
 -- url     : https://prove2.me/theorems/54056b13-aa80-4400-b1b8-736c73df4241

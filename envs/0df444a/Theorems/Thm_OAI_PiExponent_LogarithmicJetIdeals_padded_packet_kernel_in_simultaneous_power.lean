@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_padded_packet_kernel_in_simultaneous_power
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.padded_packet_kernel_in_simultaneous_power
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T17:58:40.899146+00:00
 -- url     : https://prove2.me/theorems/083e30ba-c4de-4886-9155-918b51a03a29

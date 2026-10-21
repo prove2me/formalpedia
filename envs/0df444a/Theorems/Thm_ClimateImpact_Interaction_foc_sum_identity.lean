@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Interaction_foc_sum_identity
 -- name    : ClimateImpact.Interaction.foc_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:58:30.676084+00:00
 -- url     : https://prove2.me/theorems/8b373316-e154-42e2-ac7d-4cab915e4e6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphAlignment_Possible_eq_10
 -- name    : GraphAlignment.Possible.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:59.306184+00:00
 -- url     : https://prove2.me/theorems/b1a3e0f0-5edb-418b-b186-7cacad696445

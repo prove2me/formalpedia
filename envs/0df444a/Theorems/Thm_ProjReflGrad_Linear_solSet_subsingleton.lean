@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Linear_solSet_subsingleton
 -- name    : ProjReflGrad.Linear.solSet_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:14:01.118164+00:00
 -- url     : https://prove2.me/theorems/8656da80-2434-495c-9ff6-5c47d8a733a2

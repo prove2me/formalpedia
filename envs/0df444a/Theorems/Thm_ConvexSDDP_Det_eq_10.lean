@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexSDDP_Det_eq_10
 -- name    : ConvexSDDP.Det.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:30.416329+00:00
 -- url     : https://prove2.me/theorems/daf02175-dcc4-4758-a02c-0c37331fe816

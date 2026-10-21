@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochModelWC_ProxSubgrad_lemma_3_2
 -- name    : StochModelWC.ProxSubgrad.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:43:24.316993+00:00
 -- url     : https://prove2.me/theorems/f1048d93-f772-45ae-82a0-7979d8d06b24

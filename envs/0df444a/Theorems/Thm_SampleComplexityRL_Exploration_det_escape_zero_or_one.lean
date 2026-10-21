@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_Exploration_det_escape_zero_or_one
 -- name    : SampleComplexityRL.Exploration.det_escape_zero_or_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:50.449274+00:00
 -- url     : https://prove2.me/theorems/0a747c70-11ed-40a2-ad62-a9e8a973cfc2

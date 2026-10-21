@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DischargeTiming_Ranking_interchange_census
 -- name    : DischargeTiming.Ranking.interchange_census
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:54.438919+00:00
 -- url     : https://prove2.me/theorems/58cceda8-413b-48d0-b627-2fcef2a60cb5

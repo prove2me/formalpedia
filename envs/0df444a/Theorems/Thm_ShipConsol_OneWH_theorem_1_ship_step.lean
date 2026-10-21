@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShipConsol_OneWH_theorem_1_ship_step
 -- name    : ShipConsol.OneWH.theorem_1_ship_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:24.997323+00:00
 -- url     : https://prove2.me/theorems/c95ff0fa-a8cf-4bf8-b94c-b982b826dc4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_SAKKT_kkt_iff_neg_gradient_mem_polar
 -- name    : StrictCQ.SAKKT.kkt_iff_neg_gradient_mem_polar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:54.288139+00:00
 -- url     : https://prove2.me/theorems/cbc8597d-f803-44fe-9359-c04c1c24f4e4

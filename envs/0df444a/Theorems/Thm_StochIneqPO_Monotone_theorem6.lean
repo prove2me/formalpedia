@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Monotone_theorem6
 -- name    : StochIneqPO.Monotone.theorem6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:28:32.411468+00:00
 -- url     : https://prove2.me/theorems/baa3eb77-cd56-4add-b826-f0df34401720

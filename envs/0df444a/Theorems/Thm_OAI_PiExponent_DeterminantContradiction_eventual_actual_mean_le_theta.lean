@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_actual_mean_le_theta
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_actual_mean_le_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:24:15.434153+00:00
 -- url     : https://prove2.me/theorems/7d85926a-b4b9-4616-9189-f2ced99f233a

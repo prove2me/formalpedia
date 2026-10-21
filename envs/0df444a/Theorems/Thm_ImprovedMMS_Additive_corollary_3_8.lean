@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedMMS_Additive_corollary_3_8
 -- name    : ImprovedMMS.Additive.corollary_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:21.618711+00:00
 -- url     : https://prove2.me/theorems/edad8d12-535d-4b87-80c2-d81f48e33871

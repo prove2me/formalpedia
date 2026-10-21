@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_LowerBounds_probabilistic_method
 -- name    : ModernOnlineLearning.LowerBounds.probabilistic_method
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:35:26.112743+00:00
 -- url     : https://prove2.me/theorems/ac799882-243b-4908-8f0b-6bf8d0fca3ca

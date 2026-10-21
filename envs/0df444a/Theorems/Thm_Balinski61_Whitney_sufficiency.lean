@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Balinski61_Whitney_sufficiency
 -- name    : Balinski61.Whitney.sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:04:49.069293+00:00
 -- url     : https://prove2.me/theorems/ad5b45a8-e56c-4bc8-9211-01b9d7346494

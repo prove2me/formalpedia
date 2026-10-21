@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finiteJet_interpolation_from_triangular
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finiteJet_interpolation_from_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:17:47.314057+00:00
 -- url     : https://prove2.me/theorems/6d44e420-1e9d-45e0-bb99-0fdae9a5ff33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyPriceInterp_MarketEq_uniqueness_discriminant
 -- name    : CostlyPriceInterp.MarketEq.uniqueness_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:36.531906+00:00
 -- url     : https://prove2.me/theorems/2d08c328-0192-4da7-b450-c707faedc768

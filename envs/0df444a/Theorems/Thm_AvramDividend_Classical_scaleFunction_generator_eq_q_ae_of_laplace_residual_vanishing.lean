@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_ae_of_laplace_residual_vanishing
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_ae_of_laplace_residual_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T22:29:30.953309+00:00
 -- url     : https://prove2.me/theorems/b4d10133-4269-40b5-84eb-bc6364447f3a

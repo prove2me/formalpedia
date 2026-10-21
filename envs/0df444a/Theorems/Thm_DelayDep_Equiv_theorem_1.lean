@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayDep_Equiv_theorem_1
 -- name    : DelayDep.Equiv.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:23:09.745001+00:00
 -- url     : https://prove2.me/theorems/c5ee8e60-5c59-47a3-bc65-089938e5f851

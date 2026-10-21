@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingChains_Cournot_retailer_profit_comparison
 -- name    : CompetingChains.Cournot.retailer_profit_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:39.822869+00:00
 -- url     : https://prove2.me/theorems/646f4ee6-5d9c-4d20-8d3d-cb53773e034d

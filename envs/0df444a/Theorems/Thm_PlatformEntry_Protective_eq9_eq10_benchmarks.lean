@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Protective_eq9_eq10_benchmarks
 -- name    : PlatformEntry.Protective.eq9_eq10_benchmarks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:21.189912+00:00
 -- url     : https://prove2.me/theorems/2e150f61-5bf4-4857-b0bb-51f9a18be479

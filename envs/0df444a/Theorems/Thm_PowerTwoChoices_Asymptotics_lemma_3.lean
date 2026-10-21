@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Asymptotics_lemma_3
 -- name    : PowerTwoChoices.Asymptotics.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:05:45.126184+00:00
 -- url     : https://prove2.me/theorems/f9396877-b6c8-436e-abc6-ffc72856a8ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_HeavyBallODE_eq_B_1
 -- name    : HighResODE.HeavyBallODE.eq_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:25:57.988965+00:00
 -- url     : https://prove2.me/theorems/0dcec334-51eb-48e6-b41b-cc9712062f45

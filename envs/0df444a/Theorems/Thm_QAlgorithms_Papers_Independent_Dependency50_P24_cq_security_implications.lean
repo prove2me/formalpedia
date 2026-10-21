@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_cq_security_implications
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.cq_security_implications
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:20:31.409983+00:00
 -- url     : https://prove2.me/theorems/5362cd7b-4cb7-4ff4-b824-d7be2822e72c

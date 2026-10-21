@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Knapsack_theorem_5_2_equivalence
 -- name    : TwoAgentSched.Knapsack.theorem_5_2_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:44.930586+00:00
 -- url     : https://prove2.me/theorems/004ce371-054c-49fb-a875-cca94d6890d5

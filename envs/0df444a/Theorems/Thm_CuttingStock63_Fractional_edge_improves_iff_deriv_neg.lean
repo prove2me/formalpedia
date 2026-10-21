@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CuttingStock63_Fractional_edge_improves_iff_deriv_neg
 -- name    : CuttingStock63.Fractional.edge_improves_iff_deriv_neg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:07:11.090925+00:00
 -- url     : https://prove2.me/theorems/0fa6d5f7-700e-4dc9-b8e5-293fb09bd0d3

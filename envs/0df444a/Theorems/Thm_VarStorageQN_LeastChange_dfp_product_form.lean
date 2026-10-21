@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarStorageQN_LeastChange_dfp_product_form
 -- name    : VarStorageQN.LeastChange.dfp_product_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:28.580989+00:00
 -- url     : https://prove2.me/theorems/2a97c886-4d66-41c4-afa8-021cb58dcec5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_flattened_coeff_finsupp_monomial
 -- name    : OAI.PiExponent.FormalInterpolation.flattened_coeff_finsupp_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T06:36:33.417978+00:00
 -- url     : https://prove2.me/theorems/e0636eab-7014-43ba-a06a-bcaf8f917925

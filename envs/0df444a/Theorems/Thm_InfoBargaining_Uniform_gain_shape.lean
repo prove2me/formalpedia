@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Uniform_gain_shape
 -- name    : InfoBargaining.Uniform.gain_shape
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:28.318179+00:00
 -- url     : https://prove2.me/theorems/baef6013-72c8-4de6-8c4f-a7e2a057cb03

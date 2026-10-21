@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFM_kappa_of_big
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFM.kappa_of_big
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:16:17.855322+00:00
 -- url     : https://prove2.me/theorems/5242eae0-b529-436f-992e-85d81787f68f

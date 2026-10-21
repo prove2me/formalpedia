@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_deriv_f_at_one
 -- name    : RoboAdvising.Interaction.deriv_f_at_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:55.149986+00:00
 -- url     : https://prove2.me/theorems/cbb0eb71-0f24-477c-b091-53e051b8f513

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_Exploration_eps_approx_condition
 -- name    : SampleComplexityRL.Exploration.eps_approx_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:45.329988+00:00
 -- url     : https://prove2.me/theorems/81577871-b3d5-47ee-a29b-7911bf9a20c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P09_cBeta_localProcessing
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P09.cBeta_localProcessing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:53:39.140522+00:00
 -- url     : https://prove2.me/theorems/37967c3e-607f-4fe8-8899-462966f1c3f8

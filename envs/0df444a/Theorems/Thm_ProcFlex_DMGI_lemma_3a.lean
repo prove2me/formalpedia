@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcFlex_DMGI_lemma_3a
 -- name    : ProcFlex.DMGI.lemma_3a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:55.261121+00:00
 -- url     : https://prove2.me/theorems/543deda8-6b9a-4a3d-8c10-9ff97b3cfc88

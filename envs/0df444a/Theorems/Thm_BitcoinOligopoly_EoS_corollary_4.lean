@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BitcoinOligopoly_EoS_corollary_4
 -- name    : BitcoinOligopoly.EoS.corollary_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:27.773002+00:00
 -- url     : https://prove2.me/theorems/0a33e6f6-6dfe-4248-9950-c2227f2a45aa

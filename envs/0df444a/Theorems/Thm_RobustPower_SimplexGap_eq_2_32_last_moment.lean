@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_SimplexGap_eq_2_32_last_moment
 -- name    : RobustPower.SimplexGap.eq_2_32_last_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:29:27.42459+00:00
 -- url     : https://prove2.me/theorems/e706cde2-65b1-4d83-bc61-03c6ef948931

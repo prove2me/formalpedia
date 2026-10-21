@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MediaMenus_Duopoly_fixed_point
 -- name    : MediaMenus.Duopoly.fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:55.688607+00:00
 -- url     : https://prove2.me/theorems/22ac7768-450b-4bc0-9e45-165a77f4e928

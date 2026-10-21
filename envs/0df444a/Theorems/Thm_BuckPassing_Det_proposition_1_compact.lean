@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuckPassing_Det_proposition_1_compact
 -- name    : BuckPassing.Det.proposition_1_compact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:12.187043+00:00
 -- url     : https://prove2.me/theorems/6ec35616-ce60-47b2-ba22-9a3c3cf2c248

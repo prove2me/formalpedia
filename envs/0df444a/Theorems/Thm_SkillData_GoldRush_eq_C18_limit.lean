@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkillData_GoldRush_eq_C18_limit
 -- name    : SkillData.GoldRush.eq_C18_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:23:09.408708+00:00
 -- url     : https://prove2.me/theorems/ff821315-9764-43da-95d0-3ac905fe948b

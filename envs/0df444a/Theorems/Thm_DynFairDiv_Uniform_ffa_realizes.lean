@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynFairDiv_Uniform_ffa_realizes
 -- name    : DynFairDiv.Uniform.ffa_realizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:21:54.753038+00:00
 -- url     : https://prove2.me/theorems/babc99af-8c1f-43b8-b9cd-0a9296903af5

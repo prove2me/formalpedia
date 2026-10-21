@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_MultiNet_ratio_ge_reduced
 -- name    : VehicleSharePricing.MultiNet.ratio_ge_reduced
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:09.410192+00:00
 -- url     : https://prove2.me/theorems/fc613efc-7bcd-4e10-84bb-c88113a476a2

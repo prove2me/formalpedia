@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Subadditive_value_monotone
 -- name    : BudgetClock.Subadditive.value_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:25:16.575983+00:00
 -- url     : https://prove2.me/theorems/f3c534c3-dba2-4c9d-bb3d-fcef40456b39

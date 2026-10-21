@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrepoLocal_Threshold_Ca_le_C
 -- name    : PrepoLocal.Threshold.Ca_le_C
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:58.406979+00:00
 -- url     : https://prove2.me/theorems/daeef252-282a-4611-8018-5dccdb7e81c7

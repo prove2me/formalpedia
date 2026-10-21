@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_low_weight_formal_coefficients_force_coordinate_coefficients
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.low_weight_formal_coefficients_force_coordinate_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T13:47:14.732239+00:00
 -- url     : https://prove2.me/theorems/55786407-165e-4873-9a54-e1beb7b21af4

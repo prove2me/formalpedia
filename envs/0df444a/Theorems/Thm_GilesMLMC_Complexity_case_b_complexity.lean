@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GilesMLMC_Complexity_case_b_complexity
 -- name    : GilesMLMC.Complexity.case_b_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:33.495989+00:00
 -- url     : https://prove2.me/theorems/87da6263-84f3-4e83-a156-23ab2a882bb0

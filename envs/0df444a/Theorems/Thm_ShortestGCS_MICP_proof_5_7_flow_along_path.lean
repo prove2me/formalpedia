@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_MICP_proof_5_7_flow_along_path
 -- name    : ShortestGCS.MICP.proof_5_7_flow_along_path
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:12:26.188833+00:00
 -- url     : https://prove2.me/theorems/6a8f2c6c-bd02-454d-8907-1e5f8c1fa103

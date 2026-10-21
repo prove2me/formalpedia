@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_exists_asymptotic_crIndex_eq_sub
 -- name    : CauchyRiemannIndex.exists_asymptotic_crIndex_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-17T14:50:33.428019+00:00
 -- url     : https://prove2.me/theorems/d7fa201b-de94-4446-9472-ce00bf439566

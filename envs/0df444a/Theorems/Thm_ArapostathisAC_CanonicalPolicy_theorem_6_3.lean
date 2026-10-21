@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_CanonicalPolicy_theorem_6_3
 -- name    : ArapostathisAC.CanonicalPolicy.theorem_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:42:47.129682+00:00
 -- url     : https://prove2.me/theorems/62214c37-e9a1-493a-b6e4-2e9bc28cab36

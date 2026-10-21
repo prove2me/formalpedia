@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqSubmod_Discrete_eq_38
 -- name    : SeqSubmod.Discrete.eq_38
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:11.456039+00:00
 -- url     : https://prove2.me/theorems/2f2cc078-94d0-453d-8dea-9f91629f48b3

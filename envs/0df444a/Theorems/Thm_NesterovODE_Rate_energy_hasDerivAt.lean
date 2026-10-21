@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_Rate_energy_hasDerivAt
 -- name    : NesterovODE.Rate.energy_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:48:46.141717+00:00
 -- url     : https://prove2.me/theorems/eb0870dc-3373-4579-96f7-f851fd260bcf

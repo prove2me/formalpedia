@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_well_defined
 -- name    : PostQual.Incumbent.well_defined
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:22.685315+00:00
 -- url     : https://prove2.me/theorems/4d8f4cae-928b-4969-92f3-1452efbf32a4

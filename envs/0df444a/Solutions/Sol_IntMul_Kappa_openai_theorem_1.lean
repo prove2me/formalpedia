@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.openai_theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @avi
 -- created : 2026-10-09T04:51:09.815852+00:00
 -- url     : https://prove2.me/submissions/39d599bb-1883-4ee2-abf6-079c9f1b800a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_IntMul_Kappa_colkitt_2pow30

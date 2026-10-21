@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_MaxMax_reduction_to_fmax
 -- name    : TwoAgentSched.MaxMax.reduction_to_fmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:38.506115+00:00
 -- url     : https://prove2.me/theorems/e2d4aa8c-7a98-481d-b4c3-95827b7099ef

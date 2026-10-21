@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalDRO_Consistency_eq77_upper_bound
 -- name    : EmpiricalDRO.Consistency.eq77_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:07:28.275233+00:00
 -- url     : https://prove2.me/theorems/7ed7996a-4e87-497a-9842-535b3c0c6c2e

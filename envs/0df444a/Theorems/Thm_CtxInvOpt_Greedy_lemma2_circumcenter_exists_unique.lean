@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Greedy_lemma2_circumcenter_exists_unique
 -- name    : CtxInvOpt.Greedy.lemma2_circumcenter_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:28.032218+00:00
 -- url     : https://prove2.me/theorems/6c5459b7-9721-4269-a2f9-87c1577aca25

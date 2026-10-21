@@ -1,0 +1,118 @@
+-- Prove2me | solution 1 for RoboAdvising.Interaction.deriv_f_at_one
+-- status  : ACCEPTED   (prove)
+-- author  : @vebis
+-- created : 2026-10-20T16:00:18.60915+00:00
+-- url     : https://prove2.me/submissions/62831e8e-e937-4c2d-a295-7407875f03cb
+
+import Mathlib
+import Definitions.Def_RoboAdvising_Interaction_Model
+
+set_option autoImplicit false
+open RoboAdvising.Interaction
+
+lemma ra_fd (P : Params) (hS : P.Standing) (φ : ℝ) (hφ : 0 < φ) :
+    HasDerivAt (fAux P)
+      (-(P.β*P.sig0) / (2 * Real.sqrt φ * φ) * (1 - (φ-1)/2*P.pe)
+        - P.β*P.sig0*P.pe/(2*Real.sqrt φ)
+        - (P.β*P.sig0)^2 * Real.sqrt φ / (2*φ^2*Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ)) * ((φ-1)/2*P.pe)
+        + Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ) / Real.sqrt φ * (P.pe/2)) φ := by
+  obtain ⟨h0, hse, -⟩ := hS
+  have hu : 0 < Real.sqrt φ := Real.sqrt_pos.2 hφ
+  have hH : 0 < P.β^2*P.sig0^2/φ + P.se^2 := by positivity
+  have h1 : HasDerivAt Real.sqrt (1/(2*Real.sqrt φ)) φ := Real.hasDerivAt_sqrt hφ.ne'
+  have hA := (hasDerivAt_const φ (P.β*P.sig0)).div h1 hu.ne'
+  have hT0 : HasDerivAt (fun x : ℝ => (x-1)/2) (1/2) φ :=
+    ((hasDerivAt_id φ).sub_const 1).div_const 2
+  have hL : HasDerivAt (fun x : ℝ => 1 - (x-1)/2*P.pe) (-(1/2*P.pe)) φ := by
+    simpa using (hT0.mul_const P.pe).const_sub 1
+  have hq := (hasDerivAt_const φ (P.β^2*P.sig0^2)).div (hasDerivAt_id φ) hφ.ne'
+  have hB := (hq.add_const (P.se^2)).sqrt hH.ne'
+  have hf := (hA.mul hL).add ((hB.mul hT0).mul_const P.pe)
+  have hw : Real.sqrt (P.β^2*P.sig0^2/φ + P.se^2) = Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ) / Real.sqrt φ := by
+    rw [← Real.sqrt_div (by positivity)]
+    congr 1
+    field_simp
+  refine HasDerivAt.congr_deriv hf ?_
+  simp only [id, Pi.div_apply]
+  rw [hw]
+  have hwpos : 0 < Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ) := Real.sqrt_pos.2 (by positivity)
+  have hsq : Real.sqrt φ ^ 2 = φ := Real.sq_sqrt hφ.le
+  have e2 : P.β^2*P.sig0^2 = (P.β*P.sig0)^2 := by ring
+  rw [e2]
+  clear hf hA hB hq hL hT0 h1 hw hH
+  generalize Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ) = w at *
+  generalize P.β*P.sig0 = a at *
+  generalize Real.sqrt φ = u at *
+  subst hsq
+  field_simp
+  ring
+
+lemma ra_q (P : Params) (hS : P.Standing) (hβ : 0 < P.β) (φ : ℝ) (hφ : 0 ≤ φ) :
+    Real.sqrt (1 + P.se ^ 2 * φ / (P.β ^ 2 * P.sig0 ^ 2)) =
+      Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ) / (P.β*P.sig0) := by
+  obtain ⟨h0, hse, -⟩ := hS
+  have ha : 0 < P.β * P.sig0 := mul_pos hβ h0
+  have : 1 + P.se ^ 2 * φ / (P.β ^ 2 * P.sig0 ^ 2) = ((P.β*P.sig0)^2 + P.se^2*φ) / (P.β*P.sig0)^2 := by
+    field_simp
+  rw [this, Real.sqrt_div (by positivity), Real.sqrt_sq ha.le]
+
+lemma ra_hasDerivAt_f (P : Params) (hS : P.Standing) (hβ : 0 < P.β) (hpe : 0 < P.pe)
+    (φ : ℝ) (hφ : 0 < φ) :
+    HasDerivAt (fAux P) (1 / 2 * (P.β * P.sig0 * P.pe / φ ^ 2) * gAux P φ) φ := by
+  have h := ra_fd P hS φ hφ
+  have hS' := hS
+  obtain ⟨h0, hse, -⟩ := hS
+  refine HasDerivAt.congr_deriv h ?_
+  have hq := ra_q P hS' hβ φ hφ.le
+  unfold gAux
+  rw [hq]
+  have ha : 0 < P.β * P.sig0 := mul_pos hβ h0
+  have hwpos : 0 < Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ) := Real.sqrt_pos.2 (by positivity)
+  have hu : 0 < Real.sqrt φ := Real.sqrt_pos.2 hφ
+  have hsq : Real.sqrt φ ^ 2 = φ := Real.sq_sqrt hφ.le
+  clear h hq hS'
+  generalize Real.sqrt ((P.β*P.sig0)^2 + P.se^2*φ) = w at *
+  generalize P.β*P.sig0 = a at *
+  generalize Real.sqrt φ = u at *
+  generalize P.pe = p at *
+  subst hsq
+  field_simp
+  ring
+
+theorem solution (P : Params) (hS : P.Standing) (hβ : 0 < P.β) (hpe : 0 < P.pe) :
+    HasDerivAt (fAux P)
+      (1 / 2 * P.β * P.sig0 * P.pe *
+        (Real.sqrt (1 + P.se ^ 2 / (P.β ^ 2 * P.sig0 ^ 2)) - 1 - 1 / P.pe)) 1 ∧
+    (0 ≤ 1 / 2 * P.β * P.sig0 * P.pe *
+        (Real.sqrt (1 + P.se ^ 2 / (P.β ^ 2 * P.sig0 ^ 2)) - 1 - 1 / P.pe) ↔
+      2 + 1 / P.pe ≤ P.pe * P.se ^ 2 / (P.β ^ 2 * P.sig0 ^ 2)) := by
+  have hS' := hS
+  obtain ⟨h0, hse, -⟩ := hS
+  have ha : 0 < P.β * P.sig0 := mul_pos hβ h0
+  constructor
+  · have h := ra_hasDerivAt_f P hS' hβ hpe 1 one_pos
+    refine HasDerivAt.congr_deriv h ?_
+    unfold gAux
+    simp only [Real.sqrt_one, one_pow, mul_one, sub_self, mul_zero, add_zero]
+    field_simp
+    ring
+  · have hk : 0 < P.se ^ 2 / (P.β ^ 2 * P.sig0 ^ 2) := by positivity
+    have e : P.pe * P.se ^ 2 / (P.β ^ 2 * P.sig0 ^ 2) = P.pe * (P.se ^ 2 / (P.β ^ 2 * P.sig0 ^ 2)) := by
+      ring
+    rw [e]
+    generalize P.se ^ 2 / (P.β ^ 2 * P.sig0 ^ 2) = k at *
+    have hpos : 0 < 1 / 2 * P.β * P.sig0 * P.pe := by positivity
+    have e2 : 1 / 2 * P.β * P.sig0 * P.pe * (Real.sqrt (1 + k) - 1 - 1 / P.pe)
+        = (1 / 2 * P.β * P.sig0 * P.pe) * (Real.sqrt (1 + k) - (1 + 1 / P.pe)) := by ring
+    rw [e2, mul_nonneg_iff_of_pos_left hpos, sub_nonneg]
+    have hp1 : 0 < 1 + 1 / P.pe := by positivity
+    rw [Real.le_sqrt' hp1]
+    have hinv : 1 / P.pe * P.pe = 1 := by field_simp
+    constructor
+    · intro h
+      have : (1 + 1 / P.pe) ^ 2 * P.pe ≤ (1 + k) * P.pe := mul_le_mul_of_nonneg_right h hpe.le
+      nlinarith
+    · intro h
+      have : (1 + 1 / P.pe) ^ 2 * P.pe = P.pe + 2 + 1 / P.pe := by field_simp; ring
+      have h3 : (1 + 1 / P.pe) ^ 2 * P.pe ≤ (1 + k) * P.pe := by nlinarith
+      exact le_of_mul_le_mul_right h3 hpe

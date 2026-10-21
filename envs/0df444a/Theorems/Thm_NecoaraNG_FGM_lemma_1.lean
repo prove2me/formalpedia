@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FGM_lemma_1
 -- name    : NecoaraNG.FGM.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:39.726975+00:00
 -- url     : https://prove2.me/theorems/c2006897-cf6b-484f-bfa0-e6524d111504

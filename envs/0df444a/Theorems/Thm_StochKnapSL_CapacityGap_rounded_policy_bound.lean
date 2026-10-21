@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKnapSL_CapacityGap_rounded_policy_bound
 -- name    : StochKnapSL.CapacityGap.rounded_policy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:15.926457+00:00
 -- url     : https://prove2.me/theorems/d77c7db8-8c5a-41c1-a09f-fb1339776a37

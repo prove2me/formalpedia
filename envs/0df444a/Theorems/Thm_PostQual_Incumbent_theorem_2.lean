@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_theorem_2
 -- name    : PostQual.Incumbent.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:30.537922+00:00
 -- url     : https://prove2.me/theorems/74986071-19d6-486b-8a23-f5ace6d66147

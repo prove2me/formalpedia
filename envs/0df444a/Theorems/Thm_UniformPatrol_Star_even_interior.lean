@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPatrol_Star_even_interior
 -- name    : UniformPatrol.Star.even_interior
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:54.274128+00:00
 -- url     : https://prove2.me/theorems/aea67f1a-908a-4c68-b154-ec9452098e9e

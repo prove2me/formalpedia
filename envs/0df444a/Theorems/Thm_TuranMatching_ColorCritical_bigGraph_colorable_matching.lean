@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_ColorCritical_bigGraph_colorable_matching
 -- name    : TuranMatching.ColorCritical.bigGraph_colorable_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:33:46.742534+00:00
 -- url     : https://prove2.me/theorems/31d90ab0-39b6-4f70-8399-e453912cada2

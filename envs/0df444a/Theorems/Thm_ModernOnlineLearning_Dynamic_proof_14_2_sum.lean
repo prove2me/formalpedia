@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Dynamic_proof_14_2_sum
 -- name    : ModernOnlineLearning.Dynamic.proof_14_2_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:41.782768+00:00
 -- url     : https://prove2.me/theorems/58a4ac25-4b71-43ee-b2ff-eec6e57a8c5f

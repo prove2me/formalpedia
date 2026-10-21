@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_correct_finite_jet_succ
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_correct_finite_jet_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:55:34.651668+00:00
 -- url     : https://prove2.me/theorems/5db187de-21c6-47f0-9789-f5ea4bd5f369

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarStorageQN_LeastChange_proposition_A1
 -- name    : VarStorageQN.LeastChange.proposition_A1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:09.221752+00:00
 -- url     : https://prove2.me/theorems/bb29e66e-cb29-4fc8-a909-8dc314df68c9

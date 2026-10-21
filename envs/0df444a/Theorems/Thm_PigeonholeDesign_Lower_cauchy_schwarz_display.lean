@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Lower_cauchy_schwarz_display
 -- name    : PigeonholeDesign.Lower.cauchy_schwarz_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:19:10.351393+00:00
 -- url     : https://prove2.me/theorems/288a4147-d462-4423-8a37-2c55d60835ca

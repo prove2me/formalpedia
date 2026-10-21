@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFY_arrInv_step
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFY.arrInv_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:18:52.873369+00:00
 -- url     : https://prove2.me/theorems/462293f2-ed64-490c-95cd-f9b21e06be12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumUB_newtonSum_affine
 -- name    : SymPolyOpt.PowerSumUB.newtonSum_affine
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:23:10.039395+00:00
 -- url     : https://prove2.me/theorems/377fade3-e494-4d22-8a81-8a874ca93125

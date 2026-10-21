@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finiteJet_comp_surjective
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finiteJet_comp_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:08:40.773712+00:00
 -- url     : https://prove2.me/theorems/3e256edb-3551-46fb-b5f8-5afa76632bc8

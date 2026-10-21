@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_Smooth_eq_10
 -- name    : SDCA.Smooth.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:09:18.830988+00:00
 -- url     : https://prove2.me/theorems/758ae87a-449d-4996-9fe4-0a88af229a2f

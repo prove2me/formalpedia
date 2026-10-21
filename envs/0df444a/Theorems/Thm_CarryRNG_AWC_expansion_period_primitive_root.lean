@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_AWC_expansion_period_primitive_root
 -- name    : CarryRNG.AWC.expansion_period_primitive_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:20.432378+00:00
 -- url     : https://prove2.me/theorems/bc89acc5-7723-4cd9-a447-fd7848c6b26f

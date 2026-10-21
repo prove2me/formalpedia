@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PPDifferentiation_Costless_both_pp_profits
 -- name    : PPDifferentiation.Costless.both_pp_profits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:26:00.794042+00:00
 -- url     : https://prove2.me/theorems/03bc1dff-9673-43f9-a9d4-dd91311da866

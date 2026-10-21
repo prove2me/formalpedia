@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_Exact_first_term
 -- name    : LNChannels.Exact.first_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:23.367477+00:00
 -- url     : https://prove2.me/theorems/bcf7cc99-1783-4ace-9375-621d9b1a4244

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShipConsol_OneWH_lemma_2_unrolled
 -- name    : ShipConsol.OneWH.lemma_2_unrolled
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:19.781976+00:00
 -- url     : https://prove2.me/theorems/8931ab44-1d09-41ac-9c3a-3e982ddaa5b8

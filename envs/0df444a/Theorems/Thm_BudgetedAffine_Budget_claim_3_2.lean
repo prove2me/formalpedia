@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetedAffine_Budget_claim_3_2
 -- name    : BudgetedAffine.Budget.claim_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:27:15.476965+00:00
 -- url     : https://prove2.me/theorems/04afcfde-0e6a-412b-a9e3-18603acdbc75

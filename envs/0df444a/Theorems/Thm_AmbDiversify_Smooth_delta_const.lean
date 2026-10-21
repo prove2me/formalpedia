@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AmbDiversify_Smooth_delta_const
 -- name    : AmbDiversify.Smooth.delta_const
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:09.870919+00:00
 -- url     : https://prove2.me/theorems/0947c761-16e0-4b1e-b9b8-b9b5761781bd

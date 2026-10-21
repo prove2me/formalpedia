@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_Debt_proposition_1
 -- name    : TokenFinance.Debt.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:29:40.560781+00:00
 -- url     : https://prove2.me/theorems/5d8165bd-76e0-4bb7-affb-462d9d5e09a4

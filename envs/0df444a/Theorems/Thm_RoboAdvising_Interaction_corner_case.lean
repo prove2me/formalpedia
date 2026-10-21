@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_corner_case
 -- name    : RoboAdvising.Interaction.corner_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:40.263073+00:00
 -- url     : https://prove2.me/theorems/56073890-0d70-482e-8e62-1e9997301529

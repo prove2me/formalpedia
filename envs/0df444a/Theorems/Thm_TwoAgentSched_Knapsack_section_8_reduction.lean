@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_Knapsack_section_8_reduction
 -- name    : TwoAgentSched.Knapsack.section_8_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:38:56.65173+00:00
 -- url     : https://prove2.me/theorems/850392d2-921c-4f24-b2de-ec4ea8eb8885

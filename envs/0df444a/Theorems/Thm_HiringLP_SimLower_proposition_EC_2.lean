@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimLower_proposition_EC_2
 -- name    : HiringLP.SimLower.proposition_EC_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:44.898752+00:00
 -- url     : https://prove2.me/theorems/7becc008-68fd-497a-942d-3f7f14544b3e

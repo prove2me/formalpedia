@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchCongestion_Welfare_endnote_12_eq16
 -- name    : MatchCongestion.Welfare.endnote_12_eq16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:35.943313+00:00
 -- url     : https://prove2.me/theorems/14d86b52-1816-422b-a509-1d16599fb19c

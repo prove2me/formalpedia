@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.degree_m_homogeneous_surjectivity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:38:12.24906+00:00
 -- url     : https://prove2.me/submissions/f90192a3-5325-4c57-92f9-6df239c51d88
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_exists_degree_index_finset
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_homogeneous_sum_coeff

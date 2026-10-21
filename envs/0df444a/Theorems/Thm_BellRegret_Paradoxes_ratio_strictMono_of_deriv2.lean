@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_ratio_strictMono_of_deriv2
 -- name    : BellRegret.Paradoxes.ratio_strictMono_of_deriv2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:14.75+00:00
 -- url     : https://prove2.me/theorems/3e36ab37-7ef5-4b4d-9d26-5b8ba393c4c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMQuasi_quasiStrong_imp_funGrowth
 -- name    : NecoaraNG.GMQuasi.quasiStrong_imp_funGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:14.676993+00:00
 -- url     : https://prove2.me/theorems/2b71ef29-3c0d-46ce-831c-2a690b13db47

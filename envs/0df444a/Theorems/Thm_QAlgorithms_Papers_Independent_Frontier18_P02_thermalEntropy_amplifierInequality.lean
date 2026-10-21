@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P02_thermalEntropy_amplifierInequality
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P02.thermalEntropy_amplifierInequality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:50:05.94367+00:00
 -- url     : https://prove2.me/theorems/e26c1e80-94d1-49b4-8a62-4f565fc18758

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_ImprovedJS_pLow_unique
 -- name    : FuzzyExtractors.ImprovedJS.pLow_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:31.659372+00:00
 -- url     : https://prove2.me/theorems/d704a720-da5f-4dca-8acc-311ba9350553

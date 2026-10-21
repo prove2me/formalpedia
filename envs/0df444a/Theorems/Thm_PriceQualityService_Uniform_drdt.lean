@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Uniform_drdt
 -- name    : PriceQualityService.Uniform.drdt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:58.216419+00:00
 -- url     : https://prove2.me/theorems/e1d64c3a-0f38-4646-aaec-9fdf474ba027

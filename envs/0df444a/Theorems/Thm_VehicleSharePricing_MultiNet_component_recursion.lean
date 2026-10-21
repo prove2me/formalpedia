@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_MultiNet_component_recursion
 -- name    : VehicleSharePricing.MultiNet.component_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:13.087236+00:00
 -- url     : https://prove2.me/theorems/9fca50be-6967-4fde-9e7b-9aa9fa0231fe

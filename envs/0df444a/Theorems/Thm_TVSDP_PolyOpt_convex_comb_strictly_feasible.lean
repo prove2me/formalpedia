@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TVSDP_PolyOpt_convex_comb_strictly_feasible
 -- name    : TVSDP.PolyOpt.convex_comb_strictly_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:01.338992+00:00
 -- url     : https://prove2.me/theorems/4a9490d0-49ef-47de-a706-b538b033dfb6

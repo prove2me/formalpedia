@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnfairML_Coverage_eq_54
 -- name    : UnfairML.Coverage.eq_54
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:36.630522+00:00
 -- url     : https://prove2.me/theorems/2c92e921-e64e-4981-a6b8-e8720b738492

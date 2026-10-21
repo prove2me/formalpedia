@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeveragedPayouts_Unregulated_effort_labor_monotone
 -- name    : LeveragedPayouts.Unregulated.effort_labor_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:22.473301+00:00
 -- url     : https://prove2.me/theorems/0bf47058-f54e-4ae0-821d-6287e16b7da3

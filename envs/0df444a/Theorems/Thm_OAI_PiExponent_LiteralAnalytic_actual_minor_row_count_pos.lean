@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_actual_minor_row_count_pos
 -- name    : OAI.PiExponent.LiteralAnalytic.actual_minor_row_count_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:13:22.122071+00:00
 -- url     : https://prove2.me/theorems/ac55b8c2-2cd5-44bf-b639-f9c159651ba2

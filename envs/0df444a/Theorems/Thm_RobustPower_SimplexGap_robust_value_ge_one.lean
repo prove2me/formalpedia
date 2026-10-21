@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_SimplexGap_robust_value_ge_one
 -- name    : RobustPower.SimplexGap.robust_value_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:28:45.688426+00:00
 -- url     : https://prove2.me/theorems/e18f94ff-fe42-445a-9e92-e83137467cc4

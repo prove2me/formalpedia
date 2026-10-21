@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_coefficients_interpolating_polynomials
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_coefficients_interpolating_polynomials
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:05:49.894115+00:00
 -- url     : https://prove2.me/theorems/2aa52d7a-ba59-4620-a114-62ffaf26a89e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetConstrSOC_Directional_proposition_5_11
 -- name    : SetConstrSOC.Directional.proposition_5_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:43.072043+00:00
 -- url     : https://prove2.me/theorems/55e39ef3-a41d-419f-b6d1-8bb92570db76

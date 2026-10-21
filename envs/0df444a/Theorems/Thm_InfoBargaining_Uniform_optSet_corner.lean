@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Uniform_optSet_corner
 -- name    : InfoBargaining.Uniform.optSet_corner
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:31.958231+00:00
 -- url     : https://prove2.me/theorems/71e0a4b4-3b16-47d9-a9a3-0762810683b0

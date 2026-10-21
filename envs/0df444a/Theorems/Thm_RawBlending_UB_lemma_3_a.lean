@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RawBlending_UB_lemma_3_a
 -- name    : RawBlending.UB.lemma_3_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:31.276386+00:00
 -- url     : https://prove2.me/theorems/486e4e4f-162e-45e6-b387-eeae80cbab67

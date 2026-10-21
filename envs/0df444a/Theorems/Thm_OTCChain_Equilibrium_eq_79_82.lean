@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_eq_79_82
 -- name    : OTCChain.Equilibrium.eq_79_82
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:41.851553+00:00
 -- url     : https://prove2.me/theorems/758e451c-7920-4f99-8d1e-77152ab97fb6

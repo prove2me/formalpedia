@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishablePricing_Backlog_constraint_set_lnat_convex
 -- name    : PerishablePricing.Backlog.constraint_set_lnat_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:26:17.357652+00:00
 -- url     : https://prove2.me/theorems/2a96c8a8-9414-4a9f-8c05-e1f59662b256

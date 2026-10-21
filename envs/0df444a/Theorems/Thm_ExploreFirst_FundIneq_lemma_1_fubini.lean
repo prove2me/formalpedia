@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_FundIneq_lemma_1_fubini
 -- name    : ExploreFirst.FundIneq.lemma_1_fubini
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:51.211564+00:00
 -- url     : https://prove2.me/theorems/93081dab-2c53-44da-b033-6574d7ee7bab

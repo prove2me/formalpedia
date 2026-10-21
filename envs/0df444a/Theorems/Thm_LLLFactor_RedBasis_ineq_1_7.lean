@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_RedBasis_ineq_1_7
 -- name    : LLLFactor.RedBasis.ineq_1_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:19:28.571987+00:00
 -- url     : https://prove2.me/theorems/764455d0-616e-4dc3-851a-6e1465c53796

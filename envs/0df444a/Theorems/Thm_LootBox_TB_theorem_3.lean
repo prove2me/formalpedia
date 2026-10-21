@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LootBox_TB_theorem_3
 -- name    : LootBox.TB.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:04.395121+00:00
 -- url     : https://prove2.me/theorems/8e1f472a-0816-42b1-8b8c-040af3b51588

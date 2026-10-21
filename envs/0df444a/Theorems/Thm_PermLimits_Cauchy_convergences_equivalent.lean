@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Cauchy_convergences_equivalent
 -- name    : PermLimits.Cauchy.convergences_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:25:08.548992+00:00
 -- url     : https://prove2.me/theorems/02198ea6-5be7-4261-b8a0-011fd77a9391

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailerMarketplace_Entry_proposition_1_sbt
 -- name    : RetailerMarketplace.Entry.proposition_1_sbt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:32.026982+00:00
 -- url     : https://prove2.me/theorems/6ad2cb57-6532-4d07-876e-a58beb6c0b0f

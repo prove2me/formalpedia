@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquiSegment_Multivalued_nice_assigns_value
 -- name    : EquiSegment.Multivalued.nice_assigns_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:30.763982+00:00
 -- url     : https://prove2.me/theorems/f53bd4af-95a2-4bae-9fdd-0e899330cebf

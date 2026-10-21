@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_estimate_concentration_adversarial
 -- name    : BestBothWorlds.SAO.estimate_concentration_adversarial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:47:10.427987+00:00
 -- url     : https://prove2.me/theorems/9236924e-dcea-4dbe-b092-a0d299cb0b42

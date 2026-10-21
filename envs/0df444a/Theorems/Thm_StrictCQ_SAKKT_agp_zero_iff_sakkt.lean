@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_SAKKT_agp_zero_iff_sakkt
 -- name    : StrictCQ.SAKKT.agp_zero_iff_sakkt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:35:50.253652+00:00
 -- url     : https://prove2.me/theorems/80996190-5e01-431d-a367-e9aa9a21d937

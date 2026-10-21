@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoInundation_Screening_monotone_in_distance
 -- name    : InfoInundation.Screening.monotone_in_distance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:37.057721+00:00
 -- url     : https://prove2.me/theorems/a97eab87-2ff5-456c-9efe-88fb07336df7

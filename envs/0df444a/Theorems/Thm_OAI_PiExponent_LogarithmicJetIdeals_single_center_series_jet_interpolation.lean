@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_single_center_series_jet_interpolation
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.single_center_series_jet_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:29:57.442845+00:00
 -- url     : https://prove2.me/theorems/5b65c342-210b-4357-952a-f4ffb4a29a85

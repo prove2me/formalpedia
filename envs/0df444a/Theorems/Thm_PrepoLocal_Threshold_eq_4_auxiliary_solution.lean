@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrepoLocal_Threshold_eq_4_auxiliary_solution
 -- name    : PrepoLocal.Threshold.eq_4_auxiliary_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:52.601+00:00
 -- url     : https://prove2.me/theorems/d97fcd05-1351-427c-bf6a-d70bb9dbc7ee

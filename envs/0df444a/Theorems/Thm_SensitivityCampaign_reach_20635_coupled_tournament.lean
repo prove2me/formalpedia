@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_reach_20635_coupled_tournament
 -- name    : SensitivityCampaign.reach_20635_coupled_tournament
 -- status  : Proved
--- author  : @abhishekdpseok
+-- author  : @Abhishek Anand
 -- created : 2026-10-16T18:15:38.721376+00:00
 -- url     : https://prove2.me/theorems/f4a6abf1-69b0-4785-a7d9-cd45649231b2
 -- title:

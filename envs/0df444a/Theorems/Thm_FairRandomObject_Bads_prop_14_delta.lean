@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRandomObject_Bads_prop_14_delta
 -- name    : FairRandomObject.Bads.prop_14_delta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:42.617893+00:00
 -- url     : https://prove2.me/theorems/191a09b3-dce3-4fe6-a4ff-935deb8d8753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_total_le6
 -- name    : IntMul.Kappa.R6.total_le6
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:37:56.817488+00:00
 -- url     : https://prove2.me/theorems/dc189c32-71ae-46fa-a93f-b3b53cb27f9e

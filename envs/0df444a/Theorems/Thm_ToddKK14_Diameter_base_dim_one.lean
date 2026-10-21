@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToddKK14_Diameter_base_dim_one
 -- name    : ToddKK14.Diameter.base_dim_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:45:51.526394+00:00
 -- url     : https://prove2.me/theorems/91330b8d-25f7-4cba-aa40-fde403fbfc52

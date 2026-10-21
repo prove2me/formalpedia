@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SensitivityCampaign.reach_20635_coupled_tournament
 -- status  : ACCEPTED   (prove)
--- author  : @abhishekdpseok
+-- author  : @Abhishek Anand
 -- created : 2026-10-18T04:24:35.014967+00:00
 -- url     : https://prove2.me/submissions/f80a3f37-72fa-4d56-a094-3e4d351764f3
 

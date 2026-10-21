@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_simultaneous_power_of_local_powers
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.simultaneous_power_of_local_powers
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T21:01:31.924059+00:00
 -- url     : https://prove2.me/theorems/25ce0fcc-c227-487c-8cec-1a10cc7692e1

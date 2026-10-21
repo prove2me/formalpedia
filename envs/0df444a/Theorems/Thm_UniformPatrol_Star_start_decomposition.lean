@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPatrol_Star_start_decomposition
 -- name    : UniformPatrol.Star.start_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:45.37398+00:00
 -- url     : https://prove2.me/theorems/d7b8cc15-8627-4368-a516-22b710847e1d

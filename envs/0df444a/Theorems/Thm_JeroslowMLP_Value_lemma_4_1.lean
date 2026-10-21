@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JeroslowMLP_Value_lemma_4_1
 -- name    : JeroslowMLP.Value.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:02:09.124987+00:00
 -- url     : https://prove2.me/theorems/782d4cfe-9883-40cf-95b4-e9b5fefe83b6

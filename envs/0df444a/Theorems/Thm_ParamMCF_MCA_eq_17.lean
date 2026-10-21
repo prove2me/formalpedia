@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamMCF_MCA_eq_17
 -- name    : ParamMCF.MCA.eq_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:12.464819+00:00
 -- url     : https://prove2.me/theorems/f67af832-4c81-4669-bd97-3c33d06225d4

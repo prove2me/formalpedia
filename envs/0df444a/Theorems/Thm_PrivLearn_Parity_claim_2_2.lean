@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_Parity_claim_2_2
 -- name    : PrivLearn.Parity.claim_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:49:30.604948+00:00
 -- url     : https://prove2.me/theorems/15a98328-aa17-4c0d-b83c-8afa8acf1414

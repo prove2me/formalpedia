@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_eq_3b_3e
 -- name    : CoProdBundle.Equil.eq_3b_3e
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:31.387521+00:00
 -- url     : https://prove2.me/theorems/c2e3e7fb-230c-4431-9620-92ed474846e6

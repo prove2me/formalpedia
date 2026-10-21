@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyPriceInterp_MarketEq_cubic_reduction
 -- name    : CostlyPriceInterp.MarketEq.cubic_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:34.715293+00:00
 -- url     : https://prove2.me/theorems/935bb96d-135a-4c6d-9f31-6f729fc99975

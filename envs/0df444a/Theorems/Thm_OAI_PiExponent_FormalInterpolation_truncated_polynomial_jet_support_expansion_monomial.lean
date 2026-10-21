@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_polynomial_jet_support_expansion_monomial
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_polynomial_jet_support_expansion_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:59:00.719278+00:00
 -- url     : https://prove2.me/theorems/2021d5d3-97cb-42bc-9e22-3f07efcf3acd

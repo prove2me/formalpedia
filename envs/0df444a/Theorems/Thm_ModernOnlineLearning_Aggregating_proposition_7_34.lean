@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Aggregating_proposition_7_34
 -- name    : ModernOnlineLearning.Aggregating.proposition_7_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:06.500445+00:00
 -- url     : https://prove2.me/theorems/c100d3f4-c261-471f-914c-bdb9a467dc02

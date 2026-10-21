@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DavidonVM_Termination_grad_quad
 -- name    : DavidonVM.Termination.grad_quad
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:42:58.083518+00:00
 -- url     : https://prove2.me/theorems/7ae57a91-c212-419a-b98e-49a0ca147a1f

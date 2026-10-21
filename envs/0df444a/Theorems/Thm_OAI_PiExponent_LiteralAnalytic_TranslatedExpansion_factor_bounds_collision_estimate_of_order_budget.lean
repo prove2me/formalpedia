@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_factor_bounds_collision_estimate_of_order_budget
 -- name    : OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.factor_bounds_collision_estimate_of_order_budget
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T10:02:06.484677+00:00
 -- url     : https://prove2.me/theorems/b8a128a5-6c3b-4a06-a8e8-7a8278e7a503

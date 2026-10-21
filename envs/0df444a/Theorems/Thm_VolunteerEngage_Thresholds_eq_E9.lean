@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Thresholds_eq_E9
 -- name    : VolunteerEngage.Thresholds.eq_E9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:39.3853+00:00
 -- url     : https://prove2.me/theorems/ebb57971-585e-4656-a572-c53abb0e0ea2

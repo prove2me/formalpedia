@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_display_5
 -- name    : ScarceTesting.PerfectTest.display_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:36.991983+00:00
 -- url     : https://prove2.me/theorems/a3d48def-458e-4731-ba5f-abd018240031

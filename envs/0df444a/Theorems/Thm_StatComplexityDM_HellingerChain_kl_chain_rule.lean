@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_HellingerChain_kl_chain_rule
 -- name    : StatComplexityDM.HellingerChain.kl_chain_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:22:37.375864+00:00
 -- url     : https://prove2.me/theorems/8f4a14c4-807c-4187-bd77-7b4380827523

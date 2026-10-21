@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Bound_proposition_2_1
 -- name    : HScattered.Bound.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:25.291658+00:00
 -- url     : https://prove2.me/theorems/7577a8ea-e979-4de7-91df-8ec7efbce214

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcFlex_DMGI_theorem_1
 -- name    : ProcFlex.DMGI.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:26.345814+00:00
 -- url     : https://prove2.me/theorems/24beceaa-8c57-4a6f-ab78-88cbd133d1bf

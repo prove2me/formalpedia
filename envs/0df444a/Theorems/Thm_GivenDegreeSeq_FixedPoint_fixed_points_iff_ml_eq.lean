@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_FixedPoint_fixed_points_iff_ml_eq
 -- name    : GivenDegreeSeq.FixedPoint.fixed_points_iff_ml_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:51:44.488663+00:00
 -- url     : https://prove2.me/theorems/a2e97468-ce17-46f8-97f7-04face821e8c

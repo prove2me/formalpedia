@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Defensive_eq20_closed_form
 -- name    : FakeAccounts.Defensive.eq20_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:09.233052+00:00
 -- url     : https://prove2.me/theorems/6130dc5c-59e1-4a22-bd1f-23187516f42e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqSubmod_Discrete_lemma_10
 -- name    : SeqSubmod.Discrete.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:51.285621+00:00
 -- url     : https://prove2.me/theorems/2dce8e00-4d93-423b-9c60-8265400b529c

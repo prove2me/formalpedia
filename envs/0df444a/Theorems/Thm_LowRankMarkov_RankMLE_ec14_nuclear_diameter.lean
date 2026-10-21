@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowRankMarkov_RankMLE_ec14_nuclear_diameter
 -- name    : LowRankMarkov.RankMLE.ec14_nuclear_diameter
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:27:12.191676+00:00
 -- url     : https://prove2.me/theorems/76795768-d7e2-40f5-9b2f-5a40b5c87ff5

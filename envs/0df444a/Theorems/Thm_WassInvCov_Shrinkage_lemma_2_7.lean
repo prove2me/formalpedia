@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassInvCov_Shrinkage_lemma_2_7
 -- name    : WassInvCov.Shrinkage.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:37.689905+00:00
 -- url     : https://prove2.me/theorems/54c73fa2-4a9a-4525-946b-1a42e433fb2a

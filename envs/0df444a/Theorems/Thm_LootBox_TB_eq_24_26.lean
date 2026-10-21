@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LootBox_TB_eq_24_26
 -- name    : LootBox.TB.eq_24_26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:04.413977+00:00
 -- url     : https://prove2.me/theorems/a3c1a4e6-6448-4d6e-bf03-8191696ee87a

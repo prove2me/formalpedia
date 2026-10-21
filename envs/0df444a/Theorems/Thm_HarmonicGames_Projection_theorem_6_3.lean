@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_Projection_theorem_6_3
 -- name    : HarmonicGames.Projection.theorem_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:46:52.042977+00:00
 -- url     : https://prove2.me/theorems/49077b89-8209-4798-af57-8152989dc071

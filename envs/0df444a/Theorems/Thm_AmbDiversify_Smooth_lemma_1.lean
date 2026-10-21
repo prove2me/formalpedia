@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AmbDiversify_Smooth_lemma_1
 -- name    : AmbDiversify.Smooth.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:10.260833+00:00
 -- url     : https://prove2.me/theorems/9abd7631-f928-4441-a4c8-18c0703ef4e4

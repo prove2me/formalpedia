@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_RedBasis_norm_sq_le_pow_gs
 -- name    : LLLFactor.RedBasis.norm_sq_le_pow_gs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:19:24.194984+00:00
 -- url     : https://prove2.me/theorems/9a3104cf-dd51-4e41-b411-38e496b5457b

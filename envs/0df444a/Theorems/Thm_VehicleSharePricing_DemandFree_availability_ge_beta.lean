@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_DemandFree_availability_ge_beta
 -- name    : VehicleSharePricing.DemandFree.availability_ge_beta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:15.825836+00:00
 -- url     : https://prove2.me/theorems/33bb01b9-df8d-4353-8a62-641b2274cd35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimUpper_opt_ge_k_tau
 -- name    : HiringLP.SimUpper.opt_ge_k_tau
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:02:39.731581+00:00
 -- url     : https://prove2.me/theorems/6ce811d4-0aea-402a-be0e-a1d31421701d

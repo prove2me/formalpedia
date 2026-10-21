@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_projectiveLine_zeta
 -- name    : WeilConjectures.projectiveLine_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T14:56:57.518764+00:00
 -- url     : https://prove2.me/theorems/e29e7c12-4371-4fd4-91a9-20bb3444c7d6

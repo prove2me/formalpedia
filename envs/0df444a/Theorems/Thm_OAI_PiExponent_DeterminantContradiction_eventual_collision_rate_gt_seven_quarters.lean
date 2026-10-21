@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_eventual_collision_rate_gt_seven_quarters
 -- name    : OAI.PiExponent.DeterminantContradiction.eventual_collision_rate_gt_seven_quarters
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:24:58.906872+00:00
 -- url     : https://prove2.me/theorems/f566c788-fc85-41ba-9972-92365742ec6f

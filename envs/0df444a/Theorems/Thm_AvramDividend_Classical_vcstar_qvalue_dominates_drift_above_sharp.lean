@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_qvalue_dominates_drift_above_sharp
 -- name    : AvramDividend.Classical.vcstar_qvalue_dominates_drift_above_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T13:11:04.022676+00:00
 -- url     : https://prove2.me/theorems/fe356583-4478-4e02-a2c3-904ffe89cb1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_step_anyH
 -- name    : IntMul.Kappa.R6.IL3H.step_anyH
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:02.269486+00:00
 -- url     : https://prove2.me/theorems/a6be6de0-30cd-49ec-adeb-fb6c101718b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_Rationalized_lemma_C_1
 -- name    : DimCallCenters.Rationalized.lemma_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:18:11.330076+00:00
 -- url     : https://prove2.me/theorems/afa3d5a4-02a6-4c9f-b214-a8302999d6ba

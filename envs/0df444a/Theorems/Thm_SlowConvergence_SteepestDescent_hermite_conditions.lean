@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_SteepestDescent_hermite_conditions
 -- name    : SlowConvergence.SteepestDescent.hermite_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:48.384907+00:00
 -- url     : https://prove2.me/theorems/e7c1b91d-42c7-4873-93a2-1a7b9b5beb52

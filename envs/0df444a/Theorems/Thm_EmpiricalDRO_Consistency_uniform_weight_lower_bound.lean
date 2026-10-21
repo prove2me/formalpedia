@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalDRO_Consistency_uniform_weight_lower_bound
 -- name    : EmpiricalDRO.Consistency.uniform_weight_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:06:22.598982+00:00
 -- url     : https://prove2.me/theorems/c38f3d78-455d-4e8e-8885-bda0eed66753

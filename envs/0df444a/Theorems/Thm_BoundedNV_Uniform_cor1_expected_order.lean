@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Uniform_cor1_expected_order
 -- name    : BoundedNV.Uniform.cor1_expected_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:41.835582+00:00
 -- url     : https://prove2.me/theorems/431c08b0-9342-474f-b486-c599ae77d08b

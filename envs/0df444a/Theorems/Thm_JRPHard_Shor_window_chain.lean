@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Shor_window_chain
 -- name    : JRPHard.Shor.window_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:37:37.145361+00:00
 -- url     : https://prove2.me/theorems/61907557-8a19-4776-bdb8-ce4fee03d426

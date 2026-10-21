@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_plain_jet_box_congruence
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.plain_jet_box_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:58:53.023722+00:00
 -- url     : https://prove2.me/theorems/8a9980a9-0b6f-449e-8239-070d70dcfa69

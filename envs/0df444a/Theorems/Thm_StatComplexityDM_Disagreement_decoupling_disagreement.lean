@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_Disagreement_decoupling_disagreement
 -- name    : StatComplexityDM.Disagreement.decoupling_disagreement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:08.11854+00:00
 -- url     : https://prove2.me/theorems/b0c985bb-a2b6-4373-94ba-d168f6dff810

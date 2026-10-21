@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContagionGrowth_FluidLimit_eq_27_28
 -- name    : ContagionGrowth.FluidLimit.eq_27_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:31.009979+00:00
 -- url     : https://prove2.me/theorems/9b9ffafd-7e40-40d5-ab70-4d2bb0d51f35

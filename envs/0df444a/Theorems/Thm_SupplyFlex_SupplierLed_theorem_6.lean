@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyFlex_SupplierLed_theorem_6
 -- name    : SupplyFlex.SupplierLed.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:51:50.241825+00:00
 -- url     : https://prove2.me/theorems/5c12962e-7d73-4114-aa7e-bf8e7f7b3a4a

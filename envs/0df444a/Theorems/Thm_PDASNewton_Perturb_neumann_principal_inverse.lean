@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_Perturb_neumann_principal_inverse
 -- name    : PDASNewton.Perturb.neumann_principal_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:09.280781+00:00
 -- url     : https://prove2.me/theorems/8f12161d-73f8-4f29-b34d-38d7fa281ff8

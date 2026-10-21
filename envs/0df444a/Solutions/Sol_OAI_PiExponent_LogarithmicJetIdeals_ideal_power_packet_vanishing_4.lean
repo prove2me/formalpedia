@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for OAI.PiExponent.LogarithmicJetIdeals.ideal_power_packet_vanishing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-16T19:18:47.082993+00:00
 -- url     : https://prove2.me/submissions/a0e3c5e3-c344-4598-8dc8-f91e963316c4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_ApproximationDefinitions
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData

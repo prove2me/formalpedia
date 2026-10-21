@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_weightedSeriesJet_columnCombination_eq_matrix_mulVec
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.weightedSeriesJet_columnCombination_eq_matrix_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:48:23.979106+00:00
 -- url     : https://prove2.me/theorems/f7b98a26-255b-4b87-b7e9-a3993c4cacb3

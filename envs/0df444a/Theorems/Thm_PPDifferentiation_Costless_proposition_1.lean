@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PPDifferentiation_Costless_proposition_1
 -- name    : PPDifferentiation.Costless.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:26:19.571094+00:00
 -- url     : https://prove2.me/theorems/040d7d03-a83a-4876-9503-0ddde5748c8b

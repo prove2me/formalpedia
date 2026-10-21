@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Subadditive_counting_chain
 -- name    : BudgetClock.Subadditive.counting_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:23:51.618312+00:00
 -- url     : https://prove2.me/theorems/3c5b907a-a97c-44bf-83ec-3fcceea57ae9

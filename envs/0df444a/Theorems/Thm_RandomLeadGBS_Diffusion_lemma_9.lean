@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomLeadGBS_Diffusion_lemma_9
 -- name    : RandomLeadGBS.Diffusion.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:53.622484+00:00
 -- url     : https://prove2.me/theorems/20a3c180-f240-4297-8519-c5fa6cf6e9f5

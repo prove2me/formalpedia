@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_FlowCut_weak_duality_cut
 -- name    : GeometryOfGraphs.FlowCut.weak_duality_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:57:52.456277+00:00
 -- url     : https://prove2.me/theorems/bc1f6012-d4eb-48a5-bbfe-ba8c461b2232

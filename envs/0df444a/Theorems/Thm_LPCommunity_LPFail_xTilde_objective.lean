@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_LPFail_xTilde_objective
 -- name    : LPCommunity.LPFail.xTilde_objective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:05:11.195097+00:00
 -- url     : https://prove2.me/theorems/415d982d-eab4-48fc-8664-07b941553ffe

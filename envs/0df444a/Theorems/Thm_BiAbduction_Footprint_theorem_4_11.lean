@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiAbduction_Footprint_theorem_4_11
 -- name    : BiAbduction.Footprint.theorem_4_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:58.784035+00:00
 -- url     : https://prove2.me/theorems/7d58badb-0b44-4136-938b-f12ef0193dfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Pooling_eq63_standardized_cost
 -- name    : BoundedNV.Pooling.eq63_standardized_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:57:10.696989+00:00
 -- url     : https://prove2.me/theorems/0ddc93b3-da0b-401c-81a4-4568b31caffd

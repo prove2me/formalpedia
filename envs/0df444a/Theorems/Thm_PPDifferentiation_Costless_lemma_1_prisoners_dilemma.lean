@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PPDifferentiation_Costless_lemma_1_prisoners_dilemma
 -- name    : PPDifferentiation.Costless.lemma_1_prisoners_dilemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:26:01.196471+00:00
 -- url     : https://prove2.me/theorems/a7f015c0-0468-4a02-90a0-fd709868faf7

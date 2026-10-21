@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_AWC_iterate_r_mem_periodicPts
 -- name    : CarryRNG.AWC.iterate_r_mem_periodicPts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:23:02.223999+00:00
 -- url     : https://prove2.me/theorems/fa68b6c1-2542-43b2-bbd7-628ce4236b65

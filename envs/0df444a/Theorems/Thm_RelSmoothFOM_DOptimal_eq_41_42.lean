@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DOptimal_eq_41_42
 -- name    : RelSmoothFOM.DOptimal.eq_41_42
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:35:02.257601+00:00
 -- url     : https://prove2.me/theorems/514e372e-469d-4fc7-850e-042d5eeec0b1

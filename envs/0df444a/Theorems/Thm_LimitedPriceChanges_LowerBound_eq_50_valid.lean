@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedPriceChanges_LowerBound_eq_50_valid
 -- name    : LimitedPriceChanges.LowerBound.eq_50_valid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:33.171721+00:00
 -- url     : https://prove2.me/theorems/b59ba5c8-ffff-4c9c-97f8-94e9332dbefc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrepoLocal_Threshold_cost_identity
 -- name    : PrepoLocal.Threshold.cost_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:51.097242+00:00
 -- url     : https://prove2.me/theorems/05d81225-21f7-45a4-83c6-b1253bbbb0f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComonoNetPricing_DebtEquity_piecewise_linear_wealth
 -- name    : ComonoNetPricing.DebtEquity.piecewise_linear_wealth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:27.185452+00:00
 -- url     : https://prove2.me/theorems/679e2bbb-472e-41db-b77a-4d5713645475

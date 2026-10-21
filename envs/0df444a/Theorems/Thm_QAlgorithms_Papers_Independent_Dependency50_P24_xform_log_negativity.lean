@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_xform_log_negativity
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.xform_log_negativity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:12:30.349765+00:00
 -- url     : https://prove2.me/theorems/b03228e4-8da6-4753-a3e0-dc66d20ad231

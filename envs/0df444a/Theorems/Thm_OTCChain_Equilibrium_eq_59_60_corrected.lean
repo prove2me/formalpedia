@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTCChain_Equilibrium_eq_59_60_corrected
 -- name    : OTCChain.Equilibrium.eq_59_60_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:37.851615+00:00
 -- url     : https://prove2.me/theorems/0d62ef06-bedd-4e72-b6a8-4a1b538284b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Survey_thm_5_1_limit_neg_one
 -- name    : EngagementOpt.Survey.thm_5_1_limit_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:19:03.288854+00:00
 -- url     : https://prove2.me/theorems/90b091f3-9f2a-46c3-8bbf-0b6616ba3bd9

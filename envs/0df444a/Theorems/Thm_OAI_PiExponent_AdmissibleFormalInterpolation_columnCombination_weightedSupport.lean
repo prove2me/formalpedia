@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_columnCombination_weightedSupport
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.columnCombination_weightedSupport
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:47:46.086983+00:00
 -- url     : https://prove2.me/theorems/95e1dde6-202e-4921-a069-862ac1734c56

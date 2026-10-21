@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Linear_eq_yn_z
 -- name    : ProjReflGrad.Linear.eq_yn_z
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:15:52.175985+00:00
 -- url     : https://prove2.me/theorems/77175842-b045-416e-a2fe-a42ec23ce319

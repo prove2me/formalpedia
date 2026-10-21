@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComonoNetPricing_DebtEquity_corollary_A_4
 -- name    : ComonoNetPricing.DebtEquity.corollary_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:33.645683+00:00
 -- url     : https://prove2.me/theorems/f873f0bd-8bae-4dc6-9d9c-4eb0bb3a6559

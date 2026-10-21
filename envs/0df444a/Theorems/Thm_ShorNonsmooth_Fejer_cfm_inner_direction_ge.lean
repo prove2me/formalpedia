@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_cfm_inner_direction_ge
 -- name    : ShorNonsmooth.Fejer.cfm_inner_direction_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:31:28.020464+00:00
 -- url     : https://prove2.me/theorems/fe1180a8-5981-45e8-a2c0-b24aacc73c36

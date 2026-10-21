@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_LowerBound_theorem_9
 -- name    : FirstPriceLearning.LowerBound.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:26.724999+00:00
 -- url     : https://prove2.me/theorems/fb12c408-3a8a-4080-9a7d-3b77488a2188

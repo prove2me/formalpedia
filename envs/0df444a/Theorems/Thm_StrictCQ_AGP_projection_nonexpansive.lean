@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_AGP_projection_nonexpansive
 -- name    : StrictCQ.AGP.projection_nonexpansive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:37:28.259236+00:00
 -- url     : https://prove2.me/theorems/92c1d575-b464-4b8b-9302-8b7f5ca9c8f7

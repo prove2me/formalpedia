@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NLogN_KFW_sImplQ_padU
 -- name    : NLogN.KFW.sImplQ_padU
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:25:52.242128+00:00
 -- url     : https://prove2.me/theorems/446d68d6-7c53-4112-9814-8f49da6cdba7

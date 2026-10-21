@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_log_nat_div_tendsto_zero_of_polynomial_bound
 -- name    : OAI.PiExponent.DeterminantContradiction.log_nat_div_tendsto_zero_of_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:13:45.232669+00:00
 -- url     : https://prove2.me/theorems/10d03b67-e006-4ace-9a6b-f338fcbe30ea

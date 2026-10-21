@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Thresholds_profit_threshold
 -- name    : Multihoming.Thresholds.profit_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:36.333138+00:00
 -- url     : https://prove2.me/theorems/45251d05-aa1c-45a6-81e9-7c13bbb93093

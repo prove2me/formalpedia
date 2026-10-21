@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFTop_kappa_bound
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFTop.kappa_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:18:37.755661+00:00
 -- url     : https://prove2.me/theorems/0446b67e-32cb-4014-99c9-bd17d16a453a

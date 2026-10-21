@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_matrix_image_representative
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_matrix_image_representative
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T05:31:20.765223+00:00
 -- url     : https://prove2.me/theorems/0db5f6ff-536f-4dcd-8bfe-2cba56a1b44e

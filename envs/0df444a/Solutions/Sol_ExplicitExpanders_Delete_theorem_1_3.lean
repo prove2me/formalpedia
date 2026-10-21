@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ExplicitExpanders.Delete.theorem_1_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T16:48:22.591168+00:00
 -- url     : https://prove2.me/submissions/87cd2a00-ebbf-4b16-b6a5-543bc2ecc0f3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ExplicitExpanders_Delete_IsNDLambda

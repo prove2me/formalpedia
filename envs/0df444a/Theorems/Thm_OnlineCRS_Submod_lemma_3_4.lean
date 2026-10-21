@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Submod_lemma_3_4
 -- name    : OnlineCRS.Submod.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:07.890266+00:00
 -- url     : https://prove2.me/theorems/cb7ec1d7-10bd-408b-acd4-c33fcd6c2aed

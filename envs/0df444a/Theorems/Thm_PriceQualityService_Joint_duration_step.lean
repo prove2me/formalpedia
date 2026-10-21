@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Joint_duration_step
 -- name    : PriceQualityService.Joint.duration_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:43.404024+00:00
 -- url     : https://prove2.me/theorems/eb667e6a-04c8-41e5-818d-1dffdfc5dd32

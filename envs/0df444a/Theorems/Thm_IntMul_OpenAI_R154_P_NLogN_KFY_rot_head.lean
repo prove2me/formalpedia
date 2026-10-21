@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFY_rot_head
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFY.rot_head
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:21:42.204031+00:00
 -- url     : https://prove2.me/theorems/2551d4a7-2457-45cc-8c72-57daafd07de6

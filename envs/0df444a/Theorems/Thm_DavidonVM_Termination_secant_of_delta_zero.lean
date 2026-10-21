@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DavidonVM_Termination_secant_of_delta_zero
 -- name    : DavidonVM.Termination.secant_of_delta_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:12.111981+00:00
 -- url     : https://prove2.me/theorems/9fb8f43e-8224-42f3-9e5b-b81f1a63f391

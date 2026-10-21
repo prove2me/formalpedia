@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.actual_minor_bounded_expansion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:58:30.190058+00:00
 -- url     : https://prove2.me/submissions/2dd48866-0985-4dd2-8320-4b800354c43f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Analysis_AnalyticAggregate_RemainderData
 import Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_row_choice_card_le

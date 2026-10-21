@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Dynamic_lemma_6_10
 -- name    : ModernOnlineLearning.Dynamic.lemma_6_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:55.124675+00:00
 -- url     : https://prove2.me/theorems/87e634ec-92ee-40e6-b3fa-b28bf14ba3a6

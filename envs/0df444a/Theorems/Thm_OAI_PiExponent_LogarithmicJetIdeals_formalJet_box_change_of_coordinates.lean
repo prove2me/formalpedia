@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_box_change_of_coordinates
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_box_change_of_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:46:16.755989+00:00
 -- url     : https://prove2.me/theorems/29b91425-54ab-4cbf-8108-06b5ef82ded1

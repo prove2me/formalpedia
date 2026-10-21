@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_FundIneq_lemma_1
 -- name    : ExploreFirst.FundIneq.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:38.395351+00:00
 -- url     : https://prove2.me/theorems/f03e2ad1-abe8-4ee8-a6d9-352221eb3354

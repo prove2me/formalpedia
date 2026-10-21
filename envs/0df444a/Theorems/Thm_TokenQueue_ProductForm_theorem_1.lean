@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenQueue_ProductForm_theorem_1
 -- name    : TokenQueue.ProductForm.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:42.258306+00:00
 -- url     : https://prove2.me/theorems/bc5ab25f-4803-41fb-9bdd-d3c62138be79

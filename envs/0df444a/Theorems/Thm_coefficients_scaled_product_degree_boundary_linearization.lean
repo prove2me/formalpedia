@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_coefficients_scaled_product_degree_boundary_linearization
 -- name    : coefficients_scaled_product_degree_boundary_linearization
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:37:10.930035+00:00
 -- url     : https://prove2.me/theorems/76595842-10cd-4175-b5e0-ea50503cbb42

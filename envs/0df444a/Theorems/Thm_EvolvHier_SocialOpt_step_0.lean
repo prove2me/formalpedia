@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EvolvHier_SocialOpt_step_0
 -- name    : EvolvHier.SocialOpt.step_0
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:26.713926+00:00
 -- url     : https://prove2.me/theorems/6bbc2ba5-7c75-458c-88a1-8b1b46cff34c

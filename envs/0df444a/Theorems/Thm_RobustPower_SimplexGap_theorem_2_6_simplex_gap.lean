@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_SimplexGap_theorem_2_6_simplex_gap
 -- name    : RobustPower.SimplexGap.theorem_2_6_simplex_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:30:09.057338+00:00
 -- url     : https://prove2.me/theorems/4b79317e-e6fc-43d1-aeb1-6c870db0134b

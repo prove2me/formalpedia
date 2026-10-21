@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunwayCPS_TotalDelay_min_total_delay_shortest_path
 -- name    : RunwayCPS.TotalDelay.min_total_delay_shortest_path
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:08:42.625929+00:00
 -- url     : https://prove2.me/theorems/14301573-0dc5-4fb0-bb15-53a21024b600

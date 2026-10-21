@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_MultiNet_ratio_mixture
 -- name    : VehicleSharePricing.MultiNet.ratio_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:08.449824+00:00
 -- url     : https://prove2.me/theorems/8c4cb41c-f411-47ed-a0ec-e60e6194a7bf

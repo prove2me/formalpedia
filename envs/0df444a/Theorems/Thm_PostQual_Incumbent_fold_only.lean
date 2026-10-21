@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostQual_Incumbent_fold_only
 -- name    : PostQual.Incumbent.fold_only
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:46.905011+00:00
 -- url     : https://prove2.me/theorems/b987ee7d-8368-4ba2-a3e6-23f4a93bb86f

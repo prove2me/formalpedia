@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.bounded_packet_representative_from_matrix_surjectivity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-13T05:27:14.408217+00:00
 -- url     : https://prove2.me/submissions/c4ea5394-58f8-410a-ae24-10b84e7f7a30
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_surjective_of_matrix_surjective

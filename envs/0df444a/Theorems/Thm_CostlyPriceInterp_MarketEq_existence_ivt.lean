@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyPriceInterp_MarketEq_existence_ivt
 -- name    : CostlyPriceInterp.MarketEq.existence_ivt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:31.754696+00:00
 -- url     : https://prove2.me/theorems/344f4a61-5f3a-4305-bdab-5b48e335c60e

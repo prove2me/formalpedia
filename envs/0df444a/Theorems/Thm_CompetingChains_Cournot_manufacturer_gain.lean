@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingChains_Cournot_manufacturer_gain
 -- name    : CompetingChains.Cournot.manufacturer_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:37.869983+00:00
 -- url     : https://prove2.me/theorems/0d296185-65bc-4df3-a0b4-024239df40b9

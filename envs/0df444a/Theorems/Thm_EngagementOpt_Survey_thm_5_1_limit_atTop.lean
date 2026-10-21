@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EngagementOpt_Survey_thm_5_1_limit_atTop
 -- name    : EngagementOpt.Survey.thm_5_1_limit_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:19:02.327061+00:00
 -- url     : https://prove2.me/theorems/42349899-8a5f-4ecc-a539-ec1dff7ac2f7

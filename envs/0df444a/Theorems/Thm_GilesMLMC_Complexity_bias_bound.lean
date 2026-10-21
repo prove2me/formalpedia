@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GilesMLMC_Complexity_bias_bound
 -- name    : GilesMLMC.Complexity.bias_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:22:41.030848+00:00
 -- url     : https://prove2.me/theorems/f1bfa171-f9d1-4795-9f82-565f3bab3151

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_Pontryagin_trajectory_bound
 -- name    : EkelandVP.Pontryagin.trajectory_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T11:26:21.394405+00:00
 -- url     : https://prove2.me/theorems/79d2f6ad-432a-4d48-9c0a-eb7f22011694

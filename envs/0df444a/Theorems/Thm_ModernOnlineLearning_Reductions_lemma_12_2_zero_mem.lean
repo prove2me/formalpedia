@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Reductions_lemma_12_2_zero_mem
 -- name    : ModernOnlineLearning.Reductions.lemma_12_2_zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:35:06.901976+00:00
 -- url     : https://prove2.me/theorems/38aa49a8-8627-47b1-b278-b2fab445b69d

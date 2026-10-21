@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesIMA_Stages_eq_5
 -- name    : GravesIMA.Stages.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:56.698886+00:00
 -- url     : https://prove2.me/theorems/e50c27ac-2f18-4f97-b33d-59064a0f0f6e

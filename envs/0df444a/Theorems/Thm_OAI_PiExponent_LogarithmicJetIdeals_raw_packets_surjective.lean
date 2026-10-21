@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_raw_packets_surjective
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.raw_packets_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-12T20:17:51.949991+00:00
 -- url     : https://prove2.me/theorems/7588b3df-feff-4271-94bf-590881422286

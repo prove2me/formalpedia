@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_exists_formalJet_coefficient_dualFamily
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.exists_formalJet_coefficient_dualFamily
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T08:24:49.782714+00:00
 -- url     : https://prove2.me/theorems/af609c15-b131-4a41-b43b-0cd506548d0e

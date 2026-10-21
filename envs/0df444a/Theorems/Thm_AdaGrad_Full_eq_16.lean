@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Full_eq_16
 -- name    : AdaGrad.Full.eq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:44:59.153183+00:00
 -- url     : https://prove2.me/theorems/7ebaa03b-9de1-446b-afae-64e8d518c233

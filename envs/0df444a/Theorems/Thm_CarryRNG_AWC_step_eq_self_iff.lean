@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_AWC_step_eq_self_iff
 -- name    : CarryRNG.AWC.step_eq_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:23:20.710156+00:00
 -- url     : https://prove2.me/theorems/65299bc1-b36c-4a3c-8918-e413b323694a

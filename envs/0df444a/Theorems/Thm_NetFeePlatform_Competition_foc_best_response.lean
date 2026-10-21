@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_Competition_foc_best_response
 -- name    : NetFeePlatform.Competition.foc_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:55.355497+00:00
 -- url     : https://prove2.me/theorems/0c40e55f-5ff4-466f-87e6-414ed04d06ce

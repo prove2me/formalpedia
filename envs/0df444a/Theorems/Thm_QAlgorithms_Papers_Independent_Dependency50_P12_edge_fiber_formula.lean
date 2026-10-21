@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_edge_fiber_formula
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.edge_fiber_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:55:39.620552+00:00
 -- url     : https://prove2.me/theorems/0cd23c8e-6ac2-4d93-a57b-9e270e995f8b

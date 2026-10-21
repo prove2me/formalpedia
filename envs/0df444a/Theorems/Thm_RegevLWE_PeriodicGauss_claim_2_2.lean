@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_PeriodicGauss_claim_2_2
 -- name    : RegevLWE.PeriodicGauss.claim_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:34.281475+00:00
 -- url     : https://prove2.me/theorems/5964c5de-0d1e-4772-9a76-6c0443e73019

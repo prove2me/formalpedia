@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for OAI.PiExponent.LogarithmicJetIdeals.raw_packets_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-16T19:41:31.909745+00:00
 -- url     : https://prove2.me/submissions/5d0d3a10-908b-487f-9bc0-59b3c993669e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_ApproximationDefinitions
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData

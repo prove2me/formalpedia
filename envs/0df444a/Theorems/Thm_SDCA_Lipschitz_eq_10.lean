@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_Lipschitz_eq_10
 -- name    : SDCA.Lipschitz.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:11:00.471116+00:00
 -- url     : https://prove2.me/theorems/9058506f-935c-4437-a8a3-12e018c31bb0

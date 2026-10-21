@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.degree_m_correction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:33:45.749813+00:00
 -- url     : https://prove2.me/submissions/99e03905-60f2-4836-aa77-4d611898051a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Complex.Basic
 import Mathlib.RingTheory.MvPowerSeries.Equiv

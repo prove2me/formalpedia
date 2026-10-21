@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_ConvexHull_hull_contact
 -- name    : SherbrookeMetric.ConvexHull.hull_contact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:09.075327+00:00
 -- url     : https://prove2.me/theorems/71d90686-d25f-4009-965e-22408e2edbcd

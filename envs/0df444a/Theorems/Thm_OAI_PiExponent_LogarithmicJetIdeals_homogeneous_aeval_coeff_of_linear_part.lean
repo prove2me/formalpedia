@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_homogeneous_aeval_coeff_of_linear_part
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.homogeneous_aeval_coeff_of_linear_part
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:28:23.278995+00:00
 -- url     : https://prove2.me/theorems/4e31257f-6e06-47e8-8874-3c2b1a1120a5

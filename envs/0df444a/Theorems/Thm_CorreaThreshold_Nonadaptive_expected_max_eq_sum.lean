@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Nonadaptive_expected_max_eq_sum
 -- name    : CorreaThreshold.Nonadaptive.expected_max_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:17.966958+00:00
 -- url     : https://prove2.me/theorems/8a7733ce-1f9a-4475-bcc5-dc380549d446

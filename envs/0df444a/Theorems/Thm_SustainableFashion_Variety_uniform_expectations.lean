@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SustainableFashion_Variety_uniform_expectations
 -- name    : SustainableFashion.Variety.uniform_expectations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:32.992979+00:00
 -- url     : https://prove2.me/theorems/6e9912f9-99e1-4f71-8187-2b3fe92a46c8

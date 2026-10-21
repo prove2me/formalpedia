@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NLogN_KFZ_M_runsG
 -- name    : NLogN.KFZ.M_runsG
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:38:24.316952+00:00
 -- url     : https://prove2.me/theorems/e58d61f3-3976-4a2e-948c-af85a2f8b27d

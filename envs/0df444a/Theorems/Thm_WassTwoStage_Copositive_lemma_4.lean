@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassTwoStage_Copositive_lemma_4
 -- name    : WassTwoStage.Copositive.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:55:44.09153+00:00
 -- url     : https://prove2.me/theorems/af2e6521-3c1b-49b2-a3e7-6cabe70e91f9

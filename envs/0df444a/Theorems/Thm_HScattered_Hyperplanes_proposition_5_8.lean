@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Hyperplanes_proposition_5_8
 -- name    : HScattered.Hyperplanes.proposition_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:49.322882+00:00
 -- url     : https://prove2.me/theorems/c79f61eb-bca3-4994-b691-b9ac752ad391

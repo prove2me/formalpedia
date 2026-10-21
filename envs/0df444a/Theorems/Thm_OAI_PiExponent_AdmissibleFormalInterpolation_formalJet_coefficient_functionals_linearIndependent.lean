@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalJet_coefficient_functionals_linearIndependent
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalJet_coefficient_functionals_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:28:03.233136+00:00
 -- url     : https://prove2.me/theorems/65f7d05e-622e-4c6a-8918-91e1cd5e2076

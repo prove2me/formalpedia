@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalBernstein_SVP_bennett_independent
 -- name    : EmpiricalBernstein.SVP.bennett_independent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:41:46.879823+00:00
 -- url     : https://prove2.me/theorems/880893b1-8eac-4f09-bcd4-b6a53a171762

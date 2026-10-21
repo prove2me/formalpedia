@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_AGP_agp_regular_agp_implies_kkt
 -- name    : StrictCQ.AGP.agp_regular_agp_implies_kkt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:39:23.17638+00:00
 -- url     : https://prove2.me/theorems/2d189a20-1343-4a5d-b563-3f751ecd3ed9

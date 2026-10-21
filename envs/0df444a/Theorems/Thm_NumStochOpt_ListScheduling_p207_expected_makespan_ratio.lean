@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_ListScheduling_p207_expected_makespan_ratio
 -- name    : NumStochOpt.ListScheduling.p207_expected_makespan_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:08:42.846131+00:00
 -- url     : https://prove2.me/theorems/600204f7-a605-4536-a149-6804a18ac02d

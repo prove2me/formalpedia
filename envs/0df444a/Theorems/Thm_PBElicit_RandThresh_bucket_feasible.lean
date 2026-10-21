@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PBElicit_RandThresh_bucket_feasible
 -- name    : PBElicit.RandThresh.bucket_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:53.47752+00:00
 -- url     : https://prove2.me/theorems/d6875db7-00d4-4cd8-9bda-cfd8b4349431

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_PointEstimate_eq10_second_derivative
 -- name    : SherbrookeMetric.PointEstimate.eq10_second_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:21.122489+00:00
 -- url     : https://prove2.me/theorems/ce4ad160-7606-40c4-8f23-0dd66ba0f1a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_f_strictAnti_of_pe_zero
 -- name    : RoboAdvising.Interaction.f_strictAnti_of_pe_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:37.898607+00:00
 -- url     : https://prove2.me/theorems/da5a9ad1-9e99-41ec-9b7e-5650f4ea2fa1

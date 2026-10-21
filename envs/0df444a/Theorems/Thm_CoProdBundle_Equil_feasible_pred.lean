@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_feasible_pred
 -- name    : CoProdBundle.Equil.feasible_pred
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:31.951677+00:00
 -- url     : https://prove2.me/theorems/2bc88749-bc84-4381-b2db-418b543c8956

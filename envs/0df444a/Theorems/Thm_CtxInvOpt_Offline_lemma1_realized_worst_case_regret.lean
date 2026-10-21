@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Offline_lemma1_realized_worst_case_regret
 -- name    : CtxInvOpt.Offline.lemma1_realized_worst_case_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:49.467203+00:00
 -- url     : https://prove2.me/theorems/c5a33ae7-70a1-40cb-a74d-facfd145cb4d

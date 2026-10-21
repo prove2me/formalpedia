@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MediaMenus_Duopoly_lemma_6_b
 -- name    : MediaMenus.Duopoly.lemma_6_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:17:48.320425+00:00
 -- url     : https://prove2.me/theorems/b5fffe06-9889-408d-bea4-bea7a457098a

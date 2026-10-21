@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_Clique_volume_count
 -- name    : GeometryOfGraphs.Clique.volume_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:10.689988+00:00
 -- url     : https://prove2.me/theorems/a757d213-5660-4213-a947-7e1805c204d2

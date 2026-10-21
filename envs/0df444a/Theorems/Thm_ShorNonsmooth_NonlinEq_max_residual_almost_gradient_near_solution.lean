@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_NonlinEq_max_residual_almost_gradient_near_solution
 -- name    : ShorNonsmooth.NonlinEq.max_residual_almost_gradient_near_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:21:57.665001+00:00
 -- url     : https://prove2.me/theorems/e816baae-7e8d-45ed-a260-8035c5cda886

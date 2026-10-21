@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_NNSmooth_eq_34
 -- name    : CertDRO.NNSmooth.eq_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:33:33.396209+00:00
 -- url     : https://prove2.me/theorems/a27fb2b3-118a-46d8-9d22-c51ee2aedd0b

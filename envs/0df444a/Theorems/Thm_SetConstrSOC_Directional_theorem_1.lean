@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetConstrSOC_Directional_theorem_1
 -- name    : SetConstrSOC.Directional.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:24.224883+00:00
 -- url     : https://prove2.me/theorems/b23f8aa6-b969-4021-8176-56705b9c7bb6

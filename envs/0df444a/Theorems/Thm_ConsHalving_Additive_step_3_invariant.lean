@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsHalving_Additive_step_3_invariant
 -- name    : ConsHalving.Additive.step_3_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:43.404722+00:00
 -- url     : https://prove2.me/theorems/3b1bb734-335e-463c-b6b2-0acec765ff95

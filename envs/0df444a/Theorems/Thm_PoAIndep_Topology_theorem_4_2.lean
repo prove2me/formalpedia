@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoAIndep_Topology_theorem_4_2
 -- name    : PoAIndep.Topology.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:11:19.739606+00:00
 -- url     : https://prove2.me/theorems/80ff4a41-b5f7-48d1-be8f-07478c3011cd

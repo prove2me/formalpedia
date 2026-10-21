@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_Smooth_conj_strongly_convex
 -- name    : SDCA.Smooth.conj_strongly_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:38.644414+00:00
 -- url     : https://prove2.me/theorems/e344d98a-8027-4da9-9e51-2ed5510acaa2

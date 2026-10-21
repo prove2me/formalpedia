@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RenegingLD_MM1_note_4_IT_top
 -- name    : RenegingLD.MM1.note_4_IT_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:03.871483+00:00
 -- url     : https://prove2.me/theorems/3521dc69-ea16-4f1d-bae3-f6e62a3618c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContractUnobs_Compare_wholesale_bilateral_optimum
 -- name    : ContractUnobs.Compare.wholesale_bilateral_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:57.179889+00:00
 -- url     : https://prove2.me/theorems/4adaa750-78eb-49da-b990-7b9c56a748ba

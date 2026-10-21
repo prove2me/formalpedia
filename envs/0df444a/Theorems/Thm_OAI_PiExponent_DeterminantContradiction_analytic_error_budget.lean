@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_analytic_error_budget
 -- name    : OAI.PiExponent.DeterminantContradiction.analytic_error_budget
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:23:49.779662+00:00
 -- url     : https://prove2.me/theorems/15cee980-fde0-449a-9061-c7c3eef8a709

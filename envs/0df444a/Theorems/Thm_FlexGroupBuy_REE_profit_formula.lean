@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexGroupBuy_REE_profit_formula
 -- name    : FlexGroupBuy.REE.profit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:43.905473+00:00
 -- url     : https://prove2.me/theorems/f655bd2c-ea14-4c3d-adaa-e6b22d631cdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BitcoinOligopoly_EoS_theorem_2
 -- name    : BitcoinOligopoly.EoS.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:29.289569+00:00
 -- url     : https://prove2.me/theorems/44fb40f1-dcc6-433c-8729-c3c822e0c215

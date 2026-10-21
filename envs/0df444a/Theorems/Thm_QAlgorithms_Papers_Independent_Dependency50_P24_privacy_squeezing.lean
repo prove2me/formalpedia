@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_privacy_squeezing
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.privacy_squeezing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:10:01.73499+00:00
 -- url     : https://prove2.me/theorems/de956419-71c6-4cf2-9adb-cfd2ec6c4095

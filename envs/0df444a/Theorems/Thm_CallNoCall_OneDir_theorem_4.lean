@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CallNoCall_OneDir_theorem_4
 -- name    : CallNoCall.OneDir.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:12.983955+00:00
 -- url     : https://prove2.me/theorems/ddf5ea48-f777-4d4c-92f9-fbba66e9fb34

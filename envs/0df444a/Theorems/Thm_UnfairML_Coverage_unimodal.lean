@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnfairML_Coverage_unimodal
 -- name    : UnfairML.Coverage.unimodal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:25.498367+00:00
 -- url     : https://prove2.me/theorems/3eee51cc-dd41-40f6-bb2e-5ee8ece4d18d

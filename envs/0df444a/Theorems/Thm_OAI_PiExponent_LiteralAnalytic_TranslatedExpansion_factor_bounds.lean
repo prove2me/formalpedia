@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_factor_bounds
 -- name    : OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.factor_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T09:28:41.507823+00:00
 -- url     : https://prove2.me/theorems/4c3d053e-40ff-4095-af0e-e1f51c167f5e

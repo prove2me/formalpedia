@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROCalibration_Sensitivity_cstar_tendsto
 -- name    : DROCalibration.Sensitivity.cstar_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:23.046516+00:00
 -- url     : https://prove2.me/theorems/a2cc204c-01e1-491a-9992-8a578e4b32df

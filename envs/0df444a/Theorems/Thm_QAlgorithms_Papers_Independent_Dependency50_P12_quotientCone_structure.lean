@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_quotientCone_structure
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.quotientCone_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:52:30.926838+00:00
 -- url     : https://prove2.me/theorems/f0af18d4-3b1f-4c05-b7c7-d3d6fc25e427

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generatorIntegrand_near_linear_bound
 -- name    : AvramDividend.Classical.scaleFunction_generatorIntegrand_near_linear_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:39:23.481982+00:00
 -- url     : https://prove2.me/theorems/cefc30ad-50b6-442e-9e41-49297910a4d4

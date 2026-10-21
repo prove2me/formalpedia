@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_localJetIdeals_comaximal_of_ne
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.localJetIdeals_comaximal_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T21:09:00.08674+00:00
 -- url     : https://prove2.me/theorems/25999025-dfe7-437f-b6ed-182ef0b12d59

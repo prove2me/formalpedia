@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothedSimplex_Shadow_chi_square_bound
 -- name    : SmoothedSimplex.Shadow.chi_square_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:17:40.551121+00:00
 -- url     : https://prove2.me/theorems/409f91d0-9393-4701-bd00-77e9899fb8c0

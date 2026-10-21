@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_factor_bounds_collision_determinant
 -- name    : OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.factor_bounds_collision_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T09:45:01.43479+00:00
 -- url     : https://prove2.me/theorems/f9baebc4-83c8-4aa5-bff3-3416559b9ab6

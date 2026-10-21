@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_FoReL_eq_2_7
 -- name    : OnlineLearningOCO.FoReL.eq_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:48.608521+00:00
 -- url     : https://prove2.me/theorems/caffa680-587d-475c-acf5-ea980f652cc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflinePolicyLearning_Trees_eq66_threshold_approximation
 -- name    : OfflinePolicyLearning.Trees.eq66_threshold_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:36:38.711037+00:00
 -- url     : https://prove2.me/theorems/ae8adfba-475b-46f8-b2b1-ca3e5327ac15

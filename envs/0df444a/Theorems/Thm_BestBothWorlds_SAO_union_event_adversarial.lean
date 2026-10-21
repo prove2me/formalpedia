@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_union_event_adversarial
 -- name    : BestBothWorlds.SAO.union_event_adversarial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:46:37.738873+00:00
 -- url     : https://prove2.me/theorems/169808da-9b40-4d16-9d15-66c3c209d373

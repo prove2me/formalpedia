@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_lemma_1
 -- name    : OppReturns.Menu.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:41.849525+00:00
 -- url     : https://prove2.me/theorems/f5b66f12-4859-4201-bdab-383dbf816ba1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassartDKW_Tight_integral_csakiDensity
 -- name    : MassartDKW.Tight.integral_csakiDensity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:57:49.660537+00:00
 -- url     : https://prove2.me/theorems/a2b1618c-6d44-4d0e-93f2-ed295e3871cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_SimplexGap_eq_2_30_stoch_le_mean
 -- name    : RobustPower.SimplexGap.eq_2_30_stoch_le_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:29:11.898985+00:00
 -- url     : https://prove2.me/theorems/b92ef211-764c-4384-9f0b-c70d482c41d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P20_theorem12
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P20.theorem12
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:41:11.920988+00:00
 -- url     : https://prove2.me/theorems/f1be3dd9-9a45-49ae-aafa-2ab2172f56e0

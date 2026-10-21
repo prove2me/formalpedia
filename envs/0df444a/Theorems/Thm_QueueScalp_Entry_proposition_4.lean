@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueScalp_Entry_proposition_4
 -- name    : QueueScalp.Entry.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:25:58.613324+00:00
 -- url     : https://prove2.me/theorems/0d0acf00-648e-41b4-96d5-7f47da521ada

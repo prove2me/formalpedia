@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StartupExit_ExitChoice_lemma_A2_3
 -- name    : StartupExit.ExitChoice.lemma_A2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:56.507488+00:00
 -- url     : https://prove2.me/theorems/232831da-d789-45f3-9b1e-d3bb2b3e6f39

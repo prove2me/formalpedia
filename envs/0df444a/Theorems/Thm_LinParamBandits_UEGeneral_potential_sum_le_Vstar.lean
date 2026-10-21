@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_UEGeneral_potential_sum_le_Vstar
 -- name    : LinParamBandits.UEGeneral.potential_sum_le_Vstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:16.073013+00:00
 -- url     : https://prove2.me/theorems/b7c9a503-bbd2-4c76-9a17-f8018abed188

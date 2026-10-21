@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Balinski61_Whitney_disjoint_paths_of_integral_flow
 -- name    : Balinski61.Whitney.disjoint_paths_of_integral_flow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:05:52.932056+00:00
 -- url     : https://prove2.me/theorems/48477297-0e7f-42dd-8803-180e2136c884

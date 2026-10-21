@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_PointEstimate_worked_example
 -- name    : SherbrookeMetric.PointEstimate.worked_example
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:27.741054+00:00
 -- url     : https://prove2.me/theorems/4dbb3ff4-2eb9-471c-8e9c-5d26826cdccb

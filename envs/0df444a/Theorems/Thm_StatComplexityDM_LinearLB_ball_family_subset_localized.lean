@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_LinearLB_ball_family_subset_localized
 -- name    : StatComplexityDM.LinearLB.ball_family_subset_localized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:35.956109+00:00
 -- url     : https://prove2.me/theorems/199fd7bc-3490-49e2-aabe-3837fb01d8dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_ColorCritical_low_degree_independent
 -- name    : TuranMatching.ColorCritical.low_degree_independent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:34:02.505027+00:00
 -- url     : https://prove2.me/theorems/e5bda6fb-486e-43a7-8737-0da7b89418d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_row_count_asymptotic
 -- name    : OAI.PiExponent.DeterminantContradiction.row_count_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:07:40.598983+00:00
 -- url     : https://prove2.me/theorems/da97ddea-b285-4491-b369-62227629939a

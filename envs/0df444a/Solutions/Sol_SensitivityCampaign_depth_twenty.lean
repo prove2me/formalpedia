@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for SensitivityCampaign.depth_twenty
 -- status  : ACCEPTED   (prove)
--- author  : @abhishekdpseok
+-- author  : @Abhishek Anand
 -- created : 2026-10-15T21:17:22.90449+00:00
 -- url     : https://prove2.me/submissions/11437a99-f0a9-4ebe-a8a9-4dfc67250bf3
 

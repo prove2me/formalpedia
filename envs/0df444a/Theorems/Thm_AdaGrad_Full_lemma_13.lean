@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Full_lemma_13
 -- name    : AdaGrad.Full.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:44:34.754195+00:00
 -- url     : https://prove2.me/theorems/56503d03-75f2-416e-a035-e3f42c0a8cc5

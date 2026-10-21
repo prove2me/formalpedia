@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Uniform_root_quasiconvex
 -- name    : PriceQualityService.Uniform.root_quasiconvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:36.062892+00:00
 -- url     : https://prove2.me/theorems/4aa3807e-1808-4dde-9dd9-12900db374fe

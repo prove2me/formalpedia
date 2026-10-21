@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_NonIID_oracle_bid
 -- name    : FirstPriceLearning.NonIID.oracle_bid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:10.972876+00:00
 -- url     : https://prove2.me/theorems/69d076ff-71cd-460f-8a0e-2e4a79f79076

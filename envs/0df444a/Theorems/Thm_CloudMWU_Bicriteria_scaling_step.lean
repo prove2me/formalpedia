@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CloudMWU_Bicriteria_scaling_step
 -- name    : CloudMWU.Bicriteria.scaling_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:40.609924+00:00
 -- url     : https://prove2.me/theorems/fe5431e7-8602-4e3d-b8ea-bdcd468cb214

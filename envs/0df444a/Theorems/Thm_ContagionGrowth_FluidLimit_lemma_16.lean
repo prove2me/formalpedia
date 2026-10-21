@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContagionGrowth_FluidLimit_lemma_16
 -- name    : ContagionGrowth.FluidLimit.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:15.523915+00:00
 -- url     : https://prove2.me/theorems/edc4d0dc-43f4-4042-bce7-4839243b4e95

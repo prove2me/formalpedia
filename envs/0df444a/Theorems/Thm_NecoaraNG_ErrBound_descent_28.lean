@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_ErrBound_descent_28
 -- name    : NecoaraNG.ErrBound.descent_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:42:50.828772+00:00
 -- url     : https://prove2.me/theorems/3ffc1341-e670-4295-ba4e-a33445e8b9c6

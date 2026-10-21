@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondatPD_FB_lemma_4_3
 -- name    : CondatPD.FB.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:56:40.097242+00:00
 -- url     : https://prove2.me/theorems/1be9f97b-6fa1-40cf-b9e3-64d12f5a68ab

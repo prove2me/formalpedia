@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IGAHDSC_inner_grad_le
 -- name    : HessianDamping.IGAHDSC.inner_grad_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:06:07.112983+00:00
 -- url     : https://prove2.me/theorems/41e1e736-827f-4a93-9644-ca708cf5ca4b

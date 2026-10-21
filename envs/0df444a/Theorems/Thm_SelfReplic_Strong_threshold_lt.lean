@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfReplic_Strong_threshold_lt
 -- name    : SelfReplic.Strong.threshold_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:54.144529+00:00
 -- url     : https://prove2.me/theorems/2da0725d-3f6f-46fe-a90a-237a8a2fff8a

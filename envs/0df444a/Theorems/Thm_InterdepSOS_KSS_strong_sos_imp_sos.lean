@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_KSS_strong_sos_imp_sos
 -- name    : InterdepSOS.KSS.strong_sos_imp_sos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:36:47.063473+00:00
 -- url     : https://prove2.me/theorems/ee178657-aefc-4958-b5ba-87b4eaf321d5

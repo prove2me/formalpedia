@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OppReturns_Menu_benchmark_refund
 -- name    : OppReturns.Menu.benchmark_refund
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:40.199544+00:00
 -- url     : https://prove2.me/theorems/5a236069-9cac-424d-8602-9393ec58619d

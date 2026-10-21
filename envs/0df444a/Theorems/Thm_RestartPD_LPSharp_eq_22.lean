@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestartPD_LPSharp_eq_22
 -- name    : RestartPD.LPSharp.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:23.444778+00:00
 -- url     : https://prove2.me/theorems/85dd6aa7-abff-4428-929a-06c8ff6b97da

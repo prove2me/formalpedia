@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SustainableFashion_Variety_lemma_1
 -- name    : SustainableFashion.Variety.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:30.688654+00:00
 -- url     : https://prove2.me/theorems/943d3c67-a8fd-4fc6-815e-50ca5bc64e03

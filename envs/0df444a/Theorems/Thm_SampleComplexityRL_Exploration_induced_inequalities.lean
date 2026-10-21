@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_Exploration_induced_inequalities
 -- name    : SampleComplexityRL.Exploration.induced_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:02:13.167049+00:00
 -- url     : https://prove2.me/theorems/1868de6b-a65f-4826-b008-23d20dd9d217

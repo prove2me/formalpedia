@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GilesMLMC_Complexity_case_c_variance
 -- name    : GilesMLMC.Complexity.case_c_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:34.281356+00:00
 -- url     : https://prove2.me/theorems/3a1311e9-18c3-443d-ba7d-65fbd5f258cd

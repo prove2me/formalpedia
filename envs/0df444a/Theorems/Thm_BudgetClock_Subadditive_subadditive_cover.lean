@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Subadditive_subadditive_cover
 -- name    : BudgetClock.Subadditive.subadditive_cover
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:28.68513+00:00
 -- url     : https://prove2.me/theorems/c2145437-4eb6-4ae2-95a2-09a21a4ec7f2

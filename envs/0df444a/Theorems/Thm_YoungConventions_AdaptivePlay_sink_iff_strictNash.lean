@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_AdaptivePlay_sink_iff_strictNash
 -- name    : YoungConventions.AdaptivePlay.sink_iff_strictNash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:02:29.30435+00:00
 -- url     : https://prove2.me/theorems/dff9733a-690f-4868-8d40-316ba0007c9b

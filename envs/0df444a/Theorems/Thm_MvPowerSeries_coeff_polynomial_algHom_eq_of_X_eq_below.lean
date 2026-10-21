@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MvPowerSeries_coeff_polynomial_algHom_eq_of_X_eq_below
 -- name    : MvPowerSeries.coeff_polynomial_algHom_eq_of_X_eq_below
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:06:59.953149+00:00
 -- url     : https://prove2.me/theorems/d43022cd-185e-48fd-84e2-b78744c6e111

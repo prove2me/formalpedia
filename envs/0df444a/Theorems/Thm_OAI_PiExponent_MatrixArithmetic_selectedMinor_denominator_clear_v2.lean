@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_MatrixArithmetic_selectedMinor_denominator_clear_v2
 -- name    : OAI.PiExponent.MatrixArithmetic.selectedMinor_denominator_clear_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:21:35.863323+00:00
 -- url     : https://prove2.me/theorems/2df08a8d-4ce4-4add-9afe-541d9fbfc388

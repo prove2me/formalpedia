@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_diagonal_second_derivative
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.diagonal_second_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:28:48.758532+00:00
 -- url     : https://prove2.me/theorems/c3ffc5d7-6bac-4067-b278-2f982f421f2a

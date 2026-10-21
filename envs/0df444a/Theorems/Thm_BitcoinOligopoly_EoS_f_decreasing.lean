@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BitcoinOligopoly_EoS_f_decreasing
 -- name    : BitcoinOligopoly.EoS.f_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:40.13646+00:00
 -- url     : https://prove2.me/theorems/0e2e9940-e6d9-44a8-9026-5090b80fd4f2

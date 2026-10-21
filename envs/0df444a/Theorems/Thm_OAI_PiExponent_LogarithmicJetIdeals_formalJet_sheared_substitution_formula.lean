@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_sheared_substitution_formula
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_sheared_substitution_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:28:48.28222+00:00
 -- url     : https://prove2.me/theorems/66d19184-89ad-4aef-9d92-495cecd10cf1

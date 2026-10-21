@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetPriceDisc_Random_eq_12_rayleigh
 -- name    : NetPriceDisc.Random.eq_12_rayleigh
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:52.909384+00:00
 -- url     : https://prove2.me/theorems/c9bb537c-afc8-42f9-81fc-6e96ab78fc61

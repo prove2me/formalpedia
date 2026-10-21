@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_EfficiencyDriven_lemma_C_1
 -- name    : DimCallCenters.EfficiencyDriven.lemma_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:41:51.569376+00:00
 -- url     : https://prove2.me/theorems/1283ed1c-c8c6-48f5-b2e1-1f639a1b4a9b

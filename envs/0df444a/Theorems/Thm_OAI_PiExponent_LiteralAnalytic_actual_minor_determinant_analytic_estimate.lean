@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_actual_minor_determinant_analytic_estimate
 -- name    : OAI.PiExponent.LiteralAnalytic.actual_minor_determinant_analytic_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:06:58.166023+00:00
 -- url     : https://prove2.me/theorems/6af1a3f0-33ab-4974-9f78-5538155f9fd9

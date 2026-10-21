@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExAnteExPost_RPS_eating_stage
 -- name    : ExAnteExPost.RPS.eating_stage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:49:41.534981+00:00
 -- url     : https://prove2.me/theorems/f394f1e5-132e-402b-9d20-9b67e5b57101

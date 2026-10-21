@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Joint_unique_root
 -- name    : PriceQualityService.Joint.unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:46.038972+00:00
 -- url     : https://prove2.me/theorems/1d8502ba-58f7-4f11-8207-5bc061cf4521

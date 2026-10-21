@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Pooling_lemma1_affine_invariance
 -- name    : BoundedNV.Pooling.lemma1_affine_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:56.993999+00:00
 -- url     : https://prove2.me/theorems/696ee67d-e764-4f8a-8d2d-306cc9795966

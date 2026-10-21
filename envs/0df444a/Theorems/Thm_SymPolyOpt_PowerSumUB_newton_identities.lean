@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumUB_newton_identities
 -- name    : SymPolyOpt.PowerSumUB.newton_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:50.628893+00:00
 -- url     : https://prove2.me/theorems/25bff274-9101-4e13-b74d-64bcce01f8a7

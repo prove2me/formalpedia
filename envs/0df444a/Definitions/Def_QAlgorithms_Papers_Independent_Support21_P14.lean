@@ -1,0 +1,438 @@
+-- Prove2me | Definitions.Def_QAlgorithms_Papers_Independent_Support21_P14
+-- name    : QAlgorithms_Papers_Independent_Support21_P14
+-- status  : Definition
+-- author  : @Goku
+-- created : 2026-10-21T04:26:25.750417+00:00
+-- url     : https://prove2.me/theorems/08368bc1-fa3b-4c55-8e4a-c0c882e4577b
+-- title:
+--   Definitions for Cyclotomic Birman--Wenzl--Murakami algebras, II: Admissibility Relations and Freeness
+-- statement:
+--   The objects the formalized statements of *Cyclotomic Birman--Wenzl--Murakami algebras, II: Admissibility Relations and Freeness* (arXiv:math/0612065) are stated in. Each was checked against the paper by a blind read-back and a moderator.
+--
+--   - `FiniteSplitTower`: Finite version of the accepted split-tower interface. Only levels at most n carry split data or inclusion conditions. An indexing family A beyond n is unused and may be filled by repetitions of its last algebra. Source §2.7, PDF pp.13--16.
+--   - `FiniteTowerPath`: A genuine branching path in the finite split tower, §2.7, PDF p.15. Edges are detected by actual simple-module intertwiner spaces.
+--   - `finitePathIdempotent`: Canonical product of minimal central idempotents along the prefix of length k. It is constructed from the split blocks, never from desired JM eigenvalues or from the expectation formula; PDF p.15.
+--   - `GroundParameters`: Ground parameters, Definition 2.7, PDF p.8. Positive cyclotomic degree and all stated units are part of the data; the zero ring is permitted.
+--   - `cyclotomicCoefficient`: Signed cyclotomic coefficients a_j, §3.1, PDF p.16.
+--   - `negativeDelta`: Recursively constructed negative delta parameters, Lemma 2.5, PDF p.7. The argument j represents delta_{-j}, including j=0.
+--   - `integerDelta`: All integer delta parameters, with negative indices constructed, not chosen, Definition 2.14 and Lemma 2.5, PDF pp.7,11--12.
+--   - `WeakAdmissible`: Weak admissibility includes every integer shift, Definition 2.14, pp.11--12.
+--   - `MultiplicativeBMWLetter`: Finite presentation letters: g_i, g_i inverse, e_i, y_1 and its inverse. Indices of g,e are zero based. At level zero there are no letters.
+--   - `freeG`: Free g_(i+1) or its inverse; out-of-range helper values are zero.
+--   - `multiplicativeFreeE`: Free e_(i+1); out-of-range helper values are zero.
+--   - `multiplicativeFreeY`: Free y_1 or its inverse, with no y generator at level zero.
+--   - `BraidRel`: Common invertible affine braid and cyclotomic relations, Definitions 2.1, 2.8 and 4.2, PDF pp.6,8,33. The extra e letters are killed in HeckeRel.
+--   - `MultiplicativeBMWRel`: Every relation of Definition 2.1, together with Definition 2.8's cyclotomic relation, PDF pp.6,8. Adjacent pairs are ordered, so both signs in i±1 occur. These are the multiplicative, not degenerate, relations.
+--   - `BMW`: Cyclotomic BMW algebra of Definitions 2.1 and 2.8, PDF pp.6,8.
+--   - `bmwMap`: Canonical presentation map, PDF pp.6,8.
+--   - `bmwE`: The image of e_(i+1), Definition 2.1, PDF p.6.
+--   - `bmwG`: The image of g_(i+1) or its inverse, Definition 2.1, PDF p.6.
+--   - `bmwY`: The image of y_1 or its inverse, Definition 2.1, PDF p.6.
+--   - `bmwJM`: Concrete multiplicative JM elements y_k, §2.1, PDF p.6. The source indices are 1-based, and y_0 is an unused zero helper value. For 1≤k<n, y_(k+1)=g_k y_k g_k, with no inverse on the right.
+--   - `HeckeRel`: Concrete multiplicative cyclotomic Hecke presentation, Definition 4.2, PDF p.33. Its normalized g satisfies g-g inverse=q-q inverse.
+--   - `MultiplicativeCyclotomicHecke`: H_(n,S,r)(q^2;u), Definition 4.2, PDF p.33.
+--   - `jonesIdeal`: S-span notation W_n e W_n means sums, §4.1, PDF p.32.
+--   - `BMWHeckeQuotient`: Quotient by the Jones ideal, Lemma 4.4, PDF p.33. RingQuot imposes all differences in that ideal.
+--   - `bmwLevelImage`: Canonical lower-level generator image, without assuming an embedding, Remark 2.9 and Lemma 4.1, PDF pp.8,32--33.
+--   - `twoStrandFamily`: Indexed family whose independence defines admissibility, pp.16--17.
+--   - `BMWAdmissible`: Definition 3.3, PDF p.17, using condition (1) of Theorem 3.2.
+--   - `UAdmissible`: Definition 3.11, PDF p.23, using condition (1) of Theorem 3.10. Integrality is a theorem binder; it is not silently assumed by this predicate.
+--   - `cyclotomicConstantInverse`: Inverse of a_0=(-1)^r product u_j, §3.1, PDF p.16.
+--   - `WilcoxYuRelations`: The exact two Wilcox--Yu relations (3.1),(3.2), PDF p.17. Every sum has the printed finite range, including empty ranges.
+--   - `HasCyclicBasisModule`: A coordinate-free module with the stated orbit basis can equivalently be transported to S^r. This definition retains an actual unital BMW action, cyclic vector, and basis, Corollary 3.4 and Theorem 3.10, pp.17,20.
+--   - `ParameterLocalization`: The actual regular-element localization used in Corollary 3.8, p.19.
+--   - `localizedCoefficientRing`: The unital coefficient subring generated by exactly the elements listed in Corollary 3.8, PDF p.19. The third generator is 1/(q inverse-q), represented as the negative inverse of q-q inverse in the localization.
+--   - `cauchyMatrix`: Cauchy matrix, Lemma 3.15(1), PDF p.24.
+--   - `cauchyProduct`: The common Cauchy product over l distinct from j, (3.6), PDF p.19.
+--   - `cauchyFirstVector`: Explicit inverse vector for constant right-hand side, Lemma 3.15(2), p.24.
+--   - `cauchySecondVector`: Both parity cases of the second inverse vector, Lemma 3.15(3), pp.24--25.
+--   - `gammaVector`: Explicit gamma_j, formula (3.6), PDF p.19. The product of the other u's belongs only to the first summand inside parentheses.
+--   - `FractionFieldMoments`: The fraction-field moment condition (2), Theorem 3.10, pp.19--20. No assertion that the individual gamma_j belong to S is made.
+--   - `BrauerPairing`: Boundary pairings, §5, PDF p.43: an involution with no fixed points on the 2n distinguished endpoints. Drawings/crossings are not data.
+--   - `LabelledBrauerDiagram`: Z_r-labelled Brauer diagrams, PDF p.43. Orient every strand from its smaller numbered endpoint to its larger endpoint. Fin r stores the standard representative of the cyclic label; reversing a physical orientation negates that label before converting to this canonical orientation.
+--   - `oddPairingCount`: Odd double factorial with the empty-diagram convention, PDF pp.43--45.
+-- source:
+--   Cyclotomic Birman--Wenzl--Murakami algebras, II: Admissibility Relations and Freeness, arXiv:math/0612065v5, https://arxiv.org/abs/math/0612065v5
+
+import Mathlib
+import Definitions.Def_QAlgorithms_Papers_Independent_Next46_P12
+
+/-!
+Statements from Goodman--Hauschild Mosley, arXiv:math/0612065v5.
+Local presentations below are multiplicative BMW and cyclotomic Hecke presentations.
+Their distinct names distinguish them from the accepted degenerate BMW and
+additive Hecke presentations, which have different generators and relations.
+The Bool arguments of the free g/y helpers are required so partial application
+in the local notation retains the inverse selector.
+Compilation is pending the batch compilation handoff.
+-/
+
+noncomputable section
+
+open scoped BigOperators Classical
+
+namespace QAlgorithms.Papers.Independent.Support21.P14
+
+/-- Finite version of the accepted split-tower interface. Only levels at
+most n carry split data or inclusion conditions. An indexing family A beyond
+n is unused and may be filled by repetitions of its last algebra.
+Source §2.7, PDF pp.13--16. -/
+structure FiniteSplitTower (F : Type*) [Field F] (A : ℕ → Type*)
+    [∀ k, Ring (A k)] [∀ k, Algebra F (A k)] (n : ℕ) where
+  split : ∀ k, k ≤ n → QAlgorithms.Papers.Independent.Next46.P12.SplitPresentation F (A k)
+  base : A 0 ≃ₐ[F] F
+  inc : ∀ i j, i ≤ j → j ≤ n → A i →ₐ[F] A j
+  injective : ∀ i j hij hjn, Function.Injective (inc i j hij hjn)
+  self : ∀ i hin, inc i i le_rfl hin = AlgHom.id F (A i)
+  comp : ∀ i j k hij hjk hkn,
+    (inc j k hjk hkn).comp (inc i j hij (hjk.trans hkn)) = inc i k (hij.trans hjk) hkn
+  multiplicityFree : ∀ k (hk : k < n),
+    QAlgorithms.Papers.Independent.Next46.P12.MultiplicityFreeRestriction
+      (split k (by omega)) (split (k+1) (by omega)) (inc k (k+1) (by omega) (by omega))
+
+/-- A genuine branching path in the finite split tower, §2.7, PDF p.15.
+Edges are detected by actual simple-module intertwiner spaces. -/
+def FiniteTowerPath {F : Type*} [Field F] {A : ℕ → Type*}
+    [∀ k, Ring (A k)] [∀ k, Algebra F (A k)] {n : ℕ} (D : FiniteSplitTower F A n) :=
+  {t : (i : Fin (n+1)) → (D.split i.val (by omega)).Label //
+    ∀ i : Fin n, 0 < Module.finrank F
+      (QAlgorithms.Papers.Independent.Next46.P12.restrictionHom
+        (D.split i.val (by omega)) (D.split (i.val+1) (by omega))
+        (D.inc i.val (i.val+1) (by omega) (by omega))
+        (t ⟨i.val, by omega⟩) (t ⟨i.val+1, by omega⟩))}
+
+/-- Canonical product of minimal central idempotents along the prefix of
+length k. It is constructed from the split blocks, never from desired
+JM eigenvalues or from the expectation formula; PDF p.15. -/
+def finitePathIdempotent {F : Type*} [Field F] {A : ℕ → Type*}
+    [∀ k, Ring (A k)] [∀ k, Algebra F (A k)] {n : ℕ}
+    (D : FiniteSplitTower F A n) (t : FiniteTowerPath D) (k : ℕ) (hk : k ≤ n) : A k :=
+  (List.ofFn fun i : Fin k => D.inc (i.val+1) k (by omega) hk
+    (QAlgorithms.Papers.Independent.Next46.P12.centralIdempotent
+      (D.split (i.val+1) (by omega)) (t.val ⟨i.val+1, by omega⟩))).prod
+
+/-- The empty path product is the scalar identity, PDF p.15. -/
+example {F : Type*} [Field F] {A : ℕ → Type*}
+    [∀ k, Ring (A k)] [∀ k, Algebra F (A k)] {n : ℕ}
+    (D : FiniteSplitTower F A n) (t : FiniteTowerPath D) :
+    finitePathIdempotent D t 0 (Nat.zero_le n) = 1 := by
+  simp [finitePathIdempotent]
+
+/-- Ground parameters, Definition 2.7, PDF p.8. Positive cyclotomic degree
+and all stated units are part of the data; the zero ring is permitted. -/
+structure GroundParameters (S : Type*) [CommRing S] (r : ℕ) where
+  positive : 0 < r
+  rho : Sˣ
+  q : Sˣ
+  delta : ℕ → S
+  deltaZero : Sˣ
+  deltaZero_eq : delta 0 = (deltaZero : S)
+  u : Fin r → Sˣ
+  ground : (↑rho⁻¹ : S) - ↑rho = (↑q⁻¹ - ↑q) * (delta 0 - 1)
+
+/-- Signed cyclotomic coefficients a_j, §3.1, PDF p.16. -/
+def cyclotomicCoefficient {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) (j : ℕ) : S :=
+  (∏ i : Fin r, (Polynomial.X - Polynomial.C (P.u i : S))).coeff j
+
+/-- Recursively constructed negative delta parameters, Lemma 2.5, PDF p.7.
+The argument j represents delta_{-j}, including j=0. -/
+def negativeDelta {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) : ℕ → S
+  | 0 => P.delta 0
+  | m + 1 => (↑P.rho⁻¹ : S) ^ 2 * P.delta (m + 1) +
+      ((↑P.q⁻¹ : S) - ↑P.q) * ↑P.rho⁻¹ *
+        ∑ k : Fin m, (P.delta (k.val + 1) * negativeDelta P (m - k.val) -
+          if 2 * (k.val + 1) ≤ m + 1 then
+            negativeDelta P (m + 1 - 2 * (k.val + 1))
+          else P.delta (2 * (k.val + 1) - (m + 1)))
+termination_by j => j
+decreasing_by all_goals omega
+
+/-- All integer delta parameters, with negative indices constructed, not chosen,
+Definition 2.14 and Lemma 2.5, PDF pp.7,11--12. -/
+def integerDelta {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) (a : ℤ) : S :=
+  if 0 ≤ a then P.delta a.toNat else negativeDelta P (-a).toNat
+
+/-- Weak admissibility includes every integer shift, Definition 2.14, pp.11--12. -/
+def WeakAdmissible {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) : Prop :=
+  ∀ a : ℤ, ∑ k : Fin (r + 1),
+    cyclotomicCoefficient P k.val * integerDelta P ((k.val : ℤ) + a) = 0
+
+/-- Finite presentation letters: g_i, g_i inverse, e_i, y_1 and its inverse.
+Indices of g,e are zero based. At level zero there are no letters. -/
+inductive MultiplicativeBMWLetter (n : ℕ)
+  | g : Fin (n - 1) → Bool → MultiplicativeBMWLetter n
+  | e : Fin (n - 1) → MultiplicativeBMWLetter n
+  | y : Fin (min n 1) → Bool → MultiplicativeBMWLetter n
+
+/-- Free g_(i+1) or its inverse; out-of-range helper values are zero. -/
+def freeG (S : Type*) [CommRing S] (n i : ℕ) (inverse : Bool) :
+    FreeAlgebra S (MultiplicativeBMWLetter n) :=
+  if h : i < n - 1 then FreeAlgebra.ι S (.g ⟨i, h⟩ inverse) else 0
+
+/-- Free e_(i+1); out-of-range helper values are zero. -/
+def multiplicativeFreeE (S : Type*) [CommRing S] (n i : ℕ) : FreeAlgebra S (MultiplicativeBMWLetter n) :=
+  if h : i < n - 1 then FreeAlgebra.ι S (.e ⟨i, h⟩) else 0
+
+/-- Free y_1 or its inverse, with no y generator at level zero. -/
+def multiplicativeFreeY (S : Type*) [CommRing S] (n : ℕ) (inverse : Bool) :
+    FreeAlgebra S (MultiplicativeBMWLetter n) :=
+  if h : 0 < min n 1 then FreeAlgebra.ι S (.y ⟨0, h⟩ inverse) else 0
+
+section Presentations
+
+variable {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) (n : ℕ)
+
+local notation "g" => freeG S n
+local notation "e" => multiplicativeFreeE S n
+local notation "y" => multiplicativeFreeY S n
+local notation "c" => algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))
+
+/-- Common invertible affine braid and cyclotomic relations, Definitions 2.1,
+2.8 and 4.2, PDF pp.6,8,33. The extra e letters are killed in HeckeRel. -/
+inductive BraidRel (P : GroundParameters S r) (n : ℕ) : FreeAlgebra S (MultiplicativeBMWLetter n) → FreeAlgebra S (MultiplicativeBMWLetter n) → Prop
+  | gInvL (i : ℕ) (hi : i + 1 < n) : BraidRel P n ((freeG S n) i false * (freeG S n) i true) 1
+  | gInvR (i : ℕ) (hi : i + 1 < n) : BraidRel P n ((freeG S n) i true * (freeG S n) i false) 1
+  | yInvL (hn : 1 ≤ n) : BraidRel P n ((multiplicativeFreeY S n) false * (multiplicativeFreeY S n) true) 1
+  | yInvR (hn : 1 ≤ n) : BraidRel P n ((multiplicativeFreeY S n) true * (multiplicativeFreeY S n) false) 1
+  | braid (i : ℕ) (hi : i + 2 < n) :
+      BraidRel P n ((freeG S n) i false * (freeG S n) (i+1) false * (freeG S n) i false)
+        ((freeG S n) (i+1) false * (freeG S n) i false * (freeG S n) (i+1) false)
+  | far (i j : ℕ) (hi : i + 1 < n) (hj : j + 1 < n)
+      (hd : i + 1 < j ∨ j + 1 < i) : BraidRel P n ((freeG S n) i false * (freeG S n) j false) ((freeG S n) j false * (freeG S n) i false)
+  | affine (hn : 2 ≤ n) :
+      BraidRel P n ((multiplicativeFreeY S n) false * (freeG S n) 0 false * (multiplicativeFreeY S n) false * (freeG S n) 0 false)
+        ((freeG S n) 0 false * (multiplicativeFreeY S n) false * (freeG S n) 0 false * (multiplicativeFreeY S n) false)
+  | yFar (j : ℕ) (hj : j + 1 < n) (hpos : 1 ≤ j) :
+      BraidRel P n ((multiplicativeFreeY S n) false * (freeG S n) j false) ((freeG S n) j false * (multiplicativeFreeY S n) false)
+  | cyclotomic (hn : 1 ≤ n) :
+      BraidRel P n ((List.ofFn fun j : Fin r => (multiplicativeFreeY S n) false - (algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (P.u j : S)).prod) 0
+
+/-- Every relation of Definition 2.1, together with Definition 2.8's
+cyclotomic relation, PDF pp.6,8. Adjacent pairs are ordered, so both signs
+in i±1 occur. These are the multiplicative, not degenerate, relations. -/
+inductive MultiplicativeBMWRel (P : GroundParameters S r) (n : ℕ) : FreeAlgebra S (MultiplicativeBMWLetter n) → FreeAlgebra S (MultiplicativeBMWLetter n) → Prop
+  | braid {a b} (h : BraidRel P n a b) : MultiplicativeBMWRel P n a b
+  | idempotent (i : ℕ) (hi : i + 1 < n) : MultiplicativeBMWRel P n ((multiplicativeFreeE S n) i ^ 2) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (P.delta 0) * (multiplicativeFreeE S n) i)
+  | geFar (i j : ℕ) (hi : i + 1 < n) (hj : j + 1 < n)
+      (hd : i + 1 < j ∨ j + 1 < i) : MultiplicativeBMWRel P n ((freeG S n) i false * (multiplicativeFreeE S n) j) ((multiplicativeFreeE S n) j * (freeG S n) i false)
+  | eeFar (i j : ℕ) (hi : i + 1 < n) (hj : j + 1 < n)
+      (hd : i + 1 < j ∨ j + 1 < i) : MultiplicativeBMWRel P n ((multiplicativeFreeE S n) i * (multiplicativeFreeE S n) j) ((multiplicativeFreeE S n) j * (multiplicativeFreeE S n) i)
+  | yeFar (j : ℕ) (hj : j + 1 < n) (hpos : 1 ≤ j) : MultiplicativeBMWRel P n ((multiplicativeFreeY S n) false * (multiplicativeFreeE S n) j) ((multiplicativeFreeE S n) j * (multiplicativeFreeY S n) false)
+  | tripleE (i j : ℕ) (hi : i + 1 < n) (hj : j + 1 < n)
+      (hd : i + 1 = j ∨ j + 1 = i) : MultiplicativeBMWRel P n ((multiplicativeFreeE S n) i * (multiplicativeFreeE S n) j * (multiplicativeFreeE S n) i) ((multiplicativeFreeE S n) i)
+  | tangleL (i j : ℕ) (hi : i + 1 < n) (hj : j + 1 < n)
+      (hd : i + 1 = j ∨ j + 1 = i) : MultiplicativeBMWRel P n ((freeG S n) i false * (freeG S n) j false * (multiplicativeFreeE S n) i) ((multiplicativeFreeE S n) j * (multiplicativeFreeE S n) i)
+  | tangleR (i j : ℕ) (hi : i + 1 < n) (hj : j + 1 < n)
+      (hd : i + 1 = j ∨ j + 1 = i) : MultiplicativeBMWRel P n ((multiplicativeFreeE S n) i * (freeG S n) j false * (freeG S n) i false) ((multiplicativeFreeE S n) i * (multiplicativeFreeE S n) j)
+  | delta (j : ℕ) (hj : 1 ≤ j) (hn : 2 ≤ n) :
+      MultiplicativeBMWRel P n ((multiplicativeFreeE S n) 0 * (multiplicativeFreeY S n) false ^ j * (multiplicativeFreeE S n) 0) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (P.delta j) * (multiplicativeFreeE S n) 0)
+  | skein (i : ℕ) (hi : i + 1 < n) :
+      MultiplicativeBMWRel P n ((freeG S n) i false - (freeG S n) i true) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) ((↑P.q : S) - ↑P.q⁻¹) * (1 - (multiplicativeFreeE S n) i))
+  | untwistL (i : ℕ) (hi : i + 1 < n) : MultiplicativeBMWRel P n ((freeG S n) i false * (multiplicativeFreeE S n) i) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (↑P.rho⁻¹) * (multiplicativeFreeE S n) i)
+  | untwistR (i : ℕ) (hi : i + 1 < n) : MultiplicativeBMWRel P n ((multiplicativeFreeE S n) i * (freeG S n) i false) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (↑P.rho⁻¹) * (multiplicativeFreeE S n) i)
+  | untwistAdjacent (i j : ℕ) (hi : i + 1 < n) (hj : j + 1 < n)
+      (hd : i + 1 = j ∨ j + 1 = i) : MultiplicativeBMWRel P n ((multiplicativeFreeE S n) i * (freeG S n) j false * (multiplicativeFreeE S n) i) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (↑P.rho) * (multiplicativeFreeE S n) i)
+  | unwrapL (hn : 2 ≤ n) : MultiplicativeBMWRel P n ((multiplicativeFreeE S n) 0 * (multiplicativeFreeY S n) false * (freeG S n) 0 false * (multiplicativeFreeY S n) false) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (↑P.rho) * (multiplicativeFreeE S n) 0)
+  | unwrapR (hn : 2 ≤ n) : MultiplicativeBMWRel P n ((multiplicativeFreeY S n) false * (freeG S n) 0 false * (multiplicativeFreeY S n) false * (multiplicativeFreeE S n) 0) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) (↑P.rho) * (multiplicativeFreeE S n) 0)
+
+/-- Cyclotomic BMW algebra of Definitions 2.1 and 2.8, PDF pp.6,8. -/
+abbrev BMW := RingQuot (MultiplicativeBMWRel P n)
+
+/-- Canonical presentation map, PDF pp.6,8. -/
+def bmwMap : FreeAlgebra S (MultiplicativeBMWLetter n) →ₐ[S] BMW P n := RingQuot.mkAlgHom S (MultiplicativeBMWRel P n)
+
+/-- The image of e_(i+1), Definition 2.1, PDF p.6. -/
+def bmwE (i : ℕ) : BMW P n := bmwMap P n (e i)
+
+/-- The image of g_(i+1) or its inverse, Definition 2.1, PDF p.6. -/
+def bmwG (i : ℕ) (inverse : Bool := false) : BMW P n := bmwMap P n (g i inverse)
+
+/-- The image of y_1 or its inverse, Definition 2.1, PDF p.6. -/
+def bmwY (inverse : Bool := false) : BMW P n := bmwMap P n (y inverse)
+
+/-- Concrete multiplicative JM elements y_k, §2.1, PDF p.6.
+The source indices are 1-based, and y_0 is an unused zero helper value.
+For 1≤k<n, y_(k+1)=g_k y_k g_k, with no inverse on the right. -/
+def bmwJM (P : GroundParameters S r) (n : ℕ) : ℕ → BMW P n
+  | 0 => 0
+  | 1 => bmwY P n false
+  | k+2 => bmwG P n k false * bmwJM P n (k+1) * bmwG P n k false
+
+/-- JM base normalization, PDF p.6. -/
+example : bmwJM P n 1 = bmwY P n false := by simp [bmwJM]
+
+/-- Concrete multiplicative cyclotomic Hecke presentation, Definition 4.2,
+PDF p.33. Its normalized g satisfies g-g inverse=q-q inverse. -/
+inductive HeckeRel (P : GroundParameters S r) (n : ℕ) : FreeAlgebra S (MultiplicativeBMWLetter n) → FreeAlgebra S (MultiplicativeBMWLetter n) → Prop
+  | braid {a b} (h : BraidRel P n a b) : HeckeRel P n a b
+  | killE (i : ℕ) (hi : i + 1 < n) : HeckeRel P n ((multiplicativeFreeE S n) i) 0
+  | skein (i : ℕ) (hi : i + 1 < n) : HeckeRel P n ((freeG S n) i false - (freeG S n) i true) ((algebraMap S (FreeAlgebra S (MultiplicativeBMWLetter n))) ((↑P.q : S) - ↑P.q⁻¹))
+
+/-- H_(n,S,r)(q^2;u), Definition 4.2, PDF p.33. -/
+abbrev MultiplicativeCyclotomicHecke := RingQuot (HeckeRel P n)
+
+/-- S-span notation W_n e W_n means sums, §4.1, PDF p.32. -/
+def jonesIdeal : Submodule S (BMW P n) :=
+  if 2 ≤ n then Submodule.span S {z | ∃ a b : BMW P n, z = a * bmwE P n (n - 2) * b}
+  else ⊥
+
+/-- Quotient by the Jones ideal, Lemma 4.4, PDF p.33.
+RingQuot imposes all differences in that ideal. -/
+abbrev BMWHeckeQuotient := RingQuot (fun a b : BMW P n => a - b ∈ jonesIdeal P n)
+
+/-- Canonical lower-level generator image, without assuming an embedding,
+Remark 2.9 and Lemma 4.1, PDF pp.8,32--33. -/
+def bmwLevelImage (m : ℕ) : Subalgebra S (BMW P n) :=
+  Algebra.adjoin S {z | (1 ≤ m ∧ (z = bmwY P n false ∨ z = bmwY P n true)) ∨
+    ∃ i, i + 1 < m ∧ (z = bmwE P n i ∨ z = bmwG P n i false ∨ z = bmwG P n i true)}
+
+end Presentations
+
+/-- Indexed family whose independence defines admissibility, pp.16--17. -/
+def twoStrandFamily {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) :
+    Fin r → BMW P 2 := fun j => bmwY P 2 false ^ j.val * bmwE P 2 0
+
+/-- Definition 3.3, PDF p.17, using condition (1) of Theorem 3.2. -/
+def BMWAdmissible {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) : Prop :=
+  (↑P.q - ↑P.q⁻¹ : S) ≠ 0 ∧
+  (∀ x : S, (↑P.q - ↑P.q⁻¹ : S) * x = 0 → x = 0) ∧
+  WeakAdmissible P ∧ LinearIndependent S (twoStrandFamily P)
+
+/-- Definition 3.11, PDF p.23, using condition (1) of Theorem 3.10.
+Integrality is a theorem binder; it is not silently assumed by this predicate. -/
+def UAdmissible {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) : Prop :=
+  (↑P.q - ↑P.q⁻¹ : S) ≠ 0 ∧ Function.Injective (fun j => (P.u j : S)) ∧
+  (∀ i j, (P.u i : S) * ↑(P.u j) ≠ 1) ∧
+  WeakAdmissible P ∧ LinearIndependent S (twoStrandFamily P)
+
+/-- Inverse of a_0=(-1)^r product u_j, §3.1, PDF p.16. -/
+def cyclotomicConstantInverse {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) : S :=
+  (-1 : S)^r * ∏ j : Fin r, (↑(P.u j)⁻¹ : S)
+
+/-- The exact two Wilcox--Yu relations (3.1),(3.2), PDF p.17.
+Every sum has the printed finite range, including empty ranges. -/
+def WilcoxYuRelations {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) : Prop :=
+  (∀ l : ℕ, 1 ≤ l → l < r →
+    (↑P.rho : S) * (cyclotomicCoefficient P l -
+      cyclotomicCoefficient P (r-l) * cyclotomicConstantInverse P) +
+    (↑P.q - ↑P.q⁻¹ : S) *
+      ((∑ j ∈ Finset.Icc 1 (r-l), cyclotomicCoefficient P (j+l) * P.delta j) -
+       (∑ j ∈ Finset.Icc (max (l+1) ((r+1)/2)) ((l+r)/2),
+          cyclotomicCoefficient P (2*j-l)) +
+       (∑ j ∈ Finset.Icc ((l+1)/2) (min l ((r+1)/2-1)),
+          cyclotomicCoefficient P (2*j-l))) = 0) ∧
+  (↑P.rho⁻¹ : S) * cyclotomicCoefficient P 0 - ↑P.rho * cyclotomicConstantInverse P =
+    if Odd r then 0 else (↑P.q - ↑P.q⁻¹ : S)
+
+/-- A coordinate-free module with the stated orbit basis can equivalently be
+transported to S^r. This definition retains an actual unital BMW action,
+cyclic vector, and basis, Corollary 3.4 and Theorem 3.10, pp.17,20. -/
+def HasCyclicBasisModule {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) : Prop :=
+  ∃ action : BMW P 2 →ₐ[S] Module.End S (Fin r → S),
+    ∃ v : Fin r → S, ∃ b : Module.Basis (Fin r) S (Fin r → S),
+      (∀ j, b j = action (bmwY P 2 false ^ j.val) v) ∧
+      action (bmwE P 2 0) v = P.delta 0 • v
+
+/-- The actual regular-element localization used in Corollary 3.8, p.19. -/
+abbrev ParameterLocalization {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) := Localization.Away (↑P.q - ↑P.q⁻¹ : S)
+
+/-- The unital coefficient subring generated by exactly the elements listed
+in Corollary 3.8, PDF p.19. The third generator is 1/(q inverse-q),
+represented as the negative inverse of q-q inverse in the localization. -/
+def localizedCoefficientRing {S : Type*} [CommRing S] {r : ℕ}
+    (P : GroundParameters S r) : Subring (ParameterLocalization P) :=
+  Subring.closure {z | z = algebraMap S (ParameterLocalization P) (P.q : S) ∨
+    z = algebraMap S (ParameterLocalization P) (↑P.q⁻¹ : S) ∨
+    z = -IsLocalization.Away.invSelf (S := ParameterLocalization P) (↑P.q - ↑P.q⁻¹ : S) ∨
+    ∃ j : Fin r, z = algebraMap S (ParameterLocalization P) (P.u j : S) ∨
+      z = algebraMap S (ParameterLocalization P) (↑(P.u j)⁻¹ : S)}
+
+/-- Cauchy matrix, Lemma 3.15(1), PDF p.24. -/
+def cauchyMatrix {F : Type*} [Field F] {r : ℕ} (u : Fin r → F) :
+    Matrix (Fin r) (Fin r) F := fun i j => (1-u i*u j)⁻¹
+
+/-- The common Cauchy product over l distinct from j, (3.6), PDF p.19. -/
+def cauchyProduct {F : Type*} [Field F] {r : ℕ} (u : Fin r → F) (j : Fin r) : F :=
+  ∏ l ∈ Finset.univ.erase j, (u l * u j - 1) / (u j - u l)
+
+/-- Explicit inverse vector for constant right-hand side, Lemma 3.15(2), p.24. -/
+def cauchyFirstVector {F : Type*} [Field F] {r : ℕ} (u : Fin r → F) (j : Fin r) : F :=
+  (1-u j^2) * (∏ l ∈ Finset.univ.erase j, u l) * cauchyProduct u j
+
+/-- Both parity cases of the second inverse vector, Lemma 3.15(3), pp.24--25. -/
+def cauchySecondVector {F : Type*} [Field F] {r : ℕ} (u : Fin r → F) (j : Fin r) : F :=
+  cauchyProduct u j * (if Odd r then 1 else -u j)
+
+/-- Explicit gamma_j, formula (3.6), PDF p.19. The product of the other
+u's belongs only to the first summand inside parentheses. -/
+def gammaVector {F : Type*} [Field F] {r : ℕ}
+    (u : Fin r → F) (rho q : F) (j : Fin r) : F :=
+  cauchyProduct u j *
+    ((1-u j^2) / (rho * (q⁻¹-q)) * (∏ l ∈ Finset.univ.erase j, u l) +
+      if Odd r then 1 else -u j)
+
+/-- The fraction-field moment condition (2), Theorem 3.10, pp.19--20.
+No assertion that the individual gamma_j belong to S is made. -/
+def FractionFieldMoments {S : Type*} [CommRing S] [IsDomain S] {r : ℕ}
+    (P : GroundParameters S r) : Prop :=
+  ∀ a : ℕ, algebraMap S (FractionRing S) (P.delta a) =
+    ∑ j : Fin r, gammaVector (fun i => algebraMap S (FractionRing S) (P.u i : S))
+      (algebraMap S (FractionRing S) (P.rho : S))
+      (algebraMap S (FractionRing S) (P.q : S)) j *
+      algebraMap S (FractionRing S) (P.u j : S) ^ a
+
+/-- Boundary pairings, §5, PDF p.43: an involution with no fixed points
+on the 2n distinguished endpoints. Drawings/crossings are not data. -/
+def BrauerPairing (n : ℕ) :=
+  {mate : Fin (2*n) → Fin (2*n) // Function.Involutive mate ∧ ∀ i, mate i ≠ i}
+
+/-- Z_r-labelled Brauer diagrams, PDF p.43. Orient every strand from its
+smaller numbered endpoint to its larger endpoint. Fin r stores the standard
+representative of the cyclic label; reversing a physical orientation negates
+that label before converting to this canonical orientation. -/
+def LabelledBrauerDiagram (n r : ℕ) :=
+  (p : BrauerPairing n) × ({i : Fin (2*n) // i < p.val i} → Fin r)
+
+/-- Odd double factorial with the empty-diagram convention, PDF pp.43--45. -/
+def oddPairingCount (n : ℕ) : ℕ := ∏ k ∈ Finset.range n, (2*k+1)
+
+/-- Sanity check of Lemma 2.5 at the first negative index. -/
+example {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) :
+    negativeDelta P 1 = (↑P.rho⁻¹ : S)^2 * P.delta 1 := by
+  simp [negativeDelta]
+
+/-- Sanity check: there is no e-generator in the one-strand algebra. -/
+example {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) :
+    bmwE P 1 0 = 0 := by
+  simp [bmwE, multiplicativeFreeE, bmwMap]
+
+/-- Presentation sanity check: e_1 squared is delta_0 e_1, not delta_0. -/
+example {S : Type*} [CommRing S] {r : ℕ} (P : GroundParameters S r) :
+    bmwE P 2 0 ^ 2 = algebraMap S (BMW P 2) (P.delta 0) * bmwE P 2 0 := by
+  have h := RingQuot.mkAlgHom_rel S (MultiplicativeBMWRel.idempotent (P := P) (n := 2) 0 (by decide))
+  simpa only [bmwE, bmwMap, map_pow, map_mul, AlgHom.commutes] using h
+
+/-- The unique empty pairing exists, so the level-zero counting target is not
+vacuous. No enumeration of diagrams is used. -/
+example : Nonempty (BrauerPairing 0) := by
+  exact ⟨⟨id, (fun _ => rfl), (fun i => Fin.elim0 i)⟩⟩
+
+/-- Empty-product normalization. -/
+example : oddPairingCount 0 = 1 := by simp [oddPairingCount]
+
+/-- One-parameter normalization of the Cauchy product and both vectors,
+Lemma 3.15, PDF p.24. -/
+example {F : Type*} [Field F] (u : Fin 1 → F) :
+    cauchyFirstVector u 0 = 1-u 0^2 ∧ cauchySecondVector u 0 = 1 := by
+  simp [cauchyFirstVector, cauchySecondVector, cauchyProduct]
+
+end QAlgorithms.Papers.Independent.Support21.P14
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ParamSDO_Transition_domE_interval
 -- name    : ParamSDO.Transition.domE_interval
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:07.470271+00:00
 -- url     : https://prove2.me/theorems/972cc4d4-d886-434b-8ed4-f92877fa0a59

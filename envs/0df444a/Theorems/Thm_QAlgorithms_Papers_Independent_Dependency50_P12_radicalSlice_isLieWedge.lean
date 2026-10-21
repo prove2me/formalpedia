@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_radicalSlice_isLieWedge
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.radicalSlice_isLieWedge
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:51:31.091931+00:00
 -- url     : https://prove2.me/theorems/e44bbab6-a15a-4bd0-80ce-2d693f49d03d

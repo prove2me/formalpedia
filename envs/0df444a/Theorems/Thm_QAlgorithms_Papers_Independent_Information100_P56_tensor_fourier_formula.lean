@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P56_tensor_fourier_formula
 -- name    : QAlgorithms.Papers.Independent.Information100.P56.tensor_fourier_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:25:02.834158+00:00
 -- url     : https://prove2.me/theorems/54a53cdb-42de-4944-a0bd-a2ad3d4021a1

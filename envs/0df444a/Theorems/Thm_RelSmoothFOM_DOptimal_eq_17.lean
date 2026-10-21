@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DOptimal_eq_17
 -- name    : RelSmoothFOM.DOptimal.eq_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:36:25.017704+00:00
 -- url     : https://prove2.me/theorems/8cfb5e56-c547-4743-b474-167f5dd4d8f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Nesting_minLStar_antitone
 -- name    : RevenueOrdered.Nesting.minLStar_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:31:10.794575+00:00
 -- url     : https://prove2.me/theorems/29fc27bb-4b13-4d06-9ce3-52eb35ea9e1b

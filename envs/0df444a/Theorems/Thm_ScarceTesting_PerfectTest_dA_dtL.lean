@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_dA_dtL
 -- name    : ScarceTesting.PerfectTest.dA_dtL
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:31.24701+00:00
 -- url     : https://prove2.me/theorems/3d87d655-1da9-44d8-b4cd-585a55db0555

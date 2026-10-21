@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermism_Commitment_eu_argmax_section
 -- name    : ShortTermism.Commitment.eu_argmax_section
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:04.40866+00:00
 -- url     : https://prove2.me/theorems/c5a593b4-68c9-4671-849c-b64cadd8b36f

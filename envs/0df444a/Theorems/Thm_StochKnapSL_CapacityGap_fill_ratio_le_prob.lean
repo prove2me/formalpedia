@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKnapSL_CapacityGap_fill_ratio_le_prob
 -- name    : StochKnapSL.CapacityGap.fill_ratio_le_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:26.202973+00:00
 -- url     : https://prove2.me/theorems/50b3b3d4-267e-4586-a8c3-481578a3539b

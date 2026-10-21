@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_triangular_series_shear_reflects_vanishing
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_triangular_series_shear_reflects_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T20:39:02.937067+00:00
 -- url     : https://prove2.me/theorems/8b0bd1ff-d1c9-41c7-a248-4140383438e4

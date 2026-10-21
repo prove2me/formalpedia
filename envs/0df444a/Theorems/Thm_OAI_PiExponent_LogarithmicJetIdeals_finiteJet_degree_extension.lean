@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finiteJet_degree_extension
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finiteJet_degree_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:26:00.244705+00:00
 -- url     : https://prove2.me/theorems/db8dc84d-87f2-4ea9-8f4d-b1b98c212b68

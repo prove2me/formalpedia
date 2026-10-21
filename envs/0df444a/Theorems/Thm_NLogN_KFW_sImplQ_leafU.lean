@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NLogN_KFW_sImplQ_leafU
 -- name    : NLogN.KFW.sImplQ_leafU
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:25:39.807327+00:00
 -- url     : https://prove2.me/theorems/af21176b-24c9-4446-a193-26161b2db5a5

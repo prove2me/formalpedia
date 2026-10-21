@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Uniform_equation_24
 -- name    : PriceQualityService.Uniform.equation_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:38.568986+00:00
 -- url     : https://prove2.me/theorems/ad4cdfe0-68fd-4332-8291-2f88794d15ad

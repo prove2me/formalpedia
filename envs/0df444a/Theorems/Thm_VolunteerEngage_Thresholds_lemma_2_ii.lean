@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Thresholds_lemma_2_ii
 -- name    : VolunteerEngage.Thresholds.lemma_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:00.656561+00:00
 -- url     : https://prove2.me/theorems/39b4909c-8aae-47cb-b1a8-4d9a3877fad7

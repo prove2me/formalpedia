@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_OneAsset_eq33_eq34_yield_from_cost
 -- name    : CostlyShort.OneAsset.eq33_eq34_yield_from_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:25.664298+00:00
 -- url     : https://prove2.me/theorems/6cda8c38-bd47-4f54-8f8d-cdfc99640bc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomLeadGBS_Diffusion_corollary_6
 -- name    : RandomLeadGBS.Diffusion.corollary_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:16.615303+00:00
 -- url     : https://prove2.me/theorems/27438b01-bdd7-4581-9044-c273e09389d4

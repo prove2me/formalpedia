@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_Debt_eq_32_33
 -- name    : TokenFinance.Debt.eq_32_33
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:29:38.077541+00:00
 -- url     : https://prove2.me/theorems/a27835f2-e9e0-4183-8bee-12646c75a53f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DriftVarCtrl_FixedLB_theorem_1
 -- name    : DriftVarCtrl.FixedLB.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:40.967263+00:00
 -- url     : https://prove2.me/theorems/48b12ec5-79f8-41f7-9c2a-e709482329b0

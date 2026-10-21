@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_Pontryagin_lemma_7_2
 -- name    : EkelandVP.Pontryagin.lemma_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T11:27:11.900261+00:00
 -- url     : https://prove2.me/theorems/d54a5d54-b3bb-4805-a643-97db0e377ada

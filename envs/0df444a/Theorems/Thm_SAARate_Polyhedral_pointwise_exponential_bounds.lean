@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAARate_Polyhedral_pointwise_exponential_bounds
 -- name    : SAARate.Polyhedral.pointwise_exponential_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:19.884238+00:00
 -- url     : https://prove2.me/theorems/06a98e4c-4501-4287-a9a6-321503ac0c2b

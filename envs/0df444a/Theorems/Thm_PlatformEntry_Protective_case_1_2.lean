@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Protective_case_1_2
 -- name    : PlatformEntry.Protective.case_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:30.15504+00:00
 -- url     : https://prove2.me/theorems/05e61b7a-4f08-4bb9-847b-4d079d09bd29

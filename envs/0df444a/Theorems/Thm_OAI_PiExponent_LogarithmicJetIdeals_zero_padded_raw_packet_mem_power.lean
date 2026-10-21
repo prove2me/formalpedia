@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_zero_padded_raw_packet_mem_power
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.zero_padded_raw_packet_mem_power
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T17:12:49.275431+00:00
 -- url     : https://prove2.me/theorems/b5d8e8e8-9666-42fb-9513-7354ff9c0427

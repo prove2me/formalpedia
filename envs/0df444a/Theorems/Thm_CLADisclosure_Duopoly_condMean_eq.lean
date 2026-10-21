@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLADisclosure_Duopoly_condMean_eq
 -- name    : CLADisclosure.Duopoly.condMean_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:43.525507+00:00
 -- url     : https://prove2.me/theorems/f8b6a89d-2e1a-4ad6-9fa6-660b4210f97f

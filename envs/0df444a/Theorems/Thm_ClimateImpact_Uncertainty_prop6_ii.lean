@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClimateImpact_Uncertainty_prop6_ii
 -- name    : ClimateImpact.Uncertainty.prop6_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:14.863693+00:00
 -- url     : https://prove2.me/theorems/24df8e2a-d4a3-4643-ad55-d78eb9da34c1

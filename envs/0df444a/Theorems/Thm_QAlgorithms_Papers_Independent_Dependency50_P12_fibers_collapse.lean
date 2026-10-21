@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P12_fibers_collapse
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P12.fibers_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:56:08.852743+00:00
 -- url     : https://prove2.me/theorems/0f3bbc78-e12b-4b28-ab44-caaaa0bc7868

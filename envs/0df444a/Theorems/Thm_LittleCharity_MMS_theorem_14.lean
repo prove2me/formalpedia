@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_MMS_theorem_14
 -- name    : LittleCharity.MMS.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:06.17447+00:00
 -- url     : https://prove2.me/theorems/b74bf3c1-0afa-4b64-becc-d983d5aceffe

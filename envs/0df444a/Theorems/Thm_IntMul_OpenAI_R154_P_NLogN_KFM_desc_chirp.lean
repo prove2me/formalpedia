@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFM_desc_chirp
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFM.desc_chirp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:16:35.749837+00:00
 -- url     : https://prove2.me/theorems/e0151959-850b-4f40-9de5-bdbdb20b25a6

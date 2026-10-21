@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitiveChores_IndivisibleRounding_weighted_prop1_step
 -- name    : CompetitiveChores.IndivisibleRounding.weighted_prop1_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:32.439117+00:00
 -- url     : https://prove2.me/theorems/d404787b-2073-4cd0-b191-97026290897e

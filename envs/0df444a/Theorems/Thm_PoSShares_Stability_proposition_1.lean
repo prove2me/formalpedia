@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoSShares_Stability_proposition_1
 -- name    : PoSShares.Stability.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:53.613764+00:00
 -- url     : https://prove2.me/theorems/96165879-2972-462a-b406-30ec1f4e6abf

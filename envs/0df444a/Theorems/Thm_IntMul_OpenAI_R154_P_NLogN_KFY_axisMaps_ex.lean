@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFY_axisMaps_ex
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFY.axisMaps_ex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:21:36.435411+00:00
 -- url     : https://prove2.me/theorems/a340c478-3876-4e6f-ac09-d3e6feab223b

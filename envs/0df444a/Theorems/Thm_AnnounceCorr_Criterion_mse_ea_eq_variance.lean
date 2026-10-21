@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnnounceCorr_Criterion_mse_ea_eq_variance
 -- name    : AnnounceCorr.Criterion.mse_ea_eq_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:50.359102+00:00
 -- url     : https://prove2.me/theorems/b61c053e-ec25-4cc3-8ac2-e2323b0d9deb

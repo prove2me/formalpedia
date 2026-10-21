@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayDep_Equiv_coupling_kernel
 -- name    : DelayDep.Equiv.coupling_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:24:01.20336+00:00
 -- url     : https://prove2.me/theorems/ffa6f0ac-45c7-4e43-bccc-19b8892c553d

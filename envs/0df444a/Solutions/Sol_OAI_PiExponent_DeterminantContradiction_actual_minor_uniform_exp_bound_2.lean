@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.DeterminantContradiction.actual_minor_uniform_exp_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-18T12:25:16.646538+00:00
 -- url     : https://prove2.me/submissions/6c4f0147-1324-4dbf-b6a4-9ae2857c3094
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_AnalyticRemainder
 import Theorems.Thm_OAI_PiExponent_DeterminantContradiction_FiniteTranslation_expansion_and_card

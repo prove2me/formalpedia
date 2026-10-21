@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Uniform_A_constant_then_convex
 -- name    : InfoBargaining.Uniform.A_constant_then_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:29.004472+00:00
 -- url     : https://prove2.me/theorems/fb4a9988-703e-4bd2-b136-bb2ba1f2d289

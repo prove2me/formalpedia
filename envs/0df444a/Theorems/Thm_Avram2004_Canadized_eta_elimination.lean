@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Avram2004_Canadized_eta_elimination
 -- name    : Avram2004.Canadized.eta_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T06:59:53.807979+00:00
 -- url     : https://prove2.me/theorems/37810f63-87de-4313-83df-1aeeced682d8

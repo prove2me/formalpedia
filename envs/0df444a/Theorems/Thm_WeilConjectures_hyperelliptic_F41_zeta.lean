@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_hyperelliptic_F41_zeta
 -- name    : WeilConjectures.hyperelliptic_F41_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T14:59:22.009976+00:00
 -- url     : https://prove2.me/theorems/4d65d302-98d9-4fb8-8384-4ddcb8b0673a

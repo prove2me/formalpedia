@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Curtain_theorem_1_8
 -- name    : MartOT.Curtain.theorem_1_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:26.142892+00:00
 -- url     : https://prove2.me/theorems/a04b910b-80ba-424c-be93-32b3b58d82ab

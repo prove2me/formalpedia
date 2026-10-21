@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrepoLocal_Threshold_proposition_1_convex
 -- name    : PrepoLocal.Threshold.proposition_1_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:10.978046+00:00
 -- url     : https://prove2.me/theorems/19b3388a-35b5-40de-ba9d-7a18c12de97d

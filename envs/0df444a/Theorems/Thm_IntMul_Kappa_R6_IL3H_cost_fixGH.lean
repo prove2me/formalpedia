@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_cost_fixGH
 -- name    : IntMul.Kappa.R6.IL3H.cost_fixGH
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:35.686194+00:00
 -- url     : https://prove2.me/theorems/a52e4adb-5452-4865-8c99-c0e8ca90bb8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOpaque_TwoPeriod_proposition_1
 -- name    : DynOpaque.TwoPeriod.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:40.012084+00:00
 -- url     : https://prove2.me/theorems/b5514ff6-efa6-42e2-a019-2f05a6162672

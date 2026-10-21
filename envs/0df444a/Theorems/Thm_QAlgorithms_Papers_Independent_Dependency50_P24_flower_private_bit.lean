@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P24_flower_private_bit
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P24.flower_private_bit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:26:44.016831+00:00
 -- url     : https://prove2.me/theorems/111a010d-0be2-43fa-a025-354e43c9b360

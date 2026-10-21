@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_cBodyH_le
 -- name    : IntMul.Kappa.R6.IL3H.cBodyH_le
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:23.785544+00:00
 -- url     : https://prove2.me/theorems/f1a3e9d7-dfa9-48e6-9675-3e0205da9fb9

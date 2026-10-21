@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_lv_wrap
 -- name    : IntMul.Kappa.R6.IL3H.lv_wrap
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:40.452165+00:00
 -- url     : https://prove2.me/theorems/5f16b901-0986-42e2-b7d4-f564361e3fbc

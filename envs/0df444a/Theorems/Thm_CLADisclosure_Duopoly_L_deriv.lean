@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CLADisclosure_Duopoly_L_deriv
 -- name    : CLADisclosure.Duopoly.L_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:59.468545+00:00
 -- url     : https://prove2.me/theorems/e3f551f5-6e47-43b4-af18-4f75f6aa92ea

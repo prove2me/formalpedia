@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_FixedFraction_intermediate_elem_zero
 -- name    : SeqLoss.FixedFraction.intermediate_elem_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:59.53478+00:00
 -- url     : https://prove2.me/theorems/4a0bfbeb-b661-430a-a6f9-a6991d588539

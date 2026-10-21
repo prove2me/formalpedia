@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPriceOnline_Ratios_x_div_one_sub_exp_strictMonoOn
 -- name    : MultiPriceOnline.Ratios.x_div_one_sub_exp_strictMonoOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:42:58.918987+00:00
 -- url     : https://prove2.me/theorems/5312d766-6b35-472b-aa42-4b35119a804f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_bodyQH
 -- name    : IntMul.Kappa.R6.IL3H.bodyQH
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:51.389212+00:00
 -- url     : https://prove2.me/theorems/a099c5cd-bdd3-4446-9681-865e031b7443

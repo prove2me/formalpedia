@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConsHalving_Additive_half_case
 -- name    : ConsHalving.Additive.half_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:18:39.361183+00:00
 -- url     : https://prove2.me/theorems/c0d6e900-72e1-4d6b-ae90-c72a6e5f493d

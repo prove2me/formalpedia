@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnnounceCorr_Criterion_corollary_1
 -- name    : AnnounceCorr.Criterion.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:16:02.572177+00:00
 -- url     : https://prove2.me/theorems/5e43ca18-9a4d-43b4-80a3-5778dce04ac2

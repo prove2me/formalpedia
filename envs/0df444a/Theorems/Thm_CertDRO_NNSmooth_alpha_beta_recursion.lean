@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_NNSmooth_alpha_beta_recursion
 -- name    : CertDRO.NNSmooth.alpha_beta_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:33:44.968422+00:00
 -- url     : https://prove2.me/theorems/d5f190a8-cd53-4170-949e-881c0d0aea37

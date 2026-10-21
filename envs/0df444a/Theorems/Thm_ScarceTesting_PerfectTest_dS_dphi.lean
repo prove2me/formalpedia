@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_dS_dphi
 -- name    : ScarceTesting.PerfectTest.dS_dphi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:39.094211+00:00
 -- url     : https://prove2.me/theorems/ed34f154-6e23-4e76-9a7e-8fc039ae3a33

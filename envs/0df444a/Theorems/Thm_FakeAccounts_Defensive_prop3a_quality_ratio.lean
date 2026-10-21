@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Defensive_prop3a_quality_ratio
 -- name    : FakeAccounts.Defensive.prop3a_quality_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:14.841966+00:00
 -- url     : https://prove2.me/theorems/183d9bec-db1e-4082-b78a-59eefd716288

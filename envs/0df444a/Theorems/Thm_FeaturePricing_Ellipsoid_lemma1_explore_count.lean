@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FeaturePricing_Ellipsoid_lemma1_explore_count
 -- name    : FeaturePricing.Ellipsoid.lemma1_explore_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:32:38.22939+00:00
 -- url     : https://prove2.me/theorems/1668a10c-393c-4517-91e2-eeaa0e8ff553

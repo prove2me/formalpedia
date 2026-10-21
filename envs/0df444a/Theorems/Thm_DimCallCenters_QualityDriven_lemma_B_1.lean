@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_QualityDriven_lemma_B_1
 -- name    : DimCallCenters.QualityDriven.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:56:27.673986+00:00
 -- url     : https://prove2.me/theorems/e53d491e-91cc-4847-9ec4-02322e498c2f

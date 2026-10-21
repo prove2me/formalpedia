@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImperfReport_Regulator_prop_1_var_rk
 -- name    : ImperfReport.Regulator.prop_1_var_rk
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:16.177441+00:00
 -- url     : https://prove2.me/theorems/2cadd818-af36-4c13-8b4a-cfb7efac6867

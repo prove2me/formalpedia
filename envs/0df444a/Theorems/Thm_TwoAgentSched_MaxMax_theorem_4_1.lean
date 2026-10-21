@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_MaxMax_theorem_4_1
 -- name    : TwoAgentSched.MaxMax.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:43.576951+00:00
 -- url     : https://prove2.me/theorems/d97632dc-a572-4e4e-aa7a-4899d11231e0

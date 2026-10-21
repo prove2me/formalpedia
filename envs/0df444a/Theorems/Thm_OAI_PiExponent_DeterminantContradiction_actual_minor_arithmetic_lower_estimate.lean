@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actual_minor_arithmetic_lower_estimate
 -- name    : OAI.PiExponent.DeterminantContradiction.actual_minor_arithmetic_lower_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:06:13.264798+00:00
 -- url     : https://prove2.me/theorems/ce5eeabb-ada0-4046-b73d-59c1a91ca749

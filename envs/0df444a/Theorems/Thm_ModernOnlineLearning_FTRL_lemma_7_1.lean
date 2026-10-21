@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_FTRL_lemma_7_1
 -- name    : ModernOnlineLearning.FTRL.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:36:59.676383+00:00
 -- url     : https://prove2.me/theorems/b462e340-8752-419c-9499-e2e1283d7337

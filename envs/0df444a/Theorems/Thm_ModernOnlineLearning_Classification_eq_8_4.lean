@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Classification_eq_8_4
 -- name    : ModernOnlineLearning.Classification.eq_8_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:33:40.432122+00:00
 -- url     : https://prove2.me/theorems/7ed8b0de-0363-413d-809a-3d117033c051

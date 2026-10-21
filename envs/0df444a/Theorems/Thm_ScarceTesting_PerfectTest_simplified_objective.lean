@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScarceTesting_PerfectTest_simplified_objective
 -- name    : ScarceTesting.PerfectTest.simplified_objective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:31.638912+00:00
 -- url     : https://prove2.me/theorems/1baf88db-72b1-4fe3-ace5-f2f143e5223b

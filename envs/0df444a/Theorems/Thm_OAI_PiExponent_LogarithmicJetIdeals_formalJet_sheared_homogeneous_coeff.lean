@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_sheared_homogeneous_coeff
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_sheared_homogeneous_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:23:24.080776+00:00
 -- url     : https://prove2.me/theorems/cba501aa-858e-4276-be20-da62c291dba4

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.HvdH.clocked_recursive_multiplier
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @abcdefg
 -- created : 2026-10-09T15:03:11.501327+00:00
 -- url     : https://prove2.me/submissions/907ef1a2-9f91-43b4-9bf3-2ab456ecd1f1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_MultitapeModel
 import Definitions.Def_IntMul_HvdH_StepParameters

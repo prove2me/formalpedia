@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Stepsize_eq_18_18_step_bound
 -- name    : NumStochOpt.Stepsize.eq_18_18_step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T06:24:14.691548+00:00
 -- url     : https://prove2.me/theorems/95103636-d04d-44d9-9c29-446cbf600a1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgeInv_Value_covariance_inequality
 -- name    : HedgeInv.Value.covariance_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:19:04.119675+00:00
 -- url     : https://prove2.me/theorems/47417f87-4906-4ed7-a27c-8fbdb510a5f8

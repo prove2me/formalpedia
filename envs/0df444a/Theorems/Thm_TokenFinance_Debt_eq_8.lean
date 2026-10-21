@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_Debt_eq_8
 -- name    : TokenFinance.Debt.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:29:47.987985+00:00
 -- url     : https://prove2.me/theorems/118b7d08-becc-42fa-8265-e925cc7719b4

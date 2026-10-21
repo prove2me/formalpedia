@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonExclEncroach_Channels_num1_sign
 -- name    : NonExclEncroach.Channels.num1_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:39.648913+00:00
 -- url     : https://prove2.me/theorems/f1d9a918-50b3-4436-b94d-1b486cb263ad

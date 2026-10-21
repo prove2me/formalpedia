@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedTrials_Consistency_lemma_EC_4
 -- name    : CorrelatedTrials.Consistency.lemma_EC_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:54.856483+00:00
 -- url     : https://prove2.me/theorems/5cf1df63-7093-4243-babc-8db244e2cf5b

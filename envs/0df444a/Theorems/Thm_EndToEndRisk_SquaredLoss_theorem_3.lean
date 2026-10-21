@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndToEndRisk_SquaredLoss_theorem_3
 -- name    : EndToEndRisk.SquaredLoss.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:20.16441+00:00
 -- url     : https://prove2.me/theorems/e739f1e1-8d4a-47b2-8a3a-dfd309ea1e45

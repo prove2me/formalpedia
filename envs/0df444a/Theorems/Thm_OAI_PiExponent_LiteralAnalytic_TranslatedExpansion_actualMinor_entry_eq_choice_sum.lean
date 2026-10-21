@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_TranslatedExpansion_actualMinor_entry_eq_choice_sum
 -- name    : OAI.PiExponent.LiteralAnalytic.TranslatedExpansion.actualMinor_entry_eq_choice_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T03:20:19.071767+00:00
 -- url     : https://prove2.me/theorems/90e20d87-a8c3-444f-928d-8de2ed7eb151

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayDep_Equiv_eq1_dependence
 -- name    : DelayDep.Equiv.eq1_dependence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:23:03.823359+00:00
 -- url     : https://prove2.me/theorems/16b4fcc8-edbd-4221-a35c-1f530fed18b6

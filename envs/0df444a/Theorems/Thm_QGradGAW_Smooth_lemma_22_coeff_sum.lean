@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGradGAW_Smooth_lemma_22_coeff_sum
 -- name    : QGradGAW.Smooth.lemma_22_coeff_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:24.451165+00:00
 -- url     : https://prove2.me/theorems/cd19720a-5abf-4244-9d8e-0fdf1f069198

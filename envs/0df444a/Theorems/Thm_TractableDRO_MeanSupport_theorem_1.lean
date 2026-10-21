@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TractableDRO_MeanSupport_theorem_1
 -- name    : TractableDRO.MeanSupport.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:36.827157+00:00
 -- url     : https://prove2.me/theorems/dc6d66b5-115b-4aff-9c29-d36f5260095a

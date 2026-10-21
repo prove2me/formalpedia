@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_MMS_efx_half_bound
 -- name    : LittleCharity.MMS.efx_half_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:29:55.464023+00:00
 -- url     : https://prove2.me/theorems/f4d2624c-2af8-43df-acee-fea357f248d3

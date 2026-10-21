@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CropMSP_MarketUnc_var_threshold
 -- name    : CropMSP.MarketUnc.var_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:00.852489+00:00
 -- url     : https://prove2.me/theorems/411133c7-54a1-41ba-9048-30e738535e02

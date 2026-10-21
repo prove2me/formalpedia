@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DischargeTiming_Ranking_interchange_cost
 -- name    : DischargeTiming.Ranking.interchange_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:24:54.708298+00:00
 -- url     : https://prove2.me/theorems/66da8555-254f-4f42-94c3-71003f8b2fa2

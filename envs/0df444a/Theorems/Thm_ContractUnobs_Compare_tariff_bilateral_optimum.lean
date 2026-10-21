@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContractUnobs_Compare_tariff_bilateral_optimum
 -- name    : ContractUnobs.Compare.tariff_bilateral_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:57.31299+00:00
 -- url     : https://prove2.me/theorems/caca8244-c6af-4a2c-a70e-fc3307e23ba2

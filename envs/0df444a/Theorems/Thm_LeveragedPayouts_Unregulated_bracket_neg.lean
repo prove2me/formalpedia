@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeveragedPayouts_Unregulated_bracket_neg
 -- name    : LeveragedPayouts.Unregulated.bracket_neg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:19.913974+00:00
 -- url     : https://prove2.me/theorems/1efe5c3e-347f-40e6-a794-58a7e0bdf609

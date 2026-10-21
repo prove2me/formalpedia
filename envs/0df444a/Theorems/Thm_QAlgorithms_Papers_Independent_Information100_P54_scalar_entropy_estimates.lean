@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P54_scalar_entropy_estimates
 -- name    : QAlgorithms.Papers.Independent.Information100.P54.scalar_entropy_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:07:14.935211+00:00
 -- url     : https://prove2.me/theorems/e756a487-7b67-408c-8c6c-1983e6b7b60e

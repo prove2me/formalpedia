@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkillData_GoldRush_eq_C5
 -- name    : SkillData.GoldRush.eq_C5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:39.478864+00:00
 -- url     : https://prove2.me/theorems/34075f8e-7f39-46b2-ac6e-e3604cb9832a

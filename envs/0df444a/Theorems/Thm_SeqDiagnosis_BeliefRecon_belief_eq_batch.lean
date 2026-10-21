@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqDiagnosis_BeliefRecon_belief_eq_batch
 -- name    : SeqDiagnosis.BeliefRecon.belief_eq_batch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:22:20.174915+00:00
 -- url     : https://prove2.me/theorems/9f6fa2ea-f675-4b90-85da-a13618107f5b

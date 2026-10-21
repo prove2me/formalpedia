@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_ctx_exists6
 -- name    : IntMul.Kappa.R6.ctx_exists6
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:38:24.152549+00:00
 -- url     : https://prove2.me/theorems/c975df1e-7757-492c-8125-fb11b3836400

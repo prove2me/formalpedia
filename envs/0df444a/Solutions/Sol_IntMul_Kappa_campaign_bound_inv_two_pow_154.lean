@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.campaign_bound_inv_two_pow_154
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @marwahaha
 -- created : 2026-10-19T21:09:41.740487+00:00
 -- url     : https://prove2.me/submissions/9503f71e-86f6-4505-9eb3-1ecf9d8ca9ec
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_MultitapeModel
 import Theorems.Thm_IntMul_OpenAI_R154_machine

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonExclEncroach_Channels_lemma_1
 -- name    : NonExclEncroach.Channels.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:29.941577+00:00
 -- url     : https://prove2.me/theorems/abe07a6d-1769-4264-a361-7a2648b38b42

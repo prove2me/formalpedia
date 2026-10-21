@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_translationTermCount_log_div_tendsto_zero
 -- name    : OAI.PiExponent.DeterminantContradiction.translationTermCount_log_div_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T22:50:21.355642+00:00
 -- url     : https://prove2.me/theorems/067e3255-9e1f-4b87-8240-5c41583c758b

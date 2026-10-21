@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_subst_liftLogSeries_fixed
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.subst_liftLogSeries_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T06:11:46.5128+00:00
 -- url     : https://prove2.me/theorems/bec867d1-6183-4b2b-b1fd-914e9a152f9f

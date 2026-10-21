@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Accuracy_eq3_bayes_update
 -- name    : HumanMachine.Accuracy.eq3_bayes_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:57.21704+00:00
 -- url     : https://prove2.me/theorems/5691fc78-683c-4953-b823-1195f9c10953

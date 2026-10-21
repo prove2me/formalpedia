@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_coreQH
 -- name    : IntMul.Kappa.R6.IL3H.coreQH
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:49.35452+00:00
 -- url     : https://prove2.me/theorems/1f026e39-15c2-4878-93f4-c5768da5996f

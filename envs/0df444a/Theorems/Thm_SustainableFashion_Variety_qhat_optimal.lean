@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SustainableFashion_Variety_qhat_optimal
 -- name    : SustainableFashion.Variety.qhat_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:36.907893+00:00
 -- url     : https://prove2.me/theorems/ad3c106d-d308-4083-bf12-08ffcf375e3b

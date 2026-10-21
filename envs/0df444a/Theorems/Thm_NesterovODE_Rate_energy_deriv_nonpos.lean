@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_Rate_energy_deriv_nonpos
 -- name    : NesterovODE.Rate.energy_deriv_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:50:28.981086+00:00
 -- url     : https://prove2.me/theorems/ddd0eaa1-2c8a-4ebf-a639-fe4ecd69fc8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FutileDynamics_StaticOpt_lemma_6
 -- name    : FutileDynamics.StaticOpt.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T06:50:39.601979+00:00
 -- url     : https://prove2.me/theorems/b8b65322-fb31-4733-94cf-495985245a5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_Relax_remark_4_2
 -- name    : ShortestGCS.Relax.remark_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:57:55.150902+00:00
 -- url     : https://prove2.me/theorems/5e325566-4da4-4859-ac7d-9dfe0cb37dad

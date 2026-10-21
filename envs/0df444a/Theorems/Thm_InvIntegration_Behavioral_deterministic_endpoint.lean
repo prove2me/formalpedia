@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_deterministic_endpoint
 -- name    : InvIntegration.Behavioral.deterministic_endpoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:04.69386+00:00
 -- url     : https://prove2.me/theorems/ef40bca1-db34-46a7-b69d-c2d3c7d5b126

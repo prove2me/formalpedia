@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_finitePacketShearMatrix_mulVec_packetMap_eq_truncatedFormalJet
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.finitePacketShearMatrix_mulVec_packetMap_eq_truncatedFormalJet
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:31:54.09842+00:00
 -- url     : https://prove2.me/theorems/4cf6942a-f098-4c6f-a8c1-49d37af11d2f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.AdmissibleFormalInterpolation.packet_truncated_surjective_iff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-16T08:48:56.394105+00:00
 -- url     : https://prove2.me/submissions/190d1f94-29d2-4547-bc51-e8a40443966e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_truncated_surjective_of_packet_surjective
 import Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_packet_surjective_of_truncated_surjective

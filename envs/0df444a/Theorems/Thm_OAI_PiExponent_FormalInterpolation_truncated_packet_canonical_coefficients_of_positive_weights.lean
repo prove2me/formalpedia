@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_canonical_coefficients_of_positive_weights
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_canonical_coefficients_of_positive_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:41:58.258423+00:00
 -- url     : https://prove2.me/theorems/40a2bee0-3427-4db2-a58b-9c37b102c522

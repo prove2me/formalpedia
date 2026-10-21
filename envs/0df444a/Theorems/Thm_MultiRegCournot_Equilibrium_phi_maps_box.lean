@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiRegCournot_Equilibrium_phi_maps_box
 -- name    : MultiRegCournot.Equilibrium.phi_maps_box
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:55.281417+00:00
 -- url     : https://prove2.me/theorems/3ae468ba-61ce-4421-910a-24f970f2897e

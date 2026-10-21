@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Offline_lemma2_circumcenter_exists_unique
 -- name    : CtxInvOpt.Offline.lemma2_circumcenter_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:47.055801+00:00
 -- url     : https://prove2.me/theorems/ba73b37a-6e36-4a6b-841b-0e170dc3fb8c

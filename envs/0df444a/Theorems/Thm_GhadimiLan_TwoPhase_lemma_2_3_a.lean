@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GhadimiLan_TwoPhase_lemma_2_3_a
 -- name    : GhadimiLan.TwoPhase.lemma_2_3_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:53.110445+00:00
 -- url     : https://prove2.me/theorems/a680cc43-2ce7-4139-9ae5-b87088596dc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_SmallRate_theorem_3_i_cost
 -- name    : LNChannels.SmallRate.theorem_3_i_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:00:34.148906+00:00
 -- url     : https://prove2.me/theorems/787b5bfe-b3da-4e3f-8938-6cbc32e305c0

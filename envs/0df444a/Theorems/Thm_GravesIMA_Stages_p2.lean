@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesIMA_Stages_p2
 -- name    : GravesIMA.Stages.p2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:55.545066+00:00
 -- url     : https://prove2.me/theorems/f07039fa-a951-4fb0-8851-3f4cc618deb4

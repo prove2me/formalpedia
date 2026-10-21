@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_coefficients_imply_local_power
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.coefficients_imply_local_power
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T11:27:06.559167+00:00
 -- url     : https://prove2.me/theorems/a3409752-2ee9-4b22-ab6c-2cceda352f6a

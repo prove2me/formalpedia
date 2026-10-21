@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_IndepPlatform_eq240_nMin_log_derivative_bounds
 -- name    : AVRideHail.IndepPlatform.eq240_nMin_log_derivative_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:02.799257+00:00
 -- url     : https://prove2.me/theorems/d1d2e884-7d50-4ce4-97b2-8e7e0bd0b7d3

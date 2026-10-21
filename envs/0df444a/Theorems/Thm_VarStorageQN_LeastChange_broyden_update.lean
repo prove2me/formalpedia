@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarStorageQN_LeastChange_broyden_update
 -- name    : VarStorageQN.LeastChange.broyden_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:10.728766+00:00
 -- url     : https://prove2.me/theorems/5a1d8a1e-35e2-4124-b681-e1a2387a6a00

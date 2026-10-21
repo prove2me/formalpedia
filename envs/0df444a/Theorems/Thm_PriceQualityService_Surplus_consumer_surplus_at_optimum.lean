@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Surplus_consumer_surplus_at_optimum
 -- name    : PriceQualityService.Surplus.consumer_surplus_at_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:18:08.023926+00:00
 -- url     : https://prove2.me/theorems/37dc35d1-cc64-44d8-a1ed-a3c6d8742b55

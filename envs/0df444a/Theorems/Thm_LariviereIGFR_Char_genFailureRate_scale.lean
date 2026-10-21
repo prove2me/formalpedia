@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Char_genFailureRate_scale
 -- name    : LariviereIGFR.Char.genFailureRate_scale
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:07.137169+00:00
 -- url     : https://prove2.me/theorems/d7593e03-ee44-4143-9caf-372fac01fd98

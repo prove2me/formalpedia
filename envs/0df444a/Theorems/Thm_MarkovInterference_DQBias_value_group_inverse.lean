@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkovInterference_DQBias_value_group_inverse
 -- name    : MarkovInterference.DQBias.value_group_inverse
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:48.108782+00:00
 -- url     : https://prove2.me/theorems/0bc3c807-ac2a-4be2-af1f-2468ccafc7a4

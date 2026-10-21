@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonExclEncroach_Channels_lemma_4_thresholds
 -- name    : NonExclEncroach.Channels.lemma_4_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:35.411984+00:00
 -- url     : https://prove2.me/theorems/4af92109-a583-4fa1-87ca-868235fbc9d5

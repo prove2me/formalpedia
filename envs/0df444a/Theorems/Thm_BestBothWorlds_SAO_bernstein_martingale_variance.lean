@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BestBothWorlds_SAO_bernstein_martingale_variance
 -- name    : BestBothWorlds.SAO.bernstein_martingale_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:58:34.198492+00:00
 -- url     : https://prove2.me/theorems/c986c950-5f25-4f69-874f-000a41243356

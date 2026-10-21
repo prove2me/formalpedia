@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_monic_relations_control_powers
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_monic_relations_control_powers
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T21:38:24.136971+00:00
 -- url     : https://prove2.me/theorems/214d09d5-b55d-4855-b411-8d2fd707a525

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_DINSC_quad_form_nonneg
 -- name    : HessianDamping.DINSC.quad_form_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:04.066665+00:00
 -- url     : https://prove2.me/theorems/74aef8ff-5a15-4a41-a092-4945e26579fc

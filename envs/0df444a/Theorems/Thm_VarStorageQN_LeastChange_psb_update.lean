@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarStorageQN_LeastChange_psb_update
 -- name    : VarStorageQN.LeastChange.psb_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:41.904822+00:00
 -- url     : https://prove2.me/theorems/1162708d-6470-444f-b7c6-cd398fef3176

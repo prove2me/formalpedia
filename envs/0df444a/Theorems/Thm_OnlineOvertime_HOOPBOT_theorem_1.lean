@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineOvertime_HOOPBOT_theorem_1
 -- name    : OnlineOvertime.HOOPBOT.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:19:53.75714+00:00
 -- url     : https://prove2.me/theorems/2a6684e6-1c47-4edc-b297-a797e9a112a6

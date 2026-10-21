@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_R154_P_NLogN_KFZ_chirpNeedR_of_P18
 -- name    : IntMul.OpenAI.R154.P.NLogN.KFZ.chirpNeedR_of_P18
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T03:21:51.444894+00:00
 -- url     : https://prove2.me/theorems/58b69b7c-ba97-4cea-a2cd-50eb46a5a957

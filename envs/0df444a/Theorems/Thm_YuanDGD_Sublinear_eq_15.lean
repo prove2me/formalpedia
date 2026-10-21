@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YuanDGD_Sublinear_eq_15
 -- name    : YuanDGD.Sublinear.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:20:22.587187+00:00
 -- url     : https://prove2.me/theorems/d621a097-3822-4bdc-ba02-588baa24c54a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_coefficients_product_of_coordinate_variables
 -- name    : coefficients_product_of_coordinate_variables
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:37:23.085217+00:00
 -- url     : https://prove2.me/theorems/20a4be5a-2759-483d-9836-c3bda71e19f6

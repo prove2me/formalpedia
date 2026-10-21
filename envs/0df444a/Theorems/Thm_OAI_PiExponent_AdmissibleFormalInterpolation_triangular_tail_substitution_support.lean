@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_triangular_tail_substitution_support
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.triangular_tail_substitution_support
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:47:06.088317+00:00
 -- url     : https://prove2.me/theorems/98dd8115-fb3a-4019-8c46-0cc2f7b83d9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_AugGreedy_greedy_approximation
 -- name    : CustAssort.AugGreedy.greedy_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:52:11.057223+00:00
 -- url     : https://prove2.me/theorems/c4820173-a666-4cda-910c-967fa627d8c3

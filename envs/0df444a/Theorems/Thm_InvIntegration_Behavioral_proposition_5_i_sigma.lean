@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvIntegration_Behavioral_proposition_5_i_sigma
 -- name    : InvIntegration.Behavioral.proposition_5_i_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:14:00.49062+00:00
 -- url     : https://prove2.me/theorems/f19dc701-c81f-4300-be45-5c869637f66f

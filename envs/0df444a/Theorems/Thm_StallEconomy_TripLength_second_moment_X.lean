@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_TripLength_second_moment_X
 -- name    : StallEconomy.TripLength.second_moment_X
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:23.046583+00:00
 -- url     : https://prove2.me/theorems/4c45ad69-b382-49f1-bbed-65af49c606f3

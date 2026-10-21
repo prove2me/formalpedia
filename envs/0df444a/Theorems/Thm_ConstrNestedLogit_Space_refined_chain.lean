@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Space_refined_chain
 -- name    : ConstrNestedLogit.Space.refined_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:44.577212+00:00
 -- url     : https://prove2.me/theorems/f8976841-ff66-410f-a59b-ade97fe1e82e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_contDiffOn_one_const_add_intervalIntegral
 -- name    : AvramDividend.Classical.contDiffOn_one_const_add_intervalIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T10:23:22.82752+00:00
 -- url     : https://prove2.me/theorems/4556a986-d624-4383-a570-93e649b9d8fb

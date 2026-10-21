@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgeInv_Value_derivative_at_zero
 -- name    : HedgeInv.Value.derivative_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:18:43.207322+00:00
 -- url     : https://prove2.me/theorems/7daaf467-643d-40a1-8681-c7c041ff6777

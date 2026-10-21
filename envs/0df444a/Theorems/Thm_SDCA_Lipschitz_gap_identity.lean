@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDCA_Lipschitz_gap_identity
 -- name    : SDCA.Lipschitz.gap_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:11:45.923762+00:00
 -- url     : https://prove2.me/theorems/db19985c-eb01-47a0-8997-896e68d82d02

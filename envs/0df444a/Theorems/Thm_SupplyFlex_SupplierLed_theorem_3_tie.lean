@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyFlex_SupplierLed_theorem_3_tie
 -- name    : SupplyFlex.SupplierLed.theorem_3_tie
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-20T05:37:52.13198+00:00
 -- url     : https://prove2.me/theorems/f4238cef-8197-4356-853d-cebb0568c5de

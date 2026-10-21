@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumLB_hankel_succ_posSemidef
 -- name    : SymPolyOpt.PowerSumLB.hankel_succ_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:15.867337+00:00
 -- url     : https://prove2.me/theorems/31dcd8f0-3ead-4bd0-bd80-11259329083c

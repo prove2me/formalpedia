@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Linear_eq_3_5
 -- name    : ProjReflGrad.Linear.eq_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:14:46.70724+00:00
 -- url     : https://prove2.me/theorems/bff03238-19e8-4606-a5aa-f87122b5285a

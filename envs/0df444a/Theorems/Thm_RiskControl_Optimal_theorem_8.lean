@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_Optimal_theorem_8
 -- name    : RiskControl.Optimal.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:38:32.6436+00:00
 -- url     : https://prove2.me/theorems/e1965747-ad2b-4445-9e31-f18672ee5221

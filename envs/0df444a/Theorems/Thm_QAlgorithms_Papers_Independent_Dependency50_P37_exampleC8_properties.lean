@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P37_exampleC8_properties
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P37.exampleC8_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:25:19.827678+00:00
 -- url     : https://prove2.me/theorems/43b8c0c7-52d3-43df-a0a0-61ed7ebd9231

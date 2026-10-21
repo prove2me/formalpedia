@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.FormalInterpolation.bounded_truncated_packet_matrix_representation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:42:08.281332+00:00
 -- url     : https://prove2.me/submissions/1ad97530-56f3-4d6b-8e71-e13356108087
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_canonical_coefficients_of_positive_weights

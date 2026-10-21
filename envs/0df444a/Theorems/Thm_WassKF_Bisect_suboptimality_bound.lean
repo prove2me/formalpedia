@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassKF_Bisect_suboptimality_bound
 -- name    : WassKF.Bisect.suboptimality_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:12:16.875986+00:00
 -- url     : https://prove2.me/theorems/015a6eff-5f33-4472-9a1c-288ce169f285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgencyPassThrough_Pricing_proposition_2
 -- name    : AgencyPassThrough.Pricing.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:47.222269+00:00
 -- url     : https://prove2.me/theorems/10ca5079-b64b-46fc-9a33-9a1efb4f3988

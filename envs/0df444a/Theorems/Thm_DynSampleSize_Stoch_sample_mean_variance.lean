@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynSampleSize_Stoch_sample_mean_variance
 -- name    : DynSampleSize.Stoch.sample_mean_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:37.9156+00:00
 -- url     : https://prove2.me/theorems/de4bdf3c-8110-40dd-9138-d4fac8b59997

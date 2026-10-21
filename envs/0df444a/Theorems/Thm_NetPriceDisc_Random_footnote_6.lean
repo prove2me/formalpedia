@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetPriceDisc_Random_footnote_6
 -- name    : NetPriceDisc.Random.footnote_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:26.22786+00:00
 -- url     : https://prove2.me/theorems/8276b832-2237-4a21-8daf-df4e5bc1c85a

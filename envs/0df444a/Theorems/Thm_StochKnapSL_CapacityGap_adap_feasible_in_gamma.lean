@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochKnapSL_CapacityGap_adap_feasible_in_gamma
 -- name    : StochKnapSL.CapacityGap.adap_feasible_in_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:20:20.351619+00:00
 -- url     : https://prove2.me/theorems/e6ae4853-2afc-454a-9cb7-06e9bc6a34b3

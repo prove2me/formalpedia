@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Accuracy_lemma_2_accuracy_value
 -- name    : HumanMachine.Accuracy.lemma_2_accuracy_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:58.310358+00:00
 -- url     : https://prove2.me/theorems/fba97090-79bf-47ae-b1e4-09686cb50b01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMQuasi_ineq_48
 -- name    : NecoaraNG.GMQuasi.ineq_48
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:10.108544+00:00
 -- url     : https://prove2.me/theorems/1cb530c7-0a1a-4ae5-85b0-ed74c41ca097

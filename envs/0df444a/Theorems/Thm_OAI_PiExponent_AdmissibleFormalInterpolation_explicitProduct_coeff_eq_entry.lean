@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_explicitProduct_coeff_eq_entry
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.explicitProduct_coeff_eq_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:35:33.844007+00:00
 -- url     : https://prove2.me/theorems/1ed887eb-a51f-4553-9b68-d372e57eeddb

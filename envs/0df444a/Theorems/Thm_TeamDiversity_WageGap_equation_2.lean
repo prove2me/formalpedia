@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDiversity_WageGap_equation_2
 -- name    : TeamDiversity.WageGap.equation_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:15.271015+00:00
 -- url     : https://prove2.me/theorems/84e48676-3a0f-460a-9512-ed262319d0b3

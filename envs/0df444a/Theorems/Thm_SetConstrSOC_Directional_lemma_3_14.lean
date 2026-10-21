@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetConstrSOC_Directional_lemma_3_14
 -- name    : SetConstrSOC.Directional.lemma_3_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:12.954055+00:00
 -- url     : https://prove2.me/theorems/bb82c310-a272-431d-9aae-f9891d1b4337

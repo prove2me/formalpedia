@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_InteropDominance_logit_deriv
 -- name    : NetFeePlatform.InteropDominance.logit_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:21.680845+00:00
 -- url     : https://prove2.me/theorems/159758e8-0cf2-45d5-85f2-96245b265c16

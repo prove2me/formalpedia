@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_actualRowCount_ge_one_of_pos
 -- name    : OAI.PiExponent.DeterminantContradiction.actualRowCount_ge_one_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:19:58.334545+00:00
 -- url     : https://prove2.me/theorems/8123ec5b-0fc0-490b-8532-687678088ffa

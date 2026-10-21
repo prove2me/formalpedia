@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMIff_ineq_52
 -- name    : NecoaraNG.GMIff.ineq_52
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:39.930299+00:00
 -- url     : https://prove2.me/theorems/5cad7d67-fdff-4a06-a0c4-b5807e61db5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailerMarketplace_PositiveFee_lemma_2_derivative_at_zero
 -- name    : RetailerMarketplace.PositiveFee.lemma_2_derivative_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:28:24.522382+00:00
 -- url     : https://prove2.me/theorems/d2bf3804-4ed9-4c3e-8381-b2611e32e259

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeamDiversity_WageGap_wage_shapes
 -- name    : TeamDiversity.WageGap.wage_shapes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:20:29.365822+00:00
 -- url     : https://prove2.me/theorems/16a6d9cd-8b71-42ba-bdd4-7a590bffe895

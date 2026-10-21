@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_ToX_eg_regret_6_6
 -- name    : ModernOnlineLearning.ToX.eg_regret_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:47.690598+00:00
 -- url     : https://prove2.me/theorems/f021d390-5c26-4deb-9176-bee4c1701942

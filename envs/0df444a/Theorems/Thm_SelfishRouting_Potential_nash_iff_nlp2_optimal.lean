@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Potential_nash_iff_nlp2_optimal
 -- name    : SelfishRouting.Potential.nash_iff_nlp2_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:21.269368+00:00
 -- url     : https://prove2.me/theorems/205a8053-07eb-4121-812a-bcb70d775e52

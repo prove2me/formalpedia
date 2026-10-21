@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EvolvHier_SocialOpt_tstar_equilibrium
 -- name    : EvolvHier.SocialOpt.tstar_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:21.716492+00:00
 -- url     : https://prove2.me/theorems/c44d9f2b-eaac-4a43-8bca-2e2307b63f8f

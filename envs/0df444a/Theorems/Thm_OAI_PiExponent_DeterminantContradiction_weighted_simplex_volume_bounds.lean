@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_weighted_simplex_volume_bounds
 -- name    : OAI.PiExponent.DeterminantContradiction.weighted_simplex_volume_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-17T02:36:05.620194+00:00
 -- url     : https://prove2.me/theorems/ba571e94-364e-402c-a4ef-f8148b3e5b66

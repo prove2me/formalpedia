@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_negExp_conditions
 -- name    : BellRegret.Paradoxes.negExp_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:24.230715+00:00
 -- url     : https://prove2.me/theorems/1cbaa6bb-4052-47af-9e40-214236c29c02

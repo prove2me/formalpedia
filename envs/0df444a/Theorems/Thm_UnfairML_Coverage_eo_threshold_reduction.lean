@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnfairML_Coverage_eo_threshold_reduction
 -- name    : UnfairML.Coverage.eo_threshold_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:19:26.043481+00:00
 -- url     : https://prove2.me/theorems/4adb7861-c2f5-4f7d-970b-b7459e086b2a

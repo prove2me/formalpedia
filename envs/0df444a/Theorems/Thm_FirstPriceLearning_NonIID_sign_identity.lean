@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_NonIID_sign_identity
 -- name    : FirstPriceLearning.NonIID.sign_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:00.991989+00:00
 -- url     : https://prove2.me/theorems/024f6d90-4436-45b5-a40a-9a4388aa4363

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_Hamming_syndrome_unique
 -- name    : FuzzyExtractors.Hamming.syndrome_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:16:28.523871+00:00
 -- url     : https://prove2.me/theorems/d22198fd-dcbe-4ed8-be7b-1b6e5878fd17

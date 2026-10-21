@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_Winnow_theorem_3_10
 -- name    : OnlineLearningOCO.Winnow.theorem_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:24:53.520569+00:00
 -- url     : https://prove2.me/theorems/814dfbcf-c719-486a-9ac1-f2ea51258566

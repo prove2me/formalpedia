@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TVSDP_PolyOpt_min_eig_perturb
 -- name    : TVSDP.PolyOpt.min_eig_perturb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:13:21.029382+00:00
 -- url     : https://prove2.me/theorems/d3e60f1a-e138-4406-b304-04e9d2c799ad

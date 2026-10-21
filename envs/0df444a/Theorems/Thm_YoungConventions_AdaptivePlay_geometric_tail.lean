@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_AdaptivePlay_geometric_tail
 -- name    : YoungConventions.AdaptivePlay.geometric_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:03:32.452912+00:00
 -- url     : https://prove2.me/theorems/0a5f7180-a46e-4495-93e8-a51824b87d7c

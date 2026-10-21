@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_stepH_child
 -- name    : IntMul.Kappa.R6.IL3H.stepH_child
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:36.548946+00:00
 -- url     : https://prove2.me/theorems/5e41b2f0-4be8-4a18-8bde-af1836b44654

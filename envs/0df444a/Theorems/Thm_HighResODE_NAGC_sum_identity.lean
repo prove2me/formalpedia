@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_NAGC_sum_identity
 -- name    : HighResODE.NAGC.sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:26:14.735917+00:00
 -- url     : https://prove2.me/theorems/37f14970-6b69-47a1-8910-bdf965e106b5

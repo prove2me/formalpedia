@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL3H_sImplQ_nodeC
 -- name    : IntMul.Kappa.R6.IL3H.sImplQ_nodeC
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:27:04.888225+00:00
 -- url     : https://prove2.me/theorems/4636dbc7-0564-47f8-abee-127d927efeaf

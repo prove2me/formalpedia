@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_L1_fast_l1_step
 -- name    : SubsetShrink.L1.fast_l1_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:37.941177+00:00
 -- url     : https://prove2.me/theorems/01fae889-50ac-4193-8322-8e1c5652c2c0

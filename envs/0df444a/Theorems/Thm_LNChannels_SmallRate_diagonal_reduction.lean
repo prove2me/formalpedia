@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_SmallRate_diagonal_reduction
 -- name    : LNChannels.SmallRate.diagonal_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:59:42.812594+00:00
 -- url     : https://prove2.me/theorems/5935b90d-9f42-4e95-bd0c-1784d7d0015c

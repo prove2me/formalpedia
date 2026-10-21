@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniStores_ReturnRate_turning_point_bound
 -- name    : OmniStores.ReturnRate.turning_point_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:11.216121+00:00
 -- url     : https://prove2.me/theorems/071e78a2-9edd-4e86-ac59-65c01ea7ad78

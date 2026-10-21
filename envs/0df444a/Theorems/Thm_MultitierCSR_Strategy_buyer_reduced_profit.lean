@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultitierCSR_Strategy_buyer_reduced_profit
 -- name    : MultitierCSR.Strategy.buyer_reduced_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:57.699993+00:00
 -- url     : https://prove2.me/theorems/34cad8fc-06d3-4d90-a02c-a0eba5d8b24d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_TailConv_lemma1_tail_max
 -- name    : TailRiskSharing.TailConv.lemma1_tail_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:41.181317+00:00
 -- url     : https://prove2.me/theorems/ba215222-a228-49dc-a791-ab02c0b12b41

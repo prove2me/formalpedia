@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetingChains_Cournot_proposition_6a_VS_iff_g
 -- name    : CompetingChains.Cournot.proposition_6a_VS_iff_g
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:30.228507+00:00
 -- url     : https://prove2.me/theorems/8fb23fb9-cd50-476c-8eea-3d8e3b08d3b5

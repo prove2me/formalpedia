@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComonoNetPricing_DebtEquity_proposition_A_3
 -- name    : ComonoNetPricing.DebtEquity.proposition_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:15:40.997625+00:00
 -- url     : https://prove2.me/theorems/84365c11-7173-4ebe-81b5-a3ebdc545929

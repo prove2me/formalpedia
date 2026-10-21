@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_homogeneous_sum_coeff
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_homogeneous_sum_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:36:26.713201+00:00
 -- url     : https://prove2.me/theorems/9972c3dc-5b9e-485d-b289-8b6a67230239

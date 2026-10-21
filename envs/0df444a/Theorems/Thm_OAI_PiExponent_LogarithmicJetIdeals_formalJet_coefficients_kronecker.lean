@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_coefficients_kronecker
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_coefficients_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T23:03:55.09617+00:00
 -- url     : https://prove2.me/theorems/833bb3da-5aee-424a-9fb0-1800c98f2e8a

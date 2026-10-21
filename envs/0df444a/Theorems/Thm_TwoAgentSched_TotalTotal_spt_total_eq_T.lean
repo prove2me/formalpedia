@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_TotalTotal_spt_total_eq_T
 -- name    : TwoAgentSched.TotalTotal.spt_total_eq_T
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:04.330596+00:00
 -- url     : https://prove2.me/theorems/1ae776ed-175f-46e7-950d-07cda3b03ca0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_colkitt_2pow30
 -- name    : IntMul.Kappa.colkitt_2pow30
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-08T17:48:41.680972+00:00
 -- url     : https://prove2.me/theorems/f3fa305a-7e84-4fb6-8e0f-fa764e12f288

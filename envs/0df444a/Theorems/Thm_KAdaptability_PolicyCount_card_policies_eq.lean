@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_PolicyCount_card_policies_eq
 -- name    : KAdaptability.PolicyCount.card_policies_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:03:36.194538+00:00
 -- url     : https://prove2.me/theorems/03952e28-1111-4429-9fd8-d7b87f83ba0e

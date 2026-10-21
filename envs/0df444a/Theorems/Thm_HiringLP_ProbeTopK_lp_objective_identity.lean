@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_ProbeTopK_lp_objective_identity
 -- name    : HiringLP.ProbeTopK.lp_objective_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:35.063052+00:00
 -- url     : https://prove2.me/theorems/a5400da4-c413-44f6-8657-8cd4c366a507

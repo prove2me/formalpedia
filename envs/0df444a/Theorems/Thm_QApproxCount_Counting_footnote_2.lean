@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QApproxCount_Counting_footnote_2
 -- name    : QApproxCount.Counting.footnote_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:10:41.098989+00:00
 -- url     : https://prove2.me/theorems/b0697cda-5ab2-4ba6-8237-61297958aae1

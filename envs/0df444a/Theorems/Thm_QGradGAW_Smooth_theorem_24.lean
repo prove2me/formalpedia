@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QGradGAW_Smooth_theorem_24
 -- name    : QGradGAW.Smooth.theorem_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:26.589529+00:00
 -- url     : https://prove2.me/theorems/1820a365-9cbc-44b6-8699-832b029e0aed

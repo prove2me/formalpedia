@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexGroupBuy_REE_Nbar_order
 -- name    : FlexGroupBuy.REE.Nbar_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:48.243432+00:00
 -- url     : https://prove2.me/theorems/61ad6ece-a268-486c-9d32-3e55ec160f7c

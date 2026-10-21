@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoProdBundle_Equil_eq_5c
 -- name    : CoProdBundle.Equil.eq_5c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:52.89685+00:00
 -- url     : https://prove2.me/theorems/361f9b04-b2da-4f23-9afd-853cfe1e6b81

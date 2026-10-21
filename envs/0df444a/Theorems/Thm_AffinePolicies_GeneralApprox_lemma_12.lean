@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_GeneralApprox_lemma_12
 -- name    : AffinePolicies.GeneralApprox.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:25:18.257647+00:00
 -- url     : https://prove2.me/theorems/677e31bf-fdae-447c-816a-31886b3e485a

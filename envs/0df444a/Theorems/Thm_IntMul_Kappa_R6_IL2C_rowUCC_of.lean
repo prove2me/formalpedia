@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_IL2C_rowUCC_of
 -- name    : IntMul.Kappa.R6.IL2C.rowUCC_of
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T05:26:59.104651+00:00
 -- url     : https://prove2.me/theorems/edd9bfe7-a47a-4af0-aa1e-6d5ecf1857a3

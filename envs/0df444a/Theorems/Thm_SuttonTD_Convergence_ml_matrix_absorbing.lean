@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonTD_Convergence_ml_matrix_absorbing
 -- name    : SuttonTD.Convergence.ml_matrix_absorbing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:02:57.378575+00:00
 -- url     : https://prove2.me/theorems/35258ff8-2462-4142-90f0-0886ace9afb9

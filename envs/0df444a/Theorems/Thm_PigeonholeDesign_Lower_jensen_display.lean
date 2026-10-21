@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Lower_jensen_display
 -- name    : PigeonholeDesign.Lower.jensen_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:19:19.783766+00:00
 -- url     : https://prove2.me/theorems/a8163e80-951a-46b8-a087-c41c181ab9fa

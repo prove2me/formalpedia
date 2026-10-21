@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_MonopolyCapacity_eq20_simplified_objective
 -- name    : AVRideHail.MonopolyCapacity.eq20_simplified_objective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:21.633821+00:00
 -- url     : https://prove2.me/theorems/9bb0f424-c9cb-459c-bd28-12cfcb3f75a0

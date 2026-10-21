@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BuckPassing_Det_eq_6
 -- name    : BuckPassing.Det.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:22.326537+00:00
 -- url     : https://prove2.me/theorems/9845cea0-d161-454b-8887-5a6adcbf4725

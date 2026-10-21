@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SherbrookeMetric_ConvexHull_lowerHull_slopes
 -- name    : SherbrookeMetric.ConvexHull.lowerHull_slopes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:52.423242+00:00
 -- url     : https://prove2.me/theorems/bb7d4062-6f39-47fc-aff6-ee33b311e82e
