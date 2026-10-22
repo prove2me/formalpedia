@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_Inherit_density_deriv_lower
 -- name    : ShockWear.Inherit.density_deriv_lower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:04.729203+00:00
 -- url     : https://prove2.me/theorems/65046e84-43ee-405d-bea3-c018ea5b0f6a

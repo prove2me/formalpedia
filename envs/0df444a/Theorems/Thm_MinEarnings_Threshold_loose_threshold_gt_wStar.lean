@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Threshold_loose_threshold_gt_wStar
 -- name    : MinEarnings.Threshold.loose_threshold_gt_wStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:23.779152+00:00
 -- url     : https://prove2.me/theorems/f8a14219-4cf2-4f57-8137-970573db3e2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KedlayaUmans_Reduction_theorem_3_1
 -- name    : KedlayaUmans.Reduction.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:49.33518+00:00
 -- url     : https://prove2.me/theorems/f60703cb-3e7b-4de9-b6d0-38f30d022bb2

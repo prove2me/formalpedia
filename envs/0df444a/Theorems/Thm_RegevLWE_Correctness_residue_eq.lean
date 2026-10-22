@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_Correctness_residue_eq
 -- name    : RegevLWE.Correctness.residue_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:42.424021+00:00
 -- url     : https://prove2.me/theorems/3aeb991a-0e93-466a-af25-b9084821b23d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_variational_compliance
 -- name    : ModernConvex.Truss.variational_compliance
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:31.921524+00:00
 -- url     : https://prove2.me/theorems/e777e2c1-bb1d-45f0-ad47-b721103f5fe2

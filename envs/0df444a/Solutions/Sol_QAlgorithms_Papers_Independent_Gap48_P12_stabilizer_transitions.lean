@@ -1,0 +1,104 @@
+-- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Gap48.P12.stabilizer_transitions
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-21T22:32:07.363324+00:00
+-- url     : https://prove2.me/submissions/9ae3d5f1-88df-4fc4-8fb8-e661ece806ee
+
+import Definitions.Def_QAlgorithms_Papers_Independent_Gap48_P12
+noncomputable section
+
+open QAlgorithms QAlgorithms.Papers.Independent.Gap48.P12
+
+theorem g73v_expT : Complex.exp (Complex.I * Real.pi / 4) =
+    ((Real.sqrt 2 : ℝ) : ℂ)⁻¹ + ((Real.sqrt 2 : ℝ) : ℂ)⁻¹ * Complex.I := by
+  have : Complex.I * Real.pi / 4 = ((Real.pi / 4 : ℝ) : ℂ) * Complex.I := by push_cast; ring
+  rw [this, Complex.exp_mul_I, ← Complex.ofReal_cos, ← Complex.ofReal_sin, Real.cos_pi_div_four,
+    Real.sin_pi_div_four]
+  have h2 : Real.sqrt 2 / 2 = (Real.sqrt 2)⁻¹ := by
+    have := Real.sq_sqrt (show (0:ℝ) ≤ 2 by norm_num)
+    have hp : Real.sqrt 2 ≠ 0 := by positivity
+    field_simp; linarith
+  rw [h2]; push_cast; ring
+
+theorem g73v_sq : ((Real.sqrt 2 : ℝ) : ℂ) ^ 2 = 2 := by
+  rw [← Complex.ofReal_pow, Real.sq_sqrt (by norm_num)]; push_cast; ring
+
+theorem g73v_ne : ((Real.sqrt 2 : ℝ) : ℂ) ≠ 0 := by
+  have : Real.sqrt 2 ≠ 0 := by positivity
+  exact_mod_cast this
+
+theorem g73v_conjs : (starRingEnd ℂ) ((Real.sqrt 2 : ℝ) : ℂ) = ((Real.sqrt 2 : ℝ) : ℂ) := Complex.conj_ofReal _
+
+
+theorem g73v_act_mul (A B : Matrix Bool Bool ℂ) (ψ : EuclideanSpace ℂ Bool) :
+    act (A * B) ψ = act A (act B ψ) := by
+  simp [act, Matrix.mulVec_mulVec]
+
+theorem g73v_stab_of_comm (x y z x' y' z' : ℝ) (U : Matrix Bool Bool ℂ) (ψ : EuclideanSpace ℂ Bool)
+    (hc : blochMatrix x' y' z' * U = U * blochMatrix x y z) (h : PauliStabilizes x y z ψ) :
+    PauliStabilizes x' y' z' (act U ψ) := by
+  unfold PauliStabilizes at *
+  rw [← g73v_act_mul, hc, g73v_act_mul, h]
+
+theorem g73v_commT (x y z : ℝ) :
+    blochMatrix ((x - y) / Real.sqrt 2) ((x + y) / Real.sqrt 2) z * gateT =
+      gateT * blochMatrix x y z := by
+  have hs := g73v_sq
+  have hn := g73v_ne
+  ext i j <;> cases i <;> cases j <;>
+    simp [Matrix.mul_apply, blochMatrix, pauliX, pauliY, pauliZ, gateT, g73v_expT] <;>
+    field_simp <;> ring_nf <;> simp [hs] <;> ring_nf
+
+theorem g73v_commH (x y z : ℝ) :
+    blochMatrix z (-y) x * hadamard = hadamard * blochMatrix x y z := by
+  have hs := g73v_sq
+  have hn := g73v_ne
+  ext i j <;> cases i <;> cases j <;>
+    simp [Matrix.mul_apply, blochMatrix, pauliX, pauliY, pauliZ, hadamard] <;>
+    field_simp <;> ring_nf <;> simp [hs] <;> ring_nf
+
+theorem g73v_commS (x y z : ℝ) :
+    blochMatrix (-y) x z * phaseS = phaseS * blochMatrix x y z := by
+  ext i j <;> cases i <;> cases j <;>
+    simp [Matrix.mul_apply, blochMatrix, pauliX, pauliY, pauliZ, phaseS] <;> ring_nf <;>
+    simp <;> ring_nf
+
+theorem g73v_zero (x y z : ℝ) (h : PauliStabilizes x y z (ket false)) :
+    x = 0 ∧ y = 0 ∧ z = 1 := by
+  unfold PauliStabilizes at h
+  have h0 := congrArg (fun v : EuclideanSpace ℂ Bool => v false) h
+  have h1 := congrArg (fun v : EuclideanSpace ℂ Bool => v true) h
+  simp [act, ket, blochMatrix, pauliX, pauliY, pauliZ, Matrix.mulVec, dotProduct] at h0 h1
+  have a := congrArg Complex.re h1
+  have b := congrArg Complex.im h1
+  simp at a b
+  exact ⟨a, b, by exact_mod_cast h0⟩
+
+
+local notation "Mat" => Matrix Bool Bool ℂ
+
+local notation "Vec" => EuclideanSpace ℂ Bool
+
+local notation "wordMatrix" => fun (B : CircuitBasis) (w : CircuitWord) =>
+  QAlgorithms.Papers.Independent.Next46.P21.wordMatrix (chronologicalInstructions B w)
+
+/-- PDF p.11, Fact 3: all three transformed-state stabilization claims.
+The √2*z components inside the printed common 1/√2 factor simplify to z. -/
+theorem solution (psi : Vec) (hpsi : IsState psi)
+    (x y z : ℝ) (h : PauliStabilizes x y z psi) :
+    PauliStabilizes ((x - y) / Real.sqrt 2) ((x + y) / Real.sqrt 2) z (act gateT psi) ∧
+    PauliStabilizes z ((-x - y) / Real.sqrt 2) ((x - y) / Real.sqrt 2)
+      (act (hadamard * gateT) psi) ∧
+    PauliStabilizes ((x + y) / Real.sqrt 2) z ((x - y) / Real.sqrt 2)
+      (act (phaseS * hadamard * gateT) psi) := by
+  have h1 := g73v_stab_of_comm _ _ _ _ _ _ gateT psi (g73v_commT x y z) h
+  have h2 := g73v_stab_of_comm _ _ _ _ _ _ hadamard _ (g73v_commH _ _ _) h1
+  have h3 := g73v_stab_of_comm _ _ _ _ _ _ phaseS _ (g73v_commS _ _ _) h2
+  have e1 : (-x - y) / Real.sqrt 2 = -((x + y) / Real.sqrt 2) := by ring
+  have e2 : (x + y) / Real.sqrt 2 = -(-((x + y) / Real.sqrt 2)) := by ring
+  refine ⟨h1, ?_, ?_⟩
+  · rw [e1, g73v_act_mul]; exact h2
+  · rw [e2, g73v_act_mul, g73v_act_mul]; exact h3
+
+
+end

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_eq_10
 -- name    : Pegasos.Analysis.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:06.682293+00:00
 -- url     : https://prove2.me/theorems/2b6ea2a2-7386-4fe6-b351-e31ffdb72df3

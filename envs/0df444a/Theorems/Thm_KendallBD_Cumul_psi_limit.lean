@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Cumul_psi_limit
 -- name    : KendallBD.Cumul.psi_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:27:43.72299+00:00
 -- url     : https://prove2.me/theorems/0421fc00-8d2c-4feb-9fc7-d70edc8f3e6c

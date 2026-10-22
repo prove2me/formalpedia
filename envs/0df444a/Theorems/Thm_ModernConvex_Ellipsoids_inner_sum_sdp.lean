@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Ellipsoids_inner_sum_sdp
 -- name    : ModernConvex.Ellipsoids.inner_sum_sdp
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:52.979918+00:00
 -- url     : https://prove2.me/theorems/5c8192f4-574a-4a0c-94fc-fab01a1cf9a5

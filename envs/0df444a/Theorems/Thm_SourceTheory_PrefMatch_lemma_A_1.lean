@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_PrefMatch_lemma_A_1
 -- name    : SourceTheory.PrefMatch.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:17.238735+00:00
 -- url     : https://prove2.me/theorems/cb0d3a2c-9b4b-47d9-bf51-d7f1d8a93e9d

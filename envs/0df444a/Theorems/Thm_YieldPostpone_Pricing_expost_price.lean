@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Pricing_expost_price
 -- name    : YieldPostpone.Pricing.expost_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:29.298738+00:00
 -- url     : https://prove2.me/theorems/4b99a5d7-5cd9-44af-872a-da1e3cfb0d11

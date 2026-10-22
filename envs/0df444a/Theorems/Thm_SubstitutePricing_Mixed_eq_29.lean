@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Mixed_eq_29
 -- name    : SubstitutePricing.Mixed.eq_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:17:55.238133+00:00
 -- url     : https://prove2.me/theorems/26affb69-b576-405d-9e84-5519d632947a

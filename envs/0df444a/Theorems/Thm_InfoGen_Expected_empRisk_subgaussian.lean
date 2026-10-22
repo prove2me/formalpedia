@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoGen_Expected_empRisk_subgaussian
 -- name    : InfoGen.Expected.empRisk_subgaussian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:26:39.613455+00:00
 -- url     : https://prove2.me/theorems/dec7a784-508d-4ffc-83b4-92da9202a6ad

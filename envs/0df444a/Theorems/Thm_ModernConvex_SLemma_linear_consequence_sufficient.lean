@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_linear_consequence_sufficient
 -- name    : ModernConvex.SLemma.linear_consequence_sufficient
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:02.295742+00:00
 -- url     : https://prove2.me/theorems/534b777c-136a-4732-90f0-dd1603d5c464

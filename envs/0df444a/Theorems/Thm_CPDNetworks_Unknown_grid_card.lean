@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPDNetworks_Unknown_grid_card
 -- name    : CPDNetworks.Unknown.grid_card
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:54.215526+00:00
 -- url     : https://prove2.me/theorems/195e5197-784a-468d-84d0-4238284cf1b1

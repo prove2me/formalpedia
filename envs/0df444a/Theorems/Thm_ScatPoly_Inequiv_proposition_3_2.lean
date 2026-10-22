@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatPoly_Inequiv_proposition_3_2
 -- name    : ScatPoly.Inequiv.proposition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:50.68142+00:00
 -- url     : https://prove2.me/theorems/d598c307-a452-408b-9a3e-70e8d44b85b6

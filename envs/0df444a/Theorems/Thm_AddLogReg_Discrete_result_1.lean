@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_Discrete_result_1
 -- name    : AddLogReg.Discrete.result_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:02:35.386987+00:00
 -- url     : https://prove2.me/theorems/7a042720-6adc-42b4-b9cd-49a48bb9a554

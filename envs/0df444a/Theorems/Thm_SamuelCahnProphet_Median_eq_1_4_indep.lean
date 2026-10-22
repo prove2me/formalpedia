@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_Median_eq_1_4_indep
 -- name    : SamuelCahnProphet.Median.eq_1_4_indep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:44.729552+00:00
 -- url     : https://prove2.me/theorems/37be0a7e-4172-4ffc-b018-b2d7412021cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_complete_of_faithfulContinuous
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.complete_of_faithfulContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T05:01:55.406073+00:00
 -- url     : https://prove2.me/theorems/12186d13-89b0-4dd2-b18a-dcee4ef58fb9

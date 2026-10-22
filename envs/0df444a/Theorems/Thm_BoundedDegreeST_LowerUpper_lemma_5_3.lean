@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedDegreeST_LowerUpper_lemma_5_3
 -- name    : BoundedDegreeST.LowerUpper.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:39.635811+00:00
 -- url     : https://prove2.me/theorems/200578c1-7e60-44f6-855b-a4f500204a79

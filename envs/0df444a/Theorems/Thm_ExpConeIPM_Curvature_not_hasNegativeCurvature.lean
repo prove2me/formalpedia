@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpConeIPM_Curvature_not_hasNegativeCurvature
 -- name    : ExpConeIPM.Curvature.not_hasNegativeCurvature
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:26.400933+00:00
 -- url     : https://prove2.me/theorems/d365c243-24a3-4c65-9163-f66ca438180d

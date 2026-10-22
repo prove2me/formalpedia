@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOdds_SVM_advMarginLoss_eq
 -- name    : RobustOdds.SVM.advMarginLoss_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:41:22.594102+00:00
 -- url     : https://prove2.me/theorems/687547d3-21e6-4e73-9909-fabb314b4b58

@@ -12,8 +12,8 @@
 --   Domain: `α > 0` (the book's); the integrand is bounded near `0` (limit `1/(2π)`) and decays
 --   exponentially, so the integral converges absolutely.
 --   Outside: for `α = 0` the factor `α^{-1/4}` is `0 ^ (-1/4) = 0` in Lean; for `α < 0` the
---   integrand is still integrable, but `α^{-1/4}` is Lean's `Real.rpow` of a negative base and
---   the value has no meaning.
+--   integrand grows like `x e^{|α|x² - 2πx}` and is not integrable, so the integral is `0` in Lean
+--   and the value has no meaning.
 --   Reference: `I(π) = 1.06827437054194412034358…`, `I(1) = I(π²) = 1.15299380521989158081997…`.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 28.

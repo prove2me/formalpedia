@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Regularity_equation_9
 -- name    : SelfDualLP.Regularity.equation_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:58:32.14389+00:00
 -- url     : https://prove2.me/theorems/51ed0436-36c8-448d-b487-72abb5794e6d

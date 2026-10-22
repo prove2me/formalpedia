@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_ETO_implication_display
 -- name    : FastCLO.ETO.implication_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:16:51.218392+00:00
 -- url     : https://prove2.me/theorems/0cc6aa70-73e2-4ff3-be2b-15da70ffb3f0

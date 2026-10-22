@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothQN_ExactNorm_prop_3_1_orthogonality
 -- name    : NonsmoothQN.ExactNorm.prop_3_1_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:04.885955+00:00
 -- url     : https://prove2.me/theorems/8b1c255d-450b-4a92-bae8-9a765d1431ba

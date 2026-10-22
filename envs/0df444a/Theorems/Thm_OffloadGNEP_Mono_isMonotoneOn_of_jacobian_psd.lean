@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Mono_isMonotoneOn_of_jacobian_psd
 -- name    : OffloadGNEP.Mono.isMonotoneOn_of_jacobian_psd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:37.05619+00:00
 -- url     : https://prove2.me/theorems/e0a91caf-7696-477f-9668-49b31831b26f

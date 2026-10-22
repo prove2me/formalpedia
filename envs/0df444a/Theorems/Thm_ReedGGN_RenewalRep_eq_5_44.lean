@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_RenewalRep_eq_5_44
 -- name    : ReedGGN.RenewalRep.eq_5_44
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:26.227321+00:00
 -- url     : https://prove2.me/theorems/489ecee7-a8bd-4c9f-946d-59587a16db59

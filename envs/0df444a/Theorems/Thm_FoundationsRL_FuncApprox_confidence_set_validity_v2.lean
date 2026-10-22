@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_FuncApprox_confidence_set_validity_v2
 -- name    : FoundationsRL.FuncApprox.confidence_set_validity_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:19:20.10098+00:00
 -- url     : https://prove2.me/theorems/b18dc8e9-cf9d-4378-9f4d-1fe099bb5a0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_Homog_proposition_1
 -- name    : NeedPersuasion.Homog.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:53.669021+00:00
 -- url     : https://prove2.me/theorems/11aa622a-acc2-49f1-a02c-0043bf48f314

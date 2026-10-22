@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunwayCPS_Makespan_min_makespan_dp
 -- name    : RunwayCPS.Makespan.min_makespan_dp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:12:20.815987+00:00
 -- url     : https://prove2.me/theorems/81b79bcc-330b-41c5-896e-696ada879884

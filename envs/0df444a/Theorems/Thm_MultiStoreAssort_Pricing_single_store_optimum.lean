@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Pricing_single_store_optimum
 -- name    : MultiStoreAssort.Pricing.single_store_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:10.226219+00:00
 -- url     : https://prove2.me/theorems/dae39827-7f5c-4f0b-8433-6863df89e224

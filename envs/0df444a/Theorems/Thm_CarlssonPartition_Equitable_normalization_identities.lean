@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Equitable_normalization_identities
 -- name    : CarlssonPartition.Equitable.normalization_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:12.054429+00:00
 -- url     : https://prove2.me/theorems/18eb53b9-2f93-4c01-ae35-18c6c8b528f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Pricing_theorem6_full_assortment_markup
 -- name    : MultiStoreAssort.Pricing.theorem6_full_assortment_markup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:22.595331+00:00
 -- url     : https://prove2.me/theorems/8ed708ba-b948-4db5-a635-138f56955503

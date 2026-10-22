@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReluMIP_Facet_proposition_2
 -- name    : ReluMIP.Facet.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:34:10.753135+00:00
 -- url     : https://prove2.me/theorems/bdbd2897-7378-4fc7-88f5-25cf79ab57b8

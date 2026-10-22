@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P23_essentialSelfAdjoint_of_denseRestriction
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P23.essentialSelfAdjoint_of_denseRestriction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:37:18.210901+00:00
 -- url     : https://prove2.me/theorems/c206469f-f705-4f49-9d5a-2b4285f27c24

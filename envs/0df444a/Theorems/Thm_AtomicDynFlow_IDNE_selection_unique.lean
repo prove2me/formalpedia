@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynFlow_IDNE_selection_unique
 -- name    : AtomicDynFlow.IDNE.selection_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:06.805067+00:00
 -- url     : https://prove2.me/theorems/9f4c85c3-8805-4930-82f6-9a619a750bda

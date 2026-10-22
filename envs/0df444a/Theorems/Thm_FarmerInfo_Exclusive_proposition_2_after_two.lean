@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfo_Exclusive_proposition_2_after_two
 -- name    : FarmerInfo.Exclusive.proposition_2_after_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:50.749063+00:00
 -- url     : https://prove2.me/theorems/cc088c32-d03c-4cba-be2c-25f60c277360

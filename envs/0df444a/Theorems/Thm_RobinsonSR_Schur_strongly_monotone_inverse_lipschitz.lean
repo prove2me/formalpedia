@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_Schur_strongly_monotone_inverse_lipschitz
 -- name    : RobinsonSR.Schur.strongly_monotone_inverse_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:10:19.420896+00:00
 -- url     : https://prove2.me/theorems/a2abc45c-51e3-40b6-82f0-dfb971a22f06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_OneInThree_section_8_4_pigeonhole
 -- name    : AlgebraicPCSP.OneInThree.section_8_4_pigeonhole
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:24.530608+00:00
 -- url     : https://prove2.me/theorems/8d349fd2-8114-4f37-987d-56049a61fcd6

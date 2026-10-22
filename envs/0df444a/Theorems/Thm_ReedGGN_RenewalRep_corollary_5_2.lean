@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_RenewalRep_corollary_5_2
 -- name    : ReedGGN.RenewalRep.corollary_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:35.807916+00:00
 -- url     : https://prove2.me/theorems/f7093352-48f6-403b-a67a-40bb3b224340

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSUMConv_BSCA_theorem_4
 -- name    : BSUMConv.BSCA.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:27:05.453557+00:00
 -- url     : https://prove2.me/theorems/6529f016-ee4c-4b7d-a8c9-ed21cd8703ae

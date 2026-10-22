@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Reduction_step_preserves_situation
 -- name    : LLLFactor.Reduction.step_preserves_situation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:27.6531+00:00
 -- url     : https://prove2.me/theorems/8607e740-d9ec-4ed4-92f5-de170d35a37b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighOrderWalks_OneSided_lemma_3_6
 -- name    : HighOrderWalks.OneSided.lemma_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:02.586461+00:00
 -- url     : https://prove2.me/theorems/523fd3aa-ee93-443d-97d4-e9c0c8d0055d

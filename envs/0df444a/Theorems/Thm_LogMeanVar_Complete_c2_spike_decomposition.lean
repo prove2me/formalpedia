@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogMeanVar_Complete_c2_spike_decomposition
 -- name    : LogMeanVar.Complete.c2_spike_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:53.318007+00:00
 -- url     : https://prove2.me/theorems/bbeb31aa-65cc-4f17-b9d0-0a480ba1c9ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeavyTailNV_ZeroOrder_pi_properties
 -- name    : HeavyTailNV.ZeroOrder.pi_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:26.585978+00:00
 -- url     : https://prove2.me/theorems/e9de7775-78c4-415a-b1d4-28b00783648c

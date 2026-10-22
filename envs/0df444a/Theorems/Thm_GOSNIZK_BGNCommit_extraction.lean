@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_extraction
 -- name    : GOSNIZK.BGNCommit.extraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:11.726151+00:00
 -- url     : https://prove2.me/theorems/fb617280-26c6-4010-954d-898f762e40b5

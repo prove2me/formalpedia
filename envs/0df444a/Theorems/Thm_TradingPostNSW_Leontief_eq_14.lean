@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_eq_14
 -- name    : TradingPostNSW.Leontief.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:28.618837+00:00
 -- url     : https://prove2.me/theorems/6052cd96-44ed-4268-be19-b57984560f04

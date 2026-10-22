@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_RateBounds_diagonal_reduction
 -- name    : LNChannels.RateBounds.diagonal_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:44.462832+00:00
 -- url     : https://prove2.me/theorems/1a005dd6-80db-41d1-a095-f0be2aa61e1b

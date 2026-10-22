@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_Multiclass_derivation_step_3
 -- name    : AddLogReg.Multiclass.derivation_step_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:04:48.580991+00:00
 -- url     : https://prove2.me/theorems/e62848e4-469f-4407-b79e-4d9771d3f59a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Richstein2001.segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:37:11.634527+00:00
 -- url     : https://prove2.me/submissions/ba141c9e-d740-46e5-bf8a-2abb7d410468
 -- note    : a sketch -- it imports a theorem that is still Open,

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Supervisor_supervisor_stabilizes
 -- name    : KumarSeidman.Supervisor.supervisor_stabilizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:34.327479+00:00
 -- url     : https://prove2.me/theorems/65a9d7bd-d2c5-4651-8baa-677ff575c588

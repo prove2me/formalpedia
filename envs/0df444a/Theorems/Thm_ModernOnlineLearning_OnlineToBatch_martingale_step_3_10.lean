@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_OnlineToBatch_martingale_step_3_10
 -- name    : ModernOnlineLearning.OnlineToBatch.martingale_step_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:36:13.146736+00:00
 -- url     : https://prove2.me/theorems/bd9c9ac6-df21-47c8-8423-de6d03cd76de

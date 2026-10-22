@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_LNatural_theorem_4
 -- name    : ZipkinLostSales.LNatural.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:00:57.767251+00:00
 -- url     : https://prove2.me/theorems/e9389cd4-9bb9-496f-9438-bf57cb8ac291

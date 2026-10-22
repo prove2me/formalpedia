@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiYuanCG_Conv_descent_3_9
 -- name    : DaiYuanCG.Conv.descent_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:00:48.553285+00:00
 -- url     : https://prove2.me/theorems/320d4ca0-857e-4487-88f0-1ba22db2fc11

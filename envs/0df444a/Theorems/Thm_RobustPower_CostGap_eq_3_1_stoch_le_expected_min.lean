@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_CostGap_eq_3_1_stoch_le_expected_min
 -- name    : RobustPower.CostGap.eq_3_1_stoch_le_expected_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:37.840253+00:00
 -- url     : https://prove2.me/theorems/2207e792-6dab-4668-a5e7-4720093bd39b

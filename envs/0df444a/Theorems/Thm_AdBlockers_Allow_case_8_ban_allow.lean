@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_case_8_ban_allow
 -- name    : AdBlockers.Allow.case_8_ban_allow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:33.134445+00:00
 -- url     : https://prove2.me/theorems/88d58029-a198-4ce8-bc38-60177494120b

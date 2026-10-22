@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_LPRounding_case2_perturbation
 -- name    : SymBoolPCSP.LPRounding.case2_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:30:12.27087+00:00
 -- url     : https://prove2.me/theorems/860571b6-35b7-4f38-9baa-69000b3d8d79

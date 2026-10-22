@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalRademacher_Classif_lemma_6_4
 -- name    : LocalRademacher.Classif.lemma_6_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:47:28.763487+00:00
 -- url     : https://prove2.me/theorems/53939a58-fe01-4bf1-954e-6b3285b9a251

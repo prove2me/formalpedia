@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TruncNewton_NegCurv_theorem_A_1_eps_zero
 -- name    : TruncNewton.NegCurv.theorem_A_1_eps_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:07:05.755465+00:00
 -- url     : https://prove2.me/theorems/2e994c11-b96d-4464-bd24-48c0ce7ef2b6

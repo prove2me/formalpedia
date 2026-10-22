@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_infeasibility_certificate
 -- name    : ModernConvex.LPDuality.infeasibility_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:26.813623+00:00
 -- url     : https://prove2.me/theorems/0d4c8360-900f-4c23-ab14-f8434fa6374d

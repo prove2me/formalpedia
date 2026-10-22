@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochGradTrack_Const_tracking_identity
 -- name    : StochGradTrack.Const.tracking_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:44:15.113162+00:00
 -- url     : https://prove2.me/theorems/5922ca41-6047-44ed-826a-fb96b1cc63cd

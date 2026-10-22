@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_selfAdjoint_commutant_scalar
 -- name    : BookProof.ChapterSchurIrreducible.selfAdjoint_commutant_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:02:03.718998+00:00
 -- url     : https://prove2.me/theorems/807ecb4d-c390-4cdc-b71f-2e60ed7866dc

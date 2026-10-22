@@ -9,7 +9,7 @@
 -- statement:
 --   $J_{163}=20010$. Here $J_n=\dfrac{1-16\alpha_n(1-\alpha_n)}{8\,(4\alpha_n(1-\alpha_n))^{1/3}}$, where $\alpha_n=1-\varphi(-q)^4/\varphi(q)^4$, $q=e^{-\pi\sqrt n}$, $\varphi(q)=\sum_{k\in\mathbb Z}q^{k^2}$.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part V (Springer, 1998), Chapter 34, Entry Entry 11.7, p. 311.
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part V (Springer, 1998), Chapter 34, Entry 11.7, p. 311.
 
 import Mathlib
 import Definitions.Def_RamanujanNotebooks_ch34_ch34InvariantJ

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Vertices_prop_3_4_perturbation_feasible
 -- name    : CompOT.Vertices.prop_3_4_perturbation_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:39.947697+00:00
 -- url     : https://prove2.me/theorems/19f2ab1b-1807-422e-b211-96f8e164f7c3

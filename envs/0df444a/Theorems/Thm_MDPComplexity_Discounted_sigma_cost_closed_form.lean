@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_Discounted_sigma_cost_closed_form
 -- name    : MDPComplexity.Discounted.sigma_cost_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:45:43.578684+00:00
 -- url     : https://prove2.me/theorems/06b2f5aa-6776-46b6-b65d-104ab752f3d0

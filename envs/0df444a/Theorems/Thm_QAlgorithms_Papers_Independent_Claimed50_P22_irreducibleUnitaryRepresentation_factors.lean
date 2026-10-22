@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_irreducibleUnitaryRepresentation_factors
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.irreducibleUnitaryRepresentation_factors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:12:37.596782+00:00
 -- url     : https://prove2.me/theorems/ed7f43e8-6d10-422b-a9b3-51173c8bbce3

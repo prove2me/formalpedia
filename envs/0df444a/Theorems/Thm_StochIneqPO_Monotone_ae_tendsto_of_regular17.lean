@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Monotone_ae_tendsto_of_regular17
 -- name    : StochIneqPO.Monotone.ae_tendsto_of_regular17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:27:55.531502+00:00
 -- url     : https://prove2.me/theorems/756c0407-d49a-4bed-9e9c-9b234944a3be

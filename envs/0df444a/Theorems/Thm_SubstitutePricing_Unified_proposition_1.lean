@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Unified_proposition_1
 -- name    : SubstitutePricing.Unified.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:19:42.387524+00:00
 -- url     : https://prove2.me/theorems/1369831d-491e-4310-8e18-f801cf6f37a5

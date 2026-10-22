@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_Throughput_fluid_weak_stability_implies_pathwise
 -- name    : MaxPressure.Throughput.fluid_weak_stability_implies_pathwise
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:02:39.322974+00:00
 -- url     : https://prove2.me/theorems/29d17eda-c279-44fc-a940-5a8ae88cbd64

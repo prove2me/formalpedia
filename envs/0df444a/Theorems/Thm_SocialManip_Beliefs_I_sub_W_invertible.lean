@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialManip_Beliefs_I_sub_W_invertible
 -- name    : SocialManip.Beliefs.I_sub_W_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:17.304685+00:00
 -- url     : https://prove2.me/theorems/8a44f923-820e-4b50-ace0-e2e51368297b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPRRingLWE_Clear_exists_preimage
 -- name    : LPRRingLWE.Clear.exists_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:34:53.707313+00:00
 -- url     : https://prove2.me/theorems/c4936e15-6347-4dcc-8b28-6018af2db929

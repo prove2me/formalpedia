@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_MCP_psi_monotone
 -- name    : YeIPA.MCP.psi_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:46.046978+00:00
 -- url     : https://prove2.me/theorems/a3342571-aedf-4a74-baa1-8076c4cecfee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_ShortPaths_corollary_20
 -- name    : LeightonRao.ShortPaths.corollary_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:26:10.267767+00:00
 -- url     : https://prove2.me/theorems/60744ced-1ccc-4c4b-8596-0b0d4f2fbbb4

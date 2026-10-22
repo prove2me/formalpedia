@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_MCP_psi_homogeneous_identities
 -- name    : YeIPA.MCP.psi_homogeneous_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:52.389134+00:00
 -- url     : https://prove2.me/theorems/b9fd2c3f-4ed5-4bfb-9779-9223c3370e67

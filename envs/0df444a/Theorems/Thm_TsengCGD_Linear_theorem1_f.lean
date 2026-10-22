@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_Linear_theorem1_f
 -- name    : TsengCGD.Linear.theorem1_f
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:42.954621+00:00
 -- url     : https://prove2.me/theorems/bfead6bc-f71b-4a53-9976-1049cfcc0e66

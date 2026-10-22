@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_UCRace_proposition_3
 -- name    : AccelScal.UCRace.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:02.699104+00:00
 -- url     : https://prove2.me/theorems/7a73dab8-34ac-4f18-bc4a-406c93b9258f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_optimal_price
 -- name    : HolisticService.Effort.optimal_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:35.749617+00:00
 -- url     : https://prove2.me/theorems/65205f5c-bb23-4009-94d2-532b1c40f0c0

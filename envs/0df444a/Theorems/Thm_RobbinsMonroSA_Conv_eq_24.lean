@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsMonroSA_Conv_eq_24
 -- name    : RobbinsMonroSA.Conv.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:12:51.605362+00:00
 -- url     : https://prove2.me/theorems/c117555b-c13b-42d2-b95e-a1b3aa140a86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Teletriage_OneShot_dd_integral
 -- name    : Teletriage.OneShot.dd_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:06.117835+00:00
 -- url     : https://prove2.me/theorems/246ab5d4-f6e5-4138-89d0-8d213a1645ea

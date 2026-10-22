@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_RandThreshold_proof53_onlyif
 -- name    : ShockWear.RandThreshold.proof53_onlyif
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:53:45.413986+00:00
 -- url     : https://prove2.me/theorems/df22bbf5-87bd-4545-aa33-760c77c6ea37

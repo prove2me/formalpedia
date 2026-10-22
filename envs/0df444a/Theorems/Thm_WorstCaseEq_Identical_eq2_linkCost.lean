@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_eq2_linkCost
 -- name    : WorstCaseEq.Identical.eq2_linkCost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:34.073633+00:00
 -- url     : https://prove2.me/theorems/da18efb4-f381-4309-96f5-c0f9d8ed1c35

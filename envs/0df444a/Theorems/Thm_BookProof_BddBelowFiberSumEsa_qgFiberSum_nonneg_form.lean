@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BddBelowFiberSumEsa_qgFiberSum_nonneg_form
 -- name    : BookProof.BddBelowFiberSumEsa.qgFiberSum_nonneg_form
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T13:16:04.88269+00:00
 -- url     : https://prove2.me/theorems/ed8dcda8-2eba-41d5-b820-c2f738d29e6a

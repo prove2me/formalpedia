@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Duality_sec_3_2_semidual_inequality
 -- name    : CompOT.Duality.sec_3_2_semidual_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:42.425196+00:00
 -- url     : https://prove2.me/theorems/23368725-4c88-487e-905f-b402099a2507

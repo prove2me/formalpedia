@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanicGames_Limit_equation_3_5
 -- name    : OceanicGames.Limit.equation_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:55.034376+00:00
 -- url     : https://prove2.me/theorems/94e0f0a2-d010-4671-aa41-2e2129fd2ede

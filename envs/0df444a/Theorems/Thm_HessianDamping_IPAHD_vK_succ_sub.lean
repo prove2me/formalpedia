@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IPAHD_vK_succ_sub
 -- name    : HessianDamping.IPAHD.vK_succ_sub
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:56.370388+00:00
 -- url     : https://prove2.me/theorems/5bad18c9-de63-489a-b252-b5d62ff2d933

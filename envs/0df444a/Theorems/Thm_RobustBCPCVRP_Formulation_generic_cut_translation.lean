@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBCPCVRP_Formulation_generic_cut_translation
 -- name    : RobustBCPCVRP.Formulation.generic_cut_translation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:42:00.26542+00:00
 -- url     : https://prove2.me/theorems/2e04aa74-0c5b-426c-b5dd-dfc325b090f3

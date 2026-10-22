@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_TUCore_balances_support
 -- name    : FuzzyGames.TUCore.balances_support
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:27.406986+00:00
 -- url     : https://prove2.me/theorems/73ebfb9d-ff26-48c6-ac7b-b971e2e7fd04

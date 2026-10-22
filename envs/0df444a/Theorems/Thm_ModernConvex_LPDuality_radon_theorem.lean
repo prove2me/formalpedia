@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_radon_theorem
 -- name    : ModernConvex.LPDuality.radon_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:31:51.59506+00:00
 -- url     : https://prove2.me/theorems/bab54875-54ae-4c8e-9a8c-9ba3e5cc81cc

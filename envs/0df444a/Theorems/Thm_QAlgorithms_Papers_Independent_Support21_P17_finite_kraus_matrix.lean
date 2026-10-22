@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P17_finite_kraus_matrix
 -- name    : QAlgorithms.Papers.Independent.Support21.P17.finite_kraus_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:43:51.127192+00:00
 -- url     : https://prove2.me/theorems/28078679-c1c9-4e68-98ab-f05414bcdece

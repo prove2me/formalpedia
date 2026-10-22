@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P7ThreeColor_Seed_dominating_of_dominating
 -- name    : P7ThreeColor.Seed.dominating_of_dominating
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:03.707991+00:00
 -- url     : https://prove2.me/theorems/8aa04aee-d05f-4406-b296-e09d3b2c5829

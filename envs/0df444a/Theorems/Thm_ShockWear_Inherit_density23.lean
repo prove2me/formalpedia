@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_Inherit_density23
 -- name    : ShockWear.Inherit.density23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:14.125977+00:00
 -- url     : https://prove2.me/theorems/ad681230-6bc8-481c-b231-d9ea2ca141a0

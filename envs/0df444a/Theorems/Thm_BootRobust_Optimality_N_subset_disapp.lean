@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Optimality_N_subset_disapp
 -- name    : BootRobust.Optimality.N_subset_disapp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:24.143314+00:00
 -- url     : https://prove2.me/theorems/e0234481-40f8-4115-be7f-0f1d29af611e

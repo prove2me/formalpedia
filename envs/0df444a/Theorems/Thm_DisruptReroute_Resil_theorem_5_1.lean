@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DisruptReroute_Resil_theorem_5_1
 -- name    : DisruptReroute.Resil.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:31:39.466686+00:00
 -- url     : https://prove2.me/theorems/118c8c0b-8563-4cc9-a0bd-88ebea2a0d27

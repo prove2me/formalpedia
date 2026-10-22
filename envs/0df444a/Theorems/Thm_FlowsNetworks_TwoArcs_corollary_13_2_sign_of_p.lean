@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_TwoArcs_corollary_13_2_sign_of_p
 -- name    : FlowsNetworks.TwoArcs.corollary_13_2_sign_of_p
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:53.691484+00:00
 -- url     : https://prove2.me/theorems/e34f35dd-9ab3-4b84-bc09-76e19436fccd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_gram_determinant
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.gram_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:19:49.071378+00:00
 -- url     : https://prove2.me/theorems/c421c9e5-6413-41c3-8b60-cdfd1ace41ba

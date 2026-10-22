@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MallowsChoice_DP_pi_sum_eq_choiceProb
 -- name    : MallowsChoice.DP.pi_sum_eq_choiceProb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:19.927837+00:00
 -- url     : https://prove2.me/theorems/b7c2519b-292f-4820-aad6-c229b16e699d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_BundlingOpt_proposition_6_iii
 -- name    : MultiItemRev.BundlingOpt.proposition_6_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:27:30.190865+00:00
 -- url     : https://prove2.me/theorems/3bb3aaae-6f86-4107-a513-f8815655c035

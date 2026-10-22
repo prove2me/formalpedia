@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MallowsChoice_DP_case_2_old
 -- name    : MallowsChoice.DP.case_2_old
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:41.055976+00:00
 -- url     : https://prove2.me/theorems/2e8346bb-20e8-44e8-b1cd-adb590b3fc6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_nondefective_absorbing_representation
 -- name    : MatrixAnalytic.PH.nondefective_absorbing_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:50.615309+00:00
 -- url     : https://prove2.me/theorems/05a32fdb-2489-4495-bcab-b2401c53b925

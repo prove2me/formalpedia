@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Spectral_convex_symmetric_doubly_stochastic_le
 -- name    : ModernConvex.Spectral.convex_symmetric_doubly_stochastic_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:47.665465+00:00
 -- url     : https://prove2.me/theorems/57dda89d-76db-43fd-ba0a-e89644004b6b

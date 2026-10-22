@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochGradTrack_Const_beta_lower_bound
 -- name    : StochGradTrack.Const.beta_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:44:50.687701+00:00
 -- url     : https://prove2.me/theorems/5f642793-2c86-4e5d-9dec-6102dab8c1c0

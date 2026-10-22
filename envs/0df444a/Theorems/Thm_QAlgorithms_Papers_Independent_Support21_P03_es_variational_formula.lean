@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P03_es_variational_formula
 -- name    : QAlgorithms.Papers.Independent.Support21.P03.es_variational_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:41:47.368233+00:00
 -- url     : https://prove2.me/theorems/865cb959-6b56-4e6f-abc8-77de1a0b056f

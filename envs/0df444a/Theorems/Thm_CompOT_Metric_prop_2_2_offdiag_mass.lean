@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Metric_prop_2_2_offdiag_mass
 -- name    : CompOT.Metric.prop_2_2_offdiag_mass
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:21.031587+00:00
 -- url     : https://prove2.me/theorems/434ca463-8381-4224-a8fe-5e18148e65d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_truncated_log_matrix_surjective_of_distinct_centers
 -- name    : OAI.PiExponent.FormalInterpolation.finite_truncated_log_matrix_surjective_of_distinct_centers
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-13T06:05:49.505235+00:00
 -- url     : https://prove2.me/theorems/6758a74f-a924-413a-a2a4-f85874873f79

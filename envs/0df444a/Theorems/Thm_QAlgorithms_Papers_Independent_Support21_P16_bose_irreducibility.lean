@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_bose_irreducibility
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.bose_irreducibility
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:38:36.676674+00:00
 -- url     : https://prove2.me/theorems/90984f3c-5e3a-4edf-969f-2c7ec023c337

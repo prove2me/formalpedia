@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_LP_potential_gradient_lower_bound
 -- name    : YeIPA.LP.potential_gradient_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:28.411761+00:00
 -- url     : https://prove2.me/theorems/abd478e5-0446-4f3a-9e14-80c3dc17caeb

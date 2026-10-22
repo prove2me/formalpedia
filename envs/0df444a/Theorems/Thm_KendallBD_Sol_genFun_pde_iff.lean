@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Sol_genFun_pde_iff
 -- name    : KendallBD.Sol.genFun_pde_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:25:06.699573+00:00
 -- url     : https://prove2.me/theorems/1aba340b-c39c-4c30-889f-0c0d71028b4a

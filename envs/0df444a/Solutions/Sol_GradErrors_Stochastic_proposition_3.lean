@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GradErrors.Stochastic.proposition_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T04:20:30.152741+00:00
 -- url     : https://prove2.me/submissions/97b4b95a-3259-4380-a6f0-4b2ae8f611aa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_GradErrors_Stochastic_lemma_6

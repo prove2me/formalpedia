@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_Payoffs_proposition_8_iv
 -- name    : CustomerVoice.Payoffs.proposition_8_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:57.769149+00:00
 -- url     : https://prove2.me/theorems/7a8feece-5524-4278-abfb-cec64ff4bd0c

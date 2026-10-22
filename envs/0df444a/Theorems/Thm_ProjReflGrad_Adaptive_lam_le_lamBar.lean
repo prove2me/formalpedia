@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Adaptive_lam_le_lamBar
 -- name    : ProjReflGrad.Adaptive.lam_le_lamBar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:15:32.525491+00:00
 -- url     : https://prove2.me/theorems/e4712361-3dc3-4363-8be7-eed6fa5bb612

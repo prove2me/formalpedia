@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PetruzziDada_Additive_appendix_d2R
 -- name    : PetruzziDada.Additive.appendix_d2R
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:12.763256+00:00
 -- url     : https://prove2.me/theorems/cff08b26-d437-4134-b343-ae319d8d59a5

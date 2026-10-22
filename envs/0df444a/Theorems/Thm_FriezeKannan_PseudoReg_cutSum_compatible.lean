@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_PseudoReg_cutSum_compatible
 -- name    : FriezeKannan.PseudoReg.cutSum_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:08.908+00:00
 -- url     : https://prove2.me/theorems/f8932311-93db-4116-858b-f1af02afd36c

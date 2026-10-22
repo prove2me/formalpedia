@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_flow_value_eq_net_flow_across_cut
 -- name    : FlowsNetworks.MaxFlow.flow_value_eq_net_flow_across_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:01.218984+00:00
 -- url     : https://prove2.me/theorems/c8b6f505-c5c8-4bae-9e5e-8fc969f75329

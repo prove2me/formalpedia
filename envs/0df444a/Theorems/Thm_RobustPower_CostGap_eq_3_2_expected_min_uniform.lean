@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_CostGap_eq_3_2_expected_min_uniform
 -- name    : RobustPower.CostGap.eq_3_2_expected_min_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:12:52.071078+00:00
 -- url     : https://prove2.me/theorems/6ebbb5f1-7eb6-44f9-92aa-0e035f711950

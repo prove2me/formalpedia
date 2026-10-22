@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTaxiRouting_Integrality_eq15_of_fixed
 -- name    : OnlineTaxiRouting.Integrality.eq15_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:28:08.147418+00:00
 -- url     : https://prove2.me/theorems/43200333-b299-43ea-8051-5dc9c05744e7

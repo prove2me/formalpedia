@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Freezing_freezing_ratio_le_index
 -- name    : AllocationIndices.Freezing.freezing_ratio_le_index
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:33.398884+00:00
 -- url     : https://prove2.me/theorems/eddf195d-39c5-4122-a3d2-1bad049b1bed

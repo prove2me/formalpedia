@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_AppendsBinary_deriv_alphaL
 -- name    : SellingData.AppendsBinary.deriv_alphaL
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:40.55214+00:00
 -- url     : https://prove2.me/theorems/ce6c4ab5-d6a7-4f2e-b961-c0c01c01f8a8

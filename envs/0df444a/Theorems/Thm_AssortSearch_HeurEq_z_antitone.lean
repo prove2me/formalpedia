@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_z_antitone
 -- name    : AssortSearch.HeurEq.z_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:19.133596+00:00
 -- url     : https://prove2.me/theorems/b0d3a523-af1e-4677-bf49-9ca318b5fe83

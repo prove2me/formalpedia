@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_coeff_pow_norm_le_choose_weighted
 -- name    : OAI.PiExponent.LiteralAnalytic.coeff_pow_norm_le_choose_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:38:28.646048+00:00
 -- url     : https://prove2.me/theorems/0f911b1d-15c3-40ea-b5f0-33d7ac8d7db3

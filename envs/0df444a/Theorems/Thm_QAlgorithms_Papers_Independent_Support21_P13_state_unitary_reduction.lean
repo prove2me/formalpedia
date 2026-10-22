@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_state_unitary_reduction
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.state_unitary_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:19:47.763788+00:00
 -- url     : https://prove2.me/theorems/3df519d2-924f-4a2b-bd87-f64cf4818960

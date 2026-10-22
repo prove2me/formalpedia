@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P14_labelledBrauer_card
 -- name    : QAlgorithms.Papers.Independent.Support21.P14.labelledBrauer_card
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:32:58.019417+00:00
 -- url     : https://prove2.me/theorems/75f61505-a4e3-450e-aec1-1950671d8683

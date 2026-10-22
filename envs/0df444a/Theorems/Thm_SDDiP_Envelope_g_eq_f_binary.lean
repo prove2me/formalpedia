@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Envelope_g_eq_f_binary
 -- name    : SDDiP.Envelope.g_eq_f_binary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:49:25.439791+00:00
 -- url     : https://prove2.me/theorems/7e5d7bf7-4ab8-4a95-b340-b80549b67162

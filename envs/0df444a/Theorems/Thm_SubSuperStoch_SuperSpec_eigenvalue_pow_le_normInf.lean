@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_SuperSpec_eigenvalue_pow_le_normInf
 -- name    : SubSuperStoch.SuperSpec.eigenvalue_pow_le_normInf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:27:58.015761+00:00
 -- url     : https://prove2.me/theorems/d1c3dc94-3232-4b0e-93f3-ab48d10a8393

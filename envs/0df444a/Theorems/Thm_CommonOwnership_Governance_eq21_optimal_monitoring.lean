@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_eq21_optimal_monitoring
 -- name    : CommonOwnership.Governance.eq21_optimal_monitoring
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:44.173313+00:00
 -- url     : https://prove2.me/theorems/d812399d-c03f-4b6e-9703-cbde0e14fc09

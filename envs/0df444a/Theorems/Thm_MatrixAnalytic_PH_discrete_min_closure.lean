@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_discrete_min_closure
 -- name    : MatrixAnalytic.PH.discrete_min_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:50.58435+00:00
 -- url     : https://prove2.me/theorems/1e3ae4e5-2426-415a-b546-8dce34bb24fa

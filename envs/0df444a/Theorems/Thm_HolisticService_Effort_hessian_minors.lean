@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_hessian_minors
 -- name    : HolisticService.Effort.hessian_minors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:45.096245+00:00
 -- url     : https://prove2.me/theorems/bbbeffee-608c-4261-83a1-3a91955d7122

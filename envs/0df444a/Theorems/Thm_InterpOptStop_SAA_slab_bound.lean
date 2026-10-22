@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterpOptStop_SAA_slab_bound
 -- name    : InterpOptStop.SAA.slab_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:40.92827+00:00
 -- url     : https://prove2.me/theorems/b5d5d99f-91ed-4b82-a27e-a1d1e2f1b51d

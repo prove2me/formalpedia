@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Benchmark_regime_conditions
 -- name    : GDPRDataMarkets.Benchmark.regime_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:59.889345+00:00
 -- url     : https://prove2.me/theorems/1f2c13c7-2653-4d60-8eb7-70b41fe725ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_SystemEq_prop_2_1_arrival_delay
 -- name    : ReedGGN.SystemEq.prop_2_1_arrival_delay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:41.981278+00:00
 -- url     : https://prove2.me/theorems/3088f9a0-4c48-4771-8656-4cad7175e7db

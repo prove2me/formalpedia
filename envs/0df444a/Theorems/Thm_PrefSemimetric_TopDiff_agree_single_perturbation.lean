@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefSemimetric_TopDiff_agree_single_perturbation
 -- name    : PrefSemimetric.TopDiff.agree_single_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:36.239554+00:00
 -- url     : https://prove2.me/theorems/344b6d56-8c3f-4962-a2c6-6af587efc388

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_Threshold_lemma_3
 -- name    : NeedPersuasion.Threshold.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:04:51.455848+00:00
 -- url     : https://prove2.me/theorems/c6df22f5-886f-4321-9130-ba59520524c2

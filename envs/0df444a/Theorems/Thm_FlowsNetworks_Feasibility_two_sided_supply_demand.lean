@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Feasibility_two_sided_supply_demand
 -- name    : FlowsNetworks.Feasibility.two_sided_supply_demand
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:18.507409+00:00
 -- url     : https://prove2.me/theorems/0da7e9d2-1a2a-44f5-8aaa-ff61fa15a178

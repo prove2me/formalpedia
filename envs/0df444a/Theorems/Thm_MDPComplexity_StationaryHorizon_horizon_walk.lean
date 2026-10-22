@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_StationaryHorizon_horizon_walk
 -- name    : MDPComplexity.StationaryHorizon.horizon_walk
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:44:37.58577+00:00
 -- url     : https://prove2.me/theorems/5dc01fba-6b81-47b0-a0ca-e9d9f9bbfd31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_ng1_not_equiv_gng
 -- name    : NewtonCartan.ng1_not_equiv_gng
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-20T23:17:52.87493+00:00
 -- url     : https://prove2.me/theorems/e0034ffc-ef60-41e4-94f9-53f3cb869808

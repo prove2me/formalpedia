@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledExpansion_SeqSim_root_equation_8
 -- name    : BundledExpansion.SeqSim.root_equation_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:05.758422+00:00
 -- url     : https://prove2.me/theorems/7eeea644-232e-4b0b-856b-aef5f5ed5442

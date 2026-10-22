@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_case_2_fee_fee
 -- name    : AdBlockers.Allow.case_2_fee_fee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:34.92261+00:00
 -- url     : https://prove2.me/theorems/830c80fb-c3cd-4797-a06e-88a7b5864ea2

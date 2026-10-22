@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_DerivedMDP_derived_all_proper
 -- name    : StableFA.DerivedMDP.derived_all_proper
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:07.175153+00:00
 -- url     : https://prove2.me/theorems/74ed75dd-5c14-4c55-b1b3-f7ba3f1cbd7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_multilinearMap_continuous_lift
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.multilinearMap_continuous_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:10:55.894775+00:00
 -- url     : https://prove2.me/theorems/ef2ab60e-372b-49c7-8c0e-b329e8eb9792

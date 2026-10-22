@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstOverbooking_Structure_theorem2_concave_submodular
 -- name    : SubstOverbooking.Structure.theorem2_concave_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:09:36.223317+00:00
 -- url     : https://prove2.me/theorems/1e6fa8db-5bf2-49e6-bc08-297071a7e7bf

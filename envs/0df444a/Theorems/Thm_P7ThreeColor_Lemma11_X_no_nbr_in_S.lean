@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P7ThreeColor_Lemma11_X_no_nbr_in_S
 -- name    : P7ThreeColor.Lemma11.X_no_nbr_in_S
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:45:49.287621+00:00
 -- url     : https://prove2.me/theorems/f90f3d30-def2-4dc5-b679-c11b35b77315

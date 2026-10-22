@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomHedge_Exist_ec_27_unique
 -- name    : CustomHedge.Exist.ec_27_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:56.226542+00:00
 -- url     : https://prove2.me/theorems/c6fbdaf1-a1d1-48a6-978e-5d4963059621

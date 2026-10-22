@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SalesTrust_Sharing_eq_15
 -- name    : SalesTrust.Sharing.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:14.797474+00:00
 -- url     : https://prove2.me/theorems/8bc4a8a6-7131-4e1f-8cc1-a1dbc2be1f60

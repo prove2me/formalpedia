@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_sum_coeff_of_terms
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_sum_coeff_of_terms
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:41:39.113552+00:00
 -- url     : https://prove2.me/theorems/99385e96-1a26-4891-8a1c-3d8785b18029

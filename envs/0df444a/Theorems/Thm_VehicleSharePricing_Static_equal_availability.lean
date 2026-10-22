@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_Static_equal_availability
 -- name    : VehicleSharePricing.Static.equal_availability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:14.540598+00:00
 -- url     : https://prove2.me/theorems/37bd8038-3287-490f-aab7-ef168a51d274

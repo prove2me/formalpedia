@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq30_hasDerivWithinAt_sub_const
 -- name    : eq30_hasDerivWithinAt_sub_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T01:08:45.896852+00:00
 -- url     : https://prove2.me/theorems/3c9f2ea0-cc2c-4383-8b7b-5cc740011c99

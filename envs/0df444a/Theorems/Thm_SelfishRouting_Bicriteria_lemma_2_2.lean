@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Bicriteria_lemma_2_2
 -- name    : SelfishRouting.Bicriteria.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:11:25.396489+00:00
 -- url     : https://prove2.me/theorems/d93f4f69-9138-4e6f-8116-c29b982a0030

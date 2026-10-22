@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_EntropicDual_proposition_4_5
 -- name    : CompOT.EntropicDual.proposition_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:33.800995+00:00
 -- url     : https://prove2.me/theorems/165f8cc1-076e-401c-b73f-cb9eae47dd42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSWCuttingPlane_ChasingZero_alpha_choice
 -- name    : LSWCuttingPlane.ChasingZero.alpha_choice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:41.598525+00:00
 -- url     : https://prove2.me/theorems/038e6289-affa-43d1-9d4a-2932ade3da14

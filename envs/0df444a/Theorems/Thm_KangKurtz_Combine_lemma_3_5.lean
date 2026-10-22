@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KangKurtz_Combine_lemma_3_5
 -- name    : KangKurtz.Combine.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:43:35.197994+00:00
 -- url     : https://prove2.me/theorems/8c9ad522-8688-49c8-a907-14892c1e6858

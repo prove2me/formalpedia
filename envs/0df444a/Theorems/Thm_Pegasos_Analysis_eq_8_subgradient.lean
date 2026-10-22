@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_eq_8_subgradient
 -- name    : Pegasos.Analysis.eq_8_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:03.796116+00:00
 -- url     : https://prove2.me/theorems/8aa55c06-94dd-40f0-af97-cf7f30ed2892

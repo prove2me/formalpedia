@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_LPRecovery_lemma_2
 -- name    : LPCommunity.LPRecovery.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:37.662194+00:00
 -- url     : https://prove2.me/theorems/3e9d26a9-d32f-49a1-8f1c-a0c369a5dd69

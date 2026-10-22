@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexApproval_Statics_proposition_1
 -- name    : FlexApproval.Statics.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:36:59.227104+00:00
 -- url     : https://prove2.me/theorems/a982f3b2-7c0c-4f04-b85c-a67b4d16bcbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandSubstitution_Comparison_proposition6_ii_some_product_competitive_ge
 -- name    : DemandSubstitution.Comparison.proposition6_ii_some_product_competitive_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:43.546233+00:00
 -- url     : https://prove2.me/theorems/d63893b2-1a56-45b7-9690-0416207e990e

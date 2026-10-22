@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_Chain_inclusion_11
 -- name    : NecoaraNG.Chain.inclusion_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:46:53.983512+00:00
 -- url     : https://prove2.me/theorems/57bc296c-6c08-41d1-b04f-b65fc3d2c534

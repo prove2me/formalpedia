@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSchurRepresentation.schur_unitary_representation_apply
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:28:16.485096+00:00
 -- url     : https://prove2.me/submissions/f7f87d7e-90d4-4473-9ce7-3562ed3f7422
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSchurRepresentation.lean — solution of BookProof.ChapterSchurRepresentation.schur_unitary_representation_apply
 import Mathlib

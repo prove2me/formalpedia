@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_eqA4_jump
 -- name    : CommonOwnership.Governance.eqA4_jump
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:03.208983+00:00
 -- url     : https://prove2.me/theorems/3f4e50a5-3e7f-41b4-a2e2-a2313da1ee23

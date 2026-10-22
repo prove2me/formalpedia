@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgets_IdenticalPrefs_identical_all_po_no_anti
 -- name    : GenericBudgets.IdenticalPrefs.identical_all_po_no_anti
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:30:06.373643+00:00
 -- url     : https://prove2.me/theorems/b62b857f-03a9-4f82-b705-1f68b291cbaf

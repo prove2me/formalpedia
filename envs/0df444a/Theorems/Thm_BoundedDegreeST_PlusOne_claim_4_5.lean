@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedDegreeST_PlusOne_claim_4_5
 -- name    : BoundedDegreeST.PlusOne.claim_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:52:50.684991+00:00
 -- url     : https://prove2.me/theorems/7daae5cb-59b3-4166-b120-b7169b740b15

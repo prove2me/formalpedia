@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Nonstationary_theorem_6_4_nonmonotone_convergence_criterion
 -- name    : NumStochOpt.Nonstationary.theorem_6_4_nonmonotone_convergence_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T19:33:29.315037+00:00
 -- url     : https://prove2.me/theorems/91c03a19-da06-432d-bf94-6acd3f0d9ea5

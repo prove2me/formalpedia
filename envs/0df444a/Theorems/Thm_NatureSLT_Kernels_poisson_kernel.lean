@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_poisson_kernel
 -- name    : NatureSLT.Kernels.poisson_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:13.095622+00:00
 -- url     : https://prove2.me/theorems/26cd0860-d14a-46d6-8385-182f2d467157

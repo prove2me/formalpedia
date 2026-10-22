@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialDemandEq_Optimal_mu_step
 -- name    : SpatialDemandEq.Optimal.mu_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:00.587383+00:00
 -- url     : https://prove2.me/theorems/e719bb95-4aa1-4a4e-9c6b-db8381585a9b

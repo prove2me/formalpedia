@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_max_flow_iff_no_augmenting_path
 -- name    : FlowsNetworks.MaxFlow.max_flow_iff_no_augmenting_path
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:50.824995+00:00
 -- url     : https://prove2.me/theorems/9f6e96c8-eacf-4aea-b7a9-efe4bd9cd0ee

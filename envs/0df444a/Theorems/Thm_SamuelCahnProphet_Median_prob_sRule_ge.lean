@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_Median_prob_sRule_ge
 -- name    : SamuelCahnProphet.Median.prob_sRule_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:45.878208+00:00
 -- url     : https://prove2.me/theorems/985f1cf3-3c39-40e8-8606-c8c975010bbc

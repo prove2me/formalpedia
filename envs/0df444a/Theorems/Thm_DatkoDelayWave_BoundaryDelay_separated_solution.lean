@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_separated_solution
 -- name    : DatkoDelayWave.BoundaryDelay.separated_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:58:55.825994+00:00
 -- url     : https://prove2.me/theorems/41b5380a-2965-439f-9690-d2007127f22d

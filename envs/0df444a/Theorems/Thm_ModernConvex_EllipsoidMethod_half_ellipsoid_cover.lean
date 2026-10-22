@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_EllipsoidMethod_half_ellipsoid_cover
 -- name    : ModernConvex.EllipsoidMethod.half_ellipsoid_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:59.584404+00:00
 -- url     : https://prove2.me/theorems/ece9b62e-7816-4bec-8b3d-70cd41b39a35

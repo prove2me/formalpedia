@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_pne_bid_eq_fee_off_tight
 -- name    : TradingPostNSW.Leontief.pne_bid_eq_fee_off_tight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:20.336299+00:00
 -- url     : https://prove2.me/theorems/6fcad363-d58e-4cca-ba54-82c6de54e85c

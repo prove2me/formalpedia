@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityC_prop_3_30_argmin_nonempty_integer_valued
 -- name    : DiscreteConvex.IntegralConvexityC.prop_3_30_argmin_nonempty_integer_valued
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:13:14.754566+00:00
 -- url     : https://prove2.me/theorems/0f01a81c-d069-417d-8b5c-67b3c8a6d27d

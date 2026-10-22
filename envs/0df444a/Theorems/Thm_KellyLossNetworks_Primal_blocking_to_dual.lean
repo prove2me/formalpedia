@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Primal_blocking_to_dual
 -- name    : KellyLossNetworks.Primal.blocking_to_dual
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:07:27.431582+00:00
 -- url     : https://prove2.me/theorems/80a53e26-3311-4c2b-bcd0-8a8a12789cde

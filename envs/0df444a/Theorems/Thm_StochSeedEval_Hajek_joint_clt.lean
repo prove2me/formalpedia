@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSeedEval_Hajek_joint_clt
 -- name    : StochSeedEval.Hajek.joint_clt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:11.91805+00:00
 -- url     : https://prove2.me/theorems/2b53c911-342c-44e2-985b-0c2e7cd45c6f

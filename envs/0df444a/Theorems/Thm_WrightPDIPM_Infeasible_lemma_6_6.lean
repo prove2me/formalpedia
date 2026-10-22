@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Infeasible_lemma_6_6
 -- name    : WrightPDIPM.Infeasible.lemma_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:53:59.271784+00:00
 -- url     : https://prove2.me/theorems/7bbae2fb-ef46-403a-a5f5-aa159d7a5866

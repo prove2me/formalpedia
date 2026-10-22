@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_DP_greedy_policy_improves
 -- name    : SuttonBartoRL.DP.greedy_policy_improves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:50:58.812783+00:00
 -- url     : https://prove2.me/theorems/96bd5990-4fcf-4712-a1a0-741065cc0534

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_SqrtBound_constructed_feasible
 -- name    : AffinePolicies.SqrtBound.constructed_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:40:20.321479+00:00
 -- url     : https://prove2.me/theorems/73c0e2f0-78d5-4f0e-9a13-94367e5deeae

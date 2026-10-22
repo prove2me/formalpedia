@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_BundlingOpt_proposition_5
 -- name    : MultiItemRev.BundlingOpt.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:24:37.215462+00:00
 -- url     : https://prove2.me/theorems/ba82b3d8-7d4f-4988-9e76-d21179be1f30

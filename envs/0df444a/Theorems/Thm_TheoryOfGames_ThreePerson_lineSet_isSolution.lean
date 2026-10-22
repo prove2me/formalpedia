@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_lineSet_isSolution
 -- name    : TheoryOfGames.ThreePerson.lineSet_isSolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:37:47.574075+00:00
 -- url     : https://prove2.me/theorems/4886e360-b3d8-43ac-b69d-e9de0fdd592d

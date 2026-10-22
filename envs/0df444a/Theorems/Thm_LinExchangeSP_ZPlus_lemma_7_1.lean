@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinExchangeSP_ZPlus_lemma_7_1
 -- name    : LinExchangeSP.ZPlus.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:37.157137+00:00
 -- url     : https://prove2.me/theorems/0d747c15-3759-4ea7-8bcb-0d480a3e4928

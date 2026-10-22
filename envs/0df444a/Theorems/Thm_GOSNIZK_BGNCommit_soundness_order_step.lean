@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_soundness_order_step
 -- name    : GOSNIZK.BGNCommit.soundness_order_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:30.648885+00:00
 -- url     : https://prove2.me/theorems/84b5bd5c-befd-4b42-a96c-f94020dbc111

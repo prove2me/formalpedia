@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P19_coherent_cnot_equivalence
 -- name    : QAlgorithms.Papers.Independent.Support21.P19.coherent_cnot_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T05:02:05.745303+00:00
 -- url     : https://prove2.me/theorems/0dc53949-366b-4eb5-bd40-e993ff7af94b

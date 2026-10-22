@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_uniform_equilibrium
 -- name    : TwoSidedPD.Baseline.uniform_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:08.170988+00:00
 -- url     : https://prove2.me/theorems/f49424fe-c789-444b-a427-fc4c9f47d8c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_geometrization
 -- name    : NewtonCartan.geometrization
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-20T23:16:52.451723+00:00
 -- url     : https://prove2.me/theorems/8dbeff9c-40dd-49ea-89cf-5e7c63297750

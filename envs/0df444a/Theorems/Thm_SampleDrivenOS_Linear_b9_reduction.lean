@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Linear_b9_reduction
 -- name    : SampleDrivenOS.Linear.b9_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:31.236647+00:00
 -- url     : https://prove2.me/theorems/a95237c1-0f7f-4ca1-a2f8-3c022bc8e384

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_PostedLB_theorem_13
 -- name    : BudgetClock.PostedLB.theorem_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:24.415731+00:00
 -- url     : https://prove2.me/theorems/0cc60f1c-cf75-4ad0-839a-8552c86fd9c4

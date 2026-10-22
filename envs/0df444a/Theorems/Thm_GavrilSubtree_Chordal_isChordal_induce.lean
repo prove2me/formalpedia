@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GavrilSubtree_Chordal_isChordal_induce
 -- name    : GavrilSubtree.Chordal.isChordal_induce
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:54:25.917975+00:00
 -- url     : https://prove2.me/theorems/2cd22142-e248-4410-9a52-6f0b8ab86c87

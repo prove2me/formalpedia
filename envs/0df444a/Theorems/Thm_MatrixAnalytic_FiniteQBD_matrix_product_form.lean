@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FiniteQBD_matrix_product_form
 -- name    : MatrixAnalytic.FiniteQBD.matrix_product_form
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:03.035701+00:00
 -- url     : https://prove2.me/theorems/0fdc0580-ea3b-468f-b271-7dcdf8bf4193

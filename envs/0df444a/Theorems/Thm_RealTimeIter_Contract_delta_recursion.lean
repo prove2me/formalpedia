@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealTimeIter_Contract_delta_recursion
 -- name    : RealTimeIter.Contract.delta_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:57.030516+00:00
 -- url     : https://prove2.me/theorems/b388fda4-486c-458f-8db7-0254a839a513

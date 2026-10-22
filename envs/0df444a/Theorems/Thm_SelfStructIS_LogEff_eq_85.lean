@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfStructIS_LogEff_eq_85
 -- name    : SelfStructIS.LogEff.eq_85
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:16.371879+00:00
 -- url     : https://prove2.me/theorems/4d6f1246-3c67-460d-9651-a9af8163f260

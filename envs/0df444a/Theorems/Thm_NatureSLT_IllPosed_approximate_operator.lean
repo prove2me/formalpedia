@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_IllPosed_approximate_operator
 -- name    : NatureSLT.IllPosed.approximate_operator
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:51.85872+00:00
 -- url     : https://prove2.me/theorems/c3e413e1-2f27-4c72-a4ae-6fccb9fe2a3b

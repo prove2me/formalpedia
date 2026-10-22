@@ -635,10 +635,10 @@
 {"parent": "OAIAllFieldsSeparation.separationPolynomial_eval", "child": "OAI429_GenericSeparation", "via": ["solution", "statement"]}
 {"parent": "OAIAllFieldsSeparation.separationPolynomial_eval", "child": "OAIAllFieldsSeparation.finiteProjection_restrict", "via": ["solution", "statement"]}
 {"parent": "OAIAllFieldsSeparation.separationPolynomial_eval", "child": "mme_omega", "via": ["solution", "statement"]}
-{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_attractor", "via": ["statement"]}
-{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_cr_topology", "via": ["statement"]}
-{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_lebesgue_null", "via": ["statement"]}
-{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_vector_field", "via": ["statement"]}
+{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_attractor", "via": ["solution", "statement"]}
+{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_cr_topology", "via": ["solution", "statement"]}
+{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_lebesgue_null", "via": ["solution", "statement"]}
+{"parent": "PalisConjecture.exists_unique_flow", "child": "palis_vector_field", "via": ["solution", "statement"]}
 {"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_attractor", "via": ["solution", "statement"]}
 {"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_cr_topology", "via": ["statement"]}
 {"parent": "PalisConjecture.identity_not_finitely_many_attractors", "child": "palis_lebesgue_null", "via": ["solution", "statement"]}

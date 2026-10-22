@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SMR_stilde_exists
 -- name    : MultiStoreAssort.SMR.stilde_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:07.350849+00:00
 -- url     : https://prove2.me/theorems/5713c183-db04-401d-a645-a2d3ae3d2b3b

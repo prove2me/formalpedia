@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdContest_Pooling_eq_A_4
 -- name    : CrowdContest.Pooling.eq_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:11:40.834516+00:00
 -- url     : https://prove2.me/theorems/5154299a-caf2-450b-ad4e-9a9338600fc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactVacuumAtlas_EinsteinMaxwell_KN_einstein
 -- name    : ExactVacuumAtlas.EinsteinMaxwell.KN.einstein
--- status  : Open
+-- status  : Proved
 -- author  : @He Wang
 -- created : 2026-10-21T01:47:33.469982+00:00
 -- url     : https://prove2.me/theorems/b545232a-977a-41a6-8114-7131ce08f030

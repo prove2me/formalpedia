@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesOldNew_StateReduction_claim_1
 -- name    : LostSalesOldNew.StateReduction.claim_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:00:47.05274+00:00
 -- url     : https://prove2.me/theorems/2ca9d816-48f7-45a8-8156-d3c65fe27dbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCSPBLPAff_Characterization_minion_laws
 -- name    : PCSPBLPAff.Characterization.minion_laws
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:35.362009+00:00
 -- url     : https://prove2.me/theorems/427dc2ff-7141-45bd-bd1a-37358e7e026d

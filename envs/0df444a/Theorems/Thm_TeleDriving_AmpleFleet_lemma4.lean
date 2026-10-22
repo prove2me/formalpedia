@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_AmpleFleet_lemma4
 -- name    : TeleDriving.AmpleFleet.lemma4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:36.701639+00:00
 -- url     : https://prove2.me/theorems/786cec7e-e75a-4fa7-8ae9-5cc4017f9792

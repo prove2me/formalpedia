@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Moments_pareto_nthMoment_lt_top_iff
 -- name    : LariviereIGFR.Moments.pareto_nthMoment_lt_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:59.224147+00:00
 -- url     : https://prove2.me/theorems/95ba159e-ca48-4af2-92d9-4d50f60c5cc8

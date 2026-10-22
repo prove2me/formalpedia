@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinNetProp_Mitosis_eisenberg_noe_unique
 -- name    : FinNetProp.Mitosis.eisenberg_noe_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:38.603984+00:00
 -- url     : https://prove2.me/theorems/d998a4c6-2d4a-46bb-8854-90d4f270a753

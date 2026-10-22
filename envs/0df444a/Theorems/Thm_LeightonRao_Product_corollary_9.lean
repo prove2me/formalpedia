@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Product_corollary_9
 -- name    : LeightonRao.Product.corollary_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:22:02.042004+00:00
 -- url     : https://prove2.me/theorems/8800dcc3-7ab5-4a47-8c77-eca21a9a06a0

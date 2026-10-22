@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos142_leng_sah_sawhney
 -- name    : Erdos142.leng_sah_sawhney
--- status  : Open
+-- status  : Proved
 -- author  : @Zexuan Liu
 -- created : 2026-09-10T00:41:23.996479+00:00
 -- url     : https://prove2.me/theorems/c7120a4b-1fbb-47dc-bb1b-551db4e9384a

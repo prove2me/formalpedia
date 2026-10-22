@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Repeated_relation_23
 -- name    : RobustPoA.Repeated.relation_23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:36:45.777135+00:00
 -- url     : https://prove2.me/theorems/ba5b9c79-6f1e-4640-b1f4-a9cb34dcd801

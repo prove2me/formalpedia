@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MultiTerminal_maximal_spanning_subtree_iff
 -- name    : FlowsNetworks.MultiTerminal.maximal_spanning_subtree_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:02.880927+00:00
 -- url     : https://prove2.me/theorems/31d2dacd-b498-46c3-bba9-9e57ed0def6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactVacuumAtlas_Variation_KN_param_tangent
 -- name    : ExactVacuumAtlas.Variation.KN.param_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @He Wang
 -- created : 2026-10-21T01:50:59.617456+00:00
 -- url     : https://prove2.me/theorems/4303e716-668d-4404-a3ee-7e95fc7b5fe6

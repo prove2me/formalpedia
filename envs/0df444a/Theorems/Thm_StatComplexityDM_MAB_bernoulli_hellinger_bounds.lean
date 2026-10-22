@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_MAB_bernoulli_hellinger_bounds
 -- name    : StatComplexityDM.MAB.bernoulli_hellinger_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:11.008423+00:00
 -- url     : https://prove2.me/theorems/41b5881f-9a15-4e73-acbf-06c23ec4fc2f

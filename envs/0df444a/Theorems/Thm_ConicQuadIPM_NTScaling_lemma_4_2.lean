@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicQuadIPM_NTScaling_lemma_4_2
 -- name    : ConicQuadIPM.NTScaling.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:09:55.574878+00:00
 -- url     : https://prove2.me/theorems/9e1f90e5-723d-4069-a311-a5d65bf15266

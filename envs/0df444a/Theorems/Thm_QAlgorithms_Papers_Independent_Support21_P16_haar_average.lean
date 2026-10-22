@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_haar_average
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.haar_average
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:44:47.606602+00:00
 -- url     : https://prove2.me/theorems/69bc4e55-165f-413d-b6f4-7c69b682ba8d

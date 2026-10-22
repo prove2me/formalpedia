@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_CentralPath_theorem_2_8
 -- name    : WrightPDIPM.CentralPath.theorem_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:53.396997+00:00
 -- url     : https://prove2.me/theorems/798d911e-b6ce-4d0d-a398-79e4bf07aded

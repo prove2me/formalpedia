@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_finite_dimensional_tensors
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.finite_dimensional_tensors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:57:50.119355+00:00
 -- url     : https://prove2.me/theorems/64d240ec-007a-4017-a59d-6fc03231bae4

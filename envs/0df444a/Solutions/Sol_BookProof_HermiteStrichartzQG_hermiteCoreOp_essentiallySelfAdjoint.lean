@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.HermiteStrichartzQG.hermiteCoreOp_essentiallySelfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:12:02.250335+00:00
 -- url     : https://prove2.me/submissions/cd85d9e3-a12d-4f62-b9de-a9f5aa8f35ec
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterStrichartzHermiteQG.lean — solution of BookProof.HermiteStrichartzQG.hermiteCoreOp_essentiallySelfAdjoint
 import Mathlib

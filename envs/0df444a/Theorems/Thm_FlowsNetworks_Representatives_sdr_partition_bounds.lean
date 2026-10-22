@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_sdr_partition_bounds
 -- name    : FlowsNetworks.Representatives.sdr_partition_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:34.468808+00:00
 -- url     : https://prove2.me/theorems/3eddc210-07f7-47a8-a7af-a385f2f7af38

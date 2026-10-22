@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Ellipsoids_sum_containment_sdp
 -- name    : ModernConvex.Ellipsoids.sum_containment_sdp
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:59.176694+00:00
 -- url     : https://prove2.me/theorems/27b58991-97ad-4f1f-87f2-25a6afa8e119

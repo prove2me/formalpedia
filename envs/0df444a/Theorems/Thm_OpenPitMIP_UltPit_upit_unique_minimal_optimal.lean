@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_UltPit_upit_unique_minimal_optimal
 -- name    : OpenPitMIP.UltPit.upit_unique_minimal_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:35.404742+00:00
 -- url     : https://prove2.me/theorems/ef2aa519-b136-43cf-994a-440247ccacf2

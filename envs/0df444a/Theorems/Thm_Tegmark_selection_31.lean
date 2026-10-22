@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Tegmark_selection_31
 -- name    : Tegmark.selection_31
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T04:19:32.471705+00:00
 -- url     : https://prove2.me/theorems/1fa83112-4d13-453f-b816-8f6c2795cf18

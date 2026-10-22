@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Stitch_theorem_2
 -- name    : ConstrNestedLogit.Stitch.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:24.955141+00:00
 -- url     : https://prove2.me/theorems/d3a62ddf-351b-4e85-8582-c1a6eb3d353d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROReview_PhiDiv_kl_le_j
 -- name    : DROReview.PhiDiv.kl_le_j
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:17:01.744544+00:00
 -- url     : https://prove2.me/theorems/2912d7a5-bd26-403c-a650-ced0b24d21e4

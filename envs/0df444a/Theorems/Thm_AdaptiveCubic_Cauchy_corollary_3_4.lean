@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveCubic_Cauchy_corollary_3_4
 -- name    : AdaptiveCubic.Cauchy.corollary_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:00.914492+00:00
 -- url     : https://prove2.me/theorems/3e9bad40-8a61-4f41-99f9-3e921fc15f47

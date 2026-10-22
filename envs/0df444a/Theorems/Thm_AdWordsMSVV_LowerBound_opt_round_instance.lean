@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_LowerBound_opt_round_instance
 -- name    : AdWordsMSVV.LowerBound.opt_round_instance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:54.24098+00:00
 -- url     : https://prove2.me/theorems/fe7cbf80-2043-4ef1-ba70-86d0100c1a23

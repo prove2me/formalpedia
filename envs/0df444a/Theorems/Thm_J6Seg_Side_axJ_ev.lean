@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_Side_axJ_ev
 -- name    : J6Seg.Side.axJ_ev
--- status  : Open
--- author  : @Ethan
+-- status  : Proved
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:46:19.172806+00:00
 -- url     : https://prove2.me/theorems/2a79c35d-b830-4695-86fc-444e6f4d3917
 -- title:

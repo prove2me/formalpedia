@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FiniteQBD_restricted_process
 -- name    : MatrixAnalytic.FiniteQBD.restricted_process
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:45:57.202541+00:00
 -- url     : https://prove2.me/theorems/52dc4856-4216-43d3-aa33-3858f69ff78e

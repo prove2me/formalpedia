@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Diag_primal_dual_gradient_term
 -- name    : AdaGrad.Diag.primal_dual_gradient_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:31:14.120987+00:00
 -- url     : https://prove2.me/theorems/a46748f5-eb65-43a9-855f-4ed43b6f480f

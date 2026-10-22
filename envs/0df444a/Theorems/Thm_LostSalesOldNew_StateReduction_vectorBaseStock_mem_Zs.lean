@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesOldNew_StateReduction_vectorBaseStock_mem_Zs
 -- name    : LostSalesOldNew.StateReduction.vectorBaseStock_mem_Zs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:00:30.333389+00:00
 -- url     : https://prove2.me/theorems/c1494205-f507-45f6-9836-2c82afd44adb

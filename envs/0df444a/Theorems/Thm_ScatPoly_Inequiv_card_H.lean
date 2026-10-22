@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatPoly_Inequiv_card_H
 -- name    : ScatPoly.Inequiv.card_H
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:09:54.679711+00:00
 -- url     : https://prove2.me/theorems/20070b2e-750d-4d80-94eb-5095b9fea4b3

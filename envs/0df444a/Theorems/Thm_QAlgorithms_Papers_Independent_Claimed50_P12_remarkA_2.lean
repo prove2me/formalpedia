@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P12_remarkA_2
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P12.remarkA_2
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:46:26.46019+00:00
 -- url     : https://prove2.me/theorems/88cde522-5117-47b1-adc0-1806401bd671

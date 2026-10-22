@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P38_coherentInformation_convexCombination
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P38.coherentInformation_convexCombination
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:44:26.040802+00:00
 -- url     : https://prove2.me/theorems/5726b8ca-733f-453a-b5fe-ffd49cb8d8f3

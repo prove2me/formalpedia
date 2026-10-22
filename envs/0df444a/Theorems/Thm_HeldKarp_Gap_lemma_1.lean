@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeldKarp_Gap_lemma_1
 -- name    : HeldKarp.Gap.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:00.756798+00:00
 -- url     : https://prove2.me/theorems/8fb805bb-fafe-4e17-bdfc-fe07149a8451

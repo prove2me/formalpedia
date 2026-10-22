@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Gerver_monotone_container
 -- name    : Gerver.monotone_container
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-19T20:09:24.626633+00:00
 -- url     : https://prove2.me/theorems/0c8b657d-8b18-4d93-be82-538bf4c779c8

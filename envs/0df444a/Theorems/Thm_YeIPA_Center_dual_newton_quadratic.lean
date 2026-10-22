@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Center_dual_newton_quadratic
 -- name    : YeIPA.Center.dual_newton_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:54.155609+00:00
 -- url     : https://prove2.me/theorems/21d8f060-ba5d-4b76-a462-0441f6f39a0e

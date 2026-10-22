@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesOldNew_StateReduction_Xs_invariant
 -- name    : LostSalesOldNew.StateReduction.Xs_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:00:31.541438+00:00
 -- url     : https://prove2.me/theorems/63489a69-bedf-485b-80b6-8cf04b94a276

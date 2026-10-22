@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_allocation_sum_support_reduction
 -- name    : OAI.PiExponent.LiteralAnalytic.allocation_sum_support_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:13:18.804744+00:00
 -- url     : https://prove2.me/theorems/daaa4397-8707-4802-b1d8-bf9a1696fbd2

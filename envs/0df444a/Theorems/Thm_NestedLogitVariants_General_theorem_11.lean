@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitVariants_General_theorem_11
 -- name    : NestedLogitVariants.General.theorem_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:43:09.082918+00:00
 -- url     : https://prove2.me/theorems/6116d868-ab86-4be8-87e4-ebeb6dd84257

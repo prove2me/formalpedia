@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanKeskin_KnownSparsity_count_claim
 -- name    : BanKeskin.KnownSparsity.count_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:03.339932+00:00
 -- url     : https://prove2.me/theorems/360fd2d7-8d04-41f8-b3e1-3efe106d2bea

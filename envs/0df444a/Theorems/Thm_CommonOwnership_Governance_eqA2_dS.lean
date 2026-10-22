@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_eqA2_dS
 -- name    : CommonOwnership.Governance.eqA2_dS
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:54.034983+00:00
 -- url     : https://prove2.me/theorems/22b07a32-eb8c-4b5e-b51e-06f48c1de5fb

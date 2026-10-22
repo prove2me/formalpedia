@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBCPCVRP_Formulation_scaling_valid
 -- name    : RobustBCPCVRP.Formulation.scaling_valid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:41:55.983185+00:00
 -- url     : https://prove2.me/theorems/a2ed2fdc-9a27-4957-b2be-417f8d01114e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FordFulkerson56_Planar_exists_chain_meeting_cut_only_at
 -- name    : FordFulkerson56.Planar.exists_chain_meeting_cut_only_at
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:26:09.593577+00:00
 -- url     : https://prove2.me/theorems/24fdca00-2bb5-4ced-b4d3-9bcf62400e58

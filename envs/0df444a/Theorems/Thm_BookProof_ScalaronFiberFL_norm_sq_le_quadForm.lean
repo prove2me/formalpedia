@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFiberFL_norm_sq_le_quadForm
 -- name    : BookProof.ScalaronFiberFL.norm_sq_le_quadForm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:03:59.131128+00:00
 -- url     : https://prove2.me/theorems/70adf3e4-0e7d-476d-b9a5-1655dbe851b6

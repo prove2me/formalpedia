@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_zero_origin_gaussian_of_finite_small_jump_measure
 -- name    : AvramDividend.Classical.scaleFunction_zero_origin_gaussian_of_finite_small_jump_measure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T16:03:26.801343+00:00
 -- url     : https://prove2.me/theorems/16b2ff3e-9cf2-4670-b0c8-1b02194d3107

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexCommitRO_BoxExt_value_sandwich
 -- name    : FlexCommitRO.BoxExt.value_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:00:45.972849+00:00
 -- url     : https://prove2.me/theorems/9594ca99-7cee-473d-9398-abc7a7214abc

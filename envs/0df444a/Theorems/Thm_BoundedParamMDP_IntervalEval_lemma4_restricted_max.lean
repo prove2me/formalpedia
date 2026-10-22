@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedParamMDP_IntervalEval_lemma4_restricted_max
 -- name    : BoundedParamMDP.IntervalEval.lemma4_restricted_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:45.925993+00:00
 -- url     : https://prove2.me/theorems/300f4f1a-0bf2-4e21-a593-480e8993f895

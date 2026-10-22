@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_eta_nonpos
 -- name    : IwataFF.SFM.eta_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:18.08005+00:00
 -- url     : https://prove2.me/theorems/aa3c5d9a-b317-4851-ad56-6c35c6cb9ead

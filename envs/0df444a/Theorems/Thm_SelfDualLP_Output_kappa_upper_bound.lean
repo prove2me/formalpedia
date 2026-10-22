@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Output_kappa_upper_bound
 -- name    : SelfDualLP.Output.kappa_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:27:43.323235+00:00
 -- url     : https://prove2.me/theorems/4558a404-babc-4f51-ad6e-fdb223b628d3

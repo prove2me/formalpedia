@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_kraus_complement
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.kraus_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:41:49.208781+00:00
 -- url     : https://prove2.me/theorems/85d43912-a670-40fc-8d1f-bd258e8d5a68

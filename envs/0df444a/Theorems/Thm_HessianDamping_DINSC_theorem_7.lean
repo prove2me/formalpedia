@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_DINSC_theorem_7
 -- name    : HessianDamping.DINSC.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:06:57.684988+00:00
 -- url     : https://prove2.me/theorems/5e9e1edf-05fc-43f6-92a0-4aff60618080

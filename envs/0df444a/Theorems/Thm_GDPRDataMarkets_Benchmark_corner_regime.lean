@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Benchmark_corner_regime
 -- name    : GDPRDataMarkets.Benchmark.corner_regime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:58.565987+00:00
 -- url     : https://prove2.me/theorems/b09c7229-1702-4c67-bcdb-1bee54fb4316

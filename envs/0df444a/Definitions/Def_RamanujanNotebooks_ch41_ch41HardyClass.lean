@@ -17,7 +17,7 @@
 --   Reference: `ψ(s) = 1` satisfies it with every `δ`, `P = 0`, `A = 0`; `ψ(s) = 1/Γ(s + 1)`
 --   satisfies it for `0 < δ < 1` with `P = 0` and any `π/2 < A < π`.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Chapter 41.
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Ramanujan’s Quarterly Reports, First Report, §1.3, Hardy’s analytic and growth conditions (1.3), p. 299.
 
 import Mathlib
 

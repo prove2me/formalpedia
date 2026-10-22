@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfo_Exclusive_proposition_1_uniqueness
 -- name    : FarmerInfo.Exclusive.proposition_1_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:48.97268+00:00
 -- url     : https://prove2.me/theorems/4c34d2e1-6998-41b8-85d2-07166e39c2ac

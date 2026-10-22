@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Uniform_lemma_3
 -- name    : LeightonRao.Uniform.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:27:01.176595+00:00
 -- url     : https://prove2.me/theorems/76264a42-abc3-482e-ade6-a4877407d961

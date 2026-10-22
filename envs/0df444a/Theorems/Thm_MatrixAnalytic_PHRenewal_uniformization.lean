@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PHRenewal_uniformization
 -- name    : MatrixAnalytic.PHRenewal.uniformization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:24.323823+00:00
 -- url     : https://prove2.me/theorems/be6ec562-5549-4b60-8cbd-71798e1978a0

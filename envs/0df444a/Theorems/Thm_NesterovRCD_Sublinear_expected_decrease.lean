@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Sublinear_expected_decrease
 -- name    : NesterovRCD.Sublinear.expected_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:56.904841+00:00
 -- url     : https://prove2.me/theorems/a9488547-21c9-4448-ab10-9cdda9a75b32

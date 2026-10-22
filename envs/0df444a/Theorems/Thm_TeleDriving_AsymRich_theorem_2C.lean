@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_AsymRich_theorem_2C
 -- name    : TeleDriving.AsymRich.theorem_2C
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:37.588987+00:00
 -- url     : https://prove2.me/theorems/51c5a503-fb06-401b-ba2b-bbe99277f581

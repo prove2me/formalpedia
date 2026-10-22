@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Tegmark_predictable_m1
 -- name    : Tegmark.predictable_m1
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T04:17:16.573553+00:00
 -- url     : https://prove2.me/theorems/b396678a-c0ec-4cf8-aedc-1bf5aa9ce149

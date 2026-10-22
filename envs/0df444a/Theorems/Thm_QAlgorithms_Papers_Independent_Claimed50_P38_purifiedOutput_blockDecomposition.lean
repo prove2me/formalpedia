@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P38_purifiedOutput_blockDecomposition
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P38.purifiedOutput_blockDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:43:03.359812+00:00
 -- url     : https://prove2.me/theorems/3600423e-be6c-4864-8312-7ff8f0db7751

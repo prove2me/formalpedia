@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Aggregating_theorem_11_5
 -- name    : ModernOnlineLearning.Aggregating.theorem_11_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:32.552234+00:00
 -- url     : https://prove2.me/theorems/32564699-e48a-4736-97a1-4978902e0024

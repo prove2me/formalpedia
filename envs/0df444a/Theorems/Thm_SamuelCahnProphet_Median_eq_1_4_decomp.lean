@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_Median_eq_1_4_decomp
 -- name    : SamuelCahnProphet.Median.eq_1_4_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:37.011837+00:00
 -- url     : https://prove2.me/theorems/f6279265-dee3-4cf4-bb23-17b045205347

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Cumul_psi_solves
 -- name    : KendallBD.Cumul.psi_solves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:26:39.069994+00:00
 -- url     : https://prove2.me/theorems/7bef10ed-5b56-40c9-a550-daea6f30472a

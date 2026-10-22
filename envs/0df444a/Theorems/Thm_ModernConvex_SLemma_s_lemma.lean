@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_s_lemma
 -- name    : ModernConvex.SLemma.s_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:03.975042+00:00
 -- url     : https://prove2.me/theorems/9ad6aebc-7249-4f5e-8be5-ff764ee4670a

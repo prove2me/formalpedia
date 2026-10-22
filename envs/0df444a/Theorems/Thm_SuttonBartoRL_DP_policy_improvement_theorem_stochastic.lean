@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_DP_policy_improvement_theorem_stochastic
 -- name    : SuttonBartoRL.DP.policy_improvement_theorem_stochastic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:51:07.129379+00:00
 -- url     : https://prove2.me/theorems/ec41f016-dc48-4ee8-ba60-cbf3fb88cf41

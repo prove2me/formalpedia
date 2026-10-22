@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_PrivateInfo_corollary_4_welfare_display
 -- name    : AcquihiringMonopsony.PrivateInfo.corollary_4_welfare_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:08:45.39412+00:00
 -- url     : https://prove2.me/theorems/b79a6ec3-7a68-47ad-9788-2c3550414974

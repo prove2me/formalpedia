@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Abelian_theorem_1_5
 -- name    : PlunneckeType.Abelian.theorem_1_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:33.443713+00:00
 -- url     : https://prove2.me/theorems/08574d96-c323-44ba-9431-5431e33d03c4

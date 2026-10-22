@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjExtremal_scaled_weak_duality
 -- name    : MinimaxSLP.ObjExtremal.scaled_weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:14:56.102071+00:00
 -- url     : https://prove2.me/theorems/466a1509-8eac-40b2-9fda-171d5951b328

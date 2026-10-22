@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_allocation_sum_filter_zero_coords
 -- name    : OAI.PiExponent.LiteralAnalytic.allocation_sum_filter_zero_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:20:04.897714+00:00
 -- url     : https://prove2.me/theorems/e0c968ff-4e94-4a04-92cb-738ec46d72c4

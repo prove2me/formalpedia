@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_pmatcher_identity
 -- name    : SourceTheory.EqualSources.pmatcher_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:16.649178+00:00
 -- url     : https://prove2.me/theorems/1f085f4e-a893-4a71-8d73-feb85ae28fa7

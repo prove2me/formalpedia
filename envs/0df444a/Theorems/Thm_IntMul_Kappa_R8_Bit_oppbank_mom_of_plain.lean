@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_Bit_oppbank_mom_of_plain
 -- name    : IntMul.Kappa.R8.Bit.oppbank_mom_of_plain
 -- status  : Open
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:17:11.802099+00:00
 -- url     : https://prove2.me/theorems/b40cfe62-1258-4b45-aede-41e7ad60d5fe
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_ImprovedJS_construction_5_step_2
 -- name    : FuzzyExtractors.ImprovedJS.construction_5_step_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:40.398561+00:00
 -- url     : https://prove2.me/theorems/8c13ab2f-1fbc-4556-bdd6-a329e2d76ce5

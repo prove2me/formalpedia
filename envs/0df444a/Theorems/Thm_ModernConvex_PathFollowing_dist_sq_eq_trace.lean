@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_dist_sq_eq_trace
 -- name    : ModernConvex.PathFollowing.dist_sq_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:44.943904+00:00
 -- url     : https://prove2.me/theorems/035391ca-1f71-4f18-9305-91d63dec61c3

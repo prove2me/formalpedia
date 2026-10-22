@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_LevelSet_eq_19
 -- name    : MultivarScores.LevelSet.eq_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:58.696182+00:00
 -- url     : https://prove2.me/theorems/7cf0ea37-a9dd-4558-87fb-9c1b39e703ff

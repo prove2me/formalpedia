@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_ImportanceSampling_return_eq_flat_partial_returns
 -- name    : SuttonBartoRL.ImportanceSampling.return_eq_flat_partial_returns
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:30:56.380983+00:00
 -- url     : https://prove2.me/theorems/eccb2431-1717-48d8-bcc0-74735c282d4a

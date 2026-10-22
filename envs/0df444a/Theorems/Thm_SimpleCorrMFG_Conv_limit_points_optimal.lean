@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleCorrMFG_Conv_limit_points_optimal
 -- name    : SimpleCorrMFG.Conv.limit_points_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:28.540998+00:00
 -- url     : https://prove2.me/theorems/e09abaaa-bc5d-4270-a02c-81a860579457

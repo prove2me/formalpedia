@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_InsensMatch_weight_comparison
 -- name    : SourceTheory.InsensMatch.weight_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:15.218984+00:00
 -- url     : https://prove2.me/theorems/2a916f77-29d1-4e03-9bfe-f87071728459

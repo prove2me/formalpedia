@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P19_cnot_simultaneous
 -- name    : QAlgorithms.Papers.Independent.Support21.P19.cnot_simultaneous
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T05:01:02.330067+00:00
 -- url     : https://prove2.me/theorems/862569b8-8327-4ede-a457-e96093f9c52a

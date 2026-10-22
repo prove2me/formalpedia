@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_CumDamage_proof34_transfer
 -- name    : ShockWear.CumDamage.proof34_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:48:04.38272+00:00
 -- url     : https://prove2.me/theorems/2278065c-041f-4bb0-b809-cafa5d7b4113

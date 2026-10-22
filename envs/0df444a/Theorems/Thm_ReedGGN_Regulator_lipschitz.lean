@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_lipschitz
 -- name    : ReedGGN.Regulator.lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:04.445373+00:00
 -- url     : https://prove2.me/theorems/afbb2f1a-54d9-4e75-936b-ea02b7e64934

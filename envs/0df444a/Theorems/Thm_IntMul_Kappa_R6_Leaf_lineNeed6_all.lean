@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_Leaf_lineNeed6_all
 -- name    : IntMul.Kappa.R6.Leaf.lineNeed6_all
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-20T23:14:09.045058+00:00
 -- url     : https://prove2.me/theorems/3854115e-758c-4f0e-a3b8-ba8103dc2ab7

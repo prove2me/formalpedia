@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_LPReduce_certificate
 -- name    : QZeroSum19.LPReduce.certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:57:44.093277+00:00
 -- url     : https://prove2.me/theorems/08206bf6-470c-4229-a12e-b9b5dd323ccb

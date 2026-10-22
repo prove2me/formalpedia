@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_WSR_K_monotone
 -- name    : RiskControl.WSR.K_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:36:41.65377+00:00
 -- url     : https://prove2.me/theorems/10c8cecf-0c22-4c29-a338-a82f8135693f

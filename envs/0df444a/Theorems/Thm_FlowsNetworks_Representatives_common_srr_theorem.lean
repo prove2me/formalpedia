@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_common_srr_theorem
 -- name    : FlowsNetworks.Representatives.common_srr_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:48.005893+00:00
 -- url     : https://prove2.me/theorems/10c572a1-0c49-446f-993f-9f7642d03b05

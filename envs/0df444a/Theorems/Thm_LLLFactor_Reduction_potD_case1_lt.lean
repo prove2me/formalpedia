@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Reduction_potD_case1_lt
 -- name    : LLLFactor.Reduction.potD_case1_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:26.254243+00:00
 -- url     : https://prove2.me/theorems/ba0c246a-c24f-4308-9072-596855a1a6b4

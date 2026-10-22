@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticQuote_Clairvoyant_block_stationary
 -- name    : StaticQuote.Clairvoyant.block_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:11.485444+00:00
 -- url     : https://prove2.me/theorems/adf53ba5-7298-407e-a328-db111794b10d

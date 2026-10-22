@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_eq2_publisher_profit
 -- name    : NewsBundling.Unilateral.eq2_publisher_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:54.480744+00:00
 -- url     : https://prove2.me/theorems/c86783f7-9873-4e91-9754-4e3d52924aac

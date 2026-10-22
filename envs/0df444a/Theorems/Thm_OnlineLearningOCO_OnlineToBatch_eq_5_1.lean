@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_OnlineToBatch_eq_5_1
 -- name    : OnlineLearningOCO.OnlineToBatch.eq_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:24:51.202685+00:00
 -- url     : https://prove2.me/theorems/5ca7d2eb-d4b0-47cd-8b26-633cca8475aa

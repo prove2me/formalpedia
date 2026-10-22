@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Consistency_entropy_ratio_antitone
 -- name    : NatureSLT.Consistency.entropy_ratio_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:47.61111+00:00
 -- url     : https://prove2.me/theorems/edcb49b6-7ea7-4615-8828-1afbda64f9d4

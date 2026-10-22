@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Bilinear_minors_vanish_iff_proportional
 -- name    : TensorNP.Bilinear.minors_vanish_iff_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:56.495002+00:00
 -- url     : https://prove2.me/theorems/65a99bc2-6852-417f-ba54-2f45b442dfd7

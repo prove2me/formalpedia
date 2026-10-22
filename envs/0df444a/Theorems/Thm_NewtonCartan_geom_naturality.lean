@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_geom_naturality
 -- name    : NewtonCartan.geom_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-20T23:17:37.146961+00:00
 -- url     : https://prove2.me/theorems/d3ab322d-c0e1-4198-9ea5-9015ec47d4a7

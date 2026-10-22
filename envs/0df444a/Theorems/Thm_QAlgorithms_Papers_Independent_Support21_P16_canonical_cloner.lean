@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_canonical_cloner
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.canonical_cloner
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:39:26.845598+00:00
 -- url     : https://prove2.me/theorems/f1f35656-f6e5-48db-aa57-6a441145c202

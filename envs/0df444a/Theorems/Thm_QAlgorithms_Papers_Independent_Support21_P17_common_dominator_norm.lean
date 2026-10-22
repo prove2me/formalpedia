@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P17_common_dominator_norm
 -- name    : QAlgorithms.Papers.Independent.Support21.P17.common_dominator_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:52:11.167279+00:00
 -- url     : https://prove2.me/theorems/a6ab193c-1b63-4ace-927f-c0a3a54c4764

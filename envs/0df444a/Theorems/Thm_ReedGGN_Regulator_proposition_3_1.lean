@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_proposition_3_1
 -- name    : ReedGGN.Regulator.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:28.883198+00:00
 -- url     : https://prove2.me/theorems/9a92286e-3df0-44de-962e-d8ff50c84645

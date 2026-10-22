@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P34_hermiticity_preserving_commutes_adjoint
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P34.hermiticity_preserving_commutes_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:51:55.2054+00:00
 -- url     : https://prove2.me/theorems/723106f0-71bb-4c0a-9af3-891cac67bfd4

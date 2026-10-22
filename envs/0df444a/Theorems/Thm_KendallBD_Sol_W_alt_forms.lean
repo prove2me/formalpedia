@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Sol_W_alt_forms
 -- name    : KendallBD.Sol.W_alt_forms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:25:37.904826+00:00
 -- url     : https://prove2.me/theorems/af3b5238-d11e-4d1e-a163-518cb907c634

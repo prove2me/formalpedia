@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_linkage_orthogonal_projectors
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.linkage_orthogonal_projectors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:34:17.655986+00:00
 -- url     : https://prove2.me/theorems/2890e3b5-8b20-4e37-bc8f-5b9c673e8b86

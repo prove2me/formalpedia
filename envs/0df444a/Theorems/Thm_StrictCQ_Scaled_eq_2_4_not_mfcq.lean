@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_Scaled_eq_2_4_not_mfcq
 -- name    : StrictCQ.Scaled.eq_2_4_not_mfcq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:57:44.21488+00:00
 -- url     : https://prove2.me/theorems/879b1c17-4690-4bb6-9221-fc6571c6e2f6

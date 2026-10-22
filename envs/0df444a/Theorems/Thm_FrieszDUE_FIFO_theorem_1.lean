@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrieszDUE_FIFO_theorem_1
 -- name    : FrieszDUE.FIFO.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:21:56.253097+00:00
 -- url     : https://prove2.me/theorems/e59665a2-4314-445d-a3fc-611802bf5e48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithHitAndRun_SymMixing_lemma_1_uniform_stationary
 -- name    : SmithHitAndRun.SymMixing.lemma_1_uniform_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:13:01.287994+00:00
 -- url     : https://prove2.me/theorems/611f54d5-7bb6-46f3-b723-4ae1bd9f24f8

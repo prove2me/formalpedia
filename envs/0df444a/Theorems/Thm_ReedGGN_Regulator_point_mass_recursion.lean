@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_point_mass_recursion
 -- name    : ReedGGN.Regulator.point_mass_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:01.409418+00:00
 -- url     : https://prove2.me/theorems/229846d0-57a9-4cd5-8224-be71b4cc3a01

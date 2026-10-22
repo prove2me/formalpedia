@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_DynamicFlow_chain_length_bound
 -- name    : FlowsNetworks.DynamicFlow.chain_length_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:59.808016+00:00
 -- url     : https://prove2.me/theorems/4170ea17-51bb-4e93-a067-ea043f4f2d56

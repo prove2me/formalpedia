@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpConeIPM_Curvature_witness_mem
 -- name    : ExpConeIPM.Curvature.witness_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:06:31.693896+00:00
 -- url     : https://prove2.me/theorems/5b372064-25fb-43ad-b340-c0d3c7a49f9a

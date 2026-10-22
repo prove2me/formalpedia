@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticQuote_Clairvoyant_eq_14
 -- name    : StaticQuote.Clairvoyant.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:07.931359+00:00
 -- url     : https://prove2.me/theorems/28c679ec-c846-4d76-9a19-660cb68004bc

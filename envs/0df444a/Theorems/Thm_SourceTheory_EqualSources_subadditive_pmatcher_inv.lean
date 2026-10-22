@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_subadditive_pmatcher_inv
 -- name    : SourceTheory.EqualSources.subadditive_pmatcher_inv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:08.947515+00:00
 -- url     : https://prove2.me/theorems/d74951e9-a37b-45eb-9414-78ab1d7008d9

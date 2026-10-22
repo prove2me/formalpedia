@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Vertices_prop_3_4_cycle_perturbation
 -- name    : CompOT.Vertices.prop_3_4_cycle_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:24.414248+00:00
 -- url     : https://prove2.me/theorems/80c1aa6c-0623-4433-9581-637e6f116a01

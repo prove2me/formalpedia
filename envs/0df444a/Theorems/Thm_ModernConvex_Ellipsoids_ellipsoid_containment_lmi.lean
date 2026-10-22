@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Ellipsoids_ellipsoid_containment_lmi
 -- name    : ModernConvex.Ellipsoids.ellipsoid_containment_lmi
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:52.504879+00:00
 -- url     : https://prove2.me/theorems/220fdd9e-23d8-4dac-b988-012caa0c6fe4

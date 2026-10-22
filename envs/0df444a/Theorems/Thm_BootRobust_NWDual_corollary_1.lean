@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_NWDual_corollary_1
 -- name    : BootRobust.NWDual.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:09.032982+00:00
 -- url     : https://prove2.me/theorems/52805834-6468-459f-830f-a2e975aad6e1

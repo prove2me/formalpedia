@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_Attenuation_lemma_3
 -- name    : OfflineStochMatch.Attenuation.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:57.326876+00:00
 -- url     : https://prove2.me/theorems/1ad36ce5-bfc4-4a16-8412-0174076c0468

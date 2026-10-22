@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_nuclear_characterization
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.nuclear_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:54:59.686518+00:00
 -- url     : https://prove2.me/theorems/24f47c80-92c8-4e8d-8e28-0df35c394243

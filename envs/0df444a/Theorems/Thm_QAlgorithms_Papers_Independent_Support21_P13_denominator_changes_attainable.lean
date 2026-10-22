@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_denominator_changes_attainable
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.denominator_changes_attainable
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:21:00.054276+00:00
 -- url     : https://prove2.me/theorems/5a03d1fe-ffe1-457c-8288-b915d65fb34a

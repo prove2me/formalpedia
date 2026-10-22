@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Imperfect_eq_179
 -- name    : DQI.Imperfect.eq_179
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:04:05.794972+00:00
 -- url     : https://prove2.me/theorems/23a3af49-5e1d-4307-9d0c-cfd7ae8a22bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_StochComposite_lemma_5
 -- name    : NonconvexAG.StochComposite.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:24:01.093985+00:00
 -- url     : https://prove2.me/theorems/40c4e105-7328-4996-85d0-ec6a4f5c181b

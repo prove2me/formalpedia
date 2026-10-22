@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P02_diagonal_inverse_averages
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P02.diagonal_inverse_averages
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:11:47.878095+00:00
 -- url     : https://prove2.me/theorems/a40a45b4-93d2-4bce-8651-cf4ed12d0d8b

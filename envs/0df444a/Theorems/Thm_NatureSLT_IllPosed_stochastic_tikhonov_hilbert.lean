@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_IllPosed_stochastic_tikhonov_hilbert
 -- name    : NatureSLT.IllPosed.stochastic_tikhonov_hilbert
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:50.536976+00:00
 -- url     : https://prove2.me/theorems/68eff2c8-2253-45df-ada9-d27e505e2199

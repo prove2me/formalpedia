@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_LevelSet_cdf_level_set_consistent
 -- name    : MultivarScores.LevelSet.cdf_level_set_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:49.944022+00:00
 -- url     : https://prove2.me/theorems/d104e626-8fb3-4cfd-8e7e-848665185ee2

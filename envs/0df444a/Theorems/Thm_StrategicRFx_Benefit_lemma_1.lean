@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicRFx_Benefit_lemma_1
 -- name    : StrategicRFx.Benefit.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:01.55489+00:00
 -- url     : https://prove2.me/theorems/3f5fd014-13a0-4bd4-8343-acf85e1870c1

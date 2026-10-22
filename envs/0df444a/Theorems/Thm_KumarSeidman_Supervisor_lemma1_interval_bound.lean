@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Supervisor_lemma1_interval_bound
 -- name    : KumarSeidman.Supervisor.lemma1_interval_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:46.897783+00:00
 -- url     : https://prove2.me/theorems/7a6b534f-4755-4743-8fc8-5bf167a946d9

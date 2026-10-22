@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_LevelOrder_prob_pos_of_assigned
 -- name    : ReliableFacilityLoc.LevelOrder.prob_pos_of_assigned
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:09:17.230426+00:00
 -- url     : https://prove2.me/theorems/16b8ed7c-7f65-4593-a109-adaa86cfaea1

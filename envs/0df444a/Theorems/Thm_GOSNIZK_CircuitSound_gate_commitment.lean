@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_CircuitSound_gate_commitment
 -- name    : GOSNIZK.CircuitSound.gate_commitment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:28.776011+00:00
 -- url     : https://prove2.me/theorems/5d9fd80e-f25d-4e51-b730-ae354f099359

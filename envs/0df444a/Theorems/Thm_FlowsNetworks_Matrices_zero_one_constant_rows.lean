@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Matrices_zero_one_constant_rows
 -- name    : FlowsNetworks.Matrices.zero_one_constant_rows
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:53.554739+00:00
 -- url     : https://prove2.me/theorems/7f4b8398-af82-4995-a2e6-25706595b89c

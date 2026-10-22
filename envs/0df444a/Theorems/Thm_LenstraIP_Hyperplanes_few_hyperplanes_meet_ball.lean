@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LenstraIP_Hyperplanes_few_hyperplanes_meet_ball
 -- name    : LenstraIP.Hyperplanes.few_hyperplanes_meet_ball
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:03:39.275832+00:00
 -- url     : https://prove2.me/theorems/ecfc67df-e92f-4162-8f54-1e202b5259d5

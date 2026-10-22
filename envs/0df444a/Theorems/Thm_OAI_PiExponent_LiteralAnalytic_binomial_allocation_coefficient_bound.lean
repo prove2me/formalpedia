@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_binomial_allocation_coefficient_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.binomial_allocation_coefficient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:35:47.467501+00:00
 -- url     : https://prove2.me/theorems/1721c062-4ff9-40bc-a4d7-9f9106bb4f6a

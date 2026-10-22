@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IPAHD_run_satisfies_eq8
 -- name    : HessianDamping.IPAHD.run_satisfies_eq8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:18.406297+00:00
 -- url     : https://prove2.me/theorems/314f813d-8d25-4e2b-a1d2-28131f242f64

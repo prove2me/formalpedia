@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviSampling_BaseStock_upper_base_stock_convex
 -- name    : LeviSampling.BaseStock.upper_base_stock_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:50:01.421036+00:00
 -- url     : https://prove2.me/theorems/759e9d6f-2a8c-4b52-b109-e1422e7c4bdf

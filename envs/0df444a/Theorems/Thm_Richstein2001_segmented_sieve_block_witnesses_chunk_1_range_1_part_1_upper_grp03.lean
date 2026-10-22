@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Richstein2001_segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper_grp03
 -- name    : Richstein2001.segmented_sieve_block_witnesses_chunk_1_range_1_part_1_upper_grp03
 -- status  : Open
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:36:16.778441+00:00
 -- url     : https://prove2.me/theorems/75154e22-e726-410b-b1f1-1bef682a904f
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_g1_not_colourable
 -- name    : SnarkGen.Zhang.g1_not_colourable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:39.312104+00:00
 -- url     : https://prove2.me/theorems/5ff3ee9b-6340-4674-8eb2-7a20adbe940c

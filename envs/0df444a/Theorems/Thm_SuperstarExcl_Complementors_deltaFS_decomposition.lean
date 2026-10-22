@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperstarExcl_Complementors_deltaFS_decomposition
 -- name    : SuperstarExcl.Complementors.deltaFS_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:05.862785+00:00
 -- url     : https://prove2.me/theorems/db0bde2f-c4db-43b4-b8ab-b8a488df7a96

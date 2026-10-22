@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_utilde_strictConcave
 -- name    : HolisticService.Effort.utilde_strictConcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:39.880566+00:00
 -- url     : https://prove2.me/theorems/06efc00d-b075-4f5f-9c0d-fc9e334987c2

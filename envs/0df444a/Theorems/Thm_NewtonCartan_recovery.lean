@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_recovery
 -- name    : NewtonCartan.recovery
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-20T23:17:08.034587+00:00
 -- url     : https://prove2.me/theorems/8ef97a8c-b1be-4ae1-ab99-4bc693f332ab

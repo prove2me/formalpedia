@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImperfectTargeting_CostlessAds_threshold_alpha_hat2_iff
 -- name    : ImperfectTargeting.CostlessAds.threshold_alpha_hat2_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:37:40.13998+00:00
 -- url     : https://prove2.me/theorems/e3231411-2ddb-4ff9-92a6-18bf92ef8bf5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdDataSharing_Topics_isNE_adx2_adx2_iff
 -- name    : AdDataSharing.Topics.isNE_adx2_adx2_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:43.622443+00:00
 -- url     : https://prove2.me/theorems/9ef1f594-cb02-4bbc-8e83-26d2ffd0adf5

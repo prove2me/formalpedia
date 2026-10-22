@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_ONoOther_equilibrium_requests_accepted
 -- name    : CustomerVoice.ONoOther.equilibrium_requests_accepted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:46.390776+00:00
 -- url     : https://prove2.me/theorems/449079fe-6665-452a-8636-a52b207fbda8

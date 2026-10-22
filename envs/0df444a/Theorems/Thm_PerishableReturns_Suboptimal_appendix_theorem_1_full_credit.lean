@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishableReturns_Suboptimal_appendix_theorem_1_full_credit
 -- name    : PerishableReturns.Suboptimal.appendix_theorem_1_full_credit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:28:18.150244+00:00
 -- url     : https://prove2.me/theorems/8f4a9bfa-8f70-4a92-b965-7e8010bb5f2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_Bal2Sat_clause_arith
 -- name    : OptInapprox.Bal2Sat.clause_arith
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:10.135+00:00
 -- url     : https://prove2.me/theorems/c6898494-594d-4a30-9589-226b79994f24

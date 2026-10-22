@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_EFXFour_lemma_4_6
 -- name    : StrategicAlloc.EFXFour.lemma_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T14:14:49.361027+00:00
 -- url     : https://prove2.me/theorems/a311059b-7759-480a-9e59-bc254c940ade

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimelyLoss_Feedback_equation_3_derivatives
 -- name    : TimelyLoss.Feedback.equation_3_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:46.116122+00:00
 -- url     : https://prove2.me/theorems/24e9cf76-ae7f-492f-957b-2e3ef2099e93

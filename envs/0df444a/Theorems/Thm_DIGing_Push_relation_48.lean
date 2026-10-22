@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DIGing_Push_relation_48
 -- name    : DIGing.Push.relation_48
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:30.1629+00:00
 -- url     : https://prove2.me/theorems/29ae1001-a835-449e-a16c-2d8bbbfdc956

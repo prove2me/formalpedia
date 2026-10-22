@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Complexity_theorem_2_iv
 -- name    : SelfDualLP.Complexity.theorem_2_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:59:02.636696+00:00
 -- url     : https://prove2.me/theorems/1ccb6393-dc91-4466-a443-f6e7144c0ab3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Tao_corollary_4_3
 -- name    : PlunneckeType.Tao.corollary_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:46.188986+00:00
 -- url     : https://prove2.me/theorems/9986f67e-74fa-4327-ae3c-e365b9f71bf5

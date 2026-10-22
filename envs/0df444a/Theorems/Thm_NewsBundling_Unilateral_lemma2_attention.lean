@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_lemma2_attention
 -- name    : NewsBundling.Unilateral.lemma2_attention
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:45.080159+00:00
 -- url     : https://prove2.me/theorems/45be78cb-5a02-4d88-a302-3c231a8fb390

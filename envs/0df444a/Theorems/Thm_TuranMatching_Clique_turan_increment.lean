@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_Clique_turan_increment
 -- name    : TuranMatching.Clique.turan_increment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:20.042445+00:00
 -- url     : https://prove2.me/theorems/c6389f10-87a3-4856-8621-9ccd17cda6a2

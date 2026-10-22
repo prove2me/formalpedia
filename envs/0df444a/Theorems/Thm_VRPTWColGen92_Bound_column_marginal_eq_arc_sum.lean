@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VRPTWColGen92_Bound_column_marginal_eq_arc_sum
 -- name    : VRPTWColGen92.Bound.column_marginal_eq_arc_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:37:20.479959+00:00
 -- url     : https://prove2.me/theorems/e7f6e800-b92d-4e5a-bed2-dcdf0f51178d

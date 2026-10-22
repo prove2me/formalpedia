@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P35_generalizedThermalNorm
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P35.generalizedThermalNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:35:24.703611+00:00
 -- url     : https://prove2.me/theorems/f0a0c294-f333-403e-afce-0922ec02db1c

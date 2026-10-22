@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Speeds_theorem4_two_speeds_lower_bound
 -- name    : WorstCaseEq.Speeds.theorem4_two_speeds_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:12:08.39642+00:00
 -- url     : https://prove2.me/theorems/3f1ac494-f6e2-42e8-a26e-20432f86b9a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_UltPit_exists_optimal
 -- name    : OpenPitMIP.UltPit.exists_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:42:49.417885+00:00
 -- url     : https://prove2.me/theorems/ed8d81c8-feab-4c18-b378-2cb38fd921f3

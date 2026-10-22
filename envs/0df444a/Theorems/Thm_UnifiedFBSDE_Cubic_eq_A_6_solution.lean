@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnifiedFBSDE_Cubic_eq_A_6_solution
 -- name    : UnifiedFBSDE.Cubic.eq_A_6_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:17:23.828045+00:00
 -- url     : https://prove2.me/theorems/02c5d2b9-c8f8-4da6-860d-0b2445605427

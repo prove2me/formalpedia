@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_TUCore_proposition_6_1
 -- name    : FuzzyGames.TUCore.proposition_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:48.420979+00:00
 -- url     : https://prove2.me/theorems/41ef776f-5eee-41cd-9c0d-e98cbc76b1d4

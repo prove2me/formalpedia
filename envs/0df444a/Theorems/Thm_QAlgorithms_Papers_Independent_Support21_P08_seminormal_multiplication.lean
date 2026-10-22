@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_seminormal_multiplication
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.seminormal_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:24:50.140536+00:00
 -- url     : https://prove2.me/theorems/2357b1ed-769c-40d7-95ea-1e85f2e55c7e

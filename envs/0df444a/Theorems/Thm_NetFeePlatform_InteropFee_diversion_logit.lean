@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_InteropFee_diversion_logit
 -- name    : NetFeePlatform.InteropFee.diversion_logit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:19.678815+00:00
 -- url     : https://prove2.me/theorems/e3fbe874-618e-4859-8449-c4d2597ae66c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HumanMachine_Alone_pbar_slope_derivatives
 -- name    : HumanMachine.Alone.pbar_slope_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:29:11.307127+00:00
 -- url     : https://prove2.me/theorems/1d19099e-a17e-4eec-99c6-eaf5c273ecb5

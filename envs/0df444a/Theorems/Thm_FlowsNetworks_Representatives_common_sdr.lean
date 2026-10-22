@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_common_sdr
 -- name    : FlowsNetworks.Representatives.common_sdr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:28.305214+00:00
 -- url     : https://prove2.me/theorems/d14f67c9-c5a2-4409-be91-e46f5a3c70fa

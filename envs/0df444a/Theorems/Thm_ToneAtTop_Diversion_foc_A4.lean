@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToneAtTop_Diversion_foc_A4
 -- name    : ToneAtTop.Diversion.foc_A4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:01.720862+00:00
 -- url     : https://prove2.me/theorems/09faf5e0-81d0-41bd-b001-f9df3b15d282

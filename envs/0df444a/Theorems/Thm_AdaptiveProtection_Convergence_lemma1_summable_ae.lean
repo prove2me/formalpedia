@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveProtection_Convergence_lemma1_summable_ae
 -- name    : AdaptiveProtection.Convergence.lemma1_summable_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:37.535234+00:00
 -- url     : https://prove2.me/theorems/e86cb4de-c423-4c73-958d-5a78d579ee79

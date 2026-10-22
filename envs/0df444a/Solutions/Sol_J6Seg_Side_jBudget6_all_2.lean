@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for J6Seg.Side.jBudget6_all
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:50:05.057787+00:00
 -- url     : https://prove2.me/submissions/0ce8b8dc-27b1-4798-b799-443c38dec969
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_Kappa_R6_Defs70
 import Theorems.Thm_J6Seg_Side_axJ_ev

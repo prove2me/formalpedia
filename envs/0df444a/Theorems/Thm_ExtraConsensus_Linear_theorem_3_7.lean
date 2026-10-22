@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtraConsensus_Linear_theorem_3_7
 -- name    : ExtraConsensus.Linear.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:15:59.394374+00:00
 -- url     : https://prove2.me/theorems/0d52bbe5-b242-4b9c-bbb2-02ce354cfe62

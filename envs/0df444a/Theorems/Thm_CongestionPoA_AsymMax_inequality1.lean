@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymMax_inequality1
 -- name    : CongestionPoA.AsymMax.inequality1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:32:27.273926+00:00
 -- url     : https://prove2.me/theorems/68e528c4-e23a-41d7-93e9-2a5f8cec8c7b

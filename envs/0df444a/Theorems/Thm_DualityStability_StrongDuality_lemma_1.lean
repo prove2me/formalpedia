@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_StrongDuality_lemma_1
 -- name    : DualityStability.StrongDuality.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:44:16.079388+00:00
 -- url     : https://prove2.me/theorems/246cdd97-3356-4f6d-941d-4c8b9bda6d19

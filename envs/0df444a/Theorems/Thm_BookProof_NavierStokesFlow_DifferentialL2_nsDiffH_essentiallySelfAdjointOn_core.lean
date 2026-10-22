@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_DifferentialL2_nsDiffH_essentiallySelfAdjointOn_core
 -- name    : BookProof.NavierStokesFlow.DifferentialL2.nsDiffH_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T23:45:43.312255+00:00
 -- url     : https://prove2.me/theorems/e1c664f3-a4b0-49b3-a623-89866c876f35

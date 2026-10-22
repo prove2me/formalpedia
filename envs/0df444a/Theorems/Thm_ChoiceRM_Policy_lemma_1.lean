@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_Policy_lemma_1
 -- name    : ChoiceRM.Policy.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:46:04.012059+00:00
 -- url     : https://prove2.me/theorems/ea2a0a24-f9fc-42d2-a5e2-715973120535

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_ConicDuality_duality_gap_identity
 -- name    : ModernConvex.ConicDuality.duality_gap_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:27.055726+00:00
 -- url     : https://prove2.me/theorems/8cb0697f-0c86-4e4c-9cb7-cd51449886d0

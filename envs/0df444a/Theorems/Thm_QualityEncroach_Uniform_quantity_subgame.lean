@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Uniform_quantity_subgame
 -- name    : QualityEncroach.Uniform.quantity_subgame
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:29.596006+00:00
 -- url     : https://prove2.me/theorems/e9895316-14f2-4ea3-b972-31806a18d1fe

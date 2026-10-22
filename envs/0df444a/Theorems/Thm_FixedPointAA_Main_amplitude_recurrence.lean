@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_amplitude_recurrence
 -- name    : FixedPointAA.Main.amplitude_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:27.029041+00:00
 -- url     : https://prove2.me/theorems/080a48b1-86ae-4f8f-b693-358e3fdfe3db

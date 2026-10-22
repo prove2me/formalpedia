@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Approx_tightness_instance
 -- name    : MultiStoreAssort.Approx.tightness_instance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:53.115175+00:00
 -- url     : https://prove2.me/theorems/2c25d46a-26de-4684-8d94-9c89990ad7e1

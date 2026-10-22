@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_LevelSet_strictly_consistent
 -- name    : MultivarScores.LevelSet.strictly_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:02.383527+00:00
 -- url     : https://prove2.me/theorems/6f029daa-6033-478b-85fd-c1e5a1a4d512

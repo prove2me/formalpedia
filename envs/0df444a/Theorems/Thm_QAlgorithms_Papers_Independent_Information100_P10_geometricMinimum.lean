@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P10_geometricMinimum
 -- name    : QAlgorithms.Papers.Independent.Information100.P10.geometricMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:36:22.148901+00:00
 -- url     : https://prove2.me/theorems/b8714d85-5b1c-43a7-b798-be6020a02018

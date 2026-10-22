@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Optimality_bootDist_segment_le
 -- name    : BootRobust.Optimality.bootDist_segment_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:10:07.71758+00:00
 -- url     : https://prove2.me/theorems/980bca6f-fe9c-4f31-b76d-71fbc620379b

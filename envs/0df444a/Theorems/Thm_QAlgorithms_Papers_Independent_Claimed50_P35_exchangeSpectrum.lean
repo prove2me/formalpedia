@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P35_exchangeSpectrum
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P35.exchangeSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:39:09.185621+00:00
 -- url     : https://prove2.me/theorems/7faf838b-23ce-4e50-a663-8e5a63c3e88d

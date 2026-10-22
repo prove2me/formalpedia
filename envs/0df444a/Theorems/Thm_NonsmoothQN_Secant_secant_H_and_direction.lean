@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothQN_Secant_secant_H_and_direction
 -- name    : NonsmoothQN.Secant.secant_H_and_direction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:48.842777+00:00
 -- url     : https://prove2.me/theorems/9d47eff7-9f8b-4d5b-8db8-56e3fb2d9b97

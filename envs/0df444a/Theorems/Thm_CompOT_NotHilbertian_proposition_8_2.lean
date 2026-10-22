@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_NotHilbertian_proposition_8_2
 -- name    : CompOT.NotHilbertian.proposition_8_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:14.186975+00:00
 -- url     : https://prove2.me/theorems/8ab0ad33-3862-4073-aa97-cfe5b4ba1508

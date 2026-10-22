@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_prop3_convex
 -- name    : SmartPTO.Fisher.prop3_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:04:14.606981+00:00
 -- url     : https://prove2.me/theorems/faf9a3c8-4c81-4da0-8349-33cb90c278bd

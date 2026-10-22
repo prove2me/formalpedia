@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Graphs_proper_cover_unrelated
 -- name    : FlowsNetworks.Graphs.proper_cover_unrelated
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:41.174972+00:00
 -- url     : https://prove2.me/theorems/40f5c53c-1d86-44b9-9ddf-fe9d379e5cf5

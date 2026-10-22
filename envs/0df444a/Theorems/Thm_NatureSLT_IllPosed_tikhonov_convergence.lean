@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_IllPosed_tikhonov_convergence
 -- name    : NatureSLT.IllPosed.tikhonov_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:55.451996+00:00
 -- url     : https://prove2.me/theorems/36f7871f-8fa2-418f-b158-8ca12d0eff22

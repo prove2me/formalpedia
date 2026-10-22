@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Product_lemma_8
 -- name    : LeightonRao.Product.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:21:58.004487+00:00
 -- url     : https://prove2.me/theorems/c6bf1c25-5052-4690-92d6-d2cff21f1278

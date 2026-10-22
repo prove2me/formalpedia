@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Spectral_G_quadratic
 -- name    : MatrixAnalytic.Spectral.G_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:45:57.521182+00:00
 -- url     : https://prove2.me/theorems/42ca27d9-a7d0-445c-8a46-144475320645

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Graphs_unicursal_iff
 -- name    : FlowsNetworks.Graphs.unicursal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:01.889059+00:00
 -- url     : https://prove2.me/theorems/b405965f-0a1a-40a8-bcd7-14659b573a5d

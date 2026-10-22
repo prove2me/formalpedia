@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_entropy_lyapunov_drift_bound
 -- name    : ProcessingNetworks.ProportionalFairness.entropy_lyapunov_drift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:31:42.631647+00:00
 -- url     : https://prove2.me/theorems/a998de6a-6c7e-4c57-8cb6-cd46af307dce

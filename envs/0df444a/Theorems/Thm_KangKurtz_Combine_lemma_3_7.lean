@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KangKurtz_Combine_lemma_3_7
 -- name    : KangKurtz.Combine.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:43:26.211178+00:00
 -- url     : https://prove2.me/theorems/728c5bc3-9f21-4178-a52b-aeb547499284

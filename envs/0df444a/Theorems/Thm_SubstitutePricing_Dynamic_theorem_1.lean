@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Dynamic_theorem_1
 -- name    : SubstitutePricing.Dynamic.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:03.824979+00:00
 -- url     : https://prove2.me/theorems/33a90230-a351-40bb-8b21-71016228b895

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Metric_prop_2_2_diag
 -- name    : CompOT.Metric.prop_2_2_diag
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:04.636598+00:00
 -- url     : https://prove2.me/theorems/4245da35-2670-4ace-955a-094facb9d4bf

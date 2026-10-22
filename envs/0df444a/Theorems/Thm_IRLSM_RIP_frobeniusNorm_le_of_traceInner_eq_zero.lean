@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_RIP_frobeniusNorm_le_of_traceInner_eq_zero
 -- name    : IRLSM.RIP.frobeniusNorm_le_of_traceInner_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:44.842601+00:00
 -- url     : https://prove2.me/theorems/b6987b8c-60a6-4241-8851-674d3db34c71

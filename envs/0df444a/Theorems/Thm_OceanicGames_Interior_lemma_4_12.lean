@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanicGames_Interior_lemma_4_12
 -- name    : OceanicGames.Interior.lemma_4_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:17:04.400333+00:00
 -- url     : https://prove2.me/theorems/76e1c4da-7b9c-4a74-b909-f90d47f98c58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledExpansion_SeqSim_lemma_2
 -- name    : BundledExpansion.SeqSim.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:08.090546+00:00
 -- url     : https://prove2.me/theorems/8ac40d84-0824-4d29-99a1-520277ad8031

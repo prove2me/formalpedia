@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeldKarp_Gap_feasible_3_tours
 -- name    : HeldKarp.Gap.feasible_3_tours
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:58.446902+00:00
 -- url     : https://prove2.me/theorems/589c6098-cf6f-4104-8569-866e3b734806

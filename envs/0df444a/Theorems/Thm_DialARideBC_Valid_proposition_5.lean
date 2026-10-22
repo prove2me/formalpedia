@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DialARideBC_Valid_proposition_5
 -- name    : DialARideBC.Valid.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:51:52.184221+00:00
 -- url     : https://prove2.me/theorems/49b05a02-3f4f-4a60-9658-02f8ba69e8df

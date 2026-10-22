@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_IndivRegret_oftrl_stability
 -- name    : RegLearnGames.IndivRegret.oftrl_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:38:36.159369+00:00
 -- url     : https://prove2.me/theorems/e451c7f8-8563-4828-92f4-930ddb2f4419

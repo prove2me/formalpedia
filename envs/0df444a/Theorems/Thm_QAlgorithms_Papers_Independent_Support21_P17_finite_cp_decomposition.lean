@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P17_finite_cp_decomposition
 -- name    : QAlgorithms.Papers.Independent.Support21.P17.finite_cp_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:41:35.428992+00:00
 -- url     : https://prove2.me/theorems/e6be74fb-8082-49bb-959d-9b8bada222b7

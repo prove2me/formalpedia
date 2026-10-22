@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_strictAE_quotientWellDefined
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.strictAE_quotientWellDefined
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:59:06.700973+00:00
 -- url     : https://prove2.me/theorems/85ca90b1-477b-40bf-b42b-16bf83fa72d3

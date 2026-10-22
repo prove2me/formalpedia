@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_StarBound_corollary_3_12
 -- name    : LNTopology.StarBound.corollary_3_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:11.25971+00:00
 -- url     : https://prove2.me/theorems/c890b949-c644-4fc5-b425-2e4c1d567ba8

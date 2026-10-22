@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitExpanders_Sizes_Q_ratio_step
 -- name    : ExplicitExpanders.Sizes.Q_ratio_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:33:45.126165+00:00
 -- url     : https://prove2.me/theorems/9eb3e697-3335-4080-8d1d-9b2515db3481

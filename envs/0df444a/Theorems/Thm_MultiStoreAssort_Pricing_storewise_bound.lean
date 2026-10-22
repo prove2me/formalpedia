@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Pricing_storewise_bound
 -- name    : MultiStoreAssort.Pricing.storewise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:39.771774+00:00
 -- url     : https://prove2.me/theorems/9971f315-b351-45b1-97c9-a6bdbc19c3cb

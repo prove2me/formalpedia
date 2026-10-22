@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesOldNew_LeadTime_lead_time_monotone
 -- name    : LostSalesOldNew.LeadTime.lead_time_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:23.835133+00:00
 -- url     : https://prove2.me/theorems/e5333d3f-8f0d-4466-9c63-493d613ab9a5

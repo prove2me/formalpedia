@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunwayCPS_DiscreteTime_min_cost_path_optimal
 -- name    : RunwayCPS.DiscreteTime.min_cost_path_optimal
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:36.449204+00:00
 -- url     : https://prove2.me/theorems/2f7af8f5-070f-4687-aee2-9cf680b90375

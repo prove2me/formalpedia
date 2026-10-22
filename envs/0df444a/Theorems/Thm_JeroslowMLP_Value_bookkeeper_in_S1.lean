@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JeroslowMLP_Value_bookkeeper_in_S1
 -- name    : JeroslowMLP.Value.bookkeeper_in_S1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:15:59.84535+00:00
 -- url     : https://prove2.me/theorems/b5a976cf-4d01-4d9f-91d2-e8d94c171502

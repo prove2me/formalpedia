@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_Coupled_theorem_3_arbitrary_norm
 -- name    : RobustRegLasso.Coupled.theorem_3_arbitrary_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:18:41.746342+00:00
 -- url     : https://prove2.me/theorems/fcf0f9fd-21ab-4a6e-88c9-080dcdd6f57d

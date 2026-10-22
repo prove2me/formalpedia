@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KyleProduction_Monopoly_price_demand
 -- name    : KyleProduction.Monopoly.price_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:34.95495+00:00
 -- url     : https://prove2.me/theorems/fe64f0c1-a252-4fd3-8806-93b3518b4598

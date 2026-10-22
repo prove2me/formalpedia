@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_uniform_surplus
 -- name    : TwoSidedPD.Baseline.uniform_surplus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:08.314981+00:00
 -- url     : https://prove2.me/theorems/efae7525-e99e-411b-bc2c-d7823dcc80fa

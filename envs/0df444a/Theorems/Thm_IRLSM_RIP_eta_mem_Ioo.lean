@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_RIP_eta_mem_Ioo
 -- name    : IRLSM.RIP.eta_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:45:43.846956+00:00
 -- url     : https://prove2.me/theorems/61d5c079-725e-44b8-a3b0-105921017180

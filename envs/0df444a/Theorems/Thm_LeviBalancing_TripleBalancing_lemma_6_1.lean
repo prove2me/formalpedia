@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviBalancing_TripleBalancing_lemma_6_1
 -- name    : LeviBalancing.TripleBalancing.lemma_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:22:21.270259+00:00
 -- url     : https://prove2.me/theorems/ef940024-4a15-4905-9c0f-71c58f737a68

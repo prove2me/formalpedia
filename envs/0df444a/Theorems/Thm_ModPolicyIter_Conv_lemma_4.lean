@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModPolicyIter_Conv_lemma_4
 -- name    : ModPolicyIter.Conv.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:14:14.923885+00:00
 -- url     : https://prove2.me/theorems/07ae9a44-d2a8-486a-9979-8b70741f3138

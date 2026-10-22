@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_DerivedMDP_corollary_4_1
 -- name    : StableFA.DerivedMDP.corollary_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:18.855857+00:00
 -- url     : https://prove2.me/theorems/975c844b-09f3-413e-b4d2-f343025fadd6

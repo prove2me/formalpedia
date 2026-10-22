@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_Deterministic_mirror_descent_bound_v2
 -- name    : FirstOrderOpt.Deterministic.mirror_descent_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:16:46.11598+00:00
 -- url     : https://prove2.me/theorems/40b16063-3417-4d31-b508-8d9e0a6e765d

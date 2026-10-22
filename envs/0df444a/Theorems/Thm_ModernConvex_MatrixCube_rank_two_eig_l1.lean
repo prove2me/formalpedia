@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_rank_two_eig_l1
 -- name    : ModernConvex.MatrixCube.rank_two_eig_l1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:47.990021+00:00
 -- url     : https://prove2.me/theorems/b585805c-7b0c-46dc-b386-6e360231afa2

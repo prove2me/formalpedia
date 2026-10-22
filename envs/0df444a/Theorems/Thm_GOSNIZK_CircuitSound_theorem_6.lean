@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_CircuitSound_theorem_6
 -- name    : GOSNIZK.CircuitSound.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:25.922865+00:00
 -- url     : https://prove2.me/theorems/41367cc5-27c2-4d1a-b9a8-859792ee30a7

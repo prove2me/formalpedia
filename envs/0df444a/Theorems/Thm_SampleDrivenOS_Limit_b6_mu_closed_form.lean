@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Limit_b6_mu_closed_form
 -- name    : SampleDrivenOS.Limit.b6_mu_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:15.761844+00:00
 -- url     : https://prove2.me/theorems/8ef63a5c-95de-4bb2-8dd8-d3cfb0fb64a9

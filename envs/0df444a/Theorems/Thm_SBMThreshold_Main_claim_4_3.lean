@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SBMThreshold_Main_claim_4_3
 -- name    : SBMThreshold.Main.claim_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:17:10.729977+00:00
 -- url     : https://prove2.me/theorems/decf5700-7a68-4b90-b65d-e5d556d5b111

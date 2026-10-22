@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothQN_Secant_armijo_wolfe_sign_flip
 -- name    : NonsmoothQN.Secant.armijo_wolfe_sign_flip
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:46.498974+00:00
 -- url     : https://prove2.me/theorems/798c50d3-c0cc-4f9e-a470-0a51cba3d4be

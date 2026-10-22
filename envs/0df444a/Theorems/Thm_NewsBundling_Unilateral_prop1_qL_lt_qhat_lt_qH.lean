@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_prop1_qL_lt_qhat_lt_qH
 -- name    : NewsBundling.Unilateral.prop1_qL_lt_qhat_lt_qH
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:02.915641+00:00
 -- url     : https://prove2.me/theorems/9158d81d-1070-4021-962e-448efc135dda

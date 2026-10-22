@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FGM_theorem_14
 -- name    : NecoaraNG.FGM.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:30.275055+00:00
 -- url     : https://prove2.me/theorems/c1dbe41d-b733-410e-9558-bb6b2567ed9b

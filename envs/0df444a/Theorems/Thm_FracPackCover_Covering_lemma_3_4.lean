@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPackCover_Covering_lemma_3_4
 -- name    : FracPackCover.Covering.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:48:56.776135+00:00
 -- url     : https://prove2.me/theorems/3ec5076b-0ac0-45db-a0e8-48529e1ba91c

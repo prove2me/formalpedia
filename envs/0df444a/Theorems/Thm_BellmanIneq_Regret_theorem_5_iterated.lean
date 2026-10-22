@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellmanIneq_Regret_theorem_5_iterated
 -- name    : BellmanIneq.Regret.theorem_5_iterated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:31:34.785102+00:00
 -- url     : https://prove2.me/theorems/d3843b65-bfb2-4fac-a3a4-dd17e49a8f14

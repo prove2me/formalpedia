@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_IsometryExt_strong_is_metric_generator
 -- name    : MetricGenerators.IsometryExt.strong_is_metric_generator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:58.603974+00:00
 -- url     : https://prove2.me/theorems/682bcc6f-ce15-45d6-a904-7832d537d0aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstOverbooking_Structure_lemma1_V0_submodular
 -- name    : SubstOverbooking.Structure.lemma1_V0_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:09:45.662884+00:00
 -- url     : https://prove2.me/theorems/cd0963d8-8154-47a0-9ede-d488f27b8b15

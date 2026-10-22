@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P44_two_sided_noise_optimum
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P44.two_sided_noise_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:10:57.431543+00:00
 -- url     : https://prove2.me/theorems/b6d020bc-bf1e-4987-b1c8-219a51b13a64

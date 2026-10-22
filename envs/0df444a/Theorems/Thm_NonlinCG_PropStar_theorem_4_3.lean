@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinCG_PropStar_theorem_4_3
 -- name    : NonlinCG.PropStar.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:30.346687+00:00
 -- url     : https://prove2.me/theorems/772b80c9-c349-4489-951f-f04afedb2d77

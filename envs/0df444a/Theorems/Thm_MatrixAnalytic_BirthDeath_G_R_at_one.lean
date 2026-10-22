@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_BirthDeath_G_R_at_one
 -- name    : MatrixAnalytic.BirthDeath.G_R_at_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:45.961258+00:00
 -- url     : https://prove2.me/theorems/b8e4eaed-8d44-4846-a37e-5bfefbdab844

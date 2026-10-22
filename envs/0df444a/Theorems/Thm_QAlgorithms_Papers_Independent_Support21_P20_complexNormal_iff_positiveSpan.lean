@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_complexNormal_iff_positiveSpan
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.complexNormal_iff_positiveSpan
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:57:59.586759+00:00
 -- url     : https://prove2.me/theorems/cc7dd6da-d101-406a-a538-969606d98a18

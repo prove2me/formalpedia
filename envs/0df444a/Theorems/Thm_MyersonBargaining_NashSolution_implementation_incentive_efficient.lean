@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_NashSolution_implementation_incentive_efficient
 -- name    : MyersonBargaining.NashSolution.implementation_incentive_efficient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:36.716982+00:00
 -- url     : https://prove2.me/theorems/744a2e51-a27d-4416-9d30-93add1d5ed9b

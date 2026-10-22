@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Binary_greedy_optimal
 -- name    : SecretaryAdvice.Binary.greedy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:42:40.443003+00:00
 -- url     : https://prove2.me/theorems/0b352351-5229-4b60-8a8c-7f0eaa98bbbb

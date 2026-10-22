@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_FiniteHorizon_corollary1_deterministic
 -- name    : RobustDP.FiniteHorizon.corollary1_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:44.512279+00:00
 -- url     : https://prove2.me/theorems/468e4215-a05e-47c0-b701-9290908651de

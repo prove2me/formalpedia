@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Product_theorem_7
 -- name    : LeightonRao.Product.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:22:08.853976+00:00
 -- url     : https://prove2.me/theorems/3283accb-b691-4d2f-99ac-b79ebd2a5621

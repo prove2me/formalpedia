@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtADMM_Diverge_eq_3_4_3_5
 -- name    : ExtADMM.Diverge.eq_3_4_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:05:59.983959+00:00
 -- url     : https://prove2.me/theorems/a5ca5b8c-ea94-4d4d-8d51-f25130e91c84

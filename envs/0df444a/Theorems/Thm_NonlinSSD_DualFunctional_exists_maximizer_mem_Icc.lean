@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinSSD_DualFunctional_exists_maximizer_mem_Icc
 -- name    : NonlinSSD.DualFunctional.exists_maximizer_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:13:30.184126+00:00
 -- url     : https://prove2.me/theorems/b5aba306-6a1d-48c2-88e9-0843599382a1

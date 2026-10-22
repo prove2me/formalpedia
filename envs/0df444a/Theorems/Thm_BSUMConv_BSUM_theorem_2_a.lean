@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSUMConv_BSUM_theorem_2_a
 -- name    : BSUMConv.BSUM.theorem_2_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:44.954804+00:00
 -- url     : https://prove2.me/theorems/8a376d36-364e-4f73-bf30-a8752f622ad0

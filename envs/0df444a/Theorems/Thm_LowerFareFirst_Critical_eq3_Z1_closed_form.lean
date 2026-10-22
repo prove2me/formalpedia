@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowerFareFirst_Critical_eq3_Z1_closed_form
 -- name    : LowerFareFirst.Critical.eq3_Z1_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:21.971864+00:00
 -- url     : https://prove2.me/theorems/1a7ce6ac-46f0-40cc-801a-98b6dec0c399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P17_common_dilation_norm
 -- name    : QAlgorithms.Papers.Independent.Support21.P17.common_dilation_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:53:18.064818+00:00
 -- url     : https://prove2.me/theorems/d850c1fd-4542-42ed-8f49-6e10d2b3c619

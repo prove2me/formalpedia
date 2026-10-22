@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_CAF_induction_recurrence
 -- name    : KumarSeidman.CAF.induction_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:13.820245+00:00
 -- url     : https://prove2.me/theorems/8a98f41c-0e17-4222-bdbf-92463e75afad

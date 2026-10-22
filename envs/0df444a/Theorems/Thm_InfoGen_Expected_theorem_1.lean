@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoGen_Expected_theorem_1
 -- name    : InfoGen.Expected.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:27:31.212736+00:00
 -- url     : https://prove2.me/theorems/d3b0838b-4110-4ca1-bb41-2d66c220926b

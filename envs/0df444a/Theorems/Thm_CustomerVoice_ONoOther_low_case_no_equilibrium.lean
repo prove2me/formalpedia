@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_ONoOther_low_case_no_equilibrium
 -- name    : CustomerVoice.ONoOther.low_case_no_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:55.650166+00:00
 -- url     : https://prove2.me/theorems/4a064e5d-1572-4a01-ab66-b881aaebe314

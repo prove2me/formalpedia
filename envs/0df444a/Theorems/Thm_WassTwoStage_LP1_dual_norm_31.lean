@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassTwoStage_LP1_dual_norm_31
 -- name    : WassTwoStage.LP1.dual_norm_31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:55:35.034636+00:00
 -- url     : https://prove2.me/theorems/88235e25-19d3-4fd5-83d0-27a20d0a8c9b

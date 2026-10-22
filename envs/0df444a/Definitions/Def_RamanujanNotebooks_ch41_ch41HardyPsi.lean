@@ -15,10 +15,10 @@
 --   the integral converges absolutely and its value does not depend on `c`.
 --   Outside: if the integrand is not integrable Lean returns `0`; for `x ≤ 0` the principal power
 --   has no meaning here; if `c` is an integer the factor `π / sin(πs)` has a pole on the line.
---   Reference: for `ψ(s) = 1/Γ(s + 1)`, `Ψ(x) = e^{-x}` (`Ψ(0.3) = 0.74081822068171787429…`);
+--   Reference: for `ψ(s) = 1/Γ(s + 1)`, `Ψ(x) = e^{-x}` (`Ψ(0.3) = 0.74081822068171786607…`);
 --   for `ψ(s) = 1`, `Ψ(x) = 1/(1 + x)`.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Chapter 41.
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Ramanujan’s Quarterly Reports, First Report, §1.3, Hardy’s contour-defined function, p. 299.
 
 import Mathlib
 

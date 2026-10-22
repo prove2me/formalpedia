@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_StarBound_eq_14_15
 -- name    : LNTopology.StarBound.eq_14_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:32:19.511898+00:00
 -- url     : https://prove2.me/theorems/9efbfee3-da16-48bd-8401-64a8cc805877

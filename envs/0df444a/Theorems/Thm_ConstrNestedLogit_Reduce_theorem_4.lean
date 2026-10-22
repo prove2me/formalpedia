@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Reduce_theorem_4
 -- name    : ConstrNestedLogit.Reduce.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:03.377441+00:00
 -- url     : https://prove2.me/theorems/8810b75b-d806-4560-b247-6e15bc9b22be

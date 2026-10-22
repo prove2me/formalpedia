@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonMF_Stability_remark_2_1
 -- name    : GraphonMF.Stability.remark_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T05:27:34.287033+00:00
 -- url     : https://prove2.me/theorems/3c20f149-4f27-4771-992c-79de1b002dae

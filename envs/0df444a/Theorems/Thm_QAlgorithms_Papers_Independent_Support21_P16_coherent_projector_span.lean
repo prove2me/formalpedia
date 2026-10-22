@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_coherent_projector_span
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.coherent_projector_span
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:40:43.480972+00:00
 -- url     : https://prove2.me/theorems/f8b30afc-2fb6-4481-bb3d-a646631fa015

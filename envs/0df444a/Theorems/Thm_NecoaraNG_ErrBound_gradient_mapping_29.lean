@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_ErrBound_gradient_mapping_29
 -- name    : NecoaraNG.ErrBound.gradient_mapping_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:02.386273+00:00
 -- url     : https://prove2.me/theorems/2aad25e3-6710-460b-90c6-8ea9782847d7

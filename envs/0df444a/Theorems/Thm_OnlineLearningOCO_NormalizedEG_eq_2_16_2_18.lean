@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_NormalizedEG_eq_2_16_2_18
 -- name    : OnlineLearningOCO.NormalizedEG.eq_2_16_2_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:00.383989+00:00
 -- url     : https://prove2.me/theorems/e598a341-167b-44e2-875f-187afa37b49a

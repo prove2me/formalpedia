@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Linear_corollary_4_2
 -- name    : SelfishRouting.Linear.corollary_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:00.293914+00:00
 -- url     : https://prove2.me/theorems/117eab7b-b41c-4998-bc06-f01068bd8c2a

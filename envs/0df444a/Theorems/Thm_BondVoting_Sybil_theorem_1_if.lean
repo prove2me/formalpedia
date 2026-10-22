@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BondVoting_Sybil_theorem_1_if
 -- name    : BondVoting.Sybil.theorem_1_if
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:49.895001+00:00
 -- url     : https://prove2.me/theorems/acce3500-84cc-4f90-9ea2-1af73df421d2

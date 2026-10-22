@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GivenDegreeSeq_GraphLimit_lemma_2_2
 -- name    : GivenDegreeSeq.GraphLimit.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:44:28.79998+00:00
 -- url     : https://prove2.me/theorems/596011c3-de8c-4816-9338-256d27fd7c6c

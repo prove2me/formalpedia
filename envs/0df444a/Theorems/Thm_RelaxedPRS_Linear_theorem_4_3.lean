@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedPRS_Linear_theorem_4_3
 -- name    : RelaxedPRS.Linear.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:23:09.58098+00:00
 -- url     : https://prove2.me/theorems/ded36067-74da-4a12-88c4-753e35cf4699

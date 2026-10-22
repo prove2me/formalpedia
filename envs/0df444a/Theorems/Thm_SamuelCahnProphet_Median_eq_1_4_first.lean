@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_Median_eq_1_4_first
 -- name    : SamuelCahnProphet.Median.eq_1_4_first
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:22:56.531986+00:00
 -- url     : https://prove2.me/theorems/3a367f85-3517-4fb1-89d3-f12fc1ed02b7

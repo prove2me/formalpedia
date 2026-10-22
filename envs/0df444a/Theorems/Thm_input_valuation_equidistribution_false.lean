@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_input_valuation_equidistribution_false
 -- name    : input_valuation_equidistribution_false
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-29T01:14:41.500291+00:00
 -- url     : https://prove2.me/theorems/c017dfd8-5fea-403b-b073-b63e0342f8c1

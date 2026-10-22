@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_SelfDual_theorem_9_5
 -- name    : WrightPDIPM.SelfDual.theorem_9_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:11.68439+00:00
 -- url     : https://prove2.me/theorems/2603fb11-eb8e-46e7-a8d1-1b4800046bf9

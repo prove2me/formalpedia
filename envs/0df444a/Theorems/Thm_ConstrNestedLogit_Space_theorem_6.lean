@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Space_theorem_6
 -- name    : ConstrNestedLogit.Space.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:45.321975+00:00
 -- url     : https://prove2.me/theorems/a5503509-373f-43bb-9c05-fbdab12b0c58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_depolarizing_complement
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.depolarizing_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:55:49.926168+00:00
 -- url     : https://prove2.me/theorems/20201a6f-9a31-4b38-9c85-dc4b227a216b

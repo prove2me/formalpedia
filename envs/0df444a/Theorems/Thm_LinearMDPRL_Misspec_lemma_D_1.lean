@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearMDPRL_Misspec_lemma_D_1
 -- name    : LinearMDPRL.Misspec.lemma_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:35:44.490052+00:00
 -- url     : https://prove2.me/theorems/c41105a7-fa4d-4119-86d1-1e4a64134e82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqSocialLearning_Adequate_lemma_4
 -- name    : SeqSocialLearning.Adequate.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:04.22738+00:00
 -- url     : https://prove2.me/theorems/a6772418-3682-4bff-a84d-86b05d2971db

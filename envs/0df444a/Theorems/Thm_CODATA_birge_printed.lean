@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CODATA_birge_printed
 -- name    : CODATA.birge_printed
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T01:38:20.881041+00:00
 -- url     : https://prove2.me/theorems/88cbcc55-0b3e-4601-a099-ec6c32cdee27

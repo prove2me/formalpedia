@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_UltPit_x1_feasible_upit
 -- name    : OpenPitMIP.UltPit.x1_feasible_upit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:42:29.790643+00:00
 -- url     : https://prove2.me/theorems/1048a680-f0a3-4e1c-ad5c-976dc0f3878d

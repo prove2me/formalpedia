@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimelyLoss_Feedback_corollary_1
 -- name    : TimelyLoss.Feedback.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:46.327754+00:00
 -- url     : https://prove2.me/theorems/ed2ab4a9-a0e9-48a5-9639-ab6e6073685f

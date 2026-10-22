@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P18_gaussian_cq_criterion
 -- name    : QAlgorithms.Papers.Independent.Next46.P18.gaussian_cq_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T15:08:42.938591+00:00
 -- url     : https://prove2.me/theorems/4139c48c-4e38-4eea-9063-36d39590d76c

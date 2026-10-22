@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Damped_normFn_dirDeriv_newton
 -- name    : QiNonsmoothEq.Damped.normFn_dirDeriv_newton
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:32.124354+00:00
 -- url     : https://prove2.me/theorems/94be5cce-618e-4f3a-b69f-c5f37c5be557

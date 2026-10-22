@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformFinance_EndogRate_derivative_PiP0
 -- name    : PlatformFinance.EndogRate.derivative_PiP0
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:42.597468+00:00
 -- url     : https://prove2.me/theorems/360c1773-9061-4f18-9ab9-686df3413bcf

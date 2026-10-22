@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_LowerBound_proposition_5_1
 -- name    : PosetSecretary.LowerBound.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:14.41692+00:00
 -- url     : https://prove2.me/theorems/29c72c21-b70b-44df-a99f-9f073ae4ea39

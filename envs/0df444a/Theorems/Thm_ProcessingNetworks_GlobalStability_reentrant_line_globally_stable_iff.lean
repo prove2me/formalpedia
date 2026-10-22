@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_GlobalStability_reentrant_line_globally_stable_iff
 -- name    : ProcessingNetworks.GlobalStability.reentrant_line_globally_stable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:16:21.887235+00:00
 -- url     : https://prove2.me/theorems/a10c63dc-23b4-4229-bcf8-3469d243a54b

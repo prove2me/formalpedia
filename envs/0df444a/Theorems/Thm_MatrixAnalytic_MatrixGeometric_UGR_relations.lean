@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MatrixGeometric_UGR_relations
 -- name    : MatrixAnalytic.MatrixGeometric.UGR_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:02.742503+00:00
 -- url     : https://prove2.me/theorems/eb0e45c7-7d62-4904-8b9d-6248f3c03cb7

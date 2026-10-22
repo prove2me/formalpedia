@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeaseModular_JointChoice_pi_SM_closed_form
 -- name    : LeaseModular.JointChoice.pi_SM_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:23.411822+00:00
 -- url     : https://prove2.me/theorems/67f3ac44-227e-4da0-abec-49f3959e40ef

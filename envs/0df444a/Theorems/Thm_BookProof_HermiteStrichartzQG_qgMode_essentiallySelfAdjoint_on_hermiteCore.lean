@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteStrichartzQG_qgMode_essentiallySelfAdjoint_on_hermiteCore
 -- name    : BookProof.HermiteStrichartzQG.qgMode_essentiallySelfAdjoint_on_hermiteCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:02:32.585985+00:00
 -- url     : https://prove2.me/theorems/4e38c16d-d057-4c28-a786-e8d590d3a3f0

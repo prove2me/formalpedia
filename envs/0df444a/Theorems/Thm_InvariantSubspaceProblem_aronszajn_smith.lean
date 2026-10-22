@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_aronszajn_smith
 -- name    : InvariantSubspaceProblem.aronszajn_smith
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T17:23:55.899007+00:00
 -- url     : https://prove2.me/theorems/830f6aba-5325-49ba-a20e-94ea8667d32b

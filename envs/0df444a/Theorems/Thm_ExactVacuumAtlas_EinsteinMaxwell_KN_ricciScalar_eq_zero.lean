@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactVacuumAtlas_EinsteinMaxwell_KN_ricciScalar_eq_zero
 -- name    : ExactVacuumAtlas.EinsteinMaxwell.KN.ricciScalar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @He Wang
 -- created : 2026-10-21T01:47:21.958303+00:00
 -- url     : https://prove2.me/theorems/a8c98ada-d462-4853-91c0-fdfcc163c6de

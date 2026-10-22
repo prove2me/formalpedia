@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DigitalPrivacy_Strategy_theorem_1
 -- name    : DigitalPrivacy.Strategy.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:29:46.74152+00:00
 -- url     : https://prove2.me/theorems/8a464154-ed53-49f5-b592-b85722d951fe

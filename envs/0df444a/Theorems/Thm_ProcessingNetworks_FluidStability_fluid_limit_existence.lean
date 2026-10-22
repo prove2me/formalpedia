@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FluidStability_fluid_limit_existence
 -- name    : ProcessingNetworks.FluidStability.fluid_limit_existence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:37:30.060874+00:00
 -- url     : https://prove2.me/theorems/bae208bf-5320-4be0-ac85-18ce36fb4612

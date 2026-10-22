@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Shor_appendix_reduction
 -- name    : JRPHard.Shor.appendix_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:39:27.689012+00:00
 -- url     : https://prove2.me/theorems/caf5c20a-27a1-46f1-a574-81f7d9e29097

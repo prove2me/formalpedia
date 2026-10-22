@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_ob_accurate
 -- name    : PrivSeqLearn.QueryComplexity.ob_accurate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:15:21.759693+00:00
 -- url     : https://prove2.me/theorems/9201b0f8-ca9d-42ae-b288-daba4a1c001a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditWhistle_Intensity_proposition_2
 -- name    : AuditWhistle.Intensity.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:34.040653+00:00
 -- url     : https://prove2.me/theorems/bd44d8e2-2ce5-46b3-83bc-6aafb56410b6

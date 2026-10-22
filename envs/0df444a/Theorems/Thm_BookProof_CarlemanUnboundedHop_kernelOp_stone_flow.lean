@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_kernelOp_stone_flow
 -- name    : BookProof.CarlemanUnboundedHop.kernelOp_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:34:45.768987+00:00
 -- url     : https://prove2.me/theorems/5fd023ed-f0c4-4864-ad56-5fb687e4b08b

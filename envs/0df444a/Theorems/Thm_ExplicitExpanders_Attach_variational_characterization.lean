@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitExpanders_Attach_variational_characterization
 -- name    : ExplicitExpanders.Attach.variational_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:13:49.355854+00:00
 -- url     : https://prove2.me/theorems/bbb6e0db-a79f-4dae-8ce5-47a8ebbc82dc

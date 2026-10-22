@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PipelineInterv_Welfare_lemma_1
 -- name    : PipelineInterv.Welfare.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:08.141965+00:00
 -- url     : https://prove2.me/theorems/059d71e7-636d-4938-b58b-7351f0a7a21b

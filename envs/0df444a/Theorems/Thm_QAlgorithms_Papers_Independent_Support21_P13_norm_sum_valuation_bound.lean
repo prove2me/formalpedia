@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_norm_sum_valuation_bound
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.norm_sum_valuation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:22:49.794935+00:00
 -- url     : https://prove2.me/theorems/84d41a4e-6e76-4d1a-81ab-20d9d9fc8bf5

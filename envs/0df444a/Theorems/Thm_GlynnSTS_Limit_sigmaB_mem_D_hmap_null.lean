@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_Limit_sigmaB_mem_D_hmap_null
 -- name    : GlynnSTS.Limit.sigmaB_mem_D_hmap_null
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:16:10.837704+00:00
 -- url     : https://prove2.me/theorems/7c5e94d3-dd17-44fa-950c-04e6759f6533

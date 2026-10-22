@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_CutChoose_agent2_truthful_dominant
 -- name    : StrategicAlloc.CutChoose.agent2_truthful_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:36:28.839888+00:00
 -- url     : https://prove2.me/theorems/cd7809d7-8a98-46a9-97ca-d7eb8edfa9c4

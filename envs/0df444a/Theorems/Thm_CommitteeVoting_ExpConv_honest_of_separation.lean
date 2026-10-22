@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommitteeVoting_ExpConv_honest_of_separation
 -- name    : CommitteeVoting.ExpConv.honest_of_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:17.17307+00:00
 -- url     : https://prove2.me/theorems/bf5fdd07-505f-497d-a927-20d3ef6bbee4

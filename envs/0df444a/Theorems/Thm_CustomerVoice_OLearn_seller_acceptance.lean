@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_OLearn_seller_acceptance
 -- name    : CustomerVoice.OLearn.seller_acceptance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:47.094291+00:00
 -- url     : https://prove2.me/theorems/d865220c-3eb2-4ff9-b281-0c727decc2c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_TwoArcs_eq_13_1_max_flow_min_cut
 -- name    : FlowsNetworks.TwoArcs.eq_13_1_max_flow_min_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:07.164495+00:00
 -- url     : https://prove2.me/theorems/c5a253b4-a588-4d94-8d56-00c0e81cc129

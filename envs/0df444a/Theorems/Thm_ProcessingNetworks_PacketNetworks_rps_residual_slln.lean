@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_rps_residual_slln
 -- name    : ProcessingNetworks.PacketNetworks.rps_residual_slln
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:02:57.596526+00:00
 -- url     : https://prove2.me/theorems/5e952340-3e3b-4116-b3de-4f9bfeb4af75

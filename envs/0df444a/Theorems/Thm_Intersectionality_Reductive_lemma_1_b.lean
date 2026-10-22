@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Reductive_lemma_1_b
 -- name    : Intersectionality.Reductive.lemma_1_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:30:47.842904+00:00
 -- url     : https://prove2.me/theorems/ae77c4a6-f6bb-40ce-a7b5-7149c4a5197d

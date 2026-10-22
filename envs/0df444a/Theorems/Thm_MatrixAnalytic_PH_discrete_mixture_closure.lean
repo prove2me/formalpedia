@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_discrete_mixture_closure
 -- name    : MatrixAnalytic.PH.discrete_mixture_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:43.219283+00:00
 -- url     : https://prove2.me/theorems/ed0b4575-bb2a-4bb9-a82c-0d72cfd5c6d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMT_Classif_lip_eq_sup_conjDom
 -- name    : RegMT.Classif.lip_eq_sup_conjDom
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:05:21.624662+00:00
 -- url     : https://prove2.me/theorems/47c04068-adab-4fd7-8e47-8e577d20f7fe

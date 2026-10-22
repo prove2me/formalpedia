@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_integral_exp_eq_neg_inv
 -- name    : MatrixAnalytic.PH.integral_exp_eq_neg_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:48.024062+00:00
 -- url     : https://prove2.me/theorems/3f4d83f4-d35b-444f-91c1-d0998bcd2b18

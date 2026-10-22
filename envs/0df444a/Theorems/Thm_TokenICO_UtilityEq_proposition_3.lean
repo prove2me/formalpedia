@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenICO_UtilityEq_proposition_3
 -- name    : TokenICO.UtilityEq.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:41.943182+00:00
 -- url     : https://prove2.me/theorems/71dc24ef-189e-49ec-97fb-e9a28dcbe735

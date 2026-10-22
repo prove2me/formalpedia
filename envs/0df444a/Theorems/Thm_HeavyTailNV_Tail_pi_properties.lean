@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeavyTailNV_Tail_pi_properties
 -- name    : HeavyTailNV.Tail.pi_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T13:27:06.97852+00:00
 -- url     : https://prove2.me/theorems/b28c96ce-37b2-4d6b-9e8f-4f2b53ac805a

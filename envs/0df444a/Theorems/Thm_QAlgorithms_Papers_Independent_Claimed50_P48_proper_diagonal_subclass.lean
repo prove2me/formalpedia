@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_proper_diagonal_subclass
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.proper_diagonal_subclass
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:46:38.450072+00:00
 -- url     : https://prove2.me/theorems/406df8c7-c6dc-4a65-90be-f669966308f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviBalancing_DualBalancing_expected_cost_eq_two_sum_balanced
 -- name    : LeviBalancing.DualBalancing.expected_cost_eq_two_sum_balanced
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:37:18.477562+00:00
 -- url     : https://prove2.me/theorems/c35ebada-5c2b-4c42-96ec-7231aa205b03

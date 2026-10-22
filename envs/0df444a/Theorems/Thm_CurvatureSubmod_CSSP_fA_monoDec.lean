@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_CSSP_fA_monoDec
 -- name    : CurvatureSubmod.CSSP.fA_monoDec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:34.92898+00:00
 -- url     : https://prove2.me/theorems/24eb082b-16b0-424d-ae03-1c4dbfa67865

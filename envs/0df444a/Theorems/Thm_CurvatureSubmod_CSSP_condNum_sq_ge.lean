@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_CSSP_condNum_sq_ge
 -- name    : CurvatureSubmod.CSSP.condNum_sq_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:59:04.888993+00:00
 -- url     : https://prove2.me/theorems/79fa805d-6705-40c6-85b1-742f7d23ecc4

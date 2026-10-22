@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRAM_LowerBound_card_satisfied_le
 -- name    : ObliviousRAM.LowerBound.card_satisfied_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:58.550216+00:00
 -- url     : https://prove2.me/theorems/ee42c93d-6a51-47b6-b348-9962d888594e

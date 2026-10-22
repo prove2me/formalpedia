@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LoanInsurance_Liquid_b3_lamTildeL
 -- name    : LoanInsurance.Liquid.b3_lamTildeL
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:33:21.99558+00:00
 -- url     : https://prove2.me/theorems/05048efc-a488-42f8-9282-77448d0e229c

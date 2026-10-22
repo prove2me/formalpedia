@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_CircuitSound_completeness
 -- name    : GOSNIZK.CircuitSound.completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:56.655753+00:00
 -- url     : https://prove2.me/theorems/5d046dd5-b53d-4787-b657-94913f7bcc5b

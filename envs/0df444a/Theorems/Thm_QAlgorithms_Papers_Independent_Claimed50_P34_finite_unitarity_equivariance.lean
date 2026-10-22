@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P34_finite_unitarity_equivariance
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P34.finite_unitarity_equivariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:50:58.992664+00:00
 -- url     : https://prove2.me/theorems/7409ee78-cfdc-4a9b-bf5b-872f11af109d

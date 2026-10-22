@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_lp_ip_proximity
 -- name    : CookSensitivity.ChvatalRank.lp_ip_proximity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:37:38.628006+00:00
 -- url     : https://prove2.me/theorems/2c698f9e-820b-40ea-b392-be7ca1320376

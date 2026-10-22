@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RenewForward_PriceImpact_prop2_forward
 -- name    : RenewForward.PriceImpact.prop2_forward
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:43.817471+00:00
 -- url     : https://prove2.me/theorems/91c39e40-b5d5-432a-928e-99cdc738d5eb

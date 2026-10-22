@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleCorrMFG_Conv_step_four_prelimit
 -- name    : SimpleCorrMFG.Conv.step_four_prelimit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:17.361233+00:00
 -- url     : https://prove2.me/theorems/2044b119-7154-4c82-a00a-023f2bdda8d8

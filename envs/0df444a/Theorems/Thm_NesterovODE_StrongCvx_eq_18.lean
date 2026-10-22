@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_StrongCvx_eq_18
 -- name    : NesterovODE.StrongCvx.eq_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:12.628732+00:00
 -- url     : https://prove2.me/theorems/378080b9-0c5d-451a-bdca-ed2321fe12f0

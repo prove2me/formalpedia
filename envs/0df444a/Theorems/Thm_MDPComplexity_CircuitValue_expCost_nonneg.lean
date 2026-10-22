@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_CircuitValue_expCost_nonneg
 -- name    : MDPComplexity.CircuitValue.expCost_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:53:13.945042+00:00
 -- url     : https://prove2.me/theorems/74aeaa55-0c66-46ff-96f3-393515e9cf52

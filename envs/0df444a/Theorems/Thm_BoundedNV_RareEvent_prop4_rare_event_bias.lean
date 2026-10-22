@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_RareEvent_prop4_rare_event_bias
 -- name    : BoundedNV.RareEvent.prop4_rare_event_bias
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:02:01.460993+00:00
 -- url     : https://prove2.me/theorems/2db8c826-4c72-4178-8732-73c2aef65896

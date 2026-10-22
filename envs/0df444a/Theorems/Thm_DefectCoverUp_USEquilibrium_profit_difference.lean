@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefectCoverUp_USEquilibrium_profit_difference
 -- name    : DefectCoverUp.USEquilibrium.profit_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:33.481148+00:00
 -- url     : https://prove2.me/theorems/148b4398-8fcf-42de-949b-963fb2cea619

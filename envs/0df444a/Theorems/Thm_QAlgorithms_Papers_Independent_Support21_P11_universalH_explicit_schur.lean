@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P11_universalH_explicit_schur
 -- name    : QAlgorithms.Papers.Independent.Support21.P11.universalH_explicit_schur
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:03:32.030985+00:00
 -- url     : https://prove2.me/theorems/da3b2e92-34f7-4368-af1f-139e6caa0913

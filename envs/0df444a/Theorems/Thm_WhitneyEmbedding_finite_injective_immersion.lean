@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_finite_injective_immersion
 -- name    : WhitneyEmbedding.finite_injective_immersion
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-11T11:42:58.278647+00:00
 -- url     : https://prove2.me/theorems/436df304-f4fd-4429-a901-029af1604963

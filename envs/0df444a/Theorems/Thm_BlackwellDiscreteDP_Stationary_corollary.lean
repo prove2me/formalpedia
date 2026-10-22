@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackwellDiscreteDP_Stationary_corollary
 -- name    : BlackwellDiscreteDP.Stationary.corollary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:01:45.530949+00:00
 -- url     : https://prove2.me/theorems/0b9422a6-01a3-482f-90d3-07f6abc0a46f

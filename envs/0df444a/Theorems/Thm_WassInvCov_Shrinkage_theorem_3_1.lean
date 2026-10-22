@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassInvCov_Shrinkage_theorem_3_1
 -- name    : WassInvCov.Shrinkage.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:37.678683+00:00
 -- url     : https://prove2.me/theorems/b2edfdb9-b414-4145-9c04-e4eb5eb1373e

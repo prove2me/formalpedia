@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Representation_assumption1_of_assumption3
 -- name    : BellRegret.Representation.assumption1_of_assumption3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:21:23.18367+00:00
 -- url     : https://prove2.me/theorems/2e2e29db-bb9d-4533-9171-a06cfc2cb362

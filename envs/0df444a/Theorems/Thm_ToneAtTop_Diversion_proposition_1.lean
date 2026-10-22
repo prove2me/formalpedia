@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToneAtTop_Diversion_proposition_1
 -- name    : ToneAtTop.Diversion.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:07.660006+00:00
 -- url     : https://prove2.me/theorems/e3b3eea8-256f-4f39-8aeb-afa3f631f1a3

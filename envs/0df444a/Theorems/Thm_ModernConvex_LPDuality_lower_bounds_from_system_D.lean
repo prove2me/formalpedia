@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_lower_bounds_from_system_D
 -- name    : ModernConvex.LPDuality.lower_bounds_from_system_D
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:22.030462+00:00
 -- url     : https://prove2.me/theorems/33333d49-e402-46f2-aab0-702559d0bed1

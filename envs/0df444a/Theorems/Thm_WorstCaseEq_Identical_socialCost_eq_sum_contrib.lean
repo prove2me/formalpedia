@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_socialCost_eq_sum_contrib
 -- name    : WorstCaseEq.Identical.socialCost_eq_sum_contrib
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:27.730912+00:00
 -- url     : https://prove2.me/theorems/cb6fd6f0-7e6c-4e9c-b1fa-364a643187ae

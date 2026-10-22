@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_price_antitone
 -- name    : ChenFarias.SimplePolicy.price_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:43.350984+00:00
 -- url     : https://prove2.me/theorems/de2a348e-9a6c-4b01-9305-36f369b0a7c7

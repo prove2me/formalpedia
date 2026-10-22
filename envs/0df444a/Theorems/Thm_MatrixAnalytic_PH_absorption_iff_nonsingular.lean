@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_absorption_iff_nonsingular
 -- name    : MatrixAnalytic.PH.absorption_iff_nonsingular
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:48.373774+00:00
 -- url     : https://prove2.me/theorems/6ad85fb1-0b5d-4a04-a054-1cf3ed0dfaa9

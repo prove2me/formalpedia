@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_Clique_induced_complete_k_partite
 -- name    : TuranMatching.Clique.induced_complete_k_partite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:52.297086+00:00
 -- url     : https://prove2.me/theorems/acb93721-f184-48c4-aa61-a83521deec2f

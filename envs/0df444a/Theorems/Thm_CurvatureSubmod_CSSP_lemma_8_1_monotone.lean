@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_CSSP_lemma_8_1_monotone
 -- name    : CurvatureSubmod.CSSP.lemma_8_1_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:52.537116+00:00
 -- url     : https://prove2.me/theorems/b085da2f-4d97-4863-887d-84cfcde4f92d

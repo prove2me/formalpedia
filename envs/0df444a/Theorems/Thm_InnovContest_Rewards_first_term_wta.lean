@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnovContest_Rewards_first_term_wta
 -- name    : InnovContest.Rewards.first_term_wta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:25.709555+00:00
 -- url     : https://prove2.me/theorems/3a2dc905-6186-4717-b937-8d46b67e49cc

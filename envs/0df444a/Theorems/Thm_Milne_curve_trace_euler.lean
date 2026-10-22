@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Milne_curve_trace_euler
 -- name    : Milne.curve_trace_euler
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-20T03:12:11.030314+00:00
 -- url     : https://prove2.me/theorems/55412e74-8246-4b35-b602-3411dc49c74a

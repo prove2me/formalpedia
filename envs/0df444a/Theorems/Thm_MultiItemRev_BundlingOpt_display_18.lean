@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_BundlingOpt_display_18
 -- name    : MultiItemRev.BundlingOpt.display_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:25:48.862021+00:00
 -- url     : https://prove2.me/theorems/2a32fe38-8af3-45e1-9300-5cf61c29e36a

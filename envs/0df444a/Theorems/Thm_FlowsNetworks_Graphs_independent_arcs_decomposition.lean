@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Graphs_independent_arcs_decomposition
 -- name    : FlowsNetworks.Graphs.independent_arcs_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:41.730986+00:00
 -- url     : https://prove2.me/theorems/c1bce789-f978-47fe-9cba-0d6b20d27403

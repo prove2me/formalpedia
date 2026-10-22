@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P18_extremal_errors_corrected
 -- name    : QAlgorithms.Papers.Independent.Support21.P18.extremal_errors_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:53:23.49238+00:00
 -- url     : https://prove2.me/theorems/523df464-de12-4734-b592-b85f85ed7715

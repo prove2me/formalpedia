@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiPurchase_Hardness_eq_4
 -- name    : MultiPurchase.Hardness.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:55.046656+00:00
 -- url     : https://prove2.me/theorems/f903fa8c-de62-4073-a9e2-fea584659c70

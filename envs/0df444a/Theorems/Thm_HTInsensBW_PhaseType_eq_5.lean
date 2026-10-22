@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HTInsensBW_PhaseType_eq_5
 -- name    : HTInsensBW.PhaseType.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:30.939242+00:00
 -- url     : https://prove2.me/theorems/a01fb3bd-8b44-400b-b2e4-dda07e8ab03e

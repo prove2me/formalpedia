@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanicGames_Limit_theorem_1
 -- name    : OceanicGames.Limit.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:44:11.631169+00:00
 -- url     : https://prove2.me/theorems/bcc1cc61-a937-400d-b0c4-65dcf48a3600

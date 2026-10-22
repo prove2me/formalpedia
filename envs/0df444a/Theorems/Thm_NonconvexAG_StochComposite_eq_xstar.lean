@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_StochComposite_eq_xstar
 -- name    : NonconvexAG.StochComposite.eq_xstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:24:18.795219+00:00
 -- url     : https://prove2.me/theorems/1ed948eb-ab86-441d-b533-a856b608db30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanditCovariates_SE_bound_2_5
 -- name    : BanditCovariates.SE.bound_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T15:10:05.483141+00:00
 -- url     : https://prove2.me/theorems/0c205dfb-a16c-4d02-b902-d102b396d2b7

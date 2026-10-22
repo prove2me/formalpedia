@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_claim3_pythagoras
 -- name    : TinyCoreset.DimRed.claim3_pythagoras
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:58:06.36814+00:00
 -- url     : https://prove2.me/theorems/56cad6c7-9699-4f37-9978-f500e90ca210

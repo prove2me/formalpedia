@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Damped_unit_step_near
 -- name    : QiNonsmoothEq.Damped.unit_step_near
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:32.704935+00:00
 -- url     : https://prove2.me/theorems/6ac37869-11e7-418b-a11b-595195d481f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Approx_second_inequality
 -- name    : MultiStoreAssort.Approx.second_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:50.520876+00:00
 -- url     : https://prove2.me/theorems/43b18c39-50e1-4d75-af09-83b82fdbcc76

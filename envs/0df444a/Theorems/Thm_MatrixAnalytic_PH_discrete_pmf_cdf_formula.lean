@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_discrete_pmf_cdf_formula
 -- name    : MatrixAnalytic.PH.discrete_pmf_cdf_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:33.529709+00:00
 -- url     : https://prove2.me/theorems/5ea7b088-96b2-46e1-bf39-d59a5a81b1e1

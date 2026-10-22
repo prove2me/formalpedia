@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_GSSpectrum_eq_124
 -- name    : NAGFlow.GSSpectrum.eq_124
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:51.226983+00:00
 -- url     : https://prove2.me/theorems/05434455-97f8-45f4-a8cd-a367da2f141b

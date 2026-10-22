@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_SystemEq_equation_2_7
 -- name    : ReedGGN.SystemEq.equation_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:45.815798+00:00
 -- url     : https://prove2.me/theorems/cc74a6e9-eb5f-4b8a-ba15-59e8277f56ea

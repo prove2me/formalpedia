@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MitigateSupplyRisk_DualSourcing_lemma_1
 -- name    : MitigateSupplyRisk.DualSourcing.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:10.461166+00:00
 -- url     : https://prove2.me/theorems/6ab95a20-b12f-4ada-bc66-bd88749135a3

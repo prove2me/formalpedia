@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOdds_SVM_z_law
 -- name    : RobustOdds.SVM.z_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:39:47.597806+00:00
 -- url     : https://prove2.me/theorems/9a259d83-7824-4391-90da-76380a3fc3fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P44_offdiagonal_stationarity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P44.offdiagonal_stationarity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:09:19.163609+00:00
 -- url     : https://prove2.me/theorems/c31090e2-2957-45ad-8033-d21e375907ab

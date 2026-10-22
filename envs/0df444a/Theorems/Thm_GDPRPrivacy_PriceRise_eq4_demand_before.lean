@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_PriceRise_eq4_demand_before
 -- name    : GDPRPrivacy.PriceRise.eq4_demand_before
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:21.470994+00:00
 -- url     : https://prove2.me/theorems/2a64d389-3fee-410e-bdfe-151fad0c6e0c

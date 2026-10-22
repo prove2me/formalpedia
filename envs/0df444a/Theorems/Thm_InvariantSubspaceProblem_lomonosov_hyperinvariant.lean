@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvariantSubspaceProblem_lomonosov_hyperinvariant
 -- name    : InvariantSubspaceProblem.lomonosov_hyperinvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T17:24:31.432253+00:00
 -- url     : https://prove2.me/theorems/14dd1b3d-dfd5-493e-8e5d-9e25c3eea5da

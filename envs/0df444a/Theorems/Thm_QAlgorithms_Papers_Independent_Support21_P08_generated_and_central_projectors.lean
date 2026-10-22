@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_generated_and_central_projectors
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.generated_and_central_projectors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:34:40.551669+00:00
 -- url     : https://prove2.me/theorems/de051cd4-46b1-4a3d-92f4-b0ab280eba54

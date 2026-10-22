@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOPDistrib_Misalign_cs_FR_threshold
 -- name    : BOPDistrib.Misalign.cs_FR_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:35.573574+00:00
 -- url     : https://prove2.me/theorems/1172ba50-d924-4f5b-8ba1-08564b8fbeaa

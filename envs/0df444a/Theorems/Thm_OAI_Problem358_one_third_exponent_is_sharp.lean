@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem358_one_third_exponent_is_sharp
 -- name    : OAI.Problem358.one_third_exponent_is_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:11.274982+00:00
 -- url     : https://prove2.me/theorems/34779274-1ece-457f-993c-1317dcbb7f9c

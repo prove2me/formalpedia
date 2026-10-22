@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_OddFactors_g81_not_colourable
 -- name    : SnarkGen.OddFactors.g81_not_colourable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:01.029197+00:00
 -- url     : https://prove2.me/theorems/da05a57d-de44-4f94-872a-e9b3a4664f92

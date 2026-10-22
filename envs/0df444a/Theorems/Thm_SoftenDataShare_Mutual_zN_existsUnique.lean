@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftenDataShare_Mutual_zN_existsUnique
 -- name    : SoftenDataShare.Mutual.zN_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:12.960598+00:00
 -- url     : https://prove2.me/theorems/80167e97-14b0-48e4-9874-ea9e81d78788

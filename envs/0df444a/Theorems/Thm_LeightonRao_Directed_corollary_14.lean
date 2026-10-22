@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Directed_corollary_14
 -- name    : LeightonRao.Directed.corollary_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:39.971536+00:00
 -- url     : https://prove2.me/theorems/59fc2cf1-6bdc-46e8-b527-b3f81bf0f850

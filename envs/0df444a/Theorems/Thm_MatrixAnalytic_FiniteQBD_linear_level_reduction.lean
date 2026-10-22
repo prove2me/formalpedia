@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FiniteQBD_linear_level_reduction
 -- name    : MatrixAnalytic.FiniteQBD.linear_level_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:05.064611+00:00
 -- url     : https://prove2.me/theorems/87fe6912-9adf-44ed-9e5c-4b34fc9784f5

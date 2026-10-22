@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_hermite_p_conditions
 -- name    : SlowConvergence.Newton.hermite_p_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:39:42.476551+00:00
 -- url     : https://prove2.me/theorems/d326f243-2b7d-4883-abb6-fbe5047ec554

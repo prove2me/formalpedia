@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DualAvg_weight_identity
 -- name    : RelSmoothFOM.DualAvg.weight_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:34:33.027985+00:00
 -- url     : https://prove2.me/theorems/de692173-3920-4516-9af3-f5273cf51542

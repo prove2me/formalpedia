@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_bitNetR8_mom
 -- name    : IntMul.Kappa.R8.bitNetR8_mom
 -- status  : Open
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:06:55.65409+00:00
 -- url     : https://prove2.me/theorems/2e2fbbed-4b7d-41fb-805a-f7ccbd667355
 -- title:

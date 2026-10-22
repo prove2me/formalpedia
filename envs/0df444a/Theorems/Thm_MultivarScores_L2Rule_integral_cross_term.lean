@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_L2Rule_integral_cross_term
 -- name    : MultivarScores.L2Rule.integral_cross_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:25.467743+00:00
 -- url     : https://prove2.me/theorems/3a22b2f2-4272-4c66-89ba-580ff573991b

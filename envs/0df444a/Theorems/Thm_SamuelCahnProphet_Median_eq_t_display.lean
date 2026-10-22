@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_Median_eq_t_display
 -- name    : SamuelCahnProphet.Median.eq_t_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:59.234985+00:00
 -- url     : https://prove2.me/theorems/6de2bbad-0518-4227-9765-dc2cd5a835a6

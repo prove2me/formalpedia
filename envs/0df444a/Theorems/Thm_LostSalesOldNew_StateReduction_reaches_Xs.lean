@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesOldNew_StateReduction_reaches_Xs
 -- name    : LostSalesOldNew.StateReduction.reaches_Xs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:01:23.064523+00:00
 -- url     : https://prove2.me/theorems/17f9b203-a4a2-487e-b58d-e3fdafad0694

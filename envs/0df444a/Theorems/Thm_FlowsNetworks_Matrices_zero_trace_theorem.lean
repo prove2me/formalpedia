@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Matrices_zero_trace_theorem
 -- name    : FlowsNetworks.Matrices.zero_trace_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:55.375559+00:00
 -- url     : https://prove2.me/theorems/de29c1c0-4e2a-4220-a474-63c675c72306

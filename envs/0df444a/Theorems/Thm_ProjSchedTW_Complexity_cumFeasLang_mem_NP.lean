@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_Complexity_cumFeasLang_mem_NP
 -- name    : ProjSchedTW.Complexity.cumFeasLang_mem_NP
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T02:09:03.462639+00:00
 -- url     : https://prove2.me/theorems/d0bf0960-1f9e-4141-a2b4-e58601e36d21

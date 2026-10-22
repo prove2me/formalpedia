@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_FluidStab_pressure_lower_bound
 -- name    : MaxPressure.FluidStab.pressure_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:54:45.761194+00:00
 -- url     : https://prove2.me/theorems/d87d4ba5-31dd-467c-a7b8-df53a52c2948

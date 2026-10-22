@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailInfoShare_AFS_eq_4
 -- name    : RetailInfoShare.AFS.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:00.478491+00:00
 -- url     : https://prove2.me/theorems/32b2f133-3a22-4ae7-bca0-d0ebb1802008

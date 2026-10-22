@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_LocalSearch_lemma_2_1
 -- name    : CurvatureSubmod.LocalSearch.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:09:05.579634+00:00
 -- url     : https://prove2.me/theorems/bfa40872-7f84-4ca3-be92-4b5c32a694b6

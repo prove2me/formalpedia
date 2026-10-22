@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GagieRIndex_Locate_lemma_3_identity
 -- name    : GagieRIndex.Locate.lemma_3_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:30.313222+00:00
 -- url     : https://prove2.me/theorems/57b1927c-7bc8-4cb6-bb29-735f986dd07d

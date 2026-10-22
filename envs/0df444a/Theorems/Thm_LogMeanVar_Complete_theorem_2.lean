@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogMeanVar_Complete_theorem_2
 -- name    : LogMeanVar.Complete.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:55.340822+00:00
 -- url     : https://prove2.me/theorems/c5910daf-b9a6-46bb-a5b2-d0bc3fd05fa7

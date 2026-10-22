@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_proposition1_participation
 -- name    : TwoSidedPD.Baseline.proposition1_participation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:06.007981+00:00
 -- url     : https://prove2.me/theorems/14acee55-b05b-40ca-b201-84763fd9e1bd

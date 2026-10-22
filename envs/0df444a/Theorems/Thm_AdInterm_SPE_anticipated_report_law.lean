@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdInterm_SPE_anticipated_report_law
 -- name    : AdInterm.SPE.anticipated_report_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:18.867658+00:00
 -- url     : https://prove2.me/theorems/a684eb6c-b579-4739-827a-c5edb3638a53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_LevelOne_quadratic_step
 -- name    : OptInapprox.LevelOne.quadratic_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:19.974753+00:00
 -- url     : https://prove2.me/theorems/b5f3efeb-3eb4-4af0-8805-a28f791a3d10

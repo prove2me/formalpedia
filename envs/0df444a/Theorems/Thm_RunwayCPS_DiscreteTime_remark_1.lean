@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunwayCPS_DiscreteTime_remark_1
 -- name    : RunwayCPS.DiscreteTime.remark_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:16:55.303978+00:00
 -- url     : https://prove2.me/theorems/e1350c72-1cc8-4585-9bf6-bc12938e0d46

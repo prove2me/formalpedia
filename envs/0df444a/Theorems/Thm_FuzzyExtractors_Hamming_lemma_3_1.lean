@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_Hamming_lemma_3_1
 -- name    : FuzzyExtractors.Hamming.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:16:15.966982+00:00
 -- url     : https://prove2.me/theorems/7807155f-1059-4dfa-b2dd-46fe6378d526

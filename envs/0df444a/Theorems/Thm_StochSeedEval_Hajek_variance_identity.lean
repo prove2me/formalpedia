@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSeedEval_Hajek_variance_identity
 -- name    : StochSeedEval.Hajek.variance_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:21.656182+00:00
 -- url     : https://prove2.me/theorems/3ba3811a-ac28-4c45-975e-69272aace2c6

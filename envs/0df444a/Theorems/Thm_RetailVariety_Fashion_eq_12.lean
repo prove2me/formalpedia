@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailVariety_Fashion_eq_12
 -- name    : RetailVariety.Fashion.eq_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:59:52.370976+00:00
 -- url     : https://prove2.me/theorems/91fc19d3-26ce-4e9d-96b3-6d403167922e

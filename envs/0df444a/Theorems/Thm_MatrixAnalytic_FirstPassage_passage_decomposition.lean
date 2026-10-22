@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FirstPassage_passage_decomposition
 -- name    : MatrixAnalytic.FirstPassage.passage_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:31.589908+00:00
 -- url     : https://prove2.me/theorems/18777f95-faf7-4266-8d33-950ffc951f15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExecCompLP_Consistency_claimA_linearIndependent_perturb
 -- name    : ExecCompLP.Consistency.claimA_linearIndependent_perturb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:25:29.62015+00:00
 -- url     : https://prove2.me/theorems/08f736e4-d003-4c8d-b456-5f47aac35435

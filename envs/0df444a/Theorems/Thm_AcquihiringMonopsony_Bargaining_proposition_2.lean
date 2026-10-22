@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_Bargaining_proposition_2
 -- name    : AcquihiringMonopsony.Bargaining.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:49.414981+00:00
 -- url     : https://prove2.me/theorems/4de6bf6f-37ce-43f5-9a93-6f55f0e5b849

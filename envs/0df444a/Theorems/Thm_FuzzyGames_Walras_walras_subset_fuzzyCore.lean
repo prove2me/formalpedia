@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_Walras_walras_subset_fuzzyCore
 -- name    : FuzzyGames.Walras.walras_subset_fuzzyCore
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:12.978137+00:00
 -- url     : https://prove2.me/theorems/c47c43c6-6103-4b16-8004-a070f71a218e

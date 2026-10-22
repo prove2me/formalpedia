@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Stability_proposition_3_17_unique_equilibrium
 -- name    : GraphonGames.Stability.proposition_3_17_unique_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:25.150256+00:00
 -- url     : https://prove2.me/theorems/725ac376-4945-4056-baa9-1e4e47dc7ff4

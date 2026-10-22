@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_LogReduction_G_band_decomposition
 -- name    : MatrixAnalytic.LogReduction.G_band_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:10.666357+00:00
 -- url     : https://prove2.me/theorems/76df0bde-eb56-44d4-9628-f043913237c6

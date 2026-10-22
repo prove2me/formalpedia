@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Feasibility_circulation_node_bounds
 -- name    : FlowsNetworks.Feasibility.circulation_node_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:27.727997+00:00
 -- url     : https://prove2.me/theorems/7d2db906-c70a-4439-a42e-c9ac5e6f0037

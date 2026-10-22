@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinCG_FRBound_cos_theta_bounds
 -- name    : NonlinCG.FRBound.cos_theta_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:43:34.666987+00:00
 -- url     : https://prove2.me/theorems/74e619dd-59f0-44b4-a197-e71770deadcb

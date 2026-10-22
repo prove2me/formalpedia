@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_ThreeOp_energy_nonneg
 -- name    : FRBSplitting.ThreeOp.energy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:50.914722+00:00
 -- url     : https://prove2.me/theorems/7b40325b-5cb3-4272-bff4-9170a3a5c6fe

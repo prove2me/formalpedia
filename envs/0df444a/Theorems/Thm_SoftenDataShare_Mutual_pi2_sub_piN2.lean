@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftenDataShare_Mutual_pi2_sub_piN2
 -- name    : SoftenDataShare.Mutual.pi2_sub_piN2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:10.776993+00:00
 -- url     : https://prove2.me/theorems/ce18cee8-d30e-439f-a0b7-f8335b4e62a4

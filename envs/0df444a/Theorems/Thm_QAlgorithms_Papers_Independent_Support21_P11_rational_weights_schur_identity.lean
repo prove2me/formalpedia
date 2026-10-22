@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P11_rational_weights_schur_identity
 -- name    : QAlgorithms.Papers.Independent.Support21.P11.rational_weights_schur_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:02:44.568063+00:00
 -- url     : https://prove2.me/theorems/d95d953c-2cd6-4743-8872-13160dd9c4d5

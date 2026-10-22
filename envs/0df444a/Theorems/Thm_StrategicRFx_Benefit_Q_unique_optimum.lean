@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicRFx_Benefit_Q_unique_optimum
 -- name    : StrategicRFx.Benefit.Q_unique_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:05.746995+00:00
 -- url     : https://prove2.me/theorems/7d0efeb5-a792-44d1-ba4e-ea47a573befa

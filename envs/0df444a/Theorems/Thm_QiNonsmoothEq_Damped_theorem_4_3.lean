@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Damped_theorem_4_3
 -- name    : QiNonsmoothEq.Damped.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:31.075+00:00
 -- url     : https://prove2.me/theorems/a547dd83-04d9-425b-89eb-7a8a5c4e0f8c

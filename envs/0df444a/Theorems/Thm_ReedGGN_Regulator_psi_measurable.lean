@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_psi_measurable
 -- name    : ReedGGN.Regulator.psi_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:14.434453+00:00
 -- url     : https://prove2.me/theorems/d37edea8-0507-4993-b4da-9a8134988a75

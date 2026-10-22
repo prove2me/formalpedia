@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_general_helly
 -- name    : ModernConvex.SLemma.general_helly
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:06.686713+00:00
 -- url     : https://prove2.me/theorems/f2c84ad4-5438-403c-88d4-348d1a380bab

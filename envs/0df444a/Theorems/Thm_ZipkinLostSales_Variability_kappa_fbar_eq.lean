@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Variability_kappa_fbar_eq
 -- name    : ZipkinLostSales.Variability.kappa_fbar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:41.208622+00:00
 -- url     : https://prove2.me/theorems/34746fc5-1ed6-4cec-84ce-756ed55eb272

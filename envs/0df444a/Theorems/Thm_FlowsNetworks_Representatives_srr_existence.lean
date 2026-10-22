@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_srr_existence
 -- name    : FlowsNetworks.Representatives.srr_existence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:25.290881+00:00
 -- url     : https://prove2.me/theorems/a9fb4767-1a81-4bfa-8fa6-ca4eaec5b4ce

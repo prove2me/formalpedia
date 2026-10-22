@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Termination_lemma_7_2
 -- name    : WrightPDIPM.Termination.lemma_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:16.635533+00:00
 -- url     : https://prove2.me/theorems/63c3cc8e-d068-44c5-8038-1e18e031c96f

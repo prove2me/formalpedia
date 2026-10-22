@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgets_IdenticalPrefs_theorem_8_1
 -- name    : GenericBudgets.IdenticalPrefs.theorem_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:30:19.972963+00:00
 -- url     : https://prove2.me/theorems/05efd319-d8c8-4475-aeac-65963426c5dd

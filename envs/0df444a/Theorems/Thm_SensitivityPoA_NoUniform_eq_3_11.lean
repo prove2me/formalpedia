@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_NoUniform_eq_3_11
 -- name    : SensitivityPoA.NoUniform.eq_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:38:59.603748+00:00
 -- url     : https://prove2.me/theorems/ffa4aaa7-3cb2-4027-b1ad-a6a09f239016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_SamplesDual_unclipped_closed_form
 -- name    : SecretaryAdvice.SamplesDual.unclipped_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:28.141672+00:00
 -- url     : https://prove2.me/theorems/95244bf8-5309-48dd-980f-ed70f59a3056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MitigateSupplyRisk_DualSourcing_eq6_first_order
 -- name    : MitigateSupplyRisk.DualSourcing.eq6_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:47.821363+00:00
 -- url     : https://prove2.me/theorems/854f8126-fb75-46c1-9091-9f3e49c1fc8c

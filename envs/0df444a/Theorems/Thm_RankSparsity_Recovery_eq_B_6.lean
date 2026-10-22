@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankSparsity_Recovery_eq_B_6
 -- name    : RankSparsity.Recovery.eq_B_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:43.43898+00:00
 -- url     : https://prove2.me/theorems/b38b8be2-23a1-445c-b364-97d216ad81d3

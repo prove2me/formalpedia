@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScatPoly_Construction_proposition_3_2
 -- name    : ScatPoly.Construction.proposition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:41.366958+00:00
 -- url     : https://prove2.me/theorems/5fc5db05-7029-4af6-9f4f-b6bd93d7de5c

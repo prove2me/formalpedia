@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JaggiFW_PrimalDual_gap_eq_of_linear_minimizer
 -- name    : JaggiFW.PrimalDual.gap_eq_of_linear_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:43.262244+00:00
 -- url     : https://prove2.me/theorems/559af8d4-5d3a-4cfe-8d5f-b491caae3912

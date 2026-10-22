@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlliancePortfolio_Sharing_single_alliance_only_if
 -- name    : AlliancePortfolio.Sharing.single_alliance_only_if
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:48:55.239221+00:00
 -- url     : https://prove2.me/theorems/e72fb440-d3ed-4bc1-84b9-e4b17afdfae9

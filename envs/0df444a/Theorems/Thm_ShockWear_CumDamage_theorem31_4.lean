@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_CumDamage_theorem31_4
 -- name    : ShockWear.CumDamage.theorem31_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:48:25.209162+00:00
 -- url     : https://prove2.me/theorems/35d85f57-bfa6-4647-b175-f32689975066

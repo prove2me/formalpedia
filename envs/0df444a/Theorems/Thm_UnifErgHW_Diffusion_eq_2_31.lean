@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnifErgHW_Diffusion_eq_2_31
 -- name    : UnifErgHW.Diffusion.eq_2_31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:13:13.83129+00:00
 -- url     : https://prove2.me/theorems/013e0a13-44b9-45ae-937a-afed3e8912ba

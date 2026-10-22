@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_corollary21_weak_triangle
 -- name    : TinyCoreset.DimRed.corollary21_weak_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:25.582132+00:00
 -- url     : https://prove2.me/theorems/a2ac286b-9d2a-4288-833a-e6616f5af3ca

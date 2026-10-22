@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_tensor_complementarity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.tensor_complementarity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:40:53.275328+00:00
 -- url     : https://prove2.me/theorems/6ac22256-6cf9-4f6d-9865-24db57c290bf

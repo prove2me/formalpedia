@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomHedge_Exist_inner_le_maxCorr
 -- name    : CustomHedge.Exist.inner_le_maxCorr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:49.974523+00:00
 -- url     : https://prove2.me/theorems/6140e96f-e036-4294-9ba8-0b6253bd3dd6

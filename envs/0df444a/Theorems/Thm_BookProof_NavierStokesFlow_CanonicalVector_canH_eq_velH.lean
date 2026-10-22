@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_CanonicalVector_canH_eq_velH
 -- name    : BookProof.NavierStokesFlow.CanonicalVector.canH_eq_velH
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:21:48.828991+00:00
 -- url     : https://prove2.me/theorems/dcd2c08f-10a9-4a8d-a382-fe32ba73ee68

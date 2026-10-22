@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Dubey1986_Inefficiency_Nstar_codim
 -- name    : Dubey1986.Inefficiency.Nstar_codim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:34:39.780748+00:00
 -- url     : https://prove2.me/theorems/519bfa8d-2ad9-4d7b-9a38-b140f18a0e87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_CQRepr_cqr_closedness_lemma
 -- name    : ModernConvex.CQRepr.cqr_closedness_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:29.809483+00:00
 -- url     : https://prove2.me/theorems/a4162618-b3e7-48d6-a911-28d79d51cab3

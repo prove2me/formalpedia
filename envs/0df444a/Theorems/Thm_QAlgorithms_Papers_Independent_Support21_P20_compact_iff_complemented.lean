@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_compact_iff_complemented
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.compact_iff_complemented
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:55:52.908749+00:00
 -- url     : https://prove2.me/theorems/3e66825d-4700-458a-abc8-cf05a760108e

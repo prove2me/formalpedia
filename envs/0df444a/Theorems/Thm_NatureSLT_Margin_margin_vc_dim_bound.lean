@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Margin_margin_vc_dim_bound
 -- name    : NatureSLT.Margin.margin_vc_dim_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:57.603673+00:00
 -- url     : https://prove2.me/theorems/e9794310-8ed6-4e2e-bc55-be28d5188f55

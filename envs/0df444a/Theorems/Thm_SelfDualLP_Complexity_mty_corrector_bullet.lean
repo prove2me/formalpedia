@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Complexity_mty_corrector_bullet
 -- name    : SelfDualLP.Complexity.mty_corrector_bullet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:00:10.15999+00:00
 -- url     : https://prove2.me/theorems/5deb05d9-3153-41a6-bc99-2210381e72c0

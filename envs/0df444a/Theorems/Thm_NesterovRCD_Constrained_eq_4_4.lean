@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Constrained_eq_4_4
 -- name    : NesterovRCD.Constrained.eq_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:15:20.678742+00:00
 -- url     : https://prove2.me/theorems/78b367af-da20-4d84-8fb4-5cc5b22be2a8

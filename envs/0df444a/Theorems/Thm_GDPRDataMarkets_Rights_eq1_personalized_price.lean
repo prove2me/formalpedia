@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Rights_eq1_personalized_price
 -- name    : GDPRDataMarkets.Rights.eq1_personalized_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:48.312085+00:00
 -- url     : https://prove2.me/theorems/3433a1c2-06c6-48d7-9c9b-36e28eef6352

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Unified_price_derivatives
 -- name    : SubstitutePricing.Unified.price_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:17:59.327474+00:00
 -- url     : https://prove2.me/theorems/bd7629d4-b602-4718-8ad2-690c764e78dc

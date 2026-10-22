@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_observation_3
 -- name    : SourceTheory.EqualSources.observation_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:23.79811+00:00
 -- url     : https://prove2.me/theorems/212b02e6-7c1d-4e04-9b14-8147973f2f60

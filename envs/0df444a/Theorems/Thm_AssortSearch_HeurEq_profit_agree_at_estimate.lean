@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_profit_agree_at_estimate
 -- name    : AssortSearch.HeurEq.profit_agree_at_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:17.311557+00:00
 -- url     : https://prove2.me/theorems/7bd32468-a5fe-4b66-8330-f05129a9054a

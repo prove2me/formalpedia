@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FirstPassage_bisection_sojourn
 -- name    : MatrixAnalytic.FirstPassage.bisection_sojourn
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:36.216954+00:00
 -- url     : https://prove2.me/theorems/39c401ca-d67f-46cf-95e1-e034ae2525e0

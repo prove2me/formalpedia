@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Stoch_one_step
 -- name    : NonconvexAG.Stoch.one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:22:52.555958+00:00
 -- url     : https://prove2.me/theorems/f9488d40-6ce2-48b7-90e8-5bcf1edbd4f1

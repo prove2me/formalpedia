@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_ConicDuality_separation_theorem
 -- name    : ModernConvex.ConicDuality.separation_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:32.684261+00:00
 -- url     : https://prove2.me/theorems/fa8c3674-3db6-452f-98dc-6a481e1a9855

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_reflections_as_rotations
 -- name    : FixedPointAA.Main.reflections_as_rotations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:03.778273+00:00
 -- url     : https://prove2.me/theorems/858f75c6-9c19-40e6-9c15-c6544197b4d4

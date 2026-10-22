@@ -1,0 +1,165 @@
+-- Prove2me | solution 1 for FullFormalization.b_last_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @Somehow
+-- created : 2026-10-09T05:58:26.007762+00:00
+-- url     : https://prove2.me/submissions/c02968cc-37e3-411e-a001-19dc2007996c
+
+-- Generated from F:/20261008/FullFormalization\FullFormalization\Positivity.lean (Phase 3-4): proof kept, declaration hoisted out
+-- of its namespace as the top-level `theorem solution`, shorter
+-- helpers pasted verbatim, imports rewritten to Def bundles and
+-- Thm_ stubs.
+/-
+  FullFormalization.Positivity
+
+  Source sections 13-16: positivity of every weight in the certificate.
+
+    * `h_pos`      — (13.1)
+    * `H_pos`      — `H` is strictly increasing from `H_0 = 1`, by (5.1)
+    * `D_pos`      — `D_j > 0` on the valid range
+    * `a_pos`      — Lemma 13.1, first half
+    * `b_pos`      — Lemma 13.1, second half; uses the identity
+                     `b_j = H_j (j+3)/(4 D_j D_{j+1}) + h_j/D_j` derived from
+                     (5.1) and (5.5), so positivity is immediate from `H, h, D > 0`
+    * `alpha_pos`  — section 14
+    * `betaT_eq`, `betaT_pos` — (15.1), (15.2), (15.3)
+    * `beta_eq_P`, `beta_pos` — (16.2)-(16.4), via the source's substitution
+                     `j = u + 1`, `N = u + v + 3`, `u, v >= 0`, and the explicit
+                     polynomials `Pbeta (16.2)`, `Qbeta (16.3)` with all-positive
+                     coefficients (`Pbeta_pos`, `Qbeta_pos`)
+
+  None of these is a finite enumeration: the running index and `N` stay
+  universally quantified throughout, and every statement is proved
+  symbolically.
+-/
+
+import Mathlib
+import Definitions.Def_Certificate
+import Definitions.Def_Coefficients
+import Definitions.Def_Positivity
+import Theorems.Thm_FullFormalization_D_pos
+import Theorems.Thm_FullFormalization_D_succ
+import Theorems.Thm_FullFormalization_D_zero_capital
+import Theorems.Thm_FullFormalization_H_last_eq_d
+import Theorems.Thm_FullFormalization_H_last_eq_d_prime
+import Theorems.Thm_FullFormalization_a_eq
+import Theorems.Thm_FullFormalization_a_last
+import Theorems.Thm_FullFormalization_b_eq
+import Theorems.Thm_FullFormalization_d_mono
+import Theorems.Thm_FullFormalization_d_one
+import Theorems.Thm_FullFormalization_d_sub_pred
+import Theorems.Thm_FullFormalization_d_succ_sub
+
+open scoped Gradient RealInnerProductSpace
+
+set_option linter.unusedSectionVars false
+set_option linter.unusedTactic false
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 10000
+
+namespace FullFormalization
+
+/-! ### (13.1) `h_j > 0` -/
+
+
+
+
+
+/-! ### `H_j > 0` -/
+
+
+
+
+
+/-! ### `a_j > 0` and `b_j > 0`  (Lemma 13.1) -/
+
+
+
+
+
+
+
+
+
+/-! ### Section 14: `alpha_j > 0` -/
+
+
+
+/-! ### Section 15: `β_T > 0`  —  (15.1), (15.2), (15.3)
+
+`β_T = ½ (a_{N-1} - (m_{N-1} + b_N)²)` by (6.5).  Evaluating the three pieces in
+closed form — `a_{N-1} = N(N+7)/(N²+9N+6)`, `m_{N-1} = (N-1)/(N+2)`,
+`b_N = 1 - a_{N-1}` — gives the rational function (15.1); the source then
+substitutes `N = u + 2` to put the numerator in the all-positive form (15.2). -/
+
+
+
+
+
+
+
+/-! ### Section 16: `β_j > 0`  —  (16.1)-(16.4)
+
+Source (16.1) substitutes `j = u + 1`, `N = u + v + 3` with `u, v >= 0`, under
+which `β_j` (6.3) becomes the ratio `P(u,v)/Q(u,v)` of the two polynomials
+below; both have all coefficients of one sign, so `β_j > 0` is immediate.
+
+The two coefficient lists are those of `scripts/gen_beta_data.py`, which
+regenerates them exactly from the definitions of `a`, `b`, `h`, `H`, `D`, `m`,
+`d` in `Coefficients.lean` (source (4.1)-(4.13)).  The source prints the
+denominator factor `u² + 4uv + 2v² + 15u + 26v + 42`, which is `8 * D_{j+2}`
+under the substitution; the factor `128 (u+4)² (u+v+4)(u+v+5)` likewise collects
+the denominators `8 (N+1)(N+2)` of `H`, `2 (N+1)(N+2)` of `h` and `k + 3 = u+4`
+of `m`.  Both `P` and `Q` are the sign-flipped (positive) versions: the raw
+SymPy output carries an overall sign on each. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+end FullFormalization
+
+open FullFormalization
+
+open scoped Gradient RealInnerProductSpace
+set_option linter.unusedSectionVars false
+set_option linter.unusedTactic false
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 10000
+
+open FullFormalization in
+
+theorem solution (N : ℕ) (hN : 1 ≤ N) :
+    b N N = 2 * ((N : ℝ) + 3) / ((N : ℝ) ^ 2 + 9 * (N : ℝ) + 6) := by
+  have hN1 : 1 ≤ N := by omega
+  have hform : b N N = (d N - d (N - 1)) / (2 * d N - d (N - 1)) := by
+    rw [b_eq N N hN1, a_last, a_eq N (N - 1) (by omega),
+        show N - 1 + 1 = N by omega]
+    have hH : H N (N - 1) = d N := H_last_eq_d_prime N hN1
+    have hD : D N N = 2 * d N - d (N - 1) := D_succ N N hN1
+    rw [hH, hD]
+    have hne : d N * 2 - d (N - 1) ≠ 0 := by
+      have h := D_pos N N hN1 (by omega)
+      rw [hD] at h
+      have hpos : 0 < d N * 2 - d (N - 1) := by linarith
+      exact ne_of_gt hpos
+    field_simp <;> ring
+  rw [hform]
+  have hnum : d N - d (N - 1) = ((N : ℝ) + 3) / 4 := d_sub_pred N hN1
+  have hden : 2 * d N - d (N - 1) = ((N : ℝ) ^ 2 + 9 * (N : ℝ) + 6) / 8 := by
+    have hsub : ((N - 1 : ℕ) : ℝ) = (N : ℝ) - 1 := by
+      rw [Nat.cast_sub hN1]
+      norm_num
+    simp only [d, hsub]
+    push_cast
+    ring
+  rw [hnum, hden]
+  have hne : ((N : ℝ) ^ 2 + 9 * (N : ℝ) + 6) ≠ 0 := by positivity
+  field_simp <;> ring

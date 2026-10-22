@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRandomObject_Bads_proposition_14
 -- name    : FairRandomObject.Bads.proposition_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:47.876151+00:00
 -- url     : https://prove2.me/theorems/a8c38f68-ab9c-402b-b9d2-44ce88a86e10

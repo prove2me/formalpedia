@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_GridThm_lemma_5_6
 -- name    : TwinWidthI.GridThm.lemma_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:04.309481+00:00
 -- url     : https://prove2.me/theorems/12a2e6bd-3b1f-469d-83ae-197ea180951f

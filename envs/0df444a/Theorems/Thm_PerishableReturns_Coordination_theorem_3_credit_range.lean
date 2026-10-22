@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishableReturns_Coordination_theorem_3_credit_range
 -- name    : PerishableReturns.Coordination.theorem_3_credit_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:21.615448+00:00
 -- url     : https://prove2.me/theorems/0eb67e7f-6ee1-4e5b-a168-07a420953ab7

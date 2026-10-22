@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_dirichlet_kernel
 -- name    : NatureSLT.Kernels.dirichlet_kernel
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:09.07753+00:00
 -- url     : https://prove2.me/theorems/77378eb9-2def-48e0-b4c3-4f6f65cc94c7

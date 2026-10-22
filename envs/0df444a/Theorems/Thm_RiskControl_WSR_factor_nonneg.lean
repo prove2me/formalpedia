@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_WSR_factor_nonneg
 -- name    : RiskControl.WSR.factor_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:35:43.487278+00:00
 -- url     : https://prove2.me/theorems/64d10272-f3be-47d3-b56f-8216d97ea157

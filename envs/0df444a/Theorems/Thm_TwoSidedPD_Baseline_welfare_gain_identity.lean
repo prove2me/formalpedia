@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_welfare_gain_identity
 -- name    : TwoSidedPD.Baseline.welfare_gain_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:18.926021+00:00
 -- url     : https://prove2.me/theorems/a08a9d68-0cec-40a6-ba2d-16106fd193d4

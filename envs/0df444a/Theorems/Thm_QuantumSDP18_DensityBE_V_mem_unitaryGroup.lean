@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_DensityBE_V_mem_unitaryGroup
 -- name    : QuantumSDP18.DensityBE.V_mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:24.347733+00:00
 -- url     : https://prove2.me/theorems/c08f1669-e33b-4f7e-aad0-87b439ea480d

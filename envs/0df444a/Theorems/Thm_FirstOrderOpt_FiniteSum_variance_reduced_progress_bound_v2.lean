@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_FiniteSum_variance_reduced_progress_bound_v2
 -- name    : FirstOrderOpt.FiniteSum.variance_reduced_progress_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:17:16.250472+00:00
 -- url     : https://prove2.me/theorems/0b2ce2fb-a524-4325-8575-46c994f34ecf

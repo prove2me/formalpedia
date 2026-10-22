@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HScattered_Delsarte_theorem_2_7
 -- name    : HScattered.Delsarte.theorem_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:42.352685+00:00
 -- url     : https://prove2.me/theorems/129a5a39-61db-47a6-a327-b3d558b04ca0

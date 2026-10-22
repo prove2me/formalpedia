@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_Schur_lcp_unique_iff_pmatrix
 -- name    : RobinsonSR.Schur.lcp_unique_iff_pmatrix
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:10:38.665971+00:00
 -- url     : https://prove2.me/theorems/a934b4c7-7377-4329-a67d-b07ca44e9e50

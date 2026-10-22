@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_regularity_bound
 -- name    : SourceTheory.EqualSources.regularity_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:07.79851+00:00
 -- url     : https://prove2.me/theorems/fb8b4df3-734b-4449-a335-e1fed329c947

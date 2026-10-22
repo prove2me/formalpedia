@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_sdr_marginal_index
 -- name    : FlowsNetworks.Representatives.sdr_marginal_index
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:36.944117+00:00
 -- url     : https://prove2.me/theorems/5f35b262-2ee9-4a22-a540-f3ee4bfa0531

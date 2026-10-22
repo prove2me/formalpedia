@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_L2Rule_S_eq_S_prime_add
 -- name    : MultivarScores.L2Rule.S_eq_S_prime_add
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:32.981229+00:00
 -- url     : https://prove2.me/theorems/877db1ad-8c63-496a-be0b-f19089f30ef5

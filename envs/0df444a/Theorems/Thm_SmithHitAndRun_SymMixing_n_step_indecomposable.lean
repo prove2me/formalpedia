@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithHitAndRun_SymMixing_n_step_indecomposable
 -- name    : SmithHitAndRun.SymMixing.n_step_indecomposable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:13:14.634758+00:00
 -- url     : https://prove2.me/theorems/758e38a6-b707-4a95-853c-2f50afb2c383

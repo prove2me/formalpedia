@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanVarASD_AFSD_A_ge_B_at_deltaStar
 -- name    : MeanVarASD.AFSD.A_ge_B_at_deltaStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:00.846065+00:00
 -- url     : https://prove2.me/theorems/9fd3ca9f-0ecf-4901-a67d-f98df83c163c

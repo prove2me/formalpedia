@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_LPRounding_case1_claim
 -- name    : SymBoolPCSP.LPRounding.case1_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:30:24.042558+00:00
 -- url     : https://prove2.me/theorems/05a3e96f-bcab-4b59-b66d-7332e8b363cf

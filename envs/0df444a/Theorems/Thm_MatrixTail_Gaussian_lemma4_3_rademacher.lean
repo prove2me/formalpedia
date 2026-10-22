@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTail_Gaussian_lemma4_3_rademacher
 -- name    : MatrixTail.Gaussian.lemma4_3_rademacher
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:11:00.868237+00:00
 -- url     : https://prove2.me/theorems/e0b02e24-5ddf-47a5-9b84-a6cbd76df9e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DualAvg_psi_star_step
 -- name    : RelSmoothFOM.DualAvg.psi_star_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:34:58.137627+00:00
 -- url     : https://prove2.me/theorems/cbdf9f11-ef4d-45e8-a0f6-cb66d0feb6a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_ConstrGap_ec4_optimal_value_zero
 -- name    : KAdaptability.ConstrGap.ec4_optimal_value_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:01:51.792139+00:00
 -- url     : https://prove2.me/theorems/ed8388bf-35d2-4319-9878-a18fa842854e

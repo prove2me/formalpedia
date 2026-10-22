@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunIntersect_Tight_lemma_3
 -- name    : RunIntersect.Tight.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:35:34.136748+00:00
 -- url     : https://prove2.me/theorems/cd934e46-8fb8-4d65-bbc2-6f2ddd9a24ef

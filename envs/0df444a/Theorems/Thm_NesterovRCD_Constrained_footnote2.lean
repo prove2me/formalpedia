@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Constrained_footnote2
 -- name    : NesterovRCD.Constrained.footnote2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:14:44.597197+00:00
 -- url     : https://prove2.me/theorems/fa98eaed-587d-4863-abb3-d9b5d79feebe

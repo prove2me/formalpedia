@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_OneAsset_proposition3_one_asset
 -- name    : CostlyShort.OneAsset.proposition3_one_asset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:28.736857+00:00
 -- url     : https://prove2.me/theorems/2fd91d22-f8c2-462c-917d-826e6e64a5ae

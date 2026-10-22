@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GavrilSubtree_Chordal_inter_cliques_disjoint
 -- name    : GavrilSubtree.Chordal.inter_cliques_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:53:33.106885+00:00
 -- url     : https://prove2.me/theorems/d35ca334-ee6a-47f6-8f53-bf55282cd0e0

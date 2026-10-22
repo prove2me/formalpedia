@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.logarithmicIdeal_constant_fibre_contact_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-20T23:09:48.1329+00:00
 -- url     : https://prove2.me/submissions/9fdf4534-77d7-4c25-be32-8532653e782b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Definitions.Def_OAI_PiExponent_LogarithmicInterpolationNumerics

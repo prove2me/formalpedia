@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexCommitRO_BoxExt_isCPF_comp_affine
 -- name    : FlexCommitRO.BoxExt.isCPF_comp_affine
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:00:34.288729+00:00
 -- url     : https://prove2.me/theorems/c71fe641-aadc-4d6a-8559-f5923f862368

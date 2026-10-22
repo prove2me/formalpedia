@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Improved_isCClosedOn_mono
 -- name    : CClosedGraphs.Improved.isCClosedOn_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:14.576952+00:00
 -- url     : https://prove2.me/theorems/44103f12-ce58-4ec4-8249-9543354a1a11

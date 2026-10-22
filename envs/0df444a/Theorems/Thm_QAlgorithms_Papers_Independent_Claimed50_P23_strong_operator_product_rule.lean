@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P23_strong_operator_product_rule
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P23.strong_operator_product_rule
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:09:40.117774+00:00
 -- url     : https://prove2.me/theorems/9ef05ac3-eeb5-4823-ae4b-4430d2134854

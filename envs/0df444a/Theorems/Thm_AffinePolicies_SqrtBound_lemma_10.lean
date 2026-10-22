@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_SqrtBound_lemma_10
 -- name    : AffinePolicies.SqrtBound.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:40:14.181612+00:00
 -- url     : https://prove2.me/theorems/414c8ef8-eac8-4b9b-bdc9-c7eb71e77315

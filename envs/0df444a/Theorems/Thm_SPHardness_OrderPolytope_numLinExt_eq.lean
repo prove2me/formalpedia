@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_OrderPolytope_numLinExt_eq
 -- name    : SPHardness.OrderPolytope.numLinExt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:10:12.800983+00:00
 -- url     : https://prove2.me/theorems/d64f6d3c-58aa-4c74-80f7-ca059e5cb002

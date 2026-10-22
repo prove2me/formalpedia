@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRAM_LowerBound_theorem_6_1
 -- name    : ObliviousRAM.LowerBound.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:10:40.720979+00:00
 -- url     : https://prove2.me/theorems/a519ede4-a4e7-460b-a3dc-5932b5ae6d76

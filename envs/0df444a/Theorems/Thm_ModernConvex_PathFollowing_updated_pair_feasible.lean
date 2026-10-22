@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_updated_pair_feasible
 -- name    : ModernConvex.PathFollowing.updated_pair_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:52.260999+00:00
 -- url     : https://prove2.me/theorems/ccb6ea50-11c8-4147-9948-8544c6a1c53a

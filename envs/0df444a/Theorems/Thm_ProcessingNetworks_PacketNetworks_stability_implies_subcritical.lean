@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_stability_implies_subcritical
 -- name    : ProcessingNetworks.PacketNetworks.stability_implies_subcritical
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:49:25.590862+00:00
 -- url     : https://prove2.me/theorems/b03dbeb4-eac4-4890-8799-96782a7c9735

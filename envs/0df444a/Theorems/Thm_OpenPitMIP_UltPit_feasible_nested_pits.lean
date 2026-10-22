@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_UltPit_feasible_nested_pits
 -- name    : OpenPitMIP.UltPit.feasible_nested_pits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:42:50.223644+00:00
 -- url     : https://prove2.me/theorems/4df24ddc-eca3-475c-a5f7-c505cb5e0e37

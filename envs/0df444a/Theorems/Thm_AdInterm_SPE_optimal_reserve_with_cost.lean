@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdInterm_SPE_optimal_reserve_with_cost
 -- name    : AdInterm.SPE.optimal_reserve_with_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:13:28.648278+00:00
 -- url     : https://prove2.me/theorems/54e482d3-5183-45db-abb9-998e1e34d486

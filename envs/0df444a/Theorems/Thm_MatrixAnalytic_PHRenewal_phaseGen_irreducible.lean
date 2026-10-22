@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PHRenewal_phaseGen_irreducible
 -- name    : MatrixAnalytic.PHRenewal.phaseGen_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:30.236229+00:00
 -- url     : https://prove2.me/theorems/567ffb19-ab73-4ce3-8b79-18088850f6a6

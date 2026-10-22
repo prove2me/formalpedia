@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayImpulse_Optimal_proof_5_3_argmax
 -- name    : DelayImpulse.Optimal.proof_5_3_argmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:33.79927+00:00
 -- url     : https://prove2.me/theorems/13999e0b-e064-43f1-93c3-de33181c94de

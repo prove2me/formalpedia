@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviSampling_BaseStock_min_above_convex
 -- name    : LeviSampling.BaseStock.min_above_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:21.685358+00:00
 -- url     : https://prove2.me/theorems/e36e1c61-067a-4bb4-bd46-2800199b8267

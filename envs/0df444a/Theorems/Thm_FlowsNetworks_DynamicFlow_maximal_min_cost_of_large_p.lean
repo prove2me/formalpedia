@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_DynamicFlow_maximal_min_cost_of_large_p
 -- name    : FlowsNetworks.DynamicFlow.maximal_min_cost_of_large_p
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:08.715437+00:00
 -- url     : https://prove2.me/theorems/b3ea2a22-a8c1-44e8-9dcd-0c5f678d1e92

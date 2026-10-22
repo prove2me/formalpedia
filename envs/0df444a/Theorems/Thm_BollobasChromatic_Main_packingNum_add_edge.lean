@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BollobasChromatic_Main_packingNum_add_edge
 -- name    : BollobasChromatic.Main.packingNum_add_edge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:07:12.185043+00:00
 -- url     : https://prove2.me/theorems/c478e46c-3213-4832-b415-81de80ae1656

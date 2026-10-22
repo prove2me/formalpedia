@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnknownProphet_NoSamples_lemma_1
 -- name    : UnknownProphet.NoSamples.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:49.748237+00:00
 -- url     : https://prove2.me/theorems/a57d032e-feeb-4dbc-8fba-1b8a3530e946

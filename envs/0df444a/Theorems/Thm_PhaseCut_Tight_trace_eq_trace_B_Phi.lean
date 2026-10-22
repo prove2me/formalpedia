@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_trace_eq_trace_B_Phi
 -- name    : PhaseCut.Tight.trace_eq_trace_B_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:39:06.708613+00:00
 -- url     : https://prove2.me/theorems/3080f4d8-a162-469a-8392-2b3a424e9980

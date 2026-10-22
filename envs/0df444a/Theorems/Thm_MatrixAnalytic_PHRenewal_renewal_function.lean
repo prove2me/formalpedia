@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PHRenewal_renewal_function
 -- name    : MatrixAnalytic.PHRenewal.renewal_function
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:25.927291+00:00
 -- url     : https://prove2.me/theorems/ad44477d-8198-4a25-b70d-42e6c17b0b75

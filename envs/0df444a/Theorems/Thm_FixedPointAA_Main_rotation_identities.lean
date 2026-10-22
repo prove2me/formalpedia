@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_rotation_identities
 -- name    : FixedPointAA.Main.rotation_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:14.562726+00:00
 -- url     : https://prove2.me/theorems/6c378354-eb1e-4b5d-8a04-e9ba8c40010a

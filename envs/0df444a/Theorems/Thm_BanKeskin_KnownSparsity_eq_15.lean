@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanKeskin_KnownSparsity_eq_15
 -- name    : BanKeskin.KnownSparsity.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:13.302183+00:00
 -- url     : https://prove2.me/theorems/09a9ceb6-c11b-49c9-a28f-6a25d1d2d939

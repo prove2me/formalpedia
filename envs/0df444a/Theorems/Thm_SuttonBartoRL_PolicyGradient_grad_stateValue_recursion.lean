@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_PolicyGradient_grad_stateValue_recursion
 -- name    : SuttonBartoRL.PolicyGradient.grad_stateValue_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:39:36.601511+00:00
 -- url     : https://prove2.me/theorems/cefb2311-16b7-480f-a7e7-5eb83c78cc99

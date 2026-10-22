@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBCPCVRP_Formulation_route_isQRoute
 -- name    : RobustBCPCVRP.Formulation.route_isQRoute
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:42:10.92198+00:00
 -- url     : https://prove2.me/theorems/fedbc0f7-96b5-4825-8ed0-a6fea0d90ae8

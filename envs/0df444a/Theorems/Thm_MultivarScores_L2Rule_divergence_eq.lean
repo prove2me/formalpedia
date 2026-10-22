@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_L2Rule_divergence_eq
 -- name    : MultivarScores.L2Rule.divergence_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:30:29.611882+00:00
 -- url     : https://prove2.me/theorems/c8bf4958-ae19-4e3e-b424-051d57f00eed

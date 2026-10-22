@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_Side_jBudget6_all
 -- name    : J6Seg.Side.jBudget6_all
--- status  : Open
--- author  : @Ethan
+-- status  : Proved
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:35:27.745904+00:00
 -- url     : https://prove2.me/theorems/c662ca2e-ace5-4100-b289-55ba66f4eb59
 -- title:

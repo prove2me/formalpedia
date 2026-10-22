@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftRobust_Duality_familyOfPenalty_props
 -- name    : SoftRobust.Duality.familyOfPenalty_props
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:49:25.579235+00:00
 -- url     : https://prove2.me/theorems/9139c765-bccb-4ccb-b1b1-fecafedd90b2

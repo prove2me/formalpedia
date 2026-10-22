@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Subamenable_EpiDiff_eq_4_8
 -- name    : Subamenable.EpiDiff.eq_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:40.080983+00:00
 -- url     : https://prove2.me/theorems/7e6fec9d-74ad-4918-b35d-9b255bc40ac0

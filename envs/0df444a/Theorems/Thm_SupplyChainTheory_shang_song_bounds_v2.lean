@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainTheory_shang_song_bounds_v2
 -- name    : SupplyChainTheory.shang_song_bounds_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:54.337632+00:00
 -- url     : https://prove2.me/theorems/2796603e-1845-4643-a55b-032e7b03d3ca

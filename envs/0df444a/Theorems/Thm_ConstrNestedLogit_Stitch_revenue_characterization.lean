@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Stitch_revenue_characterization
 -- name    : ConstrNestedLogit.Stitch.revenue_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:03:15.018813+00:00
 -- url     : https://prove2.me/theorems/439dc946-8847-43ba-9ef7-7125a308f6e5

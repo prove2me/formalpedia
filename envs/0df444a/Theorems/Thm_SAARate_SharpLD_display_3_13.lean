@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAARate_SharpLD_display_3_13
 -- name    : SAARate.SharpLD.display_3_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:05:24.182433+00:00
 -- url     : https://prove2.me/theorems/c76c91ad-be7b-483f-b4f4-1a54479875f5

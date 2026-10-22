@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexCommitRO_BoxExt_proposition_1
 -- name    : FlexCommitRO.BoxExt.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:02.012101+00:00
 -- url     : https://prove2.me/theorems/ec30824f-e240-4415-8595-b9853eae8ead

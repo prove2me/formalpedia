@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanDenumerable_AvgCost_eq6_value_iteration_bound
 -- name    : DermanDenumerable.AvgCost.eq6_value_iteration_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:19:56.24053+00:00
 -- url     : https://prove2.me/theorems/9bd632e4-2250-4d65-9a90-3d07c003db4e

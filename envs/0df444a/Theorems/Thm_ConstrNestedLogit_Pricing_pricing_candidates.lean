@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Pricing_pricing_candidates
 -- name    : ConstrNestedLogit.Pricing.pricing_candidates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:03:56.42098+00:00
 -- url     : https://prove2.me/theorems/98cbbd79-aff1-4117-a525-ab224a0b1f4f

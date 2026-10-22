@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CvxComposite_Conj_theorem_12_c
 -- name    : CvxComposite.Conj.theorem_12_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:50.334708+00:00
 -- url     : https://prove2.me/theorems/3740b5b8-edd0-4304-815a-2f9b01f5540c

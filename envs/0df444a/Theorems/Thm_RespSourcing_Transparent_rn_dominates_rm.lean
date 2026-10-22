@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RespSourcing_Transparent_rn_dominates_rm
 -- name    : RespSourcing.Transparent.rn_dominates_rm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:59.398767+00:00
 -- url     : https://prove2.me/theorems/185594f9-20a5-4164-b2c8-6dc0729c13b5

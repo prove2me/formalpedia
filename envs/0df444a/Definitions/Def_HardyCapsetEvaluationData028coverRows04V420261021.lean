@@ -1,0 +1,108 @@
+-- Prove2me | Definitions.Def_HardyCapsetEvaluationData028coverRows04V420261021
+-- name    : HardyCapsetEvaluationData028coverRows04V420261021
+-- status  : Definition
+-- author  : @Somehow
+-- created : 2026-10-21T02:24:31.200376+00:00
+-- url     : https://prove2.me/theorems/290d6d39-feb0-4d4e-9cce-650dd5ed7e80
+-- title:
+--   HardyCapsetEvaluationData028coverRows04V420261021
+-- statement:
+--   Exact literal projections of the original certificate fields, for kernel-checked evaluation. Each use is linked to the original certificate by reflexivity; no new mathematical hypothesis is introduced.
+-- source:
+--   Private source: 八维 cap 的超平面补点定理, 2026-10-13, sections 2–5. The exact baseline is the previously uploaded HardyCapsetModel20261020. This is a conditional fixed-core theorem for that baseline.
+
+import Definitions.Def_HardyCapsetBooleanVerifier20261020
+set_option maxRecDepth 200000
+set_option maxHeartbeats 0
+namespace HardyCapset20261020.Cert
+def ec028_512 : Array Nat := #[16, 122, 443]
+def ec028_513 : Array Nat := #[126, 234, 342, 349]
+def ec028_514 : Array Nat := #[27, 320, 326, 331]
+def ec028_515 : Array Nat := #[98, 99, 138, 315, 350, 357]
+def ec028_516 : Array Nat := #[163, 279, 329, 466]
+def ec028_517 : Array Nat := #[44, 316]
+def ec028_518 : Array Nat := #[154, 306, 409, 461]
+def ec028_519 : Array Nat := #[30, 193, 406]
+def ec028_520 : Array Nat := #[537, 538]
+def ec028_521 : Array Nat := #[533, 534]
+def ec028_522 : Array Nat := #[203, 204, 205, 404]
+def ec028_523 : Array Nat := #[64, 88, 220, 318]
+def ec028_524 : Array Nat := #[116, 323, 340]
+def ec028_525 : Array Nat := #[407, 411, 412]
+def ec028_526 : Array Nat := #[501, 502]
+def ec028_527 : Array Nat := #[108, 109, 145, 408]
+def ec028_528 : Array Nat := #[238, 335]
+def ec028_529 : Array Nat := #[539, 540]
+def ec028_530 : Array Nat := #[155, 162, 168, 169, 278]
+def ec028_531 : Array Nat := #[310, 312, 400, 464]
+def ec028_532 : Array Nat := #[506, 507]
+def ec028_533 : Array Nat := #[203, 204, 211]
+def ec028_534 : Array Nat := #[519]
+def ec028_535 : Array Nat := #[513, 520, 521]
+def ec028_536 : Array Nat := #[530]
+def ec028_537 : Array Nat := #[514, 515, 516]
+def ec028_538 : Array Nat := #[510, 511, 512]
+def ec028_539 : Array Nat := #[212, 238]
+def ec028_540 : Array Nat := #[530]
+def ec028_541 : Array Nat := #[177, 308]
+def ec028_542 : Array Nat := #[536]
+def ec028_543 : Array Nat := #[84, 236, 397, 454, 455, 456, 481]
+def ec028_544 : Array Nat := #[183, 195, 330, 480]
+def ec028_545 : Array Nat := #[49, 317]
+def ec028_546 : Array Nat := #[508, 509]
+def ec028_547 : Array Nat := #[193, 233]
+def ec028_548 : Array Nat := #[308, 413]
+def ec028_549 : Array Nat := #[43, 123, 137, 334, 424]
+def ec028_550 : Array Nat := #[20, 21, 205, 233]
+def ec028_551 : Array Nat := #[305, 394]
+def ec028_552 : Array Nat := #[161, 307, 309, 399, 413]
+def ec028_553 : Array Nat := #[410, 411, 412, 459]
+def ec028_554 : Array Nat := #[71, 197, 393]
+def ec028_555 : Array Nat := #[175, 324, 325, 524]
+def ec028_556 : Array Nat := #[459, 508]
+def ec028_557 : Array Nat := #[522, 523]
+def ec028_558 : Array Nat := #[196, 358, 474, 476]
+def ec028_559 : Array Nat := #[139, 355, 363, 371, 473]
+def ec028_560 : Array Nat := #[173, 269, 506]
+def ec028_561 : Array Nat := #[531]
+def ec028_562 : Array Nat := #[171, 231, 488]
+def ec028_563 : Array Nat := #[535, 541]
+def ec028_564 : Array Nat := #[526]
+def ec028_565 : Array Nat := #[184, 239, 240, 300]
+def ec028_566 : Array Nat := #[386, 402, 414, 416]
+def ec028_567 : Array Nat := #[536]
+def ec028_568 : Array Nat := #[58, 79, 146, 227, 307, 380]
+def ec028_569 : Array Nat := #[532]
+def ec028_570 : Array Nat := #[535, 541]
+def ec028_571 : Array Nat := #[147, 496]
+def ec028_572 : Array Nat := #[360, 428, 435, 453]
+def ec028_573 : Array Nat := #[12, 78, 359]
+def ec028_574 : Array Nat := #[25, 26, 403, 503, 504, 505]
+def ec028_575 : Array Nat := #[524, 525]
+def ec028_576 : Array Nat := #[184, 239, 513]
+def ec028_577 : Array Nat := #[532]
+def ec028_578 : Array Nat := #[532]
+def ec028_579 : Array Nat := #[231, 453, 507]
+def ec028_580 : Array Nat := #[510, 511, 512]
+def ec028_581 : Array Nat := #[527, 528, 529]
+def ec028_582 : Array Nat := #[147, 213, 496]
+def ec028_583 : Array Nat := #[526]
+def ec028_584 : Array Nat := #[533, 534]
+def ec028_585 : Array Nat := #[227, 452, 496]
+def ec028_586 : Array Nat := #[104, 115, 144, 251]
+def ec028_587 : Array Nat := #[55, 277, 344, 426]
+def ec028_588 : Array Nat := #[533, 534]
+def ec028_589 : Array Nat := #[194, 352, 448, 535]
+def ec028_590 : Array Nat := #[62, 171, 306, 341]
+def ec028_591 : Array Nat := #[527, 528, 529]
+def ec028_592 : Array Nat := #[510, 511, 512]
+def ec028_593 : Array Nat := #[508, 509]
+def ec028_594 : Array Nat := #[526]
+def ec028_595 : Array Nat := #[508, 509]
+def ec028_596 : Array Nat := #[146, 496]
+def ec028_597 : Array Nat := #[524, 525]
+def ec028_598 : Array Nat := #[505, 506]
+def ec028_599 : Array Nat := #[302, 361, 391, 457, 458]
+end HardyCapset20261020.Cert
+
+

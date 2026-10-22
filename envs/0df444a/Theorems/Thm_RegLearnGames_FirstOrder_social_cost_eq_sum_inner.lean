@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_FirstOrder_social_cost_eq_sum_inner
 -- name    : RegLearnGames.FirstOrder.social_cost_eq_sum_inner
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:45:14.085644+00:00
 -- url     : https://prove2.me/theorems/1ec334d9-4a73-47f4-8dc4-dd3d7c8d47ff

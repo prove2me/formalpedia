@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_primitive_norm_base_two
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.primitive_norm_base_two
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:24:05.665312+00:00
 -- url     : https://prove2.me/theorems/ed712be7-0ccb-4525-86c5-971ed683e52e

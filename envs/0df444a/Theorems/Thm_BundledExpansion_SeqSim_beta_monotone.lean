@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledExpansion_SeqSim_beta_monotone
 -- name    : BundledExpansion.SeqSim.beta_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:16.589213+00:00
 -- url     : https://prove2.me/theorems/6ea56635-eeee-4908-a3a4-7cde78ef0fe5

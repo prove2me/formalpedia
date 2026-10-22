@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstReducedTransfer_stoneTransfer_bijective
 -- name    : BookProof.BrstReducedTransfer.stoneTransfer_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:11:34.257973+00:00
 -- url     : https://prove2.me/theorems/73603755-87d6-4b75-b8a8-875800fe6998

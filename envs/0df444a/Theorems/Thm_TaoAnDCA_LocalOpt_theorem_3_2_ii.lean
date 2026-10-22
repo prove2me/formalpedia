@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoAnDCA_LocalOpt_theorem_3_2_ii
 -- name    : TaoAnDCA.LocalOpt.theorem_3_2_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:58.267162+00:00
 -- url     : https://prove2.me/theorems/f73c7156-358c-45a2-a07f-fd1a07fd025c

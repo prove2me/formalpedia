@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_LPReduce_exists_strategy_le
 -- name    : QZeroSum19.LPReduce.exists_strategy_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:57:50.626029+00:00
 -- url     : https://prove2.me/theorems/05866216-841f-4fbc-a2f3-ee9d88594505

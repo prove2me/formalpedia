@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Complexity_theorem_3_i
 -- name    : SelfDualLP.Complexity.theorem_3_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:58:44.199672+00:00
 -- url     : https://prove2.me/theorems/bd0df4a2-44b2-43a1-a6e7-f2700b142375

@@ -8,6 +8,8 @@
 --   Counterexample structure (e) — Two different E677 tables differ in at least two rows
 -- statement:
 --   Let $\cdot$ and $\star$ be two different operations on the same finite set, both satisfying E677. Then there are elements $a_1\ne a_2$ whose rows both change: $a_1\star v\ne a_1\cdot v$ for some $v$ and $a_2\star w\ne a_2\cdot w$ for some $w$.
+--
+--   This follows from Counterexample structure (c): if only one row changed, (c) would give $\star=\cdot$. See (c) for related results.
 -- source:
 --   Adam McKenna, private repo, 2026-10-20: Lean theorem Eq677.exists_two_rows_ne (lean/E677/RowRigidity.lean)
 

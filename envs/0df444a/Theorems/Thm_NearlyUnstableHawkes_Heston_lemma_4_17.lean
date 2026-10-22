@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearlyUnstableHawkes_Heston_lemma_4_17
 -- name    : NearlyUnstableHawkes.Heston.lemma_4_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:35:03.756685+00:00
 -- url     : https://prove2.me/theorems/01da4b51-47b1-4435-8656-4250ff28448d

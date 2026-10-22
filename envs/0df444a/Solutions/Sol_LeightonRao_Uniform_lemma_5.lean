@@ -1,0 +1,308 @@
+-- Prove2me | solution 1 for LeightonRao.Uniform.lemma_5
+-- status  : ACCEPTED   (prove)
+-- author  : @mrfancypants
+-- created : 2026-10-21T21:36:15.761037+00:00
+-- url     : https://prove2.me/submissions/a95c9e39-e0e1-4414-b67d-b566755a1b0f
+
+import Definitions.Def_LeightonRao_Uniform_Dual
+
+set_option autoImplicit false
+open scoped BigOperators
+
+
+namespace LeightonRao.Uniform
+
+variable {V : Type} [Fintype V] [DecidableEq V]
+
+lemma lr_walkLen_nonneg (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    {u v : V} (p : N.graph.Walk u v) : 0 ≤ walkLen N d p := by
+  unfold walkLen
+  apply List.sum_nonneg
+  intro x hx
+  obtain ⟨a, _, rfl⟩ := List.mem_map.mp hx
+  exact hd.1 _ _
+
+lemma lr_walkLen_concat (N : Network V) (d : V → V → ℝ) {u v w : V}
+    (p : N.graph.Walk u v) (h : N.graph.Adj v w) :
+    walkLen N d (p.concat h) = walkLen N d p + d v w := by
+  unfold walkLen
+  simp [SimpleGraph.Walk.darts_concat, List.concat_eq_append]
+
+lemma lr_walkLen_nil (N : Network V) (d : V → V → ℝ) (u : V) :
+    walkLen N d (SimpleGraph.Walk.nil : N.graph.Walk u u) = 0 := by
+  simp [walkLen]
+
+lemma lr_dist_nonneg (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d) (u v : V) :
+    0 ≤ dist N d u v :=
+  Real.iInf_nonneg (fun p => lr_walkLen_nonneg N d hd p)
+
+lemma lr_dist_le (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d) {u v : V}
+    (p : N.graph.Walk u v) : dist N d u v ≤ walkLen N d p :=
+  ciInf_le ⟨0, by rintro _ ⟨q, rfl⟩; exact lr_walkLen_nonneg N d hd q⟩ p
+
+lemma lr_dist_self (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d) (u : V) :
+    dist N d u u = 0 :=
+  le_antisymm (by simpa [lr_walkLen_nil] using lr_dist_le N d hd (SimpleGraph.Walk.nil : N.graph.Walk u u))
+    (lr_dist_nonneg N d hd u u)
+
+lemma lr_dist_adj (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d) (t : V) {u w : V}
+    (h : N.graph.Adj u w) : dist N d t w ≤ dist N d t u + d u w := by
+  by_cases hE : IsEmpty (N.graph.Walk t u)
+  · have hE2 : IsEmpty (N.graph.Walk t w) := ⟨fun q => hE.false (q.concat h.symm)⟩
+    have h1 : dist N d t w = 0 := Real.iInf_of_isEmpty _
+    have h2 : dist N d t u = 0 := Real.iInf_of_isEmpty _
+    rw [h1, h2]; linarith [hd.1 u w]
+  · rw [not_isEmpty_iff] at hE
+    have : dist N d t w - d u w ≤ dist N d t u := by
+      apply le_ciInf
+      intro p
+      have := lr_dist_le N d hd (p.concat h)
+      rw [lr_walkLen_concat] at this
+      linarith
+    linarith
+
+lemma lr_distFrom_nonneg (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    (T : Finset V) (u : V) : 0 ≤ distFrom N d T u :=
+  Real.iInf_nonneg (fun t => lr_dist_nonneg N d hd _ _)
+
+lemma lr_distFrom_le (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    (T : Finset V) (u : V) (t : V) (ht : t ∈ T) : distFrom N d T u ≤ dist N d t u :=
+  ciInf_le (f := fun s : T => dist N d s u)
+    ⟨0, by rintro _ ⟨q, rfl⟩; exact lr_dist_nonneg N d hd _ _⟩ ⟨t, ht⟩
+
+lemma lr_distFrom_mem (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    (T : Finset V) (t : V) (ht : t ∈ T) : distFrom N d T t = 0 :=
+  le_antisymm (by simpa [lr_dist_self N d hd] using lr_distFrom_le N d hd T t t ht)
+    (lr_distFrom_nonneg N d hd T t)
+
+lemma lr_distFrom_adj (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    (T : Finset V) (hT : T.Nonempty) {u w : V} (h : N.graph.Adj u w) :
+    distFrom N d T w ≤ distFrom N d T u + d u w := by
+  have : Nonempty T := ⟨⟨hT.choose, hT.choose_spec⟩⟩
+  have : distFrom N d T w - d u w ≤ distFrom N d T u := by
+    apply le_ciInf
+    intro t
+    have h1 := lr_distFrom_le N d hd T w t.1 t.2
+    have h2 := lr_dist_adj N d hd t.1 h
+    linarith
+  linarith
+
+lemma lr_adj_of_pos (N : Network V) {u w : V} (h : 0 < N.C u w) : N.graph.Adj u w := by
+  unfold Network.graph
+  rw [SimpleGraph.fromRel_adj]
+  refine ⟨?_, Or.inl h⟩
+  rintro rfl
+  rw [N.C_self] at h
+  exact lt_irrefl _ h
+
+lemma lr_lip (N : Network V) (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    (T : Finset V) (hT : T.Nonempty) (u w : V) :
+    N.C u w * |distFrom N d T w - distFrom N d T u| ≤ N.C u w * d u w := by
+  rcases (N.C_nonneg u w).lt_or_eq with hC | hC
+  · apply mul_le_mul_of_nonneg_left _ hC.le
+    have h1 := lr_distFrom_adj N d hd T hT (lr_adj_of_pos N hC)
+    have hC' : 0 < N.C w u := by rw [N.C_symm]; exact hC
+    have h2 := lr_distFrom_adj N d hd T hT (lr_adj_of_pos N hC')
+    rw [hd.2 w u] at h2
+    rw [abs_le]; constructor <;> linarith
+  · rw [← hC]; simp
+
+lemma lr_integral_step (a b c : ℝ) :
+    ∫ r, (Set.Ico a b).indicator (fun _ => c) r = max (b - a) 0 * c := by
+  rw [MeasureTheory.integral_indicator_const _ measurableSet_Ico]
+  simp [Real.volume_Ico, ENNReal.toReal_ofReal', MeasureTheory.Measure.real]
+
+lemma lr_integrable_step (a b c : ℝ) :
+    MeasureTheory.Integrable (fun r => (Set.Ico a b).indicator (fun _ => c) r) := by
+  apply MeasureTheory.IntegrableOn.integrable_indicator _ measurableSet_Ico
+  exact MeasureTheory.integrableOn_const (by simp [Real.volume_Ico])
+
+lemma lemma_5_core (N : Network V) (hn : 2 ≤ Fintype.card V) (hconn : IsConnectedNet N)
+    (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    (T : Finset V) (hT : 2 * (Fintype.card V : ℝ) ≤ 3 * (T.card : ℝ))
+    (hsum : 1 / (2 * (Fintype.card V : ℝ)) ≤ ∑ u ∈ Tᶜ, distFrom N d T u) :
+    ∃ U : Finset V, U.Nonempty ∧ Uᶜ.Nonempty ∧
+      ratioCost N U ≤ 6 * totalWeight N d := by
+  set n : ℝ := (Fintype.card V : ℝ) with hn_def
+  have hn2 : (2:ℝ) ≤ n := by rw [hn_def]; exact_mod_cast hn
+  have hTpos : 0 < (T.card : ℝ) := by linarith
+  have hTne : T.Nonempty := by
+    rw [← Finset.card_pos]; exact_mod_cast hTpos
+  set δ : V → ℝ := fun u => distFrom N d T u with hδ
+  have hδnn : ∀ u, 0 ≤ δ u := fun u => lr_distFrom_nonneg N d hd T u
+  have hδT : ∀ t ∈ T, δ t = 0 := fun t ht => lr_distFrom_mem N d hd T t ht
+  set W := totalWeight N d with hW
+  have hWnn : 0 ≤ W := by
+    rw [hW, totalWeight]
+    apply mul_nonneg (by norm_num)
+    exact Finset.sum_nonneg fun u _ => Finset.sum_nonneg fun v _ =>
+      mul_nonneg (N.C_nonneg u v) (hd.1 u v)
+  -- Claim A
+  set A := ∑ u, ∑ v, N.C u v * max (δ v - δ u) 0 with hA
+  have hA_le : A ≤ W := by
+    have hswap : ∑ u, ∑ v, N.C u v * max (δ u - δ v) 0 = A := by
+      rw [hA, Finset.sum_comm]
+      refine Finset.sum_congr rfl fun u _ => Finset.sum_congr rfl fun v _ => ?_
+      rw [N.C_symm]
+    have h2 : A + A ≤ ∑ u, ∑ v, N.C u v * d u v := by
+      calc A + A = ∑ u, ∑ v, N.C u v * |δ v - δ u| := by
+            conv_lhs => arg 1; rw [← hswap]
+            rw [hA, ← Finset.sum_add_distrib]
+            refine Finset.sum_congr rfl fun u _ => ?_
+            rw [← Finset.sum_add_distrib]
+            refine Finset.sum_congr rfl fun v _ => ?_
+            rw [← mul_add]
+            congr 1
+            rcases le_total (δ u) (δ v) with h | h
+            · rw [abs_of_nonneg (by linarith), max_eq_right (by linarith),
+                max_eq_left (by linarith)]; ring
+            · rw [abs_of_nonpos (by linarith), max_eq_left (by linarith),
+                max_eq_right (by linarith)]; ring
+        _ ≤ ∑ u, ∑ v, N.C u v * d u v := by
+            apply Finset.sum_le_sum; intro u _
+            apply Finset.sum_le_sum; intro v _
+            exact lr_lip N d hd T hTne u v
+    rw [hW, totalWeight]; linarith
+  have hAnn : ∀ u v, 0 ≤ N.C u v * max (δ v - δ u) 0 :=
+    fun u v => mul_nonneg (N.C_nonneg u v) (le_max_right _ _)
+  -- Claim B
+  set B := ∑ u, ∑ v, max (δ v - δ u) 0 with hB
+  have hB_ge : 1 / 3 ≤ B := by
+    have hS : 1 / (2 * n) ≤ ∑ v, δ v := by
+      calc 1 / (2 * n) ≤ ∑ u ∈ Tᶜ, δ u := hsum
+        _ ≤ ∑ v, δ v := Finset.sum_le_sum_of_subset_of_nonneg (Finset.subset_univ _)
+            (fun v _ _ => hδnn v)
+    have h1 : (T.card : ℝ) * ∑ v, δ v ≤ B := by
+      calc (T.card : ℝ) * ∑ v, δ v = ∑ u ∈ T, ∑ v, max (δ v - δ u) 0 := by
+            rw [Finset.mul_sum]
+            have : ∀ u ∈ T, ∑ v, max (δ v - δ u) 0 = ∑ v, δ v := by
+              intro u hu
+              refine Finset.sum_congr rfl fun v _ => ?_
+              rw [hδT u hu, sub_zero, max_eq_left (hδnn v)]
+            rw [Finset.sum_congr rfl this, Finset.sum_const, nsmul_eq_mul]
+            rw [Finset.mul_sum]
+        _ ≤ B := Finset.sum_le_sum_of_subset_of_nonneg (Finset.subset_univ _)
+            (fun u _ _ => Finset.sum_nonneg fun v _ => le_max_right _ _)
+    have h3 : (1:ℝ) / 3 ≤ (T.card : ℝ) * ∑ v, δ v := by
+      have hnpos : 0 < n := by linarith
+      have : (1:ℝ) / 3 = (2 * n / 3) * (1 / (2 * n)) := by field_simp
+      rw [this]
+      apply mul_le_mul (by linarith) hS (by positivity) hTpos.le
+    linarith
+  -- the step function
+  let f : ℝ → ℝ := fun r => ∑ u, ∑ v, (Set.Ico (δ u) (δ v)).indicator (fun _ => N.C u v - 6 * W) r
+  have hint : ∫ r, f r = A - 6 * W * B := by
+    simp only [f]
+    rw [MeasureTheory.integral_finsetSum _ (fun u _ => MeasureTheory.integrable_finsetSum _
+      (fun v _ => lr_integrable_step _ _ _))]
+    simp_rw [MeasureTheory.integral_finsetSum _ (fun v _ => lr_integrable_step _ _ _),
+      lr_integral_step]
+    rw [hA, hB, Finset.mul_sum, ← Finset.sum_sub_distrib]
+    refine Finset.sum_congr rfl fun u _ => ?_
+    rw [Finset.mul_sum, ← Finset.sum_sub_distrib]
+    refine Finset.sum_congr rfl fun v _ => ?_
+    ring
+  -- f r in terms of a cut
+  have hf_eq : ∀ r, f r = cutCap N (Finset.univ.filter (fun u => δ u ≤ r)) -
+      6 * W * (((Finset.univ.filter (fun u => δ u ≤ r)).card : ℝ) *
+        ((Finset.univ.filter (fun u => δ u ≤ r))ᶜ.card : ℝ)) := by
+    intro r
+    set U := Finset.univ.filter (fun u => δ u ≤ r) with hUdef
+    have key : cutCap N U - 6 * W * ((U.card : ℝ) * (Uᶜ.card : ℝ)) =
+        ∑ u ∈ U, ∑ v ∈ Uᶜ, (N.C u v - 6 * W) := by
+      rw [cutCap, Finset.card_eq_sum_ones U, Finset.card_eq_sum_ones Uᶜ, Nat.cast_sum,
+        Nat.cast_sum, Finset.sum_mul_sum, Finset.mul_sum, ← Finset.sum_sub_distrib]
+      refine Finset.sum_congr rfl fun u _ => ?_
+      rw [Finset.mul_sum, ← Finset.sum_sub_distrib]
+      simp
+    have hc : Uᶜ = Finset.univ.filter (fun u => ¬ δ u ≤ r) := Finset.compl_filter _
+    rw [key, hc, hUdef]
+    simp only [f, Finset.sum_filter]
+    refine Finset.sum_congr rfl fun u _ => ?_
+    split_ifs with hu
+    · refine Finset.sum_congr rfl fun v _ => ?_
+      by_cases hv : δ v ≤ r
+      · simp [Set.indicator_apply, Set.mem_Ico, hu, hv, not_lt.mpr hv]
+      · simp [Set.indicator_apply, Set.mem_Ico, hu, hv, lt_of_not_ge hv]
+    · refine Finset.sum_eq_zero fun v _ => ?_
+      simp only [Set.indicator_apply, Set.mem_Ico]
+      rw [if_neg]
+      tauto
+  rcases hWnn.lt_or_eq with hWpos | hW0
+  · have hneg : ∫ r, f r < 0 := by
+      rw [hint]; nlinarith
+    obtain ⟨r, hr⟩ : ∃ r, f r < 0 := by
+      by_contra hcon
+      push_neg at hcon
+      exact absurd (MeasureTheory.integral_nonneg hcon) (not_le.mpr hneg)
+    set U := Finset.univ.filter (fun u => δ u ≤ r)
+    rw [hf_eq] at hr
+    have hcut : 0 ≤ cutCap N U := Finset.sum_nonneg fun u _ => Finset.sum_nonneg fun v _ =>
+      N.C_nonneg u v
+    have hprod : 0 < (U.card : ℝ) * (Uᶜ.card : ℝ) := by
+      by_contra hc; push_neg at hc; nlinarith
+    have hU : 0 < (U.card : ℝ) := by
+      rcases (Nat.cast_nonneg U.card : (0:ℝ) ≤ U.card).lt_or_eq with h | h
+      · exact h
+      · rw [← h] at hprod; simp at hprod
+    have hUc : 0 < (Uᶜ.card : ℝ) := by
+      rcases (Nat.cast_nonneg Uᶜ.card : (0:ℝ) ≤ Uᶜ.card).lt_or_eq with h | h
+      · exact h
+      · rw [← h] at hprod; simp at hprod
+    refine ⟨U, ?_, ?_, ?_⟩
+    · rw [← Finset.card_pos]; exact_mod_cast hU
+    · rw [← Finset.card_pos]; exact_mod_cast hUc
+    · rw [ratioCost, div_le_iff₀ hprod]; linarith
+  · exfalso
+    have hA0 : A = 0 := le_antisymm (by linarith)
+      (Finset.sum_nonneg fun u _ => Finset.sum_nonneg fun v _ => hAnn u v)
+    have hterm : ∀ u v, N.C u v * max (δ v - δ u) 0 = 0 := by
+      intro u v
+      have h1 := (Finset.sum_eq_zero_iff_of_nonneg (fun u _ =>
+        Finset.sum_nonneg fun v _ => hAnn u v)).mp hA0 u (Finset.mem_univ _)
+      exact (Finset.sum_eq_zero_iff_of_nonneg (fun v _ => hAnn u v)).mp h1 v (Finset.mem_univ _)
+    set U := Finset.univ.filter (fun u => δ u ≤ 0) with hUdef
+    have hUne : U.Nonempty := by
+      obtain ⟨t, ht⟩ := hTne
+      exact ⟨t, by simp [hUdef, hδT t ht]⟩
+    have hUcne : Uᶜ.Nonempty := by
+      by_contra hc
+      rw [Finset.not_nonempty_iff_eq_empty] at hc
+      have hall : ∀ u, δ u = 0 := by
+        intro u
+        have : u ∉ Uᶜ := by rw [hc]; simp
+        rw [Finset.mem_compl, not_not, hUdef, Finset.mem_filter] at this
+        exact le_antisymm this.2 (hδnn u)
+      have : ∑ u ∈ Tᶜ, distFrom N d T u = 0 := Finset.sum_eq_zero fun u _ => hall u
+      rw [this] at hsum
+      have : 0 < 1 / (2 * n) := by positivity
+      linarith
+    have hcut := hconn U hUne hUcne
+    have : cutCap N U = 0 := by
+      apply Finset.sum_eq_zero
+      intro u hu
+      apply Finset.sum_eq_zero
+      intro v hv
+      rw [hUdef, Finset.mem_filter] at hu
+      rw [Finset.mem_compl, hUdef, Finset.mem_filter] at hv
+      push_neg at hv
+      have hpos : 0 < max (δ v - δ u) 0 := lt_max_of_lt_left (by linarith [hv (Finset.mem_univ _)])
+      have := hterm u v
+      rcases mul_eq_zero.mp this with h | h
+      · exact h
+      · linarith
+    linarith
+
+end LeightonRao.Uniform
+
+open LeightonRao.Uniform
+
+
+theorem solution {V : Type} [Fintype V] [DecidableEq V]
+    (N : Network V) (hn : 2 ≤ Fintype.card V) (hconn : IsConnectedNet N)
+    (d : V → V → ℝ) (hd : IsDistanceFunction d)
+    (T : Finset V) (hT : 2 * (Fintype.card V : ℝ) ≤ 3 * (T.card : ℝ))
+    (hsum : 1 / (2 * (Fintype.card V : ℝ)) ≤ ∑ u ∈ Tᶜ, distFrom N d T u) :
+    ∃ U : Finset V, U.Nonempty ∧ Uᶜ.Nonempty ∧
+      ratioCost N U ≤ 6 * totalWeight N d := by
+  exact lemma_5_core N hn hconn d hd T hT hsum

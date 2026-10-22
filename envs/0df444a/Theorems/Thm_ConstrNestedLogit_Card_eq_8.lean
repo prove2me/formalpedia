@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Card_eq_8
 -- name    : ConstrNestedLogit.Card.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:03:32.611886+00:00
 -- url     : https://prove2.me/theorems/b1eafc75-c0dc-4b5b-8b43-6495ae97cbcf

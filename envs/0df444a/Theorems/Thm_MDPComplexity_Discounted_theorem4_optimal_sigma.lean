@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_Discounted_theorem4_optimal_sigma
 -- name    : MDPComplexity.Discounted.theorem4_optimal_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:45:51.272247+00:00
 -- url     : https://prove2.me/theorems/3e1e64ba-1b18-4534-b43a-bfb5f6bf46a5

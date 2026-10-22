@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_isIrreducible_iff_schur
 -- name    : BookProof.ChapterSchurIrreducible.isIrreducible_iff_schur
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:02:59.102373+00:00
 -- url     : https://prove2.me/theorems/9252403e-f545-447a-9250-6d502ff5eb84

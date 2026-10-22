@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_grad_in_S
 -- name    : IQCAlg.HeavyBall.grad_in_S
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:20:52.05443+00:00
 -- url     : https://prove2.me/theorems/4f394e4f-94ec-40d0-adff-0bcef4416ae6

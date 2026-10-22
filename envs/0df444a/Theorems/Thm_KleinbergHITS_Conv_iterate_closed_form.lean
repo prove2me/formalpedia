@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleinbergHITS_Conv_iterate_closed_form
 -- name    : KleinbergHITS.Conv.iterate_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:19:08.155932+00:00
 -- url     : https://prove2.me/theorems/7804c82e-902b-45d6-a425-844c4d9f87a5

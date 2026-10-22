@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BNCovPack_SetCover_lemma_5_1_i
 -- name    : BNCovPack.SetCover.lemma_5_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:06:01.339449+00:00
 -- url     : https://prove2.me/theorems/28e65b42-8b25-4ea7-a381-6decbb873be1

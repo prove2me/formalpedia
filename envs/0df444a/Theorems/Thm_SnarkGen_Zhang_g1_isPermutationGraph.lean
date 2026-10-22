@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_g1_isPermutationGraph
 -- name    : SnarkGen.Zhang.g1_isPermutationGraph
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:24.322804+00:00
 -- url     : https://prove2.me/theorems/e2031a84-b2a2-4b36-9f43-8270341fe7ed

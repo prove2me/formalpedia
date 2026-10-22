@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Rounding_payment_loss_bound
 -- name    : ApproxIC.Rounding.payment_loss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:05.72431+00:00
 -- url     : https://prove2.me/theorems/c058ea32-a501-4388-b115-9ca295cb538c

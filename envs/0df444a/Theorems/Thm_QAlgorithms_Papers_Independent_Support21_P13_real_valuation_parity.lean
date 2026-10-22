@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_real_valuation_parity
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.real_valuation_parity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:23:10.470547+00:00
 -- url     : https://prove2.me/theorems/172d2a76-63e7-47c1-88a8-51801665c3fc

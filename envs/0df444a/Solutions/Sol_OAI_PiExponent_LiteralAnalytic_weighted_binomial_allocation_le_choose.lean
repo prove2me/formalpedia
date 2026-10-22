@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.weighted_binomial_allocation_le_choose
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:35:56.529928+00:00
 -- url     : https://prove2.me/submissions/e5638332-f666-4394-87db-f79dd969f013
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Theorems.Thm_OAI_PiExponent_LiteralAnalytic_binomial_allocation_coefficient_bound

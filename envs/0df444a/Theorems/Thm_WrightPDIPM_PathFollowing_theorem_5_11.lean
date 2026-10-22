@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_PathFollowing_theorem_5_11
 -- name    : WrightPDIPM.PathFollowing.theorem_5_11
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:53:58.671137+00:00
 -- url     : https://prove2.me/theorems/8b7c1485-d80f-4de0-9240-9c84c88a71c4

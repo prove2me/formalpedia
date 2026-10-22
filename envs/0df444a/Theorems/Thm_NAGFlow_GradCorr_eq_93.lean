@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_GradCorr_eq_93
 -- name    : NAGFlow.GradCorr.eq_93
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:51.80876+00:00
 -- url     : https://prove2.me/theorems/391181b1-60b1-4b26-a472-5fe85b8bb330

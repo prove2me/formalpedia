@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefSemimetric_TopDiff_dmu_axiom3
 -- name    : PrefSemimetric.TopDiff.dmu_axiom3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:33.368611+00:00
 -- url     : https://prove2.me/theorems/bef13bb9-4204-4d78-bea9-3da090b2815f

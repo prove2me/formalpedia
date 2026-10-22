@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuReturns_Coordination_proposition3_differentiated_buyback
 -- name    : SuReturns.Coordination.proposition3_differentiated_buyback
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:13:16.328392+00:00
 -- url     : https://prove2.me/theorems/b591d7fe-24aa-4fa8-bd38-89b147a1ed77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustUncLP_Ellipsoidal_P_strictly_feasible_bddBelow
 -- name    : RobustUncLP.Ellipsoidal.P_strictly_feasible_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:30:04.600572+00:00
 -- url     : https://prove2.me/theorems/b62fbe73-710c-4cc6-bcdb-5ce4319f9158

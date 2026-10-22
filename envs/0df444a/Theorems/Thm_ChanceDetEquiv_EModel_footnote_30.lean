@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceDetEquiv_EModel_footnote_30
 -- name    : ChanceDetEquiv.EModel.footnote_30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:57:07.530983+00:00
 -- url     : https://prove2.me/theorems/eebdd17f-7ea5-4685-b08d-973518f3d518

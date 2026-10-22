@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_observation_2_2_rep_orders
 -- name    : ContJRP.Align.observation_2_2_rep_orders
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:41.213583+00:00
 -- url     : https://prove2.me/theorems/7a3bfab9-5f2c-4c57-8d5a-529e55cf4417

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeaseModular_JointChoice_proposition_3
 -- name    : LeaseModular.JointChoice.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:10.862988+00:00
 -- url     : https://prove2.me/theorems/f80ea7cb-1f7d-4912-9cf3-44849c8552a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_jm_spectral_minpoly
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.jm_spectral_minpoly
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:28:27.072246+00:00
 -- url     : https://prove2.me/theorems/6f34ae03-4dda-44a8-9f8f-b3b277834c1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_monomial_coeff_eq_entry
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_monomial_coeff_eq_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:56:01.280262+00:00
 -- url     : https://prove2.me/theorems/9779ab55-5816-40c0-8cea-38f6b5e5f6e6

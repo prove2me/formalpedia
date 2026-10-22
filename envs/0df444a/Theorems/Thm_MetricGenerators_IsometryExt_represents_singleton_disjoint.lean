@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_IsometryExt_represents_singleton_disjoint
 -- name    : MetricGenerators.IsometryExt.represents_singleton_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:49.528521+00:00
 -- url     : https://prove2.me/theorems/06728516-c206-4929-816a-070e427a342b

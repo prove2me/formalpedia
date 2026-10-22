@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Graphs_menger_node_disjoint_chains
 -- name    : FlowsNetworks.Graphs.menger_node_disjoint_chains
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:53.937193+00:00
 -- url     : https://prove2.me/theorems/114e8c90-d981-48fe-9ec6-ca84da12e242

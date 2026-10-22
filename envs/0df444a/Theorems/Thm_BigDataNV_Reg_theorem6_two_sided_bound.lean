@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BigDataNV_Reg_theorem6_two_sided_bound
 -- name    : BigDataNV.Reg.theorem6_two_sided_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T05:27:45.944333+00:00
 -- url     : https://prove2.me/theorems/a1d8c8d9-bbcd-4ee7-b400-bd4234086d26

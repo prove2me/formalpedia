@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSeedEval_Hajek_sample_averages
 -- name    : StochSeedEval.Hajek.sample_averages
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:12.223996+00:00
 -- url     : https://prove2.me/theorems/069c1b43-781d-44a1-b57d-9254204b9033

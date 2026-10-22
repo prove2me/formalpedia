@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_eq_A4
 -- name    : LargeBSP.Homog.eq_A4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:59.307738+00:00
 -- url     : https://prove2.me/theorems/165d0dff-717e-409b-9905-2f657b33ee48

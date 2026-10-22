@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_primitive_projectors
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.primitive_projectors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:27:56.84426+00:00
 -- url     : https://prove2.me/theorems/6357d095-fca6-4e76-b1e8-84396a5d6d92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelDRO_Duality_theorem_3_1
 -- name    : KernelDRO.Duality.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:27:37.168869+00:00
 -- url     : https://prove2.me/theorems/f9bed297-4a14-4d7b-8734-04ad57fb16cf

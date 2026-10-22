@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_PCIGW_hellinger_cond_le_four_joint
 -- name    : StatComplexityDM.PCIGW.hellinger_cond_le_four_joint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:38.86743+00:00
 -- url     : https://prove2.me/theorems/e4d46746-4796-4725-9eb5-4b0c2b922771

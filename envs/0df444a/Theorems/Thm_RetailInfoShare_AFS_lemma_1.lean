@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailInfoShare_AFS_lemma_1
 -- name    : RetailInfoShare.AFS.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:58.967074+00:00
 -- url     : https://prove2.me/theorems/1183a087-66dc-4712-a0ce-05895d0ef94a

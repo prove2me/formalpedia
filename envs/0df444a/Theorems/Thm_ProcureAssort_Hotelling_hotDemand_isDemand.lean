@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcureAssort_Hotelling_hotDemand_isDemand
 -- name    : ProcureAssort.Hotelling.hotDemand_isDemand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:38.967987+00:00
 -- url     : https://prove2.me/theorems/acc26a33-f72f-4a2a-96f9-e2049bd52a65

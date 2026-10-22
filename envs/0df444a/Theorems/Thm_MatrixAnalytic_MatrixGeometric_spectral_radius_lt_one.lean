@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MatrixGeometric_spectral_radius_lt_one
 -- name    : MatrixAnalytic.MatrixGeometric.spectral_radius_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:10.30668+00:00
 -- url     : https://prove2.me/theorems/bf0d47ac-6cf5-4aa9-b62a-9614caceb5de

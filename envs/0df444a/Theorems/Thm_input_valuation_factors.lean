@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_input_valuation_factors
 -- name    : input_valuation_factors
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-09-29T00:02:56.384281+00:00
 -- url     : https://prove2.me/theorems/5113665b-d375-4c17-9c96-e9fc5e28620c

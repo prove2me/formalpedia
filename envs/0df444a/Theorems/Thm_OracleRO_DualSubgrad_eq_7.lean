@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OracleRO_DualSubgrad_eq_7
 -- name    : OracleRO.DualSubgrad.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T09:11:51.17083+00:00
 -- url     : https://prove2.me/theorems/ff490850-2463-46e6-b07f-5779b354ae70

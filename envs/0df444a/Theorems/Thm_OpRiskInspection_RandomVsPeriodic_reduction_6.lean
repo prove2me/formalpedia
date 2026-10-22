@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpRiskInspection_RandomVsPeriodic_reduction_6
 -- name    : OpRiskInspection.RandomVsPeriodic.reduction_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:31:52.266873+00:00
 -- url     : https://prove2.me/theorems/26cd7c80-c5a4-4fef-96b1-c5cf0640a399

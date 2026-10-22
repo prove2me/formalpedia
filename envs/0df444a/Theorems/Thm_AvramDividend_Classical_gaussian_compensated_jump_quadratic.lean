@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_gaussian_compensated_jump_quadratic
 -- name    : AvramDividend.Classical.gaussian_compensated_jump_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T23:10:08.521596+00:00
 -- url     : https://prove2.me/theorems/db26ca60-e9fa-4ad6-86aa-f63f7c6e8e61

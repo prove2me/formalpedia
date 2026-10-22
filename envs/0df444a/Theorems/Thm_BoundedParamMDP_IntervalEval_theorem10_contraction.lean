@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedParamMDP_IntervalEval_theorem10_contraction
 -- name    : BoundedParamMDP.IntervalEval.theorem10_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:08:56.149984+00:00
 -- url     : https://prove2.me/theorems/a4dfdbf9-a414-42ad-84d5-c015d29f0206

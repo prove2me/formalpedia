@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscServLine_SPT_root_A35_exists
 -- name    : DiscServLine.SPT.root_A35_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:26.563386+00:00
 -- url     : https://prove2.me/theorems/b14381e1-0160-4d6d-a86b-414c81d4f3c9

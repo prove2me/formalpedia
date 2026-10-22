@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOGOPromo_NoStockpile_np_equilibrium
 -- name    : BOGOPromo.NoStockpile.np_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:23:35.168108+00:00
 -- url     : https://prove2.me/theorems/ddde5882-b2c6-4dbe-80b5-d37e06e6ff95

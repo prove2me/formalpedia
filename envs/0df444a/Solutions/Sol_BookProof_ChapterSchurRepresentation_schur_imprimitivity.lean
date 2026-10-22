@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSchurRepresentation.schur_imprimitivity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:28:18.510758+00:00
 -- url     : https://prove2.me/submissions/63fe14d8-be05-43f9-85ce-fad73d33d890
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSchurRepresentation.lean — solution of BookProof.ChapterSchurRepresentation.schur_imprimitivity
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_SearchQC_f_mono_g_anti
 -- name    : AssortSearch.SearchQC.f_mono_g_anti
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:02.490042+00:00
 -- url     : https://prove2.me/theorems/b82bf1d1-e8de-4d68-8f47-4d7cbc478793

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_VaRConv_display10_11_var_nonpos
 -- name    : TailRiskSharing.VaRConv.display10_11_var_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:21:40.845119+00:00
 -- url     : https://prove2.me/theorems/b2ee29c4-f37b-4998-ba9f-ab0ccc7a2f66

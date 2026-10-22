@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WardropTraffic_EqualTimes_used_imp_lt
 -- name    : WardropTraffic.EqualTimes.used_imp_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:53:01.177971+00:00
 -- url     : https://prove2.me/theorems/1e68e6cd-48fe-4754-a4a0-7a333de4cf6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_CumDamage_eq26
 -- name    : ShockWear.CumDamage.eq26
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:47:51.36405+00:00
 -- url     : https://prove2.me/theorems/ea733955-30dd-41f6-8090-87cd3cc5c7dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_transpose_complement_kraus_covariance
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.transpose_complement_kraus_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:54:43.102042+00:00
 -- url     : https://prove2.me/theorems/ddc8a3a9-5c4a-4e5c-aa62-6edaae63d73f

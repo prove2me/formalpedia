@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Shoppertainment_OptimalBandwidth_eq_14
 -- name    : Shoppertainment.OptimalBandwidth.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:49:58.487813+00:00
 -- url     : https://prove2.me/theorems/5dfafaa5-e9b3-4538-a44f-d31906c5a109

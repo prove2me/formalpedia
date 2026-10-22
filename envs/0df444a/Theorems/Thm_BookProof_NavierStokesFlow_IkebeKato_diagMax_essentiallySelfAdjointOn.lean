@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_diagMax_essentiallySelfAdjointOn
 -- name    : BookProof.NavierStokesFlow.IkebeKato.diagMax_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:22:31.786059+00:00
 -- url     : https://prove2.me/theorems/e87ad437-8f00-4457-864b-d99ee76e6f66

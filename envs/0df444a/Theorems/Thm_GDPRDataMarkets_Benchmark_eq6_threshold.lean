@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Benchmark_eq6_threshold
 -- name    : GDPRDataMarkets.Benchmark.eq6_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:50.742125+00:00
 -- url     : https://prove2.me/theorems/831974ea-2578-4058-9069-ad9dff4542c7

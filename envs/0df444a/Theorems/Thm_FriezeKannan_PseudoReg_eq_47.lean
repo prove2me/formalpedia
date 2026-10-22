@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_PseudoReg_eq_47
 -- name    : FriezeKannan.PseudoReg.eq_47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:49.136327+00:00
 -- url     : https://prove2.me/theorems/01120ab7-2ea1-4f52-af1b-d03dc08df1e6

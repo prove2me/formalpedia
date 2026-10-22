@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Weak_energy_converges
 -- name    : ProjReflGrad.Weak.energy_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:51.752276+00:00
 -- url     : https://prove2.me/theorems/8eedd6fc-f408-4243-81f7-4ce25c91ba1f

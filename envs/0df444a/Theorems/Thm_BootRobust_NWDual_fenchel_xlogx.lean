@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_NWDual_fenchel_xlogx
 -- name    : BootRobust.NWDual.fenchel_xlogx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:50.188961+00:00
 -- url     : https://prove2.me/theorems/bda6377c-572a-46fd-9512-21db0ef1179a

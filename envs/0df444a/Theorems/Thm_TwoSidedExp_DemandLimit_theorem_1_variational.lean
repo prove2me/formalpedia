@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_theorem_1_variational
 -- name    : TwoSidedExp.DemandLimit.theorem_1_variational
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:36.538786+00:00
 -- url     : https://prove2.me/theorems/504c31de-c2ac-4877-8c96-3b58a763cc2d

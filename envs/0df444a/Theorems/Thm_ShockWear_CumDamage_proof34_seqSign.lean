@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_CumDamage_proof34_seqSign
 -- name    : ShockWear.CumDamage.proof34_seqSign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:48:25.984095+00:00
 -- url     : https://prove2.me/theorems/6e8ecfff-b09f-4a59-a60b-f5826d78330d

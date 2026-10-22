@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentiveAwarePricing_CORP_lemma_3
 -- name    : IncentiveAwarePricing.CORP.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:57.563715+00:00
 -- url     : https://prove2.me/theorems/e78c27d1-6818-497d-a52d-9100713f8844

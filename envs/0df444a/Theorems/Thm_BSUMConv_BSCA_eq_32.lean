@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSUMConv_BSCA_eq_32
 -- name    : BSUMConv.BSCA.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:26:46.792793+00:00
 -- url     : https://prove2.me/theorems/27f3ec5d-5543-4502-8f02-cb1a03454c94

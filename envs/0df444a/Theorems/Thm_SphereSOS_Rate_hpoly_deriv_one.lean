@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereSOS_Rate_hpoly_deriv_one
 -- name    : SphereSOS.Rate.hpoly_deriv_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:19:28.479989+00:00
 -- url     : https://prove2.me/theorems/58751bf7-848a-4c81-801c-0647ef2e0a88

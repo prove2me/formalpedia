@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedGrowth_Balance_lemma_6
 -- name    : TwoSidedGrowth.Balance.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:22.433118+00:00
 -- url     : https://prove2.me/theorems/19c6b67d-680f-415a-863e-d9d4aec96ed5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Variability_fbar_convexOn
 -- name    : ZipkinLostSales.Variability.fbar_convexOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:50.22651+00:00
 -- url     : https://prove2.me/theorems/ace03855-c952-4a56-9f9f-6f8ed670ec88

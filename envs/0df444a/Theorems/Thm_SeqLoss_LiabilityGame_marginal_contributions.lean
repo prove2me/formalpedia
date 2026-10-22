@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_LiabilityGame_marginal_contributions
 -- name    : SeqLoss.LiabilityGame.marginal_contributions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:30.95108+00:00
 -- url     : https://prove2.me/theorems/6337c98c-f0b2-4cab-aa43-51dd52dcd087

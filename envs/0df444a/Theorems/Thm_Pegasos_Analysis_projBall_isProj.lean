@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_projBall_isProj
 -- name    : Pegasos.Analysis.projBall_isProj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:07.071494+00:00
 -- url     : https://prove2.me/theorems/d661b511-204d-4621-92ca-5c95b4205640

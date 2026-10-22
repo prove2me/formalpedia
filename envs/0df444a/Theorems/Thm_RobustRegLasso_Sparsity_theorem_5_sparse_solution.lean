@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_Sparsity_theorem_5_sparse_solution
 -- name    : RobustRegLasso.Sparsity.theorem_5_sparse_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:15:30.462924+00:00
 -- url     : https://prove2.me/theorems/09d6dd63-2360-413b-b3de-86bb28014c99

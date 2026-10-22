@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxSLP_ObjExtremal_Qval_homogeneous_superadditive
 -- name    : MinimaxSLP.ObjExtremal.Qval_homogeneous_superadditive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:15:26.405649+00:00
 -- url     : https://prove2.me/theorems/3dd2fc3b-289d-48e7-8783-2480a0b87b9d

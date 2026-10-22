@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Termination_lemma_A_4
 -- name    : WrightPDIPM.Termination.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:15.888231+00:00
 -- url     : https://prove2.me/theorems/2df18378-25ff-41f4-aa4c-3811cfa64978

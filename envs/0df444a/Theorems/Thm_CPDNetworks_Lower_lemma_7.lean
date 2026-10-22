@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CPDNetworks_Lower_lemma_7
 -- name    : CPDNetworks.Lower.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:50.779055+00:00
 -- url     : https://prove2.me/theorems/3a4f1b14-9d13-47f4-9f50-137a03f6dce6

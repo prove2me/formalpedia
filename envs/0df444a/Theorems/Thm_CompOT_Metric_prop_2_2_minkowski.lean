@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Metric_prop_2_2_minkowski
 -- name    : CompOT.Metric.prop_2_2_minkowski
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:15.088187+00:00
 -- url     : https://prove2.me/theorems/cdac5799-b7ac-4298-991e-fd05be8f4207

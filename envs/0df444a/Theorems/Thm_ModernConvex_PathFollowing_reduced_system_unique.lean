@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_reduced_system_unique
 -- name    : ModernConvex.PathFollowing.reduced_system_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:46.334835+00:00
 -- url     : https://prove2.me/theorems/aec1c709-2dd4-4b66-a683-a87a9826acf5

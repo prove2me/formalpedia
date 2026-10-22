@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_symplectic_block_conditions
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.symplectic_block_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:59:22.351079+00:00
 -- url     : https://prove2.me/theorems/4732432f-7920-40d2-bcdf-e77b52770fe8

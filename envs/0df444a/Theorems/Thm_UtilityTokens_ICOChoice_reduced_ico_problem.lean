@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_reduced_ico_problem
 -- name    : UtilityTokens.ICOChoice.reduced_ico_problem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:09.07796+00:00
 -- url     : https://prove2.me/theorems/f00008df-eb0d-42fb-a237-25a8b6760349

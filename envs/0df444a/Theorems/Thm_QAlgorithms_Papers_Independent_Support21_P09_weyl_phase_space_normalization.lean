@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P09_weyl_phase_space_normalization
 -- name    : QAlgorithms.Papers.Independent.Support21.P09.weyl_phase_space_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:49:12.898779+00:00
 -- url     : https://prove2.me/theorems/b92fbcc6-6d81-4a49-aff0-f19c7913047c

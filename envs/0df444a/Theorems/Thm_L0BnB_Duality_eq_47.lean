@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Duality_eq_47
 -- name    : L0BnB.Duality.eq_47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:58.573562+00:00
 -- url     : https://prove2.me/theorems/371d47d5-f091-4c11-bb63-ab18fc5d4677

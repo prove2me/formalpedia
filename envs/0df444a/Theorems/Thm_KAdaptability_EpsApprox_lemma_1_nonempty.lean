@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_EpsApprox_lemma_1_nonempty
 -- name    : KAdaptability.EpsApprox.lemma_1_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:00:43.880551+00:00
 -- url     : https://prove2.me/theorems/b1dc28d4-7eb8-4a8c-b696-39b9d5c30b0c

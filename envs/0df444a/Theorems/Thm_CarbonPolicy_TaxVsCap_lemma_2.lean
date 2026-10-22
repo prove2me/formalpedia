@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonPolicy_TaxVsCap_lemma_2
 -- name    : CarbonPolicy.TaxVsCap.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:10.963966+00:00
 -- url     : https://prove2.me/theorems/8d00bf39-ec1d-4d9f-9b6a-94d596400932

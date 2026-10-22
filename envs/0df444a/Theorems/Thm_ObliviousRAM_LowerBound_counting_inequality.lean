@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRAM_LowerBound_counting_inequality
 -- name    : ObliviousRAM.LowerBound.counting_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:10:18.00799+00:00
 -- url     : https://prove2.me/theorems/a2cef94e-d58c-44e8-9018-3f304a8244bb

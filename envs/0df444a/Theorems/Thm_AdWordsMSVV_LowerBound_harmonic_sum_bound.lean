@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdWordsMSVV_LowerBound_harmonic_sum_bound
 -- name    : AdWordsMSVV.LowerBound.harmonic_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:29.916262+00:00
 -- url     : https://prove2.me/theorems/2dc43681-3470-423d-80fa-0f2146e195fd

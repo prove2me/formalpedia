@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_corollary2b_value_unique_fixed_point
 -- name    : RobustDP.Discounted.corollary2b_value_unique_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:36.757749+00:00
 -- url     : https://prove2.me/theorems/d97ce751-439b-44b3-aff9-ab28cb79ea55

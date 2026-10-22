@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Spectral_sum_largest_eigenvalues_sdr
 -- name    : ModernConvex.Spectral.sum_largest_eigenvalues_sdr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:31.815566+00:00
 -- url     : https://prove2.me/theorems/9d121e76-d5c3-44db-b770-977566926fd6

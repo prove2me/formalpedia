@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengBCD_Hemivariate_theorem_5_1
 -- name    : TsengBCD.Hemivariate.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:06:24.999502+00:00
 -- url     : https://prove2.me/theorems/1e502b3f-d422-4a11-b33d-f20faaeead28

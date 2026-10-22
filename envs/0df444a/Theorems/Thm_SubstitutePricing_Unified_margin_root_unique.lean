@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Unified_margin_root_unique
 -- name    : SubstitutePricing.Unified.margin_root_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:19:03.869028+00:00
 -- url     : https://prove2.me/theorems/523e0eac-a3d9-4f92-940c-3aafe9e16ef2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanicGames_Interior_theorem_6
 -- name    : OceanicGames.Interior.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:17:12.912054+00:00
 -- url     : https://prove2.me/theorems/b3c6ab3d-b42e-4456-b89b-c2c38270f20d

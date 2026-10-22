@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Payment_responsive_price
 -- name    : YieldPostpone.Payment.responsive_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:24.794993+00:00
 -- url     : https://prove2.me/theorems/6198490a-80fa-402a-93f2-22338dca3763

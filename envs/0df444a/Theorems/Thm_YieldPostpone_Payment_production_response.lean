@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Payment_production_response
 -- name    : YieldPostpone.Payment.production_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:25.817066+00:00
 -- url     : https://prove2.me/theorems/26626917-d761-46ed-8ee4-4ca1259632c6

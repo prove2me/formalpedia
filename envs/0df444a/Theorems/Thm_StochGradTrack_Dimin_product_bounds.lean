@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochGradTrack_Dimin_product_bounds
 -- name    : StochGradTrack.Dimin.product_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:51.713168+00:00
 -- url     : https://prove2.me/theorems/9a6bcbcf-9f01-4e2e-8d86-6e86f6267483

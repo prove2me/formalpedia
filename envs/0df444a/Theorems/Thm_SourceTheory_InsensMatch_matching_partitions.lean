@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_InsensMatch_matching_partitions
 -- name    : SourceTheory.InsensMatch.matching_partitions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:16.891302+00:00
 -- url     : https://prove2.me/theorems/56369469-49f3-488d-bd21-f6d58dbda287

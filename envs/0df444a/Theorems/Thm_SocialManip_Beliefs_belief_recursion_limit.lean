@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialManip_Beliefs_belief_recursion_limit
 -- name    : SocialManip.Beliefs.belief_recursion_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:18.432238+00:00
 -- url     : https://prove2.me/theorems/3ab4e404-938f-4418-bf7f-4c033ba00b0b

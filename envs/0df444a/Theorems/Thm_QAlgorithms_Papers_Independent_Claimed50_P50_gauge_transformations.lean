@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P50_gauge_transformations
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P50.gauge_transformations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:19:59.707144+00:00
 -- url     : https://prove2.me/theorems/a4dd5c0d-a2cd-49bc-bea9-b2a6dbab2b57

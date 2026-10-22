@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InputSparsity_Embed_coordinate_bound
 -- name    : InputSparsity.Embed.coordinate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:17:52.090795+00:00
 -- url     : https://prove2.me/theorems/32dd7204-f9b4-47d9-a54e-c824be84595e

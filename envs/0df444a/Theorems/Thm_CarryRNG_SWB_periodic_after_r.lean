@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_SWB_periodic_after_r
 -- name    : CarryRNG.SWB.periodic_after_r
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:42:35.066647+00:00
 -- url     : https://prove2.me/theorems/330139b9-2e7c-4631-8a58-cb7bd52b5aa0

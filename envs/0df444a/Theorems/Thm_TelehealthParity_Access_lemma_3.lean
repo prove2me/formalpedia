@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TelehealthParity_Access_lemma_3
 -- name    : TelehealthParity.Access.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:09.340113+00:00
 -- url     : https://prove2.me/theorems/ba87c778-3bd6-4473-975b-165da22417a5

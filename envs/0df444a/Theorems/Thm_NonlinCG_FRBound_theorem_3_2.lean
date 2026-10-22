@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinCG_FRBound_theorem_3_2
 -- name    : NonlinCG.FRBound.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:43:43.49401+00:00
 -- url     : https://prove2.me/theorems/ee790975-7a46-4224-b097-3a51a09ddfb7

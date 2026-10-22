@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviBalancing_DualBalancing_backlog_on_TPi_le
 -- name    : LeviBalancing.DualBalancing.backlog_on_TPi_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:24:06.131033+00:00
 -- url     : https://prove2.me/theorems/6835c594-7b87-4750-bb24-d70fb43bb9f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_PolicyGradient_policy_gradient_baseline
 -- name    : SuttonBartoRL.PolicyGradient.policy_gradient_baseline
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:40:38.741981+00:00
 -- url     : https://prove2.me/theorems/03d1c6ef-db93-4a9c-bf9d-4d0d2eae8eef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_hofer_lemma
 -- name    : FiniteEnergyPlane.hofer_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:23:42.10926+00:00
 -- url     : https://prove2.me/theorems/c225cde5-1c7e-4558-95e3-cdb262c49909

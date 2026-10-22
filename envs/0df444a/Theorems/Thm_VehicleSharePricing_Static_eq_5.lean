@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_Static_eq_5
 -- name    : VehicleSharePricing.Static.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:21.747637+00:00
 -- url     : https://prove2.me/theorems/eaf3282a-833c-4574-8288-3d1272689f44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Implicit_diff_identity
 -- name    : NAGFlow.Implicit.diff_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:54.972844+00:00
 -- url     : https://prove2.me/theorems/922f7712-9d42-401c-abd7-8be309682a21

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R6_Bit_BitNetMomStmtG_of_le_hist
 -- name    : IntMul.Kappa.R6.Bit.BitNetMomStmtG_of_le_hist
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:30:53.372003+00:00
 -- url     : https://prove2.me/theorems/489c3296-cfc1-4a00-aac3-09628f038ae5
 -- title:

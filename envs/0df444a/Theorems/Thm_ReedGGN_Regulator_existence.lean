@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_existence
 -- name    : ReedGGN.Regulator.existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:45.257339+00:00
 -- url     : https://prove2.me/theorems/a565bc8e-2d39-4ee4-9b6c-3a873faa47fd

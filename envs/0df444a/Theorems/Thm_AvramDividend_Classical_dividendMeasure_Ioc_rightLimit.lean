@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dividendMeasure_Ioc_rightLimit
 -- name    : AvramDividend.Classical.dividendMeasure_Ioc_rightLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:37:06.546218+00:00
 -- url     : https://prove2.me/theorems/f9211de0-c48b-4907-aaf9-e9774b5831ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Supervisor_lemma1_large_duration
 -- name    : KumarSeidman.Supervisor.lemma1_large_duration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:27.695952+00:00
 -- url     : https://prove2.me/theorems/c3651c40-540b-435e-b792-865299ee380c

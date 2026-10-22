@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HedgeContract_OPE_eq_56
 -- name    : HedgeContract.OPE.eq_56
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:18:53.87387+00:00
 -- url     : https://prove2.me/theorems/fe360202-452e-4ed6-b24f-2fc8f75b6b31

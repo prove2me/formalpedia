@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstReducedTransfer_infDist_exactStates_eq
 -- name    : BookProof.BrstReducedTransfer.infDist_exactStates_eq
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:11:16.511093+00:00
 -- url     : https://prove2.me/theorems/7c8f0b9b-0d20-41b7-af1d-ef65ebb53580

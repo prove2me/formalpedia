@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdDataSharing_Topics_isNE_asymmetric_iff
 -- name    : AdDataSharing.Topics.isNE_asymmetric_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:43.887838+00:00
 -- url     : https://prove2.me/theorems/3b99fe71-5f36-4fb5-b415-ab999967fc48

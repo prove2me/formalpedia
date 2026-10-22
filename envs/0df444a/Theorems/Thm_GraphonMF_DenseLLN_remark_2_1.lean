@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonMF_DenseLLN_remark_2_1
 -- name    : GraphonMF.DenseLLN.remark_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:29:23.972986+00:00
 -- url     : https://prove2.me/theorems/57534cb8-dc08-4d22-aa00-994f8a70b11d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_VaRConv_display12_var_sandwich
 -- name    : TailRiskSharing.VaRConv.display12_var_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:21:24.107711+00:00
 -- url     : https://prove2.me/theorems/33ad433f-9cb5-48cc-8c18-bbc6bb117279

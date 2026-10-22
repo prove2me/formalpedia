@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_RateBounds_eq_16
 -- name    : LNChannels.RateBounds.eq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:24.304462+00:00
 -- url     : https://prove2.me/theorems/92fdba1a-0fe1-4b6c-9309-a5b32e3b681f

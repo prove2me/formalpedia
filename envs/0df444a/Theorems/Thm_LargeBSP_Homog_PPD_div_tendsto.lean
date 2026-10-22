@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_PPD_div_tendsto
 -- name    : LargeBSP.Homog.PPD_div_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:48.493013+00:00
 -- url     : https://prove2.me/theorems/e39a7516-129c-42fc-b8cd-e8b49c9d7d5f

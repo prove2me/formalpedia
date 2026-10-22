@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BNCovPack_SetCover_theorem_3_2
 -- name    : BNCovPack.SetCover.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:19:12.083749+00:00
 -- url     : https://prove2.me/theorems/d7df3792-7086-4e2b-9d94-2959f9445860

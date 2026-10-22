@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTail_Master_proposition3_1
 -- name    : MatrixTail.Master.proposition3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:15:07.661813+00:00
 -- url     : https://prove2.me/theorems/a7789d6e-81fa-468c-89e3-0c74e22c2c91

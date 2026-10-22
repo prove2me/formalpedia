@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_subgrad_bound_no_projection
 -- name    : Pegasos.Analysis.subgrad_bound_no_projection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:11.571794+00:00
 -- url     : https://prove2.me/theorems/562261b5-e441-4932-a83f-008853586ea2

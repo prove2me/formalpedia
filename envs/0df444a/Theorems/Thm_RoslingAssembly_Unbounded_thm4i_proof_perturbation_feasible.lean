@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_Unbounded_thm4i_proof_perturbation_feasible
 -- name    : RoslingAssembly.Unbounded.thm4i_proof_perturbation_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:20.806003+00:00
 -- url     : https://prove2.me/theorems/524658b7-4fd0-4f3b-b231-1e31a0a49104

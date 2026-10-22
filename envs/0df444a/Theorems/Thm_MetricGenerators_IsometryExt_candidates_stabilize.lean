@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_IsometryExt_candidates_stabilize
 -- name    : MetricGenerators.IsometryExt.candidates_stabilize
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:48.901286+00:00
 -- url     : https://prove2.me/theorems/f9b3d4b4-d7f0-4e5e-9dcb-b4f000d70aa3

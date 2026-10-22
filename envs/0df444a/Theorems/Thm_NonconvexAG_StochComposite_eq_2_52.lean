@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_StochComposite_eq_2_52
 -- name    : NonconvexAG.StochComposite.eq_2_52
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:24:34.430013+00:00
 -- url     : https://prove2.me/theorems/7464aea5-456a-4c61-acba-74e1d7ab51f5

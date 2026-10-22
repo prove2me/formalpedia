@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_CircuitValue_theorem1_reduction
 -- name    : MDPComplexity.CircuitValue.theorem1_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:53:29.697809+00:00
 -- url     : https://prove2.me/theorems/d46d3253-87cc-4ac7-8194-4b80b60bfd99

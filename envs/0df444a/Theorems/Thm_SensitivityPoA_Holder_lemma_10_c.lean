@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Holder_lemma_10_c
 -- name    : SensitivityPoA.Holder.lemma_10_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:31.067989+00:00
 -- url     : https://prove2.me/theorems/022dff8d-28a1-4731-a815-5820f2ade074

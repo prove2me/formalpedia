@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_Linear_b_nonneg
 -- name    : FRBSplitting.Linear.b_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:09.965418+00:00
 -- url     : https://prove2.me/theorems/e3cd0e74-9147-474d-b470-f9d7393062b7

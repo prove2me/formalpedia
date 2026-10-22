@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_TotalRegret_proposition_7
 -- name    : RegLearnGames.TotalRegret.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:21.856986+00:00
 -- url     : https://prove2.me/theorems/d439320e-29b4-4ff3-8255-297d2bcbf7c9

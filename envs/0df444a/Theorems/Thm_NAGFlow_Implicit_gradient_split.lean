@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Implicit_gradient_split
 -- name    : NAGFlow.Implicit.gradient_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:32:03.629116+00:00
 -- url     : https://prove2.me/theorems/dcb9c12f-39ef-4d16-a886-f1dc2efd2913

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_Typical_delta_norm_le
 -- name    : DirectedOpinion.Typical.delta_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:42.713915+00:00
 -- url     : https://prove2.me/theorems/b37025fe-2d57-4558-80a4-7c777df7d83e

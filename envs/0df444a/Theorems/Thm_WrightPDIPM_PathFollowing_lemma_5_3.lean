@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_PathFollowing_lemma_5_3
 -- name    : WrightPDIPM.PathFollowing.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:53:57.387632+00:00
 -- url     : https://prove2.me/theorems/babc863d-0b12-4c78-a551-42f28a45df83

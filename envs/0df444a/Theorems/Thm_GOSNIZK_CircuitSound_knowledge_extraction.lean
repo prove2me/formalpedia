@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_CircuitSound_knowledge_extraction
 -- name    : GOSNIZK.CircuitSound.knowledge_extraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:48.361987+00:00
 -- url     : https://prove2.me/theorems/943df98a-48c3-471e-b7d8-bd68d6ea4610

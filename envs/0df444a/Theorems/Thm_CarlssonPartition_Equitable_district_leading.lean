@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Equitable_district_leading
 -- name    : CarlssonPartition.Equitable.district_leading
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:08.703915+00:00
 -- url     : https://prove2.me/theorems/39a3c751-8723-411d-8092-58062a84a8cb

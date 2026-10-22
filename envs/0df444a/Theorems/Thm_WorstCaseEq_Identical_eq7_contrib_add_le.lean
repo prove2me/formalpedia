@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_eq7_contrib_add_le
 -- name    : WorstCaseEq.Identical.eq7_contrib_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:52.22582+00:00
 -- url     : https://prove2.me/theorems/ed56637c-762b-4db8-8a42-3cea016d9d01

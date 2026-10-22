@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanicGames_Interior_eq_4_4_4_5
 -- name    : OceanicGames.Interior.eq_4_4_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:15:31.328599+00:00
 -- url     : https://prove2.me/theorems/532fc8e6-afd9-4048-aba8-92918bc35dcf

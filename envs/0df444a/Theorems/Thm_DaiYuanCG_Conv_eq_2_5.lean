@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiYuanCG_Conv_eq_2_5
 -- name    : DaiYuanCG.Conv.eq_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:00:59.914847+00:00
 -- url     : https://prove2.me/theorems/4d004726-8c0c-40c1-bb6d-188850e87953

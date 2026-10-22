@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PHRenewal_stationary_phase
 -- name    : MatrixAnalytic.PHRenewal.stationary_phase
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:34.809728+00:00
 -- url     : https://prove2.me/theorems/6b2860a3-3bb1-4e28-b87e-7758c5447bca

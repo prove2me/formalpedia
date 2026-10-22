@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSeedEval_Hajek_consistency
 -- name    : StochSeedEval.Hajek.consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:31.962099+00:00
 -- url     : https://prove2.me/theorems/d874ea1f-7c86-41e7-a30c-5341c9a0c914

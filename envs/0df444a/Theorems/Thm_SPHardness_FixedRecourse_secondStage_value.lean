@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_FixedRecourse_secondStage_value
 -- name    : SPHardness.FixedRecourse.secondStage_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:08:39.660974+00:00
 -- url     : https://prove2.me/theorems/0950c19f-11dc-415b-9071-6e52b24cfbe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_proposition_3_own
 -- name    : HolisticService.Effort.proposition_3_own
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:48.866978+00:00
 -- url     : https://prove2.me/theorems/286a4b31-fa41-4fc7-ad95-68d7df587f51

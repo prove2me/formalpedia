@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_strict_epigraph_cqr
 -- name    : ModernConvex.Truss.strict_epigraph_cqr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:34.123688+00:00
 -- url     : https://prove2.me/theorems/fd9ce640-984c-4082-b7a8-f6a743a00d7f

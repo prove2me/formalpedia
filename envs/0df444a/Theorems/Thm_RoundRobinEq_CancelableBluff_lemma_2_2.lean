@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundRobinEq_CancelableBluff_lemma_2_2
 -- name    : RoundRobinEq.CancelableBluff.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:28:16.923449+00:00
 -- url     : https://prove2.me/theorems/2627545c-43ca-4f42-b33d-a7cc147f11e7

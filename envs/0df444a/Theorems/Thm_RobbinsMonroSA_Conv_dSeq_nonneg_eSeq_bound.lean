@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsMonroSA_Conv_dSeq_nonneg_eSeq_bound
 -- name    : RobbinsMonroSA.Conv.dSeq_nonneg_eSeq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:11:03.148825+00:00
 -- url     : https://prove2.me/theorems/e5e39385-090f-4321-97d5-4a124be6efca

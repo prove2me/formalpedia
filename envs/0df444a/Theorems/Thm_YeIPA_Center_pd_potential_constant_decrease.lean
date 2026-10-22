@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Center_pd_potential_constant_decrease
 -- name    : YeIPA.Center.pd_potential_constant_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:02.582992+00:00
 -- url     : https://prove2.me/theorems/d6015163-c535-4384-ad6e-c59c9ac5b481

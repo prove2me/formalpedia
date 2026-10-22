@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Adaptive_lemma_2_4
 -- name    : ProjReflGrad.Adaptive.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:15:21.099609+00:00
 -- url     : https://prove2.me/theorems/61fd0c0a-e70a-49d6-a1e4-ab395caa33d9

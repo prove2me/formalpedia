@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KangKurtz_Combine_eq_3_16_3_17
 -- name    : KangKurtz.Combine.eq_3_16_3_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:43:41.215994+00:00
 -- url     : https://prove2.me/theorems/63a2265d-72ff-458d-9746-c93d5ea9e62f

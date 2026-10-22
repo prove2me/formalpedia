@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_OrderPolytope_theorem_3
 -- name    : SPHardness.OrderPolytope.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:10:04.699148+00:00
 -- url     : https://prove2.me/theorems/fb89418f-0273-4ee6-b069-d5e93a107e6c

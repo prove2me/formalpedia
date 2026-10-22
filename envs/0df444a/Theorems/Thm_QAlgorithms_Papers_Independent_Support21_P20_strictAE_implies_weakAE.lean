@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_strictAE_implies_weakAE
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.strictAE_implies_weakAE
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T05:00:43.16948+00:00
 -- url     : https://prove2.me/theorems/44d37625-e3be-449d-b274-b9134ddd4d80

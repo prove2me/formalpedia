@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_polynomial_curve_zero_divisor_bound
 -- name    : OAI.PiExponent.FormalInterpolation.polynomial_curve_zero_divisor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T04:15:55.682592+00:00
 -- url     : https://prove2.me/theorems/15b13aef-61db-46b5-89f1-21b68c879b36

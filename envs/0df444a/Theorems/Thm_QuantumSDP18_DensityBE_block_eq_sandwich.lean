@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_DensityBE_block_eq_sandwich
 -- name    : QuantumSDP18.DensityBE.block_eq_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:40.367935+00:00
 -- url     : https://prove2.me/theorems/2e249f72-ae78-4dc4-bb25-fcaaeacf3b4f

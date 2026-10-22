@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_UpperBound_Mset_subset_Mpath
 -- name    : ApproxIC.UpperBound.Mset_subset_Mpath
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:21.731314+00:00
 -- url     : https://prove2.me/theorems/aeb788af-3cda-4d81-90e7-b7b53548538a

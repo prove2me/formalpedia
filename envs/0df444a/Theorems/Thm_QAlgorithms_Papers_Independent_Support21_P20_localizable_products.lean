@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_localizable_products
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.localizable_products
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:56:53.060388+00:00
 -- url     : https://prove2.me/theorems/b838dc5c-c47c-43d5-9c95-6265e44cb7c5

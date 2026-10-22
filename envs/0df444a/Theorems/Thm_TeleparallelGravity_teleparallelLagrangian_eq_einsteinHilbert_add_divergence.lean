@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleparallelGravity_teleparallelLagrangian_eq_einsteinHilbert_add_divergence
 -- name    : TeleparallelGravity.teleparallelLagrangian_eq_einsteinHilbert_add_divergence
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T22:44:49.736686+00:00
 -- url     : https://prove2.me/theorems/14dfae0e-4a9f-4faa-a517-eb06d01d690f

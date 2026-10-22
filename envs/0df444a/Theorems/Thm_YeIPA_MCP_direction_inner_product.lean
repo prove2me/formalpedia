@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_MCP_direction_inner_product
 -- name    : YeIPA.MCP.direction_inner_product
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:53.897978+00:00
 -- url     : https://prove2.me/theorems/fcf6b4da-fd9c-4247-b9cc-3b034bb9dc32

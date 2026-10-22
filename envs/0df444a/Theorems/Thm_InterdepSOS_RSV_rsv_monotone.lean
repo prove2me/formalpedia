@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_RSV_rsv_monotone
 -- name    : InterdepSOS.RSV.rsv_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:33.48714+00:00
 -- url     : https://prove2.me/theorems/44d7ff9c-9978-4971-9788-12f9dd04c76b

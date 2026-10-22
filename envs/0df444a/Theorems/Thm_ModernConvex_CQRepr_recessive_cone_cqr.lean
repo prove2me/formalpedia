@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_CQRepr_recessive_cone_cqr
 -- name    : ModernConvex.CQRepr.recessive_cone_cqr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:28.254369+00:00
 -- url     : https://prove2.me/theorems/ab3dcc6b-b7e4-4d27-9584-596a42a743fd

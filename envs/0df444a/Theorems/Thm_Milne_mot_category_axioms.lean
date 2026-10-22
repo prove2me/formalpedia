@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Milne_mot_category_axioms
 -- name    : Milne.mot_category_axioms
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-20T03:09:24.59847+00:00
 -- url     : https://prove2.me/theorems/e3898ea9-a735-45c6-af1d-fcc94aee7008

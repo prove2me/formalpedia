@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailInfoShare_AFS_uninformed_seller_benchmark
 -- name    : RetailInfoShare.AFS.uninformed_seller_benchmark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:01.849296+00:00
 -- url     : https://prove2.me/theorems/92e38609-678f-4705-870b-375a102ccf5d

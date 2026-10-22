@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_foc_iff_deltahat
 -- name    : HolisticService.Effort.foc_iff_deltahat
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:49.114655+00:00
 -- url     : https://prove2.me/theorems/14ffbe0a-cbf4-454d-aebb-bb18d7bbf061

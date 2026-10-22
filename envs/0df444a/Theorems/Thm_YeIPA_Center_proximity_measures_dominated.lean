@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Center_proximity_measures_dominated
 -- name    : YeIPA.Center.proximity_measures_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:05.23121+00:00
 -- url     : https://prove2.me/theorems/c3a76da2-90bd-4a76-8eaa-6798c0c47006

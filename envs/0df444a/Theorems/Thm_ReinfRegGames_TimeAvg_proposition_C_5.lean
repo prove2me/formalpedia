@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReinfRegGames_TimeAvg_proposition_C_5
 -- name    : ReinfRegGames.TimeAvg.proposition_C_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:09:27.275908+00:00
 -- url     : https://prove2.me/theorems/f6b571f1-ddd8-40b4-a343-1dfedd9c1020

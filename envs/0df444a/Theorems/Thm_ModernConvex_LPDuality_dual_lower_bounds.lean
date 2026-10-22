@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_dual_lower_bounds
 -- name    : ModernConvex.LPDuality.dual_lower_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:29.10878+00:00
 -- url     : https://prove2.me/theorems/16a0a65f-6a6b-484a-ae19-4a9f96577b10

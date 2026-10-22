@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereSOS_Rate_gegenbauer_deriv_one
 -- name    : SphereSOS.Rate.gegenbauer_deriv_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:19:13.717114+00:00
 -- url     : https://prove2.me/theorems/e88ad61b-bf64-4fcc-a279-54d07acc3da9

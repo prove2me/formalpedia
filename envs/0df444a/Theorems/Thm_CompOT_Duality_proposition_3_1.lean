@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Duality_proposition_3_1
 -- name    : CompOT.Duality.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:43.070557+00:00
 -- url     : https://prove2.me/theorems/40593259-bbcc-420e-824d-eec0816f13d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelDRO_Duality_reproducing_identity
 -- name    : KernelDRO.Duality.reproducing_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:26:50.029824+00:00
 -- url     : https://prove2.me/theorems/1185f1d5-ef5a-428b-a463-495c3678e323

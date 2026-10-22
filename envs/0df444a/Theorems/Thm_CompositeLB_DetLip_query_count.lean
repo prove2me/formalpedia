@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetLip_query_count
 -- name    : CompositeLB.DetLip.query_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:34:18.321149+00:00
 -- url     : https://prove2.me/theorems/f74d7167-a08c-4b7e-ad29-97c9025360f8

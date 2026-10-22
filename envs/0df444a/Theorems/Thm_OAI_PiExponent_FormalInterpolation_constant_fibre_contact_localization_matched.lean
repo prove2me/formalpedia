@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_constant_fibre_contact_localization_matched
 -- name    : OAI.PiExponent.FormalInterpolation.constant_fibre_contact_localization_matched
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T03:52:59.83873+00:00
 -- url     : https://prove2.me/theorems/3b3475c1-b558-4f0f-ad39-cb056d4bcfb2

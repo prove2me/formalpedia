@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssetDebt_ControlBand_lemma_1_i
 -- name    : AssetDebt.ControlBand.lemma_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:13:57.726756+00:00
 -- url     : https://prove2.me/theorems/aa38e12f-09bc-4eb9-9c99-41933d1dfee4

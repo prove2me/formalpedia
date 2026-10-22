@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FirstPassage_bisection_passage_time
 -- name    : MatrixAnalytic.FirstPassage.bisection_passage_time
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:37.104251+00:00
 -- url     : https://prove2.me/theorems/a76e5c11-fead-42e3-a425-0ea603c9ce18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_CSSP_abs_marg_top
 -- name    : CurvatureSubmod.CSSP.abs_marg_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:58:49.866769+00:00
 -- url     : https://prove2.me/theorems/3de42013-e44b-4b82-a29f-a1b42bde6249

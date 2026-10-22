@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleCorrMFG_Conv_step_three_independence
 -- name    : SimpleCorrMFG.Conv.step_three_independence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:30.21636+00:00
 -- url     : https://prove2.me/theorems/6df5f75a-efd1-4f80-8597-0611d28eaf59

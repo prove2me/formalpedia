@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Communication_eta_star_limit
 -- name    : MarketplaceLeakage.Communication.eta_star_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:27.627376+00:00
 -- url     : https://prove2.me/theorems/e51e125e-feef-49a1-b18d-d8d30ffaf49e

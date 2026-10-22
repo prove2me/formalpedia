@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IPAHDSC_run_satisfies_eq20
 -- name    : HessianDamping.IPAHDSC.run_satisfies_eq20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:42.246981+00:00
 -- url     : https://prove2.me/theorems/7287c0e0-7dd8-4b1e-b986-1189eaebee64

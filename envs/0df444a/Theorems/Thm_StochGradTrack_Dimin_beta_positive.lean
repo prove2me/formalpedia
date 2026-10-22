@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochGradTrack_Dimin_beta_positive
 -- name    : StochGradTrack.Dimin.beta_positive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:48:39.536617+00:00
 -- url     : https://prove2.me/theorems/e887604a-25b5-43f4-bffb-327685e6ba2d

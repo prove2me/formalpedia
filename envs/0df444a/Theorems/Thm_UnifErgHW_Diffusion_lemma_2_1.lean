@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnifErgHW_Diffusion_lemma_2_1
 -- name    : UnifErgHW.Diffusion.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:13:16.322686+00:00
 -- url     : https://prove2.me/theorems/f0bc9016-f5b8-4c83-bdba-974c5aa208a4

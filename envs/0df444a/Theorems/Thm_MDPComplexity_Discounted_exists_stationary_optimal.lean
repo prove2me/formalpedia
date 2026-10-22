@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_Discounted_exists_stationary_optimal
 -- name    : MDPComplexity.Discounted.exists_stationary_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:45:55.061748+00:00
 -- url     : https://prove2.me/theorems/a7fc9d6a-c1f3-458d-a850-7ba239876219

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_MinBisect_two_t_dIn_le_S
 -- name    : LPCommunity.MinBisect.two_t_dIn_le_S
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:49.611779+00:00
 -- url     : https://prove2.me/theorems/ac9df558-88ef-427f-b7c6-5de6ac325c55

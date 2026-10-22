@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_Schur_theorem_3_1
 -- name    : RobinsonSR.Schur.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:08.578281+00:00
 -- url     : https://prove2.me/theorems/ae8570b2-8559-4bf0-9be0-a4ea837735f5

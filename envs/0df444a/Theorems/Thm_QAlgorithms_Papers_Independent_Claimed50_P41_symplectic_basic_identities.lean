@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_symplectic_basic_identities
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.symplectic_basic_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:58:30.313449+00:00
 -- url     : https://prove2.me/theorems/4882a55e-2305-4eb7-a1aa-1420acbe1d55

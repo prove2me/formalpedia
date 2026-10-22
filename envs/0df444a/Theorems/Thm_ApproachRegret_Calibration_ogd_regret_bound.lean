@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproachRegret_Calibration_ogd_regret_bound
 -- name    : ApproachRegret.Calibration.ogd_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T15:44:53.924985+00:00
 -- url     : https://prove2.me/theorems/f6dbf82e-e35e-4598-b49e-3b64ec722c50

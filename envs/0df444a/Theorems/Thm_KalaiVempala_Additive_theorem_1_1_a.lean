@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Additive_theorem_1_1_a
 -- name    : KalaiVempala.Additive.theorem_1_1_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:10.40995+00:00
 -- url     : https://prove2.me/theorems/1250c372-cd5a-424e-bc5c-79fa062aef9e

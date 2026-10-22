@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_p_second_deriv_bound
 -- name    : SlowConvergence.Newton.p_second_deriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:39:49.164434+00:00
 -- url     : https://prove2.me/theorems/59c66fa4-8d97-40be-91a1-0c3efa395e23

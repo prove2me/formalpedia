@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Uniform_wholesale_and_profits_given_u
 -- name    : QualityEncroach.Uniform.wholesale_and_profits_given_u
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:20.676214+00:00
 -- url     : https://prove2.me/theorems/1be0e192-ad4a-468e-bba7-5f235e5e715a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PacketRouting_CongDil_lemma_3_5
 -- name    : PacketRouting.CongDil.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:02:27.934754+00:00
 -- url     : https://prove2.me/theorems/07baf291-255c-4e2b-a8af-d3a8e8873b11

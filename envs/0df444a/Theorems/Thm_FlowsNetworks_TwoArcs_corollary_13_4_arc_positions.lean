@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_TwoArcs_corollary_13_4_arc_positions
 -- name    : FlowsNetworks.TwoArcs.corollary_13_4_arc_positions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:59.87572+00:00
 -- url     : https://prove2.me/theorems/fb0a2f1b-3613-47d4-8dea-6841cee5cc76

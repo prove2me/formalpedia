@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimelyLoss_Feedback_firm_trading_posteriors
 -- name    : TimelyLoss.Feedback.firm_trading_posteriors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:48.303636+00:00
 -- url     : https://prove2.me/theorems/b55c9f02-e1f7-4b76-8c35-4cc10cc6072d

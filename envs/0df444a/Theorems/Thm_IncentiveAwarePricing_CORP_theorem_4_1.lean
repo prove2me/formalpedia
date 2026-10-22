@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentiveAwarePricing_CORP_theorem_4_1
 -- name    : IncentiveAwarePricing.CORP.theorem_4_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:25.736853+00:00
 -- url     : https://prove2.me/theorems/0eba2ffe-e952-45e8-9ae5-ba9afd69bf60

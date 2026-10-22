@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSchedPrec_InForest_lemma_3_3
 -- name    : StochSchedPrec.InForest.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:44:12.141063+00:00
 -- url     : https://prove2.me/theorems/3e6a5d14-26ad-47bd-8050-70ab4e39ec74

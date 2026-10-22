@@ -7,7 +7,9 @@
 -- title:
 --   Asymptotic formula, as q tends to 1 from below, for the logarithm of the q-series with terms a^n q^(n^2)/(q;q)_n, in terms of the dilogarithm at the root of x^2 + x = a
 -- statement:
---   Let $a>0$ and let $x$ be the positive root of $x^2+x=a$. For $0<q<1$ put $S(q)=\sum_{n\ge0}a^nq^{n^2}/(q;q)_n$. Then $$\lim_{q\to1^-}\Bigl(\log\Bigl(\sqrt{\tfrac{1+2x}{1+x}}\,S(q)\Bigr)+\frac{\tfrac12\log^2(1+x)-\operatorname{Li}_2(-x)}{\log q}\Bigr)=0,$$ where $\operatorname{Li}_2(w)=-\int_0^w\log(1-u)\,du/u$.
+--   Let $a>0$ and let $x$ be the positive root of $x^2+x=a$. For $0<q<1$ put $S(q)=\sum_{n\ge0}a^nq^{n^2}/(q;q)_n$. Then $$\lim_{q\to1^-}\Bigl(\log\Bigl(\sqrt{\tfrac{1+2x}{1+x}}\,S(q)\Bigr)+\frac{\tfrac12\log^2(1+x)-\operatorname{Li}_2(-x)}{\log q}\Bigr)=0,$$ where $\operatorname{Li}_2(w)=-\int_0^w\log(1-u)\,du/u$. Differs from the printed source: the asymptotic symbol is interpreted additively, so the displayed difference tends to zero. Entry 8 is the specialization b=1,c=0 of Entry 7 after putting z=1/(1+x); its radical removes the constant term. For x>1 the dilogarithm is still its principal integral at the negative real argument -x, rather than the divergent power series there.
+--
+--   **Discrepancy from the printed source.** Differs from the printed source: the asymptotic symbol is interpreted additively, so the displayed difference tends to zero. Entry 8 is the specialization b=1,c=0 of Entry 7 after putting z=1/(1+x); its radical removes the constant term. For x>1 the dilogarithm is still its principal integral at the negative real argument -x, rather than the divergent power series there.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 27, Entry 8, p. 284.
 

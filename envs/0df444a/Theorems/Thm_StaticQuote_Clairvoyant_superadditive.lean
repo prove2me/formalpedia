@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticQuote_Clairvoyant_superadditive
 -- name    : StaticQuote.Clairvoyant.superadditive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:04.380681+00:00
 -- url     : https://prove2.me/theorems/22a2b86a-eceb-46d9-b6a9-d202b676c705

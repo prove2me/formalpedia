@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Composite_eq_2_48_2_49
 -- name    : NonconvexAG.Composite.eq_2_48_2_49
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:35:26.879985+00:00
 -- url     : https://prove2.me/theorems/3516de5b-42c2-460e-98df-924e5239d57a

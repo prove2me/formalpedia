@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_CutChoose_agent2_truthful_half
 -- name    : StrategicAlloc.CutChoose.agent2_truthful_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:36:43.265178+00:00
 -- url     : https://prove2.me/theorems/7fa9174d-e7a7-47ce-b1cd-3699256c298a

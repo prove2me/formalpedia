@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Potential_separable_potential_of_local
 -- name    : CostSharingPNE.Potential.separable_potential_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:12.120127+00:00
 -- url     : https://prove2.me/theorems/737f75e7-c18e-4246-b386-28469e730504

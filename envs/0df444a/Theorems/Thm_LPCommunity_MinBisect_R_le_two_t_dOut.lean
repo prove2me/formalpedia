@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_MinBisect_R_le_two_t_dOut
 -- name    : LPCommunity.MinBisect.R_le_two_t_dOut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:52.5233+00:00
 -- url     : https://prove2.me/theorems/c8d27c51-accf-4953-848a-2b193dceaf63

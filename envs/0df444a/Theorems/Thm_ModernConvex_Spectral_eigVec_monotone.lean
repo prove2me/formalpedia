@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Spectral_eigVec_monotone
 -- name    : ModernConvex.Spectral.eigVec_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:40.396989+00:00
 -- url     : https://prove2.me/theorems/abd07cf5-6530-4254-a07e-e949173269bd

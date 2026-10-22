@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_theorem5b_fixed_point
 -- name    : RobustDP.Discounted.theorem5b_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:46.984997+00:00
 -- url     : https://prove2.me/theorems/aff6c2bb-f93f-46f3-96b7-94f89d7792a1

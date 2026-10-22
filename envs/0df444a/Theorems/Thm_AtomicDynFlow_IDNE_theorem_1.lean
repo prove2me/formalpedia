@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynFlow_IDNE_theorem_1
 -- name    : AtomicDynFlow.IDNE.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:01.955179+00:00
 -- url     : https://prove2.me/theorems/8291b610-2eb8-4f6c-a10e-dbb2488ceb1d

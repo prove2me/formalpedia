@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_rank_one_channel_normalization
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.rank_one_channel_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:42:48.393867+00:00
 -- url     : https://prove2.me/theorems/f4e72d0d-685c-4f43-b0a6-e7c25f762be6

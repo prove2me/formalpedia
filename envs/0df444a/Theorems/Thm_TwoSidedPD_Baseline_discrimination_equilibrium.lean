@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_discrimination_equilibrium
 -- name    : TwoSidedPD.Baseline.discrimination_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:00.907148+00:00
 -- url     : https://prove2.me/theorems/3cd050b9-3ea0-4471-b10b-167ad2e6bed0

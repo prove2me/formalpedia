@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_pne_bid_pos_of_demanded
 -- name    : TradingPostNSW.Leontief.pne_bid_pos_of_demanded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:11.372118+00:00
 -- url     : https://prove2.me/theorems/a7b23a47-c830-4328-898e-b66ce78295af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_MinVar_fluct_integral_split
 -- name    : KendallBD.MinVar.fluct_integral_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:56.986993+00:00
 -- url     : https://prove2.me/theorems/99375a24-9c5c-4c46-8ab1-50ad8a0236c9

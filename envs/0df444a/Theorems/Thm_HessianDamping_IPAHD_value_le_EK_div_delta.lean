@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IPAHD_value_le_EK_div_delta
 -- name    : HessianDamping.IPAHD.value_le_EK_div_delta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:39.415947+00:00
 -- url     : https://prove2.me/theorems/cd595e86-45a1-45a6-82aa-9914d0c7dc4a

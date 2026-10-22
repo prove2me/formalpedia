@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_MCP_new_iterate_residual_gap
 -- name    : YeIPA.MCP.new_iterate_residual_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:51.775036+00:00
 -- url     : https://prove2.me/theorems/7e3d36be-11c1-4515-b5cd-d272db62d599

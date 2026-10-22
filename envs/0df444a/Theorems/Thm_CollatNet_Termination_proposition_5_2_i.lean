@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CollatNet_Termination_proposition_5_2_i
 -- name    : CollatNet.Termination.proposition_5_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:51:00.864044+00:00
 -- url     : https://prove2.me/theorems/0e9aa236-45c4-473b-97f6-db83e2859623

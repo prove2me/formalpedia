@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetMeterDRE_Profit_corollary_1
 -- name    : NetMeterDRE.Profit.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:28.855984+00:00
 -- url     : https://prove2.me/theorems/13172f5c-dc7a-42e7-8bc4-587445705b06

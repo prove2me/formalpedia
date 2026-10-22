@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EVSubsidy_Marginal_theorem_3
 -- name    : EVSubsidy.Marginal.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:30.376233+00:00
 -- url     : https://prove2.me/theorems/1040004e-f4a3-4a64-90e8-84c405f0ffe5

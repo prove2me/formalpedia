@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_StarBound_node_subadditivity
 -- name    : LNTopology.StarBound.node_subadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:32:33.346166+00:00
 -- url     : https://prove2.me/theorems/a57df920-9ca1-4e6b-9d1e-331fd8331273

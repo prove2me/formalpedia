@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Stability_lemma_3_7_best_response_lipschitz
 -- name    : GraphonGames.Stability.lemma_3_7_best_response_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:30.857496+00:00
 -- url     : https://prove2.me/theorems/d15c5288-19ce-4d45-a1b7-85ba5459e1be

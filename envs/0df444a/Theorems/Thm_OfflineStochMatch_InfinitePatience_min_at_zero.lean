@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_InfinitePatience_min_at_zero
 -- name    : OfflineStochMatch.InfinitePatience.min_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:59.434884+00:00
 -- url     : https://prove2.me/theorems/b00d87f8-810a-4a27-81b3-1984f63a9566

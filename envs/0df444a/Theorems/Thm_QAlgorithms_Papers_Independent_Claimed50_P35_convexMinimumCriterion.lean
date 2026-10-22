@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P35_convexMinimumCriterion
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P35.convexMinimumCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:43:08.164881+00:00
 -- url     : https://prove2.me/theorems/76ca4589-030a-448c-9860-fc00118491dc

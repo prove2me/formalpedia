@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_RelaxOrder_proposition_2_3_i
 -- name    : InfoRelax.RelaxOrder.proposition_2_3_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:40:59.822253+00:00
 -- url     : https://prove2.me/theorems/7ebbc711-6464-4e93-bfaa-51dc6ef50507

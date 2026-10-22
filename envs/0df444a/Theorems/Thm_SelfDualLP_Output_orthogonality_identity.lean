@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Output_orthogonality_identity
 -- name    : SelfDualLP.Output.orthogonality_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:27:40.967702+00:00
 -- url     : https://prove2.me/theorems/23612c58-2f90-4da0-b1d0-4e521f5767ce

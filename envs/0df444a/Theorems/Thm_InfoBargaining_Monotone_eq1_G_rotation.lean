@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Monotone_eq1_G_rotation
 -- name    : InfoBargaining.Monotone.eq1_G_rotation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:45.898863+00:00
 -- url     : https://prove2.me/theorems/c2076040-0989-4791-a83c-483171c43ca6

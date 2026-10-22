@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_CanonicalVector_canH_essentiallySelfAdjointOn_core
 -- name    : BookProof.NavierStokesFlow.CanonicalVector.canH_essentiallySelfAdjointOn_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T06:37:23.951792+00:00
 -- url     : https://prove2.me/theorems/d1694d4d-5698-478d-b882-013aa19f289b

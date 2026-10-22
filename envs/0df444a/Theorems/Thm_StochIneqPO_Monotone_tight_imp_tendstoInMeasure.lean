@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Monotone_tight_imp_tendstoInMeasure
 -- name    : StochIneqPO.Monotone.tight_imp_tendstoInMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:28:05.264037+00:00
 -- url     : https://prove2.me/theorems/5048b9bc-6134-4cea-8c9c-2b54e24cb359

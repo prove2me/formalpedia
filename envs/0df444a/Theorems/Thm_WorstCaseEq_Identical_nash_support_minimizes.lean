@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_nash_support_minimizes
 -- name    : WorstCaseEq.Identical.nash_support_minimizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:39.107979+00:00
 -- url     : https://prove2.me/theorems/80a1e8f5-82a1-4000-8eba-72ff81e211c7

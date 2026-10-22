@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_SearchQC_J_pos_N_neg
 -- name    : AssortSearch.SearchQC.J_pos_N_neg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:30.930679+00:00
 -- url     : https://prove2.me/theorems/0b2aacc3-25ed-4555-b5c2-6cf57d1a3c8e

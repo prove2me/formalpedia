@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P12_lemmaB_7
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P12.lemmaB_7
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:43:56.315679+00:00
 -- url     : https://prove2.me/theorems/da773e0e-b62f-4978-89eb-7cd23c5d0bed

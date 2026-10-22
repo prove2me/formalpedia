@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuReturns_PartialRefunds_corollary1_partial_beats_full
 -- name    : SuReturns.PartialRefunds.corollary1_partial_beats_full
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:08:08.668077+00:00
 -- url     : https://prove2.me/theorems/00fb6d13-8895-4eb2-8afb-c9bc6b7cca70

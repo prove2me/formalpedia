@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Freezing_freezing_reward_le_index_mul_time
 -- name    : AllocationIndices.Freezing.freezing_reward_le_index_mul_time
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:26.285987+00:00
 -- url     : https://prove2.me/theorems/fe5172ac-3f75-4ffe-8c14-fb685000b7be

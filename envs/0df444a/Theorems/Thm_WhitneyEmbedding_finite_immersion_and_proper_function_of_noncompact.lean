@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitneyEmbedding_finite_immersion_and_proper_function_of_noncompact
 -- name    : WhitneyEmbedding.finite_immersion_and_proper_function_of_noncompact
--- status  : Open
+-- status  : Proved
 -- author  : @Wenqian Xing
 -- created : 2026-09-06T11:44:51.479933+00:00
 -- url     : https://prove2.me/theorems/989aea68-4ad7-43c8-b32f-b30c205107f5

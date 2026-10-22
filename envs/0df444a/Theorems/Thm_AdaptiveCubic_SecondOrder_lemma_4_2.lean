@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveCubic_SecondOrder_lemma_4_2
 -- name    : AdaptiveCubic.SecondOrder.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:38:19.340004+00:00
 -- url     : https://prove2.me/theorems/6e35b690-4a26-443a-9ee9-bb76f4a06c6f

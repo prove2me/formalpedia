@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_BirthDeath_gf_relations
 -- name    : MatrixAnalytic.BirthDeath.gf_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:44.593862+00:00
 -- url     : https://prove2.me/theorems/6d76def2-8b05-48b0-953e-1930e6f4a96a

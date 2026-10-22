@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogMeanVar_Complete_c2_argmax
 -- name    : LogMeanVar.Complete.c2_argmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:47.293151+00:00
 -- url     : https://prove2.me/theorems/30e4e1c3-fab4-4220-bd18-4c3828243e25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveCubic_Cauchy_lemma_3_1_i
 -- name    : AdaptiveCubic.Cauchy.lemma_3_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:50.715032+00:00
 -- url     : https://prove2.me/theorems/ed9223c1-2049-401b-9ecf-b077307b849d

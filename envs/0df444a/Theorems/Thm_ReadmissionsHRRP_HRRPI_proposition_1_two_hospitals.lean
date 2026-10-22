@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReadmissionsHRRP_HRRPI_proposition_1_two_hospitals
 -- name    : ReadmissionsHRRP.HRRPI.proposition_1_two_hospitals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:13:08.334691+00:00
 -- url     : https://prove2.me/theorems/dba45a9c-49f6-44a3-8535-c3d78d5fdd9c

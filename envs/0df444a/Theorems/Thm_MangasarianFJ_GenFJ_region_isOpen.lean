@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MangasarianFJ_GenFJ_region_isOpen
 -- name    : MangasarianFJ.GenFJ.region_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:41:14.460826+00:00
 -- url     : https://prove2.me/theorems/97ce1e3a-d287-4c42-ad1e-54b4f8f640ab

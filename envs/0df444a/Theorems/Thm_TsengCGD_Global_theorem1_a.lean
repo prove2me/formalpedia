@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_Global_theorem1_a
 -- name    : TsengCGD.Global.theorem1_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:27.846894+00:00
 -- url     : https://prove2.me/theorems/bf9254ce-76dc-441b-a06b-a563b76e24b9

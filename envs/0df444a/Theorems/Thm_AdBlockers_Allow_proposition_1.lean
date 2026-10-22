@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_proposition_1
 -- name    : AdBlockers.Allow.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:35.885871+00:00
 -- url     : https://prove2.me/theorems/885e6537-a437-4522-bae0-790f3c8c7036

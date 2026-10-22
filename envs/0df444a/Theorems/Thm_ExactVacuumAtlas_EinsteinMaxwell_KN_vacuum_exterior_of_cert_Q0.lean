@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactVacuumAtlas_EinsteinMaxwell_KN_vacuum_exterior_of_cert_Q0
 -- name    : ExactVacuumAtlas.EinsteinMaxwell.KN.vacuum_exterior_of_cert_Q0
--- status  : Open
+-- status  : Proved
 -- author  : @He Wang
 -- created : 2026-10-21T01:49:07.62054+00:00
 -- url     : https://prove2.me/theorems/54e79218-8ca2-4e5a-9c7d-2281ee07d842

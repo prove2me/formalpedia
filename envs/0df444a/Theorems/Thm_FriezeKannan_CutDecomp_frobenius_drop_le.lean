@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_CutDecomp_frobenius_drop_le
 -- name    : FriezeKannan.CutDecomp.frobenius_drop_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:42.289152+00:00
 -- url     : https://prove2.me/theorems/bc15c429-0ef7-406e-b6ce-1cbd84df497c

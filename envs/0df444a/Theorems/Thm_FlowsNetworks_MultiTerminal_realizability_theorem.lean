@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MultiTerminal_realizability_theorem
 -- name    : FlowsNetworks.MultiTerminal.realizability_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:13.272147+00:00
 -- url     : https://prove2.me/theorems/390974b5-737a-4573-8d3f-a8e64c60853c

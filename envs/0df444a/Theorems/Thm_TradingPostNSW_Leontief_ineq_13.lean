@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_ineq_13
 -- name    : TradingPostNSW.Leontief.ineq_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:09.770436+00:00
 -- url     : https://prove2.me/theorems/a3e411f6-98f4-4f9b-90a7-b67d8cd266a9

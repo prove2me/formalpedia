@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_lemma_3_3
 -- name    : IwataFF.SFM.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:26.901189+00:00
 -- url     : https://prove2.me/theorems/697c00a4-f5cd-449d-ac97-7ddada8422f4

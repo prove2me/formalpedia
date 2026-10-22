@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithHitAndRun_SymMixing_lemma_2_indecomposable
 -- name    : SmithHitAndRun.SymMixing.lemma_2_indecomposable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:13:05.746983+00:00
 -- url     : https://prove2.me/theorems/3b3c75d5-c64c-40b2-ad0a-cf2ad4fab592

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailVariety_Statics_theorem_2
 -- name    : RetailVariety.Statics.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:15.449843+00:00
 -- url     : https://prove2.me/theorems/cbc34a07-02ab-4517-9535-99dbf1e5650c

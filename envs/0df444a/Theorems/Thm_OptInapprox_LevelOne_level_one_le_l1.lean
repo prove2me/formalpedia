@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_LevelOne_level_one_le_l1
 -- name    : OptInapprox.LevelOne.level_one_le_l1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:27.229784+00:00
 -- url     : https://prove2.me/theorems/be639a06-3058-4e30-a2ac-c2040f619baf

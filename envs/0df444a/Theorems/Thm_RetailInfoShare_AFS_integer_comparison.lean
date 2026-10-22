@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailInfoShare_AFS_integer_comparison
 -- name    : RetailInfoShare.AFS.integer_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:12.273277+00:00
 -- url     : https://prove2.me/theorems/28f70b7e-22bb-4fa9-8e33-5b9f48ff3185

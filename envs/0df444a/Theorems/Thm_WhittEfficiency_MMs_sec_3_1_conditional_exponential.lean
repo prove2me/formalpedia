@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittEfficiency_MMs_sec_3_1_conditional_exponential
 -- name    : WhittEfficiency.MMs.sec_3_1_conditional_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:12.263369+00:00
 -- url     : https://prove2.me/theorems/c065891e-46ab-43bb-aaf0-1be39f6a6b8e

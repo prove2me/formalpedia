@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P38_purifiedOutput_entropy
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P38.purifiedOutput_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:43:41.797752+00:00
 -- url     : https://prove2.me/theorems/a2c35b3d-0ba1-49c2-b97b-68becd7105f7

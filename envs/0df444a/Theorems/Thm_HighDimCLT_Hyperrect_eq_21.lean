@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimCLT_Hyperrect_eq_21
 -- name    : HighDimCLT.Hyperrect.eq_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:38:44.11106+00:00
 -- url     : https://prove2.me/theorems/42dd03c5-caec-433e-a6cb-0caaa2b00060

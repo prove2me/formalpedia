@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_energyDensity_nonneg
 -- name    : FiniteEnergyPlane.energyDensity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:23:07.965647+00:00
 -- url     : https://prove2.me/theorems/34f14c55-b370-4ad0-905e-2b963b65b05d

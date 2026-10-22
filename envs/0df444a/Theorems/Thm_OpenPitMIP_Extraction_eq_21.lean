@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_Extraction_eq_21
 -- name    : OpenPitMIP.Extraction.eq_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:21.625739+00:00
 -- url     : https://prove2.me/theorems/f4e0b354-f5e8-4b2b-928b-32c627af315e

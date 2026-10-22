@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_EntropicLimit_eq_4_7
 -- name    : CompOT.EntropicLimit.eq_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:26:14.453981+00:00
 -- url     : https://prove2.me/theorems/74b83aa6-1dfd-42e0-9b28-d531ef01101e

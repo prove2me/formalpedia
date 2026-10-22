@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetMeterDRE_Profit_theorem_1
 -- name    : NetMeterDRE.Profit.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:21.768831+00:00
 -- url     : https://prove2.me/theorems/11d9a4c6-e475-4741-945a-642ba97f3ef6

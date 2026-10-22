@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EJASpectral_RootDet_eq_109c_nonneg
 -- name    : EJASpectral.RootDet.eq_109c_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:20.531444+00:00
 -- url     : https://prove2.me/theorems/fe5f4740-7513-4663-abf7-09d325f33fd9

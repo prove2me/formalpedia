@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_WeakGoldbach_helfgott_platt_block_ladders_grp03
 -- name    : WeakGoldbach.helfgott_platt_block_ladders_grp03
 -- status  : Open
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:17:42.766261+00:00
 -- url     : https://prove2.me/theorems/714daca4-d8a8-4434-971f-8b7b60391d5f
 -- title:

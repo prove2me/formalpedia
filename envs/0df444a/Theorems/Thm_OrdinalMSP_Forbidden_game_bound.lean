@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalMSP_Forbidden_game_bound
 -- name    : OrdinalMSP.Forbidden.game_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:55.194088+00:00
 -- url     : https://prove2.me/theorems/354bdd67-4afe-4183-b7c0-9edf07bda0ce

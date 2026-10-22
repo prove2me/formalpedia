@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PromoMulti_PairwiseExact_higher_order_coef_zero
 -- name    : PromoMulti.PairwiseExact.higher_order_coef_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:49.766225+00:00
 -- url     : https://prove2.me/theorems/12efb8c8-587a-4ade-88a0-2f5d51d7ae2d

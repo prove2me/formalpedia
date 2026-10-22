@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Adaptive_recursion_closed_form
 -- name    : CorreaThreshold.Adaptive.recursion_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:47.03506+00:00
 -- url     : https://prove2.me/theorems/da13dc59-c138-40e5-9846-f7c18f8db47b

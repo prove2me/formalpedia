@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_third_deriv_along_step
 -- name    : SlowConvergence.Newton.third_deriv_along_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:39:51.470052+00:00
 -- url     : https://prove2.me/theorems/87ec1925-67c4-40d6-b3fb-48ddb21adc3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FirstPassage_bisection_doubling
 -- name    : MatrixAnalytic.FirstPassage.bisection_doubling
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:36.375978+00:00
 -- url     : https://prove2.me/theorems/8c11ce10-19ad-49b7-96cb-a6433b61ff03

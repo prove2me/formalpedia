@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEllipPot_Potential_scalar_log_bound
 -- name    : GenEllipPot.Potential.scalar_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:13.760859+00:00
 -- url     : https://prove2.me/theorems/11367ffb-a003-4066-aada-706c5302586d

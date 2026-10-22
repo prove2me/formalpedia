@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Tree_recurrent_Nd_one
 -- name    : MatrixAnalytic.Tree.recurrent_Nd_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:07.651701+00:00
 -- url     : https://prove2.me/theorems/445569a8-8237-4142-9f68-c09c353b58f2

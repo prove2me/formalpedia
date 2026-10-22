@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_SamplesDual_t_forms
 -- name    : SecretaryAdvice.SamplesDual.t_forms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:20.662182+00:00
 -- url     : https://prove2.me/theorems/90556f71-23d9-48a4-9fbf-d6723959f69b

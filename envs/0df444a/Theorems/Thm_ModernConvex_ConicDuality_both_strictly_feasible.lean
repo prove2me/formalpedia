@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_ConicDuality_both_strictly_feasible
 -- name    : ModernConvex.ConicDuality.both_strictly_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:34.918688+00:00
 -- url     : https://prove2.me/theorems/25e100e9-7d98-4c2f-b901-b31ba4831710

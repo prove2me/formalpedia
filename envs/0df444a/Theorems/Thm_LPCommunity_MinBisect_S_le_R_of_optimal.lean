@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_MinBisect_S_le_R_of_optimal
 -- name    : LPCommunity.MinBisect.S_le_R_of_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:45.460058+00:00
 -- url     : https://prove2.me/theorems/ce8aa1cc-a8fd-4b76-a086-9294cbc82eef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_quadOpMat_essentiallySelfAdjoint
 -- name    : BookProof.QuadraticRotation.quadOpMat_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:02:35.121919+00:00
 -- url     : https://prove2.me/theorems/02bd94ae-46df-47bd-a12f-6fc4276aa388

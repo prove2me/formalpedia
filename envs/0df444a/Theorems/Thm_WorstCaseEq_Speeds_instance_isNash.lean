@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Speeds_instance_isNash
 -- name    : WorstCaseEq.Speeds.instance_isNash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:11:52.888002+00:00
 -- url     : https://prove2.me/theorems/fc694767-aeb1-4163-a185-ab427815f947

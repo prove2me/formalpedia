@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefSemimetric_TopDiff_eq_8
 -- name    : PrefSemimetric.TopDiff.eq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:33.114986+00:00
 -- url     : https://prove2.me/theorems/ef9c9798-a040-4641-81a6-4897a488897b

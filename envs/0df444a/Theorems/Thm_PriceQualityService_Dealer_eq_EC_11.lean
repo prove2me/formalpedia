@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Dealer_eq_EC_11
 -- name    : PriceQualityService.Dealer.eq_EC_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:33:02.352834+00:00
 -- url     : https://prove2.me/theorems/c951cd7f-d5ba-43b8-bccf-e29d878cb7fb

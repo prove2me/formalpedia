@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Directed_theorem_12
 -- name    : LeightonRao.Directed.theorem_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:38.982487+00:00
 -- url     : https://prove2.me/theorems/8f61b0d7-76b7-45fc-abb9-5785b5c3901b

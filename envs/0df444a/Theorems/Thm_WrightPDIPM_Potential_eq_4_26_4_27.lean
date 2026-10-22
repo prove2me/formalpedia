@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Potential_eq_4_26_4_27
 -- name    : WrightPDIPM.Potential.eq_4_26_4_27
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:53:14.02611+00:00
 -- url     : https://prove2.me/theorems/2e6c2d25-b0a2-4adc-8c88-47c909b318d0

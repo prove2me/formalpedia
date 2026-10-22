@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_PseudoReg_claim_50
 -- name    : FriezeKannan.PseudoReg.claim_50
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:58.393915+00:00
 -- url     : https://prove2.me/theorems/3aa0e279-59be-48cc-9fef-cfeb556ce18b

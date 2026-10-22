@@ -1,0 +1,20 @@
+-- Prove2me | Theorems.Thm_HardyCapset20261020_Cert_case117_blockers0
+-- name    : HardyCapset20261020.Cert.case117_blockers0
+-- status  : Proved
+-- author  : @Somehow
+-- created : 2026-10-20T17:11:37.830198+00:00
+-- url     : https://prove2.me/theorems/6395e82c-f38e-492f-9a2e-e98e22ba2137
+-- title:
+--   All ambient blocking witnesses for orbit 117, part 1
+-- statement:
+--   Exhaustive geometric blocking checks for every ambient identifier in [0, 3328) for orbit representative 117. Each point is either fixed, blocked by a distinct fixed pair, or is an indexed candidate. No ambient point in the interval is omitted.
+-- source:
+--   Private source: 八维 cap 的超平面补点定理, 2026-10-13, sections 2–5. The exact baseline is the previously uploaded HardyCapsetModel20261020. This is a conditional fixed-core theorem for that baseline.
+
+import Definitions.Def_HardyCapsetCertificate11720261021
+import Definitions.Def_HardyCapsetBooleanVerifier20261020
+
+namespace HardyCapset20261020.Cert
+theorem case117_blockers0 (q : Fin 3328) :
+    blockB certificate117 (0+q.val) certificate117.blockers[0+q.val]! = true := by sorry
+end HardyCapset20261020.Cert

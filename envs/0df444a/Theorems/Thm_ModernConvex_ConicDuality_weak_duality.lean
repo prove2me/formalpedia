@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_ConicDuality_weak_duality
 -- name    : ModernConvex.ConicDuality.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:33.757608+00:00
 -- url     : https://prove2.me/theorems/498c8b40-ee71-4e47-bba6-625a2d1d3361

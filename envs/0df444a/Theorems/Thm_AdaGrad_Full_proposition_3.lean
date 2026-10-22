@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Full_proposition_3
 -- name    : AdaGrad.Full.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:44:38.078144+00:00
 -- url     : https://prove2.me/theorems/debc5945-5b64-46e5-9075-986bf52ca2e2

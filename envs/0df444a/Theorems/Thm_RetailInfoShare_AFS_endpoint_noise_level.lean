@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailInfoShare_AFS_endpoint_noise_level
 -- name    : RetailInfoShare.AFS.endpoint_noise_level
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:03.872228+00:00
 -- url     : https://prove2.me/theorems/5b363af4-027a-4b93-99fe-ada773f0c819

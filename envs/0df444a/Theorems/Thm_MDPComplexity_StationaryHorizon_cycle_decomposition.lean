@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_StationaryHorizon_cycle_decomposition
 -- name    : MDPComplexity.StationaryHorizon.cycle_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:45:01.543977+00:00
 -- url     : https://prove2.me/theorems/0bf18e7f-761d-45bd-991d-92b15fdb5ce1

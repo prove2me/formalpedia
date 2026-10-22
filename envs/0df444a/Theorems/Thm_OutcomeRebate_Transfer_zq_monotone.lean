@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutcomeRebate_Transfer_zq_monotone
 -- name    : OutcomeRebate.Transfer.zq_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:22.276978+00:00
 -- url     : https://prove2.me/theorems/7dce6142-f375-4ed0-8339-5c4596ff5c9d

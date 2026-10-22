@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Primal_lagrangian_max
 -- name    : KellyLossNetworks.Primal.lagrangian_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:06:49.291631+00:00
 -- url     : https://prove2.me/theorems/b20e7e06-84d7-4095-82b3-6f2cdc94a691

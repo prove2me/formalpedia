@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_FirstOrder_smoothness_step
 -- name    : RegLearnGames.FirstOrder.smoothness_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:45:39.829564+00:00
 -- url     : https://prove2.me/theorems/ef743c56-6ebc-4c78-ae9c-b4ab5c052f66

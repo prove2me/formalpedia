@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondI_dihedral_angle_bound
 -- name    : NonuniformKuramoto.CondI.dihedral_angle_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:24:33.178984+00:00
 -- url     : https://prove2.me/theorems/29115e1a-99a8-4612-90f1-b1ed67d45a84

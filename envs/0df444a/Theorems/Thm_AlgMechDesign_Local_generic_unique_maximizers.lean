@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgMechDesign_Local_generic_unique_maximizers
 -- name    : AlgMechDesign.Local.generic_unique_maximizers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T19:49:52.879654+00:00
 -- url     : https://prove2.me/theorems/1bf511a1-c423-4182-91d3-1c33908ea1df

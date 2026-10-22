@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_lemma2_policy_evaluation
 -- name    : RobustDP.Discounted.lemma2_policy_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:34.550273+00:00
 -- url     : https://prove2.me/theorems/d6803d72-4cb2-42d3-a180-9d74d3e78ece

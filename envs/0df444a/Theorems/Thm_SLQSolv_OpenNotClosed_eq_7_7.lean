@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SLQSolv_OpenNotClosed_eq_7_7
 -- name    : SLQSolv.OpenNotClosed.eq_7_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:21:45.202987+00:00
 -- url     : https://prove2.me/theorems/ba745244-c040-4535-995c-6ca83b6a99bd

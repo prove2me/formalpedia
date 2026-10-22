@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_amplitude_exponents_equal
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.amplitude_exponents_equal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:22:13.057519+00:00
 -- url     : https://prove2.me/theorems/381d162c-7db2-460a-9a17-0a20735adb57

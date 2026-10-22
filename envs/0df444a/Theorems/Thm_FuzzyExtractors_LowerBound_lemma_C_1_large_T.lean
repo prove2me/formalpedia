@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_LowerBound_lemma_C_1_large_T
 -- name    : FuzzyExtractors.LowerBound.lemma_C_1_large_T
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:16:58.332019+00:00
 -- url     : https://prove2.me/theorems/49c859a5-1888-4d7b-a091-48243e62a4a6

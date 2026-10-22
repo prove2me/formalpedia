@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_CAF_gamma_implication
 -- name    : KumarSeidman.CAF.gamma_implication
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:00.185986+00:00
 -- url     : https://prove2.me/theorems/e947d3ec-4f34-41e0-9857-007a86a087bf

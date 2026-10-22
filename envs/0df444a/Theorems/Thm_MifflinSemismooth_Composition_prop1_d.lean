@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Composition_prop1_d
 -- name    : MifflinSemismooth.Composition.prop1_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:47:34.819218+00:00
 -- url     : https://prove2.me/theorems/6658e85a-7170-4552-a6fe-c76a74b08219

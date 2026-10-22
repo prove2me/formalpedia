@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for WeakGoldbach.verified_range_explicit_sieve_certificate
 -- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:33:23.05067+00:00
 -- url     : https://prove2.me/submissions/27b11431-6799-4294-ae3f-2a2259718905
 -- note    : a sketch -- it imports a theorem that is still Open,

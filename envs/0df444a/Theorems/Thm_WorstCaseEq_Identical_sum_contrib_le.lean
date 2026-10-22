@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_sum_contrib_le
 -- name    : WorstCaseEq.Identical.sum_contrib_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:37.166747+00:00
 -- url     : https://prove2.me/theorems/e41dc2ec-e429-4796-9b3d-509e7981f7a8

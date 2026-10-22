@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_rank_Phi
 -- name    : PhaseCut.Tight.rank_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:39:19.53698+00:00
 -- url     : https://prove2.me/theorems/8fe6e6fa-2c36-4195-b847-2760a96abb8d

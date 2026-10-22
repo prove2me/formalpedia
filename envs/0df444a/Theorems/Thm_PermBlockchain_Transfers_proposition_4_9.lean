@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermBlockchain_Transfers_proposition_4_9
 -- name    : PermBlockchain.Transfers.proposition_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:36.831079+00:00
 -- url     : https://prove2.me/theorems/84f83bb4-17aa-43cc-8209-9dbc14cea801

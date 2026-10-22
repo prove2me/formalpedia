@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolleyLiggett_Duality_theorem_1_6
 -- name    : HolleyLiggett.Duality.theorem_1_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:44:28.319261+00:00
 -- url     : https://prove2.me/theorems/e2889d6e-4635-4c2b-a47c-98885827db9b

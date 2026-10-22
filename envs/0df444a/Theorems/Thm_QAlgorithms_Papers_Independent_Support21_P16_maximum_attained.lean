@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_maximum_attained
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.maximum_attained
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:44:16.677648+00:00
 -- url     : https://prove2.me/theorems/127540c6-36c7-4e35-a926-e4381329f303

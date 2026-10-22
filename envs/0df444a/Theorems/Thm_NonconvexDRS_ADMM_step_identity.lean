@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexDRS_ADMM_step_identity
 -- name    : NonconvexDRS.ADMM.step_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:32:48.128764+00:00
 -- url     : https://prove2.me/theorems/2338dfbb-f399-4653-b9cc-961e72a993bc

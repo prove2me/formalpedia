@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrieszDUE_PIE_near_min_set_pos_measure_47
 -- name    : FrieszDUE.PIE.near_min_set_pos_measure_47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:19:56.652698+00:00
 -- url     : https://prove2.me/theorems/63223a67-574e-45bf-a71d-b993c7abb738

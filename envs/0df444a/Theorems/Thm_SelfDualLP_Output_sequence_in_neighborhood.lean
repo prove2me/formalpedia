@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Output_sequence_in_neighborhood
 -- name    : SelfDualLP.Output.sequence_in_neighborhood
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:27:29.682296+00:00
 -- url     : https://prove2.me/theorems/515fb53d-3ec2-4d9a-a95d-452e290f0ccd

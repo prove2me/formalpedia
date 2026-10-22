@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RankSparsity_Recovery_theorem_2
 -- name    : RankSparsity.Recovery.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:38.17847+00:00
 -- url     : https://prove2.me/theorems/436ac55c-9b62-4ae6-bb33-45756c07a127

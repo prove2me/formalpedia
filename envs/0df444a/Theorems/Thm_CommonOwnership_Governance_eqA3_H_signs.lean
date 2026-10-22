@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_eqA3_H_signs
 -- name    : CommonOwnership.Governance.eqA3_H_signs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:56.760874+00:00
 -- url     : https://prove2.me/theorems/f79e8135-5770-485b-b450-fa6b6250f67d

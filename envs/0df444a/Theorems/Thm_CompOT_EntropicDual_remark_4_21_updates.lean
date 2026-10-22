@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_EntropicDual_remark_4_21_updates
 -- name    : CompOT.EntropicDual.remark_4_21_updates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:22.547414+00:00
 -- url     : https://prove2.me/theorems/63dc4c8f-a2e3-457d-b25a-901d6059317c

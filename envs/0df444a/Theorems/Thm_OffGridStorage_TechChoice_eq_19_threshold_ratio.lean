@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffGridStorage_TechChoice_eq_19_threshold_ratio
 -- name    : OffGridStorage.TechChoice.eq_19_threshold_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:00.034385+00:00
 -- url     : https://prove2.me/theorems/497bb8ba-6348-489d-98fb-70338c1516c2

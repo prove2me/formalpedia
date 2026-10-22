@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_Chain_quadUnder_imp_funGrowth
 -- name    : NecoaraNG.Chain.quadUnder_imp_funGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:47:13.927503+00:00
 -- url     : https://prove2.me/theorems/c6ed9470-ad40-4c55-b397-98e4572d0813

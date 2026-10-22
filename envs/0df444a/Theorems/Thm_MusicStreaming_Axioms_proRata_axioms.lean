@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_Axioms_proRata_axioms
 -- name    : MusicStreaming.Axioms.proRata_axioms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:13.263578+00:00
 -- url     : https://prove2.me/theorems/49842caa-db6d-4e93-b79d-7dd9def0e205

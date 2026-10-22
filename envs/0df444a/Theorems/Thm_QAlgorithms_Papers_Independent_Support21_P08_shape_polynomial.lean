@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_shape_polynomial
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.shape_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:31:03.572992+00:00
 -- url     : https://prove2.me/theorems/760ffc0a-85c8-4fd4-b90f-5ada89e14692

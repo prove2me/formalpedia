@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SGDKaczmarz_SGD_step_bound
 -- name    : SGDKaczmarz.SGD.step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:26:23.127918+00:00
 -- url     : https://prove2.me/theorems/a8b9aa65-7d14-4c63-805c-99434c97e329

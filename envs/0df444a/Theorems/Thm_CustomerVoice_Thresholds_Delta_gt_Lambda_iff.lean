@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_Thresholds_Delta_gt_Lambda_iff
 -- name    : CustomerVoice.Thresholds.Delta_gt_Lambda_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:57.927414+00:00
 -- url     : https://prove2.me/theorems/2c1b8edb-93b2-41cb-9989-2a1f31ae2309

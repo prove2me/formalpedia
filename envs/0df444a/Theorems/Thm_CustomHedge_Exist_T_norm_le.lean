@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomHedge_Exist_T_norm_le
 -- name    : CustomHedge.Exist.T_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:54.799776+00:00
 -- url     : https://prove2.me/theorems/f902101c-4914-42e5-b461-abd44213dada

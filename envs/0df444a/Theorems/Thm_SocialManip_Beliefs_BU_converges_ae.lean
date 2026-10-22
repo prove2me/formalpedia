@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialManip_Beliefs_BU_converges_ae
 -- name    : SocialManip.Beliefs.BU_converges_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:09.34999+00:00
 -- url     : https://prove2.me/theorems/0dbb2785-8269-427d-b8d5-036ab7179a15

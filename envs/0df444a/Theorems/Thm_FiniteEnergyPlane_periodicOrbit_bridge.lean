@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_periodicOrbit_bridge
 -- name    : FiniteEnergyPlane.periodicOrbit_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:26:15.328312+00:00
 -- url     : https://prove2.me/theorems/345faf92-b9a1-4def-abca-858310cecd90

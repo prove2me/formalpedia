@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_phaseCut_optimal_mem_phaseCutModFeasible
 -- name    : PhaseCut.Tight.phaseCut_optimal_mem_phaseCutModFeasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:39:24.173013+00:00
 -- url     : https://prove2.me/theorems/c75643dd-b3b4-460b-8bf8-0210a5d7bdcf

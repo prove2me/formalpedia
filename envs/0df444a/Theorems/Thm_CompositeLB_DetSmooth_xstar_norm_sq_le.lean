@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetSmooth_xstar_norm_sq_le
 -- name    : CompositeLB.DetSmooth.xstar_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:54.194184+00:00
 -- url     : https://prove2.me/theorems/17dff903-0864-4461-93f7-dd10a85c6797

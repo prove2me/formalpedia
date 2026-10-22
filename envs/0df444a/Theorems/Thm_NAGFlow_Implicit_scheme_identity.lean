@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Implicit_scheme_identity
 -- name    : NAGFlow.Implicit.scheme_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:32:11.003551+00:00
 -- url     : https://prove2.me/theorems/c5881e4a-7bec-4936-a3b5-d407cb665196

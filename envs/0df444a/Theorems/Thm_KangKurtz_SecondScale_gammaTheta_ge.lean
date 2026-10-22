@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KangKurtz_SecondScale_gammaTheta_ge
 -- name    : KangKurtz.SecondScale.gammaTheta_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:20.552785+00:00
 -- url     : https://prove2.me/theorems/19f639f0-6add-476c-9fe9-571a0c26c2f6

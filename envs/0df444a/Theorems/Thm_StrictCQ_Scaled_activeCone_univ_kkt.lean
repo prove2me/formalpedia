@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_Scaled_activeCone_univ_kkt
 -- name    : StrictCQ.Scaled.activeCone_univ_kkt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:58:20.451199+00:00
 -- url     : https://prove2.me/theorems/b0ae48a6-dc96-4f32-b22d-75b902b072dc

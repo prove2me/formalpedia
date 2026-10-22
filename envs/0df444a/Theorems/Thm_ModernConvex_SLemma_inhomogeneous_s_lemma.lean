@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_inhomogeneous_s_lemma
 -- name    : ModernConvex.SLemma.inhomogeneous_s_lemma
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:03.8906+00:00
 -- url     : https://prove2.me/theorems/6a882efa-b437-40f3-b3b6-30e98ffb4f4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Barycenter_g_block_maximizer
 -- name    : CompOT.Barycenter.g_block_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:38.163126+00:00
 -- url     : https://prove2.me/theorems/364d445e-5819-4aa1-81cf-d398a28f199e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Termination_lemma_A_3
 -- name    : WrightPDIPM.Termination.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:54:10.270485+00:00
 -- url     : https://prove2.me/theorems/7f681676-80ba-41df-93a8-a1dda22e9e1d

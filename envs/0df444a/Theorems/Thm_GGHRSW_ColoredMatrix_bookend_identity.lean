@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GGHRSW_ColoredMatrix_bookend_identity
 -- name    : GGHRSW.ColoredMatrix.bookend_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:07.608351+00:00
 -- url     : https://prove2.me/theorems/d59fba6b-52e6-4b78-8717-c1e1947a5eab

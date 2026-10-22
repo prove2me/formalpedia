@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TechSourcing_PTS_thetaLStar_rewrite
 -- name    : TechSourcing.PTS.thetaLStar_rewrite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:26.257979+00:00
 -- url     : https://prove2.me/theorems/4d32d82a-b29d-4478-af73-efe0d6df0cf6

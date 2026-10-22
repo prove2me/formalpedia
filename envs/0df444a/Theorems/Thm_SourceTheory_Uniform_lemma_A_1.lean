@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_Uniform_lemma_A_1
 -- name    : SourceTheory.Uniform.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:13:57.269973+00:00
 -- url     : https://prove2.me/theorems/bb08f99d-bca7-4732-a2d2-5df751cc46d0

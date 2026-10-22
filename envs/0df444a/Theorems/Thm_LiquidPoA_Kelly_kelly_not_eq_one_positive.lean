@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidPoA_Kelly_kelly_not_eq_one_positive
 -- name    : LiquidPoA.Kelly.kelly_not_eq_one_positive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:02:17.870661+00:00
 -- url     : https://prove2.me/theorems/7322338b-0fa7-4082-bc0e-c3280c3d6a76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceDetEquiv_EModel_deterministic_equivalent_29
 -- name    : ChanceDetEquiv.EModel.deterministic_equivalent_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:12:10.101277+00:00
 -- url     : https://prove2.me/theorems/f1d503d9-1608-41a5-ae8a-63294ea79d6c

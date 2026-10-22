@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Uniform_corollary_4
 -- name    : LeightonRao.Uniform.corollary_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:26:56.067414+00:00
 -- url     : https://prove2.me/theorems/cfb5666f-e628-49ee-8f0c-03e0da0c7dbc

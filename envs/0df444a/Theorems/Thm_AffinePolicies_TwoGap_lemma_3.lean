@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_TwoGap_lemma_3
 -- name    : AffinePolicies.TwoGap.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:39:05.646016+00:00
 -- url     : https://prove2.me/theorems/a59e4e3b-4d6b-4afe-81a6-8bfbbdcc635c

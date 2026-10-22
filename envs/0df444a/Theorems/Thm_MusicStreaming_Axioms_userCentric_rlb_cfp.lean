@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_Axioms_userCentric_rlb_cfp
 -- name    : MusicStreaming.Axioms.userCentric_rlb_cfp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:23.26977+00:00
 -- url     : https://prove2.me/theorems/45ff4fdc-1034-4770-a99d-4efe8bf0da75

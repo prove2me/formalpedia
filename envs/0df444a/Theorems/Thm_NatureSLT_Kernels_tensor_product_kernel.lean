@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_tensor_product_kernel
 -- name    : NatureSLT.Kernels.tensor_product_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:10.91901+00:00
 -- url     : https://prove2.me/theorems/2fa1dce4-70e5-4739-bf3c-ac1ab53953ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Petersen_schur_step
 -- name    : QuadMatIneq.Petersen.schur_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:48.516282+00:00
 -- url     : https://prove2.me/theorems/493a63f7-307e-4d7a-a0f6-27d21f155f82

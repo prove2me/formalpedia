@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_RIP_shelling_bound
 -- name    : IRLSM.RIP.shelling_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:44:03.549368+00:00
 -- url     : https://prove2.me/theorems/33217844-c429-42f8-b8d8-7dde5341f167

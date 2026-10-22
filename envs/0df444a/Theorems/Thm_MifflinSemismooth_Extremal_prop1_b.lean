@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Extremal_prop1_b
 -- name    : MifflinSemismooth.Extremal.prop1_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:35:17.573134+00:00
 -- url     : https://prove2.me/theorems/6192c683-5230-4b50-9dc2-c33f0bea9952

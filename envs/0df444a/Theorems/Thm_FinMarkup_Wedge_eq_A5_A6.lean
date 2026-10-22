@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinMarkup_Wedge_eq_A5_A6
 -- name    : FinMarkup.Wedge.eq_A5_A6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T20:38:37.185933+00:00
 -- url     : https://prove2.me/theorems/6194bec5-611d-46b0-a31d-dc2429cc18c1

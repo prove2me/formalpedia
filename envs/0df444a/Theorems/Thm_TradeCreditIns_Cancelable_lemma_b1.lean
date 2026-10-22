@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradeCreditIns_Cancelable_lemma_b1
 -- name    : TradeCreditIns.Cancelable.lemma_b1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:40.884721+00:00
 -- url     : https://prove2.me/theorems/82b26272-c729-4196-8a7d-df400f3dcbc1

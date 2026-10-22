@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QLearning_Convergence_lemmaB4_close_chains_close_values
 -- name    : QLearning.Convergence.lemmaB4_close_chains_close_values
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:40.033355+00:00
 -- url     : https://prove2.me/theorems/9f25c544-7e85-475f-a88e-07baf4145a52

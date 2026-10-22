@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Supervisor_lemma1_backlog_decrease
 -- name    : KumarSeidman.Supervisor.lemma1_backlog_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:24.995796+00:00
 -- url     : https://prove2.me/theorems/252d85eb-26f9-465d-b4b2-4c7e6f13b017

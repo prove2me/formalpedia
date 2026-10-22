@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_Scenario_scenario_prob_first_operating
 -- name    : ReliableFacilityLoc.Scenario.scenario_prob_first_operating
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:10:06.154423+00:00
 -- url     : https://prove2.me/theorems/a3017b13-07ec-43ba-8da2-340ac2417be8

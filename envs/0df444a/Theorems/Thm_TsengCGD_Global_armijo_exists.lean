@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_Global_armijo_exists
 -- name    : TsengCGD.Global.armijo_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:50.610181+00:00
 -- url     : https://prove2.me/theorems/d317c554-dfde-4b51-9399-7ee023918e3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P39_entropyBoundAsymptotics
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P39.entropyBoundAsymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:55:37.755985+00:00
 -- url     : https://prove2.me/theorems/807c3d73-de20-410b-9684-e0e85869bd95

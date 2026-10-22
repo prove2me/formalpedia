@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_SmallDemand_SOCost_const_ge
 -- name    : SensitivityPoA.SmallDemand.SOCost_const_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:15.74472+00:00
 -- url     : https://prove2.me/theorems/f76d32f5-856c-4074-bcea-87cbf711e982

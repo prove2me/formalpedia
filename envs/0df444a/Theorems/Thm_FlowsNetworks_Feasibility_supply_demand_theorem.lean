@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Feasibility_supply_demand_theorem
 -- name    : FlowsNetworks.Feasibility.supply_demand_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:19.021567+00:00
 -- url     : https://prove2.me/theorems/3b608198-a0f0-4eea-b087-757be7e6536c

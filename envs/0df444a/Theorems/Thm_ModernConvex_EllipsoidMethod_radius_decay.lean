@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_EllipsoidMethod_radius_decay
 -- name    : ModernConvex.EllipsoidMethod.radius_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:02.600993+00:00
 -- url     : https://prove2.me/theorems/abf5dc56-c164-4d58-8b33-e7cc7bb273a4

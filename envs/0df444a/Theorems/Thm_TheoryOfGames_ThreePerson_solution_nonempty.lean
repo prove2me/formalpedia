@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_solution_nonempty
 -- name    : TheoryOfGames.ThreePerson.solution_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:24:11.088576+00:00
 -- url     : https://prove2.me/theorems/fc3a0556-c935-4ff9-bc27-62ed8eca58d3

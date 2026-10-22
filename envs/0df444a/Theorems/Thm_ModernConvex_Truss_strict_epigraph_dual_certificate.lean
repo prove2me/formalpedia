@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_strict_epigraph_dual_certificate
 -- name    : ModernConvex.Truss.strict_epigraph_dual_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:41.888974+00:00
 -- url     : https://prove2.me/theorems/9e3f086a-c432-493d-b929-96727bb5ab08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_PrimalGrad_ck_identity
 -- name    : RelSmoothFOM.PrimalGrad.ck_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:34:33.734876+00:00
 -- url     : https://prove2.me/theorems/e883ec79-2a16-4478-8733-8d9284e29ae2

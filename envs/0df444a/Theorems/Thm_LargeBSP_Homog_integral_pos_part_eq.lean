@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_integral_pos_part_eq
 -- name    : LargeBSP.Homog.integral_pos_part_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:56.391449+00:00
 -- url     : https://prove2.me/theorems/fb9c266b-a1c4-4535-9290-5d1a81beb6fc

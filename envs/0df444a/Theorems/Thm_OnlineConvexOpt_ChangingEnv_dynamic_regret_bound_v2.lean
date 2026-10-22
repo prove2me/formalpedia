@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_ChangingEnv_dynamic_regret_bound_v2
 -- name    : OnlineConvexOpt.ChangingEnv.dynamic_regret_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:21:54.065385+00:00
 -- url     : https://prove2.me/theorems/120ad8b4-48b3-4dca-877f-e79c16407839

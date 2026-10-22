@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_DynamicFlow_related_program_optimality
 -- name    : FlowsNetworks.DynamicFlow.related_program_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:04.777796+00:00
 -- url     : https://prove2.me/theorems/f3d2a898-9df1-43f6-915a-8ef4eb099164

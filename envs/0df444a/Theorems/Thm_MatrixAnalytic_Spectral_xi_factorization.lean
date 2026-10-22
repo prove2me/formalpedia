@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Spectral_xi_factorization
 -- name    : MatrixAnalytic.Spectral.xi_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:07.490557+00:00
 -- url     : https://prove2.me/theorems/8834bd06-663a-473a-b750-085a7a12bcd8

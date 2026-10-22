@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinNetProp_Mitosis_eq_A_1_split_solution
 -- name    : FinNetProp.Mitosis.eq_A_1_split_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:32.442928+00:00
 -- url     : https://prove2.me/theorems/e95ad825-a3d5-4ef6-a478-4eb3bbfb8b86

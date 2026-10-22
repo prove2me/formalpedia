@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_tail_bound
 -- name    : IQCAlg.HeavyBall.tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:03.121304+00:00
 -- url     : https://prove2.me/theorems/a025c035-dbb6-46d1-800e-5e22b8c84629

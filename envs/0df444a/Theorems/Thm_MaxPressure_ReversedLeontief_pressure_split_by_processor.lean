@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_ReversedLeontief_pressure_split_by_processor
 -- name    : MaxPressure.ReversedLeontief.pressure_split_by_processor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:07:05.458066+00:00
 -- url     : https://prove2.me/theorems/349e2290-cebb-4221-bcfb-635fa150896b

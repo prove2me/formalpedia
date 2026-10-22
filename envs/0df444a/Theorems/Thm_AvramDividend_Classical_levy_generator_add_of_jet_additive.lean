@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_levy_generator_add_of_jet_additive
 -- name    : AvramDividend.Classical.levy_generator_add_of_jet_additive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T22:25:26.720337+00:00
 -- url     : https://prove2.me/theorems/65fd7e9b-40ab-4e8c-bec1-3e2c0fefccb7

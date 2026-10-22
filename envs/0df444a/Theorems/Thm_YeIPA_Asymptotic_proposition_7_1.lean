@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Asymptotic_proposition_7_1
 -- name    : YeIPA.Asymptotic.proposition_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:07.237679+00:00
 -- url     : https://prove2.me/theorems/28cf0eb9-4c91-4b97-96ed-685ea610ffad

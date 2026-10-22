@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimisticPSRL_Diameter_first_step_travelTime
 -- name    : OptimisticPSRL.Diameter.first_step_travelTime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:39:51.593148+00:00
 -- url     : https://prove2.me/theorems/93b63822-f57f-42f2-b70f-5257a3262e66

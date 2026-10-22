@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalMSP_Forbidden_eq_5
 -- name    : OrdinalMSP.Forbidden.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:34.68799+00:00
 -- url     : https://prove2.me/theorems/2e937572-781f-4daf-a159-15a368fbc6ed

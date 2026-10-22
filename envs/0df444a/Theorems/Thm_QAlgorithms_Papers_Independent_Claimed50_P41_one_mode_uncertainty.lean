@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_one_mode_uncertainty
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.one_mode_uncertainty
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:07:15.084765+00:00
 -- url     : https://prove2.me/theorems/8beeb451-3db0-470c-b57b-5f303f161386

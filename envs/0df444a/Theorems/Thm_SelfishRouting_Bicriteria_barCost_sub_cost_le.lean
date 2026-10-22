@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Bicriteria_barCost_sub_cost_le
 -- name    : SelfishRouting.Bicriteria.barCost_sub_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:11:25.730238+00:00
 -- url     : https://prove2.me/theorems/2f127426-3fa2-4bea-8ecd-4586167c8572

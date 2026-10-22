@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_TwoArcs_eq_13_4_two_arcs
 -- name    : FlowsNetworks.TwoArcs.eq_13_4_two_arcs
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:55.325151+00:00
 -- url     : https://prove2.me/theorems/b60f7d42-7308-4f6f-95b7-986286f040c6

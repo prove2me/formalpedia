@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_lemma_1
 -- name    : Pegasos.Analysis.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:04.83003+00:00
 -- url     : https://prove2.me/theorems/0777f68b-0b38-45a8-8dc2-cd1b681ddf2f

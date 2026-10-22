@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_Efficient_threshold_rule_computes_G
 -- name    : WagelmansELS.Efficient.threshold_rule_computes_G
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:59:52.293398+00:00
 -- url     : https://prove2.me/theorems/e479dfd3-8016-476f-962f-2537e75ff226

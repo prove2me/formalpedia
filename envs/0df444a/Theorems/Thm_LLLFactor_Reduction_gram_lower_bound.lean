@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Reduction_gram_lower_bound
 -- name    : LLLFactor.Reduction.gram_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:39.274791+00:00
 -- url     : https://prove2.me/theorems/70d63b87-df09-4f4e-9ea5-1d8808230ff8

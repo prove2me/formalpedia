@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefSemimetric_TopDiff_agree_same_symmPart
 -- name    : PrefSemimetric.TopDiff.agree_same_symmPart
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:45.316326+00:00
 -- url     : https://prove2.me/theorems/5ad53cd8-1f4f-4735-a271-94a88ebd28d4

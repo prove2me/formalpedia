@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Complexity_corrector_step
 -- name    : SelfDualLP.Complexity.corrector_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:01:34.420542+00:00
 -- url     : https://prove2.me/theorems/e1dc6906-bff1-4116-b8c7-c80b3febc9ce

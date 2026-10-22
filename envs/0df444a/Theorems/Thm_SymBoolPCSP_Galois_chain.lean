@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_Galois_chain
 -- name    : SymBoolPCSP.Galois.chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:29.467106+00:00
 -- url     : https://prove2.me/theorems/53121235-1b06-4345-9510-60b447e64b75

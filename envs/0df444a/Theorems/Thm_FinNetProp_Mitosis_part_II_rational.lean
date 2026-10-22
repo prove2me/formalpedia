@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinNetProp_Mitosis_part_II_rational
 -- name    : FinNetProp.Mitosis.part_II_rational
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:34.5181+00:00
 -- url     : https://prove2.me/theorems/f9314e55-5eba-4fb2-9015-2d47db70d778

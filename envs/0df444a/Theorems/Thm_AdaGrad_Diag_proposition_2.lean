@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Diag_proposition_2
 -- name    : AdaGrad.Diag.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:31:14.637354+00:00
 -- url     : https://prove2.me/theorems/9d48ff0a-350c-46a1-afa5-1e6e8c97b2d4

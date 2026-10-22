@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_PrivateInfo_profit_comparison_roots
 -- name    : AcquihiringMonopsony.PrivateInfo.profit_comparison_roots
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:08:53.476922+00:00
 -- url     : https://prove2.me/theorems/5dea59c0-a135-44a7-bd07-1c4670133b23

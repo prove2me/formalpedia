@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_constant_fibre_contact_zero_at_place
 -- name    : OAI.PiExponent.FormalInterpolation.constant_fibre_contact_zero_at_place
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T04:02:34.86973+00:00
 -- url     : https://prove2.me/theorems/05677139-098e-4528-b2b8-7260f912982c

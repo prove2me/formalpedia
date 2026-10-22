@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnitCapMCF_Excess_lemma3_dlevel_drift
 -- name    : UnitCapMCF.Excess.lemma3_dlevel_drift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T18:31:39.424658+00:00
 -- url     : https://prove2.me/theorems/faccc9ba-6cb9-441d-ab24-5b31badff39e

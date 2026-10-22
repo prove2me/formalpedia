@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AuditWhistle_Intensity_auditor_best_response
 -- name    : AuditWhistle.Intensity.auditor_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:28.909606+00:00
 -- url     : https://prove2.me/theorems/4ca65b7e-26f1-48c2-87b0-9a041031ddf6

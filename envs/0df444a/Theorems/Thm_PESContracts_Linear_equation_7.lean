@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PESContracts_Linear_equation_7
 -- name    : PESContracts.Linear.equation_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:26.884738+00:00
 -- url     : https://prove2.me/theorems/086320de-55e8-4d37-b018-2558c4ff9040

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_AsymLimited_appD1_rho_gt
 -- name    : TeleDriving.AsymLimited.appD1_rho_gt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:45.823489+00:00
 -- url     : https://prove2.me/theorems/8ccc9dd9-a3cf-4974-9883-cb0765613e22

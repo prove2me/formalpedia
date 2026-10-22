@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DERAggregation_MarketPower_theorem_3
 -- name    : DERAggregation.MarketPower.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:25:04.559493+00:00
 -- url     : https://prove2.me/theorems/eb5597b7-4df9-4697-9bef-225988223dd8

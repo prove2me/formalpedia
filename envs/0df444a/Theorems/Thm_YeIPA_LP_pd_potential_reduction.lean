@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_LP_pd_potential_reduction
 -- name    : YeIPA.LP.pd_potential_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:24.121764+00:00
 -- url     : https://prove2.me/theorems/600eb2b6-2f36-49d3-b04d-399546aaf83d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DDMomentDRO_Type1_weak_duality_C17
 -- name    : DDMomentDRO.Type1.weak_duality_C17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:46:57.257414+00:00
 -- url     : https://prove2.me/theorems/f41f7350-3a2c-4c89-a6db-2b67ba98310f

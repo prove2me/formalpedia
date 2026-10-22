@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnknownLoads_Refined_lemma_21
 -- name    : UnknownLoads.Refined.lemma_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:09.034894+00:00
 -- url     : https://prove2.me/theorems/ee8745ba-108d-4217-bb7d-d668808a9263

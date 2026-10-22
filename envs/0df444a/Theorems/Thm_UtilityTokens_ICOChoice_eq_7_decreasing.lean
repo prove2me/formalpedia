@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UtilityTokens_ICOChoice_eq_7_decreasing
 -- name    : UtilityTokens.ICOChoice.eq_7_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:31:12.395911+00:00
 -- url     : https://prove2.me/theorems/bae689dc-6b51-4049-928e-71ae43083104

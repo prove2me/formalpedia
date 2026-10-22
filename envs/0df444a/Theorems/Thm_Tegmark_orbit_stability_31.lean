@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Tegmark_orbit_stability_31
 -- name    : Tegmark.orbit_stability_31
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T04:18:49.676885+00:00
 -- url     : https://prove2.me/theorems/cdf78074-c2a2-4f60-9b9b-50a19dd18897

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Limit_expected_time_identity
 -- name    : PowerTwoChoices.Limit.expected_time_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:04:21.338989+00:00
 -- url     : https://prove2.me/theorems/c7481f4d-cf9b-4e5b-a003-68b658ebad2e

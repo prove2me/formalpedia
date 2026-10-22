@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_OnlineToBatch_comparator_identity
 -- name    : OnlineLearningOCO.OnlineToBatch.comparator_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:24:33.724277+00:00
 -- url     : https://prove2.me/theorems/bdb62447-a048-4d50-90a6-ab0b286085f4

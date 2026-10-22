@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Pricing_theta_exists_unique
 -- name    : MultiStoreAssort.Pricing.theta_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:54.218166+00:00
 -- url     : https://prove2.me/theorems/4af7274a-82f4-4757-ba40-a76586abcd66

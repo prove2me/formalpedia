@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosteriorSamplingRL_Regret_lemma2_dynamic_programming
 -- name    : PosteriorSamplingRL.Regret.lemma2_dynamic_programming
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:58:16.752981+00:00
 -- url     : https://prove2.me/theorems/a4abb989-3ded-4fcc-aa5e-122313e224a1

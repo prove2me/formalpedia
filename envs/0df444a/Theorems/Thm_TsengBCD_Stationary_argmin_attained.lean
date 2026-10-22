@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengBCD_Stationary_argmin_attained
 -- name    : TsengBCD.Stationary.argmin_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T22:18:02.072333+00:00
 -- url     : https://prove2.me/theorems/3cf6e017-dba2-4741-a681-eb48ed4caa11

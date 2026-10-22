@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssocRealizations_SantosFan_g_inequality
 -- name    : AssocRealizations.SantosFan.g_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:18:39.809982+00:00
 -- url     : https://prove2.me/theorems/ee91dba7-91dc-4eb9-9800-0a23d5a74b4f

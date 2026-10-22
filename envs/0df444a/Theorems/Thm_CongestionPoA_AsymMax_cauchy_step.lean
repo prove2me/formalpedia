@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymMax_cauchy_step
 -- name    : CongestionPoA.AsymMax.cauchy_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:32:42.748394+00:00
 -- url     : https://prove2.me/theorems/3730d23b-e9c1-4dce-b58a-db2ea1366f4a

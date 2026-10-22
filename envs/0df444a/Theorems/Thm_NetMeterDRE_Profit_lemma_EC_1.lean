@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetMeterDRE_Profit_lemma_EC_1
 -- name    : NetMeterDRE.Profit.lemma_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:25.38297+00:00
 -- url     : https://prove2.me/theorems/4f164c84-05f6-45c6-b6b1-fa280390e828

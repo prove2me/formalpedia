@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_LevelSet_delta_pp_eq
 -- name    : MultivarScores.LevelSet.delta_pp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:54.982124+00:00
 -- url     : https://prove2.me/theorems/3190c21d-12d9-4d01-8fb6-2b41fd3d608f

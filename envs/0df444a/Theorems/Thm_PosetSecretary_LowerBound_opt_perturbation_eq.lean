@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_LowerBound_opt_perturbation_eq
 -- name    : PosetSecretary.LowerBound.opt_perturbation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:21.985855+00:00
 -- url     : https://prove2.me/theorems/4f108a26-1b4d-46f3-88e4-7b341660a289

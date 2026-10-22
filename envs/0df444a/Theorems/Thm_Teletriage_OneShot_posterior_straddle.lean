@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Teletriage_OneShot_posterior_straddle
 -- name    : Teletriage.OneShot.posterior_straddle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:50.334606+00:00
 -- url     : https://prove2.me/theorems/2765d225-a7d5-4555-bea1-92511a994354

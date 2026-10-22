@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumInvQH_Oblique_lemma_A_5
 -- name    : NumInvQH.Oblique.lemma_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:23:49.887975+00:00
 -- url     : https://prove2.me/theorems/293d37e8-f7e0-425c-99d7-6e4cadb05c11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_unitResourceCone
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.unitResourceCone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:33:26.691803+00:00
 -- url     : https://prove2.me/theorems/a1e1bddc-fe5e-4383-b6d6-f306372a903f

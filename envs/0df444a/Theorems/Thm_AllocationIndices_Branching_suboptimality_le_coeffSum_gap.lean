@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Branching_suboptimality_le_coeffSum_gap
 -- name    : AllocationIndices.Branching.suboptimality_le_coeffSum_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:08.326683+00:00
 -- url     : https://prove2.me/theorems/9620c0c1-99be-4759-9ade-63fe402ad28d

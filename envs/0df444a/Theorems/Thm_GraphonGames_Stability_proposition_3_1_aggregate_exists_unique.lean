@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Stability_proposition_3_1_aggregate_exists_unique
 -- name    : GraphonGames.Stability.proposition_3_1_aggregate_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:08.274398+00:00
 -- url     : https://prove2.me/theorems/340d096a-6310-4918-812e-b054e16a263b

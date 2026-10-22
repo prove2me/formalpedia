@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_LPReduce_eq_7_8
 -- name    : QZeroSum19.LPReduce.eq_7_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:28.953001+00:00
 -- url     : https://prove2.me/theorems/91b9bf46-53f2-4373-9698-954628d1a245

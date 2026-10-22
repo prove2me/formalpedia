@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviSampling_BaseStock_alpha_point_relative_error
 -- name    : LeviSampling.BaseStock.alpha_point_relative_error
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:00.673595+00:00
 -- url     : https://prove2.me/theorems/aed9379f-76f8-484e-8bf7-857d39ff7c18

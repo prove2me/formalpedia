@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P38_dephasedOutput_entropy
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P38.dephasedOutput_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:42:35.375219+00:00
 -- url     : https://prove2.me/theorems/57c1a04c-e9fe-4166-91a3-133f06588cc9

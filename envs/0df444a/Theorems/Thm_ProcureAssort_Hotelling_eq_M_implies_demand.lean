@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcureAssort_Hotelling_eq_M_implies_demand
 -- name    : ProcureAssort.Hotelling.eq_M_implies_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:41.979684+00:00
 -- url     : https://prove2.me/theorems/4f33cf9d-501c-41d6-a709-aeabeea2eb30

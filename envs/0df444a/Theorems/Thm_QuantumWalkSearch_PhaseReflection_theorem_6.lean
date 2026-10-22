@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_PhaseReflection_theorem_6
 -- name    : QuantumWalkSearch.PhaseReflection.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:47:35.599605+00:00
 -- url     : https://prove2.me/theorems/0ab94a2e-68db-436c-b3f8-71251ca9120b

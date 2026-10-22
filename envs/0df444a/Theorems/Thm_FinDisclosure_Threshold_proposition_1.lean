@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinDisclosure_Threshold_proposition_1
 -- name    : FinDisclosure.Threshold.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:29.871686+00:00
 -- url     : https://prove2.me/theorems/c9b21a8b-01a3-4bc3-a6d9-80d0f236cbb8

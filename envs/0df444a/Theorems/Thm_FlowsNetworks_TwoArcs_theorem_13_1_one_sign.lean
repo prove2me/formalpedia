@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_TwoArcs_theorem_13_1_one_sign
 -- name    : FlowsNetworks.TwoArcs.theorem_13_1_one_sign
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:55.716692+00:00
 -- url     : https://prove2.me/theorems/2e59bcde-b093-4ce2-a276-0c692f850fd7

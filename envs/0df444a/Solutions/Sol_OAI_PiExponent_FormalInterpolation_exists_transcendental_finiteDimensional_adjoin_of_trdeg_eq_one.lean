@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.exists_transcendental_finiteDimensional_adjoin_of_trdeg_eq_one
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:58:22.676531+00:00
 -- url     : https://prove2.me/submissions/ce008c88-9879-4b65-9773-f53bc8b717fa
 

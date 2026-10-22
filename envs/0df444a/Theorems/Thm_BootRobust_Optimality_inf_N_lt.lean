@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Optimality_inf_N_lt
 -- name    : BootRobust.Optimality.inf_N_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:43.699179+00:00
 -- url     : https://prove2.me/theorems/2b5dcfe9-9bca-41ec-b355-983412b52e75

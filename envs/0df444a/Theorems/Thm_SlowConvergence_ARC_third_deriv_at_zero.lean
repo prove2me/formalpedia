@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_ARC_third_deriv_at_zero
 -- name    : SlowConvergence.ARC.third_deriv_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:21.201857+00:00
 -- url     : https://prove2.me/theorems/83960e29-49b8-4cc1-ae6f-b49e3b15e79d

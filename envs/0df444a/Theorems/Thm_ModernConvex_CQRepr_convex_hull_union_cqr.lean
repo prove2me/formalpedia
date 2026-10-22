@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_CQRepr_convex_hull_union_cqr
 -- name    : ModernConvex.CQRepr.convex_hull_union_cqr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:34.155078+00:00
 -- url     : https://prove2.me/theorems/04818c32-93e1-4be6-85d5-4f38071295c7

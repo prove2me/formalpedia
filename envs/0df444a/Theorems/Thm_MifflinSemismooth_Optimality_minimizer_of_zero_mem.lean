@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Optimality_minimizer_of_zero_mem
 -- name    : MifflinSemismooth.Optimality.minimizer_of_zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:48:08.580986+00:00
 -- url     : https://prove2.me/theorems/47a25d62-c554-4765-ad31-385fbff30d19

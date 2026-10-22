@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Bounds_lemma_6
 -- name    : ZipkinLostSales.Bounds.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:39.500482+00:00
 -- url     : https://prove2.me/theorems/c495d10d-fba3-4e00-91c9-142161e9fa50

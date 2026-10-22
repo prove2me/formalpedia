@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdvSellUpgrade_Online_cutoff_order
 -- name    : AdvSellUpgrade.Online.cutoff_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:51:39.858478+00:00
 -- url     : https://prove2.me/theorems/37b4e415-c59a-4c07-9458-d9504a4581c3

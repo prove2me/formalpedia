@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_input_iterate_upper_bound
 -- name    : input_iterate_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-29T00:02:56.114837+00:00
 -- url     : https://prove2.me/theorems/dfc33116-034f-491f-8b10-470c229f77e0

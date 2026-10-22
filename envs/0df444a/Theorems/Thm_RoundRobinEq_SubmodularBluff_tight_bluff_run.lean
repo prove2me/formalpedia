@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundRobinEq_SubmodularBluff_tight_bluff_run
 -- name    : RoundRobinEq.SubmodularBluff.tight_bluff_run
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:56.533114+00:00
 -- url     : https://prove2.me/theorems/18609edb-2194-41de-adea-51f0a4c5e4a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_ThreeOp_eq_48
 -- name    : FRBSplitting.ThreeOp.eq_48
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:43.903452+00:00
 -- url     : https://prove2.me/theorems/fe050d34-640d-4c47-9885-e2ab919c0a08

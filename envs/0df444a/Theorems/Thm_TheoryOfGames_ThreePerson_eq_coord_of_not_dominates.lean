@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_eq_coord_of_not_dominates
 -- name    : TheoryOfGames.ThreePerson.eq_coord_of_not_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:37:22.737989+00:00
 -- url     : https://prove2.me/theorems/8a206e6a-9d99-4400-9873-1e7c6d879fb7

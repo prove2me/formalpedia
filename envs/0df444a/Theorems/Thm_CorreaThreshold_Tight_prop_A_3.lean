@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Tight_prop_A_3
 -- name    : CorreaThreshold.Tight.prop_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:37:24.462377+00:00
 -- url     : https://prove2.me/theorems/37438662-66b4-4cdd-a735-7df4c9004eb4

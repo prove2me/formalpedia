@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Geometry_central_path_objective_monotone
 -- name    : YeIPA.Geometry.central_path_objective_monotone
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:57.308148+00:00
 -- url     : https://prove2.me/theorems/2b5179cc-a925-497e-b033-85d7c366459e

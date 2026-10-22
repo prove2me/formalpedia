@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntrepChoice_TestChoice_proposition_2
 -- name    : EntrepChoice.TestChoice.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:23.739385+00:00
 -- url     : https://prove2.me/theorems/22d41738-6c2e-4c31-a7fe-0d7cccc6182f

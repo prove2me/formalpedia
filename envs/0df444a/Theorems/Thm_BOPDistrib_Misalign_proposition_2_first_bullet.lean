@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOPDistrib_Misalign_proposition_2_first_bullet
 -- name    : BOPDistrib.Misalign.proposition_2_first_bullet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:23.204524+00:00
 -- url     : https://prove2.me/theorems/92747dc6-443e-4f33-b2e6-dfb878567ac0

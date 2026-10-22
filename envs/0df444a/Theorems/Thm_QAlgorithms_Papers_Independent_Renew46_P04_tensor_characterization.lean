@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_tensor_characterization
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.tensor_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:54:30.319+00:00
 -- url     : https://prove2.me/theorems/1e2093b1-f034-411e-95e5-df7f184b5d3c

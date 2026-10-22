@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OneTwoThree_Weighting_lemma_7_from_lemma5
 -- name    : OneTwoThree.Weighting.lemma_7_from_lemma5
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-11T08:59:34.089401+00:00
 -- url     : https://prove2.me/theorems/6655c4ee-995d-496f-b728-21006c8f4542

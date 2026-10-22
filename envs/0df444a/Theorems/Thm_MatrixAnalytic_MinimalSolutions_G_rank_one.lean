@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MinimalSolutions_G_rank_one
 -- name    : MatrixAnalytic.MinimalSolutions.G_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:40.459066+00:00
 -- url     : https://prove2.me/theorems/979cafca-591b-4ab8-a194-1ab51fbacc34

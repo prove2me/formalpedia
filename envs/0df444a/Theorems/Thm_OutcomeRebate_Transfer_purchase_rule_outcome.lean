@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutcomeRebate_Transfer_purchase_rule_outcome
 -- name    : OutcomeRebate.Transfer.purchase_rule_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:22.93327+00:00
 -- url     : https://prove2.me/theorems/2fb56222-4072-45b9-8674-28317b21c3f4

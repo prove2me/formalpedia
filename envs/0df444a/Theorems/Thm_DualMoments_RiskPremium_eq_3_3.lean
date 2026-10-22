@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualMoments_RiskPremium_eq_3_3
 -- name    : DualMoments.RiskPremium.eq_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:39:41.998984+00:00
 -- url     : https://prove2.me/theorems/532d9f5b-54e9-4e67-af1c-c0120a7d3dc0

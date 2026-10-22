@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Geometry_central_path_converges_to_analytic_centers
 -- name    : YeIPA.Geometry.central_path_converges_to_analytic_centers
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:00.624112+00:00
 -- url     : https://prove2.me/theorems/ef4e73f6-9334-40a0-b13f-e5122771e40b

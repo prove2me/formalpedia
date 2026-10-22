@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_hermite_kernel_multidim
 -- name    : NatureSLT.Kernels.hermite_kernel_multidim
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:11.252882+00:00
 -- url     : https://prove2.me/theorems/19a2bd0a-57fe-439a-af7f-25f7612a574b

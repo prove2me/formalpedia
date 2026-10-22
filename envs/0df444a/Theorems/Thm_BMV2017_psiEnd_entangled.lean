@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMV2017_psiEnd_entangled
 -- name    : BMV2017.psiEnd_entangled
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-08T23:53:53.437813+00:00
 -- url     : https://prove2.me/theorems/6f9b000e-06e0-45b8-9352-51d8b041a11e

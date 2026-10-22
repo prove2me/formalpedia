@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Bounds_theorem_8
 -- name    : ZipkinLostSales.Bounds.theorem_8
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:26:33.6681+00:00
 -- url     : https://prove2.me/theorems/e9d13d66-1a5d-4215-bfe6-fdfa6b3dcfcf

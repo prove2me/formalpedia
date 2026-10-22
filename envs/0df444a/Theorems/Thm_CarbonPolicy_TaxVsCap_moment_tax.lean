@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonPolicy_TaxVsCap_moment_tax
 -- name    : CarbonPolicy.TaxVsCap.moment_tax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:09.358262+00:00
 -- url     : https://prove2.me/theorems/f9233800-2537-4009-9c3d-29609d9a6193

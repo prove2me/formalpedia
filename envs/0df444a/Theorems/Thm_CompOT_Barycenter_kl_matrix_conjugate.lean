@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Barycenter_kl_matrix_conjugate
 -- name    : CompOT.Barycenter.kl_matrix_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:53.077992+00:00
 -- url     : https://prove2.me/theorems/f3bad7ff-12a1-41cf-8c5e-df66e731d080

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_FareOrder_mixture_dominates
 -- name    : ChoiceRM.FareOrder.mixture_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:46:42.000005+00:00
 -- url     : https://prove2.me/theorems/293394f6-a551-41c9-9228-96ed1b808884

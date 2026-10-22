@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_Config_proposition_1
 -- name    : TwoEchelonCVRP.Config.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:14.540974+00:00
 -- url     : https://prove2.me/theorems/4a06e03f-0822-4e1e-b863-19a8b47dd43a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Cogradient_corollary_4_3
 -- name    : TensorBTD.Cogradient.corollary_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:23:56.917687+00:00
 -- url     : https://prove2.me/theorems/bcce5838-b468-421f-8ba1-2068149981ce

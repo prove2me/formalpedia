@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCombOpt_Exp2LB_theorem_1
 -- name    : OnlineCombOpt.Exp2LB.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:01:58.753508+00:00
 -- url     : https://prove2.me/theorems/2bd3e4a1-a134-4fe9-96ec-dcce15972539

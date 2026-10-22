@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_FiniteSum_gradient_variation_bound_v2
 -- name    : FirstOrderOpt.FiniteSum.gradient_variation_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:16:46.213007+00:00
 -- url     : https://prove2.me/theorems/23cd5ffa-5ae4-4550-8de3-8e5b37add5ca

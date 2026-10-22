@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellmanIneq_Regret_theorem_5_compensated_step
 -- name    : BellmanIneq.Regret.theorem_5_compensated_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:31:38.917372+00:00
 -- url     : https://prove2.me/theorems/f8c13feb-a973-4c28-abb1-1ff2814b48a1

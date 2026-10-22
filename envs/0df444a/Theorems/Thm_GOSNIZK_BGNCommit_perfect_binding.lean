@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_perfect_binding
 -- name    : GOSNIZK.BGNCommit.perfect_binding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:09.624412+00:00
 -- url     : https://prove2.me/theorems/c0c2e663-d475-418c-9d45-4d1a43779dc8

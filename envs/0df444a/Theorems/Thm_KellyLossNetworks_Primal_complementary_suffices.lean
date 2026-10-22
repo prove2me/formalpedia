@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Primal_complementary_suffices
 -- name    : KellyLossNetworks.Primal.complementary_suffices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:06:57.477131+00:00
 -- url     : https://prove2.me/theorems/1c1dee99-d3f2-4f38-a236-b2e954a238d4

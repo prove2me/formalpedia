@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TimelyLoss_Feedback_proposition_1_forms
 -- name    : TimelyLoss.Feedback.proposition_1_forms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:56.063254+00:00
 -- url     : https://prove2.me/theorems/c0ed0ec4-72cd-4e44-b2f7-3074d91c46d4

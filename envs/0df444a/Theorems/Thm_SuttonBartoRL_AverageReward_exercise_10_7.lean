@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_AverageReward_exercise_10_7
 -- name    : SuttonBartoRL.AverageReward.exercise_10_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:02:34.737986+00:00
 -- url     : https://prove2.me/theorems/62c58064-71ad-4df9-aa26-4c2285923f26

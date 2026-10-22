@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexDRS_ADMM_eq_5_3a
 -- name    : NonconvexDRS.ADMM.eq_5_3a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:32:57.939984+00:00
 -- url     : https://prove2.me/theorems/af6901f2-c3b6-4dbd-afe2-e888613b7ab8

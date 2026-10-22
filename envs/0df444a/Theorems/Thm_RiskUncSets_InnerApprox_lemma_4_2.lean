@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_InnerApprox_lemma_4_2
 -- name    : RiskUncSets.InnerApprox.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:06:43.314645+00:00
 -- url     : https://prove2.me/theorems/84cbfe33-194b-4ec0-9730-c18c2d395adf

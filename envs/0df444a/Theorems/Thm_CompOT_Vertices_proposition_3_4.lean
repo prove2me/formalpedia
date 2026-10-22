@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Vertices_proposition_3_4
 -- name    : CompOT.Vertices.proposition_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:48.293463+00:00
 -- url     : https://prove2.me/theorems/9ef7ee75-0891-43d7-86a5-0a2ea816da03

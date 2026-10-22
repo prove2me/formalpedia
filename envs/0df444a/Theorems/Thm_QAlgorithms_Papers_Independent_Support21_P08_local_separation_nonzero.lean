@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_local_separation_nonzero
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.local_separation_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:21:11.643994+00:00
 -- url     : https://prove2.me/theorems/6dd81b65-3e75-4d21-bc62-b701d34d3f3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IPAHDSC_term1_nonneg
 -- name    : HessianDamping.IPAHDSC.term1_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:36.530974+00:00
 -- url     : https://prove2.me/theorems/4f529641-be03-4103-b864-003c3e389654

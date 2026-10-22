@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomHedge_Exist_T_maps_centered
 -- name    : CustomHedge.Exist.T_maps_centered
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:51.484255+00:00
 -- url     : https://prove2.me/theorems/df6fed3e-1c92-4a8d-9869-34c08aac70e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Uniform_benchmark_given_u
 -- name    : QualityEncroach.Uniform.benchmark_given_u
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:12.81271+00:00
 -- url     : https://prove2.me/theorems/6dc4457a-c6d9-483e-b1a2-f09d8641cb89

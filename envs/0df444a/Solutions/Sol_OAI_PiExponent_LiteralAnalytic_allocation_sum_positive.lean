@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.allocation_sum_positive
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:53:32.679596+00:00
 -- url     : https://prove2.me/submissions/722c4272-e709-4366-b382-e395c6a35429
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Definitions.Def_allocationSum

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_UCMonopoly_cross_partial_r
 -- name    : AccelScal.UCMonopoly.cross_partial_r
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:38.776963+00:00
 -- url     : https://prove2.me/theorems/4a2a89d9-8b21-4b12-bca7-30bec3dd960e

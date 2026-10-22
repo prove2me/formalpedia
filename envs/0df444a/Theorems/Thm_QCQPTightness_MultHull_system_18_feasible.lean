@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_MultHull_system_18_feasible
 -- name    : QCQPTightness.MultHull.system_18_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:23:41.524807+00:00
 -- url     : https://prove2.me/theorems/fc7d0593-b68f-49f4-800d-f303b01c206b

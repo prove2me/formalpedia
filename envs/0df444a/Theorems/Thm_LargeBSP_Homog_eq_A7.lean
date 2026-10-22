@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_eq_A7
 -- name    : LargeBSP.Homog.eq_A7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:53.863988+00:00
 -- url     : https://prove2.me/theorems/40702309-88ae-4d3a-a9a6-e1e5cf0cbd3b

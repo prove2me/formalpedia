@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_max_flow_min_cut
 -- name    : FlowsNetworks.MaxFlow.max_flow_min_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:04.27598+00:00
 -- url     : https://prove2.me/theorems/95b40360-b26c-4ea2-9bc5-baaa182e39c7

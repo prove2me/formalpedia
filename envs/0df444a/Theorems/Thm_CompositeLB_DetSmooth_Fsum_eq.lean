@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetSmooth_Fsum_eq
 -- name    : CompositeLB.DetSmooth.Fsum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:32:42.083672+00:00
 -- url     : https://prove2.me/theorems/ef9ca83c-31db-462d-b46d-3c71d322ac73

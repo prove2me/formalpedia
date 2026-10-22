@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearGramian_Kernel_theorem_3_1
 -- name    : BilinearGramian.Kernel.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:39:49.307737+00:00
 -- url     : https://prove2.me/theorems/1ff606b6-223f-40b4-a7a7-1f716e747a32

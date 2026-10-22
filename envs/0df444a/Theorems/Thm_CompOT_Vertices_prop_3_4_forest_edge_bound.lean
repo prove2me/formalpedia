@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Vertices_prop_3_4_forest_edge_bound
 -- name    : CompOT.Vertices.prop_3_4_forest_edge_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:23:30.895244+00:00
 -- url     : https://prove2.me/theorems/da2f0eb1-8777-4ef9-aaa7-1aef1989884b

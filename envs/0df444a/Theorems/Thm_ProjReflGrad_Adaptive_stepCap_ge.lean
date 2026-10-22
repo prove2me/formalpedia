@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Adaptive_stepCap_ge
 -- name    : ProjReflGrad.Adaptive.stepCap_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:15:42.399722+00:00
 -- url     : https://prove2.me/theorems/92191193-a69c-4f33-b1f8-e9ccefb275fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRAM_LowerBound_length_ge_m
 -- name    : ObliviousRAM.LowerBound.length_ge_m
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:52.265692+00:00
 -- url     : https://prove2.me/theorems/f4b5be53-bb4a-4753-9860-c594a0cd81e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_control_choice_identity
 -- name    : TwoSidedExp.DemandLimit.control_choice_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:34.711416+00:00
 -- url     : https://prove2.me/theorems/94332516-d78f-4ab6-b195-74f76d950c88

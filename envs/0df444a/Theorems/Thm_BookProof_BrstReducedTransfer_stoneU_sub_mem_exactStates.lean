@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstReducedTransfer_stoneU_sub_mem_exactStates
 -- name    : BookProof.BrstReducedTransfer.stoneU_sub_mem_exactStates
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:12:09.694975+00:00
 -- url     : https://prove2.me/theorems/c12a92c5-a448-487a-8dc5-7f799cdab7ba

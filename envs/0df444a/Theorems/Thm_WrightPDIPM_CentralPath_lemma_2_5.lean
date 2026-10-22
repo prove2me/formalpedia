@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_CentralPath_lemma_2_5
 -- name    : WrightPDIPM.CentralPath.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:59.924209+00:00
 -- url     : https://prove2.me/theorems/b942ec5b-c6ea-4f74-9dd3-2c7d7693aeae

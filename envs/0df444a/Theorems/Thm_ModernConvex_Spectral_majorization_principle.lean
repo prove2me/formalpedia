@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Spectral_majorization_principle
 -- name    : ModernConvex.Spectral.majorization_principle
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:39.435403+00:00
 -- url     : https://prove2.me/theorems/09334e4e-60b2-4847-9e47-653ee5c5d8af

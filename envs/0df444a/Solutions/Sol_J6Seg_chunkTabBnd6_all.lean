@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for J6Seg.chunkTabBnd6_all
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:58:18.679406+00:00
 -- url     : https://prove2.me/submissions/c9555e2f-124f-4ed0-8ee1-fa53462c6e39
 

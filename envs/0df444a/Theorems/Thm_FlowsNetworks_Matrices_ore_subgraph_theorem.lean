@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Matrices_ore_subgraph_theorem
 -- name    : FlowsNetworks.Matrices.ore_subgraph_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:14.742313+00:00
 -- url     : https://prove2.me/theorems/36708691-91dd-418c-913b-77f7b8b71c3c

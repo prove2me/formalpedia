@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Limit_b4_binomial_identity
 -- name    : SampleDrivenOS.Limit.b4_binomial_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:19.873542+00:00
 -- url     : https://prove2.me/theorems/d6c964dc-30ec-4ac7-a76e-cc765f8aa139

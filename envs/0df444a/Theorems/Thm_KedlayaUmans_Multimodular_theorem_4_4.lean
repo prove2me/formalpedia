@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KedlayaUmans_Multimodular_theorem_4_4
 -- name    : KedlayaUmans.Multimodular.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:48:07.635863+00:00
 -- url     : https://prove2.me/theorems/a386c15f-ae04-4974-a6b0-aa6a940f7182

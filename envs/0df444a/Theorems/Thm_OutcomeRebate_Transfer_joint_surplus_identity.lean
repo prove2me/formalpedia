@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutcomeRebate_Transfer_joint_surplus_identity
 -- name    : OutcomeRebate.Transfer.joint_surplus_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:18.33668+00:00
 -- url     : https://prove2.me/theorems/37ed265f-b05f-4af1-88bb-1de940fa7d19

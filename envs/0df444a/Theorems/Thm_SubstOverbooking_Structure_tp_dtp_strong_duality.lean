@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstOverbooking_Structure_tp_dtp_strong_duality
 -- name    : SubstOverbooking.Structure.tp_dtp_strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:11:03.687815+00:00
 -- url     : https://prove2.me/theorems/a4bee272-3858-4631-9ed8-3e8eee2127d4

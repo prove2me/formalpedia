@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_linear_on_half
 -- name    : SourceTheory.EqualSources.linear_on_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:05.23522+00:00
 -- url     : https://prove2.me/theorems/aa371415-de4e-4dd0-9d5d-ede6a72c346f

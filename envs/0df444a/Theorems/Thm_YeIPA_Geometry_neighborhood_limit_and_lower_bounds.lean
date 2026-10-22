@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Geometry_neighborhood_limit_and_lower_bounds
 -- name    : YeIPA.Geometry.neighborhood_limit_and_lower_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:57.336665+00:00
 -- url     : https://prove2.me/theorems/8369553c-8592-418e-8149-8081067a3276

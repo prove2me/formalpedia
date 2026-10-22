@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Local_lemma_2_6
 -- name    : QiNonsmoothEq.Local.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:50.258489+00:00
 -- url     : https://prove2.me/theorems/cf3e250c-732e-4811-9a4f-5adc55194ac3

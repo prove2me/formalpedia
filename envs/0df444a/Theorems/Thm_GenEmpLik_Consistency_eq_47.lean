@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenEmpLik_Consistency_eq_47
 -- name    : GenEmpLik.Consistency.eq_47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:53:22.571562+00:00
 -- url     : https://prove2.me/theorems/8b2b31d0-50a5-41c3-9e29-856577bf9c7f

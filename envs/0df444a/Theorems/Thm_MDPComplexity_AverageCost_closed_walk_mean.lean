@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_AverageCost_closed_walk_mean
 -- name    : MDPComplexity.AverageCost.closed_walk_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:58:31.659029+00:00
 -- url     : https://prove2.me/theorems/0b257171-2366-42bc-bf91-4f8bde337841

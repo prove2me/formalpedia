@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_spectral_radius_P
 -- name    : IQCAlg.HeavyBall.spectral_radius_P
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:20:59.482871+00:00
 -- url     : https://prove2.me/theorems/98c2d0b0-48e5-4cb4-9d19-4834ba606e41

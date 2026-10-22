@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_Local_F_slantly_differentiable
 -- name    : PDASNewton.Local.F_slantly_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:32.80467+00:00
 -- url     : https://prove2.me/theorems/aae1867e-2400-44d2-b8fe-11f0833a9273

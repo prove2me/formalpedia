@@ -7,9 +7,11 @@
 -- title:
 --   Section 1 principle: superposing two letter arrangements gives a magic square
 -- statement:
---   Let $n\ge1$, let $a_1,\dots,a_n$ and $p_1,\dots,p_n$ be natural numbers and let each cell $(i,j)$ of an $n\times n$ array carry one index $\sigma(i,j)$ and one index $\tau(i,j)$ so that every index of either kind occurs exactly once in each row, each column and each of the two diagonals, and every pair $(\sigma,\tau)$ occurs in exactly one cell. Then the array with entries $a_{\sigma(i,j)}+p_{\tau(i,j)}$ has all row sums, column sums and both diagonal sums equal to $\sum a_k+\sum p_k$.
+--   Let $n\ge1$, let $a_1,\dots,a_n$ and $p_1,\dots,p_n$ be natural numbers and let each cell $(i,j)$ of an $n\times n$ array carry one index $\sigma(i,j)$ and one index $\tau(i,j)$ so that every index of either kind occurs exactly once in each row, each column and each of the two diagonals, and every pair $(\sigma,\tau)$ occurs in exactly one cell. Then the array with entries $a_{\sigma(i,j)}+p_{\tau(i,j)}$ has all row sums, column sums and both diagonal sums equal to $\sum a_k+\sum p_k$. Differs from the printed source: Page 16 describes a letter-placement construction in prose. This version uses two index maps: each map permutes its indices along every row, column and diagonal, while the two maps together match cells with all pairs. The array size is positive, and the common sum is the sum of the two lists. Values in those lists may repeat; distinct numerical entries are not required.
+--
+--   **Discrepancy from the printed source.** Page 16 describes a letter-placement construction in prose. This version uses two index maps: each map permutes its indices along every row, column and diagonal, while the two maps together match cells with all pairs. The array size is positive, and the common sum is the sum of the two lists. Values in those lists may repeat; distinct numerical entries are not required.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Chapter 1, Entry 1, p. 16.
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Chapter 1, Section 1, p. 16.
 
 import Mathlib
 import Definitions.Def_RamanujanNotebooks_ch01_ch1AntiDiagSum

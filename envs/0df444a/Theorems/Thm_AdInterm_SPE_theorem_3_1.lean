@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdInterm_SPE_theorem_3_1
 -- name    : AdInterm.SPE.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:17.951971+00:00
 -- url     : https://prove2.me/theorems/2741d104-5698-4c24-86d9-2fb9b9fad2aa

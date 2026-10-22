@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_EFXTwoThirds_two_pos_goods_own
 -- name    : StrategicAlloc.EFXTwoThirds.two_pos_goods_own
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T15:58:22.301811+00:00
 -- url     : https://prove2.me/theorems/399a7c58-b6c2-4f47-9722-44301f15c9b5

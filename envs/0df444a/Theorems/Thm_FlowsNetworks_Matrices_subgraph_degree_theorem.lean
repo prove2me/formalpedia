@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Matrices_subgraph_degree_theorem
 -- name    : FlowsNetworks.Matrices.subgraph_degree_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:01.074996+00:00
 -- url     : https://prove2.me/theorems/523eb564-1c88-4ed1-bf95-cb335d2b2226

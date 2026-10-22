@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSeedEval_Hajek_proposition_2
 -- name    : StochSeedEval.Hajek.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:41.500995+00:00
 -- url     : https://prove2.me/theorems/72a71bf2-f3a0-4fa4-8063-1afb5e03eebf

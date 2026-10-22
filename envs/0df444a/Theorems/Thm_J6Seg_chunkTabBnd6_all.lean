@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_chunkTabBnd6_all
 -- name    : J6Seg.chunkTabBnd6_all
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:47:58.593748+00:00
 -- url     : https://prove2.me/theorems/47f20879-ef4c-4bc3-ab6c-c2d4968eed2c
 -- title:

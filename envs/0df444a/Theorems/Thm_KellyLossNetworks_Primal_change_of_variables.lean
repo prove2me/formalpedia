@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Primal_change_of_variables
 -- name    : KellyLossNetworks.Primal.change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:09:21.572991+00:00
 -- url     : https://prove2.me/theorems/463fd37c-8e69-4bd1-99fe-c70eaf9626d8

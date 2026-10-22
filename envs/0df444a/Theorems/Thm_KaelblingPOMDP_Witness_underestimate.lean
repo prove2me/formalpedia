@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KaelblingPOMDP_Witness_underestimate
 -- name    : KaelblingPOMDP.Witness.underestimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:12:59.369283+00:00
 -- url     : https://prove2.me/theorems/6d60ba24-96f1-4a95-87b9-168710f607c6

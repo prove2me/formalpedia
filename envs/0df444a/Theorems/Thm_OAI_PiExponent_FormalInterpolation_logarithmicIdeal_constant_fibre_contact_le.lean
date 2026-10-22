@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmicIdeal_constant_fibre_contact_le
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmicIdeal_constant_fibre_contact_le
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T22:34:27.821259+00:00
 -- url     : https://prove2.me/theorems/1fb61158-4f5e-4a33-9609-0011d88fc578

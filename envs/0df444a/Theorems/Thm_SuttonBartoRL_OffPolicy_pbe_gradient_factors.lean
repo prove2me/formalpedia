@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_OffPolicy_pbe_gradient_factors
 -- name    : SuttonBartoRL.OffPolicy.pbe_gradient_factors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:02:25.509044+00:00
 -- url     : https://prove2.me/theorems/f990d6de-b7ea-4d0e-83e8-78578ef06f2d

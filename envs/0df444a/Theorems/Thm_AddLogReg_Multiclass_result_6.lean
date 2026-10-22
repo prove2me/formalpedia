@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_Multiclass_result_6
 -- name    : AddLogReg.Multiclass.result_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:04:49.176989+00:00
 -- url     : https://prove2.me/theorems/99e8b8c4-8293-45cf-9a1b-46fee70033ac

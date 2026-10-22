@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_omega0_tames_jtilde
 -- name    : FiniteEnergyPlane.omega0_tames_jtilde
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:22:50.382872+00:00
 -- url     : https://prove2.me/theorems/dfc120e7-badd-462c-a2ba-a4daf141f3b5

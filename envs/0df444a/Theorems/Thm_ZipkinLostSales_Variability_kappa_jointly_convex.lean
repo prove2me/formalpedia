@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Variability_kappa_jointly_convex
 -- name    : ZipkinLostSales.Variability.kappa_jointly_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:48.795721+00:00
 -- url     : https://prove2.me/theorems/c792d2fb-f877-4acd-9068-0043931d10a6

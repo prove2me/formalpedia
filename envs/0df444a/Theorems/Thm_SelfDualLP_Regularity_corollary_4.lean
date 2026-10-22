@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Regularity_corollary_4
 -- name    : SelfDualLP.Regularity.corollary_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:58:14.53099+00:00
 -- url     : https://prove2.me/theorems/c735bade-09ae-4172-ba22-8d115ad85bf5

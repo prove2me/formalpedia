@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_Clique_case_2_identity
 -- name    : TuranMatching.Clique.case_2_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:22.243863+00:00
 -- url     : https://prove2.me/theorems/d33d0bda-cde8-4e1b-84b8-35d1a063a90d

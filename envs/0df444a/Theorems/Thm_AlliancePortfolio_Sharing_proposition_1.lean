@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlliancePortfolio_Sharing_proposition_1
 -- name    : AlliancePortfolio.Sharing.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:48:48.74034+00:00
 -- url     : https://prove2.me/theorems/e200d512-645d-4c3c-8fbf-bb0934fd1e47

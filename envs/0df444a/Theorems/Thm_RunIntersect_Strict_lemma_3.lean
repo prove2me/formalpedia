@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunIntersect_Strict_lemma_3
 -- name    : RunIntersect.Strict.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:35:39.94126+00:00
 -- url     : https://prove2.me/theorems/a70b7fe3-1341-4824-8b7a-33676e7c5689

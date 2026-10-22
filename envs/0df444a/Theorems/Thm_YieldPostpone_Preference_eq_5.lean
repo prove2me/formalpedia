@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Preference_eq_5
 -- name    : YieldPostpone.Preference.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:30.739976+00:00
 -- url     : https://prove2.me/theorems/73da6289-261a-4575-bec1-0e71ff08a206

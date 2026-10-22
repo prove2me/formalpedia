@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LuoSunLiu_PLBLower_two_point_construction
 -- name    : LuoSunLiu.PLBLower.two_point_construction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:14:57.338071+00:00
 -- url     : https://prove2.me/theorems/1e1f54f2-f574-49da-80fe-4c087e1636f0

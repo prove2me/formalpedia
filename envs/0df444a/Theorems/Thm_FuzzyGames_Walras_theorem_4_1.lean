@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_Walras_theorem_4_1
 -- name    : FuzzyGames.Walras.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:11.083985+00:00
 -- url     : https://prove2.me/theorems/9f2f807b-13ae-48dc-a79f-31050ac67003

@@ -238,14 +238,14 @@
 {"parent": "ModPForms.thetaPS_not_mem_of_sub_smul_mem", "child": "P2M_Util", "via": ["solution"]}
 {"parent": "ModPForms.thetaPS_not_mem_of_sub_smul_mem", "child": "SwdAlgebra", "via": ["solution", "statement"]}
 {"parent": "ModPForms_SSDatum", "child": "CuspForm_ModPForms", "via": ["statement"]}
-{"parent": "ModPolicyIter.Conv.corollary_1", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
+{"parent": "ModPolicyIter.Conv.corollary_1", "child": "ModPolicyIter_Conv_Setting", "via": ["solution", "statement"]}
 {"parent": "ModPolicyIter.Conv.ineq_9", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
 {"parent": "ModPolicyIter.Conv.lambda_comparison", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
-{"parent": "ModPolicyIter.Conv.lemma_1", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
+{"parent": "ModPolicyIter.Conv.lemma_1", "child": "ModPolicyIter_Conv_Setting", "via": ["solution", "statement"]}
 {"parent": "ModPolicyIter.Conv.lemma_2", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
-{"parent": "ModPolicyIter.Conv.lemma_3", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
-{"parent": "ModPolicyIter.Conv.lemma_4", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
-{"parent": "ModPolicyIter.Conv.support_inequality", "child": "ModPolicyIter_Conv_Model", "via": ["statement"]}
+{"parent": "ModPolicyIter.Conv.lemma_3", "child": "ModPolicyIter_Conv_Setting", "via": ["solution", "statement"]}
+{"parent": "ModPolicyIter.Conv.lemma_4", "child": "ModPolicyIter_Conv_Setting", "via": ["solution", "statement"]}
+{"parent": "ModPolicyIter.Conv.support_inequality", "child": "ModPolicyIter_Conv_Model", "via": ["solution", "statement"]}
 {"parent": "ModPolicyIter.Conv.theorem_1", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
 {"parent": "ModPolicyIter.Conv.theorem_2", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
 {"parent": "ModPolicyIter_Conv_Setting", "child": "ModPolicyIter_Conv_Model", "via": ["statement"]}
@@ -412,8 +412,8 @@
 {"parent": "ModernOnlineLearning.Aggregating.restricted_prior_step", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Aggregating.restricted_prior_step", "child": "ModernOnlineLearning_Aggregating_ShrunkSet", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Aggregating.shrunk_volume", "child": "ModernOnlineLearning_Aggregating_ShrunkSet", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.Aggregating.theorem_11_5", "child": "LogRegretOCO_EWOO_ewooPoint", "via": ["statement"]}
-{"parent": "ModernOnlineLearning.Aggregating.theorem_11_5", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.Aggregating.theorem_11_5", "child": "LogRegretOCO_EWOO_ewooPoint", "via": ["solution", "statement"]}
+{"parent": "ModernOnlineLearning.Aggregating.theorem_11_5", "child": "ModernOnlineLearning_Aggregating_ExpConcave", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.Bandits.eq_9_8", "child": "ModernOnlineLearning_Bandits_Tsallis", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Bandits.lemma_9_10", "child": "ModernOnlineLearning_Bandits_Protocol", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.Bandits.theorem_9_17_adversarial", "child": "ModernOnlineLearning_Bandits_Tsallis", "via": ["statement"]}
@@ -430,7 +430,7 @@
 {"parent": "ModernOnlineLearning.FTRL.lemma_7_5", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.FTRL.lemma_7_7", "child": "ModernOnlineLearning_FTRL_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.LowerBounds.theorem_5_1", "child": "ModernOnlineLearning_LowerBounds_Protocol", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.LowerBounds.theorem_5_4", "child": "ModernOnlineLearning_LowerBounds_phi", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.LowerBounds.theorem_5_4", "child": "ModernOnlineLearning_LowerBounds_phi", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OGD.lemma_2_12", "child": "OnlineConvexOpt_FirstOrder_Protocol", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.OGD.lemma_2_31", "child": "ModernOnlineLearning_OGD_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OGD.proposition_2_11", "child": "OnlineConvexOpt_FirstOrder_Protocol", "via": ["solution", "statement"]}
@@ -440,9 +440,9 @@
 {"parent": "ModernOnlineLearning.OMD.lemma_6_7", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OMD.theorem_6_11", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OMD.theorem_6_9", "child": "ModernOnlineLearning_OMD_Defs", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.OnlineToBatch.martingale_step_3_10", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.OnlineToBatch.martingale_step_3_10", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.OnlineToBatch.theorem_3_10", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["solution", "statement"]}
-{"parent": "ModernOnlineLearning.OnlineToBatch.theorem_3_17", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["statement"]}
+{"parent": "ModernOnlineLearning.OnlineToBatch.theorem_3_17", "child": "ModernOnlineLearning_OnlineToBatch_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.eq_13_1", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["solution", "statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.kt_one_dim_regret", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}
 {"parent": "ModernOnlineLearning.ParameterFree.theorem_13_4", "child": "ModernOnlineLearning_ParameterFree_Defs", "via": ["statement"]}

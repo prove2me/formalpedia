@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_IndivRegret_proposition_7
 -- name    : RegLearnGames.IndivRegret.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:37:18.771986+00:00
 -- url     : https://prove2.me/theorems/344fc5d4-2562-4f4c-bf2c-f139ff2fda44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortTermDisclosure_Equilibrium_gap_identity
 -- name    : ShortTermDisclosure.Equilibrium.gap_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:43:31.237693+00:00
 -- url     : https://prove2.me/theorems/c9dec7b3-e5fe-45c0-9221-5cbefcff2add

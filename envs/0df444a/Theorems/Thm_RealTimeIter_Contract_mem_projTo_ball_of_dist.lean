@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RealTimeIter_Contract_mem_projTo_ball_of_dist
 -- name    : RealTimeIter.Contract.mem_projTo_ball_of_dist
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:23.069861+00:00
 -- url     : https://prove2.me/theorems/780061d2-6c7b-4bce-a272-c821a743f6ce

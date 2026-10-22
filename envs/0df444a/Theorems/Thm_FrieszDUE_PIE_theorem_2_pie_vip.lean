@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrieszDUE_PIE_theorem_2_pie_vip
 -- name    : FrieszDUE.PIE.theorem_2_pie_vip
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:20:21.965292+00:00
 -- url     : https://prove2.me/theorems/4882d1ab-de1e-458b-b5ae-fd775ae2f2bf

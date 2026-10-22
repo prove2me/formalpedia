@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinCG_FRBound_theorem_2_1_wolfe
 -- name    : NonlinCG.FRBound.theorem_2_1_wolfe
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:43:56.738981+00:00
 -- url     : https://prove2.me/theorems/c5af65f9-f332-4bab-ba2d-e00afbc25075

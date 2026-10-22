@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseNMFG_Verification_eq_2_19_2_21
 -- name    : ImpulseNMFG.Verification.eq_2_19_2_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:29.234989+00:00
 -- url     : https://prove2.me/theorems/11c0d401-a1da-4dba-905c-01cbbc7a8f37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_separated_orthogonal_projectors
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.separated_orthogonal_projectors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:33:35.134914+00:00
 -- url     : https://prove2.me/theorems/2d7fd125-6cdc-4fa3-9857-36ac367ceb33

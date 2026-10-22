@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiChoiceSecretary_Alg_modVal_given_card
 -- name    : MultiChoiceSecretary.Alg.modVal_given_card
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:37:21.58122+00:00
 -- url     : https://prove2.me/theorems/fc9a843d-5231-4fc2-96fa-814940bdb8fe

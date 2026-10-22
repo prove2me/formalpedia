@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_CAF_minimal_class_bounded
 -- name    : KumarSeidman.CAF.minimal_class_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:05.471241+00:00
 -- url     : https://prove2.me/theorems/e13b8c6c-3c06-4013-a46e-6a77dbc9ff5a

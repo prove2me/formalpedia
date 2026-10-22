@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Teletriage_OneShot_costTT_outside
 -- name    : Teletriage.OneShot.costTT_outside
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:00.771329+00:00
 -- url     : https://prove2.me/theorems/665c7880-f87f-4f4f-a256-8de7029aa77b

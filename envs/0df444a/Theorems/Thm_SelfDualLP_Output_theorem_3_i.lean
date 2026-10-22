@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Output_theorem_3_i
 -- name    : SelfDualLP.Output.theorem_3_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:27:47.824983+00:00
 -- url     : https://prove2.me/theorems/1d00652b-ce62-47dd-81a5-6eb2498b447c

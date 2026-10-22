@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_corollary_5_1_inspection
 -- name    : ReedGGN.Regulator.corollary_5_1_inspection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:27.570354+00:00
 -- url     : https://prove2.me/theorems/302e1091-7737-4956-bd59-1bfa29a218cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_perfect_soundness
 -- name    : GOSNIZK.BGNCommit.perfect_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:34.682853+00:00
 -- url     : https://prove2.me/theorems/9cc9c3a5-fa45-455a-bb2c-4e6fd9d0d3ee

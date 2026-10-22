@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_Continuum_inductive_step
 -- name    : FriezeKannan.Continuum.inductive_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:30.669992+00:00
 -- url     : https://prove2.me/theorems/4785cde9-bc16-4db4-95df-b9c208190f39

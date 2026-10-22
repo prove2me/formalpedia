@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_seminormal_eigen_projection
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.seminormal_eigen_projection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:24:09.310729+00:00
 -- url     : https://prove2.me/theorems/2401fea2-b084-452d-bb59-8e465e0f5989

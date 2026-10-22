@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_eq18_lam_deriv
 -- name    : CommonOwnership.Governance.eq18_lam_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:48.3872+00:00
 -- url     : https://prove2.me/theorems/c0d1ea75-99e9-40d5-99b6-14807f6bea19

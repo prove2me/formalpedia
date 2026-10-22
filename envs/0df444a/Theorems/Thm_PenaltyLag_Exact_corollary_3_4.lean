@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PenaltyLag_Exact_corollary_3_4
 -- name    : PenaltyLag.Exact.corollary_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:07.67299+00:00
 -- url     : https://prove2.me/theorems/8c9e3f82-115b-4365-be81-20e05312d138

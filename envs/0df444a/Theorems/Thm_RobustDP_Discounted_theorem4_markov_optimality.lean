@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_theorem4_markov_optimality
 -- name    : RobustDP.Discounted.theorem4_markov_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:49:21.064985+00:00
 -- url     : https://prove2.me/theorems/f497e814-7467-4977-a283-bcaa7d7c51fd

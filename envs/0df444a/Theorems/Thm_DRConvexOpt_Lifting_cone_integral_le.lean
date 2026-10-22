@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Lifting_cone_integral_le
 -- name    : DRConvexOpt.Lifting.cone_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:41.546376+00:00
 -- url     : https://prove2.me/theorems/f5ce1fdf-25c7-4249-b1eb-9c991528dec4

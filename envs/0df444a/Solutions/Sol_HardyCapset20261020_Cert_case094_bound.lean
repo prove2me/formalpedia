@@ -1,0 +1,100 @@
+-- Prove2me | solution 1 for HardyCapset20261020.Cert.case094_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @Somehow
+-- created : 2026-10-20T20:39:42.282039+00:00
+-- url     : https://prove2.me/submissions/aaf7d486-67e1-431b-82dd-e5efbd6c9134
+
+import Theorems.Thm_HardyCapset20261020_Cert_fast_baseline_lookup
+import Definitions.Def_HardyCapsetCertificate09420261021
+import Definitions.Def_HardyCapsetBooleanVerifier20261020
+import Mathlib.Tactic.FinCases
+import Lean.Elab.Tactic.Omega
+import Theorems.Thm_HardyCapset20261020_Cert_case094_blockers0
+import Theorems.Thm_HardyCapset20261020_Cert_case094_blockers1
+import Theorems.Thm_HardyCapset20261020_Cert_boolean_check_completion_bound
+set_option autoImplicit false
+set_option maxRecDepth 200000
+set_option maxHeartbeats 0
+set_option cbv.maxSteps 1000000000
+set_option autoImplicit false
+namespace HardyCapset20261020.Cert
+private theorem range_list_sum (n : ℕ) (f : ℕ → ℕ) :
+    ((List.range n).map f).sum = ∑ i ∈ Finset.range n, f i := by
+  induction n with
+  | zero => simp
+  | succ n ih => simp [List.range_succ, ih, Finset.sum_range_succ]
+
+@[cbv_eval] theorem dotCode_list (n q : ℕ) :
+    dotCode n q = (((List.range 8).map (fun i => digit n i * digit q i)).sum % 3) := by
+  unfold dotCode natDot
+  rw [range_list_sum, ← Fin.sum_univ_eq_sum_range]
+
+@[cbv_eval] theorem coefficient_list (r : Row) (j : ℕ) :
+    coefficient r j = ((List.range r.vars.size).map
+      (fun k => if entry r.vars k = j then entry r.coeff k else 0)).sum := by
+  unfold coefficient
+  rw [range_list_sum, ← Fin.sum_univ_eq_sum_range]
+
+@[cbv_eval] theorem cost_list (c : Certificate) :
+    cost c = ((List.range c.rows.size).map
+      (fun k => c.rows[k]!.weight * c.rows[k]!.bound)).sum := by
+  unfold cost
+  rw [range_list_sum, ← Fin.sum_univ_eq_sum_range]
+  apply Finset.sum_congr rfl
+  intro k hk
+  simp [k.isLt]
+end HardyCapset20261020.Cert
+set_option autoImplicit false
+set_option maxRecDepth 200000
+set_option maxHeartbeats 0
+-- Keep arithmetic operations intact until their arguments are values. The
+-- built-in literal evaluators then return kernel-checked equality proofs.
+attribute [cbv_opaque] Nat.add Nat.mul Nat.sub Nat.ble
+namespace HardyCapset20261020.Cert
+@[cbv_eval] theorem decide_le_nat (a b : Nat) : decide (a ≤ b) = a.ble b := by
+  apply Bool.eq_iff_iff.mpr
+  simp only [decide_eq_true_eq, Nat.ble_eq]
+@[cbv_eval] theorem decide_lt_nat (a b : Nat) : decide (a < b) = a.succ.ble b := by
+  apply Bool.eq_iff_iff.mpr
+  simp only [decide_eq_true_eq, Nat.ble_eq, Nat.succ_le_iff]
+end HardyCapset20261020.Cert
+namespace HardyCapset20261020.Cert
+private theorem evaluation_base_size : baseArray.size = 512 := by decide_cbv
+attribute [cbv_eval] fast_baseline_lookup evaluation_base_size
+attribute [cbv_opaque] baseArray
+end HardyCapset20261020.Cert
+attribute [cbv_opaque] HardyCapset20261020.Cert.certificate094
+open HardyCapset20261020 HardyCapset20261020.Cert
+@[cbv_eval] private theorem evaluation_normal : certificate094.normal = (348 : Nat) := rfl
+@[cbv_eval] private theorem evaluation_level : certificate094.level = (0 : Nat) := rfl
+@[cbv_eval] private theorem evaluation_pool : certificate094.pool = (#[105, 174, 280, 281, 294, 307, 308, 321, 342, 357, 384, 420, 421, 422, 433, 434, 460, 461, 525, 532, 533, 552, 559, 560, 588, 589, 590, 595, 596, 622, 623, 657, 678, 705, 771, 777, 798, 804, 836, 840, 867, 905, 924, 951, 1073, 1149, 1317, 1388, 1500, 1506, 1527, 1533, 1564, 1569, 1596, 1633, 1653, 1680, 1801, 1878, 2046, 2116, 2203, 2204, 2209, 2210, 2272, 2273, 2319, 2346, 2356, 2357, 2388, 2415, 2454, 2517, 2556, 2583, 2685, 2838, 2871, 2898, 3168, 3280, 3281, 3307, 3308, 3321, 3370, 3371, 3397, 3398, 3420, 3483, 3526, 3527, 3553, 3554, 3616, 3617, 3643, 3644, 3897, 4009, 4010, 4036, 4037, 4050, 4099, 4100, 4126, 4127, 4149, 4212, 4255, 4256, 4282, 4283, 4345, 4346, 4372, 4373, 4390, 4391, 4396, 4397, 4459, 4460, 4506, 4533, 4543, 4544, 4575, 4602, 4641, 4704, 4743, 4770, 4872, 5025, 5058, 5085, 5355, 5467, 5468, 5494, 5495, 5508, 5557, 5558, 5584, 5585, 5607, 5670, 5713, 5714, 5740, 5741, 5803, 5804, 5830, 5831, 6084, 6196, 6197, 6223, 6224, 6237, 6286, 6287, 6313, 6314, 6336, 6399, 6442, 6443, 6469, 6470, 6532, 6533, 6559, 6560] : Array Nat) := rfl
+@[cbv_eval] private theorem evaluation_denominator : certificate094.denominator = (1 : Nat) := rfl
+@[cbv_eval] private theorem evaluation_rows : certificate094.rows = (#[{ vars := #[0, 34, 57], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[0, 36, 56], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[0, 42, 50], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[0, 43, 48], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[0, 62, 131], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[0, 63, 130], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[0, 70, 123], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[0, 71, 122], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 35, 54], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 37, 53], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 39, 51], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 40, 49], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 64, 127], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 65, 126], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 66, 125], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[1, 67, 124], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[2, 8, 17], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[3, 8, 16], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[4, 10, 11], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[5, 8, 15], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[6, 8, 14], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[7, 9, 11], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[8, 82, 167], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[8, 87, 162], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[8, 102, 147], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[8, 107, 142], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[11, 12, 13], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[11, 45, 59], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[11, 74, 135], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[11, 75, 134], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[18, 24, 33], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[19, 30, 31], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[20, 29, 31], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[21, 24, 32], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[22, 28, 31], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[23, 27, 31], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[24, 25, 26], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[24, 46, 60], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[24, 78, 139], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[24, 79, 138], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[31, 92, 173], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[31, 93, 172], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[31, 112, 153], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[31, 113, 152], coeff := #[1, 1, 1], bound := 2, weight := 1, edges := #[], triples := #[⟨0, 1, 2⟩] }, { vars := #[38], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[41], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[44], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[47], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[52], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[55], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[58], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[61], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[68], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[69], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[72], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[73], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[76], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[77], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[80], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[81], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[83], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[84], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[85], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[86], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[88], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[89], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[90], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[91], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[94], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[95], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[96], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[97], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[98], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[99], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[100], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[101], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[103], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[104], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[105], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[106], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[108], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[109], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[110], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[111], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[114], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[115], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[116], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[117], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[118], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[119], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[120], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[121], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[128], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[129], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[132], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[133], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[136], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[137], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[140], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[141], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[143], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[144], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[145], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[146], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[148], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[149], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[150], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[151], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[154], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[155], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[156], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[157], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[158], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[159], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[160], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[161], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[163], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[164], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[165], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[166], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[168], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[169], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[170], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[171], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[174], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[175], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[176], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[177], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[178], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[179], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[180], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }, { vars := #[181], coeff := #[1], bound := 1, weight := 1, edges := #[], triples := #[] }] : Array Row) := rfl
+@[cbv_eval] private theorem evaluation_coverRows : certificate094.coverRows = (#[#[0, 1, 2, 3, 4, 5, 6, 7], #[8, 9, 10, 11, 12, 13, 14, 15], #[16], #[17], #[18], #[19], #[20], #[21], #[16, 17, 19, 20, 22, 23, 24, 25], #[21], #[18], #[18, 21, 26, 27, 28, 29], #[26], #[26], #[20], #[19], #[17], #[16], #[30], #[31], #[32], #[33], #[34], #[35], #[30, 33, 36, 37, 38, 39], #[36], #[36], #[35], #[34], #[32], #[31], #[31, 32, 34, 35, 40, 41, 42, 43], #[33], #[30], #[0], #[8], #[1], #[9], #[44], #[10], #[11], #[45], #[2], #[3], #[46], #[27], #[37], #[47], #[3], #[11], #[2], #[10], #[48], #[9], #[8], #[49], #[1], #[0], #[50], #[27], #[37], #[51], #[4], #[5], #[12], #[13], #[14], #[15], #[52], #[53], #[6], #[7], #[54], #[55], #[28], #[29], #[56], #[57], #[38], #[39], #[58], #[59], #[22], #[60], #[61], #[62], #[63], #[23], #[64], #[65], #[66], #[67], #[40], #[41], #[68], #[69], #[70], #[71], #[72], #[73], #[74], #[75], #[24], #[76], #[77], #[78], #[79], #[25], #[80], #[81], #[82], #[83], #[42], #[43], #[84], #[85], #[86], #[87], #[88], #[89], #[90], #[91], #[7], #[6], #[15], #[14], #[13], #[12], #[92], #[93], #[5], #[4], #[94], #[95], #[29], #[28], #[96], #[97], #[39], #[38], #[98], #[99], #[25], #[100], #[101], #[102], #[103], #[24], #[104], #[105], #[106], #[107], #[43], #[42], #[108], #[109], #[110], #[111], #[112], #[113], #[114], #[115], #[23], #[116], #[117], #[118], #[119], #[22], #[120], #[121], #[122], #[123], #[41], #[40], #[124], #[125], #[126], #[127], #[128], #[129], #[130], #[131]] : Array (Array Nat)) := rfl
+
+private theorem all_blocks : (List.range 6561).all
+    (fun q => blockB certificate094 q certificate094.blockers[q]!) = true := by
+  apply List.all_eq_true.mpr
+  intro q hq
+  have hq' : q < 6561 := List.mem_range.mp hq
+  by_cases h : q < 3328
+  · simpa only [Nat.zero_add] using case094_blockers0 ⟨q,h⟩
+  · have hle : 3328 ≤ q := by omega
+    simpa only [Nat.add_sub_of_le hle] using
+      case094_blockers1 ⟨q-3328,by omega⟩
+private theorem rows_check : certificate094.rows.toList.all (rowB certificate094) = true := by
+  decide_cbv
+private theorem covers_check : (List.range certificate094.pool.size).all (localCoverB certificate094) = true := by
+  decide_cbv
+private theorem cost_check : decide (cost certificate094 < certificate094.denominator * (deletedCount certificate094+1)) = true := by
+  decide_cbv
+theorem solution : CompletionBound (decode 348) (0 : ZMod 3) := by
+  have hs : certificate094.blockers.size = 6561 := by
+    simp only [certificate094, binaryBlockers, Array.size_ofFn]
+  have hb : CompletionBound (decode certificate094.normal) certificate094.level := by
+    apply boolean_check_completion_bound
+    unfold verifyB
+    rw [hs, all_blocks, rows_check, covers_check, cost_check]
+    decide_cbv
+  exact hb
+#print axioms solution

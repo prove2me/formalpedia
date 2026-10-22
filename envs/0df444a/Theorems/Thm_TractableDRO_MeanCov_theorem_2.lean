@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TractableDRO_MeanCov_theorem_2
 -- name    : TractableDRO.MeanCov.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:32.835016+00:00
 -- url     : https://prove2.me/theorems/b7c02672-b37d-45e5-8fef-fcf3613cca9b

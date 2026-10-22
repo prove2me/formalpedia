@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MangasarianFJ_GenFJ_system_2_18_no_solution
 -- name    : MangasarianFJ.GenFJ.system_2_18_no_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:41:21.299069+00:00
 -- url     : https://prove2.me/theorems/99c51668-56ee-4a79-821c-aa18ca68a51b

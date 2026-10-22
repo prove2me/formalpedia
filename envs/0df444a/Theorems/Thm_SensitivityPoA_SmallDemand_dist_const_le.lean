@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_SmallDemand_dist_const_le
 -- name    : SensitivityPoA.SmallDemand.dist_const_le
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:08.206979+00:00
 -- url     : https://prove2.me/theorems/8e90958e-0cd3-4d17-bd37-e05c1e83ade8

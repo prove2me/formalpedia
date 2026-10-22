@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for J6Seg.ChB.chunkBudget6_all
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:50:30.902915+00:00
 -- url     : https://prove2.me/submissions/6c28cea4-14cd-4121-b033-8066cfd0b7e1
 

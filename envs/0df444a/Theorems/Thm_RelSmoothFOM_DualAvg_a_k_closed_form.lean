@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DualAvg_a_k_closed_form
 -- name    : RelSmoothFOM.DualAvg.a_k_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:34:30.719323+00:00
 -- url     : https://prove2.me/theorems/818549e5-ac8e-4e52-a81f-85ff6c84cba2

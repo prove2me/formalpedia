@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Stitch_equation_2_unique
 -- name    : ConstrNestedLogit.Stitch.equation_2_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:03:36.177978+00:00
 -- url     : https://prove2.me/theorems/dabee6b5-c76e-411f-9e7c-cee53401970f

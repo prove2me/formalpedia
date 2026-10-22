@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefMNLPricing_Myopic_corollary_1
 -- name    : RefMNLPricing.Myopic.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:15.850989+00:00
 -- url     : https://prove2.me/theorems/ac93b486-df35-4638-be84-a93c2104b545

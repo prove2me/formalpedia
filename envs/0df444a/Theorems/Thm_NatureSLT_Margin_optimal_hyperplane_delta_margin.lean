@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Margin_optimal_hyperplane_delta_margin
 -- name    : NatureSLT.Margin.optimal_hyperplane_delta_margin
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:57.542278+00:00
 -- url     : https://prove2.me/theorems/9475ec2b-1b76-45de-92bd-f20bf83f448c

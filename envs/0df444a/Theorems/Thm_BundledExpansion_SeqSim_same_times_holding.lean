@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledExpansion_SeqSim_same_times_holding
 -- name    : BundledExpansion.SeqSim.same_times_holding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:06.099235+00:00
 -- url     : https://prove2.me/theorems/6e94451e-233a-44fc-8a0c-79e36e234700

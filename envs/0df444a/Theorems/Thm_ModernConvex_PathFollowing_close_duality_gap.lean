@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_close_duality_gap
 -- name    : ModernConvex.PathFollowing.close_duality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:47.78508+00:00
 -- url     : https://prove2.me/theorems/b6b2f2ff-0130-4644-8159-a2dfc1244462

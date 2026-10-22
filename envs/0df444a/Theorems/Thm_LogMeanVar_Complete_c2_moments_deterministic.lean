@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogMeanVar_Complete_c2_moments_deterministic
 -- name    : LogMeanVar.Complete.c2_moments_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:40.020362+00:00
 -- url     : https://prove2.me/theorems/815c30df-f243-4df9-b283-90bd1146af32

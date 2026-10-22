@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdfundRM_Triangular_eq_22
 -- name    : CrowdfundRM.Triangular.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:50:22.250763+00:00
 -- url     : https://prove2.me/theorems/1a4d000a-82dd-4e02-bf8c-6b09cc411319

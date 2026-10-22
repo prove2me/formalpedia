@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_ListsBinary_benchProfit_hasDerivAt
 -- name    : SellingData.ListsBinary.benchProfit_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:46.821352+00:00
 -- url     : https://prove2.me/theorems/e6258b8f-845f-4222-a929-8c4bb3e129b3

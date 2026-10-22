@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BSUMConv_BSUM_eq_22
 -- name    : BSUMConv.BSUM.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:52.967984+00:00
 -- url     : https://prove2.me/theorems/4450c626-fb67-4a08-a08f-bb1130253919

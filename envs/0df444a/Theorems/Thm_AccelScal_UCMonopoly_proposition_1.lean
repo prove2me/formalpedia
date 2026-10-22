@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_UCMonopoly_proposition_1
 -- name    : AccelScal.UCMonopoly.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:45.017622+00:00
 -- url     : https://prove2.me/theorems/d4dc728c-e791-4d57-b1c3-7ef4e17eb50b

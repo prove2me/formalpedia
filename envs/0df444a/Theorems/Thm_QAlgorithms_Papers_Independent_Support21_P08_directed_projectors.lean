@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_directed_projectors
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.directed_projectors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:32:41.321483+00:00
 -- url     : https://prove2.me/theorems/bb900c62-5e1f-4940-b549-bb78c0a60955

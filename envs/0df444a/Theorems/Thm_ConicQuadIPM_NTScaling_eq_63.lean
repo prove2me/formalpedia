@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicQuadIPM_NTScaling_eq_63
 -- name    : ConicQuadIPM.NTScaling.eq_63
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:10:26.710292+00:00
 -- url     : https://prove2.me/theorems/b3495276-e3fa-49fc-b050-218ff4a8aca5

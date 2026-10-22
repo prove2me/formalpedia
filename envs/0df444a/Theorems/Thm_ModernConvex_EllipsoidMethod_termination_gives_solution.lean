@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_EllipsoidMethod_termination_gives_solution
 -- name    : ModernConvex.EllipsoidMethod.termination_gives_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:10.102169+00:00
 -- url     : https://prove2.me/theorems/a8d769f9-b68d-4af8-bac1-93a8e6114a08

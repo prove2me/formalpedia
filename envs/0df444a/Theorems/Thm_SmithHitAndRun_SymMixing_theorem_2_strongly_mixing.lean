@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithHitAndRun_SymMixing_theorem_2_strongly_mixing
 -- name    : SmithHitAndRun.SymMixing.theorem_2_strongly_mixing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:13:11.763617+00:00
 -- url     : https://prove2.me/theorems/176ed517-d79f-4b7e-a90e-e80a16e3972d

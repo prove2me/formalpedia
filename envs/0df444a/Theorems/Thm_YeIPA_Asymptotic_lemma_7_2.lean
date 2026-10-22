@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Asymptotic_lemma_7_2
 -- name    : YeIPA.Asymptotic.lemma_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:20.746413+00:00
 -- url     : https://prove2.me/theorems/c76be1f0-56cf-4db6-8be2-4549d471acb9

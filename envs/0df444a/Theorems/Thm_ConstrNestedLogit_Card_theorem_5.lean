@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Card_theorem_5
 -- name    : ConstrNestedLogit.Card.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:42.936257+00:00
 -- url     : https://prove2.me/theorems/21d8e5f1-b1dd-4667-8130-1ef4efeef48b

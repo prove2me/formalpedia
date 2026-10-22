@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Metric_prop_2_2_gluing
 -- name    : CompOT.Metric.prop_2_2_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:21.090814+00:00
 -- url     : https://prove2.me/theorems/376880ac-f98a-4019-9d9d-c1efcb716619

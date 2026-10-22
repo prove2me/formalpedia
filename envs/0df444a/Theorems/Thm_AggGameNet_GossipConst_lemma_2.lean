@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggGameNet_GossipConst_lemma_2
 -- name    : AggGameNet.GossipConst.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:26.301981+00:00
 -- url     : https://prove2.me/theorems/5c5dbb21-9393-4e05-afdf-afe24100eb23

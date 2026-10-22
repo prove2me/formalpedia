@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevShareCoord_Effort_Linear_integrated_price
 -- name    : RevShareCoord.Effort.Linear.integrated_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:05:57.793082+00:00
 -- url     : https://prove2.me/theorems/4beadebd-978e-467b-b7ca-4e41925cca11

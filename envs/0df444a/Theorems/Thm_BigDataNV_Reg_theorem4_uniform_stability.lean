@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BigDataNV_Reg_theorem4_uniform_stability
 -- name    : BigDataNV.Reg.theorem4_uniform_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T05:53:19.590024+00:00
 -- url     : https://prove2.me/theorems/ce6de9ab-a287-41bf-8a1f-fa3a44113ebf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_Sparsity_theorem_5_prime_inclusion
 -- name    : RobustRegLasso.Sparsity.theorem_5_prime_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:15:34.878335+00:00
 -- url     : https://prove2.me/theorems/e93d89d3-6895-4efd-be71-7fe3d126b56e

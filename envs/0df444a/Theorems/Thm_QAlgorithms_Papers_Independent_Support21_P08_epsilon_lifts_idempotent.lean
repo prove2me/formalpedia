@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_epsilon_lifts_idempotent
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.epsilon_lifts_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:31:31.526998+00:00
 -- url     : https://prove2.me/theorems/7035f915-8c33-4bc8-8cfc-dc0d13d8bed5

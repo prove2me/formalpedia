@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanVarASD_AFSD_deltaStar_minimizes_h
 -- name    : MeanVarASD.AFSD.deltaStar_minimizes_h
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:38.145156+00:00
 -- url     : https://prove2.me/theorems/eefe5650-bdd1-4ff7-95d4-04380d870194

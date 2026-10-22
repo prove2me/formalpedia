@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_MaskedParity_bessel
 -- name    : PrivLearn.MaskedParity.bessel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:48:38.495903+00:00
 -- url     : https://prove2.me/theorems/16f32ed1-6ce4-448d-a23c-4796510cc8c6

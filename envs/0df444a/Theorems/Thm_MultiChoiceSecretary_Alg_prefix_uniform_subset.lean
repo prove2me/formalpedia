@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiChoiceSecretary_Alg_prefix_uniform_subset
 -- name    : MultiChoiceSecretary.Alg.prefix_uniform_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:37:18.416321+00:00
 -- url     : https://prove2.me/theorems/6ed54b05-db7e-4713-a952-5409fd3d40eb

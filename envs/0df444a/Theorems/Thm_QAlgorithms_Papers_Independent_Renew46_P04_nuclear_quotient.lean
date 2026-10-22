@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_nuclear_quotient
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.nuclear_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:52:05.363989+00:00
 -- url     : https://prove2.me/theorems/fe4fdf4a-ac2e-4040-ac11-5f85f8046cd6

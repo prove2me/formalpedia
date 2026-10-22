@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterpOptStop_SAA_theorem_1
 -- name    : InterpOptStop.SAA.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:51.077164+00:00
 -- url     : https://prove2.me/theorems/5f9176d1-20de-4481-abd1-1697a16dafff

@@ -1,0 +1,20 @@
+-- Prove2me | Theorems.Thm_HardyCapset20261020_Cert_case040_blockers0
+-- name    : HardyCapset20261020.Cert.case040_blockers0
+-- status  : Proved
+-- author  : @Somehow
+-- created : 2026-10-20T17:10:21.869194+00:00
+-- url     : https://prove2.me/theorems/12c3e57b-2820-4e3a-a932-2750a2762603
+-- title:
+--   All ambient blocking witnesses for orbit 040, part 1
+-- statement:
+--   Exhaustive geometric blocking checks for every ambient identifier in [0, 3328) for orbit representative 040. Each point is either fixed, blocked by a distinct fixed pair, or is an indexed candidate. No ambient point in the interval is omitted.
+-- source:
+--   Private source: 八维 cap 的超平面补点定理, 2026-10-13, sections 2–5. The exact baseline is the previously uploaded HardyCapsetModel20261020. This is a conditional fixed-core theorem for that baseline.
+
+import Definitions.Def_HardyCapsetCertificate04020261021
+import Definitions.Def_HardyCapsetBooleanVerifier20261020
+
+namespace HardyCapset20261020.Cert
+theorem case040_blockers0 (q : Fin 3328) :
+    blockB certificate040 (0+q.val) certificate040.blockers[0+q.val]! = true := by sorry
+end HardyCapset20261020.Cert

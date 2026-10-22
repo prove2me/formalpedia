@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_AVC_real_spectrum
 -- name    : AccelVI.AVC.real_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:12.583649+00:00
 -- url     : https://prove2.me/theorems/9d6bc1c6-8f09-4dae-a2b3-2ccb67dfdcf8

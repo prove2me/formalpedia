@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_BatchTD_batch_td_fixed_point_iff_certainty_equivalence
 -- name    : SuttonBartoRL.BatchTD.batch_td_fixed_point_iff_certainty_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:00:28.471238+00:00
 -- url     : https://prove2.me/theorems/8f082ecf-b9e6-4757-bfd8-ba436cb3f608

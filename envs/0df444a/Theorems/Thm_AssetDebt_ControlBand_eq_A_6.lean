@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssetDebt_ControlBand_eq_A_6
 -- name    : AssetDebt.ControlBand.eq_A_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:13:58.696275+00:00
 -- url     : https://prove2.me/theorems/2a22025c-edd9-412b-9ae6-b3e4b795a998

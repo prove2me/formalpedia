@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Stability_theorem_3_20_stability
 -- name    : GraphonGames.Stability.theorem_3_20_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:48:51.183978+00:00
 -- url     : https://prove2.me/theorems/f5ce253e-8977-43be-aca1-b6a8f9057b54

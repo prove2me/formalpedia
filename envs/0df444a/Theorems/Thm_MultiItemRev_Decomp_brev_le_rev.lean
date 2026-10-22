@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_Decomp_brev_le_rev
 -- name    : MultiItemRev.Decomp.brev_le_rev
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:24:57.485882+00:00
 -- url     : https://prove2.me/theorems/a931045b-e32b-4840-8590-f9fa04c9c10e

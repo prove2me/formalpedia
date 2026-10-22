@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_UnitPatience_lemma_8
 -- name    : OfflineStochMatch.UnitPatience.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:32.133093+00:00
 -- url     : https://prove2.me/theorems/3d32a1d7-610b-4ac4-ac61-7bac1c20508c

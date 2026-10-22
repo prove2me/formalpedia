@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SphereGRF_Spectral_factorial_ratio_bounds
 -- name    : SphereGRF.Spectral.factorial_ratio_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:35:03.623608+00:00
 -- url     : https://prove2.me/theorems/91d9c33c-3856-4e96-8428-df7509a20335

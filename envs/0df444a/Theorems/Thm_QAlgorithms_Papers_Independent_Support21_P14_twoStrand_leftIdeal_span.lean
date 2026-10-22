@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P14_twoStrand_leftIdeal_span
 -- name    : QAlgorithms.Papers.Independent.Support21.P14.twoStrand_leftIdeal_span
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:27:56.262164+00:00
 -- url     : https://prove2.me/theorems/fde091af-7bd7-4896-91c8-7b61206be5a5

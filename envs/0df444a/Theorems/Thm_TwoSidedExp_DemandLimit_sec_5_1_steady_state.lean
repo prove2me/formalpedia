@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_sec_5_1_steady_state
 -- name    : TwoSidedExp.DemandLimit.sec_5_1_steady_state
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:30.855672+00:00
 -- url     : https://prove2.me/theorems/f0c2064b-50c8-4dd2-8c49-fba5f73890ae

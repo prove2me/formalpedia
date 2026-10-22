@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_SqrtBound_constructed_cost_le
 -- name    : AffinePolicies.SqrtBound.constructed_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:40:39.540245+00:00
 -- url     : https://prove2.me/theorems/397a99f6-44c4-4ba9-b392-f4aa4885fa17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Perfect_convexHull_iff_minmax
 -- name    : ChvatalPolytopes.Perfect.convexHull_iff_minmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:13:10.138905+00:00
 -- url     : https://prove2.me/theorems/1240b1ec-6906-4c6c-bcb6-2ad9654b62e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_LNatural_optimal_fill
 -- name    : ZipkinLostSales.LNatural.optimal_fill
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:00:47.236575+00:00
 -- url     : https://prove2.me/theorems/b9cdfe61-da13-4637-a337-a8e50679ecb0

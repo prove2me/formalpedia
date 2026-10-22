@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmithRenewal_Elementary_truncated_mean_tendsto
 -- name    : SmithRenewal.Elementary.truncated_mean_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:12.806014+00:00
 -- url     : https://prove2.me/theorems/decdb788-4316-4028-a2a6-11f6b50f6f7e

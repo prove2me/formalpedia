@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Optimality_exists_convex_combination_zero
 -- name    : MifflinSemismooth.Optimality.exists_convex_combination_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:48:05.824023+00:00
 -- url     : https://prove2.me/theorems/5b2cf1ad-900e-45d2-b1fa-7fb99c8d97c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_fixedVectorUnion_dense
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.fixedVectorUnion_dense
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:11:27.752063+00:00
 -- url     : https://prove2.me/theorems/ad89eb29-048f-4586-a6c8-058bc8479b92

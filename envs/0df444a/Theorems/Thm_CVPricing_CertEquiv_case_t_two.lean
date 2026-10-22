@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_CertEquiv_case_t_two
 -- name    : CVPricing.CertEquiv.case_t_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:35:18.355586+00:00
 -- url     : https://prove2.me/theorems/36217243-fff6-4ee5-8513-e00ea4678709

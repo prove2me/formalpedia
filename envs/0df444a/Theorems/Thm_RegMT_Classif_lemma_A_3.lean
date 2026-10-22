@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMT_Classif_lemma_A_3
 -- name    : RegMT.Classif.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:05:28.560353+00:00
 -- url     : https://prove2.me/theorems/633e8e77-94dc-4b58-a9fb-911788f1d58e

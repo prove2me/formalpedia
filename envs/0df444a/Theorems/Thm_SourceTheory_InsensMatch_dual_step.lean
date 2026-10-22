@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_InsensMatch_dual_step
 -- name    : SourceTheory.InsensMatch.dual_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:26.787063+00:00
 -- url     : https://prove2.me/theorems/c6f79c4c-3529-434c-b11f-752d7b96bcf8

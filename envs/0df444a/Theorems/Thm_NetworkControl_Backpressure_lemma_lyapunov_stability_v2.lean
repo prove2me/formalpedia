@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkControl_Backpressure_lemma_lyapunov_stability_v2
 -- name    : NetworkControl.Backpressure.lemma_lyapunov_stability_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:21:18.037165+00:00
 -- url     : https://prove2.me/theorems/aa415b8e-8c65-4749-b733-6177f7571659

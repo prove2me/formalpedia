@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HochbaumShmoys_Uniform_rounding_bound
 -- name    : HochbaumShmoys.Uniform.rounding_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:33.177833+00:00
 -- url     : https://prove2.me/theorems/c0afaf25-954d-4f21-88ef-b3e928b58d92

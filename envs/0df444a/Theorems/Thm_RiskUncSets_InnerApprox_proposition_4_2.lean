@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_InnerApprox_proposition_4_2
 -- name    : RiskUncSets.InnerApprox.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:06:38.334877+00:00
 -- url     : https://prove2.me/theorems/1f76b84d-b88d-4f06-b544-95e72ad105c5

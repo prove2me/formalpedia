@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_NonAbelian_eq12_CSB_le
 -- name    : PlunneckeType.NonAbelian.eq12_CSB_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:38.351587+00:00
 -- url     : https://prove2.me/theorems/2626aebb-4a53-41a8-9c0a-fdb1ff0b6aee

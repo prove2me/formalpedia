@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MechanismDesign_SocialChoice_monotone_setMonotone
 -- name    : MechanismDesign.SocialChoice.monotone_setMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T03:48:06.629201+00:00
 -- url     : https://prove2.me/theorems/5968d2de-8a79-46d1-ac89-58e923a41a6b

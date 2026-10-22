@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Benchmark_eq8_no_second_period
 -- name    : GDPRDataMarkets.Benchmark.eq8_no_second_period
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:57.131679+00:00
 -- url     : https://prove2.me/theorems/8af59215-5245-44a6-8930-fe5b11535ce2

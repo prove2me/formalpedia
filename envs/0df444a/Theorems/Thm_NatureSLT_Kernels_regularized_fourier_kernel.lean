@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_regularized_fourier_kernel
 -- name    : NatureSLT.Kernels.regularized_fourier_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:13.465421+00:00
 -- url     : https://prove2.me/theorems/10a38ea2-768c-4e81-8078-c44f2a46baf1

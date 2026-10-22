@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Termination_lemma_5_13
 -- name    : WrightPDIPM.Termination.lemma_5_13
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:54:11.55942+00:00
 -- url     : https://prove2.me/theorems/bbec91d6-0850-4778-8569-d04a4b09168f

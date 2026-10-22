@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_MultHull_psd_iff_kron
 -- name    : QCQPTightness.MultHull.psd_iff_kron
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:41.708833+00:00
 -- url     : https://prove2.me/theorems/8a8852d0-da65-42cc-9f3b-ec11451a0d28

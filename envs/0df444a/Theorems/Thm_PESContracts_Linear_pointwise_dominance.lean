@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PESContracts_Linear_pointwise_dominance
 -- name    : PESContracts.Linear.pointwise_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:10:29.190013+00:00
 -- url     : https://prove2.me/theorems/db5a04e6-30f9-4f87-b58b-11e96effcd2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Space_ratio_inequality
 -- name    : ConstrNestedLogit.Space.ratio_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:52.706985+00:00
 -- url     : https://prove2.me/theorems/766ad551-1f33-4070-bdec-f1b5053c57f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSWCuttingPlane_ChasingZero_union_bound_sum
 -- name    : LSWCuttingPlane.ChasingZero.union_bound_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:00:46.522834+00:00
 -- url     : https://prove2.me/theorems/2f2a5a17-2e18-4483-ad14-49d4140c3e44

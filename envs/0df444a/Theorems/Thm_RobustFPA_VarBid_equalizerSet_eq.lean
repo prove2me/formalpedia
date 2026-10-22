@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustFPA_VarBid_equalizerSet_eq
 -- name    : RobustFPA.VarBid.equalizerSet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:36.907616+00:00
 -- url     : https://prove2.me/theorems/05be7290-715f-4ed8-a1f0-c6149f96bff9

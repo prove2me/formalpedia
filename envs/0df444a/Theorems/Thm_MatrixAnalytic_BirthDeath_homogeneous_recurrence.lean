@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_BirthDeath_homogeneous_recurrence
 -- name    : MatrixAnalytic.BirthDeath.homogeneous_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:39.332606+00:00
 -- url     : https://prove2.me/theorems/c35835f7-b730-45aa-a647-f34c006a0998

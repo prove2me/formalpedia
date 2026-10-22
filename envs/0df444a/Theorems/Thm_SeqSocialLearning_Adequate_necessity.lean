@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqSocialLearning_Adequate_necessity
 -- name    : SeqSocialLearning.Adequate.necessity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:14.289027+00:00
 -- url     : https://prove2.me/theorems/9f4933c9-64f1-4dfe-857b-719700f40307

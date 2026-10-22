@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KedlayaUmans_Reduction_psi_injOn
 -- name    : KedlayaUmans.Reduction.psi_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:06.08998+00:00
 -- url     : https://prove2.me/theorems/ea1a9edc-e9e7-4790-bfa1-31a72d4067a8

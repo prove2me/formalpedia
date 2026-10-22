@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_newton_cellular
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.newton_cellular
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:22:51.221837+00:00
 -- url     : https://prove2.me/theorems/3a454140-b67c-4c0f-8c1d-6efced2cdd49

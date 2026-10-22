@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_Value_thm31_cap_lower
 -- name    : CustAssort.Value.thm31_cap_lower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:44:47.690592+00:00
 -- url     : https://prove2.me/theorems/ed317faa-bcb7-4199-9f1b-61b85fae9fdb

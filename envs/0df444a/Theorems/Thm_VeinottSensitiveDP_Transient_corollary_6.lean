@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottSensitiveDP_Transient_corollary_6
 -- name    : VeinottSensitiveDP.Transient.corollary_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:51:13.348367+00:00
 -- url     : https://prove2.me/theorems/421eb7f7-4350-4ea5-95f9-878b6399d32d

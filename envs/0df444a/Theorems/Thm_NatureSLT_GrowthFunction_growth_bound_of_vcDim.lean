@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_GrowthFunction_growth_bound_of_vcDim
 -- name    : NatureSLT.GrowthFunction.growth_bound_of_vcDim
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:36.940844+00:00
 -- url     : https://prove2.me/theorems/fbb33bd5-cb71-48cf-b466-3d87b18c0171

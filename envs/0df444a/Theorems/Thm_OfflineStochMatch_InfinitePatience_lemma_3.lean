@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_InfinitePatience_lemma_3
 -- name    : OfflineStochMatch.InfinitePatience.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:57.759182+00:00
 -- url     : https://prove2.me/theorems/a7972007-ae4c-40d1-a45f-2b48552da48c

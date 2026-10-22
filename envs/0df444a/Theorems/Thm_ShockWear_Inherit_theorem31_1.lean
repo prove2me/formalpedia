@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_Inherit_theorem31_1
 -- name    : ShockWear.Inherit.theorem31_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:08.15572+00:00
 -- url     : https://prove2.me/theorems/a0b9f24b-892d-4ef2-a905-f79d9cfe0726

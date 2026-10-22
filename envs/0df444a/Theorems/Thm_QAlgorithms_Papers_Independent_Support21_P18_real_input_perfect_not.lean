@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P18_real_input_perfect_not
 -- name    : QAlgorithms.Papers.Independent.Support21.P18.real_input_perfect_not
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:54:03.280089+00:00
 -- url     : https://prove2.me/theorems/d5c68227-724c-492f-a0d1-835a98e60be4

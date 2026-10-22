@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Leaf.axisU6_of_fine
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:33:54.090411+00:00
 -- url     : https://prove2.me/submissions/ef2bb882-9030-41bb-8753-6f9658417514
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_Kappa_R6_Defs70
 import Theorems.Thm_J6Seg_Ax_axisU6_of

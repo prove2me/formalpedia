@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsayQF_EffQF_qf_purchase
 -- name    : TsayQF.EffQF.qf_purchase
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:27:42.489155+00:00
 -- url     : https://prove2.me/theorems/810015e7-3f1c-475e-9b79-3a75de6df557

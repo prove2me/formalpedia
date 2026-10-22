@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterpOptStop_SAA_corollary_1
 -- name    : InterpOptStop.SAA.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:49.998149+00:00
 -- url     : https://prove2.me/theorems/bb725b2b-94f3-4e1e-8774-fa8187fac998

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_MinVar_rate_difference
 -- name    : KendallBD.MinVar.rate_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:26.885771+00:00
 -- url     : https://prove2.me/theorems/d2e916d8-4d8f-43ab-a32c-cae09838a84c

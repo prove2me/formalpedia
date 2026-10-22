@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Sol_W_ode
 -- name    : KendallBD.Sol.W_ode
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:26:01.551121+00:00
 -- url     : https://prove2.me/theorems/8d145dbe-8810-42d4-aec3-479469651a0b

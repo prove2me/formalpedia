@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Barycenter_kl_scalar_conjugate
 -- name    : CompOT.Barycenter.kl_scalar_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:34:09.806992+00:00
 -- url     : https://prove2.me/theorems/4caec703-04d3-4102-9190-a1d4f01add41

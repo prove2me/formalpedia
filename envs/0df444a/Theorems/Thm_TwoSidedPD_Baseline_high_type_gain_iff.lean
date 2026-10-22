@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_high_type_gain_iff
 -- name    : TwoSidedPD.Baseline.high_type_gain_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:22.727901+00:00
 -- url     : https://prove2.me/theorems/894bd55c-4aca-4be2-a8b0-c058b377c2b4

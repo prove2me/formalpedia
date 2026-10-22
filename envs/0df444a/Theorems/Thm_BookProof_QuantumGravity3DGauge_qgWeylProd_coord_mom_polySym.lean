@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qgWeylProd_coord_mom_polySym
 -- name    : BookProof.QuantumGravity3DGauge.qgWeylProd_coord_mom_polySym
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T09:34:39.859979+00:00
 -- url     : https://prove2.me/theorems/dd5e61fa-3ef0-481f-b597-c3ac6c94f1b0

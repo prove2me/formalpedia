@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Tegmark_spacelike_slice
 -- name    : Tegmark.spacelike_slice
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T04:16:56.867334+00:00
 -- url     : https://prove2.me/theorems/9c2c8c1d-4a21-43bb-b9b5-9eee63829ad7

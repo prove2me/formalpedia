@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSchurIrreducible.commutant_scalar_of_irreducible
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:27:15.877087+00:00
 -- url     : https://prove2.me/submissions/e51e0f6a-6b68-4d26-be57-e976e87e4c47
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSchurIrreducible.lean — solution of BookProof.ChapterSchurIrreducible.commutant_scalar_of_irreducible
 import Mathlib

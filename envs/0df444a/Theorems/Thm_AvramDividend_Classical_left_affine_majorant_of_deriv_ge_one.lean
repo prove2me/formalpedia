@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_left_affine_majorant_of_deriv_ge_one
 -- name    : AvramDividend.Classical.left_affine_majorant_of_deriv_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T12:56:04.829603+00:00
 -- url     : https://prove2.me/theorems/dc57a9f9-fa13-44b9-bd57-2b6e54334484

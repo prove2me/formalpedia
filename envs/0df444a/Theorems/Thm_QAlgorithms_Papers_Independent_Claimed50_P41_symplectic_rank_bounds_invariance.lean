@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_symplectic_rank_bounds_invariance
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.symplectic_rank_bounds_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:56:42.471779+00:00
 -- url     : https://prove2.me/theorems/4843c55d-7aca-4fce-8158-0d0565bbd9c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_g1_five_le_egirth
 -- name    : SnarkGen.Zhang.g1_five_le_egirth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:33.327306+00:00
 -- url     : https://prove2.me/theorems/7e2a95e8-7a00-41db-a53d-6d1c56c7e3f7

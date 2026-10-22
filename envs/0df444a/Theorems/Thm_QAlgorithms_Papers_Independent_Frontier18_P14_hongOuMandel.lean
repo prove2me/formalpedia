@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_hongOuMandel
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.hongOuMandel
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:06:52.281987+00:00
 -- url     : https://prove2.me/theorems/7e4e1de3-f1ed-4c0b-bae9-20876dcf1d61

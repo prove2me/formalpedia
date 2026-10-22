@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_isotropic_coisotropic_lagrangian
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.isotropic_coisotropic_lagrangian
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:57:50.986387+00:00
 -- url     : https://prove2.me/theorems/59bd23ab-3314-4db0-a455-39df0fa9c7c5

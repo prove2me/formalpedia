@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RespSourcing_Transparent_ds_vs_rn
 -- name    : RespSourcing.Transparent.ds_vs_rn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:13.628985+00:00
 -- url     : https://prove2.me/theorems/e4b7fa66-99f2-4646-9179-b8fea8cb9f57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefSemimetric_TopDiff_theorem_3_1
 -- name    : PrefSemimetric.TopDiff.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:43.440084+00:00
 -- url     : https://prove2.me/theorems/d3c1dd3e-eaf0-4caa-b145-7ee5d862bb9f

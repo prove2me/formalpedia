@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftenDataShare_Mutual_pi22_boundary
 -- name    : SoftenDataShare.Mutual.pi22_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:10.285641+00:00
 -- url     : https://prove2.me/theorems/d8798815-9713-48ef-8e3a-71150b08558a

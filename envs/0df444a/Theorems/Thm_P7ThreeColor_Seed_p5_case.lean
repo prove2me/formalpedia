@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P7ThreeColor_Seed_p5_case
 -- name    : P7ThreeColor.Seed.p5_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:38.69791+00:00
 -- url     : https://prove2.me/theorems/7c44847c-c6cf-4593-b849-4b092b8e1a40

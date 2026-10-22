@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_FiniteMDP_stateValue_unique_solution
 -- name    : SuttonBartoRL.FiniteMDP.stateValue_unique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:49:24.762086+00:00
 -- url     : https://prove2.me/theorems/0b327ec4-f40d-4fa6-b126-838841323df2

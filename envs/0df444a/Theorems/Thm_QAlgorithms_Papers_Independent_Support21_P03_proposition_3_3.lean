@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P03_proposition_3_3
 -- name    : QAlgorithms.Papers.Independent.Support21.P03.proposition_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:31:44.946985+00:00
 -- url     : https://prove2.me/theorems/838a3313-fa2e-4458-8b63-b6f7d2427d7b

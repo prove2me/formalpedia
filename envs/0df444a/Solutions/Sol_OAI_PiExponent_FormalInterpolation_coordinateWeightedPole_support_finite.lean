@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.coordinateWeightedPole_support_finite
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:42:57.714819+00:00
 -- url     : https://prove2.me/submissions/2ce7f631-2c4f-445f-a058-81901666e98c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_WeightedIdealCurveCriterion
 import Mathlib.RingTheory.Algebraic.Defs

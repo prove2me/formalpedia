@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Pricing_eq_17
 -- name    : ProductFraming.Pricing.eq_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:26.07713+00:00
 -- url     : https://prove2.me/theorems/0dbdd902-e4ae-42b8-a9b3-5ef50f2aa235

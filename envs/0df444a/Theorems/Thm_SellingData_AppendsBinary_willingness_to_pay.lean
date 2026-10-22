@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_AppendsBinary_willingness_to_pay
 -- name    : SellingData.AppendsBinary.willingness_to_pay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:43.640924+00:00
 -- url     : https://prove2.me/theorems/d14d4e7c-5761-4160-816d-c04ac584b95c

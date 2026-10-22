@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefectCoverUp_USEquilibrium_proposition_1_us
 -- name    : DefectCoverUp.USEquilibrium.proposition_1_us
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:43.800494+00:00
 -- url     : https://prove2.me/theorems/2ad8dbbb-418a-47a8-b4fe-6e18a5376448

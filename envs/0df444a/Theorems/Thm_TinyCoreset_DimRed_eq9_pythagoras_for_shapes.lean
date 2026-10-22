@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TinyCoreset_DimRed_eq9_pythagoras_for_shapes
 -- name    : TinyCoreset.DimRed.eq9_pythagoras_for_shapes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:57:26.000585+00:00
 -- url     : https://prove2.me/theorems/257bbc7e-a4a7-4403-b3b2-4c011f697ad4

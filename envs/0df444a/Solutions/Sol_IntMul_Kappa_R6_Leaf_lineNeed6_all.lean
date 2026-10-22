@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Leaf.lineNeed6_all
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:23:56.741583+00:00
 -- url     : https://prove2.me/submissions/ae8c13b3-5790-480c-a194-3d221249ddfc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_IntMul_Kappa_R6_Defs63
 import Theorems.Thm_J6Seg_lineBody6_top

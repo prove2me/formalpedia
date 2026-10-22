@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_reshuffled_dilation
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.reshuffled_dilation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:56:26.550101+00:00
 -- url     : https://prove2.me/theorems/bbe761c5-f2d8-4d3a-ab66-77fe67eb6ae8

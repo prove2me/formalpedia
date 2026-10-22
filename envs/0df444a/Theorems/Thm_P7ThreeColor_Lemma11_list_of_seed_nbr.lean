@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P7ThreeColor_Lemma11_list_of_seed_nbr
 -- name    : P7ThreeColor.Lemma11.list_of_seed_nbr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:45:35.903988+00:00
 -- url     : https://prove2.me/theorems/42f5c964-9eff-417f-b277-f21c5d766248

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurbEmissions_ExactStandard_optimal_price
 -- name    : CurbEmissions.ExactStandard.optimal_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:18:12.456429+00:00
 -- url     : https://prove2.me/theorems/c46bcc27-c761-4056-b366-2cc84fb46724

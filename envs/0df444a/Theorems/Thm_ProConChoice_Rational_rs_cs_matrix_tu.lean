@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProConChoice_Rational_rs_cs_matrix_tu
 -- name    : ProConChoice.Rational.rs_cs_matrix_tu
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:36.563998+00:00
 -- url     : https://prove2.me/theorems/e475460d-94f4-4e60-a73a-a86d61496ea6

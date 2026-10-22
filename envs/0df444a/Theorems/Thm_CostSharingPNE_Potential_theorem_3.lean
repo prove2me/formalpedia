@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Potential_theorem_3
 -- name    : CostSharingPNE.Potential.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:08.533306+00:00
 -- url     : https://prove2.me/theorems/ba911a0f-49ee-412a-9fd3-f27eeedfa193

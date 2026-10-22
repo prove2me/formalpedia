@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_ShortPaths_lemma_19
 -- name    : LeightonRao.ShortPaths.lemma_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:26:23.106991+00:00
 -- url     : https://prove2.me/theorems/3a33e98e-489f-4598-aa84-b9921c49a6f8

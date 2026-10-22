@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_LNatural_psi_lnatconvex
 -- name    : ZipkinLostSales.LNatural.psi_lnatconvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:00:53.657714+00:00
 -- url     : https://prove2.me/theorems/6dd2bf52-7c1d-46a0-8455-3ba34cbaa7aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOPDistrib_Misalign_log_term_antitone
 -- name    : BOPDistrib.Misalign.log_term_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:21.31841+00:00
 -- url     : https://prove2.me/theorems/c7895fef-3887-4cd4-aa3c-c5f1b36a98e4

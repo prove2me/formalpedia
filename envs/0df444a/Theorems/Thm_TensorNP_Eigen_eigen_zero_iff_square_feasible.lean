@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_eigen_zero_iff_square_feasible
 -- name    : TensorNP.Eigen.eigen_zero_iff_square_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:08.495975+00:00
 -- url     : https://prove2.me/theorems/e07f4459-ea31-4233-ba13-1afd04e68c21

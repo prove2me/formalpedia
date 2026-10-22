@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatteryLease_WinWin_lemma_1
 -- name    : BatteryLease.WinWin.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:20:11.085026+00:00
 -- url     : https://prove2.me/theorems/d2cc7669-7fb2-42ee-9d43-9f9f5a1743b6

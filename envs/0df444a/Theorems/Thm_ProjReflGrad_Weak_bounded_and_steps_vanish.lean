@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Weak_bounded_and_steps_vanish
 -- name    : ProjReflGrad.Weak.bounded_and_steps_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:46.896981+00:00
 -- url     : https://prove2.me/theorems/1760a27b-e949-4433-98da-0a01dd21913a

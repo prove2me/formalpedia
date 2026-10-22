@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_thresholds
 -- name    : HolisticService.Effort.thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:43.085135+00:00
 -- url     : https://prove2.me/theorems/26b802ba-c42f-4355-9e4f-27b3d2047b82

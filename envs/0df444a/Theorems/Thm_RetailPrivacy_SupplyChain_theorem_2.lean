@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailPrivacy_SupplyChain_theorem_2
 -- name    : RetailPrivacy.SupplyChain.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:31:45.453976+00:00
 -- url     : https://prove2.me/theorems/de6deb9c-8d57-4729-a7c6-3e0967926d36

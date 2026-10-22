@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JaggiFW_PrimalDual_gap_ge_primal_error
 -- name    : JaggiFW.PrimalDual.gap_ge_primal_error
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:35.709214+00:00
 -- url     : https://prove2.me/theorems/eaf947dd-f270-4058-89dc-d0369b9fa8aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtADMM_Diverge_matrices_3_10
 -- name    : ExtADMM.Diverge.matrices_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:06:02.865982+00:00
 -- url     : https://prove2.me/theorems/7729a6e4-19a6-469a-acbf-a4c1a3cf8550

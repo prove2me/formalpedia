@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonMF_SparseLLN_remark_2_1
 -- name    : GraphonMF.SparseLLN.remark_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:23.509981+00:00
 -- url     : https://prove2.me/theorems/76bc4858-e7a7-4388-8b6a-dc73b93c293a

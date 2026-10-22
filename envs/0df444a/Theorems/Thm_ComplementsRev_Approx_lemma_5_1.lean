@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComplementsRev_Approx_lemma_5_1
 -- name    : ComplementsRev.Approx.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:47.037989+00:00
 -- url     : https://prove2.me/theorems/d98c111c-5de1-4bcc-a3dd-a1689fb272f3

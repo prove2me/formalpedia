@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_bayesian_loss
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.bayesian_loss
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:15:00.526974+00:00
 -- url     : https://prove2.me/theorems/1ac3cfdd-d680-4d78-aac1-c586cda9c0d1

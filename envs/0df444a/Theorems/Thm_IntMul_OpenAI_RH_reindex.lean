@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_RH_reindex
 -- name    : IntMul.OpenAI.RH.reindex
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T19:20:38.780979+00:00
 -- url     : https://prove2.me/theorems/0d56ea9e-0afa-4a93-86bb-52dc7894ea8b

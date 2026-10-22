@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceDetEquiv_PModel_forward_39a
 -- name    : ChanceDetEquiv.PModel.forward_39a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:57:50.92906+00:00
 -- url     : https://prove2.me/theorems/407ae97a-4fa0-49d7-8b63-c9c9a903487b

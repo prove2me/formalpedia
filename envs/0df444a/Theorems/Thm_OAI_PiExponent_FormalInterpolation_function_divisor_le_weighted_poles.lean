@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_function_divisor_le_weighted_poles
 -- name    : OAI.PiExponent.FormalInterpolation.function_divisor_le_weighted_poles
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T23:09:36.812568+00:00
 -- url     : https://prove2.me/theorems/8d18293b-1e87-4bc3-b23c-bb57f0fb588f

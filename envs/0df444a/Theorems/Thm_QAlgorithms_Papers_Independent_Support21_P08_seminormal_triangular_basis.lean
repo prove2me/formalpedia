@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_seminormal_triangular_basis
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.seminormal_triangular_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:23:18.149181+00:00
 -- url     : https://prove2.me/theorems/49a92d77-cedd-462d-b08b-de751d3c2d72

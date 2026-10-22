@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Weak_lemma_3_1
 -- name    : ProjReflGrad.Weak.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:07.83715+00:00
 -- url     : https://prove2.me/theorems/0b25f72f-ce73-4c5c-91b0-7dd95259cb62

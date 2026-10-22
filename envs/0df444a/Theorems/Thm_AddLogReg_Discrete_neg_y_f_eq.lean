@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_Discrete_neg_y_f_eq
 -- name    : AddLogReg.Discrete.neg_y_f_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:02:52.721119+00:00
 -- url     : https://prove2.me/theorems/a14d5faf-2638-4729-848d-bc92b36403f2

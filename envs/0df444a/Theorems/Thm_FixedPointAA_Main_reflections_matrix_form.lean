@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_reflections_matrix_form
 -- name    : FixedPointAA.Main.reflections_matrix_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:03.218508+00:00
 -- url     : https://prove2.me/theorems/c4abd328-ca14-4e24-a1b2-caa22fb67595

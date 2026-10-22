@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MultiTerminal_flow_function_triangle
 -- name    : FlowsNetworks.MultiTerminal.flow_function_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:11.169282+00:00
 -- url     : https://prove2.me/theorems/42e259ab-49d0-4eff-ac1c-63c12d5e3029

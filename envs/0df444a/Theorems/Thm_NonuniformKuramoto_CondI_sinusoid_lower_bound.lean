@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondI_sinusoid_lower_bound
 -- name    : NonuniformKuramoto.CondI.sinusoid_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:24:33.332239+00:00
 -- url     : https://prove2.me/theorems/9c22ebbe-8dda-4624-b796-8219fba42726

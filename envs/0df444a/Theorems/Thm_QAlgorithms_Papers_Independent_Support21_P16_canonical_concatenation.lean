@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_canonical_concatenation
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.canonical_concatenation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:43:18.732506+00:00
 -- url     : https://prove2.me/theorems/d349650d-0b2e-40af-8bcb-4eea9758b634

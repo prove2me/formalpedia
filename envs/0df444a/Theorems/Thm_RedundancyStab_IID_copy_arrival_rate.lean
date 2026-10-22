@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RedundancyStab_IID_copy_arrival_rate
 -- name    : RedundancyStab.IID.copy_arrival_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:04.396819+00:00
 -- url     : https://prove2.me/theorems/45e57f16-7ac0-461e-8ccf-c7068439abc2

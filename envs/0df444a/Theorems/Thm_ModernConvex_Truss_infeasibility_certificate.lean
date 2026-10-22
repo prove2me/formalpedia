@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_infeasibility_certificate
 -- name    : ModernConvex.Truss.infeasibility_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:32.61565+00:00
 -- url     : https://prove2.me/theorems/9eecf42a-719e-4e10-9c33-577a58216232

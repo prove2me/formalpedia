@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_lemma_9
 -- name    : TwoStageSRO.AsymOpt.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:41.074869+00:00
 -- url     : https://prove2.me/theorems/a923d22b-24f7-4fd8-be56-ed3a34a5c268

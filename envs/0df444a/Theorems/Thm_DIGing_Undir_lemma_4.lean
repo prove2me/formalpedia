@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DIGing_Undir_lemma_4
 -- name    : DIGing.Undir.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:08:15.663214+00:00
 -- url     : https://prove2.me/theorems/f07e70c2-29fe-462e-b13b-aa79d4202f31

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.constant_fibre_contact_localization_matched
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-21T04:02:06.422397+00:00
 -- url     : https://prove2.me/submissions/07384b9a-dd25-4560-abe3-27b3bb7f1d1d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Definitions.Def_OAI_PiExponent_LogarithmicInterpolationNumerics

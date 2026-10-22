@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProConChoice_Rational_lemma_2
 -- name    : ProConChoice.Rational.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:03:39.362997+00:00
 -- url     : https://prove2.me/theorems/2e15f2b9-90a2-4ffd-b2cf-a34937e0704a

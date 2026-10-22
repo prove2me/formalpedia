@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_projective_image_path_connected
 -- name    : ModernConvex.SLemma.projective_image_path_connected
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:45.46427+00:00
 -- url     : https://prove2.me/theorems/f520784e-a8b7-4477-a09c-162aaa4a17e7

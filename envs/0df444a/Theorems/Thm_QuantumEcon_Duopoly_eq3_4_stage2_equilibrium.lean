@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumEcon_Duopoly_eq3_4_stage2_equilibrium
 -- name    : QuantumEcon.Duopoly.eq3_4_stage2_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:41:44.9946+00:00
 -- url     : https://prove2.me/theorems/57e6bb2a-b4db-46ad-91bb-da4de42ac6a6

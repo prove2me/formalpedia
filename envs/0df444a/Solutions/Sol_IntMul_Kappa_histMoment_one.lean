@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.histMoment_one
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:39:19.48954+00:00
 -- url     : https://prove2.me/submissions/a4dce1f0-1854-4333-91b5-fedfa4168d19
 

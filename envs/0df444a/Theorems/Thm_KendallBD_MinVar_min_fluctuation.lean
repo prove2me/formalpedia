@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_MinVar_min_fluctuation
 -- name    : KendallBD.MinVar.min_fluctuation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:26.468989+00:00
 -- url     : https://prove2.me/theorems/3a9360fd-bb6f-443b-945f-e18a1fbe9714

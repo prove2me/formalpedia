@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Approx_lemmaD1_attraction_monotone
 -- name    : MultiStoreAssort.Approx.lemmaD1_attraction_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:36.117811+00:00
 -- url     : https://prove2.me/theorems/f712120c-f66d-4b82-907b-5d41201ccb3a

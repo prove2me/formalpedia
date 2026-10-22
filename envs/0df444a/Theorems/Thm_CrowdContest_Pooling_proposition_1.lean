@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdContest_Pooling_proposition_1
 -- name    : CrowdContest.Pooling.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:25.869718+00:00
 -- url     : https://prove2.me/theorems/62b4f80b-a4de-49af-bc76-dba58f9cfd49

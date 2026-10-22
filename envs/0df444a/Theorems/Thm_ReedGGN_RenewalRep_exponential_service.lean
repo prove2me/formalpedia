@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_RenewalRep_exponential_service
 -- name    : ReedGGN.RenewalRep.exponential_service
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:16.522404+00:00
 -- url     : https://prove2.me/theorems/c9d97788-e47e-4126-8bef-3683d8126172

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Semicontinuous_measurable_maximizer_existence
 -- name    : MDPFinance.Semicontinuous.measurable_maximizer_existence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:26:45.437378+00:00
 -- url     : https://prove2.me/theorems/7764e0a7-b38e-41c8-b5f7-fc949aa8fffa

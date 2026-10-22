@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Freezing_promotion_gain_le_standard
 -- name    : AllocationIndices.Freezing.promotion_gain_le_standard
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:26.531409+00:00
 -- url     : https://prove2.me/theorems/e2e857c9-1ebc-488e-8e59-985951a29dc4

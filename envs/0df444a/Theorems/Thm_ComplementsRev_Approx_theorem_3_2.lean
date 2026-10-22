@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComplementsRev_Approx_theorem_3_2
 -- name    : ComplementsRev.Approx.theorem_3_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:50.365083+00:00
 -- url     : https://prove2.me/theorems/ceac1b7d-a8cc-4f83-88c8-0e0e1237fbaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellDetEff_TwoParty_eqs_8_11_inconsistent
 -- name    : BellDetEff.TwoParty.eqs_8_11_inconsistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:19:19.932838+00:00
 -- url     : https://prove2.me/theorems/3dd616bd-9caa-4f26-aab7-6c321e6ba564

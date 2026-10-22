@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PharmaEPR_Welfare_proposition_4
 -- name    : PharmaEPR.Welfare.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:33:29.574048+00:00
 -- url     : https://prove2.me/theorems/df920aa9-4cc8-4cda-ab38-056ebff865ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Mono_eq_20
 -- name    : OffloadGNEP.Mono.eq_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:48.85308+00:00
 -- url     : https://prove2.me/theorems/a8094a78-de37-410d-87b8-cd14ef9db61d

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_AC_aKerNeedA6_all
 -- name    : J6Seg.AC.aKerNeedA6_all
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:30:25.363028+00:00
 -- url     : https://prove2.me/theorems/b1c058b4-ca4a-4863-bba5-c0290cfffdb9
 -- title:

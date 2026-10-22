@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Threshold_lemma_4
 -- name    : MinEarnings.Threshold.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:12.442477+00:00
 -- url     : https://prove2.me/theorems/cdfc62c8-961c-403b-93d1-ba4bfeaae893

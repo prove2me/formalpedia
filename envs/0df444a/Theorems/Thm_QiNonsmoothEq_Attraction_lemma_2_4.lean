@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Attraction_lemma_2_4
 -- name    : QiNonsmoothEq.Attraction.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:04.337901+00:00
 -- url     : https://prove2.me/theorems/c2fd390d-339c-4446-b003-1c3828615c86

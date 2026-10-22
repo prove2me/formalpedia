@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_FluidStab_explicit_emptying_time
 -- name    : MaxPressure.FluidStab.explicit_emptying_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:55:08.282386+00:00
 -- url     : https://prove2.me/theorems/5b152d6b-5689-4075-a57d-cfadb6e3cb70

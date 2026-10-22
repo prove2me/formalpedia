@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_isSchurUnitary_of_irreducible
 -- name    : BookProof.ChapterSchurIrreducible.isSchurUnitary_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:02:23.095369+00:00
 -- url     : https://prove2.me/theorems/e1d3f38c-5eb9-4eac-a22f-5768aa1da670

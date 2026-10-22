@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Stability_lemma_3_19_aggregate_graphon_stability
 -- name    : GraphonGames.Stability.lemma_3_19_aggregate_graphon_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:37.092468+00:00
 -- url     : https://prove2.me/theorems/187bb874-2ff0-45f7-abc5-e2bf44a49a1d

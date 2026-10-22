@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P19_primitive_conversions
 -- name    : QAlgorithms.Papers.Independent.Support21.P19.primitive_conversions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:58:41.46672+00:00
 -- url     : https://prove2.me/theorems/e509648f-81f5-478d-ad9e-3d0064a9753b

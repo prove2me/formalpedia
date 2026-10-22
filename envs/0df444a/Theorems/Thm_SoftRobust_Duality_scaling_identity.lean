@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftRobust_Duality_scaling_identity
 -- name    : SoftRobust.Duality.scaling_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:49:15.548551+00:00
 -- url     : https://prove2.me/theorems/ef173a41-017e-4247-96d4-63e6ebcd4959

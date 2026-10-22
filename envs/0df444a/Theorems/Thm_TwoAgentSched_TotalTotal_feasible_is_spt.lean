@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoAgentSched_TotalTotal_feasible_is_spt
 -- name    : TwoAgentSched.TotalTotal.feasible_is_spt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:40:00.180264+00:00
 -- url     : https://prove2.me/theorems/3b377dd6-f815-45ff-990c-08700b647adc

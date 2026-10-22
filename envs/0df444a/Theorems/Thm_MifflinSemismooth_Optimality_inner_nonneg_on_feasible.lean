@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Optimality_inner_nonneg_on_feasible
 -- name    : MifflinSemismooth.Optimality.inner_nonneg_on_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:48:09.145977+00:00
 -- url     : https://prove2.me/theorems/7dcc36b4-f4c1-41fe-9fb4-d09b70062e11

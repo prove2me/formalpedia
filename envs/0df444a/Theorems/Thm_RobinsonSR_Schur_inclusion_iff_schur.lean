@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_Schur_inclusion_iff_schur
 -- name    : RobinsonSR.Schur.inclusion_iff_schur
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:17.898578+00:00
 -- url     : https://prove2.me/theorems/db8527ac-7b1d-4961-8b08-646a41845bf6

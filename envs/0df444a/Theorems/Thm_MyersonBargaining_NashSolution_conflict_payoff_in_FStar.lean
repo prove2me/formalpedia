@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_NashSolution_conflict_payoff_in_FStar
 -- name    : MyersonBargaining.NashSolution.conflict_payoff_in_FStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:27.227963+00:00
 -- url     : https://prove2.me/theorems/9f358b1f-443c-40c2-b689-185388568427

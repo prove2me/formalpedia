@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelDRO_Duality_lemma_D_1
 -- name    : KernelDRO.Duality.lemma_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:26:38.084453+00:00
 -- url     : https://prove2.me/theorems/96ead18d-21aa-4b15-87d8-69b65715f4ec

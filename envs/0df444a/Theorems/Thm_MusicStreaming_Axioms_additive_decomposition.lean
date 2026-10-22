@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_Axioms_additive_decomposition
 -- name    : MusicStreaming.Axioms.additive_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:09.812067+00:00
 -- url     : https://prove2.me/theorems/f449b6f4-2148-4cd8-8ed4-036cd9b7e4d9

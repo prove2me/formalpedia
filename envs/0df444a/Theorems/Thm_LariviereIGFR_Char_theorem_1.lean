@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Char_theorem_1
 -- name    : LariviereIGFR.Char.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:38:09.430237+00:00
 -- url     : https://prove2.me/theorems/238a2f06-0a73-4e1c-801e-2911dfdc860b

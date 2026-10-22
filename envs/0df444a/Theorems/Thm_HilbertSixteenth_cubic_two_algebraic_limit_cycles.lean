@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_cubic_two_algebraic_limit_cycles
 -- name    : HilbertSixteenth.cubic_two_algebraic_limit_cycles
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T21:43:31.390983+00:00
 -- url     : https://prove2.me/theorems/34ed4442-fad0-4d14-b8af-7372eff35e9c

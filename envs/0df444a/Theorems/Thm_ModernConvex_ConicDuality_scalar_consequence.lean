@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_ConicDuality_scalar_consequence
 -- name    : ModernConvex.ConicDuality.scalar_consequence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:40.933834+00:00
 -- url     : https://prove2.me/theorems/f9878e8a-3a2a-41cc-8278-d4798bbdcd25

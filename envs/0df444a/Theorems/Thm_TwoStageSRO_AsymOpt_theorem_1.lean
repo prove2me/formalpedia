@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_theorem_1
 -- name    : TwoStageSRO.AsymOpt.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:23.923684+00:00
 -- url     : https://prove2.me/theorems/550da476-946b-4140-a9cb-251681f60730

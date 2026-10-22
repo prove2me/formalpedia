@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymMax_combined_bound
 -- name    : CongestionPoA.AsymMax.combined_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:32:52.730963+00:00
 -- url     : https://prove2.me/theorems/403fb446-bbab-4d30-82f8-7f305f23a582

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefectCoverUp_USEquilibrium_manufacturer_harm_threshold
 -- name    : DefectCoverUp.USEquilibrium.manufacturer_harm_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:38.396839+00:00
 -- url     : https://prove2.me/theorems/7956f210-f922-40a2-b122-042fa9c1a5ad

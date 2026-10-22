@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviSampling_BaseStock_upper_policy_product_bound
 -- name    : LeviSampling.BaseStock.upper_policy_product_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:59.285726+00:00
 -- url     : https://prove2.me/theorems/c1c5433a-3f68-4249-b187-6971ee57a48c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpactInvesting_Portfolio_regression_decomposition
 -- name    : ImpactInvesting.Portfolio.regression_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:41.704062+00:00
 -- url     : https://prove2.me/theorems/7ec7b5c3-3945-4ebb-b5b8-b2eeeaea3590

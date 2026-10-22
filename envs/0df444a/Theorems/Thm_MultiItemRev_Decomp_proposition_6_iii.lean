@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_Decomp_proposition_6_iii
 -- name    : MultiItemRev.Decomp.proposition_6_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:24:33.527483+00:00
 -- url     : https://prove2.me/theorems/f00b72fb-9579-45a5-bb64-4b315af5074c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_ConvexIQC_remark_rho_mono
 -- name    : IQCAlg.ConvexIQC.remark_rho_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:57.803595+00:00
 -- url     : https://prove2.me/theorems/2fa179b7-8185-4acf-b404-0509c224c121

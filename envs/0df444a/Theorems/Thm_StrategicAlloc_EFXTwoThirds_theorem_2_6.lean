@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_EFXTwoThirds_theorem_2_6
 -- name    : StrategicAlloc.EFXTwoThirds.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T15:58:40.533555+00:00
 -- url     : https://prove2.me/theorems/2c2e03ca-d6f7-4d2d-a7fb-97774c5fadd6

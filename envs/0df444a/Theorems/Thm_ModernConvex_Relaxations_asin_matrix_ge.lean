@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Relaxations_asin_matrix_ge
 -- name    : ModernConvex.Relaxations.asin_matrix_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:47.830082+00:00
 -- url     : https://prove2.me/theorems/6a39b2ee-130f-44f1-887e-1d1d9285de12

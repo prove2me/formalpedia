@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_ShortMarket_eq15_eq16_shorting_cost
 -- name    : CostlyShort.ShortMarket.eq15_eq16_shorting_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:34.837792+00:00
 -- url     : https://prove2.me/theorems/9888a6e1-ef42-4363-b04e-b013254e8a80

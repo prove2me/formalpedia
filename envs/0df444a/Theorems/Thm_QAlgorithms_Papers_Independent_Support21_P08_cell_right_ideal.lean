@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_cell_right_ideal
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.cell_right_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:25:53.422501+00:00
 -- url     : https://prove2.me/theorems/81d7e942-cfd9-442d-9e0c-105e84df0719

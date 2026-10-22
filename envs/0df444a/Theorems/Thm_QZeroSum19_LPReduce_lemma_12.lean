@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_LPReduce_lemma_12
 -- name    : QZeroSum19.LPReduce.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:02.232356+00:00
 -- url     : https://prove2.me/theorems/8e045334-8eb7-49ba-b13f-95229ec6bcef

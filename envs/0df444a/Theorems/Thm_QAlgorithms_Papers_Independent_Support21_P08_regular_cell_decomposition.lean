@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_regular_cell_decomposition
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.regular_cell_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:26:17.203089+00:00
 -- url     : https://prove2.me/theorems/d629a390-614e-4e5f-a810-4667b3808b7b

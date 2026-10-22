@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_RenewalRep_equilibrium_identity
 -- name    : ReedGGN.RenewalRep.equilibrium_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:21.981242+00:00
 -- url     : https://prove2.me/theorems/cc39dfa0-1b7d-468d-90e2-1cb1afb88ad6

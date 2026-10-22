@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_mnat_convex_integrally_convex
 -- name    : DiscreteConvex.MConvexFunctionsC.mnat_convex_integrally_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:45:05.97591+00:00
 -- url     : https://prove2.me/theorems/bd32421d-81da-4ea4-9199-37b5f8eefbda

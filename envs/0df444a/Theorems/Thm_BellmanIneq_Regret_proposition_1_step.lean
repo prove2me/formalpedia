@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellmanIneq_Regret_proposition_1_step
 -- name    : BellmanIneq.Regret.proposition_1_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:31:36.702632+00:00
 -- url     : https://prove2.me/theorems/ac6cbad2-cc0b-40d6-9dea-470d6e2d0c2e

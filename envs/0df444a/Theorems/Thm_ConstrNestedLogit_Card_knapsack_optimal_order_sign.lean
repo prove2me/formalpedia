@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Card_knapsack_optimal_order_sign
 -- name    : ConstrNestedLogit.Card.knapsack_optimal_order_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:43.899787+00:00
 -- url     : https://prove2.me/theorems/5822b56e-6990-41b3-8196-88e3735b9cee

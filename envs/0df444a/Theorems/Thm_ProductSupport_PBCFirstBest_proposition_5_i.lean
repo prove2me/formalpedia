@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductSupport_PBCFirstBest_proposition_5_i
 -- name    : ProductSupport.PBCFirstBest.proposition_5_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:59.874212+00:00
 -- url     : https://prove2.me/theorems/130407c9-f99f-49a9-b2f9-a7113b309546

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Taboo_taboo_visits_TcTc
 -- name    : MatrixAnalytic.Taboo.taboo_visits_TcTc
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:43:29.719921+00:00
 -- url     : https://prove2.me/theorems/d3acb728-641f-4b60-a8dd-e1726ced1a84

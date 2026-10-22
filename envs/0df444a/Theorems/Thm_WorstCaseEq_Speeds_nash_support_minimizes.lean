@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Speeds_nash_support_minimizes
 -- name    : WorstCaseEq.Speeds.nash_support_minimizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:11:38.517866+00:00
 -- url     : https://prove2.me/theorems/20f70f04-d7c9-4583-aab0-6d5168101a37

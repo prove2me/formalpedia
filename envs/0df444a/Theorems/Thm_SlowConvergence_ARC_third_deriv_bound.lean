@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_ARC_third_deriv_bound
 -- name    : SlowConvergence.ARC.third_deriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:43.313175+00:00
 -- url     : https://prove2.me/theorems/f220ac38-6cc9-45a4-be02-0e87116a61c2

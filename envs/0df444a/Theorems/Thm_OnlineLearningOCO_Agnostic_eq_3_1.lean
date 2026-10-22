@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_Agnostic_eq_3_1
 -- name    : OnlineLearningOCO.Agnostic.eq_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:10.863242+00:00
 -- url     : https://prove2.me/theorems/b3f8314c-b0a1-4a9a-ac12-4a277b2d8c60

@@ -7,9 +7,9 @@
 -- title:
 --   Ramanujan's formula for zeta(2n+1)
 -- statement:
---   Let $\alpha,\beta>0$ with $\alpha\beta=\pi^2$ and $n$ a non-zero integer. Then $$\alpha^{-n}\Big\{\frac12\zeta(2n+1)+\sum_{k\ge1}\frac{k^{-2n-1}}{e^{2\alpha k}-1}\Big\}=(-\beta)^{-n}\Big\{\frac12\zeta(2n+1)+\sum_{k\ge1}\frac{k^{-2n-1}}{e^{2\beta k}-1}\Big\}-2^{2n}\sum_{k=0}^{n+1}(-1)^k\frac{B_{2k}}{(2k)!}\frac{B_{2n+2-2k}}{(2n+2-2k)!}\alpha^{n+1-k}\beta^k$$ (the finite sum is empty for $n\le-2$).
+--   Let $\alpha,\beta>0$ with $\alpha\beta=\pi^2$ and $n$ a non-zero integer. Then $$\alpha^{-n}\Big\{\frac12\zeta(2n+1)+\sum_{k\ge1}\frac{k^{-2n-1}}{e^{2\alpha k}-1}\Big\}=(-\beta)^{-n}\Big\{\frac12\zeta(2n+1)+\sum_{k\ge1}\frac{k^{-2n-1}}{e^{2\beta k}-1}\Big\}-2^{2n}\sum_{k=0}^{n+1}(-1)^k\frac{B_{2k}}{(2k)!}\frac{B_{2n+2-2k}}{(2n+2-2k)!}\alpha^{n+1-k}\beta^k$$ (the finite sum is empty for $n\le-2$). For $n\le-2$, putting $N=-n$ gives Entry 13, as noted on p. 276; the finite Bernoulli sum is then empty.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part II (Springer, 1989), Chapter 14, Entry 21(i), p. 275.
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part II (Springer, 1989), Chapter 14, Entry 21(i), pp. 275–276, displayed formula on p. 276.
 
 import Mathlib
 

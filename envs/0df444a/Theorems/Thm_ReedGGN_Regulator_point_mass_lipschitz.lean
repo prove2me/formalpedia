@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_point_mass_lipschitz
 -- name    : ReedGGN.Regulator.point_mass_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:59.659036+00:00
 -- url     : https://prove2.me/theorems/e971d688-2da9-4c48-a88c-53bb375e1758

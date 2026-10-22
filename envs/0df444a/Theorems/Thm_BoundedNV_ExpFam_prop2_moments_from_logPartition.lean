@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_ExpFam_prop2_moments_from_logPartition
 -- name    : BoundedNV.ExpFam.prop2_moments_from_logPartition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:24:39.491854+00:00
 -- url     : https://prove2.me/theorems/1c6473c9-5327-42bb-9073-1245403d3668

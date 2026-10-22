@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Potential_gwmc_eq_basis_sum
 -- name    : CostSharingPNE.Potential.gwmc_eq_basis_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:02.570069+00:00
 -- url     : https://prove2.me/theorems/9acc1c2e-8291-40f9-988a-83ac4b561abd

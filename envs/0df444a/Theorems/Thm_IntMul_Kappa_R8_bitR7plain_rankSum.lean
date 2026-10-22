@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_bitR7plain_rankSum
 -- name    : IntMul.Kappa.R8.bitR7plain_rankSum
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:29:19.156221+00:00
 -- url     : https://prove2.me/theorems/f92ccd7d-0708-4758-9f17-43c2c2dd0a60
 -- title:

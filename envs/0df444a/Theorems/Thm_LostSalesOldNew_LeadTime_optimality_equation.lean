@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LostSalesOldNew_LeadTime_optimality_equation
 -- name    : LostSalesOldNew.LeadTime.optimality_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:43.089912+00:00
 -- url     : https://prove2.me/theorems/844b5822-0361-4d15-9335-d97c4eb912ba

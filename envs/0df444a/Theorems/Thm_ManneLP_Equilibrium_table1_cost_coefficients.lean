@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_table1_cost_coefficients
 -- name    : ManneLP.Equilibrium.table1_cost_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:12:45.853561+00:00
 -- url     : https://prove2.me/theorems/f43f7085-63ff-4f61-b0b4-cf3a918b202b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Stabilization_sigma_eq_ZSet_N
 -- name    : QuadMatIneq.Stabilization.sigma_eq_ZSet_N
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:15.678301+00:00
 -- url     : https://prove2.me/theorems/d234ced5-041a-4cdb-bb19-489226ce10f4

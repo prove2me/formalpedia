@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_LargeGap_claim_theta_ge
 -- name    : AffinePolicies.LargeGap.claim_theta_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:09:37.027718+00:00
 -- url     : https://prove2.me/theorems/b746b228-fe60-4bad-967a-526ee471fc94

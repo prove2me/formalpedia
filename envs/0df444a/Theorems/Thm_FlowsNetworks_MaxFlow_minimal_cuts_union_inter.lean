@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_minimal_cuts_union_inter
 -- name    : FlowsNetworks.MaxFlow.minimal_cuts_union_inter
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:14.301904+00:00
 -- url     : https://prove2.me/theorems/2b1e4580-19e6-4000-8979-bd6cc2e992fc

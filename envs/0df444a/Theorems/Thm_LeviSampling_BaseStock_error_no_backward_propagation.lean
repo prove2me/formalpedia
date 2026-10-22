@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviSampling_BaseStock_error_no_backward_propagation
 -- name    : LeviSampling.BaseStock.error_no_backward_propagation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:50:09.292553+00:00
 -- url     : https://prove2.me/theorems/e82c1e4b-51ff-46a3-9431-921e8bc23007

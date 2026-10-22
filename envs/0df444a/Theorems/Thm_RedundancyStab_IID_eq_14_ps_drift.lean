@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RedundancyStab_IID_eq_14_ps_drift
 -- name    : RedundancyStab.IID.eq_14_ps_drift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:04.69721+00:00
 -- url     : https://prove2.me/theorems/da347499-53d1-44f2-8f8d-69f2724cb508

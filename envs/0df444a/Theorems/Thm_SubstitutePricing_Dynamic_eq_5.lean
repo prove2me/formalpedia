@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Dynamic_eq_5
 -- name    : SubstitutePricing.Dynamic.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:20:03.124648+00:00
 -- url     : https://prove2.me/theorems/955d359d-e7cd-4483-8266-fad863627423

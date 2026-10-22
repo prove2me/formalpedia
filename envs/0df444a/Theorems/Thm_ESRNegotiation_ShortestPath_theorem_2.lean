@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ESRNegotiation_ShortestPath_theorem_2
 -- name    : ESRNegotiation.ShortestPath.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:19:59.713001+00:00
 -- url     : https://prove2.me/theorems/9704d424-d85f-492f-841e-afac265bae77

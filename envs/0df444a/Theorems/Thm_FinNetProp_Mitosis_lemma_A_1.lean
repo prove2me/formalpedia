@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinNetProp_Mitosis_lemma_A_1
 -- name    : FinNetProp.Mitosis.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:31.65401+00:00
 -- url     : https://prove2.me/theorems/ebcb0a3a-3496-46a6-a5ca-197dbc914aa4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_StochComposite_theorem_4
 -- name    : NonconvexAG.StochComposite.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:24:55.785721+00:00
 -- url     : https://prove2.me/theorems/183c6b4d-2d38-4b6c-ae48-66472dc123a6

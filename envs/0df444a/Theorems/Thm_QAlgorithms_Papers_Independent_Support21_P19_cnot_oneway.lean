@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P19_cnot_oneway
 -- name    : QAlgorithms.Papers.Independent.Support21.P19.cnot_oneway
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:59:44.111975+00:00
 -- url     : https://prove2.me/theorems/3722a634-174d-4192-9467-b31f1fe36acf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_Chain_theorem_2
 -- name    : NecoaraNG.Chain.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:46:52.452995+00:00
 -- url     : https://prove2.me/theorems/ce946e1f-457f-40e6-a6a6-f2ada6664e4b

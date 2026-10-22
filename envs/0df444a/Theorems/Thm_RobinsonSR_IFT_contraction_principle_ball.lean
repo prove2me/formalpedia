@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_IFT_contraction_principle_ball
 -- name    : RobinsonSR.IFT.contraction_principle_ball
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:44:19.098373+00:00
 -- url     : https://prove2.me/theorems/4b88af4d-424e-48e2-86f3-066104ea0078

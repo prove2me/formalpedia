@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Card_greedy_solves_9
 -- name    : ConstrNestedLogit.Card.greedy_solves_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:09.178244+00:00
 -- url     : https://prove2.me/theorems/356adf93-ea0a-460a-92cd-feb05b5c4237

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstOverbooking_Structure_samplePath_submodular
 -- name    : SubstOverbooking.Structure.samplePath_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:09:44.205041+00:00
 -- url     : https://prove2.me/theorems/2110a85c-fc03-4bf2-80b6-ad25eb7f9224

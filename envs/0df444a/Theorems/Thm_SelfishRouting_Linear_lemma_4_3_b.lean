@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Linear_lemma_4_3_b
 -- name    : SelfishRouting.Linear.lemma_4_3_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:49.684437+00:00
 -- url     : https://prove2.me/theorems/80e27412-7fba-4c48-9483-4271c4153299

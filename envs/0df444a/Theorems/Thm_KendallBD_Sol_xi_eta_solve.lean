@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Sol_xi_eta_solve
 -- name    : KendallBD.Sol.xi_eta_solve
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:25:42.380386+00:00
 -- url     : https://prove2.me/theorems/7c8ba4db-e583-44d3-9d8f-838ab58ff04b

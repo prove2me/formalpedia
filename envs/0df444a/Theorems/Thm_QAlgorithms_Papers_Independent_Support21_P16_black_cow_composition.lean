@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_black_cow_composition
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.black_cow_composition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:42:29.73161+00:00
 -- url     : https://prove2.me/theorems/e8cad2d8-09c9-4b7c-a39f-fc472c4bbbbe

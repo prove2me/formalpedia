@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_PseudoReg_lemma_7a
 -- name    : FriezeKannan.PseudoReg.lemma_7a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:15.438623+00:00
 -- url     : https://prove2.me/theorems/d11230d2-afe6-44d6-a4c3-26efeae3b6ae

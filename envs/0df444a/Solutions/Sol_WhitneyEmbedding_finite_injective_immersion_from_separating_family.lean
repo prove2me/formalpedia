@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.finite_injective_immersion_from_separating_family
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Lucas
 -- created : 2026-09-11T15:26:05.23476+00:00
 -- url     : https://prove2.me/submissions/e744bde7-f026-45b3-949a-72a4c56f3b39
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WhitneyEmbedding_smooth_proper_function_of_noncompact

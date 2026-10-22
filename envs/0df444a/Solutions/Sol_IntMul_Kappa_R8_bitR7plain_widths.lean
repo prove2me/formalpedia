@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.bitR7plain_widths
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:18:30.874061+00:00
 -- url     : https://prove2.me/submissions/3ba2d05e-533e-4694-8ea1-df20b7313c86
 

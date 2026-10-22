@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_perturbation_recursion
 -- name    : IQCAlg.HeavyBall.perturbation_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:20:56.349656+00:00
 -- url     : https://prove2.me/theorems/84af80af-f95e-499e-afca-2d96b55d1294

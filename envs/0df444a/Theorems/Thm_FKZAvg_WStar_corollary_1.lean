@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FKZAvg_WStar_corollary_1
 -- name    : FKZAvg.WStar.corollary_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:21.901436+00:00
 -- url     : https://prove2.me/theorems/c2502adb-12fc-4ae1-8145-2c9ddef0838b

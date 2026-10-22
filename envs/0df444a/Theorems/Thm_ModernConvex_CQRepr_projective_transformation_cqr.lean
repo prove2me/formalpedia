@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_CQRepr_projective_transformation_cqr
 -- name    : ModernConvex.CQRepr.projective_transformation_cqr
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:30.088312+00:00
 -- url     : https://prove2.me/theorems/e746f2f9-0cf7-4b85-b2cb-8bc3a7dee504

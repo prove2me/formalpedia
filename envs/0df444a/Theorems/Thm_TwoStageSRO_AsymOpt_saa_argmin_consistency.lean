@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_saa_argmin_consistency
 -- name    : TwoStageSRO.AsymOpt.saa_argmin_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:43.194629+00:00
 -- url     : https://prove2.me/theorems/7a02ee85-94f2-4879-bf4b-801b9c5cffb0

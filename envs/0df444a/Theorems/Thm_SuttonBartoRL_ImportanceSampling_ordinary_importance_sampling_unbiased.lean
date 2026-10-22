@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_ImportanceSampling_ordinary_importance_sampling_unbiased
 -- name    : SuttonBartoRL.ImportanceSampling.ordinary_importance_sampling_unbiased
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:51:01.052506+00:00
 -- url     : https://prove2.me/theorems/371c3309-550d-4858-987d-6ba5c1da129d

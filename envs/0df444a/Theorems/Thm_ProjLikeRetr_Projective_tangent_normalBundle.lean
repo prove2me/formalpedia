@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjLikeRetr_Projective_tangent_normalBundle
 -- name    : ProjLikeRetr.Projective.tangent_normalBundle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:38:18.694418+00:00
 -- url     : https://prove2.me/theorems/1c83a248-3e56-4ea7-8477-f7d7562dfc5a

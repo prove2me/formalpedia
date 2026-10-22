@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_WorstCase_lemma_5_1
 -- name    : YeIPA.WorstCase.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:32.307042+00:00
 -- url     : https://prove2.me/theorems/44283cd3-bcd0-4d4a-9e12-e1e1ed9e3a94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRegimes_MarketEq_mean_variance_demand
 -- name    : InfoRegimes.MarketEq.mean_variance_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:44.658011+00:00
 -- url     : https://prove2.me/theorems/912e7cdd-a582-4f03-82b2-f31d7cfa18ad

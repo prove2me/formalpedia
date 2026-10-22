@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Binary_greedy_monotone
 -- name    : SecretaryAdvice.Binary.greedy_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:42:38.146684+00:00
 -- url     : https://prove2.me/theorems/7f124e22-3aa1-4eeb-9e8a-5eb6e31af8ab

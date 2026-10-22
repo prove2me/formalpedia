@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_ImportanceSampling_infinite_variance_example
 -- name    : SuttonBartoRL.ImportanceSampling.infinite_variance_example
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:52:59.56905+00:00
 -- url     : https://prove2.me/theorems/43749738-b98e-41bc-9294-83b6a7ff1b2f

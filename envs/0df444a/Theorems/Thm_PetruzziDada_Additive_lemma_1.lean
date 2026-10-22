@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PetruzziDada_Additive_lemma_1
 -- name    : PetruzziDada.Additive.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:08.297813+00:00
 -- url     : https://prove2.me/theorems/8786ff44-6abd-49d7-b109-9a971dabc2f4

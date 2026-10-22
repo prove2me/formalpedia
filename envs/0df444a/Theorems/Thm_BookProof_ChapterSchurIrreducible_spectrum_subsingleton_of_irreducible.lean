@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_spectrum_subsingleton_of_irreducible
 -- name    : BookProof.ChapterSchurIrreducible.spectrum_subsingleton_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:01:31.444131+00:00
 -- url     : https://prove2.me/theorems/e27efc39-6663-457a-ab33-2f2da6d0f26e

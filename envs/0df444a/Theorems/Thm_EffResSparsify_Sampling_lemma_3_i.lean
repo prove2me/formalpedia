@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EffResSparsify_Sampling_lemma_3_i
 -- name    : EffResSparsify.Sampling.lemma_3_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:34:27.777202+00:00
 -- url     : https://prove2.me/theorems/63ee1095-ae08-4b93-88af-c0d6bc8b40c4

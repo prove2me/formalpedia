@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_bilinear_real_divisibility
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.bilinear_real_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:25:10.968264+00:00
 -- url     : https://prove2.me/theorems/a9d05378-6d94-4ddb-ae28-551aeabfc654

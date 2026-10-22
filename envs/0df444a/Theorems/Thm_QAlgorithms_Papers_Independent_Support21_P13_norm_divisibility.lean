@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_norm_divisibility
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.norm_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:24:28.201401+00:00
 -- url     : https://prove2.me/theorems/b7cb65de-bb76-4a99-876d-c964a4bd2490

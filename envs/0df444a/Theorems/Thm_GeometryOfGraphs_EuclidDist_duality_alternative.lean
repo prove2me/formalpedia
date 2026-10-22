@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_EuclidDist_duality_alternative
 -- name    : GeometryOfGraphs.EuclidDist.duality_alternative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:39:10.69048+00:00
 -- url     : https://prove2.me/theorems/b96adfeb-5630-4a90-9272-76c2b5ec9349

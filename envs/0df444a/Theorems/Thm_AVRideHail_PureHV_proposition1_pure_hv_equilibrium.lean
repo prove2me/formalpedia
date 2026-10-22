@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_PureHV_proposition1_pure_hv_equilibrium
 -- name    : AVRideHail.PureHV.proposition1_pure_hv_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:56.532397+00:00
 -- url     : https://prove2.me/theorems/8fecbd32-b222-4294-98a3-0e458e466b40

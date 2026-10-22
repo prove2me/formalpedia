@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_middlePointsSet_isSolution
 -- name    : TheoryOfGames.ThreePerson.middlePointsSet_isSolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:37:24.574273+00:00
 -- url     : https://prove2.me/theorems/78da37fd-b264-406c-9f9a-2f492d32d9af

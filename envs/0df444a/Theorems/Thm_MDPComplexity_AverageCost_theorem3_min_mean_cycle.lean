@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_AverageCost_theorem3_min_mean_cycle
 -- name    : MDPComplexity.AverageCost.theorem3_min_mean_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:58:25.295212+00:00
 -- url     : https://prove2.me/theorems/4245cfe0-f6e9-4160-94dd-55e58ec2c1e6

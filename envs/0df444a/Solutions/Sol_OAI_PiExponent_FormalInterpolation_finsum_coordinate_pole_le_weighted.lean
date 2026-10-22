@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.finsum_coordinate_pole_le_weighted
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:33:23.195066+00:00
 -- url     : https://prove2.me/submissions/529328b1-5a26-48eb-a41a-98590800af4b
 

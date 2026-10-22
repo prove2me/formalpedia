@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_ForcedSampling_expected_average_tendsto_max
 -- name    : RobbinsSeqDesign.ForcedSampling.expected_average_tendsto_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:19.776956+00:00
 -- url     : https://prove2.me/theorems/a3ebe024-c016-43cc-8189-19d2192ca869

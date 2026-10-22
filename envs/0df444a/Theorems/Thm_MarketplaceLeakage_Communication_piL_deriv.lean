@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Communication_piL_deriv
 -- name    : MarketplaceLeakage.Communication.piL_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:20.213353+00:00
 -- url     : https://prove2.me/theorems/bfafd593-fd94-482a-a9ca-52f66a2d437a

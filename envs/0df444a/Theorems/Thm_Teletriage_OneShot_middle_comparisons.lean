@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Teletriage_OneShot_middle_comparisons
 -- name    : Teletriage.OneShot.middle_comparisons
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:06.788871+00:00
 -- url     : https://prove2.me/theorems/e01a5e43-0d81-4e37-9a6e-e2a4e7bba273

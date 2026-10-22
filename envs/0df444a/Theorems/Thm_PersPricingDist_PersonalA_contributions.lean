@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_PersonalA_contributions
 -- name    : PersPricingDist.PersonalA.contributions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:02.706272+00:00
 -- url     : https://prove2.me/theorems/c1816f58-81d0-4ea4-bc41-6a20883e25e5

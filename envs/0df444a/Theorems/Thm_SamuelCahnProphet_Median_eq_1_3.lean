@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_Median_eq_1_3
 -- name    : SamuelCahnProphet.Median.eq_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:28.326115+00:00
 -- url     : https://prove2.me/theorems/9c16449b-6d68-4211-97c2-c26e09a31544

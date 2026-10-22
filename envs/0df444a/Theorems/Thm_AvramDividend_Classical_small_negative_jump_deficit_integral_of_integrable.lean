@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_small_negative_jump_deficit_integral_of_integrable
 -- name    : AvramDividend.Classical.small_negative_jump_deficit_integral_of_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T12:33:24.65062+00:00
 -- url     : https://prove2.me/theorems/ec0957a0-e382-4f57-845b-ec5368f5f855

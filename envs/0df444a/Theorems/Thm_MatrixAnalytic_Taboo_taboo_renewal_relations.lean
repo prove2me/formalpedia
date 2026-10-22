@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Taboo_taboo_renewal_relations
 -- name    : MatrixAnalytic.Taboo.taboo_renewal_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:43:42.252149+00:00
 -- url     : https://prove2.me/theorems/be706e3b-742d-47ae-9e63-c6db948d94ea

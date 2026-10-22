@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Petersen_slater
 -- name    : QuadMatIneq.Petersen.slater
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:44.189659+00:00
 -- url     : https://prove2.me/theorems/7ed98f07-dd84-48ce-9e6a-2a81c67413f3

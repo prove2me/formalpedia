@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_AVC_eq_5_6
 -- name    : AccelVI.AVC.eq_5_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:21.044338+00:00
 -- url     : https://prove2.me/theorems/b10ed894-ada2-45ae-9197-eed183c40849

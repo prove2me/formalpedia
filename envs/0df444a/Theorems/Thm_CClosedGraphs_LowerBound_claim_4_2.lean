@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_LowerBound_claim_4_2
 -- name    : CClosedGraphs.LowerBound.claim_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:16.557506+00:00
 -- url     : https://prove2.me/theorems/a8036752-3142-4c7d-8a63-9f662a06e74e

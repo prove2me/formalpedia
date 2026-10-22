@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_WorstCase_xi_pos
 -- name    : YeIPA.WorstCase.xi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:27.548987+00:00
 -- url     : https://prove2.me/theorems/225785cf-a6eb-4b81-ac1d-5bbd70e16b02

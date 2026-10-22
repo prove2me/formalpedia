@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExploreFirst_Absolute_lemma_6
 -- name    : ExploreFirst.Absolute.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:12:22.478977+00:00
 -- url     : https://prove2.me/theorems/0f9091d4-0695-4b1e-9a1d-8876f26aff0d

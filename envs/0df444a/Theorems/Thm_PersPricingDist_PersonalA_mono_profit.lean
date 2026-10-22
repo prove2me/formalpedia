@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_PersonalA_mono_profit
 -- name    : PersPricingDist.PersonalA.mono_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:59.702217+00:00
 -- url     : https://prove2.me/theorems/9ca08511-f22d-414f-a653-f431784e65a6

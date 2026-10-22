@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_linear_canonical_iff
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.linear_canonical_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:54:35.163071+00:00
 -- url     : https://prove2.me/theorems/890fa1ca-6a9b-441a-a73b-29800737cec6

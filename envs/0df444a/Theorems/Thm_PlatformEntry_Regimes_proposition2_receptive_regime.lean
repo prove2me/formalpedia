@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Regimes_proposition2_receptive_regime
 -- name    : PlatformEntry.Regimes.proposition2_receptive_regime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:22:52.27836+00:00
 -- url     : https://prove2.me/theorems/e30b5f0b-ba43-40db-ac2e-7384cd7026ad

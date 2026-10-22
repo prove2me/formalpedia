@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlynnSTS_Limit_hmap_Xn_eq
 -- name    : GlynnSTS.Limit.hmap_Xn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:16:55.15393+00:00
 -- url     : https://prove2.me/theorems/d41d7207-ac42-4853-b9b6-ab0fd77b795f

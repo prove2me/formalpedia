@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoBargaining_Uniform_proposition2_seller_payoff_jumps
 -- name    : InfoBargaining.Uniform.proposition2_seller_payoff_jumps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:00.396394+00:00
 -- url     : https://prove2.me/theorems/ec2ba85f-7282-44a4-bd51-c2f83b23acf1

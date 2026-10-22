@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteStrichartzQG_hermiteCoreOp_deficiencyTrivialAt
 -- name    : BookProof.HermiteStrichartzQG.hermiteCoreOp_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:17:58.739472+00:00
 -- url     : https://prove2.me/theorems/f6b09b68-addb-469f-8490-9df296cdce04

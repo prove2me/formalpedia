@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeldWolfeCrowder_CoreProblem_tendsto_max
 -- name    : HeldWolfeCrowder.CoreProblem.tendsto_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:49:21.395102+00:00
 -- url     : https://prove2.me/theorems/53f584af-58e0-4768-b150-d97f364cd970

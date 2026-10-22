@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengFedergruenSS_Algorithm_eq6_weighted_average
 -- name    : ZhengFedergruenSS.Algorithm.eq6_weighted_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:56:30.950534+00:00
 -- url     : https://prove2.me/theorems/c39e51e1-d11d-4874-a2b0-43e5cdda3864

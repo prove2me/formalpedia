@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Variability_theorem_11
 -- name    : ZipkinLostSales.Variability.theorem_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:25:43.380981+00:00
 -- url     : https://prove2.me/theorems/ccadcd30-fdff-4753-92f9-9a8cc51f7310

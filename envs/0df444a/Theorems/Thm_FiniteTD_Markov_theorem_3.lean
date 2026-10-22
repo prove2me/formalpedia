@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteTD_Markov_theorem_3
 -- name    : FiniteTD.Markov.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:08.236484+00:00
 -- url     : https://prove2.me/theorems/5b54882f-839b-445a-8b7f-ce7d6acdd39d

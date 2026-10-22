@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_dual_stinespring
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.dual_stinespring
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:58:23.766586+00:00
 -- url     : https://prove2.me/theorems/ac41adc5-edeb-492b-82c7-bb31ade09e7d

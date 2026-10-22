@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DriftVarCtrl_FixedLB_regions_exhaustive
 -- name    : DriftVarCtrl.FixedLB.regions_exhaustive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T04:23:14.69988+00:00
 -- url     : https://prove2.me/theorems/30fe3060-6661-4c1f-b7a6-bc3f3cdf37cc

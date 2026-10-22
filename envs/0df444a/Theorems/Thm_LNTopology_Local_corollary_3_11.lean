@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_Local_corollary_3_11
 -- name    : LNTopology.Local.corollary_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:27:40.969894+00:00
 -- url     : https://prove2.me/theorems/49b5bae2-f691-409d-8f17-ad16b7029df3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_Regulator_uniqueness
 -- name    : ReedGGN.Regulator.uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:41.489751+00:00
 -- url     : https://prove2.me/theorems/81fb80e3-2e3e-4c5b-9534-1f67a1979e46

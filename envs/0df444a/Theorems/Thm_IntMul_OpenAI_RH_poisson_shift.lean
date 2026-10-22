@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_OpenAI_RH_poisson_shift
 -- name    : IntMul.OpenAI.RH.poisson_shift
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T19:21:07.095977+00:00
 -- url     : https://prove2.me/theorems/ec74b567-b34f-4e66-bf96-7bdc1fc361e0

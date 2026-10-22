@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MDPFinance.Semicontinuous.san_compact_action
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Gabewhigham
 -- created : 2026-10-11T16:36:55.79103+00:00
 -- url     : https://prove2.me/submissions/cb48dcc0-7c51-45db-8c38-be2beb53d5ce
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MDPFinance_Semicontinuous_Model

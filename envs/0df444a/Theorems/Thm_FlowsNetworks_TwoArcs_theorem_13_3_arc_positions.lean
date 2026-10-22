@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_TwoArcs_theorem_13_3_arc_positions
 -- name    : FlowsNetworks.TwoArcs.theorem_13_3_arc_positions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:55.846237+00:00
 -- url     : https://prove2.me/theorems/1a8e984d-90f8-460c-aeb9-dd7d347b33f3

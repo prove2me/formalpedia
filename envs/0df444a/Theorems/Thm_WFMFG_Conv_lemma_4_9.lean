@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WFMFG_Conv_lemma_4_9
 -- name    : WFMFG.Conv.lemma_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:35.701681+00:00
 -- url     : https://prove2.me/theorems/aa5234af-b34d-4201-9589-b4870a7c0c2b

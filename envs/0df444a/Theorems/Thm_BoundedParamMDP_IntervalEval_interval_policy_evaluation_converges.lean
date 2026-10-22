@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedParamMDP_IntervalEval_interval_policy_evaluation_converges
 -- name    : BoundedParamMDP.IntervalEval.interval_policy_evaluation_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:09:27.653863+00:00
 -- url     : https://prove2.me/theorems/66e5a1dd-b150-49a5-b845-6da67bbc1188

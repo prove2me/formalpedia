@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P11_generator_fixing_involutions
 -- name    : QAlgorithms.Papers.Independent.Support21.P11.generator_fixing_involutions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:02:06.97903+00:00
 -- url     : https://prove2.me/theorems/f1d0d7b3-e9e1-4c52-9303-b9b06c0281be

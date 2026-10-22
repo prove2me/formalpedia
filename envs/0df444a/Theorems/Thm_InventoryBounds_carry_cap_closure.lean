@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_carry_cap_closure
 -- name    : InventoryBounds.carry_cap_closure
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:31:43.098978+00:00
 -- url     : https://prove2.me/theorems/0fabf3aa-7042-4b5b-ba41-93018fca64d5

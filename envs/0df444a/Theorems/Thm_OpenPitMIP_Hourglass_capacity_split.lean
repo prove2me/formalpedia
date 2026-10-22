@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_Hourglass_capacity_split
 -- name    : OpenPitMIP.Hourglass.capacity_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:56:39.085457+00:00
 -- url     : https://prove2.me/theorems/2210dc60-a4b4-494f-b5eb-926f30bbac5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAGFiniteSum_Rate_centered_init_norm_bound
 -- name    : SAGFiniteSum.Rate.centered_init_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:17:48.890029+00:00
 -- url     : https://prove2.me/theorems/65d6cc59-3f5b-4f23-8030-0bcc175186cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceDetEquiv_EModel_eq_19a
 -- name    : ChanceDetEquiv.EModel.eq_19a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:57:01.774994+00:00
 -- url     : https://prove2.me/theorems/175ebb77-e962-4881-8806-a207796505fb

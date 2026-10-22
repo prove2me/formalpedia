@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TargetedClosure_Stability_lemma_2_1
 -- name    : TargetedClosure.Stability.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:05.869643+00:00
 -- url     : https://prove2.me/theorems/23664385-4873-47fc-8a74-8cc0c09ac7d9

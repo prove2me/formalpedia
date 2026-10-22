@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_PriceRise_eq6_demand_out
 -- name    : GDPRPrivacy.PriceRise.eq6_demand_out
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:17.507715+00:00
 -- url     : https://prove2.me/theorems/3d7bc3fb-d593-41c1-980d-1cd7b9594eab

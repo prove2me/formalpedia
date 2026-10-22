@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Composition_lemma1
 -- name    : MifflinSemismooth.Composition.lemma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:47:28.412706+00:00
 -- url     : https://prove2.me/theorems/f9b9f9c5-586f-43f6-8a29-dbfcf4206d2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_instObj_strongly_convex
 -- name    : Pegasos.Analysis.instObj_strongly_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:02.651019+00:00
 -- url     : https://prove2.me/theorems/64c590b9-accf-4767-b078-1bdb2cad67f5

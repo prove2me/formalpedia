@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_column_sum_linear
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_column_sum_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:55:43.558968+00:00
 -- url     : https://prove2.me/theorems/e4db1ee5-6015-48fa-97c1-17282919c1af

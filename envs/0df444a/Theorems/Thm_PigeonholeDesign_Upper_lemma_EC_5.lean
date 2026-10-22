@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Upper_lemma_EC_5
 -- name    : PigeonholeDesign.Upper.lemma_EC_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:03.055825+00:00
 -- url     : https://prove2.me/theorems/d86821dc-7fe9-46ac-b3ca-adb1da655b1e

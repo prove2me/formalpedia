@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_EqualSources_pmatcher_symmetric
 -- name    : SourceTheory.EqualSources.pmatcher_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:03.563059+00:00
 -- url     : https://prove2.me/theorems/59cc464c-12a2-4719-9526-eea7d4428bc9

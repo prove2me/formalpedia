@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailInfoShare_AFS_informed_sellers_gain
 -- name    : RetailInfoShare.AFS.informed_sellers_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:00.974879+00:00
 -- url     : https://prove2.me/theorems/bfc0c674-487f-45b8-a25f-7eb16aff1b8b

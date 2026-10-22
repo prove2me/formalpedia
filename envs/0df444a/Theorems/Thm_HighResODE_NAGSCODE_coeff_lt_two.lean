@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_NAGSCODE_coeff_lt_two
 -- name    : HighResODE.NAGSCODE.coeff_lt_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:36:32.054472+00:00
 -- url     : https://prove2.me/theorems/9aa31df7-d1f6-42c5-a327-d72a72b6c6fc

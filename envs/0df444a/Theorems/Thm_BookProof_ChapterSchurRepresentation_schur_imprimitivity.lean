@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurRepresentation_schur_imprimitivity
 -- name    : BookProof.ChapterSchurRepresentation.schur_imprimitivity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:03:58.795223+00:00
 -- url     : https://prove2.me/theorems/318f676c-05d1-451c-8f41-7a33bb740583

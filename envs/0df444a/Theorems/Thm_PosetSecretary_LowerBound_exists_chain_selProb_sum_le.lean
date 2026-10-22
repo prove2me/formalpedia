@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_LowerBound_exists_chain_selProb_sum_le
 -- name    : PosetSecretary.LowerBound.exists_chain_selProb_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:13.022008+00:00
 -- url     : https://prove2.me/theorems/b4c08536-0913-426a-83e7-bc478a2c1cd8

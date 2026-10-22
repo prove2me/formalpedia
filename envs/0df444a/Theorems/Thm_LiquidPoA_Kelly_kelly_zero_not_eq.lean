@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidPoA_Kelly_kelly_zero_not_eq
 -- name    : LiquidPoA.Kelly.kelly_zero_not_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:02:05.213252+00:00
 -- url     : https://prove2.me/theorems/e3ee7414-715a-487a-8635-d2758d469b02

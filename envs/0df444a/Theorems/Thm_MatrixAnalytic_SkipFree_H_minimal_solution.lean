@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_SkipFree_H_minimal_solution
 -- name    : MatrixAnalytic.SkipFree.H_minimal_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:46.577331+00:00
 -- url     : https://prove2.me/theorems/bc424d5e-5e40-4679-b71c-679179d3a645

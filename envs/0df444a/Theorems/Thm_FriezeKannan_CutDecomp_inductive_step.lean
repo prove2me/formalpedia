@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_CutDecomp_inductive_step
 -- name    : FriezeKannan.CutDecomp.inductive_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:34.855434+00:00
 -- url     : https://prove2.me/theorems/3889c273-69d9-4d62-9759-f542db7558da

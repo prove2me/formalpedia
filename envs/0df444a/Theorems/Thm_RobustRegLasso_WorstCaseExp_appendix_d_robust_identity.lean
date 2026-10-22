@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_WorstCaseExp_appendix_d_robust_identity
 -- name    : RobustRegLasso.WorstCaseExp.appendix_d_robust_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:19:05.6356+00:00
 -- url     : https://prove2.me/theorems/5fe79de6-eb68-4593-819e-14594e1c1d19

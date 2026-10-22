@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Subamenable_EpiDiff_lemma_5_1
 -- name    : Subamenable.EpiDiff.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:38.462837+00:00
 -- url     : https://prove2.me/theorems/0dfe5afa-3262-4e6a-9143-5cf57b17a9a5

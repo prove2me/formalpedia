@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_EllipsoidMethod_guess_le_variation
 -- name    : ModernConvex.EllipsoidMethod.guess_le_variation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:04.018519+00:00
 -- url     : https://prove2.me/theorems/172b54b1-4672-4ece-ab55-6050c69c9e2a

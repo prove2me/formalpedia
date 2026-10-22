@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_UltPit_dominated_triplet
 -- name    : OpenPitMIP.UltPit.dominated_triplet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:42:31.021478+00:00
 -- url     : https://prove2.me/theorems/11f5ca3e-4153-4bbb-a88e-1a5554d670af

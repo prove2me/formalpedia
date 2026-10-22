@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Moments_pareto_genFailureRate
 -- name    : LariviereIGFR.Moments.pareto_genFailureRate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:31:54.869221+00:00
 -- url     : https://prove2.me/theorems/f9057672-4796-43f8-93b8-de17b3f13548

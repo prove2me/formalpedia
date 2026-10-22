@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Teletriage_OneShot_pi_noTT
 -- name    : Teletriage.OneShot.pi_noTT
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:02.648219+00:00
 -- url     : https://prove2.me/theorems/6fcd9592-041d-474e-8b3e-079c9ded7b15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_LargeGap_lemma_7
 -- name    : AffinePolicies.LargeGap.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:09:01.919212+00:00
 -- url     : https://prove2.me/theorems/00203b60-f940-4dfc-9ce4-302450f46926

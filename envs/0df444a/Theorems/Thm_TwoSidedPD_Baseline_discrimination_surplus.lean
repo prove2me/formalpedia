@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_discrimination_surplus
 -- name    : TwoSidedPD.Baseline.discrimination_surplus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:10.549249+00:00
 -- url     : https://prove2.me/theorems/5581093a-5691-41c3-9d04-a213d3af675f

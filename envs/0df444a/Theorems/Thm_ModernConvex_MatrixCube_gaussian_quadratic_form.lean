@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_gaussian_quadratic_form
 -- name    : ModernConvex.MatrixCube.gaussian_quadratic_form
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:50.913256+00:00
 -- url     : https://prove2.me/theorems/c7ef1d5c-a30d-4473-9080-fb891c99e788

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishableReturns_Suboptimal_appendix_theorem_2_no_returns
 -- name    : PerishableReturns.Suboptimal.appendix_theorem_2_no_returns
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:28:40.293+00:00
 -- url     : https://prove2.me/theorems/097756e3-a318-45ec-9908-d60f810d5c76

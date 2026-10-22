@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_theorem_2
 -- name    : LargeBSP.Homog.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:55.922963+00:00
 -- url     : https://prove2.me/theorems/56062929-985e-4ab8-8c0e-fb1b8c076bac

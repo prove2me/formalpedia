@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_denominator_step_bound
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.denominator_step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:20:25.195174+00:00
 -- url     : https://prove2.me/theorems/3b415763-d063-4197-9ed4-69c284fb46c9

@@ -7,11 +7,11 @@
 -- title:
 --   Σ tan(x/2^k)/2^k = 1/x - cot x
 -- statement:
---   Let $x\ne0$ be real such that $x/2^k$ is not an odd multiple of $\pi/2$ for any $k\ge1$. Then $\sum_{k\ge1}\frac{\tan(x/2^k)}{2^k}=\frac1x-\cot x$ (absolutely convergent). Differs from the printed source: $x\ne0$ is added (the printed condition allows $x=0$, where the right side is undefined).
+--   Let $x\ne0$ be real and assume $\cos(x/2^k)\ne0$ for every integer $k\ge1$. Then $\sum_{k\ge1}2^{-k}\tan(x/2^k)=1/x-\cot x$, with absolute convergence. Differs from the printed source: $x\ne0$ is added.
 --
---   **Discrepancy from the printed source.** Book, p. 396: 'If x is real and x/2^k, 1 ≤ k < ∞, is not an odd multiple of π/2'. This allows x = 0, where 1/x - cot x is undefined (its limit is 0). We add x ≠ 0. Added by us.
+--   **Discrepancy from the printed source.** Entry 24 at p. 396 excludes tangent poles but admits $x=0$. At that point its right side involves undefined reciprocals; its continuous extension is zero. The stated cosine conditions express the same tangent-pole exclusion as the print, and the additional nonzero condition makes the displayed right side meaningful.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 31, Entry 24, p. 396, eq. (24.1).
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 31, Entry 24, p. 396.
 
 import Mathlib
 

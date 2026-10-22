@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosteriorSamplingRL_Regret_appB_sqrt_count_bound
 -- name    : PosteriorSamplingRL.Regret.appB_sqrt_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T21:07:42.619317+00:00
 -- url     : https://prove2.me/theorems/17a55533-a925-48cd-a341-554030e842d0

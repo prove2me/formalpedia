@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DIGing_Push_theorem_3
 -- name    : DIGing.Push.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:02.876709+00:00
 -- url     : https://prove2.me/theorems/4fc1aa05-b104-4090-92b5-d8efe30d8501

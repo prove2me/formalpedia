@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_iterates_4_to_11
 -- name    : IQCAlg.HeavyBall.iterates_4_to_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:04.915837+00:00
 -- url     : https://prove2.me/theorems/b3edcbce-5161-487f-ac09-5104bc5dbd5d

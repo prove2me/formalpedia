@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosteriorSamplingRL_Regret_appB_small_count_bound
 -- name    : PosteriorSamplingRL.Regret.appB_small_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T21:07:39.206288+00:00
 -- url     : https://prove2.me/theorems/229ec504-4f2a-422b-a299-9ca443a278c6

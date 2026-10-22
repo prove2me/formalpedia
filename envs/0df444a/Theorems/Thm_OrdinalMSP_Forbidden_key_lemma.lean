@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalMSP_Forbidden_key_lemma
 -- name    : OrdinalMSP.Forbidden.key_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:35.963014+00:00
 -- url     : https://prove2.me/theorems/cf01013f-a5da-45ad-9718-634c13aa4fe8

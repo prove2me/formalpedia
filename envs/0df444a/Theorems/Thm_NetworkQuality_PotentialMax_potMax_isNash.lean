@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkQuality_PotentialMax_potMax_isNash
 -- name    : NetworkQuality.PotentialMax.potMax_isNash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:58.871674+00:00
 -- url     : https://prove2.me/theorems/7f93bb2b-6bf3-444b-bb74-5af8cad343a6

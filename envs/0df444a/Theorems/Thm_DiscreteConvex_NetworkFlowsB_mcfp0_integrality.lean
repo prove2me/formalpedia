@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlowsB_mcfp0_integrality
 -- name    : DiscreteConvex.NetworkFlowsB.mcfp0_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:38:32.305873+00:00
 -- url     : https://prove2.me/theorems/9d6502fb-12a2-4ae7-9bb1-e3329e21e618

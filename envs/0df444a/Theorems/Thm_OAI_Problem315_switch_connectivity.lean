@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem315_switch_connectivity
 -- name    : OAI.Problem315.switch_connectivity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:07.575809+00:00
 -- url     : https://prove2.me/theorems/0df629e2-7c26-431b-9ed8-7853266f4730

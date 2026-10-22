@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_CQRepr_conic_hull_cqr
 -- name    : ModernConvex.CQRepr.conic_hull_cqr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:25.429468+00:00
 -- url     : https://prove2.me/theorems/d01bd424-e0b8-4183-9129-e2ed8375866d

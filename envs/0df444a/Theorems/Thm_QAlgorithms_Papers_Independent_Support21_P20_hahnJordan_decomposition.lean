@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_hahnJordan_decomposition
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.hahnJordan_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:57:28.694075+00:00
 -- url     : https://prove2.me/theorems/ec495b98-957a-4c5d-8ee7-fa72f125f42e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_rangeClosure_invariant
 -- name    : BookProof.ChapterSchurIrreducible.rangeClosure_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:01:06.241491+00:00
 -- url     : https://prove2.me/theorems/f24ed71c-836f-4150-99fc-0aa90d916f3a

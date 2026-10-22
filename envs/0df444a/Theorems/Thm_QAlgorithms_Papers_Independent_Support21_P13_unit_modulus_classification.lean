@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P13_unit_modulus_classification
 -- name    : QAlgorithms.Papers.Independent.Support21.P13.unit_modulus_classification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:25:32.202866+00:00
 -- url     : https://prove2.me/theorems/3699bfc8-bb53-47a4-a0e5-e1a1135a05d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RubinsteinNash_WeakNash_trimMass_le_inv
 -- name    : RubinsteinNash.WeakNash.trimMass_le_inv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:48:35.003993+00:00
 -- url     : https://prove2.me/theorems/af16d46c-b198-4f54-a796-5125d49c3b22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_jm_irreducible_characters
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.jm_irreducible_characters
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:20:31.590733+00:00
 -- url     : https://prove2.me/theorems/e3a43fb3-e83e-4322-a6ad-ad51c30dd4af

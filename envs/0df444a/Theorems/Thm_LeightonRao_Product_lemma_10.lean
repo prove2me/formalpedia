@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Product_lemma_10
 -- name    : LeightonRao.Product.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:22:09.501614+00:00
 -- url     : https://prove2.me/theorems/3daf029f-bc78-4aa6-b348-925bdecb8b55

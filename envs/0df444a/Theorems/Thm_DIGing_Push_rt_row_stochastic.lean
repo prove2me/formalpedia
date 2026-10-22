@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DIGing_Push_rt_row_stochastic
 -- name    : DIGing.Push.rt_row_stochastic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:39.48409+00:00
 -- url     : https://prove2.me/theorems/48f03cde-e894-4da6-978b-71645cfaa765

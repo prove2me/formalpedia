@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_AugGreedy_appC_monotonicity
 -- name    : CustAssort.AugGreedy.appC_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:49:24.47354+00:00
 -- url     : https://prove2.me/theorems/03a94154-67c7-40ba-af54-5dcd3af9a294

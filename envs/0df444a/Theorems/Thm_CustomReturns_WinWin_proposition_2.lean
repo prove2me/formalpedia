@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomReturns_WinWin_proposition_2
 -- name    : CustomReturns.WinWin.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:07.479137+00:00
 -- url     : https://prove2.me/theorems/95997a00-fc21-4bc7-aa25-1239138a9989

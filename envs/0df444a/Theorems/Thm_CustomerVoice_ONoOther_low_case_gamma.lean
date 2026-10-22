@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_ONoOther_low_case_gamma
 -- name    : CustomerVoice.ONoOther.low_case_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:50.43592+00:00
 -- url     : https://prove2.me/theorems/96a05fb2-0a60-4180-b5bd-14a09b7bdbd3

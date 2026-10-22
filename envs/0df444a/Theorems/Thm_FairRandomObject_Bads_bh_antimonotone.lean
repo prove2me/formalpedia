@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRandomObject_Bads_bh_antimonotone
 -- name    : FairRandomObject.Bads.bh_antimonotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:51.962261+00:00
 -- url     : https://prove2.me/theorems/e220535e-d591-4b24-981d-53693fadc4a8

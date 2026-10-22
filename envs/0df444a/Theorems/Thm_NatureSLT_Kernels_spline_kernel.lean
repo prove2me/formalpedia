@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_spline_kernel
 -- name    : NatureSLT.Kernels.spline_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:53:01.105574+00:00
 -- url     : https://prove2.me/theorems/f0f9bd0b-3fac-4e52-941b-84c34526f6af

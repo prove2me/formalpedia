@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_Median_theorem_1
 -- name    : SamuelCahnProphet.Median.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:57.47598+00:00
 -- url     : https://prove2.me/theorems/4c8753b4-16ea-4504-8dab-fb8172344f50

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterSchurIrreducible.selfAdjoint_commutant_scalar
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:27:01.844157+00:00
 -- url     : https://prove2.me/submissions/c85853c9-91f2-496d-9d02-91c55c5c867f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSchurIrreducible.lean — solution of BookProof.ChapterSchurIrreducible.selfAdjoint_commutant_scalar
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_lerP
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.lerP
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:43:43.730612+00:00
 -- url     : https://prove2.me/theorems/b6dfcba9-541a-457c-a548-1f012e033951

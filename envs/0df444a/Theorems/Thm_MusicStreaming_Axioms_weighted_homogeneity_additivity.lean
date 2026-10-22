@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_Axioms_weighted_homogeneity_additivity
 -- name    : MusicStreaming.Axioms.weighted_homogeneity_additivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:12.078659+00:00
 -- url     : https://prove2.me/theorems/771c028f-3dc6-46b6-b59f-db8de84a98c3

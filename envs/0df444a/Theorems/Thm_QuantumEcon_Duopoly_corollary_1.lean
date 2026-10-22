@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumEcon_Duopoly_corollary_1
 -- name    : QuantumEcon.Duopoly.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:41:59.563724+00:00
 -- url     : https://prove2.me/theorems/91a5187b-c37d-43d5-b411-0778b1b7f864

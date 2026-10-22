@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Benchmark_eq5_second_period_price
 -- name    : GDPRDataMarkets.Benchmark.eq5_second_period_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:15.58328+00:00
 -- url     : https://prove2.me/theorems/14dc0f9a-3603-4e64-8f9e-51def173fada

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_EpsSoft_unimproved_fixed_point
 -- name    : SuttonBartoRL.EpsSoft.unimproved_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:00:41.283541+00:00
 -- url     : https://prove2.me/theorems/4221352e-176c-4db7-979d-91cbe0e491ec

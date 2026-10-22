@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_HvdH_Num_atanhInv_bound
 -- name    : IntMul.HvdH.Num.atanhInv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-20T19:20:27.392421+00:00
 -- url     : https://prove2.me/theorems/d16c855a-0ba3-422d-8731-2c19c3145cf3

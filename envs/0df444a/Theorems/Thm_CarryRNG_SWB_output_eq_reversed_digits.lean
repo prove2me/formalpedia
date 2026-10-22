@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_SWB_output_eq_reversed_digits
 -- name    : CarryRNG.SWB.output_eq_reversed_digits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:44:11.709541+00:00
 -- url     : https://prove2.me/theorems/6de28556-36c5-44e9-9e42-9cdba85033c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_ScarceFleet_lemma4
 -- name    : TeleDriving.ScarceFleet.lemma4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:31.137902+00:00
 -- url     : https://prove2.me/theorems/c60c0a88-a444-408a-94b8-d96f06e58737

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TruncNewton_NegCurv_pd_of_cg_residual_zero
 -- name    : TruncNewton.NegCurv.pd_of_cg_residual_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:07:18.725035+00:00
 -- url     : https://prove2.me/theorems/b5d8b8dc-9a3b-44fa-82ab-d9b91ea38130

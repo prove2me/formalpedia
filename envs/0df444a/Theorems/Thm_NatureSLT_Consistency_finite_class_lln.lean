@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Consistency_finite_class_lln
 -- name    : NatureSLT.Consistency.finite_class_lln
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:50:33.145493+00:00
 -- url     : https://prove2.me/theorems/6c3e22da-517d-4462-b1c6-a7477b2c683f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_GrowthFunction_vcDim_sin_infinite
 -- name    : NatureSLT.GrowthFunction.vcDim_sin_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:50:54.800819+00:00
 -- url     : https://prove2.me/theorems/411fad3b-0a6d-4758-a75e-208a86218619

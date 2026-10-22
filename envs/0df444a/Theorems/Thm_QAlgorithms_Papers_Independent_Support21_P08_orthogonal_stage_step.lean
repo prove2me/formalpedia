@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_orthogonal_stage_step
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.orthogonal_stage_step
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:33:00.869441+00:00
 -- url     : https://prove2.me/theorems/3b029ca1-b63f-4a04-a599-0ef79f63255b

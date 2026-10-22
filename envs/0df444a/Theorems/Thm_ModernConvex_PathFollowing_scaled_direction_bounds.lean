@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_scaled_direction_bounds
 -- name    : ModernConvex.PathFollowing.scaled_direction_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:49.796014+00:00
 -- url     : https://prove2.me/theorems/d40ff071-d373-4efa-b54f-dabe6f247388

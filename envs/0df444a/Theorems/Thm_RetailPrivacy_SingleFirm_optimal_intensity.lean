@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailPrivacy_SingleFirm_optimal_intensity
 -- name    : RetailPrivacy.SingleFirm.optimal_intensity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:13:32.644012+00:00
 -- url     : https://prove2.me/theorems/3d581e6e-b2d6-4f50-8302-efa9a6cbf94e

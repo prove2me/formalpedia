@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Stoch_eq_2_22_stoch
 -- name    : NonconvexAG.Stoch.eq_2_22_stoch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:23:31.402112+00:00
 -- url     : https://prove2.me/theorems/34fd90d9-6125-4934-910f-bf57494ffa8e

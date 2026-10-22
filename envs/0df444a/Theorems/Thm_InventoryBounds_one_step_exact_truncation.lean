@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_one_step_exact_truncation
 -- name    : InventoryBounds.one_step_exact_truncation
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:31:29.874973+00:00
 -- url     : https://prove2.me/theorems/1dba54eb-bec4-4210-85ba-bd2f4f034a32

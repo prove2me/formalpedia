@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_NashSolution_theorem1
 -- name    : MyersonBargaining.NashSolution.theorem1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:46.771452+00:00
 -- url     : https://prove2.me/theorems/7c7fd613-378e-4ed1-b13f-d9c8532db77c

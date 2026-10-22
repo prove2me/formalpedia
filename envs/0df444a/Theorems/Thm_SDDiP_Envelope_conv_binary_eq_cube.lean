@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Envelope_conv_binary_eq_cube
 -- name    : SDDiP.Envelope.conv_binary_eq_cube
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:44:49.532726+00:00
 -- url     : https://prove2.me/theorems/6e4ee295-961c-4fbc-a425-8bb968df81be

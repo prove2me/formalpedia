@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandSubstitution_Comparison_eq1_profit_underage_overage
 -- name    : DemandSubstitution.Comparison.eq1_profit_underage_overage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:16.34535+00:00
 -- url     : https://prove2.me/theorems/0622b2ba-9c0e-4d57-bc73-2509579fa28b

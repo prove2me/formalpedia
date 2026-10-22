@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowerFareFirst_Critical_note2b_critical_sign
 -- name    : LowerFareFirst.Critical.note2b_critical_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:17.598801+00:00
 -- url     : https://prove2.me/theorems/56a3cd4b-e8ae-4c6e-ae89-7f0328e343e2

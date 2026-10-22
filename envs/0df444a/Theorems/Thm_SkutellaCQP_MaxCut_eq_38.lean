@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_MaxCut_eq_38
 -- name    : SkutellaCQP.MaxCut.eq_38
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:12:09.885572+00:00
 -- url     : https://prove2.me/theorems/ada21ead-520f-4d81-8432-3e1c59aef990

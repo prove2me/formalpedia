@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IoTFusion_KnownQuality_remark_1
 -- name    : IoTFusion.KnownQuality.remark_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:24.831251+00:00
 -- url     : https://prove2.me/theorems/3d248fcf-ea53-403a-bb88-988060fb6ed2

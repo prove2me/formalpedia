@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RespSourcing_Transparent_proposition1_optimal_strategy
 -- name    : RespSourcing.Transparent.proposition1_optimal_strategy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:24.844229+00:00
 -- url     : https://prove2.me/theorems/be1c69bc-043b-4b41-9161-0524a2241aad

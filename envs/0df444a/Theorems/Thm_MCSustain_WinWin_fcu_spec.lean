@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCSustain_WinWin_fcu_spec
 -- name    : MCSustain.WinWin.fcu_spec
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:09.572694+00:00
 -- url     : https://prove2.me/theorems/f25ea1e6-91ea-42c7-a014-fb4bf88c1f3f

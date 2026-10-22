@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_FiniteHorizon_theorem1_bellman
 -- name    : RobustDP.FiniteHorizon.theorem1_bellman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:51:21.462608+00:00
 -- url     : https://prove2.me/theorems/52a0de31-f82a-4d2c-8d6e-7944cdfc5745

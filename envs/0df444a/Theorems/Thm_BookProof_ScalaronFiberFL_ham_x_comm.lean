@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFiberFL_ham_x_comm
 -- name    : BookProof.ScalaronFiberFL.ham_x_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:04:05.686987+00:00
 -- url     : https://prove2.me/theorems/c4c3cb05-ddc4-465d-9e47-f64fdad94787

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_weighted_binomial_allocation_le_choose
 -- name    : OAI.PiExponent.LiteralAnalytic.weighted_binomial_allocation_le_choose
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:22:43.67653+00:00
 -- url     : https://prove2.me/theorems/9f634799-4471-4202-a026-9a20f9b034f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtraConsensus_Linear_eq_3_5
 -- name    : ExtraConsensus.Linear.eq_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:16:15.916102+00:00
 -- url     : https://prove2.me/theorems/038fba98-0a08-453e-967c-7e51707d68c9

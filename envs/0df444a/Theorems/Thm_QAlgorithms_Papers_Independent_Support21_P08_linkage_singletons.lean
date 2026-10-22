@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_linkage_singletons
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.linkage_singletons
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:33:56.787783+00:00
 -- url     : https://prove2.me/theorems/c99f820e-8fb1-45b8-b26c-a6a3b1a52e1c

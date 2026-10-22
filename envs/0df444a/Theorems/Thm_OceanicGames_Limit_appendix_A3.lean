@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanicGames_Limit_appendix_A3
 -- name    : OceanicGames.Limit.appendix_A3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:44:03.662935+00:00
 -- url     : https://prove2.me/theorems/a4339906-9aa6-49db-a2dd-d5c72ee49a60

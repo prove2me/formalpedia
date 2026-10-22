@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_theorem2_expected_cost_bound
 -- name    : WorstCaseEq.Identical.theorem2_expected_cost_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:22.88946+00:00
 -- url     : https://prove2.me/theorems/fab06d2f-a179-44a1-8ebc-81cf2657119e

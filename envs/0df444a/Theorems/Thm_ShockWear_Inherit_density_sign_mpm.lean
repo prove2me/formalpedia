@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_Inherit_density_sign_mpm
 -- name    : ShockWear.Inherit.density_sign_mpm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:13.681983+00:00
 -- url     : https://prove2.me/theorems/d17b0577-621f-48d3-9153-d3917419d6fb

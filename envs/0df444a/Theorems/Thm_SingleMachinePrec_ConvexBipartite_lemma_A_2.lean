@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_ConvexBipartite_lemma_A_2
 -- name    : SingleMachinePrec.ConvexBipartite.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:42:19.969225+00:00
 -- url     : https://prove2.me/theorems/229be9d9-4ac1-452b-b030-d7750587d136

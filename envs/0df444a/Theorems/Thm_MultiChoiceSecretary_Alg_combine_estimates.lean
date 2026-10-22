@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiChoiceSecretary_Alg_combine_estimates
 -- name    : MultiChoiceSecretary.Alg.combine_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:37:23.599605+00:00
 -- url     : https://prove2.me/theorems/965efd86-0d15-4b5d-9e75-553c692a174f

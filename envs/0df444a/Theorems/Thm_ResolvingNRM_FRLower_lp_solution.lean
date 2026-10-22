@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRLower_lp_solution
 -- name    : ResolvingNRM.FRLower.lp_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:41:30.453557+00:00
 -- url     : https://prove2.me/theorems/36d260c2-9720-4404-8651-a904542a27fd

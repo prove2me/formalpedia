@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCombOpt_Exp2LB_appA_eta_optimization
 -- name    : OnlineCombOpt.Exp2LB.appA_eta_optimization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:06.853747+00:00
 -- url     : https://prove2.me/theorems/2796efc4-c42d-4d73-8974-70ab48b3f64f

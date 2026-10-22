@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P26_spectral_permutation_bounds
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P26.spectral_permutation_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:08:17.225573+00:00
 -- url     : https://prove2.me/theorems/371554bc-bef7-4547-a64e-99ba6b2f0923

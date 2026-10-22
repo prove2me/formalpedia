@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdInterm_SPE_lemma_3_1
 -- name    : AdInterm.SPE.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:18.377597+00:00
 -- url     : https://prove2.me/theorems/db478d5b-47b0-4aab-b565-e48e9c18d42e

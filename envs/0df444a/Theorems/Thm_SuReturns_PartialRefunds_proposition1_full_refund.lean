@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuReturns_PartialRefunds_proposition1_full_refund
 -- name    : SuReturns.PartialRefunds.proposition1_full_refund
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:08:00.439988+00:00
 -- url     : https://prove2.me/theorems/ad52f79d-6f4d-4328-90e2-505f208d2f1a

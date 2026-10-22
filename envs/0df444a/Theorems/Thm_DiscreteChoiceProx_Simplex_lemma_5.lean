@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteChoiceProx_Simplex_lemma_5
 -- name    : DiscreteChoiceProx.Simplex.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:13:06.259199+00:00
 -- url     : https://prove2.me/theorems/335ee019-fbd6-41ab-ba09-f334b681fe99

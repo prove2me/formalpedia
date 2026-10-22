@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SQR_stilde_exists
 -- name    : MultiStoreAssort.SQR.stilde_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:52.591043+00:00
 -- url     : https://prove2.me/theorems/ae521bc1-2732-43f8-961a-290977bef3f3

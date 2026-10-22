@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTail_Gaussian_display2_4
 -- name    : MatrixTail.Gaussian.display2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:11:04.567207+00:00
 -- url     : https://prove2.me/theorems/8e6998d0-dedb-4784-90bf-14bf9b0b2758

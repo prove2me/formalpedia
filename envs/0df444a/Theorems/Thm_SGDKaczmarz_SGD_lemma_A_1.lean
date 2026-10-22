@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SGDKaczmarz_SGD_lemma_A_1
 -- name    : SGDKaczmarz.SGD.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:45.54808+00:00
 -- url     : https://prove2.me/theorems/766efb95-6822-4d56-9feb-7454d998b4e7

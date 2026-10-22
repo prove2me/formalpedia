@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MatrixGeometric_N_block_recurrence
 -- name    : MatrixAnalytic.MatrixGeometric.N_block_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:10.81599+00:00
 -- url     : https://prove2.me/theorems/7821ce5c-8aaa-41b7-9443-b21269e072ee

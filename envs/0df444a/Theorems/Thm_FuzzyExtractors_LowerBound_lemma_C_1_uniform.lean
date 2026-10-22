@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_LowerBound_lemma_C_1_uniform
 -- name    : FuzzyExtractors.LowerBound.lemma_C_1_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:16:35.121846+00:00
 -- url     : https://prove2.me/theorems/3e6ab47c-cbac-457b-97c1-9f789845e8ad

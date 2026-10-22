@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_reeb_spec
 -- name    : FiniteEnergyPlane.reeb_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:22:33.678635+00:00
 -- url     : https://prove2.me/theorems/b6b97b49-83c9-408a-9ca8-1cf494287d38

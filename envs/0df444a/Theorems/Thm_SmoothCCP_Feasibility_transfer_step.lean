@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmoothCCP_Feasibility_transfer_step
 -- name    : SmoothCCP.Feasibility.transfer_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:43:19.668262+00:00
 -- url     : https://prove2.me/theorems/7d4e9424-a951-4c41-9d0b-b0d4bd8b556e

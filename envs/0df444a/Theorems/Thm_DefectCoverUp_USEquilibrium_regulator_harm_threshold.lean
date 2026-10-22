@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefectCoverUp_USEquilibrium_regulator_harm_threshold
 -- name    : DefectCoverUp.USEquilibrium.regulator_harm_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:38.817259+00:00
 -- url     : https://prove2.me/theorems/b4ef8ddf-14cd-4dcd-b293-7ab43e89608e

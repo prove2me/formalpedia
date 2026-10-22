@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RubinsteinNash_WeakNash_claim_8_2
 -- name    : RubinsteinNash.WeakNash.claim_8_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:48:26.668527+00:00
 -- url     : https://prove2.me/theorems/e09dc6cf-7ce3-4764-ab7d-be92f5d56ad8

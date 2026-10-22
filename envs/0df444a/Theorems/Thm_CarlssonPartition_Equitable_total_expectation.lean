@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Equitable_total_expectation
 -- name    : CarlssonPartition.Equitable.total_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:09.607193+00:00
 -- url     : https://prove2.me/theorems/0b5b9d0e-0a11-4a86-92e2-edfbed687858

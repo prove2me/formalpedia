@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FirstPassage_level_by_level
 -- name    : MatrixAnalytic.FirstPassage.level_by_level
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:39.581522+00:00
 -- url     : https://prove2.me/theorems/a4c5436f-d9b8-4967-a1cd-272e993b6070

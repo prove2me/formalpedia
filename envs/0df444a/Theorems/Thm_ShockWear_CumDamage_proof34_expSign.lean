@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_CumDamage_proof34_expSign
 -- name    : ShockWear.CumDamage.proof34_expSign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:48:11.977748+00:00
 -- url     : https://prove2.me/theorems/0288eac2-5303-4411-b7d4-e9cbce44bb23

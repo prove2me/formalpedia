@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlexGroupBuy_REE_proposition_1
 -- name    : FlexGroupBuy.REE.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:21:41.650828+00:00
 -- url     : https://prove2.me/theorems/3263371e-fd04-4ce8-9973-fdff471f4c08

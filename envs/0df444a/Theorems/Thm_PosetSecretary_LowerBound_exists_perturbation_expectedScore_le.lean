@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_LowerBound_exists_perturbation_expectedScore_le
 -- name    : PosetSecretary.LowerBound.exists_perturbation_expectedScore_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:00.679433+00:00
 -- url     : https://prove2.me/theorems/defc48f5-d9ce-4c65-987e-9b7c886c3d59

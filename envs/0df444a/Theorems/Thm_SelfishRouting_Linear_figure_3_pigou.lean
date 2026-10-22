@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Linear_figure_3_pigou
 -- name    : SelfishRouting.Linear.figure_3_pigou
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:16.31577+00:00
 -- url     : https://prove2.me/theorems/e43022d3-c05c-4ac9-ad8a-cd40520ea8e4

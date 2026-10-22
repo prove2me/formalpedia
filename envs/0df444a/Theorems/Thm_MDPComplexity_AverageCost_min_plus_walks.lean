@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_AverageCost_min_plus_walks
 -- name    : MDPComplexity.AverageCost.min_plus_walks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:58:16.7012+00:00
 -- url     : https://prove2.me/theorems/42160d91-7d5e-4056-9a6e-fdd28b34614a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Feasibility_two_sided_iff_one_sided
 -- name    : FlowsNetworks.Feasibility.two_sided_iff_one_sided
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:19.079758+00:00
 -- url     : https://prove2.me/theorems/47d7df7a-f3cc-4b7b-906c-3edcf3d446ee

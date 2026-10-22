@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnknownProphet_NoSamples_theorem_2
 -- name    : UnknownProphet.NoSamples.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:54.414713+00:00
 -- url     : https://prove2.me/theorems/698f7219-f098-443e-ae3a-bdcd7b79f658

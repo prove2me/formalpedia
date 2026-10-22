@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_StrictLeontief_reduction
 -- name    : MaxPressure.StrictLeontief.reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:56:20.538759+00:00
 -- url     : https://prove2.me/theorems/db00da1f-b51b-4dba-8d43-17bab3ecb1ff

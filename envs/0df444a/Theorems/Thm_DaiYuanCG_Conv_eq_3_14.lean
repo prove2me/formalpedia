@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiYuanCG_Conv_eq_3_14
 -- name    : DaiYuanCG.Conv.eq_3_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:00:58.802987+00:00
 -- url     : https://prove2.me/theorems/10b7f8ab-fced-4d94-80d6-b37d590050cf

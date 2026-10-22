@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_UniformMixed_theorem_5_4
 -- name    : HarmonicGames.UniformMixed.theorem_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:15.378988+00:00
 -- url     : https://prove2.me/theorems/9ed4e719-a1d6-42bf-b5ec-cc096d1be86d

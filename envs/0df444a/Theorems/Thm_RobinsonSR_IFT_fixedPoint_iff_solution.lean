@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_IFT_fixedPoint_iff_solution
 -- name    : RobinsonSR.IFT.fixedPoint_iff_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:59:46.337984+00:00
 -- url     : https://prove2.me/theorems/e13a4596-fc6b-4cff-93e9-2c41ae24f968

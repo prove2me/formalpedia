@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonPolicy_TaxVsCap_emission_difference
 -- name    : CarbonPolicy.TaxVsCap.emission_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:11.955013+00:00
 -- url     : https://prove2.me/theorems/e258af0d-9e31-4237-8d85-4f035835440d

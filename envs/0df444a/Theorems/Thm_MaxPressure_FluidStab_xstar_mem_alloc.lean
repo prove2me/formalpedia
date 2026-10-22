@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_FluidStab_xstar_mem_alloc
 -- name    : MaxPressure.FluidStab.xstar_mem_alloc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:54:32.707279+00:00
 -- url     : https://prove2.me/theorems/ddbce033-d5b1-4a1f-afeb-cfbe4e98e11c

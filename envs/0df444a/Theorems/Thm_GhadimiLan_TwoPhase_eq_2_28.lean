@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GhadimiLan_TwoPhase_eq_2_28
 -- name    : GhadimiLan.TwoPhase.eq_2_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:39.030864+00:00
 -- url     : https://prove2.me/theorems/328811e0-724b-4bd3-8952-e3f15fc10106

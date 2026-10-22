@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SOSInference_Means_limit_identity_lge3
 -- name    : SOSInference.Means.limit_identity_lge3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:25.043698+00:00
 -- url     : https://prove2.me/theorems/c0d476c4-c6b3-45c6-9a13-f02f9c7f0b5f

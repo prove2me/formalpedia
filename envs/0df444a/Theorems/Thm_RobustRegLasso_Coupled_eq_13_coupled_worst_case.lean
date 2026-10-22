@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_Coupled_eq_13_coupled_worst_case
 -- name    : RobustRegLasso.Coupled.eq_13_coupled_worst_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:18:45.069678+00:00
 -- url     : https://prove2.me/theorems/b037df34-dd61-478b-bcbf-609a74605667

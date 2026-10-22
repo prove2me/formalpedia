@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_sourceSet_subset_minimal_cut
 -- name    : FlowsNetworks.MaxFlow.sourceSet_subset_minimal_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:49.505878+00:00
 -- url     : https://prove2.me/theorems/858e46a4-7216-4c91-9ec1-4c101cce59ce

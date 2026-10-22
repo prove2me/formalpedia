@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Local_corollary_3_2
 -- name    : QiNonsmoothEq.Local.corollary_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:50.813305+00:00
 -- url     : https://prove2.me/theorems/fb9647f4-08e8-4a9d-860c-341e6f769de3

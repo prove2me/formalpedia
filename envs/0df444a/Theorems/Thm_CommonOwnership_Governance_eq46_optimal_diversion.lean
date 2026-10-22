@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_eq46_optimal_diversion
 -- name    : CommonOwnership.Governance.eq46_optimal_diversion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:29.861583+00:00
 -- url     : https://prove2.me/theorems/a7d6c260-77d3-4492-8840-0c5ae91a649a

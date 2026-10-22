@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Implicit_eq_75
 -- name    : NAGFlow.Implicit.eq_75
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:32:05.845768+00:00
 -- url     : https://prove2.me/theorems/98693004-ef4b-42e1-af7a-d04e18a2556c

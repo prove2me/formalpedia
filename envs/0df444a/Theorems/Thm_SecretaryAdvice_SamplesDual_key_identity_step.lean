@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_SamplesDual_key_identity_step
 -- name    : SecretaryAdvice.SamplesDual.key_identity_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:17.020527+00:00
 -- url     : https://prove2.me/theorems/1768ff51-25cd-48a8-b637-ac71e8a5469a

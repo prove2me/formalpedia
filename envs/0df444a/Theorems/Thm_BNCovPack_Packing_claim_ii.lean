@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BNCovPack_Packing_claim_ii
 -- name    : BNCovPack.Packing.claim_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T18:18:46.999209+00:00
 -- url     : https://prove2.me/theorems/69a47bfa-f292-42b5-aeb1-914681265147

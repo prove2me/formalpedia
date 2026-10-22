@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_minimal_cut_iff_saturated
 -- name    : FlowsNetworks.MaxFlow.minimal_cut_iff_saturated
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:02.038167+00:00
 -- url     : https://prove2.me/theorems/9ba33547-e3d6-48bd-822d-42238528792e

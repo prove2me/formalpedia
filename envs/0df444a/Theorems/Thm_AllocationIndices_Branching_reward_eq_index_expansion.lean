@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Branching_reward_eq_index_expansion
 -- name    : AllocationIndices.Branching.reward_eq_index_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:06.983598+00:00
 -- url     : https://prove2.me/theorems/d8060d43-5169-4373-be5c-2cd71002d35f

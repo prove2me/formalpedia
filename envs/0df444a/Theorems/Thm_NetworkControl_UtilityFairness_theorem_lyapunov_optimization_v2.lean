@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkControl_UtilityFairness_theorem_lyapunov_optimization_v2
 -- name    : NetworkControl.UtilityFairness.theorem_lyapunov_optimization_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:21:23.210476+00:00
 -- url     : https://prove2.me/theorems/434987a6-8b1a-4271-b9dc-89abcda9dc51

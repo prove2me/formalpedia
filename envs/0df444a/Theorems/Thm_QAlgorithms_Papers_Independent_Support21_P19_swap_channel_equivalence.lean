@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P19_swap_channel_equivalence
 -- name    : QAlgorithms.Papers.Independent.Support21.P19.swap_channel_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T05:03:30.230986+00:00
 -- url     : https://prove2.me/theorems/303872a5-0b4e-46a3-b589-daf5b4775e0a

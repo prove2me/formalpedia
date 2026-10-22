@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Matrices_zero_trace_constant_columns
 -- name    : FlowsNetworks.Matrices.zero_trace_constant_columns
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:00.280737+00:00
 -- url     : https://prove2.me/theorems/1e071fba-392b-4698-a368-a54ee76ff2ef

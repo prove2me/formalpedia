@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PenaltyLag_Exact_stationary_at_dual_optimal
 -- name    : PenaltyLag.Exact.stationary_at_dual_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:00.284258+00:00
 -- url     : https://prove2.me/theorems/9d0f1f30-3f2b-4c0d-a52e-be7858d15b9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_WellPosed_lemma_16
 -- name    : NesterovODE.WellPosed.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:41:09.080359+00:00
 -- url     : https://prove2.me/theorems/0e1fcece-bc20-4767-8dbe-6af3d146d090

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_CircuitSound_lemma_7
 -- name    : GOSNIZK.CircuitSound.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:34.048793+00:00
 -- url     : https://prove2.me/theorems/20b7d4a9-6ac3-4b04-976b-6e6bda8b6335

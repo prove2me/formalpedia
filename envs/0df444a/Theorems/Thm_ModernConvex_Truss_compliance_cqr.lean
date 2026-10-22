@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_compliance_cqr
 -- name    : ModernConvex.Truss.compliance_cqr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:43.37416+00:00
 -- url     : https://prove2.me/theorems/b9dd7e85-f5af-4fdd-a9d5-ff6900f34935

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_UCMonopoly_cross_partial_eta
 -- name    : AccelScal.UCMonopoly.cross_partial_eta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:35.596983+00:00
 -- url     : https://prove2.me/theorems/78e68722-027a-4081-b472-a5b4cfb794be

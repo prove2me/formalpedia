@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Attraction_theorem_5_1
 -- name    : QiNonsmoothEq.Attraction.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:21.67448+00:00
 -- url     : https://prove2.me/theorems/f1c4dd5c-f168-4a2c-90e7-55d649c25768

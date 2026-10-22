@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_ConicDuality_infeasibility_certificate
 -- name    : ModernConvex.ConicDuality.infeasibility_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:34.060498+00:00
 -- url     : https://prove2.me/theorems/dcaa3901-a1b9-49a4-90cf-55bdf210bd21

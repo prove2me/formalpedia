@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Regularity_theorem_2_iv
 -- name    : SelfDualLP.Regularity.theorem_2_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:58:15.080037+00:00
 -- url     : https://prove2.me/theorems/2cb5ff50-a897-49f7-9a2c-fccb76e1673c

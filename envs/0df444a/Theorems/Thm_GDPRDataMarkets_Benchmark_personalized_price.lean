@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Benchmark_personalized_price
 -- name    : GDPRDataMarkets.Benchmark.personalized_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:00.674989+00:00
 -- url     : https://prove2.me/theorems/59593af1-b9b5-42ed-8eaa-66c3bbc15e63

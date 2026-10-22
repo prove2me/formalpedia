@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageRUC_WitPolicy_genLimits_iff_four
 -- name    : MultistageRUC.WitPolicy.genLimits_iff_four
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:14:39.766404+00:00
 -- url     : https://prove2.me/theorems/4ba7d70e-9773-4d73-aa79-ec9da97fd954

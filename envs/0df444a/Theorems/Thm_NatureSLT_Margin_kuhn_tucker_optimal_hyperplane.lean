@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Margin_kuhn_tucker_optimal_hyperplane
 -- name    : NatureSLT.Margin.kuhn_tucker_optimal_hyperplane
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:43.513811+00:00
 -- url     : https://prove2.me/theorems/f4a9dcfa-d8d9-46e0-9919-4e65ea3b87d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_SRM_eq_4_25
 -- name    : NatureSLT.SRM.eq_4_25
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:50:58.430548+00:00
 -- url     : https://prove2.me/theorems/4bc05e02-917f-4a2e-ac09-0a2ef8b9aa5c

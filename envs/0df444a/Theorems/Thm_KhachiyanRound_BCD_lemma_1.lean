@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KhachiyanRound_BCD_lemma_1
 -- name    : KhachiyanRound.BCD.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:17:41.376645+00:00
 -- url     : https://prove2.me/theorems/82074033-981c-4ea5-88df-06144ef754cb

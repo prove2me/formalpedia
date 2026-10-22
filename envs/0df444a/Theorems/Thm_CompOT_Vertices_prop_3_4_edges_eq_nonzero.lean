@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Vertices_prop_3_4_edges_eq_nonzero
 -- name    : CompOT.Vertices.prop_3_4_edges_eq_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:25:03.262866+00:00
 -- url     : https://prove2.me/theorems/cbb78a99-00c4-4454-87ed-0392ba9b0a84

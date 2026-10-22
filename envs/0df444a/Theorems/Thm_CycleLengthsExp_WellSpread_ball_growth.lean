@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_WellSpread_ball_growth
 -- name    : CycleLengthsExp.WellSpread.ball_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:21:54.157693+00:00
 -- url     : https://prove2.me/theorems/4f7b009c-3ed8-452f-a0e8-3cec8c67bec9

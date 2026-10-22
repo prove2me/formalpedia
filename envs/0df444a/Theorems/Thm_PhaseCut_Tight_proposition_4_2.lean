@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_proposition_4_2
 -- name    : PhaseCut.Tight.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:39:04.424317+00:00
 -- url     : https://prove2.me/theorems/b4a9d0c9-c4c0-43f0-a9db-824eef215bc4

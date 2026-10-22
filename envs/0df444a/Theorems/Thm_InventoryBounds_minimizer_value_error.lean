@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_minimizer_value_error
 -- name    : InventoryBounds.minimizer_value_error
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:32:10.66632+00:00
 -- url     : https://prove2.me/theorems/78fe9175-767e-45fc-a880-ffb1772b0959

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R6.Leaf.ail6s_of_fine
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:33:53.537292+00:00
 -- url     : https://prove2.me/submissions/a8d6cedf-3154-484c-924a-9dcc098bea3e
 

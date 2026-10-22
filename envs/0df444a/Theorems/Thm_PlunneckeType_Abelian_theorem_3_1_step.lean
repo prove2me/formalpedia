@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Abelian_theorem_3_1_step
 -- name    : PlunneckeType.Abelian.theorem_3_1_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:12.984844+00:00
 -- url     : https://prove2.me/theorems/a9860ff9-3184-459b-b726-4ede201c7743

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_Affiliated_second_order_stat_identity
 -- name    : RobustSPA.Affiliated.second_order_stat_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:44.78599+00:00
 -- url     : https://prove2.me/theorems/407ef7d4-b119-4f7f-8c21-8496331a76b8

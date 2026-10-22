@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConfoundRobust_Minimax_lemma_5
 -- name    : ConfoundRobust.Minimax.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:11:56.375788+00:00
 -- url     : https://prove2.me/theorems/ac14eef8-fa31-40e5-bcb9-9ad639b3f4eb

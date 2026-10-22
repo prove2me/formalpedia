@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_Unbounded_thm4i_proof_total_cost_increase
 -- name    : RoslingAssembly.Unbounded.thm4i_proof_total_cost_increase
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:29.141634+00:00
 -- url     : https://prove2.me/theorems/a437b2d2-a02e-481f-8579-b5d7b5cdfe7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_Multiclass_two_class_reduces
 -- name    : AddLogReg.Multiclass.two_class_reduces
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:04:36.393835+00:00
 -- url     : https://prove2.me/theorems/5b971752-07a6-4bab-9717-694475971e6f

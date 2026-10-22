@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_CostGap_instance_symmetric
 -- name    : RobustPower.CostGap.instance_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:13:00.844088+00:00
 -- url     : https://prove2.me/theorems/676163ab-d0df-4fa7-841a-4d949a8534f6

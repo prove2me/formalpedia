@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_SingularGap_path_chaining
 -- name    : QuantumWalkSearch.SingularGap.path_chaining
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:42:09.839995+00:00
 -- url     : https://prove2.me/theorems/e819aad3-7cf2-41c7-a2e8-787d9487a334

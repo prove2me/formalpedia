@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HochbaumShmoys_Uniform_theorem_1
 -- name    : HochbaumShmoys.Uniform.theorem_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:28.814266+00:00
 -- url     : https://prove2.me/theorems/e2ea7716-ab9d-474c-b068-454b131fa613

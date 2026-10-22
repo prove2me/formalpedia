@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothQN_ExactNorm_sin_angle_tendsto_half
 -- name    : NonsmoothQN.ExactNorm.sin_angle_tendsto_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:14.642979+00:00
 -- url     : https://prove2.me/theorems/bcbfb5e0-ebc5-4001-92c0-3ae86053278b

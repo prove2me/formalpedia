@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Taboo_sojourn_eq_series
 -- name    : MatrixAnalytic.Taboo.sojourn_eq_series
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:43:34.521691+00:00
 -- url     : https://prove2.me/theorems/7986f7d6-fb2d-4d4c-a131-684f0d0373b8

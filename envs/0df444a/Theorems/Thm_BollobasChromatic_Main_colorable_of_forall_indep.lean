@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BollobasChromatic_Main_colorable_of_forall_indep
 -- name    : BollobasChromatic.Main.colorable_of_forall_indep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:07:54.048565+00:00
 -- url     : https://prove2.me/theorems/5391f03c-a704-4afe-af83-121385ecde53

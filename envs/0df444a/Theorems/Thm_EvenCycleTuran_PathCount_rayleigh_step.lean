@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EvenCycleTuran_PathCount_rayleigh_step
 -- name    : EvenCycleTuran.PathCount.rayleigh_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:27:34.585488+00:00
 -- url     : https://prove2.me/theorems/4e047e2c-41a2-482b-bd6b-ab83bbfd19e3

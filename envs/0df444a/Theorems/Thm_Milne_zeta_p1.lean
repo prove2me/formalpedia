@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Milne_zeta_p1
 -- name    : Milne.zeta_p1
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-20T03:13:15.906836+00:00
 -- url     : https://prove2.me/theorems/94dca92a-5e36-4ba0-8619-00be23715718

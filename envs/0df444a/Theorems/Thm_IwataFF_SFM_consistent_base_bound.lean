@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_consistent_base_bound
 -- name    : IwataFF.SFM.consistent_base_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:13.551517+00:00
 -- url     : https://prove2.me/theorems/e1ec9a66-6a3f-434e-b4f3-7e2457ce8793

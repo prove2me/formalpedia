@@ -1,0 +1,209 @@
+-- Prove2me | solution 1 for AllocationIndices.Branching.reward_eq_index_expansion
+-- status  : ACCEPTED   (prove)
+-- author  : @fizzyinc3
+-- created : 2026-10-21T13:03:00.56543+00:00
+-- url     : https://prove2.me/submissions/eb79cad8-27d6-4502-a5ce-2150d94ebece
+
+import Definitions.Def_AllocationIndices_Branching_Parallel
+
+open MeasureTheory ProbabilityTheory BanditAlgorithm Finset
+open AllocationIndices AllocationIndices.Branching
+
+section G69AI
+variable {N : ℕ}
+
+lemma g69ai_lt_hit (S : Set (Fin (N + 1))) (ω : ℕ → Fin (N + 1)) (t : ℕ) :
+    (t : ℕ∞) < hittingTime S ω ↔ ∀ s, 1 ≤ s → s ≤ t → ω s ∉ S := by
+  unfold hittingTime
+  rw [← ENat.add_one_le_iff (ENat.natCast_ne_top t), le_iInf_iff]
+  constructor
+  · intro h s hs1 hst hS
+    have := h ⟨s, hs1, hS⟩
+    simp only at this
+    have : ((t + 1 : ℕ) : ℕ∞) ≤ (s : ℕ∞) := by exact_mod_cast this
+    have := Nat.cast_le.mp this
+    omega
+  · rintro h ⟨s, hs1, hS⟩
+    simp only
+    have : t + 1 ≤ s := by
+      by_contra hc; exact h s hs1 (by omega) hS
+    exact_mod_cast this
+
+lemma g69ai_meas_set (S : Set (Fin (N + 1))) (t : ℕ) :
+    MeasurableSet {ω : ℕ → Fin (N + 1) | (t : ℕ∞) < hittingTime S ω} := by
+  have : {ω : ℕ → Fin (N + 1) | (t : ℕ∞) < hittingTime S ω} =
+      ⋂ s ∈ Finset.range (t + 1), {ω | 1 ≤ s → ω s ∉ S} := by
+    ext ω; simp only [Set.mem_setOf_eq, Set.mem_iInter, Finset.mem_range, g69ai_lt_hit]
+    constructor
+    · intro h s hs h1; exact h s h1 (by omega)
+    · intro h s h1 hs; exact h s (by omega) h1
+  rw [this]
+  refine Finset.measurableSet_biInter _ fun s _ => ?_
+  by_cases h1 : 1 ≤ s
+  · simp only [h1, true_implies]
+    have hm : Measurable (fun ω : ℕ → Fin (N + 1) => ω s) := measurable_pi_apply s
+    exact hm (MeasurableSet.of_discrete (s := Sᶜ))
+  · simp [h1]
+
+
+lemma g69ai_term_le (S : Set (Fin (N + 1))) {a : ℝ} (ha0 : 0 < a) (ω : ℕ → Fin (N + 1)) (t : ℕ) :
+    0 ≤ (if (t : ℕ∞) < hittingTime S ω then a ^ t * (fun _ => (1:ℝ)) (ω t) else 0) ∧
+    (if (t : ℕ∞) < hittingTime S ω then a ^ t * (fun _ => (1:ℝ)) (ω t) else 0) ≤ a ^ t := by
+  split_ifs <;> simp [pow_nonneg ha0.le]
+
+lemma g69ai_summ (S : Set (Fin (N + 1))) {a : ℝ} (ha0 : 0 < a) (ha1 : a < 1) (ω : ℕ → Fin (N + 1)) :
+    Summable (fun t : ℕ => if (t : ℕ∞) < hittingTime S ω then a ^ t * (fun _ => (1:ℝ)) (ω t) else 0) :=
+  Summable.of_nonneg_of_le (fun t => (g69ai_term_le S ha0 ω t).1) (fun t => (g69ai_term_le S ha0 ω t).2)
+    (summable_geometric_of_lt_one ha0.le ha1)
+
+lemma g69ai_ge_one (S : Set (Fin (N + 1))) {a : ℝ} (ha0 : 0 < a) (ha1 : a < 1) (ω : ℕ → Fin (N + 1)) :
+    1 ≤ discountedStoppedSum a (fun _ => (1:ℝ)) (hittingTime S) ω := by
+  unfold discountedStoppedSum
+  have h0 : (if ((0:ℕ) : ℕ∞) < hittingTime S ω then a ^ 0 * (fun _ => (1:ℝ)) (ω 0) else 0) = 1 := by
+    rw [if_pos ((g69ai_lt_hit S ω 0).2 (fun s h1 h2 => by omega))]; simp
+  have := (g69ai_summ S ha0 ha1 ω).le_tsum 0 (fun t _ => (g69ai_term_le S ha0 ω t).1)
+  rw [h0] at this; exact this
+
+lemma g69ai_le (S : Set (Fin (N + 1))) {a : ℝ} (ha0 : 0 < a) (ha1 : a < 1) (ω : ℕ → Fin (N + 1)) :
+    discountedStoppedSum a (fun _ => (1:ℝ)) (hittingTime S) ω ≤ (1 - a)⁻¹ := by
+  unfold discountedStoppedSum
+  rw [← tsum_geometric_of_lt_one ha0.le ha1]
+  exact (g69ai_summ S ha0 ha1 ω).tsum_le_tsum (fun t => (g69ai_term_le S ha0 ω t).2)
+    (summable_geometric_of_lt_one ha0.le ha1)
+
+lemma g69ai_meas (S : Set (Fin (N + 1))) {a : ℝ} (ha0 : 0 < a) (ha1 : a < 1) :
+    Measurable (discountedStoppedSum a (fun _ => (1:ℝ)) (hittingTime S)) := by
+  have hterm : ∀ t : ℕ, Measurable (fun ω : ℕ → Fin (N + 1) =>
+      if (t : ℕ∞) < hittingTime S ω then a ^ t * (fun _ => (1:ℝ)) (ω t) else 0) := by
+    intro t
+    have : (fun ω : ℕ → Fin (N + 1) =>
+        if (t : ℕ∞) < hittingTime S ω then a ^ t * (fun _ => (1:ℝ)) (ω t) else 0) =
+        Set.indicator {ω | (t : ℕ∞) < hittingTime S ω} (fun _ => a ^ t) := by
+      ext ω; simp [Set.indicator]
+    rw [this]; exact measurable_const.indicator (g69ai_meas_set S t)
+  refine measurable_of_tendsto_metrizable (f := fun n ω => ∑ t ∈ Finset.range n,
+      (if (t : ℕ∞) < hittingTime S ω then a ^ t * (fun _ => (1:ℝ)) (ω t) else 0))
+    (fun n => Finset.measurable_sum _ fun t _ => hterm t) ?_
+  exact tendsto_pi_nhds.2 fun ω => (g69ai_summ S ha0 ha1 ω).hasSum.tendsto_sum_nat
+
+instance g69ai_prob (P : Kernel (Fin (N + 1)) (Fin (N + 1))) [IsMarkovKernel P] (x : Fin (N + 1)) :
+    IsProbabilityMeasure (markovChainMeasure P x) := by
+  unfold markovChainMeasure; infer_instance
+
+lemma g69ai_A_ge (P : Kernel (Fin (N + 1)) (Fin (N + 1))) [IsMarkovKernel P] {a : ℝ}
+    (ha0 : 0 < a) (ha1 : a < 1) (S : Finset (Fin (N + 1))) (j : Fin (N + 1)) (hj : j ∈ S) :
+    1 ≤ conservationCoeff P a S j := by
+  unfold conservationCoeff stoppedTime
+  rw [if_pos hj]
+  have hint : Integrable (discountedStoppedSum a (fun _ => (1:ℝ)) (hittingTime (↑S : Set (Fin (N + 1)))))
+      (markovChainMeasure P j) := by
+    refine Integrable.of_bound (C := (1 - a)⁻¹) (g69ai_meas _ ha0 ha1).aestronglyMeasurable ?_
+    refine Filter.Eventually.of_forall fun ω => ?_
+    rw [Real.norm_eq_abs, abs_of_nonneg (le_trans zero_le_one (g69ai_ge_one _ ha0 ha1 ω))]
+    exact g69ai_le _ ha0 ha1 ω
+  calc (1:ℝ) = ∫ _ω, (1:ℝ) ∂markovChainMeasure P j := by simp
+    _ ≤ _ := integral_mono (integrable_const 1) hint (fun ω => g69ai_ge_one _ ha0 ha1 ω)
+
+lemma g69ai_A_univ (P : Kernel (Fin (N + 1)) (Fin (N + 1))) [IsMarkovKernel P] {a : ℝ}
+    (j : Fin (N + 1)) : conservationCoeff P a Finset.univ j = 1 := by
+  unfold conservationCoeff stoppedTime
+  rw [if_pos (Finset.mem_univ j)]
+  have : ∀ ω : ℕ → Fin (N + 1),
+      discountedStoppedSum a (fun _ => (1:ℝ)) (hittingTime (↑(Finset.univ : Finset (Fin (N + 1))))) ω = 1 := by
+    intro ω
+    unfold discountedStoppedSum
+    have e : ∀ t : ℕ, (if (t : ℕ∞) < hittingTime (↑(Finset.univ : Finset (Fin (N + 1)))) ω
+        then a ^ t * (fun _ => (1:ℝ)) (ω t) else 0) = if t = 0 then 1 else 0 := by
+      intro t
+      by_cases ht : t = 0
+      · subst ht; rw [if_pos ((g69ai_lt_hit _ ω 0).2 (fun s h1 h2 => by omega))]; simp
+      · rw [if_neg, if_neg ht]
+        rw [g69ai_lt_hit]; push Not
+        exact ⟨1, le_rfl, by omega, by simp⟩
+    simp_rw [e]; exact tsum_ite_eq 0 1
+  simp_rw [this]; simp
+
+end G69AI
+
+
+open MeasureTheory ProbabilityTheory BanditAlgorithm Finset
+open AllocationIndices.Branching
+/-- Eq. (5.21) in the form recalled on p. 139: when the job types are numbered in the order produced
+by the adaptive greedy algorithm `AG(A, r)` for the SFABP matrix `A` of (5.3) (here `Aᵢ^E = 1`),
+`r_j = ν_N − ∑_{i=j}^{N−1} (ν_{i+1} − ν_i) A_j^{S_i}` for every job type `j`. -/
+theorem solution {N : ℕ} (P : Kernel (Fin (N + 1)) (Fin (N + 1)))
+    [IsMarkovKernel P] (a : ℝ) (ha₀ : 0 < a) (ha₁ : a < 1) (r : Fin (N + 1) → ℝ)
+    (y : Fin (N + 1) → ℝ)
+    (hAG : IsAdaptiveGreedy (conservationCoeff P a) r (Equiv.refl (Fin (N + 1))) y)
+    (j : Fin (N + 1)) :
+    r j = greedyIndex (Equiv.refl (Fin (N + 1))) y (Fin.last N) -
+      ∑ i ∈ univ.filter (fun i : Fin N ↦ j ≤ i.castSucc),
+        (greedyIndex (Equiv.refl (Fin (N + 1))) y i.succ -
+          greedyIndex (Equiv.refl (Fin (N + 1))) y i.castSucc) *
+          conservationCoeff P a (Iic i.castSucc) j := by
+  have hlow : ∀ l : Fin (N + 1), lowSet (Equiv.refl (Fin (N + 1))) ((l : ℕ) + 1) = Finset.Iic l := by
+    intro l; ext x; simp only [lowSet, Equiv.coe_refl, Finset.image_id, Finset.mem_filter, Finset.mem_univ, true_and, Finset.mem_Iic, Fin.le_iff_val_le_val]; omega
+  have hg := (hAG j).2
+  simp only [Equiv.refl_apply] at hg
+  rw [hlow j] at hg
+  have hpos : 0 < conservationCoeff P a (Iic j) j :=
+    lt_of_lt_of_le one_pos (g69ai_A_ge P ha₀ ha₁ _ j (Finset.mem_Iic.2 le_rfl))
+  have hr : r j = y j * conservationCoeff P a (Iic j) j +
+      ∑ l ∈ univ.filter (fun l => j < l), conservationCoeff P a (Iic l) j * y l := by
+    unfold greedyNumerator at hg
+    simp only [hlow] at hg
+    rw [div_eq_iff hpos.ne'] at hg
+    linarith
+  -- greedy indices
+  have hgI : ∀ x : Fin (N + 1), greedyIndex (Equiv.refl (Fin (N + 1))) y x =
+      ∑ l, if x ≤ l then y l else 0 := by
+    intro x; unfold greedyIndex; rw [Finset.sum_filter]; rfl
+  have hlast : greedyIndex (Equiv.refl (Fin (N + 1))) y (Fin.last N) = y (Fin.last N) := by
+    rw [hgI]
+    have : ∀ l : Fin (N + 1), (if Fin.last N ≤ l then y l else 0) = if l = Fin.last N then y l else 0 := by
+      intro l; congr 1; apply propext; constructor
+      · intro h; exact le_antisymm (Fin.le_last l) h
+      · intro h; rw [h]
+    simp_rw [this]; simp
+  have hdiff : ∀ i : Fin N, greedyIndex (Equiv.refl (Fin (N + 1))) y i.succ -
+      greedyIndex (Equiv.refl (Fin (N + 1))) y i.castSucc = -y i.castSucc := by
+    intro i
+    rw [hgI, hgI]
+    have : ∀ l : Fin (N + 1), (if i.castSucc ≤ l then y l else 0) =
+        (if l = i.castSucc then y l else 0) + (if i.succ ≤ l then y l else 0) := by
+      intro l
+      by_cases h1 : l = i.castSucc
+      · subst h1
+        have : ¬ i.succ ≤ i.castSucc := by simp [Fin.le_def]
+        simp [this]
+      · have : (i.castSucc ≤ l) ↔ (i.succ ≤ l) := by
+          simp only [Fin.le_def, Fin.coe_castSucc, Fin.val_succ]
+          have : (l : ℕ) ≠ i := fun h => h1 (Fin.ext h)
+          omega
+        simp [h1, this]
+    simp_rw [this, Finset.sum_add_distrib]; simp
+  have hA1 : conservationCoeff P a (Iic (Fin.last N)) j = 1 := by
+    have : (Iic (Fin.last N) : Finset (Fin (N + 1))) = univ := by
+      ext x; simp [Fin.le_last]
+    rw [this]; exact g69ai_A_univ P j
+  -- LHS as a full sum
+  have e1 : r j = ∑ l, if j ≤ l then conservationCoeff P a (Iic l) j * y l else 0 := by
+    rw [hr, Finset.sum_filter]
+    have : ∀ l : Fin (N + 1), (if j ≤ l then conservationCoeff P a (Iic l) j * y l else 0) =
+        (if l = j then conservationCoeff P a (Iic l) j * y l else 0) +
+          (if j < l then conservationCoeff P a (Iic l) j * y l else 0) := by
+      intro l
+      by_cases h1 : l = j
+      · subst h1; simp
+      · have : j ≤ l ↔ j < l := ⟨fun h => lt_of_le_of_ne h (Ne.symm h1), le_of_lt⟩
+        simp [h1, this]
+    simp_rw [this, Finset.sum_add_distrib]; simp; ring
+  rw [e1, Fin.sum_univ_castSucc, hlast, Finset.sum_filter]
+  simp_rw [hdiff]
+  rw [if_pos (Fin.le_last j), hA1]
+  have : ∀ i : Fin N, (if j ≤ i.castSucc then -y i.castSucc * conservationCoeff P a (Iic i.castSucc) j else 0)
+      = -(if j ≤ i.castSucc then conservationCoeff P a (Iic i.castSucc) j * y i.castSucc else 0) := by
+    intro i; split_ifs <;> ring
+  simp_rw [this, Finset.sum_neg_distrib]; ring
+
+

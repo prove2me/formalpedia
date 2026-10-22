@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.coordinate_pole_divisor_le_weighted
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:35:28.890655+00:00
 -- url     : https://prove2.me/submissions/f06e7a42-13c0-41c7-9415-fb5f3031211c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_WeightedIdealCurveCriterion
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_finsum_coordinate_pole_le_weighted

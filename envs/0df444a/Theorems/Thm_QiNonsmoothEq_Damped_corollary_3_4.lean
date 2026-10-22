@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Damped_corollary_3_4
 -- name    : QiNonsmoothEq.Damped.corollary_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:31.303524+00:00
 -- url     : https://prove2.me/theorems/f63dc7c1-7869-4de1-8d0a-9cf36224cd65

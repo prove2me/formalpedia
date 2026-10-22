@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_ExpCrit_corollary_1
 -- name    : AddLogReg.ExpCrit.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:05:22.711989+00:00
 -- url     : https://prove2.me/theorems/113e1093-85b9-49a7-a76a-16aab3e7437a

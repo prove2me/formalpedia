@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_strict_epigraph_iff_not_almost_solvable
 -- name    : ModernConvex.Truss.strict_epigraph_iff_not_almost_solvable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:32.095422+00:00
 -- url     : https://prove2.me/theorems/a73e38f6-be01-436a-a881-335a1a7e86fe

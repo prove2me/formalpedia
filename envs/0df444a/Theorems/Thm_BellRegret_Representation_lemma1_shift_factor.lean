@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Representation_lemma1_shift_factor
 -- name    : BellRegret.Representation.lemma1_shift_factor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:20:42.753143+00:00
 -- url     : https://prove2.me/theorems/a9e74c17-e3bd-47a2-ab30-2e86e47e21c5

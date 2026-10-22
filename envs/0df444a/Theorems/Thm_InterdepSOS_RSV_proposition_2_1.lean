@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_RSV_proposition_2_1
 -- name    : InterdepSOS.RSV.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:31.225085+00:00
 -- url     : https://prove2.me/theorems/250e6226-9333-4e00-816d-7a9194b29bec

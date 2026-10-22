@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicQuadIPM_Complementarity_eq_61
 -- name    : ConicQuadIPM.Complementarity.eq_61
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:51.881893+00:00
 -- url     : https://prove2.me/theorems/e10b69f9-0daa-46bd-93d2-15af04cb6dda

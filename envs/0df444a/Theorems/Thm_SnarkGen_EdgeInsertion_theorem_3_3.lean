@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_EdgeInsertion_theorem_3_3
 -- name    : SnarkGen.EdgeInsertion.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:06:14.296439+00:00
 -- url     : https://prove2.me/theorems/fe6ec70a-faed-4548-923a-bb6b6e33c9a3

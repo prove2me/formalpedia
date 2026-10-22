@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjLikeRetr_Projective_lemma_3_1
 -- name    : ProjLikeRetr.Projective.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:38:37.811416+00:00
 -- url     : https://prove2.me/theorems/552c6f76-d1ce-4f3e-be13-df7e762121a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_CSSP_exists_unit_small
 -- name    : CurvatureSubmod.CSSP.exists_unit_small
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:58:12.713071+00:00
 -- url     : https://prove2.me/theorems/2d7c9f78-50df-42c5-9b26-1d87d38332ae

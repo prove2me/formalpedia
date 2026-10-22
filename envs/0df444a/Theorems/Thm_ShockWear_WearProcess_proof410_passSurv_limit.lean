@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_WearProcess_proof410_passSurv_limit
 -- name    : ShockWear.WearProcess.proof410_passSurv_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:56:03.909078+00:00
 -- url     : https://prove2.me/theorems/c5b9269a-fe92-4e60-8220-be0c5fd31526

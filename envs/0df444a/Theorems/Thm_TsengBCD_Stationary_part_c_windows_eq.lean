@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengBCD_Stationary_part_c_windows_eq
 -- name    : TsengBCD.Stationary.part_c_windows_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T22:18:36.692297+00:00
 -- url     : https://prove2.me/theorems/a6afa2d0-4db0-4959-9dcd-43181f7b04da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_pne_bid_zero_or_ge_fee
 -- name    : TradingPostNSW.Leontief.pne_bid_zero_or_ge_fee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:15.014408+00:00
 -- url     : https://prove2.me/theorems/baa2de5c-34a6-473a-ad6c-fbd421d7f46e

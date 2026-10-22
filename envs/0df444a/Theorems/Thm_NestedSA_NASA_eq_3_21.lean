@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSA_NASA_eq_3_21
 -- name    : NestedSA.NASA.eq_3_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:38:51.566957+00:00
 -- url     : https://prove2.me/theorems/bf57e45d-6ade-473e-bb72-dae49d6e57b0

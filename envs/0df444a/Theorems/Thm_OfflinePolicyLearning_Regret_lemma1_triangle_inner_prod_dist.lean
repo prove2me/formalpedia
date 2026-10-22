@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflinePolicyLearning_Regret_lemma1_triangle_inner_prod_dist
 -- name    : OfflinePolicyLearning.Regret.lemma1_triangle_inner_prod_dist
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:33:49.244953+00:00
 -- url     : https://prove2.me/theorems/37f36250-5207-4dd8-8d57-72ac81a01cd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_quadratic_form_minimum
 -- name    : ModernConvex.Truss.quadratic_form_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:31:50.092153+00:00
 -- url     : https://prove2.me/theorems/11556a94-5fa6-4e93-8e8d-db9a89534957

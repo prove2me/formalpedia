@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedDegreeST_PlusOne_lemma_4_3
 -- name    : BoundedDegreeST.PlusOne.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:05.770919+00:00
 -- url     : https://prove2.me/theorems/fbd33052-7557-4054-9e32-ce33ad012d41

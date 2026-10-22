@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpilloverDuopoly_Switchers_theorem_1
 -- name    : SpilloverDuopoly.Switchers.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:37:40.563459+00:00
 -- url     : https://prove2.me/theorems/3c0d535f-6cfe-47a5-ba5c-5c9db405c326

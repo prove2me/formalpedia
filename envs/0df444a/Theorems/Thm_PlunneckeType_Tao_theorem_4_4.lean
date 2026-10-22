@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Tao_theorem_4_4
 -- name    : PlunneckeType.Tao.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:37.327436+00:00
 -- url     : https://prove2.me/theorems/560c002b-6cf3-4f6d-8c94-454f5e3c397f

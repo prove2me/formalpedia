@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LoanInsurance_Liquid_proposition_2
 -- name    : LoanInsurance.Liquid.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:33:27.208498+00:00
 -- url     : https://prove2.me/theorems/4d82fc0e-127a-49b9-93a7-b979ba89f106

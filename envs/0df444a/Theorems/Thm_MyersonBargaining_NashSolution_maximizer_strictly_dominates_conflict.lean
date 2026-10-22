@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_NashSolution_maximizer_strictly_dominates_conflict
 -- name    : MyersonBargaining.NashSolution.maximizer_strictly_dominates_conflict
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:10.862909+00:00
 -- url     : https://prove2.me/theorems/d213559c-7bc5-4085-8765-512e5e9cf69c

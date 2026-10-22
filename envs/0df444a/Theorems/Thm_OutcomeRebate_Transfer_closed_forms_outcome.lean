@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutcomeRebate_Transfer_closed_forms_outcome
 -- name    : OutcomeRebate.Transfer.closed_forms_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:24.453981+00:00
 -- url     : https://prove2.me/theorems/9aaaa719-ed7a-4fcd-817e-f6339f20ef0e

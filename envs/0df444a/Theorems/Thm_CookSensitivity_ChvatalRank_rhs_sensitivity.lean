@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_rhs_sensitivity
 -- name    : CookSensitivity.ChvatalRank.rhs_sensitivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:37:56.980284+00:00
 -- url     : https://prove2.me/theorems/b30ee461-5321-4b65-ba77-7f2044e32a71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_compact_induced
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.compact_induced
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T05:02:24.90317+00:00
 -- url     : https://prove2.me/theorems/150a8479-d631-4d42-a9d3-d7bb2da5fb51

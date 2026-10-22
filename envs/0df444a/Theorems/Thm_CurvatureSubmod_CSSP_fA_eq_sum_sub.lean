@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_CSSP_fA_eq_sum_sub
 -- name    : CurvatureSubmod.CSSP.fA_eq_sum_sub
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:43.71899+00:00
 -- url     : https://prove2.me/theorems/1821c282-a610-4948-b337-b156fa4bf464

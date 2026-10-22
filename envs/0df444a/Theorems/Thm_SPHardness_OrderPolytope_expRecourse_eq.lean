@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_OrderPolytope_expRecourse_eq
 -- name    : SPHardness.OrderPolytope.expRecourse_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:10:17.950978+00:00
 -- url     : https://prove2.me/theorems/e8c3831b-d694-4481-9fbe-cff5652fcc80

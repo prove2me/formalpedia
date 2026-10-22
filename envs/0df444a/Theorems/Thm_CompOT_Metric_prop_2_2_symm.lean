@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Metric_prop_2_2_symm
 -- name    : CompOT.Metric.prop_2_2_symm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:06.268439+00:00
 -- url     : https://prove2.me/theorems/3283911d-16a5-4afb-8366-b3550bd6064c

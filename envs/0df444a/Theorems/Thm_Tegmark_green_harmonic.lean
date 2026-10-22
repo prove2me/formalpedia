@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Tegmark_green_harmonic
 -- name    : Tegmark.green_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T04:18:05.273661+00:00
 -- url     : https://prove2.me/theorems/60ac3d37-7d2c-4601-bcec-86021d582538

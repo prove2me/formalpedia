@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_Throughput_mp_fluid_weak_stability
 -- name    : MaxPressure.Throughput.mp_fluid_weak_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:47:59.672586+00:00
 -- url     : https://prove2.me/theorems/7e20be4f-59ad-471d-bfb4-a335c8df836d

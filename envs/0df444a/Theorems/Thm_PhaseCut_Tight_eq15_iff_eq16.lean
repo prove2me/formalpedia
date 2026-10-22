@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_eq15_iff_eq16
 -- name    : PhaseCut.Tight.eq15_iff_eq16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:39:07.979959+00:00
 -- url     : https://prove2.me/theorems/625e3432-b775-4225-8af6-06624895837a

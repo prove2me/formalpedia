@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Local_theorem_3_1
 -- name    : QiNonsmoothEq.Local.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:16.48788+00:00
 -- url     : https://prove2.me/theorems/c13af3a5-b986-42a2-881c-1c468519dca9

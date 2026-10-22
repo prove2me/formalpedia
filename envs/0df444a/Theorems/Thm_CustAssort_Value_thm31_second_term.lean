@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_Value_thm31_second_term
 -- name    : CustAssort.Value.thm31_second_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:19.332047+00:00
 -- url     : https://prove2.me/theorems/98213230-cecb-43a8-8110-2bd43328be53

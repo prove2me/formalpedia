@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_AVC_spectrum_LPol_Icc
 -- name    : AccelVI.AVC.spectrum_LPol_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:11.518403+00:00
 -- url     : https://prove2.me/theorems/a615eaf9-1465-4552-815b-6ba2142b8562

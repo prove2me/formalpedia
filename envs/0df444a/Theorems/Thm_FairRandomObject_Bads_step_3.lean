@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRandomObject_Bads_step_3
 -- name    : FairRandomObject.Bads.step_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:49.966801+00:00
 -- url     : https://prove2.me/theorems/2aca95cf-ea33-4745-aead-0f54678d3f37

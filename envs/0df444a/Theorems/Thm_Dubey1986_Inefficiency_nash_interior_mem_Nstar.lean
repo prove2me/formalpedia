@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Dubey1986_Inefficiency_nash_interior_mem_Nstar
 -- name    : Dubey1986.Inefficiency.nash_interior_mem_Nstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:35:30.682991+00:00
 -- url     : https://prove2.me/theorems/4e0542b2-ff44-4d66-87a3-372dcd77f06d

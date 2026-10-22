@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_sdr_marginal_hall
 -- name    : FlowsNetworks.Representatives.sdr_marginal_hall
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:29.778188+00:00
 -- url     : https://prove2.me/theorems/7bdca05b-d0ea-452e-9aa0-6ac1834ae649

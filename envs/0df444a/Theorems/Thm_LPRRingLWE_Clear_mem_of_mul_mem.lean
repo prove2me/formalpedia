@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPRRingLWE_Clear_mem_of_mul_mem
 -- name    : LPRRingLWE.Clear.mem_of_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:33:43.819285+00:00
 -- url     : https://prove2.me/theorems/70d78eb9-6be0-4a58-971e-75a0f07c3333

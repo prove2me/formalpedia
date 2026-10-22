@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_lemma_5
 -- name    : TwoStageSRO.AsymOpt.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:25.29026+00:00
 -- url     : https://prove2.me/theorems/5ea076e1-623f-4f57-9edc-dd08c04cdafb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Stabilization_corollary_4_13_hypotheses
 -- name    : QuadMatIneq.Stabilization.corollary_4_13_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:15.899979+00:00
 -- url     : https://prove2.me/theorems/a62da751-e80d-43b8-8cbb-285f1684b101

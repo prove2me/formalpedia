@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_AverageCost_follow_cycle
 -- name    : MDPComplexity.AverageCost.follow_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:58:14.721384+00:00
 -- url     : https://prove2.me/theorems/a2b7e442-4ecd-4682-a1ed-cf892935aa1a

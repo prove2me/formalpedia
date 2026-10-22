@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Hump_proposition3_hump_shaped
 -- name    : Multihoming.Hump.proposition3_hump_shaped
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:41.333029+00:00
 -- url     : https://prove2.me/theorems/6d0992d7-09d8-4b38-a15a-d25c9cd10c7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_never_dominates_self
 -- name    : TheoryOfGames.ThreePerson.never_dominates_self
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:23:58.253586+00:00
 -- url     : https://prove2.me/theorems/a929bdd4-8bbd-4c81-95ae-8e9469d3762f

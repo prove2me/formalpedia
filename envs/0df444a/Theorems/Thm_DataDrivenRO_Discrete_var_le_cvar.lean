@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenRO_Discrete_var_le_cvar
 -- name    : DataDrivenRO.Discrete.var_le_cvar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:43:39.49867+00:00
 -- url     : https://prove2.me/theorems/16190d2f-bbec-4ef8-92a0-3e2c55c139ee

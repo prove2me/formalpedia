@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_Orthant_g_ge_h
 -- name    : OptInapprox.Orthant.g_ge_h
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:30:17.821932+00:00
 -- url     : https://prove2.me/theorems/cba7b04e-2f81-4839-9984-367d86b368c7

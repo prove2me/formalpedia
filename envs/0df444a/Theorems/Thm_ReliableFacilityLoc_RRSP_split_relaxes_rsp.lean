@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_RRSP_split_relaxes_rsp
 -- name    : ReliableFacilityLoc.RRSP.split_relaxes_rsp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:18:01.963095+00:00
 -- url     : https://prove2.me/theorems/c20eedc1-1e67-4aa9-9e19-76353c0999c2

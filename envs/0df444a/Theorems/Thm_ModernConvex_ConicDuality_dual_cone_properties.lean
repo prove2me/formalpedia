@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_ConicDuality_dual_cone_properties
 -- name    : ModernConvex.ConicDuality.dual_cone_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:28.639737+00:00
 -- url     : https://prove2.me/theorems/f921e06f-c06a-4ede-af5a-2d14cefd5daf

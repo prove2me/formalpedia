@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_AverageCost_no_better_policy
 -- name    : MDPComplexity.AverageCost.no_better_policy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:57:56.418206+00:00
 -- url     : https://prove2.me/theorems/3b582b0a-1169-4970-aaba-61cad5edccfb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Ext_pairE_Fe_sub_eq
 -- name    : OffloadGNEP.Ext.pairE_Fe_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:41:50.714036+00:00
 -- url     : https://prove2.me/theorems/f8e6b2b2-b12a-461b-b5db-254cfef4710d

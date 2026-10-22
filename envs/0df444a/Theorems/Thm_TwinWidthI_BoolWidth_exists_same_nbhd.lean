@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BoolWidth_exists_same_nbhd
 -- name    : TwinWidthI.BoolWidth.exists_same_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:38.340027+00:00
 -- url     : https://prove2.me/theorems/f6d9c38f-4e03-4f98-a56e-0332058383b7

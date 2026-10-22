@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_LP_small_p_near_central_path
 -- name    : YeIPA.LP.small_p_near_central_path
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:34.921986+00:00
 -- url     : https://prove2.me/theorems/177eb1cc-c62c-498b-8dcd-267961e49473

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Attraction_trapping_step
 -- name    : QiNonsmoothEq.Attraction.trapping_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:25.059511+00:00
 -- url     : https://prove2.me/theorems/c348d452-a82f-481c-8be7-dcb1cfaab926

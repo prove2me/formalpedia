@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_ExpCrit_lemma_1
 -- name    : AddLogReg.ExpCrit.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:04:46.90833+00:00
 -- url     : https://prove2.me/theorems/aaf6023b-c488-4876-abdd-285b1d285104

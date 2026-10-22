@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrieszDUE_PIE_ess_inf_lower_bound_17
 -- name    : FrieszDUE.PIE.ess_inf_lower_bound_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:19:34.782143+00:00
 -- url     : https://prove2.me/theorems/6413320a-47c4-4d35-b61f-19a85ea3b0ac

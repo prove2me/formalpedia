@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_SearchQC_D_K_pos_increasing
 -- name    : AssortSearch.SearchQC.D_K_pos_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:09.33646+00:00
 -- url     : https://prove2.me/theorems/8e942b6e-5bba-489a-ad97-92de5f3701eb

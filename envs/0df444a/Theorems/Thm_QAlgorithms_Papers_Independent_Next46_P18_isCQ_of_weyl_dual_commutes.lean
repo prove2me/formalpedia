@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P18_isCQ_of_weyl_dual_commutes
 -- name    : QAlgorithms.Papers.Independent.Next46.P18.isCQ_of_weyl_dual_commutes
--- status  : Open
+-- status  : Proved
 -- author  : @Imine
 -- created : 2026-10-21T00:59:35.662536+00:00
 -- url     : https://prove2.me/theorems/29e982ac-6018-4981-b69a-01ed062eeded

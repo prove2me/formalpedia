@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_coordinate_poles_invariant_sub_const
 -- name    : OAI.PiExponent.FormalInterpolation.coordinate_poles_invariant_sub_const
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T04:23:16.802996+00:00
 -- url     : https://prove2.me/theorems/3ff1d972-b04d-4823-a6b2-178e5007e830

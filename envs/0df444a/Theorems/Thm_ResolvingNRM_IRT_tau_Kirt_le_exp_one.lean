@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_IRT_tau_Kirt_le_exp_one
 -- name    : ResolvingNRM.IRT.tau_Kirt_le_exp_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:21:24.504862+00:00
 -- url     : https://prove2.me/theorems/98613fc6-b1cb-42c0-ae7a-62e2437c28bf

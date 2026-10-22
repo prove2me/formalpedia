@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Diag_lemma_4
 -- name    : AdaGrad.Diag.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:31:21.589405+00:00
 -- url     : https://prove2.me/theorems/efa28791-70e3-4020-8be0-d0aaa51fbd5f

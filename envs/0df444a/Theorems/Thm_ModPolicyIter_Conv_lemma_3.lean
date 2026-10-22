@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModPolicyIter_Conv_lemma_3
 -- name    : ModPolicyIter.Conv.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:14:08.675368+00:00
 -- url     : https://prove2.me/theorems/9debc3e9-43d5-45ab-8fc8-aba42387c72b

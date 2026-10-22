@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_hermite_kernel
 -- name    : NatureSLT.Kernels.hermite_kernel
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:57.765849+00:00
 -- url     : https://prove2.me/theorems/3e899589-0a0f-410a-b3e7-085161b3fafe

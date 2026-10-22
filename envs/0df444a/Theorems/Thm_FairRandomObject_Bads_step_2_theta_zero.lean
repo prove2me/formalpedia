@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRandomObject_Bads_step_2_theta_zero
 -- name    : FairRandomObject.Bads.step_2_theta_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:00.875989+00:00
 -- url     : https://prove2.me/theorems/3461e8c6-0c87-4013-bc9c-5b016fba7acf

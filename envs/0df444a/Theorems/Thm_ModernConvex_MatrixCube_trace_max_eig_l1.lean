@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_trace_max_eig_l1
 -- name    : ModernConvex.MatrixCube.trace_max_eig_l1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:47.150007+00:00
 -- url     : https://prove2.me/theorems/7ef3dc01-e377-4237-8216-ec5b0b30b8af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SOSInference_Means_closest_point_bound
 -- name    : SOSInference.Means.closest_point_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:06.929789+00:00
 -- url     : https://prove2.me/theorems/ef23149f-6ba2-43b1-87b8-0ed60bb74941

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleCorrMFG_Conv_lemma_A_2
 -- name    : SimpleCorrMFG.Conv.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:47.403036+00:00
 -- url     : https://prove2.me/theorems/269cdb90-496e-4e26-a7f9-4c9de201785b

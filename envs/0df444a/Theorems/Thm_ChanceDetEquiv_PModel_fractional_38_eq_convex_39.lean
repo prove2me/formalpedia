@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceDetEquiv_PModel_fractional_38_eq_convex_39
 -- name    : ChanceDetEquiv.PModel.fractional_38_eq_convex_39
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:58:14.547228+00:00
 -- url     : https://prove2.me/theorems/025f4544-14c3-43e2-9bf9-ee9b27b9ab8f

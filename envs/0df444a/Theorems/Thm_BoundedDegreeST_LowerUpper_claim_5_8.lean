@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedDegreeST_LowerUpper_claim_5_8
 -- name    : BoundedDegreeST.LowerUpper.claim_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:26.52561+00:00
 -- url     : https://prove2.me/theorems/fa2bcbeb-2a26-4546-a1db-45d5737694b5

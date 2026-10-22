@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradeCreditIns_Cancelable_upper_bound
 -- name    : TradeCreditIns.Cancelable.upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:40.892709+00:00
 -- url     : https://prove2.me/theorems/1aec1be2-cdf9-47ea-9730-a160532da281

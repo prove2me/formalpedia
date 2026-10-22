@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Protective_proposition3_protective_effort
 -- name    : PlatformEntry.Protective.proposition3_protective_effort
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:36.260484+00:00
 -- url     : https://prove2.me/theorems/04d8822d-1db9-4f22-8978-0940c704f56d

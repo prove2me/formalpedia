@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_WellPosed_lemma_20
 -- name    : NesterovODE.WellPosed.lemma_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:41:14.390217+00:00
 -- url     : https://prove2.me/theorems/14324b06-3e1e-44cf-9c9c-39028045dcac

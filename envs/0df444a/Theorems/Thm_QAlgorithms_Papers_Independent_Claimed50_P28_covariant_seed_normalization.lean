@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_covariant_seed_normalization
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.covariant_seed_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:28:52.121671+00:00
 -- url     : https://prove2.me/theorems/f7fe2d1c-4b40-488a-8eec-c6ee151a1eea

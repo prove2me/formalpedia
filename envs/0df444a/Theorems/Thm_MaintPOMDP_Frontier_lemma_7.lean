@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaintPOMDP_Frontier_lemma_7
 -- name    : MaintPOMDP.Frontier.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:34.856556+00:00
 -- url     : https://prove2.me/theorems/23ddb247-0922-4419-9918-fdfdcf16e75e

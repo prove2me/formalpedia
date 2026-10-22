@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_corollary2a_policy_value
 -- name    : RobustDP.Discounted.corollary2a_policy_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:46:03.692481+00:00
 -- url     : https://prove2.me/theorems/1832667d-f825-4f1d-b4b0-16fc8b465a8a

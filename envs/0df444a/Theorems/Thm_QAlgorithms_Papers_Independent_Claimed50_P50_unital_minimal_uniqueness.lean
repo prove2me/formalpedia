@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P50_unital_minimal_uniqueness
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P50.unital_minimal_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:18:23.510287+00:00
 -- url     : https://prove2.me/theorems/c88edf77-1b45-4b0c-9099-e3a4d05585f1

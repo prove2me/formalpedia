@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Spectral_convex_symmetric_eig_eq_max_diag
 -- name    : ModernConvex.Spectral.convex_symmetric_eig_eq_max_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:31.702124+00:00
 -- url     : https://prove2.me/theorems/e1977017-3df9-4178-9b02-c149581c940d

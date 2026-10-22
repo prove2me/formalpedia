@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.bounded_representatives_to_monic_relations
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:30:11.639406+00:00
 -- url     : https://prove2.me/submissions/223ccaf2-e28e-4b55-b210-1dc502403c17
 

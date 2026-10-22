@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_neighpr_wit
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.neighpr_wit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:52:16.272011+00:00
 -- url     : https://prove2.me/theorems/e93e3056-43ae-4866-8001-28c0d6cd1398

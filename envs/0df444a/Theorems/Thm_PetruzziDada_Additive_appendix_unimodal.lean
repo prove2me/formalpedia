@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PetruzziDada_Additive_appendix_unimodal
 -- name    : PetruzziDada.Additive.appendix_unimodal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:13.744984+00:00
 -- url     : https://prove2.me/theorems/6b064213-5d67-40b3-a1a8-98a045700957

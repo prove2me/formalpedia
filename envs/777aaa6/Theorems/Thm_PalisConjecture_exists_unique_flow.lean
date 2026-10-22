@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalisConjecture_exists_unique_flow
 -- name    : PalisConjecture.exists_unique_flow
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T03:19:09.257984+00:00
 -- url     : https://prove2.me/theorems/2d099930-25cd-41b6-8c44-9aa6093ea122

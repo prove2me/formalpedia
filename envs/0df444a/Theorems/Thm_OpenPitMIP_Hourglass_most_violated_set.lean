@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_Hourglass_most_violated_set
 -- name    : OpenPitMIP.Hourglass.most_violated_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:30.032641+00:00
 -- url     : https://prove2.me/theorems/9adeab90-4682-4faa-90fe-1975ed78e3e7

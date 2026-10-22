@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeqLoss_LiabilityGame_liabilityGame_convex
 -- name    : SeqLoss.LiabilityGame.liabilityGame_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:33.191263+00:00
 -- url     : https://prove2.me/theorems/ab2061ba-a6c0-4cd0-8f22-fd77ae9d1427

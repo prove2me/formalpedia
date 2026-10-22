@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinNetProp_Mitosis_part_I_limited_liability
 -- name    : FinNetProp.Mitosis.part_I_limited_liability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:33.483169+00:00
 -- url     : https://prove2.me/theorems/987886ca-f3e1-4241-b20c-0877011df652

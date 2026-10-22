@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QLearning_Convergence_lemmaB1_discounting_tail
 -- name    : QLearning.Convergence.lemmaB1_discounting_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:26.33555+00:00
 -- url     : https://prove2.me/theorems/86c72e2e-a4e4-4e12-98e5-e67e3eb99bad

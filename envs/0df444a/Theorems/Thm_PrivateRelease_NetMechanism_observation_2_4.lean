@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateRelease_NetMechanism_observation_2_4
 -- name    : PrivateRelease.NetMechanism.observation_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:10:02.39226+00:00
 -- url     : https://prove2.me/theorems/5539e060-9a58-4022-b06c-032d0cc82249

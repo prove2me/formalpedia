@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_NWDual_nw_eq_program
 -- name    : BootRobust.NWDual.nw_eq_program
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:23.164296+00:00
 -- url     : https://prove2.me/theorems/5896d2c4-9fa5-4b15-a2f3-b5316b04ce78

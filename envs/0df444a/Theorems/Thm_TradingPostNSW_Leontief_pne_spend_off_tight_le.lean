@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_pne_spend_off_tight_le
 -- name    : TradingPostNSW.Leontief.pne_spend_off_tight_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:12.620071+00:00
 -- url     : https://prove2.me/theorems/7fde02ca-2a20-4d6c-afd3-ad24d36b0e6d

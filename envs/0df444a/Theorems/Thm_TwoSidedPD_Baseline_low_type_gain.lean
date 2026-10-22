@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_low_type_gain
 -- name    : TwoSidedPD.Baseline.low_type_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:19.3324+00:00
 -- url     : https://prove2.me/theorems/b10eea06-28e5-4c77-8536-4163b83a0b5e

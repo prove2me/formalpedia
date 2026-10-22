@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_TwoIID_diagonal_allocation_monotone
 -- name    : MultiItemRev.TwoIID.diagonal_allocation_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-15T12:03:43.240168+00:00
 -- url     : https://prove2.me/theorems/00976fee-18fb-4ac0-975b-08d522b76350

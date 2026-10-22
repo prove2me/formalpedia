@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSPA_Affiliated_pointwise_bound_aff
 -- name    : RobustSPA.Affiliated.pointwise_bound_aff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:42.100258+00:00
 -- url     : https://prove2.me/theorems/ae7fa708-8cf3-4b88-80cb-c9ce0a81df3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_estimates_ratio
 -- name    : AssortSearch.HeurEq.estimates_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:36.017985+00:00
 -- url     : https://prove2.me/theorems/2ebfa605-c7da-4b8c-9212-5d606c3c1fd5

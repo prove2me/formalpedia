@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtomicDynFlow_IDNE_special_seq_exists
 -- name    : AtomicDynFlow.IDNE.special_seq_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:01.693359+00:00
 -- url     : https://prove2.me/theorems/a49f0c21-e34d-440d-a0a7-154f2b29a94b

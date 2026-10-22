@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostTruth_Regimes_threshold_gap
 -- name    : PostTruth.Regimes.threshold_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:23:34.038441+00:00
 -- url     : https://prove2.me/theorems/7f47f0b7-44f1-4bfa-be21-8448bd4bd794

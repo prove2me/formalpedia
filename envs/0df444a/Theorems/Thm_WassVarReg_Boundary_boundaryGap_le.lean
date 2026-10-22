@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassVarReg_Boundary_boundaryGap_le
 -- name    : WassVarReg.Boundary.boundaryGap_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:04:53.010316+00:00
 -- url     : https://prove2.me/theorems/06d785e3-9313-4930-97c3-e49758cbe5a2

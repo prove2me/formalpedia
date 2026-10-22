@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SRAudit_TwoPhase_proposition_D_1
 -- name    : SRAudit.TwoPhase.proposition_D_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:39.892968+00:00
 -- url     : https://prove2.me/theorems/15adf77a-22ab-4ac2-a87c-bb876ea8e979

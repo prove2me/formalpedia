@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPersuasion_Binary_chi_mem_P0_inter_P1
 -- name    : RiskPersuasion.Binary.chi_mem_P0_inter_P1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:40:33.556987+00:00
 -- url     : https://prove2.me/theorems/9c423b76-009b-45ab-9e53-43ca3d2090e8

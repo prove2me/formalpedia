@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BoolWidth_first_contraction_red_degree
 -- name    : TwinWidthI.BoolWidth.first_contraction_red_degree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:46.654049+00:00
 -- url     : https://prove2.me/theorems/9444af0c-9da8-4ebc-80f5-3c038302b3d5

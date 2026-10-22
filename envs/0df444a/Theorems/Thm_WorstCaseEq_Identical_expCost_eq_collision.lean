@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_expCost_eq_collision
 -- name    : WorstCaseEq.Identical.expCost_eq_collision
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:42.60889+00:00
 -- url     : https://prove2.me/theorems/92f6698e-f1e5-4a8d-8c92-b7e9e04f5a92

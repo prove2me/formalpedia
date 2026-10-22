@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Infeasible_theorem_6_8
 -- name    : WrightPDIPM.Infeasible.theorem_6_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:54:03.393226+00:00
 -- url     : https://prove2.me/theorems/9b408f1d-caba-452c-bbf3-afb18c8ef0ae

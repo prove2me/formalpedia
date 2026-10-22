@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Complexity_predictor_step
 -- name    : SelfDualLP.Complexity.predictor_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:01:20.837964+00:00
 -- url     : https://prove2.me/theorems/17c626d2-8358-487d-b98f-d76fbf9a48fb

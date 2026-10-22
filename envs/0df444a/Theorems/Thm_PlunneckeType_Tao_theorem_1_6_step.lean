@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Tao_theorem_1_6_step
 -- name    : PlunneckeType.Tao.theorem_1_6_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:40.012687+00:00
 -- url     : https://prove2.me/theorems/cdb9ab88-b63a-4413-8459-fab7e8d049ee

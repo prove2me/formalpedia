@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_SWB_periodic_seed_iff
 -- name    : CarryRNG.SWB.periodic_seed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:42:40.740985+00:00
 -- url     : https://prove2.me/theorems/8a07a394-ad70-40dc-9580-158a0d9c39eb

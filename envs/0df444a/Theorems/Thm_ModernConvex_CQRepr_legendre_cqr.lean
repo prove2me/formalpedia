@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_CQRepr_legendre_cqr
 -- name    : ModernConvex.CQRepr.legendre_cqr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:35.104125+00:00
 -- url     : https://prove2.me/theorems/c8097da2-a904-4a9e-ba5f-a0fce912b6c5

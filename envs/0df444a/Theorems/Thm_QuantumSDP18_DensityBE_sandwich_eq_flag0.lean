@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_DensityBE_sandwich_eq_flag0
 -- name    : QuantumSDP18.DensityBE.sandwich_eq_flag0
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:27.350822+00:00
 -- url     : https://prove2.me/theorems/e99bd026-9cbe-4496-886f-cf0dd2489307

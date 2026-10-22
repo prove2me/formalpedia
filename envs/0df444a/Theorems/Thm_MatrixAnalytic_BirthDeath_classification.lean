@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_BirthDeath_classification
 -- name    : MatrixAnalytic.BirthDeath.classification
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:41.518006+00:00
 -- url     : https://prove2.me/theorems/f35ed635-df63-4e66-aae9-165ba56f3177

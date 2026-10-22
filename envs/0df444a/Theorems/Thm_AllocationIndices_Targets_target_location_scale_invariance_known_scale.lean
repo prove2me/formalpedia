@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Targets_target_location_scale_invariance_known_scale
 -- name    : AllocationIndices.Targets.target_location_scale_invariance_known_scale
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:20.903327+00:00
 -- url     : https://prove2.me/theorems/17d9297c-4c65-4f36-906a-8423bfe9d596

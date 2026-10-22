@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_pure_output_spectrum
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.pure_output_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:38:11.137996+00:00
 -- url     : https://prove2.me/theorems/48b253dd-c377-4598-8db9-c33918bc94ef

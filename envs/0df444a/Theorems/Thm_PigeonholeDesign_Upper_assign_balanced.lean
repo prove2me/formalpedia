@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Upper_assign_balanced
 -- name    : PigeonholeDesign.Upper.assign_balanced
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:11.75691+00:00
 -- url     : https://prove2.me/theorems/da953207-91a6-4700-83b8-a8c3cd314560

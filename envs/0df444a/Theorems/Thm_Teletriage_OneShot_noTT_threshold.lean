@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Teletriage_OneShot_noTT_threshold
 -- name    : Teletriage.OneShot.noTT_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:30.410038+00:00
 -- url     : https://prove2.me/theorems/8cd8d8fe-18f2-49ab-8b7f-0601043d9b8c

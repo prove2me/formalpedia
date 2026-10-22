@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Output_corrector_step
 -- name    : SelfDualLP.Output.corrector_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:27:30.785304+00:00
 -- url     : https://prove2.me/theorems/2b5f8979-bbf0-4928-a83b-59e27d28ad6c

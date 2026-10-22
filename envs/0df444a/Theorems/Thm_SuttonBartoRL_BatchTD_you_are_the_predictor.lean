@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_BatchTD_you_are_the_predictor
 -- name    : SuttonBartoRL.BatchTD.you_are_the_predictor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:00:27.289211+00:00
 -- url     : https://prove2.me/theorems/1393343a-baca-4cb5-aab5-3412ac30f4f8

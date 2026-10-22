@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_BigRadius_condExp_le_sup
 -- name    : CondPortOT.BigRadius.condExp_le_sup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:55.584868+00:00
 -- url     : https://prove2.me/theorems/448ff76d-ca6d-4359-89bc-ada7cdbd5b04

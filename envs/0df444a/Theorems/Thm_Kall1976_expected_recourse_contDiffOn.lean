@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kall1976_expected_recourse_contDiffOn
 -- name    : Kall1976.expected_recourse_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T07:13:42.094071+00:00
 -- url     : https://prove2.me/theorems/045d93f4-960b-47d1-9e5e-e47345352bcc

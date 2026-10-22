@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBCPCVRP_Formulation_dwm_substitution
 -- name    : RobustBCPCVRP.Formulation.dwm_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:41:56.576157+00:00
 -- url     : https://prove2.me/theorems/0b05821e-b77b-4877-b88f-4baa022899fa

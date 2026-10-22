@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BNCovPack_Routing_theorem_3_2
 -- name    : BNCovPack.Routing.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:17:15.875065+00:00
 -- url     : https://prove2.me/theorems/25f18e6a-971b-4800-9512-991f1b9c99f9

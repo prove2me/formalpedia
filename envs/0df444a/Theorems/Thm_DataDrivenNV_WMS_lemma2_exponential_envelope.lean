@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenNV_WMS_lemma2_exponential_envelope
 -- name    : DataDrivenNV.WMS.lemma2_exponential_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:30:38.181105+00:00
 -- url     : https://prove2.me/theorems/049656a2-d938-4d65-9720-f34b658fdd5b

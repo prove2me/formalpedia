@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NewtonCartan.geometrization
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:38:06.540347+00:00
 -- url     : https://prove2.me/submissions/df88cbf5-aea8-4034-b1aa-fec06fee303e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NewtonCartan_defs
 import Theorems.Thm_NewtonCartan_geometrization_unique

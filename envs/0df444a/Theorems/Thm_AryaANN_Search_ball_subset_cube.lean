@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AryaANN_Search_ball_subset_cube
 -- name    : AryaANN.Search.ball_subset_cube
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:57:58.906486+00:00
 -- url     : https://prove2.me/theorems/a4027a49-c587-429d-baeb-64ab262ccf4c

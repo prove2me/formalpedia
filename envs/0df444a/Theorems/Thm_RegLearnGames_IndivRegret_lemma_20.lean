@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_IndivRegret_lemma_20
 -- name    : RegLearnGames.IndivRegret.lemma_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:37:02.525299+00:00
 -- url     : https://prove2.me/theorems/7dcb1416-00c4-4740-9467-6a940ec37edb

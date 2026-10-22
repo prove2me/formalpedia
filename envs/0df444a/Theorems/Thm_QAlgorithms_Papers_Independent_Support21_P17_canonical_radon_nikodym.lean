@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P17_canonical_radon_nikodym
 -- name    : QAlgorithms.Papers.Independent.Support21.P17.canonical_radon_nikodym
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:39:41.560439+00:00
 -- url     : https://prove2.me/theorems/69976571-46aa-4e9a-816e-32690570c122

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefugeeCash_PDCA_pdca_symmetric_optimal
 -- name    : RefugeeCash.PDCA.pdca_symmetric_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:27.028987+00:00
 -- url     : https://prove2.me/theorems/190f8869-06bf-4bcf-833b-8312804d1a22

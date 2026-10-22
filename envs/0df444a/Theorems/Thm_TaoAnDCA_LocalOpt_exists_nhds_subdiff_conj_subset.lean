@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoAnDCA_LocalOpt_exists_nhds_subdiff_conj_subset
 -- name    : TaoAnDCA.LocalOpt.exists_nhds_subdiff_conj_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:05.698583+00:00
 -- url     : https://prove2.me/theorems/5846cf4f-fa3f-421e-b2d9-52cb3a788069

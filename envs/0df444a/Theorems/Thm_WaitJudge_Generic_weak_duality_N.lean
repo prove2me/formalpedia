@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Generic_weak_duality_N
 -- name    : WaitJudge.Generic.weak_duality_N
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:11:17.503849+00:00
 -- url     : https://prove2.me/theorems/0be20ac7-b0e0-4420-8cfb-117c414d4f8b

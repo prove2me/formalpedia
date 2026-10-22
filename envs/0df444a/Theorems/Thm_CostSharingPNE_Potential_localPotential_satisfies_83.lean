@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostSharingPNE_Potential_localPotential_satisfies_83
 -- name    : CostSharingPNE.Potential.localPotential_satisfies_83
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:30:17.729891+00:00
 -- url     : https://prove2.me/theorems/e6c49414-0059-4401-a06b-7f02bace8f60

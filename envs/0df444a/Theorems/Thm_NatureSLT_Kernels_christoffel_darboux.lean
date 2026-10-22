@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Kernels_christoffel_darboux
 -- name    : NatureSLT.Kernels.christoffel_darboux
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:12.246+00:00
 -- url     : https://prove2.me/theorems/b194c433-8558-4312-bc5b-db0bb864976a

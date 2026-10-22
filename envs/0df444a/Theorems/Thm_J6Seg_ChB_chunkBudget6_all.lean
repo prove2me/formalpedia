@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_ChB_chunkBudget6_all
 -- name    : J6Seg.ChB.chunkBudget6_all
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:35:31.133113+00:00
 -- url     : https://prove2.me/theorems/c3c00953-21bc-4df4-9510-48dae03534de
 -- title:

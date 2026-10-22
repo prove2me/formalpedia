@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for IntMul.Kappa.R8.bitR8_histMoment_one
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:40:37.575371+00:00
 -- url     : https://prove2.me/submissions/26de12a9-976d-4118-bbd7-4ba3f2e85acf
 

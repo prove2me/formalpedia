@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Smooth_eq_2_21
 -- name    : NonconvexAG.Smooth.eq_2_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:44:24.658141+00:00
 -- url     : https://prove2.me/theorems/fc6e8471-e99c-41d0-8125-e1d8e62697de

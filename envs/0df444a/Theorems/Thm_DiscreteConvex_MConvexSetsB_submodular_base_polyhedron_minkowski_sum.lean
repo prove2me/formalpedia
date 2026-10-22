@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_submodular_base_polyhedron_minkowski_sum
 -- name    : DiscreteConvex.MConvexSetsB.submodular_base_polyhedron_minkowski_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:31:35.185648+00:00
 -- url     : https://prove2.me/theorems/85074162-8ebb-4f05-8791-6fab53e8fd6b

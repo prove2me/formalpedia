@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_newton_step_conditions
 -- name    : SlowConvergence.Newton.newton_step_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:39:34.845631+00:00
 -- url     : https://prove2.me/theorems/babf8613-7ff8-4204-9ca9-5daed7262644

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformToken_SmallCost_proposition_2
 -- name    : PlatformToken.SmallCost.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:22.322295+00:00
 -- url     : https://prove2.me/theorems/93001d42-e806-4033-8396-dc33204f3287

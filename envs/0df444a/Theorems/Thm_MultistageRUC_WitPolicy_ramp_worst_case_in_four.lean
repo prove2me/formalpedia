@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageRUC_WitPolicy_ramp_worst_case_in_four
 -- name    : MultistageRUC.WitPolicy.ramp_worst_case_in_four
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:19:04.358967+00:00
 -- url     : https://prove2.me/theorems/231aae11-dfb8-4be7-a11b-6b3ff08d1588

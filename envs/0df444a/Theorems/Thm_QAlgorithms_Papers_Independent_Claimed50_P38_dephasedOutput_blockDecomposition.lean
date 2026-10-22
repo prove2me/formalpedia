@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P38_dephasedOutput_blockDecomposition
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P38.dephasedOutput_blockDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:41:55.165698+00:00
 -- url     : https://prove2.me/theorems/e766dda9-e009-46be-8ddc-23d3fa5aff50

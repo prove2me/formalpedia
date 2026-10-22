@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Weak_eq_3_6
 -- name    : ProjReflGrad.Weak.eq_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:11.775849+00:00
 -- url     : https://prove2.me/theorems/39ce89f4-3f70-47b9-91d2-0083d21db0b1

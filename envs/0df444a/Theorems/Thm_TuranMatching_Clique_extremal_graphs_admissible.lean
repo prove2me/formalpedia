@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_Clique_extremal_graphs_admissible
 -- name    : TuranMatching.Clique.extremal_graphs_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:29:42.354758+00:00
 -- url     : https://prove2.me/theorems/b5b2038d-9ff5-476e-92a7-c7cd35206189

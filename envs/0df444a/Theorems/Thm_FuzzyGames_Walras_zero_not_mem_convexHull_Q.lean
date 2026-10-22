@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_Walras_zero_not_mem_convexHull_Q
 -- name    : FuzzyGames.Walras.zero_not_mem_convexHull_Q
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:04.029058+00:00
 -- url     : https://prove2.me/theorems/badc7ca0-b36a-4d95-a297-4413d87a8cf0

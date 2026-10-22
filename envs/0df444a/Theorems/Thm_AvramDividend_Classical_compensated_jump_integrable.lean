@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_compensated_jump_integrable
 -- name    : AvramDividend.Classical.compensated_jump_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T15:59:12.849989+00:00
 -- url     : https://prove2.me/theorems/04e62d2a-6165-4027-b586-f9ca4614e6ac

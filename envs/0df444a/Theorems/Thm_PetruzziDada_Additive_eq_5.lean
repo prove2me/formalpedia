@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PetruzziDada_Additive_eq_5
 -- name    : PetruzziDada.Additive.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:07.442889+00:00
 -- url     : https://prove2.me/theorems/8b8fbdac-3685-42ec-83c3-68e3cc98d52c

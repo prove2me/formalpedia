@@ -1,0 +1,122 @@
+-- Prove2me | solution 1 for Pegasos.Analysis.projBall_isProj
+-- status  : ACCEPTED   (prove)
+-- author  : @vebis
+-- created : 2026-10-21T07:36:29.668319+00:00
+-- url     : https://prove2.me/submissions/69923974-4f10-46a2-a98c-952b1e4478a5
+
+import Mathlib
+import Definitions.Def_Pegasos_Analysis_Model
+
+set_option autoImplicit false
+
+open Pegasos.Analysis
+open scoped InnerProductSpace
+
+namespace PEGAux
+
+lemma quad_ineq {n : ℕ} (lam : ℝ) (hlam : 0 ≤ lam) (u w : EuclideanSpace ℝ (Fin n)) :
+    lam / 2 * ‖w‖ ^ 2 + lam * inner ℝ (u - w) w ≤ lam / 2 * ‖u‖ ^ 2 := by
+  have h := norm_add_sq_real w (u - w)
+  rw [add_sub_cancel] at h
+  rw [h, real_inner_comm]
+  nlinarith [mul_nonneg hlam (sq_nonneg ‖u - w‖)]
+
+lemma hinge_sub {n : ℕ} (w u x : EuclideanSpace ℝ (Fin n)) (y : ℝ) :
+    UnderstandingML.hingeLoss w (x, y)
+      + (if y * inner ℝ w x < 1 then -(y * inner ℝ (u - w) x) else 0)
+      ≤ UnderstandingML.hingeLoss u (x, y) := by
+  unfold UnderstandingML.hingeLoss
+  simp only
+  split_ifs with h
+  · rw [max_eq_right (by linarith), inner_sub_left]
+    have := le_max_right 0 (1 - y * inner ℝ u x)
+    linarith
+  · rw [max_eq_left (by linarith)]
+    simp
+
+lemma hinge_nonneg {n : ℕ} (w x : EuclideanSpace ℝ (Fin n)) (y : ℝ) :
+    0 ≤ UnderstandingML.hingeLoss w (x, y) := by
+  unfold UnderstandingML.hingeLoss
+  exact le_max_left _ _
+
+lemma le_of_small (A C D : ℝ) (h : ∀ s : ℝ, 0 < s → s ≤ 1 → A ≤ C + s * D) : A ≤ C := by
+  have ht : Filter.Tendsto (fun s : ℝ => C + s * D) (nhdsWithin 0 (Set.Ioi 0)) (nhds C) := by
+    have : Filter.Tendsto (fun s : ℝ => C + s * D) (nhds 0) (nhds (C + 0 * D)) :=
+      (continuous_const.add (continuous_id.mul continuous_const)).tendsto 0
+    simpa using this.mono_left nhdsWithin_le_nhds
+  refine ge_of_tendsto ht ?_
+  filter_upwards [Ioo_mem_nhdsGT (show (0 : ℝ) < 1 by norm_num)] with s hs
+  exact h s hs.1 hs.2.le
+
+lemma strong_sub {n : ℕ} (lam : ℝ) (f : EuclideanSpace ℝ (Fin n) → ℝ)
+    (hf : ConvexOn ℝ Set.univ (fun v => f v - lam / 2 * ‖v‖ ^ 2))
+    (w g : EuclideanSpace ℝ (Fin n)) (hg : UnderstandingML.IsSubgradient f w g)
+    (u : EuclideanSpace ℝ (Fin n)) :
+    f w - f u + lam / 2 * ‖w - u‖ ^ 2 ≤ inner ℝ (w - u) g := by
+  have hnorm : ‖u‖ ^ 2 = ‖w‖ ^ 2 + 2 * inner ℝ w (u - w) + ‖u - w‖ ^ 2 := by
+    have := norm_add_sq_real w (u - w)
+    rwa [add_sub_cancel] at this
+  have key : ∀ s : ℝ, 0 < s → s ≤ 1 →
+      (inner ℝ (u - w) g - lam * inner ℝ w (u - w) - (f u - lam / 2 * ‖u‖ ^ 2)
+        + (f w - lam / 2 * ‖w‖ ^ 2)) ≤ 0 + s * (lam / 2 * ‖u - w‖ ^ 2) := by
+    intro s hs0 hs1
+    have hc := hf.2 (Set.mem_univ w) (Set.mem_univ u) (show 0 ≤ 1 - s by linarith) hs0.le
+      (by ring)
+    simp only [smul_eq_mul] at hc
+    have hp : (1 - s) • w + s • u = w + s • (u - w) := by module
+    have hg' := hg ((1 - s) • w + s • u)
+    have hpw : (1 - s) • w + s • u - w = s • (u - w) := by module
+    rw [hpw, inner_smul_left] at hg'
+    simp only [conj_trivial] at hg'
+    rw [hp] at hc
+    have h3 := norm_add_sq_real w (s • (u - w))
+    rw [inner_smul_right, norm_smul, Real.norm_eq_abs, mul_pow, sq_abs] at h3
+    rw [hp] at hg'
+    have h4 : s * (inner ℝ (u - w) g - lam * inner ℝ w (u - w) - (f u - lam / 2 * ‖u‖ ^ 2)
+        + (f w - lam / 2 * ‖w‖ ^ 2)) ≤ s * (0 + s * (lam / 2 * ‖u - w‖ ^ 2)) := by
+      rw [h3] at hc
+      nlinarith [hc, hg']
+    exact le_of_mul_le_mul_left h4 hs0
+  have hA := le_of_small _ _ _ key
+  have e1 : ‖w - u‖ = ‖u - w‖ := norm_sub_rev w u
+  have e2 : inner ℝ (w - u) g = - inner ℝ (u - w) g := by
+    rw [← inner_neg_left, neg_sub]
+  have h5 : lam / 2 * ‖u‖ ^ 2
+      = lam / 2 * (‖w‖ ^ 2 + 2 * inner ℝ w (u - w) + ‖u - w‖ ^ 2) := by rw [hnorm]
+  rw [e1, e2]
+  linarith [hA, h5]
+
+end PEGAux
+
+open PEGAux
+
+theorem solution {n : ℕ} (lam : ℝ) (hlam : 0 < lam) (v : EuclideanSpace ℝ (Fin n)) :
+    LogRegretOCO.OGD.IsProj (Metric.closedBall 0 (1 / Real.sqrt lam)) v (projBall lam v) := by
+  have hr : 0 < 1 / Real.sqrt lam := by positivity
+  set r := 1 / Real.sqrt lam with hrdef
+  unfold projBall
+  rw [← hrdef]
+  by_cases hv : ‖v‖ ≤ r
+  · have hz : min 1 (r / ‖v‖) • v = v := by
+      by_cases hv0 : v = 0
+      · simp [hv0]
+      · have h1 : 1 ≤ r / ‖v‖ := (one_le_div (norm_pos_iff.2 hv0)).2 hv
+        rw [min_eq_left h1, one_smul]
+    rw [hz]
+    refine ⟨by simpa using hv, fun w _ => by simp⟩
+  · rw [not_le] at hv
+    have hvpos : 0 < ‖v‖ := lt_trans hr hv
+    have h1 : r / ‖v‖ < 1 := (div_lt_one hvpos).2 hv
+    rw [min_eq_right h1.le]
+    have hn : ‖(r / ‖v‖) • v‖ = r := by
+      rw [norm_smul, Real.norm_eq_abs, abs_of_pos (div_pos hr hvpos)]
+      field_simp
+    refine ⟨by simp [hn], fun w hw => ?_⟩
+    have hw' : ‖w‖ ≤ r := by simpa using hw
+    have e : (r / ‖v‖) • v - v = (r / ‖v‖ - 1) • v := by rw [sub_smul, one_smul]
+    rw [e, norm_smul, Real.norm_eq_abs, abs_of_neg (by linarith)]
+    have h2 : ‖v‖ - ‖w‖ ≤ ‖w - v‖ := by
+      rw [norm_sub_rev]; exact norm_sub_norm_le v w
+    have h3 : -(r / ‖v‖ - 1) * ‖v‖ = ‖v‖ - r := by field_simp; ring
+    rw [h3]
+    linarith

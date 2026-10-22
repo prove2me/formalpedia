@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_TabularPS_hellinger_cond_le_four_joint
 -- name    : StatComplexityDM.TabularPS.hellinger_cond_le_four_joint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:25:16.751639+00:00
 -- url     : https://prove2.me/theorems/82e07264-b76d-4da9-92c1-d6c494593902

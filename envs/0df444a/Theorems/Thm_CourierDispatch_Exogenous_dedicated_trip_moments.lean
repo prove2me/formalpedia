@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CourierDispatch_Exogenous_dedicated_trip_moments
 -- name    : CourierDispatch.Exogenous.dedicated_trip_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:12:17.55198+00:00
 -- url     : https://prove2.me/theorems/24d788d6-6db5-4ab1-8ba7-794735281eba

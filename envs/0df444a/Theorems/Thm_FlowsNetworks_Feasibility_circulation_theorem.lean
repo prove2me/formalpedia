@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Feasibility_circulation_theorem
 -- name    : FlowsNetworks.Feasibility.circulation_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:25.068176+00:00
 -- url     : https://prove2.me/theorems/13f23fca-e1ca-49c8-b94a-3decb9375ee4

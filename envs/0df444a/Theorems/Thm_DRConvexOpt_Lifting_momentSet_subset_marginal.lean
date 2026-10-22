@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Lifting_momentSet_subset_marginal
 -- name    : DRConvexOpt.Lifting.momentSet_subset_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:43.823348+00:00
 -- url     : https://prove2.me/theorems/7a8535a1-3811-4eaa-8852-5fa64b9b17a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P16_bose_span
 -- name    : QAlgorithms.Papers.Independent.Support21.P16.bose_span
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:37:20.012718+00:00
 -- url     : https://prove2.me/theorems/e5b0fcbb-3458-431a-a0ee-fab09926fd50

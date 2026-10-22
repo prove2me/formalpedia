@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixedPointAA_Main_chebT_gammaInv
 -- name    : FixedPointAA.Main.chebT_gammaInv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:07.074825+00:00
 -- url     : https://prove2.me/theorems/65823a6f-6688-4c87-b497-d2e7bb7feeae

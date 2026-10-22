@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_ATab_preA6_of_num
 -- name    : J6Seg.ATab.preA6_of_num
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:35:22.085975+00:00
 -- url     : https://prove2.me/theorems/bf0d9dd0-4cb4-492b-a400-e1780dc20029
 -- title:

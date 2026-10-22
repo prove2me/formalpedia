@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedDegreeST_PlusOne_theorem_1_2
 -- name    : BoundedDegreeST.PlusOne.theorem_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:02.689385+00:00
 -- url     : https://prove2.me/theorems/8f31cc20-02a7-4b67-b982-f3049d10fb72

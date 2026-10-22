@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefSemimetric_TopDiff_lemma_3_3
 -- name    : PrefSemimetric.TopDiff.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:34.43301+00:00
 -- url     : https://prove2.me/theorems/3815e5e1-956c-4bf9-a969-508d32eda8c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_IFT_theorem_2_1
 -- name    : RobinsonSR.IFT.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:59:59.128817+00:00
 -- url     : https://prove2.me/theorems/ad381d1b-821d-4db5-883c-124accbcd01e

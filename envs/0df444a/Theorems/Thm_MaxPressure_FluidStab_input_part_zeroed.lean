@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_FluidStab_input_part_zeroed
 -- name    : MaxPressure.FluidStab.input_part_zeroed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:54:17.464135+00:00
 -- url     : https://prove2.me/theorems/626866c4-c46f-4039-9970-da4db1b75a27

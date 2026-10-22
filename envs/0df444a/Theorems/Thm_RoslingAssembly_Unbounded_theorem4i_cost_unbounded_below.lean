@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoslingAssembly_Unbounded_theorem4i_cost_unbounded_below
 -- name    : RoslingAssembly.Unbounded.theorem4i_cost_unbounded_below
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:25.487506+00:00
 -- url     : https://prove2.me/theorems/1092141e-d094-4486-8bce-3710197088b1

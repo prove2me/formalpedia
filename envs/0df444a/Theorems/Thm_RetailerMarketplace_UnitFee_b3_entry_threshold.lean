@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailerMarketplace_UnitFee_b3_entry_threshold
 -- name    : RetailerMarketplace.UnitFee.b3_entry_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:28:57.719985+00:00
 -- url     : https://prove2.me/theorems/99aeb82f-bde8-45ce-93ff-694762ee0e0a

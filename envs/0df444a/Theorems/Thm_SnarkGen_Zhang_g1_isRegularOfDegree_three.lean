@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_Zhang_g1_isRegularOfDegree_three
 -- name    : SnarkGen.Zhang.g1_isRegularOfDegree_three
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:29.662967+00:00
 -- url     : https://prove2.me/theorems/7a3465a2-4242-47d1-8947-f6a620495a06

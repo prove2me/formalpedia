@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_SGD_eq_31
 -- name    : CertDRO.SGD.eq_31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T18:19:46.568963+00:00
 -- url     : https://prove2.me/theorems/fc0f30d0-475a-4bf6-956a-9aa42d5390c9

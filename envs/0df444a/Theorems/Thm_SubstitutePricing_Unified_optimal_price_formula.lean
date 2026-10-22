@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Unified_optimal_price_formula
 -- name    : SubstitutePricing.Unified.optimal_price_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:19:04.612375+00:00
 -- url     : https://prove2.me/theorems/3d3f0b47-f840-497d-91d3-17583381faf5

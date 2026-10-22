@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_LPReduce_h_near_half
 -- name    : QZeroSum19.LPReduce.h_near_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:41.763862+00:00
 -- url     : https://prove2.me/theorems/7d142611-6957-45d4-b981-60ab5b9d47cc

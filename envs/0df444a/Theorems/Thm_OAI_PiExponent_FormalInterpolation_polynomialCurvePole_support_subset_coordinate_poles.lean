@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_polynomialCurvePole_support_subset_coordinate_poles
 -- name    : OAI.PiExponent.FormalInterpolation.polynomialCurvePole_support_subset_coordinate_poles
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:41:27.197423+00:00
 -- url     : https://prove2.me/theorems/78be7339-eef6-4e4a-acd0-3d5c3b43c94d
 -- title:

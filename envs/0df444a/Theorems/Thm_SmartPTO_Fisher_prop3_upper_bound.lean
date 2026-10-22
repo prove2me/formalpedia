@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_prop3_upper_bound
 -- name    : SmartPTO.Fisher.prop3_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:05.988062+00:00
 -- url     : https://prove2.me/theorems/7924fc03-0b35-421d-a9b8-f0b9812081f1

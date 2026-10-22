@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Directed_lp_duality
 -- name    : LeightonRao.Directed.lp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:19.251547+00:00
 -- url     : https://prove2.me/theorems/b87b1fb1-53de-4574-a493-da2621ccef3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOdds_Tradeoff_weakLaw_shift
 -- name    : RobustOdds.Tradeoff.weakLaw_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:38:14.564009+00:00
 -- url     : https://prove2.me/theorems/cc71c7fb-0ab0-4be8-8aa1-36e97c8555bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_Newton_gradient_lower_bound
 -- name    : SlowConvergence.Newton.gradient_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:39:27.780988+00:00
 -- url     : https://prove2.me/theorems/2002dd62-b715-4080-967e-43f167dc151a

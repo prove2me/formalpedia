@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegMCBSDE_Simulation_eq_28_29_least_squares
 -- name    : RegMCBSDE.Simulation.eq_28_29_least_squares
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:36:50.475011+00:00
 -- url     : https://prove2.me/theorems/b9ec0de7-d236-4579-bc18-77131666ec8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_discrete_convolution_closure
 -- name    : MatrixAnalytic.PH.discrete_convolution_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:28.263223+00:00
 -- url     : https://prove2.me/theorems/a8537a51-6d08-485d-b74c-8899203f64c8

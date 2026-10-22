@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_GrowthFunction_vcDim_iff_growthFunction
 -- name    : NatureSLT.GrowthFunction.vcDim_iff_growthFunction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:40.192159+00:00
 -- url     : https://prove2.me/theorems/b40d2320-47d5-4ff4-9f37-3b964cfdcd09

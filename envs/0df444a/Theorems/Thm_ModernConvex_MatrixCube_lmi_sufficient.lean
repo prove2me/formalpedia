@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_lmi_sufficient
 -- name    : ModernConvex.MatrixCube.lmi_sufficient
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:43.063643+00:00
 -- url     : https://prove2.me/theorems/f1937714-62b2-458a-b8f3-5c81e69626d3

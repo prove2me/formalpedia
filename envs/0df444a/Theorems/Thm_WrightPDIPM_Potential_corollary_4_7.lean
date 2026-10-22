@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Potential_corollary_4_7
 -- name    : WrightPDIPM.Potential.corollary_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:53:13.588436+00:00
 -- url     : https://prove2.me/theorems/a2b97f0c-3e45-4495-8ea2-4024508721be

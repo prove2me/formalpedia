@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Peeling_types_one_two_le
 -- name    : CClosedGraphs.Peeling.types_one_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:49.328066+00:00
 -- url     : https://prove2.me/theorems/eb533007-7903-4ece-9991-6df791210b89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_twoQubitProductVector
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.twoQubitProductVector
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:46:21.879815+00:00
 -- url     : https://prove2.me/theorems/41d501e9-3317-4db5-bd3b-ed27e13831b0

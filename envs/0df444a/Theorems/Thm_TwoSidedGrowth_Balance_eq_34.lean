@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedGrowth_Balance_eq_34
 -- name    : TwoSidedGrowth.Balance.eq_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:12:26.41606+00:00
 -- url     : https://prove2.me/theorems/bf80bf92-e7bc-4242-8541-787c9cd45cef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddLogReg_ExpCrit_cond_criterion
 -- name    : AddLogReg.ExpCrit.cond_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:04:50.853091+00:00
 -- url     : https://prove2.me/theorems/708a808b-7d02-4a41-872c-7ad5160b2498

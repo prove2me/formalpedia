@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Cumul_cumulative_law
 -- name    : KendallBD.Cumul.cumulative_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:26:42.785984+00:00
 -- url     : https://prove2.me/theorems/27c29262-f922-4084-bada-9366ab2d53e7

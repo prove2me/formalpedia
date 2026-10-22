@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Knapsack_big_selectable_condition
 -- name    : OnlineCRS.Knapsack.big_selectable_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:21:04.953068+00:00
 -- url     : https://prove2.me/theorems/4d87d7ba-2598-4574-8222-0c9270a559b8

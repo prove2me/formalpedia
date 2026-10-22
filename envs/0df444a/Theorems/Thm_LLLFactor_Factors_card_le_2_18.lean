@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Factors_card_le_2_18
 -- name    : LLLFactor.Factors.card_le_2_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:24:06.266004+00:00
 -- url     : https://prove2.me/theorems/6302bb22-33bb-491b-bf37-87b34fce1534

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCustomers_SmallCost_eq_xviii
 -- name    : FollowCustomers.SmallCost.eq_xviii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:56.329092+00:00
 -- url     : https://prove2.me/theorems/e5c2812d-c711-4050-8e2e-1466b776d0fc

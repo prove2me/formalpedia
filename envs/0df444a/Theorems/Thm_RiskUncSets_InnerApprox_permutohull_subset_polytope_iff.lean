@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_InnerApprox_permutohull_subset_polytope_iff
 -- name    : RiskUncSets.InnerApprox.permutohull_subset_polytope_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:06:58.214622+00:00
 -- url     : https://prove2.me/theorems/3814a51d-7cdd-4b43-b7fe-f201c62ddd15

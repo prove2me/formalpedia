@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_metric_projective_product
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.metric_projective_product
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:13:49.443044+00:00
 -- url     : https://prove2.me/theorems/e690ec9e-4664-4788-8310-18eb1889a281

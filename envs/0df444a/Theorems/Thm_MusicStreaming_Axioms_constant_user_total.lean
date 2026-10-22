@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_Axioms_constant_user_total
 -- name    : MusicStreaming.Axioms.constant_user_total
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:31.919835+00:00
 -- url     : https://prove2.me/theorems/17ea7821-54f8-4464-832f-b1b2ca557628

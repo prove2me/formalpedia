@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_AVC_modulus_bound
 -- name    : AccelVI.AVC.modulus_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:08.566963+00:00
 -- url     : https://prove2.me/theorems/0974ba19-ff00-4aea-baa2-595f0827b740

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GraphonGames_Stability_lemma_3_16_aggregate_lipschitz
 -- name    : GraphonGames.Stability.lemma_3_16_aggregate_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T17:45:24.313008+00:00
 -- url     : https://prove2.me/theorems/ce76698e-a8b9-4274-8ff1-7c66e28eef33

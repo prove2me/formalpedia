@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for J6Seg.ATab.preA6
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:38:03.723254+00:00
 -- url     : https://prove2.me/submissions/a0037605-ad4c-45a9-81b3-d3117738ee00
 

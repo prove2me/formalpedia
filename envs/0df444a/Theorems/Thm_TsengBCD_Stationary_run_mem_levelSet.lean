@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengBCD_Stationary_run_mem_levelSet
 -- name    : TsengBCD.Stationary.run_mem_levelSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T22:18:09.075383+00:00
 -- url     : https://prove2.me/theorems/ef5ac96e-e2f5-4733-be15-5e451540fb82

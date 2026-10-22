@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscServLine_SPT_corollary_1_attained
 -- name    : DiscServLine.SPT.corollary_1_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:18:26.830298+00:00
 -- url     : https://prove2.me/theorems/d6517bbf-4a88-4d64-a27e-ef43e8230f40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_Discounted_stationary_path_sigma
 -- name    : MDPComplexity.Discounted.stationary_path_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:46:06.062057+00:00
 -- url     : https://prove2.me/theorems/5f2379c8-e3fb-4b5d-bfa6-b02f5130d285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradeCreditIns_Cancelable_pi2_first_best
 -- name    : TradeCreditIns.Cancelable.pi2_first_best
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:40.798763+00:00
 -- url     : https://prove2.me/theorems/ab9f7f8b-7107-4a62-abf4-8e978a380721

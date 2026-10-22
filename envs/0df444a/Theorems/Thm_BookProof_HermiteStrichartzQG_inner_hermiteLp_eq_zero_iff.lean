@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteStrichartzQG_inner_hermiteLp_eq_zero_iff
 -- name    : BookProof.HermiteStrichartzQG.inner_hermiteLp_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:01:10.190993+00:00
 -- url     : https://prove2.me/theorems/95e5ca8e-729b-40f8-894c-e300457a70cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_ReversedLeontief_extremeAllocs_eq_intAllocs
 -- name    : MaxPressure.ReversedLeontief.extremeAllocs_eq_intAllocs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:07:01.640268+00:00
 -- url     : https://prove2.me/theorems/d1fc6a02-74d4-4693-a831-dd2615cad3c8

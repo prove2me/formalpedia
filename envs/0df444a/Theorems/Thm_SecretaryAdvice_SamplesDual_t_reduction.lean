@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_SamplesDual_t_reduction
 -- name    : SecretaryAdvice.SamplesDual.t_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:22.815066+00:00
 -- url     : https://prove2.me/theorems/5389691d-6fcb-4fe8-88a1-a19c5c8f9b5d

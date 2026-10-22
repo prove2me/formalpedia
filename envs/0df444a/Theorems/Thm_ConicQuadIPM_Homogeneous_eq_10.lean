@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicQuadIPM_Homogeneous_eq_10
 -- name    : ConicQuadIPM.Homogeneous.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:52.610994+00:00
 -- url     : https://prove2.me/theorems/c6ded95d-13ae-4c9b-a57d-c737b9fe6d60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_split_algebra_has_jm
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.split_algebra_has_jm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:22:31.127081+00:00
 -- url     : https://prove2.me/theorems/68cb25cd-f8db-49da-8778-737909cda8c6

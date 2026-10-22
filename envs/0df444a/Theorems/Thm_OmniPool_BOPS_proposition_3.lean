@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OmniPool_BOPS_proposition_3
 -- name    : OmniPool.BOPS.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:11:44.675033+00:00
 -- url     : https://prove2.me/theorems/c527fec8-683d-4471-92c3-678dc745d220

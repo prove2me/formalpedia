@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetCournot_Equilibrium_identity_after_B12
 -- name    : BudgetCournot.Equilibrium.identity_after_B12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:00:59.25011+00:00
 -- url     : https://prove2.me/theorems/3c9ee44b-dc52-4e77-b4bb-641cc7d9079e

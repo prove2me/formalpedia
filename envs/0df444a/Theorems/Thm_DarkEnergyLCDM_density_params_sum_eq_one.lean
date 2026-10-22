@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DarkEnergyLCDM_density_params_sum_eq_one
 -- name    : DarkEnergyLCDM.density_params_sum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T01:02:46.548147+00:00
 -- url     : https://prove2.me/theorems/779bd98e-42ec-4cd2-af95-5ba03a036492

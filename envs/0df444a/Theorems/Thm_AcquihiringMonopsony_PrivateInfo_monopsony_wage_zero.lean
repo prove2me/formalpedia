@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_PrivateInfo_monopsony_wage_zero
 -- name    : AcquihiringMonopsony.PrivateInfo.monopsony_wage_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:08:53.078339+00:00
 -- url     : https://prove2.me/theorems/ab60a24d-6dd0-49cc-9f3b-270f1dd15cc2

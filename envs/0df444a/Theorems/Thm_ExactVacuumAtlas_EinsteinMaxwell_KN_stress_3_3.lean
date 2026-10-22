@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactVacuumAtlas_EinsteinMaxwell_KN_stress_3_3
 -- name    : ExactVacuumAtlas.EinsteinMaxwell.KN.stress_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @He Wang
 -- created : 2026-10-21T01:47:20.253474+00:00
 -- url     : https://prove2.me/theorems/2204f3df-a856-4941-8127-3f43eb288b5f

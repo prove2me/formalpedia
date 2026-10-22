@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P38_choi_symmetry_equivalences
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P38.choi_symmetry_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:14:04.107873+00:00
 -- url     : https://prove2.me/theorems/588ffd03-4380-41d1-ab56-5aa735f8e77c

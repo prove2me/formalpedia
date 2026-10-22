@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_allocationSum_eq_weakCompositionFiber_card
 -- name    : OAI.PiExponent.LiteralAnalytic.allocationSum_eq_weakCompositionFiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:53:07.754418+00:00
 -- url     : https://prove2.me/theorems/bb712f34-efc7-4e8f-b1bd-581599fc8465

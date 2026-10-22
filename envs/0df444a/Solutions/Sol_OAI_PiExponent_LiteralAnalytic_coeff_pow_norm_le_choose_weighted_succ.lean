@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.coeff_pow_norm_le_choose_weighted_succ
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:56:52.731777+00:00
 -- url     : https://prove2.me/submissions/561e5fed-06a1-4545-bee2-a478308996ed
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Mathlib.RingTheory.PowerSeries.Order

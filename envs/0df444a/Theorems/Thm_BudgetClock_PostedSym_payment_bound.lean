@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_PostedSym_payment_bound
 -- name    : BudgetClock.PostedSym.payment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:30.48776+00:00
 -- url     : https://prove2.me/theorems/e0247416-24eb-4b20-af72-fd4caefc4aa7

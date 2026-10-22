@@ -1,0 +1,199 @@
+-- Prove2me | solution 1 for NonconvexAG.Composite.eq_2_47
+-- status  : ACCEPTED   (prove)
+-- author  : @vebis
+-- created : 2026-10-21T12:30:29.78435+00:00
+-- url     : https://prove2.me/submissions/7efb24e7-e1ba-4098-9c86-59ab37cf9217
+
+import Mathlib
+import Definitions.Def_ConvexOptAlg_SmoothGD_Defs
+import Definitions.Def_NonconvexAG_Composite_ProxMap
+import Definitions.Def_NonconvexAG_Composite_AGRun
+
+set_option autoImplicit false
+
+open ConvexOptAlg.SmoothGD
+
+abbrev EE (n : ℕ) := EuclideanSpace ℝ (Fin n)
+
+lemma nac_hasDerivAt_line {n : ℕ} (Ψ : EE n → ℝ) (g : EE n → EE n) (L : ℝ)
+    (hΨ : ConvexOptAlg.SmoothGD.IsBetaSmooth Ψ g L) (x d : EE n) (t : ℝ) :
+    HasDerivAt (fun s : ℝ => Ψ (x + s • d)) (inner ℝ (g (x + t • d)) d) t := by
+  have h1 : HasDerivAt (fun s : ℝ => x + s • d) d t := by
+    simpa using ((hasDerivAt_id t).smul_const d).const_add x
+  have h2 := (hΨ.2.1 (x + t • d)).hasFDerivAt
+  have := h2.comp_hasDerivAt t h1
+  simp only [InnerProductSpace.toDual_apply_apply] at this
+  exact this
+
+
+lemma nac_descent {n : ℕ} (Ψ : EE n → ℝ) (g : EE n → EE n) (L : ℝ)
+    (hΨ : ConvexOptAlg.SmoothGD.IsBetaSmooth Ψ g L) (x y : EE n) :
+    Ψ y ≤ Ψ x + inner ℝ (g x) (y - x) + L / 2 * ‖y - x‖ ^ 2 := by
+  set d := y - x with hd
+  set ψ : ℝ → ℝ := fun t => Ψ (x + t • d) - t * inner ℝ (g x) d - L / 2 * t ^ 2 * ‖d‖ ^ 2 with hψ
+  have hder : ∀ t, HasDerivAt ψ
+      (inner ℝ (g (x + t • d)) d - inner ℝ (g x) d - L * t * ‖d‖ ^ 2) t := by
+    intro t
+    have h1 := nac_hasDerivAt_line Ψ g L hΨ x d t
+    have h2 : HasDerivAt (fun s : ℝ => s * inner ℝ (g x) d) (inner ℝ (g x) d) t := by
+      simpa using (hasDerivAt_id t).mul_const (inner ℝ (g x) d)
+    have h3 : HasDerivAt (fun s : ℝ => L / 2 * s ^ 2 * ‖d‖ ^ 2) (L * t * ‖d‖ ^ 2) t := by
+      have := ((hasDerivAt_pow 2 t).const_mul (L / 2)).mul_const (‖d‖ ^ 2)
+      exact this.congr_deriv (by rw [show (2:ℕ) - 1 = 1 from rfl]; push_cast; ring)
+    exact (h1.sub h2).sub h3
+  have hanti : AntitoneOn ψ (Set.Icc 0 1) := by
+    apply antitoneOn_of_deriv_nonpos (convex_Icc 0 1)
+    · exact (fun t _ => (hder t).continuousAt.continuousWithinAt)
+    · exact (fun t _ => (hder t).differentiableAt.differentiableWithinAt)
+    · intro t ht
+      rw [interior_Icc] at ht
+      rw [(hder t).deriv]
+      have h1 : inner ℝ (g (x + t • d)) d - inner ℝ (g x) d = inner ℝ (g (x + t • d) - g x) d := by
+        rw [inner_sub_left]
+      have h2 : inner ℝ (g (x + t • d) - g x) d ≤ ‖g (x + t • d) - g x‖ * ‖d‖ :=
+        real_inner_le_norm _ _
+      have h3 : ‖g (x + t • d) - g x‖ ≤ L * ‖t • d‖ := by
+        have := hΨ.2.2 (x + t • d) x
+        simpa using this
+      have h4 : ‖t • d‖ = t * ‖d‖ := by
+        rw [norm_smul, Real.norm_of_nonneg ht.1.le]
+      have h5 : ‖g (x + t • d) - g x‖ * ‖d‖ ≤ L * (t * ‖d‖) * ‖d‖ := by
+        rw [h4] at h3
+        exact mul_le_mul_of_nonneg_right h3 (norm_nonneg _)
+      nlinarith
+  have := hanti (Set.mem_Icc.mpr ⟨le_rfl, zero_le_one⟩) (Set.mem_Icc.mpr ⟨zero_le_one, le_rfl⟩)
+    zero_le_one
+  simp only [hψ] at this
+  have hxd : x + d = y := by simp [hd]
+  simp at this
+  rw [hxd] at this
+  linarith
+
+lemma nac_grad_ineq {n : ℕ} (Ψ : EE n → ℝ) (g : EE n → EE n) (L : ℝ)
+    (hΨ : ConvexOptAlg.SmoothGD.IsBetaSmooth Ψ g L) (hconv : ConvexOn ℝ Set.univ Ψ)
+    (w z : EE n) : Ψ w + inner ℝ (g w) (z - w) ≤ Ψ z := by
+  set d := z - w with hd
+  have hφ : ConvexOn ℝ Set.univ (fun t : ℝ => Ψ (w + t • d)) := by
+    refine ⟨convex_univ, fun a _ b _ s t hs ht hst => ?_⟩
+    have h := hconv.2 (Set.mem_univ (w + a • d)) (Set.mem_univ (w + b • d)) hs ht hst
+    obtain rfl : t = 1 - s := by linarith
+    have : w + (s * a + (1 - s) * b) • d = s • (w + a • d) + (1 - s) • (w + b • d) := by
+      module
+    simp only [smul_eq_mul] at h ⊢
+    rw [this]; exact h
+  have h0 := nac_hasDerivAt_line Ψ g L hΨ w d 0
+  simp only [zero_smul, add_zero] at h0
+  have := hφ.le_slope_of_hasDerivAt (Set.mem_univ 0) (Set.mem_univ 1) zero_lt_one h0
+  rw [slope_def_field] at this
+  simp at this
+  have hy : w + d = z := by simp [hd]
+  rw [hy] at this
+  linarith
+
+lemma nac_lower {n : ℕ} (Ψ : EuclideanSpace ℝ (Fin n) → ℝ) (g : EuclideanSpace ℝ (Fin n) → EuclideanSpace ℝ (Fin n)) (L : ℝ)
+    (hΨ : ConvexOptAlg.SmoothGD.IsBetaSmooth Ψ g L) (x y : EuclideanSpace ℝ (Fin n)) :
+    Ψ x + inner ℝ (g x) (y - x) - L / 2 * ‖y - x‖ ^ 2 ≤ Ψ y := by
+  set d := y - x with hd
+  set ψ : ℝ → ℝ := fun t => Ψ (x + t • d) - t * inner ℝ (g x) d + L / 2 * t ^ 2 * ‖d‖ ^ 2 with hψ
+  have hder : ∀ t, HasDerivAt ψ
+      (inner ℝ (g (x + t • d)) d - inner ℝ (g x) d + L * t * ‖d‖ ^ 2) t := by
+    intro t
+    have h1 := nac_hasDerivAt_line Ψ g L hΨ x d t
+    have h2 : HasDerivAt (fun s : ℝ => s * inner ℝ (g x) d) (inner ℝ (g x) d) t := by
+      simpa using (hasDerivAt_id t).mul_const (inner ℝ (g x) d)
+    have h3 : HasDerivAt (fun s : ℝ => L / 2 * s ^ 2 * ‖d‖ ^ 2) (L * t * ‖d‖ ^ 2) t := by
+      have := ((hasDerivAt_pow 2 t).const_mul (L / 2)).mul_const (‖d‖ ^ 2)
+      exact this.congr_deriv (by rw [show (2:ℕ) - 1 = 1 from rfl]; push_cast; ring)
+    exact (h1.sub h2).add h3
+  have hmono : MonotoneOn ψ (Set.Icc 0 1) := by
+    apply monotoneOn_of_deriv_nonneg (convex_Icc 0 1)
+    · exact (fun t _ => (hder t).continuousAt.continuousWithinAt)
+    · exact (fun t _ => (hder t).differentiableAt.differentiableWithinAt)
+    · intro t ht
+      rw [interior_Icc] at ht
+      rw [(hder t).deriv]
+      have h1 : inner ℝ (g (x + t • d)) d - inner ℝ (g x) d = inner ℝ (g (x + t • d) - g x) d := by
+        rw [inner_sub_left]
+      have h2 : -(‖g (x + t • d) - g x‖ * ‖d‖) ≤ inner ℝ (g (x + t • d) - g x) d := by
+        have := abs_real_inner_le_norm (g (x + t • d) - g x) d
+        exact (abs_le.mp this).1
+      have h3 : ‖g (x + t • d) - g x‖ ≤ L * ‖t • d‖ := by
+        have := hΨ.2.2 (x + t • d) x
+        simpa using this
+      have h4 : ‖t • d‖ = t * ‖d‖ := by
+        rw [norm_smul, Real.norm_of_nonneg ht.1.le]
+      have h5 : ‖g (x + t • d) - g x‖ * ‖d‖ ≤ L * (t * ‖d‖) * ‖d‖ := by
+        rw [h4] at h3
+        exact mul_le_mul_of_nonneg_right h3 (norm_nonneg _)
+      nlinarith
+  have := hmono (Set.mem_Icc.mpr ⟨le_rfl, zero_le_one⟩) (Set.mem_Icc.mpr ⟨zero_le_one, le_rfl⟩)
+    zero_le_one
+  simp only [hψ] at this
+  have hxd : x + d = y := by simp [hd]
+  simp at this
+  rw [hxd] at this
+  linarith
+
+lemma nac_main {n : ℕ} (f h : EuclideanSpace ℝ (Fin n) → ℝ) (gf gh : EuclideanSpace ℝ (Fin n) → EuclideanSpace ℝ (Fin n)) (Lf Lh : ℝ)
+    (hf : IsBetaSmooth f gf Lf) (hh : IsBetaSmooth h gh Lh) (hhc : ConvexOn ℝ Set.univ h) :
+    ∀ x y : EuclideanSpace ℝ (Fin n),
+      -(Lf / 2) * ‖y - x‖ ^ 2 ≤ (f y + h y) - (f x + h x) - inner ℝ (gf x + gh x) (y - x) ∧
+        (f y + h y) - (f x + h x) - inner ℝ (gf x + gh x) (y - x) ≤
+          (Lf + Lh) / 2 * ‖y - x‖ ^ 2 := by
+  intro x y
+  have h1 := nac_lower f gf Lf hf x y
+  have h2 := nac_descent f gf Lf hf x y
+  have h3 := nac_descent h gh Lh hh x y
+  have h4 := nac_grad_ineq h gh Lh hh hhc x y
+  rw [inner_add_left]
+  constructor <;> nlinarith
+
+
+lemma nac_47 {n : ℕ} (f h : EE n → ℝ) (gf gh : EE n → EE n) (Lf Lh : ℝ)
+    (hf : IsBetaSmooth f gf Lf) (hh : IsBetaSmooth h gh Lh) (hhc : ConvexOn ℝ Set.univ h)
+    (α : ℝ) (hα0 : 0 ≤ α) (hα1 : α ≤ 1) (xag xp x : EE n) :
+    (f ((1 - α) • xag + α • xp) + h ((1 - α) • xag + α • xp))
+        - ((1 - α) * (f xag + h xag) + α * (f x + h x)) ≤
+      inner ℝ (gf ((1 - α) • xag + α • xp) + gh ((1 - α) • xag + α • xp))
+          (((1 - α) • xag + α • xp) - α • x - (1 - α) • xag) +
+        Lf * α / 2 * ‖((1 - α) • xag + α • xp) - x‖ ^ 2 +
+        Lf * α ^ 2 * (1 - α) / 2 * ‖xag - xp‖ ^ 2 := by
+  set md := (1 - α) • xag + α • xp with hmd
+  have A := (nac_main f h gf gh Lf Lh hf hh hhc md xag).1
+  have B := (nac_main f h gf gh Lf Lh hf hh hhc md x).1
+  have hn : ‖xag - md‖ ^ 2 = α ^ 2 * ‖xag - xp‖ ^ 2 := by
+    have : xag - md = α • (xag - xp) := by rw [hmd]; module
+    rw [this, norm_smul, mul_pow, Real.norm_of_nonneg hα0]
+  have hv : md - α • x - (1 - α) • xag = -((1 - α) • (xag - md) + α • (x - md)) := by
+    rw [hmd]; module
+  rw [hv, inner_neg_right, inner_add_right, inner_smul_right, inner_smul_right]
+  have h1 := mul_le_mul_of_nonneg_left A (sub_nonneg.mpr hα1)
+  have h2 := mul_le_mul_of_nonneg_left B hα0
+  rw [hn] at h1
+  rw [norm_sub_rev x md] at h2
+  nlinarith [h1, h2]
+
+theorem solution {n : ℕ} (f h : NonconvexAG.Smooth.E n → ℝ) (gf gh : NonconvexAG.Smooth.E n → NonconvexAG.Smooth.E n) (Lf Lh : ℝ)
+    (hf : IsBetaSmooth f gf Lf) (hh : IsBetaSmooth h gh Lh) (hhc : ConvexOn ℝ Set.univ h)
+    (P : NonconvexAG.Smooth.E n → NonconvexAG.Smooth.E n → ℝ → NonconvexAG.Smooth.E n) (α β lam : ℕ → ℝ) (hstep : NonconvexAG.Smooth.AGStepsizes α β lam) (x0 : NonconvexAG.Smooth.E n) :
+    let Ψ : NonconvexAG.Smooth.E n → ℝ := fun x => f x + h x
+    let gΨ : NonconvexAG.Smooth.E n → NonconvexAG.Smooth.E n := fun x => gf x + gh x
+    let xk : ℕ → NonconvexAG.Smooth.E n := NonconvexAG.Composite.xSeq gΨ P α β lam x0
+    let xag : ℕ → NonconvexAG.Smooth.E n := NonconvexAG.Composite.xagSeq gΨ P α β lam x0
+    let xmd : ℕ → NonconvexAG.Smooth.E n := NonconvexAG.Composite.xmdSeq gΨ P α β lam x0
+    ∀ k, 1 ≤ k → ∀ x : NonconvexAG.Smooth.E n,
+      Ψ (xmd k) - ((1 - α k) * Ψ (xag (k - 1)) + α k * Ψ x) ≤
+        inner ℝ (gΨ (xmd k)) (xmd k - α k • x - (1 - α k) • xag (k - 1)) +
+          Lf * α k / 2 * ‖xmd k - x‖ ^ 2 +
+          Lf * α k ^ 2 * (1 - α k) / 2 * ‖xag (k - 1) - xk (k - 1)‖ ^ 2 := by
+  intro Ψ gΨ xk xag xmd k hk x
+  have hα0 : 0 ≤ α k := by
+    rcases Nat.eq_or_lt_of_le hk with h' | h'
+    · subst h'; rw [hstep.1]; norm_num
+    · exact (hstep.2.1 k (by omega)).1.le
+  have hα1 : α k ≤ 1 := by
+    rcases Nat.eq_or_lt_of_le hk with h' | h'
+    · subst h'; rw [hstep.1]
+    · exact (hstep.2.1 k (by omega)).2.le
+  have := nac_47 f h gf gh Lf Lh hf hh hhc (α k) hα0 hα1 (xag (k - 1)) (xk (k - 1)) x
+  exact this

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Selection_theorem2_optimal_of_accessible
 -- name    : VeinottWagnerSS.Selection.theorem2_optimal_of_accessible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:12:42.287215+00:00
 -- url     : https://prove2.me/theorems/b928ce4e-95f7-49e6-b6d2-940f2c7c5aac

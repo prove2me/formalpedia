@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Tao_eq11_BinvBh_le
 -- name    : PlunneckeType.Tao.eq11_BinvBh_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:07.914768+00:00
 -- url     : https://prove2.me/theorems/5a357f54-624a-426d-85e5-dc89c524d7d0

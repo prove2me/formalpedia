@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnifErgHW_Diffusion_psi_properties
 -- name    : UnifErgHW.Diffusion.psi_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:49.922002+00:00
 -- url     : https://prove2.me/theorems/f43aa79e-7446-4064-93df-c4a17c71506b

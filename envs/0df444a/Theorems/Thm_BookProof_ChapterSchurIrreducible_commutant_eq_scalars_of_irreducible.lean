@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_commutant_eq_scalars_of_irreducible
 -- name    : BookProof.ChapterSchurIrreducible.commutant_eq_scalars_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:21:56.608985+00:00
 -- url     : https://prove2.me/theorems/0fbaa27b-90ce-41a2-91b1-5cd581a80b89

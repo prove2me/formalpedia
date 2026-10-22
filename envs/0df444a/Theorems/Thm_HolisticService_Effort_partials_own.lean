@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_partials_own
 -- name    : HolisticService.Effort.partials_own
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:15:01.171607+00:00
 -- url     : https://prove2.me/theorems/4d1ee762-f648-4e08-b028-83460feb9399

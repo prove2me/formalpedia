@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdBlockers_Allow_case_1_ads_ads
 -- name    : AdBlockers.Allow.case_1_ads_ads
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:24.60491+00:00
 -- url     : https://prove2.me/theorems/ef48888f-05fc-47c3-9be1-68f7cf25a6a3

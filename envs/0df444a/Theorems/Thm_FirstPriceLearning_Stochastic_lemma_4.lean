@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstPriceLearning_Stochastic_lemma_4
 -- name    : FirstPriceLearning.Stochastic.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:27:53.303189+00:00
 -- url     : https://prove2.me/theorems/df82ed3d-7372-4eec-8b9d-e46cb9b96470

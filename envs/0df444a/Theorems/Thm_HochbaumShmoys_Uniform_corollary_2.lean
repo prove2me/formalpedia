@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HochbaumShmoys_Uniform_corollary_2
 -- name    : HochbaumShmoys.Uniform.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:38.513675+00:00
 -- url     : https://prove2.me/theorems/bb640f83-4e72-419b-89d1-4795143d4f12

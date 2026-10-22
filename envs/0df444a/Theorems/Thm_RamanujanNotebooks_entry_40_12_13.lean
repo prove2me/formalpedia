@@ -11,7 +11,7 @@
 --
 --   **Discrepancy from the printed source.** the usual exclusion of zero lower rising factorials, implicit in the hypergeometric notation, is explicit here.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 40, Entry 12_13, p. 407.
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), first-notebook appendix, Notebook 1, Chapter 12, Entry 13, p. 407.
 
 import Mathlib
 import Definitions.Def_RamanujanNotebooks_shared_hypPFQTerm

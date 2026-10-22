@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_Payoffs_quality_lt
 -- name    : CustomerVoice.Payoffs.quality_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:54.098599+00:00
 -- url     : https://prove2.me/theorems/d974d520-2ea2-486b-930e-a70d3fc1fc08

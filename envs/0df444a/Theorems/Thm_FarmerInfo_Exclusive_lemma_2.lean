@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfo_Exclusive_lemma_2
 -- name    : FarmerInfo.Exclusive.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:47.292035+00:00
 -- url     : https://prove2.me/theorems/358f10a5-8dda-4de0-b12b-bb8b9070eca3

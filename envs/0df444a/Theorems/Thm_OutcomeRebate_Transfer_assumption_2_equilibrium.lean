@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutcomeRebate_Transfer_assumption_2_equilibrium
 -- name    : OutcomeRebate.Transfer.assumption_2_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:13.325452+00:00
 -- url     : https://prove2.me/theorems/03731326-4872-4669-a2df-7f6ff6607e32

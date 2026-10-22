@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_triangle_chain
 -- name    : ObfImpossibility.PseudoOracle.triangle_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:14.101025+00:00
 -- url     : https://prove2.me/theorems/5a731d30-84e4-41f5-a8fb-b6590fa3eff0

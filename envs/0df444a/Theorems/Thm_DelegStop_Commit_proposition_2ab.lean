@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelegStop_Commit_proposition_2ab
 -- name    : DelegStop.Commit.proposition_2ab
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:09.696194+00:00
 -- url     : https://prove2.me/theorems/83aee7e2-7a00-41f6-b64c-72fec4562cea

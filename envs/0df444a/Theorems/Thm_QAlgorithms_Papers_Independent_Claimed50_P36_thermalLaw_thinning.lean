@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P36_thermalLaw_thinning
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P36.thermalLaw_thinning
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:33:20.604879+00:00
 -- url     : https://prove2.me/theorems/20166158-4caf-493d-b3f9-a6a951d7a12a

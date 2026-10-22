@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_contDiffOn_of_isWeakJHolomorphicOn
 -- name    : JHolomorphic.contDiffOn_of_isWeakJHolomorphicOn
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:31:31.397979+00:00
 -- url     : https://prove2.me/theorems/1e13dbcb-7cdb-4cd7-b2cd-76f81e65e1b9

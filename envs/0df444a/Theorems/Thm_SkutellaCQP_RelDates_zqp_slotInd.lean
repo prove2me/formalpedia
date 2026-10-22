@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_RelDates_zqp_slotInd
 -- name    : SkutellaCQP.RelDates.zqp_slotInd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:12:30.110977+00:00
 -- url     : https://prove2.me/theorems/a5b158ee-5958-488f-8c36-13e90c6fa996

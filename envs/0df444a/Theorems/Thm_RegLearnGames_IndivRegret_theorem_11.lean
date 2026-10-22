@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_IndivRegret_theorem_11
 -- name    : RegLearnGames.IndivRegret.theorem_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:37:32.09097+00:00
 -- url     : https://prove2.me/theorems/6c8e3d3c-1963-405e-ae1d-5a30068a62d2

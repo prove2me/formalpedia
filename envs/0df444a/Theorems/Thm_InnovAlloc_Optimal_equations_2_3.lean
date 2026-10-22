@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnovAlloc_Optimal_equations_2_3
 -- name    : InnovAlloc.Optimal.equations_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:20:33.336792+00:00
 -- url     : https://prove2.me/theorems/255330b4-16cf-4f68-9217-37c6591c22a7

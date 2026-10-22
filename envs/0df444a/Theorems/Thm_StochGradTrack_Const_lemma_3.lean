@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochGradTrack_Const_lemma_3
 -- name    : StochGradTrack.Const.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:44:21.479364+00:00
 -- url     : https://prove2.me/theorems/a46415d8-cd1c-472f-b598-64aced7d772a

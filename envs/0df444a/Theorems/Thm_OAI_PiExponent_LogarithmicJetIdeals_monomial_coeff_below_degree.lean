@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_monomial_coeff_below_degree
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.monomial_coeff_below_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T17:59:42.212987+00:00
 -- url     : https://prove2.me/theorems/67777b5c-41d6-47e1-9254-fd7553d37b5c

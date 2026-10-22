@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_unitaryRepresentation_decomposition
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.unitaryRepresentation_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:12:05.987219+00:00
 -- url     : https://prove2.me/theorems/a6e0c7e7-1a18-4950-826b-37dbc2769d83

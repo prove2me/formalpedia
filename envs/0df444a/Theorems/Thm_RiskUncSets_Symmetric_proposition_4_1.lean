@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_Symmetric_proposition_4_1
 -- name    : RiskUncSets.Symmetric.proposition_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:28:39.47298+00:00
 -- url     : https://prove2.me/theorems/9141fca9-acc7-41b1-942c-d31f3f93d22c

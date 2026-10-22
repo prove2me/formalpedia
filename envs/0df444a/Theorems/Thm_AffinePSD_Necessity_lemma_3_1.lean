@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePSD_Necessity_lemma_3_1
 -- name    : AffinePSD.Necessity.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:46:24.662999+00:00
 -- url     : https://prove2.me/theorems/026e9951-3bb4-4e1b-93a8-0ad985714dcb

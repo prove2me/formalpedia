@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Diag_eq_13
 -- name    : AdaGrad.Diag.eq_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:31:23.814564+00:00
 -- url     : https://prove2.me/theorems/3129f434-d384-4ea7-a39f-1a57f31b83c5

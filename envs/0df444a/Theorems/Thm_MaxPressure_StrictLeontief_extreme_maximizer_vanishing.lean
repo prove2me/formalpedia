@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_StrictLeontief_extreme_maximizer_vanishing
 -- name    : MaxPressure.StrictLeontief.extreme_maximizer_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:56:11.661859+00:00
 -- url     : https://prove2.me/theorems/94efd397-5e78-4ebb-857d-84a9eaf13922

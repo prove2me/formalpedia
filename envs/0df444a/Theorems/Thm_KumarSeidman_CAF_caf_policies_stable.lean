@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_CAF_caf_policies_stable
 -- name    : KumarSeidman.CAF.caf_policies_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:42.800983+00:00
 -- url     : https://prove2.me/theorems/49958925-33b2-4a0b-938a-d1ab5f605bf3

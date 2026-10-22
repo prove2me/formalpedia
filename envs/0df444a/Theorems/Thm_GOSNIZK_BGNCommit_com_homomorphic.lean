@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_com_homomorphic
 -- name    : GOSNIZK.BGNCommit.com_homomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:53.316905+00:00
 -- url     : https://prove2.me/theorems/a737784d-ca1b-403d-9b71-7cabfc2bcf0d

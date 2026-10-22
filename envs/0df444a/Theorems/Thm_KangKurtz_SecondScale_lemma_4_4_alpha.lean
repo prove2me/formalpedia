@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KangKurtz_SecondScale_lemma_4_4_alpha
 -- name    : KangKurtz.SecondScale.lemma_4_4_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:06.719545+00:00
 -- url     : https://prove2.me/theorems/58e81afa-22b5-4713-b695-113ed2fd6f5d

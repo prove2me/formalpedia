@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdvanceSales_Pricing_theorem_4
 -- name    : AdvanceSales.Pricing.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:58.004357+00:00
 -- url     : https://prove2.me/theorems/8dc2e030-ba72-4406-a73f-fa2c0eceffdb

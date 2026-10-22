@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.polynomial_curve_zero_divisor_bound
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:44:45.785879+00:00
 -- url     : https://prove2.me/submissions/5710389f-fb0c-4c62-871a-af2b8317ac40
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicWordContact
 import Definitions.Def_OAI_PiExponent_LogarithmicInterpolationNumerics

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P12_backgroundChainRule
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P12.backgroundChainRule
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:36:43.154981+00:00
 -- url     : https://prove2.me/theorems/3034dbbb-63ea-4f7c-b386-4f76b3919ca4

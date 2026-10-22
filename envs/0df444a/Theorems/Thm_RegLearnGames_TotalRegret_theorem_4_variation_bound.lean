@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_TotalRegret_theorem_4_variation_bound
 -- name    : RegLearnGames.TotalRegret.theorem_4_variation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:10.298312+00:00
 -- url     : https://prove2.me/theorems/8706722a-1407-47db-851f-f288a755670f

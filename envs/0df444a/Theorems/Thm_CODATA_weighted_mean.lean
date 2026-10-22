@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CODATA_weighted_mean
 -- name    : CODATA.weighted_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T01:37:42.182189+00:00
 -- url     : https://prove2.me/theorems/c132d63a-041b-486c-a557-374f67ec61c8

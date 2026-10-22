@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustFPA_VarBid_equation3_unique
 -- name    : RobustFPA.VarBid.equation3_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:37.623306+00:00
 -- url     : https://prove2.me/theorems/6be3333e-46ff-4e8b-9a84-847853b5632f

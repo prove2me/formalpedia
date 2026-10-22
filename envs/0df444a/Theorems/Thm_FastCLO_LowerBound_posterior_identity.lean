@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_LowerBound_posterior_identity
 -- name    : FastCLO.LowerBound.posterior_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:20:23.282578+00:00
 -- url     : https://prove2.me/theorems/757b0ffe-f932-4504-bbde-a56c1802deae

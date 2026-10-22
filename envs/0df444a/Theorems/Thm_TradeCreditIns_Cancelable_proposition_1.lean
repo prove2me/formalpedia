@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradeCreditIns_Cancelable_proposition_1
 -- name    : TradeCreditIns.Cancelable.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:38.760777+00:00
 -- url     : https://prove2.me/theorems/59f8f818-9c90-43d8-aa38-d2c45560023a

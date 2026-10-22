@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Opt_d_strictAnti
 -- name    : MartOT.Opt.d_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:44.808381+00:00
 -- url     : https://prove2.me/theorems/83cc953d-2823-4674-b022-01cce7e34b36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_DensityBE_lemma_12
 -- name    : QuantumSDP18.DensityBE.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:36.057502+00:00
 -- url     : https://prove2.me/theorems/43c554cd-ffc3-4b64-9bce-f96854f58c19

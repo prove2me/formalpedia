@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RespSourcing_Transparent_lc_vs_rm
 -- name    : RespSourcing.Transparent.lc_vs_rm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:12:24.025632+00:00
 -- url     : https://prove2.me/theorems/fab37d56-530a-4621-bbc7-f1d48f99e701

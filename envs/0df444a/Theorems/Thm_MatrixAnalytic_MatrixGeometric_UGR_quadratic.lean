@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MatrixGeometric_UGR_quadratic
 -- name    : MatrixAnalytic.MatrixGeometric.UGR_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:06.277894+00:00
 -- url     : https://prove2.me/theorems/9a13250e-5872-405c-bce7-e59921597062

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_improving_vector_small
 -- name    : CookSensitivity.ChvatalRank.improving_vector_small
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:38:07.912807+00:00
 -- url     : https://prove2.me/theorems/2b010e22-87e7-44d4-9591-d13dcb33f437

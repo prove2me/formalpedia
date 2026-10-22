@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_J6Seg_PJ_preNeed6_holds
 -- name    : J6Seg.PJ.preNeed6_holds
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:30:32.163299+00:00
 -- url     : https://prove2.me/theorems/631ba950-059d-4eb1-89c7-76ac2255f71a
 -- title:

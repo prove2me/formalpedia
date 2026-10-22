@@ -7,7 +7,9 @@
 -- title:
 --   Order of accuracy of Ramanujan's second approximation to the perimeter of an ellipse
 -- statement:
---   Ramanujan's approximation $L\approx\pi(a+b)\{1+3t/(10+\sqrt{4-3t})\}$, $t=((a-b)/(a+b))^2$, agrees with $L/(\pi(a+b))={}_2F_1(-\tfrac12,-\tfrac12;1;t)$ through the term $t^4$, the error being about $3t^5/2^{17}$. Stated: $\lim_{t\to0^+}\big({}_2F_1(-\tfrac12,-\tfrac12;1;t)-1-3t/(10+\sqrt{4-3t})\big)/t^5=3/2^{17}$.
+--   Ramanujan's approximation $L\approx\pi(a+b)\{1+3t/(10+\sqrt{4-3t})\}$, $t=((a-b)/(a+b))^2$, agrees with $L/(\pi(a+b))={}_2F_1(-\tfrac12,-\tfrac12;1;t)$ through the term $t^4$, the error being about $3t^5/2^{17}$. Stated: $\lim_{t\to0^+}\big({}_2F_1(-\tfrac12,-\tfrac12;1;t)-1-3t/(10+\sqrt{4-3t})\big)/t^5=3/2^{17}$. Differs from the printed source: the book gives (3.4) only as an approximation ("very nearly"); it is stated here as the limit of the normalized error over $t^5$, the constant $3/2^{17}=\alpha_5-\gamma_5$ coming from (3.8) and (3.10) on p. 149.
+--
+--   **Discrepancy from the printed source.** The book gives (3.4) only as an approximation ("very nearly"). The formal statement is the limit, as t → 0+, of the normalized error divided by t⁵; the constant 3/2¹⁷ = α₅ − γ₅ comes from comparing (3.8) and (3.10) on p. 149.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part III (Springer, 1991), Chapter 18, Entry 3, (3.4), p. 146, eq. (3.4).
 

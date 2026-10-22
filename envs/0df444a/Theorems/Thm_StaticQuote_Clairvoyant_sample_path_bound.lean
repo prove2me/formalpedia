@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticQuote_Clairvoyant_sample_path_bound
 -- name    : StaticQuote.Clairvoyant.sample_path_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:10.065983+00:00
 -- url     : https://prove2.me/theorems/342958f4-95ac-4b20-b2bf-96bc1ac15f97

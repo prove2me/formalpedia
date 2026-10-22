@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_Estimation_affinity_eq_one_sub_half_hellinger
 -- name    : StatComplexityDM.Estimation.affinity_eq_one_sub_half_hellinger
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:22:25.117445+00:00
 -- url     : https://prove2.me/theorems/a5a8b0d9-3ff3-4626-8cae-f884bd858041

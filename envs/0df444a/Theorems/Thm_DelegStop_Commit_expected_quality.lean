@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelegStop_Commit_expected_quality
 -- name    : DelegStop.Commit.expected_quality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:09.759636+00:00
 -- url     : https://prove2.me/theorems/9d3d7607-7277-4f2c-acc8-de6c294f78f6

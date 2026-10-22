@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OceanicGames_Interior_pivotSet_ae_disjoint
 -- name    : OceanicGames.Interior.pivotSet_ae_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:15:19.954356+00:00
 -- url     : https://prove2.me/theorems/03add6e9-b2ad-4b88-8151-6f83f519af19

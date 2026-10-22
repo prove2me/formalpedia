@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSWCuttingPlane_ChasingZero_exp_taylor_bound
 -- name    : LSWCuttingPlane.ChasingZero.exp_taylor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:35.457157+00:00
 -- url     : https://prove2.me/theorems/d672b7d4-d9c7-4478-a67c-5507cc2f80dc

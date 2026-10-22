@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineLearningOCO_NormalizedEG_bregman_step_bound
 -- name    : OnlineLearningOCO.NormalizedEG.bregman_step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:07.044755+00:00
 -- url     : https://prove2.me/theorems/5e2c62c6-f2a3-4317-865d-651787fdd017

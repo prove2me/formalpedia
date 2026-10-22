@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CapacityRights_Gatekeeper_proposition_3
 -- name    : CapacityRights.Gatekeeper.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:39:13.516161+00:00
 -- url     : https://prove2.me/theorems/da9ac612-533f-4350-a77f-4808adfbc782

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanKeskin_UnknownSparsity_experiment_count
 -- name    : BanKeskin.UnknownSparsity.experiment_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:56:16.908499+00:00
 -- url     : https://prove2.me/theorems/4cf63b3d-8ea5-48cd-992e-668859635be8

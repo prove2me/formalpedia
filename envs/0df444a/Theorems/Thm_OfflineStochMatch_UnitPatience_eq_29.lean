@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_UnitPatience_eq_29
 -- name    : OfflineStochMatch.UnitPatience.eq_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:25.498757+00:00
 -- url     : https://prove2.me/theorems/e6bbd689-baae-4141-8808-8de191955cc9

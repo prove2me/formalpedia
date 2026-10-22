@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_as_class_convergence_equivalences
 -- name    : SennottDP.ChainASM.as_class_convergence_equivalences
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:47:14.458495+00:00
 -- url     : https://prove2.me/theorems/fba2c8e2-4405-426e-9a44-4c593144fca3

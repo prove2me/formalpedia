@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_ForcedSampling_average_reward_tendsto_max_ae
 -- name    : RobbinsSeqDesign.ForcedSampling.average_reward_tendsto_max_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:11.173077+00:00
 -- url     : https://prove2.me/theorems/8eb25058-5358-4932-838f-423c56f8864d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_operatorPowers_exponential_bound
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.operatorPowers_exponential_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:10:18.538661+00:00
 -- url     : https://prove2.me/theorems/9a38e5be-5441-4f81-b2e9-54efba482294

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_StarBound_theorem_3_10
 -- name    : LNTopology.StarBound.theorem_3_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:13.155554+00:00
 -- url     : https://prove2.me/theorems/9af182c2-45d4-4bfd-855b-c5aedcfadae8

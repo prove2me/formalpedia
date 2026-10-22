@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_MultiDim_assign_balanced
 -- name    : PigeonholeDesign.MultiDim.assign_balanced
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:36:27.181952+00:00
 -- url     : https://prove2.me/theorems/1771d1db-2f6e-4d37-8aa0-9aae76964ea1

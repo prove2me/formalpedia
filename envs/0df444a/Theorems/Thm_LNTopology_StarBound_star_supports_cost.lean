@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_StarBound_star_supports_cost
 -- name    : LNTopology.StarBound.star_supports_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:32:21.297464+00:00
 -- url     : https://prove2.me/theorems/c857baa8-81ce-4dd9-91ee-cc0eb7fe7d2b

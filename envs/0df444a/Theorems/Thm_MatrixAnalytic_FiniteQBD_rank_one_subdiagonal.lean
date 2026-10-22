@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_FiniteQBD_rank_one_subdiagonal
 -- name    : MatrixAnalytic.FiniteQBD.rank_one_subdiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:45:59.480986+00:00
 -- url     : https://prove2.me/theorems/ddb640e0-fadd-4734-a599-d850f6a839b0

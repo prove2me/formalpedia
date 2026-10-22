@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_Linear_lemma5_a
 -- name    : TsengCGD.Linear.lemma5_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:57.88202+00:00
 -- url     : https://prove2.me/theorems/4768beb1-818e-42d0-9001-3fcfd85e11f3

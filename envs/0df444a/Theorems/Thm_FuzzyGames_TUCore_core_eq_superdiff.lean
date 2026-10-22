@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyGames_TUCore_core_eq_superdiff
 -- name    : FuzzyGames.TUCore.core_eq_superdiff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:07:23.052246+00:00
 -- url     : https://prove2.me/theorems/4b7c3eba-8b2f-43b2-957d-32a512b70edd

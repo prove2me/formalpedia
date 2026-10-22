@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_InsensMatch_boundary_step
 -- name    : SourceTheory.InsensMatch.boundary_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:18.958978+00:00
 -- url     : https://prove2.me/theorems/4cc8beb2-aac2-49c5-991c-4245dddd7147

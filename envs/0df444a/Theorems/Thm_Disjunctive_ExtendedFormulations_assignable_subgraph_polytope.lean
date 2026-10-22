@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_ExtendedFormulations_assignable_subgraph_polytope
 -- name    : Disjunctive.ExtendedFormulations.assignable_subgraph_polytope
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:33:19.68974+00:00
 -- url     : https://prove2.me/theorems/cd94d556-3e20-4268-a7e1-2bfeb7b5d6df

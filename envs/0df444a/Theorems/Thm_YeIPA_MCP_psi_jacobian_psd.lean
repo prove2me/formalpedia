@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_MCP_psi_jacobian_psd
 -- name    : YeIPA.MCP.psi_jacobian_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:42.984984+00:00
 -- url     : https://prove2.me/theorems/cd7fb8d3-951c-40c0-808d-4f45e9d0b096

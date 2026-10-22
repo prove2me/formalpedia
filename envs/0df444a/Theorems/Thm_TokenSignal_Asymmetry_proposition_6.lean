@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenSignal_Asymmetry_proposition_6
 -- name    : TokenSignal.Asymmetry.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:18:55.921926+00:00
 -- url     : https://prove2.me/theorems/ebfecb16-0705-4273-b9b6-3bd1a80b559b

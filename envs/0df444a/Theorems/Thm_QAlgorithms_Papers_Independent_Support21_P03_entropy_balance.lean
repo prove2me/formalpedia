@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P03_entropy_balance
 -- name    : QAlgorithms.Papers.Independent.Support21.P03.entropy_balance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:40:54.119436+00:00
 -- url     : https://prove2.me/theorems/d06250b8-445b-4da7-b943-cfe4579c3dbb

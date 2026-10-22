@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossLicensing_ExAnte_proposition_4
 -- name    : CrossLicensing.ExAnte.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T14:39:37.384303+00:00
 -- url     : https://prove2.me/theorems/607988be-7ace-4581-91cc-360806ff5cf3

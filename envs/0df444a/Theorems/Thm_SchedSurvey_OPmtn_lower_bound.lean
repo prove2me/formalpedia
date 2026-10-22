@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedSurvey_OPmtn_lower_bound
 -- name    : SchedSurvey.OPmtn.lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:50:00.993999+00:00
 -- url     : https://prove2.me/theorems/b3c9dbaf-5224-4966-bcb7-bc65fa594c9f

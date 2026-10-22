@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_IFT_selfMap
 -- name    : RobinsonSR.IFT.selfMap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:59:49.294587+00:00
 -- url     : https://prove2.me/theorems/21720b8f-2b8b-45f4-aaf5-f402b687bb79

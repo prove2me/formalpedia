@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_Linear_lemma4
 -- name    : TsengCGD.Linear.lemma4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:43.944613+00:00
 -- url     : https://prove2.me/theorems/25a923dc-9b3d-47f3-a5c9-f3c71e5629d4

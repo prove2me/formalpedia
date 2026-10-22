@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineTaxiRouting_Integrality_relax_eq_flow_of_fixed
 -- name    : OnlineTaxiRouting.Integrality.relax_eq_flow_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:28:45.698399+00:00
 -- url     : https://prove2.me/theorems/e78be04c-705e-4a96-94c5-8df4c57cf1ac

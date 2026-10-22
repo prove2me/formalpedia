@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_homogeneous_farkas_lemma
 -- name    : ModernConvex.LPDuality.homogeneous_farkas_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:31:53.782542+00:00
 -- url     : https://prove2.me/theorems/efac3ca7-87a6-45b6-925c-b92114ee05e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Feasibility_matrix_row_column_bounds
 -- name    : FlowsNetworks.Feasibility.matrix_row_column_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:37.564032+00:00
 -- url     : https://prove2.me/theorems/7a63708f-89a5-436c-b929-ab88acbcd748

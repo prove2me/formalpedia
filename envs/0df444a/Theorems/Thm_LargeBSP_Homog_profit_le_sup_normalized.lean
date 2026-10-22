@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_profit_le_sup_normalized
 -- name    : LargeBSP.Homog.profit_le_sup_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:47.898814+00:00
 -- url     : https://prove2.me/theorems/2c5df297-14ce-481c-8560-29904cfd4d1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Composite_lemma_1
 -- name    : NonconvexAG.Composite.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:35:09.853981+00:00
 -- url     : https://prove2.me/theorems/af883a27-7368-4918-a91e-e17e861bc319

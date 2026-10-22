@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeavyTailNV_ZeroOrder_proposition_3_1
 -- name    : HeavyTailNV.ZeroOrder.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T14:17:23.812252+00:00
 -- url     : https://prove2.me/theorems/a73782bc-72f9-443b-91b9-c7331ea7d4e9

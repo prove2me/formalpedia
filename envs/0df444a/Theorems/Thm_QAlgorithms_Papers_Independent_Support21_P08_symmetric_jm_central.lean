@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_symmetric_jm_central
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.symmetric_jm_central
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:30:36.616049+00:00
 -- url     : https://prove2.me/theorems/0ee384eb-6f4d-4145-83c1-6e9787c29093

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PHRenewal_renewal_density
 -- name    : MatrixAnalytic.PHRenewal.renewal_density
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:34.446804+00:00
 -- url     : https://prove2.me/theorems/98373eac-0de8-48f1-a7e4-6972f23b0901

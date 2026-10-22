@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Nannicini_no_cloning
 -- name    : QAlgorithms.Nannicini.no_cloning
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:51:57.984219+00:00
 -- url     : https://prove2.me/theorems/4654f02d-dded-4cf9-8ae4-649ba7d1aff8

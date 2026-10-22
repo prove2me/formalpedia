@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachingML_PredMarker_opt_le_cleanCount
 -- name    : CachingML.PredMarker.opt_le_cleanCount
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:07:30.800984+00:00
 -- url     : https://prove2.me/theorems/2f729b2c-8041-41c2-a155-a3339b4d6017

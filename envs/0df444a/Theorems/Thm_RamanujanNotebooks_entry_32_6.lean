@@ -8,6 +8,8 @@
 --   Fifth power of the Rogers–Ramanujan continued fraction as a rational function of its value at the fifth power of q
 -- statement:
 --   Let $|q|<1$, $\varphi=q\,K(q^5)=R(q^5)$ and $f=R(q)$, so $f^5=q\,K(q)^5$. Then $f^5\,(1+3\varphi+4\varphi^2+2\varphi^3+\varphi^4)=\varphi\,(1-2\varphi+4\varphi^2-3\varphi^3+\varphi^4)$, the cross-multiplied form of $f^5=\varphi\dfrac{1-2\varphi+4\varphi^2-3\varphi^3+\varphi^4}{1+3\varphi+4\varphi^2+2\varphi^3+\varphi^4}$. Here $K(x)=\cfrac{1}{1+\cfrac{x}{1+\cfrac{x^2}{1+\cdots}}}$ is the limit of its convergents; it is part of the statement that the convergents are defined for all large indices.
+--
+--   **Discrepancy from the printed source.** The quotient displayed on p. 20 is multiplied by $1+3\varphi+4\varphi^2+2\varphi^3+\varphi^4$. The resulting polynomial equality is stated without adding a nonzero condition on this factor.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part V (Springer, 1998), Chapter 32, Entry 6, p. 19.
 

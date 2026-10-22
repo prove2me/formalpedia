@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P12_ordinary_conjugates_commute
 -- name    : QAlgorithms.Papers.Independent.Support21.P12.ordinary_conjugates_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:11:09.18992+00:00
 -- url     : https://prove2.me/theorems/2a424f2a-092d-4c6c-a861-d4730094be5a

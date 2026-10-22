@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_OnlineToBatch_theorem_3_9
 -- name    : ModernOnlineLearning.OnlineToBatch.theorem_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:35:32.618047+00:00
 -- url     : https://prove2.me/theorems/804e1c3e-3f74-419e-b377-7d4176154b3f

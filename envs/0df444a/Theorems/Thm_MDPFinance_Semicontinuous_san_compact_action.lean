@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Semicontinuous_san_compact_action
 -- name    : MDPFinance.Semicontinuous.san_compact_action
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:28:22.8354+00:00
 -- url     : https://prove2.me/theorems/e30b19ca-cde0-4d09-ad4f-8cf2cde2026f

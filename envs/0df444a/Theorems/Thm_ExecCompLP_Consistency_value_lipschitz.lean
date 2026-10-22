@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExecCompLP_Consistency_value_lipschitz
 -- name    : ExecCompLP.Consistency.value_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:25:46.772981+00:00
 -- url     : https://prove2.me/theorems/f4d729c9-bda4-4e7b-a56d-80b9b719eafb

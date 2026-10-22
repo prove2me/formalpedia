@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_MeasureBE_trace_identity
 -- name    : QuantumSDP18.MeasureBE.trace_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:32.544874+00:00
 -- url     : https://prove2.me/theorems/d0bf389a-675b-4efd-a925-4fb19d879797

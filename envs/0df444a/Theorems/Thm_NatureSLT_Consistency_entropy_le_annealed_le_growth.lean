@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Consistency_entropy_le_annealed_le_growth
 -- name    : NatureSLT.Consistency.entropy_le_annealed_le_growth
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:46.351806+00:00
 -- url     : https://prove2.me/theorems/a97cc047-ec75-4ac0-8ed5-9a6f7baeafca

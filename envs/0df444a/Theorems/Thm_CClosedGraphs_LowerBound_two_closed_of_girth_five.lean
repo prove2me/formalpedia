@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_LowerBound_two_closed_of_girth_five
 -- name    : CClosedGraphs.LowerBound.two_closed_of_girth_five
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:20.164184+00:00
 -- url     : https://prove2.me/theorems/a87f60d0-2c9b-4c26-92cc-0317e9e4da2c

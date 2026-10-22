@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MechanismDesign_SocialChoice_monotone_respectsUnanimity
 -- name    : MechanismDesign.SocialChoice.monotone_respectsUnanimity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T03:48:06.905416+00:00
 -- url     : https://prove2.me/theorems/a0f1323f-fd64-4912-abff-cc42749bc022

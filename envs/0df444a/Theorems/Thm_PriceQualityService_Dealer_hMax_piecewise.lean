@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Dealer_hMax_piecewise
 -- name    : PriceQualityService.Dealer.hMax_piecewise
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:32:02.322989+00:00
 -- url     : https://prove2.me/theorems/0529e83e-50b7-47de-a1d4-d7fcd99a8344

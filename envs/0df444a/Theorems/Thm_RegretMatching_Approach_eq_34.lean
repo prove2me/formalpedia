@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretMatching_Approach_eq_34
 -- name    : RegretMatching.Approach.eq_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:03:12.802428+00:00
 -- url     : https://prove2.me/theorems/f4603bb7-0526-4a35-8669-4f6a7c662129

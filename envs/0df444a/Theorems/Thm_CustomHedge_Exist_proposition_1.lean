@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomHedge_Exist_proposition_1
 -- name    : CustomHedge.Exist.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:49.447186+00:00
 -- url     : https://prove2.me/theorems/d832687a-ed41-4bf7-abbd-6b537034bc0f

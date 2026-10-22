@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_DiagonalEsa_diagOp_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.DiagonalEsa.diagOp_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:58:09.884994+00:00
 -- url     : https://prove2.me/theorems/b0d6f45c-b268-4b70-b066-576f940d6238

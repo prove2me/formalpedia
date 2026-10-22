@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MartOT_Opt_reroute_cheaper
 -- name    : MartOT.Opt.reroute_cheaper
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:19:25.472715+00:00
 -- url     : https://prove2.me/theorems/1638e6f7-39c2-40f0-a9b3-b097dc85b15f

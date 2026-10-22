@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Teletriage_OneShot_proposition_2
 -- name    : Teletriage.OneShot.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:00.240543+00:00
 -- url     : https://prove2.me/theorems/fef06d7a-ca90-4e71-a5fb-44b2d030d0d3

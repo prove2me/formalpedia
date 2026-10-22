@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_Hamming_theorem_5_1_linear
 -- name    : FuzzyExtractors.Hamming.theorem_5_1_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:17:13.561986+00:00
 -- url     : https://prove2.me/theorems/0fd8b662-a414-4fb0-b2da-ebee4b3854a9

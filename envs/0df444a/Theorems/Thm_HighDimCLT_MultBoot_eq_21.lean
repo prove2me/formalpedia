@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimCLT_MultBoot_eq_21
 -- name    : HighDimCLT.MultBoot.eq_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:38:30.696996+00:00
 -- url     : https://prove2.me/theorems/a07b4cae-444b-4884-8936-9c2153608fdc

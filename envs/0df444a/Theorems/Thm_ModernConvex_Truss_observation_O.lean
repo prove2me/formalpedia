@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Truss_observation_O
 -- name    : ModernConvex.Truss.observation_O
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:32.346523+00:00
 -- url     : https://prove2.me/theorems/99342e5b-3215-4968-8360-22ac8ea3f7c0

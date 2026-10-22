@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_allocation_sum_exact_nat
 -- name    : OAI.PiExponent.LiteralAnalytic.allocation_sum_exact_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:01:07.662018+00:00
 -- url     : https://prove2.me/theorems/41467ee5-82da-4d1f-a199-83bdf55337d1

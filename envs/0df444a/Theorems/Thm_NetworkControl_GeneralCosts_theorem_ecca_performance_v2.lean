@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkControl_GeneralCosts_theorem_ecca_performance_v2
 -- name    : NetworkControl.GeneralCosts.theorem_ecca_performance_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:21:10.070297+00:00
 -- url     : https://prove2.me/theorems/98e7073c-e748-4fd6-a434-92e544374d6d

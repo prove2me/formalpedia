@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_levy_generatorIntegrand_add
 -- name    : AvramDividend.Classical.levy_generatorIntegrand_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T22:30:13.284124+00:00
 -- url     : https://prove2.me/theorems/1db30c73-dbba-4086-b99a-c990ce013aed

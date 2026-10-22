@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCSustain_WinWin_lemma_2
 -- name    : MCSustain.WinWin.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:11:53.99956+00:00
 -- url     : https://prove2.me/theorems/f5365c35-2af0-41b1-9354-e9796a4070ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_period_lower_bound
 -- name    : FiniteEnergyPlane.exists_period_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:23:26.480132+00:00
 -- url     : https://prove2.me/theorems/50cb7545-a94b-4a0d-b1a2-0ec96f64a835

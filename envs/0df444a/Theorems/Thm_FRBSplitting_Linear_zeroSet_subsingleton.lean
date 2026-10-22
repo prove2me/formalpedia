@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_Linear_zeroSet_subsingleton
 -- name    : FRBSplitting.Linear.zeroSet_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:21.295084+00:00
 -- url     : https://prove2.me/theorems/cd245da9-e3a1-49f2-834d-0a3ed1c9eb85

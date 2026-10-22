@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KedlayaUmans_Reduction_inverse_kronecker
 -- name    : KedlayaUmans.Reduction.inverse_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:01.950708+00:00
 -- url     : https://prove2.me/theorems/e6cb6a0a-b1d1-44fb-9ea5-63143cbacf0a

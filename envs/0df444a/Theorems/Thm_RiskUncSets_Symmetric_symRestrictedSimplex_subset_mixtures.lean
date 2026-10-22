@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_Symmetric_symRestrictedSimplex_subset_mixtures
 -- name    : RiskUncSets.Symmetric.symRestrictedSimplex_subset_mixtures
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:28:57.129389+00:00
 -- url     : https://prove2.me/theorems/08fbaf19-a775-493b-b43f-05b55bab4ee8

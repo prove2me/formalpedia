@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_Config_capacity_inequalities_valid
 -- name    : TwoEchelonCVRP.Config.capacity_inequalities_valid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:21:26.643198+00:00
 -- url     : https://prove2.me/theorems/15d5e904-b677-41cc-b534-68e0ed8f16f2

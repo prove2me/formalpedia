@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_MaxCut_theorem_6_1
 -- name    : SkutellaCQP.MaxCut.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:12:49.33407+00:00
 -- url     : https://prove2.me/theorems/98f371cd-efdc-4ac7-85a3-437957e24590

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleCorrMFG_Conv_limit_points_consistent
 -- name    : SimpleCorrMFG.Conv.limit_points_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:40.586932+00:00
 -- url     : https://prove2.me/theorems/c3efbd36-b4ae-4b1b-b64c-3d8e255d7d30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_EntropicDual_remark_4_21_gradients
 -- name    : CompOT.EntropicDual.remark_4_21_gradients
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:33:10.546725+00:00
 -- url     : https://prove2.me/theorems/e66a8ebc-7d0d-4573-8f07-6b47274055b2

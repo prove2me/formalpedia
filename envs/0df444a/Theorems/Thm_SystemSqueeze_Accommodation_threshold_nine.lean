@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemSqueeze_Accommodation_threshold_nine
 -- name    : SystemSqueeze.Accommodation.threshold_nine
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:32.465422+00:00
 -- url     : https://prove2.me/theorems/951c82bc-0e91-433a-8d1b-ff4cda416ece

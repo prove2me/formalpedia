@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PromoMulti_PairwiseExact_locality
 -- name    : PromoMulti.PairwiseExact.locality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:47.003961+00:00
 -- url     : https://prove2.me/theorems/cc421531-4d67-440c-a9ef-3b4e3aa4a1c0

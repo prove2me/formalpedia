@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_fix_finds_element
 -- name    : IwataFF.SFM.fix_finds_element
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:29.236842+00:00
 -- url     : https://prove2.me/theorems/a081786f-e36f-49b2-b96b-b76a93c0da57

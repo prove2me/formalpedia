@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhangBSDE_Scheme_lemma_5_4
 -- name    : ZhangBSDE.Scheme.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:02:35.158004+00:00
 -- url     : https://prove2.me/theorems/1ec95767-fdcc-478c-b180-684bb0d8effe

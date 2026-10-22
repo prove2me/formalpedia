@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_Monotone_incompatibility_A1
 -- name    : BudgetClock.Monotone.incompatibility_A1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:20.664397+00:00
 -- url     : https://prove2.me/theorems/66077af0-d448-49a7-9781-e6fd5bc682c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LowerFareFirst_Critical_eq4_dZ1_tail
 -- name    : LowerFareFirst.Critical.eq4_dZ1_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:24.696997+00:00
 -- url     : https://prove2.me/theorems/ff28a1bf-30bb-4724-94d2-8989cdc7c3b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_IndivRegret_theorem_11_variation_bound
 -- name    : RegLearnGames.IndivRegret.theorem_11_variation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:37:21.065479+00:00
 -- url     : https://prove2.me/theorems/464a0f73-b321-4472-bfbd-4c4b6123d48e

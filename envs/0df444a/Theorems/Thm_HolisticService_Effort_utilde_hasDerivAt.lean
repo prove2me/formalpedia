@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolisticService_Effort_utilde_hasDerivAt
 -- name    : HolisticService.Effort.utilde_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:41.806616+00:00
 -- url     : https://prove2.me/theorems/6c94025c-9059-4897-a4e8-ee618c3b2e1c

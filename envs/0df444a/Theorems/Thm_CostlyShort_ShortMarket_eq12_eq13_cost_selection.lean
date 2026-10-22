@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_ShortMarket_eq12_eq13_cost_selection
 -- name    : CostlyShort.ShortMarket.eq12_eq13_cost_selection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:37.69533+00:00
 -- url     : https://prove2.me/theorems/7ebe7619-f02b-4f56-91b4-bd59870aa44d

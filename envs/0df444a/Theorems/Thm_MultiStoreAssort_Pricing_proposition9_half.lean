@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Pricing_proposition9_half
 -- name    : MultiStoreAssort.Pricing.proposition9_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:30.970034+00:00
 -- url     : https://prove2.me/theorems/624bd807-3177-4957-8154-93e7370a33e6

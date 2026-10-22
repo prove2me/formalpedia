@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CODATA_propagation_laws
 -- name    : CODATA.propagation_laws
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T01:39:10.258204+00:00
 -- url     : https://prove2.me/theorems/8d832498-5c2f-4d3d-bc2f-f55230eaab18

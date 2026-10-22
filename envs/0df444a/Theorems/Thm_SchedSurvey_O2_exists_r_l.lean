@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedSurvey_O2_exists_r_l
 -- name    : SchedSurvey.O2.exists_r_l
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:48:20.234454+00:00
 -- url     : https://prove2.me/theorems/1a2ef269-ba76-4779-a877-5b8aa57e0a21

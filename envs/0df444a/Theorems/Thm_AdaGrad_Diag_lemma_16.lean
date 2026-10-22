@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Diag_lemma_16
 -- name    : AdaGrad.Diag.lemma_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:30:49.500153+00:00
 -- url     : https://prove2.me/theorems/a8ff6a3b-2b03-4ea9-828a-d365befd1f48

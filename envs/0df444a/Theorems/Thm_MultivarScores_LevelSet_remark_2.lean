@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultivarScores_LevelSet_remark_2
 -- name    : MultivarScores.LevelSet.remark_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:49.644547+00:00
 -- url     : https://prove2.me/theorems/17f1e271-3e0a-4696-a17d-3771252a3364

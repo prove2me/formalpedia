@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_symplectic_complements
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.symplectic_complements
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:57:12.320243+00:00
 -- url     : https://prove2.me/theorems/e8877d3f-a516-4647-a84d-c00c4f993425

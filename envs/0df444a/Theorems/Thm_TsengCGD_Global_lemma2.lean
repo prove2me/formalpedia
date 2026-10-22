@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengCGD_Global_lemma2
 -- name    : TsengCGD.Global.lemma2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:45.950711+00:00
 -- url     : https://prove2.me/theorems/6a78601b-ae06-4568-9f11-794552fbc8da

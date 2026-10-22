@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrieszDUE_FIFO_lemma_1
 -- name    : FrieszDUE.FIFO.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:07:44.921451+00:00
 -- url     : https://prove2.me/theorems/1e4a1493-2a6a-4e0b-b0bd-b90fe3994ca1

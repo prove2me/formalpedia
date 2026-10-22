@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterNote68AllModes_solidHarmonic_spherical_euclidean
 -- name    : BookProof.ChapterNote68AllModes.solidHarmonic_spherical_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-06T11:43:52.809019+00:00
 -- url     : https://prove2.me/theorems/ca4a4406-525b-4e77-b25d-3d9b83680a32

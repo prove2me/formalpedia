@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_Conc_cover_implication
 -- name    : CertDRO.Conc.cover_implication
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:09:32.504353+00:00
 -- url     : https://prove2.me/theorems/e2d77414-fa35-4e7e-b6ce-6df3111d482f

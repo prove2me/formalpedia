@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_iia_independent
 -- name    : AssortSearch.HeurEq.iia_independent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:04.169119+00:00
 -- url     : https://prove2.me/theorems/b676839b-3095-4131-a583-4fa527e0057a

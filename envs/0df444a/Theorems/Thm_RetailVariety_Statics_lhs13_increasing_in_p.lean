@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailVariety_Statics_lhs13_increasing_in_p
 -- name    : RetailVariety.Statics.lhs13_increasing_in_p
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:38.549541+00:00
 -- url     : https://prove2.me/theorems/52d6d08e-5691-4b32-b3b5-daf670620e1c

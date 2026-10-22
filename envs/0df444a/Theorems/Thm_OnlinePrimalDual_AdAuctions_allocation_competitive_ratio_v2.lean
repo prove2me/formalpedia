@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlinePrimalDual_AdAuctions_allocation_competitive_ratio_v2
 -- name    : OnlinePrimalDual.AdAuctions.allocation_competitive_ratio_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:41:52.944766+00:00
 -- url     : https://prove2.me/theorems/9555ad25-9c6f-45ef-ab7e-7ee70670b995

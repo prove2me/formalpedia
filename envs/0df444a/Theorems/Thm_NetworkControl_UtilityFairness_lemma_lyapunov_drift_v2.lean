@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkControl_UtilityFairness_lemma_lyapunov_drift_v2
 -- name    : NetworkControl.UtilityFairness.lemma_lyapunov_drift_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:21:11.285798+00:00
 -- url     : https://prove2.me/theorems/babd0278-09d7-4af1-a710-fff5619e36a8

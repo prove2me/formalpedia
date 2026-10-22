@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_ARC_phi_mem
 -- name    : SlowConvergence.ARC.phi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:00.527984+00:00
 -- url     : https://prove2.me/theorems/66c793fb-4445-41f6-9b33-a2f6647ea230

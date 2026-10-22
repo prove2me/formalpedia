@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsympCalib_Main_S_eq_sq_sub_sq
 -- name    : AsympCalib.Main.S_eq_sq_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:28.071357+00:00
 -- url     : https://prove2.me/theorems/bd563b7c-17f4-4aa9-aadc-076f0bfc3bfa

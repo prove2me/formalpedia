@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_support_sum_eq_column_sum
 -- name    : OAI.PiExponent.FormalInterpolation.support_sum_eq_column_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:57:22.026153+00:00
 -- url     : https://prove2.me/theorems/372dfa28-f191-439b-90c9-18e17cb1e8cf

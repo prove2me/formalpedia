@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_Complexity_cumFeas_npComplete
 -- name    : ProjSchedTW.Complexity.cumFeas_npComplete
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T02:09:23.417355+00:00
 -- url     : https://prove2.me/theorems/5c6fcf1b-5e83-46ff-ab92-4d165aa6c609

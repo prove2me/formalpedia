@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_GrowthFunction_vcDimReal_linear_functions
 -- name    : NatureSLT.GrowthFunction.vcDimReal_linear_functions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:34.196396+00:00
 -- url     : https://prove2.me/theorems/62acbe76-4088-4706-ace6-733e97c6d60e

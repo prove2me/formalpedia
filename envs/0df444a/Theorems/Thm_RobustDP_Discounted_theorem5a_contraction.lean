@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_theorem5a_contraction
 -- name    : RobustDP.Discounted.theorem5a_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:34.896979+00:00
 -- url     : https://prove2.me/theorems/cd7c09a2-750a-488d-b225-ee0cdea129f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Variability_gbar_monotone
 -- name    : ZipkinLostSales.Variability.gbar_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:26:00.943268+00:00
 -- url     : https://prove2.me/theorems/65db6553-e7ea-4c76-8806-2768ccada514

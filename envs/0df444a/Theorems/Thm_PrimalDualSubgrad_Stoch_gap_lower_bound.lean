@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualSubgrad_Stoch_gap_lower_bound
 -- name    : PrimalDualSubgrad.Stoch.gap_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:48:36.726167+00:00
 -- url     : https://prove2.me/theorems/2b93901c-849a-4f27-90cd-995ae414cab0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Eigen_lemma_2_8
 -- name    : TensorNP.Eigen.lemma_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:26.48469+00:00
 -- url     : https://prove2.me/theorems/f336b545-15d6-46d9-bdbc-d0faad91fd7b

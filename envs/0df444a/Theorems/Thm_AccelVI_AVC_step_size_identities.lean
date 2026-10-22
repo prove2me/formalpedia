@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelVI_AVC_step_size_identities
 -- name    : AccelVI.AVC.step_size_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:03.535093+00:00
 -- url     : https://prove2.me/theorems/d403558c-54b3-4fe4-ae39-30c65f7ba207

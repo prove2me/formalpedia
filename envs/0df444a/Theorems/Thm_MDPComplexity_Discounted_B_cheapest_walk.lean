@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_Discounted_B_cheapest_walk
 -- name    : MDPComplexity.Discounted.B_cheapest_walk
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:46:17.560499+00:00
 -- url     : https://prove2.me/theorems/05b5a11a-80b6-49f9-88ad-ccbeb89a3217

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_LargeGap_claim_mu_bounds
 -- name    : AffinePolicies.LargeGap.claim_mu_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:09:32.028363+00:00
 -- url     : https://prove2.me/theorems/769fe366-f844-4797-8dd6-774902eb743b

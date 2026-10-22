@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrongWeakEq_Existence_remark_2_3
 -- name    : StrongWeakEq.Existence.remark_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:38:38.366129+00:00
 -- url     : https://prove2.me/theorems/28d9fc7c-937d-48fa-b9a1-02b5e76a01e2

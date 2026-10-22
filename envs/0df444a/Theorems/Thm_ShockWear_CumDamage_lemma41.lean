@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_CumDamage_lemma41
 -- name    : ShockWear.CumDamage.lemma41
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:48:33.758332+00:00
 -- url     : https://prove2.me/theorems/3ec1b983-ea7f-46db-aeaf-82fda5e0a38e

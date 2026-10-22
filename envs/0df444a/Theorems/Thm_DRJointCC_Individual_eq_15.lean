@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRJointCC_Individual_eq_15
 -- name    : DRJointCC.Individual.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:36:25.342085+00:00
 -- url     : https://prove2.me/theorems/ed00095c-178b-41af-84e0-8d272c3ccd7d

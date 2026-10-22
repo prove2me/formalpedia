@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Benchmark_eq7_first_period_price
 -- name    : GDPRDataMarkets.Benchmark.eq7_first_period_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:56.4011+00:00
 -- url     : https://prove2.me/theorems/42f8022e-cbd8-46c0-a63f-994709ade207

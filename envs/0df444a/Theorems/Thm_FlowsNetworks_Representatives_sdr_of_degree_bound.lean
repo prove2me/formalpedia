@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_sdr_of_degree_bound
 -- name    : FlowsNetworks.Representatives.sdr_of_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:29.216789+00:00
 -- url     : https://prove2.me/theorems/3e56e140-3341-4f2b-9fd8-6578cab0e461

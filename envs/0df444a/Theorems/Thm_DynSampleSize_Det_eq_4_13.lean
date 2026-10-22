@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynSampleSize_Det_eq_4_13
 -- name    : DynSampleSize.Det.eq_4_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:42.200195+00:00
 -- url     : https://prove2.me/theorems/94032ec0-ab0b-4465-a981-4416bab0b258

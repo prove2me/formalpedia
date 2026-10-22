@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Milne_zeta_point
 -- name    : Milne.zeta_point
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-20T03:12:39.213986+00:00
 -- url     : https://prove2.me/theorems/0dfc0963-0a3e-41a6-8f65-bb8eb432547b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexDRS_Tight_thm_4_8_identity
 -- name    : NonconvexDRS.Tight.thm_4_8_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:36:54.905879+00:00
 -- url     : https://prove2.me/theorems/88136d05-8ba5-425e-9d2b-e74868b762ef

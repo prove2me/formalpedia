@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_closeness_bound_le_kappa
 -- name    : ModernConvex.PathFollowing.closeness_bound_le_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:04.585337+00:00
 -- url     : https://prove2.me/theorems/5d18b8b9-690f-425f-b7e2-82de4b19e440

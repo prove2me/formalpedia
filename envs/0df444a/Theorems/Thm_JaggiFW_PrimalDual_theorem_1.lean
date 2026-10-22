@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JaggiFW_PrimalDual_theorem_1
 -- name    : JaggiFW.PrimalDual.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:03:48.482221+00:00
 -- url     : https://prove2.me/theorems/45f743be-0f10-468e-b0c1-4402f7d5dffc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_NashSolution_uniform_mechanism_bic
 -- name    : MyersonBargaining.NashSolution.uniform_mechanism_bic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:09.505074+00:00
 -- url     : https://prove2.me/theorems/987d373f-bb16-4c3b-a66c-f4688b5ece88

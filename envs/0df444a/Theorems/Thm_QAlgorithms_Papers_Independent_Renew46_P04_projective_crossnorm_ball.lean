@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_projective_crossnorm_ball
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.projective_crossnorm_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:48:05.190407+00:00
 -- url     : https://prove2.me/theorems/93377555-c4e7-4b7a-9905-66a7fde19df6

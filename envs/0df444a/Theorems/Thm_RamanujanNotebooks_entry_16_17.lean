@@ -9,7 +9,7 @@
 -- statement:
 --   Let $|q|<1$, $\alpha,\beta\ne0$, $|\beta q|<|z|$ and $|z|\,|\alpha q|<1$, $\alpha q^{2k},\beta q^{2k}\ne1$ ($k\ge1$). Then $1+\sum_{k\ge1}\dfrac{(1/\alpha;q^2)_k(-\alpha q)^k}{(\beta q^2;q^2)_k}z^k+\sum_{k\ge1}\dfrac{(1/\beta;q^2)_k(-\beta q)^k}{(\alpha q^2;q^2)_k}z^{-k}=\dfrac{(-qz;q^2)_\infty(-q/z;q^2)_\infty}{(-\alpha qz;q^2)_\infty(-\beta q/z;q^2)_\infty}\cdot\dfrac{(q^2;q^2)_\infty(\alpha\beta q^2;q^2)_\infty}{(\alpha q^2;q^2)_\infty(\beta q^2;q^2)_\infty}$. Differs from the printed source: the nonvanishing hypotheses are made explicit. The upper annulus condition is written without division. This includes $q=0$, where all positive-index series terms vanish and the identity reduces to $1=1$.
 --
---   **Discrepancy from the printed source.** Book, p. 32: '|beta q| < |z| < 1/|alpha q|'. Added by us: alpha, beta != 0, alpha q^(2k) != 1, beta q^(2k) != 1 (k >= 1). The upper annulus condition is written without division. This includes q=0, where all positive-index series terms vanish and the identity reduces to 1=1. (Audit: at q=0, alpha=2, beta=3, z=4 all hypotheses hold and both sides are 1.)
+--   **Discrepancy from the printed source.** Book, p. 32: the annulus is |beta q| < |z| < 1/|alpha q|. We add alpha,beta != 0 and require alpha q^(2k),beta q^(2k) != 1 for k>=1. The upper bound is expressed as |z| |alpha q|<1, which also admits q=0; there both positive-index sums vanish and both expressions equal 1. These explicit parameter restrictions and the division-free bound are our formulation.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part III (Springer, 1991), Chapter 16, Entry 17, p. 32, eq. (17.1).
 

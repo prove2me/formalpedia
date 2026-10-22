@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_ThreePerson_dominates_iff
 -- name    : TheoryOfGames.ThreePerson.dominates_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T08:37:03.855857+00:00
 -- url     : https://prove2.me/theorems/1942c118-786c-4b1b-9112-04034129b870

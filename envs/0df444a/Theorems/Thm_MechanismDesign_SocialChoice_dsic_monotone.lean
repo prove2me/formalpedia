@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MechanismDesign_SocialChoice_dsic_monotone
 -- name    : MechanismDesign.SocialChoice.dsic_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T03:47:45.968457+00:00
 -- url     : https://prove2.me/theorems/49a50189-b13a-4d25-9cb9-a9cf262877ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_cdf_density_formula
 -- name    : MatrixAnalytic.PH.cdf_density_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:01.325036+00:00
 -- url     : https://prove2.me/theorems/6ae9ef63-bf6f-427e-91e4-949ceaac8901

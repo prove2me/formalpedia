@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Acyclic_lemma_C_1_leaves
 -- name    : ConstRegretMatch.Acyclic.lemma_C_1_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:35:35.920725+00:00
 -- url     : https://prove2.me/theorems/917f8683-cbbe-464e-8808-c517a4257ef6

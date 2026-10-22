@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Matrices_zero_one_matrix_existence
 -- name    : FlowsNetworks.Matrices.zero_one_matrix_existence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:58.994612+00:00
 -- url     : https://prove2.me/theorems/b28170b6-9385-47ad-a81b-05e5452964bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_CostGap_theorem_3_1_cost_uncertainty_gap
 -- name    : RobustPower.CostGap.theorem_3_1_cost_uncertainty_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:29.75588+00:00
 -- url     : https://prove2.me/theorems/22b94b84-3374-42fb-8c52-85e19bea805b

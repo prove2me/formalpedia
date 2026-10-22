@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_OddFactors_g81_egirth
 -- name    : SnarkGen.OddFactors.g81_egirth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:52.510554+00:00
 -- url     : https://prove2.me/theorems/2ef99882-af20-47bd-84b3-379a4426213c

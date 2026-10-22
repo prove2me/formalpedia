@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishableReturns_Suboptimal_eq_9_10_substitution
 -- name    : PerishableReturns.Suboptimal.eq_9_10_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:57.917797+00:00
 -- url     : https://prove2.me/theorems/f1f4d3b9-6481-4626-a758-bc07d474d858

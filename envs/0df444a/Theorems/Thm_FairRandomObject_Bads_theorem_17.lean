@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairRandomObject_Bads_theorem_17
 -- name    : FairRandomObject.Bads.theorem_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:42.654592+00:00
 -- url     : https://prove2.me/theorems/643313e5-a34d-4292-857c-c9a7bda07917

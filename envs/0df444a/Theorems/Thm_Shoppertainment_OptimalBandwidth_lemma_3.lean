@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Shoppertainment_OptimalBandwidth_lemma_3
 -- name    : Shoppertainment.OptimalBandwidth.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:50:09.326361+00:00
 -- url     : https://prove2.me/theorems/0a031b67-6d7a-4e47-964b-eaa32d8f4488

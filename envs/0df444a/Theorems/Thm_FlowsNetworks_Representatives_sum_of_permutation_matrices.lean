@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_Representatives_sum_of_permutation_matrices
 -- name    : FlowsNetworks.Representatives.sum_of_permutation_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:37:30.075597+00:00
 -- url     : https://prove2.me/theorems/28181b97-1a70-4fbe-b8d8-79c50074fc5b

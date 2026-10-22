@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.binomial_allocation_coefficient_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:56:09.934986+00:00
 -- url     : https://prove2.me/submissions/8a0e8bf7-f7ea-4687-b9eb-c96c74320f41
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Mathlib.Data.Nat.Choose.Basic

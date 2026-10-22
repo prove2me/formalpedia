@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_proposition2_welfare
 -- name    : TwoSidedPD.Baseline.proposition2_welfare
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:19.182308+00:00
 -- url     : https://prove2.me/theorems/e941e759-2c11-4d47-9b62-b85f0822ff7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_Hermetic_lemma_B_3
 -- name    : LNTopology.Hermetic.lemma_B_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:32:19.646744+00:00
 -- url     : https://prove2.me/theorems/7c6483b8-4483-4ec5-a9ae-2998de5a1c3e

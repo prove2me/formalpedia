@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_GrowthFunction_growth_function_dichotomy
 -- name    : NatureSLT.GrowthFunction.growth_function_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:41.84039+00:00
 -- url     : https://prove2.me/theorems/9a6e66c4-f906-41ec-9f62-c32b9e61d09b

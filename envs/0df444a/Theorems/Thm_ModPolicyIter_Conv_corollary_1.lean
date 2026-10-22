@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModPolicyIter_Conv_corollary_1
 -- name    : ModPolicyIter.Conv.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:14:56.870559+00:00
 -- url     : https://prove2.me/theorems/81905519-8fd8-442a-9c50-93774b00e434

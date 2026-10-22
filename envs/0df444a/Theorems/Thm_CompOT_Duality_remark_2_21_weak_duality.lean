@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Duality_remark_2_21_weak_duality
 -- name    : CompOT.Duality.remark_2_21_weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:48.955406+00:00
 -- url     : https://prove2.me/theorems/61874858-f595-4d89-af57-fc8b60dd60b6

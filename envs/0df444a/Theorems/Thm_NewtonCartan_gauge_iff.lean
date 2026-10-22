@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonCartan_gauge_iff
 -- name    : NewtonCartan.gauge_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-20T23:17:22.161896+00:00
 -- url     : https://prove2.me/theorems/e5dda248-29e5-4ec8-8442-9b404f66770d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PHRenewal_count_ode
 -- name    : MatrixAnalytic.PHRenewal.count_ode
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:28.9305+00:00
 -- url     : https://prove2.me/theorems/df63cdba-b8b9-4218-8cbd-6dc0cd449e00

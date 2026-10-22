@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_TotalRegret_display_2
 -- name    : RegLearnGames.TotalRegret.display_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:38.118645+00:00
 -- url     : https://prove2.me/theorems/92d9aa0c-a463-49d6-b090-c1bb2f4d88c1

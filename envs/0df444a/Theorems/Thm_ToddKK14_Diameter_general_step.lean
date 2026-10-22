@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToddKK14_Diameter_general_step
 -- name    : ToddKK14.Diameter.general_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:44:35.844316+00:00
 -- url     : https://prove2.me/theorems/bcd9b614-1790-4a90-930c-319ba29309da

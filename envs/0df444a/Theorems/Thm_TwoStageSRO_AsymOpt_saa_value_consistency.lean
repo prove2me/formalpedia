@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_saa_value_consistency
 -- name    : TwoStageSRO.AsymOpt.saa_value_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:35.388305+00:00
 -- url     : https://prove2.me/theorems/b295ca35-5f76-45b0-8bed-ef5883872b4b

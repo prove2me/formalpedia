@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffGridStorage_TechChoice_eq_25_marginal_storage
 -- name    : OffGridStorage.TechChoice.eq_25_marginal_storage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:44:04.529256+00:00
 -- url     : https://prove2.me/theorems/01f43456-a8d4-4d17-b1a1-8540fab7fc5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_DerivedMDP_partition_exhaustive
 -- name    : StableFA.DerivedMDP.partition_exhaustive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:10.734765+00:00
 -- url     : https://prove2.me/theorems/bc076676-2cb2-49cb-adec-bb4d1157b497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P35_stationaryInnerDirection
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P35.stationaryInnerDirection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:43:28.169288+00:00
 -- url     : https://prove2.me/theorems/116f4349-99f9-4b72-8a65-8e50fee82e36

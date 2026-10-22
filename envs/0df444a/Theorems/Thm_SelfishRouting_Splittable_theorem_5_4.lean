@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Splittable_theorem_5_4
 -- name    : SelfishRouting.Splittable.theorem_5_4
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:13.804977+00:00
 -- url     : https://prove2.me/theorems/4fcce07a-3bf5-402d-9981-81ad0479da6f

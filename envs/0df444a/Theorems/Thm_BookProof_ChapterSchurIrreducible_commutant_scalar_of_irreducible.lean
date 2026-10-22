@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_commutant_scalar_of_irreducible
 -- name    : BookProof.ChapterSchurIrreducible.commutant_scalar_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:02:17.06462+00:00
 -- url     : https://prove2.me/theorems/87889848-3e75-4bd8-a9d0-1241aba48047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcureAssort_Hotelling_corollary_4_1
 -- name    : ProcureAssort.Hotelling.corollary_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:48.502162+00:00
 -- url     : https://prove2.me/theorems/0d8cea3f-c51b-4759-8352-211e9ba19dfb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Optimality_prop1_b
 -- name    : MifflinSemismooth.Optimality.prop1_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:48:10.203047+00:00
 -- url     : https://prove2.me/theorems/291c76a1-7176-4c57-a866-e9321b384066

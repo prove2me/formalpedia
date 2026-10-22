@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_LNatural_kappa_lnatconvex
 -- name    : ZipkinLostSales.LNatural.kappa_lnatconvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:01:04.884118+00:00
 -- url     : https://prove2.me/theorems/e6c03a24-d8a4-489d-94ab-5191e8ace1bb

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.principal_divisor_positive_order_eq_coordinate_poles
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-21T04:23:32.638711+00:00
 -- url     : https://prove2.me/submissions/11efe24e-83df-4f77-bdbb-50bb21c6641e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_TruncatedPolynomialJets
 import Definitions.Def_OAI_PiExponent_LogarithmicInterpolationNumerics

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Sinkhorn_thm_4_2_proof_invariance
 -- name    : CompOT.Sinkhorn.thm_4_2_proof_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:03.878986+00:00
 -- url     : https://prove2.me/theorems/c35e0934-5f9d-43d2-b137-b335d5e70c2f

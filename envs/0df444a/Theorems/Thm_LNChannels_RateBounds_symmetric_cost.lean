@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_RateBounds_symmetric_cost
 -- name    : LNChannels.RateBounds.symmetric_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:03:45.073194+00:00
 -- url     : https://prove2.me/theorems/8107455d-d7b1-4c07-b630-04b076e05465

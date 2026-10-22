@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CVPricing_CertEquiv_ls_representation
 -- name    : CVPricing.CertEquiv.ls_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T10:36:27.573904+00:00
 -- url     : https://prove2.me/theorems/a64870aa-b4e0-41ea-bdbd-417ac65a5c60

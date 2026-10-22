@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LariviereIGFR_Moments_theorem_2
 -- name    : LariviereIGFR.Moments.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:32:36.422139+00:00
 -- url     : https://prove2.me/theorems/9a13f82e-9723-4525-ae80-a608b9c96e4b

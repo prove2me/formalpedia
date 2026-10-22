@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_concaveOn_restrict
 -- name    : concaveOn_restrict
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-07T14:50:15.173984+00:00
 -- url     : https://prove2.me/theorems/63f43418-75ec-49b1-93d6-20656fc83c72

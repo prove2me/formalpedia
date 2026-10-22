@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_helly_theorem
 -- name    : ModernConvex.LPDuality.helly_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:31:52.479848+00:00
 -- url     : https://prove2.me/theorems/686147b0-5cc6-4d71-86f9-062d1cd3ce61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_kernelOp_essentiallySelfAdjoint
 -- name    : BookProof.CarlemanUnboundedHop.kernelOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:30:00.640317+00:00
 -- url     : https://prove2.me/theorems/a6fceec8-ddec-4a47-9934-fae3d5d3be2e

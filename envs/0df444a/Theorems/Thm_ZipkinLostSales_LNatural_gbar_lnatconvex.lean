@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_LNatural_gbar_lnatconvex
 -- name    : ZipkinLostSales.LNatural.gbar_lnatconvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:01:01.02501+00:00
 -- url     : https://prove2.me/theorems/a245917b-60e4-4c50-98e4-3cf806347591

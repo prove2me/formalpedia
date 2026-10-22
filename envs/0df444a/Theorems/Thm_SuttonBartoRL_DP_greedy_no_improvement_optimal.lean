@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_DP_greedy_no_improvement_optimal
 -- name    : SuttonBartoRL.DP.greedy_no_improvement_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:51:11.398916+00:00
 -- url     : https://prove2.me/theorems/0963185c-e47f-40e4-9770-46463d89c8d8

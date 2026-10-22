@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Branching_minCoeffSum_eq_zero_of_le_psi
 -- name    : AllocationIndices.Branching.minCoeffSum_eq_zero_of_le_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:09.015586+00:00
 -- url     : https://prove2.me/theorems/60bbcd9f-a569-4be1-99f9-2d5e5a6ef4dd

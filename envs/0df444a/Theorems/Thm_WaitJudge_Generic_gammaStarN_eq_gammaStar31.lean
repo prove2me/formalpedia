@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Generic_gammaStarN_eq_gammaStar31
 -- name    : WaitJudge.Generic.gammaStarN_eq_gammaStar31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:11:18.863545+00:00
 -- url     : https://prove2.me/theorems/51825762-e3cf-4612-8166-3a447299464a

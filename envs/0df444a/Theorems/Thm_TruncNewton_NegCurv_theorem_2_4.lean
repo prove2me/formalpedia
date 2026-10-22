@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TruncNewton_NegCurv_theorem_2_4
 -- name    : TruncNewton.NegCurv.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:07:29.969078+00:00
 -- url     : https://prove2.me/theorems/c6afa168-b38d-480f-8236-4e0609611670

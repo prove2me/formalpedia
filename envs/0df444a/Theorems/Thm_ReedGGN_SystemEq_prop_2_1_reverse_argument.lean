@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_SystemEq_prop_2_1_reverse_argument
 -- name    : ReedGGN.SystemEq.prop_2_1_reverse_argument
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:56.017562+00:00
 -- url     : https://prove2.me/theorems/493b9cd1-9816-4f1a-920d-0f3eeafeeced

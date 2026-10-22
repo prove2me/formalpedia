@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FarmerInfo_Exclusive_proposition_1_existence
 -- name    : FarmerInfo.Exclusive.proposition_1_existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:15:04.768167+00:00
 -- url     : https://prove2.me/theorems/a12499bc-209c-4fa5-9046-e819f474cbfb

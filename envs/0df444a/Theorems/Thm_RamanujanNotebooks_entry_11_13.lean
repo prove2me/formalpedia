@@ -7,9 +7,9 @@
 -- title:
 --   Clausen's formula: the square of 2F1(-α, -β; γ + 1/2; x) with α + β + γ = 0 as a 3F2
 -- statement:
---   Let $\alpha+\beta+\gamma=0$ with $\gamma+\frac12$ and $2\gamma$ not $0$ or a negative integer, and $|x|<1$. Then $${}_2F_1(-\alpha,-\beta;\gamma+\tfrac12;x)^2={}_3F_2(-2\alpha,-2\beta,\gamma;\gamma+\tfrac12,2\gamma;x).$$ Differs from the printed source: the book prints the formula with no region of validity and no condition on the parameters; we state it for |x| < 1 with the lower parameters γ + 1/2 and 2γ not 0 or a negative integer. Conditions supplied by us.
+--   Let $\alpha+\beta+\gamma=0$ with $\gamma+\frac12$ and $2\gamma$ not $0$ or a negative integer, and $|x|<1$. Then $${}_2F_1(-\alpha,-\beta;\gamma+\tfrac12;x)^2={}_3F_2(-2\alpha,-2\beta,\gamma;\gamma+\tfrac12,2\gamma;x).$$ Differs from the printed source: the displayed entry gives the parameter equality above but omits a convergence region and pole exclusions; we state it for |x| < 1 with the lower parameters γ + 1/2 and 2γ not 0 or a negative integer. Conditions supplied by us.
 --
---   **Discrepancy from the printed source.** Book, p. 58: the formula is printed with the single condition α + β + γ = 0. Our statement: the book prints the formula with no region of validity and no condition on the parameters; we state it for |x| < 1 with the lower parameters γ + 1/2 and 2γ not 0 or a negative integer. Conditions supplied by us.
+--   **Discrepancy from the printed source.** Book, p. 58: the formula is printed with the single condition α + β + γ = 0. Our statement: the displayed entry gives the parameter equality above but omits a convergence region and pole exclusions; we state it for |x| < 1 with the lower parameters γ + 1/2 and 2γ not 0 or a negative integer. Conditions supplied by us.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part II (Springer, 1989), Chapter 11, Entry 13, p. 58.
 

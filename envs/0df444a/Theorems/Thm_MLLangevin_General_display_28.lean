@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MLLangevin_General_display_28
 -- name    : MLLangevin.General.display_28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:05.631291+00:00
 -- url     : https://prove2.me/theorems/042e0819-fc9a-4415-ab00-6fd02f2bd9c2

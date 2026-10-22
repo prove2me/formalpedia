@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kakutani1941_FixedPoint_enclosing_simplex
 -- name    : Kakutani1941.FixedPoint.enclosing_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:02:59.731442+00:00
 -- url     : https://prove2.me/theorems/50a433fa-e267-462b-9751-a5ab58550f1d

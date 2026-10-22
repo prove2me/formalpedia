@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MallowsChoice_DP_theorem_1
 -- name    : MallowsChoice.DP.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:45.323824+00:00
 -- url     : https://prove2.me/theorems/6e1b64f0-86bf-4241-bfa9-80c4251a1271

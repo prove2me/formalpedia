@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_Config_lbw_lower_bound
 -- name    : TwoEchelonCVRP.Config.lbw_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:05.797984+00:00
 -- url     : https://prove2.me/theorems/1aa96cd7-5aa0-45e2-a16a-2807aa9a7972

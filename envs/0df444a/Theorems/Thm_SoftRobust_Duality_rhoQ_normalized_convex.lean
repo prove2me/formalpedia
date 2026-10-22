@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftRobust_Duality_rhoQ_normalized_convex
 -- name    : SoftRobust.Duality.rhoQ_normalized_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:49:29.563336+00:00
 -- url     : https://prove2.me/theorems/f78d5844-133a-4b72-a7cc-8e9ec3411ed2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_LP_primal_potential_step
 -- name    : YeIPA.LP.primal_potential_step
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:25.028746+00:00
 -- url     : https://prove2.me/theorems/827559c5-9ac3-4617-9c9c-0018eee2bfb3

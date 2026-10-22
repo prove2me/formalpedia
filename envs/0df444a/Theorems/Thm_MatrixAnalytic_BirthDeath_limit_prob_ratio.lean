@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_BirthDeath_limit_prob_ratio
 -- name    : MatrixAnalytic.BirthDeath.limit_prob_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:47.482201+00:00
 -- url     : https://prove2.me/theorems/c4d56c8a-d353-4f00-99c2-05b9d6fc1718

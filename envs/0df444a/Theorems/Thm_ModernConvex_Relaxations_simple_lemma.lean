@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Relaxations_simple_lemma
 -- name    : ModernConvex.Relaxations.simple_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:44.952103+00:00
 -- url     : https://prove2.me/theorems/205ae190-8e01-445d-9ba0-0c3318ea2794

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConicQuadIPM_Homogeneous_lemma_2_1
 -- name    : ConicQuadIPM.Homogeneous.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:43.409441+00:00
 -- url     : https://prove2.me/theorems/affeb8d8-9b20-40a8-9f0e-3d90ac6e6574

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_minkowskiInner_boostX
 -- name    : EnergyMomentum.minkowskiInner_boostX
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:13:02.561341+00:00
 -- url     : https://prove2.me/theorems/1323aa7d-8871-49ba-a51a-8c468eb423bb

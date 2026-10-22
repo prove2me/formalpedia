@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NewtonCartan.geometrization_unique
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @Ethan
+-- status  : ACCEPTED   (prove)
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:58:41.159562+00:00
 -- url     : https://prove2.me/submissions/f7832beb-7b0f-4971-82c7-af66847267ec
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_NewtonCartan_defs
 import Theorems.Thm_NewtonCartan_conn_eq_of_unitTimelike_quad

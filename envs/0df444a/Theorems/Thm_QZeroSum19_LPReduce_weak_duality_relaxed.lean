@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_LPReduce_weak_duality_relaxed
 -- name    : QZeroSum19.LPReduce.weak_duality_relaxed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:58:02.424657+00:00
 -- url     : https://prove2.me/theorems/2a5fff7b-5199-46ab-b814-50e57b7103fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_PureHV_lemma1_nMin_strictMono_bijOn
 -- name    : AVRideHail.PureHV.lemma1_nMin_strictMono_bijOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:21:35.904029+00:00
 -- url     : https://prove2.me/theorems/252727fe-0c89-4fe7-b93a-efeba61d1391

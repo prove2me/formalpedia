@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiChoiceSecretary_Alg_card_inter_top_binomial
 -- name    : MultiChoiceSecretary.Alg.card_inter_top_binomial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:37:22.427367+00:00
 -- url     : https://prove2.me/theorems/6026a78a-9dd7-4d9a-b35c-2b45fd8c6d48

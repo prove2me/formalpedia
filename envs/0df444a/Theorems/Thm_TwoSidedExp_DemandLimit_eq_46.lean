@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_eq_46
 -- name    : TwoSidedExp.DemandLimit.eq_46
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:35.015319+00:00
 -- url     : https://prove2.me/theorems/efb27fc5-257c-4f36-a46e-edc90afda1ad

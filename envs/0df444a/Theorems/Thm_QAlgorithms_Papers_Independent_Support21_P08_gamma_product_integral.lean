@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P08_gamma_product_integral
 -- name    : QAlgorithms.Papers.Independent.Support21.P08.gamma_product_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:27:10.64929+00:00
 -- url     : https://prove2.me/theorems/ce16e7b7-fe87-4ac3-8a2d-a18ebc424642

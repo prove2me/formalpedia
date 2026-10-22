@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurRepresentation_schur_unitary_representation_apply
 -- name    : BookProof.ChapterSchurRepresentation.schur_unitary_representation_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:03:26.625989+00:00
 -- url     : https://prove2.me/theorems/2e7d8a48-b76b-4445-a3ed-f8735e60d928

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_Mmat_posSemidef
 -- name    : PhaseCut.Tight.Mmat_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:40:20.700986+00:00
 -- url     : https://prove2.me/theorems/421ada26-f42d-4875-9bae-ff94f67ff7ca

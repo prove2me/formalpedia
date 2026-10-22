@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModPolicyIter_Conv_support_inequality
 -- name    : ModPolicyIter.Conv.support_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:33:38.527266+00:00
 -- url     : https://prove2.me/theorems/3da4d27e-d199-4bf0-833c-cbed4b93524c

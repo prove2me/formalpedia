@@ -9,7 +9,7 @@
 -- statement:
 --   For $\alpha>0$ put $I(\alpha)=\alpha^{-1/4}\bigl(1+4\alpha\int_0^\infty\frac{x e^{-\alpha x^2}}{e^{2\pi x}-1}\,dx\bigr)$. If $\alpha,\beta>0$ and $\alpha\beta=\pi^2$, then $I(\alpha)=I(\beta)$.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 28, Entry 4, p. 291, eq. (4.1).
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 28, Entry 4, p. 291; the function I is defined in (4.1).
 
 import Mathlib
 import Definitions.Def_RamanujanNotebooks_ch28_ch28ReciprocalI

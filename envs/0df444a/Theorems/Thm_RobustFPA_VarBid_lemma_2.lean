@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustFPA_VarBid_lemma_2
 -- name    : RobustFPA.VarBid.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:39.275478+00:00
 -- url     : https://prove2.me/theorems/39003219-de7c-420f-8dd6-1b6fed7dc39b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_lemma1_value_iteration
 -- name    : RobustDP.Discounted.lemma1_value_iteration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:45:27.993034+00:00
 -- url     : https://prove2.me/theorems/2442aefd-f718-4ea1-aec1-7e43c8fee5aa

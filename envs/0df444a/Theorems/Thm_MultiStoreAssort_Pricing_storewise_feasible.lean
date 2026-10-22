@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Pricing_storewise_feasible
 -- name    : MultiStoreAssort.Pricing.storewise_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:58.282323+00:00
 -- url     : https://prove2.me/theorems/43c34cf4-9595-459e-b3ee-1ebc143cca81

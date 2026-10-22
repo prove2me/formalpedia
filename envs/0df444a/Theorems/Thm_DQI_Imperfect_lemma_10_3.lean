@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Imperfect_lemma_10_3
 -- name    : DQI.Imperfect.lemma_10_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:03:58.494066+00:00
 -- url     : https://prove2.me/theorems/e04b66a1-c767-4888-b063-a8362151e91b

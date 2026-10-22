@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InventoryBounds_erm_factor_two
 -- name    : InventoryBounds.erm_factor_two
--- status  : Open
+-- status  : Proved
 -- author  : @visuddhi
 -- created : 2026-10-08T15:31:57.588131+00:00
 -- url     : https://prove2.me/theorems/4570789c-6c58-43bb-9db8-bc55fb8b0a72

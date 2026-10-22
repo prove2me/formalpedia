@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_Continuum_l2_drop_le
 -- name    : FriezeKannan.Continuum.l2_drop_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:05.183406+00:00
 -- url     : https://prove2.me/theorems/795d54ec-cee7-4202-8f13-714b709004d1

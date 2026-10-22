@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Spectral_gamma_factorization
 -- name    : MatrixAnalytic.Spectral.gamma_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:45:57.951927+00:00
 -- url     : https://prove2.me/theorems/dc8420ba-169a-4a8e-9b74-c5ec2a8a91f4

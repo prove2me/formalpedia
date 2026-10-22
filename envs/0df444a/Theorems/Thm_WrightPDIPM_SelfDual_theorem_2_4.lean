@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_SelfDual_theorem_2_4
 -- name    : WrightPDIPM.SelfDual.theorem_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:12.745959+00:00
 -- url     : https://prove2.me/theorems/ca448993-0606-4870-8832-136103ac453b

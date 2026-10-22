@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoAnDCA_LocalOpt_corollary_3_5
 -- name    : TaoAnDCA.LocalOpt.corollary_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:23:00.978553+00:00
 -- url     : https://prove2.me/theorems/3ef0b439-87ed-43d7-96a0-8eb470c52189

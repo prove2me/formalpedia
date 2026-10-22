@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FenchelRobust_Counterpart_eq_7_ri_intersection
 -- name    : FenchelRobust.Counterpart.eq_7_ri_intersection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T09:29:49.756873+00:00
 -- url     : https://prove2.me/theorems/923286cc-dd48-468e-bd01-955e22cb2dd6

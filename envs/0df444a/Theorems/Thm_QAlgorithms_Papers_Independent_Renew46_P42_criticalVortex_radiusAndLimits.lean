@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P42_criticalVortex_radiusAndLimits
 -- name    : QAlgorithms.Papers.Independent.Renew46.P42.criticalVortex_radiusAndLimits
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:36:54.855799+00:00
 -- url     : https://prove2.me/theorems/82b5e398-ba2b-479e-ba69-7f8a2acfe043

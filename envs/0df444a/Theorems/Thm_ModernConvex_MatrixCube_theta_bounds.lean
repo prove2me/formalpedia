@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_theta_bounds
 -- name    : ModernConvex.MatrixCube.theta_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:44.922678+00:00
 -- url     : https://prove2.me/theorems/0d7d222b-9259-46c3-85ce-0cf6f4dd66b3

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_histMoment_mono_tau
 -- name    : IntMul.Kappa.R8.histMoment_mono_tau
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:06:40.576389+00:00
 -- url     : https://prove2.me/theorems/37a521c8-39ec-43fa-ac2d-d80508787eb5
 -- title:

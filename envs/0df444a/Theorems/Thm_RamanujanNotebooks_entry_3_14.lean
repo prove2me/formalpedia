@@ -7,9 +7,9 @@
 -- title:
 --   Lambert's series for a root of a q x^p - x^q + 1 = 0
 -- statement:
---   Let $p,q>0$, $p\ne q$, $c_0(n)=1$, $c_1(n)=n$, $c_k(n)=n\prod_{j=1}^{k-1}(n+kp-jq)$, and let $a$ be real with $|a|\le p^{-p/q}|p-q|^{(p-q)/q}$. Then there is a real $x>0$ with $aqx^p-x^q+1=0$ such that for every real $n$, $$\sum_{k\ge0}\frac{c_k(n)a^k}{k!}=x^n.$$ Differs from the printed source: $a$ is taken real (the book allows complex $a$ in the definition of the series and says 'a certain root').
+--   Let $p,q>0$, $p\ne q$, $c_0(n)=1$, $c_1(n)=n$, $c_k(n)=n\prod_{j=1}^{k-1}(n+kp-jq)$, and let $a$ be real with $|a|\le p^{-p/q}|p-q|^{(p-q)/q}$. Then there is a real $x>0$ with $aqx^p-x^q+1=0$ such that for every real $n$, $$\sum_{k\ge0}\frac{c_k(n)a^k}{k!}=x^n.$$ Differs from the printed source: The definition on p. 70 allows complex $a$, and Entry 14 on p. 71 refers to a root without fixing its branch. This version takes $a$ real and asserts existence of a positive real root. Real powers of that root then have an unambiguous meaning for every real $n$. The polynomial coefficient formula and parameter bound (14.3) are retained.
 --
---   **Discrepancy from the printed source.** Book, Entry 14, p. 71: 'If x is a certain root of a q x^p - x^q + 1 = 0, then φ(n) = x^n for every real number n', with φ defined for complex a in the range (14.3) and p, q positive, p ≠ q (reduction made on p. 70). Stated for real a, as existence of a positive root with that property. Restriction by us. Codex audit (2026-10-06): independent 40-digit check at p = 2, q = 1, a = 0.1, n = 0.7: x = 1.12701665379258311482073460022, zero residual, series = x^n = 1.0873046203964664834324058304; the complex-a case is not settled.
+--   **Discrepancy from the printed source.** The definition on p. 70 allows complex $a$, and Entry 14 on p. 71 refers to a root without fixing its branch. This version takes $a$ real and asserts existence of a positive real root. Real powers of that root then have an unambiguous meaning for every real $n$. The polynomial coefficient formula and parameter bound (14.3) are retained.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Chapter 3, Entry 14, p. 71, eq. (14.4).
 

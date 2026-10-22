@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_IFT_contraction_estimate
 -- name    : RobinsonSR.IFT.contraction_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:59:44.266759+00:00
 -- url     : https://prove2.me/theorems/16e4274b-57d0-4d42-b149-7f5f197d87c0

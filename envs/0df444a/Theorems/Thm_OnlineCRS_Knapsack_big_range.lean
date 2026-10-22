@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Knapsack_big_range
 -- name    : OnlineCRS.Knapsack.big_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:36.628459+00:00
 -- url     : https://prove2.me/theorems/418e8598-d789-4b96-bbdd-85a0c193b47e

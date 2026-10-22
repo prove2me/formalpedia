@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_nonnegative_integral_tendsto_of_uniform_second_moment
 -- name    : AvramDividend.Classical.nonnegative_integral_tendsto_of_uniform_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:42:07.2348+00:00
 -- url     : https://prove2.me/theorems/bef79c38-a4aa-42be-b897-fd1baeed7998

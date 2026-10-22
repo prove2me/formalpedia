@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDASNewton_Local_newton_step_iff_step
 -- name    : PDASNewton.Local.newton_step_iff_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:08:49.362981+00:00
 -- url     : https://prove2.me/theorems/54c7a06e-e174-40b4-89ba-146029498867

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BNCovPack_Routing_lemma_5_4
 -- name    : BNCovPack.Routing.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:37:51.712946+00:00
 -- url     : https://prove2.me/theorems/acd12f35-d0e5-46cb-8271-5976e1ef8b1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_MinVar_fluct_excess
 -- name    : KendallBD.MinVar.fluct_excess
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:48.508016+00:00
 -- url     : https://prove2.me/theorems/f71f18b0-184b-43d6-855e-156bdc270068

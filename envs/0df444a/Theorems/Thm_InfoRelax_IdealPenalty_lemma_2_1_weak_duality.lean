@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoRelax_IdealPenalty_lemma_2_1_weak_duality
 -- name    : InfoRelax.IdealPenalty.lemma_2_1_weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:09.891114+00:00
 -- url     : https://prove2.me/theorems/a6c862d2-832a-4f4c-b0b5-3b2eb266fab5

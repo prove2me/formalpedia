@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefectCoverUp_USEquilibrium_manufacturer_report_rule
 -- name    : DefectCoverUp.USEquilibrium.manufacturer_report_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:46.186871+00:00
 -- url     : https://prove2.me/theorems/c9c9a530-30be-4d0b-b68e-8bd480f7bf39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_roots0
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.roots0
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:47:17.438077+00:00
 -- url     : https://prove2.me/theorems/1b6c4a89-d347-4cd5-95e1-49399861f063

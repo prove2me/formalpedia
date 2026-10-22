@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlinePrimalDual_Framework_algorithm2_competitive_ratio_v2
 -- name    : OnlinePrimalDual.Framework.algorithm2_competitive_ratio_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:41:46.911345+00:00
 -- url     : https://prove2.me/theorems/e81771c0-52eb-4dce-bd98-40ad012fbe88

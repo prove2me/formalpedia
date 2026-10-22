@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitJudge_Convex_weak_duality
 -- name    : WaitJudge.Convex.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:45:09.181737+00:00
 -- url     : https://prove2.me/theorems/de388579-c315-4e66-a36e-7199128e976e

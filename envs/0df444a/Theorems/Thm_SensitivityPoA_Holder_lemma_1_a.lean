@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Holder_lemma_1_a
 -- name    : SensitivityPoA.Holder.lemma_1_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:12.252819+00:00
 -- url     : https://prove2.me/theorems/8221771a-58a1-4e47-a6c1-915c993022dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Output_predictor_step
 -- name    : SelfDualLP.Output.predictor_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:27:30.072235+00:00
 -- url     : https://prove2.me/theorems/f2e5754e-9d16-4d1f-9789-94f767d7ce9d

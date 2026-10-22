@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_P8_norm
 -- name    : IQCAlg.HeavyBall.P8_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:20:51.636994+00:00
 -- url     : https://prove2.me/theorems/e0fecb34-b595-4d8d-9b35-8a66096a1a6b

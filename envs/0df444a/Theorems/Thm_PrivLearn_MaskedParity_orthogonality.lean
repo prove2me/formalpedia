@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivLearn_MaskedParity_orthogonality
 -- name    : PrivLearn.MaskedParity.orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:51:19.800228+00:00
 -- url     : https://prove2.me/theorems/1628a71a-6f6a-4a1a-8091-e17f73841ee1

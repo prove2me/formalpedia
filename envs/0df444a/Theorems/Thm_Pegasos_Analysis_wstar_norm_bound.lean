@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_wstar_norm_bound
 -- name    : Pegasos.Analysis.wstar_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:03.414986+00:00
 -- url     : https://prove2.me/theorems/fda58595-8938-4b7e-a7f7-b4c84f338cf5

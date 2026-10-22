@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_partialTransposeBlockPositive
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.partialTransposeBlockPositive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:45:42.793829+00:00
 -- url     : https://prove2.me/theorems/2d0cd1f8-a7d1-4172-9860-e6178ee704e0

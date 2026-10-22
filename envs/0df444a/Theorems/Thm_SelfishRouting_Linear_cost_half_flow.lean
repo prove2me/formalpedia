@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Linear_cost_half_flow
 -- name    : SelfishRouting.Linear.cost_half_flow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:16:56.484078+00:00
 -- url     : https://prove2.me/theorems/dfda5741-d141-4a94-9570-ed667df2bda0

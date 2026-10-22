@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TradingPostNSW_Leontief_eps_me_sum_price_eq_total_budget
 -- name    : TradingPostNSW.Leontief.eps_me_sum_price_eq_total_budget
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:22.493581+00:00
 -- url     : https://prove2.me/theorems/e7d1fade-4aa3-4048-963c-ebb1ac2ca615

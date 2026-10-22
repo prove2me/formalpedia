@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkControl_CapacityRegion_lemma_necessary_condition_strong_stability_v2
 -- name    : NetworkControl.CapacityRegion.lemma_necessary_condition_strong_stability_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:55.639894+00:00
 -- url     : https://prove2.me/theorems/f7864cca-bff2-4d10-82b2-9c2fb7ef551d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCSustain_WinWin_proposition_1_part_2
 -- name    : MCSustain.WinWin.proposition_1_part_2
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:16.052554+00:00
 -- url     : https://prove2.me/theorems/c7edbe3e-e981-439a-8e55-d664d444a36b

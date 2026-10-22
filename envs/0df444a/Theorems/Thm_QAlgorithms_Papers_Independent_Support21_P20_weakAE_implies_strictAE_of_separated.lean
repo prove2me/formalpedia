@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_weakAE_implies_strictAE_of_separated
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.weakAE_implies_strictAE_of_separated
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T05:01:13.03497+00:00
 -- url     : https://prove2.me/theorems/4a6afa7e-e726-4292-a4ed-1f5fd76ab950

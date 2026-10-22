@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailInfoShare_AFS_eq_8_general_K
 -- name    : RetailInfoShare.AFS.eq_8_general_K
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:18:04.542327+00:00
 -- url     : https://prove2.me/theorems/72728eee-1521-40be-93cc-c45d04b9cb64

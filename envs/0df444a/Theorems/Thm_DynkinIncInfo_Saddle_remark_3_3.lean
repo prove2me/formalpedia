@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynkinIncInfo_Saddle_remark_3_3
 -- name    : DynkinIncInfo.Saddle.remark_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:13:19.429373+00:00
 -- url     : https://prove2.me/theorems/04c0a9e6-3858-4462-b55d-1ef4b46ad9a5

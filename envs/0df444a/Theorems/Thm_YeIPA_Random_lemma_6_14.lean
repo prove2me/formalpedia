@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Random_lemma_6_14
 -- name    : YeIPA.Random.lemma_6_14
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:01.42774+00:00
 -- url     : https://prove2.me/theorems/2fc5ccdf-7408-497c-936d-3236bd59a3cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevConvexDisj_MultiTerm_lemma_2
 -- name    : RevConvexDisj.MultiTerm.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:15:52.00423+00:00
 -- url     : https://prove2.me/theorems/6e6b7767-5409-475f-88bc-595976b12ad0

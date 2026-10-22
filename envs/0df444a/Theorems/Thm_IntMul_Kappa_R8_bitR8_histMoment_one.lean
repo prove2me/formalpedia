@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_R8_bitR8_histMoment_one
 -- name    : IntMul.Kappa.R8.bitR8_histMoment_one
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:38:43.895888+00:00
 -- url     : https://prove2.me/theorems/ac9a5cef-9d78-4536-b8e9-2f733b8c6224
 -- title:

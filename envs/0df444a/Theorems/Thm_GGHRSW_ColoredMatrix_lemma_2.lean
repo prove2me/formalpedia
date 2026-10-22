@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GGHRSW_ColoredMatrix_lemma_2
 -- name    : GGHRSW.ColoredMatrix.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:06:53.133105+00:00
 -- url     : https://prove2.me/theorems/b213e8d0-2052-4741-a8d8-a073a9506da5

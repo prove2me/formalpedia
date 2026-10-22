@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_Tao_eq6_BAB_le
 -- name    : PlunneckeType.Tao.eq6_BAB_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:34.122161+00:00
 -- url     : https://prove2.me/theorems/a6294e85-080a-48fe-8869-563a01ac452a

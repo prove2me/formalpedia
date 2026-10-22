@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOPDistrib_Misalign_property_5
 -- name    : BOPDistrib.Misalign.property_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:27.311398+00:00
 -- url     : https://prove2.me/theorems/cf4a6e1d-d7bc-4836-94ab-7e9fb65da46e

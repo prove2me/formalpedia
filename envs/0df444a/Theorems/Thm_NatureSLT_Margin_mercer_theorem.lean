@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Margin_mercer_theorem
 -- name    : NatureSLT.Margin.mercer_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:07.106181+00:00
 -- url     : https://prove2.me/theorems/715e97d0-0940-4b17-93a5-7b652c9632b7

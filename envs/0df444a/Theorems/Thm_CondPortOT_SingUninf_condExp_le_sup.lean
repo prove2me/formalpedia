@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_SingUninf_condExp_le_sup
 -- name    : CondPortOT.SingUninf.condExp_le_sup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:15.990679+00:00
 -- url     : https://prove2.me/theorems/91db828e-1aa0-4f2d-b25c-eebe36552899

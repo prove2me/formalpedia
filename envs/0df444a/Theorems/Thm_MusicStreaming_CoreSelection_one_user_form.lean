@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MusicStreaming_CoreSelection_one_user_form
 -- name    : MusicStreaming.CoreSelection.one_user_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:33.781983+00:00
 -- url     : https://prove2.me/theorems/fee7cb0d-966c-49c4-9e92-edf6c048e312

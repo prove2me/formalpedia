@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_ShortMarket_eq11_optimist_long
 -- name    : CostlyShort.ShortMarket.eq11_optimist_long
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:35.142091+00:00
 -- url     : https://prove2.me/theorems/47066e2b-cfc1-4edd-abbf-7e6401b091c3

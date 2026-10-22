@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_FirstOrder_quadratic_inequality
 -- name    : RegLearnGames.FirstOrder.quadratic_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:45:20.557294+00:00
 -- url     : https://prove2.me/theorems/3a1f15af-e97b-438f-8918-fb873bd786fa

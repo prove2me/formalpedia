@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_continuous_iff_completelyAdditive
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.continuous_iff_completelyAdditive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:55:19.724194+00:00
 -- url     : https://prove2.me/theorems/5dda994d-4821-4e12-8edc-3fc8009335b4

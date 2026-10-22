@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_jtilde_isAlmostComplexOn
 -- name    : FiniteEnergyPlane.jtilde_isAlmostComplexOn
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:22:09.249844+00:00
 -- url     : https://prove2.me/theorems/b906cc6d-8009-445f-8a5c-b2689d1a887e

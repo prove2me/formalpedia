@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InnovContest_Rewards_existence
 -- name    : InnovContest.Rewards.existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:12.305307+00:00
 -- url     : https://prove2.me/theorems/6df7c128-c4c7-42d3-98c6-e289ca2e8863

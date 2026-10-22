@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookSensitivity_ChvatalRank_lp_ip_value_gap
 -- name    : CookSensitivity.ChvatalRank.lp_ip_value_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:37:48.16057+00:00
 -- url     : https://prove2.me/theorems/308aa197-679f-4042-9ded-017512ca92bc

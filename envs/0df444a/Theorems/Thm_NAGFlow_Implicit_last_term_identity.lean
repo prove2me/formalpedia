@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Implicit_last_term_identity
 -- name    : NAGFlow.Implicit.last_term_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:58.932369+00:00
 -- url     : https://prove2.me/theorems/7e05b5f3-48f2-4a6f-99ee-d685cbc977ba

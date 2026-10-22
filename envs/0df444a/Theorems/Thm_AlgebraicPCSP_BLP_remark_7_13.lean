@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_BLP_remark_7_13
 -- name    : AlgebraicPCSP.BLP.remark_7_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:25.080272+00:00
 -- url     : https://prove2.me/theorems/5ca22960-1e2d-4529-a8a1-a3f75ebd74d8

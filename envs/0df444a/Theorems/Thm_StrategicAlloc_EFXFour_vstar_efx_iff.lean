@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_EFXFour_vstar_efx_iff
 -- name    : StrategicAlloc.EFXFour.vstar_efx_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T14:14:48.407386+00:00
 -- url     : https://prove2.me/theorems/e372dd3d-a4fb-4ac4-b45a-9d46ee84cc7a

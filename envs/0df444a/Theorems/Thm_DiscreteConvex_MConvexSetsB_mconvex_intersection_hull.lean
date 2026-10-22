@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_mconvex_intersection_hull
 -- name    : DiscreteConvex.MConvexSetsB.mconvex_intersection_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:31:29.827955+00:00
 -- url     : https://prove2.me/theorems/22b20e71-63a1-4cea-ace7-89da0d8b93fc

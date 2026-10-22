@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Supermodularity_MDP_value_increasing_of_stochastically_increasing_v2
 -- name    : Supermodularity.MDP.value_increasing_of_stochastically_increasing_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:49.371733+00:00
 -- url     : https://prove2.me/theorems/816263b1-88fe-43dd-a93f-bc2514296d63

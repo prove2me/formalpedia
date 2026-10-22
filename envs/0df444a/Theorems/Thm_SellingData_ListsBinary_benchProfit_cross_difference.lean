@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_ListsBinary_benchProfit_cross_difference
 -- name    : SellingData.ListsBinary.benchProfit_cross_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:54.942632+00:00
 -- url     : https://prove2.me/theorems/d003f8f7-1705-4900-8fa9-327322ee8dcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_PolicyGradient_grad_stateValue_unrolled
 -- name    : SuttonBartoRL.PolicyGradient.grad_stateValue_unrolled
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:40:31.231256+00:00
 -- url     : https://prove2.me/theorems/fd36772d-ca9e-4894-95ec-fa036083e606

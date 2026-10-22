@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustUncLP_Ellipsoidal_cqp_duality
 -- name    : RobustUncLP.Ellipsoidal.cqp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:29:54.16543+00:00
 -- url     : https://prove2.me/theorems/dfaf74c0-b378-4c8a-a568-971e864662d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GagieRIndex_MacroScheme_bms_size
 -- name    : GagieRIndex.MacroScheme.bms_size
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:26:44.046374+00:00
 -- url     : https://prove2.me/theorems/3acfb128-11f2-4c4d-9d4d-52aa0669afd8

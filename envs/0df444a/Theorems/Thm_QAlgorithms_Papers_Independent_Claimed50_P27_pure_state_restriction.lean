@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P27_pure_state_restriction
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P27.pure_state_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:20:34.342995+00:00
 -- url     : https://prove2.me/theorems/427eba7a-2a10-4d49-9d1c-a87fee7a48fe

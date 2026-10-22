@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompositeLB_DetSmooth_xstar_closed_form
 -- name    : CompositeLB.DetSmooth.xstar_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:31:51.049011+00:00
 -- url     : https://prove2.me/theorems/28985d19-c8d8-4e81-ba36-68bd8d302a12

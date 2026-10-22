@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_LPRounding_convex_combination
 -- name    : SymBoolPCSP.LPRounding.convex_combination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:30:16.911376+00:00
 -- url     : https://prove2.me/theorems/bca36388-f0ae-470f-866d-32d804f80467

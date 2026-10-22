@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Dubey1986_Inefficiency_Dmap_linear_perturbation
 -- name    : Dubey1986.Inefficiency.Dmap_linear_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:34:35.47257+00:00
 -- url     : https://prove2.me/theorems/fb9f9ff4-8f62-4201-8583-c7f8eba693ae

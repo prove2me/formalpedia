@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_premap_categoryLaws
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.premap_categoryLaws
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:58:32.028368+00:00
 -- url     : https://prove2.me/theorems/3d8541fc-6f52-4a23-ab37-956905f65329

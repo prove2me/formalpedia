@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_firstUpcrossing_threshold_iInf_mono
 -- name    : AvramDividend.Classical.firstUpcrossing_threshold_iInf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T21:34:05.692995+00:00
 -- url     : https://prove2.me/theorems/4c7a39ae-f280-47fb-91ab-817b588dc9b2

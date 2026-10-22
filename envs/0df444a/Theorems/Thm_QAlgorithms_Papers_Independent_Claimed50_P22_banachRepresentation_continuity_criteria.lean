@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_banachRepresentation_continuity_criteria
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.banachRepresentation_continuity_criteria
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:09:11.323461+00:00
 -- url     : https://prove2.me/theorems/6247e24f-e6d2-4e07-9a62-c2ee1bb530a2

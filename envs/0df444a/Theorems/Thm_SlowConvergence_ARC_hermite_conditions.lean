@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_ARC_hermite_conditions
 -- name    : SlowConvergence.ARC.hermite_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:38.887013+00:00
 -- url     : https://prove2.me/theorems/4fc2551b-8da8-4f2f-b8c5-19b02568a6fc

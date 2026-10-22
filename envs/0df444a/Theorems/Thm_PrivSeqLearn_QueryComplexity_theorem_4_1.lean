@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivSeqLearn_QueryComplexity_theorem_4_1
 -- name    : PrivSeqLearn.QueryComplexity.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:14:22.533787+00:00
 -- url     : https://prove2.me/theorems/0eb872f8-0aa7-4aac-aeca-83ba64292884

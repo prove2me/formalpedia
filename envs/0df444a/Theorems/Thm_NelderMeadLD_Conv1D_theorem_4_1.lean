@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Conv1D_theorem_4_1
 -- name    : NelderMeadLD.Conv1D.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:21:24.324024+00:00
 -- url     : https://prove2.me/theorems/0f4c6e19-6ea3-42b3-ab9e-f7c6445a3ab7

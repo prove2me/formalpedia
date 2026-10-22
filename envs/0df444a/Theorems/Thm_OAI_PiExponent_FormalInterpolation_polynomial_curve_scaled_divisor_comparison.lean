@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_polynomial_curve_scaled_divisor_comparison
 -- name    : OAI.PiExponent.FormalInterpolation.polynomial_curve_scaled_divisor_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T03:42:12.108994+00:00
 -- url     : https://prove2.me/theorems/d9159ae5-aa1b-492b-91a1-9c6162370939

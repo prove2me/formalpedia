@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Limit_lemma_2
 -- name    : PowerTwoChoices.Limit.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:04:08.241264+00:00
 -- url     : https://prove2.me/theorems/f9c9175c-27b6-48b7-a293-435c096e72e3

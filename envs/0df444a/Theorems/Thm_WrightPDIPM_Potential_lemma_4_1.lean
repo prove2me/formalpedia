@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Potential_lemma_4_1
 -- name    : WrightPDIPM.Potential.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:53:02.563543+00:00
 -- url     : https://prove2.me/theorems/d73d8e7c-15cd-433a-a751-910704a7f23c

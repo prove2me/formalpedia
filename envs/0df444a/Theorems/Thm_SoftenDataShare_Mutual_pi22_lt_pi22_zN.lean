@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftenDataShare_Mutual_pi22_lt_pi22_zN
 -- name    : SoftenDataShare.Mutual.pi22_lt_pi22_zN
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:06.525341+00:00
 -- url     : https://prove2.me/theorems/3361392c-4a56-4843-9a05-d400951a49c7

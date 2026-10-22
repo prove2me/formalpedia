@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonDoubleCount_Planner_proposition_2
 -- name    : CarbonDoubleCount.Planner.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:47:45.971305+00:00
 -- url     : https://prove2.me/theorems/02c1b234-001b-449a-8f33-c4da4af3e94d

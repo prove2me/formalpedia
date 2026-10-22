@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_CAF_drift_at_setups
 -- name    : KumarSeidman.CAF.drift_at_setups
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:13.16201+00:00
 -- url     : https://prove2.me/theorems/ce1ed975-22b6-470d-b989-0ce668664edf

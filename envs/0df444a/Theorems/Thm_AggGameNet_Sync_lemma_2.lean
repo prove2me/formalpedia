@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AggGameNet_Sync_lemma_2
 -- name    : AggGameNet.Sync.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:36:36.686519+00:00
 -- url     : https://prove2.me/theorems/f702d6b5-b3a6-4c32-bf90-5df35218303e

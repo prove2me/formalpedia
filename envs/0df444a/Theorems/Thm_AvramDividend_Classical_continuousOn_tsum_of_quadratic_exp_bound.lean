@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_continuousOn_tsum_of_quadratic_exp_bound
 -- name    : AvramDividend.Classical.continuousOn_tsum_of_quadratic_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T11:43:18.477609+00:00
 -- url     : https://prove2.me/theorems/05474add-f20e-40a7-a056-1bc25e5d988a

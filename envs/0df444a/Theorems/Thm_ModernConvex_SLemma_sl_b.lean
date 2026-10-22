@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_sl_b
 -- name    : ModernConvex.SLemma.sl_b
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:06.634664+00:00
 -- url     : https://prove2.me/theorems/a11169af-0f36-4b25-9aed-a827adca459f

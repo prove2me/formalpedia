@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_Perf_Dj_partition
 -- name    : BootRobust.Perf.Dj_partition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:23.302906+00:00
 -- url     : https://prove2.me/theorems/653c44d7-73a2-41c9-84e6-2e71940e35c9

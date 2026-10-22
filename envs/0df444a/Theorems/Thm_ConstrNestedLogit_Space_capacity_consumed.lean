@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_Space_capacity_consumed
 -- name    : ConstrNestedLogit.Space.capacity_consumed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:37.200808+00:00
 -- url     : https://prove2.me/theorems/3977ad77-c9eb-4fb2-b907-6cc41ceb87da

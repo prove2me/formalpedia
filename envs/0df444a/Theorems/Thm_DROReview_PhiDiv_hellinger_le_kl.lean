@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DROReview_PhiDiv_hellinger_le_kl
 -- name    : DROReview.PhiDiv.hellinger_le_kl
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T21:17:01.106514+00:00
 -- url     : https://prove2.me/theorems/c536804c-da6f-4fb6-a67b-83099039e619

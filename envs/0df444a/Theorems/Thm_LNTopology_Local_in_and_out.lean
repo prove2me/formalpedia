@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_Local_in_and_out
 -- name    : LNTopology.Local.in_and_out
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:27:41.389218+00:00
 -- url     : https://prove2.me/theorems/50c7cd21-f21c-4e17-bcb9-befe854e0993

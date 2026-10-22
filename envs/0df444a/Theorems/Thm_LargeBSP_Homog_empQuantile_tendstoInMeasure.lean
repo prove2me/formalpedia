@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_empQuantile_tendstoInMeasure
 -- name    : LargeBSP.Homog.empQuantile_tendstoInMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:09:00.160157+00:00
 -- url     : https://prove2.me/theorems/2cbd0c5f-93ac-4d29-beb4-801cc381a1dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReedGGN_RenewalRep_renewal_equation
 -- name    : ReedGGN.RenewalRep.renewal_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:24.680744+00:00
 -- url     : https://prove2.me/theorems/05869d91-10db-4475-88ab-b6089e9cb77c

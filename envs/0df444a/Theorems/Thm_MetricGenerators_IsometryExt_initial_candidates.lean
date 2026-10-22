@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_IsometryExt_initial_candidates
 -- name    : MetricGenerators.IsometryExt.initial_candidates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:12.698734+00:00
 -- url     : https://prove2.me/theorems/9cc30202-bf30-4ec4-8f26-9f2980aa3137

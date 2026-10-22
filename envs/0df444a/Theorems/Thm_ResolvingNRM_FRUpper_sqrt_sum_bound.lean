@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResolvingNRM_FRUpper_sqrt_sum_bound
 -- name    : ResolvingNRM.FRUpper.sqrt_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:44:02.063673+00:00
 -- url     : https://prove2.me/theorems/822b25e2-620a-4dde-b3d8-e9b4a0736268

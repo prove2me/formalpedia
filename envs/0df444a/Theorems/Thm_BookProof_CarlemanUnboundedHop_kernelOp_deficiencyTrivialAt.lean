@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_kernelOp_deficiencyTrivialAt
 -- name    : BookProof.CarlemanUnboundedHop.kernelOp_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:29:35.412982+00:00
 -- url     : https://prove2.me/theorems/301011a0-5554-4eae-8f6e-7dd0af76252c

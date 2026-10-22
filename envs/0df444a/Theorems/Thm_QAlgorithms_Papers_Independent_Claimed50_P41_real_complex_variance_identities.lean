@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_real_complex_variance_identities
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.real_complex_variance_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:05:48.39866+00:00
 -- url     : https://prove2.me/theorems/ca2bdcd1-3448-4d52-b128-b1c492ebba84

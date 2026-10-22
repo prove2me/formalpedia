@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_LP_log_sum_bounds
 -- name    : YeIPA.LP.log_sum_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:26.108669+00:00
 -- url     : https://prove2.me/theorems/286abe9c-840d-4ed0-9327-e0549c7f6fbf

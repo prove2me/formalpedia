@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformFinance_EndogRate_G1_nonneg_low_cost
 -- name    : PlatformFinance.EndogRate.G1_nonneg_low_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:52.015277+00:00
 -- url     : https://prove2.me/theorems/4eeb1116-b522-4154-82a9-416c6aba8bc3

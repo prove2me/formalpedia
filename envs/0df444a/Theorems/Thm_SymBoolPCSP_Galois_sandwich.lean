@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_Galois_sandwich
 -- name    : SymBoolPCSP.Galois.sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:24.164764+00:00
 -- url     : https://prove2.me/theorems/ab7bd8ee-fca1-4baf-91ca-388d6c75a294

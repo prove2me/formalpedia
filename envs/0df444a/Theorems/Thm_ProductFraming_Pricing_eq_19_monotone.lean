@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProductFraming_Pricing_eq_19_monotone
 -- name    : ProductFraming.Pricing.eq_19_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:27.166466+00:00
 -- url     : https://prove2.me/theorems/091476c6-de72-4fdc-a912-bb7c8e6d7677

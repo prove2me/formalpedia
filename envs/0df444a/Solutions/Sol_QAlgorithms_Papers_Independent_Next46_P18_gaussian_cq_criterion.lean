@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Next46.P18.gaussian_cq_criterion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Imine
 -- created : 2026-10-21T01:03:06.302607+00:00
 -- url     : https://prove2.me/submissions/7b5c3b97-7bd3-4c54-9364-8713294c01b5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QAlgorithms_Papers_Independent_Next46_P18
 import Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P18_isCQ_of_weyl_dual_commutes

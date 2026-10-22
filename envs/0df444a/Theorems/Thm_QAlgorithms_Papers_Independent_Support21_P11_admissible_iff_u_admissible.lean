@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P11_admissible_iff_u_admissible
 -- name    : QAlgorithms.Papers.Independent.Support21.P11.admissible_iff_u_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:01:36.158634+00:00
 -- url     : https://prove2.me/theorems/50810cb8-5542-481f-add3-081fd5d70dcd

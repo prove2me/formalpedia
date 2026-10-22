@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsengBCD_Hemivariate_argmin_attained
 -- name    : TsengBCD.Hemivariate.argmin_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:06:09.586709+00:00
 -- url     : https://prove2.me/theorems/1a158574-b205-4c37-aea0-97de459a2d78

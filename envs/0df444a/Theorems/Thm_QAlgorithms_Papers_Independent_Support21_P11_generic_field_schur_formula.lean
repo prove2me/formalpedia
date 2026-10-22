@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P11_generic_field_schur_formula
 -- name    : QAlgorithms.Papers.Independent.Support21.P11.generic_field_schur_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:59:34.362969+00:00
 -- url     : https://prove2.me/theorems/bbef8ccf-1900-4994-b33a-d4fc19002275

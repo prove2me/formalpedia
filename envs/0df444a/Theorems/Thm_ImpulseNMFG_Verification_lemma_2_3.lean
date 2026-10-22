@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpulseNMFG_Verification_lemma_2_3
 -- name    : ImpulseNMFG.Verification.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:37.054667+00:00
 -- url     : https://prove2.me/theorems/9a4addfd-7cce-4b33-bac5-91a849ac1954

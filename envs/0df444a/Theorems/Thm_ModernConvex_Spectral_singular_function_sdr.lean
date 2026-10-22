@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Spectral_singular_function_sdr
 -- name    : ModernConvex.Spectral.singular_function_sdr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:36.877989+00:00
 -- url     : https://prove2.me/theorems/156f6721-e984-4e3d-b90e-1245b5e992af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_Throughput_fluid_limit_equations
 -- name    : MaxPressure.Throughput.fluid_limit_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:02:26.916655+00:00
 -- url     : https://prove2.me/theorems/b057e7b4-0df4-4eff-aed8-3cd7b6e1bc85

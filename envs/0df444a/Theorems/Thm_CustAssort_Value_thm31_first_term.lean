@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_Value_thm31_first_term
 -- name    : CustAssort.Value.thm31_first_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:39.12964+00:00
 -- url     : https://prove2.me/theorems/254f076b-7378-48eb-b2a2-76fa661c6423

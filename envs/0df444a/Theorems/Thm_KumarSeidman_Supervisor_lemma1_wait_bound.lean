@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KumarSeidman_Supervisor_lemma1_wait_bound
 -- name    : KumarSeidman.Supervisor.lemma1_wait_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:23.89042+00:00
 -- url     : https://prove2.me/theorems/b6255299-b116-4a36-8758-e345dbe3ae4f

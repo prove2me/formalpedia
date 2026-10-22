@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveCubic_Cauchy_theorem_2_2
 -- name    : AdaptiveCubic.Cauchy.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:31.672989+00:00
 -- url     : https://prove2.me/theorems/7a4238ba-d85c-4841-b801-40ecac9f58f0

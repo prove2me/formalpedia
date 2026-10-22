@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellmanIneq_Regret_theorem_5_maxloss_step
 -- name    : BellmanIneq.Regret.theorem_5_maxloss_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:31:35.051874+00:00
 -- url     : https://prove2.me/theorems/d5bfb469-1657-412f-b81a-2cf9b51c5e40

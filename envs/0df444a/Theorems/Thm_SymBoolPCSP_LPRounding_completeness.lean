@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_LPRounding_completeness
 -- name    : SymBoolPCSP.LPRounding.completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:31:13.013544+00:00
 -- url     : https://prove2.me/theorems/95c4913e-f034-427d-af1a-a0208717873e

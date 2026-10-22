@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Threshold_phi_gt_one
 -- name    : MinEarnings.Threshold.phi_gt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:11.517976+00:00
 -- url     : https://prove2.me/theorems/f25c93f9-3087-4a61-af67-18759e61ee3a

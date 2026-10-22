@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_GenericPure_proposition_5_1
 -- name    : HarmonicGames.GenericPure.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:37.055631+00:00
 -- url     : https://prove2.me/theorems/74955fb9-18a5-4881-9860-935647d3e8f5

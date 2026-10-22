@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MCSustain_WinWin_impact_Hup_lt_Hc
 -- name    : MCSustain.WinWin.impact_Hup_lt_Hc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:25.676011+00:00
 -- url     : https://prove2.me/theorems/ec3d49c7-eedd-4549-8bfe-45b78f342283

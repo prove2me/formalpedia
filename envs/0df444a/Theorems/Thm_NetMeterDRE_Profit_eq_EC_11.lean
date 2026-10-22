@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetMeterDRE_Profit_eq_EC_11
 -- name    : NetMeterDRE.Profit.eq_EC_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:20:18.794239+00:00
 -- url     : https://prove2.me/theorems/c551c8c1-4a45-46e7-975f-242c83c6db9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticQuote_Clairvoyant_dyadic_bound
 -- name    : StaticQuote.Clairvoyant.dyadic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:17.566983+00:00
 -- url     : https://prove2.me/theorems/7f981cd8-e00f-48f7-a2f6-5aa68c9b9945

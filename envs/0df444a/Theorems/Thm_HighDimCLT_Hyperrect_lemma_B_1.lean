@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimCLT_Hyperrect_lemma_B_1
 -- name    : HighDimCLT.Hyperrect.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:38:58.814711+00:00
 -- url     : https://prove2.me/theorems/329f2492-1a4f-4bcb-a729-9bf32b72038b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxAlg_FixedPoint_fixed_point_iff_minimizer
 -- name    : ProxAlg.FixedPoint.fixed_point_iff_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:05:55.060981+00:00
 -- url     : https://prove2.me/theorems/24d025ba-a5ab-4ce5-a83a-09920f813537

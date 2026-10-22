@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpBias_OwnBias_proposition_1
 -- name    : ExpBias.OwnBias.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:40:17.710996+00:00
 -- url     : https://prove2.me/theorems/aa2c86a0-b557-43e9-a9bd-07b43b0ad311

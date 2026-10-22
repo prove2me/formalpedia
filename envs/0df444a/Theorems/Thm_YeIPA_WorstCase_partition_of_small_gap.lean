@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_WorstCase_partition_of_small_gap
 -- name    : YeIPA.WorstCase.partition_of_small_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:41.860312+00:00
 -- url     : https://prove2.me/theorems/67675821-a706-4d71-b3ac-738863752c43

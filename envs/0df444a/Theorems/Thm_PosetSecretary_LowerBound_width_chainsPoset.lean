@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_LowerBound_width_chainsPoset
 -- name    : PosetSecretary.LowerBound.width_chainsPoset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:12.933479+00:00
 -- url     : https://prove2.me/theorems/b1eef5c2-975f-42db-bbbf-3dc8b571c4d1

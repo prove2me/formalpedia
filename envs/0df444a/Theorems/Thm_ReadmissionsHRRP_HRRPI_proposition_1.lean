@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReadmissionsHRRP_HRRPI_proposition_1
 -- name    : ReadmissionsHRRP.HRRPI.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:13:08.115719+00:00
 -- url     : https://prove2.me/theorems/683b416a-f8ca-404a-9f2a-f870f980fb01

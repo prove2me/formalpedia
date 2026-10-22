@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KernelDRO_Duality_weak_duality
 -- name    : KernelDRO.Duality.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:26:53.452994+00:00
 -- url     : https://prove2.me/theorems/2ccb249e-a3e4-4a7c-aec1-089ad187a173

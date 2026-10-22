@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_profit_gain
 -- name    : TwoSidedPD.Baseline.profit_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:22.921541+00:00
 -- url     : https://prove2.me/theorems/621e49b9-cb2c-4862-9010-c3c2a9d0247d

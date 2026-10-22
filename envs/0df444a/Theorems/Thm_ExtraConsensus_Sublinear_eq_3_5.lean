@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtraConsensus_Sublinear_eq_3_5
 -- name    : ExtraConsensus.Sublinear.eq_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:17:52.724441+00:00
 -- url     : https://prove2.me/theorems/b49e4e15-fca0-4262-a2c7-6e927c035c31

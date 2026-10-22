@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSchurIrreducible_isSchurFull_of_irreducible
 -- name    : BookProof.ChapterSchurIrreducible.isSchurFull_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T01:02:24.234714+00:00
 -- url     : https://prove2.me/theorems/2d3bdf98-9699-4cb8-bf0c-f298a6a59933

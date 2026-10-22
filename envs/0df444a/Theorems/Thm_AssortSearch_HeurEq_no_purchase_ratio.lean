@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_no_purchase_ratio
 -- name    : AssortSearch.HeurEq.no_purchase_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:03.579983+00:00
 -- url     : https://prove2.me/theorems/026eb0c8-36c5-44e1-a627-2ac61226c280

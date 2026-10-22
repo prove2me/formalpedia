@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalMSP_Forbidden_conditional_product_bound
 -- name    : OrdinalMSP.Forbidden.conditional_product_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:33.869002+00:00
 -- url     : https://prove2.me/theorems/d801132a-0099-4f0c-966d-5c28ac9fb5a9

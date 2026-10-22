@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoStageSRO_AsymOpt_eq_3
 -- name    : TwoStageSRO.AsymOpt.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:10:01.878636+00:00
 -- url     : https://prove2.me/theorems/78028ac5-6909-44a4-8835-282c86865769

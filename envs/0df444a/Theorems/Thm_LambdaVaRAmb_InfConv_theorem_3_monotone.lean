@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaVaRAmb_InfConv_theorem_3_monotone
 -- name    : LambdaVaRAmb.InfConv.theorem_3_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:29:47.891509+00:00
 -- url     : https://prove2.me/theorems/f94dc4ae-ef98-4c0b-9b5f-ca294f0bb740

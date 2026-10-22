@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BOPDistrib_Misalign_corollary_1_proposition_2
 -- name    : BOPDistrib.Misalign.corollary_1_proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:16:35.033604+00:00
 -- url     : https://prove2.me/theorems/a66135c1-8788-42ed-b046-7d97d3995738

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Approx_first_inequality
 -- name    : MultiStoreAssort.Approx.first_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:52.276972+00:00
 -- url     : https://prove2.me/theorems/83ff7fdb-fc46-405b-b686-06b7c6f3402e

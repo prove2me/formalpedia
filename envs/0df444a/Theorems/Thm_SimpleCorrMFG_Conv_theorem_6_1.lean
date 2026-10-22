@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleCorrMFG_Conv_theorem_6_1
 -- name    : SimpleCorrMFG.Conv.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:43.034707+00:00
 -- url     : https://prove2.me/theorems/ce6b57d1-bfe0-44f4-955b-9007f98341fe

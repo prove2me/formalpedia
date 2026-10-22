@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Product_lp_duality
 -- name    : LeightonRao.Product.lp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:21:57.284979+00:00
 -- url     : https://prove2.me/theorems/bee8ccaa-ba0b-481e-9804-128b40b44340

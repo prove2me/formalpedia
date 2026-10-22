@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubstitutePricing_Mixed_eq_31_strict_concave
 -- name    : SubstitutePricing.Mixed.eq_31_strict_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:29.483986+00:00
 -- url     : https://prove2.me/theorems/bdb4c733-f4b4-4e40-8044-c522fdc8af4f

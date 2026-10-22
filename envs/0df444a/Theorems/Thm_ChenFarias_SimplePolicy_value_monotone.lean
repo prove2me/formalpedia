@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenFarias_SimplePolicy_value_monotone
 -- name    : ChenFarias.SimplePolicy.value_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:41.133675+00:00
 -- url     : https://prove2.me/theorems/4996589c-002b-4a50-bd5a-ca3cbbdc14ad

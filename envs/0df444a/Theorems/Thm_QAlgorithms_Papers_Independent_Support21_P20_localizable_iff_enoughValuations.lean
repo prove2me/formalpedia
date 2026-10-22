@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P20_localizable_iff_enoughValuations
 -- name    : QAlgorithms.Papers.Independent.Support21.P20.localizable_iff_enoughValuations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:56:20.647972+00:00
 -- url     : https://prove2.me/theorems/f52c3935-ff65-442a-a9dd-979fd22a82f8

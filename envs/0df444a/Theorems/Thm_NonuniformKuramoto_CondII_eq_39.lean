@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformKuramoto_CondII_eq_39
 -- name    : NonuniformKuramoto.CondII.eq_39
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:56.69317+00:00
 -- url     : https://prove2.me/theorems/1ce99bd8-63db-4785-9c63-d411841374bd

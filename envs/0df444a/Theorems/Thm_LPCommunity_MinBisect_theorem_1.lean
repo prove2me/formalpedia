@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_MinBisect_theorem_1
 -- name    : LPCommunity.MinBisect.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:57.922199+00:00
 -- url     : https://prove2.me/theorems/2413ddc3-65af-40a8-bd0c-54ca6b581651

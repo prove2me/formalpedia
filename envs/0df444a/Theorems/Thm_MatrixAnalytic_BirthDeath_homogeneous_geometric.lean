@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_BirthDeath_homogeneous_geometric
 -- name    : MatrixAnalytic.BirthDeath.homogeneous_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:42.549435+00:00
 -- url     : https://prove2.me/theorems/8900ba47-8cd7-4d15-a316-bf67be7a86ea

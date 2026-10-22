@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeckTeboulleMD_EMDA_eda_is_sanp_step
 -- name    : BeckTeboulleMD.EMDA.eda_is_sanp_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T05:54:25.515737+00:00
 -- url     : https://prove2.me/theorems/f12e887c-e56b-44af-b6e3-3ada7d4c1ef3

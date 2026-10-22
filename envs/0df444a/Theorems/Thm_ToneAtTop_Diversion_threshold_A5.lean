@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToneAtTop_Diversion_threshold_A5
 -- name    : ToneAtTop.Diversion.threshold_A5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:53:05.786204+00:00
 -- url     : https://prove2.me/theorems/0885400a-2148-41e0-a6c8-61cdc895c77d

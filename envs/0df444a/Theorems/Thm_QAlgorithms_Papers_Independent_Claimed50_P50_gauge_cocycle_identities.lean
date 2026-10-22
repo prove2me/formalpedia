@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P50_gauge_cocycle_identities
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P50.gauge_cocycle_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:20:50.41588+00:00
 -- url     : https://prove2.me/theorems/6a3225f6-f799-45d7-85b8-414b572e80bb

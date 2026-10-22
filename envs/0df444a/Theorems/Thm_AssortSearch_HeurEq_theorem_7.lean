@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_HeurEq_theorem_7
 -- name    : AssortSearch.HeurEq.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:32:02.211804+00:00
 -- url     : https://prove2.me/theorems/b2c6b30e-d5c4-445b-a7f8-16513d31c27e

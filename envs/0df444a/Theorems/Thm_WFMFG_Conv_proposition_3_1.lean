@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WFMFG_Conv_proposition_3_1
 -- name    : WFMFG.Conv.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:14:16.608992+00:00
 -- url     : https://prove2.me/theorems/104c300c-d8ba-4655-8679-5099b6f5fc43

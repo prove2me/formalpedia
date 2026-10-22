@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfDualLP_Output_optimal_pair_solution
 -- name    : SelfDualLP.Output.optimal_pair_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:27:31.892095+00:00
 -- url     : https://prove2.me/theorems/3fc53527-6b1d-47bd-af5a-a53bcae8e342

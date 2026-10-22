@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochSeedEval_Hajek_weight_moments
 -- name    : StochSeedEval.Hajek.weight_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:19.265476+00:00
 -- url     : https://prove2.me/theorems/9565e6e3-66aa-4cae-bb34-69f5f15deb26

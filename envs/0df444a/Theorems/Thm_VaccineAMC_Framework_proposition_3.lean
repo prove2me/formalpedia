@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaccineAMC_Framework_proposition_3
 -- name    : VaccineAMC.Framework.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:23:24.518017+00:00
 -- url     : https://prove2.me/theorems/3a6eecb5-68a0-42aa-9a26-ae087605a3da

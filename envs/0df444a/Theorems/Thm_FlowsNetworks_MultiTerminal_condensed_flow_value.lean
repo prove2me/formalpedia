@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MultiTerminal_condensed_flow_value
 -- name    : FlowsNetworks.MultiTerminal.condensed_flow_value
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:13.361081+00:00
 -- url     : https://prove2.me/theorems/12252cd8-2f3b-428d-b5bf-50e04362ec66

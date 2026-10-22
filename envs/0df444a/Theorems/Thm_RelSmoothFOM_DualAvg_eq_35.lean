@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DualAvg_eq_35
 -- name    : RelSmoothFOM.DualAvg.eq_35
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:34:31.762219+00:00
 -- url     : https://prove2.me/theorems/e7d620ae-71bc-4f51-88bb-357ed5e27ad9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_MCP_slice_monotone_inequality
 -- name    : YeIPA.MCP.slice_monotone_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:38.097601+00:00
 -- url     : https://prove2.me/theorems/c18bc914-095b-4f6d-812b-c147eead9b7f

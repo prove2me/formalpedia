@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P27_sgp_right_scale
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P27.sgp_right_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:43:11.827977+00:00
 -- url     : https://prove2.me/theorems/28b25e0d-0ddb-4489-a46c-4d0064f630a9

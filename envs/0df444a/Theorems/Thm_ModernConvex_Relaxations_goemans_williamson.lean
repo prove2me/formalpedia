@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Relaxations_goemans_williamson
 -- name    : ModernConvex.Relaxations.goemans_williamson
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:46.023682+00:00
 -- url     : https://prove2.me/theorems/82fce97f-6443-4505-86de-8e1b845c5c83

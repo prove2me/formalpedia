@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimisticPSRL_Concentration_proof_prop5_2_martingale_sum_eq_projection
 -- name    : OptimisticPSRL.Concentration.proof_prop5_2_martingale_sum_eq_projection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:40:29.298975+00:00
 -- url     : https://prove2.me/theorems/23d5e08b-0ed6-4741-b64c-f2f278bd668d

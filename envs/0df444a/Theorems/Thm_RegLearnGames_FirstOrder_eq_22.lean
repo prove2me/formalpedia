@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_FirstOrder_eq_22
 -- name    : RegLearnGames.FirstOrder.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:44:43.384986+00:00
 -- url     : https://prove2.me/theorems/2fcfc862-2001-420b-b6ff-3bbf494f4805

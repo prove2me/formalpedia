@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq30_hasDerivWithinAt_of_right_affine
 -- name    : eq30_hasDerivWithinAt_of_right_affine
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T01:08:22.590221+00:00
 -- url     : https://prove2.me/theorems/6017370b-5864-4060-85f8-d5f55cd5a5a5

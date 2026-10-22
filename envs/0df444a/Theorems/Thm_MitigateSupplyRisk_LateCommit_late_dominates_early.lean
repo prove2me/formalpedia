@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MitigateSupplyRisk_LateCommit_late_dominates_early
 -- name    : MitigateSupplyRisk.LateCommit.late_dominates_early
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:02:24.500989+00:00
 -- url     : https://prove2.me/theorems/03292179-5a0f-4251-b0c9-47109f567aad

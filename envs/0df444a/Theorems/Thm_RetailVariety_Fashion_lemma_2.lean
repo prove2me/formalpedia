@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailVariety_Fashion_lemma_2
 -- name    : RetailVariety.Fashion.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:57:48.425225+00:00
 -- url     : https://prove2.me/theorems/a76477f1-8375-4953-b6e1-9949607c2993

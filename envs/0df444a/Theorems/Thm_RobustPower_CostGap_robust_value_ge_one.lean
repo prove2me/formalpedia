@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_CostGap_robust_value_ge_one
 -- name    : RobustPower.CostGap.robust_value_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:22.554607+00:00
 -- url     : https://prove2.me/theorems/e50e28ff-e18c-44b3-a2f1-156ec03e280a

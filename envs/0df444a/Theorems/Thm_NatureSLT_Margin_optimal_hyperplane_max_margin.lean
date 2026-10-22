@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Margin_optimal_hyperplane_max_margin
 -- name    : NatureSLT.Margin.optimal_hyperplane_max_margin
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:44.865435+00:00
 -- url     : https://prove2.me/theorems/cdeb643e-549a-412d-9aec-e14816bf71f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StoneRegression_NearestNeighbor_proposition_12
 -- name    : StoneRegression.NearestNeighbor.proposition_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:17.841527+00:00
 -- url     : https://prove2.me/theorems/8563ade7-7043-4ebf-a866-e92bc31d5ed2

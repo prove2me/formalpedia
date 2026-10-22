@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellingData_ListsBinary_reducedProfit_hasDerivAt_H
 -- name    : SellingData.ListsBinary.reducedProfit_hasDerivAt_H
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:20:50.331369+00:00
 -- url     : https://prove2.me/theorems/c6cd2c67-5b26-42fe-8082-08d0b1884584

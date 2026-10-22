@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochIneqPO_Monotone_exists_counterexample_of_not_regular17
 -- name    : StochIneqPO.Monotone.exists_counterexample_of_not_regular17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:27:55.488526+00:00
 -- url     : https://prove2.me/theorems/7f3d6a85-38ae-4ad6-a8f1-69c37664de80

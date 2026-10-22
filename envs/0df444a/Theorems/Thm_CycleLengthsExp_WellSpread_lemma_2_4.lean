@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_WellSpread_lemma_2_4
 -- name    : CycleLengthsExp.WellSpread.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:22:02.280742+00:00
 -- url     : https://prove2.me/theorems/f246be6f-559d-47fe-a8fd-7c5d6c18d57e

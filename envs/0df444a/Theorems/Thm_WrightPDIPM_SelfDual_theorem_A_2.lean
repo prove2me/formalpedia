@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_SelfDual_theorem_A_2
 -- name    : WrightPDIPM.SelfDual.theorem_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:56:12.804222+00:00
 -- url     : https://prove2.me/theorems/53198b53-d31b-46a8-b013-88257fad337e

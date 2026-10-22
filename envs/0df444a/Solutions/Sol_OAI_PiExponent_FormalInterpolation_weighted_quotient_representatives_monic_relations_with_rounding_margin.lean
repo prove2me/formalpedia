@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.weighted_quotient_representatives_monic_relations_with_rounding_margin
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:26:18.7683+00:00
 -- url     : https://prove2.me/submissions/df9ec0a5-da9f-44fc-8ffb-07f9e4f8b06f
 

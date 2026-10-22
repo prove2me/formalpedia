@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviSampling_BaseStock_path_term_expectation
 -- name    : LeviSampling.BaseStock.path_term_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:19.929276+00:00
 -- url     : https://prove2.me/theorems/8efbcd75-d7d7-4df5-a12e-232a5b042eca

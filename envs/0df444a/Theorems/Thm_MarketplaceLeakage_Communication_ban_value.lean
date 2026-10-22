@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Communication_ban_value
 -- name    : MarketplaceLeakage.Communication.ban_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:35.121554+00:00
 -- url     : https://prove2.me/theorems/7d2b0699-ffd5-4ed1-b67a-bc3820929a2d

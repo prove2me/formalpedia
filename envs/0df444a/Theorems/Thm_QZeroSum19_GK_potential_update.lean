@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QZeroSum19_GK_potential_update
 -- name    : QZeroSum19.GK.potential_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:08.778436+00:00
 -- url     : https://prove2.me/theorems/374a4076-6fd8-4ee0-ab6d-394ffa36dd97

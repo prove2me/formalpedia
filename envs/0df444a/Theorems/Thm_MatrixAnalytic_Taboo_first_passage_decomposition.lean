@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Taboo_first_passage_decomposition
 -- name    : MatrixAnalytic.Taboo.first_passage_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:43:52.240921+00:00
 -- url     : https://prove2.me/theorems/966e8deb-2b4c-40da-aaa5-531a1d00f02b

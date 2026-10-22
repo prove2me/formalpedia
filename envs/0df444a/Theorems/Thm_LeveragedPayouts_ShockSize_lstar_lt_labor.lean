@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeveragedPayouts_ShockSize_lstar_lt_labor
 -- name    : LeveragedPayouts.ShockSize.lstar_lt_labor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:15.142091+00:00
 -- url     : https://prove2.me/theorems/53989921-f22c-4ca8-8ce1-ae30220123aa

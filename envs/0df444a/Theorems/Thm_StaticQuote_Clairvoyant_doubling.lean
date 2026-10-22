@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticQuote_Clairvoyant_doubling
 -- name    : StaticQuote.Clairvoyant.doubling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:16:17.152728+00:00
 -- url     : https://prove2.me/theorems/81116373-0817-486a-9635-bea0a89c9b12

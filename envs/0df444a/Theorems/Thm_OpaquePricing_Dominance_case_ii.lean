@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_case_ii
 -- name    : OpaquePricing.Dominance.case_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:05.067647+00:00
 -- url     : https://prove2.me/theorems/b1e7fd59-4e06-4291-90b7-36270d541a2d

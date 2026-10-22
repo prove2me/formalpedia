@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BreakingSample_Perturbed_reward_stability
 -- name    : BreakingSample.Perturbed.reward_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:05:09.354579+00:00
 -- url     : https://prove2.me/theorems/03bfc49c-8b32-4052-a7ad-9e87dee03596

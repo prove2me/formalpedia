@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_Scaled_scaled_akkt_linear
 -- name    : StrictCQ.Scaled.scaled_akkt_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:57:55.35698+00:00
 -- url     : https://prove2.me/theorems/414b4f6f-1617-4c9f-995d-b362c7da6a46

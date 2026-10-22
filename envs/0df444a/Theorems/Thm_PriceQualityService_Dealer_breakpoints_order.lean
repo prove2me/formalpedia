@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Dealer_breakpoints_order
 -- name    : PriceQualityService.Dealer.breakpoints_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:31:59.986443+00:00
 -- url     : https://prove2.me/theorems/0447b222-17d0-486c-ba6a-74747db644e2

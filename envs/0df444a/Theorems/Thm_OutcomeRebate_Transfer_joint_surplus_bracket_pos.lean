@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutcomeRebate_Transfer_joint_surplus_bracket_pos
 -- name    : OutcomeRebate.Transfer.joint_surplus_bracket_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:12:05.932383+00:00
 -- url     : https://prove2.me/theorems/37339797-7ee2-48c1-abe4-d194c2a8ef71

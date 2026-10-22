@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdInterm_SPE_seller_optimal_reserve
 -- name    : AdInterm.SPE.seller_optimal_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:13:27.531852+00:00
 -- url     : https://prove2.me/theorems/5fba745d-cb09-4f14-8890-2b46e7fddddb

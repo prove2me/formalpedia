@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Sol_genFun_hasSum
 -- name    : KendallBD.Sol.genFun_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:25:19.743262+00:00
 -- url     : https://prove2.me/theorems/9f49c2d5-fde9-4fd0-8849-bc31240b06a9

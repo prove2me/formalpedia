@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Peeling_ineq_1
 -- name    : CClosedGraphs.Peeling.ineq_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:24.472309+00:00
 -- url     : https://prove2.me/theorems/215a40ba-b8ac-48e4-b7d6-5151b84da67b

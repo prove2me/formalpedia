@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KendallBD_Sol_geometric_solution
 -- name    : KendallBD.Sol.geometric_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:25:52.214903+00:00
 -- url     : https://prove2.me/theorems/de700cc9-c426-47e1-9a38-82c73d1bf67c

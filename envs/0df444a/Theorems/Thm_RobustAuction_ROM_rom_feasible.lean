@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustAuction_ROM_rom_feasible
 -- name    : RobustAuction.ROM.rom_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T19:33:31.298956+00:00
 -- url     : https://prove2.me/theorems/11a40665-26eb-40b2-ab21-86b9d0632eb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VRPTWColGen92_Bound_route_isPath3
 -- name    : VRPTWColGen92.Bound.route_isPath3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:24:26.313918+00:00
 -- url     : https://prove2.me/theorems/e36dae50-c4d3-408c-9c52-602240ad900c

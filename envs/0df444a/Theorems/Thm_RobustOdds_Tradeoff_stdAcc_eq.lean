@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOdds_Tradeoff_stdAcc_eq
 -- name    : RobustOdds.Tradeoff.stdAcc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:38:41.02821+00:00
 -- url     : https://prove2.me/theorems/11d2f3bd-95a3-4731-ba16-28267a157b80

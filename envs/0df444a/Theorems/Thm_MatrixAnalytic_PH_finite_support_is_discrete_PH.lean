@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_PH_finite_support_is_discrete_PH
 -- name    : MatrixAnalytic.PH.finite_support_is_discrete_PH
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:36.504049+00:00
 -- url     : https://prove2.me/theorems/234ae883-70f7-487e-9af2-03e62da85c21

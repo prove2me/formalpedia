@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_IllPosed_tikhonov_convergence_hilbert
 -- name    : NatureSLT.IllPosed.tikhonov_convergence_hilbert
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:52:51.882983+00:00
 -- url     : https://prove2.me/theorems/29d06e48-2f10-4c33-8796-1cb2622fb4c6

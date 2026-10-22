@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastBestSubset_PSI_theorem_4
 -- name    : FastBestSubset.PSI.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:51.080223+00:00
 -- url     : https://prove2.me/theorems/7794061d-7bdb-4771-84c6-4f1c98bd30ed

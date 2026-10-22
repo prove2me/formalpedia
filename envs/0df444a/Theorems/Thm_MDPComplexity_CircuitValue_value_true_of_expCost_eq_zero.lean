@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_CircuitValue_value_true_of_expCost_eq_zero
 -- name    : MDPComplexity.CircuitValue.value_true_of_expCost_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:53:21.691331+00:00
 -- url     : https://prove2.me/theorems/90dd7adc-59f4-44b2-a2f7-55da15c2e843

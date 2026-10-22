@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P31_elementaryLogarithmic_estimate
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P31.elementaryLogarithmic_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:24:58.563093+00:00
 -- url     : https://prove2.me/theorems/41053454-3345-4ddd-bc4d-33942ff8f688

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBCPCVRP_Formulation_P3_eq_P1_inter_P2
 -- name    : RobustBCPCVRP.Formulation.P3_eq_P1_inter_P2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:41:51.453299+00:00
 -- url     : https://prove2.me/theorems/1392a949-28a7-4f5f-a506-e297ab8a6e2c

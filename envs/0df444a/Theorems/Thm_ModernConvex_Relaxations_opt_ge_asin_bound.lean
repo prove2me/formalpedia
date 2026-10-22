@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Relaxations_opt_ge_asin_bound
 -- name    : ModernConvex.Relaxations.opt_ge_asin_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:42.668134+00:00
 -- url     : https://prove2.me/theorems/034e0de1-62a7-4d7a-8019-74970a65da4c

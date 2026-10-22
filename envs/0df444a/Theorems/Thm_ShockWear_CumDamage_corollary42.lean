@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShockWear_CumDamage_corollary42
 -- name    : ShockWear.CumDamage.corollary42
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:48:49.999986+00:00
 -- url     : https://prove2.me/theorems/336ca814-b57b-4a83-b282-f05a89348b8c

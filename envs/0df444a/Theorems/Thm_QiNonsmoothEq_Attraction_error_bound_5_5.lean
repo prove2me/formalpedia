@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QiNonsmoothEq_Attraction_error_bound_5_5
 -- name    : QiNonsmoothEq.Attraction.error_bound_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:21.642212+00:00
 -- url     : https://prove2.me/theorems/a62adbc3-56a0-4642-aa79-d654e7b81af2

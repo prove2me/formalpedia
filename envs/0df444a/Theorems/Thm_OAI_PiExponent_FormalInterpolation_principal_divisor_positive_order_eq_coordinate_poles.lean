@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_principal_divisor_positive_order_eq_coordinate_poles
 -- name    : OAI.PiExponent.FormalInterpolation.principal_divisor_positive_order_eq_coordinate_poles
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T03:48:20.134978+00:00
 -- url     : https://prove2.me/theorems/9ce0c0fc-7ad9-456c-a047-70ff3ceb687b

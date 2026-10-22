@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComplementsRev_Approx_proposition_5_7
 -- name    : ComplementsRev.Approx.proposition_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:53.841683+00:00
 -- url     : https://prove2.me/theorems/4ae9be8f-9838-4e81-a608-99431e3793fd

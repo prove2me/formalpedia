@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_ProductForm_jackson_conditions
 -- name    : MatrixAnalytic.ProductForm.jackson_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:27.22277+00:00
 -- url     : https://prove2.me/theorems/095fb960-6585-4e1b-86b4-57bca1689456

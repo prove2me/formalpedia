@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.polynomialCurvePole_support_subset_coordinate_poles
 -- status  : ACCEPTED   (prove)
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:42:28.722909+00:00
 -- url     : https://prove2.me/submissions/4810a270-4df8-41d3-8c96-4a763b8fee0e
 

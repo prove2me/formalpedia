@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_EntropicLimit_entropy_max_at_product
 -- name    : CompOT.EntropicLimit.entropy_max_at_product
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:26:28.431751+00:00
 -- url     : https://prove2.me/theorems/14c6da53-edb7-4801-8c44-91b17871f259

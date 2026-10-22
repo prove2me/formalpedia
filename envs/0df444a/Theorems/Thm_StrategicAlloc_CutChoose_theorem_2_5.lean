@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_CutChoose_theorem_2_5
 -- name    : StrategicAlloc.CutChoose.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:36:39.282504+00:00
 -- url     : https://prove2.me/theorems/ce17a3ec-7a86-4b0b-8982-bcb43d6f8c00

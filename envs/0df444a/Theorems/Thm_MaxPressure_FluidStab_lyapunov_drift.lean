@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_FluidStab_lyapunov_drift
 -- name    : MaxPressure.FluidStab.lyapunov_drift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:54:57.054935+00:00
 -- url     : https://prove2.me/theorems/728648e5-059c-4473-80a3-1f51d48bc2fd

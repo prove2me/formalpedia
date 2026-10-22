@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PromoMulti_PairwiseExact_eq_15
 -- name    : PromoMulti.PairwiseExact.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:50.471971+00:00
 -- url     : https://prove2.me/theorems/af77382c-3251-4d85-bfe0-1c13e63ccc19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Milne_idempotent_split
 -- name    : Milne.idempotent_split
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-20T03:10:00.85155+00:00
 -- url     : https://prove2.me/theorems/724ee26f-e136-4632-a3b0-f6a25628e70a

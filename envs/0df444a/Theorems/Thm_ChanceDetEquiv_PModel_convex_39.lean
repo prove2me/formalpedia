@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanceDetEquiv_PModel_convex_39
 -- name    : ChanceDetEquiv.PModel.convex_39
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:58:18.336634+00:00
 -- url     : https://prove2.me/theorems/a073455e-86e1-4e16-b927-7e6b12f644c4

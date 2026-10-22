@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_Approx_proposition7_half_approx
 -- name    : MultiStoreAssort.Approx.proposition7_half_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:17:01.03899+00:00
 -- url     : https://prove2.me/theorems/bdff2736-fdab-404d-8a09-3a6e1cd3bc06

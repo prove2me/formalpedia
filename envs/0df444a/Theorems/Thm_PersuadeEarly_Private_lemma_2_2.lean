@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersuadeEarly_Private_lemma_2_2
 -- name    : PersuadeEarly.Private.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:28:19.542413+00:00
 -- url     : https://prove2.me/theorems/68f611c2-20db-4d7a-b666-65646754532f

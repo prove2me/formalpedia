@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FenchelRobust_Counterpart_eq_13_15_duality
 -- name    : FenchelRobust.Counterpart.eq_13_15_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T09:29:41.475356+00:00
 -- url     : https://prove2.me/theorems/efd408b5-d58d-4180-a8d5-ca3593311643

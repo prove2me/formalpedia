@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoherentSDDP_Inner_convexity_of_coherent
 -- name    : CoherentSDDP.Inner.convexity_of_coherent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:11:12.784997+00:00
 -- url     : https://prove2.me/theorems/143f235d-fd07-40a3-8d62-8e4fad409bcf

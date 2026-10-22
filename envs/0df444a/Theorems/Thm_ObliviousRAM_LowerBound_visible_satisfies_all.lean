@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObliviousRAM_LowerBound_visible_satisfies_all
 -- name    : ObliviousRAM.LowerBound.visible_satisfies_all
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:10:01.923606+00:00
 -- url     : https://prove2.me/theorems/5b3020a0-0069-429e-99e0-7e14d4708d56

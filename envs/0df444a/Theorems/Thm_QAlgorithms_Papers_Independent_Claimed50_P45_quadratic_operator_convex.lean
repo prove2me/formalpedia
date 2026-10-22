@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P45_quadratic_operator_convex
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P45.quadratic_operator_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:15:28.717209+00:00
 -- url     : https://prove2.me/theorems/8d4c1aa0-ca0d-4f00-8204-38936f93a38e

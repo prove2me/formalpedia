@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MifflinSemismooth_Optimality_theorem9
 -- name    : MifflinSemismooth.Optimality.theorem9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:48:10.952025+00:00
 -- url     : https://prove2.me/theorems/e31be100-2b28-475b-ae98-f56b68ff7442

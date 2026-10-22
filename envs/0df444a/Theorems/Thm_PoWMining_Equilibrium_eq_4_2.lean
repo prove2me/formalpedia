@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_Equilibrium_eq_4_2
 -- name    : PoWMining.Equilibrium.eq_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:06.294269+00:00
 -- url     : https://prove2.me/theorems/ef05d4b3-d1fb-4f28-91dc-22af9f0d76e8

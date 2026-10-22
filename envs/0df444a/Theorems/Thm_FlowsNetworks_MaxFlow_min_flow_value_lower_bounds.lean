@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_min_flow_value_lower_bounds
 -- name    : FlowsNetworks.MaxFlow.min_flow_value_lower_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:04.706579+00:00
 -- url     : https://prove2.me/theorems/9cbd7430-291c-4455-a29d-f1328f664d27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_NonAbelian_eq14_STB_le
 -- name    : PlunneckeType.NonAbelian.eq14_STB_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:33.486914+00:00
 -- url     : https://prove2.me/theorems/09d7bfbf-293c-4ac0-a73e-3f5a78eaa0d9

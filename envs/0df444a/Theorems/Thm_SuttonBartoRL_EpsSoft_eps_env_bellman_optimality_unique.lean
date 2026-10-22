@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_EpsSoft_eps_env_bellman_optimality_unique
 -- name    : SuttonBartoRL.EpsSoft.eps_env_bellman_optimality_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T12:39:05.557985+00:00
 -- url     : https://prove2.me/theorems/9e32f627-5bea-4c6f-829c-5761f668cedd

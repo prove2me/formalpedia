@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuspensionContract_HighCostC2_lemma_EC_2_vi_equiv
 -- name    : SuspensionContract.HighCostC2.lemma_EC_2_vi_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:28.954031+00:00
 -- url     : https://prove2.me/theorems/7bb2c12f-396d-4fc6-a58a-fb88737a3e16

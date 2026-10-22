@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P35_coherentExpressionSmallPower
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P35.coherentExpressionSmallPower
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:40:26.796425+00:00
 -- url     : https://prove2.me/theorems/7d6519e2-f270-40ae-8b2a-b24ed23faca6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_Inertial_lemma_4_1
 -- name    : FRBSplitting.Inertial.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:41.359983+00:00
 -- url     : https://prove2.me/theorems/4cddd837-24a0-49f7-aebf-65b74493c94c

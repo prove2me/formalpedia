@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PetruzziDada_Additive_appendix_endpoints
 -- name    : PetruzziDada.Additive.appendix_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:49:15.018145+00:00
 -- url     : https://prove2.me/theorems/97bf996b-10e3-4636-b455-73c419e67dc4

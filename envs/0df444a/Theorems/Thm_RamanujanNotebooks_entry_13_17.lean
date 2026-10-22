@@ -7,11 +7,9 @@
 -- title:
 --   The Abel–Plana summation formula on a finite range of integers
 -- statement:
---   Let $a\le n$ be nonnegative integers and let $\varphi$ be analytic at every point of the strip $a\le\operatorname{Re}z\le n$, with $|\varphi(x\pm iy)|e^{-2\pi y}\to0$ as $y\to\infty$ uniformly for $a\le x\le n$. Assume that $u\mapsto\frac{\varphi(n+iu)-\varphi(n-iu)-\varphi(a+iu)+\varphi(a-iu)}{e^{2\pi u}-1}$ is integrable on $(0,\infty)$. Then $$\sum_{k=a}^n\varphi(k)=\int_a^n\varphi(u)\,du+\tfrac12\{\varphi(a)+\varphi(n)\}-i\int_0^\infty\frac{\varphi(n+iu)-\varphi(n-iu)-\varphi(a+iu)+\varphi(a-iu)}{e^{2\pi u}-1}du.$$ Differs from the printed source: the integrability of the last integrand is added by us.
---
---   **Discrepancy from the printed source.** Book, pp. 220–221: φ analytic for a ≤ Re z ≤ n and lim_{y→∞} |φ(x ± iy)| e^{-2πy} = 0 uniformly for a ≤ x ≤ n; no condition on the integral over (0, ∞). Our statement adds the integrability of the combined integrand (φ(n+iu) − φ(n−iu) − φ(a+iu) + φ(a−iu))/(e^{2πu} − 1) on (0, ∞) (the growth condition alone does not give it), reads 'analytic on the closed strip' as analytic at each of its points, and writes the uniform limit with ε and Y. Additions by us (the book's Lemma of Section 18 carries the analogous proviso 'provided that the integrals below exist').
+--   Let $a\le n$ be nonnegative integers and let $\varphi$ be analytic at every point of the strip $a\le\operatorname{Re}z\le n$, with $|\varphi(x\pm iy)|e^{-2\pi y}\to0$ as $y\to\infty$ uniformly for $a\le x\le n$. Assume that $u\mapsto\frac{\varphi(n+iu)-\varphi(n-iu)-\varphi(a+iu)+\varphi(a-iu)}{e^{2\pi u}-1}$ is integrable on $(0,\infty)$. Then $$\sum_{k=a}^n\varphi(k)=\int_a^n\varphi(u)\,du+\tfrac12\{\varphi(a)+\varphi(n)\}-i\int_0^\infty\frac{\varphi(n+iu)-\varphi(n-iu)-\varphi(a+iu)+\varphi(a-iu)}{e^{2\pi u}-1}du.$$ Differs from the printed source: The source gives the hypotheses on p. 220 and equation (17.1) on p. 221. We additionally require Lebesgue integrability of the combined vertical-line integrand. Analyticity is required at each point of the closed strip, and the stated decay is uniform across that strip. The later Lemma in Section 18 separately requires its two integrals to exist.
 -- source:
---   Bruce C. Berndt, Ramanujan's Notebooks, Part II (Springer, 1989), Chapter 13, Entry 17, p. 220, eq. (17.1).
+--   Bruce C. Berndt, Ramanujan's Notebooks, Part II (Springer, 1989), Chapter 13, Entry 17, pp. 220–221, equation (17.1) on p. 221.
 
 import Mathlib
 

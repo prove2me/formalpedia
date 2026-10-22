@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_DerivedMDP_theorem_4_1
 -- name    : StableFA.DerivedMDP.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:16.077199+00:00
 -- url     : https://prove2.me/theorems/436228fd-5c31-4ed3-addc-ff3a12de822b

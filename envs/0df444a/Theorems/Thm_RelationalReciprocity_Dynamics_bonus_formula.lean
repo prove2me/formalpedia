@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelationalReciprocity_Dynamics_bonus_formula
 -- name    : RelationalReciprocity.Dynamics.bonus_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:17:31.775688+00:00
 -- url     : https://prove2.me/theorems/d2975f68-2e46-463d-bf86-755f2d689fbf

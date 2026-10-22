@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveCubic_SecondOrder_theorem_2_1
 -- name    : AdaptiveCubic.SecondOrder.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:40:07.711364+00:00
 -- url     : https://prove2.me/theorems/be06da85-5880-4384-8893-b462cb4a9ab3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_eqA5_K_signs
 -- name    : CommonOwnership.Governance.eqA5_K_signs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:50.396947+00:00
 -- url     : https://prove2.me/theorems/edbdd48b-b504-4ea8-8286-bdd5512e3bb4

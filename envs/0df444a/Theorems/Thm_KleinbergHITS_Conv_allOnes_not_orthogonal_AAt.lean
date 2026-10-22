@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleinbergHITS_Conv_allOnes_not_orthogonal_AAt
 -- name    : KleinbergHITS.Conv.allOnes_not_orthogonal_AAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:19:20.021018+00:00
 -- url     : https://prove2.me/theorems/4e4da411-70c3-452a-99c0-d68145d47069

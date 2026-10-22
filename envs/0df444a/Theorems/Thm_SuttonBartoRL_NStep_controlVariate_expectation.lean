@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_NStep_controlVariate_expectation
 -- name    : SuttonBartoRL.NStep.controlVariate_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:58:58.395313+00:00
 -- url     : https://prove2.me/theorems/f794de53-6b28-47db-b784-a699b9e11c55

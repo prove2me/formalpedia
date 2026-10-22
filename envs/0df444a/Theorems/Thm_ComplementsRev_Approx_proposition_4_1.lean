@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComplementsRev_Approx_proposition_4_1
 -- name    : ComplementsRev.Approx.proposition_4_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:55.522146+00:00
 -- url     : https://prove2.me/theorems/cde1c33d-09c3-4416-a653-c6ec9b64438d

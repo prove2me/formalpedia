@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.function_divisor_le_weighted_poles
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-21T03:57:53.384389+00:00
 -- url     : https://prove2.me/submissions/74663ff6-2c3a-4598-9442-2d972c4f51d4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_principal_divisor_positive_order_eq_coordinate_poles
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_coordinate_pole_divisor_le_weighted

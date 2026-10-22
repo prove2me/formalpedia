@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinExchangeSP_Revealed_lemma_3_4
 -- name    : LinExchangeSP.Revealed.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:20.614322+00:00
 -- url     : https://prove2.me/theorems/09dea6e3-b107-46ae-a8d5-5ea8e8459acc

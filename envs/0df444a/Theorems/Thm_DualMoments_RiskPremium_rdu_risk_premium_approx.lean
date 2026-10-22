@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualMoments_RiskPremium_rdu_risk_premium_approx
 -- name    : DualMoments.RiskPremium.rdu_risk_premium_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:39:43.13097+00:00
 -- url     : https://prove2.me/theorems/2826fb12-6a24-4c58-9499-a10212d0f7db

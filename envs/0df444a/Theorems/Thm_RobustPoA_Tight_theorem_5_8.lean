@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Tight_theorem_5_8
 -- name    : RobustPoA.Tight.theorem_5_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:50:04.778632+00:00
 -- url     : https://prove2.me/theorems/4f65c113-e3dd-4331-a1ee-c46348f6d418

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NatureSLT_Margin_optimal_norm_eq_dual
 -- name    : NatureSLT.Margin.optimal_norm_eq_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:51:42.871717+00:00
 -- url     : https://prove2.me/theorems/cb3e1381-ddbf-4cf6-9f5c-dfbe9037f04f

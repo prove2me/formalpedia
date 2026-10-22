@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumEcon_Duopoly_eq11_12_intercept_effect
 -- name    : QuantumEcon.Duopoly.eq11_12_intercept_effect
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:42:07.70562+00:00
 -- url     : https://prove2.me/theorems/76586acc-14c5-4166-8eb0-40f37b4bb22e

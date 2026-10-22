@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_Value_thm31_type_bound
 -- name    : CustAssort.Value.thm31_type_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:28.388019+00:00
 -- url     : https://prove2.me/theorems/1138d10e-a4ac-4273-9a6e-5abbd2ae6c40

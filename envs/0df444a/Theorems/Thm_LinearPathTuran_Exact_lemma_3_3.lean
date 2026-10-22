@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearPathTuran_Exact_lemma_3_3
 -- name    : LinearPathTuran.Exact.lemma_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:22:15.198408+00:00
 -- url     : https://prove2.me/theorems/2c411fb4-4d72-4e9d-ace4-8d6fc2fea017

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialManip_Beliefs_theorem_2
 -- name    : SocialManip.Beliefs.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:13.299967+00:00
 -- url     : https://prove2.me/theorems/d043855d-4e0a-46c0-9b3e-eeebebf4b339

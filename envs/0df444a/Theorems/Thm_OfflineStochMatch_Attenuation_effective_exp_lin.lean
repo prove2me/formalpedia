@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflineStochMatch_Attenuation_effective_exp_lin
 -- name    : OfflineStochMatch.Attenuation.effective_exp_lin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:29:54.961322+00:00
 -- url     : https://prove2.me/theorems/766305dc-0e9c-4d66-844f-0d51aff09c7d

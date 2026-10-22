@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RunIntersect_Strict_MP_subset_MPLP
 -- name    : RunIntersect.Strict.MP_subset_MPLP
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:35:33.492685+00:00
 -- url     : https://prove2.me/theorems/4c8c42b5-0674-4f97-b09d-077e780a42fc

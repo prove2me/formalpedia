@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcureAssort_Hotelling_lemma_F_3
 -- name    : ProcureAssort.Hotelling.lemma_F_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:30:59.2717+00:00
 -- url     : https://prove2.me/theorems/6ef1c36b-01b6-44de-bf10-5ceaa6687d16

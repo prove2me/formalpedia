@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolleyLiggett_Duality_eq_2_5
 -- name    : HolleyLiggett.Duality.eq_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:40:42.206253+00:00
 -- url     : https://prove2.me/theorems/bf0dd51a-5cdd-4cce-8cf5-a90111fd26f6

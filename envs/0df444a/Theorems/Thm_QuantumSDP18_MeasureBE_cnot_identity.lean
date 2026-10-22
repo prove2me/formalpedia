@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumSDP18_MeasureBE_cnot_identity
 -- name    : QuantumSDP18.MeasureBE.cnot_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:33.630986+00:00
 -- url     : https://prove2.me/theorems/58aa5873-e5d2-45d7-b17e-31e27a3df9e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommittedLiquidity_BreakEven_proposition_3
 -- name    : CommittedLiquidity.BreakEven.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:46:54.280986+00:00
 -- url     : https://prove2.me/theorems/edcafbcd-d101-42d5-bea4-2779c3ba3b42

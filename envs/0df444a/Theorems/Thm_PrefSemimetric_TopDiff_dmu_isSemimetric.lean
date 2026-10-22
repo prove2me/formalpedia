@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrefSemimetric_TopDiff_dmu_isSemimetric
 -- name    : PrefSemimetric.TopDiff.dmu_isSemimetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:25.462026+00:00
 -- url     : https://prove2.me/theorems/2d806200-01a2-4fe5-b953-e66da3274ad6

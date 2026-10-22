@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittEfficiency_MMs_proposition_3_1
 -- name    : WhittEfficiency.MMs.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:18.003933+00:00
 -- url     : https://prove2.me/theorems/50d257b4-7edc-46a1-971f-52a7a18f7d12

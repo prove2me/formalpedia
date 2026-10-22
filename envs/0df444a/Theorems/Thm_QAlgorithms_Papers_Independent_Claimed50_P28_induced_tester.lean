@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_induced_tester
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.induced_tester
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:16:02.020143+00:00
 -- url     : https://prove2.me/theorems/8412f659-c984-48f3-80b2-072d81e4c555

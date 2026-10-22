@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_WSR_ucb_lt_imp_max_ge
 -- name    : RiskControl.WSR.ucb_lt_imp_max_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:36:48.660921+00:00
 -- url     : https://prove2.me/theorems/6d36424c-6094-4a57-980d-9408f2b57e04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_CQRepr_polar_cqr
 -- name    : ModernConvex.CQRepr.polar_cqr
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:33.112145+00:00
 -- url     : https://prove2.me/theorems/7ee6cc84-6369-4204-a9d9-a31f57c0b414

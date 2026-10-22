@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPHardness_OrderPolytope_secondStage_value
 -- name    : SPHardness.OrderPolytope.secondStage_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:10:18.134009+00:00
 -- url     : https://prove2.me/theorems/2513392a-1fb4-4fb2-82c8-c52669ba1b5b

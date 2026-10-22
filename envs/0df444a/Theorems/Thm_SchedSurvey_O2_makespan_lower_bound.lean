@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedSurvey_O2_makespan_lower_bound
 -- name    : SchedSurvey.O2.makespan_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:49:10.537463+00:00
 -- url     : https://prove2.me/theorems/05c9568e-04fc-46b5-9b18-3f6eac4f49cd

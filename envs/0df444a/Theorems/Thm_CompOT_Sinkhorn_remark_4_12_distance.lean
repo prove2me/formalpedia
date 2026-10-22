@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Sinkhorn_remark_4_12_distance
 -- name    : CompOT.Sinkhorn.remark_4_12_distance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:12.115464+00:00
 -- url     : https://prove2.me/theorems/c6e6f335-b3ad-44ec-8247-b936555db108

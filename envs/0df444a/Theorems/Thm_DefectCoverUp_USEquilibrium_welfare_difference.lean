@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DefectCoverUp_USEquilibrium_welfare_difference
 -- name    : DefectCoverUp.USEquilibrium.welfare_difference
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:17:25.716981+00:00
 -- url     : https://prove2.me/theorems/e6a66f0e-81a0-41ba-aacd-7b8f243bca06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtADMM_Orth_F_monotone
 -- name    : ExtADMM.Orth.F_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:23.708551+00:00
 -- url     : https://prove2.me/theorems/f40dfb40-c6d3-4907-b909-13f079b046a2

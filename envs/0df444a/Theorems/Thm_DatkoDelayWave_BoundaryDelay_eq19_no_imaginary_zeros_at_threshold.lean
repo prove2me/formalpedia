@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_eq19_no_imaginary_zeros_at_threshold
 -- name    : DatkoDelayWave.BoundaryDelay.eq19_no_imaginary_zeros_at_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T02:59:20.967975+00:00
 -- url     : https://prove2.me/theorems/7c6f378e-278c-48f7-bf92-01d09d4ed7bf

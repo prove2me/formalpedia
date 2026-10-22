@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_PrefMatch_source_prob_range
 -- name    : SourceTheory.PrefMatch.source_prob_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:10.557668+00:00
 -- url     : https://prove2.me/theorems/63ae20be-4484-4fb1-8a2f-57308c72fe71

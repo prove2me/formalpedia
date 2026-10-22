@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Basic_nonempty_iff_schur_psd
 -- name    : QuadMatIneq.Basic.nonempty_iff_schur_psd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:04.79612+00:00
 -- url     : https://prove2.me/theorems/889593a6-6864-4ba4-9ca7-ee38ff867817

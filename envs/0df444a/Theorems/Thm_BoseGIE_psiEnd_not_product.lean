@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoseGIE_psiEnd_not_product
 -- name    : BoseGIE.psiEnd_not_product
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-11T19:26:57.363652+00:00
 -- url     : https://prove2.me/theorems/78642892-82d6-43c7-9304-f1aefbc24cd0

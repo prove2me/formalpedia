@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_lp_duality_theorem
 -- name    : ModernConvex.LPDuality.lp_duality_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:32:26.159493+00:00
 -- url     : https://prove2.me/theorems/31245a35-217d-4cb4-a313-8e05ce8e3aaf

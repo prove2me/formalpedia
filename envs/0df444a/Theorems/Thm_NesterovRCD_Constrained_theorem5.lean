@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_Constrained_theorem5
 -- name    : NesterovRCD.Constrained.theorem5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:13:56.282545+00:00
 -- url     : https://prove2.me/theorems/375da3aa-4ecb-4cfd-b533-64fb8bf864ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_eq_B_4
 -- name    : IQCAlg.HeavyBall.eq_B_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:20:52.304984+00:00
 -- url     : https://prove2.me/theorems/2c305310-5af2-4ef8-b47b-e31e664d103c

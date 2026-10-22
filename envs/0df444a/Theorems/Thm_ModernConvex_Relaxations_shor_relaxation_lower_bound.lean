@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Relaxations_shor_relaxation_lower_bound
 -- name    : ModernConvex.Relaxations.shor_relaxation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:53.883016+00:00
 -- url     : https://prove2.me/theorems/7602f5a0-c1e7-439e-9ea6-8cc6fcff2a57

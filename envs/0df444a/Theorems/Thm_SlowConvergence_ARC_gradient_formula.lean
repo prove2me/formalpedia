@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_ARC_gradient_formula
 -- name    : SlowConvergence.ARC.gradient_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:06.293634+00:00
 -- url     : https://prove2.me/theorems/511ff82d-b95d-49b7-8b94-d30b2e8d6f52

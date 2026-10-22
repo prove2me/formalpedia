@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_EllipsoidMethod_ellipsoid_method_complexity
 -- name    : ModernConvex.EllipsoidMethod.ellipsoid_method_complexity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:35:02.493331+00:00
 -- url     : https://prove2.me/theorems/5b069264-aa87-4acc-837e-a5ba48081917

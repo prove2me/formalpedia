@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexAG_Smooth_lemma_1
 -- name    : NonconvexAG.Smooth.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:43:45.692691+00:00
 -- url     : https://prove2.me/theorems/182f7114-6dbf-4a41-a1ab-6688e0f2fdba

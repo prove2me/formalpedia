@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Ellipsoids_det_sym_add_skew
 -- name    : ModernConvex.Ellipsoids.det_sym_add_skew
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:12.775733+00:00
 -- url     : https://prove2.me/theorems/8f0e0704-e205-4ea8-9978-74bb051bf8fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Duality_sec_3_2_ctransform_admissible
 -- name    : CompOT.Duality.sec_3_2_ctransform_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:31.255685+00:00
 -- url     : https://prove2.me/theorems/3ae16870-85d8-4ef5-a201-8037a9417d7f

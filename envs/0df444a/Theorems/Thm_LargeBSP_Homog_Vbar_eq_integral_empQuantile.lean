@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LargeBSP_Homog_Vbar_eq_integral_empQuantile
 -- name    : LargeBSP.Homog.Vbar_eq_integral_empQuantile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T20:08:51.885996+00:00
 -- url     : https://prove2.me/theorems/d6f7748e-c687-445f-b519-62b1e360bf4e

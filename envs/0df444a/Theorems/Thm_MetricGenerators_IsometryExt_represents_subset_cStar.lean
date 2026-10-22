@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_IsometryExt_represents_subset_cStar
 -- name    : MetricGenerators.IsometryExt.represents_subset_cStar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:45.986597+00:00
 -- url     : https://prove2.me/theorems/7c90ad6c-6030-4812-a336-260ce5e24e25

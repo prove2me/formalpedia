@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BundledExpansion_SeqSim_case_2_split
 -- name    : BundledExpansion.SeqSim.case_2_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:03.463076+00:00
 -- url     : https://prove2.me/theorems/b484c4b8-4171-4f9d-a6da-6e13af793e73

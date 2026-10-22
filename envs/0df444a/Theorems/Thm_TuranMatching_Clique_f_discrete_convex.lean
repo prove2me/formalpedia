@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TuranMatching_Clique_f_discrete_convex
 -- name    : TuranMatching.Clique.f_discrete_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:30:33.368004+00:00
 -- url     : https://prove2.me/theorems/22be9f60-bb1c-43a8-9159-2d5a3ace0868

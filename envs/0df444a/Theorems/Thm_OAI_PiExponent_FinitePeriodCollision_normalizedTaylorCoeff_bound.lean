@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FinitePeriodCollision_normalizedTaylorCoeff_bound
 -- name    : OAI.PiExponent.FinitePeriodCollision.normalizedTaylorCoeff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T08:12:42.657416+00:00
 -- url     : https://prove2.me/theorems/e2cd8950-6e0d-4b87-988f-9abe86bccf53

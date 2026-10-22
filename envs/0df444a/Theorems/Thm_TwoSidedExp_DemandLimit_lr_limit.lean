@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedExp_DemandLimit_lr_limit
 -- name    : TwoSidedExp.DemandLimit.lr_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:29:37.862331+00:00
 -- url     : https://prove2.me/theorems/3264ff18-68b7-4466-8504-84efe7aea3fd

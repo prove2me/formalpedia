@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxAlg_FixedPoint_prox_optimality
 -- name    : ProxAlg.FixedPoint.prox_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:05.385989+00:00
 -- url     : https://prove2.me/theorems/65d426e4-f746-40e4-bc6a-f82bf46417f0

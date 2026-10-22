@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Linear_b7_monotone
 -- name    : SampleDrivenOS.Linear.b7_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:22.271782+00:00
 -- url     : https://prove2.me/theorems/ff3cd208-40a1-41d0-8110-063390e1d9dd

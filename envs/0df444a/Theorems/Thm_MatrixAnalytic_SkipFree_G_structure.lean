@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_SkipFree_G_structure
 -- name    : MatrixAnalytic.SkipFree.G_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:48:36.040047+00:00
 -- url     : https://prove2.me/theorems/b764c432-d88a-40ab-a227-a5195b079f31

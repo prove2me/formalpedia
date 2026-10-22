@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgriChain_LandAlloc_theorem_6
 -- name    : AgriChain.LandAlloc.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:47:09.876389+00:00
 -- url     : https://prove2.me/theorems/7d1e4d95-6e5f-4ef0-aa92-6f72d0ba60c2

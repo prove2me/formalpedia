@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_FiniteHorizon_eq15_pure_actions
 -- name    : RobustDP.FiniteHorizon.eq15_pure_actions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:28.913444+00:00
 -- url     : https://prove2.me/theorems/bbf61a8d-c999-40e7-8fd8-54e3e233a4bc

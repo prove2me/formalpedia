@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_Schur_nonsingular_of_inv_lipschitz
 -- name    : RobinsonSR.Schur.nonsingular_of_inv_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:12.870038+00:00
 -- url     : https://prove2.me/theorems/6be3786e-5305-4787-89af-a730d79130a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_NoUniform_poa_costNormalize
 -- name    : SensitivityPoA.NoUniform.poa_costNormalize
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:06.173855+00:00
 -- url     : https://prove2.me/theorems/f0f620a6-f22f-4412-b493-f493ff73df2d

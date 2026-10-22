@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_Discounted_lemma3_dynamic_static
 -- name    : RobustDP.Discounted.lemma3_dynamic_static
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:47:16.316981+00:00
 -- url     : https://prove2.me/theorems/a3b18358-4d76-493f-a33a-314ace06e788

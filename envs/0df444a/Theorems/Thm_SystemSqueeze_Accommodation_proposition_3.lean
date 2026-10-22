@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SystemSqueeze_Accommodation_proposition_3
 -- name    : SystemSqueeze.Accommodation.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:21.174987+00:00
 -- url     : https://prove2.me/theorems/17c309d6-d5e1-4079-8730-6e6aa6a8d4ce

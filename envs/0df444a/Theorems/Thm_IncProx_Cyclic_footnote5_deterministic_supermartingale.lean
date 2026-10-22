@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncProx_Cyclic_footnote5_deterministic_supermartingale
 -- name    : IncProx.Cyclic.footnote5_deterministic_supermartingale
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:38:30.021847+00:00
 -- url     : https://prove2.me/theorems/52421cba-2f02-4648-98f3-cdfa9f9dedec

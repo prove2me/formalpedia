@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SourceTheory_Uniform_eq_B_1
 -- name    : SourceTheory.Uniform.eq_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:05.521994+00:00
 -- url     : https://prove2.me/theorems/44be391c-152a-4b5f-8e61-b1776ade5b12

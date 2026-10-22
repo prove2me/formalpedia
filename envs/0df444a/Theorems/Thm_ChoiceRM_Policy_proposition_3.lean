@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_Policy_proposition_3
 -- name    : ChoiceRM.Policy.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:46:16.216669+00:00
 -- url     : https://prove2.me/theorems/7d1b43d9-3268-48c9-990f-a88a9c47bed0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BoolWidth_exists_subtree_leaves_between
 -- name    : TwinWidthI.BoolWidth.exists_subtree_leaves_between
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:36.953913+00:00
 -- url     : https://prove2.me/theorems/5d945337-3391-4db4-932e-996aaf1ea7e8

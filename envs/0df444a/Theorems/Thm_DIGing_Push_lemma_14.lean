@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DIGing_Push_lemma_14
 -- name    : DIGing.Push.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:35.889668+00:00
 -- url     : https://prove2.me/theorems/3b552621-d00e-45d8-bea2-6328a9bd1c31

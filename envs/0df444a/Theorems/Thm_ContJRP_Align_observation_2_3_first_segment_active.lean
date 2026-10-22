@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContJRP_Align_observation_2_3_first_segment_active
 -- name    : ContJRP.Align.observation_2_3_first_segment_active
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T20:52:32.761955+00:00
 -- url     : https://prove2.me/theorems/a160a678-f538-4f9c-93e9-53b9dc3306f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_EFXTwoThirds_theorem_4_7
 -- name    : StrategicAlloc.EFXTwoThirds.theorem_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T15:58:16.460733+00:00
 -- url     : https://prove2.me/theorems/4b3794e4-fa6b-46bc-8965-6eac2f5721a7

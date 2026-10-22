@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipkinLostSales_Bounds_lemma_7
 -- name    : ZipkinLostSales.Bounds.lemma_7
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:26:15.397993+00:00
 -- url     : https://prove2.me/theorems/7cb4a862-abf0-4185-ae25-77e9e7efdb22

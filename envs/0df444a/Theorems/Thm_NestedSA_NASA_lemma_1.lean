@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSA_NASA_lemma_1
 -- name    : NestedSA.NASA.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:38:48.724508+00:00
 -- url     : https://prove2.me/theorems/1ea98200-0de9-464d-9797-765b183e704c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_Sparsity_theorem_5_prime_first_display
 -- name    : RobustRegLasso.Sparsity.theorem_5_prime_first_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:15:20.129977+00:00
 -- url     : https://prove2.me/theorems/6b4c0fac-0b48-4e11-8320-efd581dcf534

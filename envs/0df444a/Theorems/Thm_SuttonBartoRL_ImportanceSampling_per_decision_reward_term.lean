@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_ImportanceSampling_per_decision_reward_term
 -- name    : SuttonBartoRL.ImportanceSampling.per_decision_reward_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T13:50:36.490218+00:00
 -- url     : https://prove2.me/theorems/63f0e051-b9df-4345-8ce3-6e096f4780df

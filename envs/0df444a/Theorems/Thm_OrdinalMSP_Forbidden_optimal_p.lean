@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalMSP_Forbidden_optimal_p
 -- name    : OrdinalMSP.Forbidden.optimal_p
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:19:38.39678+00:00
 -- url     : https://prove2.me/theorems/151c2704-e6b7-47c0-8f54-7840deba31ec

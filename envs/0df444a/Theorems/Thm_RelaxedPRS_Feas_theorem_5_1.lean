@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxedPRS_Feas_theorem_5_1
 -- name    : RelaxedPRS.Feas.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:22:50.589822+00:00
 -- url     : https://prove2.me/theorems/950bdca8-6946-4fe7-9d3a-3d266c511cb0

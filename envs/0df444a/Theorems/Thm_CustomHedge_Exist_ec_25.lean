@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomHedge_Exist_ec_25
 -- name    : CustomHedge.Exist.ec_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:17:48.624954+00:00
 -- url     : https://prove2.me/theorems/4dd63a36-0456-4aea-bebe-712829ba4685

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_Branching_return_eq_coeffSum_expansion
 -- name    : AllocationIndices.Branching.return_eq_coeffSum_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:39:06.113303+00:00
 -- url     : https://prove2.me/theorems/76ce0c51-6cc0-4cd1-b9c1-7e9f926a8325

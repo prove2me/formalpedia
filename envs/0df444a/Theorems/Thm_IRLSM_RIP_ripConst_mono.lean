@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IRLSM_RIP_ripConst_mono
 -- name    : IRLSM.RIP.ripConst_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:43:46.456129+00:00
 -- url     : https://prove2.me/theorems/497cd210-a28f-4930-962f-8b071e6cf2a7

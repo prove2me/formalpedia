@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_CircuitValue_exists_expCost_eq_zero
 -- name    : MDPComplexity.CircuitValue.exists_expCost_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:53:27.040153+00:00
 -- url     : https://prove2.me/theorems/0fb2aa7d-3462-4611-8bfc-9ef86826e09d

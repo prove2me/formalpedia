@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterpOptStop_SAA_fixed_policy_slln
 -- name    : InterpOptStop.SAA.fixed_policy_slln
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:50.698306+00:00
 -- url     : https://prove2.me/theorems/0a78fa5a-d522-47e5-bf36-f810c15a12c9

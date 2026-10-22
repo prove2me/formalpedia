@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_mul_eq_zero_of_trace_mul_eq_zero
 -- name    : PhaseCut.Tight.mul_eq_zero_of_trace_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:40:57.811983+00:00
 -- url     : https://prove2.me/theorems/f681c2e0-18ba-453d-b933-a905956e26e3

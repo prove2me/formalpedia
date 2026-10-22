@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Geometry_neighborhood_bounded
 -- name    : YeIPA.Geometry.neighborhood_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:00.012677+00:00
 -- url     : https://prove2.me/theorems/15a53ffe-2d14-401b-98dd-bf5edf8ebe09

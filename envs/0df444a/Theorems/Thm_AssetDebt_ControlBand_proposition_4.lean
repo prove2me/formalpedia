@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssetDebt_ControlBand_proposition_4
 -- name    : AssetDebt.ControlBand.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:14:01.406927+00:00
 -- url     : https://prove2.me/theorems/c939105c-4e72-41a5-be71-6bc5f08763d3

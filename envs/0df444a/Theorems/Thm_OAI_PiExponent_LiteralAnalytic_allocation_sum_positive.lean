@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_allocation_sum_positive
 -- name    : OAI.PiExponent.LiteralAnalytic.allocation_sum_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:14:01.414116+00:00
 -- url     : https://prove2.me/theorems/7ee24706-a632-4fee-a841-52850e015fa0

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_IntMul_Kappa_histMoment_one
 -- name    : IntMul.Kappa.histMoment_one
 -- status  : Proved
--- author  : @Ethan
+-- author  : @Ethan Cheung
 -- created : 2026-10-21T05:38:40.363995+00:00
 -- url     : https://prove2.me/theorems/2d3819ab-694b-45a3-b29e-8daa77c9c42e
 -- title:

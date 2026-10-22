@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimisticPSRL_Diameter_travelTime_le_of_supersolution
 -- name    : OptimisticPSRL.Diameter.travelTime_le_of_supersolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:39:50.718983+00:00
 -- url     : https://prove2.me/theorems/15b2db5c-7221-4435-b60d-9e9f736f7d0f

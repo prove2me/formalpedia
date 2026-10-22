@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_ScarceFleet_lemma3_rho_strictConvex
 -- name    : TeleDriving.ScarceFleet.lemma3_rho_strictConvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:05.878216+00:00
 -- url     : https://prove2.me/theorems/32520eee-cc83-4e9c-a951-1445669483d2

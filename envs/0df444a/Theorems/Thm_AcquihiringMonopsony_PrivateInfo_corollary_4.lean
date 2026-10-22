@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_PrivateInfo_corollary_4
 -- name    : AcquihiringMonopsony.PrivateInfo.corollary_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:08:54.999615+00:00
 -- url     : https://prove2.me/theorems/dfbf62fe-29d9-4882-b1b4-b3ed8782b2f3

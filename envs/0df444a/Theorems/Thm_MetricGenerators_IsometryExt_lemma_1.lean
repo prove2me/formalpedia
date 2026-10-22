@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_IsometryExt_lemma_1
 -- name    : MetricGenerators.IsometryExt.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:36.494032+00:00
 -- url     : https://prove2.me/theorems/ad3354c5-a2a6-48b5-aa2c-870fae5312e0

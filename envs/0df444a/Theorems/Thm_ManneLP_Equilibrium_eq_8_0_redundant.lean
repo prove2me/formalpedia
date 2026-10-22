@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_eq_8_0_redundant
 -- name    : ManneLP.Equilibrium.eq_8_0_redundant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:11:18.83571+00:00
 -- url     : https://prove2.me/theorems/b64c9482-13a1-4f2f-8a1f-fcf62c36b453

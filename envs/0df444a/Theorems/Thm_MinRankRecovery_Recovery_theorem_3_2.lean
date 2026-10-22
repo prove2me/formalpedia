@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinRankRecovery_Recovery_theorem_3_2
 -- name    : MinRankRecovery.Recovery.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:32.107078+00:00
 -- url     : https://prove2.me/theorems/0bce62e5-c676-4552-a643-66364b83a69c

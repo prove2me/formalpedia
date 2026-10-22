@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_NWDual_beta_elimination
 -- name    : BootRobust.NWDual.beta_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:13:04.019989+00:00
 -- url     : https://prove2.me/theorems/7745e60b-81d9-49bb-8b05-318f76ea6644

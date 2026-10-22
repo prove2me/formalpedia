@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_coordinateWeightedPole_support_finite
 -- name    : OAI.PiExponent.FormalInterpolation.coordinateWeightedPole_support_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T04:24:47.785488+00:00
 -- url     : https://prove2.me/theorems/9b64e6fc-7e98-47d7-9925-187110a00e76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_MaxFlow_integrity_theorem
 -- name    : FlowsNetworks.MaxFlow.integrity_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:36:12.852753+00:00
 -- url     : https://prove2.me/theorems/31fd603b-8900-4c7d-bfc8-e0b554906f1d

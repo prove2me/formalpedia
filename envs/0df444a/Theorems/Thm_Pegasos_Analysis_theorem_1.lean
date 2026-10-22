@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Pegasos_Analysis_theorem_1
 -- name    : Pegasos.Analysis.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:18:02.723971+00:00
 -- url     : https://prove2.me/theorems/3583be8e-d727-4cc3-a631-f2a44ef2db60

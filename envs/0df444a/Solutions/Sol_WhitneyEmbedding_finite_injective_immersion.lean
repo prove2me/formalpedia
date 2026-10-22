@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WhitneyEmbedding.finite_injective_immersion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Lucas
 -- created : 2026-09-11T14:22:52.225274+00:00
 -- url     : https://prove2.me/submissions/70aeba74-6b1a-49c7-b075-ef5993d3deb1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WhitneyEmbedding_exists_separating_smooth_functions
 import Theorems.Thm_WhitneyEmbedding_finite_injective_immersion_from_separating_family

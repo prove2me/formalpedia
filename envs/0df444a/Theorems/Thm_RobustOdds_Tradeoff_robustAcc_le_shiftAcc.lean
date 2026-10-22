@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOdds_Tradeoff_robustAcc_le_shiftAcc
 -- name    : RobustOdds.Tradeoff.robustAcc_le_shiftAcc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:38:30.00356+00:00
 -- url     : https://prove2.me/theorems/667a1b3e-abab-46fb-8883-d1d740b8fdc6

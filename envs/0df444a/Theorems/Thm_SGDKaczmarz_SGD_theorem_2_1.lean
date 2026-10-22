@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SGDKaczmarz_SGD_theorem_2_1
 -- name    : SGDKaczmarz.SGD.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:13.788928+00:00
 -- url     : https://prove2.me/theorems/e95c45da-3c4a-427c-9f93-4ab3ef0981ee

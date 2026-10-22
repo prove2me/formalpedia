@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Geometry_central_path_bounded
 -- name    : YeIPA.Geometry.central_path_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:00.087917+00:00
 -- url     : https://prove2.me/theorems/b056a3aa-3a67-40a9-9eda-e094ebf1a36c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FinNetProp_Mitosis_part_I_priority_of_creditors
 -- name    : FinNetProp.Mitosis.part_I_priority_of_creditors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T22:15:43.645789+00:00
 -- url     : https://prove2.me/theorems/263260ab-b80d-4248-b5b2-c6f68cd3a818

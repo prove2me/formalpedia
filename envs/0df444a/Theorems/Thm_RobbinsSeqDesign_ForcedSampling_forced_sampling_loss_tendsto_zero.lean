@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobbinsSeqDesign_ForcedSampling_forced_sampling_loss_tendsto_zero
 -- name    : RobbinsSeqDesign.ForcedSampling.forced_sampling_loss_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:30.870111+00:00
 -- url     : https://prove2.me/theorems/2b7de957-7bc5-4667-8b1d-fa0a81ad3785

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Deterministic_hardSoft_mem_Mdset
 -- name    : ApproxIC.Deterministic.hardSoft_mem_Mdset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:27.511538+00:00
 -- url     : https://prove2.me/theorems/d61555ad-6500-43cf-9a3b-cea0cb9a4122

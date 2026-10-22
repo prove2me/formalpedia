@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPackCover_Covering_theorem_3_7
 -- name    : FracPackCover.Covering.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:09.668456+00:00
 -- url     : https://prove2.me/theorems/bf454505-ffbe-4439-9a99-2636685e43e0

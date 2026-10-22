@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_BirthDeath_recurrent_iff_G_one
 -- name    : MatrixAnalytic.BirthDeath.recurrent_iff_G_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:47.854133+00:00
 -- url     : https://prove2.me/theorems/3be1d5b6-fcc4-4d5b-9d0f-d307dbfdcb00

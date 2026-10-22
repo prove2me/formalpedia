@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_StationaryHorizon_one_frequent_cycle
 -- name    : MDPComplexity.StationaryHorizon.one_frequent_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:44:57.092977+00:00
 -- url     : https://prove2.me/theorems/d02b1d76-0d4b-453c-a9e0-715755df1ba6

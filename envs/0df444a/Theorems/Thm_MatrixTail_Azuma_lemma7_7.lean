@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTail_Azuma_lemma7_7
 -- name    : MatrixTail.Azuma.lemma7_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:25:51.529236+00:00
 -- url     : https://prove2.me/theorems/e2184047-4ca9-4cb0-9def-5f124265bb8f
