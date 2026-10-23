@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P27_decohered_and_random_fidelities
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P27.decohered_and_random_fidelities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:21:20.479115+00:00
 -- url     : https://prove2.me/theorems/fc9a7451-bc9b-4ca1-99fb-b772f10165da

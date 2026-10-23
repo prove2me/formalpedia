@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuumHypothesis_gch_sentence_implies_ch_sentence
 -- name    : ContinuumHypothesis.gch_sentence_implies_ch_sentence
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T22:27:27.344091+00:00
 -- url     : https://prove2.me/theorems/a12ee503-d5da-4e45-bb64-1987426529bd

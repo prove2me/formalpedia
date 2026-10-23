@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P25_discreteJensen
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P25.discreteJensen
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:16:46.77391+00:00
 -- url     : https://prove2.me/theorems/12235af5-bd62-429c-ad1c-03f9556dc285

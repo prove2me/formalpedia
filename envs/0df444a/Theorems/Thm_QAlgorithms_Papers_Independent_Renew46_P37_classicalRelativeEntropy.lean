@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_classicalRelativeEntropy
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.classicalRelativeEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:16:09.915727+00:00
 -- url     : https://prove2.me/theorems/02ccf8f0-d769-40fc-b7ec-646368d04af4

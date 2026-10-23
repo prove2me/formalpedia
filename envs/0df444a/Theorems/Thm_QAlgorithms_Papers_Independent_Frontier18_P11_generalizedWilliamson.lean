@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P11_generalizedWilliamson
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P11.generalizedWilliamson
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:34:48.682989+00:00
 -- url     : https://prove2.me/theorems/8bdef61d-25d8-490a-8aa1-c455ee4345e3

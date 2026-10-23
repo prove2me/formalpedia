@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_unitaryFaithfulness
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.unitaryFaithfulness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:09:34.51671+00:00
 -- url     : https://prove2.me/theorems/3711b10f-4233-442a-8d6a-dac0dca8b800

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P15_oscillator_gibbsUpperBound
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P15.oscillator_gibbsUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:28:10.198157+00:00
 -- url     : https://prove2.me/theorems/7c199100-54b7-4219-82cf-00f06beb0109

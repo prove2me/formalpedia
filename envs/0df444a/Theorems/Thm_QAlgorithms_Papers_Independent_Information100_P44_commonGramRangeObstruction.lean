@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_commonGramRangeObstruction
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.commonGramRangeObstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:42:57.600186+00:00
 -- url     : https://prove2.me/theorems/4fb3ba69-9ccd-4e16-acc4-f24620f5e1e9

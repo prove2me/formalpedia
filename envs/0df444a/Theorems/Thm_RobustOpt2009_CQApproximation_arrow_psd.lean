@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_CQApproximation_arrow_psd
 -- name    : RobustOpt2009.CQApproximation.arrow_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:23.523057+00:00
 -- url     : https://prove2.me/theorems/bb4b2658-2cc8-4c1f-9356-59ad4375f26b

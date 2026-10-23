@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_normComparisonF
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.normComparisonF
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-22T05:17:30.206995+00:00
 -- url     : https://prove2.me/theorems/d5dee2f3-8077-46fa-be95-6abf5bb09711

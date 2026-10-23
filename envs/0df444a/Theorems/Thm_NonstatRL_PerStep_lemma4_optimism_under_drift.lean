@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_PerStep_lemma4_optimism_under_drift
 -- name    : NonstatRL.PerStep.lemma4_optimism_under_drift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:21.908989+00:00
 -- url     : https://prove2.me/theorems/cd966874-fcc6-47b9-a0c9-2f13fb6776e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_traceOperatorFactorTwo
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.traceOperatorFactorTwo
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:18:20.673976+00:00
 -- url     : https://prove2.me/theorems/6644a29f-de8b-4149-b377-5387bc37f964

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Adjustable_moment_hull
 -- name    : RobustOpt2009.Adjustable.moment_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:44:37.599675+00:00
 -- url     : https://prove2.me/theorems/4134268e-6427-490f-9546-bc453d1b29ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_hermitian_moment_implication
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.hermitian_moment_implication
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:02:10.38401+00:00
 -- url     : https://prove2.me/theorems/28945f17-9e0b-48ce-ad5d-0cdf2b74ecbf

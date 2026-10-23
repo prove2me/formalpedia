@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P43_denseCodingIdentities
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P43.denseCodingIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:19:27.74021+00:00
 -- url     : https://prove2.me/theorems/92f4a132-16c2-4373-93e7-b4f8a28f5cff

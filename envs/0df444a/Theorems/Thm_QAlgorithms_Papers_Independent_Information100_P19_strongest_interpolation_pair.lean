@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_strongest_interpolation_pair
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.strongest_interpolation_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:58:16.429287+00:00
 -- url     : https://prove2.me/theorems/82d21840-8ede-4618-aa72-e689fbb11a0c

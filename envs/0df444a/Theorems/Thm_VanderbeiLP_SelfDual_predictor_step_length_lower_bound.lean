@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_SelfDual_predictor_step_length_lower_bound
 -- name    : VanderbeiLP.SelfDual.predictor_step_length_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T13:53:56.007157+00:00
 -- url     : https://prove2.me/theorems/963f154e-ffe8-47b2-b43b-1563f5e54206

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P05_gaussianCP_supportRank
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P05.gaussianCP_supportRank
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:47:52.145995+00:00
 -- url     : https://prove2.me/theorems/6b936bbc-3030-4f0d-92da-0a501abed502

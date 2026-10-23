@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P59_gaugeSensitivity
 -- name    : QAlgorithms.Papers.Independent.Information100.P59.gaugeSensitivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:25:31.445262+00:00
 -- url     : https://prove2.me/theorems/ea71f55d-3ecd-4547-a978-1a7f640fb818

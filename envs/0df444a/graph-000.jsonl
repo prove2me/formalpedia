@@ -123,7 +123,7 @@
 {"parent": "AKSSorting.Core.chainW_exists", "child": "AKSSorting_Core_IsChain", "via": ["solution", "statement"]}
 {"parent": "AKSSorting.Core.consecutive_violation", "child": "AKSSorting_Core_IsChain", "via": ["solution", "statement"]}
 {"parent": "AKSSorting.Core.consecutive_violation", "child": "AKSSorting_Core_Rbeta", "via": ["solution", "statement"]}
-{"parent": "AKSSorting.Core.expander_exists", "child": "AKSSorting_Core_IsExpander", "via": ["statement"]}
+{"parent": "AKSSorting.Core.expander_exists", "child": "AKSSorting_Core_IsExpander", "via": ["solution", "statement"]}
 {"parent": "AKSSorting.Core.halver_property", "child": "AKSSorting_Core_IsExpander", "via": ["solution", "statement"]}
 {"parent": "AKSSorting.Core.halver_property", "child": "AKSSorting_Core_IsLowerSection", "via": ["solution", "statement"]}
 {"parent": "AKSSorting.Core.halver_property", "child": "AKSSorting_Core_compareExchange", "via": ["solution", "statement"]}
@@ -161,7 +161,7 @@
 {"parent": "AMPUniversality.Polytope.theorem_2", "child": "AMPUniversality_Polytope_Recovery", "via": ["statement"]}
 {"parent": "AMPUniversality.Polytope.theorem_8", "child": "AMPUniversality_Polytope_Curve", "via": ["statement"]}
 {"parent": "AMPUniversality.Polytope.theorem_8", "child": "AMPUniversality_Polytope_Recovery", "via": ["statement"]}
-{"parent": "AMPUniversality.StateEvol.eq_4_4", "child": "AMPUniversality_StateEvol_SETwo", "via": ["statement"]}
+{"parent": "AMPUniversality.StateEvol.eq_4_4", "child": "AMPUniversality_StateEvol_SETwo", "via": ["solution", "statement"]}
 {"parent": "AMPUniversality.StateEvol.proposition_4", "child": "AMPUniversality_StateEvol_SE", "via": ["statement"]}
 {"parent": "AMPUniversality.StateEvol.proposition_5", "child": "AMPUniversality_StateEvol_SE", "via": ["statement"]}
 {"parent": "AMPUniversality.StateEvol.theorem_4", "child": "AMPUniversality_StateEvol_SE", "via": ["statement"]}
@@ -40690,9 +40690,9 @@
 {"parent": "AlgebraicPCSP.Colouring.theorem_6_2", "child": "AlgebraicPCSP_Colouring_Minion", "via": ["statement"]}
 {"parent": "AlgebraicPCSP.Colouring.theorem_6_2", "child": "AlgebraicPCSP_Colouring_Structures", "via": ["statement"]}
 {"parent": "AlgebraicPCSP.Colouring.theorem_6_2", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["statement"]}
-{"parent": "AlgebraicPCSP.Colouring.theorem_6_5_core", "child": "AlgebraicPCSP_Colouring_Minion", "via": ["statement"]}
-{"parent": "AlgebraicPCSP.Colouring.theorem_6_5_core", "child": "AlgebraicPCSP_Colouring_Structures", "via": ["statement"]}
-{"parent": "AlgebraicPCSP.Colouring.theorem_6_5_core", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["statement"]}
+{"parent": "AlgebraicPCSP.Colouring.theorem_6_5_core", "child": "AlgebraicPCSP_Colouring_Minion", "via": ["solution", "statement"]}
+{"parent": "AlgebraicPCSP.Colouring.theorem_6_5_core", "child": "AlgebraicPCSP_Colouring_Structures", "via": ["solution", "statement"]}
+{"parent": "AlgebraicPCSP.Colouring.theorem_6_5_core", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["solution", "statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.lemma_8_10", "child": "AlgebraicPCSP_OneInThree_Matrices", "via": ["statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.lemma_8_10", "child": "AlgebraicPCSP_OneInThree_Structures", "via": ["statement"]}
 {"parent": "AlgebraicPCSP.OneInThree.lemma_8_10", "child": "PCSPBLPAff_Symmetric_Setting", "via": ["statement"]}
@@ -42597,7 +42597,7 @@
 {"parent": "AssumptionsOfPhysics.t1Space_iff_approxVerifiable", "child": "AoP_ExperimentalDomains", "via": ["solution", "statement"]}
 {"parent": "AssumptionsOfPhysics.theoretical_eq_generated_basis", "child": "AoP_ExperimentalDomains", "via": ["solution", "statement"]}
 {"parent": "AssumptionsOfPhysics.theoretical_iInter_mem", "child": "AoP_ExperimentalDomains", "via": ["solution", "statement"]}
-{"parent": "AstromPOMDP.Bounds.equation_5_12", "child": "AstromPOMDP_Bounds_Model", "via": ["statement"]}
+{"parent": "AstromPOMDP.Bounds.equation_5_12", "child": "AstromPOMDP_Bounds_Model", "via": ["solution", "statement"]}
 {"parent": "AstromPOMDP.Bounds.theorem_2", "child": "AstromPOMDP_Bounds_Model", "via": ["statement"]}
 {"parent": "AstromPOMDP.Bounds.theorem_4", "child": "AstromPOMDP_Bounds_Model", "via": ["statement"]}
 {"parent": "AstromPOMDP.Bounds.theorem_5", "child": "AstromPOMDP_Bounds_Model", "via": ["statement"]}
@@ -42732,7 +42732,7 @@
 {"parent": "AugLagLLC.Feas.bounded_penalty_tendsto", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
 {"parent": "AugLagLLC.Feas.eq_4_2", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
 {"parent": "AugLagLLC.Feas.limit_mem_omega2", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
-{"parent": "AugLagLLC.Feas.theorem_4_1", "child": "AugLagLLC_Feas_Setting", "via": ["statement"]}
+{"parent": "AugLagLLC.Feas.theorem_4_1", "child": "AugLagLLC_Feas_Setting", "via": ["solution", "statement"]}
 {"parent": "AugLagLLC.KKT.cpld_limit_kkt", "child": "AugLagLLC_KKT_ConstraintQualifications", "via": ["statement"]}
 {"parent": "AugLagLLC.KKT.eq_4_10", "child": "AugLagLLC_KKT_Setting", "via": ["statement"]}
 {"parent": "AugLagLLC.KKT.eq_4_9", "child": "AugLagLLC_KKT_Setting", "via": ["statement"]}
@@ -73471,9 +73471,9 @@
 {"parent": "AvramDividend.Classical.barrierStrategy_zero_boundary_value_identity", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.barrierStrategy_zero_boundary_value_identity", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.barrierStrategy_zero_boundary_value_identity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.barrierSupValue_eq_scale_ratio", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.barrierSupValue_eq_scale_ratio", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.barrierSupValue_eq_scale_ratio", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.barrierSupValue_eq_scale_ratio", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.barrierSupValue_eq_scale_ratio", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.barrierSupValue_eq_scale_ratio", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.barrierValue_above_affine", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.barrierValue_at_positive_barrier_eq_deriv_ratio", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.barrierValue_contDiffOn_Ioo_of_scaleFunction", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -73935,7 +73935,7 @@
 {"parent": "AvramDividend.Classical.discounted_dividendMeasure_Ico_le_start_weighted_increment", "child": "AvramDividend.Classical.dividendMeasure_Ico_eq_dividend_increment", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.discounted_dividendMeasure_Ico_le_start_weighted_increment", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.discounted_dividendMeasure_Ico_partition_bracket", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.discounted_dividendMeasure_Ico_zero_le_dividend_cumulative", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.discounted_dividendMeasure_Ico_zero_le_dividend_cumulative", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.discounted_dividendMeasure_atom_exponential_bound", "child": "AvramDividend.Classical.discounted_admissible_exponential_dividend_jump_bound", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.discounted_dividendMeasure_atom_exponential_bound", "child": "AvramDividend.Classical.dividendMeasure_singleton_eq_rightLimit_sub", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.discounted_dividendMeasure_atom_exponential_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
@@ -74005,7 +74005,7 @@
 {"parent": "AvramDividend.Classical.dividendValue_le_of_nat_horizon_bounds_of_strategy", "child": "AvramDividend.Classical.nat_horizon_dividend_payoff_mct_hypotheses_of_strategy", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.dividendValue_le_of_nat_horizon_bounds_of_strategy", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.dividendValue_le_of_nat_horizon_bounds_of_strategy", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.dividendValue_le_of_truncated_bound_measurable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.dividendValue_le_of_truncated_bound_measurable", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.dividend_exponential_factor_package", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.esscher_bv_ac_levy_package", "child": "AvramDividend.Classical.esscher_negative_jumps_levy_integrable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.esscher_bv_ac_levy_package", "child": "AvramDividend.Classical.esscher_weighted_levy_measure_support_ac", "via": ["solution"]}
@@ -74184,7 +74184,7 @@
 {"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend.Classical.admissible_cap_dividendValue_le", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.local_verification", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.local_verification_admissible_hjb_jump_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.local_verification_admissible_hjb_jump_bound", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.local_verification_capped_admissible_jump_bound", "child": "AvramDividend.Classical.admissibleLe_riskProcess_le_cap_all_times", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification_capped_admissible_jump_bound", "child": "AvramDividend.Classical.dividendStrategy_le_rightLimit", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.local_verification_capped_admissible_jump_bound", "child": "AvramDividend.Classical.local_verification_hjb_controls_dividend_jump_le_cap", "via": ["solution"]}
@@ -74626,21 +74626,21 @@
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_ae_zero_standing_bv_C2", "child": "AvramDividend.Classical.generator_residual_continuousOn_compact_of_standing_bv_C2", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_ae_zero_standing_bv_C2", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_ae_zero_standing_bv_C2", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_generatorIntegrable", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_generatorIntegrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_generatorIntegrable", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_generatorIntegrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_integrable_nonzero_factor", "child": "AvramDividend.Classical.scaleFunction_contDiff_two_below_cstar_of_vcstar", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_integrable_nonzero_factor", "child": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_generatorIntegrable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_integrable_nonzero_factor", "child": "AvramDividend.Classical.scaleFunction_generator_eq_zero", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_integrable_nonzero_factor", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_integrable_nonzero_factor", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_local_regularity", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_local_regularity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_local_regularity", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_local_regularity", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_stoppedScaleIdentity_corrected", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_twoSidedExitIdentity_corrected", "child": "AvramDividend_Classical_TwoSidedExitCorrected", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_zero", "child": "AvramDividend.Classical.scaleFunction_generatorIntegrable_of_smooth", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_zero", "child": "AvramDividend.Classical.scaleFunction_generator_eq_q_of_generatorIntegrable", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.scaleFunction_generator_eq_zero", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
@@ -74861,7 +74861,7 @@
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_above_cstar", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar", "child": "AvramDividend.Classical.barrierValue_above_affine", "via": ["solution"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar", "child": "AvramDividend.Classical.vcstar_deriv_ge_one", "via": ["solution"]}
-{"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_eq_one_at_positive_cstar", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.vcstar_deriv_ge_one", "child": "AvramDividend.Classical.cstar_finite_zero_or_deriv_minimal", "via": ["solution"]}
@@ -75239,7 +75239,7 @@
 {"parent": "BNCovPack.Covering.claim_ii", "child": "BNCovPack_Covering_Run", "via": ["statement"]}
 {"parent": "BNCovPack.Covering.claim_iii", "child": "BNCovPack_Covering_Run", "via": ["statement"]}
 {"parent": "BNCovPack.Covering.claim_iv", "child": "BNCovPack_Covering_Run", "via": ["statement"]}
-{"parent": "BNCovPack.Covering.theorem_4_1", "child": "BNCovPack_Covering_Run", "via": ["statement"]}
+{"parent": "BNCovPack.Covering.theorem_4_1", "child": "BNCovPack_Covering_Run", "via": ["solution", "statement"]}
 {"parent": "BNCovPack.Packing.claim_i", "child": "BNCovPack_Packing_Scheme", "via": ["solution", "statement"]}
 {"parent": "BNCovPack.Packing.claim_i", "child": "OnlinePrimalDual_GeneralPacking_GeneralInstance", "via": ["solution", "statement"]}
 {"parent": "BNCovPack.Packing.claim_ii", "child": "BNCovPack_Packing_Scheme", "via": ["solution", "statement"]}
@@ -77044,9 +77044,9 @@
 {"parent": "BeckTeboulleMD.EMDA.one_step_4_21", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.optimality_4_16", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.proposition_4_1", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
-{"parent": "BeckTeboulleMD.EMDA.proposition_5_1_a", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}
+{"parent": "BeckTeboulleMD.EMDA.proposition_5_1_a", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.proposition_5_1_c", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
-{"parent": "BeckTeboulleMD.EMDA.remark_5_1", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["statement"]}
+{"parent": "BeckTeboulleMD.EMDA.remark_5_1", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.theorem_4_1_a", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.theorem_4_2", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}
 {"parent": "BeckTeboulleMD.EMDA.theorem_4_2_upper_bound", "child": "BeckTeboulleMD_EMDA_Setting", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_beamSplitterParametrization
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.beamSplitterParametrization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:03:19.870921+00:00
 -- url     : https://prove2.me/theorems/7fdf3a94-0908-46d7-a397-279f10759a84

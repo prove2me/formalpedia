@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_complex_canonical_coordinates
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.complex_canonical_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:59:57.335258+00:00
 -- url     : https://prove2.me/theorems/54ed5bbd-6373-42f5-bc50-1459e04f5efc

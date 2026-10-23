@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_two_moment_continuous_optimum
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.two_moment_continuous_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:57:04.210508+00:00
 -- url     : https://prove2.me/theorems/cdb1820b-221a-4f82-9e47-a8e1202e1bea

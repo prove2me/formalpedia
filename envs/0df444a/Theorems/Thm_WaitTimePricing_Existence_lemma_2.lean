@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitTimePricing_Existence_lemma_2
 -- name    : WaitTimePricing.Existence.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:26:38.713765+00:00
 -- url     : https://prove2.me/theorems/3660cb96-0863-4983-bba4-582143ba34a7

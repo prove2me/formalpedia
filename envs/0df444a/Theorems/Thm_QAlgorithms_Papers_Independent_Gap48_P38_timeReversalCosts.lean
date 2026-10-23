@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_timeReversalCosts
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.timeReversalCosts
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:10:38.02318+00:00
 -- url     : https://prove2.me/theorems/5cfc1d2b-dda0-4bcd-b80c-1e9e20a3b9de

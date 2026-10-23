@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_rotatedSqueezing
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.rotatedSqueezing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:07:40.910119+00:00
 -- url     : https://prove2.me/theorems/44d895d2-6bac-41c9-a556-1247734bb3c5

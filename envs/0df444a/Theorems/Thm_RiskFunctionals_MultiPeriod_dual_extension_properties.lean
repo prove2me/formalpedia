@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_MultiPeriod_dual_extension_properties
 -- name    : RiskFunctionals.MultiPeriod.dual_extension_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:59.900151+00:00
 -- url     : https://prove2.me/theorems/ec3e78ef-352f-43b1-acb2-4839dec1f15f

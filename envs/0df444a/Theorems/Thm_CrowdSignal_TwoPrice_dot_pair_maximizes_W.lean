@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdSignal_TwoPrice_dot_pair_maximizes_W
 -- name    : CrowdSignal.TwoPrice.dot_pair_maximizes_W
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:06.588862+00:00
 -- url     : https://prove2.me/theorems/deae4b59-b519-4f72-909d-49883a34ea8a

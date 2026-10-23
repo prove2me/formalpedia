@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeckTeboulleMD_EMDA_remark_5_1
 -- name    : BeckTeboulleMD.EMDA.remark_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T05:54:17.375184+00:00
 -- url     : https://prove2.me/theorems/eb5c7f7a-8dae-4324-af72-41ce43fb0940

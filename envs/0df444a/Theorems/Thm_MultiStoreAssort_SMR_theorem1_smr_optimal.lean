@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiStoreAssort_SMR_theorem1_smr_optimal
 -- name    : MultiStoreAssort.SMR.theorem1_smr_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:15.831759+00:00
 -- url     : https://prove2.me/theorems/5f048cb6-ac7f-4c24-aa62-e9eb97932ce7

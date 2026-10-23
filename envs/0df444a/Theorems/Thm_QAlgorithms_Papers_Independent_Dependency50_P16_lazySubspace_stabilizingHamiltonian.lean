@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_lazySubspace_stabilizingHamiltonian
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.lazySubspace_stabilizingHamiltonian
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:42:05.745976+00:00
 -- url     : https://prove2.me/theorems/c738d8e6-7e86-4657-aa06-46bee548a856

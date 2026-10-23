@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P45_pureFamily_uniqueCountableONDDecomposition
 -- name    : QAlgorithms.Papers.Independent.Gap48.P45.pureFamily_uniqueCountableONDDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:53:21.888509+00:00
 -- url     : https://prove2.me/theorems/fb809239-be3f-4832-b6c4-38f910b5f0aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinParamBandits_PEGE_pege_regret_bound
 -- name    : LinParamBandits.PEGE.pege_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:21:29.441042+00:00
 -- url     : https://prove2.me/theorems/aa4a6684-9e1c-4ca9-b03c-d95dae896402

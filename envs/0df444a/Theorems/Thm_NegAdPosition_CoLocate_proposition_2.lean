@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegAdPosition_CoLocate_proposition_2
 -- name    : NegAdPosition.CoLocate.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:36:32.363239+00:00
 -- url     : https://prove2.me/theorems/3a23d9ff-33b0-4ca9-bf9e-8837ab8d27ed

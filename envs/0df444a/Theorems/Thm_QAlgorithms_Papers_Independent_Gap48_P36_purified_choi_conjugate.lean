@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_purified_choi_conjugate
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.purified_choi_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:52:33.524179+00:00
 -- url     : https://prove2.me/theorems/e8de969d-2ad4-4a9c-9ac1-cff83c133bbd

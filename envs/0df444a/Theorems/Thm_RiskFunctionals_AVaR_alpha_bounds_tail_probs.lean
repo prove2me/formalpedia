@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_alpha_bounds_tail_probs
 -- name    : RiskFunctionals.AVaR.alpha_bounds_tail_probs
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:09.001009+00:00
 -- url     : https://prove2.me/theorems/624eea7e-7a89-4e24-bcac-9eb941e1d437

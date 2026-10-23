@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P33_normalStatesEpsilonDelta
 -- name    : QAlgorithms.Papers.Independent.Next46.P33.normalStatesEpsilonDelta
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:28:27.16484+00:00
 -- url     : https://prove2.me/theorems/0ab081d3-e6cd-4d95-8106-67230d9a325c

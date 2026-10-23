@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialPricing_ABC_lemma_EC1
 -- name    : SpatialPricing.ABC.lemma_EC1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:43:38.74507+00:00
 -- url     : https://prove2.me/theorems/dd9e6328-8432-4a7a-bd94-575a5bef5c89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_Oracle_eq18_optGain_drift
 -- name    : NonstatRL.Oracle.eq18_optGain_drift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:28:31.270417+00:00
 -- url     : https://prove2.me/theorems/1312fc60-ddc5-4cc4-89ef-8359ab85a3cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_BIC_union_bound
 -- name    : SubsetShrink.BIC.union_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:34.116748+00:00
 -- url     : https://prove2.me/theorems/432851fb-4300-48ee-b2dd-fe0e247b18f1

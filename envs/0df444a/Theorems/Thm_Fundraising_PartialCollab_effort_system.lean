@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_PartialCollab_effort_system
 -- name    : Fundraising.PartialCollab.effort_system
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:14.105986+00:00
 -- url     : https://prove2.me/theorems/4bde8718-773d-4363-892b-998df83fa78f

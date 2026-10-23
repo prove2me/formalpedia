@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrescAnalytics_ERM_theorem_14_eq30
 -- name    : PrescAnalytics.ERM.theorem_14_eq30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:41:35.870462+00:00
 -- url     : https://prove2.me/theorems/09625818-421e-4658-91e5-67b5b80b7a27

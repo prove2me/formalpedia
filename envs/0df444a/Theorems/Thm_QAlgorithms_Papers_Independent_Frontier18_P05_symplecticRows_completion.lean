@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P05_symplecticRows_completion
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P05.symplecticRows_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:46:29.953082+00:00
 -- url     : https://prove2.me/theorems/7dff9d9e-bef1-4939-8b63-69d04ec7670b

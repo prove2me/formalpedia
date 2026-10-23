@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P02_extreme_covariances_order
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P02.extreme_covariances_order
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:12:49.721763+00:00
 -- url     : https://prove2.me/theorems/752a1974-c836-4325-b46b-d464f0a2d141

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_fullySeparablePhaseMixtures
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.fullySeparablePhaseMixtures
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:00:51.272631+00:00
 -- url     : https://prove2.me/theorems/e3dda78e-b07e-4608-82ea-e9e3b11b84ce

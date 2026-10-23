@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.YangMillsCertificateSeam.example_ym_fock_gap
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-17T13:26:52.216834+00:00
 -- url     : https://prove2.me/submissions/c54d1446-1197-48ee-8e7a-a6922c1c4099
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterYangMillsCertificateSeam.lean — solution of BookProof.YangMillsCertificateSeam.example_ym_fock_gap
 import Mathlib

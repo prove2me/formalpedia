@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P59_maximalOrthogonalSymmetry
 -- name    : QAlgorithms.Papers.Independent.Information100.P59.maximalOrthogonalSymmetry
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:26:07.342287+00:00
 -- url     : https://prove2.me/theorems/3b8cea24-96a3-4123-a46d-272e37934f67

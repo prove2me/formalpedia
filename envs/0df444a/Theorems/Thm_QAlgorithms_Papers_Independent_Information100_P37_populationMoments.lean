@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_populationMoments
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.populationMoments
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-19T11:03:15.678577+00:00
 -- url     : https://prove2.me/theorems/b081be3e-c8d3-473c-8e44-c7d05740cf24

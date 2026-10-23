@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_ONoOther_high_mimics_low
 -- name    : CustomerVoice.ONoOther.high_mimics_low
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:34.602028+00:00
 -- url     : https://prove2.me/theorems/e542ed0c-a2ba-42cf-967a-6c9bbb5d94ea

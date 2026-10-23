@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_localIsometricInvariance
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.localIsometricInvariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:56:58.629446+00:00
 -- url     : https://prove2.me/theorems/75caa00a-a4b9-4005-bc67-2bb6f38c24ff

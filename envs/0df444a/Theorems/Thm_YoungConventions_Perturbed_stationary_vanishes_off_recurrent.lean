@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_Perturbed_stationary_vanishes_off_recurrent
 -- name    : YoungConventions.Perturbed.stationary_vanishes_off_recurrent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:59:23.504527+00:00
 -- url     : https://prove2.me/theorems/16032c2a-91f9-44a9-a068-70a11f8c4682

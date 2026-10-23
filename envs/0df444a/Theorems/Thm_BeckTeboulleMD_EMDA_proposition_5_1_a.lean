@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BeckTeboulleMD_EMDA_proposition_5_1_a
 -- name    : BeckTeboulleMD.EMDA.proposition_5_1_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T05:54:17.416951+00:00
 -- url     : https://prove2.me/theorems/3156ca2f-e11d-4207-8bdd-aba675483b56

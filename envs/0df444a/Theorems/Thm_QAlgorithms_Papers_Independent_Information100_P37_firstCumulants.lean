@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_firstCumulants
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.firstCumulants
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:03:51.034292+00:00
 -- url     : https://prove2.me/theorems/0f56fdad-2dbd-4220-bc36-cacf565de025

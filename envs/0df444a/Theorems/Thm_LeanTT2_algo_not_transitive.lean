@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanTT2_algo_not_transitive
 -- name    : LeanTT2.algo_not_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T03:07:17.997759+00:00
 -- url     : https://prove2.me/theorems/4adca8a5-02e3-4802-8a63-de0011db99a4

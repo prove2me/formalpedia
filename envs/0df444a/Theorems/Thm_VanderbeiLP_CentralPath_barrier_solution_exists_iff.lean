@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_CentralPath_barrier_solution_exists_iff
 -- name    : VanderbeiLP.CentralPath.barrier_solution_exists_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:35:53.071796+00:00
 -- url     : https://prove2.me/theorems/c43d20fb-2a73-4a06-a6a1-7d570ff2a760

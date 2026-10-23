@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PDScenRed_Mean_theorem3_mean_minimizes_upper_bound
 -- name    : PDScenRed.Mean.theorem3_mean_minimizes_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:02:42.454053+00:00
 -- url     : https://prove2.me/theorems/6e538b5b-3f52-4841-bddd-cc0bb83a16b3

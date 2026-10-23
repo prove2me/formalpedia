@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_proposition1
 -- name    : NewsBundling.Unilateral.proposition1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:54.079983+00:00
 -- url     : https://prove2.me/theorems/9c63e0e8-fb29-4b81-9751-0e54c9f6d785

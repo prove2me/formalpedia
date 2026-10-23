@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_simpleTensorsNumericalZero
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.simpleTensorsNumericalZero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:10:45.654066+00:00
 -- url     : https://prove2.me/theorems/f9aca9f4-c6d9-450c-9db3-7ae6df5cb8d6

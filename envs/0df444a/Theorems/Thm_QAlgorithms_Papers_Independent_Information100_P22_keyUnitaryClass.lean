@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_keyUnitaryClass
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.keyUnitaryClass
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:06:46.99267+00:00
 -- url     : https://prove2.me/theorems/e72eb5e8-8a09-4b6c-9d37-72d2501b5bf4

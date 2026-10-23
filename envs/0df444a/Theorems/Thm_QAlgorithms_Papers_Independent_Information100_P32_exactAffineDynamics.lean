@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_exactAffineDynamics
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.exactAffineDynamics
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:46:27.531603+00:00
 -- url     : https://prove2.me/theorems/403e2bcb-9438-40f9-abc0-79aaa6a778f4

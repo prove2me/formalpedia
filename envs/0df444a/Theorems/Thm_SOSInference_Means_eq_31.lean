@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SOSInference_Means_eq_31
 -- name    : SOSInference.Means.eq_31
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:39.756063+00:00
 -- url     : https://prove2.me/theorems/7357373c-1af5-4ebb-9645-a771e9230d4e

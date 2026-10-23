@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P41_jc_output_population_coherence
 -- name    : QAlgorithms.Papers.Independent.Information100.P41.jc_output_population_coherence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:26:09.573718+00:00
 -- url     : https://prove2.me/theorems/3018fa3c-eb16-4a79-b9a9-166c66c77ed1

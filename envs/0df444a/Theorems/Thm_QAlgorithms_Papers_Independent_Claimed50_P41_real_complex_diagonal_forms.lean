@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_real_complex_diagonal_forms
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.real_complex_diagonal_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:06:51.173361+00:00
 -- url     : https://prove2.me/theorems/4b8489d1-f166-400f-8967-cfbe20b341eb

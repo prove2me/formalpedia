@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_j2_hermiticity_positivity
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.j2_hermiticity_positivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:26:43.576736+00:00
 -- url     : https://prove2.me/theorems/2acff315-5d12-414a-840e-8495df72305f

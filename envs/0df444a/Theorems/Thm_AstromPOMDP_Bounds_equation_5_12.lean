@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AstromPOMDP_Bounds_equation_5_12
 -- name    : AstromPOMDP.Bounds.equation_5_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:27:16.730291+00:00
 -- url     : https://prove2.me/theorems/1791f2e5-1a20-46fc-8934-9e6336e495d4

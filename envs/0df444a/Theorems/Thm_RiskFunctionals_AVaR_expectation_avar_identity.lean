@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_expectation_avar_identity
 -- name    : RiskFunctionals.AVaR.expectation_avar_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:18.671923+00:00
 -- url     : https://prove2.me/theorems/0882ce58-2440-4b5d-8b29-d4f6e196940c

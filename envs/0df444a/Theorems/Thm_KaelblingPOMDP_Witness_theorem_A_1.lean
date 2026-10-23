@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KaelblingPOMDP_Witness_theorem_A_1
 -- name    : KaelblingPOMDP.Witness.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:13:17.280976+00:00
 -- url     : https://prove2.me/theorems/1d1a6a04-03b8-4039-a21a-72be3d9ce2fb

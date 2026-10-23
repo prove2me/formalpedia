@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_Competition_eq_S8
 -- name    : Fundraising.Competition.eq_S8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:13.583811+00:00
 -- url     : https://prove2.me/theorems/59d796b8-c649-48c6-a389-5a46f959017c

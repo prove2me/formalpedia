@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P36_numberState_lossless
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P36.numberState_lossless
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:32:05.206684+00:00
 -- url     : https://prove2.me/theorems/8a14e1a3-4e96-40f9-b14e-96f9aeb64382

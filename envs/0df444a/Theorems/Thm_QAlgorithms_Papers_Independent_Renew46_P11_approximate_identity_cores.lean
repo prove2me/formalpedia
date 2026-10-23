@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P11_approximate_identity_cores
 -- name    : QAlgorithms.Papers.Independent.Renew46.P11.approximate_identity_cores
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:07:51.436709+00:00
 -- url     : https://prove2.me/theorems/ebfdae72-7c4e-4e0e-9ce3-ea3943e665ee

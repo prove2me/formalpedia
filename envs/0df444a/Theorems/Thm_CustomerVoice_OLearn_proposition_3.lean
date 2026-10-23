@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_OLearn_proposition_3
 -- name    : CustomerVoice.OLearn.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:08:17.758842+00:00
 -- url     : https://prove2.me/theorems/aea80fd9-e1bd-4ddf-9414-94d2e50b1f7e

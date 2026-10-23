@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_enclosure_characterization
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.enclosure_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:44:35.728988+00:00
 -- url     : https://prove2.me/theorems/53a0a85a-97a8-487d-9171-4dcb217cec22

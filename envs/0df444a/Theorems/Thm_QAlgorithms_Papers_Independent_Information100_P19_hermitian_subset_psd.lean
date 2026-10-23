@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_hermitian_subset_psd
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.hermitian_subset_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:43:25.62898+00:00
 -- url     : https://prove2.me/theorems/49a54c1e-b864-4154-a98b-ea5085b2704a

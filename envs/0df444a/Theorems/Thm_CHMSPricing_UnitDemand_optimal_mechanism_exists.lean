@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CHMSPricing_UnitDemand_optimal_mechanism_exists
 -- name    : CHMSPricing.UnitDemand.optimal_mechanism_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T12:29:33.146653+00:00
 -- url     : https://prove2.me/theorems/df2c005e-cf6a-4124-9f93-5fdab9097836

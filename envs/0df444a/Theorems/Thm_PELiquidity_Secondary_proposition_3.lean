@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PELiquidity_Secondary_proposition_3
 -- name    : PELiquidity.Secondary.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:00.378982+00:00
 -- url     : https://prove2.me/theorems/29073cef-9b2e-484f-ab20-e5381f2f71cf

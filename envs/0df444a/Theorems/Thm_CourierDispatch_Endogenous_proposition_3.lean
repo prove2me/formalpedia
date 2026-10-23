@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CourierDispatch_Endogenous_proposition_3
 -- name    : CourierDispatch.Endogenous.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:49.942981+00:00
 -- url     : https://prove2.me/theorems/efc731ac-eac9-49e9-bcf0-f25cde183592

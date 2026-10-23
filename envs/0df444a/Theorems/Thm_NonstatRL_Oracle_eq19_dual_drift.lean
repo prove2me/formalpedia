@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_Oracle_eq19_dual_drift
 -- name    : NonstatRL.Oracle.eq19_dual_drift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:28:36.077169+00:00
 -- url     : https://prove2.me/theorems/ebda548d-f690-4fd3-86c4-a8349dc13401

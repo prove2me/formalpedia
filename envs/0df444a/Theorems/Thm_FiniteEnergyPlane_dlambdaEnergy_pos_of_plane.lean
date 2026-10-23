@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_dlambdaEnergy_pos_of_plane
 -- name    : FiniteEnergyPlane.dlambdaEnergy_pos_of_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:24:51.466385+00:00
 -- url     : https://prove2.me/theorems/3deeb338-4a09-4794-8343-4bd457061c6d

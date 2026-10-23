@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualityStability_Stability_theorem_1
 -- name    : DualityStability.Stability.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:45:51.072171+00:00
 -- url     : https://prove2.me/theorems/f423288f-cbe3-4aca-90c2-108d00bbdc16

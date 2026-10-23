@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_kPositive_iff_schmidt_blockPositive
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.kPositive_iff_schmidt_blockPositive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:27:47.085284+00:00
 -- url     : https://prove2.me/theorems/9f9513fe-425d-41ae-a78f-09ffd06bbcac

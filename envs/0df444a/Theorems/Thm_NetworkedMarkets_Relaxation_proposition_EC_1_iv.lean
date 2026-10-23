@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkedMarkets_Relaxation_proposition_EC_1_iv
 -- name    : NetworkedMarkets.Relaxation.proposition_EC_1_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:19.159754+00:00
 -- url     : https://prove2.me/theorems/1d293b14-08a8-4198-8997-aa4d77f4ef1d

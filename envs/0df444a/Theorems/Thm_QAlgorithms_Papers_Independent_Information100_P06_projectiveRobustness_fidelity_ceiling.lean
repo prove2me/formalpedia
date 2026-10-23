@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P06_projectiveRobustness_fidelity_ceiling
 -- name    : QAlgorithms.Papers.Independent.Information100.P06.projectiveRobustness_fidelity_ceiling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:29:19.16899+00:00
 -- url     : https://prove2.me/theorems/8f73fe52-260d-47d4-9aec-611bb0bb8632

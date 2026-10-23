@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_avar_representations
 -- name    : RiskFunctionals.AVaR.avar_representations
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:01.899555+00:00
 -- url     : https://prove2.me/theorems/f785937a-14bd-48c4-a280-232335b89ec4

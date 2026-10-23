@@ -247,7 +247,7 @@
 {"parent": "ModPolicyIter.Conv.lemma_4", "child": "ModPolicyIter_Conv_Setting", "via": ["solution", "statement"]}
 {"parent": "ModPolicyIter.Conv.support_inequality", "child": "ModPolicyIter_Conv_Model", "via": ["solution", "statement"]}
 {"parent": "ModPolicyIter.Conv.theorem_1", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
-{"parent": "ModPolicyIter.Conv.theorem_2", "child": "ModPolicyIter_Conv_Setting", "via": ["statement"]}
+{"parent": "ModPolicyIter.Conv.theorem_2", "child": "ModPolicyIter_Conv_Setting", "via": ["solution", "statement"]}
 {"parent": "ModPolicyIter_Conv_Setting", "child": "ModPolicyIter_Conv_Model", "via": ["statement"]}
 {"parent": "ModelRiskOT.Duality.lemma_16", "child": "ModelRiskOT_Duality_AssumptionA1", "via": ["statement"]}
 {"parent": "ModelRiskOT.Duality.lemma_16", "child": "ModelRiskOT_Duality_phiLam", "via": ["statement"]}

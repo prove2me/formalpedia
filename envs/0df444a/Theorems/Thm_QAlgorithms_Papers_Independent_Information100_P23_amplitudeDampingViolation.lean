@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P23_amplitudeDampingViolation
 -- name    : QAlgorithms.Papers.Independent.Information100.P23.amplitudeDampingViolation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:13:01.713774+00:00
 -- url     : https://prove2.me/theorems/0f82819b-8402-4317-839a-abfa9f770a93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_loss_fidelity_fano
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.loss_fidelity_fano
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:37:49.356721+00:00
 -- url     : https://prove2.me/theorems/1a87b613-9eee-4e8e-8d00-1da47587032b

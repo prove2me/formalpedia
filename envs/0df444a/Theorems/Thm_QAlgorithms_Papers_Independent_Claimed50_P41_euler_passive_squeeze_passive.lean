@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_euler_passive_squeeze_passive
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.euler_passive_squeeze_passive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:02:16.325827+00:00
 -- url     : https://prove2.me/theorems/1858d88f-5001-4dd0-8cee-15adeba64b05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_weighted_simplex_cofinal_cardinality_gap
 -- name    : OAI.PiExponent.FormalInterpolation.weighted_simplex_cofinal_cardinality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T13:38:35.854192+00:00
 -- url     : https://prove2.me/theorems/25eb42f4-b97e-4ebf-aa3c-2db17c8a713a

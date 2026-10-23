@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Rate1D_lemma_4_8
 -- name    : NelderMeadLD.Rate1D.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:13:22.038775+00:00
 -- url     : https://prove2.me/theorems/cb4d147a-4275-429c-82e6-0eeb07926e08

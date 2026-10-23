@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P14_weakComplementDuality
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P14.weakComplementDuality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:18:18.306319+00:00
 -- url     : https://prove2.me/theorems/9fc1b1d6-4f76-40b2-bea0-980933ffc2e6

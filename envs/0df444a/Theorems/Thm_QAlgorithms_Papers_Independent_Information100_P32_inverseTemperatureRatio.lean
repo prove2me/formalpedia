@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_inverseTemperatureRatio
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.inverseTemperatureRatio
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:40:11.074991+00:00
 -- url     : https://prove2.me/theorems/72f112b0-126e-440f-af40-2a70c6f81c18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_UCB_eq_A_14
 -- name    : MNLBandit.UCB.eq_A_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:53:06.11011+00:00
 -- url     : https://prove2.me/theorems/0745a4ba-5f48-4137-aed8-93543472697c

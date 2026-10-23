@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_schottky_bound
 -- name    : MilnorDynamics.schottky_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T14:56:15.644867+00:00
 -- url     : https://prove2.me/theorems/ad33741e-481a-4525-99b8-e0a869d94af0

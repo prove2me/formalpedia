@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P21_bosonicEntropy_largeOccupation
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P21.bosonicEntropy_largeOccupation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:21:20.899988+00:00
 -- url     : https://prove2.me/theorems/98498be6-4321-4369-91a2-3726940c37d2

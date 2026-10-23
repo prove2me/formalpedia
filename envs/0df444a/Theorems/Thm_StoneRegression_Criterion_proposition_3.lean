@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StoneRegression_Criterion_proposition_3
 -- name    : StoneRegression.Criterion.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:58.558336+00:00
 -- url     : https://prove2.me/theorems/56a01c1a-976b-4aa9-b2e9-9ef00807aa6a

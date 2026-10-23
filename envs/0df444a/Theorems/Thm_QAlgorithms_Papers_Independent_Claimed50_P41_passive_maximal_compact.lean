@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_passive_maximal_compact
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.passive_maximal_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:00:58.501846+00:00
 -- url     : https://prove2.me/theorems/d7f3824f-4fff-49a3-8b2a-505b7a376945

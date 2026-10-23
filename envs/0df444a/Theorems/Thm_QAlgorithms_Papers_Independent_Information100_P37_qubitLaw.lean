@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_qubitLaw
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.qubitLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:11:43.117492+00:00
 -- url     : https://prove2.me/theorems/990d58e3-8c30-4a4e-a740-899cc1fb3647

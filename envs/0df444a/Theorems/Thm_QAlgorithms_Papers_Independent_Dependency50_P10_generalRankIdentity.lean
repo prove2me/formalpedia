@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P10_generalRankIdentity
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P10.generalRankIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:07:36.806985+00:00
 -- url     : https://prove2.me/theorems/3ad57475-575f-4a8e-9b13-f9278510de4b

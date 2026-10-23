@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_completeAndStarWalks
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.completeAndStarWalks
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:22:24.077995+00:00
 -- url     : https://prove2.me/theorems/6c18802c-a76a-46c9-9ddc-a42d3b0573a9

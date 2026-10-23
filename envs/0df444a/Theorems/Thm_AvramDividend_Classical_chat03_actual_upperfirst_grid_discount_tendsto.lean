@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat03_actual_upperfirst_grid_discount_tendsto
 -- name    : AvramDividend.Classical.chat03_actual_upperfirst_grid_discount_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T20:55:24.120989+00:00
 -- url     : https://prove2.me/theorems/6af82499-afc8-4539-b788-acb841bc161b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_energy_momentum_relation
 -- name    : EnergyMomentum.energy_momentum_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:20:38.091979+00:00
 -- url     : https://prove2.me/theorems/d8878335-bf03-4f15-9ce9-586cfede0296

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Payment_lemma_2
 -- name    : YieldPostpone.Payment.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:25:26.337832+00:00
 -- url     : https://prove2.me/theorems/fb6c2b3c-7570-475d-8b7a-db20471cfc84

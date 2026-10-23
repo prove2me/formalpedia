@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SellVsPPU_Duopoly_proposition_3
 -- name    : SellVsPPU.Duopoly.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:40.26847+00:00
 -- url     : https://prove2.me/theorems/9d4bd40f-3a12-4425-b336-b62b81bd0dc7

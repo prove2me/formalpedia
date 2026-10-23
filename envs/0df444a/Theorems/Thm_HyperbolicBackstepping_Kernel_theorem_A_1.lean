@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HyperbolicBackstepping_Kernel_theorem_A_1
 -- name    : HyperbolicBackstepping.Kernel.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:36:36.207419+00:00
 -- url     : https://prove2.me/theorems/8bdab8f1-7653-4c8e-b7bc-54d0cab2516c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_dirichletMonomialMoments
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.dirichletMonomialMoments
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:20:47.145111+00:00
 -- url     : https://prove2.me/theorems/33c2a64e-993e-4b95-8def-6dc5f55b4e89

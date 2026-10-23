@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_unitalCoherenceMatrix
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.unitalCoherenceMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:16:46.327858+00:00
 -- url     : https://prove2.me/theorems/b7ca5783-706e-47d1-a76f-788ec2818df6

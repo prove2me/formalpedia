@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdTarget_Separating_profit_closed_form
 -- name    : CrowdTarget.Separating.profit_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:01.196565+00:00
 -- url     : https://prove2.me/theorems/635c0ab9-d82b-403c-af6c-77acc2ccc152

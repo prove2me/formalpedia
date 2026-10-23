@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeomDL_Filters_polynomial_filter_localised
 -- name    : GeomDL.Filters.polynomial_filter_localised
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T18:14:18.824734+00:00
 -- url     : https://prove2.me/theorems/6242e737-bdd5-45a6-9c32-13e9c46e0678

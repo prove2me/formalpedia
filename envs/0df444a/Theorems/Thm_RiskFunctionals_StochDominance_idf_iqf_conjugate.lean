@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_StochDominance_idf_iqf_conjugate
 -- name    : RiskFunctionals.StochDominance.idf_iqf_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:22.169306+00:00
 -- url     : https://prove2.me/theorems/17a673a2-11cc-40ac-aceb-26bf4e908d5b

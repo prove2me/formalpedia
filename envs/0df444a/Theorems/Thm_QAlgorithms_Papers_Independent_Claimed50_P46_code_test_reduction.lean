@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P46_code_test_reduction
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P46.code_test_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:29:21.69599+00:00
 -- url     : https://prove2.me/theorems/d018cd4a-663e-433a-a872-024227d1e58e

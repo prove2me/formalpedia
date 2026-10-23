@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_betaInfimalWidth
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.betaInfimalWidth
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:17:49.098852+00:00
 -- url     : https://prove2.me/theorems/9f8e776f-30e7-4dfa-a19d-ab303a24d89d

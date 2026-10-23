@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_RelDates_two_approximation_core
 -- name    : SkutellaCQP.RelDates.two_approximation_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:12:43.402976+00:00
 -- url     : https://prove2.me/theorems/dd605f76-2fdc-47b5-8de2-3a53f16679dc

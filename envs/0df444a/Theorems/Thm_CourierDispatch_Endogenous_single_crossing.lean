@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CourierDispatch_Endogenous_single_crossing
 -- name    : CourierDispatch.Endogenous.single_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:57.836242+00:00
 -- url     : https://prove2.me/theorems/d93253ec-f5b1-4b7f-9306-e5c39cab949b

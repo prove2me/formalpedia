@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Equitable_district_ratio
 -- name    : CarlssonPartition.Equitable.district_ratio
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:15.585031+00:00
 -- url     : https://prove2.me/theorems/649b7230-bcdb-42e3-baca-83e3c556305d

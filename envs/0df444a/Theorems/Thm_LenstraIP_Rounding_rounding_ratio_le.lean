@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LenstraIP_Rounding_rounding_ratio_le
 -- name    : LenstraIP.Rounding.rounding_ratio_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:06:02.483313+00:00
 -- url     : https://prove2.me/theorems/5acb7f67-0477-4c06-b7c4-5851d2c85fd6

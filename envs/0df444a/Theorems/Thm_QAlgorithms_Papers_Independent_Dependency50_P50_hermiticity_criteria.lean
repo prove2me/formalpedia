@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_hermiticity_criteria
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.hermiticity_criteria
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:25:22.368624+00:00
 -- url     : https://prove2.me/theorems/a3d2f627-4bf4-43ed-9433-86201778ee2a

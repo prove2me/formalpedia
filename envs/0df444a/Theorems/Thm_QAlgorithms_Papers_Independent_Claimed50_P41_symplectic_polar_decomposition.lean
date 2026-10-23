@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_symplectic_polar_decomposition
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.symplectic_polar_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:01:54.909003+00:00
 -- url     : https://prove2.me/theorems/1b7057b6-c9d0-499d-8d40-4bc6d96d7903

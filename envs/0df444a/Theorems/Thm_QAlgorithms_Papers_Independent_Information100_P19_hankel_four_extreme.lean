@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_hankel_four_extreme
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.hankel_four_extreme
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:46:57.080751+00:00
 -- url     : https://prove2.me/theorems/f0586ef7-2f62-4d59-8e43-28f67c950703

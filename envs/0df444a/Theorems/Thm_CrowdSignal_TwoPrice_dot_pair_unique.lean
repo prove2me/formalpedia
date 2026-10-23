@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdSignal_TwoPrice_dot_pair_unique
 -- name    : CrowdSignal.TwoPrice.dot_pair_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:14.822554+00:00
 -- url     : https://prove2.me/theorems/b61173ff-67de-4344-9125-7e9d3042e7eb

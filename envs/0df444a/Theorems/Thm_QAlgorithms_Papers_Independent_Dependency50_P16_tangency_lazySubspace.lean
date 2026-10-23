@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_tangency_lazySubspace
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.tangency_lazySubspace
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:15:53.774881+00:00
 -- url     : https://prove2.me/theorems/e5e8c760-b4af-48cd-93c8-ff67b6f98390

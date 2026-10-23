@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_pure_coefficients
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.pure_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:08:17.123548+00:00
 -- url     : https://prove2.me/theorems/0422de4a-549b-4728-bbfe-b22dd3547d11

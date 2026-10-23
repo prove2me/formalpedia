@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_two_point_dp
 -- name    : OpaquePricing.Dominance.two_point_dp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:58.412375+00:00
 -- url     : https://prove2.me/theorems/09e4dc12-87e9-4234-9f8c-c7b33bd4059d

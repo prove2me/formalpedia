@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_Deterministic_accelerated_one_step_recursion_v2
 -- name    : FirstOrderOpt.Deterministic.accelerated_one_step_recursion_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:16:36.332892+00:00
 -- url     : https://prove2.me/theorems/553487bd-4fb3-4949-88f2-3ab157a54d73

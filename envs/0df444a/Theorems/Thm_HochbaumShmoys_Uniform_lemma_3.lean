@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HochbaumShmoys_Uniform_lemma_3
 -- name    : HochbaumShmoys.Uniform.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:54.624787+00:00
 -- url     : https://prove2.me/theorems/25361713-7d69-4004-a736-dc0ad1b3f22c

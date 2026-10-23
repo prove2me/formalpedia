@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_invariantDissipator_singleField
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.invariantDissipator_singleField
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:36:58.135991+00:00
 -- url     : https://prove2.me/theorems/9467e721-c9b6-432a-b805-050d77ec0969

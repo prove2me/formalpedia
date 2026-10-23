@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P41_jc_anomaly_visibility
 -- name    : QAlgorithms.Papers.Independent.Information100.P41.jc_anomaly_visibility
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:26:48.69669+00:00
 -- url     : https://prove2.me/theorems/88d6373a-4ab7-4c3d-92a5-99cecc680b61

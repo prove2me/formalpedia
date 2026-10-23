@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostTradeFees_Welfare_corollary_3
 -- name    : PostTradeFees.Welfare.corollary_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:17:22.954669+00:00
 -- url     : https://prove2.me/theorems/5d0138a6-4db4-4221-bb8f-71ead5a58d7c

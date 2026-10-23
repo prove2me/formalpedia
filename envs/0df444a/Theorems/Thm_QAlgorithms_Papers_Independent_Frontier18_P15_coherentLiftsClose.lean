@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P15_coherentLiftsClose
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P15.coherentLiftsClose
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:05:47.405211+00:00
 -- url     : https://prove2.me/theorems/b6b421e2-3ad3-41b0-8b13-86e01213ff65

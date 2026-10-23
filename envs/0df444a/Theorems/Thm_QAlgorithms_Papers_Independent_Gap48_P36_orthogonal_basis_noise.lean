@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_orthogonal_basis_noise
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.orthogonal_basis_noise
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:13:30.241538+00:00
 -- url     : https://prove2.me/theorems/5a8e2dd3-2b5a-4800-b830-931fe03e805b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkedMarkets_Relaxation_theorem_1_i
 -- name    : NetworkedMarkets.Relaxation.theorem_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:32.101617+00:00
 -- url     : https://prove2.me/theorems/8cd0960d-f521-4b18-b439-1ff69b5c68b7

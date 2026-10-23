@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Distortion_choquet_integral_formula
 -- name    : RiskFunctionals.Distortion.choquet_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:50.148117+00:00
 -- url     : https://prove2.me/theorems/0bd1b290-dd4b-415e-9f70-d0f6ae825eeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_OLearn_ic_case_high
 -- name    : CustomerVoice.OLearn.ic_case_high
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:59.459841+00:00
 -- url     : https://prove2.me/theorems/2571b4a4-dccb-4675-977f-2e3ee39b78a5

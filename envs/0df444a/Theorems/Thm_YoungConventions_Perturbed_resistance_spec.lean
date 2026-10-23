@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_Perturbed_resistance_spec
 -- name    : YoungConventions.Perturbed.resistance_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:00:33.080088+00:00
 -- url     : https://prove2.me/theorems/d3078451-42d1-415d-a646-a3f7d29a622f

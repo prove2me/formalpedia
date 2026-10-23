@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P07_exterior_separability
 -- name    : QAlgorithms.Papers.Independent.Information100.P07.exterior_separability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:37:32.698591+00:00
 -- url     : https://prove2.me/theorems/0be2b3bf-a5e0-4789-92e6-8252849e2930

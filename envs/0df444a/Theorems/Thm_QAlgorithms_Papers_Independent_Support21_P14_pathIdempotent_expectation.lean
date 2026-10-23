@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P14_pathIdempotent_expectation
 -- name    : QAlgorithms.Papers.Independent.Support21.P14.pathIdempotent_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:27:11.893522+00:00
 -- url     : https://prove2.me/theorems/cd9ad45f-73b0-485b-9838-d8ab0ccae10e

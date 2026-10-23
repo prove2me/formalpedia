@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P19_classical_minimum_zero
 -- name    : QAlgorithms.Papers.Independent.Gap48.P19.classical_minimum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:07:44.442989+00:00
 -- url     : https://prove2.me/theorems/5624169f-6a66-4b7f-a248-61acd24b596d

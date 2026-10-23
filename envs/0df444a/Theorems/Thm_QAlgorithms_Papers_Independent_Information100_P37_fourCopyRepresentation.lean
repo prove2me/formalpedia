@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_fourCopyRepresentation
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.fourCopyRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:15:46.487791+00:00
 -- url     : https://prove2.me/theorems/54a93783-4a91-4dfb-beb1-74937e2593bd

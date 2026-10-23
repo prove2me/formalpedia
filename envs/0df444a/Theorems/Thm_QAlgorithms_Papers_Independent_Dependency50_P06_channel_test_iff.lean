@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P06_channel_test_iff
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P06.channel_test_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:22:20.569711+00:00
 -- url     : https://prove2.me/theorems/441826db-67bf-485c-80e2-638bdf9b9423

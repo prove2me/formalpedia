@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_exists_subseq_escapes_on_compacts
 -- name    : MilnorDynamics.exists_subseq_escapes_on_compacts
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T15:43:41.007545+00:00
 -- url     : https://prove2.me/theorems/484390ac-3b9e-4853-afdd-915300b51758

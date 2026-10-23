@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P22_classical_transposeRecovery
 -- name    : QAlgorithms.Papers.Independent.Gap48.P22.classical_transposeRecovery
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:18:46.632623+00:00
 -- url     : https://prove2.me/theorems/27fce5d4-1a10-4669-9a2e-ecd792fe98fc

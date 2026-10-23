@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_krausEntryGram
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.krausEntryGram
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:19:00.6506+00:00
 -- url     : https://prove2.me/theorems/030272dd-ee4d-46ea-b5d3-085d9d995a62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P35_complement_properties
 -- name    : QAlgorithms.Papers.Independent.Gap48.P35.complement_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:50:32.482079+00:00
 -- url     : https://prove2.me/theorems/fb0a0e89-2d74-4dc8-a262-06c9fd2ec5fb

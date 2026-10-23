@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarksKlimm_Consistency_individual_classification
 -- name    : HarksKlimm.Consistency.individual_classification
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:51.852075+00:00
 -- url     : https://prove2.me/theorems/de304b47-ae17-475b-9ab1-d0a81fa7e064

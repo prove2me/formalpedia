@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_image_conditions_not_sufficient
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.image_conditions_not_sufficient
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:09:06.58777+00:00
 -- url     : https://prove2.me/theorems/516c4236-9c50-4d6e-a3e4-ded7ee676751

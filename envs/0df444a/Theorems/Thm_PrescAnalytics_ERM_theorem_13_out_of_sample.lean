@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrescAnalytics_ERM_theorem_13_out_of_sample
 -- name    : PrescAnalytics.ERM.theorem_13_out_of_sample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:41:45.389989+00:00
 -- url     : https://prove2.me/theorems/48886c94-55ec-4bf8-93ed-6be83762cc75

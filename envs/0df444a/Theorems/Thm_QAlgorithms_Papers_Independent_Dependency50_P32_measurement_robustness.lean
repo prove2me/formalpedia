@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P32_measurement_robustness
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P32.measurement_robustness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:04:19.545037+00:00
 -- url     : https://prove2.me/theorems/9592ddf7-58f8-4ae3-880d-5616a4452a71

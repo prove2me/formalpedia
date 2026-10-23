@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_conjugates_partial_isometry
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.conjugates_partial_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:51:48.63023+00:00
 -- url     : https://prove2.me/theorems/75c999c9-ef2e-4c21-bf90-e8da76e39420

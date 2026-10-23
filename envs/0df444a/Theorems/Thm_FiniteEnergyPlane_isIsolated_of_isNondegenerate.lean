@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isIsolated_of_isNondegenerate
 -- name    : FiniteEnergyPlane.isIsolated_of_isNondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:41:04.368655+00:00
 -- url     : https://prove2.me/theorems/b7917bea-abea-47d1-9f49-373086ded951

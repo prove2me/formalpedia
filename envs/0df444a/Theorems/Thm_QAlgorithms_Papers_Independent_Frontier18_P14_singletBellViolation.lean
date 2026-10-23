@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_singletBellViolation
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.singletBellViolation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:09:25.883797+00:00
 -- url     : https://prove2.me/theorems/d64f096c-83fb-4abe-9bf1-eda12abd3760

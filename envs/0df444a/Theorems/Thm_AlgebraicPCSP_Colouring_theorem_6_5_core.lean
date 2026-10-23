@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicPCSP_Colouring_theorem_6_5_core
 -- name    : AlgebraicPCSP.Colouring.theorem_6_5_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:19.290772+00:00
 -- url     : https://prove2.me/theorems/b999c604-1368-450d-afd1-6bb72fc2b9c1

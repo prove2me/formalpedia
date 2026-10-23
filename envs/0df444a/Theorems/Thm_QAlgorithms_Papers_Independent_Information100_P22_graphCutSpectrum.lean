@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_graphCutSpectrum
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.graphCutSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:02:44.557121+00:00
 -- url     : https://prove2.me/theorems/e2c91e80-0ff0-4842-9bec-40a79fffff8b

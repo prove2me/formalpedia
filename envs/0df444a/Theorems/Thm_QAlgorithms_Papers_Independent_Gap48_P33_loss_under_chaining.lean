@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_loss_under_chaining
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.loss_under_chaining
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:37:05.38264+00:00
 -- url     : https://prove2.me/theorems/9a874ac1-3232-42ca-b9b3-ddbc480dd5c9

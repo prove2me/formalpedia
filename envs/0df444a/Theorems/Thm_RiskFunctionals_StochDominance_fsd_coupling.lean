@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_StochDominance_fsd_coupling
 -- name    : RiskFunctionals.StochDominance.fsd_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:34.109856+00:00
 -- url     : https://prove2.me/theorems/de016c81-8bc1-4b2a-adff-d29d2778fd00

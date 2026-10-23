@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_simpleUpperBound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.simpleUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:22:01.468303+00:00
 -- url     : https://prove2.me/theorems/ee9e60d0-e091-4156-8956-dfd7f84adb43

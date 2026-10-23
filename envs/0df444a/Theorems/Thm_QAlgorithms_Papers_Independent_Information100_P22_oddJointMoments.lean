@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_oddJointMoments
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.oddJointMoments
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:06:15.150906+00:00
 -- url     : https://prove2.me/theorems/d89d30f7-b60d-4268-8ec1-27452a3cd634

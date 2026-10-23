@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_lemma4_equilibrium_quality
 -- name    : NewsBundling.Unilateral.lemma4_equilibrium_quality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:53.632642+00:00
 -- url     : https://prove2.me/theorems/e2d615da-1d10-4cd0-848f-1f3b7aed7377

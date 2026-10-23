@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_CountableReversal_jump_equilibrium
 -- name    : KellyStochasticNetworks.CountableReversal.jump_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:50.469373+00:00
 -- url     : https://prove2.me/theorems/d07046db-d718-4f7b-ac1f-c279d9ab523b

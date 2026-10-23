@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_finiteFieldRealization
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.finiteFieldRealization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:07:17.234506+00:00
 -- url     : https://prove2.me/theorems/56548b10-880d-4972-bae4-2d200fab4567

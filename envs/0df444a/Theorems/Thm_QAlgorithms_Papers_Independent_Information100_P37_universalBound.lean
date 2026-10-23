@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_universalBound
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.universalBound
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-19T11:07:39.758644+00:00
 -- url     : https://prove2.me/theorems/296257a5-e752-41cb-85f4-5242bcf80ec3

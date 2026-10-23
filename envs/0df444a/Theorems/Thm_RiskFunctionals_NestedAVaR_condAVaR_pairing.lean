@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_NestedAVaR_condAVaR_pairing
 -- name    : RiskFunctionals.NestedAVaR.condAVaR_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:07.3518+00:00
 -- url     : https://prove2.me/theorems/a7a2bc2b-f365-493b-9208-5220b13ab19b

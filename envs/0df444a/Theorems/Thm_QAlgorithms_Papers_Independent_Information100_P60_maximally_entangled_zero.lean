@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_maximally_entangled_zero
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.maximally_entangled_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:44:36.461658+00:00
 -- url     : https://prove2.me/theorems/97bf439d-a9c6-4ac9-9d6c-828b87dbfcb4

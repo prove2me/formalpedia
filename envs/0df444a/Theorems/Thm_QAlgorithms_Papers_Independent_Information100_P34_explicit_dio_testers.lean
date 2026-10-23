@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P34_explicit_dio_testers
 -- name    : QAlgorithms.Papers.Independent.Information100.P34.explicit_dio_testers
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:25:38.202063+00:00
 -- url     : https://prove2.me/theorems/5689e564-721c-4df3-a1ac-0be8a0db4037

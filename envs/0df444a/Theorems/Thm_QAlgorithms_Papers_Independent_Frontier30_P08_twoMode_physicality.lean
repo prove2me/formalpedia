@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P08_twoMode_physicality
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P08.twoMode_physicality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:15:59.240973+00:00
 -- url     : https://prove2.me/theorems/ed94bd3a-84b4-407d-9c96-5747ed4f391e

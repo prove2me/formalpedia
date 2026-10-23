@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_quantile_mem_argmax
 -- name    : RiskFunctionals.AVaR.quantile_mem_argmax
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:58.348377+00:00
 -- url     : https://prove2.me/theorems/d3918779-fe82-45e0-8bcd-ef468d1b8380

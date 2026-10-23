@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_lemma1_benchmark
 -- name    : NewsBundling.Negotiated.lemma1_benchmark
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:08.862812+00:00
 -- url     : https://prove2.me/theorems/94446ce8-7179-481c-87da-74b269e64246

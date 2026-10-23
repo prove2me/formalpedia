@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_WellSeparated_display_C_5
 -- name    : MNLBandit.WellSeparated.display_C_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:27.146863+00:00
 -- url     : https://prove2.me/theorems/5aa8cde3-3731-4801-bf71-5a64e9b34d58

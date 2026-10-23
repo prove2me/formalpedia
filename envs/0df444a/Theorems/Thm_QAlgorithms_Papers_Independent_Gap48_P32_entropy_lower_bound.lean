@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P32_entropy_lower_bound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P32.entropy_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:34:25.705154+00:00
 -- url     : https://prove2.me/theorems/0fb25a21-bbef-42fc-8abd-28f3799ff1a7

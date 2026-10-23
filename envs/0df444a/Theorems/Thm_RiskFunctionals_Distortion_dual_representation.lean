@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Distortion_dual_representation
 -- name    : RiskFunctionals.Distortion.dual_representation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:53:09.894915+00:00
 -- url     : https://prove2.me/theorems/a634868c-67b6-486e-85ed-9a459c74339c

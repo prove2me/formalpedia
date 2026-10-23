@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P49_gaussianComposition
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P49.gaussianComposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:03:44.856127+00:00
 -- url     : https://prove2.me/theorems/4968ab57-170e-4db9-8962-81f937fda01e

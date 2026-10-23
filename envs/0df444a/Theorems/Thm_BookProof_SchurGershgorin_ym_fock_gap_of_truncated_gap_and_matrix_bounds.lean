@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchurGershgorin_ym_fock_gap_of_truncated_gap_and_matrix_bounds
 -- name    : BookProof.SchurGershgorin.ym_fock_gap_of_truncated_gap_and_matrix_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T13:23:20.877977+00:00
 -- url     : https://prove2.me/theorems/1a347b2b-b60d-467d-9301-4891b3692c43

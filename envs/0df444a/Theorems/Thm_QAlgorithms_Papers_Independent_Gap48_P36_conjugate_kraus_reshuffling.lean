@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_conjugate_kraus_reshuffling
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.conjugate_kraus_reshuffling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:03:59.135935+00:00
 -- url     : https://prove2.me/theorems/4999d915-ef6e-48a9-af1a-e2d4f5da9b0c

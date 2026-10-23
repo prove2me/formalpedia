@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_GeneralDisjunctions_rational_valid_cut_has_dual_feasible_tableau
 -- name    : Disjunctive.GeneralDisjunctions.rational_valid_cut_has_dual_feasible_tableau
--- status  : Open
+-- status  : Proved
 -- author  : @fizzyinc3
 -- created : 2026-10-18T10:34:30.085723+00:00
 -- url     : https://prove2.me/theorems/4ca9e354-a695-40ef-b234-fb67777b86ee

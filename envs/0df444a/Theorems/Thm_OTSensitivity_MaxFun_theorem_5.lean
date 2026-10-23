@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OTSensitivity_MaxFun_theorem_5
 -- name    : OTSensitivity.MaxFun.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:31.538341+00:00
 -- url     : https://prove2.me/theorems/127887cb-157b-40a3-be68-543863d93890

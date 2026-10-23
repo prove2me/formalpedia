@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_metric_lp
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.metric_lp
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:12:22.876229+00:00
 -- url     : https://prove2.me/theorems/4ce65ec8-8acc-489c-af3e-8e8793bff760

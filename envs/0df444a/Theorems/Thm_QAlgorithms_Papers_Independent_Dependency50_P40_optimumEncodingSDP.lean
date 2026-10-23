@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P40_optimumEncodingSDP
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P40.optimumEncodingSDP
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:24:08.304969+00:00
 -- url     : https://prove2.me/theorems/60cf5f8a-7786-4cb3-9340-dfa9f536ab75

@@ -7,9 +7,9 @@
 -- title:
 --   Σ tan(x/2^k)/2^k = 1/x - cot x
 -- statement:
---   Let $x\ne0$ be real and assume $\cos(x/2^k)\ne0$ for every integer $k\ge1$. Then $\sum_{k\ge1}2^{-k}\tan(x/2^k)=1/x-\cot x$, with absolute convergence. Differs from the printed source: $x\ne0$ is added.
+--   Let $x\ne0$ be real and assume $\cos(x/2^k)\ne0$ for every integer $k\ge1$. Then $\sum_{k\ge1}2^{-k}\tan(x/2^k)=1/x-\cot x$, with absolute convergence.
 --
---   **Discrepancy from the printed source.** Entry 24 at p. 396 excludes tangent poles but admits $x=0$. At that point its right side involves undefined reciprocals; its continuous extension is zero. The stated cosine conditions express the same tangent-pole exclusion as the print, and the additional nonzero condition makes the displayed right side meaningful.
+--   **Discrepancy from the printed source.** $x\ne0$ is added. Entry 24 at p. 396 excludes tangent poles but admits $x=0$. At that point its right side involves undefined reciprocals; its continuous extension is zero. The stated cosine conditions express the same tangent-pole exclusion as the print, and the additional nonzero condition makes the displayed right side meaningful.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 31, Entry 24, p. 396.
 

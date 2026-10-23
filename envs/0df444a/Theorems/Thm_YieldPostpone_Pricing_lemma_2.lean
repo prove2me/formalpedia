@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Pricing_lemma_2
 -- name    : YieldPostpone.Pricing.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:29.775981+00:00
 -- url     : https://prove2.me/theorems/b027e68f-767e-45ba-94a4-3c0e83f43914

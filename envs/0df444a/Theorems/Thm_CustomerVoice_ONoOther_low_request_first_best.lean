@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_ONoOther_low_request_first_best
 -- name    : CustomerVoice.ONoOther.low_request_first_best
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:41.555589+00:00
 -- url     : https://prove2.me/theorems/2cc357f5-709c-4dfc-91c2-00959e4d1967

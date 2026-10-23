@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_dilationIndependentSaturation
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.dilationIndependentSaturation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:44:02.720739+00:00
 -- url     : https://prove2.me/theorems/173e4cef-d0de-41e3-89c5-37629fd547d6

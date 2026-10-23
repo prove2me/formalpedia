@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.SmoothProperCurve.exists_positive_euler_degree_multiplier_of_finite_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-13T17:09:06.254339+00:00
 -- url     : https://prove2.me/submissions/3179dae2-9f15-4aef-9d4d-44f9c7b28051
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_ModulesPullbackMonoidalV2
 import Theorems.Thm_AlgebraicGeometry_Scheme_Modules_IsInvertible_exists_tensor_inverse_monoidalV2

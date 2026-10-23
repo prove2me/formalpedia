@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_projective_qubit_robustness_tight
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.projective_qubit_robustness_tight
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:08:23.11934+00:00
 -- url     : https://prove2.me/theorems/4aee7dd7-6d08-4fce-839e-9ec9cb499945

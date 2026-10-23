@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_L1_f_case_a
 -- name    : SubsetShrink.L1.f_case_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:42.070988+00:00
 -- url     : https://prove2.me/theorems/3bbaa5ac-556b-4386-8131-2af8cb0d3daf

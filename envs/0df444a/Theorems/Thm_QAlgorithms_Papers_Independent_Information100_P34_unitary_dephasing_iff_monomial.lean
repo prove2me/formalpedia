@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P34_unitary_dephasing_iff_monomial
 -- name    : QAlgorithms.Papers.Independent.Information100.P34.unitary_dephasing_iff_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:27:15.724336+00:00
 -- url     : https://prove2.me/theorems/135e3775-3627-45c3-b241-94373c673347

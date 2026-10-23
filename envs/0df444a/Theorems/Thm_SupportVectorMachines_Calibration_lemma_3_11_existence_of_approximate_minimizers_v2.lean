@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Calibration_lemma_3_11_existence_of_approximate_minimizers_v2
 -- name    : SupportVectorMachines.Calibration.lemma_3_11_existence_of_approximate_minimizers_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:43:04.722031+00:00
 -- url     : https://prove2.me/theorems/e3189f21-5291-4ec7-820a-308b1c046788

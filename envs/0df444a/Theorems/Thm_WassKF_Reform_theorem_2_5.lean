@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassKF_Reform_theorem_2_5
 -- name    : WassKF.Reform.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:11:58.753079+00:00
 -- url     : https://prove2.me/theorems/b6aac497-30f8-4b22-b2dc-4c0918e0d12b

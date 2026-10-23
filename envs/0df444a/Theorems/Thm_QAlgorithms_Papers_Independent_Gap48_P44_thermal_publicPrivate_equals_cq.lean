@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P44_thermal_publicPrivate_equals_cq
 -- name    : QAlgorithms.Papers.Independent.Gap48.P44.thermal_publicPrivate_equals_cq
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:46:17.738161+00:00
 -- url     : https://prove2.me/theorems/eabf09f6-76b6-45e0-8d74-3473c9441a68

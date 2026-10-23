@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpatialPricing_ABC_lemma_4_probability
 -- name    : SpatialPricing.ABC.lemma_4_probability
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:14.387673+00:00
 -- url     : https://prove2.me/theorems/a4e2485b-1be8-4dd0-b958-252f45052eba

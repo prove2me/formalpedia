@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_EffectiveBandwidth_largest_term
 -- name    : KellyStochasticNetworks.EffectiveBandwidth.largest_term
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:11.324998+00:00
 -- url     : https://prove2.me/theorems/2683d0eb-3a19-45b7-89ae-738d5a4470e3

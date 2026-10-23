@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_binary_qutrit_passive_energy_formula
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.binary_qutrit_passive_energy_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:12:02.110029+00:00
 -- url     : https://prove2.me/theorems/3029d7d4-885b-4ec3-966f-5a28931b780c

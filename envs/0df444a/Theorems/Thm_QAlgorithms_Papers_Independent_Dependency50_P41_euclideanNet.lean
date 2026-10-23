@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P41_euclideanNet
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P41.euclideanNet
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:58:38.093195+00:00
 -- url     : https://prove2.me/theorems/02e0c494-b4d9-440f-8ead-30dafa0b15c2

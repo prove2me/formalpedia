@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P19_haarHilbertSchmidt
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P19.haarHilbertSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:13:01.816549+00:00
 -- url     : https://prove2.me/theorems/9e76fbff-2bd9-4640-9976-dc5dd164e24c

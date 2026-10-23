@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MitigateSupplyRisk_Improvement_theorem_3
 -- name    : MitigateSupplyRisk.Improvement.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:14:47.207518+00:00
 -- url     : https://prove2.me/theorems/7fe25a30-0678-438e-a760-91c11f8d5a66

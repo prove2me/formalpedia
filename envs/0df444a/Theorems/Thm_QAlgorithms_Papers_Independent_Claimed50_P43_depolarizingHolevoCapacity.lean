@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P43_depolarizingHolevoCapacity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P43.depolarizingHolevoCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:28:53.955488+00:00
 -- url     : https://prove2.me/theorems/9f34c9a1-ab03-4469-be5a-0da1a5209683

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P14_highLoss_boundCurves
 -- name    : QAlgorithms.Papers.Independent.Gap20.P14.highLoss_boundCurves
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:32:25.863726+00:00
 -- url     : https://prove2.me/theorems/58dc7390-a1c0-440e-b536-41c2f74178c7

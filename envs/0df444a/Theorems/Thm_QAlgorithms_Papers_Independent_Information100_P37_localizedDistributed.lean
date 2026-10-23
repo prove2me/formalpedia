@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_localizedDistributed
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.localizedDistributed
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:19:33.30612+00:00
 -- url     : https://prove2.me/theorems/a602431a-64eb-435e-99d4-8d04bb4cbd6b

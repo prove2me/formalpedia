@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P13_valueProducts
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P13.valueProducts
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:17:30.995986+00:00
 -- url     : https://prove2.me/theorems/323a90d0-7651-441d-86b1-960d1aa8b724

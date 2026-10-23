@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P35_generalizedMean_iff_dataProcessing
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P35.generalizedMean_iff_dataProcessing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:51:27.408128+00:00
 -- url     : https://prove2.me/theorems/245753dc-417a-45db-8447-4ac27ea0c439

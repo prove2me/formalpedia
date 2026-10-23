@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Deviation_avar_deviation_min
 -- name    : RiskFunctionals.Deviation.avar_deviation_min
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:52.64987+00:00
 -- url     : https://prove2.me/theorems/cd375330-2116-4ad6-bf2b-b10c5ba5912a

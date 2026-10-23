@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P06_projectiveRobustness_submultiplicative
 -- name    : QAlgorithms.Papers.Independent.Information100.P06.projectiveRobustness_submultiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:30:07.797998+00:00
 -- url     : https://prove2.me/theorems/81015b22-d380-421e-bd59-009ab3a0d6b1

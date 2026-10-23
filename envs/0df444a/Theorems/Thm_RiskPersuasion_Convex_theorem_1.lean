@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPersuasion_Convex_theorem_1
 -- name    : RiskPersuasion.Convex.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:42:05.851179+00:00
 -- url     : https://prove2.me/theorems/249712d1-2936-41fe-9ec5-b37b11e13420

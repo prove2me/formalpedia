@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwiceRegMDP_R2Bellman_theorem_5_1
 -- name    : TwiceRegMDP.R2Bellman.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:40:56.178866+00:00
 -- url     : https://prove2.me/theorems/1b9f757d-4f25-4be4-ba55-656f83618c11

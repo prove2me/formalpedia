@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_twoCopyConversions
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.twoCopyConversions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:22:48.499888+00:00
 -- url     : https://prove2.me/theorems/eeaadda5-386a-47f7-8a9a-e1f316abdb6b

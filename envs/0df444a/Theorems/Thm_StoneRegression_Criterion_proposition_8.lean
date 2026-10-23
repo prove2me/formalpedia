@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StoneRegression_Criterion_proposition_8
 -- name    : StoneRegression.Criterion.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:44:11.458342+00:00
 -- url     : https://prove2.me/theorems/3df78f70-7fb0-4208-8a31-6dd332daa18d

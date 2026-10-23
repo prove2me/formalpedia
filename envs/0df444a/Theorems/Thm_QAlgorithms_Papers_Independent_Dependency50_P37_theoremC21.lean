@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P37_theoremC21
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P37.theoremC21
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:32:19.256345+00:00
 -- url     : https://prove2.me/theorems/37a66139-46f1-42cd-a978-b263594f2e98

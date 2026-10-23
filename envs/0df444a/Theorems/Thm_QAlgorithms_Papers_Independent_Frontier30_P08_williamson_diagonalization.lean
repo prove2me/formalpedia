@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P08_williamson_diagonalization
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P08.williamson_diagonalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:14:14.207573+00:00
 -- url     : https://prove2.me/theorems/09d17d2d-c0a4-41fb-9de0-c17d8f8b5202

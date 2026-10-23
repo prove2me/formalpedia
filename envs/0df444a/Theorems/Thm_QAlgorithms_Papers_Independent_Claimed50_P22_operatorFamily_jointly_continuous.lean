@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_operatorFamily_jointly_continuous
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.operatorFamily_jointly_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:08:42.15346+00:00
 -- url     : https://prove2.me/theorems/8fa74954-43d1-4104-a2f3-f1a129b33b2a

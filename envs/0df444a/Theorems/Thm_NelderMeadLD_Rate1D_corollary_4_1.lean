@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Rate1D_corollary_4_1
 -- name    : NelderMeadLD.Rate1D.corollary_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:13:17.753973+00:00
 -- url     : https://prove2.me/theorems/fab1dd7d-0b82-4dfd-a4ea-c776cfe8c295

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Adjustable_quadratic_rules_sdp
 -- name    : RobustOpt2009.Adjustable.quadratic_rules_sdp
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:44:38.750433+00:00
 -- url     : https://prove2.me/theorems/9daa7d3e-c668-454f-89a0-2d553943109f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_ordinary_cg_decomposition
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.ordinary_cg_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:58:37.788954+00:00
 -- url     : https://prove2.me/theorems/309ae8d7-adaa-4c0d-98b9-eb1c716f3ac3

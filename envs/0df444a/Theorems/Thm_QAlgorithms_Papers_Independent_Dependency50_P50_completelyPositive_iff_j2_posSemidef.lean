@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_completelyPositive_iff_j2_posSemidef
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.completelyPositive_iff_j2_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:29:30.329706+00:00
 -- url     : https://prove2.me/theorems/9652b460-f603-46cf-9d15-d802d2e0d4db

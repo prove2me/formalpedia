@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_oddProperSectorMarginals
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.oddProperSectorMarginals
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:15:57.821241+00:00
 -- url     : https://prove2.me/theorems/5c704a18-a1d4-4427-8f9a-6f5bedfad43b

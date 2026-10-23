@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IPAHD_theorem_4
 -- name    : HessianDamping.IPAHD.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:39.813992+00:00
 -- url     : https://prove2.me/theorems/e6fcd090-268d-46c7-9c40-d85bd32dde95

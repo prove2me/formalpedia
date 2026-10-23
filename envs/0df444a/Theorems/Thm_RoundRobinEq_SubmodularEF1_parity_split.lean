@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundRobinEq_SubmodularEF1_parity_split
 -- name    : RoundRobinEq.SubmodularEF1.parity_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:34.326322+00:00
 -- url     : https://prove2.me/theorems/5792a46b-18d9-439e-9cd9-f30757e7a614

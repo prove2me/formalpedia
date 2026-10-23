@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_kraus_mixing
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.kraus_mixing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:03:09.03367+00:00
 -- url     : https://prove2.me/theorems/bb694e83-24bb-4af8-9374-1fc877afde82

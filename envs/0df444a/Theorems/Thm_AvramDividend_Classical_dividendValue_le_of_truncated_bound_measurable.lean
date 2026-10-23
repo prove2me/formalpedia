@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dividendValue_le_of_truncated_bound_measurable
 -- name    : AvramDividend.Classical.dividendValue_le_of_truncated_bound_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:35:11.908685+00:00
 -- url     : https://prove2.me/theorems/70aeb705-1f56-4a8d-a202-c5f1f77d0719

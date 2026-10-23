@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_AmpleFleet_theorem_1C
 -- name    : TeleDriving.AmpleFleet.theorem_1C
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:45.85444+00:00
 -- url     : https://prove2.me/theorems/c22f1e75-e1d4-4b98-8f0b-193dd94132e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IdentityMgmt_FIA_proposition_1
 -- name    : IdentityMgmt.FIA.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:54.698907+00:00
 -- url     : https://prove2.me/theorems/ec180014-40cf-415a-bd0a-a1ddc2f6d98e

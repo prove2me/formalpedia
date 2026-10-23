@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_newsboy_problem
 -- name    : RiskFunctionals.AVaR.newsboy_problem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:05.532211+00:00
 -- url     : https://prove2.me/theorems/73e5e6bf-5f40-4518-b905-9581710a28a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_ThreeBuffer_emptying_time
 -- name    : DaiWeissFluid.ThreeBuffer.emptying_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:47:04.310983+00:00
 -- url     : https://prove2.me/theorems/976dd410-34a1-439d-ae58-bc9c36ecacda

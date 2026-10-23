@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P50_lc_lipschitz
 -- name    : QAlgorithms.Papers.Independent.Information100.P50.lc_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:10:16.235374+00:00
 -- url     : https://prove2.me/theorems/41695bf0-bb4a-48f5-bb7c-976805123c9f

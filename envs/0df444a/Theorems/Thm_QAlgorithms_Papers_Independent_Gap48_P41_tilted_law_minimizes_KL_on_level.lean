@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P41_tilted_law_minimizes_KL_on_level
 -- name    : QAlgorithms.Papers.Independent.Gap48.P41.tilted_law_minimizes_KL_on_level
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:33:29.62892+00:00
 -- url     : https://prove2.me/theorems/41c121ee-9b96-4d2e-b460-0a828309448d

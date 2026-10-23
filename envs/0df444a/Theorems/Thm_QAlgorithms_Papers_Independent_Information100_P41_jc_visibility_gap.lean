@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P41_jc_visibility_gap
 -- name    : QAlgorithms.Papers.Independent.Information100.P41.jc_visibility_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:32:44.864102+00:00
 -- url     : https://prove2.me/theorems/26c78491-092a-4626-89c3-838b555400e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_entropyPotentials
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.entropyPotentials
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:11:16.105561+00:00
 -- url     : https://prove2.me/theorems/79c29a24-bc96-4a35-b6cd-ddad61c3a17f

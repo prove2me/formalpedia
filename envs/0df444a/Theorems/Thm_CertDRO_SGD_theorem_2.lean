@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertDRO_SGD_theorem_2
 -- name    : CertDRO.SGD.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T18:19:41.542349+00:00
 -- url     : https://prove2.me/theorems/4b511002-8868-4145-9d1e-f15cf3973e11

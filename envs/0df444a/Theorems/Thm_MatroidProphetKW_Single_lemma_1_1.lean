@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_Single_lemma_1_1
 -- name    : MatroidProphetKW.Single.lemma_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:08.448129+00:00
 -- url     : https://prove2.me/theorems/1aac1e7d-6eb5-4c49-9ae2-d1738d3fc6cb

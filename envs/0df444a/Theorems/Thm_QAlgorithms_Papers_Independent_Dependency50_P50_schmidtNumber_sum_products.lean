@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_schmidtNumber_sum_products
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.schmidtNumber_sum_products
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:24:48.635291+00:00
 -- url     : https://prove2.me/theorems/a6651984-ca76-4151-9a6d-213482cdf21c

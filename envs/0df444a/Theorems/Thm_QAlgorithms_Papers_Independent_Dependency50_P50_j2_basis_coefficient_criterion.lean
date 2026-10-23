@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_j2_basis_coefficient_criterion
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.j2_basis_coefficient_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:27:08.427859+00:00
 -- url     : https://prove2.me/theorems/df2a0a16-e8cb-4e5e-9ec4-aed76eae55d7

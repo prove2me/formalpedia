@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_collectingSubspace_characterization
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.collectingSubspace_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:41:02.049572+00:00
 -- url     : https://prove2.me/theorems/e3ea3c77-694b-4852-b8f9-8f8355d41249

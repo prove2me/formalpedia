@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_ghzExactRobustness
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.ghzExactRobustness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:02:05.627984+00:00
 -- url     : https://prove2.me/theorems/1ed8905c-311e-4eba-ac13-b558e1dc5149

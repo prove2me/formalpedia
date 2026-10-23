@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_noisy_trine_lower_bound_tight
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.noisy_trine_lower_bound_tight
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:09:24.280513+00:00
 -- url     : https://prove2.me/theorems/594419d0-54a7-447c-8ba8-4282fcb0de81

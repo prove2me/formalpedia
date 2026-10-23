@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_ValueOfInfo_compound_conditional
 -- name    : RiskFunctionals.ValueOfInfo.compound_conditional
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:17.1128+00:00
 -- url     : https://prove2.me/theorems/afb2cb0f-bb4b-4f1e-8cbd-5d6def95ae36

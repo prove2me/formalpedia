@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerticalOwnership_CompleteInfo_theorem_1
 -- name    : VerticalOwnership.CompleteInfo.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:10.184276+00:00
 -- url     : https://prove2.me/theorems/b74f28c8-7b39-45b1-ba90-d53e61a1eb6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P11_resolvent_order_counterexample
 -- name    : QAlgorithms.Papers.Independent.Renew46.P11.resolvent_order_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:12:17.513073+00:00
 -- url     : https://prove2.me/theorems/b877e27e-f72a-4fc3-8d7e-ddc9360bbe47

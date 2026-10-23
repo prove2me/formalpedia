@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P19_decoupling
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P19.decoupling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:11:23.938963+00:00
 -- url     : https://prove2.me/theorems/a25b2fbc-b1db-4f1f-ab25-e18732490d4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_AsymIntermediate_theorem_2B
 -- name    : TeleDriving.AsymIntermediate.theorem_2B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:57.586376+00:00
 -- url     : https://prove2.me/theorems/dd583c9a-f9f4-4ad5-8f29-27ba0ffd8be0

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SubsetShrink.BIC.theorem_5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @mihalyimark
 -- created : 2026-10-18T20:12:54.346496+00:00
 -- url     : https://prove2.me/submissions/3bb3bb1e-2d29-431b-bf16-9b5b5891b138
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SubsetShrink_BIC_Model

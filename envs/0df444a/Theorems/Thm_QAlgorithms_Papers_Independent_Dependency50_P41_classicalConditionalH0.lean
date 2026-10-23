@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P41_classicalConditionalH0
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P41.classicalConditionalH0
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:47:10.753278+00:00
 -- url     : https://prove2.me/theorems/43739e93-3b49-4390-8863-7205e0c5b210

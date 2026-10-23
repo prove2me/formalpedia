@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_erasureHolevoAdditivity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.erasureHolevoAdditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:27:32.620902+00:00
 -- url     : https://prove2.me/theorems/a3493735-4618-4f90-b7fd-6dbd285ff223

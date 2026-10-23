@@ -8,12 +8,11 @@
 --   Ramanujan's Notebooks, Part I, Ch. 41: ch41HardyClass
 -- statement:
 --   Hardy's conditions on a function `ψ` (Quarterly Reports, §1.3, p. 299, with (1.3)): `ψ` is
---   analytic on the closed half-plane `H(δ) = {s : Re s ≥ -δ}`, written as "complex differentiable
---   on some open set containing `H(δ)`", and there is a constant `C` with
+--   analytic on the closed half-plane `H(δ) = {s : Re s ≥ -δ}`, meaning complex differentiability
+--   on some open set containing `H(δ)`, and there is a constant `C` with
 --   `|ψ(s)| ≤ C exp(P σ + A |t|)` for every `s = σ + i t` in `H(δ)`.
 --   The numbers `δ`, `P`, `A` are parameters; the book's further requirements `0 < δ < 1` and
 --   `A < π` are NOT part of this predicate and are separate hypotheses of each statement.
---   A proposition: no junk value.
 --   Reference: `ψ(s) = 1` satisfies it with every `δ`, `P = 0`, `A = 0`; `ψ(s) = 1/Γ(s + 1)`
 --   satisfies it for `0 < δ < 1` with `P = 0` and any `π/2 < A < π`.
 -- source:

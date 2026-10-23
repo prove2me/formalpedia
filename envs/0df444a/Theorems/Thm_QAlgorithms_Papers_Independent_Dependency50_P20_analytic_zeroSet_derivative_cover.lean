@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P20_analytic_zeroSet_derivative_cover
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P20.analytic_zeroSet_derivative_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:14:13.361426+00:00
 -- url     : https://prove2.me/theorems/72b9e332-8b3e-4b44-91d4-2c3c37f04f66

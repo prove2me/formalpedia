@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P31_generalizedMinEntropy_splitting
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P31.generalizedMinEntropy_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:24:23.040994+00:00
 -- url     : https://prove2.me/theorems/38a20424-4d05-485b-8c75-76e0c4b0f0cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P27_covariant_replacement
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P27.covariant_replacement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:18:56.528994+00:00
 -- url     : https://prove2.me/theorems/6b1a2e5b-4eae-4f24-b5f1-f8bac3fa33da

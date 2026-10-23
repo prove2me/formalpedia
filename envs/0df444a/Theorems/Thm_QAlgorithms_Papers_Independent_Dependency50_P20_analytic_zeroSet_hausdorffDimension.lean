@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P20_analytic_zeroSet_hausdorffDimension
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P20.analytic_zeroSet_hausdorffDimension
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:14:44.392829+00:00
 -- url     : https://prove2.me/theorems/2800c9ce-3d0d-403d-b47c-0bf4db1559e2

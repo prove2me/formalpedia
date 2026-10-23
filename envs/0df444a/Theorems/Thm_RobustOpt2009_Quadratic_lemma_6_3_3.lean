@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Quadratic_lemma_6_3_3
 -- name    : RobustOpt2009.Quadratic.lemma_6_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:42:50.676648+00:00
 -- url     : https://prove2.me/theorems/5d2757f7-4133-470d-85db-39a6b678b19c

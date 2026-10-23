@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_FlowStability_per_flow_concavity_derivative
 -- name    : KellyStochasticNetworks.FlowStability.per_flow_concavity_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:23.364329+00:00
 -- url     : https://prove2.me/theorems/782c5468-8beb-4f18-adee-4ebe46991421

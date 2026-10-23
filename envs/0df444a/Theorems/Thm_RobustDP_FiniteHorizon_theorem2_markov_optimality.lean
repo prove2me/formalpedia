@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_FiniteHorizon_theorem2_markov_optimality
 -- name    : RobustDP.FiniteHorizon.theorem2_markov_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:37.246087+00:00
 -- url     : https://prove2.me/theorems/f3a4b69a-2327-41a8-8f75-c917b7e8570b

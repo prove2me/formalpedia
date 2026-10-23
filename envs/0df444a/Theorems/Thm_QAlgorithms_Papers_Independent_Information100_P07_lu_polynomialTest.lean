@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P07_lu_polynomialTest
 -- name    : QAlgorithms.Papers.Independent.Information100.P07.lu_polynomialTest
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:44:20.655962+00:00
 -- url     : https://prove2.me/theorems/05ea2160-4766-4d3f-af47-f6e77758a3e1

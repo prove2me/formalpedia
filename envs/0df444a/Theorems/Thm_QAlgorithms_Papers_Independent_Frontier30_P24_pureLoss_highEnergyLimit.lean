@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P24_pureLoss_highEnergyLimit
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P24.pureLoss_highEnergyLimit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:38:46.367221+00:00
 -- url     : https://prove2.me/theorems/1a2bcd24-4b53-4c35-a39f-4b3b12947210

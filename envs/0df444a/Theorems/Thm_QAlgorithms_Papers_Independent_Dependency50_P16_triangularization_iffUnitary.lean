@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_triangularization_iffUnitary
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.triangularization_iffUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:48:18.14998+00:00
 -- url     : https://prove2.me/theorems/230e70f5-cd9a-49e2-904c-d452ac839f05

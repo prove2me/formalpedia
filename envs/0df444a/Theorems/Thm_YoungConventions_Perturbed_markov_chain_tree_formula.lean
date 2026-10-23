@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_Perturbed_markov_chain_tree_formula
 -- name    : YoungConventions.Perturbed.markov_chain_tree_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:59:10.648588+00:00
 -- url     : https://prove2.me/theorems/bd147284-39dd-44e4-813c-8c20226128b4

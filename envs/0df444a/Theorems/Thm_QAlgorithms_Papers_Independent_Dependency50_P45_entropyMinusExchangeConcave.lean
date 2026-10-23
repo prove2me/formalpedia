@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P45_entropyMinusExchangeConcave
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P45.entropyMinusExchangeConcave
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:05:50.673398+00:00
 -- url     : https://prove2.me/theorems/d92a9ee6-2c8f-49d3-8080-3a794b941229

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_tilted_log_derivative_integrable_at_infinity
 -- name    : AvramDividend.Classical.unbounded_tilted_log_derivative_integrable_at_infinity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T23:07:39.460624+00:00
 -- url     : https://prove2.me/theorems/64de16a8-bef0-43de-bf0e-fe0df0ad2419

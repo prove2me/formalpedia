@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddictivePlatforms_Costly_lemma_D_3
 -- name    : AddictivePlatforms.Costly.lemma_D_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T14:38:33.902784+00:00
 -- url     : https://prove2.me/theorems/936092b8-a6d6-435e-9a03-5a01e7f8ab09

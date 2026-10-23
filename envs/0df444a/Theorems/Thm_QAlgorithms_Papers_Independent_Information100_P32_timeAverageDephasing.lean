@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_timeAverageDephasing
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.timeAverageDephasing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:44:58.541415+00:00
 -- url     : https://prove2.me/theorems/f5714088-3480-4507-abd6-311fef33c078

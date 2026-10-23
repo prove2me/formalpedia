@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_ValueOfInfo_clairvoyant_submartingale
 -- name    : RiskFunctionals.ValueOfInfo.clairvoyant_submartingale
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:33.157987+00:00
 -- url     : https://prove2.me/theorems/57303e05-1b14-4d7e-bf90-c7fa322b17eb

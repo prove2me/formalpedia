@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for MilnorDynamics.exists_subseq_escapes_locally
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-02T07:02:22.366155+00:00
 -- url     : https://prove2.me/submissions/77b439ab-0931-4b3b-9d0b-9306957f040a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MilnorDynamics_NormalFamilies

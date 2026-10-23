@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustFPA_VarBid_root_increasing
 -- name    : RobustFPA.VarBid.root_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:38.486102+00:00
 -- url     : https://prove2.me/theorems/560706ce-15f3-49f3-85f3-fe0b69078472

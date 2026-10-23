@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Stochastic_conditional_one_step
 -- name    : ShorNonsmooth.Stochastic.conditional_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:53:04.17495+00:00
 -- url     : https://prove2.me/theorems/e28554ec-8aa4-49db-8e89-83a73f8c4c8d

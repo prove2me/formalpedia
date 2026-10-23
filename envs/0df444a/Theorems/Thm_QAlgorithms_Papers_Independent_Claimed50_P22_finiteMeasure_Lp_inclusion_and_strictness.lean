@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P22_finiteMeasure_Lp_inclusion_and_strictness
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P22.finiteMeasure_Lp_inclusion_and_strictness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:13:25.638009+00:00
 -- url     : https://prove2.me/theorems/28df5702-9810-4692-a204-bda5bad5bf22

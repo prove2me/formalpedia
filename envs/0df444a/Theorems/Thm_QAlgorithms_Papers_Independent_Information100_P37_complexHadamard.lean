@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_complexHadamard
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.complexHadamard
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-19T11:10:36.229379+00:00
 -- url     : https://prove2.me/theorems/7da5e0de-aef6-42e2-8a79-64e908a0617b

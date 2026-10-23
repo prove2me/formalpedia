@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SOSInference_Means_eq_27
 -- name    : SOSInference.Means.eq_27
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:20.22121+00:00
 -- url     : https://prove2.me/theorems/c923b297-759f-4a30-b9a7-3f54e5e92a88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_prime_pair_dichotomy
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.prime_pair_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:59:30.311247+00:00
 -- url     : https://prove2.me/theorems/91bb25eb-6b85-4fd4-a1cb-24bdcd1bddbb

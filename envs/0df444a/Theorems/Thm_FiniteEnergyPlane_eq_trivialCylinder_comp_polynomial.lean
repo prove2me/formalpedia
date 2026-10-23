@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_eq_trivialCylinder_comp_polynomial
 -- name    : FiniteEnergyPlane.eq_trivialCylinder_comp_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:24:39.895279+00:00
 -- url     : https://prove2.me/theorems/0011475c-c463-40b7-a018-a8563b9bee9e

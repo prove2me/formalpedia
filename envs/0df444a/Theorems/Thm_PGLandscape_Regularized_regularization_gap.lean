@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PGLandscape_Regularized_regularization_gap
 -- name    : PGLandscape.Regularized.regularization_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T05:27:45.281158+00:00
 -- url     : https://prove2.me/theorems/a771c594-bca5-490a-b875-87d1d42936d7

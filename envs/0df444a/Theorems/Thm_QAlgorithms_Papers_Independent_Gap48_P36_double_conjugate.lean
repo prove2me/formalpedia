@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_double_conjugate
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.double_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:04:44.073657+00:00
 -- url     : https://prove2.me/theorems/28c1b085-067b-4db5-b7db-c422d51d3a6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_no_perfect_majority
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.no_perfect_majority
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:27:33.297097+00:00
 -- url     : https://prove2.me/theorems/5eccaf5d-ce92-4355-9c12-ff9a71863227

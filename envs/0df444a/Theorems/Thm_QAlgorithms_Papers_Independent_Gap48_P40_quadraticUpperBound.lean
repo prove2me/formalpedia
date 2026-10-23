@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_quadraticUpperBound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.quadraticUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:21:27.934932+00:00
 -- url     : https://prove2.me/theorems/25fc03af-4011-41a0-9774-ad9e822f50ae

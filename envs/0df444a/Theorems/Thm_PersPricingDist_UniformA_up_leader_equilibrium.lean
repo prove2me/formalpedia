@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_UniformA_up_leader_equilibrium
 -- name    : PersPricingDist.UniformA.up_leader_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:11.292076+00:00
 -- url     : https://prove2.me/theorems/17e8a619-1700-4559-937e-2d9a3b27eaea

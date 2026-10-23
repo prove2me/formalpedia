@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeviSampling_BaseStock_shadow_right_deriv
 -- name    : LeviSampling.BaseStock.shadow_right_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:50:18.90174+00:00
 -- url     : https://prove2.me/theorems/13308760-5a8f-4906-b2b6-dad44d814d61

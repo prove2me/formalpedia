@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovRCD_HighProb_theorem4
 -- name    : NesterovRCD.HighProb.theorem4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:21:43.726769+00:00
 -- url     : https://prove2.me/theorems/7076cfd0-f0ad-4857-b459-79092c5c296f

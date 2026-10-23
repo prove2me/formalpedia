@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Preference_lemma_4
 -- name    : YieldPostpone.Preference.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:29.4908+00:00
 -- url     : https://prove2.me/theorems/f7e36f33-43ee-4105-93b9-e156c36e89e2

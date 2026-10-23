@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_noisy_pure_conditions
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.noisy_pure_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:58:35.678027+00:00
 -- url     : https://prove2.me/theorems/faaebe5e-1415-4ff4-a925-33d01f7fe21e

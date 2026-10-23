@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedTrials_Consistency_theorem_1
 -- name    : CorrelatedTrials.Consistency.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:56.193101+00:00
 -- url     : https://prove2.me/theorems/c5b13ec7-0921-446e-add0-14b38bd62045

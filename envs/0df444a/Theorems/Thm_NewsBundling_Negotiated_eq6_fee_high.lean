@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_eq6_fee_high
 -- name    : NewsBundling.Negotiated.eq6_fee_high
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:00.641846+00:00
 -- url     : https://prove2.me/theorems/c52a68f6-79b2-474c-95ef-e838fdd330c6

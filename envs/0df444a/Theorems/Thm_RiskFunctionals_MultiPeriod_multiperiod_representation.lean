@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_MultiPeriod_multiperiod_representation
 -- name    : RiskFunctionals.MultiPeriod.multiperiod_representation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:53:12.543673+00:00
 -- url     : https://prove2.me/theorems/d42dae21-30d8-4143-aa0d-adf3dee24434

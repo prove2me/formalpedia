@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_bounded_iteratedFDeriv_of_sobolevNorm_le
 -- name    : JHolomorphic.bounded_iteratedFDeriv_of_sobolevNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:31:47.494427+00:00
 -- url     : https://prove2.me/theorems/34095e23-1ff1-4b46-a688-61f94f639c3b

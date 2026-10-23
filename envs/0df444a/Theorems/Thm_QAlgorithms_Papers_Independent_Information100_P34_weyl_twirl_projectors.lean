@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P34_weyl_twirl_projectors
 -- name    : QAlgorithms.Papers.Independent.Information100.P34.weyl_twirl_projectors
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:55:21.922978+00:00
 -- url     : https://prove2.me/theorems/ab0936af-9aaa-431e-ab3b-ad2868e0a6a9

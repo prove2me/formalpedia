@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_FirstBest_lemma_6
 -- name    : NeedPersuasion.FirstBest.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:58.313084+00:00
 -- url     : https://prove2.me/theorems/8b12c833-bbd3-4013-b27d-dae54e905384

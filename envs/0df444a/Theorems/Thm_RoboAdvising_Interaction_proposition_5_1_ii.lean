@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoboAdvising_Interaction_proposition_5_1_ii
 -- name    : RoboAdvising.Interaction.proposition_5_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:50.27022+00:00
 -- url     : https://prove2.me/theorems/3fcec58c-5bef-467f-8f2a-53a936530cea

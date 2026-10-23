@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanTT2_inductive_to_w
 -- name    : LeanTT2.inductive_to_w
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T03:09:15.66599+00:00
 -- url     : https://prove2.me/theorems/c24727e4-c8f1-4324-b0d2-99bb50d502a8

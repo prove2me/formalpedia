@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostTruth_Regimes_theorem_1
 -- name    : PostTruth.Regimes.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:23:34.395669+00:00
 -- url     : https://prove2.me/theorems/71cecc74-75e0-49da-b792-13d951055559

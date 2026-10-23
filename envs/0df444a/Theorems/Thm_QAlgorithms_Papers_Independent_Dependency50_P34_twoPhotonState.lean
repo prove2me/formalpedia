@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P34_twoPhotonState
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P34.twoPhotonState
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:22:32.499974+00:00
 -- url     : https://prove2.me/theorems/1e0a33f8-90f2-449c-a86f-ea1d2a6eada8

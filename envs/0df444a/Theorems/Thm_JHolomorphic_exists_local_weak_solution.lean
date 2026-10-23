@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_exists_local_weak_solution
 -- name    : JHolomorphic.exists_local_weak_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:32:41.827922+00:00
 -- url     : https://prove2.me/theorems/44571feb-24a8-4be9-ae83-820b0a229bcc

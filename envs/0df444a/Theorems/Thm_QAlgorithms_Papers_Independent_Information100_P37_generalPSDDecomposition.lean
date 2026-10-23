@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_generalPSDDecomposition
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.generalPSDDecomposition
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-19T11:21:50.283839+00:00
 -- url     : https://prove2.me/theorems/9d612652-f2d2-467f-b634-2d7efba32c73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_passive_diagonalizability_iff
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.passive_diagonalizability_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:08:32.643634+00:00
 -- url     : https://prove2.me/theorems/faa3dd0a-d279-4f74-a339-f52f57bf66cc

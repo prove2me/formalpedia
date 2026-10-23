@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_dickeSchmidt
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.dickeSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:14:46.608603+00:00
 -- url     : https://prove2.me/theorems/bb158a3d-7917-45dd-9853-d0cc9b8f7a4d

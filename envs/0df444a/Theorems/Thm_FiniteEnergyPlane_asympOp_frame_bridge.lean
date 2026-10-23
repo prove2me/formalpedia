@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_asympOp_frame_bridge
 -- name    : FiniteEnergyPlane.asympOp_frame_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:42:00.94403+00:00
 -- url     : https://prove2.me/theorems/e8b03002-052d-425e-82be-87cf9679e4dc

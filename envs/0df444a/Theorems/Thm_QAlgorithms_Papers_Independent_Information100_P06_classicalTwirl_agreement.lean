@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P06_classicalTwirl_agreement
 -- name    : QAlgorithms.Papers.Independent.Information100.P06.classicalTwirl_agreement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:28:03.960082+00:00
 -- url     : https://prove2.me/theorems/6ad466a3-fc5f-4a97-b886-6ca68e664197

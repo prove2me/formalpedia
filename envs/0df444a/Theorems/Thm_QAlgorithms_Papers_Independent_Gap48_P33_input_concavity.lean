@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_input_concavity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.input_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:32:24.678978+00:00
 -- url     : https://prove2.me/theorems/db1d2bbd-8228-484e-8a65-5d0ec52c810d

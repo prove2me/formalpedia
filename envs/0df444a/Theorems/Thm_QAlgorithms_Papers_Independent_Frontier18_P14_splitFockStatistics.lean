@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_splitFockStatistics
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.splitFockStatistics
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:06:10.148972+00:00
 -- url     : https://prove2.me/theorems/825faf43-6de1-428d-8375-4fd2a461f4ac

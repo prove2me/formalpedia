@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Interplay_threshold_order
 -- name    : YieldPostpone.Interplay.threshold_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:33.056225+00:00
 -- url     : https://prove2.me/theorems/51a0191c-bbb4-4783-92a2-33f01f33deac

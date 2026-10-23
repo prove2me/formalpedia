@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VehicleSharePricing_Static_theorem_2
 -- name    : VehicleSharePricing.Static.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:13.849698+00:00
 -- url     : https://prove2.me/theorems/dcf9ed42-6d1f-4a90-b1ee-34a7ea253375

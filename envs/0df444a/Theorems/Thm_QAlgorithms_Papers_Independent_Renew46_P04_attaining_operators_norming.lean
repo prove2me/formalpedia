@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_attaining_operators_norming
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.attaining_operators_norming
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:16:19.072221+00:00
 -- url     : https://prove2.me/theorems/ae202e88-b9b9-4cb0-adcc-c440cbda379c

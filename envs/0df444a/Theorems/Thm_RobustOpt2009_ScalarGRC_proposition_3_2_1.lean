@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_ScalarGRC_proposition_3_2_1
 -- name    : RobustOpt2009.ScalarGRC.proposition_3_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:41:43.533498+00:00
 -- url     : https://prove2.me/theorems/885a8105-8784-4028-87f5-46e7e60a7eaa

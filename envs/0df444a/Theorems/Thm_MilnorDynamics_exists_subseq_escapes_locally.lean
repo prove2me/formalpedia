@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_exists_subseq_escapes_locally
 -- name    : MilnorDynamics.exists_subseq_escapes_locally
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T03:56:22.778985+00:00
 -- url     : https://prove2.me/theorems/21774ff2-13db-4e9d-910c-53e4420ec4f5

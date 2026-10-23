@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_Oracle_eq24_all_windows
 -- name    : NonstatRL.Oracle.eq24_all_windows
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:29:12.652841+00:00
 -- url     : https://prove2.me/theorems/29f8b3d5-2eba-4bfc-ae03-05404eaf68b2

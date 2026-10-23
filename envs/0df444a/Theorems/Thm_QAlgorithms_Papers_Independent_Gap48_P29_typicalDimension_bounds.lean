@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_typicalDimension_bounds
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.typicalDimension_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:22:59.453027+00:00
 -- url     : https://prove2.me/theorems/04b11a77-d06a-45a8-9f26-d31970ecf32a

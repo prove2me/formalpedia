@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SOSInference_Means_lemma_2
 -- name    : SOSInference.Means.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:32.569312+00:00
 -- url     : https://prove2.me/theorems/1635b379-c70e-4f82-9801-d8632412c4f3

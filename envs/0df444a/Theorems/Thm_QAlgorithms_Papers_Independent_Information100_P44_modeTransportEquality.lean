@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_modeTransportEquality
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.modeTransportEquality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:34:51.559144+00:00
 -- url     : https://prove2.me/theorems/38e1f9e5-8764-4277-868e-3883fed0569b

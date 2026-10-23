@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_diagonal_channel_purity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.diagonal_channel_purity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:48:44.782756+00:00
 -- url     : https://prove2.me/theorems/005d289f-47b5-4573-b223-9ae45772d82e

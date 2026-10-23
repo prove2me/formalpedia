@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdSignal_TwoPrice_proposition_2
 -- name    : CrowdSignal.TwoPrice.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:15.160159+00:00
 -- url     : https://prove2.me/theorems/049d78aa-3d33-4235-b03c-4c006b2c5a81

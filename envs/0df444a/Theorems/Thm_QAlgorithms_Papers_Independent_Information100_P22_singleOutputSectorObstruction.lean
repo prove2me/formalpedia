@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_singleOutputSectorObstruction
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.singleOutputSectorObstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:52:22.49131+00:00
 -- url     : https://prove2.me/theorems/0e8fb5af-901b-4bb8-a2b1-a6e7ff2a7d77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_j1_identity_counterexample
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.j1_identity_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:28:13.016502+00:00
 -- url     : https://prove2.me/theorems/be47627d-13e7-416f-9f11-69cafd3f07e8

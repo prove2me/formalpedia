@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Preference_threshold_order
 -- name    : YieldPostpone.Preference.threshold_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:29.901082+00:00
 -- url     : https://prove2.me/theorems/ba49072b-f5d5-459e-a5ac-09589f2bc4e8

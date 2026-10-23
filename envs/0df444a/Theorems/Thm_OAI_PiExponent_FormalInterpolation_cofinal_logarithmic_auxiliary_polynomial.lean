@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_cofinal_logarithmic_auxiliary_polynomial
 -- name    : OAI.PiExponent.FormalInterpolation.cofinal_logarithmic_auxiliary_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T03:41:36.244987+00:00
 -- url     : https://prove2.me/theorems/37b32db9-b4fa-4962-a716-06d294426f6e

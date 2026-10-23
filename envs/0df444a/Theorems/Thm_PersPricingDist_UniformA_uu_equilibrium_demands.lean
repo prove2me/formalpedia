@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_UniformA_uu_equilibrium_demands
 -- name    : PersPricingDist.UniformA.uu_equilibrium_demands
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:12.095485+00:00
 -- url     : https://prove2.me/theorems/16ffebd8-1af1-4568-99df-a00a6ba3b9e8

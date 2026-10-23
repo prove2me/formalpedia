@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustFPA_VarBid_maxLoss_formula
 -- name    : RobustFPA.VarBid.maxLoss_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:35.633984+00:00
 -- url     : https://prove2.me/theorems/9775f163-33ae-4a9c-a67d-06aa19cb7764

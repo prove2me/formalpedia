@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_SmoothProperCurve_exists_positive_locally_free_rank_pushforward_structure
 -- name    : AlgebraicGeometry.SmoothProperCurve.exists_positive_locally_free_rank_pushforward_structure
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-13T17:08:24.04664+00:00
 -- url     : https://prove2.me/theorems/281b81b3-d39d-4f90-baae-d84f05b5b7b7

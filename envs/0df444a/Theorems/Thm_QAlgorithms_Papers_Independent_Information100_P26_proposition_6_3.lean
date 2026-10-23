@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P26_proposition_6_3
 -- name    : QAlgorithms.Papers.Independent.Information100.P26.proposition_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:44:00.793866+00:00
 -- url     : https://prove2.me/theorems/64306843-0875-407d-bd61-f019e8ba51ed

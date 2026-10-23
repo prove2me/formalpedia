@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P12_lemma2_5
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P12.lemma2_5
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T18:45:40.72235+00:00
 -- url     : https://prove2.me/theorems/10d46a44-7bbb-4eb9-a9f9-0af4b759ae6f

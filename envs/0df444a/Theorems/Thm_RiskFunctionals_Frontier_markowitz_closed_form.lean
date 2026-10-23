@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Frontier_markowitz_closed_form
 -- name    : RiskFunctionals.Frontier.markowitz_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:24.048345+00:00
 -- url     : https://prove2.me/theorems/76d81ac4-d801-4142-8a1e-e0e9cb5d07d3

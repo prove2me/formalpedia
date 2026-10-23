@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRMeanVar_Reform_theorem_1
 -- name    : DRMeanVar.Reform.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:15.031989+00:00
 -- url     : https://prove2.me/theorems/05f5e4a4-c985-4bf0-b119-fdd242d9f24a

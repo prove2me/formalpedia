@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_cq_hadamard_diagonal
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.cq_hadamard_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:06:52.47651+00:00
 -- url     : https://prove2.me/theorems/6f9b2a26-d73e-4b29-9f0d-4adbd1d099cb

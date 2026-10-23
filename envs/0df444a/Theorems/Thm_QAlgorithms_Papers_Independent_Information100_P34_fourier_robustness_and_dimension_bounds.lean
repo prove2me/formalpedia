@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P34_fourier_robustness_and_dimension_bounds
 -- name    : QAlgorithms.Papers.Independent.Information100.P34.fourier_robustness_and_dimension_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:56:56.93467+00:00
 -- url     : https://prove2.me/theorems/652d83fb-5df0-4da0-a492-adfa6c298163

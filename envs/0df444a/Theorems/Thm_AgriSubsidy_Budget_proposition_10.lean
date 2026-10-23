@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AgriSubsidy_Budget_proposition_10
 -- name    : AgriSubsidy.Budget.proposition_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:23.31604+00:00
 -- url     : https://prove2.me/theorems/5d06fbf2-9e57-4da6-8262-6fbb2d93355e

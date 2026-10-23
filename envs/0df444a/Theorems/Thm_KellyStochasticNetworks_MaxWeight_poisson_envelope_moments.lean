@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_MaxWeight_poisson_envelope_moments
 -- name    : KellyStochasticNetworks.MaxWeight.poisson_envelope_moments
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:56.562805+00:00
 -- url     : https://prove2.me/theorems/5239c402-900f-41da-a5a1-b515bd6a9dd4

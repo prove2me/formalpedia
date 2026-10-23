@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_measured_input_holevo
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.measured_input_holevo
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:38:46.263104+00:00
 -- url     : https://prove2.me/theorems/8c3c9358-c391-4c2e-a15c-eeb8c613ca8d

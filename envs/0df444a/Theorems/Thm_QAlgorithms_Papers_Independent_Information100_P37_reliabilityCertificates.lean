@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_reliabilityCertificates
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.reliabilityCertificates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:13:37.338962+00:00
 -- url     : https://prove2.me/theorems/8370f492-4d85-423a-a21b-a0ba059278c0

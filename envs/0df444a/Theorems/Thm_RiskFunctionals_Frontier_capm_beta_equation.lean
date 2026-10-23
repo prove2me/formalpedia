@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Frontier_capm_beta_equation
 -- name    : RiskFunctionals.Frontier.capm_beta_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:12.763835+00:00
 -- url     : https://prove2.me/theorems/fb4f569c-cf43-45d7-a538-60c1b69900ad

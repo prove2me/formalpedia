@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_L1_theorem_3
 -- name    : SubsetShrink.L1.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:42.938221+00:00
 -- url     : https://prove2.me/theorems/930b2218-994b-46db-9645-fbb6498025db

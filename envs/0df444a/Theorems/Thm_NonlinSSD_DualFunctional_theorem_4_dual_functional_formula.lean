@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinSSD_DualFunctional_theorem_4_dual_functional_formula
 -- name    : NonlinSSD.DualFunctional.theorem_4_dual_functional_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:23:13.302287+00:00
 -- url     : https://prove2.me/theorems/8a065062-6637-42bb-a52d-b5f1309783d1

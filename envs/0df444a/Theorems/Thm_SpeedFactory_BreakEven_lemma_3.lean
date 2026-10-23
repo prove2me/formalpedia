@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpeedFactory_BreakEven_lemma_3
 -- name    : SpeedFactory.BreakEven.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:27.145697+00:00
 -- url     : https://prove2.me/theorems/1ba09c45-9f0f-4a5d-9f21-0f817dd20ffa

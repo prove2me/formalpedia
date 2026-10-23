@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_StochDominance_quantile_le_iff
 -- name    : RiskFunctionals.StochDominance.quantile_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:42.972678+00:00
 -- url     : https://prove2.me/theorems/011d8c8a-53ee-46be-b6d6-023457a7567c

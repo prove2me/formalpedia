@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_Threshold_theorem_1
 -- name    : NeedPersuasion.Threshold.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:04:59.945984+00:00
 -- url     : https://prove2.me/theorems/39d1c79b-61cb-4536-b8d4-712ccafde557

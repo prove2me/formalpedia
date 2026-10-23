@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_locally_bounded_of_bounded_at_point
 -- name    : MilnorDynamics.locally_bounded_of_bounded_at_point
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T14:49:05.32001+00:00
 -- url     : https://prove2.me/theorems/cbf28e8f-24ca-4afe-9e7c-026aa989a381

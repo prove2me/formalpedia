@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdTarget_Separating_supp_informed_deviation
 -- name    : CrowdTarget.Separating.supp_informed_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:04.309967+00:00
 -- url     : https://prove2.me/theorems/1d0dff3b-4be1-42af-8023-ce09cf58b818

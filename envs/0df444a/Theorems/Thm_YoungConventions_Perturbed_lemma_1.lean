@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_Perturbed_lemma_1
 -- name    : YoungConventions.Perturbed.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:01:17.803485+00:00
 -- url     : https://prove2.me/theorems/f6aa7379-70ba-4afc-8965-6713197e4b1d

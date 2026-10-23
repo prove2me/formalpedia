@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P15_proposition11_gibbsEntropyStrict
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P15.proposition11_gibbsEntropyStrict
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:26:27.280954+00:00
 -- url     : https://prove2.me/theorems/e06d7d87-1778-421d-93c1-d533744117ee

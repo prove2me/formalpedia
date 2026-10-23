@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Bernstein_lemma_B_1_1
 -- name    : RobustOpt2009.Bernstein.lemma_B_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:42:24.560971+00:00
 -- url     : https://prove2.me/theorems/e7e995e0-cf7d-43c3-b527-d3bae2a161ae

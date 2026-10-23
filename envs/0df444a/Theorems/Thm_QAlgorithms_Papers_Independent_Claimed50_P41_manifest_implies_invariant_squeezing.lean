@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_manifest_implies_invariant_squeezing
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.manifest_implies_invariant_squeezing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:07:38.047903+00:00
 -- url     : https://prove2.me/theorems/69325c05-010c-4800-ae5b-459eaeb96d45

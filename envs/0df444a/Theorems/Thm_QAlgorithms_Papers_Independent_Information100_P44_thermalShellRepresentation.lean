@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_thermalShellRepresentation
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.thermalShellRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:32:43.003119+00:00
 -- url     : https://prove2.me/theorems/332e94ad-5b3c-4e49-a379-a70cfbd328f3

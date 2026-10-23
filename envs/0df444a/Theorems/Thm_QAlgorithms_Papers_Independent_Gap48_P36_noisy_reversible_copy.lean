@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_noisy_reversible_copy
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.noisy_reversible_copy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:57:51.288568+00:00
 -- url     : https://prove2.me/theorems/b9bf034a-8079-4f9d-984d-02e8649500ba

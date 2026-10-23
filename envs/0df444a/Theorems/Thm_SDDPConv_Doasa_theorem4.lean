@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDPConv_Doasa_theorem4
 -- name    : SDDPConv.Doasa.theorem4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:44:05.26487+00:00
 -- url     : https://prove2.me/theorems/79650b45-b37b-4140-9d12-c9903f36335f

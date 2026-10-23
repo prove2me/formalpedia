@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P07_nondegenerate_phaseTest
 -- name    : QAlgorithms.Papers.Independent.Information100.P07.nondegenerate_phaseTest
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:43:37.730833+00:00
 -- url     : https://prove2.me/theorems/dda85be6-f877-4618-b98f-5cf561281085

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoodTrace_Adoption_lemma_3
 -- name    : FoodTrace.Adoption.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:15.724982+00:00
 -- url     : https://prove2.me/theorems/62407748-62c6-4f87-982e-a15218d7ac42

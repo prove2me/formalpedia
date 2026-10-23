@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P12_characteristicTwo_power_sums
 -- name    : QAlgorithms.Papers.Independent.Support21.P12.characteristicTwo_power_sums
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:15:18.124378+00:00
 -- url     : https://prove2.me/theorems/a2bd8169-5571-4ce7-bef5-ed36474c2143

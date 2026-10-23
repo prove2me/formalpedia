@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_localIsometryInvariance
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.localIsometryInvariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:58:26.708484+00:00
 -- url     : https://prove2.me/theorems/f5fe7a0d-a461-42b3-802a-4073819790e0

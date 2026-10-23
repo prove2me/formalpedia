@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P44_quantum_deficit_and_allocation
 -- name    : QAlgorithms.Papers.Independent.Gap48.P44.quantum_deficit_and_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:39:26.763762+00:00
 -- url     : https://prove2.me/theorems/dab3d3a9-ac93-4a16-850e-8ae66deb0aa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IPAHDSC_theorem_9
 -- name    : HessianDamping.IPAHDSC.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:10:59.233975+00:00
 -- url     : https://prove2.me/theorems/f0f4e15a-bc3a-44e9-b9c9-f431e772ee39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P44_amplifier_family_comparison
 -- name    : QAlgorithms.Papers.Independent.Gap48.P44.amplifier_family_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:47:01.579818+00:00
 -- url     : https://prove2.me/theorems/49c3937e-9561-4ca4-9c03-994f590ccf20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_eq4_fee_low
 -- name    : NewsBundling.Negotiated.eq4_fee_low
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:43:53.834721+00:00
 -- url     : https://prove2.me/theorems/4c0dfbf8-0306-4d34-9c76-cd03c6aa3e3c

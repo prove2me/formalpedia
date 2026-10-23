@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_PerStep_lemma2_span_le_two_diameter
 -- name    : NonstatRL.PerStep.lemma2_span_le_two_diameter
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:16:48.217251+00:00
 -- url     : https://prove2.me/theorems/95c4d9a6-0b90-417c-b469-cc5b376eb420

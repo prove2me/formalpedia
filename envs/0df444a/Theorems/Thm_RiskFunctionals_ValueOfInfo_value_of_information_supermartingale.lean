@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_ValueOfInfo_value_of_information_supermartingale
 -- name    : RiskFunctionals.ValueOfInfo.value_of_information_supermartingale
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:31.046753+00:00
 -- url     : https://prove2.me/theorems/640bd31f-e372-498d-a24b-c38e319650ab

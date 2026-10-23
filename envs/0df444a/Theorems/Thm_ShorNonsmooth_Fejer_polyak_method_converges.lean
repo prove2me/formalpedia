@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_polyak_method_converges
 -- name    : ShorNonsmooth.Fejer.polyak_method_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:31:55.526172+00:00
 -- url     : https://prove2.me/theorems/1718cc07-0242-4a18-953f-16c107596744

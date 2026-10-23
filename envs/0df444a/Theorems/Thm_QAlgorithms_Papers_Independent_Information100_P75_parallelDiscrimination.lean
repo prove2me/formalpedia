@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_parallelDiscrimination
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.parallelDiscrimination
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:07:24.965415+00:00
 -- url     : https://prove2.me/theorems/56e2f5f2-0b90-4c3b-b4a8-cf4d38cbd3b5

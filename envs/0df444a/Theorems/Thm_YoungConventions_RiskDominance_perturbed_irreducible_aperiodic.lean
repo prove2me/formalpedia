@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_RiskDominance_perturbed_irreducible_aperiodic
 -- name    : YoungConventions.RiskDominance.perturbed_irreducible_aperiodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T18:01:27.898262+00:00
 -- url     : https://prove2.me/theorems/f9fa1c30-f823-4cfb-a216-15ae50319386

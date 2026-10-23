@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P10_finiteDimensionalPointedCone
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P10.finiteDimensionalPointedCone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:19:12.267988+00:00
 -- url     : https://prove2.me/theorems/97a6f34b-d3c9-4479-bd92-855c39b5ae02

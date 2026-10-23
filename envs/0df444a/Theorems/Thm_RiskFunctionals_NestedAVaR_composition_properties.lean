@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_NestedAVaR_composition_properties
 -- name    : RiskFunctionals.NestedAVaR.composition_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:53:18.583495+00:00
 -- url     : https://prove2.me/theorems/770d8aeb-b167-4c57-b429-ad598d38c985

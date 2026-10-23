@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BleedFeed_ControlLimit_corollary_1
 -- name    : BleedFeed.ControlLimit.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:03.272987+00:00
 -- url     : https://prove2.me/theorems/065fe73a-3f9d-4ee7-9908-1108125fab85

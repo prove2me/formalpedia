@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarksKlimm_Consistency_three_load_witness
 -- name    : HarksKlimm.Consistency.three_load_witness
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:52.339434+00:00
 -- url     : https://prove2.me/theorems/60d483ac-f2f0-4a41-bc31-9e0ebe593c77

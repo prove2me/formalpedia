@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothQN_ExactNorm_theorem_3_2
 -- name    : NonsmoothQN.ExactNorm.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:58.670594+00:00
 -- url     : https://prove2.me/theorems/841af0aa-bed9-4a3d-a851-3675aaf6efb3

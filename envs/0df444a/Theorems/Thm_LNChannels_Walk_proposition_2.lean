@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNChannels_Walk_proposition_2
 -- name    : LNChannels.Walk.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:57.554987+00:00
 -- url     : https://prove2.me/theorems/713dc3a1-039f-4f74-9f82-9bc92a5628e3

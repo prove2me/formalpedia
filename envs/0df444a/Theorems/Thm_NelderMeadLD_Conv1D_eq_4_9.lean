@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Conv1D_eq_4_9
 -- name    : NelderMeadLD.Conv1D.eq_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:21:09.687607+00:00
 -- url     : https://prove2.me/theorems/6ecd2da4-958b-49c9-a2b0-481ecf3d019d

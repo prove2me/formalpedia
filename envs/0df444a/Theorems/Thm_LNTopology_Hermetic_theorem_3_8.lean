@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_Hermetic_theorem_3_8
 -- name    : LNTopology.Hermetic.theorem_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:51.450136+00:00
 -- url     : https://prove2.me/theorems/d4ccc472-dbf2-4d23-9a36-eb82f5fee21c

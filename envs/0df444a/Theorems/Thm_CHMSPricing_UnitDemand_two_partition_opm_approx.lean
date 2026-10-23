@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CHMSPricing_UnitDemand_two_partition_opm_approx
 -- name    : CHMSPricing.UnitDemand.two_partition_opm_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T12:31:01.840912+00:00
 -- url     : https://prove2.me/theorems/72176ae8-2def-4afb-bf7b-31063b83de19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_tendstoCInftyLocOn_tangent
 -- name    : JHolomorphic.tendstoCInftyLocOn_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T22:25:40.205003+00:00
 -- url     : https://prove2.me/theorems/5184b336-2ee6-43c5-9092-12940144eeb1

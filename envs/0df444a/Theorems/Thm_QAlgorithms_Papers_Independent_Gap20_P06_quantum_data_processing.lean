@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P06_quantum_data_processing
 -- name    : QAlgorithms.Papers.Independent.Gap20.P06.quantum_data_processing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:17:01.00346+00:00
 -- url     : https://prove2.me/theorems/0fff5c10-65f8-4df8-a06a-45ad66464732

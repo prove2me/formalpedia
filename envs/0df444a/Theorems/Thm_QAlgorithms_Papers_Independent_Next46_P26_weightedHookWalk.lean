@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P26_weightedHookWalk
 -- name    : QAlgorithms.Papers.Independent.Next46.P26.weightedHookWalk
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:09:55.913665+00:00
 -- url     : https://prove2.me/theorems/6f7ff2bd-5f2e-4322-b73e-6c2f6088e6cb

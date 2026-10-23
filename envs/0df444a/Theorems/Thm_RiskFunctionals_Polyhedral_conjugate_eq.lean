@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Polyhedral_conjugate_eq
 -- name    : RiskFunctionals.Polyhedral.conjugate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:36.719052+00:00
 -- url     : https://prove2.me/theorems/4e63dbe5-032a-47a8-b481-affe5fb552b8

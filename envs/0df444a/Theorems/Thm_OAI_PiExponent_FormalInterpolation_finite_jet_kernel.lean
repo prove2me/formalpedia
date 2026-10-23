@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_jet_kernel
 -- name    : OAI.PiExponent.FormalInterpolation.finite_jet_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T13:45:37.745532+00:00
 -- url     : https://prove2.me/theorems/9f4d3df2-2c7a-40a7-9769-0c15322e7f19

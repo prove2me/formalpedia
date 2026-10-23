@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_SmoothProperCurve_exists_positive_euler_degree_multiplier_of_finite_surjective
 -- name    : AlgebraicGeometry.SmoothProperCurve.exists_positive_euler_degree_multiplier_of_finite_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-13T16:40:28.992983+00:00
 -- url     : https://prove2.me/theorems/fe7590dd-9af2-454f-aef3-0a57465c8f6b

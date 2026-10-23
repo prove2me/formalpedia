@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_platform_choice
 -- name    : NewsBundling.Negotiated.platform_choice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:43:50.837348+00:00
 -- url     : https://prove2.me/theorems/b87a59cc-bc65-49c6-9819-a990bcb51801

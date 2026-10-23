@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P42_precisionGaussianMixture_rigidity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P42.precisionGaussianMixture_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:04:29.163981+00:00
 -- url     : https://prove2.me/theorems/8301b81b-0438-4fff-b219-ee2f89a6fad1

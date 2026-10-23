@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_topologyResolvedPair
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.topologyResolvedPair
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-19T11:20:18.946865+00:00
 -- url     : https://prove2.me/theorems/8ca335a9-002b-465b-b63c-6ed0ff40004c

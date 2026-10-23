@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformPrecommit_Commission_proposition_3b
 -- name    : PlatformPrecommit.Commission.proposition_3b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:06:14.952069+00:00
 -- url     : https://prove2.me/theorems/27d861ea-45fe-497b-b258-249acfee89e3

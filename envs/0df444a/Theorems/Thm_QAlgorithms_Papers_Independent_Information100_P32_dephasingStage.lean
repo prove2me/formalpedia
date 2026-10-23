@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_dephasingStage
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.dephasingStage
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:39:37.527987+00:00
 -- url     : https://prove2.me/theorems/53c082ff-f724-4c15-8eac-baed4b973e02

@@ -7,9 +7,9 @@
 -- title:
 --   Well-poised hypergeometric evaluation 13
 -- statement:
---   For complex n,x with Re(x+n)>1 and with every lower rising factorial (n/2)_k, (n)_k and (x+n+1)_k nonzero, the series n·₄F₃(n/2+1,1,1,−x; n/2,n,x+n+1; 1) converges absolutely to (n−1)(x+n)/(x+n−1). Differs from the printed source: the usual exclusion of zero lower rising factorials, implicit in the hypergeometric notation, is explicit here.
+--   For complex n,x with Re(x+n)>1 and with every lower rising factorial (n/2)_k, (n)_k and (x+n+1)_k nonzero, the series n·₄F₃(n/2+1,1,1,−x; n/2,n,x+n+1; 1) converges absolutely to (n−1)(x+n)/(x+n−1).
 --
---   **Discrepancy from the printed source.** the usual exclusion of zero lower rising factorials, implicit in the hypergeometric notation, is explicit here.
+--   **Discrepancy from the printed source.** The usual exclusion of zero lower rising factorials, implicit in the hypergeometric notation, is explicit here.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), first-notebook appendix, Notebook 1, Chapter 12, Entry 13, p. 407.
 

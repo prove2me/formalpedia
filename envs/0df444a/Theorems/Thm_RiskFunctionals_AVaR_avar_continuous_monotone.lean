@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_avar_continuous_monotone
 -- name    : RiskFunctionals.AVaR.avar_continuous_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:02.786381+00:00
 -- url     : https://prove2.me/theorems/617717e2-5244-4adf-83a8-2016df8ebbbe

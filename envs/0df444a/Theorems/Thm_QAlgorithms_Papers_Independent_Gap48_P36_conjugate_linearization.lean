@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_conjugate_linearization
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.conjugate_linearization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:02:31.815139+00:00
 -- url     : https://prove2.me/theorems/f3ec56aa-a505-44b4-8348-80a2e6ab3d19

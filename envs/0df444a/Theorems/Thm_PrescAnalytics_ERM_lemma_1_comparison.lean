@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrescAnalytics_ERM_lemma_1_comparison
 -- name    : PrescAnalytics.ERM.lemma_1_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:41:27.89098+00:00
 -- url     : https://prove2.me/theorems/045e8be6-d0ad-4f26-82df-9e7a720554e7

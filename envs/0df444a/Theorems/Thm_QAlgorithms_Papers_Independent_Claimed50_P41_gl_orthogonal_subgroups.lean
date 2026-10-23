@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_gl_orthogonal_subgroups
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.gl_orthogonal_subgroups
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:00:36.256604+00:00
 -- url     : https://prove2.me/theorems/9d828d23-0c47-4b42-a1ae-a326e9a9b3cd

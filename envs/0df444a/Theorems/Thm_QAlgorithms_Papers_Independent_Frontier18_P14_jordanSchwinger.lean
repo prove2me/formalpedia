@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_jordanSchwinger
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.jordanSchwinger
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:03:46.747265+00:00
 -- url     : https://prove2.me/theorems/236ee5ec-ee82-40bf-9711-aac659c9f079

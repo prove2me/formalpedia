@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_Events_theorem_1
 -- name    : SubsetShrink.Events.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:30.516804+00:00
 -- url     : https://prove2.me/theorems/db2d6848-0522-46e1-80aa-2ff1fcdf952a

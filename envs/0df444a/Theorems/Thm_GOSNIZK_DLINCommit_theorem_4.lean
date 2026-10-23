@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_DLINCommit_theorem_4
 -- name    : GOSNIZK.DLINCommit.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:07.68714+00:00
 -- url     : https://prove2.me/theorems/a8f7269d-5787-4c80-94ab-a5418224f705

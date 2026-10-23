@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_Distortion_permutohull_robust_iff_linear
 -- name    : RiskUncSets.Distortion.permutohull_robust_iff_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:29:13.031518+00:00
 -- url     : https://prove2.me/theorems/64f7359d-dbc3-4384-a5f0-bc9d49585a90

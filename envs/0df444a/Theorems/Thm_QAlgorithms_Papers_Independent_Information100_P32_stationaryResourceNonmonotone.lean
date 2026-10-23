@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_stationaryResourceNonmonotone
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.stationaryResourceNonmonotone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:54:27.925864+00:00
 -- url     : https://prove2.me/theorems/0dbb8bcd-6dc7-429c-a9a1-b5b6786f59c2

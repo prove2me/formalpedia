@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_OneSided_one_sided_market_has_strict_core
 -- name    : KelsoCrawford.OneSided.one_sided_market_has_strict_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:34:25.907924+00:00
 -- url     : https://prove2.me/theorems/09dd81b6-8493-4040-a4e9-ebc6b8620e6c

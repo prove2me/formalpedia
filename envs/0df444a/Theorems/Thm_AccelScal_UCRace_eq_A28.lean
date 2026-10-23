@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_UCRace_eq_A28
 -- name    : AccelScal.UCRace.eq_A28
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:01.659694+00:00
 -- url     : https://prove2.me/theorems/0a3f23c9-2e8f-4235-a0a5-b651d15aa227

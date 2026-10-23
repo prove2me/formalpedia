@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_CentralPath_second_order_sufficient
 -- name    : VanderbeiLP.CentralPath.second_order_sufficient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:20:34.920908+00:00
 -- url     : https://prove2.me/theorems/9a6493d7-902c-442f-8f9d-c0f447ad8683

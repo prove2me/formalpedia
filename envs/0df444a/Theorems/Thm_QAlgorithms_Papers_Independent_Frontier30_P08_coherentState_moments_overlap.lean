@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P08_coherentState_moments_overlap
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P08.coherentState_moments_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:13:37.428977+00:00
 -- url     : https://prove2.me/theorems/90ef564e-b560-47d8-a5fe-a763f621599e

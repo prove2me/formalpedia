@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P26_example_5_11
 -- name    : QAlgorithms.Papers.Independent.Information100.P26.example_5_11
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:55:50.478069+00:00
 -- url     : https://prove2.me/theorems/6dd7823a-76ba-4c78-b7c9-77253ca7d6e1

@@ -7,9 +7,9 @@
 -- title:
 --   Asymptotic expansion of ∑ Log k/k
 -- statement:
---   Entry 17(i), pp. 196-197: with φ(n) = ∑_{k=1}^{n} Log k / k, c_1 as in (17.2) and H_m = ∑_{k=1}^{m} 1/k, as n → ∞, φ(n) - ψ(n + 1) Log n ~ -(1/2) Log^2 n + c_1 + ∑_{k ≥ 1} B_{2k} H_{2k-1}/(2k n^{2k}). Stated for the integer variable n, as an asymptotic series: for every M, the difference between the left side and the right side cut after M terms of the sum is O(n^{-2M-2}). The term k : ℕ below is the book's term k + 1. Differs from the printed source: the asymptotic series is stated for the integer variable, one bound for each truncation order, with c_1 supplied by hypothesis.
+--   Entry 17(i), pp. 196-197: with φ(n) = ∑_{k=1}^{n} Log k / k, c_1 as in (17.2) and H_m = ∑_{k=1}^{m} 1/k, as n → ∞, φ(n) - ψ(n + 1) Log n ~ -(1/2) Log^2 n + c_1 + ∑_{k ≥ 1} B_{2k} H_{2k-1}/(2k n^{2k}). Stated for the integer variable n, as an asymptotic series: for every M, the difference between the left side and the right side cut after M terms of the sum is O(n^{-2M-2}). The term k : ℕ below is the book's term k + 1.
 --
---   **Discrepancy from the printed source.** The book writes ~ with x → ∞. Stated for integer n and every truncation M with error O(n^{−2M−2}); c_1 enters as a real number with the hypothesis that (17.2) converges to it. The integer variable and the truncation form are our rendering.
+--   **Discrepancy from the printed source.** The asymptotic series is stated for the integer variable, one bound for each truncation order, with c_1 supplied by hypothesis. The book writes ~ with x → ∞. Stated for integer n and every truncation M with error O(n^{−2M−2}); c_1 enters as a real number with the hypothesis that (17.2) converges to it. The integer variable and the truncation form are our rendering.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part I (Springer, 1985), Chapter 8, Entry 17(i), p. 196, eq. (17.1)-(17.3).
 

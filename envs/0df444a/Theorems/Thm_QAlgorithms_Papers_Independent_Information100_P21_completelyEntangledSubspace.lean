@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_completelyEntangledSubspace
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.completelyEntangledSubspace
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:11:20.32878+00:00
 -- url     : https://prove2.me/theorems/e280678e-6710-45b6-a277-77572ca8fdb7

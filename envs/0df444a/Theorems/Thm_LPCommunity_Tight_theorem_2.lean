@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_Tight_theorem_2
 -- name    : LPCommunity.Tight.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:06.385273+00:00
 -- url     : https://prove2.me/theorems/dea22ae9-ab4e-45ee-bf3d-cd27da7783ae

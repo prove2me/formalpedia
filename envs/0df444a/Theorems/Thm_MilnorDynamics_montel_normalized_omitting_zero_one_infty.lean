@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_montel_normalized_omitting_zero_one_infty
 -- name    : MilnorDynamics.montel_normalized_omitting_zero_one_infty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T17:59:50.05326+00:00
 -- url     : https://prove2.me/theorems/2ed4dd6c-acd8-4511-91c3-7fd2b5919cc3

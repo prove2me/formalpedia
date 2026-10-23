@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_OLearn_ic_necessary
 -- name    : CustomerVoice.OLearn.ic_necessary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:57.784831+00:00
 -- url     : https://prove2.me/theorems/4d282542-40bd-4732-b9ca-fba2d97eecd6

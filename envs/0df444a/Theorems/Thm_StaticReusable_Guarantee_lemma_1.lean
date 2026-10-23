@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticReusable_Guarantee_lemma_1
 -- name    : StaticReusable.Guarantee.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:57.313157+00:00
 -- url     : https://prove2.me/theorems/075ac05b-e705-454e-bcc8-d5277017a510

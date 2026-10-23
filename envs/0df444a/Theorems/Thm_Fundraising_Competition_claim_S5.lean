@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_Competition_claim_S5
 -- name    : Fundraising.Competition.claim_S5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:17.429611+00:00
 -- url     : https://prove2.me/theorems/fec77a72-e171-4757-8447-1aa1d7e3e9c2

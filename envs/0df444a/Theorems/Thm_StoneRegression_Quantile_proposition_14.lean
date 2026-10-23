@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StoneRegression_Quantile_proposition_14
 -- name    : StoneRegression.Quantile.proposition_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:35.241421+00:00
 -- url     : https://prove2.me/theorems/d117fe47-37e1-4f7c-956c-ade7a7fb27d2

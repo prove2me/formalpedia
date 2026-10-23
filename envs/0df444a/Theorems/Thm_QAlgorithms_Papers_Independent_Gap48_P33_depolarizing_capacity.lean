@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_depolarizing_capacity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.depolarizing_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:30:28.756471+00:00
 -- url     : https://prove2.me/theorems/2cd87a1f-7568-4bf3-890c-6b9beb539e76

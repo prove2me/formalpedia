@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAPPAL_Rate_proposition_3_1
 -- name    : NAPPAL.Rate.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:15:10.896035+00:00
 -- url     : https://prove2.me/theorems/b9523d71-b3b8-49ab-90a9-f4f07dab8b70

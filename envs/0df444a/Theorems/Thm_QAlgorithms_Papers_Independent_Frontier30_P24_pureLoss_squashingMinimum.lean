@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P24_pureLoss_squashingMinimum
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P24.pureLoss_squashingMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:38:12.675005+00:00
 -- url     : https://prove2.me/theorems/b3e58f51-0a31-4197-bc61-7f912f49ff20

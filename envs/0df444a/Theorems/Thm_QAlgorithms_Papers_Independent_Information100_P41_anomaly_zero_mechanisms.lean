@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P41_anomaly_zero_mechanisms
 -- name    : QAlgorithms.Papers.Independent.Information100.P41.anomaly_zero_mechanisms
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:24:40.103069+00:00
 -- url     : https://prove2.me/theorems/86aaf5b2-e793-4220-8a7d-56619bccdf43

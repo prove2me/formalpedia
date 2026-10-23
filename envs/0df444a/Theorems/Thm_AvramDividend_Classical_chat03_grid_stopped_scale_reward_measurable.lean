@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat03_grid_stopped_scale_reward_measurable
 -- name    : AvramDividend.Classical.chat03_grid_stopped_scale_reward_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T05:46:16.976813+00:00
 -- url     : https://prove2.me/theorems/2c11b619-825a-4742-8096-2c497ddbf63f

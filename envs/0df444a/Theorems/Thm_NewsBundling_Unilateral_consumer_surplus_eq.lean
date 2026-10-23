@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_consumer_surplus_eq
 -- name    : NewsBundling.Unilateral.consumer_surplus_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:46.503984+00:00
 -- url     : https://prove2.me/theorems/2fcfc3d0-882c-46fc-899f-f2858e0a892f

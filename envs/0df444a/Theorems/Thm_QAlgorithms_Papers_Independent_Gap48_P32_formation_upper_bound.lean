@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P32_formation_upper_bound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P32.formation_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:28:37.964058+00:00
 -- url     : https://prove2.me/theorems/1c944dd4-9f8e-42a5-bf3e-51b1be734af8

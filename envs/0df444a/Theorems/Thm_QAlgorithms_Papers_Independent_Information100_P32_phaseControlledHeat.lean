@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_phaseControlledHeat
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.phaseControlledHeat
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:42:10.962278+00:00
 -- url     : https://prove2.me/theorems/53d45a18-1855-4691-bfe6-19783ad9413f

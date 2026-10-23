@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailPrivacy_SingleFirm_theorem_1
 -- name    : RetailPrivacy.SingleFirm.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:13:35.767925+00:00
 -- url     : https://prove2.me/theorems/f9c608a0-b065-4abc-a598-3d4fc9bfc5c8

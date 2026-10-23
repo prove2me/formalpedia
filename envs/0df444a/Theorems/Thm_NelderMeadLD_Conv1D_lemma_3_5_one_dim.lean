@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Conv1D_lemma_3_5_one_dim
 -- name    : NelderMeadLD.Conv1D.lemma_3_5_one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:20:51.225477+00:00
 -- url     : https://prove2.me/theorems/d8d5a795-a0a7-4aa6-bfc0-353039b1726a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_bisectionTests
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.bisectionTests
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:17:06.551733+00:00
 -- url     : https://prove2.me/theorems/9d752f73-faf9-4b3b-a398-350dfc329ee7

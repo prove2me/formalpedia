@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_depolarizing_fidelity_fano
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.depolarizing_fidelity_fano
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:40:48.442996+00:00
 -- url     : https://prove2.me/theorems/af19a77e-940c-4322-8625-7b9a2c2d4724

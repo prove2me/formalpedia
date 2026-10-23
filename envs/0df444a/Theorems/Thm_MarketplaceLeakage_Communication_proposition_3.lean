@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Communication_proposition_3
 -- name    : MarketplaceLeakage.Communication.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:27.44957+00:00
 -- url     : https://prove2.me/theorems/7891e77b-001c-4c3c-b88f-4c17b7f3ac89

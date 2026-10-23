@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P06_fidelityContinuity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P06.fidelityContinuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:07:34.242132+00:00
 -- url     : https://prove2.me/theorems/0d553a28-7fd2-4388-8c3c-0ead16c11f00

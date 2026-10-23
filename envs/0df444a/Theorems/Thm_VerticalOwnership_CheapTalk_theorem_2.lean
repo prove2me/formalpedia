@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VerticalOwnership_CheapTalk_theorem_2
 -- name    : VerticalOwnership.CheapTalk.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:09.205648+00:00
 -- url     : https://prove2.me/theorems/b265b9cd-4fda-4e7e-9225-95b13ee9cf38

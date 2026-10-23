@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_exceptionalKernelStructure
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.exceptionalKernelStructure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:03:16.708979+00:00
 -- url     : https://prove2.me/theorems/30d1f5f5-f1c3-44cf-aa26-6fb770acee92

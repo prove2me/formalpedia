@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothQN_LineSearch_theorem_4_7_convergence
 -- name    : NonsmoothQN.LineSearch.theorem_4_7_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:08.818977+00:00
 -- url     : https://prove2.me/theorems/5ec5fae8-b4de-40bb-8700-029fa54f864e

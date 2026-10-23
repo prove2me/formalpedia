@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P15_iWeight_rank_formula
 -- name    : QAlgorithms.Papers.Independent.Renew46.P15.iWeight_rank_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:17:30.580475+00:00
 -- url     : https://prove2.me/theorems/97ee7db5-ab71-49c1-bf8d-4a0d357d92aa

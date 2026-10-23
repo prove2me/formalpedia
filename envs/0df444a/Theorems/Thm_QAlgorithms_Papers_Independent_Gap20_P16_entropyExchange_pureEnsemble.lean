@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P16_entropyExchange_pureEnsemble
 -- name    : QAlgorithms.Papers.Independent.Gap20.P16.entropyExchange_pureEnsemble
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:40:32.133277+00:00
 -- url     : https://prove2.me/theorems/f82e591a-f949-4c3a-b87e-0b4a32d11133

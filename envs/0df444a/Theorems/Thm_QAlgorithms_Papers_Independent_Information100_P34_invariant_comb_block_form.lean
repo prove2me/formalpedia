@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P34_invariant_comb_block_form
 -- name    : QAlgorithms.Papers.Independent.Information100.P34.invariant_comb_block_form
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:56:21.311323+00:00
 -- url     : https://prove2.me/theorems/781e975a-bfa1-4ed9-8452-277269528803

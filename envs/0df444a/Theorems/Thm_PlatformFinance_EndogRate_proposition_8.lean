@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformFinance_EndogRate_proposition_8
 -- name    : PlatformFinance.EndogRate.proposition_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:09:39.317154+00:00
 -- url     : https://prove2.me/theorems/6e8318f6-086c-497a-8b78-6c85ba76cdf6

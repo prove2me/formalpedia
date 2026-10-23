@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_PartialCollab_log_concavity
 -- name    : Fundraising.PartialCollab.log_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:12.303007+00:00
 -- url     : https://prove2.me/theorems/d3326a89-e0b0-45e8-a403-5508e9ab6cd6

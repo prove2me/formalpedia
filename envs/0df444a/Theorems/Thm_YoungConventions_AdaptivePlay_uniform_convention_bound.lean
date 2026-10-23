@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_AdaptivePlay_uniform_convention_bound
 -- name    : YoungConventions.AdaptivePlay.uniform_convention_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:05:38.779388+00:00
 -- url     : https://prove2.me/theorems/2e1c846e-c707-4901-a122-5d2afff9dd49

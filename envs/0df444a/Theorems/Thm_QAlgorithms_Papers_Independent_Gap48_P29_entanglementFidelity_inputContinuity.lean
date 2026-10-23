@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_entanglementFidelity_inputContinuity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.entanglementFidelity_inputContinuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:12:24.626796+00:00
 -- url     : https://prove2.me/theorems/6ced482a-df70-4411-bc7d-37c053189647

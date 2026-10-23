@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_levy_psi_positive_secant_monotone
 -- name    : AvramDividend.Classical.levy_psi_positive_secant_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T23:07:15.176521+00:00
 -- url     : https://prove2.me/theorems/59b6c198-4db2-4342-a962-bb07246621e6

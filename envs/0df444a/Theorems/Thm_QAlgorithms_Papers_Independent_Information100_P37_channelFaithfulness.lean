@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_channelFaithfulness
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.channelFaithfulness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:18:01.315901+00:00
 -- url     : https://prove2.me/theorems/f2494448-6ea0-4e5a-ab80-15861afb1aa9

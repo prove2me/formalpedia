@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_ebt_hadamard_construction
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.ebt_hadamard_construction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:06:06.177564+00:00
 -- url     : https://prove2.me/theorems/3155e63b-2a8a-429d-9aad-6e9fb45fc737

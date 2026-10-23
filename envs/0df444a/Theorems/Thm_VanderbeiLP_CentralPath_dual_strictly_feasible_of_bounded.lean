@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_CentralPath_dual_strictly_feasible_of_bounded
 -- name    : VanderbeiLP.CentralPath.dual_strictly_feasible_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:28:07.015986+00:00
 -- url     : https://prove2.me/theorems/ea250462-c980-46c8-8c7a-d2de8c9f57aa

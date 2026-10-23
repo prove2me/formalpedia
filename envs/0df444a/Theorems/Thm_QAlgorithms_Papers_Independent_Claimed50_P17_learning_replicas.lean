@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P17_learning_replicas
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P17.learning_replicas
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:02:11.953804+00:00
 -- url     : https://prove2.me/theorems/8400c791-d079-42c5-b54a-9a62342f81e4

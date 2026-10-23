@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_rateSums_spectralMajorization
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.rateSums_spectralMajorization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:37:59.089921+00:00
 -- url     : https://prove2.me/theorems/571e9a83-b720-4961-920c-985e5a06373b

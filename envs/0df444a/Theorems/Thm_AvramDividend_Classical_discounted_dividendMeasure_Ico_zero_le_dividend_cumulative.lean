@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_discounted_dividendMeasure_Ico_zero_le_dividend_cumulative
 -- name    : AvramDividend.Classical.discounted_dividendMeasure_Ico_zero_le_dividend_cumulative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T08:16:58.37288+00:00
 -- url     : https://prove2.me/theorems/9a0c3a15-0585-461a-b3fc-9a117ede6a13

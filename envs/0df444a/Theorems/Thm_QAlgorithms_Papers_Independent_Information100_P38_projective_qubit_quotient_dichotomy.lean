@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_projective_qubit_quotient_dichotomy
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.projective_qubit_quotient_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:04:46.936469+00:00
 -- url     : https://prove2.me/theorems/d277b5a2-573e-41dd-bf5d-8f26d57629e3

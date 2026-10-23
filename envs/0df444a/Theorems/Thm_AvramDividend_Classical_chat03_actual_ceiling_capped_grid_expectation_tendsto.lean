@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat03_actual_ceiling_capped_grid_expectation_tendsto
 -- name    : AvramDividend.Classical.chat03_actual_ceiling_capped_grid_expectation_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T05:38:11.386554+00:00
 -- url     : https://prove2.me/theorems/973b8166-be3c-465e-be03-7842d7fd9d20

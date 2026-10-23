@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P06_supermaps_noncausal
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P06.supermaps_noncausal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:28:07.618036+00:00
 -- url     : https://prove2.me/theorems/b9b14672-ca21-4160-92c4-5fe8dfdcda3d

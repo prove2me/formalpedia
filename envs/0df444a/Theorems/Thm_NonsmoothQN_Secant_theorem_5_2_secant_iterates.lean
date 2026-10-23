@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothQN_Secant_theorem_5_2_secant_iterates
 -- name    : NonsmoothQN.Secant.theorem_5_2_secant_iterates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:32.711082+00:00
 -- url     : https://prove2.me/theorems/0e8949f6-e644-4975-bbd0-e718249a108d

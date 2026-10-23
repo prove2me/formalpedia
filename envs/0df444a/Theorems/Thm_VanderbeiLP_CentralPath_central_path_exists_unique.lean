@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_CentralPath_central_path_exists_unique
 -- name    : VanderbeiLP.CentralPath.central_path_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T19:38:48.322867+00:00
 -- url     : https://prove2.me/theorems/51432543-7d0d-49fd-838b-cb7be8d82e3b

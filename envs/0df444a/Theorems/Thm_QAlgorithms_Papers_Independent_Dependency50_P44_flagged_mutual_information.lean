@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P44_flagged_mutual_information
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P44.flagged_mutual_information
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:32:15.625039+00:00
 -- url     : https://prove2.me/theorems/e41d1d7b-f8f6-44e0-9264-01b1478c6a9d

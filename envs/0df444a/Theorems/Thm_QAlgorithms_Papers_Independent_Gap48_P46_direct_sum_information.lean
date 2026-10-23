@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P46_direct_sum_information
 -- name    : QAlgorithms.Papers.Independent.Gap48.P46.direct_sum_information
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:53:43.317648+00:00
 -- url     : https://prove2.me/theorems/a46d9dd3-b1b7-4a0d-b2b2-5beeaa5dfbed

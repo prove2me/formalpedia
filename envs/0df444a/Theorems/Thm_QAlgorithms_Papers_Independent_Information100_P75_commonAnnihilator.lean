@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_commonAnnihilator
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.commonAnnihilator
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:14:27.619465+00:00
 -- url     : https://prove2.me/theorems/d466d95f-b7db-45c6-a5c3-f965dd6676e1

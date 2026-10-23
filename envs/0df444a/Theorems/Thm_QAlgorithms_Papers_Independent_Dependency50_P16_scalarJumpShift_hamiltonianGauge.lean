@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_scalarJumpShift_hamiltonianGauge
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.scalarJumpShift_hamiltonianGauge
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:50:27.867686+00:00
 -- url     : https://prove2.me/theorems/9483309b-a270-4b72-b4c6-e6a91ed91e4b

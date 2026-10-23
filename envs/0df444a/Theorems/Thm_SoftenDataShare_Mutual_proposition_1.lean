@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoftenDataShare_Mutual_proposition_1
 -- name    : SoftenDataShare.Mutual.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:12:58.4774+00:00
 -- url     : https://prove2.me/theorems/31ad6101-a213-4f0d-b649-b403745764e7

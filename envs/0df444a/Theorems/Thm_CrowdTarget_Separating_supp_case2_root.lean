@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdTarget_Separating_supp_case2_root
 -- name    : CrowdTarget.Separating.supp_case2_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:08.688706+00:00
 -- url     : https://prove2.me/theorems/66ce093e-726d-4646-ae2b-baad9b2cc0f4

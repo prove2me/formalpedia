@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_RandomAccessCapacity_inequality_value_convex
 -- name    : KellyStochasticNetworks.RandomAccessCapacity.inequality_value_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:24.134441+00:00
 -- url     : https://prove2.me/theorems/f603850a-3b30-450c-a4d8-b2ff99aec571

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPPRevenue_SingleUnit_eq_1
 -- name    : SPPRevenue.SingleUnit.eq_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:53.840148+00:00
 -- url     : https://prove2.me/theorems/aa03224c-dea0-415a-9c0a-d16308ba54a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_weighted_simplex_count_comparison
 -- name    : OAI.PiExponent.FormalInterpolation.weighted_simplex_count_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T13:45:22.29064+00:00
 -- url     : https://prove2.me/theorems/c3126117-157e-4455-85b9-5795c371f279

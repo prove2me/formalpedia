@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Oligopoly_theorem_2
 -- name    : PriceQualityService.Oligopoly.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:32.48322+00:00
 -- url     : https://prove2.me/theorems/e0e8b877-c378-46b1-b716-ed98fe58f33f

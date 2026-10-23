@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P06_projectiveRobustness_monotone
 -- name    : QAlgorithms.Papers.Independent.Information100.P06.projectiveRobustness_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:28:39.569987+00:00
 -- url     : https://prove2.me/theorems/c6bafc3a-5572-44bb-8595-03bbc387ecd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_reducedPhaseCovariance
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.reducedPhaseCovariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:44:25.909196+00:00
 -- url     : https://prove2.me/theorems/4722bb39-d415-4332-815c-e42cd098ee85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P26_unitary_equivalence
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P26.unitary_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:11:23.153954+00:00
 -- url     : https://prove2.me/theorems/f4ab9d77-84b3-429a-9e25-e648e60c450d

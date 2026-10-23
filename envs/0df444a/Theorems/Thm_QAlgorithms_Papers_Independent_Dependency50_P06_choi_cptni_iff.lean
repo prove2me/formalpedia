@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P06_choi_cptni_iff
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P06.choi_cptni_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:24:37.59802+00:00
 -- url     : https://prove2.me/theorems/1fcd17fb-490e-402f-a327-eb002e53c30c

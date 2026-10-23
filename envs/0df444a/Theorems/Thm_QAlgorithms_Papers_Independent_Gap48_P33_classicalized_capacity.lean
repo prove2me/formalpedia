@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_classicalized_capacity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.classicalized_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:42:44.232528+00:00
 -- url     : https://prove2.me/theorems/b9dd5a4a-4951-4e09-887f-584c82efe92f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_ScalarChance_proposition_2_4_1
 -- name    : RobustOpt2009.ScalarChance.proposition_2_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:42:28.024673+00:00
 -- url     : https://prove2.me/theorems/8b90c507-e956-42be-8db9-6325dfef226b

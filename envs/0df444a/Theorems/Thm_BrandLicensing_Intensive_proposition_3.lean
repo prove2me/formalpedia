@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BrandLicensing_Intensive_proposition_3
 -- name    : BrandLicensing.Intensive.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:13.630111+00:00
 -- url     : https://prove2.me/theorems/a53261ab-b04e-4134-b751-ace1392f2361

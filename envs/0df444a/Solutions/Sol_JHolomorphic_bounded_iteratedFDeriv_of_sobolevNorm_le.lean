@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for JHolomorphic.bounded_iteratedFDeriv_of_sobolevNorm_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-21T22:27:57.166221+00:00
 -- url     : https://prove2.me/submissions/e0e3b84a-a552-4bb3-bf9c-975e52c89a7d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_JHolomorphic_Setting
 import Theorems.Thm_JHolomorphic_isAlmostComplexOn_tangent

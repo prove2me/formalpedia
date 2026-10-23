@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P19_haarMaximallyMixed
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P19.haarMaximallyMixed
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:14:03.820533+00:00
 -- url     : https://prove2.me/theorems/dc2c3eda-f075-4d8f-8c22-656491ada454

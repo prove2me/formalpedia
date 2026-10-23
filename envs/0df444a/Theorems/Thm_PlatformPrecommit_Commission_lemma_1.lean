@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformPrecommit_Commission_lemma_1
 -- name    : PlatformPrecommit.Commission.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:06:07.540824+00:00
 -- url     : https://prove2.me/theorems/60e68759-4406-442a-8241-6d0a2a27a8d2

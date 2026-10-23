@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P01_atom_actual_sqrt_range
 -- name    : QAlgorithms.Papers.Independent.Information100.P01.atom_actual_sqrt_range
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:24:35.745985+00:00
 -- url     : https://prove2.me/theorems/7526d88c-696a-4443-9563-c232df0d451c

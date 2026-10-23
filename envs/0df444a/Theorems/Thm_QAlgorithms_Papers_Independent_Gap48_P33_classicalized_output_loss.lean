@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_classicalized_output_loss
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.classicalized_output_loss
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:41:34.203697+00:00
 -- url     : https://prove2.me/theorems/1c607e21-2f78-4770-b5a9-0a12c2326672

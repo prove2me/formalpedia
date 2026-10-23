@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_traceBoundSeries
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.traceBoundSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:32:48.574985+00:00
 -- url     : https://prove2.me/theorems/d360fbfd-4cee-4843-aa1c-57066f21a5c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_entanglementFidelity_convex
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.entanglementFidelity_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:10:54.985232+00:00
 -- url     : https://prove2.me/theorems/82100291-41f4-4266-8b1e-9cf56d5ec488

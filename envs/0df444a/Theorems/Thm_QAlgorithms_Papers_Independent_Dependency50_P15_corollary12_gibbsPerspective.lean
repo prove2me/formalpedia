@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P15_corollary12_gibbsPerspective
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P15.corollary12_gibbsPerspective
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:27:20.328707+00:00
 -- url     : https://prove2.me/theorems/ca423c3b-af82-4846-8fc6-2a6b6ea8aae9

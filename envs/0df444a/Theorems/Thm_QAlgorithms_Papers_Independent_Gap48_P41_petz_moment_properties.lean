@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P41_petz_moment_properties
 -- name    : QAlgorithms.Papers.Independent.Gap48.P41.petz_moment_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:29:21.123535+00:00
 -- url     : https://prove2.me/theorems/adf1e660-eb01-4d90-a603-158395b76b21

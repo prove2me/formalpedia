@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Bernstein_proposition_4_2_2
 -- name    : RobustOpt2009.Bernstein.proposition_4_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:41:46.5099+00:00
 -- url     : https://prove2.me/theorems/29835330-f012-4831-9380-51191ab5d8ab

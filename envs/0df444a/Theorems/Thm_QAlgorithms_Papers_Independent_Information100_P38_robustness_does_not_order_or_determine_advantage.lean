@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_robustness_does_not_order_or_determine_advantage
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.robustness_does_not_order_or_determine_advantage
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:09:59.131129+00:00
 -- url     : https://prove2.me/theorems/04757401-0b6f-463d-95a8-7bd9bd1f55f5

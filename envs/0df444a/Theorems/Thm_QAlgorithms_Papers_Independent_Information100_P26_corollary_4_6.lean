@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P26_corollary_4_6
 -- name    : QAlgorithms.Papers.Independent.Information100.P26.corollary_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:32:01.373064+00:00
 -- url     : https://prove2.me/theorems/49675e45-8295-4bf3-b95f-4727dba4fab0

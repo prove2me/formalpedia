@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_positive_symplectic_gaussian_parametrization
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.positive_symplectic_gaussian_parametrization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:10:40.362766+00:00
 -- url     : https://prove2.me/theorems/ec55a410-757c-4722-9f4e-81685cbbdc40

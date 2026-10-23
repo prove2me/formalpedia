@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_qubitRelation
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.qubitRelation
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-19T11:11:09.993296+00:00
 -- url     : https://prove2.me/theorems/e008cb0e-e1bd-49e5-93e1-2265faad71de

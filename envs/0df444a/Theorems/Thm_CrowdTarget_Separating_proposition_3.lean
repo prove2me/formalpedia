@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdTarget_Separating_proposition_3
 -- name    : CrowdTarget.Separating.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:04.102371+00:00
 -- url     : https://prove2.me/theorems/6d02db1a-ceb1-4bcd-ada3-b39ebbc1867c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_classicalCommunicationBound
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.classicalCommunicationBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:00:08.003198+00:00
 -- url     : https://prove2.me/theorems/a7bf53d7-3443-4491-873c-530d5c1740d6

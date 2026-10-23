@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanTT2_ctor_packing
 -- name    : LeanTT2.ctor_packing
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-21T03:05:30.430987+00:00
 -- url     : https://prove2.me/theorems/6cd68b60-7d7e-444f-a5ba-ba6f83ead8bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassKF_Bisect_lemma_A_3
 -- name    : WassKF.Bisect.lemma_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:09:30.979919+00:00
 -- url     : https://prove2.me/theorems/1f459040-8093-41c7-acb6-afba2a87efec

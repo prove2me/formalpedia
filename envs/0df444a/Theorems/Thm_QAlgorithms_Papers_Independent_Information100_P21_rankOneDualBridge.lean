@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_rankOneDualBridge
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.rankOneDualBridge
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:49:46.904573+00:00
 -- url     : https://prove2.me/theorems/203b7737-1498-4b73-97e0-aa4149f95595

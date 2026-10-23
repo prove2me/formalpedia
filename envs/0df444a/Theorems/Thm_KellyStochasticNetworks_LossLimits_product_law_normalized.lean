@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_LossLimits_product_law_normalized
 -- name    : KellyStochasticNetworks.LossLimits.product_law_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:47:53.616322+00:00
 -- url     : https://prove2.me/theorems/837c7ecc-94fc-401c-a049-809050c32fb3

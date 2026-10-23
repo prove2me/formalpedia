@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Kusuoka_kusuoka_representation_nonneg
 -- name    : RiskFunctionals.Kusuoka.kusuoka_representation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:49.059622+00:00
 -- url     : https://prove2.me/theorems/b2d3d0fd-3814-440e-a660-c55656743557

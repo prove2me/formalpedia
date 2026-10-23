@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P10_minimalGaussianPurification
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P10.minimalGaussianPurification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:08:11.390807+00:00
 -- url     : https://prove2.me/theorems/c2be2d9b-ef9d-46e1-910f-bd11eee60b7f

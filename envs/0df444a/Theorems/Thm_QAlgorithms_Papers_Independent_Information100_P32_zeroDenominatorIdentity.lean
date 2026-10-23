@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_zeroDenominatorIdentity
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.zeroDenominatorIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:48:03.817996+00:00
 -- url     : https://prove2.me/theorems/384a2108-5d84-40e3-99a1-285390a1cf8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P07_lemma5
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P07.lemma5
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:27:31.638192+00:00
 -- url     : https://prove2.me/theorems/2cb44e2a-8460-47d4-9e4d-f6a13c7e11eb

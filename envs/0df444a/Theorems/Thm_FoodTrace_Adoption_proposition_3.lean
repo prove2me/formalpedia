@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoodTrace_Adoption_proposition_3
 -- name    : FoodTrace.Adoption.proposition_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:10.39144+00:00
 -- url     : https://prove2.me/theorems/32f9c13c-d472-470d-a5c6-b56135ea0556

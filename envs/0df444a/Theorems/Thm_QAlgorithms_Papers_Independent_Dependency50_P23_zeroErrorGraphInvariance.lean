@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P23_zeroErrorGraphInvariance
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P23.zeroErrorGraphInvariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:49:30.443675+00:00
 -- url     : https://prove2.me/theorems/3d128d9e-3555-4266-a9f4-ca1d86e5201b

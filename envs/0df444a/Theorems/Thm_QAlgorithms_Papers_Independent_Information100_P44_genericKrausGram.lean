@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_genericKrausGram
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.genericKrausGram
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:29:32.629635+00:00
 -- url     : https://prove2.me/theorems/e4728bcd-4dd6-4d0d-87ef-ab9bfb0e684e

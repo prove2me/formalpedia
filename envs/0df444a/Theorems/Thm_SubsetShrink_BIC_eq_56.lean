@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_BIC_eq_56
 -- name    : SubsetShrink.BIC.eq_56
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:49.949103+00:00
 -- url     : https://prove2.me/theorems/165454dc-82a0-4996-b687-69f99f5ab3d4

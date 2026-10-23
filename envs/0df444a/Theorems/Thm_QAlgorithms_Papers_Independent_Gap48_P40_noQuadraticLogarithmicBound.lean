@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_noQuadraticLogarithmicBound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.noQuadraticLogarithmicBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:22:50.181771+00:00
 -- url     : https://prove2.me/theorems/cd03ff13-4486-418b-bf32-44cf82c0617e

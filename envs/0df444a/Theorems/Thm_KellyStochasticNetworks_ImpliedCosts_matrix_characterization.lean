@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_ImpliedCosts_matrix_characterization
 -- name    : KellyStochasticNetworks.ImpliedCosts.matrix_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:19.113978+00:00
 -- url     : https://prove2.me/theorems/aa28e8f0-5854-44ab-b86d-4fb4bed76d9b

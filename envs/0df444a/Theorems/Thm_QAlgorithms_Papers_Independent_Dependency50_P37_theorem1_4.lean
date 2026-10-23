@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P37_theorem1_4
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P37.theorem1_4
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:09:49.472923+00:00
 -- url     : https://prove2.me/theorems/0db11c66-685f-4a4d-81c8-92735f1d57d7

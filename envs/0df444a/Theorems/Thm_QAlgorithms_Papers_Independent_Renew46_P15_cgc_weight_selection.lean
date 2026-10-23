@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P15_cgc_weight_selection
 -- name    : QAlgorithms.Papers.Independent.Renew46.P15.cgc_weight_selection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:14:58.837762+00:00
 -- url     : https://prove2.me/theorems/f80e407f-8e19-4a92-b5cf-671d8b5bbadc

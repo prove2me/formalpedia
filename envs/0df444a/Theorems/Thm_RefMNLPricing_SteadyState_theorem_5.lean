@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefMNLPricing_SteadyState_theorem_5
 -- name    : RefMNLPricing.SteadyState.theorem_5
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:06.342588+00:00
 -- url     : https://prove2.me/theorems/36d48a78-c8c7-4cce-b131-812ffcea1954

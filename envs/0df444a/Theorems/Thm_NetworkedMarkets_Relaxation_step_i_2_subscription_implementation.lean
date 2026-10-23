@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkedMarkets_Relaxation_step_i_2_subscription_implementation
 -- name    : NetworkedMarkets.Relaxation.step_i_2_subscription_implementation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:27.159503+00:00
 -- url     : https://prove2.me/theorems/27a6b204-03d0-40c9-a0fc-617b0223114e

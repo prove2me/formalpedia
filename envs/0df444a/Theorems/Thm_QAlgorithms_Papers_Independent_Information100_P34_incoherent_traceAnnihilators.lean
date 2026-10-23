@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P34_incoherent_traceAnnihilators
 -- name    : QAlgorithms.Papers.Independent.Information100.P34.incoherent_traceAnnihilators
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:59:14.227587+00:00
 -- url     : https://prove2.me/theorems/88275fa1-e446-49d4-b50b-03f889a4b86a

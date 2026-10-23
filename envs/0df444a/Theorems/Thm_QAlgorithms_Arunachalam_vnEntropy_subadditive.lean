@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Arunachalam_vnEntropy_subadditive
 -- name    : QAlgorithms.Arunachalam.vnEntropy_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:55:20.618692+00:00
 -- url     : https://prove2.me/theorems/4fb1211d-7466-4845-afaa-bb12db1e9676

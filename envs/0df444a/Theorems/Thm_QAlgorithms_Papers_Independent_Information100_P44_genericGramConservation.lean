@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_genericGramConservation
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.genericGramConservation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:32:01.40499+00:00
 -- url     : https://prove2.me/theorems/48d72819-2f67-4b81-b01f-1d65c6fa2729

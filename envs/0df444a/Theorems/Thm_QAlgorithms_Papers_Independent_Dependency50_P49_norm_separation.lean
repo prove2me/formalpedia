@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P49_norm_separation
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P49.norm_separation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:21:57.790607+00:00
 -- url     : https://prove2.me/theorems/446121fd-8fb5-48d4-aa04-b423905a2a76

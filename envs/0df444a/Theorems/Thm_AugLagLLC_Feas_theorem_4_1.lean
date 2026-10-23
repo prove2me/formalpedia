@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AugLagLLC_Feas_theorem_4_1
 -- name    : AugLagLLC.Feas.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:37:07.79013+00:00
 -- url     : https://prove2.me/theorems/cd437d58-47d4-4af1-aded-941b072451a4

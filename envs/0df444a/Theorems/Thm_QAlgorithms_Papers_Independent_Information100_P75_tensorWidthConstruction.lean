@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_tensorWidthConstruction
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.tensorWidthConstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:08:35.12183+00:00
 -- url     : https://prove2.me/theorems/65729f1e-44e2-4241-ae54-2cf9b2720082

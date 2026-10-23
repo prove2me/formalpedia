@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_ideal_choi_matrices
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.ideal_choi_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T23:12:32.542944+00:00
 -- url     : https://prove2.me/theorems/78347c8d-b3a2-48a1-88ab-fcfa94f09023

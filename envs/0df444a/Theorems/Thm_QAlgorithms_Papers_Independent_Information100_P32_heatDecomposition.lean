@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_heatDecomposition
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.heatDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:41:32.228256+00:00
 -- url     : https://prove2.me/theorems/da256522-4f67-41a7-aa2e-dc4b76157bee

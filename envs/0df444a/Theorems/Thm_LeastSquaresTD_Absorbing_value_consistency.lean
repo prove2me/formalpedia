@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeastSquaresTD_Absorbing_value_consistency
 -- name    : LeastSquaresTD.Absorbing.value_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:02:46.804228+00:00
 -- url     : https://prove2.me/theorems/407730be-7794-4d96-888f-bc5bd0051ac5

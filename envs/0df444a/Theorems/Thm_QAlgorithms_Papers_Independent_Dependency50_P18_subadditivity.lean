@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_subadditivity
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.subadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:00:57.205754+00:00
 -- url     : https://prove2.me/theorems/c7cba474-c5fe-4f73-99f7-086f985b1856

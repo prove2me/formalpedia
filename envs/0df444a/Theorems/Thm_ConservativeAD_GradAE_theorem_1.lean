@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConservativeAD_GradAE_theorem_1
 -- name    : ConservativeAD.GradAE.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:23.082552+00:00
 -- url     : https://prove2.me/theorems/129fecca-1b89-4208-bf22-b871e17cfff3

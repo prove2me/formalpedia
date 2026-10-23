@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P44_thermalEntropy_powerSeries
 -- name    : QAlgorithms.Papers.Independent.Gap48.P44.thermalEntropy_powerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:38:43.055987+00:00
 -- url     : https://prove2.me/theorems/b127a416-d9e9-48eb-9c7a-f302e849060b

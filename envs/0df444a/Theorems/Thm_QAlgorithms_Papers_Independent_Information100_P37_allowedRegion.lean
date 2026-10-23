@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_allowedRegion
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.allowedRegion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:08:56.048666+00:00
 -- url     : https://prove2.me/theorems/2a4d2e91-7229-45e3-b3ae-4575fc523009

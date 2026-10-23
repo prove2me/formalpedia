@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialAVD_Traj_theorem_2_16
 -- name    : InertialAVD.Traj.theorem_2_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:09:43.629989+00:00
 -- url     : https://prove2.me/theorems/62d825eb-fbe8-4652-8867-2fcee8a2626c

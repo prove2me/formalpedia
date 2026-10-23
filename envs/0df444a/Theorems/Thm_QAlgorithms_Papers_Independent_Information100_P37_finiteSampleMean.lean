@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_finiteSampleMean
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.finiteSampleMean
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:14:11.091756+00:00
 -- url     : https://prove2.me/theorems/867fa4f0-82df-425c-b6f4-cf25d025d386

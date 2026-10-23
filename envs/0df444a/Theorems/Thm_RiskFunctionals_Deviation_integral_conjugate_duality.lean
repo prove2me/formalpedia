@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Deviation_integral_conjugate_duality
 -- name    : RiskFunctionals.Deviation.integral_conjugate_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:49.043634+00:00
 -- url     : https://prove2.me/theorems/68de106a-e2dc-4f71-b64f-da11b38dd58e

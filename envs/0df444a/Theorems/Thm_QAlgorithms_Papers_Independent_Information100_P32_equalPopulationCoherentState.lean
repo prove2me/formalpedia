@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_equalPopulationCoherentState
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.equalPopulationCoherentState
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:34:54.135311+00:00
 -- url     : https://prove2.me/theorems/18b72542-c265-4541-b0cd-d48b37b96591

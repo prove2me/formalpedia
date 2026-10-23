@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_williamson_normal_form
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.williamson_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:06:11.731522+00:00
 -- url     : https://prove2.me/theorems/4aca4f59-d3c5-4533-b305-44a7c1238e9a

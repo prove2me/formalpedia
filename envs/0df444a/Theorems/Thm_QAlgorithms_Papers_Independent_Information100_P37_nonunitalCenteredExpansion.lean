@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_nonunitalCenteredExpansion
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.nonunitalCenteredExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:18:29.952991+00:00
 -- url     : https://prove2.me/theorems/7b783e8f-1439-4f7e-bc6d-3c2e5f6ccaa7

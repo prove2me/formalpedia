@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaitTimePricing_Existence_proposition_4
 -- name    : WaitTimePricing.Existence.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T11:26:30.756993+00:00
 -- url     : https://prove2.me/theorems/bad85f44-305e-4c51-9e2f-afd97d098958

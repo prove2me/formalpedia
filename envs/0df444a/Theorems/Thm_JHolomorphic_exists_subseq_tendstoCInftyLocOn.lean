@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_exists_subseq_tendstoCInftyLocOn
 -- name    : JHolomorphic.exists_subseq_tendstoCInftyLocOn
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:33:34.565326+00:00
 -- url     : https://prove2.me/theorems/c9e6344b-674e-4850-80e0-dd8b85f37450

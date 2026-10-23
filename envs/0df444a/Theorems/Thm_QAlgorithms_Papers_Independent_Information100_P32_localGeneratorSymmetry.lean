@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_localGeneratorSymmetry
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.localGeneratorSymmetry
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:43:20.893612+00:00
 -- url     : https://prove2.me/theorems/c6640b9c-1470-4591-82b9-f132636844b8

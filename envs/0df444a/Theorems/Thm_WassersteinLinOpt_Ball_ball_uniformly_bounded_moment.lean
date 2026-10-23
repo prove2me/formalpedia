@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinLinOpt_Ball_ball_uniformly_bounded_moment
 -- name    : WassersteinLinOpt.Ball.ball_uniformly_bounded_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T17:13:02.612788+00:00
 -- url     : https://prove2.me/theorems/b635b1fe-a523-4227-b1b0-c24822a18ac5

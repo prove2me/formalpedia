@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Conditional_condAVaR_properties
 -- name    : RiskFunctionals.Conditional.condAVaR_properties
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:41.672115+00:00
 -- url     : https://prove2.me/theorems/3d0f6e5a-38e8-4f05-be6b-dc5a248925e1

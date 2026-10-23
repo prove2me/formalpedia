@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_lemma5_coherentDecoder
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.lemma5_coherentDecoder
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:07:15.769181+00:00
 -- url     : https://prove2.me/theorems/b66da5d1-75ff-4768-b710-56fd6c7ee606

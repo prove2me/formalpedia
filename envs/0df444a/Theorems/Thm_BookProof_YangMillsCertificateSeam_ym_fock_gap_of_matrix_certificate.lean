@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsCertificateSeam_ym_fock_gap_of_matrix_certificate
 -- name    : BookProof.YangMillsCertificateSeam.ym_fock_gap_of_matrix_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T13:23:36.142784+00:00
 -- url     : https://prove2.me/theorems/1c66c61c-4464-4b08-8c6d-4c1b404c3726

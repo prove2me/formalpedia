@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedergruenZipkin_AvgCost_lemma3_hitting_sum_growth
 -- name    : FedergruenZipkin.AvgCost.lemma3_hitting_sum_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:37:44.594981+00:00
 -- url     : https://prove2.me/theorems/6d853cfa-59af-425d-bd0c-91cb2026cfc3

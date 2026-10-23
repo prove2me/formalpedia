@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P34_fourier_two_di_affine_gap
 -- name    : QAlgorithms.Papers.Independent.Information100.P34.fourier_two_di_affine_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:57:51.682426+00:00
 -- url     : https://prove2.me/theorems/69427bdc-a4c7-4da9-9adf-5d30515e47ad

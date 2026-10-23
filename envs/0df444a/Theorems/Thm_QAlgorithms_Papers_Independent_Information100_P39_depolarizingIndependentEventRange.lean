@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P39_depolarizingIndependentEventRange
 -- name    : QAlgorithms.Papers.Independent.Information100.P39.depolarizingIndependentEventRange
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:22:50.055438+00:00
 -- url     : https://prove2.me/theorems/06d0e602-223b-4324-997c-678af0c243de

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MilnorDynamics.not_locally_bounded_subseq_diverges
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-01T06:43:57.266753+00:00
 -- url     : https://prove2.me/submissions/2bca4a97-3437-4a5b-bf28-14418f214af2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MilnorDynamics_NormalFamilies

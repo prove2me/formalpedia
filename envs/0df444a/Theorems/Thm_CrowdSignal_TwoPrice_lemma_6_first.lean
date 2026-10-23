@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdSignal_TwoPrice_lemma_6_first
 -- name    : CrowdSignal.TwoPrice.lemma_6_first
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:04:08.493542+00:00
 -- url     : https://prove2.me/theorems/537b57a9-e2bd-43ec-a6fc-84b5928c8ef7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P50_j2_hilbertSchmidt_isomorphism
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P50.j2_hilbertSchmidt_isomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:26:05.353169+00:00
 -- url     : https://prove2.me/theorems/acf80d47-15d1-4427-908d-ecb7e5242ebb

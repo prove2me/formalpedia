@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_FlowStability_supporting_utility
 -- name    : KellyStochasticNetworks.FlowStability.supporting_utility
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:23.145975+00:00
 -- url     : https://prove2.me/theorems/cf2f3764-c1f2-444b-978f-b47b3ed5e04a

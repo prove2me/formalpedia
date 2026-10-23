@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CODATA_normal_equations
 -- name    : CODATA.normal_equations
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-21T01:37:07.425985+00:00
 -- url     : https://prove2.me/theorems/d8700d90-bae6-46d7-9381-ac858829f688

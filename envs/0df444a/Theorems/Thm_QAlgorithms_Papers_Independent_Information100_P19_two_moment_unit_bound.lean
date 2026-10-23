@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_two_moment_unit_bound
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.two_moment_unit_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:54:36.994107+00:00
 -- url     : https://prove2.me/theorems/16ed2d2a-5e90-45be-b0ee-ebc413785eb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_Competition_lemma_2
 -- name    : Fundraising.Competition.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:10.15377+00:00
 -- url     : https://prove2.me/theorems/715881e3-9e48-4349-b7d5-b9f53d49668f

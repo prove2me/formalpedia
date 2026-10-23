@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CourierDispatch_Endogenous_strict_concavity
 -- name    : CourierDispatch.Endogenous.strict_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:49.753926+00:00
 -- url     : https://prove2.me/theorems/d0cb647e-ddf4-4082-8aa3-27bcb40bad24

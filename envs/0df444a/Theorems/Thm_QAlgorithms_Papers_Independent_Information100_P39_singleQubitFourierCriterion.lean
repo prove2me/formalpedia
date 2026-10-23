@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P39_singleQubitFourierCriterion
 -- name    : QAlgorithms.Papers.Independent.Information100.P39.singleQubitFourierCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:21:09.842976+00:00
 -- url     : https://prove2.me/theorems/ebbce0d7-85ec-4829-a33c-c9eee2e6aea3

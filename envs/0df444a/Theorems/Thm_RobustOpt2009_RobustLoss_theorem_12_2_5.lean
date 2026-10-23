@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_RobustLoss_theorem_12_2_5
 -- name    : RobustOpt2009.RobustLoss.theorem_12_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:32.75609+00:00
 -- url     : https://prove2.me/theorems/c7479fed-fa23-45dd-b62f-72b31c8a8f06

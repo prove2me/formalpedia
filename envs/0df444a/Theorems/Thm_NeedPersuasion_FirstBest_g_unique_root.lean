@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_FirstBest_g_unique_root
 -- name    : NeedPersuasion.FirstBest.g_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:50.098016+00:00
 -- url     : https://prove2.me/theorems/af38f701-a9bb-42eb-bc2f-d16122747db1

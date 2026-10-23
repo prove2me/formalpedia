@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_classicalFidelityBound
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.classicalFidelityBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:01:36.383796+00:00
 -- url     : https://prove2.me/theorems/4bad2e9b-ab71-4bc1-b8dd-52c11ad25e1b

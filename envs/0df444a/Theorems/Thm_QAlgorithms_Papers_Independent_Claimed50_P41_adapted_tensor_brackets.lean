@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_adapted_tensor_brackets
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.adapted_tensor_brackets
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:03:52.422386+00:00
 -- url     : https://prove2.me/theorems/20ff3e11-7102-4fdd-8af9-f074146e77a1

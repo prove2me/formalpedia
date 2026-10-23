@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Dim2_lemma_5_1
 -- name    : NelderMeadLD.Dim2.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:14:50.621841+00:00
 -- url     : https://prove2.me/theorems/27b5b220-4b89-47c2-a980-eec47e18e482

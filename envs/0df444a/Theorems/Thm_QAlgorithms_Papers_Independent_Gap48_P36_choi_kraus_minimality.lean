@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_choi_kraus_minimality
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.choi_kraus_minimality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:11:18.79028+00:00
 -- url     : https://prove2.me/theorems/4f646a95-fb3d-42c8-9fe5-d2239b5c7aa8

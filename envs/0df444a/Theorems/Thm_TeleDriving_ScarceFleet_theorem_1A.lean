@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleDriving_ScarceFleet_theorem_1A
 -- name    : TeleDriving.ScarceFleet.theorem_1A
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:14:40.133778+00:00
 -- url     : https://prove2.me/theorems/5968af02-5007-4667-bb6f-b9384a0325d2

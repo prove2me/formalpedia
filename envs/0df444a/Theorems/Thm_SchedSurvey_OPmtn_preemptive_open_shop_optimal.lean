@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedSurvey_OPmtn_preemptive_open_shop_optimal
 -- name    : SchedSurvey.OPmtn.preemptive_open_shop_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:58:21.388753+00:00
 -- url     : https://prove2.me/theorems/69ef8a07-6e28-4bae-9eac-9b99daa141f6

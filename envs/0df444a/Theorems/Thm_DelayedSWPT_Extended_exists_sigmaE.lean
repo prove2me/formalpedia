@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Extended_exists_sigmaE
 -- name    : DelayedSWPT.Extended.exists_sigmaE
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:09:44.831425+00:00
 -- url     : https://prove2.me/theorems/4057d38c-bfb0-41d5-85f7-a38af4562034

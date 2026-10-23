@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P06_coherentInformation_bound_and_equality
 -- name    : QAlgorithms.Papers.Independent.Gap20.P06.coherentInformation_bound_and_equality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:16:11.35297+00:00
 -- url     : https://prove2.me/theorems/722db4a5-fbc8-4fa2-9eb3-3248baeac822

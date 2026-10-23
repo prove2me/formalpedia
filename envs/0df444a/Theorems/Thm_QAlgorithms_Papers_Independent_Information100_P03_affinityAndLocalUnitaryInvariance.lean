@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P03_affinityAndLocalUnitaryInvariance
 -- name    : QAlgorithms.Papers.Independent.Information100.P03.affinityAndLocalUnitaryInvariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:27:29.827849+00:00
 -- url     : https://prove2.me/theorems/02ff3b56-861d-41e3-a731-13a4b98081e4

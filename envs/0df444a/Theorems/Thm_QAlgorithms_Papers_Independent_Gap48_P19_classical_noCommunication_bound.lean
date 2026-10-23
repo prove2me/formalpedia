@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P19_classical_noCommunication_bound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P19.classical_noCommunication_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:11:42.444719+00:00
 -- url     : https://prove2.me/theorems/353969c5-7aa4-45d7-a639-d1fab48841fa

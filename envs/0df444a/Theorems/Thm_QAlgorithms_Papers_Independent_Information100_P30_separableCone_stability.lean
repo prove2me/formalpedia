@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P30_separableCone_stability
 -- name    : QAlgorithms.Papers.Independent.Information100.P30.separableCone_stability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:19:56.009992+00:00
 -- url     : https://prove2.me/theorems/19912719-1710-4dfd-b6a5-47eeaf96af1b

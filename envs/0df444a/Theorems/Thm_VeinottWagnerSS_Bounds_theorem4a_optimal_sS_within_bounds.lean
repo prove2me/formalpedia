@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Bounds_theorem4a_optimal_sS_within_bounds
 -- name    : VeinottWagnerSS.Bounds.theorem4a_optimal_sS_within_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:54:23.867981+00:00
 -- url     : https://prove2.me/theorems/079959e2-c4a8-4f97-8e31-d469524e9884

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpeedFactory_BreakEven_proposition_4
 -- name    : SpeedFactory.BreakEven.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:59.512151+00:00
 -- url     : https://prove2.me/theorems/a5422af9-63fb-4d6e-b852-36b8f69fa2d0

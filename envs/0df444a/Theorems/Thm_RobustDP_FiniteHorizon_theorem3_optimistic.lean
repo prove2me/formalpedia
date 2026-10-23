@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_FiniteHorizon_theorem3_optimistic
 -- name    : RobustDP.FiniteHorizon.theorem3_optimistic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:47.76192+00:00
 -- url     : https://prove2.me/theorems/0576ecce-910e-4a35-8c44-ede21a9ac40f

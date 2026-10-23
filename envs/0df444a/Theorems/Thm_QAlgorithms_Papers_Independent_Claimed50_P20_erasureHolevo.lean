@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P20_erasureHolevo
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P20.erasureHolevo
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:26:50.811643+00:00
 -- url     : https://prove2.me/theorems/0f0e8323-972a-4d6a-99db-56cdfd3974de

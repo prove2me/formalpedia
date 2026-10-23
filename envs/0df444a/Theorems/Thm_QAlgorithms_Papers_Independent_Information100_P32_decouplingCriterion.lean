@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_decouplingCriterion
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.decouplingCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:42:50.380367+00:00
 -- url     : https://prove2.me/theorems/46b35ebc-0cf7-4c3c-9b8b-92e7469a9710

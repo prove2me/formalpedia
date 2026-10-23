@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P26_hookWalkProjections
 -- name    : QAlgorithms.Papers.Independent.Next46.P26.hookWalkProjections
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:11:35.819839+00:00
 -- url     : https://prove2.me/theorems/404271bd-e15e-44a9-abb7-20e67f8220a0

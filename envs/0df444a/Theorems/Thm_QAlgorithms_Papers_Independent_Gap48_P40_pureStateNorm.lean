@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_pureStateNorm
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.pureStateNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:19:55.534986+00:00
 -- url     : https://prove2.me/theorems/80858ae6-434d-4ed4-b820-ba082424108b

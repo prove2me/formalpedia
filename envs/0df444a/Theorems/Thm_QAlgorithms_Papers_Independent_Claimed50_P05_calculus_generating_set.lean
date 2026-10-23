@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P05_calculus_generating_set
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P05.calculus_generating_set
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:13:27.084381+00:00
 -- url     : https://prove2.me/theorems/112cd3ea-60ea-42c6-a580-be6dd1b88bb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_PersonalA_proposition_4
 -- name    : PersPricingDist.PersonalA.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:09.337015+00:00
 -- url     : https://prove2.me/theorems/947cc424-d570-4c09-a6bc-fc08d46e6fcd

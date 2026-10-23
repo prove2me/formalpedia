@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CHMSPricing_UnitDemand_unit_demand_opm_approx
 -- name    : CHMSPricing.UnitDemand.unit_demand_opm_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T12:55:16.494196+00:00
 -- url     : https://prove2.me/theorems/569ab4c5-f63f-4133-b3f0-5d91adb1fb69

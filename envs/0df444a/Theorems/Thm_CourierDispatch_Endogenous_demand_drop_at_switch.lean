@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CourierDispatch_Endogenous_demand_drop_at_switch
 -- name    : CourierDispatch.Endogenous.demand_drop_at_switch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:06.54098+00:00
 -- url     : https://prove2.me/theorems/06163482-bcf0-4964-828a-5a918c4a7f98

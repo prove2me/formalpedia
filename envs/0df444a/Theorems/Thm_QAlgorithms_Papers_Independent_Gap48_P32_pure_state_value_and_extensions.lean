@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P32_pure_state_value_and_extensions
 -- name    : QAlgorithms.Papers.Independent.Gap48.P32.pure_state_value_and_extensions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:27:01.024698+00:00
 -- url     : https://prove2.me/theorems/5c7553eb-ddee-4535-ab0f-5686d590d11f

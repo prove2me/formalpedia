@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Distortion_generalized_quantile_transform
 -- name    : RiskFunctionals.Distortion.generalized_quantile_transform
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:53:05.789177+00:00
 -- url     : https://prove2.me/theorems/1bae79b2-66bc-451b-8e5b-0847bb3fefb3

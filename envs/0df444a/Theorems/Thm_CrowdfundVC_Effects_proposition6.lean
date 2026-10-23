@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdfundVC_Effects_proposition6
 -- name    : CrowdfundVC.Effects.proposition6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:37.078977+00:00
 -- url     : https://prove2.me/theorems/378c3c60-1e01-4cf6-b593-53cd19068a77

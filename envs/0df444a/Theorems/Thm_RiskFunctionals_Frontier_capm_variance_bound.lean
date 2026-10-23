@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Frontier_capm_variance_bound
 -- name    : RiskFunctionals.Frontier.capm_variance_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:14.337443+00:00
 -- url     : https://prove2.me/theorems/5886ba9f-7ed6-4f5e-b648-c28da42e2586

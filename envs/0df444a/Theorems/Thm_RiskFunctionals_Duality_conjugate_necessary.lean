@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Duality_conjugate_necessary
 -- name    : RiskFunctionals.Duality.conjugate_necessary
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:19.626107+00:00
 -- url     : https://prove2.me/theorems/a2933d52-a204-470f-b427-af8b25e9c956

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_tensor_conjugates
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.tensor_conjugates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:05:26.05213+00:00
 -- url     : https://prove2.me/theorems/a62f4856-da64-4ebf-acec-703ba1813897

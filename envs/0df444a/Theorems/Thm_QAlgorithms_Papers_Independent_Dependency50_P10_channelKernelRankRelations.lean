@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P10_channelKernelRankRelations
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P10.channelKernelRankRelations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:06:30.309406+00:00
 -- url     : https://prove2.me/theorems/519de001-d7cd-4337-9c5c-ef097a65955e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflinePolicyLearning_Trees_lemma4_part1_tree_covering
 -- name    : OfflinePolicyLearning.Trees.lemma4_part1_tree_covering
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:37:13.59198+00:00
 -- url     : https://prove2.me/theorems/d582fe4a-59d1-49fc-a717-47decc366c54

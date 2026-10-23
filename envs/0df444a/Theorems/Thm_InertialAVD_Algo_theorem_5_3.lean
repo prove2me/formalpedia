@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialAVD_Algo_theorem_5_3
 -- name    : InertialAVD.Algo.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:33.582238+00:00
 -- url     : https://prove2.me/theorems/3d612e7c-4038-49b6-902c-28092c1b0185

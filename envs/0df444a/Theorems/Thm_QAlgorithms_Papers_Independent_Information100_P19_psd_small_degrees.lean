@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_psd_small_degrees
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.psd_small_degrees
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:44:22.808993+00:00
 -- url     : https://prove2.me/theorems/885b964a-a24d-4f3d-aeab-ffd2c818ffbc

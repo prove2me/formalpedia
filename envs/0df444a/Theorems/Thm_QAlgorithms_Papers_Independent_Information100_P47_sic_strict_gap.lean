@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P47_sic_strict_gap
 -- name    : QAlgorithms.Papers.Independent.Information100.P47.sic_strict_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:35:56.727295+00:00
 -- url     : https://prove2.me/theorems/690a3ee8-24ed-4149-b6f1-e0ea243f79f4

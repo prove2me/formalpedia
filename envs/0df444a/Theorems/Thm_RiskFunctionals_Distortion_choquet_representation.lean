@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Distortion_choquet_representation
 -- name    : RiskFunctionals.Distortion.choquet_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:53:14.443173+00:00
 -- url     : https://prove2.me/theorems/8d51009d-a35f-431e-90dd-9231b95ab3a2

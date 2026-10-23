@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_Mismeasure_napi_regression_bound
 -- name    : SampleComplexityRL.Mismeasure.napi_regression_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:45.708731+00:00
 -- url     : https://prove2.me/theorems/05185744-75f5-4806-aded-ad995985c5f3

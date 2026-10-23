@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CourierDispatch_Endogenous_batch_optimum
 -- name    : CourierDispatch.Endogenous.batch_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:57.224367+00:00
 -- url     : https://prove2.me/theorems/c2b1db3a-3f8a-442c-ab45-4ba93e7f87a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_PerStep_proposition2_per_step_regret
 -- name    : NonstatRL.PerStep.proposition2_per_step_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:33.411573+00:00
 -- url     : https://prove2.me/theorems/32bedd26-d1a0-4d4d-aa83-6170be0d4b6b

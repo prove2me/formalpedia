@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P02_covariance_closed_convex
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P02.covariance_closed_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:10:27.21185+00:00
 -- url     : https://prove2.me/theorems/6167cb6c-0101-4bc8-b2e2-2b1dec651cfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P15_remark_I_5_4
 -- name    : QAlgorithms.Papers.Independent.Next46.P15.remark_I_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:17:51.342051+00:00
 -- url     : https://prove2.me/theorems/11f8af98-ca30-477a-b3b4-e20cc473ac6f

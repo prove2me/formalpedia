@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P03_sequence_extrema_attained
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P03.sequence_extrema_attained
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:30:45.637172+00:00
 -- url     : https://prove2.me/theorems/b0e37da4-e30f-4ba1-a0b6-5dc4e7681f59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Kusuoka_antimonotone_representation
 -- name    : RiskFunctionals.Kusuoka.antimonotone_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:48.658285+00:00
 -- url     : https://prove2.me/theorems/8fc2052e-5f6f-4f89-b59c-f2d7c3af9dc0

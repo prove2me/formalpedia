@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P06_schmidt_recovery_construction
 -- name    : QAlgorithms.Papers.Independent.Gap20.P06.schmidt_recovery_construction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:18:27.664439+00:00
 -- url     : https://prove2.me/theorems/17cd1a4d-330a-4abb-9262-d043fa7a567f

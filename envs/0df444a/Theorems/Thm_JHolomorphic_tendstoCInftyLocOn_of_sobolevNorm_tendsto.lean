@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_tendstoCInftyLocOn_of_sobolevNorm_tendsto
 -- name    : JHolomorphic.tendstoCInftyLocOn_of_sobolevNorm_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:32:04.259302+00:00
 -- url     : https://prove2.me/theorems/5211411d-2dbc-4952-9b4a-f5989337c4e7

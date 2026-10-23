@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_coherence_iff_positive_advantage
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.coherence_iff_positive_advantage
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:03:31.414624+00:00
 -- url     : https://prove2.me/theorems/0461c8db-a9ac-49ca-8866-81eb8b50a552

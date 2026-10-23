@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HetImpatient_FluidSplit_proposition_1
 -- name    : HetImpatient.FluidSplit.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:34:54.623984+00:00
 -- url     : https://prove2.me/theorems/2870bcf4-48da-4379-9baa-f20ee13ebd78

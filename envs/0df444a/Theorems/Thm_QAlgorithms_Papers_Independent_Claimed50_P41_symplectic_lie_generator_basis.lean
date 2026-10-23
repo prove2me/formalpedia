@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_symplectic_lie_generator_basis
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.symplectic_lie_generator_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:03:28.80719+00:00
 -- url     : https://prove2.me/theorems/3dfcdeb7-2d75-457d-9bf7-8acff9425d73

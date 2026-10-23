@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_filtered_noisy_complement
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.filtered_noisy_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:07:39.247823+00:00
 -- url     : https://prove2.me/theorems/8da71525-208a-4a2c-83f2-ce45d26d1ad6

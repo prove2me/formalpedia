@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_lemma4_hayashiNagaoka
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.lemma4_hayashiNagaoka
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:06:29.448034+00:00
 -- url     : https://prove2.me/theorems/ae127b12-f215-4862-b793-00ed1f31dfaf

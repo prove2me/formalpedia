@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_MultiPeriod_weak_representation
 -- name    : RiskFunctionals.MultiPeriod.weak_representation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:53:05.560278+00:00
 -- url     : https://prove2.me/theorems/6b970bab-e8f4-401b-85f0-50ad2888aadd

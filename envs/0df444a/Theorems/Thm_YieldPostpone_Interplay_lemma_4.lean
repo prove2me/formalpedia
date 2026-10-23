@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Interplay_lemma_4
 -- name    : YieldPostpone.Interplay.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:43.953159+00:00
 -- url     : https://prove2.me/theorems/17158b77-654d-4d8c-b746-3b9087aab1d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_dickeTwoQubitMarginal
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.dickeTwoQubitMarginal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:15:26.279908+00:00
 -- url     : https://prove2.me/theorems/5873a70c-9947-4bda-bf58-54bb62f6267f

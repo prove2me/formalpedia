@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P05_explicitEnvironmental_covarianceWitnesses
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P05.explicitEnvironmental_covarianceWitnesses
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:49:52.008981+00:00
 -- url     : https://prove2.me/theorems/f7b09099-446f-4bb1-9f71-fc64a13e7231

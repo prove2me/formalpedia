@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P05_uniformity_criterion
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P05.uniformity_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T07:53:56.209605+00:00
 -- url     : https://prove2.me/theorems/faa08eff-14fe-4d90-9c10-a6abb9acc34e

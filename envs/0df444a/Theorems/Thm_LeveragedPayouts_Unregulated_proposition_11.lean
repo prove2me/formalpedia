@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeveragedPayouts_Unregulated_proposition_11
 -- name    : LeveragedPayouts.Unregulated.proposition_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:24:27.387008+00:00
 -- url     : https://prove2.me/theorems/53bf5bb1-24f8-4bbc-bfb8-09e46fdfe3fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_inducedZeros_noCancellation
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.inducedZeros_noCancellation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:37:33.126222+00:00
 -- url     : https://prove2.me/theorems/96f7e5af-685d-4470-b66d-c8ed1f984ad7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Pricing_dr_threshold_order
 -- name    : YieldPostpone.Pricing.dr_threshold_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:46.577065+00:00
 -- url     : https://prove2.me/theorems/bc00e7be-2c0b-4a8d-b563-78187effaae5

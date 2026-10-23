@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_normal_disk_to_thrice_punctured_plane
 -- name    : MilnorDynamics.normal_disk_to_thrice_punctured_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T11:06:50.795205+00:00
 -- url     : https://prove2.me/theorems/892d47a3-020a-40c0-a979-085efb88a81a

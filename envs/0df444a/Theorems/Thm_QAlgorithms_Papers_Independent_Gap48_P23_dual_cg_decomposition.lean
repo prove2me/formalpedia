@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_dual_cg_decomposition
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.dual_cg_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:59:16.81034+00:00
 -- url     : https://prove2.me/theorems/791a4d8a-945f-4be4-bccf-8cce91d99043

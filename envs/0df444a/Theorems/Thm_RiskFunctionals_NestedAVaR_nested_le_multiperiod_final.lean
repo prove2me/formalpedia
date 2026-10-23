@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_NestedAVaR_nested_le_multiperiod_final
 -- name    : RiskFunctionals.NestedAVaR.nested_le_multiperiod_final
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:09.847238+00:00
 -- url     : https://prove2.me/theorems/76839d7e-43e4-47d9-a6cf-e730c6608756

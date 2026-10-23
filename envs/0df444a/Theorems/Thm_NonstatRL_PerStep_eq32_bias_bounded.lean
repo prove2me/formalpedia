@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_PerStep_eq32_bias_bounded
 -- name    : NonstatRL.PerStep.eq32_bias_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:25.762913+00:00
 -- url     : https://prove2.me/theorems/db1296c2-2342-41b3-8bb5-6cd1f966723f

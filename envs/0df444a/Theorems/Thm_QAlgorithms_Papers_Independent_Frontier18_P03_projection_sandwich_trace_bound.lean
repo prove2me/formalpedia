@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P03_projection_sandwich_trace_bound
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P03.projection_sandwich_trace_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:32:02.048993+00:00
 -- url     : https://prove2.me/theorems/443b570d-8da5-4514-a92e-3876b26a5822

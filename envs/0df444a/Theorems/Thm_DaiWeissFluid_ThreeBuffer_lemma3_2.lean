@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_ThreeBuffer_lemma3_2
 -- name    : DaiWeissFluid.ThreeBuffer.lemma3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:28:14.039671+00:00
 -- url     : https://prove2.me/theorems/5aa0cad4-60f3-4165-a0ca-24db3aa2e506

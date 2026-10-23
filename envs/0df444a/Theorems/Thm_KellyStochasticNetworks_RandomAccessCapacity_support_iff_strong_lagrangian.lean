@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_RandomAccessCapacity_support_iff_strong_lagrangian
 -- name    : KellyStochasticNetworks.RandomAccessCapacity.support_iff_strong_lagrangian
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:30.361321+00:00
 -- url     : https://prove2.me/theorems/d344a1dc-55fb-453a-8af1-7507564fc6ff

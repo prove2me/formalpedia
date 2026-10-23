@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdTarget_Separating_supp_profit_p2_mono
 -- name    : CrowdTarget.Separating.supp_profit_p2_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:07.540621+00:00
 -- url     : https://prove2.me/theorems/6f26c464-0203-4f2b-906f-7d5a23e702ce

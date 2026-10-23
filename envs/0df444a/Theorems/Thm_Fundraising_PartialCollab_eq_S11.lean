@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_PartialCollab_eq_S11
 -- name    : Fundraising.PartialCollab.eq_S11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:16.41824+00:00
 -- url     : https://prove2.me/theorems/caa3497e-5250-488a-b9d5-25c7f0da942b

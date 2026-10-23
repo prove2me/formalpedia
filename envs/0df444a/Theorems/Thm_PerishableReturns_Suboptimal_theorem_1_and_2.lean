@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishableReturns_Suboptimal_theorem_1_and_2
 -- name    : PerishableReturns.Suboptimal.theorem_1_and_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:52.770482+00:00
 -- url     : https://prove2.me/theorems/180b8109-26ec-4824-b750-1c7808313a11

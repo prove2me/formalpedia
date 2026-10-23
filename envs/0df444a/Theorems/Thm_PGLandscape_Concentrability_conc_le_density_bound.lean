@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PGLandscape_Concentrability_conc_le_density_bound
 -- name    : PGLandscape.Concentrability.conc_le_density_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:29:36.136174+00:00
 -- url     : https://prove2.me/theorems/2bcfddde-2435-4fd3-99bb-c630aab5846f

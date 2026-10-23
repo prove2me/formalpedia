@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_hermitian_small_degrees
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.hermitian_small_degrees
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:42:03.777508+00:00
 -- url     : https://prove2.me/theorems/9f5686a8-de5c-46bd-952e-928ba5f88723

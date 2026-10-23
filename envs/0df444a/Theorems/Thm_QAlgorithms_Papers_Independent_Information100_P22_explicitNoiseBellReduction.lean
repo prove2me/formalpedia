@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_explicitNoiseBellReduction
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.explicitNoiseBellReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:58:58.686903+00:00
 -- url     : https://prove2.me/theorems/580dd2e1-947a-4323-b9db-d985742622c4

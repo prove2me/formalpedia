@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_projectedBlock_generatorIdentity
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.projectedBlock_generatorIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:39:45.602862+00:00
 -- url     : https://prove2.me/theorems/f741ee6f-139c-4ba4-af71-09219f835d0e

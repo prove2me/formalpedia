@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_montel_three_omitted_values
 -- name    : MilnorDynamics.montel_three_omitted_values
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T12:08:58.198514+00:00
 -- url     : https://prove2.me/theorems/90623051-0393-484c-96f1-2f271789181a

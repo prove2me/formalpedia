@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_triangularization_iffSolvable
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.triangularization_iffSolvable
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:19:46.44243+00:00
 -- url     : https://prove2.me/theorems/8f07c0d8-d5ae-473d-83f0-3e7605048e8a

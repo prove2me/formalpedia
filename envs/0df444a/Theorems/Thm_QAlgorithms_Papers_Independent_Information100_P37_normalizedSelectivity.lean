@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_normalizedSelectivity
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.normalizedSelectivity
--- status  : Open
+-- status  : Disproved
 -- author  : @Goku
 -- created : 2026-10-19T11:08:13.509372+00:00
 -- url     : https://prove2.me/theorems/7a9c6fa6-97a1-424f-a911-3eece450a81a

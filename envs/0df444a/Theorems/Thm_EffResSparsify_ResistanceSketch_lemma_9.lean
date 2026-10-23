@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EffResSparsify_ResistanceSketch_lemma_9
 -- name    : EffResSparsify.ResistanceSketch.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T09:35:08.153506+00:00
 -- url     : https://prove2.me/theorems/813d17a4-5e3e-410a-b65a-bf63573457c2

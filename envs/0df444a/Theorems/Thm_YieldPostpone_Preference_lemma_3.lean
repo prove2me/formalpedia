@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Preference_lemma_3
 -- name    : YieldPostpone.Preference.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:23.471979+00:00
 -- url     : https://prove2.me/theorems/c9e1ab31-956e-4a71-988b-89a80115dfa6

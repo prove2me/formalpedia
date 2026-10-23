@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Stochastic_cramer_chernoff
 -- name    : RegretBandits.Stochastic.cramer_chernoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:19:31.007081+00:00
 -- url     : https://prove2.me/theorems/98f3f75b-8b70-4961-ba0b-f450ddb95e35

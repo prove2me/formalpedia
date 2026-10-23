@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_StochDominance_quantile_transform
 -- name    : RiskFunctionals.StochDominance.quantile_transform
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:34.661908+00:00
 -- url     : https://prove2.me/theorems/5cc017c1-a22a-40b4-873b-beac0728e693

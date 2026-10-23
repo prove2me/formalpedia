@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P37_conditionalExtension
 -- name    : QAlgorithms.Papers.Independent.Renew46.P37.conditionalExtension
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T22:11:50.751247+00:00
 -- url     : https://prove2.me/theorems/f8c8a209-a229-4f7c-b596-eceb4d426def

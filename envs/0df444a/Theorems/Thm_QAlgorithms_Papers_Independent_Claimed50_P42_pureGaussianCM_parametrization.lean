@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P42_pureGaussianCM_parametrization
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P42.pureGaussianCM_parametrization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:04:04.573404+00:00
 -- url     : https://prove2.me/theorems/0b822405-3082-4277-a297-47e244787f7c

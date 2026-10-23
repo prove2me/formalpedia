@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for MilnorDynamics.montel_normalized_omitting_zero_one_infty
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-09-30T22:06:16.601816+00:00
 -- url     : https://prove2.me/submissions/4a78f280-4620-4d74-aaca-fd06bdfddd22
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MilnorDynamics_NormalFamilies

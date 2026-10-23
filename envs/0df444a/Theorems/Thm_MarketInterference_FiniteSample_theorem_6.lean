@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketInterference_FiniteSample_theorem_6
 -- name    : MarketInterference.FiniteSample.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:47.839005+00:00
 -- url     : https://prove2.me/theorems/8232580d-dcd3-4710-927c-7610627485e7

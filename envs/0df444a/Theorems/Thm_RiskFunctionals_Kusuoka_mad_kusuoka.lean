@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Kusuoka_mad_kusuoka
 -- name    : RiskFunctionals.Kusuoka.mad_kusuoka
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:50.363802+00:00
 -- url     : https://prove2.me/theorems/ddb18d09-796d-47a0-9d27-f3f0cb71234d

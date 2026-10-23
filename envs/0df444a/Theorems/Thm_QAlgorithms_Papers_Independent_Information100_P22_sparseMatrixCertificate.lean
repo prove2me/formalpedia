@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_sparseMatrixCertificate
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.sparseMatrixCertificate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:14:02.976192+00:00
 -- url     : https://prove2.me/theorems/3538b465-b163-4252-a96c-e9dbc969a009

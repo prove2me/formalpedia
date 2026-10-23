@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Polyhedral_polyhedral_acceptability
 -- name    : RiskFunctionals.Polyhedral.polyhedral_acceptability
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:46.066887+00:00
 -- url     : https://prove2.me/theorems/8674eaab-2892-4792-bc63-e71db2008451

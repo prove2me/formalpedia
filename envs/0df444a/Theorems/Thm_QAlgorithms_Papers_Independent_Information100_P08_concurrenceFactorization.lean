@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P08_concurrenceFactorization
 -- name    : QAlgorithms.Papers.Independent.Information100.P08.concurrenceFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:17:34.450977+00:00
 -- url     : https://prove2.me/theorems/2dbdf772-1d03-4613-866b-eafef95c6180

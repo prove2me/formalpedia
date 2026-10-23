@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P19_fig3_CMI_bound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P19.fig3_CMI_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:13:07.961916+00:00
 -- url     : https://prove2.me/theorems/6bcdb54f-7861-4821-a4b4-160a4bf27a42

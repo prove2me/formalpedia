@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_channel_mixing_convexity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.channel_mixing_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:33:33.356856+00:00
 -- url     : https://prove2.me/theorems/ad39b23e-77e1-47e0-86c9-379680f7081f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_CountableReversal_exponential_clocks
 -- name    : KellyStochasticNetworks.CountableReversal.exponential_clocks
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:49.170917+00:00
 -- url     : https://prove2.me/theorems/781cd664-31d8-4d47-8099-a845e9d7e5f7

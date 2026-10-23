@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_Distortion_muQ_generates
 -- name    : RiskUncSets.Distortion.muQ_generates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:28:29.311635+00:00
 -- url     : https://prove2.me/theorems/b383385a-4bdf-4181-be34-f59effc084f0

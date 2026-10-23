@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P40_dephasing_inputs_maximize_mutual_information
 -- name    : QAlgorithms.Papers.Independent.Next46.P40.dephasing_inputs_maximize_mutual_information
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:57:56.008502+00:00
 -- url     : https://prove2.me/theorems/07fc06dc-a12f-42b7-960e-dab28046e795

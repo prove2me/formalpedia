@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_ap_failure_wot
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.ap_failure_wot
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:15:45.918871+00:00
 -- url     : https://prove2.me/theorems/867464fc-a92e-4516-b6aa-66b36f2d49d6

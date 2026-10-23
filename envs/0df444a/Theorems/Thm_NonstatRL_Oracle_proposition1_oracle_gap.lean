@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_Oracle_proposition1_oracle_gap
 -- name    : NonstatRL.Oracle.proposition1_oracle_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:29:13.310551+00:00
 -- url     : https://prove2.me/theorems/f8c25ce4-1b28-4750-a51f-bc827a535364

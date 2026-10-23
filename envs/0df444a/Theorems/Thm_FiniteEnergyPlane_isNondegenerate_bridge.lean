@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_isNondegenerate_bridge
 -- name    : FiniteEnergyPlane.isNondegenerate_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:44:19.461117+00:00
 -- url     : https://prove2.me/theorems/5c5f133c-b262-45e5-8b91-2f56ef71b177

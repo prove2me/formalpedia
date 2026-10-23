@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P41_jc_nonnegative_bound
 -- name    : QAlgorithms.Papers.Independent.Information100.P41.jc_nonnegative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:29:59.94556+00:00
 -- url     : https://prove2.me/theorems/42ad0077-06d6-42e6-8e4e-1b5320b13c79

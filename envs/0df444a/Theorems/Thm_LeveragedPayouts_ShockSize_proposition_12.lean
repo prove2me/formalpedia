@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeveragedPayouts_ShockSize_proposition_12
 -- name    : LeveragedPayouts.ShockSize.proposition_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:28:04.73702+00:00
 -- url     : https://prove2.me/theorems/8e1a2ecc-c89e-4322-95ae-7b6eae5852ab

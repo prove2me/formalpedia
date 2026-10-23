@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Distortion_distortion_eq_expectation_transform
 -- name    : RiskFunctionals.Distortion.distortion_eq_expectation_transform
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:53:09.950887+00:00
 -- url     : https://prove2.me/theorems/e8f0fa53-b19e-4c34-9419-2b869a2669bc

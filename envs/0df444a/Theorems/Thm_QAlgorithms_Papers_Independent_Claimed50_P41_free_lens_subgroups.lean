@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_free_lens_subgroups
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.free_lens_subgroups
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:01:33.410221+00:00
 -- url     : https://prove2.me/theorems/adf5941c-7f0c-4084-a539-00f43f5cefd0

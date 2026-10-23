@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P05_real_gelfand_representation
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P05.real_gelfand_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:19:01.179445+00:00
 -- url     : https://prove2.me/theorems/e5f91a15-f39a-4b8a-a62c-5a63fd67883a

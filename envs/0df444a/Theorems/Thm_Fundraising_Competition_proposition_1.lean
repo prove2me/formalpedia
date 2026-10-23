@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_Competition_proposition_1
 -- name    : Fundraising.Competition.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:13.330385+00:00
 -- url     : https://prove2.me/theorems/6035e81e-f1a4-4d6c-aba7-611f6a0047f6

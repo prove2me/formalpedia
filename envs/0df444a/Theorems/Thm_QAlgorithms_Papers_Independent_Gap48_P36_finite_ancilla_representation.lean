@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_finite_ancilla_representation
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.finite_ancilla_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:10:35.83753+00:00
 -- url     : https://prove2.me/theorems/eda435eb-73e3-42ae-a6d3-5dc187284b68

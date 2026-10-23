@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Distortion_distortion_examples
 -- name    : RiskFunctionals.Distortion.distortion_examples
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:56.987546+00:00
 -- url     : https://prove2.me/theorems/14742eee-2084-4895-95d2-3233a6915d20

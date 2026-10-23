@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_stationaryVector_entryBound
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.stationaryVector_entryBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:17:59.593847+00:00
 -- url     : https://prove2.me/theorems/a815d4c4-5c86-4c42-a0f9-f945c4a612f2

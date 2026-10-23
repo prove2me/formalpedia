@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_ladder_revenue
 -- name    : OpaquePricing.Dominance.ladder_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:04.825043+00:00
 -- url     : https://prove2.me/theorems/5f6a127b-57a6-490c-92d1-fa368e77cf46

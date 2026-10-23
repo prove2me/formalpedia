@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Dim2_corollary_3_1
 -- name    : NelderMeadLD.Dim2.corollary_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:14:41.387499+00:00
 -- url     : https://prove2.me/theorems/100a0142-db9c-43cb-b200-3166fcad4bf3

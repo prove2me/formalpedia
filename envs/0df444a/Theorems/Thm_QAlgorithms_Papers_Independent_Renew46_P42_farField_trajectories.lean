@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P42_farField_trajectories
 -- name    : QAlgorithms.Papers.Independent.Renew46.P42.farField_trajectories
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:34:17.456954+00:00
 -- url     : https://prove2.me/theorems/5866c5f4-99f5-4ec5-8dc1-34c357e66ca8

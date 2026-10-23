@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoodDeliv_Decentral_lemma_C_8
 -- name    : FoodDeliv.Decentral.lemma_C_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:17.738121+00:00
 -- url     : https://prove2.me/theorems/28f8d5cf-d580-400e-a247-ccb79b1b6079

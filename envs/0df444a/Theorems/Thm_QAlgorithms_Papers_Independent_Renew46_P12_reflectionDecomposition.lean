@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P12_reflectionDecomposition
 -- name    : QAlgorithms.Papers.Independent.Renew46.P12.reflectionDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:10:15.481618+00:00
 -- url     : https://prove2.me/theorems/ec99a1d1-54ae-4e2d-9816-07d800329694

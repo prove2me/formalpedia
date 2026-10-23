@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_amplifierLieAlgebra
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.amplifierLieAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:08:35.451799+00:00
 -- url     : https://prove2.me/theorems/fa8b8afb-25f8-46d2-bb4e-cc4843025a4a

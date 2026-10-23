@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P44_classical_deficit_and_allocation
 -- name    : QAlgorithms.Papers.Independent.Gap48.P44.classical_deficit_and_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:40:08.450198+00:00
 -- url     : https://prove2.me/theorems/265ca61b-6dfb-417b-96b2-d9d69ea7397b

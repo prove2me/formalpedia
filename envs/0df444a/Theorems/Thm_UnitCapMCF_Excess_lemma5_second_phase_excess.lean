@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnitCapMCF_Excess_lemma5_second_phase_excess
 -- name    : UnitCapMCF.Excess.lemma5_second_phase_excess
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T18:33:21.961675+00:00
 -- url     : https://prove2.me/theorems/b446e10d-2413-4881-96d7-c0f9228456e4

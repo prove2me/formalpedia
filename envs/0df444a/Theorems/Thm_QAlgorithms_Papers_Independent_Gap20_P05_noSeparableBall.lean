@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P05_noSeparableBall
 -- name    : QAlgorithms.Papers.Independent.Gap20.P05.noSeparableBall
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T23:05:30.404274+00:00
 -- url     : https://prove2.me/theorems/652b8fa9-0968-4d3b-93da-9bf5dfa24d5e

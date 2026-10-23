@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P65_dualRatios_hookProducts
 -- name    : QAlgorithms.Papers.Independent.Information100.P65.dualRatios_hookProducts
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:50:26.392052+00:00
 -- url     : https://prove2.me/theorems/fa2377a7-f847-4792-a69e-c148454f0234

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_ApproxDP_api_limsup_bound
 -- name    : SampleComplexityRL.ApproxDP.api_limsup_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:13:20.74035+00:00
 -- url     : https://prove2.me/theorems/94357a04-44b6-4ea3-a551-bc2d3bfb1c31

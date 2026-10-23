@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P21_detectionWaterfilling
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P21.detectionWaterfilling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:21:45.089993+00:00
 -- url     : https://prove2.me/theorems/2cc2217b-6aec-4992-b9cc-f0d3e1840352

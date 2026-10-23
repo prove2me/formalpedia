@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimisticPSRL_Diameter_lemma5_6_extended_diameter_le
 -- name    : OptimisticPSRL.Diameter.lemma5_6_extended_diameter_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:40:30.479748+00:00
 -- url     : https://prove2.me/theorems/89b33867-f702-4170-8a16-126f7c1fed22

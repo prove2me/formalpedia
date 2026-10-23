@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_CircuitZK_lemma_8
 -- name    : GOSNIZK.CircuitZK.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:26:28.494281+00:00
 -- url     : https://prove2.me/theorems/c3e0d880-b3c2-4eb2-b0aa-f5253b8743a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GOSNIZK_BGNCommit_theorem_2
 -- name    : GOSNIZK.BGNCommit.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:25:34.710983+00:00
 -- url     : https://prove2.me/theorems/c7174ce7-6dd2-4f3b-894d-98f3cad14275

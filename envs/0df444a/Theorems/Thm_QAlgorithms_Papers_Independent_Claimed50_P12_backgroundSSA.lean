@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P12_backgroundSSA
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P12.backgroundSSA
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T19:37:27.793374+00:00
 -- url     : https://prove2.me/theorems/846b9e7c-3322-4362-a28f-03b55a0d00cb

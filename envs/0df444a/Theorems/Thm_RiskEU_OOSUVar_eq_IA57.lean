@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskEU_OOSUVar_eq_IA57
 -- name    : RiskEU.OOSUVar.eq_IA57
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:06:49.335571+00:00
 -- url     : https://prove2.me/theorems/f19708fa-1dc8-48da-acec-0b558da5e662

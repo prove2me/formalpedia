@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_discounted_upper_exit_of_stopped_exponential
 -- name    : AvramDividend.Classical.discounted_upper_exit_of_stopped_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T10:24:46.778372+00:00
 -- url     : https://prove2.me/theorems/fb4193c3-a93b-4540-bbfd-d9eea83cb212

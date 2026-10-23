@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedergruenZipkin_AvgCost_corollary2_cesaro_vanish
 -- name    : FedergruenZipkin.AvgCost.corollary2_cesaro_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:38:07.027356+00:00
 -- url     : https://prove2.me/theorems/b9a61012-9c8e-4e20-a671-52305eab6672

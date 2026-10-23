@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_ONoOther_no_other_separating
 -- name    : CustomerVoice.ONoOther.no_other_separating
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:45.372092+00:00
 -- url     : https://prove2.me/theorems/ef7c1fa4-5698-4d11-94c1-845c31947ded

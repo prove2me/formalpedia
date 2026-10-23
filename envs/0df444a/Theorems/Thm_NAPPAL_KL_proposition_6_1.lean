@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAPPAL_KL_proposition_6_1
 -- name    : NAPPAL.KL.proposition_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:14:43.506681+00:00
 -- url     : https://prove2.me/theorems/e639d8f0-a619-4efa-8590-808eb692eba5

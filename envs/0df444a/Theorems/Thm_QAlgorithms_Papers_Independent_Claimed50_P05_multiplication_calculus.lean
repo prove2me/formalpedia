@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P05_multiplication_calculus
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P05.multiplication_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:04:50.700573+00:00
 -- url     : https://prove2.me/theorems/738b1ff0-1e64-4e74-a250-ae49388f8f62

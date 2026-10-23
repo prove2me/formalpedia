@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P44_pureLoss_cq_beats_timeSharing
 -- name    : QAlgorithms.Papers.Independent.Gap48.P44.pureLoss_cq_beats_timeSharing
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:40:48.963442+00:00
 -- url     : https://prove2.me/theorems/fed45307-e0f0-4b13-bb05-06532bb7e19c

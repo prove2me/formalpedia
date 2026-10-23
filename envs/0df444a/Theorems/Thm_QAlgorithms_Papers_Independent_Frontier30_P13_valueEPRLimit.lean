@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P13_valueEPRLimit
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P13.valueEPRLimit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:18:40.348988+00:00
 -- url     : https://prove2.me/theorems/ec00918d-6a71-41fe-af40-d0692d60cba4

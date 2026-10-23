@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowAllocGames_StrongEq_exists_strong_equilibrium_max_flow
 -- name    : FlowAllocGames.StrongEq.exists_strong_equilibrium_max_flow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:07:21.669178+00:00
 -- url     : https://prove2.me/theorems/ba0984e8-64da-49b2-88f5-c52ada725610

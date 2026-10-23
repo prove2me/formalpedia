@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Bubelis_lemma_7
 -- name    : FixpNash.Bubelis.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:33.358387+00:00
 -- url     : https://prove2.me/theorems/75c365e0-705f-4b88-b0b2-7494baf63e3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PELiquidity_Secondary_discount_bounds
 -- name    : PELiquidity.Secondary.discount_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T09:43:03.426145+00:00
 -- url     : https://prove2.me/theorems/91ad9e79-a74c-4b32-b266-98d8a5ccb6ef

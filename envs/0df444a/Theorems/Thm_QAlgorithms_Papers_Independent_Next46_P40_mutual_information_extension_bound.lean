@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P40_mutual_information_extension_bound
 -- name    : QAlgorithms.Papers.Independent.Next46.P40.mutual_information_extension_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:52:47.022219+00:00
 -- url     : https://prove2.me/theorems/db687e7b-e099-4f70-b441-db862f82d7e7

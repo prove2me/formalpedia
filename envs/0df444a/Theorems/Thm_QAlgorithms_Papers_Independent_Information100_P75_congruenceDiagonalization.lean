@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_congruenceDiagonalization
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.congruenceDiagonalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:11:55.100405+00:00
 -- url     : https://prove2.me/theorems/6bf03743-50f0-4a1a-b79a-70ebc2c762f3

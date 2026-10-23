@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_matrixTensorWidth
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.matrixTensorWidth
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:15:12.706187+00:00
 -- url     : https://prove2.me/theorems/b795f8a7-9b0b-4629-a69d-bba74697e914

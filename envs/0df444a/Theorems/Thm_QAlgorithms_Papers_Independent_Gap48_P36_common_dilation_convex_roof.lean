@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P36_common_dilation_convex_roof
 -- name    : QAlgorithms.Papers.Independent.Gap48.P36.common_dilation_convex_roof
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:12:53.633054+00:00
 -- url     : https://prove2.me/theorems/29525a10-ab22-4868-8877-e96bfaf6287a

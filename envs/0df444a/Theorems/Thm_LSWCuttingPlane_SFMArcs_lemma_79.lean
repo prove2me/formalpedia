@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSWCuttingPlane_SFMArcs_lemma_79
 -- name    : LSWCuttingPlane.SFMArcs.lemma_79
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:43.046793+00:00
 -- url     : https://prove2.me/theorems/aeb3dfcc-04e2-456e-99e0-94949a33f0c6

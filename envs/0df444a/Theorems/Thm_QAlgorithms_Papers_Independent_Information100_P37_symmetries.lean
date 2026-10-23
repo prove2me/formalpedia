@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_symmetries
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.symmetries
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:06:41.607651+00:00
 -- url     : https://prove2.me/theorems/9727e7bb-7e84-42b0-a193-23e0f6cac6a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExtrapBias_Beliefs_extrapolation_bias
 -- name    : ExtrapBias.Beliefs.extrapolation_bias
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:45:58.587047+00:00
 -- url     : https://prove2.me/theorems/ccc3feb1-166d-40bc-9db0-cba1ca59618d

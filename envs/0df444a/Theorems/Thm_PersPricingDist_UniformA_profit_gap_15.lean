@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_UniformA_profit_gap_15
 -- name    : PersPricingDist.UniformA.profit_gap_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:05.628802+00:00
 -- url     : https://prove2.me/theorems/9659de5c-6326-4f27-92a5-78fe40e1b337

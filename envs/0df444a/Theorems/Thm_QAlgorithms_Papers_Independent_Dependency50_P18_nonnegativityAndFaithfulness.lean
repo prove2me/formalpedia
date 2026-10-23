@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P18_nonnegativityAndFaithfulness
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P18.nonnegativityAndFaithfulness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:57:45.14998+00:00
 -- url     : https://prove2.me/theorems/3cd04078-b565-4457-aab9-b6273d58096b

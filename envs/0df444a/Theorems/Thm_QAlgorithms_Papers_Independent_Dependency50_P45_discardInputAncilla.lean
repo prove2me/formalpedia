@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P45_discardInputAncilla
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P45.discardInputAncilla
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:04:58.847278+00:00
 -- url     : https://prove2.me/theorems/acea2c4a-a245-49d4-86a1-e883ce04b306

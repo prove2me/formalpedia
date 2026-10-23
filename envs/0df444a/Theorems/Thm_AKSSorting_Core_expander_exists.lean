@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKSSorting_Core_expander_exists
 -- name    : AKSSorting.Core.expander_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:01:08.296565+00:00
 -- url     : https://prove2.me/theorems/b27468c9-9fa9-496c-bc16-f428006347a1

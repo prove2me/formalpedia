@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsCertificateSeam_example_ym_fock_mass_gap
 -- name    : BookProof.YangMillsCertificateSeam.example_ym_fock_mass_gap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-17T13:23:56.243676+00:00
 -- url     : https://prove2.me/theorems/572a48d9-30ba-4f6f-a77b-bf8d6b2e5fd4

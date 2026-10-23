@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EarlyInspect_Align_proposition_2
 -- name    : EarlyInspect.Align.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:33:23.64082+00:00
 -- url     : https://prove2.me/theorems/7c4a5626-3d21-4286-878a-78e39ff34f84

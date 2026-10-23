@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_Distortion_theorem_4_1
 -- name    : RiskUncSets.Distortion.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:28:38.729981+00:00
 -- url     : https://prove2.me/theorems/6759d90a-ec06-4193-9f6b-31e6bcebc760

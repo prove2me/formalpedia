@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_PersonalA_pu_beta_threshold
 -- name    : PersPricingDist.PersonalA.pu_beta_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:07.462324+00:00
 -- url     : https://prove2.me/theorems/9798fa47-4854-43fb-a1aa-f39b437d02d7

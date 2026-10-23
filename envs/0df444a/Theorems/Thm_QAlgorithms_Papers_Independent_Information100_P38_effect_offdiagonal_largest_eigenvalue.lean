@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_effect_offdiagonal_largest_eigenvalue
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.effect_offdiagonal_largest_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:07:14.349787+00:00
 -- url     : https://prove2.me/theorems/4a81f38d-ced7-4986-abd1-42cfe5f1efe4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P47_entropy_hull_properties
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P47.entropy_hull_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:42:33.513769+00:00
 -- url     : https://prove2.me/theorems/e508bf36-211e-4ce0-8f9c-945e58b0c0a7

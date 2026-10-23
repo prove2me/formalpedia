@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalInexactNewton_TrustRegion_theorem_4_4
 -- name    : GlobalInexactNewton.TrustRegion.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:23:24.600626+00:00
 -- url     : https://prove2.me/theorems/c7710c64-e4a8-43ea-8d7e-eae85d6c5ed9

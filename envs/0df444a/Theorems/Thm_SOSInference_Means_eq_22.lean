@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SOSInference_Means_eq_22
 -- name    : SOSInference.Means.eq_22
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:55.104255+00:00
 -- url     : https://prove2.me/theorems/39455383-91ff-4280-81e2-35cdf1b0fe18

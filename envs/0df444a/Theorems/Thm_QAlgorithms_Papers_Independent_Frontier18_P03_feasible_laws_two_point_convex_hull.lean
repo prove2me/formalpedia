@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P03_feasible_laws_two_point_convex_hull
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P03.feasible_laws_two_point_convex_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:32:34.568095+00:00
 -- url     : https://prove2.me/theorems/27472394-ce98-4a4e-9a28-9d31829310bc

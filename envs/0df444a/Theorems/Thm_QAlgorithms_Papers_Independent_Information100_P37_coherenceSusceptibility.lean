@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_coherenceSusceptibility
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.coherenceSusceptibility
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:15:20.223814+00:00
 -- url     : https://prove2.me/theorems/dc44eacd-b89e-4173-9ec7-77965608954a

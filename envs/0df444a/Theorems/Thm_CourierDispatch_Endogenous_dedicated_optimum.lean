@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CourierDispatch_Endogenous_dedicated_optimum
 -- name    : CourierDispatch.Endogenous.dedicated_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:59.322708+00:00
 -- url     : https://prove2.me/theorems/28cdf14c-186f-4fbe-b141-87decfbb9c2a

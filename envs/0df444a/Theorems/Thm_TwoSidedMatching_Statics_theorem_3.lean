@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedMatching_Statics_theorem_3
 -- name    : TwoSidedMatching.Statics.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:03.353913+00:00
 -- url     : https://prove2.me/theorems/6f51db43-e39e-4ae3-809e-34f0191b7387

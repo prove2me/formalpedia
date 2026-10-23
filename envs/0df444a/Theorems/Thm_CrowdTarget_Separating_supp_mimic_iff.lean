@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdTarget_Separating_supp_mimic_iff
 -- name    : CrowdTarget.Separating.supp_mimic_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:18.756217+00:00
 -- url     : https://prove2.me/theorems/be186183-55a1-4b2b-af19-32158741db29

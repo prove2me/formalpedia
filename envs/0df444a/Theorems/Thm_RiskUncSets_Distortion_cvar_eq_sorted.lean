@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_Distortion_cvar_eq_sorted
 -- name    : RiskUncSets.Distortion.cvar_eq_sorted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:28:58.827103+00:00
 -- url     : https://prove2.me/theorems/62334bbb-1e42-48a5-9a44-90e88c570a11

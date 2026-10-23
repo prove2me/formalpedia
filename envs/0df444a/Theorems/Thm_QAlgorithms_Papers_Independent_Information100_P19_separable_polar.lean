@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_separable_polar
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.separable_polar
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:39:36.641017+00:00
 -- url     : https://prove2.me/theorems/89faba65-ea3e-4487-8aa5-d5170185cd0e

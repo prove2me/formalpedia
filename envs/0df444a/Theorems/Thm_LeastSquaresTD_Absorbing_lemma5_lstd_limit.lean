@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeastSquaresTD_Absorbing_lemma5_lstd_limit
 -- name    : LeastSquaresTD.Absorbing.lemma5_lstd_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:02:38.399587+00:00
 -- url     : https://prove2.me/theorems/16f27371-89a8-4023-9a8d-0434858a8209

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_psd_polar_and_limit
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.psd_polar_and_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:42:51.771987+00:00
 -- url     : https://prove2.me/theorems/188b7d3e-277d-4900-a620-44f48d88973e

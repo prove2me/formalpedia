@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_coherentInterference
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.coherentInterference
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:05:22.665983+00:00
 -- url     : https://prove2.me/theorems/ee3ecd5d-5d0d-4276-8048-9d361bd898ef

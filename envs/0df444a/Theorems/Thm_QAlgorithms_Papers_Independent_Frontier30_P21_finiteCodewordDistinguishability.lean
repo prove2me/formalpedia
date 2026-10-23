@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P21_finiteCodewordDistinguishability
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P21.finiteCodewordDistinguishability
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:20:50.020012+00:00
 -- url     : https://prove2.me/theorems/0a6b0670-ea0e-4307-92a9-0fefd089e0ee

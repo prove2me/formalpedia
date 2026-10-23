@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DaiWeissFluid_ThreeBuffer_drift_rate
 -- name    : DaiWeissFluid.ThreeBuffer.drift_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:46:50.131023+00:00
 -- url     : https://prove2.me/theorems/b7ce7c6f-e831-4089-b7d5-f9f20ed160b1

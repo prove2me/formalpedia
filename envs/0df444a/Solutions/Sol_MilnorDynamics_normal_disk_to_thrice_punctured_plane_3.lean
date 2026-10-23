@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for MilnorDynamics.normal_disk_to_thrice_punctured_plane
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-02T07:27:06.883982+00:00
 -- url     : https://prove2.me/submissions/71f7e48f-0753-4d9f-80be-53b8b7ac1265
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MilnorDynamics_NormalFamilies

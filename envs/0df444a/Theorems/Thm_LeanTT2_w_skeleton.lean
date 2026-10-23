@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanTT2_w_skeleton
 -- name    : LeanTT2.w_skeleton
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T03:06:16.810668+00:00
 -- url     : https://prove2.me/theorems/e2d519b7-95e6-4f51-a8a5-394062865135

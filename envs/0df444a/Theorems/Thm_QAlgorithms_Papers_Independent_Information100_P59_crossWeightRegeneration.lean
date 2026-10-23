@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P59_crossWeightRegeneration
 -- name    : QAlgorithms.Papers.Independent.Information100.P59.crossWeightRegeneration
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:27:49.13149+00:00
 -- url     : https://prove2.me/theorems/27643bab-9b75-4e7d-bcd4-91f9c21c9d6b

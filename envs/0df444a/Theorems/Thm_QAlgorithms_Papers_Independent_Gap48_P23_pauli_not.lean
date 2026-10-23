@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_pauli_not
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.pauli_not
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T23:06:19.384784+00:00
 -- url     : https://prove2.me/theorems/f61cf556-56c6-4261-91d3-c6cbc260329a

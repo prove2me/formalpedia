@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Kusuoka_covariance_coupling
 -- name    : RiskFunctionals.Kusuoka.covariance_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:57.568653+00:00
 -- url     : https://prove2.me/theorems/653f5cb7-6e9b-40a0-95df-d1371c1a5573

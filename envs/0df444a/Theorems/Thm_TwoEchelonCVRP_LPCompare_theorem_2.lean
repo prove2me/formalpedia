@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_LPCompare_theorem_2
 -- name    : TwoEchelonCVRP.LPCompare.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:08:51.691871+00:00
 -- url     : https://prove2.me/theorems/295c18fd-554f-489f-92c8-13cff410c905

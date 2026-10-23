@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAPPAL_Linear_theorem_5_1_iv
 -- name    : NAPPAL.Linear.theorem_5_1_iv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:28:54.019964+00:00
 -- url     : https://prove2.me/theorems/72e97fa7-a51a-42bc-b7be-e9b9de910148

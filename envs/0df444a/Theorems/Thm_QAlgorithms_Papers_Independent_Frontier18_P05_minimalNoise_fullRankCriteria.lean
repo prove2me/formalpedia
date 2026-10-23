@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P05_minimalNoise_fullRankCriteria
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P05.minimalNoise_fullRankCriteria
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:48:38.899011+00:00
 -- url     : https://prove2.me/theorems/fe6477b0-947a-4d12-9822-c45b4d5a7f21

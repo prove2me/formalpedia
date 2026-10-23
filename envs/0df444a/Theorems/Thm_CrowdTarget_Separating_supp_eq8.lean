@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdTarget_Separating_supp_eq8
 -- name    : CrowdTarget.Separating.supp_eq8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:09.045783+00:00
 -- url     : https://prove2.me/theorems/3ceabffc-a3ac-4e06-8e16-f2e499066b77

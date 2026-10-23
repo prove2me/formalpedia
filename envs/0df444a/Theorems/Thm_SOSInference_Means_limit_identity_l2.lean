@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SOSInference_Means_limit_identity_l2
 -- name    : SOSInference.Means.limit_identity_l2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:03.266989+00:00
 -- url     : https://prove2.me/theorems/adc04e36-429f-4a9a-b6ba-49971a8a63ef

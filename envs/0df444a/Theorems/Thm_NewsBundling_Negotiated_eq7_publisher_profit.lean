@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_eq7_publisher_profit
 -- name    : NewsBundling.Negotiated.eq7_publisher_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:07.333888+00:00
 -- url     : https://prove2.me/theorems/59f8245e-c967-4b31-a168-7684e0850f6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedergruenZipkin_AvgCost_corollary1_hitting_sums
 -- name    : FedergruenZipkin.AvgCost.corollary1_hitting_sums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:38:10.748595+00:00
 -- url     : https://prove2.me/theorems/af9b0d61-e345-4f01-b85d-ed2786f846de

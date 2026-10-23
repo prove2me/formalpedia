@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P39_marginalExclusion
 -- name    : QAlgorithms.Papers.Independent.Information100.P39.marginalExclusion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:23:49.128122+00:00
 -- url     : https://prove2.me/theorems/cf626e70-807a-4369-8d2a-26be4befb553

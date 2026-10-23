@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkedMarkets_Relaxation_eq_6_revenue_bound
 -- name    : NetworkedMarkets.Relaxation.eq_6_revenue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:58.9001+00:00
 -- url     : https://prove2.me/theorems/60e86b3d-154e-4b99-89f2-130e6f1b7b6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IGAHDSC_theorem_11
 -- name    : HessianDamping.IGAHDSC.theorem_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:06:02.889838+00:00
 -- url     : https://prove2.me/theorems/c221878b-635a-4dec-8bed-089c76dfba68

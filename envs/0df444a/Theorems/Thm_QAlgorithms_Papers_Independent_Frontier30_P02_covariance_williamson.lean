@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P02_covariance_williamson
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P02.covariance_williamson
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:11:14.102906+00:00
 -- url     : https://prove2.me/theorems/0fbb1fd4-abbe-43cb-b65e-03ed99605736

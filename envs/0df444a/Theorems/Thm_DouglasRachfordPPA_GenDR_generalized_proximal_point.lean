@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DouglasRachfordPPA_GenDR_generalized_proximal_point
 -- name    : DouglasRachfordPPA.GenDR.generalized_proximal_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:04:08.737985+00:00
 -- url     : https://prove2.me/theorems/6a17630b-f7ce-46a4-a9ff-b7868396ab96

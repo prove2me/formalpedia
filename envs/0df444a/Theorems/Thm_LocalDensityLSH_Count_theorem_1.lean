@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalDensityLSH_Count_theorem_1
 -- name    : LocalDensityLSH.Count.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:57.4994+00:00
 -- url     : https://prove2.me/theorems/52920d83-25c4-455b-b21d-d060ba8d748b

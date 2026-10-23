@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P42_private_tensor_closure
 -- name    : QAlgorithms.Papers.Independent.Gap48.P42.private_tensor_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:38:26.130612+00:00
 -- url     : https://prove2.me/theorems/837bff6f-18a8-4114-ad4d-3230395457b0

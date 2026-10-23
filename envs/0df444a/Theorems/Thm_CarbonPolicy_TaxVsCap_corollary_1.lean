@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarbonPolicy_TaxVsCap_corollary_1
 -- name    : CarbonPolicy.TaxVsCap.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:07:13.579984+00:00
 -- url     : https://prove2.me/theorems/bd152a2a-59a8-4fee-8776-3c7581fa4729

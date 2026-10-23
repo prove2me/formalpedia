@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_coolingAndPurification
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.coolingAndPurification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:38:57.792763+00:00
 -- url     : https://prove2.me/theorems/2057fbf2-1161-494e-be42-f6e34ae33cb1

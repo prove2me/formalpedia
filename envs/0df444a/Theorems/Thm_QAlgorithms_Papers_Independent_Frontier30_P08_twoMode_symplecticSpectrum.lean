@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P08_twoMode_symplecticSpectrum
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P08.twoMode_symplecticSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:15:13.195716+00:00
 -- url     : https://prove2.me/theorems/b404a2b7-e79a-4ea9-8fa2-673f503e4dfa

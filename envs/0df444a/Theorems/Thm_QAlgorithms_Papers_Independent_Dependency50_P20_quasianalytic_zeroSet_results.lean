@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P20_quasianalytic_zeroSet_results
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P20.quasianalytic_zeroSet_results
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:15:24.025163+00:00
 -- url     : https://prove2.me/theorems/019812d5-ce98-4343-9527-07a00b662e72

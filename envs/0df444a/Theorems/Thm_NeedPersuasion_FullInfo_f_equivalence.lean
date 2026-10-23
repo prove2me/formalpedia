@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_FullInfo_f_equivalence
 -- name    : NeedPersuasion.FullInfo.f_equivalence
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:48.164287+00:00
 -- url     : https://prove2.me/theorems/608e1982-29c4-4b9a-a620-0818ebf73ac4

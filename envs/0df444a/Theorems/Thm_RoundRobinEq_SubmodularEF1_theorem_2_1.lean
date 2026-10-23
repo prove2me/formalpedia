@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundRobinEq_SubmodularEF1_theorem_2_1
 -- name    : RoundRobinEq.SubmodularEF1.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:33.250433+00:00
 -- url     : https://prove2.me/theorems/3b34e2e8-6c77-4474-812b-cf9b6ccf04fe

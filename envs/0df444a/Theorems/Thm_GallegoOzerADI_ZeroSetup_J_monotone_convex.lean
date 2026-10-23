@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_ZeroSetup_J_monotone_convex
 -- name    : GallegoOzerADI.ZeroSetup.J_monotone_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:55:20.525195+00:00
 -- url     : https://prove2.me/theorems/601e1450-d33a-46cb-ac38-1234f1ddf443

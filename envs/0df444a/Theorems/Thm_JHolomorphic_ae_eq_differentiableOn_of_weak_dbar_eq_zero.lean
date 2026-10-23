@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_ae_eq_differentiableOn_of_weak_dbar_eq_zero
 -- name    : JHolomorphic.ae_eq_differentiableOn_of_weak_dbar_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:32:21.321575+00:00
 -- url     : https://prove2.me/theorems/49f6d532-7dca-49b5-b925-a3dff0defc6a

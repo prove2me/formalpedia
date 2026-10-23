@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_sectorPauliAction
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.sectorPauliAction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:02:03.52401+00:00
 -- url     : https://prove2.me/theorems/bd22e9f6-726e-4c3c-903e-912d03ac49d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P65_weylRatios_all
 -- name    : QAlgorithms.Papers.Independent.Information100.P65.weylRatios_all
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:49:33.194396+00:00
 -- url     : https://prove2.me/theorems/5f0fd640-5264-4c8d-931a-255ee3c2338a

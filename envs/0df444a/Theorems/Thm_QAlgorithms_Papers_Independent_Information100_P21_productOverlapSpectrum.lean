@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_productOverlapSpectrum
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.productOverlapSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:48:18.327611+00:00
 -- url     : https://prove2.me/theorems/9521d708-26a7-439d-862f-cfd892d05646

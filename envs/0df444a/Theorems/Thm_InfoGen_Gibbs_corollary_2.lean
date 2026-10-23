@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoGen_Gibbs_corollary_2
 -- name    : InfoGen.Gibbs.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:27:40.157016+00:00
 -- url     : https://prove2.me/theorems/dc2715e2-9416-41ce-b531-b9f937f58e77

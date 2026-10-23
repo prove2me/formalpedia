@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P04_noAutomaticTensorization
 -- name    : QAlgorithms.Papers.Independent.Information100.P04.noAutomaticTensorization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:33:09.528769+00:00
 -- url     : https://prove2.me/theorems/1df8791f-0174-4039-afb8-b1958affd78c

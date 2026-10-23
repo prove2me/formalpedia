@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_LowerBound_theorem_2
 -- name    : MNLBandit.LowerBound.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:56:30.142643+00:00
 -- url     : https://prove2.me/theorems/24ca17ff-f5f5-425f-b116-a9bcffb746f8

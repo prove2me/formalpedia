@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_Competition_ppd_log_concave
 -- name    : Fundraising.Competition.ppd_log_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:10.477029+00:00
 -- url     : https://prove2.me/theorems/4b6aa8ee-2074-4549-bfd7-8d4fee92a348

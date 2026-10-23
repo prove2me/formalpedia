@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_weighted_simplex_count_upper_bound
 -- name    : OAI.PiExponent.FormalInterpolation.weighted_simplex_count_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T13:53:01.103181+00:00
 -- url     : https://prove2.me/theorems/a8e8a8eb-c677-4c1d-8c69-361275230a49

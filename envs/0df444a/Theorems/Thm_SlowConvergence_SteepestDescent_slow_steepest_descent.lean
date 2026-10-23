@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SlowConvergence_SteepestDescent_slow_steepest_descent
 -- name    : SlowConvergence.SteepestDescent.slow_steepest_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:31.200256+00:00
 -- url     : https://prove2.me/theorems/b01358bc-3770-4da4-b0a5-4f161a5356f5

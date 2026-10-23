@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticReusable_Guarantee_eq_11
 -- name    : StaticReusable.Guarantee.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:51.420907+00:00
 -- url     : https://prove2.me/theorems/0ffae6c6-f9a1-4186-970b-a3ccd1122c4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_lemma6_assistedCompression
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.lemma6_assistedCompression
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:08:09.091388+00:00
 -- url     : https://prove2.me/theorems/b6059c1a-6328-482f-8bfb-1ba863eeb8e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoodDeliv_Decentral_lemma_C_2
 -- name    : FoodDeliv.Decentral.lemma_C_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:04.251456+00:00
 -- url     : https://prove2.me/theorems/7b6b123e-006e-42ef-92d5-303a475236f7

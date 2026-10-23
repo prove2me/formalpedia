@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinEarnings_Threshold_theorem_1
 -- name    : MinEarnings.Threshold.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:30:11.422453+00:00
 -- url     : https://prove2.me/theorems/ee20e99b-fb57-4cf9-8b42-96669b5d380f

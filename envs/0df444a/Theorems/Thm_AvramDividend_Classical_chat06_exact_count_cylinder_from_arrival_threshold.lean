@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_exact_count_cylinder_from_arrival_threshold
 -- name    : AvramDividend.Classical.chat06_exact_count_cylinder_from_arrival_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T20:32:00.09489+00:00
 -- url     : https://prove2.me/theorems/87f27821-c7c8-41c1-8ff3-0430dc108971

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P05_minimalNoise_supportInverseCriterion
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P05.minimalNoise_supportInverseCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:49:15.37103+00:00
 -- url     : https://prove2.me/theorems/416e369e-a57c-4479-b5e4-7d8d5a4fc8d5

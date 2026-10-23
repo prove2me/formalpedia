@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P39_positiveRenyiNegativeOrdinary
 -- name    : QAlgorithms.Papers.Independent.Information100.P39.positiveRenyiNegativeOrdinary
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:19:41.117326+00:00
 -- url     : https://prove2.me/theorems/76ad8aaa-f37f-40f7-9887-e4d306370fde

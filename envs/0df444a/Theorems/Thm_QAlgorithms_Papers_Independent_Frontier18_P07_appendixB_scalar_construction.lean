@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P07_appendixB_scalar_construction
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P07.appendixB_scalar_construction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:02:55.012388+00:00
 -- url     : https://prove2.me/theorems/4716db5c-5b4f-4218-832b-77923227b5c3

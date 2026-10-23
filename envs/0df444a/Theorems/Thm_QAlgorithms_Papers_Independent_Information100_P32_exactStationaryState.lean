@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_exactStationaryState
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.exactStationaryState
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:26:21.008079+00:00
 -- url     : https://prove2.me/theorems/194291de-ec5a-4c46-9552-1ac0eba81c8e

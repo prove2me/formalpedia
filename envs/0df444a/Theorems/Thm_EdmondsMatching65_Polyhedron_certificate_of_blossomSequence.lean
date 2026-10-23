@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsMatching65_Polyhedron_certificate_of_blossomSequence
 -- name    : EdmondsMatching65.Polyhedron.certificate_of_blossomSequence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:44:47.329976+00:00
 -- url     : https://prove2.me/theorems/b3165c2c-ac40-4676-894f-9bb5ed8b703a

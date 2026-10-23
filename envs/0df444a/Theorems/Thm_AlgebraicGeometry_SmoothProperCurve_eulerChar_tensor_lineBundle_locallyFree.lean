@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_SmoothProperCurve_eulerChar_tensor_lineBundle_locallyFree
 -- name    : AlgebraicGeometry.SmoothProperCurve.eulerChar_tensor_lineBundle_locallyFree
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-13T17:08:50.743181+00:00
 -- url     : https://prove2.me/theorems/e317c3cc-61cb-44b6-a5be-798c7845c31a

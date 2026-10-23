@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CHMSPricing_UnitDemand_revenue_le_sum_price_mul_prob
 -- name    : CHMSPricing.UnitDemand.revenue_le_sum_price_mul_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T12:29:23.735574+00:00
 -- url     : https://prove2.me/theorems/0752e33d-0bee-41a2-a27e-da570e22a0ae

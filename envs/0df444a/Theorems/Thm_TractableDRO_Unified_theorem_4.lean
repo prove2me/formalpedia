@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TractableDRO_Unified_theorem_4
 -- name    : TractableDRO.Unified.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:44.216492+00:00
 -- url     : https://prove2.me/theorems/59e9b4f3-2697-414d-997d-a81df3057ff9

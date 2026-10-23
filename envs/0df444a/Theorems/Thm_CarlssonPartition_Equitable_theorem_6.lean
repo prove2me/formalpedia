@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Equitable_theorem_6
 -- name    : CarlssonPartition.Equitable.theorem_6
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:14.763433+00:00
 -- url     : https://prove2.me/theorems/36ba780a-dfa1-4e8d-89f2-2b5eb9e275c4

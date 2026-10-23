@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P45_dampingFixedInputAsymptotics
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P45.dampingFixedInputAsymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:08:00.78416+00:00
 -- url     : https://prove2.me/theorems/7d39957a-183a-476d-865a-aca3d5021490

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinLinOpt_Ball_ball_isCompact
 -- name    : WassersteinLinOpt.Ball.ball_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T17:28:51.031978+00:00
 -- url     : https://prove2.me/theorems/e5b73089-c92d-41b6-91e8-391d3da9bf4c

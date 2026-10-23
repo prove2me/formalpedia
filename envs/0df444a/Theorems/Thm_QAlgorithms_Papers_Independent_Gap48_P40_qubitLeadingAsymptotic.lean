@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_qubitLeadingAsymptotic
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.qubitLeadingAsymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:29:33.844732+00:00
 -- url     : https://prove2.me/theorems/5466b701-6f35-46f3-ab1e-89a9eda486c9

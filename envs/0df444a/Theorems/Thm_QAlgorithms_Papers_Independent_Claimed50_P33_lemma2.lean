@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P33_lemma2
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P33.lemma2
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:38:44.785361+00:00
 -- url     : https://prove2.me/theorems/470fb450-2058-4ce7-9da3-c1143bfbc21a

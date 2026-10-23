@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P05_gaussianDilation_covarianceConverse
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P05.gaussianDilation_covarianceConverse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:47:12.551351+00:00
 -- url     : https://prove2.me/theorems/55d6512e-4544-46bb-ab29-09e116b39097

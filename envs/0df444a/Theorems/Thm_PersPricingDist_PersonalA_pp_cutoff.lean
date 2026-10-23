@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_PersonalA_pp_cutoff
 -- name    : PersPricingDist.PersonalA.pp_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:15.079155+00:00
 -- url     : https://prove2.me/theorems/b8c9cec3-e00b-43b2-931b-bd9be4257a70

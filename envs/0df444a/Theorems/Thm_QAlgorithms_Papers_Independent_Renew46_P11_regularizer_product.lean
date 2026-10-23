@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P11_regularizer_product
 -- name    : QAlgorithms.Papers.Independent.Renew46.P11.regularizer_product
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:09:03.90792+00:00
 -- url     : https://prove2.me/theorems/17953464-b495-4645-8347-7aae6164eed9

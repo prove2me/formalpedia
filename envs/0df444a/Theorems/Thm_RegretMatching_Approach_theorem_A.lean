@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretMatching_Approach_theorem_A
 -- name    : RegretMatching.Approach.theorem_A
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:03:55.413239+00:00
 -- url     : https://prove2.me/theorems/0b3f135e-c49d-47e5-8b69-560fd1ecda0d

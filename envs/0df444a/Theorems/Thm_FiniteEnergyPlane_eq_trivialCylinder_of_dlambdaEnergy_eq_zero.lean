@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_eq_trivialCylinder_of_dlambdaEnergy_eq_zero
 -- name    : FiniteEnergyPlane.eq_trivialCylinder_of_dlambdaEnergy_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:25:13.001693+00:00
 -- url     : https://prove2.me/theorems/8153bc0a-7230-41c8-98ff-e3de94f5499f

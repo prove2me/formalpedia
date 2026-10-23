@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_UniformA_proposition_3
 -- name    : PersPricingDist.UniformA.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:18.366329+00:00
 -- url     : https://prove2.me/theorems/cc569d55-5b53-484b-96d8-a5c382d5b023

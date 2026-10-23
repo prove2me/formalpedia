@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_PerStep_lemma3_drift_from_window_average
 -- name    : NonstatRL.PerStep.lemma3_drift_from_window_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:25.55327+00:00
 -- url     : https://prove2.me/theorems/e3cfda4c-7d8a-405b-83ea-167e9f577ae4

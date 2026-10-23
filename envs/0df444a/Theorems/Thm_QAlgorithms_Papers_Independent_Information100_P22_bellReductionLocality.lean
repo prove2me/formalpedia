@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_bellReductionLocality
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.bellReductionLocality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:59:34.665646+00:00
 -- url     : https://prove2.me/theorems/ad49529f-ceac-4fa7-b4db-251dfcc39472

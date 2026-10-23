@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_metric_countable_sums
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.metric_countable_sums
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:13:15.399651+00:00
 -- url     : https://prove2.me/theorems/10912726-c5c3-43b3-9c0a-e3404595a43f

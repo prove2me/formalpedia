@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanTT2_algo_no_subject_reduction
 -- name    : LeanTT2.algo_no_subject_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-21T03:07:58.705867+00:00
 -- url     : https://prove2.me/theorems/839711ca-85d8-422c-91f1-5cdd30c3c8a7

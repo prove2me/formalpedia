@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_choiSDPEquivalence
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.choiSDPEquivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:46:29.919194+00:00
 -- url     : https://prove2.me/theorems/b8bccf85-6a66-4305-86c2-befc82cb71a2

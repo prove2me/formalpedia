@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarksKlimm_Consistency_restricted_hulls_monotonic
 -- name    : HarksKlimm.Consistency.restricted_hulls_monotonic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:47:57.246388+00:00
 -- url     : https://prove2.me/theorems/31f23f7c-497b-49cd-a8d5-ebf87f78c7cb

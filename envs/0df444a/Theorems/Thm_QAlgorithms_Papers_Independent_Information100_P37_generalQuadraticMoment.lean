@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_generalQuadraticMoment
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.generalQuadraticMoment
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:21:20.518512+00:00
 -- url     : https://prove2.me/theorems/52031693-8e91-45bc-b97d-192c25b3110f

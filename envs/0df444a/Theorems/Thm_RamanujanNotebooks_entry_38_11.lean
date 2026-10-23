@@ -7,9 +7,9 @@
 -- title:
 --   Exact formula for the series of exp(−aⁿx): logarithmic main terms, a power series and an oscillating Gamma-function series
 -- statement:
---   Entry 11 of Chapter 38, p. 536, in the exact form (11.2) (Hardy 1907, sign corrected in the book). For `a > 1` and `x > 0`, `∑_{n ≥ 0} e^{-a^n x} = -log x/log a + 1/2 - γ/log a + ∑_{n ≥ 1} (-1)^{n-1} x^n/(n!(a^n - 1)) + (1/log a) ∑_{n ≠ 0} Γ(-2nπi/log a) x^{2nπi/log a}`, where `γ` is Euler's constant, the last sum runs over the nonzero integers (terms `n` and `-n` taken together) and all series converge absolutely. Differs from the printed source: the notebook entry (11.1) is the approximation `-(γ + log(x/√a))/log a` 'nearly'; the statement is the exact formula (11.2) with which the book identifies it, whose first three terms are that approximation.
+--   Entry 11 of Chapter 38, p. 536, in the exact form (11.2) (Hardy 1907, sign corrected in the book). For `a > 1` and `x > 0`, `∑_{n ≥ 0} e^{-a^n x} = -log x/log a + 1/2 - γ/log a + ∑_{n ≥ 1} (-1)^{n-1} x^n/(n!(a^n - 1)) + (1/log a) ∑_{n ≠ 0} Γ(-2nπi/log a) x^{2nπi/log a}`, where `γ` is Euler's constant, the last sum runs over the nonzero integers (terms `n` and `-n` taken together) and all series converge absolutely.
 --
---   **Discrepancy from the printed source.** Differs from the printed source: the notebook entry (11.1) is the approximation `-(γ + log(x/√a))/log a` 'nearly' (as `x → 0+`); the statement is the exact formula (11.2) of Hardy, with the sign correction made in the book, whose first three terms are that approximation.
+--   **Discrepancy from the printed source.** The notebook entry (11.1) is the approximation `-(γ + log(x/√a))/log a` 'nearly' (as `x → 0+`); the statement is the exact formula (11.2) of Hardy, with the sign correction made in the book, whose first three terms are that approximation.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part V (Springer, 1998), Chapter 38, Entry 11, p. 536, eq. (11.1), (11.2).
 

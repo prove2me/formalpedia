@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_RandomAccessCapacity_gibbs_stationary
 -- name    : KellyStochasticNetworks.RandomAccessCapacity.gibbs_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:32.374768+00:00
 -- url     : https://prove2.me/theorems/025e7a96-9656-4536-acc5-343850b4da12

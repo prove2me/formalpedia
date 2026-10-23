@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Extended_reduction
 -- name    : DelayedSWPT.Extended.reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:09:21.580465+00:00
 -- url     : https://prove2.me/theorems/b6d043dc-a4a4-4764-8d6f-0ef2c64fde99

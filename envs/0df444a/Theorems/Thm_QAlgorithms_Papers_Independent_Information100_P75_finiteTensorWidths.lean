@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_finiteTensorWidths
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.finiteTensorWidths
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:09:13.692005+00:00
 -- url     : https://prove2.me/theorems/046c5780-89cd-43df-a65e-5c492df07f71

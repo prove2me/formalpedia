@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_FullInfo_proposition_3
 -- name    : NeedPersuasion.FullInfo.proposition_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:05:49.328411+00:00
 -- url     : https://prove2.me/theorems/81e779fd-c749-4cdc-b02b-b4165ecb279e

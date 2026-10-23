@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P41_quantum_Neyman_Pearson
 -- name    : QAlgorithms.Papers.Independent.Gap48.P41.quantum_Neyman_Pearson
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:27:17.515181+00:00
 -- url     : https://prove2.me/theorems/2e28298e-fd0b-4feb-b38b-2767662724a5

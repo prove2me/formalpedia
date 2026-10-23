@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_varianceEstimatorAsymptotics
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.varianceEstimatorAsymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:14:44.766136+00:00
 -- url     : https://prove2.me/theorems/334a1b3e-5a03-4717-956a-30372589cc7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_not_locally_bounded_subseq_diverges
 -- name    : MilnorDynamics.not_locally_bounded_subseq_diverges
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T18:30:35.721769+00:00
 -- url     : https://prove2.me/theorems/5d76d29e-9f6f-4e55-9814-e5b5ed06cb62

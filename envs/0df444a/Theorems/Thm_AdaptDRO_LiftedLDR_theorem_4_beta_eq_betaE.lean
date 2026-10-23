@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptDRO_LiftedLDR_theorem_4_beta_eq_betaE
 -- name    : AdaptDRO.LiftedLDR.theorem_4_beta_eq_betaE
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-13T18:48:28.835664+00:00
 -- url     : https://prove2.me/theorems/3611988c-b103-4263-815a-45d44cdfcdfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P11_product_domain_criterion
 -- name    : QAlgorithms.Papers.Independent.Renew46.P11.product_domain_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:07:14.54443+00:00
 -- url     : https://prove2.me/theorems/4a3f7ab9-080d-4056-947d-e3210184de67

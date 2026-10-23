@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P32_preparation_reductions
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P32.preparation_reductions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:00:46.548748+00:00
 -- url     : https://prove2.me/theorems/6ba272e7-7839-495a-b979-d62254e4aad0

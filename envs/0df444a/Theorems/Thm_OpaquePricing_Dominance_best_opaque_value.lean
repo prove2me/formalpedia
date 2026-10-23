@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_best_opaque_value
 -- name    : OpaquePricing.Dominance.best_opaque_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:26:58.009696+00:00
 -- url     : https://prove2.me/theorems/80620ee7-c173-4ce9-960b-7c3065e5c17f

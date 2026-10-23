@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VWAPContract_Optimal_proposition_5
 -- name    : VWAPContract.Optimal.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:49:14.6737+00:00
 -- url     : https://prove2.me/theorems/e84c3245-4377-4448-a894-10d1aec2bacc

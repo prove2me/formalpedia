@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerishableReturns_Coordination_theorem_3
 -- name    : PerishableReturns.Coordination.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:25.42209+00:00
 -- url     : https://prove2.me/theorems/53d18e23-e905-47ff-9814-9e2de3593cdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P05_doubly_stochastic_dimensions
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P05.doubly_stochastic_dimensions
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T07:52:30.756696+00:00
 -- url     : https://prove2.me/theorems/3591bce3-ce14-4188-bc96-0ca02351e16a

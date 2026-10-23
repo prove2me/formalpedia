@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_eventuallyEq_of_iteratedFDeriv_eq
 -- name    : JHolomorphic.eventuallyEq_of_iteratedFDeriv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:33:13.815328+00:00
 -- url     : https://prove2.me/theorems/a24a0cfa-bedb-4bde-90db-f9c54b7656e9

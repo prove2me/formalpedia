@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_dephasing_capacity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.dephasing_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:44:42.176986+00:00
 -- url     : https://prove2.me/theorems/dfc326d1-85d0-4342-96d8-d3a8be9b1f7a

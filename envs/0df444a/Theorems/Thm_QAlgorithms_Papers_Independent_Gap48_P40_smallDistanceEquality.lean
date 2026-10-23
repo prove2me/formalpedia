@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_smallDistanceEquality
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.smallDistanceEquality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:31:32.064877+00:00
 -- url     : https://prove2.me/theorems/b93284ed-03ef-4450-873f-3300f8092369

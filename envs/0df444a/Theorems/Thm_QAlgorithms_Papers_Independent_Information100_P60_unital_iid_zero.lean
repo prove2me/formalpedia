@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_unital_iid_zero
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.unital_iid_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:38:51.576015+00:00
 -- url     : https://prove2.me/theorems/ad8fd29d-271e-43d3-848e-8a3ec813ae9b

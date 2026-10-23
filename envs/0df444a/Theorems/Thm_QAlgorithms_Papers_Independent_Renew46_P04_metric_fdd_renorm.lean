@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_metric_fdd_renorm
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.metric_fdd_renorm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:11:50.534843+00:00
 -- url     : https://prove2.me/theorems/38aebe4c-bf5d-49c4-ba41-538b0afa57ac

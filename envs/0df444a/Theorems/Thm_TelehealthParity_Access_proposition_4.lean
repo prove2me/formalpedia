@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TelehealthParity_Access_proposition_4
 -- name    : TelehealthParity.Access.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:06.016464+00:00
 -- url     : https://prove2.me/theorems/43794d80-1bb0-4315-bd32-e74df00fc933

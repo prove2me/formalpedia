@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P08_nonnegativeSummandsLocalContinuity
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P08.nonnegativeSummandsLocalContinuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:55:52.125987+00:00
 -- url     : https://prove2.me/theorems/c759e114-2b92-44cd-8e04-5a86ce15e547

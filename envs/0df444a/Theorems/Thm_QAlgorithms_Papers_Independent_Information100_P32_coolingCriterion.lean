@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_coolingCriterion
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.coolingCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:33:15.910157+00:00
 -- url     : https://prove2.me/theorems/784e5ed6-1fdd-4fe1-bd92-692ed803d7fc

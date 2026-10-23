@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_Deterministic_accelerated_gradient_recursion_bound_v2
 -- name    : FirstOrderOpt.Deterministic.accelerated_gradient_recursion_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:16:47.64338+00:00
 -- url     : https://prove2.me/theorems/930711a7-331e-4f74-bdc5-3dcad855a1b2

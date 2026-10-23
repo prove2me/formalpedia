@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdSignal_OnePrice_lemma_1
 -- name    : CrowdSignal.OnePrice.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:00.502963+00:00
 -- url     : https://prove2.me/theorems/c69be5b2-0c90-4052-9f1c-64de682d008a

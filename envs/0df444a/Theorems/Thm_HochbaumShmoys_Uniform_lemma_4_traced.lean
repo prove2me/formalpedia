@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HochbaumShmoys_Uniform_lemma_4_traced
 -- name    : HochbaumShmoys.Uniform.lemma_4_traced
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:42.775926+00:00
 -- url     : https://prove2.me/theorems/4f2f5458-2a4a-49d4-85be-a72f955ad5ce

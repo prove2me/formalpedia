@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Fundraising_PartialCollab_proposition_4
 -- name    : Fundraising.PartialCollab.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:03:15.858016+00:00
 -- url     : https://prove2.me/theorems/c59ed873-9c66-4654-9eb2-5e21455e180c

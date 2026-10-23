@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefMNLPricing_GainSeeking_theorem_4
 -- name    : RefMNLPricing.GainSeeking.theorem_4
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:32:58.387982+00:00
 -- url     : https://prove2.me/theorems/286851ea-8bde-4179-8c82-87abe9a5ef17

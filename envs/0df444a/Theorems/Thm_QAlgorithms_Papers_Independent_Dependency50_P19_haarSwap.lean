@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P19_haarSwap
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P19.haarSwap
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:12:04.380361+00:00
 -- url     : https://prove2.me/theorems/1c7d2bf1-0e6a-4b6b-b189-f92287bfc7a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P10_barycentricBallMass
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P10.barycentricBallMass
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:09:47.396465+00:00
 -- url     : https://prove2.me/theorems/5cd1cd2e-22d6-4930-81f8-7a4ae1859c5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KedlayaUmans_FrobeniusLift_lemma_6_1
 -- name    : KedlayaUmans.FrobeniusLift.lemma_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:49:26.513733+00:00
 -- url     : https://prove2.me/theorems/9b4d50d0-1f67-4d3d-93bb-e6fd52987492

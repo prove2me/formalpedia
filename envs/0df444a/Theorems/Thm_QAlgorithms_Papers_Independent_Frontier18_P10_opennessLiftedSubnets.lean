@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P10_opennessLiftedSubnets
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P10.opennessLiftedSubnets
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:19:33.473111+00:00
 -- url     : https://prove2.me/theorems/2254a5f4-af2d-48a9-8948-aa99c222b3a0

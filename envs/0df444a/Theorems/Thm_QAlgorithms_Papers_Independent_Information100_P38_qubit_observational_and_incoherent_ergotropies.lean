@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_qubit_observational_and_incoherent_ergotropies
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.qubit_observational_and_incoherent_ergotropies
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:11:31.950689+00:00
 -- url     : https://prove2.me/theorems/e4c240f1-74a3-4d71-9bad-44f26eacc571

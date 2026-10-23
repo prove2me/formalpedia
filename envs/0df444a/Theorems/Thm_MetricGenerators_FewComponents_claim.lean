@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricGenerators_FewComponents_claim
 -- name    : MetricGenerators.FewComponents.claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:22.756093+00:00
 -- url     : https://prove2.me/theorems/1397217b-72ac-4411-9198-677802c978e4

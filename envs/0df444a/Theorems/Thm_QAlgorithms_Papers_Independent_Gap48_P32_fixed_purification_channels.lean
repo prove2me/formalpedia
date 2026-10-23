@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P32_fixed_purification_channels
 -- name    : QAlgorithms.Papers.Independent.Gap48.P32.fixed_purification_channels
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:35:17.526979+00:00
 -- url     : https://prove2.me/theorems/8ddafef4-ba18-4d0c-a690-c6b6f2f0772d

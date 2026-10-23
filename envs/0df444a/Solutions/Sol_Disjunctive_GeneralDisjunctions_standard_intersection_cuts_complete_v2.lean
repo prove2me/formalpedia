@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Disjunctive.GeneralDisjunctions.standard_intersection_cuts_complete_v2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-18T10:35:04.050971+00:00
 -- url     : https://prove2.me/submissions/3939f876-4258-492a-9211-11a48667deac
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Disjunctive_GeneralDisjunctions_rational_valid_cut_has_dual_feasible_tableau
 

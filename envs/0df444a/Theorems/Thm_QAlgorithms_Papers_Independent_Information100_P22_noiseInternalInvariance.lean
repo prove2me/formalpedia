@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P22_noiseInternalInvariance
 -- name    : QAlgorithms.Papers.Independent.Information100.P22.noiseInternalInvariance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:13:25.246005+00:00
 -- url     : https://prove2.me/theorems/1ce194dc-b01f-491b-9e97-1fd20348a30a

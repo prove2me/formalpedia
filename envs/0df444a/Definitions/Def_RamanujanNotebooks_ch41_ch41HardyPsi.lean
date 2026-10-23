@@ -13,7 +13,7 @@
 --   Domain: `x > 0`, `0 < c < δ < 1`, and `ψ` analytic on `Re s ≥ -δ` with
 --   `|ψ(σ + i t)| ≤ C exp(Pσ + A|t|)`, `A < π`; then the integrand decays exponentially in `|t|`,
 --   the integral converges absolutely and its value does not depend on `c`.
---   Outside: if the integrand is not integrable Lean returns `0`; for `x ≤ 0` the principal power
+--   Outside: if the integrand is not integrable the value is taken to be `0`; for `x ≤ 0` the principal power
 --   has no meaning here; if `c` is an integer the factor `π / sin(πs)` has a pole on the line.
 --   Reference: for `ψ(s) = 1/Γ(s + 1)`, `Ψ(x) = e^{-x}` (`Ψ(0.3) = 0.74081822068171786607…`);
 --   for `ψ(s) = 1`, `Ψ(x) = 1/(1 + x)`.

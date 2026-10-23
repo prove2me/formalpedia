@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastRatesSVM_GeomNoise_theorem_2_6
 -- name    : FastRatesSVM.GeomNoise.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:32.673978+00:00
 -- url     : https://prove2.me/theorems/a135d7c1-d79f-40c9-af3e-ebcf9ac83b3e

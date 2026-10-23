@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YoungConventions_Perturbed_potential_const_on_class
 -- name    : YoungConventions.Perturbed.potential_const_on_class
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:01:53.788665+00:00
 -- url     : https://prove2.me/theorems/b407d04c-40c9-4854-a53b-c8e219ccbd11

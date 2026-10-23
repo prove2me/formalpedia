@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_RandomAccessCapacity_nonvertical_support
 -- name    : KellyStochasticNetworks.RandomAccessCapacity.nonvertical_support
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:24.506464+00:00
 -- url     : https://prove2.me/theorems/870a8eee-d991-4eef-a663-d1b524076d72

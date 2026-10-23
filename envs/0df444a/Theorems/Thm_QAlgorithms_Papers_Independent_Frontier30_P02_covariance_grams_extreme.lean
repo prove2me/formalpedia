@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P02_covariance_grams_extreme
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P02.covariance_grams_extreme
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:12:16.70904+00:00
 -- url     : https://prove2.me/theorems/f1fbd80e-fd72-4afd-957a-6ac29ebbcd71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_oppositeCosinePopulationBound
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.oppositeCosinePopulationBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:37:12.391609+00:00
 -- url     : https://prove2.me/theorems/2b10d0da-ba41-4b45-b381-8593c028aafd

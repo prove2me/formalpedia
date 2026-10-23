@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_tracelessJumpRepresentation
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.tracelessJumpRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:49:56.109552+00:00
 -- url     : https://prove2.me/theorems/da0a0cd8-e26c-42f3-9624-1c8f027e6f26

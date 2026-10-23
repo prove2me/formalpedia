@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P16_asymptoticLimit_stabilizable
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P16.asymptoticLimit_stabilizable
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:22:15.395131+00:00
 -- url     : https://prove2.me/theorems/a2eedae9-5b88-418e-87e0-70638688c14a

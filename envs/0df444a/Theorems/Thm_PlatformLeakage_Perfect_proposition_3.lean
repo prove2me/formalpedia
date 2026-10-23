@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformLeakage_Perfect_proposition_3
 -- name    : PlatformLeakage.Perfect.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:41:28.74495+00:00
 -- url     : https://prove2.me/theorems/7a2c43d7-8014-4d02-87e0-c09cd9813bd5

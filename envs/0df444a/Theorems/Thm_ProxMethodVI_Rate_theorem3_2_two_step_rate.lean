@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxMethodVI_Rate_theorem3_2_two_step_rate
 -- name    : ProxMethodVI.Rate.theorem3_2_two_step_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:12:08.716029+00:00
 -- url     : https://prove2.me/theorems/e6a18fab-fab3-4377-b9c3-b6e996845f8d

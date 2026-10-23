@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_strongSubadditivity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.strongSubadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:09:32.446285+00:00
 -- url     : https://prove2.me/theorems/62273855-16d1-4862-92f9-394ca8a7465f

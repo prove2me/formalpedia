@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_StochDominance_ccd_iff_lorenz
 -- name    : RiskFunctionals.StochDominance.ccd_iff_lorenz
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:25.745571+00:00
 -- url     : https://prove2.me/theorems/c09758e1-9bab-4821-9954-fb2bbf278c60

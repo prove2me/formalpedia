@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FollowCustomers_SmallCost_proposition_2
 -- name    : FollowCustomers.SmallCost.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:21:16.829172+00:00
 -- url     : https://prove2.me/theorems/35379f2d-e930-45e5-bb87-c8673c1514f8

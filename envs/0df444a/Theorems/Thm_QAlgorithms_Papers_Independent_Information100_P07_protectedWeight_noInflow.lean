@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P07_protectedWeight_noInflow
 -- name    : QAlgorithms.Papers.Independent.Information100.P07.protectedWeight_noInflow
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:42:56.998957+00:00
 -- url     : https://prove2.me/theorems/51ae1a8c-311b-438d-babe-b65f7850cc70

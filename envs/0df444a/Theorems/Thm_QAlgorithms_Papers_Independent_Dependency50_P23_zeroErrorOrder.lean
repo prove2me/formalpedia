@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P23_zeroErrorOrder
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P23.zeroErrorOrder
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:50:18.523779+00:00
 -- url     : https://prove2.me/theorems/b3072634-de14-42e6-9f68-2a16eede68e1

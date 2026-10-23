@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P19_commonCause_zero
 -- name    : QAlgorithms.Papers.Independent.Gap48.P19.commonCause_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:06:55.215988+00:00
 -- url     : https://prove2.me/theorems/fcc641c3-c7b9-4cf9-9f02-d0a984104fb7

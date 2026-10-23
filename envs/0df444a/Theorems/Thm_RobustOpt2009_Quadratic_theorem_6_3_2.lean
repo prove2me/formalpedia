@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Quadratic_theorem_6_3_2
 -- name    : RobustOpt2009.Quadratic.theorem_6_3_2
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:42:14.417403+00:00
 -- url     : https://prove2.me/theorems/f8befa84-9bd0-46c4-8053-3e8b53bd1407

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Inventory_lemma_15_2_1
 -- name    : RobustOpt2009.Inventory.lemma_15_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:44:02.087417+00:00
 -- url     : https://prove2.me/theorems/b57c0181-3c23-4ecb-b828-cf088a21cfa8

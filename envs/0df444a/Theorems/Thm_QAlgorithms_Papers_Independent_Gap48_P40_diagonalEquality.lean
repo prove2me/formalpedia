@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_diagonalEquality
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.diagonalEquality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:32:05.661597+00:00
 -- url     : https://prove2.me/theorems/38667b97-9348-4d46-94ef-8859c0966970

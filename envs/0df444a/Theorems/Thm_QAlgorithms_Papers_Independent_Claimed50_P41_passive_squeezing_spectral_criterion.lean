@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_passive_squeezing_spectral_criterion
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.passive_squeezing_spectral_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:08:02.634998+00:00
 -- url     : https://prove2.me/theorems/8895e194-728a-4ec0-a895-faa08fdf1bb5

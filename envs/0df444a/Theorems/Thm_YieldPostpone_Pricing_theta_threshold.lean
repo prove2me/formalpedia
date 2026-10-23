@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Pricing_theta_threshold
 -- name    : YieldPostpone.Pricing.theta_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:27.749297+00:00
 -- url     : https://prove2.me/theorems/3d4254ee-f06b-4a4a-b3c5-7adddf842b48

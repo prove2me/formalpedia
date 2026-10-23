@@ -10,8 +10,8 @@
 --   The complex power `d^{2nπi/log c} = exp(2nπi · log d / log c)` for real `c > 1`, `d > 0` and
 --   an integer `n`, a point of the unit circle (Entries 11–13, pp. 536–540).
 --   Domain: `c > 1` (so `log c > 0`) and `d > 0`.
---   Outside: for `c = 1` Lean divides by `0`; for `d ≤ 0` the real logarithm is Lean's convention;
---   not used.
+--   Outside: not used; for `c = 1` the exponent has denominator `log c = 0` and is taken to be `0`,
+--   and for `d ≤ 0` the logarithm is read as `log |d|`, with `log 0 = 0`.
 --   Reference: `ch38UnitPow c c n = 1`; `ch38UnitPow 3 2 1 = exp(2πi log 3/log 2)`.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part V (Springer, 1998), Chapter 38.

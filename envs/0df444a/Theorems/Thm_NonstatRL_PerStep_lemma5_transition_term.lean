@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_PerStep_lemma5_transition_term
 -- name    : NonstatRL.PerStep.lemma5_transition_term
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:15.049017+00:00
 -- url     : https://prove2.me/theorems/51b2787d-f8a2-4b6e-b301-d16254690525

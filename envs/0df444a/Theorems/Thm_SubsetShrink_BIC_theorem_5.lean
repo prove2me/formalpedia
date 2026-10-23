@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_BIC_theorem_5
 -- name    : SubsetShrink.BIC.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:33.432591+00:00
 -- url     : https://prove2.me/theorems/fa2971df-68af-492a-8944-1bfb46a540e0

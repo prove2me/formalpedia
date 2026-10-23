@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_zeroCollisionWork
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.zeroCollisionWork
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:40:58.579455+00:00
 -- url     : https://prove2.me/theorems/5b77b3ca-1f60-4c53-877b-85916efcb523

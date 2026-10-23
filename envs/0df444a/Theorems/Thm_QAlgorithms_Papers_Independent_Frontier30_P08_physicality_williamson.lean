@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P08_physicality_williamson
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P08.physicality_williamson
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:14:40.751597+00:00
 -- url     : https://prove2.me/theorems/31cbb886-d584-4685-b64a-8804a2e36696

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P21_hirschmanDensities
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P21.hirschmanDensities
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T14:11:20.918371+00:00
 -- url     : https://prove2.me/theorems/77e1c836-c4b6-455f-af8e-496fe88ede8f

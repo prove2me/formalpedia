@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoodDeliv_Decentral_cor_C_4
 -- name    : FoodDeliv.Decentral.cor_C_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:09.797813+00:00
 -- url     : https://prove2.me/theorems/b3f16108-4047-4e56-a031-dd5cc007c569

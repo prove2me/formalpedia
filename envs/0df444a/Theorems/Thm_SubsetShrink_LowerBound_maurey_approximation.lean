@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_LowerBound_maurey_approximation
 -- name    : SubsetShrink.LowerBound.maurey_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:36.206192+00:00
 -- url     : https://prove2.me/theorems/4d2fcab2-0fb1-4f86-8d22-d72cd09c6553

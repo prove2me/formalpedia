@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P13_valueUpperBound
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P13.valueUpperBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:18:06.816977+00:00
 -- url     : https://prove2.me/theorems/9514c792-f02a-4a39-9099-1321babd7cce

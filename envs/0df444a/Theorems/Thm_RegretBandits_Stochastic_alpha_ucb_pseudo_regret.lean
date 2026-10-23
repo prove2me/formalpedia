@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Stochastic_alpha_ucb_pseudo_regret
 -- name    : RegretBandits.Stochastic.alpha_ucb_pseudo_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:34:24.441988+00:00
 -- url     : https://prove2.me/theorems/b797d63e-e173-4514-8eb9-10e3b689531a

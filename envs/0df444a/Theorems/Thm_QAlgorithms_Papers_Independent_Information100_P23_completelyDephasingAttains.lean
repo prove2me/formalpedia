@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P23_completelyDephasingAttains
 -- name    : QAlgorithms.Papers.Independent.Information100.P23.completelyDephasingAttains
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:10:42.057669+00:00
 -- url     : https://prove2.me/theorems/9ca61e04-a0ba-40ac-bc34-a4171355cfe8

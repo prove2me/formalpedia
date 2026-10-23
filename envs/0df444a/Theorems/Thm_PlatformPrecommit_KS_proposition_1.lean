@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformPrecommit_KS_proposition_1
 -- name    : PlatformPrecommit.KS.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T08:05:41.913203+00:00
 -- url     : https://prove2.me/theorems/38ff1a30-b1e9-4021-83a8-a17a1118479a

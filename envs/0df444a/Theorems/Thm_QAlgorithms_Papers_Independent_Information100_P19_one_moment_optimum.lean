@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_one_moment_optimum
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.one_moment_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:53:04.515162+00:00
 -- url     : https://prove2.me/theorems/57f43ee6-c38f-4b6b-b4a1-05fed9957a26

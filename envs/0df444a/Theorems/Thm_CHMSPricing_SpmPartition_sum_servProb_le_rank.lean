@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CHMSPricing_SpmPartition_sum_servProb_le_rank
 -- name    : CHMSPricing.SpmPartition.sum_servProb_le_rank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T11:43:42.043402+00:00
 -- url     : https://prove2.me/theorems/50b681d7-664c-4607-a8f6-1f3aed38ec8a

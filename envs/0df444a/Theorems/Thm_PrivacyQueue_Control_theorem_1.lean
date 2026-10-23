@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivacyQueue_Control_theorem_1
 -- name    : PrivacyQueue.Control.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:22:24.249647+00:00
 -- url     : https://prove2.me/theorems/ada35607-c0a1-43a6-8dca-b61551d22e49

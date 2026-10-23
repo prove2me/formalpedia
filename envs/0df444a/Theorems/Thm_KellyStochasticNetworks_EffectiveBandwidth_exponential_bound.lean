@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_EffectiveBandwidth_exponential_bound
 -- name    : KellyStochasticNetworks.EffectiveBandwidth.exponential_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:12.825433+00:00
 -- url     : https://prove2.me/theorems/64edea1a-87e1-4827-9945-9c31f624dc65

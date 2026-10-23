@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MitigateSupplyRisk_LateCommit_theorem_5
 -- name    : MitigateSupplyRisk.LateCommit.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:02:30.278751+00:00
 -- url     : https://prove2.me/theorems/a4d70963-ea0e-458e-9816-4762f100b384

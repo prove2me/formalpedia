@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarlssonPartition_Equitable_district_workload
 -- name    : CarlssonPartition.Equitable.district_workload
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:17:15.817113+00:00
 -- url     : https://prove2.me/theorems/6e4ef62a-e8b7-4b1d-a12f-76a9a40566bb

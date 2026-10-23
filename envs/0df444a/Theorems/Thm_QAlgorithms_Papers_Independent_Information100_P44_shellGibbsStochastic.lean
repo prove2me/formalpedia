@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P44_shellGibbsStochastic
 -- name    : QAlgorithms.Papers.Independent.Information100.P44.shellGibbsStochastic
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:33:25.314296+00:00
 -- url     : https://prove2.me/theorems/b68781c5-f266-410d-8395-41ef2f393fb1

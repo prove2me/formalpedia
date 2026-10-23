@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P41_anomaly_coheringPower_bound
 -- name    : QAlgorithms.Papers.Independent.Information100.P41.anomaly_coheringPower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:24:02.32385+00:00
 -- url     : https://prove2.me/theorems/35d40bfe-636b-4456-8175-673fe9addfe7

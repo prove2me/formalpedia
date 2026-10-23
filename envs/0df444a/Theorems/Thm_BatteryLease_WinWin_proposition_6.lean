@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BatteryLease_WinWin_proposition_6
 -- name    : BatteryLease.WinWin.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:20:18.546851+00:00
 -- url     : https://prove2.me/theorems/cf0f3f46-7828-41ce-a2ce-d86b62c0db47

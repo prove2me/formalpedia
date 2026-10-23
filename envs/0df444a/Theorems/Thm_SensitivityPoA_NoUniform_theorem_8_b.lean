@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_NoUniform_theorem_8_b
 -- name    : SensitivityPoA.NoUniform.theorem_8_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:30.510605+00:00
 -- url     : https://prove2.me/theorems/851bc11f-5f1d-4d3a-ae28-d42a759fc9dc

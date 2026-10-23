@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P41_classical_local_duality
 -- name    : QAlgorithms.Papers.Independent.Gap48.P41.classical_local_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:32:16.931637+00:00
 -- url     : https://prove2.me/theorems/45a7d31c-b5f9-4bf1-910d-394ee500f9ef

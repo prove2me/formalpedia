@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P46_shor_extension_channel
 -- name    : QAlgorithms.Papers.Independent.Gap48.P46.shor_extension_channel
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:56:57.727301+00:00
 -- url     : https://prove2.me/theorems/6dc87295-ae16-4a4c-a04a-67b0e0e6fa57

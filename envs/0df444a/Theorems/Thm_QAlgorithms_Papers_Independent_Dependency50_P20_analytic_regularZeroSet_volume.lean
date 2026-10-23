@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P20_analytic_regularZeroSet_volume
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P20.analytic_regularZeroSet_volume
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:13:52.268985+00:00
 -- url     : https://prove2.me/theorems/22fd9848-4512-4c9e-a494-d18e2030792d

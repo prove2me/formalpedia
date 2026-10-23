@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StoneRegression_Quantile_proposition_15
 -- name    : StoneRegression.Quantile.proposition_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:22:31.268732+00:00
 -- url     : https://prove2.me/theorems/60d6cbb8-fbdd-48e8-b9ff-60aeb52204b3

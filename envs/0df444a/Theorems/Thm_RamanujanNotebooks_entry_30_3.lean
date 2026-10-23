@@ -7,9 +7,9 @@
 -- title:
 --   Partial fractions of π²/(sin²(πz)(e^{2πz}−1))
 -- statement:
---   Let $z\in\mathbb C$ with $z\notin\mathbb Z$ and $z\notin i\mathbb Z$. Then $$\frac{\pi^2}{\sin^2(\pi z)(e^{2\pi z}-1)}=\frac1{2\pi z^3}-\frac1{2z^2}+\frac{\pi}{3z}-\sum_{n\ge1}\frac1{(z+n)^2}+4z\sum_{n\ge1}\frac{n}{(e^{2\pi n}-1)(z^2-n^2)^2}-2\pi z^3\sum_{n\ge1}\frac1{\sinh^2(\pi n)(z^4-n^4)},$$ all three series converging absolutely. Differs from the printed source: the book states no condition on $z$; the exclusion of the poles $z\in\mathbb Z\cup i\mathbb Z$ is added by us.
+--   Let $z\in\mathbb C$ with $z\notin\mathbb Z$ and $z\notin i\mathbb Z$. Then $$\frac{\pi^2}{\sin^2(\pi z)(e^{2\pi z}-1)}=\frac1{2\pi z^3}-\frac1{2z^2}+\frac{\pi}{3z}-\sum_{n\ge1}\frac1{(z+n)^2}+4z\sum_{n\ge1}\frac{n}{(e^{2\pi n}-1)(z^2-n^2)^2}-2\pi z^3\sum_{n\ge1}\frac1{\sinh^2(\pi n)(z^4-n^4)},$$ all three series converging absolutely.
 --
---   **Discrepancy from the printed source.** Differs from the printed source: the book (p. 359) writes 'We have' with no condition on z. We add z ∉ ℤ and z ∉ iℤ, exactly the poles of the left side (where terms on the right are undefined too). Added by us; no change to the formula.
+--   **Discrepancy from the printed source.** The book states no condition on $z$; the exclusion of the poles $z\in\mathbb Z\cup i\mathbb Z$ is added by us. The book (p. 359) writes 'We have' with no condition on z. We add z ∉ ℤ and z ∉ iℤ, exactly the poles of the left side (where terms on the right are undefined too). Added by us; no change to the formula.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part IV (Springer, 1994), Chapter 30, Entry 3, p. 359, eq. (3.1).
 

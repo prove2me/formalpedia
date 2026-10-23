@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_forwardInverseSelectivity
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.forwardInverseSelectivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:05:55.071678+00:00
 -- url     : https://prove2.me/theorems/a021f106-7774-43d5-bfea-ee4b2aaac146

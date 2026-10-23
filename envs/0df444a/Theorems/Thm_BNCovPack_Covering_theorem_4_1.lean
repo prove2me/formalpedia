@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BNCovPack_Covering_theorem_4_1
 -- name    : BNCovPack.Covering.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:41:04.341674+00:00
 -- url     : https://prove2.me/theorems/b57de23d-5953-424f-a729-5a018aa74b37

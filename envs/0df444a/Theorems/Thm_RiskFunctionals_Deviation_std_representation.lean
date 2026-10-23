@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Deviation_std_representation
 -- name    : RiskFunctionals.Deviation.std_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:10.27121+00:00
 -- url     : https://prove2.me/theorems/9334d5de-f62d-4260-ba82-a541e62e6e74

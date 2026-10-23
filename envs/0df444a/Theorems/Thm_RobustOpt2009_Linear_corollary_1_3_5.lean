@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Linear_corollary_1_3_5
 -- name    : RobustOpt2009.Linear.corollary_1_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:42:30.379165+00:00
 -- url     : https://prove2.me/theorems/fa2263bf-b520-4e13-bc9b-f26af1ec4a09

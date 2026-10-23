@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P41_jc_maximal_transfer
 -- name    : QAlgorithms.Papers.Independent.Information100.P41.jc_maximal_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:32:12.782333+00:00
 -- url     : https://prove2.me/theorems/e1fca90c-a217-4c38-b266-f20d8d2d205d

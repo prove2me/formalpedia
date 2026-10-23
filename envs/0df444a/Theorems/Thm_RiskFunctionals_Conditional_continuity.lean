@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Conditional_continuity
 -- name    : RiskFunctionals.Conditional.continuity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:41.683401+00:00
 -- url     : https://prove2.me/theorems/e1a0a2f2-9cec-4f8b-be9a-e0ea81e20c29

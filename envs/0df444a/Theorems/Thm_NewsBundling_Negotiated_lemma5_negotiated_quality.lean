@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_lemma5_negotiated_quality
 -- name    : NewsBundling.Negotiated.lemma5_negotiated_quality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:01.613058+00:00
 -- url     : https://prove2.me/theorems/144b693a-fb6b-4cdf-9f9b-9c3afb562477

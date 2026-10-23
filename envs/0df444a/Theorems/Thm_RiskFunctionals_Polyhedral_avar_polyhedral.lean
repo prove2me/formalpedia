@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Polyhedral_avar_polyhedral
 -- name    : RiskFunctionals.Polyhedral.avar_polyhedral
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:42.311531+00:00
 -- url     : https://prove2.me/theorems/86fc5ee5-4077-4add-8878-2a1bffe29f1f

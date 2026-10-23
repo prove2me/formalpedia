@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AccelScal_UCRace_lemma_2
 -- name    : AccelScal.UCRace.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:02.292064+00:00
 -- url     : https://prove2.me/theorems/80b5a699-dab1-44d6-9af7-d5fe7076f602

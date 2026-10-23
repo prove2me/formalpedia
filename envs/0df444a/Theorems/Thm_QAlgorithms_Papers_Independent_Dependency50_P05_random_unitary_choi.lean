@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P05_random_unitary_choi
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P05.random_unitary_choi
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T07:51:58.469981+00:00
 -- url     : https://prove2.me/theorems/cd6af566-37fc-4c92-a4ee-d1e2e7ce39c8

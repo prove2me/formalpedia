@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_RandomAccessCapacity_capacity_coverage
 -- name    : KellyStochasticNetworks.RandomAccessCapacity.capacity_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:25.531554+00:00
 -- url     : https://prove2.me/theorems/fd07c601-a66f-447a-ab09-f2e7851f7fcc

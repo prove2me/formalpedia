@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_CountableReversal_markov_iff_past_future
 -- name    : KellyStochasticNetworks.CountableReversal.markov_iff_past_future
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:49.958978+00:00
 -- url     : https://prove2.me/theorems/8ce3d1fd-fa5d-491e-89e3-bf178dc12924

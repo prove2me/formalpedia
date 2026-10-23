@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat07_scale_weighted_deriv_integrable_positive_halfline
 -- name    : AvramDividend.Classical.chat07_scale_weighted_deriv_integrable_positive_halfline
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T21:52:48.585979+00:00
 -- url     : https://prove2.me/theorems/a01f741d-18f2-4a06-af0d-61e118db667a

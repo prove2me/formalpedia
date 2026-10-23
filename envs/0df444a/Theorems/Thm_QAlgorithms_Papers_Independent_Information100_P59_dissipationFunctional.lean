@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P59_dissipationFunctional
 -- name    : QAlgorithms.Papers.Independent.Information100.P59.dissipationFunctional
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:24:52.734946+00:00
 -- url     : https://prove2.me/theorems/890e26bf-54ed-4d1a-b2dc-b85a1c2894ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_local_verification_capped_finset_dividendMeasure_bound_separated
 -- name    : AvramDividend.Classical.local_verification_capped_finset_dividendMeasure_bound_separated
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T03:08:23.794337+00:00
 -- url     : https://prove2.me/theorems/05bef5a0-76bc-472a-91f9-17ccbb8a9ed0

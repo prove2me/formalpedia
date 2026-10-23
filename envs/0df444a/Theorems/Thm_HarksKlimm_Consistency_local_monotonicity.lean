@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarksKlimm_Consistency_local_monotonicity
 -- name    : HarksKlimm.Consistency.local_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:47.836422+00:00
 -- url     : https://prove2.me/theorems/e12e804b-a3c8-48a2-872b-fb7ff03b8eeb

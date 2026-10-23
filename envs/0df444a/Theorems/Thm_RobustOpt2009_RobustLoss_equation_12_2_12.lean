@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_RobustLoss_equation_12_2_12
 -- name    : RobustOpt2009.RobustLoss.equation_12_2_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:43:30.43587+00:00
 -- url     : https://prove2.me/theorems/7313c374-5a7a-465c-bc25-6a8da135b0e8

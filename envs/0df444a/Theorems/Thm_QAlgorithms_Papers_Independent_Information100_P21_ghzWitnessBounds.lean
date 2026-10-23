@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_ghzWitnessBounds
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.ghzWitnessBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:01:20.370976+00:00
 -- url     : https://prove2.me/theorems/4427463a-8094-4478-941c-863152343bab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HochbaumShmoys_Uniform_all_pack_relaxed_decision
 -- name    : HochbaumShmoys.Uniform.all_pack_relaxed_decision
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:34.732811+00:00
 -- url     : https://prove2.me/theorems/531ab322-77b4-4356-8d5d-fc07c5063e5b

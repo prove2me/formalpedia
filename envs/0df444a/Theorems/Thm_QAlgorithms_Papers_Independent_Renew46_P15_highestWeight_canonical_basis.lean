@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P15_highestWeight_canonical_basis
 -- name    : QAlgorithms.Papers.Independent.Renew46.P15.highestWeight_canonical_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:16:14.016208+00:00
 -- url     : https://prove2.me/theorems/0706a186-afcd-4b5c-b266-a69f954cf32d

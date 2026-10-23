@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPPRevenue_SingleUnit_tau_star
 -- name    : SPPRevenue.SingleUnit.tau_star
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:06.469106+00:00
 -- url     : https://prove2.me/theorems/4d83303b-cfff-4414-8587-142c7eceea78

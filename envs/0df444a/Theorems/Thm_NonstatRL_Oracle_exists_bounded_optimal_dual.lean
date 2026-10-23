@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_Oracle_exists_bounded_optimal_dual
 -- name    : NonstatRL.Oracle.exists_bounded_optimal_dual
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:28:33.975597+00:00
 -- url     : https://prove2.me/theorems/c37195f8-9da4-4bd2-8cd3-a031010e4ae5

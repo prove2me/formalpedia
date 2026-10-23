@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P42_criticalVortex_branches
 -- name    : QAlgorithms.Papers.Independent.Renew46.P42.criticalVortex_branches
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:35:47.691633+00:00
 -- url     : https://prove2.me/theorems/7c629584-fb37-488c-b7e2-ded1d8558595

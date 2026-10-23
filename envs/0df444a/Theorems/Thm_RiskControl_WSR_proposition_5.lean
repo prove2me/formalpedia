@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_WSR_proposition_5
 -- name    : RiskControl.WSR.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:36:01.154559+00:00
 -- url     : https://prove2.me/theorems/2844dd0d-8071-490e-baef-ded586b85a50

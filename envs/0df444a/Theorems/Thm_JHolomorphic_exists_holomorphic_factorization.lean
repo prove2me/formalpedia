@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JHolomorphic_exists_holomorphic_factorization
 -- name    : JHolomorphic.exists_holomorphic_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T20:32:58.260175+00:00
 -- url     : https://prove2.me/theorems/2db01665-32b8-444c-8b5d-ba7bf364dc7a

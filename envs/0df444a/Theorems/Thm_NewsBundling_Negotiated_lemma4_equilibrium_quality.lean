@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_lemma4_equilibrium_quality
 -- name    : NewsBundling.Negotiated.lemma4_equilibrium_quality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:43:54.541009+00:00
 -- url     : https://prove2.me/theorems/effddf80-005f-40e2-97f3-4119fe89e1c2

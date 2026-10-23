@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaquePricing_Dominance_equal_sorted_events
 -- name    : OpaquePricing.Dominance.equal_sorted_events
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:27:04.987748+00:00
 -- url     : https://prove2.me/theorems/52dc02f3-0d59-4ef7-9b71-5bc8cb3051c7

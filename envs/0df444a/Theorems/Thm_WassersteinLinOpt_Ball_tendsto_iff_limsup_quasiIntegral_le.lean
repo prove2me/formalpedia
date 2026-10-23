@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinLinOpt_Ball_tendsto_iff_limsup_quasiIntegral_le
 -- name    : WassersteinLinOpt.Ball.tendsto_iff_limsup_quasiIntegral_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T19:15:20.884084+00:00
 -- url     : https://prove2.me/theorems/eb175d1c-b194-44dc-bd8a-62af119b0240

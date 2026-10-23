@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Duality_acceptabilityOfSet_properties
 -- name    : RiskFunctionals.Duality.acceptabilityOfSet_properties
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:58.078264+00:00
 -- url     : https://prove2.me/theorems/f4fec84a-4a46-4f56-aaa2-8ccb28ea6107

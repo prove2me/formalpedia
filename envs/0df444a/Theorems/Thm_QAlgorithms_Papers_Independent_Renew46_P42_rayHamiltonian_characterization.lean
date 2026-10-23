@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P42_rayHamiltonian_characterization
 -- name    : QAlgorithms.Papers.Independent.Renew46.P42.rayHamiltonian_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:21:27.535589+00:00
 -- url     : https://prove2.me/theorems/d4cf3ad8-6fd4-47ea-b092-4ab8e2a94ea5

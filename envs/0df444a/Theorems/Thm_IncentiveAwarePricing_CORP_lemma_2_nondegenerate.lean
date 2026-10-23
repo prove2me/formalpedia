@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentiveAwarePricing_CORP_lemma_2_nondegenerate
 -- name    : IncentiveAwarePricing.CORP.lemma_2_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-22T04:27:45.968993+00:00
 -- url     : https://prove2.me/theorems/4eced32c-428c-4497-845a-d51a1c81a176

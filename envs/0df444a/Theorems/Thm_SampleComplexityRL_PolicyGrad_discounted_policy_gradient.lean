@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_PolicyGrad_discounted_policy_gradient
 -- name    : SampleComplexityRL.PolicyGrad.discounted_policy_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:12:03.618927+00:00
 -- url     : https://prove2.me/theorems/a380c3cf-09cf-4127-8df9-91aab1f1d19e

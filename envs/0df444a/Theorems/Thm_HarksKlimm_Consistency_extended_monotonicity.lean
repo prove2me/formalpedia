@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarksKlimm_Consistency_extended_monotonicity
 -- name    : HarksKlimm.Consistency.extended_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:22.108209+00:00
 -- url     : https://prove2.me/theorems/778d9a7e-60c0-4306-97cc-0f640809d651

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_pre_iwasawa_explicit_unique
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.pre_iwasawa_explicit_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:02:38.545331+00:00
 -- url     : https://prove2.me/theorems/13198996-4af0-4b67-a985-23f6723cca8d

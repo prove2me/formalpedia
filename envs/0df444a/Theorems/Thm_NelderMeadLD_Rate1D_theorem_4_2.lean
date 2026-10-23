@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Rate1D_theorem_4_2
 -- name    : NelderMeadLD.Rate1D.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:13:56.498772+00:00
 -- url     : https://prove2.me/theorems/cc33a048-c6d6-4dc6-8e55-c45b3979cb07

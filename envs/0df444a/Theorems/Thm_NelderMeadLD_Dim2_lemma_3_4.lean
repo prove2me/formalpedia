@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NelderMeadLD_Dim2_lemma_3_4
 -- name    : NelderMeadLD.Dim2.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:14:44.205721+00:00
 -- url     : https://prove2.me/theorems/771aec3c-408d-4054-85b8-f06890fb21eb

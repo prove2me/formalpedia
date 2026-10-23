@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P41_classical_variational_duality
 -- name    : QAlgorithms.Papers.Independent.Gap48.P41.classical_variational_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:31:41.555093+00:00
 -- url     : https://prove2.me/theorems/ae248ff7-e79d-439c-9dc9-965780e242e5

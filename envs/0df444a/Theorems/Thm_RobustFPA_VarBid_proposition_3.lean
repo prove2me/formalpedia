@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustFPA_VarBid_proposition_3
 -- name    : RobustFPA.VarBid.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:19:39.073835+00:00
 -- url     : https://prove2.me/theorems/5461fdbf-de6e-4433-8888-58081a418691

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_LowerBound_eq_40
 -- name    : SubsetShrink.LowerBound.eq_40
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:26:49.064366+00:00
 -- url     : https://prove2.me/theorems/12a19972-b5cd-4599-b9be-026372d19955

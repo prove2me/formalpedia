@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P46_two_point_counterexample
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P46.two_point_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:27:59.374839+00:00
 -- url     : https://prove2.me/theorems/d244260f-952d-43ef-8960-97b951086b3c

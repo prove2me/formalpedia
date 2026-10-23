@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P17_complex_schur_algebra
 -- name    : QAlgorithms.Papers.Independent.Gap48.P17.complex_schur_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:04:12.175161+00:00
 -- url     : https://prove2.me/theorems/ae5e2a0e-4597-43c3-89f8-e8944090a005

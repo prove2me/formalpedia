@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_qH_gt_qL_cdagger
 -- name    : NewsBundling.Unilateral.qH_gt_qL_cdagger
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:53.110032+00:00
 -- url     : https://prove2.me/theorems/6a617e2b-d3c3-4b99-a855-5ae783f808d5

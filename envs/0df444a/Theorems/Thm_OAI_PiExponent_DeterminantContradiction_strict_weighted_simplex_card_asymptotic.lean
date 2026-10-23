@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_strict_weighted_simplex_card_asymptotic
 -- name    : OAI.PiExponent.DeterminantContradiction.strict_weighted_simplex_card_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:15:17.020416+00:00
 -- url     : https://prove2.me/theorems/6e2834c8-7ed9-4e02-9c06-ae3f5ac7cb53

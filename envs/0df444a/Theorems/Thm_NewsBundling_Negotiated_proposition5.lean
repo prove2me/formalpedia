@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Negotiated_proposition5
 -- name    : NewsBundling.Negotiated.proposition5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:44:02.60199+00:00
 -- url     : https://prove2.me/theorems/8600ab71-614c-411f-9510-b77967fd1c48

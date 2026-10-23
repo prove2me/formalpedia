@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P21_band_irreducible_classification
 -- name    : QAlgorithms.Papers.Independent.Renew46.P21.band_irreducible_classification
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:26:48.072617+00:00
 -- url     : https://prove2.me/theorems/e4527fd9-49ac-44ed-a172-d024b3b490e3

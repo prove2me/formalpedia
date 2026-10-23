@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P13_example21_bell_nonunique_closest_states
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P13.example21_bell_nonunique_closest_states
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:16:37.671747+00:00
 -- url     : https://prove2.me/theorems/cee13df2-0cf8-4e19-b24e-8901255d6d23

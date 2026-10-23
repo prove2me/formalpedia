@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_strictSimplex_card_box
 -- name    : OAI.PiExponent.DeterminantContradiction.strictSimplex_card_box
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:26:15.282436+00:00
 -- url     : https://prove2.me/theorems/1f78e56a-1ee7-40c8-b3c2-8f09cca56db4

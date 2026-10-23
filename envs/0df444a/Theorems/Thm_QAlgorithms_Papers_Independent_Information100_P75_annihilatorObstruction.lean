@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P75_annihilatorObstruction
 -- name    : QAlgorithms.Papers.Independent.Information100.P75.annihilatorObstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:14:00.578827+00:00
 -- url     : https://prove2.me/theorems/71cf52bc-0569-448f-9207-b688fc4c67e4

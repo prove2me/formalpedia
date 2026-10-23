@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustomerVoice_Thresholds_proposition_7
 -- name    : CustomerVoice.Thresholds.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:58.445421+00:00
 -- url     : https://prove2.me/theorems/e147a33a-5a9a-4888-b83e-2cc65395a7a8

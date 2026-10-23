@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOpt2009_Linear_example_1_3_3
 -- name    : RobustOpt2009.Linear.example_1_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:42:27.884828+00:00
 -- url     : https://prove2.me/theorems/e8f84b01-5a49-4a1a-834c-eb43e71cfd5f

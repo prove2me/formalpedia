@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MNLBandit_WellSeparated_corollary_C_1
 -- name    : MNLBandit.WellSeparated.corollary_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:09:37.897995+00:00
 -- url     : https://prove2.me/theorems/ee4d2c6a-74b8-4d47-8744-605dd148c4e2

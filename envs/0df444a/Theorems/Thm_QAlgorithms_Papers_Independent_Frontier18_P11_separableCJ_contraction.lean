@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P11_separableCJ_contraction
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P11.separableCJ_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:33:34.781461+00:00
 -- url     : https://prove2.me/theorems/9709b81f-6f9e-4ab3-ba71-f810e0f913c5

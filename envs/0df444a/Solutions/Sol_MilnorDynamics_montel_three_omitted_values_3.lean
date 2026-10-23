@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for MilnorDynamics.montel_three_omitted_values
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-02T09:08:44.56758+00:00
 -- url     : https://prove2.me/submissions/40c1b183-48c2-4dd1-b44a-86c9075c4bff
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_MilnorDynamics_NormalFamilies

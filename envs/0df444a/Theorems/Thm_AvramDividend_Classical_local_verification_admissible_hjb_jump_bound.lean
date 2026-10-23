@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_local_verification_admissible_hjb_jump_bound
 -- name    : AvramDividend.Classical.local_verification_admissible_hjb_jump_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T07:19:03.016595+00:00
 -- url     : https://prove2.me/theorems/3b129274-1d92-4fe2-ac4c-d4e73a274b5d

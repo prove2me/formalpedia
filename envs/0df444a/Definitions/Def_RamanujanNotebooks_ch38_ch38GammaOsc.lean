@@ -12,7 +12,7 @@
 --   `ch38UnitPow x c n`.
 --   Domain: `c > 1`, `x > 0`, `n ≠ 0` (the argument of `Γ` is then a nonzero purely imaginary
 --   number, not a pole).
---   Outside: `n = 0` is the pole `Γ(0)`, where Mathlib's value has no meaning; not used.
+--   Outside: `n = 0` gives the pole `Γ(0)` and is not used.
 --   Reference: `|ch38GammaOsc c x n|² = (log c) / (2 n sinh(2π² n/log c))` for `n > 0`.
 -- source:
 --   Bruce C. Berndt, Ramanujan's Notebooks, Part V (Springer, 1998), Chapter 38.

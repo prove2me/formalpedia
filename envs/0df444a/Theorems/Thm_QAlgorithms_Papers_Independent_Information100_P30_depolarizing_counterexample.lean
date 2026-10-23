@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P30_depolarizing_counterexample
 -- name    : QAlgorithms.Papers.Independent.Information100.P30.depolarizing_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:23:50.823913+00:00
 -- url     : https://prove2.me/theorems/410b12b4-a175-4305-89be-11eabf1caa33

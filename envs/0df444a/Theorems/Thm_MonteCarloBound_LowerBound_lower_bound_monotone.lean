@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonteCarloBound_LowerBound_lower_bound_monotone
 -- name    : MonteCarloBound.LowerBound.lower_bound_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:30:21.36368+00:00
 -- url     : https://prove2.me/theorems/ab6cde64-e5f4-439f-b99e-0ddb06c9bea8

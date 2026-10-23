@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersPricingDist_UniformA_uu_profit_12
 -- name    : PersPricingDist.UniformA.uu_profit_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T02:45:08.527685+00:00
 -- url     : https://prove2.me/theorems/0618163d-d25d-4996-932b-ad8d1a84b857

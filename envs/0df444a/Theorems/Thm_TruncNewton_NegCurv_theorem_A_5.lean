@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TruncNewton_NegCurv_theorem_A_5
 -- name    : TruncNewton.NegCurv.theorem_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:07:16.501948+00:00
 -- url     : https://prove2.me/theorems/a757aa00-e95b-40cf-adb9-76a7ecda8103

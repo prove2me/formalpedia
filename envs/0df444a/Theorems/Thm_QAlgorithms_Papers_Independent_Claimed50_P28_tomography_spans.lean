@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_tomography_spans
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.tomography_spans
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:18:44.214369+00:00
 -- url     : https://prove2.me/theorems/45e545e3-10e3-4781-be59-adb204b8a2ad

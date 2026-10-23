@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_depolarizing_spectrum_entropies
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.depolarizing_spectrum_entropies
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:39:55.836038+00:00
 -- url     : https://prove2.me/theorems/6f35141f-8ccf-416a-aacb-8fd057acc98b

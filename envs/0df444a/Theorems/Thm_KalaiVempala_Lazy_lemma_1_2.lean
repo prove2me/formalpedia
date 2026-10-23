@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KalaiVempala_Lazy_lemma_1_2
 -- name    : KalaiVempala.Lazy.lemma_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:44:22.698975+00:00
 -- url     : https://prove2.me/theorems/96b885ed-c967-4b9a-b02a-39024308a52b

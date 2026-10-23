@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_weightedDistanceContraction
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.weightedDistanceContraction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:48:41.421818+00:00
 -- url     : https://prove2.me/theorems/6127ea6e-fe88-4e6b-829d-e59e7fc74837

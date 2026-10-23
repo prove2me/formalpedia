@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_ValueOfInfo_optimality_submartingale
 -- name    : RiskFunctionals.ValueOfInfo.optimality_submartingale
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:54:32.522206+00:00
 -- url     : https://prove2.me/theorems/f2896117-7755-49a8-9a91-c0c8e72ff03d

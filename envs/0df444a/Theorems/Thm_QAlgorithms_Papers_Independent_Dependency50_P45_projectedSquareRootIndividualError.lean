@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P45_projectedSquareRootIndividualError
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P45.projectedSquareRootIndividualError
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:03:18.742985+00:00
 -- url     : https://prove2.me/theorems/8fe7347a-05bd-4e48-b507-b615023790b6

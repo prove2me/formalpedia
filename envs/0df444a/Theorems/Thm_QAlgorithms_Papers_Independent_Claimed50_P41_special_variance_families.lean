@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P41_special_variance_families
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P41.special_variance_families
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:09:16.132199+00:00
 -- url     : https://prove2.me/theorems/f88fa889-3ec1-46f6-8122-48ee195c794e

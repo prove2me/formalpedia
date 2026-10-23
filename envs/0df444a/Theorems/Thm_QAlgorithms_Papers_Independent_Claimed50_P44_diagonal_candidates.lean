@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P44_diagonal_candidates
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P44.diagonal_candidates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:10:17.862429+00:00
 -- url     : https://prove2.me/theorems/b62dbdb1-cdb4-4c48-963f-3d31d3e7b14d

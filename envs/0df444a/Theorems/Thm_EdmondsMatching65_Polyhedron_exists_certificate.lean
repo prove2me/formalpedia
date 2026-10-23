@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsMatching65_Polyhedron_exists_certificate
 -- name    : EdmondsMatching65.Polyhedron.exists_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:43:29.686981+00:00
 -- url     : https://prove2.me/theorems/d1a111a4-ceaf-4687-b22b-3ca76e090cec

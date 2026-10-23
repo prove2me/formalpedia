@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_rankOneSubtraction
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.rankOneSubtraction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:47:11.329983+00:00
 -- url     : https://prove2.me/theorems/c6abfe81-e27b-4cbb-88b6-0ee98eb990ab

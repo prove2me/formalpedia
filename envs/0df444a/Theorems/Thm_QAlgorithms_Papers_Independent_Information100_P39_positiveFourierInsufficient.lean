@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P39_positiveFourierInsufficient
 -- name    : QAlgorithms.Papers.Independent.Information100.P39.positiveFourierInsufficient
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:21:53.997972+00:00
 -- url     : https://prove2.me/theorems/557d6bc2-e28f-44da-9ce1-70d76681a05b

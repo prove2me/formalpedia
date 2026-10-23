@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StaticReusable_Guarantee_service_ratio_eq_R
 -- name    : StaticReusable.Guarantee.service_ratio_eq_R
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:24:56.768332+00:00
 -- url     : https://prove2.me/theorems/bf9d799a-eadd-4f88-9d2a-d6e1b681647d

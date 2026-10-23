@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonstatRL_Oracle_eq23_window_bound
 -- name    : NonstatRL.Oracle.eq23_window_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T04:29:13.480823+00:00
 -- url     : https://prove2.me/theorems/ffc054c1-18c6-46ba-bbd7-166cecb34d2d

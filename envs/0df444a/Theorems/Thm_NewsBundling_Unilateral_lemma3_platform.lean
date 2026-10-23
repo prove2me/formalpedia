@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewsBundling_Unilateral_lemma3_platform
 -- name    : NewsBundling.Unilateral.lemma3_platform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:06:45.945731+00:00
 -- url     : https://prove2.me/theorems/8dd647e0-fda6-4e5d-9c14-5a01e430b51e

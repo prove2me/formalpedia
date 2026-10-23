@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_exactRecurrence
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.exactRecurrence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:25:31.005615+00:00
 -- url     : https://prove2.me/theorems/573e8e66-7222-4609-a8f4-90a474ba5a5a

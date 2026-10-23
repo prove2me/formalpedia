@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P19_hankel_six_not_extreme
 -- name    : QAlgorithms.Papers.Independent.Information100.P19.hankel_six_not_extreme
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:47:51.803174+00:00
 -- url     : https://prove2.me/theorems/4d4f0837-6f84-4b05-9136-1ca7a3d519c6

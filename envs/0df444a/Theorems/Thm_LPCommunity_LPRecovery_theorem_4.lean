@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_LPRecovery_theorem_4
 -- name    : LPCommunity.LPRecovery.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:48.196068+00:00
 -- url     : https://prove2.me/theorems/bee5aa7f-4c7a-4876-8e97-8a2e7e8c367e

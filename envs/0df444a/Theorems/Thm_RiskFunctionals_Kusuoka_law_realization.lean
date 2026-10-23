@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_Kusuoka_law_realization
 -- name    : RiskFunctionals.Kusuoka.law_realization
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:51:35.489975+00:00
 -- url     : https://prove2.me/theorems/8e628aa5-1347-4ac0-8bc1-7972939b3229

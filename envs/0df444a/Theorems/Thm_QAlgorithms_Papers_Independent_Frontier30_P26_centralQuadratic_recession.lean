@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P26_centralQuadratic_recession
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P26.centralQuadratic_recession
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:24:24.17414+00:00
 -- url     : https://prove2.me/theorems/e5c1791b-6fbc-4969-919e-b9732ad4b34f

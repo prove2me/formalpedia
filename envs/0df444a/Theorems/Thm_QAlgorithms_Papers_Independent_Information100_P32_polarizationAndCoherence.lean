@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P32_polarizationAndCoherence
 -- name    : QAlgorithms.Papers.Independent.Information100.P32.polarizationAndCoherence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:27:16.906462+00:00
 -- url     : https://prove2.me/theorems/13441112-19e9-45ab-9b64-c5e0b3a4c378

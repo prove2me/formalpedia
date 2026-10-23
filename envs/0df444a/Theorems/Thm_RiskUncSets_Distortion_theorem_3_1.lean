@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskUncSets_Distortion_theorem_3_1
 -- name    : RiskUncSets.Distortion.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:28:27.11566+00:00
 -- url     : https://prove2.me/theorems/8596ee33-6f4b-4851-ab3d-fdbe4db75fbe

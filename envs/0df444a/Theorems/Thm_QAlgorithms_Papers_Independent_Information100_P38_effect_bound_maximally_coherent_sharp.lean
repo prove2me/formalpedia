@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P38_effect_bound_maximally_coherent_sharp
 -- name    : QAlgorithms.Papers.Independent.Information100.P38.effect_bound_maximally_coherent_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:10:46.934214+00:00
 -- url     : https://prove2.me/theorems/0b07e313-6f9b-4e58-8064-e0e22a3a9767

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P37_tensorProductLaw
 -- name    : QAlgorithms.Papers.Independent.Information100.P37.tensorProductLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T11:12:14.593749+00:00
 -- url     : https://prove2.me/theorems/14af783a-a4bf-49f0-bdd4-4ef21c5c4b7e

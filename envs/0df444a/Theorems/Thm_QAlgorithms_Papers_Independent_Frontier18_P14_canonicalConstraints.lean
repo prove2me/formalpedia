@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P14_canonicalConstraints
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P14.canonicalConstraints
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:02:36.624984+00:00
 -- url     : https://prove2.me/theorems/4615db61-5828-46c0-8971-6c57ce46fcff

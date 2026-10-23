@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarksKlimm_Consistency_affine_dependence
 -- name    : HarksKlimm.Consistency.affine_dependence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:48.721055+00:00
 -- url     : https://prove2.me/theorems/05da8ff2-7509-4952-9b4f-b118723aef01

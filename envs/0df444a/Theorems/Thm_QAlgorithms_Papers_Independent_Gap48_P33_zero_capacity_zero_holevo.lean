@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P33_zero_capacity_zero_holevo
 -- name    : QAlgorithms.Papers.Independent.Gap48.P33.zero_capacity_zero_holevo
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:48:26.028113+00:00
 -- url     : https://prove2.me/theorems/aa43ee4e-b850-4172-b5ae-85c03821af29

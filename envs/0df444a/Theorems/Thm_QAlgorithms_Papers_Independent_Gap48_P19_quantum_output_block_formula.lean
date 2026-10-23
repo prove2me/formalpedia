@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P19_quantum_output_block_formula
 -- name    : QAlgorithms.Papers.Independent.Gap48.P19.quantum_output_block_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:12:24.916428+00:00
 -- url     : https://prove2.me/theorems/348dd8e3-9360-4d62-8cf1-018b6411cb83

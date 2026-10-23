@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P15_remark3_nearTightness
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P15.remark3_nearTightness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:22:53.165983+00:00
 -- url     : https://prove2.me/theorems/5b419e6e-33a2-4ab6-84dc-5b0dc2df918f

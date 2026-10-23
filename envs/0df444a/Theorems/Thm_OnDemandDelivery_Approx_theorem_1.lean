@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnDemandDelivery_Approx_theorem_1
 -- name    : OnDemandDelivery.Approx.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T23:13:50.890983+00:00
 -- url     : https://prove2.me/theorems/0bfe7a10-e41b-452f-ac5a-ca2ae749fd54

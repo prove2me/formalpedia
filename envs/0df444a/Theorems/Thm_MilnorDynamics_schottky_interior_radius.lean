@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_schottky_interior_radius
 -- name    : MilnorDynamics.schottky_interior_radius
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T17:13:36.880371+00:00
 -- url     : https://prove2.me/theorems/e7ffcc89-52c9-4d78-babc-6e44d3065af7

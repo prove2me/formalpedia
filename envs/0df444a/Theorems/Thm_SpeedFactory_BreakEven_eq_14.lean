@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpeedFactory_BreakEven_eq_14
 -- name    : SpeedFactory.BreakEven.eq_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-18T17:25:58.250152+00:00
 -- url     : https://prove2.me/theorems/96d85c36-ae58-47f9-becd-74fe68d3ae43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P11_separableCJ_sequences
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P11.separableCJ_sequences
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:34:11.056562+00:00
 -- url     : https://prove2.me/theorems/d42f0fb7-74fe-4dac-975d-77d3260faf97
