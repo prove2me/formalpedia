@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Duality_theorem_2
 -- name    : L0BnB.Duality.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:40.957403+00:00
 -- url     : https://prove2.me/theorems/9a9eb671-225f-4454-813b-d6d7d923fd62

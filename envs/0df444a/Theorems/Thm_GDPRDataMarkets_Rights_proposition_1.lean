@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRDataMarkets_Rights_proposition_1
 -- name    : GDPRDataMarkets.Rights.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:00:12.360427+00:00
 -- url     : https://prove2.me/theorems/266e8f23-5c67-4e9a-996a-ae3b6a1558c7

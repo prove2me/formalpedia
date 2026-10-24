@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_arbitrary_history_full_future_path_markov_tonelli
 -- name    : AvramDividend.Classical.chat04_arbitrary_history_full_future_path_markov_tonelli
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T08:04:11.864498+00:00
 -- url     : https://prove2.me/theorems/2ceb6bc9-a37a-4173-aca1-e365326146a8

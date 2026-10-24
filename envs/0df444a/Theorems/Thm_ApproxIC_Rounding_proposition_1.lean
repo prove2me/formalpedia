@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Rounding_proposition_1
 -- name    : ApproxIC.Rounding.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:04.880372+00:00
 -- url     : https://prove2.me/theorems/295a0197-f12c-4002-aca3-7bf602a54819

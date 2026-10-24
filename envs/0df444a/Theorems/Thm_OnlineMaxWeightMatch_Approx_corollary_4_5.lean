@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineMaxWeightMatch_Approx_corollary_4_5
 -- name    : OnlineMaxWeightMatch.Approx.corollary_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:51:59.775981+00:00
 -- url     : https://prove2.me/theorems/1061311a-ecbd-4685-b22c-605aeab56547

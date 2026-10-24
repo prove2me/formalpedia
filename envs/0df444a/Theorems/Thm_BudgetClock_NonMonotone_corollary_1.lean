@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_NonMonotone_corollary_1
 -- name    : BudgetClock.NonMonotone.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:18.329641+00:00
 -- url     : https://prove2.me/theorems/e70aa2c5-13fd-48eb-8eb1-21d801318124

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropVolSampling_Reduction_expectation_ratio
 -- name    : PropVolSampling.Reduction.expectation_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:36.858993+00:00
 -- url     : https://prove2.me/theorems/6885f947-dac4-4740-b5c8-9d8a62f68c30

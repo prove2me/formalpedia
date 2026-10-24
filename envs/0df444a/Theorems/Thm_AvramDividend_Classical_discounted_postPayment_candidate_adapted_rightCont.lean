@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_discounted_postPayment_candidate_adapted_rightCont
 -- name    : AvramDividend.Classical.discounted_postPayment_candidate_adapted_rightCont
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T08:56:32.34123+00:00
 -- url     : https://prove2.me/theorems/0db0f8d0-f6c4-443b-a194-4b49912cb395

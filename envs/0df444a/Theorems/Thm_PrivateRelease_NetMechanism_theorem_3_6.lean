@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateRelease_NetMechanism_theorem_3_6
 -- name    : PrivateRelease.NetMechanism.theorem_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:37.729982+00:00
 -- url     : https://prove2.me/theorems/0ab33e71-c647-4aa8-8f01-36e2f3e53306

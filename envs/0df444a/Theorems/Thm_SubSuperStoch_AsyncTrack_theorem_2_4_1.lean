@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_AsyncTrack_theorem_2_4_1
 -- name    : SubSuperStoch.AsyncTrack.theorem_2_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:43:15.620545+00:00
 -- url     : https://prove2.me/theorems/691e9d57-6f6b-4bbd-b173-ad2024a6e1c7

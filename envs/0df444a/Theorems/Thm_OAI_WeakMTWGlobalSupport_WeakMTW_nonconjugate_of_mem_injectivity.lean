@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_nonconjugate_of_mem_injectivity
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.nonconjugate_of_mem_injectivity
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:00:46.83604+00:00
 -- url     : https://prove2.me/theorems/99d00a65-46c1-4bc8-8f5a-b9a66b0dee52

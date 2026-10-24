@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenNewtonSubgrad_Composite_proposition_7_5
 -- name    : GenNewtonSubgrad.Composite.proposition_7_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:38.213139+00:00
 -- url     : https://prove2.me/theorems/1234c3c1-3f87-45a2-a5b8-206455fd75d3

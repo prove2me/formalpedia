@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_laplaceExponent_quadratic_upper_of_integrable
 -- name    : AvramDividend.Classical.laplaceExponent_quadratic_upper_of_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T00:25:56.492387+00:00
 -- url     : https://prove2.me/theorems/5f73cc0c-258b-4802-ba65-8905fdf6db6f

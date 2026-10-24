@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P35_gaussianPreservation
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P35.gaussianPreservation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:33:06.781725+00:00
 -- url     : https://prove2.me/theorems/d53dee3a-a95f-4181-8706-8f438076092a

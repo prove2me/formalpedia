@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RotationContagion_Rotation_loss_inflection
 -- name    : RotationContagion.Rotation.loss_inflection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:33.602102+00:00
 -- url     : https://prove2.me/theorems/821273fc-a867-4cc4-be3e-7a03ff0f548e

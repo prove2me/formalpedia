@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_activeProjection_injective_unique
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.activeProjection_injective_unique
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T02:58:44.372352+00:00
 -- url     : https://prove2.me/theorems/c860abfa-f2a3-40fb-bc71-d255a0af1bcc

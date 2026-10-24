@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_ldc_two_query_lower_bound
 -- name    : QAlgorithms.DeWolf.ldc_two_query_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:44:09.562044+00:00
 -- url     : https://prove2.me/theorems/1c444933-1989-4975-8678-42b03a0a1c3a

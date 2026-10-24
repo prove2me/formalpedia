@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlySeeding_EdgeQuery_worst_case_queries
 -- name    : CostlySeeding.EdgeQuery.worst_case_queries
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T00:27:39.857543+00:00
 -- url     : https://prove2.me/theorems/5dd78351-91e2-4545-aa8a-d2869ca474c8

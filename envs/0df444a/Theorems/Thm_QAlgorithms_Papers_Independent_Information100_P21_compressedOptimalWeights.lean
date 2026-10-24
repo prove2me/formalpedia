@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_compressedOptimalWeights
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.compressedOptimalWeights
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:07:51.479867+00:00
 -- url     : https://prove2.me/theorems/bb22ec43-3d3c-4221-9453-abf49cbbbdf4

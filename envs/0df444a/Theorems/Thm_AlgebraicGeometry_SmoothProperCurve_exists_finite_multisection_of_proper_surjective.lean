@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_SmoothProperCurve_exists_finite_multisection_of_proper_surjective
 -- name    : AlgebraicGeometry.SmoothProperCurve.exists_finite_multisection_of_proper_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-13T16:39:55.26+00:00
 -- url     : https://prove2.me/theorems/7c5841f9-f8c6-47ba-9796-3e74cb415014

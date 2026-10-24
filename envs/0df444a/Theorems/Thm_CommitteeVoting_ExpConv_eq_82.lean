@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommitteeVoting_ExpConv_eq_82
 -- name    : CommitteeVoting.ExpConv.eq_82
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:34.023533+00:00
 -- url     : https://prove2.me/theorems/fe7b445d-35ea-48a2-a9f2-ed00d6d3f7e7

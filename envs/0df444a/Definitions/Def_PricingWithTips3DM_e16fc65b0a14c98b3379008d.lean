@@ -1,0 +1,217 @@
+-- Prove2me | Definitions.Def_PricingWithTips3DM_e16fc65b0a14c98b3379008d
+-- name    : PricingWithTips3DM_e16fc65b0a14c98b3379008d
+-- status  : Definition
+-- author  : @qmaai2907271020
+-- created : 2026-10-23T00:38:39.953478+00:00
+-- url     : https://prove2.me/theorems/2954d23f-a04f-41a3-9800-fb935e9f8a33
+-- title:
+--   PricingWithTips 3DM dependency: CLRSLean.Chapter_34.Section_34_4_NP_Completeness_Proofs.CookLevin.Circuitization.GeneratorFinalConstraintBoundarySource
+-- statement:
+--   A private, kernel-checked dependency module used by the formal NP-hardness proof for three-dimensional matching and Theorems 4.1 and 4.2 of arXiv:2507.10872.
+-- source:
+--   https://github.com/tanktechnology/CLRS-Lean
+
+import Definitions.Def_PricingWithTips3DM_b6a14462849a6d3050ff2b58
+import Definitions.Def_PricingWithTips3DM_6610522946c1bb61b9f5e9c8
+import Definitions.Def_PricingWithTips3DM_693ce23dec6dc45ed34c4fb1
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+
+/-!
+# Raw-input source for the three final boundary wires
+
+The symbolic-initial output is a polynomial singleton.  The input-shape and
+positive accepting outputs are obtained by adding fixed polynomials to
+already compiled dynamic endpoints.  The negative accepting branch emits the
+shared false-pool coordinate.
+-/
+
+noncomputable section
+
+namespace CLRS.Chapter34.Turing.CookLevin
+
+open PolyBuilder
+
+/-- Unary singleton for the symbolic-initial output. -/
+def verifierInitialBoundaryOutputFrame
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) : List UnaryFrameSym :=
+  exactPolynomialUnaryFrame
+    (verifierInitialBoundaryOutputPolynomial W) input
+
+@[simp] theorem verifierInitialBoundaryOutputFrame_eq
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) :
+    verifierInitialBoundaryOutputFrame W input =
+      encodeUnaryFrameBlock (verifierInitialBoundary W input).wire := by
+  rw [verifierInitialBoundary_wire_eq]
+  rfl
+
+/-- Unary singleton for the input-shape output. -/
+def verifierInputBoundaryOutputFrame
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) : List UnaryFrameSym :=
+  unaryFrameSameInputAddPolynomial
+    (verifierInputFinalOrStart W)
+    (verifierInputArmCountPolynomial W) input
+
+@[simp] theorem verifierInputBoundaryOutputFrame_eq
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) :
+    verifierInputBoundaryOutputFrame W input =
+      encodeUnaryFrameBlock (verifierInputBoundary W input).wire := by
+  rw [verifierInputBoundary_wire_eq]
+  simp [verifierInputBoundaryOutputFrame, verifierInputBoundaryOutput]
+  unfold encodeUnaryFrame
+  simp
+
+/-- Unary singleton for the total accepting-boundary output. -/
+def verifierAcceptingBoundaryOutputFrame
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) : List UnaryFrameSym :=
+  if verifierAcceptingSymbol W ∈
+      reachableAlphabet W.machine.tm W.machine.tm.k₁ then
+    unaryFrameSameInputAddPolynomial
+      (verifierInputBoundaryEnd W)
+      (Polynomial.C 6 * verifierCfgBitCountPolynomial W) input
+  else
+    exactPolynomialUnaryFrame
+      (verifierInitialFalseWirePolynomial W) input
+
+@[simp] theorem verifierAcceptingBoundaryOutputFrame_eq
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) :
+    verifierAcceptingBoundaryOutputFrame W input =
+      encodeUnaryFrameBlock (verifierAcceptingBoundary W input).wire := by
+  rw [verifierAcceptingBoundary_wire_eq]
+  classical
+  by_cases hmember : verifierAcceptingSymbol W ∈
+      reachableAlphabet W.machine.tm W.machine.tm.k₁
+  · simp [verifierAcceptingBoundaryOutputFrame,
+      verifierAcceptingBoundaryOutput, hmember]
+    unfold encodeUnaryFrame
+    simp
+  · simp [verifierAcceptingBoundaryOutputFrame,
+      verifierAcceptingBoundaryOutput, hmember,
+      exactPolynomialUnaryFrame]
+
+/-- Forward delimiter-bearing source for `[initial, input, accepting]`. -/
+def verifierBoundaryOutputSource
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) : List UnaryFrameSym :=
+  verifierInitialBoundaryOutputFrame W input ++
+    verifierInputBoundaryOutputFrame W input ++
+    verifierAcceptingBoundaryOutputFrame W input
+
+/-- The compiled source is exactly the semantic boundary-output suffix. -/
+theorem verifierBoundaryOutputSource_eq
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L)
+    (input : List Γ) :
+    verifierBoundaryOutputSource W input =
+      encodeAffineConjunctionSources
+        [(verifierInitialBoundary W input).wire,
+          (verifierInputBoundary W input).wire,
+          (verifierAcceptingBoundary W input).wire] := by
+  simp [verifierBoundaryOutputSource, encodeAffineConjunctionSources]
+
+/-- Fixed polynomial-time source for the symbolic-initial output. -/
+noncomputable def verifierInitialBoundaryOutputFrame_computableInPolyTime
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L) :
+    _root_.Turing.TM2ComputableInPolyTime id id
+      (verifierInitialBoundaryOutputFrame W) := by
+  letI : Fintype Γ := W.alphabetFintype
+  exact exactPolynomialUnaryFrame_computableInPolyTime
+    (verifierInitialBoundaryOutputPolynomial W)
+
+/-- Fixed polynomial-time source for the input-shape output. -/
+noncomputable def verifierInputBoundaryOutputFrame_computableInPolyTime
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L) :
+    _root_.Turing.TM2ComputableInPolyTime id id
+      (verifierInputBoundaryOutputFrame W) := by
+  letI : Fintype Γ := W.alphabetFintype
+  let raw := verifierInputFinalOrStartFrame_computableInPolyTime W
+  let base : _root_.Turing.TM2ComputableInPolyTime id id
+      (fun input => encodeUnaryFrame
+        [verifierInputFinalOrStart W input]) := by
+    exact
+      { tm := raw.tm
+        inputAlphabet := raw.inputAlphabet
+        outputAlphabet := raw.outputAlphabet
+        time := raw.time
+        outputsFun := fun input => by
+          have run := raw.outputsFun input
+          rw [verifierInputFinalOrStartFrame_eq] at run
+          simpa only [id_eq] using run }
+  exact unaryFrameSameInputAddPolynomial_computableInPolyTime
+    (verifierInputFinalOrStart W)
+    (verifierInputArmCountPolynomial W) base
+
+/-- Fixed polynomial-time source for the static accepting branch. -/
+noncomputable def verifierAcceptingBoundaryOutputFrame_computableInPolyTime
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L) :
+    _root_.Turing.TM2ComputableInPolyTime id id
+      (verifierAcceptingBoundaryOutputFrame W) := by
+  letI : Fintype Γ := W.alphabetFintype
+  by_cases hmember : verifierAcceptingSymbol W ∈
+      reachableAlphabet W.machine.tm W.machine.tm.k₁
+  · let raw := verifierInputBoundaryEndFrame_computableInPolyTime W
+    let base : _root_.Turing.TM2ComputableInPolyTime id id
+        (fun input => encodeUnaryFrame
+          [verifierInputBoundaryEnd W input]) := by
+      exact
+        { tm := raw.tm
+          inputAlphabet := raw.inputAlphabet
+          outputAlphabet := raw.outputAlphabet
+          time := raw.time
+          outputsFun := fun input => by
+            have run := raw.outputsFun input
+            rw [verifierInputBoundaryEndFrame_eq] at run
+            simpa only [id_eq] using run }
+    have result := unaryFrameSameInputAddPolynomial_computableInPolyTime
+      (verifierInputBoundaryEnd W)
+      (Polynomial.C 6 * verifierCfgBitCountPolynomial W) base
+    have htarget : verifierAcceptingBoundaryOutputFrame W =
+        unaryFrameSameInputAddPolynomial
+          (verifierInputBoundaryEnd W)
+          (Polynomial.C 6 * verifierCfgBitCountPolynomial W) := by
+      funext input
+      simp [verifierAcceptingBoundaryOutputFrame, hmember]
+    rw [htarget]
+    exact result
+  · have result := exactPolynomialUnaryFrame_computableInPolyTime
+      (Γ := Γ) (verifierInitialFalseWirePolynomial W)
+    have htarget : verifierAcceptingBoundaryOutputFrame W =
+        exactPolynomialUnaryFrame
+          (verifierInitialFalseWirePolynomial W) := by
+      funext input
+      simp [verifierAcceptingBoundaryOutputFrame, hmember]
+    rw [htarget]
+    exact result
+
+/-- One fixed polynomial-time TM2 emits all three boundary outputs in their
+public conjunction order. -/
+noncomputable def verifierBoundaryOutputSource_computableInPolyTime
+    {Γ : Type} {L : Language Γ} (W : VerifierWitness L) :
+    _root_.Turing.TM2ComputableInPolyTime id id
+      (verifierBoundaryOutputSource W) := by
+  letI : Fintype Γ := W.alphabetFintype
+  let initial := verifierInitialBoundaryOutputFrame_computableInPolyTime W
+  let inputShape := verifierInputBoundaryOutputFrame_computableInPolyTime W
+  let first := unaryFrameSameInputConcat_computableInPolyTime
+    initial inputShape
+  let accepting := verifierAcceptingBoundaryOutputFrame_computableInPolyTime W
+  let complete := unaryFrameSameInputConcat_computableInPolyTime
+    first accepting
+  exact
+    { tm := complete.tm
+      inputAlphabet := complete.inputAlphabet
+      outputAlphabet := complete.outputAlphabet
+      time := complete.time
+      outputsFun := fun input => by
+        have run := complete.outputsFun input
+        simpa only [id_eq, verifierBoundaryOutputSource,
+          List.append_assoc] using run }
+
+end CLRS.Chapter34.Turing.CookLevin
+
+

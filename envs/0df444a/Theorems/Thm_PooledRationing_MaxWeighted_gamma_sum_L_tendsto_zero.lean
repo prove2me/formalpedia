@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledRationing_MaxWeighted_gamma_sum_L_tendsto_zero
 -- name    : PooledRationing.MaxWeighted.gamma_sum_L_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:35:35.632235+00:00
 -- url     : https://prove2.me/theorems/47260cfa-0a94-43f2-a4cf-6c94d6e3c268

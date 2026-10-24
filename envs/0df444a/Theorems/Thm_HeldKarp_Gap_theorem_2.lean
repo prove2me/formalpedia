@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeldKarp_Gap_theorem_2
 -- name    : HeldKarp.Gap.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:31.036883+00:00
 -- url     : https://prove2.me/theorems/cacf918a-793f-4df3-a946-2e1dfebc0094

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RationalHitting_main
 -- name    : OAI.RationalHitting.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:14.964988+00:00
 -- url     : https://prove2.me/theorems/57f21b19-c392-4b9c-9966-923816483101

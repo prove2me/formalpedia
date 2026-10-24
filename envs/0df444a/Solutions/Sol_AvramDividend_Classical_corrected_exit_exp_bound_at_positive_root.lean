@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.corrected_exit_exp_bound_at_positive_root
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T23:02:52.774353+00:00
 -- url     : https://prove2.me/submissions/b286da33-e8ed-4498-9458-4018d3bc2c24
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
 import Definitions.Def_AvramDividend_Classical_TwoSidedExitCorrected

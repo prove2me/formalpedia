@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropVolSampling_Reduction_inequality_5
 -- name    : PropVolSampling.Reduction.inequality_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:36.182157+00:00
 -- url     : https://prove2.me/theorems/c528f541-c656-4355-8b7e-a8a9523346a1

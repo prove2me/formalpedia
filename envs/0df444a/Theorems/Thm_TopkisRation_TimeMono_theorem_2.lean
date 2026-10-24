@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_TimeMono_theorem_2
 -- name    : TopkisRation.TimeMono.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:48:21.097233+00:00
 -- url     : https://prove2.me/theorems/5461c81c-6475-4ed6-a984-652bc5a764e9

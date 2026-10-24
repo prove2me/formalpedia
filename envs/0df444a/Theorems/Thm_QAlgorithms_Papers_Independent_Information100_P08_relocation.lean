@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P08_relocation
 -- name    : QAlgorithms.Papers.Independent.Information100.P08.relocation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:58:37.146561+00:00
 -- url     : https://prove2.me/theorems/c53e1326-f39e-451e-b345-0fb2e0257723

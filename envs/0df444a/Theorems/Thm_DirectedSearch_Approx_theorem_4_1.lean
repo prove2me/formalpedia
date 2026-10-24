@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedSearch_Approx_theorem_4_1
 -- name    : DirectedSearch.Approx.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:15.57935+00:00
 -- url     : https://prove2.me/theorems/49540df3-0d5f-4f64-8fd6-9600d96640c6

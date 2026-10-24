@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_CompStatics_firm_entry_and_worker_exit
 -- name    : KelsoCrawford.CompStatics.firm_entry_and_worker_exit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:20:45.391992+00:00
 -- url     : https://prove2.me/theorems/0cd7690e-73bf-4caf-b156-f4830df8ec03

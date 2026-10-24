@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P35_thermalCharacteristicRepresentative
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P35.thermalCharacteristicRepresentative
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:41:21.862055+00:00
 -- url     : https://prove2.me/theorems/c7c0191e-b052-461a-a1c0-6493b2f5d652

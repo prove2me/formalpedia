@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_bounded_maxLambdaFree_isPolytope
 -- name    : MaxLatticeFree.Geometry.bounded_maxLambdaFree_isPolytope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:14:35.258738+00:00
 -- url     : https://prove2.me/theorems/c0db5963-469f-4d8f-a00f-a33505efbb1c

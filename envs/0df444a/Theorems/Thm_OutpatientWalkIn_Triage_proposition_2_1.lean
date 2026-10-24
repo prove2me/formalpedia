@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_Triage_proposition_2_1
 -- name    : OutpatientWalkIn.Triage.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:06.025467+00:00
 -- url     : https://prove2.me/theorems/b1ed61eb-8069-4093-94b3-693a7efd3e70

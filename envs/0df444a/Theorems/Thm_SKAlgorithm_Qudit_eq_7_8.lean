@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_eq_7_8
 -- name    : SKAlgorithm.Qudit.eq_7_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:58.389381+00:00
 -- url     : https://prove2.me/theorems/2c30212d-b899-4ecb-9c44-aa88d98675c7

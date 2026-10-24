@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem315_switch_chain_main
 -- name    : OAI.Problem315.switch_chain_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:07.287864+00:00
 -- url     : https://prove2.me/theorems/e5ccb7aa-18d5-4d5f-b423-5971cccf2e46

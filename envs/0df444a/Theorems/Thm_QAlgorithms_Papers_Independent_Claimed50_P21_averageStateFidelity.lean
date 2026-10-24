@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P21_averageStateFidelity
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P21.averageStateFidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:07:37.754448+00:00
 -- url     : https://prove2.me/theorems/13803b40-d9d2-433d-b6a7-6caaec8f82be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAG_SmallStep_lyapunov_dominates
 -- name    : SAG.SmallStep.lyapunov_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:26:39.676475+00:00
 -- url     : https://prove2.me/theorems/0b81e1c2-7a6b-498f-8125-79c46f4b5af8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_ConvexHull_tightness_lifted_representation_v2
 -- name    : Disjunctive.ConvexHull.tightness_lifted_representation_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:07:40.792275+00:00
 -- url     : https://prove2.me/theorems/c14c7d9d-f7e9-482c-8bfd-a56fdbe67f31

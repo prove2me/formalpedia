@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_LaplaceTransform_laplace_order_apply_completely_monotone_deriv_v2
 -- name    : StochasticOrders.LaplaceTransform.laplace_order_apply_completely_monotone_deriv_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:23.451024+00:00
 -- url     : https://prove2.me/theorems/37bd5cd0-98f7-46fc-83a5-2f5700c7dcef

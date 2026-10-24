@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Binary_binary_hi_probability
 -- name    : SecretaryAdvice.Binary.binary_hi_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:46.594978+00:00
 -- url     : https://prove2.me/theorems/9741b769-51f9-4a66-859f-0187471b6fd1

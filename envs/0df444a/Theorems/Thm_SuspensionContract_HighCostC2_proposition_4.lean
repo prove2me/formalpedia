@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuspensionContract_HighCostC2_proposition_4
 -- name    : SuspensionContract.HighCostC2.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:31:28.537533+00:00
 -- url     : https://prove2.me/theorems/447c3bfd-ce70-452e-8b12-c08f830a2434

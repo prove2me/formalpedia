@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_causal_volterra_l1_continuous_solution_exists
 -- name    : AvramDividend.Classical.causal_volterra_l1_continuous_solution_exists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T16:12:43.895504+00:00
 -- url     : https://prove2.me/theorems/8252d9a0-b304-49c6-9081-3695da4a392e

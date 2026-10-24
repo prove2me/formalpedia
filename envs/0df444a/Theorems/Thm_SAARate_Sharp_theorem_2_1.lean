@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAARate_Sharp_theorem_2_1
 -- name    : SAARate.Sharp.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:05:53.471048+00:00
 -- url     : https://prove2.me/theorems/a957bb85-d18d-4b63-a75c-ddefa7ae706d

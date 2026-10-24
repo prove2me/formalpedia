@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_xStateRobustness
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.xStateRobustness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:55:25.827993+00:00
 -- url     : https://prove2.me/theorems/0b748919-ce3b-4ae7-9733-353947d8194d

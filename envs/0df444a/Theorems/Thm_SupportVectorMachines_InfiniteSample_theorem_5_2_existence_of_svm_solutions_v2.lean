@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_InfiniteSample_theorem_5_2_existence_of_svm_solutions_v2
 -- name    : SupportVectorMachines.InfiniteSample.theorem_5_2_existence_of_svm_solutions_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:43:19.553751+00:00
 -- url     : https://prove2.me/theorems/d9c06f0f-31e5-431e-bdab-6ae0caa63e74

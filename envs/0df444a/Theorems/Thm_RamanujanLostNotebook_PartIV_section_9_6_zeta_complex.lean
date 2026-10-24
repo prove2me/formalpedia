@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamanujanLostNotebook_PartIV_section_9_6_zeta_complex
 -- name    : RamanujanLostNotebook.PartIV.section_9_6_zeta_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Xiang Huang
 -- created : 2026-10-22T09:17:29.825027+00:00
 -- url     : https://prove2.me/theorems/ed154033-f889-42b8-a399-b9d7eda83e42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P24_pressureEquipartition
 -- name    : QAlgorithms.Papers.Independent.Renew46.P24.pressureEquipartition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:47:06.297977+00:00
 -- url     : https://prove2.me/theorems/cbaf72df-96de-422f-9a06-94ab203157d7

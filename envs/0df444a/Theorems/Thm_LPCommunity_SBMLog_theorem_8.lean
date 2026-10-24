@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_SBMLog_theorem_8
 -- name    : LPCommunity.SBMLog.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:38:21.492783+00:00
 -- url     : https://prove2.me/theorems/c03e12d5-c06a-44db-b967-b38ae8eb33fc

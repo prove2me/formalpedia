@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_zero_duality_gap
 -- name    : GVRPricing.FixedPrice.zero_duality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:03:43.885649+00:00
 -- url     : https://prove2.me/theorems/82f0adc1-ba3a-40a1-8e4c-40e1eae42494

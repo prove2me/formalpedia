@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Nonhomogeneous_minimal_solutions
 -- name    : MatrixAnalytic.Nonhomogeneous.minimal_solutions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:46.582912+00:00
 -- url     : https://prove2.me/theorems/ef406650-4880-460e-aec0-7d2b6471a46a

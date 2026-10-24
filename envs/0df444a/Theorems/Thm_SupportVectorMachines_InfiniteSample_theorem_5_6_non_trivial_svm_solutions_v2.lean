@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_InfiniteSample_theorem_5_6_non_trivial_svm_solutions_v2
 -- name    : SupportVectorMachines.InfiniteSample.theorem_5_6_non_trivial_svm_solutions_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:43:30.292551+00:00
 -- url     : https://prove2.me/theorems/021abe8c-96c5-4428-94d5-91951a45b704

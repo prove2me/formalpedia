@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KVVMatching_UpperBound_lemma_13
 -- name    : KVVMatching.UpperBound.lemma_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:13:55.282695+00:00
 -- url     : https://prove2.me/theorems/c5c25f5d-8c3a-4b4b-a80d-a9120c3b39e7

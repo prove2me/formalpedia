@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P38_contractiveOperator_equivalences
 -- name    : QAlgorithms.Papers.Independent.Renew46.P38.contractiveOperator_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:07:27.087602+00:00
 -- url     : https://prove2.me/theorems/9349d3e2-d7a5-4557-9965-3e4fca477351

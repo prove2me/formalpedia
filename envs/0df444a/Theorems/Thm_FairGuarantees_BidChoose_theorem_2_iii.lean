@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_BidChoose_theorem_2_iii
 -- name    : FairGuarantees.BidChoose.theorem_2_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:55.412111+00:00
 -- url     : https://prove2.me/theorems/e30c5068-980c-468d-a776-c37ff3d53efb

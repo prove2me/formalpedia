@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_BarnumKnill02_pgm_success_ge_one_sub_sum_bures
 -- name    : QAlgorithms.Papers.BarnumKnill02.pgm_success_ge_one_sub_sum_bures
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T18:50:29.576843+00:00
 -- url     : https://prove2.me/theorems/ce52a081-deb1-46cd-aca4-6b689928aa3c

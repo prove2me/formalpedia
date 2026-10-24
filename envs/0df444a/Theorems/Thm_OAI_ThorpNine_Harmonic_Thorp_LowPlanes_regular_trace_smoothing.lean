@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThorpNine_Harmonic_Thorp_LowPlanes_regular_trace_smoothing
 -- name    : OAI.ThorpNine.Harmonic.Thorp.LowPlanes.regular_trace_smoothing
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:30.11875+00:00
 -- url     : https://prove2.me/theorems/a1b4c7a3-a337-4e90-b266-33f3d3f177f4

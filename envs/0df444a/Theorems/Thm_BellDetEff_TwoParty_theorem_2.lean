@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellDetEff_TwoParty_theorem_2
 -- name    : BellDetEff.TwoParty.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:20:46.747748+00:00
 -- url     : https://prove2.me/theorems/6ef5c068-aec3-458d-b5f8-0370dabea009

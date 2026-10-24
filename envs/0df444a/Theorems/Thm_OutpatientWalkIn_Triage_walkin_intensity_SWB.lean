@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_Triage_walkin_intensity_SWB
 -- name    : OutpatientWalkIn.Triage.walkin_intensity_SWB
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:16.75501+00:00
 -- url     : https://prove2.me/theorems/2c40b133-3b16-4a9f-9105-49b8962e7524

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPrecSched_Makespan_lp_lower_bound
 -- name    : UniformPrecSched.Makespan.lp_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:31:10.766719+00:00
 -- url     : https://prove2.me/theorems/ee159a52-7f14-42c8-b81c-d3dff03ef4d2

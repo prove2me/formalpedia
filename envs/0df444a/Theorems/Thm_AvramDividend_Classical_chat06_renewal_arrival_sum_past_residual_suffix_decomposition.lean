@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_renewal_arrival_sum_past_residual_suffix_decomposition
 -- name    : AvramDividend.Classical.chat06_renewal_arrival_sum_past_residual_suffix_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T08:20:50.153176+00:00
 -- url     : https://prove2.me/theorems/f1031340-88a4-453a-ba0b-e41fade07b90

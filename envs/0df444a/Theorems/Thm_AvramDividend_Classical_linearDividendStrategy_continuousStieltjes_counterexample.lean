@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_linearDividendStrategy_continuousStieltjes_counterexample
 -- name    : AvramDividend.Classical.linearDividendStrategy_continuousStieltjes_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T22:31:09.022887+00:00
 -- url     : https://prove2.me/theorems/f7399cdb-f3e4-436a-8c65-dc872e301f9b

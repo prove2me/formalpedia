@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_SmoothProperCurve_exists_smooth_finite_surjective_cover_of_integral_finite_cover
 -- name    : AlgebraicGeometry.SmoothProperCurve.exists_smooth_finite_surjective_cover_of_integral_finite_cover
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-22T17:49:54.654008+00:00
 -- url     : https://prove2.me/theorems/a533e230-5d90-49c3-8567-b612221098da

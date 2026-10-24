@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenNewtonSubgrad_ProxReg_lemma_6_3_ii
 -- name    : GenNewtonSubgrad.ProxReg.lemma_6_3_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:36:06.014982+00:00
 -- url     : https://prove2.me/theorems/3e3a54d8-f5bf-4eb9-90bd-de3752f67209

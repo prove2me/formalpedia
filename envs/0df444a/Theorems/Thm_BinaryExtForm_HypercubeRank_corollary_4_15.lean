@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinaryExtForm_HypercubeRank_corollary_4_15
 -- name    : BinaryExtForm.HypercubeRank.corollary_4_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T07:14:38.905192+00:00
 -- url     : https://prove2.me/theorems/363868e9-8f31-41c2-9b82-9f0b83033d3f

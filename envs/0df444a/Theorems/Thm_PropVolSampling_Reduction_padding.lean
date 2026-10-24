@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropVolSampling_Reduction_padding
 -- name    : PropVolSampling.Reduction.padding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:38.854925+00:00
 -- url     : https://prove2.me/theorems/0f096bf0-f3b1-4828-abdb-9fbc61149d67

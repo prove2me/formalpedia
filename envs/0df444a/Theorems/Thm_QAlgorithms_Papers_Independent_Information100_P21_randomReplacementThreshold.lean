@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_randomReplacementThreshold
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.randomReplacementThreshold
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:04:18.727419+00:00
 -- url     : https://prove2.me/theorems/263ba0a2-5fdb-4a96-9b37-129934da7886

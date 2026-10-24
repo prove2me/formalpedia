@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_fullSeparabilityWeakDuality
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.fullSeparabilityWeakDuality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:14:36.802281+00:00
 -- url     : https://prove2.me/theorems/4e1cadf8-d99c-4bed-9d78-880a4ba40698

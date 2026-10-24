@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_maximally_entangled_ancilla
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.maximally_entangled_ancilla
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:26:54.461605+00:00
 -- url     : https://prove2.me/theorems/ea8a398c-e8eb-43fd-9c1f-48e1235c7d72

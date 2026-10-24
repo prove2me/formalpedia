@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoundRobinEq_SubmodularEF1_closing_bound
 -- name    : RoundRobinEq.SubmodularEF1.closing_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:18:38.738381+00:00
 -- url     : https://prove2.me/theorems/85da52d2-2566-4102-9c49-1c050f8dadb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_paymentTimes_eq_iUnion_rational_strict_prefix
 -- name    : AvramDividend.Classical.paymentTimes_eq_iUnion_rational_strict_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T14:06:43.046568+00:00
 -- url     : https://prove2.me/theorems/f7c3045b-3219-408b-8c64-433abff06934

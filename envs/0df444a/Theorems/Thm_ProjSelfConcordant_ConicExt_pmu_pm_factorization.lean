@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_pmu_pm_factorization
 -- name    : ProjSelfConcordant.ConicExt.pmu_pm_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:16.367711+00:00
 -- url     : https://prove2.me/theorems/f6893e49-3660-4642-aeb1-0377a686d002

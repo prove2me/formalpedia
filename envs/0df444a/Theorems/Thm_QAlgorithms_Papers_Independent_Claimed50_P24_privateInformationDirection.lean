@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_privateInformationDirection
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.privateInformationDirection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:36:29.456718+00:00
 -- url     : https://prove2.me/theorems/aa9402ae-1bbd-4ba5-86fa-4f55921b295d

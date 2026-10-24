@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_row_card_factorization
 -- name    : OAI.PiExponent.DeterminantContradiction.row_card_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:15:48.359256+00:00
 -- url     : https://prove2.me/theorems/30056b0e-85e6-4d93-8e62-82c90be33c6d

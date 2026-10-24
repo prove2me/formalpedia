@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_QuinticLienard_main
 -- name    : OAI.QuinticLienard.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:13.659989+00:00
 -- url     : https://prove2.me/theorems/7426635e-8da0-4209-ac55-4307229b32ea

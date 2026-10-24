@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_preprocessing_symmetries
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.preprocessing_symmetries
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:33:17.54999+00:00
 -- url     : https://prove2.me/theorems/e139c506-8fa6-4ec9-9741-1780ba04f428

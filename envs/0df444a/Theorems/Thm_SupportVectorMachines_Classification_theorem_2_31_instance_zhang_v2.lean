@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Classification_theorem_2_31_instance_zhang_v2
 -- name    : SupportVectorMachines.Classification.theorem_2_31_instance_zhang_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:43:14.025061+00:00
 -- url     : https://prove2.me/theorems/015abad0-9827-43b7-afd3-b19eadf46a1f

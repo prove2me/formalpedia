@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_MaxWeight_weighted_drift_bounds
 -- name    : KellyStochasticNetworks.MaxWeight.weighted_drift_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:47.481632+00:00
 -- url     : https://prove2.me/theorems/01e07153-c8ac-4251-aff2-5cd8270417fc

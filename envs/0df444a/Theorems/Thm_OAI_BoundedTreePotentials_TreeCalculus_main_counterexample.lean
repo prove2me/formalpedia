@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BoundedTreePotentials_TreeCalculus_main_counterexample
 -- name    : OAI.BoundedTreePotentials.TreeCalculus.main_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:24.153915+00:00
 -- url     : https://prove2.me/theorems/bc804a01-b715-46a1-84a1-f2ed49a16a7a

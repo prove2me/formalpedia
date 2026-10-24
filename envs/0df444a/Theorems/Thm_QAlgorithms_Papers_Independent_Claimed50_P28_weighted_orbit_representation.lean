@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_weighted_orbit_representation
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.weighted_orbit_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:29:30.244913+00:00
 -- url     : https://prove2.me/theorems/0d3e2b5d-6d90-4b6a-8206-19d40dc98357

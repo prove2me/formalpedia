@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlinePrimalDual_GroupSteiner_lemma11_1_v2
 -- name    : OnlinePrimalDual.GroupSteiner.lemma11_1_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:41:48.043958+00:00
 -- url     : https://prove2.me/theorems/5167485f-32a9-4203-b40f-0a9b6f2e5143

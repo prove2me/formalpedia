@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_IntroDuality_intersection_cut_v2
 -- name    : Disjunctive.IntroDuality.intersection_cut_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:06.161355+00:00
 -- url     : https://prove2.me/theorems/10482d1c-e26d-4cc6-9f07-884006d56688

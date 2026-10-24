@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_recovery_product_inputs
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.recovery_product_inputs
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:35:29.231665+00:00
 -- url     : https://prove2.me/theorems/2939cb63-20f1-4efe-83bd-117e12798c03

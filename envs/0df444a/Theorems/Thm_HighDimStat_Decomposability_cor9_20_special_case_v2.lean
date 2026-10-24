@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Decomposability_cor9_20_special_case_v2
 -- name    : HighDimStat.Decomposability.cor9_20_special_case_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:19:51.082839+00:00
 -- url     : https://prove2.me/theorems/3d7104a1-a57b-4221-b0b4-0535e4c2942b

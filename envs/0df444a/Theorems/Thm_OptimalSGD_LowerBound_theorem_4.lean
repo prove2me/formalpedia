@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalSGD_LowerBound_theorem_4
 -- name    : OptimalSGD.LowerBound.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:24:17.330257+00:00
 -- url     : https://prove2.me/theorems/02d4528a-2794-4774-9013-aff81cf73604

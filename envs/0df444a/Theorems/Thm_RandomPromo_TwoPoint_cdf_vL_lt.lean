@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomPromo_TwoPoint_cdf_vL_lt
 -- name    : RandomPromo.TwoPoint.cdf_vL_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:35.787029+00:00
 -- url     : https://prove2.me/theorems/529e2cfa-bc24-4139-b0ce-13841f68dc4b

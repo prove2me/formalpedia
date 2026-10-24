@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurelyBetter_CLB_theorem2_violation
 -- name    : SurelyBetter.CLB.theorem2_violation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:13.238493+00:00
 -- url     : https://prove2.me/theorems/3c3b66b1-6c74-4c10-bd56-4d9542800f2e

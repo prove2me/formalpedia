@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Upper_ultimate_batching_optimal
 -- name    : ConstRegretMatch.Upper.ultimate_batching_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:57.85574+00:00
 -- url     : https://prove2.me/theorems/0d4408ea-c9eb-41fa-9475-f2e93c35804f

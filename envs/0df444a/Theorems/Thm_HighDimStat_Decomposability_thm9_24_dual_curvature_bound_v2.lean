@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Decomposability_thm9_24_dual_curvature_bound_v2
 -- name    : HighDimStat.Decomposability.thm9_24_dual_curvature_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:00.086965+00:00
 -- url     : https://prove2.me/theorems/0cd00617-e08a-4cb0-83a6-34a0e34eb2de

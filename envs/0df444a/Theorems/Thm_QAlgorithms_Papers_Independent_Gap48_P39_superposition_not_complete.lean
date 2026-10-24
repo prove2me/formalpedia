@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P39_superposition_not_complete
 -- name    : QAlgorithms.Papers.Independent.Gap48.P39.superposition_not_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:24:52.911206+00:00
 -- url     : https://prove2.me/theorems/5241eb94-9906-4ade-9eff-b60e0eca8da7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_SmallCap_theorem_2_1
 -- name    : OutpatientWalkIn.SmallCap.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:29.047161+00:00
 -- url     : https://prove2.me/theorems/fd7283cf-5924-4818-874d-fa48057a3d88

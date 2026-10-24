@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpaqueQueue_Equilibrium_theorem_1
 -- name    : OpaqueQueue.Equilibrium.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:16:28.540188+00:00
 -- url     : https://prove2.me/theorems/03bae388-0a9f-4022-aeb8-151cc1105ee9

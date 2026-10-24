@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanVarASD_AFSD_theorem_7
 -- name    : MeanVarASD.AFSD.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:20:40.400053+00:00
 -- url     : https://prove2.me/theorems/5bacab28-b5e0-43d0-a742-bbf69a7bc541

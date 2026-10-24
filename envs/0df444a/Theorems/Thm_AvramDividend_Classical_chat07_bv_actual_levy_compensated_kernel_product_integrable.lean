@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat07_bv_actual_levy_compensated_kernel_product_integrable
 -- name    : AvramDividend.Classical.chat07_bv_actual_levy_compensated_kernel_product_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T08:22:42.018169+00:00
 -- url     : https://prove2.me/theorems/80d81e4f-3691-4234-a406-68ff4ec130e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_cfm_angle_ge
 -- name    : ShorNonsmooth.Fejer.cfm_angle_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:31:43.121305+00:00
 -- url     : https://prove2.me/theorems/96b001a3-e4e9-4080-b262-b53363361161

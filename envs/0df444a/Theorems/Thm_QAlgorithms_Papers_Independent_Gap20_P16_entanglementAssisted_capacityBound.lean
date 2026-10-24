@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P16_entanglementAssisted_capacityBound
 -- name    : QAlgorithms.Papers.Independent.Gap20.P16.entanglementAssisted_capacityBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:39:24.517382+00:00
 -- url     : https://prove2.me/theorems/e2c6c476-933e-419f-a092-c57d99866080

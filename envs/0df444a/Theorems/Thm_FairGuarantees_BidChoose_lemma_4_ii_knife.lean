@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_BidChoose_lemma_4_ii_knife
 -- name    : FairGuarantees.BidChoose.lemma_4_ii_knife
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:55.211964+00:00
 -- url     : https://prove2.me/theorems/803b013b-7ed9-4fb9-a147-782adc6c1e2e

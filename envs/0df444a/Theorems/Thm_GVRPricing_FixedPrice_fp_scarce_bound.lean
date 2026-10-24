@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_fp_scarce_bound
 -- name    : GVRPricing.FixedPrice.fp_scarce_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:00:18.090914+00:00
 -- url     : https://prove2.me/theorems/986c1b7f-571e-4438-a72f-4eceea9da0f7

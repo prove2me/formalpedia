@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_unit_exponential_full_count_history_independent_future_suffix
 -- name    : AvramDividend.Classical.chat06_unit_exponential_full_count_history_independent_future_suffix
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T08:15:03.877998+00:00
 -- url     : https://prove2.me/theorems/c6d99d68-b70a-4d7b-82a6-305ba86d37ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegNetQueue_Meets_theorem_3
 -- name    : NegNetQueue.Meets.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:18:23.350027+00:00
 -- url     : https://prove2.me/theorems/59c81033-f872-4c18-a289-f75176725f8d

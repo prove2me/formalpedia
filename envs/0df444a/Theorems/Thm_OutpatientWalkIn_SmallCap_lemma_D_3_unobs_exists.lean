@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_SmallCap_lemma_D_3_unobs_exists
 -- name    : OutpatientWalkIn.SmallCap.lemma_D_3_unobs_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:31.687734+00:00
 -- url     : https://prove2.me/theorems/f5940c92-34cf-4627-ac9b-f82fddfc9171

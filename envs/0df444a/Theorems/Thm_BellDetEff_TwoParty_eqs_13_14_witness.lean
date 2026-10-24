@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellDetEff_TwoParty_eqs_13_14_witness
 -- name    : BellDetEff.TwoParty.eqs_13_14_witness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:08.459997+00:00
 -- url     : https://prove2.me/theorems/763da0a0-0a3b-407a-b1d7-e8ed4e2bfb26

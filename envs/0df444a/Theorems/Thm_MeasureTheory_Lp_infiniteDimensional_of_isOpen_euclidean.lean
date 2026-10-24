@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_Lp_infiniteDimensional_of_isOpen_euclidean
 -- name    : MeasureTheory.Lp.infiniteDimensional_of_isOpen_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T21:45:32.536012+00:00
 -- url     : https://prove2.me/theorems/4297e5d9-bf6f-475e-ae87-7841022fd035

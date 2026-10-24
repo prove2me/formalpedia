@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_Center_proximity_measures_equivalent
 -- name    : YeIPA.Center.proximity_measures_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:57:00.922976+00:00
 -- url     : https://prove2.me/theorems/0a42e062-a398-441a-98fb-191201547760

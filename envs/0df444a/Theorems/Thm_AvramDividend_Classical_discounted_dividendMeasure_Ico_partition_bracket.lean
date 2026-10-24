@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_discounted_dividendMeasure_Ico_partition_bracket
 -- name    : AvramDividend.Classical.discounted_dividendMeasure_Ico_partition_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T08:25:51.047014+00:00
 -- url     : https://prove2.me/theorems/9d5942b7-2dba-4812-8b28-f7b1b45f9dad

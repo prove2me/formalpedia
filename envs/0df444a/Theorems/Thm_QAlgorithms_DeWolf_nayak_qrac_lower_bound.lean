@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_DeWolf_nayak_qrac_lower_bound
 -- name    : QAlgorithms.DeWolf.nayak_qrac_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-13T17:42:55.002839+00:00
 -- url     : https://prove2.me/theorems/3a679e8a-c9ed-4242-8659-a76acd1a47ab

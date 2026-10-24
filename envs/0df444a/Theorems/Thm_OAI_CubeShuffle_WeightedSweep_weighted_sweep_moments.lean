@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CubeShuffle_WeightedSweep_weighted_sweep_moments
 -- name    : OAI.CubeShuffle.WeightedSweep.weighted_sweep_moments
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:31.364862+00:00
 -- url     : https://prove2.me/theorems/190fc0cb-c344-417a-885e-a38d4ea29f86

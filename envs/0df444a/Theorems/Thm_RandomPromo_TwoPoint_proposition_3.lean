@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomPromo_TwoPoint_proposition_3
 -- name    : RandomPromo.TwoPoint.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:38.211983+00:00
 -- url     : https://prove2.me/theorems/5e936483-bf85-49ad-b9cc-a91ca767b051

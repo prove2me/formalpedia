@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPrecSched_Makespan_speed_rounding
 -- name    : UniformPrecSched.Makespan.speed_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:32:48.411184+00:00
 -- url     : https://prove2.me/theorems/36676b91-2148-4b9d-9a05-52a464bfb155

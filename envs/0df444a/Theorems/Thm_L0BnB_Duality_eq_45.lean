@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Duality_eq_45
 -- name    : L0BnB.Duality.eq_45
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:11.236135+00:00
 -- url     : https://prove2.me/theorems/ff42b17c-50a9-4b80-8c2c-1131ce1cd939

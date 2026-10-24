@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellDetEff_TwoParty_cases_1_3_deterministic
 -- name    : BellDetEff.TwoParty.cases_1_3_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:14.030754+00:00
 -- url     : https://prove2.me/theorems/4812d44f-7899-43ad-af07-7d2ed6b2e413

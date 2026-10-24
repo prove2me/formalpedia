@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_Parallel_lemma_7
 -- name    : HiringLP.Parallel.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:07.181166+00:00
 -- url     : https://prove2.me/theorems/46c360ac-5209-4c98-bb6e-14b73a45c2b5

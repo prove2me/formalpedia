@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_SmallCap_thm2_proof_rate_bounds
 -- name    : OutpatientWalkIn.SmallCap.thm2_proof_rate_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:34.967244+00:00
 -- url     : https://prove2.me/theorems/ea26ea28-17bc-450e-b3f4-50253742d2d7

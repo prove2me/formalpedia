@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_DivideChoose_divider_step
 -- name    : FairGuarantees.DivideChoose.divider_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:35.238047+00:00
 -- url     : https://prove2.me/theorems/66a7ad3c-0419-4d63-b22a-b76332000e37

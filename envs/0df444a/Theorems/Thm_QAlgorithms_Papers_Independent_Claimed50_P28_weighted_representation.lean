@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_weighted_representation
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.weighted_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:23:44.036484+00:00
 -- url     : https://prove2.me/theorems/8db0ef26-1490-4633-aa44-08ba522942f8

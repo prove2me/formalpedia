@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_Structured_igw_minimizes_dec_v2
 -- name    : FoundationsRL.Structured.igw_minimizes_dec_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:19:36.330242+00:00
 -- url     : https://prove2.me/theorems/f4ddd196-7732-4f87-880c-c315462046c9

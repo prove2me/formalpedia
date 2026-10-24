@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceSimulator_fact_3_eventually_incompatible
 -- name    : ObfImpossibility.RiceSimulator.fact_3_eventually_incompatible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:20.337025+00:00
 -- url     : https://prove2.me/theorems/8b254359-62e6-4f9f-bbea-cae9f8b32a54

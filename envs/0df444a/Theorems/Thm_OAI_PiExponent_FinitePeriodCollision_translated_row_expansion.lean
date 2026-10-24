@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FinitePeriodCollision_translated_row_expansion
 -- name    : OAI.PiExponent.FinitePeriodCollision.translated_row_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T08:13:19.505706+00:00
 -- url     : https://prove2.me/theorems/44fed52f-b89d-47c0-8ec4-1e2b9bf19150

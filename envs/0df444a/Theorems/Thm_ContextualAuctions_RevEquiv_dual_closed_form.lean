@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContextualAuctions_RevEquiv_dual_closed_form
 -- name    : ContextualAuctions.RevEquiv.dual_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:28:45.079904+00:00
 -- url     : https://prove2.me/theorems/efb94559-3123-4a67-bea7-8c33d7a9469b

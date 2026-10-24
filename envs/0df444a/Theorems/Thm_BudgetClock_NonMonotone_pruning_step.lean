@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_NonMonotone_pruning_step
 -- name    : BudgetClock.NonMonotone.pruning_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:29.364243+00:00
 -- url     : https://prove2.me/theorems/b44d4bf8-e6df-4519-8d4d-2bab862003c2

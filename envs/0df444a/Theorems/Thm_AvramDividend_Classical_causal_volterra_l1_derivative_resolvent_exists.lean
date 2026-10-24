@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_causal_volterra_l1_derivative_resolvent_exists
 -- name    : AvramDividend.Classical.causal_volterra_l1_derivative_resolvent_exists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T16:18:40.681994+00:00
 -- url     : https://prove2.me/theorems/eefd3a37-59b0-47bf-ad9e-5b1500e457b0

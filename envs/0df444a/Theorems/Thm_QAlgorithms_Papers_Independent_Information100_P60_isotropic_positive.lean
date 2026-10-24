@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_isotropic_positive
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.isotropic_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:46:15.716878+00:00
 -- url     : https://prove2.me/theorems/6a7e9462-4ed5-48fc-8c0d-24a0b5d98934

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_FiberDual_proposition_2_5
 -- name    : CondPortOT.FiberDual.proposition_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:58.595304+00:00
 -- url     : https://prove2.me/theorems/5945d2d0-379f-4444-bb2f-57bd693f8029

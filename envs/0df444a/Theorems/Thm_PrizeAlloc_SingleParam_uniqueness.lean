@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_SingleParam_uniqueness
 -- name    : PrizeAlloc.SingleParam.uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:17.643006+00:00
 -- url     : https://prove2.me/theorems/e88e7ad6-255e-4409-95ba-881dd8b74960

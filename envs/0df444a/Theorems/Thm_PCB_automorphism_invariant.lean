@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PCB_automorphism_invariant
 -- name    : PCB.automorphism_invariant
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-10-22T20:15:57.977989+00:00
 -- url     : https://prove2.me/theorems/7aefa415-2199-4f13-a3d2-6c3b03116381

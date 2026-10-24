@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WLTime_unconditional_time_lower_bound
 -- name    : OAI.WLTime.unconditional_time_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:38.249603+00:00
 -- url     : https://prove2.me/theorems/480c4346-cb15-48cb-8208-b62e388748ee

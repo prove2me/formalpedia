@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThresholdTheorem_tvDist_decodeDist_le
 -- name    : ThresholdTheorem.tvDist_decodeDist_le
--- status  : Open
+-- status  : Proved
 -- author  : @Imine
 -- created : 2026-10-21T12:54:54.910273+00:00
 -- url     : https://prove2.me/theorems/be9089ee-66bc-406e-921a-98c746feb428

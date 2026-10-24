@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_levy_positive_root_unrestricted_upcrossing_discount_bound
 -- name    : AvramDividend.Classical.levy_positive_root_unrestricted_upcrossing_discount_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T23:02:00.465986+00:00
 -- url     : https://prove2.me/theorems/eb6bd8bb-0632-4518-bc3e-590a6d258e8b

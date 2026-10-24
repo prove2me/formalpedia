@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_prop3_subgradient
 -- name    : SmartPTO.Fisher.prop3_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:16.780548+00:00
 -- url     : https://prove2.me/theorems/241d44ea-2526-4eca-a2f2-a1bdb624091b

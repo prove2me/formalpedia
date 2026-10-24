@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_matroidal_iff_argmax_v2
 -- name    : SteinitzExchange.LocalSupermod.matroidal_iff_argmax_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:06.804244+00:00
 -- url     : https://prove2.me/theorems/1ab934fb-4485-46aa-b9c0-69a11b286ac2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Relaxations_nesterov_theorem
 -- name    : ModernConvex.Relaxations.nesterov_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:02.874996+00:00
 -- url     : https://prove2.me/theorems/cbafd501-6481-4089-a37c-01a607f0eb25

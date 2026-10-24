@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.WeakMTWGlobalSupport.WeakMTW.activeProjection_critical_bijective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:09:32.499608+00:00
 -- url     : https://prove2.me/submissions/9acce443-8ea6-4ff2-9918-f67fa6102452
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WeakMTWGlobalSupport

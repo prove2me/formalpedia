@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpRiskInspection_RandomVsPeriodic_random_regimes
 -- name    : OpRiskInspection.RandomVsPeriodic.random_regimes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:32.233609+00:00
 -- url     : https://prove2.me/theorems/af9a4a73-3ddc-4e0f-b2ee-5bee5c61eb34

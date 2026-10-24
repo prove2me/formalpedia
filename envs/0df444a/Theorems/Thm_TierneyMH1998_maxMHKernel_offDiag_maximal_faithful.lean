@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH1998_maxMHKernel_offDiag_maximal_faithful
 -- name    : TierneyMH1998.maxMHKernel_offDiag_maximal_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T00:59:51.412832+00:00
 -- url     : https://prove2.me/theorems/d97e6016-7618-4212-8140-19c626ef0284

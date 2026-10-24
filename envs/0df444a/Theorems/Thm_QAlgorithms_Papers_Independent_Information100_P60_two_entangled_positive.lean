@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_two_entangled_positive
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.two_entangled_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:44:04.51286+00:00
 -- url     : https://prove2.me/theorems/97255e9b-d8fb-4562-8991-9da2a0f4cdc1

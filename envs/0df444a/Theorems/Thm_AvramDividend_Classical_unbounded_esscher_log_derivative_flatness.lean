@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_unbounded_esscher_log_derivative_flatness
 -- name    : AvramDividend.Classical.unbounded_esscher_log_derivative_flatness
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T21:50:29.429384+00:00
 -- url     : https://prove2.me/theorems/3d2b9177-643d-46c1-8fb5-24f7f454d996

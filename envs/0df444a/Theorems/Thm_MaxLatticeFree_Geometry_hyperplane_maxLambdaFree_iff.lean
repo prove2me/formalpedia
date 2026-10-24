@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_hyperplane_maxLambdaFree_iff
 -- name    : MaxLatticeFree.Geometry.hyperplane_maxLambdaFree_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:18:16.482883+00:00
 -- url     : https://prove2.me/theorems/2330f952-f036-451c-b965-bb60afabd172

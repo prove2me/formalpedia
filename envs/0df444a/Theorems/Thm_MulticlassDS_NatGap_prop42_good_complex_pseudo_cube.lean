@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_NatGap_prop42_good_complex_pseudo_cube
 -- name    : MulticlassDS.NatGap.prop42_good_complex_pseudo_cube
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:48:56.027282+00:00
 -- url     : https://prove2.me/theorems/a53d6d44-7b75-4eec-b597-b6e2b26da486

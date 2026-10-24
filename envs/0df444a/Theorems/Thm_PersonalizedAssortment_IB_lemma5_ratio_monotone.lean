@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_lemma5_ratio_monotone
 -- name    : PersonalizedAssortment.IB.lemma5_ratio_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:44:57.236693+00:00
 -- url     : https://prove2.me/theorems/132d2fe2-0bb7-4a2f-8b77-8bdfc2c13730

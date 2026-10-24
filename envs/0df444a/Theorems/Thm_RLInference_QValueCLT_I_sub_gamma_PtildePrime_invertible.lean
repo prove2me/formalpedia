@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RLInference_QValueCLT_I_sub_gamma_PtildePrime_invertible
 -- name    : RLInference.QValueCLT.I_sub_gamma_PtildePrime_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:13:09.031165+00:00
 -- url     : https://prove2.me/theorems/b0ff636e-3177-4a3c-80ca-6a52057ac527

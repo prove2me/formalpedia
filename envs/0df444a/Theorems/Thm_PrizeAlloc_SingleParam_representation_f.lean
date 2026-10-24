@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_SingleParam_representation_f
 -- name    : PrizeAlloc.SingleParam.representation_f
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:21.946201+00:00
 -- url     : https://prove2.me/theorems/b557ff22-4c17-48d6-bb3d-dd55d269f7d0

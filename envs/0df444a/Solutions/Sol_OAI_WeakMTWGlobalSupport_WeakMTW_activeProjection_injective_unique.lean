@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.WeakMTWGlobalSupport.WeakMTW.activeProjection_injective_unique
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:09:33.528178+00:00
 -- url     : https://prove2.me/submissions/6cf30cc9-7799-4409-aab2-b55c1adb35be
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WeakMTWGlobalSupport

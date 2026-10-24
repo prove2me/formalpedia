@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_augmentations_per_phase
 -- name    : IwataFF.SFM.augmentations_per_phase
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:41:26.669968+00:00
 -- url     : https://prove2.me/theorems/b82a4313-632f-4ecc-9db5-ce5d4a79cd90

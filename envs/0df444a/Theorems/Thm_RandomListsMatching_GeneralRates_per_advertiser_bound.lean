@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomListsMatching_GeneralRates_per_advertiser_bound
 -- name    : RandomListsMatching.GeneralRates.per_advertiser_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:08:57.05132+00:00
 -- url     : https://prove2.me/theorems/cd547f23-1392-4c60-8282-27ffcb5419d7

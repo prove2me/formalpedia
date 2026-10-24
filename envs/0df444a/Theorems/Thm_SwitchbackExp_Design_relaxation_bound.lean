@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchbackExp_Design_relaxation_bound
 -- name    : SwitchbackExp.Design.relaxation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:55.491717+00:00
 -- url     : https://prove2.me/theorems/94a11eb6-2e5a-4095-b55e-d2539668a768

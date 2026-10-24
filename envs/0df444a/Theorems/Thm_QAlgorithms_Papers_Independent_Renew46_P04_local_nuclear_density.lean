@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_local_nuclear_density
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.local_nuclear_density
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:08:43.928977+00:00
 -- url     : https://prove2.me/theorems/cc923256-cd43-416f-a8ee-d5ff4c278711

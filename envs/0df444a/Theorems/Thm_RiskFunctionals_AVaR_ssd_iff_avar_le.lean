@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_ssd_iff_avar_le
 -- name    : RiskFunctionals.AVaR.ssd_iff_avar_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:10.805885+00:00
 -- url     : https://prove2.me/theorems/dcec5648-8ba1-4398-b73c-f463d2d0cd16

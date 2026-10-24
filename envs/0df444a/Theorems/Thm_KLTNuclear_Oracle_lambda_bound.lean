@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KLTNuclear_Oracle_lambda_bound
 -- name    : KLTNuclear.Oracle.lambda_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:44.59452+00:00
 -- url     : https://prove2.me/theorems/a0b1c6ab-7354-486c-b391-ec70db5b1938

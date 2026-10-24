@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynReinsDiv_HJB_eq_A_13
 -- name    : DynReinsDiv.HJB.eq_A_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:32.94347+00:00
 -- url     : https://prove2.me/theorems/88898d38-4cf9-4185-81ec-dc0d17bee35f

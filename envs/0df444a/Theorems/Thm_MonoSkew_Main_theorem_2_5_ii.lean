@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoSkew_Main_theorem_2_5_ii
 -- name    : MonoSkew.Main.theorem_2_5_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:01.145149+00:00
 -- url     : https://prove2.me/theorems/8e930f13-4408-4d42-9c3d-24e80ca64486

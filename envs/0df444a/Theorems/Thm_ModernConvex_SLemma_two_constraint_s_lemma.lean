@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_two_constraint_s_lemma
 -- name    : ModernConvex.SLemma.two_constraint_s_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:04.807331+00:00
 -- url     : https://prove2.me/theorems/e6221a93-2fef-4165-a906-f112ff8ee298

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Upper_lemma_4_1
 -- name    : ConstRegretMatch.Upper.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:59.830979+00:00
 -- url     : https://prove2.me/theorems/0505cc4a-37a8-41a7-b68e-9fc1f41f4574

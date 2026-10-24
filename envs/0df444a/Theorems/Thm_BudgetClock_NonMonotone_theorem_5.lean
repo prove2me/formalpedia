@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_NonMonotone_theorem_5
 -- name    : BudgetClock.NonMonotone.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:25.70501+00:00
 -- url     : https://prove2.me/theorems/4c14c4ee-3c17-44b1-93b3-83b730c21240

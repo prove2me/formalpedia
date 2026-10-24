@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_coeff_vanish_of_finsupp_series_product
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_coeff_vanish_of_finsupp_series_product
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:59:44.583401+00:00
 -- url     : https://prove2.me/theorems/1dd71ff3-c24a-4bd1-95ba-d09d72e31334

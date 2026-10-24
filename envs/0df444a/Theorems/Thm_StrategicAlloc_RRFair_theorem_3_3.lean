@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicAlloc_RRFair_theorem_3_3
 -- name    : StrategicAlloc.RRFair.theorem_3_3
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-15T10:57:46.132568+00:00
 -- url     : https://prove2.me/theorems/ed5bf9b2-8497-4eb4-b283-ad9f25d7d4fa

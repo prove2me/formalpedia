@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_EffectiveBandwidth_cramer
 -- name    : KellyStochasticNetworks.EffectiveBandwidth.cramer
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:48:11.803214+00:00
 -- url     : https://prove2.me/theorems/7c13464f-2d95-4a4a-bc70-8d54373ec204

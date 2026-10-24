@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P24_entropyHierarchy
 -- name    : QAlgorithms.Papers.Independent.Renew46.P24.entropyHierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:43:32.59035+00:00
 -- url     : https://prove2.me/theorems/d2b25544-ebd0-4a4b-95d5-3062319b6766

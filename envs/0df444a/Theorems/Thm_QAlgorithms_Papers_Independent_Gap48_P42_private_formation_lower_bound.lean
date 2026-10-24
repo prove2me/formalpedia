@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P42_private_formation_lower_bound
 -- name    : QAlgorithms.Papers.Independent.Gap48.P42.private_formation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:37:35.935805+00:00
 -- url     : https://prove2.me/theorems/3cc1dc67-a2db-497c-aa5a-72729e2361f6

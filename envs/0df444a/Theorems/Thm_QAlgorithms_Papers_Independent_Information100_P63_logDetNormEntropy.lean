@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P63_logDetNormEntropy
 -- name    : QAlgorithms.Papers.Independent.Information100.P63.logDetNormEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:44:00.851567+00:00
 -- url     : https://prove2.me/theorems/df8fe4c9-4346-4dc2-8a54-0a7cbc219a94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_DynamicFlow_max_dynamic_value_increment
 -- name    : FlowsNetworks.DynamicFlow.max_dynamic_value_increment
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:54.168973+00:00
 -- url     : https://prove2.me/theorems/260dc80d-6cc0-41e8-98f8-a6fa0e5bd0e7

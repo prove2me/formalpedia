@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_lorentzFactor_eq_sqrt_momentum
 -- name    : EnergyMomentum.lorentzFactor_eq_sqrt_momentum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:11:16.846501+00:00
 -- url     : https://prove2.me/theorems/fa7b1cc7-11f5-43bf-98de-9cdf367407d2

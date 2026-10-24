@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_RSVCG_expost_ir
 -- name    : InterdepSOS.RSVCG.expost_ir
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:19.318299+00:00
 -- url     : https://prove2.me/theorems/80c79120-8b6e-4ae6-94f4-f885fa0634a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_prop5_converse
 -- name    : SmartPTO.Fisher.prop5_converse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:31.205293+00:00
 -- url     : https://prove2.me/theorems/568c449b-f14b-435b-a92b-5b587a842033

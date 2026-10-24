@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Giddings1999_normalizable_modes_classification
 -- name    : Giddings1999.normalizable_modes_classification
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T01:53:00.782679+00:00
 -- url     : https://prove2.me/theorems/1666de78-0e99-4872-a501-4d1410e32221

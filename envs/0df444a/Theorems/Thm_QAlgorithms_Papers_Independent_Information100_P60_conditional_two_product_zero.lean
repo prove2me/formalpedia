@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_conditional_two_product_zero
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.conditional_two_product_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:42:32.310996+00:00
 -- url     : https://prove2.me/theorems/826eaf21-f027-437f-b08b-9bdcbda75a78

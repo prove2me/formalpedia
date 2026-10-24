@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPComplexity_StationaryHorizon_theorem5_structure
 -- name    : MDPComplexity.StationaryHorizon.theorem5_structure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:45:23.855918+00:00
 -- url     : https://prove2.me/theorems/0d979eb9-eddd-41ae-87a5-73babf8b414d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Duality_weak_duality
 -- name    : L0BnB.Duality.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:02.906324+00:00
 -- url     : https://prove2.me/theorems/ac1c05db-1e7c-49de-a0c7-78044f4f47e8

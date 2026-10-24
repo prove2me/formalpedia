@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_odd_werner_infinite
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.odd_werner_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:46:46.927534+00:00
 -- url     : https://prove2.me/theorems/946c959b-d214-4092-8a5e-e9e798cb89e3

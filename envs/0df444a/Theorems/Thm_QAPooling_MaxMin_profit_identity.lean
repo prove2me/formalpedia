@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAPooling_MaxMin_profit_identity
 -- name    : QAPooling.MaxMin.profit_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:30.046021+00:00
 -- url     : https://prove2.me/theorems/da223a69-acc5-4786-8c26-bc533ad0d03e

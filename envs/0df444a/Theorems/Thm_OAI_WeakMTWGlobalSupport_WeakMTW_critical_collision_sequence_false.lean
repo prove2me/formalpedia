@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_critical_collision_sequence_false
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.critical_collision_sequence_false
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T02:59:06.92121+00:00
 -- url     : https://prove2.me/theorems/c08ccfed-83e1-4cb7-8d76-2ac9cffc2861

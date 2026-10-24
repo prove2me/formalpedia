@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_NonMonotone_budget_feasible
 -- name    : BudgetClock.NonMonotone.budget_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:16.441347+00:00
 -- url     : https://prove2.me/theorems/a254254c-ecc1-4d44-a729-9e4182e2af67

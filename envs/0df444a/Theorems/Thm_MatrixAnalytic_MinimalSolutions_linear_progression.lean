@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MinimalSolutions_linear_progression
 -- name    : MatrixAnalytic.MinimalSolutions.linear_progression
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:36.088453+00:00
 -- url     : https://prove2.me/theorems/fa3afc27-cdf4-40f5-bef3-3977e7265c32

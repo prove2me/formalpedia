@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomPromo_TwoPoint_lemma_5
 -- name    : RandomPromo.TwoPoint.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:34.394204+00:00
 -- url     : https://prove2.me/theorems/40f1a1e4-9f9b-458d-b3af-1a2b685746b7

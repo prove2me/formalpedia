@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Upper_eq_4_basis_inverse
 -- name    : ConstRegretMatch.Upper.eq_4_basis_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:46.504319+00:00
 -- url     : https://prove2.me/theorems/c125f656-c8ad-4eaf-8013-81c3a9fae33a

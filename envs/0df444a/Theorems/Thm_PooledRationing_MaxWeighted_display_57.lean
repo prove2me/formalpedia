@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledRationing_MaxWeighted_display_57
 -- name    : PooledRationing.MaxWeighted.display_57
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:35:38.537812+00:00
 -- url     : https://prove2.me/theorems/c4b3cd4a-37cf-4e69-baf4-3b01778c5a80

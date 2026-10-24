@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_lemma9_loo
 -- name    : StabGen.Hypothesis.lemma9_loo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:50:10.86128+00:00
 -- url     : https://prove2.me/theorems/f37e5f65-5e04-4528-83d6-dcfe43544780

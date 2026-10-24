@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P03_crenLowerBound
 -- name    : QAlgorithms.Papers.Independent.Information100.P03.crenLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:30:43.834991+00:00
 -- url     : https://prove2.me/theorems/4a4e62e7-a0aa-4ede-9ac5-9cf8becfe0af

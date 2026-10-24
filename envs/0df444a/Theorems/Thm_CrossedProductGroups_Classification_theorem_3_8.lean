@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrossedProductGroups_Classification_theorem_3_8
 -- name    : CrossedProductGroups.Classification.theorem_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T13:39:57.404736+00:00
 -- url     : https://prove2.me/theorems/dee78eeb-e515-4479-9e4a-5102723e7860

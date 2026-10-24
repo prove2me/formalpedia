@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_stinespring_existence_uniqueness
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.stinespring_existence_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:57:21.88736+00:00
 -- url     : https://prove2.me/theorems/4c482192-2991-4a34-969f-920a08dc4f14

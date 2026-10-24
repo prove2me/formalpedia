@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineMaxWeightMatch_Approx_lemma_4_4
 -- name    : OnlineMaxWeightMatch.Approx.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:51:51.519431+00:00
 -- url     : https://prove2.me/theorems/2e8ff938-5eab-4cb3-b78c-704414b25501

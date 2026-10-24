@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LaborWelfare_PoolSize_theorem_2
 -- name    : LaborWelfare.PoolSize.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:17:12.995915+00:00
 -- url     : https://prove2.me/theorems/079115a1-da1e-41ae-956b-abd306073b59

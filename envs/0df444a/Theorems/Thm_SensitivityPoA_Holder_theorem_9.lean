@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Holder_theorem_9
 -- name    : SensitivityPoA.Holder.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:32.622588+00:00
 -- url     : https://prove2.me/theorems/b83238dd-b509-49c8-a4ae-65fe2a2cd294

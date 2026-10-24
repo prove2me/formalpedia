@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_NatGap_prop46_coset_complex_good
 -- name    : MulticlassDS.NatGap.prop46_coset_complex_good
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:48:57.521992+00:00
 -- url     : https://prove2.me/theorems/4e56e49c-d8cd-4c6a-bead-e0477535f918

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalInexactNewton_Backtracking_theorem_3_3
 -- name    : GlobalInexactNewton.Backtracking.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:34:13.242915+00:00
 -- url     : https://prove2.me/theorems/4d15d9b0-5d6b-42ef-9a00-22f645705eb4

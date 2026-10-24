@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_lemma9_empirical
 -- name    : StabGen.Hypothesis.lemma9_empirical
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:49:57.985368+00:00
 -- url     : https://prove2.me/theorems/60b873c1-9827-42ba-b715-6b4fbc53b90f

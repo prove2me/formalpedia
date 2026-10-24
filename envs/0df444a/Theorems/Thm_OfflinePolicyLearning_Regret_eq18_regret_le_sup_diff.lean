@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflinePolicyLearning_Regret_eq18_regret_le_sup_diff
 -- name    : OfflinePolicyLearning.Regret.eq18_regret_le_sup_diff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:33:52.325974+00:00
 -- url     : https://prove2.me/theorems/3823ef36-0a3f-44ab-823d-1a93acb89116

@@ -60174,3 +60174,10 @@
 {"parent": "AbelianTargets.FixedSlots.BottomSpliceData.family_joint_lipschitz", "child": "AbelianTargets.FixedSlots.halfGlue_joint_lipschitz", "via": ["solution"]}
 {"parent": "AbelianTargets.FixedSlots.BottomSpliceData.family_joint_lipschitz", "child": "AbelianTargets.FixedSlots.correctedCarry_joint_lipschitz", "via": ["solution"]}
 {"parent": "AbelianTargets.Probability.exists_commonPoint_close_of_face_bound", "child": "AT260939824_SimplexMetricGluing", "via": ["solution"]}
+{"parent": "NoUniversalFSigma.no_universal_fsigma", "child": "NoUniversalFSigma261031052", "via": ["statement"]}
+{"parent": "NoUniversalFSigma.theorem1_1", "child": "NoUniversalFSigma261031052", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceMission.classical_positive", "child": "MeasureEquivalenceSequences", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceMission.lp_iff_le_two", "child": "MeasureEquivalenceSequences", "via": ["solution", "statement"]}
+{"parent": "NoUniversalFSigma.lemma2_4", "child": "NoUniversalFSigma261031052", "via": ["solution", "statement"]}
+{"parent": "MeasureEquivalenceMission.c0_not_reducible", "child": "MeasureEquivalenceSequences", "via": ["solution", "statement"]}
+{"parent": "NoUniversalFSigma.no_universal_fsigma", "child": "NoUniversalFSigma.theorem1_1", "via": ["solution"]}

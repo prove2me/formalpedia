@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_BidChoose_knife_equipartition
 -- name    : FairGuarantees.BidChoose.knife_equipartition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:50.410545+00:00
 -- url     : https://prove2.me/theorems/933b68f9-92f4-4248-b0dc-da3bb5d44807

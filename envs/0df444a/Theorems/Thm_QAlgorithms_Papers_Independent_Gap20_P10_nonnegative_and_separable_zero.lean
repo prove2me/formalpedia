@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P10_nonnegative_and_separable_zero
 -- name    : QAlgorithms.Papers.Independent.Gap20.P10.nonnegative_and_separable_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:26:31.198689+00:00
 -- url     : https://prove2.me/theorems/6a2b0a26-2bfa-4750-97f6-05bf4743fbef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_RegularDegree_subcritical_of_A19
 -- name    : StrictCompatLB.RegularDegree.subcritical_of_A19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:06:58.57696+00:00
 -- url     : https://prove2.me/theorems/2ce0e68d-2a25-40e5-915e-f13dbec0f4a7

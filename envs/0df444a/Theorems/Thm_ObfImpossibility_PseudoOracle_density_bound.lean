@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_density_bound
 -- name    : ObfImpossibility.PseudoOracle.density_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:16.848273+00:00
 -- url     : https://prove2.me/theorems/7c3536be-4e0d-4284-8078-084daae3b5e1

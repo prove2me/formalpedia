@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_excursion_ladder_tail_tonelli_formula
 -- name    : AvramDividend.Classical.excursion_ladder_tail_tonelli_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T08:09:31.815577+00:00
 -- url     : https://prove2.me/theorems/b271c37b-8452-4f28-9d45-a842c201640e

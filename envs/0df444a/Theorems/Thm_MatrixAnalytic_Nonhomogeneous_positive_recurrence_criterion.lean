@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Nonhomogeneous_positive_recurrence_criterion
 -- name    : MatrixAnalytic.Nonhomogeneous.positive_recurrence_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:54.751632+00:00
 -- url     : https://prove2.me/theorems/f236c111-a82b-40a4-a42c-cb2c96fbd738

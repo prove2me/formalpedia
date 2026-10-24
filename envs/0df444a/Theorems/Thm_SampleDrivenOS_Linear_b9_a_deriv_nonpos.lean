@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Linear_b9_a_deriv_nonpos
 -- name    : SampleDrivenOS.Linear.b9_a_deriv_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:31.168105+00:00
 -- url     : https://prove2.me/theorems/8397847b-9b6c-4254-8da6-6f5d9ce7a2f9

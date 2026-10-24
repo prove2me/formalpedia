@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_SBMRecovery_proposition_6
 -- name    : LPCommunity.SBMRecovery.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:05:22.020173+00:00
 -- url     : https://prove2.me/theorems/b4f1a35a-c3a7-41fe-9919-3783a79ab838

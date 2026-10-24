@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplexProj_Condat_projections_exist_unique
 -- name    : SimplexProj.Condat.projections_exist_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:10:25.838852+00:00
 -- url     : https://prove2.me/theorems/b84bc65c-98c1-4a7d-a174-7ffe00cedc59

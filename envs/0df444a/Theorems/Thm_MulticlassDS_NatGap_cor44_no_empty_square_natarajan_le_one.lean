@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_NatGap_cor44_no_empty_square_natarajan_le_one
 -- name    : MulticlassDS.NatGap.cor44_no_empty_square_natarajan_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:49:21.57521+00:00
 -- url     : https://prove2.me/theorems/70a546fc-6544-49dc-8811-f6812a9f7d19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Deterministic_revenue_hardSoft
 -- name    : ApproxIC.Deterministic.revenue_hardSoft
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:49.605978+00:00
 -- url     : https://prove2.me/theorems/f2a8aaf3-ae2e-48a8-ac05-9e74b24043c6

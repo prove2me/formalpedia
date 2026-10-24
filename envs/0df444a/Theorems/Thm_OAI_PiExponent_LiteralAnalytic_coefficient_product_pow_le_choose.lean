@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_coefficient_product_pow_le_choose
 -- name    : OAI.PiExponent.LiteralAnalytic.coefficient_product_pow_le_choose
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:55:25.87519+00:00
 -- url     : https://prove2.me/theorems/b7fe7024-ad63-43c7-9081-1997c583c08a

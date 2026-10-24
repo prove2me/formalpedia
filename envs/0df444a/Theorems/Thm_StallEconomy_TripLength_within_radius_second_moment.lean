@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_TripLength_within_radius_second_moment
 -- name    : StallEconomy.TripLength.within_radius_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:21.726646+00:00
 -- url     : https://prove2.me/theorems/e34c1e24-eefc-4091-b62b-eeeee31912cd

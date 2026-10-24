@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SplitTangent_integrability_main
 -- name    : OAI.SplitTangent.integrability_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:25.404145+00:00
 -- url     : https://prove2.me/theorems/4c9bc0e0-deff-4095-b2d1-c07d935c7598

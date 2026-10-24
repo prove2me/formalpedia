@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Boosting_adaboost_empirical_error_bound_v2
 -- name    : FoundationsML.Boosting.adaboost_empirical_error_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:17:44.524506+00:00
 -- url     : https://prove2.me/theorems/fbb0363b-70fb-4401-867e-a8e0672525ac

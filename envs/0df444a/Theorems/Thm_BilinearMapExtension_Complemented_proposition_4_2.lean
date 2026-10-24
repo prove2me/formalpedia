@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearMapExtension_Complemented_proposition_4_2
 -- name    : BilinearMapExtension.Complemented.proposition_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:49.546969+00:00
 -- url     : https://prove2.me/theorems/9eab6cb1-a131-4796-9be2-f739028978bc

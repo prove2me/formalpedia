@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplexProj_Condat_threshold_root_bracket
 -- name    : SimplexProj.Condat.threshold_root_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:23:07.72055+00:00
 -- url     : https://prove2.me/theorems/b9f25f0e-638c-4ec9-b204-158a6dd56191

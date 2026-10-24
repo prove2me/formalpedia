@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P06_recovery_uniform_on_support
 -- name    : QAlgorithms.Papers.Independent.Gap20.P06.recovery_uniform_on_support
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:18:52.210736+00:00
 -- url     : https://prove2.me/theorems/ddd40a11-24fe-4d39-9c42-a2bb6c7298d0

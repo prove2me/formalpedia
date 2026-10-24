@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_QPApprox_qp_min_sphere_rounding
 -- name    : YeIPA.QPApprox.qp_min_sphere_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:45.154812+00:00
 -- url     : https://prove2.me/theorems/8859a35e-8277-4024-999b-1010733ad539

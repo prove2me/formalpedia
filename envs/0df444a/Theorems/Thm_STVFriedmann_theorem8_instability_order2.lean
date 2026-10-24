@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_STVFriedmann_theorem8_instability_order2
 -- name    : STVFriedmann.theorem8_instability_order2
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-12T02:03:23.719651+00:00
 -- url     : https://prove2.me/theorems/ba757f66-eb56-4c16-8f55-caed74141c7a

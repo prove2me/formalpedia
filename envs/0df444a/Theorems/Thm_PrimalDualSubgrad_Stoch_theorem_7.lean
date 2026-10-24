@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrimalDualSubgrad_Stoch_theorem_7
 -- name    : PrimalDualSubgrad.Stoch.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:48:53.548977+00:00
 -- url     : https://prove2.me/theorems/ddf95d5b-05b4-4998-b3b7-78c4d9cf8078

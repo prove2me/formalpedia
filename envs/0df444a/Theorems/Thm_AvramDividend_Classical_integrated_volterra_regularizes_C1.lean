@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_integrated_volterra_regularizes_C1
 -- name    : AvramDividend.Classical.integrated_volterra_regularizes_C1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T10:49:01.8239+00:00
 -- url     : https://prove2.me/theorems/1d2a9fd6-58b3-40fb-bd99-9163de2a72a8

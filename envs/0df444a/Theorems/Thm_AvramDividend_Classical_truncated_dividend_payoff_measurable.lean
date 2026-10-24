@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_truncated_dividend_payoff_measurable
 -- name    : AvramDividend.Classical.truncated_dividend_payoff_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:41:18.143019+00:00
 -- url     : https://prove2.me/theorems/c10d5702-c15b-4a73-8ffe-4d7cda5582f0

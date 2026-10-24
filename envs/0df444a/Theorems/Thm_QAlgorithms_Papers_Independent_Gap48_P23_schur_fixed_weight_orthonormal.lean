@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_schur_fixed_weight_orthonormal
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.schur_fixed_weight_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:53:23.761333+00:00
 -- url     : https://prove2.me/theorems/e7a0d223-e4d5-4a79-afeb-3af78d0ad3a7

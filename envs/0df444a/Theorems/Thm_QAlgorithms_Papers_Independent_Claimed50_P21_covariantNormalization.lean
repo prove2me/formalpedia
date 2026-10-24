@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P21_covariantNormalization
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P21.covariantNormalization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:05:55.527585+00:00
 -- url     : https://prove2.me/theorems/96fea3fa-1f5f-40e5-99ab-96bf273cf430

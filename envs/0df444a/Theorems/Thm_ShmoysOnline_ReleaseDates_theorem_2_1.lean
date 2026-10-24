@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShmoysOnline_ReleaseDates_theorem_2_1
 -- name    : ShmoysOnline.ReleaseDates.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:56:50.744221+00:00
 -- url     : https://prove2.me/theorems/98507685-8744-4f45-87b9-a6fb5fb1104f

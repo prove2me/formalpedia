@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAPooling_MaxMin_kkt_display
 -- name    : QAPooling.MaxMin.kkt_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:34.30051+00:00
 -- url     : https://prove2.me/theorems/6a6212f9-6080-4a13-8c38-9dc16e033cd1

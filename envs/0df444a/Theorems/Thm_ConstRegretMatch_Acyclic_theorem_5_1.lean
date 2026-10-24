@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Acyclic_theorem_5_1
 -- name    : ConstRegretMatch.Acyclic.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:37:29.817204+00:00
 -- url     : https://prove2.me/theorems/d073d01e-6124-49aa-8cb3-3ef7bc077b76

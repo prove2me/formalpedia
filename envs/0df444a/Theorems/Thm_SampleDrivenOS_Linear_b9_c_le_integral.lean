@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Linear_b9_c_le_integral
 -- name    : SampleDrivenOS.Linear.b9_c_le_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:33.125049+00:00
 -- url     : https://prove2.me/theorems/31d9bfc0-dd7d-45dc-b1c3-3da0ee4df29c

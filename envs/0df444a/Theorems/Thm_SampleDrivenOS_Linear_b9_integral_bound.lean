@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Linear_b9_integral_bound
 -- name    : SampleDrivenOS.Linear.b9_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:24.272115+00:00
 -- url     : https://prove2.me/theorems/57bc8665-13c3-4e38-804c-63a1e443c437

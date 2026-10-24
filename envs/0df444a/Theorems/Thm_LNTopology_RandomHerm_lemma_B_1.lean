@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_RandomHerm_lemma_B_1
 -- name    : LNTopology.RandomHerm.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:15:16.431972+00:00
 -- url     : https://prove2.me/theorems/b37c787f-b5f1-4538-be0f-405d15288a6e

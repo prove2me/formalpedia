@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FinitePeriodCollision_infinite_collision_bound
 -- name    : OAI.PiExponent.FinitePeriodCollision.infinite_collision_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T08:12:17.203321+00:00
 -- url     : https://prove2.me/theorems/a64511ce-a73c-49c2-983e-670aa1bda8b6

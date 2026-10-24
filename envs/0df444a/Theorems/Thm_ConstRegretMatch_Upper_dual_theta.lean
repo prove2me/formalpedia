@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Upper_dual_theta
 -- name    : ConstRegretMatch.Upper.dual_theta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:56.26262+00:00
 -- url     : https://prove2.me/theorems/6ee17321-5c19-4e9d-ab53-83913c5d7354

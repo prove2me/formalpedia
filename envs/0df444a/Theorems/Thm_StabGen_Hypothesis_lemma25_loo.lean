@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_lemma25_loo
 -- name    : StabGen.Hypothesis.lemma25_loo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:49:31.303126+00:00
 -- url     : https://prove2.me/theorems/1132eb3d-4ef7-4301-84a2-2a6267107966

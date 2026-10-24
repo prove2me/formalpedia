@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_Magnet_rule_valid
 -- name    : StallEconomy.Magnet.rule_valid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:39.572879+00:00
 -- url     : https://prove2.me/theorems/9f072a40-2095-4c7e-b6be-19378e3b5335

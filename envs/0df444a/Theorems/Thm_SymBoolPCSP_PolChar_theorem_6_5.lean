@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymBoolPCSP_PolChar_theorem_6_5
 -- name    : SymBoolPCSP.PolChar.theorem_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:24:30.433472+00:00
 -- url     : https://prove2.me/theorems/4477dc6f-44ec-4f19-87fa-e655d3ab86db

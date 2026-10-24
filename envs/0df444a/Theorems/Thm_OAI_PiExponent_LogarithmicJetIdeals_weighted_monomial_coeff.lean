@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_weighted_monomial_coeff
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.weighted_monomial_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T06:41:27.444934+00:00
 -- url     : https://prove2.me/theorems/9a12e53c-8bc1-4944-bdc7-063fbb122f4e

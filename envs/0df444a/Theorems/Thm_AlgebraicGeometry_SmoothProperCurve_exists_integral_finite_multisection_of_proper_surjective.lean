@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_SmoothProperCurve_exists_integral_finite_multisection_of_proper_surjective
 -- name    : AlgebraicGeometry.SmoothProperCurve.exists_integral_finite_multisection_of_proper_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-22T17:49:53.302724+00:00
 -- url     : https://prove2.me/theorems/e2912d9a-34cb-4b57-b271-fa79382d5004

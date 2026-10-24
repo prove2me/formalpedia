@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellDetEff_TwoParty_lhv_bound
 -- name    : BellDetEff.TwoParty.lhv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T16:21:01.246347+00:00
 -- url     : https://prove2.me/theorems/0f9383ea-0d86-45e1-8303-e0191591b3a9

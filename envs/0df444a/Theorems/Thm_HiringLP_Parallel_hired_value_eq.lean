@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_Parallel_hired_value_eq
 -- name    : HiringLP.Parallel.hired_value_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:05.311466+00:00
 -- url     : https://prove2.me/theorems/c3bebc34-f8cd-457c-b7ee-83f0c4d574c9

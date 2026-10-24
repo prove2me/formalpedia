@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_FiberDual_ball_repr
 -- name    : CondPortOT.FiberDual.ball_repr
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:07.865986+00:00
 -- url     : https://prove2.me/theorems/1658671d-32c9-434c-8fb2-185a1b806e8f

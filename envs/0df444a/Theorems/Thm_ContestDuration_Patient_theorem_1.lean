@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContestDuration_Patient_theorem_1
 -- name    : ContestDuration.Patient.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:23:39.247432+00:00
 -- url     : https://prove2.me/theorems/12f7ac65-e2ac-4a3c-b1a3-bd516435f792

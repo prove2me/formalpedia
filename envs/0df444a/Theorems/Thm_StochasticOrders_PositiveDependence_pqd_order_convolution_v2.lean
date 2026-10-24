@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_PositiveDependence_pqd_order_convolution_v2
 -- name    : StochasticOrders.PositiveDependence.pqd_order_convolution_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:32.00258+00:00
 -- url     : https://prove2.me/theorems/0aa16eec-1a0d-4fa7-8f00-135a17b2d601

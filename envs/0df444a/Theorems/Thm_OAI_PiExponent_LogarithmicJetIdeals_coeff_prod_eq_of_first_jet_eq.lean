@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_coeff_prod_eq_of_first_jet_eq
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.coeff_prod_eq_of_first_jet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T18:32:19.11371+00:00
 -- url     : https://prove2.me/theorems/465b5b41-c247-4120-883c-4c98fe272112

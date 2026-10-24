@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSWCuttingPlane_ChasingZero_theorem_34
 -- name    : LSWCuttingPlane.ChasingZero.theorem_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:35.870291+00:00
 -- url     : https://prove2.me/theorems/90d4d7f6-f661-49c3-803b-fbbe081f670c

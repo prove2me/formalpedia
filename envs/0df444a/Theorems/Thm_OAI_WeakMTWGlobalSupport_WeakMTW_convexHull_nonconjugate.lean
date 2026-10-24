@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_convexHull_nonconjugate
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.convexHull_nonconjugate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:00:52.727889+00:00
 -- url     : https://prove2.me/theorems/0d1ca8bb-a165-4c3d-84f5-db5969518885

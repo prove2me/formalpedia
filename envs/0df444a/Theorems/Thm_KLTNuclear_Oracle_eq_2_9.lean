@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KLTNuclear_Oracle_eq_2_9
 -- name    : KLTNuclear.Oracle.eq_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:48.434574+00:00
 -- url     : https://prove2.me/theorems/a91c7e62-7aae-4a14-bd55-b18ba9a55418

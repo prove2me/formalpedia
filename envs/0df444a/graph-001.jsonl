@@ -3347,7 +3347,7 @@
 {"parent": "CClosedGraphs.Peeling.moon_moser", "child": "CClosedGraphs_Peeling_Setting", "via": ["statement"]}
 {"parent": "CClosedGraphs.Peeling.peel_step", "child": "CClosedGraphs_Peeling_Setting", "via": ["statement"]}
 {"parent": "CClosedGraphs.Peeling.theorem_2_1", "child": "CClosedGraphs_Peeling_Setting", "via": ["statement"]}
-{"parent": "CClosedGraphs.Peeling.theorem_2_2", "child": "CClosedGraphs_Peeling_Setting", "via": ["statement"]}
+{"parent": "CClosedGraphs.Peeling.theorem_2_2", "child": "CClosedGraphs_Peeling_Setting", "via": ["solution", "statement"]}
 {"parent": "CClosedGraphs.Peeling.type_three_structure", "child": "CClosedGraphs_Peeling_Setting", "via": ["statement"]}
 {"parent": "CClosedGraphs.Peeling.types_one_two_le", "child": "CClosedGraphs_Peeling_Setting", "via": ["solution", "statement"]}
 {"parent": "CClosedGraphs_Improved_Setting", "child": "CClosedGraphs_Peeling_Setting", "via": ["statement"]}
@@ -48961,8 +48961,8 @@
 {"parent": "CVPricing_Regret_Process", "child": "KeskinZeevi_SufficientConditions_LeastSquares", "via": ["statement"]}
 {"parent": "CachingML.PredMarker.chainLen_le_one_add_spread", "child": "CachingML_PredMarker_predictiveMarker", "via": ["statement"]}
 {"parent": "CachingML.PredMarker.chainLen_le_one_add_spread", "child": "CachingML_PredMarker_spread", "via": ["statement"]}
-{"parent": "CachingML.PredMarker.clean_le_two_opt", "child": "CachingML_PredMarker_cleanCount", "via": ["statement"]}
-{"parent": "CachingML.PredMarker.clean_le_two_opt", "child": "CachingML_PredMarker_opt", "via": ["statement"]}
+{"parent": "CachingML.PredMarker.clean_le_two_opt", "child": "CachingML_PredMarker_cleanCount", "via": ["solution", "statement"]}
+{"parent": "CachingML.PredMarker.clean_le_two_opt", "child": "CachingML_PredMarker_opt", "via": ["solution", "statement"]}
 {"parent": "CachingML.PredMarker.expected_chainLen_le", "child": "CachingML_PredMarker_predictiveMarker", "via": ["statement"]}
 {"parent": "CachingML.PredMarker.expected_chainLen_le", "child": "CachingML_PredMarker_spread", "via": ["statement"]}
 {"parent": "CachingML.PredMarker.opt_le_cleanCount", "child": "CachingML_PredMarker_cleanCount", "via": ["solution", "statement"]}
@@ -80666,17 +80666,17 @@
 {"parent": "CurvatureSubmod.CSSP.fA_monoDec", "child": "CurvatureSubmod_CSSP_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.CSSP.lemma_8_1_monotone", "child": "CurvatureSubmod_CSSP_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.CSSP.lemma_8_2", "child": "CurvatureSubmod_CSSP_Setting", "via": ["solution", "statement"]}
-{"parent": "CurvatureSubmod.LocalSearch.eq_5_4", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["statement"]}
+{"parent": "CurvatureSubmod.LocalSearch.eq_5_4", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.eq_5_4", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.lemma_2_1", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.lemma_2_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.lemma_5_1", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.lemma_5_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
-{"parent": "CurvatureSubmod.LocalSearch.lemma_5_2", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["statement"]}
+{"parent": "CurvatureSubmod.LocalSearch.lemma_5_2", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.lemma_5_2", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.lemma_A_1", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.lemma_A_1", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["solution", "statement"]}
-{"parent": "CurvatureSubmod.LocalSearch.local_opt_bound", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["statement"]}
+{"parent": "CurvatureSubmod.LocalSearch.local_opt_bound", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["solution", "statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.local_opt_bound", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.theorem_6_1_local_opt", "child": "CurvatureSubmod_LocalSearch_Setting", "via": ["statement"]}
 {"parent": "CurvatureSubmod.LocalSearch.theorem_6_1_local_opt", "child": "NonmonotoneSubmod_Shared_Submodular", "via": ["statement"]}
@@ -95024,12 +95024,12 @@
 {"parent": "DiscreteConvex_NetworkFlows_NegLowerCapOf", "child": "DiscreteConvex_NetworkFlows_NegLowerToUpper", "via": ["statement"]}
 {"parent": "Disjunctive.ConvexHull.convex_hull_disjunctive_set", "child": "Disjunctive_ConvexHull_LiftedPolyhedron", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.ConvexHull.convex_hull_disjunctive_set", "child": "Disjunctive_ConvexHull_Polyhedra", "via": ["solution", "statement"]}
-{"parent": "Disjunctive.ConvexHull.extreme_point_correspondence_v2", "child": "Disjunctive_ConvexHull_LiftedPolyhedron", "via": ["statement"]}
-{"parent": "Disjunctive.ConvexHull.extreme_point_correspondence_v2", "child": "Disjunctive_ConvexHull_Polyhedra", "via": ["statement"]}
+{"parent": "Disjunctive.ConvexHull.extreme_point_correspondence_v2", "child": "Disjunctive_ConvexHull_LiftedPolyhedron", "via": ["solution", "statement"]}
+{"parent": "Disjunctive.ConvexHull.extreme_point_correspondence_v2", "child": "Disjunctive_ConvexHull_Polyhedra", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.ConvexHull.hull_recovers_union", "child": "Disjunctive_ConvexHull_LiftedPolyhedron", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.ConvexHull.hull_recovers_union", "child": "Disjunctive_ConvexHull_Polyhedra", "via": ["solution", "statement"]}
-{"parent": "Disjunctive.ConvexHull.tightness_lifted_representation_v2", "child": "Disjunctive_ConvexHull_LiftedPolyhedron", "via": ["statement"]}
-{"parent": "Disjunctive.ConvexHull.tightness_lifted_representation_v2", "child": "Disjunctive_ConvexHull_Polyhedra", "via": ["statement"]}
+{"parent": "Disjunctive.ConvexHull.tightness_lifted_representation_v2", "child": "Disjunctive_ConvexHull_LiftedPolyhedron", "via": ["solution", "statement"]}
+{"parent": "Disjunctive.ConvexHull.tightness_lifted_representation_v2", "child": "Disjunctive_ConvexHull_Polyhedra", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.basic_solution_fractionality", "child": "Disjunctive_CutCorrespondence_Cglp", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.basic_solution_fractionality", "child": "Disjunctive_CutCorrespondence_Tableau", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.CutCorrespondence.basis_correspondence_v2", "child": "Disjunctive_CutCorrespondence_Cglp_v2", "via": ["solution", "statement"]}
@@ -95085,7 +95085,7 @@
 {"parent": "Disjunctive.IntroDuality.disjunctive_duality", "child": "Disjunctive_IntroDuality_PolyhedralSystems", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.IntroDuality.disjunctive_duality", "child": "Disjunctive_IntroDuality_RegularityCondition", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.IntroDuality.farkas_lemma_disjunctive", "child": "Disjunctive_IntroDuality_PolyhedralSystems", "via": ["statement"]}
-{"parent": "Disjunctive.IntroDuality.intersection_cut_v2", "child": "Disjunctive_IntroDuality_IntersectionCut", "via": ["statement"]}
+{"parent": "Disjunctive.IntroDuality.intersection_cut_v2", "child": "Disjunctive_IntroDuality_IntersectionCut", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.IntroDuality.regularity_condition_necessary", "child": "Disjunctive_IntroDuality_PolyhedralSystems", "via": ["statement"]}
 {"parent": "Disjunctive.IntroDuality.regularity_condition_necessary", "child": "Disjunctive_IntroDuality_RegularityCondition", "via": ["statement"]}
 {"parent": "Disjunctive.LiftProject.cglp_lifting_from_restricted_v2", "child": "Disjunctive_LiftProject_Basic", "via": ["solution", "statement"]}
@@ -95126,9 +95126,9 @@
 {"parent": "Disjunctive.Polarity.reverse_polar_scaled_stabilizes", "child": "Disjunctive_Polarity_Polars", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.Polarity.scaled_polar_eq_W0_section", "child": "Disjunctive_Polarity_Polars", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.Polarity.zero_in_hull_iff_reverse_polar", "child": "Disjunctive_Polarity_Polars", "via": ["solution", "statement"]}
-{"parent": "Disjunctive.Polymatroids.extreme_point_correspondence_v2", "child": "Disjunctive_Polymatroids_Basic", "via": ["statement"]}
+{"parent": "Disjunctive.Polymatroids.extreme_point_correspondence_v2", "child": "Disjunctive_Polymatroids_Basic", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.Polymatroids.matroid_rank_disjoint_union", "child": "Disjunctive_Polymatroids_Basic", "via": ["solution", "statement"]}
-{"parent": "Disjunctive.Polymatroids.pi_projection_characterization_v2", "child": "Disjunctive_Polymatroids_Basic", "via": ["statement"]}
+{"parent": "Disjunctive.Polymatroids.pi_projection_characterization_v2", "child": "Disjunctive_Polymatroids_Basic", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.Polymatroids.polymatroid_union_closed_form", "child": "Disjunctive_Polymatroids_Basic", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.Polymatroids.polymatroid_union_lifted_v2", "child": "Disjunctive_Polymatroids_Basic", "via": ["statement"]}
 {"parent": "Disjunctive.RayCGLP.cglpy_finite_min_iff_on_ray", "child": "Disjunctive_RayCGLP_Basic", "via": ["solution", "statement"]}
@@ -95136,7 +95136,7 @@
 {"parent": "Disjunctive.RayCGLP.lp_pivot_corresponds_to_cglp_pivot_sequence", "child": "Disjunctive_RayCGLP_Cglp", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.RayCGLP.lp_pivot_corresponds_to_cglp_pivot_sequence", "child": "Disjunctive_RayCGLP_Tableau", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.RayCGLP.ray_normalization_geometry_v2", "child": "Disjunctive_RayCGLP_Basic", "via": ["statement"]}
-{"parent": "Disjunctive.SequentialConvex.constraint_boundary_condition_v2", "child": "Disjunctive_SequentialConvex_Basic_v2", "via": ["statement"]}
+{"parent": "Disjunctive.SequentialConvex.constraint_boundary_condition_v2", "child": "Disjunctive_SequentialConvex_Basic_v2", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.SequentialConvex.halfspace_intersection_convexity", "child": "Disjunctive_SequentialConvex_Basic", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.SequentialConvex.sequential_convexification_facial", "child": "Disjunctive_SequentialConvex_Basic", "via": ["solution", "statement"]}
 {"parent": "Disjunctive.SequentialConvex.sequential_convexification_facial", "child": "Disjunctive_SequentialConvex_Fseq", "via": ["solution", "statement"]}
@@ -96120,10 +96120,10 @@
 {"parent": "DynSampleSize.Det.eq_4_13", "child": "DynSampleSize_Det_Setting", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Det.eq_4_14", "child": "DynSampleSize_Det_Setting", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Det.eq_4_16", "child": "DynSampleSize_Det_Setting", "via": ["solution", "statement"]}
-{"parent": "DynSampleSize.Det.eq_4_17", "child": "DynSampleSize_Det_Setting", "via": ["statement"]}
+{"parent": "DynSampleSize.Det.eq_4_17", "child": "DynSampleSize_Det_Setting", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Det.eq_4_5", "child": "DynSampleSize_Det_Setting", "via": ["solution", "statement"]}
-{"parent": "DynSampleSize.Det.eq_4_6", "child": "DynSampleSize_Det_Setting", "via": ["statement"]}
-{"parent": "DynSampleSize.Det.theorem_4_1", "child": "DynSampleSize_Det_Setting", "via": ["statement"]}
+{"parent": "DynSampleSize.Det.eq_4_6", "child": "DynSampleSize_Det_Setting", "via": ["solution", "statement"]}
+{"parent": "DynSampleSize.Det.theorem_4_1", "child": "DynSampleSize_Det_Setting", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Stoch.eq_4_25", "child": "DynSampleSize_Stoch_Model", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Stoch.eq_4_25", "child": "DynSampleSize_Stoch_UniformConvexity", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Stoch.eq_4_26", "child": "DynSampleSize_Stoch_Model", "via": ["solution", "statement"]}
@@ -96133,9 +96133,9 @@
 {"parent": "DynSampleSize.Stoch.eq_4_5", "child": "DynSampleSize_Stoch_UniformConvexity", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Stoch.sample_mean_variance", "child": "DynSampleSize_Stoch_Model", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize.Stoch.taylor_step", "child": "DynSampleSize_Stoch_UniformConvexity", "via": ["solution", "statement"]}
-{"parent": "DynSampleSize.Stoch.theorem_4_2", "child": "DynSampleSize_Stoch_Model", "via": ["statement"]}
-{"parent": "DynSampleSize.Stoch.theorem_4_2", "child": "DynSampleSize_Stoch_Run", "via": ["statement"]}
-{"parent": "DynSampleSize.Stoch.theorem_4_2", "child": "DynSampleSize_Stoch_UniformConvexity", "via": ["statement"]}
+{"parent": "DynSampleSize.Stoch.theorem_4_2", "child": "DynSampleSize_Stoch_Model", "via": ["solution", "statement"]}
+{"parent": "DynSampleSize.Stoch.theorem_4_2", "child": "DynSampleSize_Stoch_Run", "via": ["solution", "statement"]}
+{"parent": "DynSampleSize.Stoch.theorem_4_2", "child": "DynSampleSize_Stoch_UniformConvexity", "via": ["solution", "statement"]}
 {"parent": "DynSampleSize_Stoch_Run", "child": "DynSampleSize_Stoch_Model", "via": ["statement"]}
 {"parent": "DynTypeMatching.Priority.lemma_A_1_i", "child": "DynTypeMatching_Priority_Model", "via": ["statement"]}
 {"parent": "DynTypeMatching.Priority.lemma_A_1_ii", "child": "DynTypeMatching_Priority_Model", "via": ["statement"]}
@@ -96898,12 +96898,12 @@
 {"parent": "EnergyMomentum.energy_momentum_relation", "child": "EnergyMomentum_basic", "via": ["solution", "statement"]}
 {"parent": "EnergyMomentum.invariantMass_pairwise", "child": "EnergyMomentum_basic", "via": ["statement"]}
 {"parent": "EnergyMomentum.kineticEnergy_eq", "child": "EnergyMomentum_basic", "via": ["statement"]}
-{"parent": "EnergyMomentum.lorentzFactor_eq_sqrt_momentum", "child": "EnergyMomentum_basic", "via": ["statement"]}
+{"parent": "EnergyMomentum.lorentzFactor_eq_sqrt_momentum", "child": "EnergyMomentum_basic", "via": ["solution", "statement"]}
 {"parent": "EnergyMomentum.matter_wave_relation", "child": "EnergyMomentum_basic", "via": ["statement"]}
 {"parent": "EnergyMomentum.minkowskiInner_boostX", "child": "EnergyMomentum_basic", "via": ["solution", "statement"]}
-{"parent": "EnergyMomentum.minkowski_norm_fourMomentum", "child": "EnergyMomentum_basic", "via": ["statement"]}
+{"parent": "EnergyMomentum.minkowski_norm_fourMomentum", "child": "EnergyMomentum_basic", "via": ["solution", "statement"]}
 {"parent": "EnergyMomentum.rest_frame", "child": "EnergyMomentum_basic", "via": ["statement"]}
-{"parent": "EnergyMomentum.system_energy_momentum_relation", "child": "EnergyMomentum_basic", "via": ["statement"]}
+{"parent": "EnergyMomentum.system_energy_momentum_relation", "child": "EnergyMomentum_basic", "via": ["solution", "statement"]}
 {"parent": "EntTensor.integral_prod_density_mul_log_eq_add", "child": "EntFunctional.toReal_klDiv_withDensity_eq_integral_mul_log", "via": ["solution"]}
 {"parent": "EntTensor.integral_prod_density_mul_log_eq_add", "child": "Tensorization.klDiv_prod_eq_add", "via": ["solution"]}
 {"parent": "EntVariational.ent_le_integral_sub_const_ref", "child": "ScalarGibbs.mul_log_sub_mul_log_sub_sub_nonneg", "via": ["solution"]}

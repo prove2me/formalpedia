@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_SmallCap_lemma_E_5_1
 -- name    : OutpatientWalkIn.SmallCap.lemma_E_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:33.02706+00:00
 -- url     : https://prove2.me/theorems/79e79eab-ef49-430e-a1d0-2105ec9fab9a

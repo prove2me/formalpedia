@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P38_fixedTuple_and_oneTerm
 -- name    : QAlgorithms.Papers.Independent.Renew46.P38.fixedTuple_and_oneTerm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:06:47.515945+00:00
 -- url     : https://prove2.me/theorems/3614c745-f907-49e1-bb8b-a9101ae66c3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_jet_bound_controls_center_contact
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_jet_bound_controls_center_contact
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T09:15:43.759072+00:00
 -- url     : https://prove2.me/theorems/ce6ef618-3760-4c19-8b48-4fc1bbca7682

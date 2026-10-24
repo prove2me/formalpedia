@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_Nonconvex_generalized_projection_characterization_v2
 -- name    : FirstOrderOpt.Nonconvex.generalized_projection_characterization_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:17:06.291654+00:00
 -- url     : https://prove2.me/theorems/dd3e8abe-003a-41c7-aed5-050afbcb0ad6

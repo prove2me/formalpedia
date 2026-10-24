@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_finite_uniform_nuclear_density
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.finite_uniform_nuclear_density
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:09:11.267902+00:00
 -- url     : https://prove2.me/theorems/21afa29b-2f1a-494e-9139-a22f972f63cb

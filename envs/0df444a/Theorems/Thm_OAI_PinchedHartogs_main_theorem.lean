@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PinchedHartogs_main_theorem
 -- name    : OAI.PinchedHartogs.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:03.646494+00:00
 -- url     : https://prove2.me/theorems/c456caef-d64d-416c-b0a0-c5c86ade1e2f

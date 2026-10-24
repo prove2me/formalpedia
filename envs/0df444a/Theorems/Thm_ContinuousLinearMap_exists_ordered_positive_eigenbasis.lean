@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContinuousLinearMap_exists_ordered_positive_eigenbasis
 -- name    : ContinuousLinearMap.exists_ordered_positive_eigenbasis
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T21:45:19.850307+00:00
 -- url     : https://prove2.me/theorems/9086237c-8a82-4ebf-8ae7-fe25f47915a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RetailerMarketplace_UnitFee_lemma_B_1
 -- name    : RetailerMarketplace.UnitFee.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:28:49.288445+00:00
 -- url     : https://prove2.me/theorems/defc3c39-aced-44a6-827b-0d896ab5d66f

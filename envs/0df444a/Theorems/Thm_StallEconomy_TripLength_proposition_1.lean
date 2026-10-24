@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_TripLength_proposition_1
 -- name    : StallEconomy.TripLength.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:25.012723+00:00
 -- url     : https://prove2.me/theorems/3d816ff7-32cc-4649-80f3-3c30ece2fdb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_unbounded_maxLambdaFree_linSpace_eq_recCone
 -- name    : MaxLatticeFree.Geometry.unbounded_maxLambdaFree_linSpace_eq_recCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:19:15.505773+00:00
 -- url     : https://prove2.me/theorems/b3f57dbc-acb6-44d9-ab9a-915ce5d81a2c

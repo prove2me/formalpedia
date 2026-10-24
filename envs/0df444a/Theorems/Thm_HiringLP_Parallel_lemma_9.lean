@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_Parallel_lemma_9
 -- name    : HiringLP.Parallel.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:45:07.055477+00:00
 -- url     : https://prove2.me/theorems/f31f1ee5-f017-416c-aecb-570ad4cd2d46

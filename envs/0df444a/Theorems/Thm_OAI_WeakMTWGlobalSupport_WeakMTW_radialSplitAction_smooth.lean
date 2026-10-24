@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_radialSplitAction_smooth
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.radialSplitAction_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:00:40.105101+00:00
 -- url     : https://prove2.me/theorems/4d3c321d-e71d-430e-abd0-ef6421395b60

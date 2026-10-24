@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassDS_NatGap_prop43_natarajan_square
 -- name    : MulticlassDS.NatGap.prop43_natarajan_square
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:49:08.562895+00:00
 -- url     : https://prove2.me/theorems/4eac6f9e-1b8c-44d9-8a63-1a6d46286633

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P02_hilbertSchmidt_inner_product
 -- name    : QAlgorithms.Papers.Independent.Next46.P02.hilbertSchmidt_inner_product
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:32:00.617454+00:00
 -- url     : https://prove2.me/theorems/ba2162fe-a423-46b7-9088-06c7a8f6c700

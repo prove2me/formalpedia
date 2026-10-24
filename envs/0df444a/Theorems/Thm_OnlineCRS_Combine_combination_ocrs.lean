@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Combine_combination_ocrs
 -- name    : OnlineCRS.Combine.combination_ocrs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:31.930437+00:00
 -- url     : https://prove2.me/theorems/952dd27b-32f5-446f-bcf3-c796e6b46f05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynReinsDiv_HJB_lemma_A_1
 -- name    : DynReinsDiv.HJB.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:33.295775+00:00
 -- url     : https://prove2.me/theorems/79080290-9009-4550-8ea9-123b5d6a566f

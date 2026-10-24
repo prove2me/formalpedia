@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_ConvexHull_extreme_point_correspondence_v2
 -- name    : Disjunctive.ConvexHull.extreme_point_correspondence_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:49.63788+00:00
 -- url     : https://prove2.me/theorems/e62f716e-0025-424e-bc53-5aa1cb4923b4

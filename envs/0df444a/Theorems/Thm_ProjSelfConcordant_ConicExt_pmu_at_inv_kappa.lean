@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_pmu_at_inv_kappa
 -- name    : ProjSelfConcordant.ConicExt.pmu_at_inv_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:13.455031+00:00
 -- url     : https://prove2.me/theorems/5cfc06ff-03e1-41df-a04a-18c9543781d3

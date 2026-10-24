@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_subgradients_bounded
 -- name    : subgradients_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T12:15:02.329145+00:00
 -- url     : https://prove2.me/theorems/c7b0066a-57e1-4d56-ad14-e6e3700b02b9

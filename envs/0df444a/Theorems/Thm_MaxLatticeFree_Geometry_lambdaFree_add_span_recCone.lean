@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_lambdaFree_add_span_recCone
 -- name    : MaxLatticeFree.Geometry.lambdaFree_add_span_recCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:16:16.357997+00:00
 -- url     : https://prove2.me/theorems/4ad2c2de-9d03-4d11-b0f1-81faba59ab0e

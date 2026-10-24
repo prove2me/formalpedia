@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinLinOpt_Ball_optimalValue_attained
 -- name    : WassersteinLinOpt.Ball.optimalValue_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T19:56:21.429677+00:00
 -- url     : https://prove2.me/theorems/7b40f741-1a77-4683-b753-f9b32ac8aadf

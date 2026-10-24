@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_EditSketch_theorem_6_3
 -- name    : FuzzyExtractors.EditSketch.theorem_6_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:55.12036+00:00
 -- url     : https://prove2.me/theorems/4911a92e-7267-4130-9546-342e76517eff

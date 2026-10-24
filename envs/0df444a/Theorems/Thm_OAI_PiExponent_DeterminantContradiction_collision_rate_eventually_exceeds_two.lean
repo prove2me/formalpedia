@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_collision_rate_eventually_exceeds_two
 -- name    : OAI.PiExponent.DeterminantContradiction.collision_rate_eventually_exceeds_two
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T19:19:24.318099+00:00
 -- url     : https://prove2.me/theorems/f919ca4f-49c3-48e7-bd8b-8b7b8443014a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_ProbeTopK_lemma_4
 -- name    : HiringLP.ProbeTopK.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:16.180876+00:00
 -- url     : https://prove2.me/theorems/31aca55d-0b8a-4747-b3d4-18717e5ad303

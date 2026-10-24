@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_Parallel_list_properties
 -- name    : HiringLP.Parallel.list_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:48.067177+00:00
 -- url     : https://prove2.me/theorems/e2895d46-a4f9-4fd7-b94a-e928ba3d0749

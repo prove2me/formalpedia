@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CurrentProjection_criticalComparisonMain
 -- name    : OAI.CurrentProjection.criticalComparisonMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:32.695922+00:00
 -- url     : https://prove2.me/theorems/07d7b3e0-d7cd-43e5-8baa-495d1e7ee47f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_ProxyLabel_selection_prob_top_k
 -- name    : PosetSecretary.ProxyLabel.selection_prob_top_k
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:28.055104+00:00
 -- url     : https://prove2.me/theorems/bf19cc94-61f5-481d-a35c-a70a028b4101

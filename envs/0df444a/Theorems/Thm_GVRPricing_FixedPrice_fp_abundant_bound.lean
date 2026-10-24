@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_fp_abundant_bound
 -- name    : GVRPricing.FixedPrice.fp_abundant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:00:22.155093+00:00
 -- url     : https://prove2.me/theorems/dca93b53-cce7-47fc-88a2-5461ea8f6cda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_constant_policy_revenue
 -- name    : GVRPricing.FixedPrice.constant_policy_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:00:22.473627+00:00
 -- url     : https://prove2.me/theorems/5885bdc2-181f-4799-bf4e-26b8bb6b3bde

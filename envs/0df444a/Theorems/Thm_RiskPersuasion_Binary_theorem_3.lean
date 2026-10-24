@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskPersuasion_Binary_theorem_3
 -- name    : RiskPersuasion.Binary.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:34.918556+00:00
 -- url     : https://prove2.me/theorems/4a81614b-4240-45d9-943a-ee07e5714221

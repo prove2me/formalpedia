@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P22_finitePurityUnitality
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P22.finitePurityUnitality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:21:51.438008+00:00
 -- url     : https://prove2.me/theorems/8e40af4f-3fc9-4927-aeb2-aafa8a190871

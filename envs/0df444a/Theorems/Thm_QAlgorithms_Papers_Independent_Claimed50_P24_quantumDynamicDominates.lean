@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_quantumDynamicDominates
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.quantumDynamicDominates
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:39:28.228017+00:00
 -- url     : https://prove2.me/theorems/834d5ddf-8107-4610-98d0-c38c774d87ec

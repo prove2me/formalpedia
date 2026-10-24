@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_cost_first_limit
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.cost_first_limit
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:00:02.942876+00:00
 -- url     : https://prove2.me/theorems/6b8808b3-62f5-47b9-829b-8a7450b6ffb7

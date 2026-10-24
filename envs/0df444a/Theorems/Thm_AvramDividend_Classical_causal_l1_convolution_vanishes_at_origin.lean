@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_causal_l1_convolution_vanishes_at_origin
 -- name    : AvramDividend.Classical.causal_l1_convolution_vanishes_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T23:28:22.817992+00:00
 -- url     : https://prove2.me/theorems/8dc48bbf-1373-4994-8364-e2cc350b1375

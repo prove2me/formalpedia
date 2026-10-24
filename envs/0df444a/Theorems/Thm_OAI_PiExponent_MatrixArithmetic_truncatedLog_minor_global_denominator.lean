@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_MatrixArithmetic_truncatedLog_minor_global_denominator
 -- name    : OAI.PiExponent.MatrixArithmetic.truncatedLog_minor_global_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-18T17:19:49.614923+00:00
 -- url     : https://prove2.me/theorems/d7282896-c90f-4fbd-8651-21dcbebce2b8

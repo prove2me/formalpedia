@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_UpperBound_theorem_1
 -- name    : ApproxIC.UpperBound.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:44.703281+00:00
 -- url     : https://prove2.me/theorems/403788d9-6b60-4959-8a8b-60d4166f343e

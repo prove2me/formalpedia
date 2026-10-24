@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat07_scale_shift_weighted_signed_integral_exact
 -- name    : AvramDividend.Classical.chat07_scale_shift_weighted_signed_integral_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T08:24:23.849418+00:00
 -- url     : https://prove2.me/theorems/bc08533f-1d28-4036-bfe1-0ea60b346eab

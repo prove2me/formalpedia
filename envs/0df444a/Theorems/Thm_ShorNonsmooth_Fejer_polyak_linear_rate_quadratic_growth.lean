@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_polyak_linear_rate_quadratic_growth
 -- name    : ShorNonsmooth.Fejer.polyak_linear_rate_quadratic_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:30:46.502392+00:00
 -- url     : https://prove2.me/theorems/5cd9a644-dd50-4b48-b944-c89b9c1a7432

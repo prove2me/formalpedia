@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ToricFoliations_divisor_intersection_le_one
 -- name    : ToricFoliations.divisor_intersection_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @hiraeth
 -- created : 2026-10-07T12:31:04.931907+00:00
 -- url     : https://prove2.me/theorems/73d57787-7702-48a9-a6a1-8cd6224823d6

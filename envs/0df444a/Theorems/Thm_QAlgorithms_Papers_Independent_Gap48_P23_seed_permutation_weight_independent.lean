@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_seed_permutation_weight_independent
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.seed_permutation_weight_independent
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:49:53.268226+00:00
 -- url     : https://prove2.me/theorems/b0369662-9e7c-472d-807a-f832f081dcdc

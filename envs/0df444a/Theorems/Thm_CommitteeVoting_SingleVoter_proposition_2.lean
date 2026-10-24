@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommitteeVoting_SingleVoter_proposition_2
 -- name    : CommitteeVoting.SingleVoter.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:00:57.818754+00:00
 -- url     : https://prove2.me/theorems/0041f566-3798-4de6-bae3-76740b9cd928

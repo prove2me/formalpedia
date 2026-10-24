@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.DeWolf.ldc_two_query_lower_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-18T02:49:52.721022+00:00
 -- url     : https://prove2.me/submissions/f5d8cee7-8694-4f96-8473-0c20afa8b8b7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_QAlgorithms_Defs_Information
 import Mathlib.Analysis.SpecialFunctions.BinaryEntropy

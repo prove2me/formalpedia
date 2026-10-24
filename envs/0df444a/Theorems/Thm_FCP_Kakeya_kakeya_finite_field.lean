@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FCP_Kakeya_kakeya_finite_field
 -- name    : FCP.Kakeya.kakeya_finite_field
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-15T20:51:07.384657+00:00
 -- url     : https://prove2.me/theorems/448b0e69-57fd-4028-ab8b-07964b7b3c5b

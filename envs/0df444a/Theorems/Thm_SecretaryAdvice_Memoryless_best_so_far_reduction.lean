@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Memoryless_best_so_far_reduction
 -- name    : SecretaryAdvice.Memoryless.best_so_far_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:50.698989+00:00
 -- url     : https://prove2.me/theorems/239788b2-22d5-4c4c-a982-5bde625f615f

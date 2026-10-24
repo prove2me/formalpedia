@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_ProxyLabel_proposition_5_2
 -- name    : PosetSecretary.ProxyLabel.proposition_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:45.049188+00:00
 -- url     : https://prove2.me/theorems/1e5370ac-1b92-4655-a434-44e0efce3ad7

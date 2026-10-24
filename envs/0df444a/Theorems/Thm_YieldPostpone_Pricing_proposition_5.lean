@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YieldPostpone_Pricing_proposition_5
 -- name    : YieldPostpone.Pricing.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T21:24:44.932013+00:00
 -- url     : https://prove2.me/theorems/ad7ea384-62f4-436d-9e4b-c6201ad14f92

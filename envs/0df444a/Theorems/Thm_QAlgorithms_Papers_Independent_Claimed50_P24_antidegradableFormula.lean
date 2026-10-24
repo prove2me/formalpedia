@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_antidegradableFormula
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.antidegradableFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:41:40.556953+00:00
 -- url     : https://prove2.me/theorems/d328de20-8cab-41f6-8acf-5be82d755271

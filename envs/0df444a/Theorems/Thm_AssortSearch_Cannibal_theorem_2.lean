@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_Cannibal_theorem_2
 -- name    : AssortSearch.Cannibal.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:36.513681+00:00
 -- url     : https://prove2.me/theorems/602b222c-38f1-49f6-9ec3-508bad583e3b

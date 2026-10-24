@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_all_n_levy_increment_telescoping
 -- name    : AvramDividend.Classical.chat04_all_n_levy_increment_telescoping
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T11:55:42.920768+00:00
 -- url     : https://prove2.me/theorems/cfe8b73d-6030-450c-b51b-8dadac274476

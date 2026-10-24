@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_MG1_theorem3_first_passage_equations
 -- name    : FosterQueues.MG1.theorem3_first_passage_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:20:16.035334+00:00
 -- url     : https://prove2.me/theorems/51bdaed8-099d-43b1-b390-cccd289a8244

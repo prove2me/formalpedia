@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_BidChoose_trimming_step
 -- name    : FairGuarantees.BidChoose.trimming_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:45.151+00:00
 -- url     : https://prove2.me/theorems/7fce0d08-083a-495a-9853-71372398bca0

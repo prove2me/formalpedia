@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_polyak_convexity
 -- name    : ModernConvex.SLemma.polyak_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:07.88875+00:00
 -- url     : https://prove2.me/theorems/6f2ca11d-ad69-47ef-8aee-440108385fdc

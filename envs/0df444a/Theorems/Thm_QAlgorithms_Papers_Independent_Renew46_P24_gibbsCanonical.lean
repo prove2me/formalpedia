@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P24_gibbsCanonical
 -- name    : QAlgorithms.Papers.Independent.Renew46.P24.gibbsCanonical
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:42:40.364561+00:00
 -- url     : https://prove2.me/theorems/946d2949-0047-4efc-82f8-224e9ef18817

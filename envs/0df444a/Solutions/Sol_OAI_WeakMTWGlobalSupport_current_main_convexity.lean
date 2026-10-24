@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.WeakMTWGlobalSupport.current_main_convexity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:17:24.580989+00:00
 -- url     : https://prove2.me/submissions/c1d0cde3-f260-46b7-871c-2d6b0aefe643
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WeakMTWGlobalSupport

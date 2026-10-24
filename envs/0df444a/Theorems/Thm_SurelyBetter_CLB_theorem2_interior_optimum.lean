@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurelyBetter_CLB_theorem2_interior_optimum
 -- name    : SurelyBetter.CLB.theorem2_interior_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:26.942633+00:00
 -- url     : https://prove2.me/theorems/38498575-abe6-482f-aa20-d56f8ba38db7

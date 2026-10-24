@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_cond1_iff
 -- name    : ProjSelfConcordant.ConicExt.cond1_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:58.105592+00:00
 -- url     : https://prove2.me/theorems/1e0c3f8b-c12b-4aed-b67e-3f614c9aa810

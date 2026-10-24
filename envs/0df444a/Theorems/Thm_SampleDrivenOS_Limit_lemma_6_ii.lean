@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Limit_lemma_6_ii
 -- name    : SampleDrivenOS.Limit.lemma_6_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:25.500913+00:00
 -- url     : https://prove2.me/theorems/ab7aef9b-9286-4158-82f4-10a7d2e0bcaa

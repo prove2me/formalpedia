@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_replace_one_pointwise_bound
 -- name    : StabGen.Hypothesis.replace_one_pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:08:51.335061+00:00
 -- url     : https://prove2.me/theorems/3aedbdac-92b0-4cc9-b140-eb3c3113bcbc

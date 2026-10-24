@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BoundedRecovery_bounded_recovery
 -- name    : OAI.BoundedRecovery.bounded_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:24.01846+00:00
 -- url     : https://prove2.me/theorems/d0db4841-0763-407e-9c52-3970931ab7cb

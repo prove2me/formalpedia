@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LSWCuttingPlane_ChasingZero_drift_bound
 -- name    : LSWCuttingPlane.ChasingZero.drift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:59:42.973161+00:00
 -- url     : https://prove2.me/theorems/168a8c21-3072-4349-84d8-033026558e3a

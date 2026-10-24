@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_LossLimits_blocking_mode_limit
 -- name    : KellyStochasticNetworks.LossLimits.blocking_mode_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:47:06.322195+00:00
 -- url     : https://prove2.me/theorems/80bafa6c-d05d-4053-bc3e-7a3563234a0a

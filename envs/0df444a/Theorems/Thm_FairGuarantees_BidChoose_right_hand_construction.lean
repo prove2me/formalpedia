@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_BidChoose_right_hand_construction
 -- name    : FairGuarantees.BidChoose.right_hand_construction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:55.797168+00:00
 -- url     : https://prove2.me/theorems/69dc825f-e742-4010-8bd7-baf2d335d4fe

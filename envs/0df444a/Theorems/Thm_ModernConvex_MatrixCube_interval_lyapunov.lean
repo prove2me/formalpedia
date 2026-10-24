@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_interval_lyapunov
 -- name    : ModernConvex.MatrixCube.interval_lyapunov
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:46.038984+00:00
 -- url     : https://prove2.me/theorems/9fd3082c-1bc7-4699-b1e7-645416bccf00

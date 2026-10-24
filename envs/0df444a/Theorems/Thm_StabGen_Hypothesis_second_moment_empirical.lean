@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_second_moment_empirical
 -- name    : StabGen.Hypothesis.second_moment_empirical
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:09:05.82429+00:00
 -- url     : https://prove2.me/theorems/1684943c-557e-4996-a71c-8ce61890ed7e

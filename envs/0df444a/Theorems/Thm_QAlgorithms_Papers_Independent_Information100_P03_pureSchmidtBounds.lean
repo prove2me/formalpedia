@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P03_pureSchmidtBounds
 -- name    : QAlgorithms.Papers.Independent.Information100.P03.pureSchmidtBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:29:10.114989+00:00
 -- url     : https://prove2.me/theorems/19da29c2-98fb-4760-ad7a-8c1662a5541c

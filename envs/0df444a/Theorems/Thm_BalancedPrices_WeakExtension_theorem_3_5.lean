@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalancedPrices_WeakExtension_theorem_3_5
 -- name    : BalancedPrices.WeakExtension.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:05:12.450999+00:00
 -- url     : https://prove2.me/theorems/4bb0c988-2fae-4f90-aa41-94673c5860d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_freeMapsSpectatorsEmbeddings
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.freeMapsSpectatorsEmbeddings
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:00:16.993086+00:00
 -- url     : https://prove2.me/theorems/60cce665-efa1-45e5-a32b-10df41c60a42

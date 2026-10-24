@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtaBarjesteh23_Workload_riccati_wellposed
 -- name    : AtaBarjesteh23.Workload.riccati_wellposed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:27.882483+00:00
 -- url     : https://prove2.me/theorems/de818fec-b9a2-49f9-83e4-d198a2d47ef0

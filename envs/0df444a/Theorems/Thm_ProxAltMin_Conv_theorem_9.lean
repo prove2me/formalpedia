@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxAltMin_Conv_theorem_9
 -- name    : ProxAltMin.Conv.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:08:50.651989+00:00
 -- url     : https://prove2.me/theorems/8324a5c2-d571-4360-8b95-8bca56b7b97a

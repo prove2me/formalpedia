@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HILL_PRG_lemma_4_8
 -- name    : HILL.PRG.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:13:05.746012+00:00
 -- url     : https://prove2.me/theorems/0d655459-ea71-432d-b377-a9a49c03a0ce

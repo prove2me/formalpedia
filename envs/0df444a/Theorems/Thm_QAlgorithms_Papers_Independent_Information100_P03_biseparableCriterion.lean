@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P03_biseparableCriterion
 -- name    : QAlgorithms.Papers.Independent.Information100.P03.biseparableCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:31:20.752981+00:00
 -- url     : https://prove2.me/theorems/0438292e-ecbf-4117-85cb-60203131ae8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermInvConvex_Sparsity_theorem_3_2
 -- name    : PermInvConvex.Sparsity.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:11:03.605407+00:00
 -- url     : https://prove2.me/theorems/c91f4bd1-2ccc-4613-8659-4ae9d533b6a2

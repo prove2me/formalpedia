@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Nonhomogeneous_limiting_matrix_product
 -- name    : MatrixAnalytic.Nonhomogeneous.limiting_matrix_product
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:50.372038+00:00
 -- url     : https://prove2.me/theorems/7fddba2f-2925-45c3-aaa2-500fad89072b

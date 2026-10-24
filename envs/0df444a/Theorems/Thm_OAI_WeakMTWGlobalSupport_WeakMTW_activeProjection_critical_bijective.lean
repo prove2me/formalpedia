@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_activeProjection_critical_bijective
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.activeProjection_critical_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T02:58:35.6758+00:00
 -- url     : https://prove2.me/theorems/3240ac7c-93f2-4b6c-97a1-e352b9392a58

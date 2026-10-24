@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_BinaryLimit_tY_limit
 -- name    : SecretaryAdvice.BinaryLimit.tY_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:18.236094+00:00
 -- url     : https://prove2.me/theorems/766ce5d0-c196-49f2-9c8f-670fdd8a4d81

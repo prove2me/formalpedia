@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AlgebraicGeometry.CurveDegreeTests.exists_curve_degree_multisection
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-13T16:40:33.942896+00:00
 -- url     : https://prove2.me/submissions/e176f6b3-cd28-4048-96b2-6a0f299ac72a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AlgebraicGeometry_CurveDegreeTests
 import Theorems.Thm_AlgebraicGeometry_Scheme_TwoAffineOpenCover_exists_linearEquiv_sectionsOf_of_iso

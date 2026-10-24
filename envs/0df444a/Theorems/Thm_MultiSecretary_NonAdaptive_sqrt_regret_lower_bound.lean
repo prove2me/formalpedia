@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiSecretary_NonAdaptive_sqrt_regret_lower_bound
 -- name    : MultiSecretary.NonAdaptive.sqrt_regret_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:26:42.103382+00:00
 -- url     : https://prove2.me/theorems/089762e0-f361-4727-97f0-8f8b73a0f745

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P44_dissipative_strict_advantage
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P44.dissipative_strict_advantage
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:06:14.325564+00:00
 -- url     : https://prove2.me/theorems/270d1e49-065a-49fc-b7a3-219265625181

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_CountableReversal_stationary_time_reversal
 -- name    : KellyStochasticNetworks.CountableReversal.stationary_time_reversal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:45:49.675683+00:00
 -- url     : https://prove2.me/theorems/44b4bf10-d536-42c2-96d9-bb3a04e5bb51

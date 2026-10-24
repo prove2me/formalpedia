@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Acyclic_basis_stays_optimal
 -- name    : ConstRegretMatch.Acyclic.basis_stays_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:36:37.987725+00:00
 -- url     : https://prove2.me/theorems/b4c6c495-1984-40fa-9dee-603a1b2ef9e0

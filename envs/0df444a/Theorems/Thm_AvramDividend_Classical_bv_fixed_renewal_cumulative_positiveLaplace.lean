@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_fixed_renewal_cumulative_positiveLaplace
 -- name    : AvramDividend.Classical.bv_fixed_renewal_cumulative_positiveLaplace
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:16:03.963981+00:00
 -- url     : https://prove2.me/theorems/d4968d30-3884-4761-bd03-1d98c7ddc30c

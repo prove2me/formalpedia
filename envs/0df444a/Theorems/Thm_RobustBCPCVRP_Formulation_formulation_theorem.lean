@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustBCPCVRP_Formulation_formulation_theorem
 -- name    : RobustBCPCVRP.Formulation.formulation_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T05:42:04.773632+00:00
 -- url     : https://prove2.me/theorems/52682730-829a-4c51-966d-8aa1c357fd96

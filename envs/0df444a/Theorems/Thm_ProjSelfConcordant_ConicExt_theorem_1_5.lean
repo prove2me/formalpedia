@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_theorem_1_5
 -- name    : ProjSelfConcordant.ConicExt.theorem_1_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:24.614031+00:00
 -- url     : https://prove2.me/theorems/dc73ce8a-ef3b-4bc2-bdd2-6df60f723bed

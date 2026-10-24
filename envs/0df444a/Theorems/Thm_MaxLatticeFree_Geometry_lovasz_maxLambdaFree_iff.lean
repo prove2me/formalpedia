@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_lovasz_maxLambdaFree_iff
 -- name    : MaxLatticeFree.Geometry.lovasz_maxLambdaFree_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:20:47.182981+00:00
 -- url     : https://prove2.me/theorems/65012352-ecc1-42d3-b66a-9122e22ad0c1

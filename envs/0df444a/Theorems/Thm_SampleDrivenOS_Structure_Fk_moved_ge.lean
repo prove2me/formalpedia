@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Structure_Fk_moved_ge
 -- name    : SampleDrivenOS.Structure.Fk_moved_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:32:42.323021+00:00
 -- url     : https://prove2.me/theorems/55baa163-38da-4cbc-9dc5-0cb7066daf80

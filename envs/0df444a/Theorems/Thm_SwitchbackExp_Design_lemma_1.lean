@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchbackExp_Design_lemma_1
 -- name    : SwitchbackExp.Design.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:25.447947+00:00
 -- url     : https://prove2.me/theorems/8a96bcf2-c6bf-49ab-afce-da107bdb812d

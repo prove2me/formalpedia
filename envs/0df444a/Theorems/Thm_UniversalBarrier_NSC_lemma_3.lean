@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalBarrier_NSC_lemma_3
 -- name    : UniversalBarrier.NSC.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:39.872425+00:00
 -- url     : https://prove2.me/theorems/5cbd9780-15c2-4143-a479-131938bedbf6

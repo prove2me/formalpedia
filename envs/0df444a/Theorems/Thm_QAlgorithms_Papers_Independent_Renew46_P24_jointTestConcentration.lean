@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P24_jointTestConcentration
 -- name    : QAlgorithms.Papers.Independent.Renew46.P24.jointTestConcentration
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:39:03.560238+00:00
 -- url     : https://prove2.me/theorems/8bfdae86-4a6b-4b41-b554-e64d74d1add7

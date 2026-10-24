@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Deterministic_deterministic_dominated
 -- name    : ApproxIC.Deterministic.deterministic_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:26.500325+00:00
 -- url     : https://prove2.me/theorems/781e825a-0a80-464b-9e8e-e4cbe113ca89

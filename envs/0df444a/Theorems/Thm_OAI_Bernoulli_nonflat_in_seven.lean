@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Bernoulli_nonflat_in_seven
 -- name    : OAI.Bernoulli.nonflat_in_seven
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.144868+00:00
 -- url     : https://prove2.me/theorems/3eccf7a5-44d6-4999-94d6-5238b91d1868

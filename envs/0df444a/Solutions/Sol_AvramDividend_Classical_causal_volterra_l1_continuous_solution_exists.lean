@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.causal_volterra_l1_continuous_solution_exists
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T22:07:10.407416+00:00
 -- url     : https://prove2.me/submissions/de43f751-870c-43e7-86c0-86c7de2bd084
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Mathlib.MeasureTheory.Integral.IntegrableOn

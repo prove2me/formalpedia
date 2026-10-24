@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P39_product_target_fidelity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P39.product_target_fidelity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:20:23.956978+00:00
 -- url     : https://prove2.me/theorems/05c2a9da-cd9a-4d2a-b6ff-46415b3fbed5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelationalReciprocity_Dynamics_proposition_1
 -- name    : RelationalReciprocity.Dynamics.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:17:23.316085+00:00
 -- url     : https://prove2.me/theorems/8febf488-fd5a-47c7-bf9d-c7c6b22c94e3

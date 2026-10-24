@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MatrixGeometric_matrix_geometric_property
 -- name    : MatrixAnalytic.MatrixGeometric.matrix_geometric_property
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:45:00.017668+00:00
 -- url     : https://prove2.me/theorems/c32e63b9-70ac-47bc-8eb7-d220a4485e06

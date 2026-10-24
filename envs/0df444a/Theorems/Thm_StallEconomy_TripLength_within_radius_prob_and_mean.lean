@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_TripLength_within_radius_prob_and_mean
 -- name    : StallEconomy.TripLength.within_radius_prob_and_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:55.81662+00:00
 -- url     : https://prove2.me/theorems/a5139905-1156-4298-b344-1684dc6650b0

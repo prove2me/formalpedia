@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Duality_eq_24
 -- name    : L0BnB.Duality.eq_24
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:21:42.298358+00:00
 -- url     : https://prove2.me/theorems/fc3682de-bd4e-4925-b0c4-d3576e514f2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeeSviridenkoVondrak_LocalSearch_lemma_2_7
 -- name    : LeeSviridenkoVondrak.LocalSearch.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:28.388623+00:00
 -- url     : https://prove2.me/theorems/775821fb-9fe2-4ba4-a0a5-f2a3992d7d4f

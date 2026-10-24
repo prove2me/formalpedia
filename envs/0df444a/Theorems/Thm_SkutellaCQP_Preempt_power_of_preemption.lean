@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_Preempt_power_of_preemption
 -- name    : SkutellaCQP.Preempt.power_of_preemption
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:33.063092+00:00
 -- url     : https://prove2.me/theorems/dac870aa-821f-407e-a5dd-7cd51d247432

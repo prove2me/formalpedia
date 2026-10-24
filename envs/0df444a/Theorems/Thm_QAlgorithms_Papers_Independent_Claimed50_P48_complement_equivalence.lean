@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_complement_equivalence
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.complement_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:40:15.787891+00:00
 -- url     : https://prove2.me/theorems/a1ae6f23-a739-4b0d-b09d-023f357654b7

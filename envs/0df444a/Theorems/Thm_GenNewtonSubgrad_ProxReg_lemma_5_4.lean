@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenNewtonSubgrad_ProxReg_lemma_5_4
 -- name    : GenNewtonSubgrad.ProxReg.lemma_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:35:39.165122+00:00
 -- url     : https://prove2.me/theorems/60bd307f-5572-4d59-9315-2c8dc576f883

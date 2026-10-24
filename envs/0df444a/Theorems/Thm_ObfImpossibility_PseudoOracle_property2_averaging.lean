@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_property2_averaging
 -- name    : ObfImpossibility.PseudoOracle.property2_averaging
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:26.634002+00:00
 -- url     : https://prove2.me/theorems/66995e1b-617d-431c-b329-5043e8dbb573

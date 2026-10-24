@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Spectral_tower_iff
 -- name    : MatrixAnalytic.Spectral.tower_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:17.728758+00:00
 -- url     : https://prove2.me/theorems/811746f7-d082-4b68-bf68-8bb0d49400fa

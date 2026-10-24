@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P43_fixedBobReformulation
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P43.fixedBobReformulation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:22:49.07732+00:00
 -- url     : https://prove2.me/theorems/eab65809-6ea2-4666-bf1b-a60408f410e2

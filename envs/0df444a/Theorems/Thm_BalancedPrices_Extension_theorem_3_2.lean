@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalancedPrices_Extension_theorem_3_2
 -- name    : BalancedPrices.Extension.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T15:10:36.705523+00:00
 -- url     : https://prove2.me/theorems/42a29781-6add-402d-8f96-b9bd0b121152

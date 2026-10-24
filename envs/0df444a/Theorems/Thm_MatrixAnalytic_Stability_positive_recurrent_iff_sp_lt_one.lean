@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Stability_positive_recurrent_iff_sp_lt_one
 -- name    : MatrixAnalytic.Stability.positive_recurrent_iff_sp_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:31.086904+00:00
 -- url     : https://prove2.me/theorems/e14cc5cd-bd81-4701-9032-8903e2d20f73

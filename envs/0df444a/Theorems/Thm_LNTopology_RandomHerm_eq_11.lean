@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_RandomHerm_eq_11
 -- name    : LNTopology.RandomHerm.eq_11
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:15:26.75075+00:00
 -- url     : https://prove2.me/theorems/d4e81000-8960-4e60-ab6f-b06bc0807b8c

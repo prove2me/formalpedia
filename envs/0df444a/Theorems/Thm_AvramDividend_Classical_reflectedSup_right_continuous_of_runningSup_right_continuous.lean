@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_reflectedSup_right_continuous_of_runningSup_right_continuous
 -- name    : AvramDividend.Classical.reflectedSup_right_continuous_of_runningSup_right_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T10:48:55.371445+00:00
 -- url     : https://prove2.me/theorems/e8e0a450-7995-44ba-9bfe-608d6bd890a0

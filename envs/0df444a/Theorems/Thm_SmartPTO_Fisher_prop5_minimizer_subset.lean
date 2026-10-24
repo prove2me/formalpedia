@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_prop5_minimizer_subset
 -- name    : SmartPTO.Fisher.prop5_minimizer_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:28.345985+00:00
 -- url     : https://prove2.me/theorems/fa64443c-126f-4664-ab4c-dcb9b1747ff1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurelyBetter_CLB_theorem2_min_rep
 -- name    : SurelyBetter.CLB.theorem2_min_rep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:19.135981+00:00
 -- url     : https://prove2.me/theorems/a20dca82-f273-4a5a-978b-2ad277d81046

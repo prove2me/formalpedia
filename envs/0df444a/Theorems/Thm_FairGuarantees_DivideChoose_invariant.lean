@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_DivideChoose_invariant
 -- name    : FairGuarantees.DivideChoose.invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:36.518159+00:00
 -- url     : https://prove2.me/theorems/6fa72dcd-c9c7-484d-b1e3-d2b84c0a2e23

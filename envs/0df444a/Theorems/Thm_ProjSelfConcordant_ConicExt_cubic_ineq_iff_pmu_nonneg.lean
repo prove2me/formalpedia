@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_cubic_ineq_iff_pmu_nonneg
 -- name    : ProjSelfConcordant.ConicExt.cubic_ineq_iff_pmu_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:04.36172+00:00
 -- url     : https://prove2.me/theorems/ec6500d5-59ca-46a1-9c5c-001953a19dd8

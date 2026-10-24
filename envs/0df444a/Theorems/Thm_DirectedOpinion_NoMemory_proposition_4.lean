@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_NoMemory_proposition_4
 -- name    : DirectedOpinion.NoMemory.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:31.395831+00:00
 -- url     : https://prove2.me/theorems/03a8339c-f386-41d3-ad18-9cf3fbf7a71f

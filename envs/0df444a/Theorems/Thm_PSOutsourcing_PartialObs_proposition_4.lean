@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PSOutsourcing_PartialObs_proposition_4
 -- name    : PSOutsourcing.PartialObs.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:51:09.000617+00:00
 -- url     : https://prove2.me/theorems/c43dbbb9-9325-4d6c-9d6a-86d3f197f011

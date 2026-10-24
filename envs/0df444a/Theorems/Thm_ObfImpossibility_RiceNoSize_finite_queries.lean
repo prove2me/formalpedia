@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_finite_queries
 -- name    : ObfImpossibility.RiceNoSize.finite_queries
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:59.545204+00:00
 -- url     : https://prove2.me/theorems/77e849be-4e4c-43d3-82ce-3e3a01e1965e

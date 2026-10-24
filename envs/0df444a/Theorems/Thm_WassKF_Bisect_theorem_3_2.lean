@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassKF_Bisect_theorem_3_2
 -- name    : WassKF.Bisect.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:12:44.306981+00:00
 -- url     : https://prove2.me/theorems/48a735cc-fa6f-4bf0-8f5d-10a1a13c06f5

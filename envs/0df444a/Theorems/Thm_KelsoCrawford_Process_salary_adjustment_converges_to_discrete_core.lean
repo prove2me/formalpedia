@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_Process_salary_adjustment_converges_to_discrete_core
 -- name    : KelsoCrawford.Process.salary_adjustment_converges_to_discrete_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:46:40.684384+00:00
 -- url     : https://prove2.me/theorems/197e481b-a45e-446e-b9fc-0e697edb1515

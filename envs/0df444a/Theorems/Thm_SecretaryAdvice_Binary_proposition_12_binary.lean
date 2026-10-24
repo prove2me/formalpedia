@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Binary_proposition_12_binary
 -- name    : SecretaryAdvice.Binary.proposition_12_binary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:42:40.80485+00:00
 -- url     : https://prove2.me/theorems/97500e5a-1638-43c7-ae71-80a268363b36

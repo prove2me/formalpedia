@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_activeHull_exp_surjective
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.activeHull_exp_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T02:58:03.611544+00:00
 -- url     : https://prove2.me/theorems/cd9b1ff5-0018-4960-a12d-258f2c06fecf

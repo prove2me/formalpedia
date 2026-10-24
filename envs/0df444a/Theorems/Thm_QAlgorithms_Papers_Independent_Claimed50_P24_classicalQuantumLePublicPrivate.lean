@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_classicalQuantumLePublicPrivate
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.classicalQuantumLePublicPrivate
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:37:48.36698+00:00
 -- url     : https://prove2.me/theorems/5de39e3c-c9b9-4cae-a7a7-046faa73fcd1

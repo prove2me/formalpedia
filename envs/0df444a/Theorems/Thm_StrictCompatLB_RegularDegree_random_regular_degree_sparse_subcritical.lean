@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_RegularDegree_random_regular_degree_sparse_subcritical
 -- name    : StrictCompatLB.RegularDegree.random_regular_degree_sparse_subcritical
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:08:02.80952+00:00
 -- url     : https://prove2.me/theorems/ed72b892-46fc-46d2-9c76-3050cf96eb8c

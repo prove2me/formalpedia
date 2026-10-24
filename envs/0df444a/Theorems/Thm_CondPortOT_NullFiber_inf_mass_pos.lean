@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_NullFiber_inf_mass_pos
 -- name    : CondPortOT.NullFiber.inf_mass_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:09.708625+00:00
 -- url     : https://prove2.me/theorems/db362dfc-c46b-4211-ae11-8f7f5d26aee3

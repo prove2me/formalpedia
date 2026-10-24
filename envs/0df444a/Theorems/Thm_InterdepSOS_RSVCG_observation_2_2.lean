@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_RSVCG_observation_2_2
 -- name    : InterdepSOS.RSVCG.observation_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:31.601025+00:00
 -- url     : https://prove2.me/theorems/0843a076-9585-4147-b151-71e5596b15d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_scalar_tilted_monotonicity
 -- name    : scalar_tilted_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T04:15:30.991269+00:00
 -- url     : https://prove2.me/theorems/1f863481-8e68-4984-a66d-e185f891c5a9

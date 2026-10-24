@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManPG_Conv_theorem_5_5
 -- name    : ManPG.Conv.theorem_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T19:04:39.707587+00:00
 -- url     : https://prove2.me/theorems/47371620-e64b-4b58-8da2-4a11ef140855

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Memoryless_proposition_10
 -- name    : SecretaryAdvice.Memoryless.proposition_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:42:55.645917+00:00
 -- url     : https://prove2.me/theorems/2451e6e5-8f4b-44b0-b30e-67aaab2a0225

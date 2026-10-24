@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaturatedNet_Uniqueness_corollary_1
 -- name    : SaturatedNet.Uniqueness.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:37:33.217738+00:00
 -- url     : https://prove2.me/theorems/044f6f31-8536-43a9-b006-65cf48be45cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_schur_permutation_blocks
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.schur_permutation_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:49:04.345146+00:00
 -- url     : https://prove2.me/theorems/b331ed9d-58ac-41f8-9fe0-4378d1043cc8

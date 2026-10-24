@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_Triage_scheduling_rate_bound
 -- name    : OutpatientWalkIn.Triage.scheduling_rate_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:05:56.780979+00:00
 -- url     : https://prove2.me/theorems/16c76ca9-de98-43d9-bb08-019d4f06e9c2

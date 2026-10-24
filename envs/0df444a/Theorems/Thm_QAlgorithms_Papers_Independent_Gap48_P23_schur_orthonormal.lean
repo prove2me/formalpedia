@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_schur_orthonormal
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.schur_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:54:02.439703+00:00
 -- url     : https://prove2.me/theorems/94a48eae-40e6-4be6-9b77-6c97c8fdc4a7

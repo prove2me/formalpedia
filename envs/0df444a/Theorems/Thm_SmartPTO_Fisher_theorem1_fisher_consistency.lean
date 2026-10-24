@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_theorem1_fisher_consistency
 -- name    : SmartPTO.Fisher.theorem1_fisher_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:20.258162+00:00
 -- url     : https://prove2.me/theorems/532d866c-8a7f-4ce6-8ff2-61d6f5028005

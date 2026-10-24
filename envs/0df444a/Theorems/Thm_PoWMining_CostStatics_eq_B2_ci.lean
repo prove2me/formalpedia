@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_CostStatics_eq_B2_ci
 -- name    : PoWMining.CostStatics.eq_B2_ci
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:52.733697+00:00
 -- url     : https://prove2.me/theorems/ceafe3ee-2be7-4496-a393-7bbd01f8b410

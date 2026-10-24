@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QReversal_NearOpt_theorem_3
 -- name    : QReversal.NearOpt.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:27.527466+00:00
 -- url     : https://prove2.me/theorems/7490fe67-fb78-4fbd-be50-df8fee1501af

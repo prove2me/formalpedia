@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P02_hilbertSchmidt_complete_finiteRank_dense
 -- name    : QAlgorithms.Papers.Independent.Next46.P02.hilbertSchmidt_complete_finiteRank_dense
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:32:41.170041+00:00
 -- url     : https://prove2.me/theorems/64842d38-8d0e-41fa-af5f-2e36c8b4c4c8

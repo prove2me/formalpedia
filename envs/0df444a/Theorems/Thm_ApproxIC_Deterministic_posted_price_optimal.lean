@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Deterministic_posted_price_optimal
 -- name    : ApproxIC.Deterministic.posted_price_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:38.13821+00:00
 -- url     : https://prove2.me/theorems/dba6c235-b185-4acc-92a2-915e0e20ff74

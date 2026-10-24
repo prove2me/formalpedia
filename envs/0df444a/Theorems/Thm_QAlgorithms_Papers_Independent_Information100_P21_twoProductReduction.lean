@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_twoProductReduction
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.twoProductReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:56:03.375689+00:00
 -- url     : https://prove2.me/theorems/6777de58-65fe-43fd-80e5-9441d290fcef

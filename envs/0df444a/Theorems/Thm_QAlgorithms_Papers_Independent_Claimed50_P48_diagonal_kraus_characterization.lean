@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_diagonal_kraus_characterization
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.diagonal_kraus_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:45:37.780527+00:00
 -- url     : https://prove2.me/theorems/f462d653-0762-427b-ace8-674bd61a94e5

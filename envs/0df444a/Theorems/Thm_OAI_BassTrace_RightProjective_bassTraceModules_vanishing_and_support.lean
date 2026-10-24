@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BassTrace_RightProjective_bassTraceModules_vanishing_and_support
 -- name    : OAI.BassTrace.RightProjective.bassTraceModules_vanishing_and_support
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.013972+00:00
 -- url     : https://prove2.me/theorems/a60b0321-e019-4292-8702-da9ba4524698

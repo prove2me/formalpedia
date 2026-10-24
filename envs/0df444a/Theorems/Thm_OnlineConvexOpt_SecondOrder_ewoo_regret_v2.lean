@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_SecondOrder_ewoo_regret_v2
 -- name    : OnlineConvexOpt.SecondOrder.ewoo_regret_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:41:25.540977+00:00
 -- url     : https://prove2.me/theorems/fc1017c2-bd95-437a-b4eb-7b5cb96a0674

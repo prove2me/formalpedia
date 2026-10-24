@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Cohen2019_Robust_thm1_binary_case_faithful
 -- name    : Cohen2019.Robust.thm1_binary_case_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:33:52.617145+00:00
 -- url     : https://prove2.me/theorems/5232569c-0451-43f4-81fb-d826224e6485

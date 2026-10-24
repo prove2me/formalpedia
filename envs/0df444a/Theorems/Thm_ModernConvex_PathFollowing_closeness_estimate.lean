@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_closeness_estimate
 -- name    : ModernConvex.PathFollowing.closeness_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:56.180379+00:00
 -- url     : https://prove2.me/theorems/b8a4c3dc-1842-4605-8050-bfd906d25f08

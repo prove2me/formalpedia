@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProRataUC_Sustain_theorem_1
 -- name    : ProRataUC.Sustain.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:16:27.990051+00:00
 -- url     : https://prove2.me/theorems/4627c558-f40c-494a-85d7-eb20c28eee51

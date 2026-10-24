@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnAugFL_CMP_theorem_9
 -- name    : LearnAugFL.CMP.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:22:49.191028+00:00
 -- url     : https://prove2.me/theorems/96c29a42-b86c-4ef8-941c-858b5bb6c5e9

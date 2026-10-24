@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Spectral_roots_gamma_eigenvalues
 -- name    : MatrixAnalytic.Spectral.roots_gamma_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:46:09.570869+00:00
 -- url     : https://prove2.me/theorems/5c0f67f8-fda9-451a-97a9-838ce1268812

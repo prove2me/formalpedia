@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformFinance_WinWin_profits_P
 -- name    : PlatformFinance.WinWin.profits_P
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:20.44985+00:00
 -- url     : https://prove2.me/theorems/8abf02c2-c918-43d2-9e47-79bff1bc8654

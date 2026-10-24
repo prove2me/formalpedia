@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_LowerBound_theorem_3
 -- name    : ApproxIC.LowerBound.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:26.245487+00:00
 -- url     : https://prove2.me/theorems/1ae1f54c-9543-49ab-9557-d825c882e03e

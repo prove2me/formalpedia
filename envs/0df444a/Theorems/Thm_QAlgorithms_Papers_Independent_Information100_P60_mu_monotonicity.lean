@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_mu_monotonicity
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.mu_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:37:58.948507+00:00
 -- url     : https://prove2.me/theorems/e316a4a3-bda2-4138-b873-6c482b5887b3

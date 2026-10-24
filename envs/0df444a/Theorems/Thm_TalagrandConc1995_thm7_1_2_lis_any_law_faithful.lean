@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc1995_thm7_1_2_lis_any_law_faithful
 -- name    : TalagrandConc1995.thm7_1_2_lis_any_law_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T03:19:16.815439+00:00
 -- url     : https://prove2.me/theorems/bf3a3460-6508-46cc-9eb4-b54906c8b29b

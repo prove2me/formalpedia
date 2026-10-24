@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P12_minimal_split_annihilator
 -- name    : QAlgorithms.Papers.Independent.Support21.P12.minimal_split_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:10:01.096627+00:00
 -- url     : https://prove2.me/theorems/6742571f-5894-473e-a5dc-54b1334b6108

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtznerDEHK2007_thm4_2_stable_tfae_faithful
 -- name    : ArtznerDEHK2007.thm4_2_stable_tfae_faithful
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:34:29.243979+00:00
 -- url     : https://prove2.me/theorems/60cc8c49-285d-47da-ab62-072e84f5e070

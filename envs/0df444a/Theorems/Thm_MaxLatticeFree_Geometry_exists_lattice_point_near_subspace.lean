@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_exists_lattice_point_near_subspace
 -- name    : MaxLatticeFree.Geometry.exists_lattice_point_near_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:17:38.160971+00:00
 -- url     : https://prove2.me/theorems/894b621a-a8d0-40fc-b140-7b8a4be27faf

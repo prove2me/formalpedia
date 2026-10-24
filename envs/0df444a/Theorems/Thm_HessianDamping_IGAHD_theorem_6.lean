@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HessianDamping_IGAHD_theorem_6
 -- name    : HessianDamping.IGAHD.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:04.41317+00:00
 -- url     : https://prove2.me/theorems/198e2dd4-7a30-4567-8824-c88646a7900d

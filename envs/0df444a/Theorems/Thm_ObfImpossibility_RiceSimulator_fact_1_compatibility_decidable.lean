@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceSimulator_fact_1_compatibility_decidable
 -- name    : ObfImpossibility.RiceSimulator.fact_1_compatibility_decidable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:05.347998+00:00
 -- url     : https://prove2.me/theorems/e81219fe-12ad-4448-a05e-8f42034b6155

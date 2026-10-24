@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_AVaR_avar_properties
 -- name    : RiskFunctionals.AVaR.avar_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:52:08.222649+00:00
 -- url     : https://prove2.me/theorems/8e107445-72e4-4fcf-8e71-a887d9c4b107

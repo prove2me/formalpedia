@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_SmallCap_eq_27_departure_law
 -- name    : OutpatientWalkIn.SmallCap.eq_27_departure_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:36.322597+00:00
 -- url     : https://prove2.me/theorems/9d591813-8e8e-40cd-be71-7fa1a1b14b50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_paley11987_four_phase
 -- name    : SensitivityCampaign.paley11987_four_phase
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-10-22T22:27:08.112403+00:00
 -- url     : https://prove2.me/theorems/17127cc8-197a-4d2c-a452-3f589d1cd3b1

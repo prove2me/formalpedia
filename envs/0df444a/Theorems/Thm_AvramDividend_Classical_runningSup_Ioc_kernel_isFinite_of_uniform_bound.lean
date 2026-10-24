@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_runningSup_Ioc_kernel_isFinite_of_uniform_bound
 -- name    : AvramDividend.Classical.runningSup_Ioc_kernel_isFinite_of_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T06:43:04.826911+00:00
 -- url     : https://prove2.me/theorems/a0a0b856-226e-4099-82b3-56b062c5a7d6

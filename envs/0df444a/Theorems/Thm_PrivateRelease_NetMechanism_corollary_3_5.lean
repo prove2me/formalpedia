@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateRelease_NetMechanism_corollary_3_5
 -- name    : PrivateRelease.NetMechanism.corollary_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:09:19.692595+00:00
 -- url     : https://prove2.me/theorems/2a71760b-ef93-4a2d-85e1-d7da2faf58fb

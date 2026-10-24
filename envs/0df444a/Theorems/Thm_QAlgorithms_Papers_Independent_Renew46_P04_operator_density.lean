@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_operator_density
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.operator_density
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:04:34.742968+00:00
 -- url     : https://prove2.me/theorems/12096183-29a8-428d-b849-349072e535a4

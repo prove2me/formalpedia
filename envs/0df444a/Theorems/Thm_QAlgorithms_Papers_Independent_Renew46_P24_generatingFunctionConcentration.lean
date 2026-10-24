@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P24_generatingFunctionConcentration
 -- name    : QAlgorithms.Papers.Independent.Renew46.P24.generatingFunctionConcentration
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:45:30.424946+00:00
 -- url     : https://prove2.me/theorems/3a5da87d-f878-4ee7-a7c2-267c4d6f741e

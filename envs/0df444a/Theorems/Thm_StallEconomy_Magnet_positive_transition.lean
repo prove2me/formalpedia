@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_Magnet_positive_transition
 -- name    : StallEconomy.Magnet.positive_transition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:10.488181+00:00
 -- url     : https://prove2.me/theorems/ae15374b-7ac4-4c52-be28-7bef2b5b454f

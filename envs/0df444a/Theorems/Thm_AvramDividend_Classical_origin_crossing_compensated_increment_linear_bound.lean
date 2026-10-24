@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_origin_crossing_compensated_increment_linear_bound
 -- name    : AvramDividend.Classical.origin_crossing_compensated_increment_linear_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:26:41.789555+00:00
 -- url     : https://prove2.me/theorems/e1b2764c-23fe-40a8-b73f-9f651bed61d2

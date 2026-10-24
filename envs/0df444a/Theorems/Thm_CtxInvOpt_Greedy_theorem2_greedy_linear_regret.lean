@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Greedy_theorem2_greedy_linear_regret
 -- name    : CtxInvOpt.Greedy.theorem2_greedy_linear_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:07.5191+00:00
 -- url     : https://prove2.me/theorems/12ab6181-09bf-4b4b-a9d6-e1240eab087a

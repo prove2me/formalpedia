@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_GamesDuality_eg_regret_bound_v2
 -- name    : OnlineConvexOpt.GamesDuality.eg_regret_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:21:56.1457+00:00
 -- url     : https://prove2.me/theorems/845adfb0-7493-49e4-8c42-d49059b1adaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_MeanField_lemma_F_1
 -- name    : StrictCompatLB.MeanField.lemma_F_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:51:54.756874+00:00
 -- url     : https://prove2.me/theorems/7b8d112f-78fe-45dd-b554-bf49bbd882a1

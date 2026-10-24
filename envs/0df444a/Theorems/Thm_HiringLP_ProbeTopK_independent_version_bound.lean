@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_ProbeTopK_independent_version_bound
 -- name    : HiringLP.ProbeTopK.independent_version_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:17.414323+00:00
 -- url     : https://prove2.me/theorems/ec77f9dc-7ca1-4df7-a7e2-17e925cf38f5

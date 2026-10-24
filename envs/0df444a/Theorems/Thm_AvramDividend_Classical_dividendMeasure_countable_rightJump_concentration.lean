@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dividendMeasure_countable_rightJump_concentration
 -- name    : AvramDividend.Classical.dividendMeasure_countable_rightJump_concentration
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T08:48:39.302927+00:00
 -- url     : https://prove2.me/theorems/6e98697d-4ac5-42be-ba2c-d798755519a1

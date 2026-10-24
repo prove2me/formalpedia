@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsampleSubmod_SampleGreedy_theorem_1
 -- name    : SubsampleSubmod.SampleGreedy.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:08.400713+00:00
 -- url     : https://prove2.me/theorems/13111b08-72cc-4f5d-9bbd-02a707272684

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_ProxyLabel_label_max_prob
 -- name    : PosetSecretary.ProxyLabel.label_max_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:22.967738+00:00
 -- url     : https://prove2.me/theorems/cb65ee6e-df99-4324-ab4c-7cc1e724ec3d

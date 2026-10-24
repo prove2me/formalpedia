@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_origin_crossing_strip_norm_integral_bound
 -- name    : AvramDividend.Classical.origin_crossing_strip_norm_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:25:26.37272+00:00
 -- url     : https://prove2.me/theorems/36b53f5a-b481-4f09-9f12-64bb5923c0fd

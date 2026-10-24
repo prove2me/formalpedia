@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_EditSketch_appendix_E_key_equation
 -- name    : FuzzyExtractors.EditSketch.appendix_E_key_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:54.795207+00:00
 -- url     : https://prove2.me/theorems/c1653e52-700d-461d-8906-c9868146f5b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BudgetClock_NonMonotone_lemma_6
 -- name    : BudgetClock.NonMonotone.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:16.965833+00:00
 -- url     : https://prove2.me/theorems/a67a3817-6f7d-4e2d-8047-d42c22dddfc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_matrix_cube_theorem
 -- name    : ModernConvex.MatrixCube.matrix_cube_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:53.754445+00:00
 -- url     : https://prove2.me/theorems/d3340cca-df91-4af2-a845-7e5cebac7b15

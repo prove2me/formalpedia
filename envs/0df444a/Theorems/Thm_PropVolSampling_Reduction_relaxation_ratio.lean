@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropVolSampling_Reduction_relaxation_ratio
 -- name    : PropVolSampling.Reduction.relaxation_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:32.689688+00:00
 -- url     : https://prove2.me/theorems/1bc0688e-a7c2-44cc-93d8-fe53e94da2ec

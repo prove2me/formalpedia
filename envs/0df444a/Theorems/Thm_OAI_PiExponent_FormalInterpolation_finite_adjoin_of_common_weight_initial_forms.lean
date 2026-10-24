@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_adjoin_of_common_weight_initial_forms
 -- name    : OAI.PiExponent.FormalInterpolation.finite_adjoin_of_common_weight_initial_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T09:19:51.417899+00:00
 -- url     : https://prove2.me/theorems/c3922187-263d-4782-bc19-c04ca93e1597

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P10_strong_superadditivity
 -- name    : QAlgorithms.Papers.Independent.Gap20.P10.strong_superadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:30:22.208236+00:00
 -- url     : https://prove2.me/theorems/fb531be2-3202-4f80-b6e0-63826cac377b

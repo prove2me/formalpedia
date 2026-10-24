@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PosetSecretary_ProxyLabel_value_ge_sum_top_k
 -- name    : PosetSecretary.ProxyLabel.value_ge_sum_top_k
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:33.358884+00:00
 -- url     : https://prove2.me/theorems/0390d6d2-2250-46f0-a1b4-cca7918a29ab

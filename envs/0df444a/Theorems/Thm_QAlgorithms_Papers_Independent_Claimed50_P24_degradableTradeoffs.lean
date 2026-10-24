@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_degradableTradeoffs
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.degradableTradeoffs
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:38:26.363233+00:00
 -- url     : https://prove2.me/theorems/9befed5b-46bf-4588-bdc1-7b16069b646a

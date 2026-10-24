@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P35_cq_identity_and_holevo
 -- name    : QAlgorithms.Papers.Independent.Renew46.P35.cq_identity_and_holevo
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:59:28.856075+00:00
 -- url     : https://prove2.me/theorems/d01f3dd1-ba76-4f60-b90f-a030e7d5668d

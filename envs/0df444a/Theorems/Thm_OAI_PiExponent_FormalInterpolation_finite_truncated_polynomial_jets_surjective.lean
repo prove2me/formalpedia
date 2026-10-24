@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_truncated_polynomial_jets_surjective
 -- name    : OAI.PiExponent.FormalInterpolation.finite_truncated_polynomial_jets_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T05:04:57.833966+00:00
 -- url     : https://prove2.me/theorems/b15cec34-dbd8-4774-b9e2-827c98fd6e62

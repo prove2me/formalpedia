@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_permutation_channel_factorization
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.permutation_channel_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:37:26.138464+00:00
 -- url     : https://prove2.me/theorems/d36e72e8-9d7e-4695-8fd9-94af9d3f1063

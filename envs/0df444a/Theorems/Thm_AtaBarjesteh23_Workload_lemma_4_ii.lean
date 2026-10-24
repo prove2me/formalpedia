@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtaBarjesteh23_Workload_lemma_4_ii
 -- name    : AtaBarjesteh23.Workload.lemma_4_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:18.154308+00:00
 -- url     : https://prove2.me/theorems/bddbf170-c082-41a0-ab0c-a50793657698

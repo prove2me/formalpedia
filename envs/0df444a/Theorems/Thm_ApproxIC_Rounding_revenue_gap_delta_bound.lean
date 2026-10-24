@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Rounding_revenue_gap_delta_bound
 -- name    : ApproxIC.Rounding.revenue_gap_delta_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:08.994275+00:00
 -- url     : https://prove2.me/theorems/64b2114f-8ade-484f-a513-021f2379dbbf

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.WeakMTWGlobalSupport.WeakMTW.activeHull_exp_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-19T03:09:31.190165+00:00
 -- url     : https://prove2.me/submissions/5753d818-403b-4d94-8d3a-e7af9f35caaa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WeakMTWGlobalSupport

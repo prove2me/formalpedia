@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_positive_jump_tail_density_total_mass
 -- name    : AvramDividend.Classical.positive_jump_tail_density_total_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:12:12.277738+00:00
 -- url     : https://prove2.me/theorems/643537e3-486f-4c7d-abb9-3b482377dade

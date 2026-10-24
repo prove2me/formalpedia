@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P30_youngBound_gaussian
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P30.youngBound_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:22:14.778254+00:00
 -- url     : https://prove2.me/theorems/c5abff41-77f0-4e36-a42b-b129aad7db81

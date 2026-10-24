@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContextualAuctions_Existence_lemma_2
 -- name    : ContextualAuctions.Existence.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:29:53.513668+00:00
 -- url     : https://prove2.me/theorems/751b67bd-a135-4d15-8f37-f1ce9535c095

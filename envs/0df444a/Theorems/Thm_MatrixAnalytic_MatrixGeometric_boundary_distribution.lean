@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_MatrixGeometric_boundary_distribution
 -- name    : MatrixAnalytic.MatrixGeometric.boundary_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:10.755055+00:00
 -- url     : https://prove2.me/theorems/4584dca9-ecc7-41fe-bae3-3e763186ef95

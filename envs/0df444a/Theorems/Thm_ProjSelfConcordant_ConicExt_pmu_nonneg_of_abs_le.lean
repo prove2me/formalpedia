@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_pmu_nonneg_of_abs_le
 -- name    : ProjSelfConcordant.ConicExt.pmu_nonneg_of_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:08:04.512642+00:00
 -- url     : https://prove2.me/theorems/6ebfe4f3-48a8-4508-9c4b-d37ad29aec53

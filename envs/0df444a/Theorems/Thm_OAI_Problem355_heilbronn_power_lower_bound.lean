@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem355_heilbronn_power_lower_bound
 -- name    : OAI.Problem355.heilbronn_power_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:10.981698+00:00
 -- url     : https://prove2.me/theorems/0ca11482-9e69-4802-a402-56069b7294ad

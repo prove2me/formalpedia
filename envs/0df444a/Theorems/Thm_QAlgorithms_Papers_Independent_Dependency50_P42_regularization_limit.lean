@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P42_regularization_limit
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P42.regularization_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:54:28.323928+00:00
 -- url     : https://prove2.me/theorems/5d35553b-e053-4849-8f27-8478707751fc

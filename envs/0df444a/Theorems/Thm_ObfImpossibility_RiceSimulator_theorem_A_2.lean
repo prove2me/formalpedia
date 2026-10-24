@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceSimulator_theorem_A_2
 -- name    : ObfImpossibility.RiceSimulator.theorem_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:29:34.330475+00:00
 -- url     : https://prove2.me/theorems/b7cf1ad7-7002-47d9-8364-1a2d30ea2afa

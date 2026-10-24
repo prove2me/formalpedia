@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonMilman1985_thm2_7_multigraph_faithful
 -- name    : AlonMilman1985.thm2_7_multigraph_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T00:25:33.908964+00:00
 -- url     : https://prove2.me/theorems/a565e31d-cebf-4c2a-ab50-70310aa7fdee

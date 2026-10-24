@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_TripLength_expected_l1_sq
 -- name    : StallEconomy.TripLength.expected_l1_sq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:54.70098+00:00
 -- url     : https://prove2.me/theorems/440098f4-6bef-400a-9cda-a935e8cf829c

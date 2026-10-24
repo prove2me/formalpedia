@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CClosedGraphs_Peeling_theorem_2_2
 -- name    : CClosedGraphs.Peeling.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:20:32.957057+00:00
 -- url     : https://prove2.me/theorems/2dd65ef6-eae8-46bf-90ab-330fe5298fb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Bellman_theorem_1
 -- name    : VolunteerEngage.Bellman.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:20.796046+00:00
 -- url     : https://prove2.me/theorems/c38ec9b1-5e81-4de2-a5ee-b9c51e53b21a

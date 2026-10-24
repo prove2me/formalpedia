@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_generatorIntegrable_of_min_one_abs_bound_boundedVariation
 -- name    : AvramDividend.Classical.generatorIntegrable_of_min_one_abs_bound_boundedVariation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:36:00.973785+00:00
 -- url     : https://prove2.me/theorems/69c9f15a-79bb-4420-bd7d-1acc33fcdfee

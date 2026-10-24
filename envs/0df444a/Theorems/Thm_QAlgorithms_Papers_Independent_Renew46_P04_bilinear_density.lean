@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_bilinear_density
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.bilinear_density
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:03:08.096897+00:00
 -- url     : https://prove2.me/theorems/f73fbe2f-aff1-48d0-8def-70e972148687

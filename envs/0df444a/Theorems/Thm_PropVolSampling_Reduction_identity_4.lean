@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropVolSampling_Reduction_identity_4
 -- name    : PropVolSampling.Reduction.identity_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:26.949979+00:00
 -- url     : https://prove2.me/theorems/53c881bc-f1dc-40a2-825f-2bb16297dc98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MICPRep_Periodic_lemma_6_1
 -- name    : MICPRep.Periodic.lemma_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:20.827011+00:00
 -- url     : https://prove2.me/theorems/94c7412c-1ebe-4439-93b0-e44d695f9995

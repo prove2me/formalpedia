@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P38_jensenOperator_equivalences
 -- name    : QAlgorithms.Papers.Independent.Renew46.P38.jensenOperator_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:06:17.252893+00:00
 -- url     : https://prove2.me/theorems/3f17cddb-b46f-4d4c-b5ea-3b9d0ddd38bc

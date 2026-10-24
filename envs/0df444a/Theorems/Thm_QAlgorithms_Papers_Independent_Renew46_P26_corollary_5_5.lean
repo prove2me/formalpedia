@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P26_corollary_5_5
 -- name    : QAlgorithms.Papers.Independent.Renew46.P26.corollary_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T21:02:07.943517+00:00
 -- url     : https://prove2.me/theorems/c9270b4a-70a4-47b0-8225-4b8450cb81cc

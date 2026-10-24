@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.cstar_finite_of_deriv_growth_both_ends
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-06T18:21:50.016529+00:00
 -- url     : https://prove2.me/submissions/85fd59ca-9d48-46e8-82e6-2641cb9e3eef
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

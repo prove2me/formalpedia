@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_SLemma_zero_set_projective_connected
 -- name    : ModernConvex.SLemma.zero_set_projective_connected
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:47.075984+00:00
 -- url     : https://prove2.me/theorems/57f1c7b4-9682-49be-94de-33454efce1a0

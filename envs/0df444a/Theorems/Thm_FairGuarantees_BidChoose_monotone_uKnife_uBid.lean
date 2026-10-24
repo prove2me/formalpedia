@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_BidChoose_monotone_uKnife_uBid
 -- name    : FairGuarantees.BidChoose.monotone_uKnife_uBid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:42.778651+00:00
 -- url     : https://prove2.me/theorems/7c47963e-bba5-48c8-8528-f0b207897015

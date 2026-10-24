@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_N_mem_PiY
 -- name    : ObfImpossibility.RiceNoSize.N_mem_PiY
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:55.595857+00:00
 -- url     : https://prove2.me/theorems/88622a4a-36f2-4925-b58a-a8d59172b91e

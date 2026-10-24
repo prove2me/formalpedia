@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P26_hookLengthFormula
 -- name    : QAlgorithms.Papers.Independent.Next46.P26.hookLengthFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:06:11.503689+00:00
 -- url     : https://prove2.me/theorems/4981ef5f-6891-40d5-b93c-8eed1d9a3d0e

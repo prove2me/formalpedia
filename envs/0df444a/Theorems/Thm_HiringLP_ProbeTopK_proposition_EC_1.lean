@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_ProbeTopK_proposition_EC_1
 -- name    : HiringLP.ProbeTopK.proposition_EC_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:18.763551+00:00
 -- url     : https://prove2.me/theorems/001be504-3847-404b-9192-5a86728e0596

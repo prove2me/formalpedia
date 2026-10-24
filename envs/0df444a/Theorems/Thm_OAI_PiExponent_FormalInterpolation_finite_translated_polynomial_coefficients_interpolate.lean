@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_translated_polynomial_coefficients_interpolate
 -- name    : OAI.PiExponent.FormalInterpolation.finite_translated_polynomial_coefficients_interpolate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T21:14:52.223988+00:00
 -- url     : https://prove2.me/theorems/14a93359-dfaa-45aa-9760-fe5e08819730

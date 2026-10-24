@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Pca_pca_basic_inequality_v2
 -- name    : HighDimStat.Pca.pca_basic_inequality_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:23.870029+00:00
 -- url     : https://prove2.me/theorems/2b1a7bfd-83e5-4944-8553-d44a58df93d4

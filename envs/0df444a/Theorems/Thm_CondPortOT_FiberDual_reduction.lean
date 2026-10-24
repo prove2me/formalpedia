@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_FiberDual_reduction
 -- name    : CondPortOT.FiberDual.reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:09.735049+00:00
 -- url     : https://prove2.me/theorems/ff855c2e-a257-40ea-93f9-bd6c3659f728

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnAugFL_CMP_lemma_8
 -- name    : LearnAugFL.CMP.lemma_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:22:50.317965+00:00
 -- url     : https://prove2.me/theorems/0ba212b7-c9ec-41c8-aea9-867789c9146f

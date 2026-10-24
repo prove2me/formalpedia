@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonprofitFunds_Capacity_proposition_1
 -- name    : NonprofitFunds.Capacity.proposition_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-20T05:52:10.637371+00:00
 -- url     : https://prove2.me/theorems/657461a8-3520-4a7a-966c-ac550ecb1016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P02_nuclear_adjoint
 -- name    : QAlgorithms.Papers.Independent.Next46.P02.nuclear_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:24:39.317581+00:00
 -- url     : https://prove2.me/theorems/efd240e4-3f53-4321-a09b-441d0d9cc1cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_two_cases
 -- name    : IwataFF.SFM.two_cases
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:27.312985+00:00
 -- url     : https://prove2.me/theorems/7d8bc8af-e0ff-46fe-abf9-06d521e6b2c0

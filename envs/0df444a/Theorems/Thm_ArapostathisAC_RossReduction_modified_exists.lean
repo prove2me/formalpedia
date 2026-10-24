@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_RossReduction_modified_exists
 -- name    : ArapostathisAC.RossReduction.modified_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:07:34.340546+00:00
 -- url     : https://prove2.me/theorems/3df61e75-bb23-432d-a151-6116a295aa85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P10_bipartite_locc_monotonicity
 -- name    : QAlgorithms.Papers.Independent.Gap20.P10.bipartite_locc_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:24:54.742673+00:00
 -- url     : https://prove2.me/theorems/f8a58c4e-876b-435c-ac74-035efd194206

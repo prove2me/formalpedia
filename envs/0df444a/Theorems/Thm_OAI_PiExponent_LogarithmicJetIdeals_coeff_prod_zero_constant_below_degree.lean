@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_coeff_prod_zero_constant_below_degree
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.coeff_prod_zero_constant_below_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T17:59:12.624368+00:00
 -- url     : https://prove2.me/theorems/a2521d15-2b67-49a5-8228-7d403370a05f

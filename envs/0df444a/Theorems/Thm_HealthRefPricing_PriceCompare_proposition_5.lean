@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HealthRefPricing_PriceCompare_proposition_5
 -- name    : HealthRefPricing.PriceCompare.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:23:41.097982+00:00
 -- url     : https://prove2.me/theorems/b040c6c9-e6d7-4c96-a04c-373deeee6eed

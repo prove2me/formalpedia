@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageStochastic_avar_dual_representation_v2
 -- name    : MultistageStochastic.avar_dual_representation_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:21:07.478888+00:00
 -- url     : https://prove2.me/theorems/0f1c92c5-d3bb-4149-8435-e7bc2a65ddb4

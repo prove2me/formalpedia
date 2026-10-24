@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P05_calculus_coordinate_uniqueness
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P05.calculus_coordinate_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:13:48.146561+00:00
 -- url     : https://prove2.me/theorems/49aa9c5f-a0f9-4f87-9cbe-9a617a212496

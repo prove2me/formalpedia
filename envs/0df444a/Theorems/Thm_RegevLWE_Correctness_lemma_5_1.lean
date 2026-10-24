@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegevLWE_Correctness_lemma_5_1
 -- name    : RegevLWE.Correctness.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T23:07:46.653428+00:00
 -- url     : https://prove2.me/theorems/372c2ee4-3a66-4998-824d-787044393416

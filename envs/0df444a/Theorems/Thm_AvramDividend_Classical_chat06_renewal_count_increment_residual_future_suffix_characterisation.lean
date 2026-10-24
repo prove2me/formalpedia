@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_renewal_count_increment_residual_future_suffix_characterisation
 -- name    : AvramDividend.Classical.chat06_renewal_count_increment_residual_future_suffix_characterisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T08:24:07.76998+00:00
 -- url     : https://prove2.me/theorems/c8af9577-8951-4276-bbe5-d443afac5821

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_three_product_positive
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.three_product_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:43:10.660326+00:00
 -- url     : https://prove2.me/theorems/988c0d15-4f29-458d-a17a-006a51489128

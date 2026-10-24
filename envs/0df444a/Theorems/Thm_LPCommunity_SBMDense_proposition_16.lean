@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPCommunity_SBMDense_proposition_16
 -- name    : LPCommunity.SBMDense.proposition_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:38:19.193887+00:00
 -- url     : https://prove2.me/theorems/1444536b-5532-4dd8-b02f-54391885024d

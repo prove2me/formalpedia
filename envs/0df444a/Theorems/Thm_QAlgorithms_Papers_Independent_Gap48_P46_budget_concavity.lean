@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P46_budget_concavity
 -- name    : QAlgorithms.Papers.Independent.Gap48.P46.budget_concavity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T06:02:54.227363+00:00
 -- url     : https://prove2.me/theorems/979923be-1abf-4d0f-829b-6dbb304c2e0c

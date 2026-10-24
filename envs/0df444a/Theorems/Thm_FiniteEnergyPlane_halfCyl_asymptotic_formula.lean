@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_halfCyl_asymptotic_formula
 -- name    : FiniteEnergyPlane.halfCyl_asymptotic_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-21T12:42:33.022193+00:00
 -- url     : https://prove2.me/theorems/9d7619b0-d17e-42cb-ab93-0916eb2795f1

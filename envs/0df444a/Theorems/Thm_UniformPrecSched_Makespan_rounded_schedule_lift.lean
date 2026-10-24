@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPrecSched_Makespan_rounded_schedule_lift
 -- name    : UniformPrecSched.Makespan.rounded_schedule_lift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:32:31.975839+00:00
 -- url     : https://prove2.me/theorems/b594bc2c-c550-4121-88aa-da1c0e6f6049

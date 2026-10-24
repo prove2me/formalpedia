@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_basic_boundary_regular_of_positive_cstar
 -- name    : AvramDividend.Classical.vcstar_basic_boundary_regular_of_positive_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T20:48:09.520979+00:00
 -- url     : https://prove2.me/theorems/c6167930-c245-49bf-a03b-7af5826dbf00

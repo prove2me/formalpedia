@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_CostStatics_proposition_4_6
 -- name    : PoWMining.CostStatics.proposition_4_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:53.277981+00:00
 -- url     : https://prove2.me/theorems/ecb84368-347d-4f8b-aaa7-72b52687f293

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_cstar_finite_of_nearzero_and_tail_bounds
 -- name    : AvramDividend.Classical.cstar_finite_of_nearzero_and_tail_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T18:09:20.167191+00:00
 -- url     : https://prove2.me/theorems/c10c5d95-188d-428d-a68e-bc946069d2b0

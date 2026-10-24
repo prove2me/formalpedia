@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_Param_induction_step
 -- name    : PrizeAlloc.Param.induction_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:13.782889+00:00
 -- url     : https://prove2.me/theorems/671cfcc3-d102-466a-b009-a859b23ea6cd

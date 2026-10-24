@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_augmented_ge_revenue
 -- name    : GVRPricing.FixedPrice.augmented_ge_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:59:55.295613+00:00
 -- url     : https://prove2.me/theorems/73d3b21b-fb17-44a7-8a9b-7a9902101961

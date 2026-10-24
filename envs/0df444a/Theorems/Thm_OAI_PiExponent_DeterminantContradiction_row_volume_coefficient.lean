@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_DeterminantContradiction_row_volume_coefficient
 -- name    : OAI.PiExponent.DeterminantContradiction.row_volume_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T23:16:23.341051+00:00
 -- url     : https://prove2.me/theorems/05a3203c-875c-45ca-b0ea-71a117aa9074

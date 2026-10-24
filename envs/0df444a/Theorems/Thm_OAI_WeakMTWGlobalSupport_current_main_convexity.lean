@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_current_main_convexity
 -- name    : OAI.WeakMTWGlobalSupport.current_main_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:38.652147+00:00
 -- url     : https://prove2.me/theorems/2421f609-331b-4a6c-80b7-e1d23a58daa9

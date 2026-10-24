@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P17_minimal_environment_rank
 -- name    : QAlgorithms.Papers.Independent.Support21.P17.minimal_environment_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:49:33.295116+00:00
 -- url     : https://prove2.me/theorems/a588772e-4852-45f5-8592-87419b278a13

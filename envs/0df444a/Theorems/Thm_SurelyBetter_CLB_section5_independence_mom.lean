@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurelyBetter_CLB_section5_independence_mom
 -- name    : SurelyBetter.CLB.section5_independence_mom
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:16.910987+00:00
 -- url     : https://prove2.me/theorems/e41079e1-ba67-4a44-910d-82d59f4fb1d8

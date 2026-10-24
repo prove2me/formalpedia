@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FosterQueues_MG1_mean_first_passage_linear
 -- name    : FosterQueues.MG1.mean_first_passage_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:20:30.641522+00:00
 -- url     : https://prove2.me/theorems/07514ae4-ffdc-4bd7-831f-7eb884adfcd2

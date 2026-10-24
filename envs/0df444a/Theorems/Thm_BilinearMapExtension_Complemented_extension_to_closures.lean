@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearMapExtension_Complemented_extension_to_closures
 -- name    : BilinearMapExtension.Complemented.extension_to_closures
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:56.659522+00:00
 -- url     : https://prove2.me/theorems/c9bcdb4e-f993-4ad1-8bd3-335e6643c279

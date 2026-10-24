@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_fejer_map_iterates_converge
 -- name    : ShorNonsmooth.Fejer.fejer_map_iterates_converge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:30:11.925997+00:00
 -- url     : https://prove2.me/theorems/e4545150-90c5-4cd6-880a-b5cc058767f9

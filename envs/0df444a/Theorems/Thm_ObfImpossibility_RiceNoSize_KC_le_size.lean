@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_KC_le_size
 -- name    : ObfImpossibility.RiceNoSize.KC_le_size
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:44.435695+00:00
 -- url     : https://prove2.me/theorems/e707c710-b4e0-4049-a29e-74f0b638649b

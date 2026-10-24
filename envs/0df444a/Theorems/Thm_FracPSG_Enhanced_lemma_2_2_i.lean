@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPSG_Enhanced_lemma_2_2_i
 -- name    : FracPSG.Enhanced.lemma_2_2_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T22:07:31.698894+00:00
 -- url     : https://prove2.me/theorems/1ad1f3ad-3261-44cd-8482-82bb03a93dfd

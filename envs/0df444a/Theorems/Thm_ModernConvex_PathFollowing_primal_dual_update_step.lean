@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_PathFollowing_primal_dual_update_step
 -- name    : ModernConvex.PathFollowing.primal_dual_update_step
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:54.71158+00:00
 -- url     : https://prove2.me/theorems/387cf85f-68cd-4ac3-b85b-b9a1765c6f0a

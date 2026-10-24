@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeldKarp_Gap_corollary_1
 -- name    : HeldKarp.Gap.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:40:04.02788+00:00
 -- url     : https://prove2.me/theorems/ac423013-a5bb-428b-b0a1-99c349335237

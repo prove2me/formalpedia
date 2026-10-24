@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContextualAuctions_Structure_proposition_3
 -- name    : ContextualAuctions.Structure.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:29:28.822079+00:00
 -- url     : https://prove2.me/theorems/028fb40c-c374-4eb8-b070-fc27a5ca6d95

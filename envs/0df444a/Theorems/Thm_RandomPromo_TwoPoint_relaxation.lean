@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomPromo_TwoPoint_relaxation
 -- name    : RandomPromo.TwoPoint.relaxation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:30.498413+00:00
 -- url     : https://prove2.me/theorems/d433eb8a-4b82-4bd4-9cd8-a642c2e8483e

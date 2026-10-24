@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstRegretMatch_Acyclic_eq_4_basis_inverse
 -- name    : ConstRegretMatch.Acyclic.eq_4_basis_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:36:31.800537+00:00
 -- url     : https://prove2.me/theorems/f588c332-44e9-488a-99b1-b95d637d9afd

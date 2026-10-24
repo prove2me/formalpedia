@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Representation_theorem1_regret_form
 -- name    : BellRegret.Representation.theorem1_regret_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:21:33.92022+00:00
 -- url     : https://prove2.me/theorems/6dbdad73-89b1-45b3-b9ae-14802b313d91

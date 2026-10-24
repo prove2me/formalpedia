@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_Param_converse
 -- name    : PrizeAlloc.Param.converse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:33:52.867679+00:00
 -- url     : https://prove2.me/theorems/d94521e1-205c-4ac5-b4e7-3fcda73fa599

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PostmarketCompliance_Threshold_proposition_2
 -- name    : PostmarketCompliance.Threshold.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:22:15.167809+00:00
 -- url     : https://prove2.me/theorems/d5c72fb1-61de-4ad2-bb03-b160efcb1a7d

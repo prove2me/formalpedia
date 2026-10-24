@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_contDiffOn_two_linear_remainder_isBigO
 -- name    : AvramDividend.Classical.contDiffOn_two_linear_remainder_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T11:37:38.717545+00:00
 -- url     : https://prove2.me/theorems/f6c8b92a-97fa-4f79-b8c4-4e832f718f84

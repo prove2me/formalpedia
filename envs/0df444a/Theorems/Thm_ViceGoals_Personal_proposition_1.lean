@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ViceGoals_Personal_proposition_1
 -- name    : ViceGoals.Personal.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T09:15:30.556298+00:00
 -- url     : https://prove2.me/theorems/5c700055-a7e1-4a61-805f-b85623bca47a

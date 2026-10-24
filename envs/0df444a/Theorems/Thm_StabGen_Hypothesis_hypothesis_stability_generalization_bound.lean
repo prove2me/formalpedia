@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_hypothesis_stability_generalization_bound
 -- name    : StabGen.Hypothesis.hypothesis_stability_generalization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:09:30.845069+00:00
 -- url     : https://prove2.me/theorems/8bc1e765-f1be-43ea-bbbe-7d8bd898cf48

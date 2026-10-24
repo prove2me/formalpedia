@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dividendMeasure_countable_rightJump_concentration_of_purely_atomic
 -- name    : AvramDividend.Classical.dividendMeasure_countable_rightJump_concentration_of_purely_atomic
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T11:36:30.908208+00:00
 -- url     : https://prove2.me/theorems/76715a90-91f3-4db6-ad64-9afae72f3329

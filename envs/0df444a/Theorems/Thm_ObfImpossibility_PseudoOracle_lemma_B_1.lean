@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_lemma_B_1
 -- name    : ObfImpossibility.PseudoOracle.lemma_B_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:44.300988+00:00
 -- url     : https://prove2.me/theorems/547405cc-afd8-4f9a-af51-41d5cff181da

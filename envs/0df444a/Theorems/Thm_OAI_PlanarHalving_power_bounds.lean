@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PlanarHalving_power_bounds
 -- name    : OAI.PlanarHalving.power_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:04.534348+00:00
 -- url     : https://prove2.me/theorems/c27843c1-9f1e-4321-92a9-c0a589cb257e

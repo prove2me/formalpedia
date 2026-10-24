@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Continuity_lemma_4_c
 -- name    : SensitivityPoA.Continuity.lemma_4_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:38:59.420681+00:00
 -- url     : https://prove2.me/theorems/9a2af19b-071e-456c-9dcc-f9d82860395c

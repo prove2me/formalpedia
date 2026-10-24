@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P04_teleportationCovariant_iff_choiCommutes
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P04.teleportationCovariant_iff_choiCommutes
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:19:06.966431+00:00
 -- url     : https://prove2.me/theorems/4a5a8f1c-480b-4a79-a8d3-64e5937937ee

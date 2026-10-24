@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPrecSched_Makespan_theorem_3_5
 -- name    : UniformPrecSched.Makespan.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:32:13.798983+00:00
 -- url     : https://prove2.me/theorems/1f4dea90-f661-40bf-89b1-9e0f2a4c4318

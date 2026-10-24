@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncated_packet_matrix_of_polynomial_coefficients_under_row_cutoff
 -- name    : OAI.PiExponent.FormalInterpolation.truncated_packet_matrix_of_polynomial_coefficients_under_row_cutoff
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-16T11:58:41.362977+00:00
 -- url     : https://prove2.me/theorems/c86aab09-08c2-42bc-a7e9-926d88c2e6a1

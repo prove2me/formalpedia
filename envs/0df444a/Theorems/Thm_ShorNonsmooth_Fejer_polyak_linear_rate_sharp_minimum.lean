@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_polyak_linear_rate_sharp_minimum
 -- name    : ShorNonsmooth.Fejer.polyak_linear_rate_sharp_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:30:58.921218+00:00
 -- url     : https://prove2.me/theorems/44588c40-47db-4cf1-8787-c79c28e7b4b6

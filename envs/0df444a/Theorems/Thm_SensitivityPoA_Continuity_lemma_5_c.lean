@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Continuity_lemma_5_c
 -- name    : SensitivityPoA.Continuity.lemma_5_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:02.179229+00:00
 -- url     : https://prove2.me/theorems/f11f1a87-5b15-483b-915e-47bf78572e68

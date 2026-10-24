@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QReversal_NearOpt_eq_14_15
 -- name    : QReversal.NearOpt.eq_14_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:16.40384+00:00
 -- url     : https://prove2.me/theorems/d22839e5-451a-4306-9744-776f7141d224

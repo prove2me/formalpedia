@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropVolSampling_Reduction_cp_le_opt
 -- name    : PropVolSampling.Reduction.cp_le_opt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:36.917547+00:00
 -- url     : https://prove2.me/theorems/3366d531-3b74-447a-acde-ed2d07b7d45b

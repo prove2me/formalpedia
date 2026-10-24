@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KLTNuclear_Oracle_basic_inequality
 -- name    : KLTNuclear.Oracle.basic_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T07:50:25.371091+00:00
 -- url     : https://prove2.me/theorems/4df2855f-cd0a-4525-b702-a18058fff8ab

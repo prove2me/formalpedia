@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Supermodular_thm54_cooperative_irreducible_v2
 -- name    : StochFictPlay.Supermodular.thm54_cooperative_irreducible_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:27.337464+00:00
 -- url     : https://prove2.me/theorems/8443c20b-ccd6-4a2b-a037-8ed814ede348

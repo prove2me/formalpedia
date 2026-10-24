@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_FiberDual_theorem_4_4
 -- name    : CondPortOT.FiberDual.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:30.209118+00:00
 -- url     : https://prove2.me/theorems/28f6c55d-3de8-4bff-9607-edf752192c43

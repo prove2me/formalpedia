@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.causal_volterra_l1_derivative_resolvent_exists
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T20:58:57.361005+00:00
 -- url     : https://prove2.me/submissions/07c2666d-008e-45f2-ab02-d41aa68a8dca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.IntegrableOn
 import Theorems.Thm_AvramDividend_Classical_causal_volterra_exponential_kernel_weight_small

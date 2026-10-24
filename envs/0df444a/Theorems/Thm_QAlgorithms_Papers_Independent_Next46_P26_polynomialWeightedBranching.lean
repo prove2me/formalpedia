@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P26_polynomialWeightedBranching
 -- name    : QAlgorithms.Papers.Independent.Next46.P26.polynomialWeightedBranching
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:07:48.079974+00:00
 -- url     : https://prove2.me/theorems/965cbe4d-df0b-44af-8767-85064fe047c6

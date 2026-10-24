@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Stability_positive_recurrence_finite_phases
 -- name    : MatrixAnalytic.Stability.positive_recurrence_finite_phases
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:44:34.241023+00:00
 -- url     : https://prove2.me/theorems/84009e78-afc8-4d07-b81c-ffc29eb322fc

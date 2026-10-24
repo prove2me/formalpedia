@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Lipschitz_ineq_4_39
 -- name    : SensitivityPoA.Lipschitz.ineq_4_39
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:56.113991+00:00
 -- url     : https://prove2.me/theorems/8b8e9996-14cc-4aff-9fba-c12c3771d9cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_frame_word_preserves_degree_and_jets
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_frame_word_preserves_degree_and_jets
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T08:42:35.95689+00:00
 -- url     : https://prove2.me/theorems/e88166c1-b117-4238-8ae8-7503be8d5cc6

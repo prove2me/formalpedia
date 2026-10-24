@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_deterministic_solution
 -- name    : GVRPricing.FixedPrice.deterministic_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:03:16.612602+00:00
 -- url     : https://prove2.me/theorems/43278370-3a67-48b0-8119-66a58762fbb1

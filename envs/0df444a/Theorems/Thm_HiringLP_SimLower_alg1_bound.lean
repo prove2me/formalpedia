@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimLower_alg1_bound
 -- name    : HiringLP.SimLower.alg1_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:37.83614+00:00
 -- url     : https://prove2.me/theorems/21432eac-4daa-464c-97d6-8d52ddef698c

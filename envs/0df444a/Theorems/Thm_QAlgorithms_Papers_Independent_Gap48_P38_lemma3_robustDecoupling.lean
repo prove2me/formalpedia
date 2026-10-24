@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_lemma3_robustDecoupling
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.lemma3_robustDecoupling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:05:44.908573+00:00
 -- url     : https://prove2.me/theorems/d71970af-3436-4e31-9913-ca0a36ee33a7

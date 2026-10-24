@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_restrict_Ico_eq_of_local_Ico_mass_eq
 -- name    : AvramDividend.Classical.restrict_Ico_eq_of_local_Ico_mass_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T11:38:24.024579+00:00
 -- url     : https://prove2.me/theorems/dd16ce16-2a3d-4eff-b3f5-d551882bf5b0

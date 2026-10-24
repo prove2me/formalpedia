@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_cstar_finite_of_deriv_growth_both_ends
 -- name    : AvramDividend.Classical.cstar_finite_of_deriv_growth_both_ends
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T18:18:07.07133+00:00
 -- url     : https://prove2.me/theorems/14bb551e-b9d2-4e23-bb34-6f4dda7b1661

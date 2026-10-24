@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Continuity_lemma_3
 -- name    : SensitivityPoA.Continuity.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:38:58.015981+00:00
 -- url     : https://prove2.me/theorems/d34cf642-c23d-449b-b3ad-f2277cdca1fa

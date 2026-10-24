@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoSkew_Main_proposition_2_8_ii_vi
 -- name    : MonoSkew.Main.proposition_2_8_ii_vi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:29.468314+00:00
 -- url     : https://prove2.me/theorems/ce73e73b-fe85-484d-8465-62639e7ee9b1

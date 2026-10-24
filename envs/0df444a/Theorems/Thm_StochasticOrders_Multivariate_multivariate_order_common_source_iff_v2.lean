@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_Multivariate_multivariate_order_common_source_iff_v2
 -- name    : StochasticOrders.Multivariate.multivariate_order_common_source_iff_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:28.749584+00:00
 -- url     : https://prove2.me/theorems/e4858b7f-1bea-4bc0-8b0e-d047fe0dd722

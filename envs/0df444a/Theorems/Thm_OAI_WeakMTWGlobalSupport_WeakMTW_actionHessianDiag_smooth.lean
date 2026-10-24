@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_actionHessianDiag_smooth
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.actionHessianDiag_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T02:58:02.034658+00:00
 -- url     : https://prove2.me/theorems/faca538a-3c06-4e3a-878d-c16897b5367a

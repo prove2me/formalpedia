@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_eq_33
 -- name    : SKAlgorithm.Qudit.eq_33
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:27:07.617535+00:00
 -- url     : https://prove2.me/theorems/173ea296-d030-4fa7-a9b1-9eb961c147fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_esscher_jump_tail_mass_lt_drift_of_positive_root
 -- name    : AvramDividend.Classical.esscher_jump_tail_mass_lt_drift_of_positive_root
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T11:11:49.00964+00:00
 -- url     : https://prove2.me/theorems/f9d6259c-a030-440d-87dc-cdc5c8912fe2

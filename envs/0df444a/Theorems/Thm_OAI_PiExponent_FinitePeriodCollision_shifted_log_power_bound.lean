@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FinitePeriodCollision_shifted_log_power_bound
 -- name    : OAI.PiExponent.FinitePeriodCollision.shifted_log_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-20T08:13:01.494978+00:00
 -- url     : https://prove2.me/theorems/744696ce-6294-40b9-8982-e2bc89f1e72c

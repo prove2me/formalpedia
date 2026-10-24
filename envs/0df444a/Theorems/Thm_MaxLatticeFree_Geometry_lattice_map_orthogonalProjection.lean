@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_lattice_map_orthogonalProjection
 -- name    : MaxLatticeFree.Geometry.lattice_map_orthogonalProjection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:16:49.266038+00:00
 -- url     : https://prove2.me/theorems/2e424ab7-bb83-405a-9ad3-77ba62be1874

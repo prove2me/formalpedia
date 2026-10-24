@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_fixed_price_ratio_bound
 -- name    : GVRPricing.FixedPrice.fixed_price_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:04:06.646315+00:00
 -- url     : https://prove2.me/theorems/bc8f6dd9-69b5-4272-b5b2-638f6fddd957

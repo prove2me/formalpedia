@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_prop6a_mean_minimizes
 -- name    : SmartPTO.Fisher.prop6a_mean_minimizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:10.469985+00:00
 -- url     : https://prove2.me/theorems/1a2d3b21-75e7-4046-a0b8-dd3f29984e51

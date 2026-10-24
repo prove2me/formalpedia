@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAPooling_MaxMin_qaPool_existsUnique
 -- name    : QAPooling.MaxMin.qaPool_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:35.915588+00:00
 -- url     : https://prove2.me/theorems/a2fe3759-e156-46f2-ba72-1dba93753ef0

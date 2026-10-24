@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SAG_SmallStep_lyapunov_init
 -- name    : SAG.SmallStep.lyapunov_init
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:27:06.151733+00:00
 -- url     : https://prove2.me/theorems/3e09428f-f921-4526-af26-5d20cde9d0a3

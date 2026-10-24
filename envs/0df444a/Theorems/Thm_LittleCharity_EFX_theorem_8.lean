@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LittleCharity_EFX_theorem_8
 -- name    : LittleCharity.EFX.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:41:27.215988+00:00
 -- url     : https://prove2.me/theorems/61b240a5-540f-42a1-9ee8-f31eb5f34ed1

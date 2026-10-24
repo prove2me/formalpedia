@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_Param_theorem_3
 -- name    : PrizeAlloc.Param.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:01.000059+00:00
 -- url     : https://prove2.me/theorems/9ff3803b-540e-4385-9aaf-a544c1788235

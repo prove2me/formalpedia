@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Pushed_lemma_6_5
 -- name    : TreewidthApprox.Pushed.lemma_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:43.26498+00:00
 -- url     : https://prove2.me/theorems/ec8ca385-f908-48b5-b723-c34ba1a74114

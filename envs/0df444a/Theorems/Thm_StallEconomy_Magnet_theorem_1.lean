@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_Magnet_theorem_1
 -- name    : StallEconomy.Magnet.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:06.976672+00:00
 -- url     : https://prove2.me/theorems/8a2587b2-dcf8-4864-abb3-482b1f8af06a

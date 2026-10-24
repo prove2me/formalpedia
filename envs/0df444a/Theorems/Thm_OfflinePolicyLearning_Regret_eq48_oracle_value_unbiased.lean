@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflinePolicyLearning_Regret_eq48_oracle_value_unbiased
 -- name    : OfflinePolicyLearning.Regret.eq48_oracle_value_unbiased
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:33:56.606724+00:00
 -- url     : https://prove2.me/theorems/124e5122-0c31-4953-b021-85b9ebe83416

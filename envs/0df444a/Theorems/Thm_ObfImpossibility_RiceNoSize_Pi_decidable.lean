@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_Pi_decidable
 -- name    : ObfImpossibility.RiceNoSize.Pi_decidable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:57.913801+00:00
 -- url     : https://prove2.me/theorems/8e303a5b-8bf0-47eb-831e-10e95f4b805b

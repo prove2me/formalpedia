@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_runningSup_stopped_firstRecord_fin_grid_discount_bounds
 -- name    : AvramDividend.Classical.runningSup_stopped_firstRecord_fin_grid_discount_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T09:51:43.538746+00:00
 -- url     : https://prove2.me/theorems/f1a9dd57-83d0-4cda-8f17-6d6d35ec2769

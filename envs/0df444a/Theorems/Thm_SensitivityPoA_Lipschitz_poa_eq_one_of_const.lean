@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Lipschitz_poa_eq_one_of_const
 -- name    : SensitivityPoA.Lipschitz.poa_eq_one_of_const
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:27.410691+00:00
 -- url     : https://prove2.me/theorems/ad7c2a7d-dc96-4d51-b518-5e870d95bbed

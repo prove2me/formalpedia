@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_Memory_eq_15
 -- name    : DirectedOpinion.Memory.eq_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:57.234717+00:00
 -- url     : https://prove2.me/theorems/f5268631-da91-47db-a6f5-e107fe500055

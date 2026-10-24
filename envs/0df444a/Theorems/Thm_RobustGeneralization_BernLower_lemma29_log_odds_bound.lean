@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_BernLower_lemma29_log_odds_bound
 -- name    : RobustGeneralization.BernLower.lemma29_log_odds_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:20:13.523233+00:00
 -- url     : https://prove2.me/theorems/6292603d-359c-4224-8db7-77f3f8f29981

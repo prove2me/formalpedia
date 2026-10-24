@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_firstUpcrossing_value_le_threshold
 -- name    : AvramDividend.Classical.firstUpcrossing_value_le_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T23:12:51.194052+00:00
 -- url     : https://prove2.me/theorems/7d69998c-4968-4ba4-9780-d87464a958a6

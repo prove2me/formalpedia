@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceSimulator_survivors_eventually_equivalent
 -- name    : ObfImpossibility.RiceSimulator.survivors_eventually_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:03.778409+00:00
 -- url     : https://prove2.me/theorems/d7e50c84-4bb4-4ea3-9492-b4f78d502bb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P02_nuclear_ideal
 -- name    : QAlgorithms.Papers.Independent.Next46.P02.nuclear_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:23:52.962814+00:00
 -- url     : https://prove2.me/theorems/c723fac3-41cf-4485-82fc-e2d7936079e5

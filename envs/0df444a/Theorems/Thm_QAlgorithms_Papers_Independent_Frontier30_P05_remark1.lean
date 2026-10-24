@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P05_remark1
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P05.remark1
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:12:14.633546+00:00
 -- url     : https://prove2.me/theorems/4be3527d-ae39-4eae-8a3e-84029b4e1bc4

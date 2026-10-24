@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P26_lemma_5_2
 -- name    : QAlgorithms.Papers.Independent.Renew46.P26.lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:58:47.930299+00:00
 -- url     : https://prove2.me/theorems/b015e171-60dd-468d-8055-5a6d7b63b727

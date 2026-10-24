@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for UniformPrecSched.Makespan.theorem_3_7
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T13:04:23.079954+00:00
 -- url     : https://prove2.me/submissions/f87fe93d-e4ca-40d1-a181-0f9106ac8649
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_UniformPrecSched_Makespan_Model

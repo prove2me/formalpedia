@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyLossNetworks_Primal_theorem_2_8
 -- name    : KellyLossNetworks.Primal.theorem_2_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:07:41.832673+00:00
 -- url     : https://prove2.me/theorems/9e9b3bfe-3ea8-42b2-963c-d985594de936

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P04_local_tensor_density
 -- name    : QAlgorithms.Papers.Independent.Renew46.P04.local_tensor_density
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T04:09:39.908388+00:00
 -- url     : https://prove2.me/theorems/b0a0bfb5-0a6e-441c-b42d-a818b622e034

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_Investment_best_response_form
 -- name    : PoWMining.Investment.best_response_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:30.453805+00:00
 -- url     : https://prove2.me/theorems/28de8ec5-e2b5-484c-9c4f-1dadf5960d7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_covariant_reduction
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.covariant_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:16:57.41929+00:00
 -- url     : https://prove2.me/theorems/df18c546-0a38-48fd-920b-e5fa6bca4934

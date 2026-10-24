@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_frame_word_preserves_jets
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_frame_word_preserves_jets
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T08:50:24.949474+00:00
 -- url     : https://prove2.me/theorems/87adbb93-8c99-4f7d-bd36-8abaf2241b01

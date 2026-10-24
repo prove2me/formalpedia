@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_riemann_sum_bound
 -- name    : PersonalizedAssortment.IB.riemann_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:45:05.029043+00:00
 -- url     : https://prove2.me/theorems/058d13ab-27ae-44c3-bf6e-c1f08b91b128

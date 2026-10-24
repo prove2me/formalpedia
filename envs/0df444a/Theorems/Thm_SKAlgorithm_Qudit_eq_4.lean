@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_eq_4
 -- name    : SKAlgorithm.Qudit.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:55.533573+00:00
 -- url     : https://prove2.me/theorems/9c19e1e0-01a0-4370-8034-9efc6adac4e6

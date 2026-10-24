@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_shifted_kernel_gap_on_halfline
 -- name    : AvramDividend.Classical.bv_shifted_kernel_gap_on_halfline
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:26:57.84268+00:00
 -- url     : https://prove2.me/theorems/ea5b1659-9f7a-43e7-8b57-75f34e0c8547

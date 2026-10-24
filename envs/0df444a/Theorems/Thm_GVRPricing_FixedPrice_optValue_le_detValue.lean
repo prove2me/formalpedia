@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_optValue_le_detValue
 -- name    : GVRPricing.FixedPrice.optValue_le_detValue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:03:53.7308+00:00
 -- url     : https://prove2.me/theorems/8d34b533-86cf-47c8-91e0-7f5674db1d8c

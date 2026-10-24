@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RefMNLPricing_MultiVsSingle_theorem_7
 -- name    : RefMNLPricing.MultiVsSingle.theorem_7
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-14T11:43:18.06237+00:00
 -- url     : https://prove2.me/theorems/45706e42-10d8-4a64-b8be-1bbb4a9ea3da

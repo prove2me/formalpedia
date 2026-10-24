@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GVRPricing.FixedPrice.fixed_price_ratio_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T14:06:17.870218+00:00
 -- url     : https://prove2.me/submissions/e38c1c66-36ee-4972-9f29-26d2137143b4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GVRPricing_FixedPrice_Model

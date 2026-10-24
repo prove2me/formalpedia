@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_exp_coordinates_local_inverse
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.exp_coordinates_local_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T02:57:10.308261+00:00
 -- url     : https://prove2.me/theorems/fd4e1d7e-7805-4129-8e1b-fafbd3973455

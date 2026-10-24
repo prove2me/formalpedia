@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Linear_theorem_9
 -- name    : SampleDrivenOS.Linear.theorem_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:25.588984+00:00
 -- url     : https://prove2.me/theorems/03c7bc04-4936-45c1-b8c6-a1ceb23b227c

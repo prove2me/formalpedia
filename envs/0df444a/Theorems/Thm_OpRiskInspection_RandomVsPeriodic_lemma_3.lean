@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpRiskInspection_RandomVsPeriodic_lemma_3
 -- name    : OpRiskInspection.RandomVsPeriodic.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:32:31.612045+00:00
 -- url     : https://prove2.me/theorems/e470b50e-1aab-4bc8-926a-e1b4d5398b88

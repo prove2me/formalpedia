@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustDP_ChiSquare_lemma5_value_identity
 -- name    : RobustDP.ChiSquare.lemma5_value_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:38:11.948119+00:00
 -- url     : https://prove2.me/theorems/63fa1f77-c5e9-4f4d-a020-cc541e8191d9

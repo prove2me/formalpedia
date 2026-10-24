@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_FixedPrice_compensator_identities
 -- name    : GVRPricing.FixedPrice.compensator_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:59:46.811781+00:00
 -- url     : https://prove2.me/theorems/43b2ccb4-64a4-467a-91cb-4fe63950d1c6

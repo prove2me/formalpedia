@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_BinaryLimit_opt_eq_greedy_value
 -- name    : SecretaryAdvice.BinaryLimit.opt_eq_greedy_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:22.375471+00:00
 -- url     : https://prove2.me/theorems/60b48d09-59be-4299-aaed-ddf5b5e60817

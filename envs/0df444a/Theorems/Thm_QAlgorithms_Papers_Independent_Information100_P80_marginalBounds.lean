@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P80_marginalBounds
 -- name    : QAlgorithms.Papers.Independent.Information100.P80.marginalBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T13:15:46.711877+00:00
 -- url     : https://prove2.me/theorems/2210abe1-2275-4b49-83e2-fe23586ea477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Nonhomogeneous_UGR_relations
 -- name    : MatrixAnalytic.Nonhomogeneous.UGR_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:59.350211+00:00
 -- url     : https://prove2.me/theorems/41bd39e3-cb81-433c-adab-ac4172508ad0

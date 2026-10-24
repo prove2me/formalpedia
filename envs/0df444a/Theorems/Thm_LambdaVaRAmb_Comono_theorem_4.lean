@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaVaRAmb_Comono_theorem_4
 -- name    : LambdaVaRAmb.Comono.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:34:50.101477+00:00
 -- url     : https://prove2.me/theorems/bd980eca-d771-4177-8c2a-4aa2938c7d21

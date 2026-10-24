@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_OperatorSliding_gs_convergence_bound_v2
 -- name    : FirstOrderOpt.OperatorSliding.gs_convergence_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:17:28.756917+00:00
 -- url     : https://prove2.me/theorems/62d7a1de-c751-401c-ab35-96145971decb

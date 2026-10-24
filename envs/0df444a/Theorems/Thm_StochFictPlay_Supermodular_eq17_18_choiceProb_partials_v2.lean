@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Supermodular_eq17_18_choiceProb_partials_v2
 -- name    : StochFictPlay.Supermodular.eq17_18_choiceProb_partials_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:07.473412+00:00
 -- url     : https://prove2.me/theorems/2bedeea7-b046-4972-a026-020d2fa14bda

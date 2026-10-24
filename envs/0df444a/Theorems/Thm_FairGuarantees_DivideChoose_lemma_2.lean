@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_DivideChoose_lemma_2
 -- name    : FairGuarantees.DivideChoose.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:30.227131+00:00
 -- url     : https://prove2.me/theorems/9f293259-88da-43e5-b8ca-1c6c2362572a

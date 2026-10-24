@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P67_averageOfProjections
 -- name    : QAlgorithms.Papers.Independent.Information100.P67.averageOfProjections
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:54:14.440124+00:00
 -- url     : https://prove2.me/theorems/37b821f6-af9c-4b29-87e8-696d75175b14

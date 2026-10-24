@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_Lower_lemma_4
 -- name    : PigeonholeDesign.Lower.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:19:19.13178+00:00
 -- url     : https://prove2.me/theorems/83b65acd-d97c-447c-bf1b-44bd8822dbd3

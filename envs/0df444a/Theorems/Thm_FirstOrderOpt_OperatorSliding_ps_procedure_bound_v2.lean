@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_OperatorSliding_ps_procedure_bound_v2
 -- name    : FirstOrderOpt.OperatorSliding.ps_procedure_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:17:27.188596+00:00
 -- url     : https://prove2.me/theorems/94e0fcab-f578-44d1-a035-c16e3c3fd3c0

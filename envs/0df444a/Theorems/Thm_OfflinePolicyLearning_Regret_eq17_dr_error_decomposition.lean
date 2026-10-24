@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OfflinePolicyLearning_Regret_eq17_dr_error_decomposition
 -- name    : OfflinePolicyLearning.Regret.eq17_dr_error_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:33:51.165054+00:00
 -- url     : https://prove2.me/theorems/eff4c949-a46f-4542-b16e-9d82ab6d9b13

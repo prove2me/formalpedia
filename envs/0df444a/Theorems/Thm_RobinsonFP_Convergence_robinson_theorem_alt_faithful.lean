@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonFP_Convergence_robinson_theorem_alt_faithful
 -- name    : RobinsonFP.Convergence.robinson_theorem_alt_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:03:35.253587+00:00
 -- url     : https://prove2.me/theorems/a145e0d4-0326-4255-8363-3f3a4a716de4

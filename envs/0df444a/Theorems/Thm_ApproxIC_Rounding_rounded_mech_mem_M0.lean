@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Rounding_rounded_mech_mem_M0
 -- name    : ApproxIC.Rounding.rounded_mech_mem_M0
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:35.121981+00:00
 -- url     : https://prove2.me/theorems/eb6a1812-6bc9-42c0-a642-1e9addbeed64

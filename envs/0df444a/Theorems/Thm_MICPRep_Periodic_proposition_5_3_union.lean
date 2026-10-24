@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MICPRep_Periodic_proposition_5_3_union
 -- name    : MICPRep.Periodic.proposition_5_3_union
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T17:31:09.330948+00:00
 -- url     : https://prove2.me/theorems/fb3a0a8d-36c8-4182-8373-114a99a27b16

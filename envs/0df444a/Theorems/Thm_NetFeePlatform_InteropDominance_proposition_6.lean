@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_InteropDominance_proposition_6
 -- name    : NetFeePlatform.InteropDominance.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:13.486056+00:00
 -- url     : https://prove2.me/theorems/4c0ae405-e5b3-47cd-9de1-8cbb2377f65e

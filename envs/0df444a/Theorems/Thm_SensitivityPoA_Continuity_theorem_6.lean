@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Continuity_theorem_6
 -- name    : SensitivityPoA.Continuity.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:17.790293+00:00
 -- url     : https://prove2.me/theorems/70fade1b-b59f-464c-8b97-687289726d3a

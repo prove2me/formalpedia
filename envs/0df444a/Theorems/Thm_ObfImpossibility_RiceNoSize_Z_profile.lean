@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_Z_profile
 -- name    : ObfImpossibility.RiceNoSize.Z_profile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:29:11.245352+00:00
 -- url     : https://prove2.me/theorems/a35c482f-5d4c-4fd5-af5c-4417b2367117

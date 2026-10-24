@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AtaBarjesteh23_Workload_corollary_6
 -- name    : AtaBarjesteh23.Workload.corollary_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:06.431636+00:00
 -- url     : https://prove2.me/theorems/658ed95a-df92-4a5f-8e86-530dd799105f

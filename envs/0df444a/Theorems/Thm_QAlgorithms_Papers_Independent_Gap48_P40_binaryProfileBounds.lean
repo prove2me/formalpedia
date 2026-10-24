@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P40_binaryProfileBounds
 -- name    : QAlgorithms.Papers.Independent.Gap48.P40.binaryProfileBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:26:18.899989+00:00
 -- url     : https://prove2.me/theorems/34f03cc5-cdff-4ee9-ad1a-b2f63a3b72e2

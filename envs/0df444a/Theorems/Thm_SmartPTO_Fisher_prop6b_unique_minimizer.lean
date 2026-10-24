@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmartPTO_Fisher_prop6b_unique_minimizer
 -- name    : SmartPTO.Fisher.prop6b_unique_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:03:20.304095+00:00
 -- url     : https://prove2.me/theorems/9affcc47-edfd-43db-be7c-aa2be23c222a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WLIdentification_main
 -- name    : OAI.WLIdentification.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:38.003802+00:00
 -- url     : https://prove2.me/theorems/061c54c3-253a-4a3b-afe5-8503fae2c04e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_RandomHerm_eq_12_13_max_tail
 -- name    : LNTopology.RandomHerm.eq_12_13_max_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:15:01.825633+00:00
 -- url     : https://prove2.me/theorems/aef48373-cf27-475d-972b-de642ed417e9

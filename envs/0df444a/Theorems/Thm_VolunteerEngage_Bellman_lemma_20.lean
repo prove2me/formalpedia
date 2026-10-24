@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Bellman_lemma_20
 -- name    : VolunteerEngage.Bellman.lemma_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:17.966101+00:00
 -- url     : https://prove2.me/theorems/73431224-534c-40f4-a832-aa6f7fa5aad3

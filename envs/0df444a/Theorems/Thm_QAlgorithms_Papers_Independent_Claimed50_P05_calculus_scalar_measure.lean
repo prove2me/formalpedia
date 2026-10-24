@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P05_calculus_scalar_measure
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P05.calculus_scalar_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T09:22:46.241981+00:00
 -- url     : https://prove2.me/theorems/3f41660e-b2c3-4132-9693-0f61687cd23a

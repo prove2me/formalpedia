@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_near_HJB_of_C1_positive_scale
 -- name    : AvramDividend.Classical.vcstar_near_HJB_of_C1_positive_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T14:30:12.579898+00:00
 -- url     : https://prove2.me/theorems/9ff66972-7c5f-44c6-93fe-1cd50aef4ad5

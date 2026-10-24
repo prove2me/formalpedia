@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_SimLower_theorem_3
 -- name    : HiringLP.SimLower.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:30.907137+00:00
 -- url     : https://prove2.me/theorems/73ffc144-6fa8-4d9c-800c-76c24b8fa575

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P10_convexity
 -- name    : QAlgorithms.Papers.Independent.Gap20.P10.convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:28:11.428211+00:00
 -- url     : https://prove2.me/theorems/1e16d3ba-400d-41ed-a472-e183b189312a

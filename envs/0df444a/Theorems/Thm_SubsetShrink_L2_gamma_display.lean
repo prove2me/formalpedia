@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_L2_gamma_display
 -- name    : SubsetShrink.L2.gamma_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:35.47077+00:00
 -- url     : https://prove2.me/theorems/6297f923-64bc-49a1-a9f8-6f67bdb533cb

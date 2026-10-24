@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_excursion_laplace_weak_limit_of_tight_approximants
 -- name    : AvramDividend.Classical.excursion_laplace_weak_limit_of_tight_approximants
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T09:20:47.062332+00:00
 -- url     : https://prove2.me/theorems/32aa3f05-934c-4e90-9bea-a1e3c8f52c8b

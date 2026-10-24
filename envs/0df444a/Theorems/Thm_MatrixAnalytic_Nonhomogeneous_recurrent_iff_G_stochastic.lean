@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Nonhomogeneous_recurrent_iff_G_stochastic
 -- name    : MatrixAnalytic.Nonhomogeneous.recurrent_iff_G_stochastic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:47:50.709343+00:00
 -- url     : https://prove2.me/theorems/50ad3a03-2d62-48e2-9431-c87b6ef58e2c

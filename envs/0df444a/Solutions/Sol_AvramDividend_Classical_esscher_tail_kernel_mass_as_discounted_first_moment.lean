@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.esscher_tail_kernel_mass_as_discounted_first_moment
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-08T16:18:25.387043+00:00
 -- url     : https://prove2.me/submissions/8f4be362-62a1-4ee4-8a8d-5f385197a37c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

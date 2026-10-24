@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_ProbeTopK_theorem_1
 -- name    : HiringLP.ProbeTopK.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:20.673983+00:00
 -- url     : https://prove2.me/theorems/09fc1f8d-88bf-4c56-9af9-c3a9d4bbd877

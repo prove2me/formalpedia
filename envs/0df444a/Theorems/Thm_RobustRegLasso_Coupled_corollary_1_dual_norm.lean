@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustRegLasso_Coupled_corollary_1_dual_norm
 -- name    : RobustRegLasso.Coupled.corollary_1_dual_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:18:50.815098+00:00
 -- url     : https://prove2.me/theorems/f92e2114-bd6a-48df-9b01-69416b227d1d

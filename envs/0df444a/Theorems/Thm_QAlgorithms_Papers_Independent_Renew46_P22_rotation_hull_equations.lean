@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P22_rotation_hull_equations
 -- name    : QAlgorithms.Papers.Independent.Renew46.P22.rotation_hull_equations
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:34:11.633985+00:00
 -- url     : https://prove2.me/theorems/ddc483c8-446c-476f-9637-b8925c8654e2

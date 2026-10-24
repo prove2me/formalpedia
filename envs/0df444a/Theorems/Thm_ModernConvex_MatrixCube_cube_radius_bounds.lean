@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_MatrixCube_cube_radius_bounds
 -- name    : ModernConvex.MatrixCube.cube_radius_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:33:45.341151+00:00
 -- url     : https://prove2.me/theorems/c4b443b9-305f-4be4-b70f-7448afda96b4

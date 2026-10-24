@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Pointed_lemma3_cone_update_rate
 -- name    : CtxInvOpt.Pointed.lemma3_cone_update_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:13:23.762418+00:00
 -- url     : https://prove2.me/theorems/76bbef4e-a295-4a31-bc14-d99c20bd2ffd

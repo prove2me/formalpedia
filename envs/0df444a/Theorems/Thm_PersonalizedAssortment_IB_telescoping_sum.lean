@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_telescoping_sum
 -- name    : PersonalizedAssortment.IB.telescoping_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:29:21.979656+00:00
 -- url     : https://prove2.me/theorems/d0008a81-1616-46e5-a28e-1400bf33351c

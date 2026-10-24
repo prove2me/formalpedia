@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImpactInvesting_Portfolio_proposition_6
 -- name    : ImpactInvesting.Portfolio.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:38.049767+00:00
 -- url     : https://prove2.me/theorems/61f7c795-8e2d-4649-bc12-a2474c964d4c

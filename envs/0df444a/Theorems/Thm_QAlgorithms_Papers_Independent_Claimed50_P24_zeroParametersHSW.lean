@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_zeroParametersHSW
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.zeroParametersHSW
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:35:31.396213+00:00
 -- url     : https://prove2.me/theorems/ae51a78c-ee94-43e2-9d43-b88ea0c91e50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PermanentBorder_permanent_cubic_lower_bounds
 -- name    : OAI.PermanentBorder.permanent_cubic_lower_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:02.786855+00:00
 -- url     : https://prove2.me/theorems/008afcd3-f398-4dad-b145-1dfab68a3835

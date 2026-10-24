@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Pointed_prop1_uncAngle_ellCone
 -- name    : CtxInvOpt.Pointed.prop1_uncAngle_ellCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:46.578196+00:00
 -- url     : https://prove2.me/theorems/bdc853f9-b2bd-47ed-9a6f-6457e85c7314

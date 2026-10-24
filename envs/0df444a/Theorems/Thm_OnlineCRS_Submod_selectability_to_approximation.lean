@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineCRS_Submod_selectability_to_approximation
 -- name    : OnlineCRS.Submod.selectability_to_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T20:21:26.345656+00:00
 -- url     : https://prove2.me/theorems/58a4236e-ffc1-4310-ab9c-f1c9f515255b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_SmallDemand_corollary_5_1
 -- name    : SensitivityPoA.SmallDemand.corollary_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:22.071652+00:00
 -- url     : https://prove2.me/theorems/1e30c237-0c9d-44b0-b5d6-c932959b70d7

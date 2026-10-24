@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P43_projectionDenseCoding
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P43.projectionDenseCoding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:18:39.986695+00:00
 -- url     : https://prove2.me/theorems/c24e0bae-688c-4b4c-ad0b-7eb51d6e107c

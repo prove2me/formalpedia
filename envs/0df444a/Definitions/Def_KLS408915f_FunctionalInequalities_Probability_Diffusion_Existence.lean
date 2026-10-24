@@ -1,0 +1,346 @@
+-- Prove2me | Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Diffusion_Existence
+-- name    : KLS408915f_FunctionalInequalities_Probability_Diffusion_Existence
+-- status  : Definition
+-- author  : @Lazyfill
+-- created : 2026-10-23T11:40:23.108291+00:00
+-- url     : https://prove2.me/theorems/b57088bc-032a-4998-987c-ab25f1a668e7
+-- title:
+--   Zero-jump Poisson measure and diffusion coefficient packaging
+-- statement:
+--   The private auxiliary definition `zeroPoisson` constructs a Poisson random measure with zero intensity on `Unit`: its counting process is identically zero, with the corresponding measurability, integer-valuedness, Poisson-law, independence, and past/future independence fields. The private definition `diffusionCoeffs` packages autonomous drift $b$, diffusion coefficients $\sigma$, and zero jump coefficients into `JumpDiffusionCoeffs N d Unit`. These are technical data structures used by the surrounding existence construction; this bundle itself exposes no public existence theorem.
+-- source:
+--   Lean source: https://github.com/human-ai-mathematics/kls-lean/blob/408915f/formalization/FunctionalInequalities/Probability/Diffusion/Existence.lean#L29-L82 (repository human-ai-mathematics/kls-lean, commit 408915f, module `FunctionalInequalities.Probability.Diffusion.Existence`, definition bundle `KLS408915f_FunctionalInequalities_Probability_Diffusion_Existence`; the repository is private at upload time).
+
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Algebra
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_DenseCountable
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_ENNReal
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Filtration
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_FiniteInf
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Indistinguishable
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_LeftLimWithin
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_LinearAlgebra
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Martingale
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_MeanInequalities
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_MeasureTheory
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Metric
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Nat
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_StoppedProcess
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Topology
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Upcrossing
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_Chaining
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_CoveringNumber
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_HasBoundedInternalCoveringNumber
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_IsKolmogorovProcess
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_KolmogorovChentsov
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_KolmogorovChentsovInequality
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_LimitModification
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_BrownianMotion
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_Moment
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_ProjectiveLimit
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_StochasticProcesses
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Cadlag
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Predictable
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Quasimartingale_Basic
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Quasimartingale_CadlagModification
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Quasimartingale_MaximalInequality
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_SimpleProcess
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Diffusion_Setup
+import Definitions.Def_KLS408915f_KolmogorovExtension4_CompactSystem
+import Definitions.Def_KLS408915f_KolmogorovExtension4_KolmogorovExtension
+import Definitions.Def_KLS408915f_KolmogorovExtension4_RegularContent
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_AugmentedFiltration
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Construction
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ContinuityDyadicChaining
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CoordDerivative
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CrossOrthogonalityDirectCross
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CrossVariation
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CrossVariationSum
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Existence
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Filtered
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoAlgebraAssociativity
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoAlgebraProduct
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoAlgebraSimpleIntegrand
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoCutoff
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityDyadicAverages
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityPointwise
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityPredictableL2
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityShiftedAverages
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityUnbounded
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoFormulaGrid
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoFourthMomentIncrements
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoFourthMomentLintegral
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoIncrementMomentRestrict
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionApi
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionConvergence
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionExistence
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionLp
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionMaster
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionQuadVar
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoLocality
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoMartingale
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoOptionalStopping
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoPullOut
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoQuadVarSum
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoSimpleIntegrand
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoSimpleIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoSimpleMoments
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoTruncate
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoVersionExists
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Martingale
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_MartingaleCondExp
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Multidim
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_MultidimFiltered
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_MultidimIto
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_PolarisedQuadVar
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SimplePredictableRefineAppend
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SimplePredictableRefineCommon
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SimplePredictableRefineInvariance
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SmoothCutoff
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_TaylorTwoVector
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_VectorItoFormula
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_VectorItoProcess
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_VectorItoProcessVersion
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_ItoFormulaUnboundedClamp
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardBieleckiNorm
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardContractionEstimate
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardContractionFixedPoint
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardGlobal
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardIntegrandBounds
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardIntegrandFrozen
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardLimit
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputModification
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputMoments
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputStepDiff
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputWeighting
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardSpaceBieleckiEDist
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardSpaceBieleckiQuotient
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardSpaceDiscrete
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardStepMap
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardStochasticLipschitz
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardWindow
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_Setting
+import Definitions.Def_KLS408915f_LevyStochCalc_Martingale_CadlagModification
+import Definitions.Def_KLS408915f_LevyStochCalc_Martingale_RightCont
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_Compensated
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedApprox
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityBoxIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityDyadic
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityLimit
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityMarkApprox
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityMarkSum
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityRectSimple
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityRefinement
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityShifted
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityStepIntegral
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityTruncation
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDiff
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedMartingaleAdapted
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedMartingaleIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedMartingaleQuadratic
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedProcess
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedProcessQuadVar
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedSimple
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_Filtered
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_MarkStepIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_MarkStepIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_MarkStepWeight
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_PoissonSuperposition
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_RandomMeasure
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_Augmentation
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_DoobContinuous
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_ExitTime
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_IndepJoin
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_Progressive
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_ProgressiveCadlag
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_StoppedProgressive
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_Transport
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_TrivialSigma
+import Definitions.Def_KLS408915f_MathFin_Foundations_DoobLpMaximalInequality
+import Mathlib.Algebra.Order.Chebyshev
+import Mathlib.Algebra.Order.Floor.Extended
+import Mathlib.Algebra.Order.Floor.Semiring
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.Calculus.ContDiff.Operations
+import Mathlib.Analysis.Calculus.Deriv.Comp
+import Mathlib.Analysis.Calculus.FDeriv.Comp
+import Mathlib.Analysis.Calculus.FDeriv.Const
+import Mathlib.Analysis.Calculus.MeanValue
+import Mathlib.Analysis.Convex.Integral
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Dual
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.MeanInequalities
+import Mathlib.Analysis.Normed.Group.Constructions
+import Mathlib.Analysis.Normed.Group.Continuity
+import Mathlib.Analysis.Normed.Module.Ball.Pointwise
+import Mathlib.Analysis.Normed.Module.FiniteDimension
+import Mathlib.Analysis.SpecialFunctions.Log.Base
+import Mathlib.Analysis.SpecialFunctions.Pow.Continuity
+import Mathlib.Analysis.SpecialFunctions.Pow.Integral
+import Mathlib.Analysis.SpecialFunctions.Pow.NNReal
+import Mathlib.Analysis.SpecialFunctions.SmoothTransition
+import Mathlib.Analysis.SpecialFunctions.Sqrt
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.NNReal.Basic
+import Mathlib.Data.Rat.Denumerable
+import Mathlib.Data.Set.Finite.Lattice
+import Mathlib.Data.Set.FiniteExhaustion
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Matrix.BilinearForm
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.SesquilinearForm.Star
+import Mathlib.MeasureTheory.Constructions.BorelSpace.ContinuousLinearMap
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Order
+import Mathlib.MeasureTheory.Constructions.ClosedCompactCylinders
+import Mathlib.MeasureTheory.Constructions.Polish.Basic
+import Mathlib.MeasureTheory.Constructions.ProjectiveFamilyContent
+import Mathlib.MeasureTheory.Covering.DensityTheorem
+import Mathlib.MeasureTheory.Function.ConditionalExpectation.CondJensen
+import Mathlib.MeasureTheory.Function.ConditionalExpectation.PullOut
+import Mathlib.MeasureTheory.Function.ConditionalExpectation.Real
+import Mathlib.MeasureTheory.Function.ConvergenceInMeasure
+import Mathlib.MeasureTheory.Function.Floor
+import Mathlib.MeasureTheory.Function.Holder
+import Mathlib.MeasureTheory.Function.LpSeminorm.Basic
+import Mathlib.MeasureTheory.Function.LpSeminorm.LpNorm
+import Mathlib.MeasureTheory.Function.LpSeminorm.TriangleInequality
+import Mathlib.MeasureTheory.Function.LpSpace.Basic
+import Mathlib.MeasureTheory.Function.StronglyMeasurable.Basic
+import Mathlib.MeasureTheory.Function.UniformIntegrable
+import Mathlib.MeasureTheory.Group.Arithmetic
+import Mathlib.MeasureTheory.Integral.Average
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.Integral.Bochner.Set
+import Mathlib.MeasureTheory.Integral.DominatedConvergence
+import Mathlib.MeasureTheory.Integral.IntervalIntegral.Basic
+import Mathlib.MeasureTheory.Integral.Layercake
+import Mathlib.MeasureTheory.Integral.MeanInequalities
+import Mathlib.MeasureTheory.Integral.Prod
+import Mathlib.MeasureTheory.MeasurableSpace.Constructions
+import Mathlib.MeasureTheory.Measure.AddContent
+import Mathlib.MeasureTheory.Measure.CharacteristicFunction.Basic
+import Mathlib.MeasureTheory.Measure.HasOuterApproxClosed
+import Mathlib.MeasureTheory.Measure.Lebesgue.Basic
+import Mathlib.MeasureTheory.Measure.Lebesgue.EqHaar
+import Mathlib.MeasureTheory.Measure.Lebesgue.VolumeOfBalls
+import Mathlib.MeasureTheory.Measure.MeasureSpace
+import Mathlib.MeasureTheory.Measure.MeasureSpaceDef
+import Mathlib.MeasureTheory.Measure.NullMeasurable
+import Mathlib.MeasureTheory.Measure.Prod
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.MeasureTheory.OuterMeasure.OfAddContent
+import Mathlib.MeasureTheory.SetSemiring
+import Mathlib.Order.CompleteLattice.Group
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Order.ConditionallyCompleteLattice.Finset
+import Mathlib.Order.ConditionallyCompletePartialOrder.Indexed
+import Mathlib.Probability.BrownianMotion.Basic
+import Mathlib.Probability.ConditionalExpectation
+import Mathlib.Probability.Distributions.Gaussian.CharFun
+import Mathlib.Probability.Distributions.Gaussian.Fernique
+import Mathlib.Probability.Distributions.Gaussian.HasGaussianLaw.Basic
+import Mathlib.Probability.Distributions.Gaussian.HasGaussianLaw.Independence
+import Mathlib.Probability.Distributions.Gaussian.IsGaussianProcess.Basic
+import Mathlib.Probability.Distributions.Gaussian.IsGaussianProcess.Independence
+import Mathlib.Probability.Distributions.Gaussian.Multivariate
+import Mathlib.Probability.Distributions.Gaussian.Real
+import Mathlib.Probability.Distributions.Poisson.Basic
+import Mathlib.Probability.Independence.Basic
+import Mathlib.Probability.Independence.BoundedContinuousFunction
+import Mathlib.Probability.Independence.CharacteristicFunction
+import Mathlib.Probability.Independence.InfinitePi
+import Mathlib.Probability.Independence.Integration
+import Mathlib.Probability.Independence.Process.HasIndepIncrements.Basic
+import Mathlib.Probability.Independence.ZeroOne
+import Mathlib.Probability.Kernel.Defs
+import Mathlib.Probability.Martingale.Basic
+import Mathlib.Probability.Martingale.OptionalStopping
+import Mathlib.Probability.Martingale.Upcrossing
+import Mathlib.Probability.Moments.CovarianceBilin
+import Mathlib.Probability.Notation
+import Mathlib.Probability.Process.Adapted
+import Mathlib.Probability.Process.Filtration
+import Mathlib.Probability.Process.Kolmogorov
+import Mathlib.Probability.Process.Predictable
+import Mathlib.Probability.Process.Stopping
+import Mathlib.Topology.Algebra.MulAction
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Compactness.CompactSystem
+import Mathlib.Topology.ContinuousMap.SecondCountableSpace
+import Mathlib.Topology.EMetricSpace.PairReduction
+import Mathlib.Topology.Instances.ENNReal.Lemmas
+import Mathlib.Topology.IsClosedRestrict
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Bounded
+import Mathlib.Topology.MetricSpace.Contracting
+import Mathlib.Topology.MetricSpace.Cover
+import Mathlib.Topology.MetricSpace.CoveringNumbers
+import Mathlib.Topology.MetricSpace.HolderNorm
+import Mathlib.Topology.MetricSpace.MetricSeparated
+import Mathlib.Topology.Order.Compact
+import Mathlib.Topology.Order.DenselyOrdered
+import Mathlib.Topology.Order.LeftRight
+import Mathlib.Topology.Order.LeftRightLim
+import Mathlib.Topology.Order.Monotone
+import Mathlib.Topology.Order.MonotoneContinuity
+import Mathlib.Topology.Separation.Regular
+import Mathlib.Topology.UniformSpace.Cauchy
+import Mathlib.Topology.UniformSpace.HeineCantor
+import Mathlib.Topology.UniformSpace.UniformEmbedding
+
+open MeasureTheory ProbabilityTheory Filter Topology
+open scoped NNReal ENNReal
+namespace FunctionalInequalities
+namespace Probability
+namespace Diffusion
+open LevyStochCalc LevyStochCalc.Brownian LevyStochCalc.Brownian.Multidim
+  LevyStochCalc.Brownian.Ito
+universe u
+ def zeroPoisson {Ω : Type u} [MeasurableSpace Ω]
+    (P : Measure Ω) [IsProbabilityMeasure P] :
+    Poisson.PoissonRandomMeasure.{u, 0, 0} P (0 : Measure Unit) where
+  N := fun _ => 0
+  measurable_eval := fun _ => measurable_const
+  integer_valued := fun _ _ =>
+    Filter.Eventually.of_forall fun _ => ⟨0, by simp⟩
+  infinite_at_infinite_intensity := by
+    intro B _ h
+    simp [Poisson.referenceIntensity] at h
+  poisson_law := by
+    intro B _ _
+    have hz : poissonMeasure 0 = Measure.dirac 0 := by
+      apply Measure.ext_of_singleton
+      intro n
+      cases n <;> simp [poissonMeasure_singleton]
+    change P.map (fun _ => (0 : ℝ≥0∞)) = _
+    rw [Measure.map_const]
+    simp [Poisson.referenceIntensity, Poisson.poissonMeasureENN, hz]
+  independent_disjoint := by
+    classical
+    intro ι _ _ _ _
+    apply iIndepFun_iff_measure_inter_preimage_eq_mul.mpr
+    intro S sets hs
+    clear hs
+    induction S using Finset.induction_on with
+    | empty => simp
+    | @insert i S hi ih =>
+      by_cases hz : (0 : ℝ≥0∞) ∈ sets i <;> simp_all [Set.preimage_const]
+  joint_past_future_independent := by
+    intro s t _ _ A _ _
+    simp only [Measure.coe_zero, Pi.zero_apply, MeasurableSpace.comap_const]
+    exact indep_bot_right _
+ def diffusionCoeffs {N d : ℕ}
+    (b : (Fin N → ℝ) → Fin N → ℝ)
+    (σ : (Fin N → ℝ) → Fin d → Fin N → ℝ) :
+    LevyStochCalc.Ito.Setting.JumpDiffusionCoeffs N d Unit :=
+  ⟨fun _ => b, fun _ x i k => σ x k i, fun _ _ _ => 0⟩
+end Diffusion
+end Probability
+end FunctionalInequalities
+
+

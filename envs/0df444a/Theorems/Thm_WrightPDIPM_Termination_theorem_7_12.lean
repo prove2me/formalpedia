@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WrightPDIPM_Termination_theorem_7_12
 -- name    : WrightPDIPM.Termination.theorem_7_12
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:54:12.142597+00:00
 -- url     : https://prove2.me/theorems/c8960539-4782-4513-acf9-a9d0f53cb769

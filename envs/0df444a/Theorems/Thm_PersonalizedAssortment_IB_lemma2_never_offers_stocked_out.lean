@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersonalizedAssortment_IB_lemma2_never_offers_stocked_out
 -- name    : PersonalizedAssortment.IB.lemma2_never_offers_stocked_out
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T01:57:47.08721+00:00
 -- url     : https://prove2.me/theorems/0d5a0646-4687-466a-aad8-bccc11527694

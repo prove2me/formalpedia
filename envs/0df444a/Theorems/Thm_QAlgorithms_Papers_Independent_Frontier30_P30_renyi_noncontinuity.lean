@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P30_renyi_noncontinuity
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P30.renyi_noncontinuity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T17:35:29.724171+00:00
 -- url     : https://prove2.me/theorems/2810e6e8-45ac-4af5-8faa-af8b7b195a53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_bellDifferentOptimizers
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.bellDifferentOptimizers
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:04:48.824233+00:00
 -- url     : https://prove2.me/theorems/d78c11ff-d1b8-4569-ac31-3427b432d38b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_CurveDegreeTests_exists_curve_degree_multisection
 -- name    : AlgebraicGeometry.CurveDegreeTests.exists_curve_degree_multisection
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-13T16:20:17.60886+00:00
 -- url     : https://prove2.me/theorems/9602745e-f756-4ac1-a058-990e0e145bc1

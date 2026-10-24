@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReliableFacilityLoc_RRSP_proposition4_lower_bound
 -- name    : ReliableFacilityLoc.RRSP.proposition4_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T02:17:55.772176+00:00
 -- url     : https://prove2.me/theorems/20b70a80-df57-4127-b504-3aee387ba056

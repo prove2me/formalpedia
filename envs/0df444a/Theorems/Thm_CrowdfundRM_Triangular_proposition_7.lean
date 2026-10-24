@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdfundRM_Triangular_proposition_7
 -- name    : CrowdfundRM.Triangular.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:50:28.148362+00:00
 -- url     : https://prove2.me/theorems/a0ed2012-1b1d-492c-9d79-7bc6859b8d3c

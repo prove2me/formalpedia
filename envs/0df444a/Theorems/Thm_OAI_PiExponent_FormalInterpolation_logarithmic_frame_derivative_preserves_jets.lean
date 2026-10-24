@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_frame_derivative_preserves_jets
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_frame_derivative_preserves_jets
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-23T05:57:05.239734+00:00
 -- url     : https://prove2.me/theorems/230ad871-0f25-4d5e-8db0-ae52d7fcf646

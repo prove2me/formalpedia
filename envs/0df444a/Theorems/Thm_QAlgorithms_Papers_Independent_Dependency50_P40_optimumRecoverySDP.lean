@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P40_optimumRecoverySDP
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P40.optimumRecoverySDP
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T15:16:46.724169+00:00
 -- url     : https://prove2.me/theorems/d6cd5c19-de28-4d9a-bc98-d70fcc48e83d

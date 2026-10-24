@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Limit_lemma_5
 -- name    : SampleDrivenOS.Limit.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:17.1517+00:00
 -- url     : https://prove2.me/theorems/58dfc68b-a35f-4684-b37c-35962dd6808c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PinchedHartogs_controlled_potential
 -- name    : OAI.PinchedHartogs.controlled_potential
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:03.506493+00:00
 -- url     : https://prove2.me/theorems/2c5a4c7f-1f27-4766-a738-5786fabdd9a9

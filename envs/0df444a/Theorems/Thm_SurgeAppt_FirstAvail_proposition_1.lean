@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurgeAppt_FirstAvail_proposition_1
 -- name    : SurgeAppt.FirstAvail.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:42:00.580977+00:00
 -- url     : https://prove2.me/theorems/1ea7cd0d-136b-4859-8a38-b5b7090304e0

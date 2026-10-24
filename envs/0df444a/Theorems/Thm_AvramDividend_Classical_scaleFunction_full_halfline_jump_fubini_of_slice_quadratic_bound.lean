@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_full_halfline_jump_fubini_of_slice_quadratic_bound
 -- name    : AvramDividend.Classical.scaleFunction_full_halfline_jump_fubini_of_slice_quadratic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T16:23:45.073129+00:00
 -- url     : https://prove2.me/theorems/cd301b2f-ce33-41dc-b053-25054e131c7b

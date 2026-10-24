@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Structure_eq_8_moved_feasible
 -- name    : SampleDrivenOS.Structure.eq_8_moved_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:32:26.620976+00:00
 -- url     : https://prove2.me/theorems/56e22bb3-33c3-446c-9ad7-9aa512e28bd4

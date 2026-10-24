@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskFunctionals_StochDominance_dominance_characterizations
 -- name    : RiskFunctionals.StochDominance.dominance_characterizations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:36.58902+00:00
 -- url     : https://prove2.me/theorems/48ecba72-5b36-4794-8f37-82f0c2619a96

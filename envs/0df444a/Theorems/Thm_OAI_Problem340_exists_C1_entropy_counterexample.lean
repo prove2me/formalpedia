@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem340_exists_C1_entropy_counterexample
 -- name    : OAI.Problem340.exists_C1_entropy_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:10.169153+00:00
 -- url     : https://prove2.me/theorems/db8f26ad-333e-4a63-aaf2-b6c60cf1b82c

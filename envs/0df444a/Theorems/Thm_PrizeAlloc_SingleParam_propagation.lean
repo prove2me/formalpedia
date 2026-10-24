@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_SingleParam_propagation
 -- name    : PrizeAlloc.SingleParam.propagation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:19.641981+00:00
 -- url     : https://prove2.me/theorems/39328908-ffde-44de-932c-0c3442495fca

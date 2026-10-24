@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_runningSup_qDiscount_stopped_Ioc_reward_measurable_of_sfinite
 -- name    : AvramDividend.Classical.runningSup_qDiscount_stopped_Ioc_reward_measurable_of_sfinite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-20T08:19:05.090994+00:00
 -- url     : https://prove2.me/theorems/a36b05af-267a-443c-bb73-1db6bcff6d21

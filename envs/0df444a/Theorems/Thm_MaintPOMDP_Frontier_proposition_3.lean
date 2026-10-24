@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaintPOMDP_Frontier_proposition_3
 -- name    : MaintPOMDP.Frontier.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T23:02:08.869449+00:00
 -- url     : https://prove2.me/theorems/54a6f75e-92da-4efa-8b7b-e09eb3797a09

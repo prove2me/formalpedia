@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_product_pow_coeff_ne_zero_degree_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.product_pow_coeff_ne_zero_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T20:44:44.450401+00:00
 -- url     : https://prove2.me/theorems/83008595-2341-4e0b-a808-a58bbcb76c00

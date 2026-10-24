@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_Inhomogeneous_subcritical_of_A19
 -- name    : StrictCompatLB.Inhomogeneous.subcritical_of_A19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:03:31.109488+00:00
 -- url     : https://prove2.me/theorems/d3df0115-fc32-4e03-b3ea-c8942c4891be

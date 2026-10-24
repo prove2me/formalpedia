@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_exists_N
 -- name    : ObfImpossibility.RiceNoSize.exists_N
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:57.143394+00:00
 -- url     : https://prove2.me/theorems/db4aff50-3f4b-4623-b56d-9a0f5cbc3036

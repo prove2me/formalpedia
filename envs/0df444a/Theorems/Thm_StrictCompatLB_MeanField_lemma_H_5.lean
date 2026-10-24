@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_MeanField_lemma_H_5
 -- name    : StrictCompatLB.MeanField.lemma_H_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:52:07.156456+00:00
 -- url     : https://prove2.me/theorems/499d6d9d-427b-43a6-a903-afdc6ff6f868

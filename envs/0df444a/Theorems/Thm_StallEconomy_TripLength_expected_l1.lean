@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_TripLength_expected_l1
 -- name    : StallEconomy.TripLength.expected_l1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:18.712629+00:00
 -- url     : https://prove2.me/theorems/61944d23-5753-4f06-b275-6a54c6171eb1

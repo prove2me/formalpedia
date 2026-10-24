@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for AvramDividend.Classical.integrated_volterra_regularizes_C1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T21:01:20.077623+00:00
 -- url     : https://prove2.me/submissions/cf14b28e-7042-4a22-a597-46d00089b797
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Deriv
 import Mathlib.MeasureTheory.Integral.IntegrableOn

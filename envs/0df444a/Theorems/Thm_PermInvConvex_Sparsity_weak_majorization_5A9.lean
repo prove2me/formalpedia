@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermInvConvex_Sparsity_weak_majorization_5A9
 -- name    : PermInvConvex.Sparsity.weak_majorization_5A9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:10:52.006507+00:00
 -- url     : https://prove2.me/theorems/ed125d0a-669e-47c6-b723-f17c4d975b27

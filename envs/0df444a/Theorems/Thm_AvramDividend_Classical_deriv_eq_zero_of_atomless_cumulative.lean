@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_deriv_eq_zero_of_atomless_cumulative
 -- name    : AvramDividend.Classical.deriv_eq_zero_of_atomless_cumulative
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-21T13:02:52.757526+00:00
 -- url     : https://prove2.me/theorems/89f1f433-66f6-446a-8a1f-f60e5b15ebfb

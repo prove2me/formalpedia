@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidPoA_Kelly_kelly_sup_ratio
 -- name    : LiquidPoA.Kelly.kelly_sup_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:02:10.996003+00:00
 -- url     : https://prove2.me/theorems/0cd89307-c396-490b-aa98-f48f034dc393

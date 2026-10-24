@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.causal_volterra_l1_C1_solution_exists
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T16:19:32.042379+00:00
 -- url     : https://prove2.me/submissions/54f745f7-f6a7-4d24-806b-486e8b1212d3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

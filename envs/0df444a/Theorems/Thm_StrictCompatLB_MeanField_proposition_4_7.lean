@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_MeanField_proposition_4_7
 -- name    : StrictCompatLB.MeanField.proposition_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:52:42.337636+00:00
 -- url     : https://prove2.me/theorems/84a2d826-7edd-4542-87b4-5008953b3831

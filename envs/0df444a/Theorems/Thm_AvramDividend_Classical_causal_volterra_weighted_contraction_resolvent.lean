@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_causal_volterra_weighted_contraction_resolvent
 -- name    : AvramDividend.Classical.causal_volterra_weighted_contraction_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T17:13:24.759388+00:00
 -- url     : https://prove2.me/theorems/12f92577-80c1-4a87-9b0e-548c31030f24

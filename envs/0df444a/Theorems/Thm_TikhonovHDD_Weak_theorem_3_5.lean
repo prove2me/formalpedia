@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TikhonovHDD_Weak_theorem_3_5
 -- name    : TikhonovHDD.Weak.theorem_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:20:11.495482+00:00
 -- url     : https://prove2.me/theorems/2e84a31a-e2c7-4eeb-88aa-7b11e91e76bc

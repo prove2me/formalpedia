@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Taboo_limiting_vector_taboo
 -- name    : MatrixAnalytic.Taboo.limiting_vector_taboo
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:43:39.283799+00:00
 -- url     : https://prove2.me/theorems/29545917-1cdc-47e2-bf88-6f675e358a80

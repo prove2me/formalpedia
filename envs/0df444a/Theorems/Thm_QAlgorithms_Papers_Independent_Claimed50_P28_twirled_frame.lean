@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P28_twirled_frame
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P28.twirled_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:17:54.785216+00:00
 -- url     : https://prove2.me/theorems/318f8957-ac4b-4a83-9aca-a6774b2e9446

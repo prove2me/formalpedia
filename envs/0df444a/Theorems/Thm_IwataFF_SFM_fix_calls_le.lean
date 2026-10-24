@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IwataFF_SFM_fix_calls_le
 -- name    : IwataFF.SFM.fix_calls_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:42:12.714214+00:00
 -- url     : https://prove2.me/theorems/7101f158-9d3a-4947-98ee-9149efdd8e27

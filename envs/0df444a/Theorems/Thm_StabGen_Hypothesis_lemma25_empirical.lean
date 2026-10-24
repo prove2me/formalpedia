@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_lemma25_empirical
 -- name    : StabGen.Hypothesis.lemma25_empirical
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:49:03.298759+00:00
 -- url     : https://prove2.me/theorems/e1e943b7-14e3-44f0-89dd-270e67d4d0e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Pointed_lemmaB1_cone_update
 -- name    : CtxInvOpt.Pointed.lemmaB1_cone_update
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:13:27.072656+00:00
 -- url     : https://prove2.me/theorems/f4c32e13-334d-477c-b75c-a060aa07c612

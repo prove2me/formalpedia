@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Memoryless_eq_2
 -- name    : SecretaryAdvice.Memoryless.eq_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:47.437013+00:00
 -- url     : https://prove2.me/theorems/7f7e9377-dfba-4840-8d87-82a6212549fa

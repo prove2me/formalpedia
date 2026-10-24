@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_CostStatics_sign_Delta2
 -- name    : PoWMining.CostStatics.sign_Delta2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:08.453459+00:00
 -- url     : https://prove2.me/theorems/1ddd8c9f-89cb-491a-9724-729d20b33d1c

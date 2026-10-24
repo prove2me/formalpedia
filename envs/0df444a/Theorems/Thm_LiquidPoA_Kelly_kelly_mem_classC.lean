@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiquidPoA_Kelly_kelly_mem_classC
 -- name    : LiquidPoA.Kelly.kelly_mem_classC
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-21T05:01:58.136639+00:00
 -- url     : https://prove2.me/theorems/fc2c4d93-5212-46c9-a3eb-0c68374bf244

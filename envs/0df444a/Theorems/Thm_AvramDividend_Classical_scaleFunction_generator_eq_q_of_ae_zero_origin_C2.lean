@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_generator_eq_q_of_ae_zero_origin_C2
 -- name    : AvramDividend.Classical.scaleFunction_generator_eq_q_of_ae_zero_origin_C2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T13:06:22.522508+00:00
 -- url     : https://prove2.me/theorems/f649867a-7a17-4b6a-94b6-202d2e322f82

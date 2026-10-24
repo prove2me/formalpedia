@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_FlowStability_generator_control
 -- name    : KellyStochasticNetworks.FlowStability.generator_control
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:50:14.269958+00:00
 -- url     : https://prove2.me/theorems/6f24c2d7-9439-40a4-bee8-37793da9541e

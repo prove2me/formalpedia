@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LNTopology_RandomHerm_eq_8_10_union_bound
 -- name    : LNTopology.RandomHerm.eq_8_10_union_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:15:13.999671+00:00
 -- url     : https://prove2.me/theorems/4863b2ca-4746-4202-a361-7edd89ed7cb9

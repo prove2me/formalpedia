@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P48_eb_complement_class
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P48.eb_complement_class
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:43:35.186197+00:00
 -- url     : https://prove2.me/theorems/5a7d22e4-7c30-40b5-842d-1d1b40af3abd

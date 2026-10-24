@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkQuality_PotentialMax_proposition_5
 -- name    : NetworkQuality.PotentialMax.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:11.558004+00:00
 -- url     : https://prove2.me/theorems/5885a945-e8c5-4cc3-95b2-581c9c3a6259

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Pointed_theorem3_pointed_regret
 -- name    : CtxInvOpt.Pointed.theorem3_pointed_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:28.461714+00:00
 -- url     : https://prove2.me/theorems/a4bde05a-249f-4672-be27-908b339eeb72

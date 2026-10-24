@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomPromo_TwoPoint_lemma_6_ii_a
 -- name    : RandomPromo.TwoPoint.lemma_6_ii_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:37.035914+00:00
 -- url     : https://prove2.me/theorems/055e0bd3-339a-4398-ae4e-0ac8116a12ec

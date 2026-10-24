@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HybridOrderAlloc_Thickness_theorem_1
 -- name    : HybridOrderAlloc.Thickness.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T02:21:22.097839+00:00
 -- url     : https://prove2.me/theorems/2de97193-280f-4b21-8f9c-887f082ba932

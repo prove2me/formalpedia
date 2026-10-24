@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_coeff_prod_norm_le_weighted_allocations
 -- name    : OAI.PiExponent.LiteralAnalytic.coeff_prod_norm_le_weighted_allocations
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:22:30.800193+00:00
 -- url     : https://prove2.me/theorems/f079e64a-8aa6-4149-8ae5-0487b79619ab

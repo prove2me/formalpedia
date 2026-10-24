@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_noisyGhzRobustness
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.noisyGhzRobustness
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:02:38.689402+00:00
 -- url     : https://prove2.me/theorems/2f2c6d21-6185-4e5f-a955-a46f0464a3f3

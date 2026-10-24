@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_pderiv_support_lift
 -- name    : OAI.PiExponent.FormalInterpolation.pderiv_support_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-21T09:45:11.483924+00:00
 -- url     : https://prove2.me/theorems/dd40c55e-59e5-4f17-85fe-a011dfb775ae

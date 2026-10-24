@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P38_lemma7_oneShotDecoupling
 -- name    : QAlgorithms.Papers.Independent.Gap48.P38.lemma7_oneShotDecoupling
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T05:08:57.363563+00:00
 -- url     : https://prove2.me/theorems/795deb06-6919-4d8f-8465-9baca2b21d70

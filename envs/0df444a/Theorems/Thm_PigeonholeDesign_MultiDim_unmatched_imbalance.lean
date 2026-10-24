@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_MultiDim_unmatched_imbalance
 -- name    : PigeonholeDesign.MultiDim.unmatched_imbalance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:37:23.894391+00:00
 -- url     : https://prove2.me/theorems/480ab5a7-398f-43b4-ac32-9cc60ce09bda

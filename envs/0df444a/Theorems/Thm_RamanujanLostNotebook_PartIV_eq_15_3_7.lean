@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamanujanLostNotebook_PartIV_eq_15_3_7
 -- name    : RamanujanLostNotebook.PartIV.eq_15_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @Xiang Huang
 -- created : 2026-10-06T15:37:46.005876+00:00
 -- url     : https://prove2.me/theorems/ab454c2d-27a2-45f6-8323-5edef35669f6

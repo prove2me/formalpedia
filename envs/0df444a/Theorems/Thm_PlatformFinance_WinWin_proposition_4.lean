@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformFinance_WinWin_proposition_4
 -- name    : PlatformFinance.WinWin.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:16:28.114156+00:00
 -- url     : https://prove2.me/theorems/23739921-9f58-4e4a-ac36-025d6e380c70

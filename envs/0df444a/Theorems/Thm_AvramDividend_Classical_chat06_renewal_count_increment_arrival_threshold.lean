@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat06_renewal_count_increment_arrival_threshold
 -- name    : AvramDividend.Classical.chat06_renewal_count_increment_arrival_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T08:20:38.240092+00:00
 -- url     : https://prove2.me/theorems/8576ef1f-83d3-451a-83b3-4ec798f66994

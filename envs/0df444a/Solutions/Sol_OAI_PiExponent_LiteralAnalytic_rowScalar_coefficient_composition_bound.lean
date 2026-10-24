@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.rowScalar_coefficient_composition_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T13:15:13.746255+00:00
 -- url     : https://prove2.me/submissions/aa61bf99-e1de-4d64-9093-bb74e5377149
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Mathlib.Analysis.SpecialFunctions.Pow.Real

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EnergyMomentum_minkowski_norm_fourMomentum
 -- name    : EnergyMomentum.minkowski_norm_fourMomentum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:12:33.701386+00:00
 -- url     : https://prove2.me/theorems/168f8b4d-77ad-43a1-b4a9-8c1803e209f8

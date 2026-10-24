@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowAllocGames_StrongPoA_strong_poa_le
 -- name    : FlowAllocGames.StrongPoA.strong_poa_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T05:15:15.402771+00:00
 -- url     : https://prove2.me/theorems/10cbeb23-62b0-4723-8139-e936cfa26402

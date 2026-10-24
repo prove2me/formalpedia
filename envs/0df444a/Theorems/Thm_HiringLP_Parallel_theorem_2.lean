@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_Parallel_theorem_2
 -- name    : HiringLP.Parallel.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:56.110709+00:00
 -- url     : https://prove2.me/theorems/34ba6ed2-4500-4d3d-8150-0dbd0249f879

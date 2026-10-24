@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_contDiff_one_gaussian_without_standing
 -- name    : AvramDividend.Classical.scaleFunction_contDiff_one_gaussian_without_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T22:34:44.411168+00:00
 -- url     : https://prove2.me/theorems/6760cad5-19e6-4644-aef4-59a4ab200001

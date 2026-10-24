@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P21_covarianceReduction
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P21.covarianceReduction
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:04:51.596532+00:00
 -- url     : https://prove2.me/theorems/ea5e5a24-89c3-4f1c-b9c8-2a640d5239ef

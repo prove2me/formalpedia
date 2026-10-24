@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_LPDuality_bernshtein_theorem
 -- name    : ModernConvex.LPDuality.bernshtein_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:31:55.748762+00:00
 -- url     : https://prove2.me/theorems/7436a017-2b41-4448-8541-77e82efcb370

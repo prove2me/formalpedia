@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P21_scoreOperators
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P21.scoreOperators
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:06:44.469353+00:00
 -- url     : https://prove2.me/theorems/e2b7db92-0ad3-4a5b-9e3c-6dc4183fa297

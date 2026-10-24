@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchbackExp_Design_lemma_EC_7
 -- name    : SwitchbackExp.Design.lemma_EC_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:40.451588+00:00
 -- url     : https://prove2.me/theorems/78e25441-1b07-408c-8d84-0eb4002a6741

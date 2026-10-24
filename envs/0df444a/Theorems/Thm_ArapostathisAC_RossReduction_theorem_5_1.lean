@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_RossReduction_theorem_5_1
 -- name    : ArapostathisAC.RossReduction.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:07:41.507873+00:00
 -- url     : https://prove2.me/theorems/dea035e1-fd5e-4abd-b252-57ba7340cfcb

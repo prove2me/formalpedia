@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixAnalytic_Spectral_eigenvector_iff_gamma
 -- name    : MatrixAnalytic.Spectral.eigenvector_iff_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:45:58.688989+00:00
 -- url     : https://prove2.me/theorems/dba71154-0fd7-44af-b476-351ae5c86d96

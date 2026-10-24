@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArapostathisAC_RossReduction_rewritten_acoe
 -- name    : ArapostathisAC.RossReduction.rewritten_acoe
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:07:44.75932+00:00
 -- url     : https://prove2.me/theorems/1c390f92-b1d2-43b5-bace-b90af85a9238

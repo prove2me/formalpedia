@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_OnlineLearning_perceptron_hinge_mistake_bound_v2
 -- name    : FoundationsML.OnlineLearning.perceptron_hinge_mistake_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:18:15.84398+00:00
 -- url     : https://prove2.me/theorems/88b07eea-450a-46f9-8456-c4a72603097a

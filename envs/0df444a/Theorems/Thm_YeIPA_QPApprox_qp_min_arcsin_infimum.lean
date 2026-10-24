@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_QPApprox_qp_min_arcsin_infimum
 -- name    : YeIPA.QPApprox.qp_min_arcsin_infimum
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:38.84873+00:00
 -- url     : https://prove2.me/theorems/7fd5f733-12ab-4d83-964a-3922d9f66f54

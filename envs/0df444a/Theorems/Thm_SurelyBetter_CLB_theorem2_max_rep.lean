@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SurelyBetter_CLB_theorem2_max_rep
 -- name    : SurelyBetter.CLB.theorem2_max_rep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:17.568991+00:00
 -- url     : https://prove2.me/theorems/425d08a9-d734-4fa2-a203-7cf19ab55985

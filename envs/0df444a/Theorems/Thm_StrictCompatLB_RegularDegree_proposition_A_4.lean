@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_RegularDegree_proposition_A_4
 -- name    : StrictCompatLB.RegularDegree.proposition_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:54.544983+00:00
 -- url     : https://prove2.me/theorems/7bb81a1d-cd4b-4cbf-b08d-860902086428

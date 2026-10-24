@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P02_hilbertSchmidt_norm_ideal
 -- name    : QAlgorithms.Papers.Independent.Next46.P02.hilbertSchmidt_norm_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T12:27:54.940643+00:00
 -- url     : https://prove2.me/theorems/285893ab-88f3-49cc-abac-392a05711695

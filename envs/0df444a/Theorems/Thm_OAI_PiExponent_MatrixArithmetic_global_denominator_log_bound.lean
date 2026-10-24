@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_MatrixArithmetic_global_denominator_log_bound
 -- name    : OAI.PiExponent.MatrixArithmetic.global_denominator_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-18T17:20:19.307725+00:00
 -- url     : https://prove2.me/theorems/9e175eb9-667b-47d5-acf7-3c3c2120aa83

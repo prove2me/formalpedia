@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Offline_theorem1_offline_minimax_regret
 -- name    : CtxInvOpt.Offline.theorem1_offline_minimax_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:25:34.745859+00:00
 -- url     : https://prove2.me/theorems/20ea0b1c-82b6-43da-9e5c-e7a78855996b

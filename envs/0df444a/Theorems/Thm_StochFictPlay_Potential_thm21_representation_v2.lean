@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Potential_thm21_representation_v2
 -- name    : StochFictPlay.Potential.thm21_representation_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:23.181889+00:00
 -- url     : https://prove2.me/theorems/c44507c9-b6c2-4251-9475-27bb603a299a

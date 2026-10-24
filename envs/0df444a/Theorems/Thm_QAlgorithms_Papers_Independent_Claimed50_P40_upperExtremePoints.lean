@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P40_upperExtremePoints
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P40.upperExtremePoints
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T10:51:46.878832+00:00
 -- url     : https://prove2.me/theorems/19f24666-dbdb-4a2e-8788-b6de2c7051df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ExactFourier_main_theorem
 -- name    : OAI.ExactFourier.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:39.363132+00:00
 -- url     : https://prove2.me/theorems/1b39a049-4e3b-489c-bdd4-2ad9266f4e5c

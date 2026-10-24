@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynSampleSize_Stoch_theorem_4_2
 -- name    : DynSampleSize.Stoch.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:29:22.217817+00:00
 -- url     : https://prove2.me/theorems/d06f616b-24a1-49b8-8b43-afe6f9c9e0d5

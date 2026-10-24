@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledRationing_MaxWeighted_lemma_6
 -- name    : PooledRationing.MaxWeighted.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:35:28.617059+00:00
 -- url     : https://prove2.me/theorems/4e3849d7-633f-414e-94b5-bb9df27479ef

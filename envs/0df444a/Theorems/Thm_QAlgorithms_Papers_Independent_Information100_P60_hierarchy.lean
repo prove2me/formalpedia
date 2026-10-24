@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_hierarchy
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:37:26.175828+00:00
 -- url     : https://prove2.me/theorems/77ecffe3-9d87-4824-90b1-a67a7bb75213

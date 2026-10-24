@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Memoryless_theorem_8
 -- name    : SecretaryAdvice.Memoryless.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:42:09.834517+00:00
 -- url     : https://prove2.me/theorems/6b38238d-d9d4-4d8d-a50c-a3b1450a85ae

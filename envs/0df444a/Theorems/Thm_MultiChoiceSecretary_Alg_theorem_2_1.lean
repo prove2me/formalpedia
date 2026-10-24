@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiChoiceSecretary_Alg_theorem_2_1
 -- name    : MultiChoiceSecretary.Alg.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:37:48.981702+00:00
 -- url     : https://prove2.me/theorems/6feb7d53-d40a-42e4-84f3-6b6c0f1dc7d2

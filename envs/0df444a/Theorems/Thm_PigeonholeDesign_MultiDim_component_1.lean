@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PigeonholeDesign_MultiDim_component_1
 -- name    : PigeonholeDesign.MultiDim.component_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:37:19.466547+00:00
 -- url     : https://prove2.me/theorems/2066e907-ccff-41e9-8391-64969f8ea2ed

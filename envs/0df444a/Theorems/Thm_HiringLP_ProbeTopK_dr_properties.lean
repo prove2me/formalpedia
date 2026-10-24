@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HiringLP_ProbeTopK_dr_properties
 -- name    : HiringLP.ProbeTopK.dr_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:44:26.643782+00:00
 -- url     : https://prove2.me/theorems/132fbc4a-f7cd-41ab-9c05-13d3311baad3

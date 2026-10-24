@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_log_near_identity
 -- name    : SKAlgorithm.Qudit.log_near_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:27:03.912488+00:00
 -- url     : https://prove2.me/theorems/947e03be-4707-4179-aa35-db7e8d0b26fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalInexactNewton_Backtracking_mr_isGINRun
 -- name    : GlobalInexactNewton.Backtracking.mr_isGINRun
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:34:53.533983+00:00
 -- url     : https://prove2.me/theorems/42370de4-2269-4522-ac6f-b91c9934d32b

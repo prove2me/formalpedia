@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_RegularDegree_lemma_A_5
 -- name    : StrictCompatLB.RegularDegree.lemma_A_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:08:03.337201+00:00
 -- url     : https://prove2.me/theorems/5f103433-c0b6-4d05-8578-bbbbab51875e

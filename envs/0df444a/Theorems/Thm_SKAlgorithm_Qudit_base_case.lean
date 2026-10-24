@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_base_case
 -- name    : SKAlgorithm.Qudit.base_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:54.818555+00:00
 -- url     : https://prove2.me/theorems/1e439eae-2f2a-44fe-8b2f-340a301cacdb

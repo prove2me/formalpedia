@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.logarithmic_frame_word_preserves_degree_and_jets
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-21T08:50:38.324221+00:00
 -- url     : https://prove2.me/submissions/d6b85e50-bb0b-4031-940e-96b558a0bd06
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_frame_word_preserves_degree
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_frame_word_preserves_jets

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver1991_cor2_19_nplus_index_le_positive_support_alpha_faithful
 -- name    : LovaszSchrijver1991.cor2_19_nplus_index_le_positive_support_alpha_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:35:16.340905+00:00
 -- url     : https://prove2.me/theorems/2b4e1f57-4ecc-420c-b582-98263afb8b26

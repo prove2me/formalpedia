@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplexProj_Condat_condat_algorithm_correct
 -- name    : SimplexProj.Condat.condat_algorithm_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:53:29.671615+00:00
 -- url     : https://prove2.me/theorems/ff4d2611-4b3e-4fbc-9dc1-1c58f8c9709e

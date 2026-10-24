@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PropVolSampling_Reduction_lemma_2_1
 -- name    : PropVolSampling.Reduction.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:48:22.313503+00:00
 -- url     : https://prove2.me/theorems/63dcee72-a0d5-45a9-9e67-d868ee57691b

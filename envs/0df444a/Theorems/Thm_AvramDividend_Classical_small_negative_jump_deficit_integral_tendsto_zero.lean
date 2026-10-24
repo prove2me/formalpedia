@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_small_negative_jump_deficit_integral_tendsto_zero
 -- name    : AvramDividend.Classical.small_negative_jump_deficit_integral_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T12:32:06.881253+00:00
 -- url     : https://prove2.me/theorems/597a9d5e-220b-4020-bc87-e7152d39d770

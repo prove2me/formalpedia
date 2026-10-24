@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_FiberDual_lp_duality
 -- name    : CondPortOT.FiberDual.lp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:27.331849+00:00
 -- url     : https://prove2.me/theorems/5a7bf41b-03e3-40c5-a9cf-197292f71ab8

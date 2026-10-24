@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlinePrimalDual_OnlineSetCover_potential_nonincreasing_v2
 -- name    : OnlinePrimalDual.OnlineSetCover.potential_nonincreasing_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:41:56.996021+00:00
 -- url     : https://prove2.me/theorems/6b6b18c7-4742-4f63-bf23-74a8b09ccb70

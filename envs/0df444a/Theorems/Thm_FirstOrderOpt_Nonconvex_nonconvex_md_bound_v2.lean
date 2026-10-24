@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_Nonconvex_nonconvex_md_bound_v2
 -- name    : FirstOrderOpt.Nonconvex.nonconvex_md_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:17:27.35345+00:00
 -- url     : https://prove2.me/theorems/851852e1-609a-453b-b327-8449c38f5495

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_MaxWeight_foster_lyapunov
 -- name    : KellyStochasticNetworks.MaxWeight.foster_lyapunov
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:16.004722+00:00
 -- url     : https://prove2.me/theorems/2b764bc8-a49d-4699-907e-120db083640b

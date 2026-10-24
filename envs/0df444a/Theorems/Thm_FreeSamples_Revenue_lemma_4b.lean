@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeSamples_Revenue_lemma_4b
 -- name    : FreeSamples.Revenue.lemma_4b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:56.751053+00:00
 -- url     : https://prove2.me/theorems/630ed2dd-7da4-43fb-8951-e62f6c28e390

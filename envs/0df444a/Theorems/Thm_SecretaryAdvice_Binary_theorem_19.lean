@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Binary_theorem_19
 -- name    : SecretaryAdvice.Binary.theorem_19
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:48.343876+00:00
 -- url     : https://prove2.me/theorems/edcfd146-56ed-463f-bf8a-3c0a33d96d25

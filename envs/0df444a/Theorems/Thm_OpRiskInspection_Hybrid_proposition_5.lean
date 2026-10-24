@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpRiskInspection_Hybrid_proposition_5
 -- name    : OpRiskInspection.Hybrid.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:35:27.947738+00:00
 -- url     : https://prove2.me/theorems/28857db2-bd67-4535-a66b-28fcbe4e17bb

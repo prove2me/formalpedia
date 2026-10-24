@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P43_assistedHolevoConverse
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P43.assistedHolevoConverse
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T13:22:16.927616+00:00
 -- url     : https://prove2.me/theorems/56eb622a-b3f9-4ecc-be3a-80bd4db1f55e

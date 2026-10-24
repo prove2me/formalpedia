@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LiteralAnalytic.rowScalar_explicit_combinatorial_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:50:08.828362+00:00
 -- url     : https://prove2.me/submissions/ef534b54-8458-4cd4-854c-f8a15666432f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic
 import Mathlib.Analysis.SpecialFunctions.Pow.Real

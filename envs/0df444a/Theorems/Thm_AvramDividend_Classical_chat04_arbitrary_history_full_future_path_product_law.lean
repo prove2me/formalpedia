@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_chat04_arbitrary_history_full_future_path_product_law
 -- name    : AvramDividend.Classical.chat04_arbitrary_history_full_future_path_product_law
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T08:00:42.227141+00:00
 -- url     : https://prove2.me/theorems/df53d7ad-ff31-4809-8a72-f7b90798838e

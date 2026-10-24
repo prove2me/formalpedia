@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Lipschitz_theorem_12
 -- name    : SensitivityPoA.Lipschitz.theorem_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:38.028789+00:00
 -- url     : https://prove2.me/theorems/1522b6ee-c949-402f-9007-443725b3a7c8

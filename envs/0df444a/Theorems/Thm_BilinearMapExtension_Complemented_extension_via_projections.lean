@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BilinearMapExtension_Complemented_extension_via_projections
 -- name    : BilinearMapExtension.Complemented.extension_via_projections
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:09:49.628176+00:00
 -- url     : https://prove2.me/theorems/8ef39f0f-33b3-48e2-812a-a4d57971ce9c

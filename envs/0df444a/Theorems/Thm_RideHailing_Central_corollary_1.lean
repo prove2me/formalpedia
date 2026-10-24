@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RideHailing_Central_corollary_1
 -- name    : RideHailing.Central.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:40:40.28122+00:00
 -- url     : https://prove2.me/theorems/4d944456-73b5-41a9-b7af-ffc716929c97

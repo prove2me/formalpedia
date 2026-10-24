@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CtxInvOpt_Pointed_lemma5_largest_eigenvalue
 -- name    : CtxInvOpt.Pointed.lemma5_largest_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:14:26.272602+00:00
 -- url     : https://prove2.me/theorems/363ab711-8ace-4d38-99d2-f0e6e62d3196

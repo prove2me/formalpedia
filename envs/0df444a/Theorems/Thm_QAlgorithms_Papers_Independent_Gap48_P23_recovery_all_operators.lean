@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_recovery_all_operators
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.recovery_all_operators
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:36:24.683376+00:00
 -- url     : https://prove2.me/theorems/f31cb9ba-580f-4c5f-9b78-4e335c33fb30

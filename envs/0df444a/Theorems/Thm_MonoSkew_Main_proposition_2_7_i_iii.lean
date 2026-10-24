@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonoSkew_Main_proposition_2_7_i_iii
 -- name    : MonoSkew.Main.proposition_2_7_i_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T03:13:10.611345+00:00
 -- url     : https://prove2.me/theorems/3e48beb5-059e-4802-96b3-1466dfa91a9c

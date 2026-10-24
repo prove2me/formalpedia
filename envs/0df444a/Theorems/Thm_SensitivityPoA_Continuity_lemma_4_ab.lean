@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_Continuity_lemma_4_ab
 -- name    : SensitivityPoA.Continuity.lemma_4_ab
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:38:59.321504+00:00
 -- url     : https://prove2.me/theorems/b44452ac-2c11-467b-b814-eadc4098d9ee

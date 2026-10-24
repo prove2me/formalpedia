@@ -1,10 +1,8 @@
 -- Prove2me | solution 4 for AvramDividend.Classical.esscher_tilted_scale_C1_of_positive_gaussian_without_standing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-22T22:39:03.004994+00:00
 -- url     : https://prove2.me/submissions/c96bf090-dd77-4f79-93e3-b9c3322406e7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Calculus.ContDiff.Defs
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_pure_pair_simulation
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.pure_pair_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:47:22.949549+00:00
 -- url     : https://prove2.me/theorems/7e20a042-f9c1-421d-9e03-122f66d592f4

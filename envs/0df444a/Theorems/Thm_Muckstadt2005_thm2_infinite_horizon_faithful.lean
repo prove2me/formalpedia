@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Muckstadt2005_thm2_infinite_horizon_faithful
 -- name    : Muckstadt2005.thm2_infinite_horizon_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:26:23.084012+00:00
 -- url     : https://prove2.me/theorems/b9bfd791-322a-4a0a-a638-a37ca1c37d81

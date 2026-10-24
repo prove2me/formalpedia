@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P26_hookBranching
 -- name    : QAlgorithms.Papers.Independent.Next46.P26.hookBranching
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T14:05:30.171991+00:00
 -- url     : https://prove2.me/theorems/ebf5ffa6-3bee-4d39-9ee8-cb962f91429e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier18_P18_isometricEquivalence_reversible
 -- name    : QAlgorithms.Papers.Independent.Frontier18.P18.isometricEquivalence_reversible
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:07:24.455979+00:00
 -- url     : https://prove2.me/theorems/12c0faa1-0876-4c72-8ac4-6d01b3be9ad1

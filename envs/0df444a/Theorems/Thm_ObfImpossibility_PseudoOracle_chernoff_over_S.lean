@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_chernoff_over_S
 -- name    : ObfImpossibility.PseudoOracle.chernoff_over_S
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:21.718913+00:00
 -- url     : https://prove2.me/theorems/538624c6-0051-459d-9fa6-39a74849d58f

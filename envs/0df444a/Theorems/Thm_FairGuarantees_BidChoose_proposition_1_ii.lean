@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairGuarantees_BidChoose_proposition_1_ii
 -- name    : FairGuarantees.BidChoose.proposition_1_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:53.208345+00:00
 -- url     : https://prove2.me/theorems/62f3cb37-ec36-45fc-a0cf-1963e1a65de8

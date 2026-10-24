@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_runningSup_discounted_interval_mass_bounds
 -- name    : AvramDividend.Classical.runningSup_discounted_interval_mass_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T13:42:49.572461+00:00
 -- url     : https://prove2.me/theorems/8f76ca28-eaee-49ac-9ec6-53e6fd16437c

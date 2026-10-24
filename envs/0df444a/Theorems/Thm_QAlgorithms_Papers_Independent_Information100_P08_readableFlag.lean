@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P08_readableFlag
 -- name    : QAlgorithms.Papers.Independent.Information100.P08.readableFlag
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T16:09:32.545029+00:00
 -- url     : https://prove2.me/theorems/2be63859-4761-4a39-8062-485220d57447

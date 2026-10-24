@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc1995_thm4_1_1_convex_hull_faithful
 -- name    : TalagrandConc1995.thm4_1_1_convex_hull_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T03:19:01.414183+00:00
 -- url     : https://prove2.me/theorems/473e3c4d-d4e9-40ba-80b8-e2e4e35a3357

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_corrected_exit_exp_bound_at_positive_root
 -- name    : AvramDividend.Classical.corrected_exit_exp_bound_at_positive_root
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-22T22:53:29.696685+00:00
 -- url     : https://prove2.me/theorems/a6c37169-463b-4d4e-8389-b558ade5b960

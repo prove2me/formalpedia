@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_ruinTime_eq_min_rawRuin_drawdownRuin
 -- name    : AvramDividend.Classical.barrierStrategy_ruinTime_eq_min_rawRuin_drawdownRuin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T12:22:09.781856+00:00
 -- url     : https://prove2.me/theorems/b112210b-782d-4f93-a41e-fbd6180f4330

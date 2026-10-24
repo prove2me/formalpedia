@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_Memoryless_reconstruction_claim
 -- name    : SecretaryAdvice.Memoryless.reconstruction_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:42:56.920929+00:00
 -- url     : https://prove2.me/theorems/3e0bd5e8-7a94-4ae9-841c-3f02b4dcfe77

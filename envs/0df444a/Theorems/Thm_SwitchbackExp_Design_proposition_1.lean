@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SwitchbackExp_Design_proposition_1
 -- name    : SwitchbackExp.Design.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:29:58.883035+00:00
 -- url     : https://prove2.me/theorems/ff17ea2d-24b2-41b4-b7ed-9100a9a6fa92

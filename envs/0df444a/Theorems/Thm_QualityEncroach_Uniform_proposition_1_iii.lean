@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QualityEncroach_Uniform_proposition_1_iii
 -- name    : QualityEncroach.Uniform.proposition_1_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:23:34.121598+00:00
 -- url     : https://prove2.me/theorems/38d87979-190a-481a-9c1b-cd8a544feffc

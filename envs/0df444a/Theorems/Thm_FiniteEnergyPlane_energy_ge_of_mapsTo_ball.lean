@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_energy_ge_of_mapsTo_ball
 -- name    : FiniteEnergyPlane.energy_ge_of_mapsTo_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-20T23:24:04.209081+00:00
 -- url     : https://prove2.me/theorems/d75e7e7e-9717-4d5a-9462-114f25f97e50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P10_separable_zero_route_charge
 -- name    : QAlgorithms.Papers.Independent.Gap20.P10.separable_zero_route_charge
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:32:17.150711+00:00
 -- url     : https://prove2.me/theorems/c519fe58-2af5-4525-b1cb-4589812036ee

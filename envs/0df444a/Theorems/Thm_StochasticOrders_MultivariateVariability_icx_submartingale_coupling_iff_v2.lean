@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MultivariateVariability_icx_submartingale_coupling_iff_v2
 -- name    : StochasticOrders.MultivariateVariability.icx_submartingale_coupling_iff_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:37.671091+00:00
 -- url     : https://prove2.me/theorems/c484eb9d-53ef-48ae-9a6f-da6be0adaebf

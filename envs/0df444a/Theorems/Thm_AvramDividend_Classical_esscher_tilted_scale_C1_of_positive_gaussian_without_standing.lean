@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_esscher_tilted_scale_C1_of_positive_gaussian_without_standing
 -- name    : AvramDividend.Classical.esscher_tilted_scale_C1_of_positive_gaussian_without_standing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T22:25:28.066139+00:00
 -- url     : https://prove2.me/theorems/d5b62f36-c53e-43ba-8962-6d4efe26aa31

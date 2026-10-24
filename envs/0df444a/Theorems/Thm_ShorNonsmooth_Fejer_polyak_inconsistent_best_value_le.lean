@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Fejer_polyak_inconsistent_best_value_le
 -- name    : ShorNonsmooth.Fejer.polyak_inconsistent_best_value_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T12:31:15.403996+00:00
 -- url     : https://prove2.me/theorems/cf14282a-bd90-438f-a729-e43e505eec46

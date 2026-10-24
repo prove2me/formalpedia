@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P03_separabilityCriterion
 -- name    : QAlgorithms.Papers.Independent.Information100.P03.separabilityCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:26:34.341978+00:00
 -- url     : https://prove2.me/theorems/834de275-061b-4346-a1c8-351708ee8086

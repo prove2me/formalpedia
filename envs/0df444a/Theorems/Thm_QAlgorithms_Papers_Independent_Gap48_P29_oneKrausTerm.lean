@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P29_oneKrausTerm
 -- name    : QAlgorithms.Papers.Independent.Gap48.P29.oneKrausTerm
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-22T04:11:43.238055+00:00
 -- url     : https://prove2.me/theorems/17ed2d26-cdde-4940-b067-4e02b003277e

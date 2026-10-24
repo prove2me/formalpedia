@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani1980_Region_dominated_requirement_faithful
 -- name    : CoffmanMitrani1980.Region.dominated_requirement_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T00:27:23.087621+00:00
 -- url     : https://prove2.me/theorems/95fc100d-3bba-4184-ba45-085dddb943dc

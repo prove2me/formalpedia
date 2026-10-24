@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SharpLiebThirring_sharp_lieb_thirring
 -- name    : OAI.SharpLiebThirring.sharp_lieb_thirring
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:20.086022+00:00
 -- url     : https://prove2.me/theorems/fe8cd2c8-ae04-4d72-a69d-e53781c104dc

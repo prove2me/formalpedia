@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FreeSamples_Revenue_theorem_1a
 -- name    : FreeSamples.Revenue.theorem_1a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:41:55.691701+00:00
 -- url     : https://prove2.me/theorems/796421ea-be79-4cc0-a922-bfe949d9efec

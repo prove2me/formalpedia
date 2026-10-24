@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalInexactNewton_Backtracking_lemma_5_1
 -- name    : GlobalInexactNewton.Backtracking.lemma_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T09:34:33.73498+00:00
 -- url     : https://prove2.me/theorems/c36c53e1-3feb-43b2-a64c-85a67ed12bc4

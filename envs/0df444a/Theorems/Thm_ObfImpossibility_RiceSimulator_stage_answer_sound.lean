@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceSimulator_stage_answer_sound
 -- name    : ObfImpossibility.RiceSimulator.stage_answer_sound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:55.332709+00:00
 -- url     : https://prove2.me/theorems/eb827d4e-4e64-47b9-957c-7c8eeb2adb76

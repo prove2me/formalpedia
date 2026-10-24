@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrivateRelease_NetMechanism_lemma_3_7
 -- name    : PrivateRelease.NetMechanism.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:55.143109+00:00
 -- url     : https://prove2.me/theorems/4062c7d3-5313-43e1-946a-e084c8f30cb3

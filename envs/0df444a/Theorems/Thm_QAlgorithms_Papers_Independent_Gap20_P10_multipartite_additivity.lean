@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap20_P10_multipartite_additivity
 -- name    : QAlgorithms.Papers.Independent.Gap20.P10.multipartite_additivity
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:33:12.563124+00:00
 -- url     : https://prove2.me/theorems/f2a60eab-4d54-46c3-ac17-9bbf8417010d

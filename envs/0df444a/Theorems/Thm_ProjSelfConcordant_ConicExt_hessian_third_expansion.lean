@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_hessian_third_expansion
 -- name    : ProjSelfConcordant.ConicExt.hessian_third_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:55.576045+00:00
 -- url     : https://prove2.me/theorems/cfe56746-4960-43dc-9d14-c1109e80fc48

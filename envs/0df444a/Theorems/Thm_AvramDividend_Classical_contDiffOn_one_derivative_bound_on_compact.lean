@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_contDiffOn_one_derivative_bound_on_compact
 -- name    : AvramDividend.Classical.contDiffOn_one_derivative_bound_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-21T04:12:31.54995+00:00
 -- url     : https://prove2.me/theorems/c02525fd-37ea-4dbc-bd1f-2a4428f87a7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuperstarExcl_Complementors_lemma_2
 -- name    : SuperstarExcl.Complementors.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:30:02.305766+00:00
 -- url     : https://prove2.me/theorems/d130620d-89cf-4b91-99bb-33f753cf7030

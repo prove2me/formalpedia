@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Support21_P11_two_strand_spanning
 -- name    : QAlgorithms.Papers.Independent.Support21.P11.two_strand_spanning
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T03:58:36.428956+00:00
 -- url     : https://prove2.me/theorems/edc20ae0-3cec-4bc7-b0d7-9c9851e21aff

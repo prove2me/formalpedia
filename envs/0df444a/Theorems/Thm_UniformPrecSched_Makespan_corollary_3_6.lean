@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPrecSched_Makespan_corollary_3_6
 -- name    : UniformPrecSched.Makespan.corollary_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:32:26.566622+00:00
 -- url     : https://prove2.me/theorems/d376d94e-dbba-4207-bab8-6cd1793bbb02

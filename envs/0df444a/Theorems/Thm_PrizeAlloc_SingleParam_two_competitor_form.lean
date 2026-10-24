@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_SingleParam_two_competitor_form
 -- name    : PrizeAlloc.SingleParam.two_competitor_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:21.704168+00:00
 -- url     : https://prove2.me/theorems/afcb35b6-ebd3-4080-9e75-41b57c1e8da5

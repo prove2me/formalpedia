@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Hypothesis_second_moment_loo
 -- name    : StabGen.Hypothesis.second_moment_loo
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:09:24.978895+00:00
 -- url     : https://prove2.me/theorems/a8f0d7d8-899f-4181-b4cf-a5206d690acc

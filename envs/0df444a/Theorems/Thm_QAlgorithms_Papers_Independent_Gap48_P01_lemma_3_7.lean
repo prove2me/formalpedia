@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P01_lemma_3_7
 -- name    : QAlgorithms.Papers.Independent.Gap48.P01.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T20:46:32.762377+00:00
 -- url     : https://prove2.me/theorems/96db52d8-3a78-411b-a1d0-84a283c4c2bd

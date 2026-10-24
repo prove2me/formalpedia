@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ComparatorModel_CurrentMain_main
 -- name    : OAI.ComparatorModel.CurrentMain.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:27.571255+00:00
 -- url     : https://prove2.me/theorems/2b4e3524-6296-4c95-a4cc-891357da0163

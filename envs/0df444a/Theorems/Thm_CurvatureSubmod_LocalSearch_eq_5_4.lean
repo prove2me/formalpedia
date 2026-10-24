@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_LocalSearch_eq_5_4
 -- name    : CurvatureSubmod.LocalSearch.eq_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:08:51.469276+00:00
 -- url     : https://prove2.me/theorems/792452b6-4aa7-406b-a576-c1f8b2422203

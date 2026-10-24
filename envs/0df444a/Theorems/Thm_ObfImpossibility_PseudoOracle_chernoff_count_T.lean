@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_chernoff_count_T
 -- name    : ObfImpossibility.PseudoOracle.chernoff_count_T
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:29:37.612206+00:00
 -- url     : https://prove2.me/theorems/83855b3f-7381-4ae8-922a-6ccafbd74cb7

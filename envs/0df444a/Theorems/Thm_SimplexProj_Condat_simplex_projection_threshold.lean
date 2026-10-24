@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimplexProj_Condat_simplex_projection_threshold
 -- name    : SimplexProj.Condat.simplex_projection_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T23:16:41.650891+00:00
 -- url     : https://prove2.me/theorems/3c505ad7-81ed-4978-8e7a-b37178fc5729

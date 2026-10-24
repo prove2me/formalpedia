@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Ellipsoids_nesterov_ye
 -- name    : ModernConvex.Ellipsoids.nesterov_ye
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:50.496268+00:00
 -- url     : https://prove2.me/theorems/e8ad933d-cce5-4d9d-941c-11e5a8d0a6a8

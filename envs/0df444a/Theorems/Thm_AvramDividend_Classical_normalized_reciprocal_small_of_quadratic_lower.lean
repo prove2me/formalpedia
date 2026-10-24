@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_normalized_reciprocal_small_of_quadratic_lower
 -- name    : AvramDividend.Classical.normalized_reciprocal_small_of_quadratic_lower
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T22:17:13.290596+00:00
 -- url     : https://prove2.me/theorems/0339d591-089e-4782-923c-12d6bde23aef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_cstar_finite_of_interior_anchor_bounds
 -- name    : AvramDividend.Classical.cstar_finite_of_interior_anchor_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T18:06:58.719084+00:00
 -- url     : https://prove2.me/theorems/c9ed70d2-4fcc-4a2d-b050-cb05b2bceba0

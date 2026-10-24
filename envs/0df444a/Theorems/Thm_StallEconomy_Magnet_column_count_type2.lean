@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_Magnet_column_count_type2
 -- name    : StallEconomy.Magnet.column_count_type2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:54.814219+00:00
 -- url     : https://prove2.me/theorems/9e7021f9-e9f1-4c7e-8c85-cc89345c84d5

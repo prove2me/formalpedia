@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleComplexityRL_MuPolicySearch_mu_optimality
 -- name    : SampleComplexityRL.MuPolicySearch.mu_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T04:01:46.851277+00:00
 -- url     : https://prove2.me/theorems/ee0970a3-1a4b-4a35-bebb-a6807098f470

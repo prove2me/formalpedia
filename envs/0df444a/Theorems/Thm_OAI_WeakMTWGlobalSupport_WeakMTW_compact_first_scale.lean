@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_WeakMTWGlobalSupport_WeakMTW_compact_first_scale
 -- name    : OAI.WeakMTWGlobalSupport.WeakMTW.compact_first_scale
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-19T02:59:27.86374+00:00
 -- url     : https://prove2.me/theorems/6da9d017-4bd6-4bca-9cd0-cd0cc9d31447

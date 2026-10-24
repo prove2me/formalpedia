@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_schur_matrix_action
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.schur_matrix_action
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:55:32.631847+00:00
 -- url     : https://prove2.me/theorems/eb5e9355-deda-4c35-9d4b-92fceaf52ae9

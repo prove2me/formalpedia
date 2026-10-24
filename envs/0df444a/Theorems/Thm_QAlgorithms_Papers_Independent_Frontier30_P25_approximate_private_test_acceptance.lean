@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Frontier30_P25_approximate_private_test_acceptance
 -- name    : QAlgorithms.Papers.Independent.Frontier30.P25.approximate_private_test_acceptance
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T18:40:00.676386+00:00
 -- url     : https://prove2.me/theorems/099bf309-32f4-4f48-af62-457bcf8f5e50

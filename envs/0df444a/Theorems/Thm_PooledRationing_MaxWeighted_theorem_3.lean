@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledRationing_MaxWeighted_theorem_3
 -- name    : PooledRationing.MaxWeighted.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:35:27.121691+00:00
 -- url     : https://prove2.me/theorems/5676db4a-9b8e-4294-a84d-ff7af8848224

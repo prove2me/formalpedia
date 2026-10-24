@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_recursion_invariant
 -- name    : SKAlgorithm.Qudit.recursion_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:55.566854+00:00
 -- url     : https://prove2.me/theorems/94320503-7227-46d6-b538-50f471956774

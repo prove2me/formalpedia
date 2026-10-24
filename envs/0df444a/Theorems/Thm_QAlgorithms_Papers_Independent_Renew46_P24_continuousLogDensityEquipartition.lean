@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P24_continuousLogDensityEquipartition
 -- name    : QAlgorithms.Papers.Independent.Renew46.P24.continuousLogDensityEquipartition
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:46:17.775432+00:00
 -- url     : https://prove2.me/theorems/6743b030-af00-4f30-a131-a056d7b1b29c

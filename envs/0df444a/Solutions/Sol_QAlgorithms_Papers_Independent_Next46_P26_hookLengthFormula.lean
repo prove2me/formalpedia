@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Next46.P26.hookLengthFormula
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-22T15:04:56.449416+00:00
 -- url     : https://prove2.me/submissions/87715885-d28f-4737-9f1f-e64b6551d0dd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P26_hookBranching
 import Theorems.Thm_QAlgorithms_Papers_Independent_Next46_P26_tableauBranching

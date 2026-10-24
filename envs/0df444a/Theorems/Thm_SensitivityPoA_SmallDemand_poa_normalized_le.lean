@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPoA_SmallDemand_poa_normalized_le
 -- name    : SensitivityPoA.SmallDemand.poa_normalized_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T17:39:14.418996+00:00
 -- url     : https://prove2.me/theorems/057b4dad-9094-4192-b872-232f66e30c49

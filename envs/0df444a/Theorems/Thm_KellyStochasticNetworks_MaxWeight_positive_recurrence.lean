@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyStochasticNetworks_MaxWeight_positive_recurrence
 -- name    : KellyStochasticNetworks.MaxWeight.positive_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-22T03:49:55.97397+00:00
 -- url     : https://prove2.me/theorems/84897908-ce1c-46c0-8cae-2b828532dab4

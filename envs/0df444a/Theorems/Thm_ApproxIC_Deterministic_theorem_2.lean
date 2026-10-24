@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxIC_Deterministic_theorem_2
 -- name    : ApproxIC.Deterministic.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:42:24.305828+00:00
 -- url     : https://prove2.me/theorems/98082917-453e-46a1-b41f-055eeeef088d

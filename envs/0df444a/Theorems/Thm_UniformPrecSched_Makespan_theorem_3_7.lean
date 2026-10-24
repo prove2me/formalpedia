@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniformPrecSched_Makespan_theorem_3_7
 -- name    : UniformPrecSched.Makespan.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:33:00.585427+00:00
 -- url     : https://prove2.me/theorems/da5cd3d0-f420-413e-8700-e8a7e1824e7a

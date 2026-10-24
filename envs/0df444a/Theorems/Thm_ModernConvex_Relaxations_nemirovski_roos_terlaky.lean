@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Relaxations_nemirovski_roos_terlaky
 -- name    : ModernConvex.Relaxations.nemirovski_roos_terlaky
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:01.743669+00:00
 -- url     : https://prove2.me/theorems/8366f9c3-bb84-4d72-bc9e-8201211039b7

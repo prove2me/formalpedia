@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P03_concurrenceLowerBound
 -- name    : QAlgorithms.Papers.Independent.Information100.P03.concurrenceLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T09:29:59.992977+00:00
 -- url     : https://prove2.me/theorems/b9990b1c-a9ee-4cf4-9bf0-cf564b860fd2

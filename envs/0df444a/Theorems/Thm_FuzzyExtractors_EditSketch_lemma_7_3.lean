@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuzzyExtractors_EditSketch_lemma_7_3
 -- name    : FuzzyExtractors.EditSketch.lemma_7_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:16:30.023691+00:00
 -- url     : https://prove2.me/theorems/659e365e-af2d-4aea-b0a3-c7d73c6e88bd

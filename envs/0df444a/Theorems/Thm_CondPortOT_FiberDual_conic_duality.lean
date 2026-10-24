@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_FiberDual_conic_duality
 -- name    : CondPortOT.FiberDual.conic_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:23.101485+00:00
 -- url     : https://prove2.me/theorems/f9640aa9-9874-4f6b-acad-90eb06ea6335

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtznerDEHK2007_thm4_3_time_consistency_corrected
 -- name    : ArtznerDEHK2007.thm4_3_time_consistency_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:34:38.256554+00:00
 -- url     : https://prove2.me/theorems/0bbf934d-2ebc-4ca2-b578-d295fa7187d1

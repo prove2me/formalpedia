@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P60_zero_iff_simulation
 -- name    : QAlgorithms.Papers.Independent.Information100.P60.zero_iff_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T12:36:39.260743+00:00
 -- url     : https://prove2.me/theorems/f5065c16-6ca3-49b6-b3f0-948240dd1b00

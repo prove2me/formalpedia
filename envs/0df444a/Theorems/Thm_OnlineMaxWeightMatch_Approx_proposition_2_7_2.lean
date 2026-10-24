@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineMaxWeightMatch_Approx_proposition_2_7_2
 -- name    : OnlineMaxWeightMatch.Approx.proposition_2_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:48:58.514832+00:00
 -- url     : https://prove2.me/theorems/7be20220-eb7a-4689-8878-8d7d67a219a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_NullFiber_proposition_4_3
 -- name    : CondPortOT.NullFiber.proposition_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:35:11.106009+00:00
 -- url     : https://prove2.me/theorems/531114ee-49cb-47ea-a8bf-cdc7cd7f3fb5

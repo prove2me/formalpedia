@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalBarrier_NSC_ineq_9
 -- name    : UniversalBarrier.NSC.ineq_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:41.028102+00:00
 -- url     : https://prove2.me/theorems/350ceda5-03de-41b9-a130-3360393615f5

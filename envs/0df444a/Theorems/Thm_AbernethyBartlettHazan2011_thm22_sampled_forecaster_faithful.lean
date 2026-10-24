@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbernethyBartlettHazan2011_thm22_sampled_forecaster_faithful
 -- name    : AbernethyBartlettHazan2011.thm22_sampled_forecaster_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:32:34.459957+00:00
 -- url     : https://prove2.me/theorems/dd082c2b-e289-45d6-8c71-7e88dd140084

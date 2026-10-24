@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Dependency50_P39_krausProductIndependence
 -- name    : QAlgorithms.Papers.Independent.Dependency50.P39.krausProductIndependence
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T08:39:44.409988+00:00
 -- url     : https://prove2.me/theorems/1fd76ef0-ba28-4da7-9fff-6681b60f1e10

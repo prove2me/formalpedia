@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_genericPriorCounterexample
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.genericPriorCounterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:06:06.572438+00:00
 -- url     : https://prove2.me/theorems/76956f0d-9f9c-4dd0-bba1-9662e54f50b2

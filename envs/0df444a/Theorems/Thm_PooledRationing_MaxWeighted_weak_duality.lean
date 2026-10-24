@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledRationing_MaxWeighted_weak_duality
 -- name    : PooledRationing.MaxWeighted.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:34:54.054284+00:00
 -- url     : https://prove2.me/theorems/b60a1d27-6ae6-4ae5-82a2-31fe872e8d8f

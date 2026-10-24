@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_claim_B_1_2
 -- name    : ObfImpossibility.PseudoOracle.claim_B_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:26.935986+00:00
 -- url     : https://prove2.me/theorems/49d3a308-626a-4752-a2dd-631e6d867fe9

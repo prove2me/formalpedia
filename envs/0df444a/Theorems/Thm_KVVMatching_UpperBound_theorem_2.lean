@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KVVMatching_UpperBound_theorem_2
 -- name    : KVVMatching.UpperBound.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:15:45.580191+00:00
 -- url     : https://prove2.me/theorems/212afd75-eba3-44eb-9fcc-6fbcd5a3f8b7

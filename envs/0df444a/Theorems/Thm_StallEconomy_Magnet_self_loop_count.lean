@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_Magnet_self_loop_count
 -- name    : StallEconomy.Magnet.self_loop_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:58:22.396989+00:00
 -- url     : https://prove2.me/theorems/9e4f0646-d55c-430b-ab4b-d9a0a1ef3c77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QFlexSC_MCOpt_proposition_1
 -- name    : QFlexSC.MCOpt.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:24:12.426684+00:00
 -- url     : https://prove2.me/theorems/4d564611-7942-4475-a318-0038c2df4ba8

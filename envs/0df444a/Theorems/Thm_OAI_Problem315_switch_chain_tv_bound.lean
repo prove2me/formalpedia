@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem315_switch_chain_tv_bound
 -- name    : OAI.Problem315.switch_chain_tv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:07.424187+00:00
 -- url     : https://prove2.me/theorems/7aba6660-1232-4038-9351-96f6b70a1f9d

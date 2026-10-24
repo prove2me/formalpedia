@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernConvex_Ellipsoids_outer_sum_sdp_ratio
 -- name    : ModernConvex.Ellipsoids.outer_sum_sdp_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:34:57.567097+00:00
 -- url     : https://prove2.me/theorems/c577cacc-6d86-4978-8059-74ad1834109c

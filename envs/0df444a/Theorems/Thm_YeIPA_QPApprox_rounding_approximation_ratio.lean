@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_QPApprox_rounding_approximation_ratio
 -- name    : YeIPA.QPApprox.rounding_approximation_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:51.762144+00:00
 -- url     : https://prove2.me/theorems/917921f1-81f3-49cf-96c1-d527e589a432

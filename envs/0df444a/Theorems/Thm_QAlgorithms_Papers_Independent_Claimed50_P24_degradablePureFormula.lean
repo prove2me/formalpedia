@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_degradablePureFormula
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.degradablePureFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:44:10.535838+00:00
 -- url     : https://prove2.me/theorems/5dfa3c18-e46c-4791-af18-d5a4abdb28e7

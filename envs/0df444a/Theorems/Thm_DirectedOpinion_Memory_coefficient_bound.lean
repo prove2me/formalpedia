@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DirectedOpinion_Memory_coefficient_bound
 -- name    : DirectedOpinion.Memory.coefficient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:13:07.617182+00:00
 -- url     : https://prove2.me/theorems/1bbc9227-e284-46aa-a041-a75eeb4c658b

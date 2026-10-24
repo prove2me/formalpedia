@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoWMining_Investment_proposition_5_1
 -- name    : PoWMining.Investment.proposition_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:01:33.985747+00:00
 -- url     : https://prove2.me/theorems/7def1a13-4e0c-4b9a-a9a9-0fe397afbc56

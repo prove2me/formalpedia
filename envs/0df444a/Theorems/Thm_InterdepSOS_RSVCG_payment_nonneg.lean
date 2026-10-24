@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InterdepSOS_RSVCG_payment_nonneg
 -- name    : InterdepSOS.RSVCG.payment_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:02:19.349418+00:00
 -- url     : https://prove2.me/theorems/b7d9958d-0def-4955-8920-492fe046d975

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommitteeVoting_ExpConv_theorem_6
 -- name    : CommitteeVoting.ExpConv.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:41:41.042481+00:00
 -- url     : https://prove2.me/theorems/9550a4b3-e776-47ae-8cc9-5940496f7e29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Bellman_betaLow_pos
 -- name    : VolunteerEngage.Bellman.betaLow_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:29.955974+00:00
 -- url     : https://prove2.me/theorems/72db7c30-a35c-4337-b342-22cc60e81f76

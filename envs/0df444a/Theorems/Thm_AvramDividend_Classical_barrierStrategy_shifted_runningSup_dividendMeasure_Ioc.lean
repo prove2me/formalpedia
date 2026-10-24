@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierStrategy_shifted_runningSup_dividendMeasure_Ioc
 -- name    : AvramDividend.Classical.barrierStrategy_shifted_runningSup_dividendMeasure_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-23T00:34:33.155062+00:00
 -- url     : https://prove2.me/theorems/02561675-7798-4512-a22d-28112e3f86d9

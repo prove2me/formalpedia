@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_schur_subspace_invariant
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.schur_subspace_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:54:46.935268+00:00
 -- url     : https://prove2.me/theorems/e1f88f7c-0525-4e49-a6f5-f0786766a944

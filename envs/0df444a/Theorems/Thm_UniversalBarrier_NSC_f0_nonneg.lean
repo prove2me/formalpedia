@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UniversalBarrier_NSC_f0_nonneg
 -- name    : UniversalBarrier.NSC.f0_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:36:38.490018+00:00
 -- url     : https://prove2.me/theorems/d0eb8bfc-af87-4e16-b5d1-b95dd1a576fc

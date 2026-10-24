@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellerTrotter2017_thm5_39_cayley_formula_faithful
 -- name    : KellerTrotter2017.thm5_39_cayley_formula_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:26:53.698427+00:00
 -- url     : https://prove2.me/theorems/ab510481-8872-4008-beb2-2ac62e71a9f9

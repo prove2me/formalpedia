@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_theorem_A_4
 -- name    : ObfImpossibility.RiceNoSize.theorem_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:29:40.624688+00:00
 -- url     : https://prove2.me/theorems/f5d5754f-d2d3-4263-81b7-576193b2a176

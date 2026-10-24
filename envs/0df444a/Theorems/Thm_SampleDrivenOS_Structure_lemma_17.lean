@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SampleDrivenOS_Structure_lemma_17
 -- name    : SampleDrivenOS.Structure.lemma_17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:32:29.265609+00:00
 -- url     : https://prove2.me/theorems/214b2034-d97d-4d89-a597-4e2a5e6fa70f

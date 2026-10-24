@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrowdfundRM_Identical_proposition_6_ii
 -- name    : CrowdfundRM.Identical.proposition_6_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:52.681899+00:00
 -- url     : https://prove2.me/theorems/299b361b-8ab3-4537-80b9-333802160649

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_Inhomogeneous_lemma_B1
 -- name    : StrictCompatLB.Inhomogeneous.lemma_B1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:04:07.933181+00:00
 -- url     : https://prove2.me/theorems/637f480f-be11-4c4e-bfd1-29466cae270f

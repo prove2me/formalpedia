@@ -1,0 +1,1042 @@
+-- Prove2me | solution 1 for FunctionalInequalities.KLS.BKL.Localization.cumulantBoundCompact_of_cutoffEnergyClaim_408915f
+-- status  : ACCEPTED   (prove)
+-- author  : @Lazyfill
+-- created : 2026-10-23T17:13:42.853982+00:00
+-- url     : https://prove2.me/submissions/79e709aa-2ad8-4904-90ad-0d70e9d8216c
+
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Algebra
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_DenseCountable
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_ENNReal
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Filtration
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_FiniteInf
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Indistinguishable
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_LeftLimWithin
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_LinearAlgebra
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Martingale
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_MeanInequalities
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_MeasureTheory
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Metric
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Nat
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_StoppedProcess
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Topology
+import Definitions.Def_KLS408915f_BrownianMotion_Auxiliary_Upcrossing
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_Chaining
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_CoveringNumber
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_HasBoundedInternalCoveringNumber
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_IsKolmogorovProcess
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_KolmogorovChentsov
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_KolmogorovChentsovInequality
+import Definitions.Def_KLS408915f_BrownianMotion_Continuity_LimitModification
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_BrownianMotion
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_Moment
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_ProjectiveLimit
+import Definitions.Def_KLS408915f_BrownianMotion_Gaussian_StochasticProcesses
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Cadlag
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Predictable
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Quasimartingale_Basic
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Quasimartingale_CadlagModification
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_Quasimartingale_MaximalInequality
+import Definitions.Def_KLS408915f_BrownianMotion_StochasticIntegral_SimpleProcess
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Bochner_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Calculus
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Cumulant_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Cumulant_Local
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Gamma
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_IntegrationByParts_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Laplacian
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Tilt_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Tilt_Local
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Tilt_LocalDerivatives
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_BakryEmery_Tilt_SquareIntegrable
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Cutoff_LipschitzBall
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Cutoff_SmoothBall
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_IteratedDerivative_Bilinear
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_IteratedDerivative_Symmetry
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Lipschitz_Gradient
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Matrix_Positivity
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Operator_Coordinates
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Operator_InverseSqrt
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Tensor_Coefficients
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Tensor_Coordinate
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Tensor_Multilinear
+import Definitions.Def_KLS408915f_FunctionalInequalities_Analysis_Tensor_Symmetrization
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_CovarianceGradient_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_CovarianceGradient_LinearEquiv
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_CovarianceGradient_Translation
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Euclidean_LipschitzApproximation_Approximation
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Euclidean_LipschitzApproximation_Kernel
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Euclidean_LipschitzApproximation_Measurable
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Euclidean_WeakDerivative
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Form_Core
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Form_Functional
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Form_QuadraticPreEnergy
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_LocalSlope_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Relaxation_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_Relaxation_LinearPMap
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_SmoothGradient_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_SmoothGradient_Intrinsic_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_SmoothGradient_Intrinsic_Comparison
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_SmoothGradient_Quadratic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_WeightedGradient_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_WeightedGradient_Closable
+import Definitions.Def_KLS408915f_FunctionalInequalities_Energy_WeightedGradient_Core
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_CompactReduction
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_CumulantEnergy_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_CumulantEnvelope
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_Localization_Coefficients
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_Localization_CutoffEnergy_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_Localization_Process_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_Suspension_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_BKL_Suspension_Law
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_Isotropic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Borel
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Density_AbsoluteContinuity
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Density_BorellRepresentation_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Density_BorellRepresentation_Construction
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Density_BorellRepresentation_Moments
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Density_FromBorell
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Isotropic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Translation
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_Transport
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_LogConcave_WeightedGradient_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_KLS_Statement
+import Definitions.Def_KLS408915f_FunctionalInequalities_L2_MeanVariance
+import Definitions.Def_KLS408915f_FunctionalInequalities_L2_Transport
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_Comparison
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_CovarianceGradient_Intrinsic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_L2_Energy
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_LipschitzGradient_Comparison
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_LocalSlope_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_Relaxation
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_SmoothGradient_Ambient
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_SmoothGradient_Intrinsic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_SmoothTest_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Poincare_SmoothTest_Optimal
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_AffineSupport
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_BrunnMinkowski
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Covariance_Basic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Diffusion_Existence
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Diffusion_Generator
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Diffusion_Setup
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Domination_Averages
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Domination_Ball
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Domination_Local
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_IntrinsicTranslation
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Line_BrunnMinkowski
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Line_Laplace
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_LogConcave
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Posterior_CompactDomain
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Posterior_CompactPrior
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Posterior_CompactQuadratic
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Posterior_Exponent
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Posterior_Generator
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Posterior_JointRegularity
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Posterior_LogPartition
+import Definitions.Def_KLS408915f_FunctionalInequalities_Probability_Transport
+import Definitions.Def_KLS408915f_KolmogorovExtension4_CompactSystem
+import Definitions.Def_KLS408915f_KolmogorovExtension4_KolmogorovExtension
+import Definitions.Def_KLS408915f_KolmogorovExtension4_RegularContent
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_AugmentedFiltration
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Construction
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ContinuityDyadicChaining
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CoordDerivative
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CrossOrthogonalityDirectCross
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CrossVariation
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_CrossVariationSum
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Existence
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Filtered
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoAlgebraAssociativity
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoAlgebraProduct
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoAlgebraSimpleIntegrand
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoCutoff
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityDyadicAverages
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityPointwise
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityPredictableL2
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityShiftedAverages
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoDensityUnbounded
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoFormulaGrid
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoFourthMomentIncrements
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoFourthMomentLintegral
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoIncrementMomentRestrict
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionApi
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionConvergence
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionExistence
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionLp
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionMaster
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoL2CompletionQuadVar
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoLocality
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoMartingale
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoOptionalStopping
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoPullOut
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoQuadVarSum
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoSimpleIntegrand
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoSimpleIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoSimpleMoments
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoTruncate
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_ItoVersionExists
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Martingale
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_MartingaleCondExp
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_Multidim
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_MultidimFiltered
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_MultidimIto
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_PolarisedQuadVar
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SimplePredictableRefineAppend
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SimplePredictableRefineCommon
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SimplePredictableRefineInvariance
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_SmoothCutoff
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_TaylorTwoVector
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_VectorItoFormula
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_VectorItoProcess
+import Definitions.Def_KLS408915f_LevyStochCalc_Brownian_VectorItoProcessVersion
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_ItoFormulaUnboundedClamp
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardBieleckiNorm
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardContractionEstimate
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardContractionFixedPoint
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardGlobal
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardIntegrandBounds
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardIntegrandFrozen
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardLimit
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputModification
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputMoments
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputStepDiff
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardOutputWeighting
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardSpaceBieleckiEDist
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardSpaceBieleckiQuotient
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardSpaceDiscrete
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardStepMap
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardStochasticLipschitz
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_PicardWindow
+import Definitions.Def_KLS408915f_LevyStochCalc_Ito_Setting
+import Definitions.Def_KLS408915f_LevyStochCalc_Martingale_CadlagModification
+import Definitions.Def_KLS408915f_LevyStochCalc_Martingale_RightCont
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_Compensated
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedApprox
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityBoxIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityDyadic
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityLimit
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityMarkApprox
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityMarkSum
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityRectSimple
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityRefinement
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityShifted
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityStepIntegral
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDensityTruncation
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedDiff
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedMartingaleAdapted
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedMartingaleIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedMartingaleQuadratic
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedProcess
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedProcessQuadVar
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_CompensatedSimple
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_Filtered
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_MarkStepIncrement
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_MarkStepIsometry
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_MarkStepWeight
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_PoissonSuperposition
+import Definitions.Def_KLS408915f_LevyStochCalc_Poisson_RandomMeasure
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_Augmentation
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_DoobContinuous
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_ExitTime
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_IndepJoin
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_Progressive
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_ProgressiveCadlag
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_StoppedProgressive
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_Transport
+import Definitions.Def_KLS408915f_LevyStochCalc_Probability_TrivialSigma
+import Definitions.Def_KLS408915f_MathFin_Foundations_DoobLpMaximalInequality
+import Mathlib.Algebra.BigOperators.Group.Finset.Pi
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.Chebyshev
+import Mathlib.Algebra.Order.Floor.Extended
+import Mathlib.Algebra.Order.Floor.Semiring
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Star
+import Mathlib.Analysis.CStarAlgebra.ContinuousFunctionalCalculus.Order
+import Mathlib.Analysis.CStarAlgebra.Matrix
+import Mathlib.Analysis.Calculus.AddTorsor.AffineMap
+import Mathlib.Analysis.Calculus.BumpFunction.FiniteDimension
+import Mathlib.Analysis.Calculus.BumpFunction.InnerProduct
+import Mathlib.Analysis.Calculus.BumpFunction.Normed
+import Mathlib.Analysis.Calculus.ContDiff.Basic
+import Mathlib.Analysis.Calculus.ContDiff.Bounds
+import Mathlib.Analysis.Calculus.ContDiff.Convolution
+import Mathlib.Analysis.Calculus.ContDiff.Deriv
+import Mathlib.Analysis.Calculus.ContDiff.FTaylorSeries
+import Mathlib.Analysis.Calculus.ContDiff.Operations
+import Mathlib.Analysis.Calculus.ContDiff.RCLike
+import Mathlib.Analysis.Calculus.Deriv.Comp
+import Mathlib.Analysis.Calculus.Deriv.Inv
+import Mathlib.Analysis.Calculus.Deriv.Slope
+import Mathlib.Analysis.Calculus.FDeriv.Basic
+import Mathlib.Analysis.Calculus.FDeriv.Bilinear
+import Mathlib.Analysis.Calculus.FDeriv.Comp
+import Mathlib.Analysis.Calculus.FDeriv.Const
+import Mathlib.Analysis.Calculus.FDeriv.Equiv
+import Mathlib.Analysis.Calculus.FDeriv.Linear
+import Mathlib.Analysis.Calculus.FDeriv.Measurable
+import Mathlib.Analysis.Calculus.FDeriv.Mul
+import Mathlib.Analysis.Calculus.FDeriv.Norm
+import Mathlib.Analysis.Calculus.FDeriv.Symmetric
+import Mathlib.Analysis.Calculus.Gradient.Basic
+import Mathlib.Analysis.Calculus.LineDeriv.IntegrationByParts
+import Mathlib.Analysis.Calculus.MeanValue
+import Mathlib.Analysis.Calculus.ParametricIntegral
+import Mathlib.Analysis.Calculus.Rademacher
+import Mathlib.Analysis.Convex.Combination
+import Mathlib.Analysis.Convex.Continuous
+import Mathlib.Analysis.Convex.Deriv
+import Mathlib.Analysis.Convex.Function
+import Mathlib.Analysis.Convex.Integral
+import Mathlib.Analysis.Convex.Measure
+import Mathlib.Analysis.Distribution.AEEqOfIntegralContDiff
+import Mathlib.Analysis.InnerProductSpace.Adjoint
+import Mathlib.Analysis.InnerProductSpace.Basic
+import Mathlib.Analysis.InnerProductSpace.Calculus
+import Mathlib.Analysis.InnerProductSpace.Continuous
+import Mathlib.Analysis.InnerProductSpace.Dual
+import Mathlib.Analysis.InnerProductSpace.GramMatrix
+import Mathlib.Analysis.InnerProductSpace.Laplacian
+import Mathlib.Analysis.InnerProductSpace.LinearMap
+import Mathlib.Analysis.InnerProductSpace.PiL2
+import Mathlib.Analysis.InnerProductSpace.Positive
+import Mathlib.Analysis.InnerProductSpace.Projection.FiniteDimensional
+import Mathlib.Analysis.InnerProductSpace.Projection.Minimal
+import Mathlib.Analysis.InnerProductSpace.Spectrum
+import Mathlib.Analysis.InnerProductSpace.Subspace
+import Mathlib.Analysis.LocallyConvex.Separation
+import Mathlib.Analysis.Matrix.HermitianFunctionalCalculus
+import Mathlib.Analysis.Matrix.Order
+import Mathlib.Analysis.Matrix.PosDef
+import Mathlib.Analysis.MeanInequalities
+import Mathlib.Analysis.Normed.Affine.Isometry
+import Mathlib.Analysis.Normed.Group.Bounded
+import Mathlib.Analysis.Normed.Group.Constructions
+import Mathlib.Analysis.Normed.Group.Continuity
+import Mathlib.Analysis.Normed.Lp.MeasurableSpace
+import Mathlib.Analysis.Normed.Lp.SmoothApprox
+import Mathlib.Analysis.Normed.Module.Ball.Pointwise
+import Mathlib.Analysis.Normed.Module.Basic
+import Mathlib.Analysis.Normed.Module.Convex
+import Mathlib.Analysis.Normed.Module.FiniteDimension
+import Mathlib.Analysis.Normed.Module.Multilinear.Curry
+import Mathlib.Analysis.Normed.Operator.Banach
+import Mathlib.Analysis.Normed.Operator.LinearIsometry
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Abs
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Basic
+import Mathlib.Analysis.SpecialFunctions.ContinuousFunctionalCalculus.Rpow.Isometric
+import Mathlib.Analysis.SpecialFunctions.Exp
+import Mathlib.Analysis.SpecialFunctions.ExpDeriv
+import Mathlib.Analysis.SpecialFunctions.ImproperIntegrals
+import Mathlib.Analysis.SpecialFunctions.Log.Base
+import Mathlib.Analysis.SpecialFunctions.Log.Deriv
+import Mathlib.Analysis.SpecialFunctions.Pow.Continuity
+import Mathlib.Analysis.SpecialFunctions.Pow.Deriv
+import Mathlib.Analysis.SpecialFunctions.Pow.Integral
+import Mathlib.Analysis.SpecialFunctions.Pow.NNReal
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.SmoothTransition
+import Mathlib.Analysis.SpecialFunctions.Sqrt
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Data.ENNReal.Basic
+import Mathlib.Data.ENNReal.Inv
+import Mathlib.Data.ENNReal.Operations
+import Mathlib.Data.Finset.Lattice.Fold
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Fintype.Perm
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.NNReal.Basic
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Choose.Central
+import Mathlib.Data.Nat.Choose.Vandermonde
+import Mathlib.Data.Rat.Denumerable
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Set.Finite.Lattice
+import Mathlib.Data.Set.FiniteExhaustion
+import Mathlib.GroupTheory.Perm.Basic
+import Mathlib.LinearAlgebra.Basis.Fin
+import Mathlib.LinearAlgebra.Dimension.Finite
+import Mathlib.LinearAlgebra.Matrix.BilinearForm
+import Mathlib.LinearAlgebra.Matrix.Kronecker
+import Mathlib.LinearAlgebra.Matrix.PosDef
+import Mathlib.LinearAlgebra.Matrix.Symmetric
+import Mathlib.LinearAlgebra.Matrix.Trace
+import Mathlib.LinearAlgebra.SesquilinearForm.Star
+import Mathlib.MeasureTheory.Constructions.BorelSpace.ContinuousLinearMap
+import Mathlib.MeasureTheory.Constructions.BorelSpace.Order
+import Mathlib.MeasureTheory.Constructions.ClosedCompactCylinders
+import Mathlib.MeasureTheory.Constructions.Pi
+import Mathlib.MeasureTheory.Constructions.Polish.Basic
+import Mathlib.MeasureTheory.Constructions.ProjectiveFamilyContent
+import Mathlib.MeasureTheory.Covering.BesicovitchVectorSpace
+import Mathlib.MeasureTheory.Covering.DensityTheorem
+import Mathlib.MeasureTheory.Function.ConditionalExpectation.CondJensen
+import Mathlib.MeasureTheory.Function.ConditionalExpectation.PullOut
+import Mathlib.MeasureTheory.Function.ConditionalExpectation.Real
+import Mathlib.MeasureTheory.Function.ConvergenceInMeasure
+import Mathlib.MeasureTheory.Function.Floor
+import Mathlib.MeasureTheory.Function.Holder
+import Mathlib.MeasureTheory.Function.L2Space
+import Mathlib.MeasureTheory.Function.LocallyIntegrable
+import Mathlib.MeasureTheory.Function.LpSeminorm.Basic
+import Mathlib.MeasureTheory.Function.LpSeminorm.CompareExp
+import Mathlib.MeasureTheory.Function.LpSeminorm.LpNorm
+import Mathlib.MeasureTheory.Function.LpSeminorm.TriangleInequality
+import Mathlib.MeasureTheory.Function.LpSpace.Basic
+import Mathlib.MeasureTheory.Function.LpSpace.Complete
+import Mathlib.MeasureTheory.Function.LpSpace.Indicator
+import Mathlib.MeasureTheory.Function.StronglyMeasurable.Basic
+import Mathlib.MeasureTheory.Function.UniformIntegrable
+import Mathlib.MeasureTheory.Group.Arithmetic
+import Mathlib.MeasureTheory.Group.Integral
+import Mathlib.MeasureTheory.Integral.Average
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.Integral.Bochner.Set
+import Mathlib.MeasureTheory.Integral.DominatedConvergence
+import Mathlib.MeasureTheory.Integral.IntegralEqImproper
+import Mathlib.MeasureTheory.Integral.IntervalIntegral.Basic
+import Mathlib.MeasureTheory.Integral.IntervalIntegral.FundThmCalculus
+import Mathlib.MeasureTheory.Integral.Layercake
+import Mathlib.MeasureTheory.Integral.Lebesgue.Add
+import Mathlib.MeasureTheory.Integral.MeanInequalities
+import Mathlib.MeasureTheory.Integral.Prod
+import Mathlib.MeasureTheory.MeasurableSpace.Constructions
+import Mathlib.MeasureTheory.Measure.AddContent
+import Mathlib.MeasureTheory.Measure.CharacteristicFunction.Basic
+import Mathlib.MeasureTheory.Measure.Decomposition.RadonNikodym
+import Mathlib.MeasureTheory.Measure.Haar.Basic
+import Mathlib.MeasureTheory.Measure.Haar.NormedSpace
+import Mathlib.MeasureTheory.Measure.HasOuterApproxClosed
+import Mathlib.MeasureTheory.Measure.Lebesgue.Basic
+import Mathlib.MeasureTheory.Measure.Lebesgue.EqHaar
+import Mathlib.MeasureTheory.Measure.Lebesgue.VolumeOfBalls
+import Mathlib.MeasureTheory.Measure.MeasureSpace
+import Mathlib.MeasureTheory.Measure.MeasureSpaceDef
+import Mathlib.MeasureTheory.Measure.NullMeasurable
+import Mathlib.MeasureTheory.Measure.Portmanteau
+import Mathlib.MeasureTheory.Measure.ProbabilityMeasure
+import Mathlib.MeasureTheory.Measure.Prod
+import Mathlib.MeasureTheory.Measure.Real
+import Mathlib.MeasureTheory.Measure.Regular
+import Mathlib.MeasureTheory.Measure.RegularityCompacts
+import Mathlib.MeasureTheory.Measure.Support
+import Mathlib.MeasureTheory.Measure.Tilted
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.MeasureTheory.Measure.WithDensity
+import Mathlib.MeasureTheory.OuterMeasure.OfAddContent
+import Mathlib.MeasureTheory.SetSemiring
+import Mathlib.Order.CompleteLattice.Group
+import Mathlib.Order.CompletePartialOrder
+import Mathlib.Order.ConditionallyCompleteLattice.Finset
+import Mathlib.Order.ConditionallyCompletePartialOrder.Indexed
+import Mathlib.Order.Filter.ENNReal
+import Mathlib.Probability.BrownianMotion.Basic
+import Mathlib.Probability.ConditionalExpectation
+import Mathlib.Probability.ConditionalProbability
+import Mathlib.Probability.Distributions.Gaussian.CharFun
+import Mathlib.Probability.Distributions.Gaussian.Fernique
+import Mathlib.Probability.Distributions.Gaussian.HasGaussianLaw.Basic
+import Mathlib.Probability.Distributions.Gaussian.HasGaussianLaw.Independence
+import Mathlib.Probability.Distributions.Gaussian.IsGaussianProcess.Basic
+import Mathlib.Probability.Distributions.Gaussian.IsGaussianProcess.Independence
+import Mathlib.Probability.Distributions.Gaussian.Multivariate
+import Mathlib.Probability.Distributions.Gaussian.Real
+import Mathlib.Probability.Distributions.Poisson.Basic
+import Mathlib.Probability.Independence.Basic
+import Mathlib.Probability.Independence.BoundedContinuousFunction
+import Mathlib.Probability.Independence.CharacteristicFunction
+import Mathlib.Probability.Independence.InfinitePi
+import Mathlib.Probability.Independence.Integration
+import Mathlib.Probability.Independence.Process.HasIndepIncrements.Basic
+import Mathlib.Probability.Independence.ZeroOne
+import Mathlib.Probability.Kernel.Defs
+import Mathlib.Probability.Martingale.Basic
+import Mathlib.Probability.Martingale.OptionalStopping
+import Mathlib.Probability.Martingale.Upcrossing
+import Mathlib.Probability.Moments.Covariance
+import Mathlib.Probability.Moments.CovarianceBilin
+import Mathlib.Probability.Moments.IntegrableExpMul
+import Mathlib.Probability.Moments.MGFAnalytic
+import Mathlib.Probability.Moments.Variance
+import Mathlib.Probability.Notation
+import Mathlib.Probability.Process.Adapted
+import Mathlib.Probability.Process.Filtration
+import Mathlib.Probability.Process.Kolmogorov
+import Mathlib.Probability.Process.Predictable
+import Mathlib.Probability.Process.Stopping
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NoncommRing
+import Mathlib.Tactic.Positivity
+import Mathlib.Topology.Algebra.MetricSpace.Lipschitz
+import Mathlib.Topology.Algebra.Module.FiniteDimension
+import Mathlib.Topology.Algebra.Module.LinearPMap
+import Mathlib.Topology.Algebra.MulAction
+import Mathlib.Topology.Algebra.Support
+import Mathlib.Topology.Bases
+import Mathlib.Topology.Compactness.CompactSystem
+import Mathlib.Topology.ContinuousMap.SecondCountableSpace
+import Mathlib.Topology.EMetricSpace.Lipschitz
+import Mathlib.Topology.EMetricSpace.PairReduction
+import Mathlib.Topology.Instances.ENNReal.Lemmas
+import Mathlib.Topology.IsClosedRestrict
+import Mathlib.Topology.Maps.Basic
+import Mathlib.Topology.Maps.Proper.Basic
+import Mathlib.Topology.MetricSpace.Basic
+import Mathlib.Topology.MetricSpace.Bounded
+import Mathlib.Topology.MetricSpace.Contracting
+import Mathlib.Topology.MetricSpace.Cover
+import Mathlib.Topology.MetricSpace.CoveringNumbers
+import Mathlib.Topology.MetricSpace.HolderNorm
+import Mathlib.Topology.MetricSpace.Lipschitz
+import Mathlib.Topology.MetricSpace.MetricSeparated
+import Mathlib.Topology.MetricSpace.Pseudo.Defs
+import Mathlib.Topology.Order.Compact
+import Mathlib.Topology.Order.DenselyOrdered
+import Mathlib.Topology.Order.LeftRight
+import Mathlib.Topology.Order.LeftRightLim
+import Mathlib.Topology.Order.LiminfLimsup
+import Mathlib.Topology.Order.Monotone
+import Mathlib.Topology.Order.MonotoneContinuity
+import Mathlib.Topology.Semicontinuity.Basic
+import Mathlib.Topology.Separation.Regular
+import Mathlib.Topology.Sequences
+import Mathlib.Topology.UniformSpace.Cauchy
+import Mathlib.Topology.UniformSpace.HeineCantor
+import Mathlib.Topology.UniformSpace.UniformEmbedding
+import Theorems.Thm_FunctionalInequalities_KLS_BKL_Localization_exists_isEldanCutoff_408915f
+import Theorems.Thm_LevyStochCalc_Brownian_IsBrownianFiltration_rightCont_408915f
+import Theorems.Thm_LevyStochCalc_Brownian_Multidim_MultidimBrownianMotion_exists_408915f
+import Theorems.Thm_LevyStochCalc_Brownian_Multidim_MultidimBrownianMotion_isBrownianFiltration_natural_408915f
+
+section
+noncomputable section
+open scoped RealInnerProductSpace MatrixOrder
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.Analysis
+end FunctionalInequalities.Analysis
+open FunctionalInequalities FunctionalInequalities.Analysis
+variable {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+section OperatorMatrix
+open Matrix
+variable [FiniteDimensional ℝ E] {ι : Type*} [Fintype ι] [DecidableEq ι]
+@[simp] theorem FunctionalInequalities.Analysis.operatorMatrix_operatorOfMatrix (b : OrthonormalBasis ι ℝ E) (M : Matrix ι ι ℝ) :
+    operatorMatrix b (operatorOfMatrix b M) = M := by
+  exact (LinearMap.toMatrixOrthonormal b).apply_symm_apply M
+@[simp] theorem FunctionalInequalities.Analysis.operatorOfMatrix_operatorMatrix (b : OrthonormalBasis ι ℝ E) (T : E →L[ℝ] E) :
+    operatorOfMatrix b (operatorMatrix b T) = T := by
+  exact congrArg (fun f : E →ₗ[ℝ] E => f.toContinuousLinearMap)
+    ((LinearMap.toMatrixOrthonormal b).symm_apply_apply T.toLinearMap)
+theorem FunctionalInequalities.Analysis.operatorMatrix_injective (b : OrthonormalBasis ι ℝ E) : Function.Injective (operatorMatrix b) := by
+  intro S T h
+  have := congrArg (operatorOfMatrix b) h
+  simpa only [operatorOfMatrix_operatorMatrix] using this
+@[simp] theorem FunctionalInequalities.Analysis.operatorMatrix_mul (b : OrthonormalBasis ι ℝ E) (S T : E →L[ℝ] E) :
+    operatorMatrix b (S * T) = operatorMatrix b S * operatorMatrix b T := by
+  exact map_mul (LinearMap.toMatrixOrthonormal b) S.toLinearMap T.toLinearMap
+@[simp] theorem FunctionalInequalities.Analysis.operatorMatrix_one (b : OrthonormalBasis ι ℝ E) :
+    operatorMatrix b (1 : E →L[ℝ] E) = 1 := by
+  exact map_one (LinearMap.toMatrixOrthonormal b)
+/-- The matrix is positive semidefinite iff the operator is positive (Mathlib `posSemidef_toMatrix_iff`). -/
+theorem FunctionalInequalities.Analysis.operatorMatrix_posSemidef_iff (b : OrthonormalBasis ι ℝ E) (T : E →L[ℝ] E) :
+    (operatorMatrix b T).PosSemidef ↔ T.IsPositive :=
+  LinearMap.posSemidef_toMatrix_iff b
+/-- The matrix inverse of a unit's matrix is the matrix of `Ring.inverse`. -/
+theorem FunctionalInequalities.Analysis.operatorMatrix_ringInverse (b : OrthonormalBasis ι ℝ E) (A : E →L[ℝ] E) (hA : IsUnit A) :
+    (operatorMatrix b A)⁻¹ = operatorMatrix b (Ring.inverse A) := by
+  apply Matrix.inv_eq_right_inv
+  rw [← operatorMatrix_mul, Ring.mul_inverse_cancel A hA, operatorMatrix_one]
+end OperatorMatrix
+end
+end
+end
+end
+
+section
+noncomputable section
+open scoped MatrixOrder RealInnerProductSpace
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.Analysis
+end FunctionalInequalities.Analysis
+open FunctionalInequalities FunctionalInequalities.Analysis
+variable {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E] [FiniteDimensional ℝ E]
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+@[simp] theorem FunctionalInequalities.Analysis.operatorMatrix_inverseSqrtIn (b : OrthonormalBasis ι ℝ E) (A : E →L[ℝ] E) :
+    operatorMatrix b (inverseSqrtIn b A) = CFC.sqrt ((operatorMatrix b A)⁻¹) :=
+  operatorMatrix_operatorOfMatrix b _
+/-- Uniqueness of the positive branch: any positive `S` with `S² = A⁻¹` equals `inverseSqrtIn b A`. -/
+theorem FunctionalInequalities.Analysis.inverseSqrtIn_unique (b : OrthonormalBasis ι ℝ E) (A S : E →L[ℝ] E)
+    (hunit : IsUnit A) (hS : S.IsPositive) (hSquare : S * S = Ring.inverse A) :
+    inverseSqrtIn b A = S := by
+  apply operatorMatrix_injective b
+  rw [operatorMatrix_inverseSqrtIn]
+  apply CFC.sqrt_unique
+  · rw [← operatorMatrix_mul, hSquare, operatorMatrix_ringInverse b A hunit]
+  · exact ((operatorMatrix_posSemidef_iff b S).mpr hS).nonneg
+theorem FunctionalInequalities.Analysis.inverseSqrt_unique (A S : E →L[ℝ] E)
+    (hunit : IsUnit A) (hS : S.IsPositive) (hSquare : S * S = Ring.inverse A) :
+    inverseSqrt A = S := inverseSqrtIn_unique _ A S hunit hS hSquare
+end
+end
+end
+end
+
+section
+noncomputable section
+open scoped NNReal
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.Probability
+end FunctionalInequalities.Probability
+open FunctionalInequalities FunctionalInequalities.Probability
+section
+namespace FunctionalInequalities.Probability.Diffusion
+end FunctionalInequalities.Probability.Diffusion
+open FunctionalInequalities FunctionalInequalities.Probability FunctionalInequalities.Probability.Diffusion
+section Cutoff
+variable {V V' : Type*} [NormedAddCommGroup V] [NormedSpace ℝ V] [FiniteDimensional ℝ V]
+  [NormedAddCommGroup V'] [NormedSpace ℝ V']
+theorem FunctionalInequalities.Probability.Diffusion.ballCutoff_mem_Icc (R : ℝ) (p : V) : ballCutoff R p ∈ Set.Icc (0 : ℝ) 1 := by
+  have _hcompact := isCompact_closedBall (0 : V) (1 : ℝ)
+  exact ⟨le_max_left _ _, max_le (by norm_num) (min_le_left _ _)⟩
+theorem FunctionalInequalities.Probability.Diffusion.lipschitzWith_ballCutoff (R : ℝ) : LipschitzWith 1 (ballCutoff (V := V) R) := by
+  have _hcompact := isCompact_closedBall (0 : V) (1 : ℝ)
+  have hn : LipschitzWith 1 (fun x : V => ‖x‖) :=
+    LipschitzWith.of_dist_le_mul fun x y => by
+      simpa only [dist_eq_norm, Real.norm_eq_abs, NNReal.coe_one, one_mul] using
+        abs_norm_sub_norm_le x y
+  change LipschitzWith 1 (fun p : V => max 0 (min 1 (R + 1 - ‖p‖)))
+  simpa only [zero_add, max_eq_right (show (0 : ℝ≥0) ≤ 1 by positivity)] using
+    (LipschitzWith.const (0 : ℝ)).max
+      ((LipschitzWith.const (1 : ℝ)).min ((LipschitzWith.const (R + 1)).sub hn))
+theorem FunctionalInequalities.Probability.Diffusion.hasCompactSupport_ballCutoff (R : ℝ) : HasCompactSupport (ballCutoff (V := V) R) := by
+  apply HasCompactSupport.intro (isCompact_closedBall (0 : V) (R + 1))
+  intro x hx
+  have hr : R + 1 ≤ ‖x‖ :=
+    le_of_lt (lt_of_not_ge (by
+      simpa only [Metric.mem_closedBall, dist_zero_right] using hx))
+  exact max_eq_left (le_trans (min_le_right _ _) (sub_nonpos.mpr hr))
+end Cutoff
+end
+end
+end
+end
+end
+
+section
+noncomputable section
+open MeasureTheory
+open scoped NNReal RealInnerProductSpace
+open FunctionalInequalities.Probability.Posterior FunctionalInequalities.Analysis
+  FunctionalInequalities.Probability.Diffusion
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.KLS
+end FunctionalInequalities.KLS
+open FunctionalInequalities FunctionalInequalities.KLS
+section
+namespace FunctionalInequalities.KLS.BKL
+end FunctionalInequalities.KLS.BKL
+open FunctionalInequalities FunctionalInequalities.KLS FunctionalInequalities.KLS.BKL
+section
+namespace FunctionalInequalities.KLS.BKL.Localization
+end FunctionalInequalities.KLS.BKL.Localization
+open FunctionalInequalities FunctionalInequalities.KLS FunctionalInequalities.KLS.BKL FunctionalInequalities.KLS.BKL.Localization
+variable {n : ℕ} (μ : ProbabilityMeasure (EuclideanSpace ℝ (Fin n)))
+  (hc : IsCompact (μ : Measure (EuclideanSpace ℝ (Fin n))).support)
+theorem FunctionalInequalities.KLS.BKL.Localization.isCutoff_ballCutoff (R : ℝ) : IsCutoff (ballCutoff (V := Param n) R) :=
+  { lipschitz := ⟨1, lipschitzWith_ballCutoff R⟩
+    compactSupport := hasCompactSupport_ballCutoff R
+    mem_Icc := fun p => ballCutoff_mem_Icc R p }
+end
+end
+end
+end
+end
+end
+
+section
+/-
+Copyright (c) 2026 Christian Garry. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Christian Garry
+-/
+-- Vendored from https://github.com/cgarryZA/LevyStochCalc at commit 984dbf0b790031eac05d56fe5a84b65e15e1e932 (upstream path LevyStochCalc/Probability/Augmentation.lean; Apache-2.0; provenance in formalization/vendor/vendor-lock.json of the KLS repository)
+open MeasureTheory
+open scoped symmDiff
+section
+namespace LevyStochCalc
+end LevyStochCalc
+open LevyStochCalc
+section
+namespace LevyStochCalc.Probability
+end LevyStochCalc.Probability
+open LevyStochCalc LevyStochCalc.Probability
+variable {Ω : Type*}
+variable {m m₀ : MeasurableSpace Ω} {μ : Measure Ω}
+theorem LevyStochCalc.Probability.le_aug (hm : m ≤ m₀) : m ≤ aug m m₀ μ := fun A hA =>
+  ⟨hm A hA, A, hA, by simp⟩
+/-- Null sets are augmented-measurable. -/
+theorem LevyStochCalc.Probability.measurableSet_aug_of_null {A : Set Ω} (hA : MeasurableSet[m₀] A)
+    (h : μ A = 0) : MeasurableSet[aug m m₀ μ] A :=
+  ⟨hA, ∅, @MeasurableSet.empty Ω m, by simpa using h⟩
+end
+end
+end
+
+section
+/-
+Copyright (c) 2026 Christian Garry. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Christian Garry
+-/
+-- Vendored from https://github.com/cgarryZA/LevyStochCalc at commit 984dbf0b790031eac05d56fe5a84b65e15e1e932 (upstream path LevyStochCalc/Brownian/AugmentedFiltration.lean; Apache-2.0; provenance in formalization/vendor/vendor-lock.json of the KLS repository)
+open MeasureTheory ProbabilityTheory
+section
+namespace LevyStochCalc
+end LevyStochCalc
+open LevyStochCalc
+section
+namespace LevyStochCalc.Probability
+end LevyStochCalc.Probability
+open LevyStochCalc LevyStochCalc.Probability
+/-- **Independence survives augmentation by the null sets.** -/
+theorem LevyStochCalc.Probability.indep_aug {Ω : Type*} {mΩ m 𝒩 : MeasurableSpace Ω} (μ : @Measure Ω mΩ)
+    (h : @Indep Ω m 𝒩 mΩ μ) : @Indep Ω (aug m mΩ μ) 𝒩 mΩ μ := by
+  rw [Indep_iff] at h ⊢
+  rintro A C ⟨-, B, hB, hAB⟩ hC
+  have hae : A =ᵐ[μ] B := MeasureTheory.measure_symmDiff_eq_zero_iff.mp hAB
+  have h1 : μ A = μ B := MeasureTheory.measure_congr hae
+  have h2 : μ (A ∩ C) = μ (B ∩ C) :=
+    MeasureTheory.measure_congr (hae.inter (Filter.EventuallyEq.refl _ _))
+  rw [h1, h2]
+  exact h B C hB hC
+end
+end
+section
+namespace LevyStochCalc
+end LevyStochCalc
+open LevyStochCalc
+section
+namespace LevyStochCalc.Brownian
+end LevyStochCalc.Brownian
+open LevyStochCalc LevyStochCalc.Brownian
+open LevyStochCalc.Probability
+universe u
+variable {Ω : Type u} [MeasurableSpace Ω] {P : Measure Ω} [IsProbabilityMeasure P]
+theorem LevyStochCalc.Brownian.le_augFiltration (ℱ : Filtration ℝ ‹MeasurableSpace Ω›) (μ : Measure Ω) (t : ℝ) :
+    ℱ t ≤ augFiltration ℱ μ t :=
+  le_trans (ℱ.mono (le_max_left t 0)) (le_aug (ℱ.le _))
+theorem LevyStochCalc.Brownian.measurableSet_augFiltration_of_null (ℱ : Filtration ℝ ‹MeasurableSpace Ω›)
+    (μ : Measure Ω) {s : Set Ω} (hs : MeasurableSet s) (h0 : μ s = 0) :
+    MeasurableSet[augFiltration ℱ μ 0] s :=
+  measurableSet_aug_of_null hs h0
+/-- **The `0`-clamped augmented filtration is a Brownian filtration.** -/
+theorem LevyStochCalc.Brownian.isBrownianFiltration_augFiltration {W : BrownianMotion P}
+    {ℱ : Filtration ℝ ‹MeasurableSpace Ω›} (h : IsBrownianFiltration W ℱ) :
+    IsBrownianFiltration W (augFiltration ℱ P) where
+  measurable t := fun A hA => le_augFiltration ℱ P t _ (h.measurable t hA)
+  indep_future s hs := by
+    have hfeq : (augFiltration ℱ P) s = aug (ℱ s) ‹MeasurableSpace Ω› P := by
+      change aug (ℱ (max s 0)) ‹MeasurableSpace Ω› P = aug (ℱ s) ‹MeasurableSpace Ω› P
+      rw [max_eq_left hs]
+    rw [hfeq]
+    exact indep_aug P (h.indep_future hs)
+end
+end
+end
+
+section
+open MeasureTheory ProbabilityTheory Filter Topology
+open scoped NNReal ENNReal
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.Probability
+end FunctionalInequalities.Probability
+open FunctionalInequalities FunctionalInequalities.Probability
+section
+namespace FunctionalInequalities.Probability.Diffusion
+end FunctionalInequalities.Probability.Diffusion
+open FunctionalInequalities FunctionalInequalities.Probability FunctionalInequalities.Probability.Diffusion
+open LevyStochCalc LevyStochCalc.Brownian LevyStochCalc.Brownian.Multidim
+  LevyStochCalc.Brownian.Ito
+section Usual
+variable {Ω : Type*} [MeasurableSpace Ω] {P : Measure Ω} [IsProbabilityMeasure P] {d : ℕ}
+theorem FunctionalInequalities.Probability.Diffusion.usualFiltration_brownian (W : MultidimBrownianMotion P d) (k : Fin d) :
+    IsBrownianFiltration (W.W k) (usualFiltration W) :=
+  isBrownianFiltration_augFiltration (W.isBrownianFiltration_natural_408915f k).rightCont_408915f
+theorem FunctionalInequalities.Probability.Diffusion.usualFiltration_le_of_nonpos (W : MultidimBrownianMotion P d) (t : ℝ) (ht : t ≤ 0) :
+    usualFiltration W 0 ≤ usualFiltration W t :=
+  le_of_eq (augFiltration_of_nonpos W.naturalFiltration.rightCont P ht).symm
+theorem FunctionalInequalities.Probability.Diffusion.usualFiltration_null (W : MultidimBrownianMotion P d) (s : Set Ω)
+    (hs : MeasurableSet s) (h0 : P s = 0) : MeasurableSet[usualFiltration W 0] s :=
+  measurableSet_augFiltration_of_null W.naturalFiltration.rightCont P hs h0
+end Usual
+end
+end
+end
+end
+
+section
+open MeasureTheory ProbabilityTheory Filter Topology
+open scoped NNReal ENNReal
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.Probability
+end FunctionalInequalities.Probability
+open FunctionalInequalities FunctionalInequalities.Probability
+section
+namespace FunctionalInequalities.Probability.Diffusion
+end FunctionalInequalities.Probability.Diffusion
+open FunctionalInequalities FunctionalInequalities.Probability FunctionalInequalities.Probability.Diffusion
+open LevyStochCalc LevyStochCalc.Brownian LevyStochCalc.Brownian.Multidim
+  LevyStochCalc.Brownian.Ito
+universe u
+section Diffusion
+variable {Ω : Type*} [MeasurableSpace Ω] {P : Measure Ω}
+  [IsProbabilityMeasure P] {N d : ℕ}
+theorem FunctionalInequalities.Probability.Diffusion.exists_brownianSetup (d : ℕ) :
+    ∃ (Ω : Type) (_ : MeasurableSpace Ω) (P : Measure Ω) (_ : IsProbabilityMeasure P)
+      (_ : MultidimBrownianMotion P d), True := by
+  obtain ⟨Ω, _, P, _, ⟨W⟩⟩ := MultidimBrownianMotion.exists_408915f.{0} d
+  exact ⟨Ω, inferInstance, P, inferInstance, W, trivial⟩
+end Diffusion
+end
+end
+end
+end
+
+section
+noncomputable section
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.KLS
+end FunctionalInequalities.KLS
+open FunctionalInequalities FunctionalInequalities.KLS
+section
+namespace FunctionalInequalities.KLS.BKL
+end FunctionalInequalities.KLS.BKL
+open FunctionalInequalities FunctionalInequalities.KLS FunctionalInequalities.KLS.BKL
+theorem FunctionalInequalities.KLS.BKL.envelope_nonneg {K : ℝ} (hK : 0 ≤ K) (m : ℕ) : 0 ≤ envelope K m := by
+  unfold envelope
+  positivity
+end
+end
+end
+end
+end
+
+noncomputable section
+section S7CClaimToBound
+open MeasureTheory ProbabilityTheory Filter Topology
+open scoped NNReal ENNReal RealInnerProductSpace
+open FunctionalInequalities.Probability.Posterior FunctionalInequalities.Analysis
+  FunctionalInequalities.Analysis.BakryEmery FunctionalInequalities.Probability.Diffusion
+section
+namespace FunctionalInequalities
+end FunctionalInequalities
+open FunctionalInequalities
+section
+namespace FunctionalInequalities.KLS
+end FunctionalInequalities.KLS
+open FunctionalInequalities FunctionalInequalities.KLS
+section
+namespace FunctionalInequalities.KLS.BKL
+end FunctionalInequalities.KLS.BKL
+open FunctionalInequalities FunctionalInequalities.KLS FunctionalInequalities.KLS.BKL
+section
+namespace FunctionalInequalities.KLS.BKL.Localization
+end FunctionalInequalities.KLS.BKL.Localization
+open FunctionalInequalities FunctionalInequalities.KLS FunctionalInequalities.KLS.BKL FunctionalInequalities.KLS.BKL.Localization
+open LevyStochCalc LevyStochCalc.Brownian LevyStochCalc.Brownian.Multidim LevyStochCalc.Brownian.Ito
+/-- For an isotropic law the energy at the initial parameter is the standard-basis sum
+`Σ_J κ_{d+1}(u, e_J)²` (`σ = Cov⁻¹ᐟ² = Id`). -/
+theorem FunctionalInequalities.KLS.BKL.Localization.cumulantEnergy_eq_sum_sq_of_isotropic {n : ℕ} (μ : ProbabilityMeasure (EuclideanSpace ℝ (Fin n)))
+    (hiso : KLS.Isotropic μ) (d : ℕ) (u : EuclideanSpace ℝ (Fin n)) :
+    cumulantEnergy (μ : Measure (EuclideanSpace ℝ (Fin n))) d u =
+      ∑ J : Fin d → Fin n, cumulant (μ : Measure (EuclideanSpace ℝ (Fin n))) (d + 1)
+        (Fin.cons u fun k => EuclideanSpace.basisFun (Fin n) ℝ (J k)) ^ 2 := by
+  have hsqrt :
+      inverseSqrt (Covariance.operator (μ : Measure (EuclideanSpace ℝ (Fin n)))) =
+        ContinuousLinearMap.id ℝ (EuclideanSpace ℝ (Fin n)) := by
+    rw [hiso.covariance_identity]
+    change inverseSqrt (1 : EuclideanSpace ℝ (Fin n) →L[ℝ] EuclideanSpace ℝ (Fin n)) = 1
+    apply inverseSqrt_unique _ _ isUnit_one
+    · exact ContinuousLinearMap.isPositive_one
+    · simp
+  simp only [cumulantEnergy, hsqrt, ContinuousLinearMap.id_apply]
+namespace FunctionalInequalities.KLS.BKL.Localization
+end FunctionalInequalities.KLS.BKL.Localization
+open FunctionalInequalities.KLS.BKL.Localization in
+/-- **From the cutoff claim to the cumulant bound** (BKL p. 27, `E_m(0) = ⟨R^μ_m u, u⟩`): `CutoffEnergyClaim K d`
+gives `CumulantBoundCompact d (envelope K (d + 1))`. -/
+theorem solution {K : ℝ} (hK : 0 ≤ K) {d : ℕ} (h : FunctionalInequalities.KLS.BKL.Localization.CutoffEnergyClaim K d) :
+    FunctionalInequalities.KLS.LogConcave.Suspension.CumulantBoundCompact d (FunctionalInequalities.KLS.BKL.envelope K (d + 1)) := by
+  classical
+  unfold FunctionalInequalities.KLS.LogConcave.Suspension.CumulantBoundCompact
+  intro m ν hiso hLC hc u
+  by_cases hu0 : u = 0
+  · subst u
+    have hzero (J : Fin d → Fin m) :
+        FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+            (Fin.cons (0 : EuclideanSpace ℝ (Fin m))
+              (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) = 0 := by
+      exact
+        (FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)).map_coord_zero 0
+          (by simp)
+    calc
+      ∑ J : Fin d → Fin m,
+          FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+            (Fin.cons (0 : EuclideanSpace ℝ (Fin m))
+              (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) ^ 2 = 0 := by
+        apply Finset.sum_eq_zero
+        intro J _
+        rw [hzero J]
+        norm_num
+      _ ≤ FunctionalInequalities.KLS.BKL.envelope K (d + 1) * ‖(0 : EuclideanSpace ℝ (Fin m))‖ ^ 2 :=
+        mul_nonneg (FunctionalInequalities.KLS.BKL.envelope_nonneg hK (d + 1)) (sq_nonneg _)
+  · let v : EuclideanSpace ℝ (Fin m) := ‖u‖⁻¹ • u
+    have hnorm : ‖u‖ ≠ 0 := norm_ne_zero_iff.mpr hu0
+    have hv : ‖v‖ = 1 := by
+      calc
+        ‖v‖ = ‖(‖u‖ : ℝ)⁻¹‖ * ‖u‖ := norm_smul _ _
+        _ = ‖u‖⁻¹ * ‖u‖ := by
+          rw [Real.norm_eq_abs, abs_inv, abs_of_nonneg (norm_nonneg u)]
+        _ = 1 := inv_mul_cancel₀ hnorm
+    have huv : ‖u‖ • v = u := by
+      dsimp [v]
+      rw [smul_smul, mul_inv_cancel₀ hnorm, one_smul]
+    have hunitApprox (ε : ℝ) (hε : 0 < ε) :
+        ∑ J : Fin d → Fin m,
+            FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+              (Fin.cons v
+                (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) ^ 2
+          ≤ FunctionalInequalities.KLS.BKL.envelope K (d + 1) + ε := by
+      obtain ⟨Ω, _, P, _, W, _⟩ :=
+        FunctionalInequalities.Probability.Diffusion.exists_brownianSetup m
+      let ℱ : Filtration ℝ ‹MeasurableSpace Ω› := FunctionalInequalities.Probability.Diffusion.usualFiltration W
+      have hright : ℱ.IsRightContinuous := by
+        dsimp [ℱ]
+        infer_instance
+      have hW : ∀ k, LevyStochCalc.Brownian.IsBrownianFiltration (W.W k) ℱ := by
+        intro k
+        change LevyStochCalc.Brownian.IsBrownianFiltration (W.W k) (FunctionalInequalities.Probability.Diffusion.usualFiltration W)
+        exact FunctionalInequalities.Probability.Diffusion.usualFiltration_brownian W k
+      have hℱ0 : ∀ t : ℝ, t ≤ 0 → ℱ 0 ≤ ℱ t := by
+        intro t ht
+        change FunctionalInequalities.Probability.Diffusion.usualFiltration W 0 ≤ FunctionalInequalities.Probability.Diffusion.usualFiltration W t
+        exact FunctionalInequalities.Probability.Diffusion.usualFiltration_le_of_nonpos W t ht
+      have hnull :
+          ∀ s : Set Ω, MeasurableSet s → P s = 0 → MeasurableSet[ℱ 0] s := by
+        intro s hs hPs
+        change MeasurableSet[FunctionalInequalities.Probability.Diffusion.usualFiltration W 0] s
+        exact FunctionalInequalities.Probability.Diffusion.usualFiltration_null W s hs hPs
+      obtain ⟨R₀, hR₀⟩ := h m ν hc hiso hLC v hv ε hε 0 (by norm_num)
+      obtain ⟨p, hp⟩ :=
+        @FunctionalInequalities.KLS.BKL.Localization.exists_isEldanCutoff_408915f m ν hc hiso Ω _ P _ W ℱ hright hW hℱ0 hnull
+          (FunctionalInequalities.Probability.Diffusion.ballCutoff R₀) (FunctionalInequalities.KLS.BKL.Localization.isCutoff_ballCutoff R₀)
+      have hineq := hR₀ R₀ le_rfl W ℱ hW hℱ0 hnull hp
+      have hzeroIntegral :
+          FunctionalInequalities.KLS.BKL.Localization.weightedEnergyIntegral ν hc P (FunctionalInequalities.Probability.Diffusion.ballCutoff R₀) p (d + 1) v 0 = 0 := by
+        simp [FunctionalInequalities.KLS.BKL.Localization.weightedEnergyIntegral]
+      rw [hzeroIntegral, mul_zero, add_zero] at hineq
+      calc
+        ∑ J : Fin d → Fin m,
+            FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+              (Fin.cons v
+                (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) ^ 2
+            =
+            FunctionalInequalities.KLS.BKL.cumulantEnergy (ν : Measure (EuclideanSpace ℝ (Fin m))) d v :=
+              (FunctionalInequalities.KLS.BKL.Localization.cumulantEnergy_eq_sum_sq_of_isotropic ν hiso d v).symm
+        _ ≤ FunctionalInequalities.KLS.BKL.envelope K (d + 1) + ε := hineq
+    have hunit :
+        ∑ J : Fin d → Fin m,
+            FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+              (Fin.cons v
+                (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) ^ 2
+          ≤ FunctionalInequalities.KLS.BKL.envelope K (d + 1) := by
+      apply le_of_forall_pos_lt_add
+      intro ε hε
+      have hhalf := hunitApprox (ε / 2) (by linarith)
+      linarith
+    have hscale (J : Fin d → Fin m) :
+        FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+            (Fin.cons u
+              (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) =
+          ‖u‖ *
+            FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+              (Fin.cons v
+                (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) := by
+      calc
+        FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+            (Fin.cons u
+              (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) =
+            FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+              (Function.update
+                (Fin.cons v
+                  (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) 0
+                (‖u‖ • v)) := by
+                  rw [Fin.update_cons_zero, huv]
+        _ =
+            ‖u‖ •
+              FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+                (Function.update
+                  (Fin.cons v
+                    (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) 0 v) :=
+              (FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)).map_update_smul
+                (Fin.cons v
+                  (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) 0 ‖u‖ v
+        _ =
+            ‖u‖ *
+              FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+                (Fin.cons v
+                  (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) := by
+              rw [Fin.update_cons_zero, smul_eq_mul]
+    calc
+      ∑ J : Fin d → Fin m,
+          FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+            (Fin.cons u
+              (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) ^ 2 =
+          ∑ J : Fin d → Fin m,
+            ‖u‖ ^ 2 *
+              FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+                (Fin.cons v
+                  (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) ^ 2 := by
+            apply Finset.sum_congr rfl
+            intro J _
+            rw [hscale, mul_pow]
+      _ =
+          ‖u‖ ^ 2 *
+            ∑ J : Fin d → Fin m,
+              FunctionalInequalities.Analysis.BakryEmery.cumulant (ν : Measure (EuclideanSpace ℝ (Fin m))) (d + 1)
+                (Fin.cons v
+                  (fun k => EuclideanSpace.basisFun (Fin m) ℝ (J k))) ^ 2 := by
+            rw [Finset.mul_sum]
+      _ ≤ ‖u‖ ^ 2 * FunctionalInequalities.KLS.BKL.envelope K (d + 1) :=
+        mul_le_mul_of_nonneg_left hunit (sq_nonneg ‖u‖)
+      _ = FunctionalInequalities.KLS.BKL.envelope K (d + 1) * ‖u‖ ^ 2 := mul_comm _ _

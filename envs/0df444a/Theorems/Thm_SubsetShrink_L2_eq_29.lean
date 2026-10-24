@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_L2_eq_29
 -- name    : SubsetShrink.L2.eq_29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:19.788666+00:00
 -- url     : https://prove2.me/theorems/cf6cce17-40fd-4898-b99f-76f8c5a99d51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_rowScalar_coefficient_composition_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.rowScalar_coefficient_composition_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:32:53.140159+00:00
 -- url     : https://prove2.me/theorems/0eceb362-528d-4305-b206-486eea246620

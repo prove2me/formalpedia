@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Renew46_P24_autonomyEndpointInequality
 -- name    : QAlgorithms.Papers.Independent.Renew46.P24.autonomyEndpointInequality
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T20:49:15.712816+00:00
 -- url     : https://prove2.me/theorems/9493a7ab-ef2a-4435-8fd5-12b7a5eec321

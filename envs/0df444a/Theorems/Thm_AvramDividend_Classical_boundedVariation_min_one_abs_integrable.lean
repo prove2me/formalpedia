@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_boundedVariation_min_one_abs_integrable
 -- name    : AvramDividend.Classical.boundedVariation_min_one_abs_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-07T06:36:00.507249+00:00
 -- url     : https://prove2.me/theorems/1f8249f1-4c55-4a8c-91df-cd677dacd4d9

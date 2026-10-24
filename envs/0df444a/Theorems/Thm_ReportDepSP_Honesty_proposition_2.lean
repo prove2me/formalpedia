@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReportDepSP_Honesty_proposition_2
 -- name    : ReportDepSP.Honesty.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-20T12:47:59.749108+00:00
 -- url     : https://prove2.me/theorems/e4ab7b8a-d27e-4e50-958f-be4744ddfb8a

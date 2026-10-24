@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldfarbIdnani_DualQP_theorem_3_dual_algorithm_terminates
 -- name    : GoldfarbIdnani.DualQP.theorem_3_dual_algorithm_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:27:34.26597+00:00
 -- url     : https://prove2.me/theorems/1bca6ac4-ebd9-4f6f-bede-d1ce6741f64b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_Switching_theorem93
 -- name    : NegativeDP.Switching.theorem93
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:22.059746+00:00
 -- url     : https://prove2.me/theorems/533d6ae1-7a2c-43dd-9809-4e4441e7cf42

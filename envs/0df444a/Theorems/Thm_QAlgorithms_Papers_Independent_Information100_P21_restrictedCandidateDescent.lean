@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P21_restrictedCandidateDescent
 -- name    : QAlgorithms.Papers.Independent.Information100.P21.restrictedCandidateDescent
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-19T10:06:39.154353+00:00
 -- url     : https://prove2.me/theorems/5f033465-2e2d-4ab5-92e6-75c4cc278abe

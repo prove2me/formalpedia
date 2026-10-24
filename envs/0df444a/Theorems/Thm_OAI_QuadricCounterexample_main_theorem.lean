@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_QuadricCounterexample_main_theorem
 -- name    : OAI.QuadricCounterexample.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:12.971073+00:00
 -- url     : https://prove2.me/theorems/cf6c0ef4-15cc-4971-8c3b-563be0eca7bf

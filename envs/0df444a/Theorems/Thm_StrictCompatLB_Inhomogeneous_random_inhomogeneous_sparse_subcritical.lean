@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_Inhomogeneous_random_inhomogeneous_sparse_subcritical
 -- name    : StrictCompatLB.Inhomogeneous.random_inhomogeneous_sparse_subcritical
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T11:04:10.136379+00:00
 -- url     : https://prove2.me/theorems/8e4e68f6-e21f-4f1a-9ea9-8b885d57c7f6

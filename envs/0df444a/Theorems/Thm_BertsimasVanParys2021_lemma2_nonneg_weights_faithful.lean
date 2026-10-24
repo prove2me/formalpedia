@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsimasVanParys2021_lemma2_nonneg_weights_faithful
 -- name    : BertsimasVanParys2021.lemma2_nonneg_weights_faithful
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:33:00.130631+00:00
 -- url     : https://prove2.me/theorems/f36e8221-7adb-4e2d-b552-cc3ccf407f2e

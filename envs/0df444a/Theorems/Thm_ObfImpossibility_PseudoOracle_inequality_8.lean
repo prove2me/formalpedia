@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_PseudoOracle_inequality_8
 -- name    : ObfImpossibility.PseudoOracle.inequality_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:25.655885+00:00
 -- url     : https://prove2.me/theorems/2c06596d-b2cd-4967-9cbe-889d0709e365

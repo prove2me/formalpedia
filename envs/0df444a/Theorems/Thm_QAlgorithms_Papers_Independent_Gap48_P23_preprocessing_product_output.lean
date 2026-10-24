@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P23_preprocessing_product_output
 -- name    : QAlgorithms.Papers.Independent.Gap48.P23.preprocessing_product_output
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T22:34:16.958979+00:00
 -- url     : https://prove2.me/theorems/24b8bead-c4a2-492e-8f0a-2cca4d1541ef

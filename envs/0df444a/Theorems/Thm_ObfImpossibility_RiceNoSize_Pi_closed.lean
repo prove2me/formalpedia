@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObfImpossibility_RiceNoSize_Pi_closed
 -- name    : ObfImpossibility.RiceNoSize.Pi_closed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T10:28:57.88564+00:00
 -- url     : https://prove2.me/theorems/43d79541-93c1-4af9-b0cb-b1ae6c7ebfcf

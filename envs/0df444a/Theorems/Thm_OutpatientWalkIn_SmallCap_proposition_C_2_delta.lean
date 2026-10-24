@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OutpatientWalkIn_SmallCap_proposition_C_2_delta
 -- name    : OutpatientWalkIn.SmallCap.proposition_C_2_delta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:47:39.355597+00:00
 -- url     : https://prove2.me/theorems/d3cff2cc-7eea-4a8c-bdd8-3b0a917f2769

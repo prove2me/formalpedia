@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformFinance_PlatformProfit_proposition_7
 -- name    : PlatformFinance.PlatformProfit.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:33:47.539027+00:00
 -- url     : https://prove2.me/theorems/cc6a9f47-8d60-4374-9f79-9603a3df8632

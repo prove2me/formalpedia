@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VolunteerEngage_Bellman_corollary_2
 -- name    : VolunteerEngage.Bellman.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:40:37.444418+00:00
 -- url     : https://prove2.me/theorems/3f176217-86e7-42da-8817-753061af86da

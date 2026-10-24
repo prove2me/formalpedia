@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_continuous_of_gaussian
 -- name    : AvramDividend.Classical.scaleDeriv_continuous_of_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T22:33:13.73228+00:00
 -- url     : https://prove2.me/theorems/0e3c20a9-fc04-4a12-94b6-0b9ddcaa49b6

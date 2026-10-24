@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bellman1957_ch4_thm1_type_one_pos_ratio_corrected
 -- name    : Bellman1957.ch4_thm1_type_one_pos_ratio_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-23T01:31:45.863479+00:00
 -- url     : https://prove2.me/theorems/302f533d-370c-483f-96e8-ce0f8de0e204

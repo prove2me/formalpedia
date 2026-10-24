@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YeIPA_QPApprox_qp_relaxation_sandwich
 -- name    : YeIPA.QPApprox.qp_relaxation_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:58:39.751399+00:00
 -- url     : https://prove2.me/theorems/452fbc1f-7989-4696-a073-58e53ea8b3c2

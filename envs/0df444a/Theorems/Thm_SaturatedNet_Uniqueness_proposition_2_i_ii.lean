@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaturatedNet_Uniqueness_proposition_2_i_ii
 -- name    : SaturatedNet.Uniqueness.proposition_2_i_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:37:30.908919+00:00
 -- url     : https://prove2.me/theorems/11866afd-2309-4426-9e52-373b3698f5da

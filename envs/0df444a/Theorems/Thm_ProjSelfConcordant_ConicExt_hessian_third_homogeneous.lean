@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSelfConcordant_ConicExt_hessian_third_homogeneous
 -- name    : ProjSelfConcordant.ConicExt.hessian_third_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T23:07:58.176723+00:00
 -- url     : https://prove2.me/theorems/f7d273ff-ae38-460b-b273-9d521debb975

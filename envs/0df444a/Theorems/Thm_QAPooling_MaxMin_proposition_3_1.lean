@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAPooling_MaxMin_proposition_3_1
 -- name    : QAPooling.MaxMin.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T12:38:32.059309+00:00
 -- url     : https://prove2.me/theorems/b995b6e4-5dc6-4c64-bb12-b38634d2687d

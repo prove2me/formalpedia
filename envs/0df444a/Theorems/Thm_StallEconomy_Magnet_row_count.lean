@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StallEconomy_Magnet_row_count
 -- name    : StallEconomy.Magnet.row_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T22:57:04.590214+00:00
 -- url     : https://prove2.me/theorems/e8053bfc-7ea0-4376-88ed-176bafff0754

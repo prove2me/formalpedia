@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SKAlgorithm_Qudit_lemma_1
 -- name    : SKAlgorithm.Qudit.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-22T02:26:52.879722+00:00
 -- url     : https://prove2.me/theorems/57187885-367f-4a4d-b088-516f65e7082c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinLinOpt_Ball_optimalValue_finite_iff_growth
 -- name    : WassersteinLinOpt.Ball.optimalValue_finite_iff_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T18:09:40.708552+00:00
 -- url     : https://prove2.me/theorems/4dafc612-5a47-4776-9800-87be013e8379

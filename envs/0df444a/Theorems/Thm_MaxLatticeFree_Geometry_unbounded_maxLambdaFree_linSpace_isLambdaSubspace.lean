@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_unbounded_maxLambdaFree_linSpace_isLambdaSubspace
 -- name    : MaxLatticeFree.Geometry.unbounded_maxLambdaFree_linSpace_isLambdaSubspace
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:20:01.041692+00:00
 -- url     : https://prove2.me/theorems/a8a3999f-4381-43b2-9755-15c17910adca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCompatLB_MeanField_lemma_4_9
 -- name    : StrictCompatLB.MeanField.lemma_4_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:51:41.136265+00:00
 -- url     : https://prove2.me/theorems/1474cf53-17be-4ee6-8ae8-e1187bbe7edd

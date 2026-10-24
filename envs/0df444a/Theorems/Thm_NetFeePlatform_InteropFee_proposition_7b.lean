@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_InteropFee_proposition_7b
 -- name    : NetFeePlatform.InteropFee.proposition_7b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:12:18.374725+00:00
 -- url     : https://prove2.me/theorems/f65a82cd-b569-473a-82a0-7745fbc533f3

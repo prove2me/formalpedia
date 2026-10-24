@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Gap48_P07_weak_abel_comparison
 -- name    : QAlgorithms.Papers.Independent.Gap48.P07.weak_abel_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-21T21:15:39.115204+00:00
 -- url     : https://prove2.me/theorems/e69350c1-f6a3-47c1-aa94-54644cf9dbae

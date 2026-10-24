@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FlowsNetworks_DynamicFlow_temporally_repeated_maximal
 -- name    : FlowsNetworks.DynamicFlow.temporally_repeated_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-20T15:38:53.562931+00:00
 -- url     : https://prove2.me/theorems/fe060af0-77c6-43ba-9d85-db1d6c3e6cda

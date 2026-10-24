@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Claimed50_P24_publicTotalDirection
 -- name    : QAlgorithms.Papers.Independent.Claimed50.P24.publicTotalDirection
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-20T11:37:06.011989+00:00
 -- url     : https://prove2.me/theorems/913fc52b-a589-4464-8de9-0846a07b4ee2
